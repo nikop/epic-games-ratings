@@ -1171,9 +1171,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153661,
+  "EOS_Progressed": 153674,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1548,
+  "EOS_NewPlayers": 1549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12481,6 +12481,11 @@
       "Time": "2023-10-21T16:08:15.2459284+00:00",
       "NumProgressed": 153661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T17:13:16.0762227+00:00",
+      "NumProgressed": 153674,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12532,7 +12537,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -12596,7 +12601,7 @@
       "Name": "Scion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12812,7 +12817,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "QUEST_YON",
@@ -12859,21 +12864,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153244,
+      "Progressed": 153257,
       "Completed": 1167
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153661,
+      "Progressed": 153674,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-21T05:58:07.464357+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:08:15.2459279+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:59:24.5099848+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:08:15.2460312+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:13:16.0762221+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:03:22.5786155+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:16.0763518+00:00"
 }

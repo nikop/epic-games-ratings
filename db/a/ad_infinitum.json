@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_HOPE",
@@ -392,9 +392,9 @@
       "ID": "ACH_JIGSAW",
       "SetID": "88d7anj",
       "Name": "Jigsaw",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_LOST",
@@ -472,9 +472,9 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_RAGE",
@@ -488,9 +488,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:09:18.8434294+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:59:14.1866903+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:01:32.5704847+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:09:18.8434523+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:13:56.1811215+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:49.4232421+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:05:52.5459187+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:56.1811617+00:00"
 }

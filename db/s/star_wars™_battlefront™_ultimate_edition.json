@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -2114,6 +2114,11 @@
       "Time": "2023-10-21T16:10:11.0466741+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T17:14:22.1202832+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2190,7 +2195,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_18",
@@ -2230,7 +2235,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_22",
@@ -2342,7 +2347,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_35",
@@ -2350,7 +2355,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "achievement_36",
@@ -2358,7 +2363,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_37",
@@ -2366,7 +2371,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_38",
@@ -2374,7 +2379,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_39",
@@ -2398,7 +2403,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "achievement_41",
@@ -2406,7 +2411,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_42",
@@ -2629,13 +2634,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     }
   ],
@@ -2643,8 +2648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:10:11.0466738+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:47.6299174+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:10:11.0467451+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:14:22.1202824+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:05:02.9977291+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:14:22.1204286+00:00"
 }

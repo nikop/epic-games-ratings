@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~691 |
-| Off to a good start | 68.00% | ~522 |
-| Do... or do not. There is no try | 52.00% | ~399 |
+| New Recruit | 90.00% | ~692 |
+| Off to a good start | 68.00% | ~523 |
+| Do... or do not. There is no try | 52.00% | ~400 |
 | A good blaster at your side | 34.00% | ~261 |
 | Scrap collector | 20.00% | ~154 |
 | I suggest a new strategy | 20.00% | ~154 |
@@ -16,15 +16,15 @@
 | The power of the Force | 16.00% | ~123 |
 | Together we can rule the galaxy | 16.00% | ~123 |
 | Collector | 15.00% | ~115 |
-| Tell Jabba that I've got his money | 11.00% | ~84 |
-| Best star-pilot in the galaxy | 11.00% | ~84 |
-| Survivor | 11.00% | ~84 |
+| Tell Jabba that I've got his money | 11.00% | ~85 |
+| Best star-pilot in the galaxy | 11.00% | ~85 |
+| Survivor | 11.00% | ~85 |
 | Never tell me the odds! | 10.00% | ~77 |
 | A cunning warrior | 10.00% | ~77 |
 | What's the cargo? | 9.00% | ~69 |
-| "Gonk? Gonk!" | 8.00% | ~61 |
-| Impressive. Most impressive. | 8.00% | ~61 |
-| Judge me by my size, do you? | 8.00% | ~61 |
+| "Gonk? Gonk!" | 8.00% | ~62 |
+| Impressive. Most impressive. | 8.00% | ~62 |
+| Judge me by my size, do you? | 8.00% | ~62 |
 | Distinguished | 7.00% | ~54 |
 | A tremor in the Force | 7.00% | ~54 |
 | Support the troops | 7.00% | ~54 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 250)  
+Progressed: 769 (Ranked 250)  
 Completed: 1 (0.13%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.13%) (Ranked 240)
 | 2023-10-18 | 730 | 1 |
 | 2023-10-19 | 739 | 1 |
 | 2023-10-20 | 758 | 1 |
-| 2023-10-21 | 768 | 1 |
+| 2023-10-21 | 769 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

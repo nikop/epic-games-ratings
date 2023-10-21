@@ -2,12 +2,12 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 786,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
@@ -2939,10 +2939,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2252,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2023-10-21T17:07:32.5416097+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2254,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2252,
+  "NumberOfAwards": 2254,
   "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2962,7 +2968,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2998,7 +3004,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3024,8 +3030,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-10-20T06:00:26.7049621+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:57:35.5540824+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:03:08.7054412+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:10:03.2785544+00:00"
+  "LastChanged": "2023-10-21T17:07:32.5416094+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:59:31.5688846+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:07:32.5416104+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:14:13.0639157+00:00"
 }

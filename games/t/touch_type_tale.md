@@ -16,7 +16,7 @@
 | All Ovens Blazing | 13.00% | ~484 |
 | Boulder Clash | 13.00% | ~484 |
 | Held Back by the Roots | 12.00% | ~447 |
-| Well Supplied | 10.00% | ~372 |
+| Well Supplied | 11.00% | ~409 |
 | Sniped | 7.00% | ~260 |
 | Leave Them no Cake | 7.00% | ~260 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~260 |

@@ -2,12 +2,12 @@
   "ID": "ac98aa34584648f2b71152e509191c1c",
   "Name": "Dakar Desert Rally",
   "ProductSlug": "dakar-desert-rally",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 786,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-11-15T14:00:00+00:00",
@@ -389,6 +389,6 @@
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
   "LastChanged": "2023-10-13T09:59:39.6182035+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:15.3369665+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:58:28.3708757+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:10:04.1358449+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:02:12.7877824+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:14:14.162882+00:00"
 }

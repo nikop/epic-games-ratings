@@ -9,12 +9,12 @@
 | Endless Tricks | 32.00% | ~20 |
 | Purification Pioneer | 32.00% | ~20 |
 | Dicesmithing Time! | 31.00% | ~19 |
+| Apian Champion | 31.00% | ~19 |
 | Eridanian Champion | 31.00% | ~19 |
 | Lacertian Champion | 31.00% | ~19 |
 | Mechanical Buddy | 29.00% | ~18 |
 | Sanctuary Guardian | 29.00% | ~18 |
 | Wild's Keeper | 29.00% | ~18 |
-| Apian Champion | 29.00% | ~18 |
 | Mind Illuminator | 27.00% | ~17 |
 | Anomaly Destroyer | 24.00% | ~15 |
 | Stellar Dismantler | 24.00% | ~15 |

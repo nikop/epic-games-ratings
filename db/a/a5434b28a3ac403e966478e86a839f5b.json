@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1329,9 +1329,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_mg2",
@@ -1376,8 +1376,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:09:08.7238137+00:00",
+  "LastChanged_Achievements": "2023-10-21T17:13:44.4565077+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:57:59.5532314+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:09:08.7238292+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:01:26.2683457+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:44.4565322+00:00"
 }

@@ -427,7 +427,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2705,
+  "EOS_Progressed": 2706,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -3037,6 +3037,11 @@
       "Time": "2023-10-21T16:09:28.4208123+00:00",
       "NumProgressed": 2705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T17:14:07.6163465+00:00",
+      "NumProgressed": 2706,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3073,7 +3078,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_13",
@@ -3175,9 +3180,9 @@
       "ID": "achievement_5",
       "SetID": "aiin7da",
       "Name": "Change of Scenery",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 541
     },
     {
       "ID": "achievement_6",
@@ -3201,7 +3206,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "achievement_9",
@@ -3216,7 +3221,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2705,
+      "Progressed": 2706,
       "Completed": 0
     }
   ],
@@ -3224,8 +3229,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-21T01:43:32.4786296+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:09:28.4208116+00:00",
+  "LastChanged_Achievements": "2023-10-21T17:14:07.6163457+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:05:10.9516483+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:09:28.4208427+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:09:34.2319207+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:14:07.6163999+00:00"
 }

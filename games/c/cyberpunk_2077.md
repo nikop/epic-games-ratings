@@ -8,9 +8,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.30% | ~2,679 |
 | Full Body Conversion | 0.20% | ~1,786 |
+| Gunslinger | 0.20% | ~1,786 |
 | Stanislavski's Method | 0.20% | ~1,786 |
 | Rough Landing | 0.20% | ~1,786 |
+| The Hermit | 0.20% | ~1,786 |
 | The High Priestess | 0.20% | ~1,786 |
+| The Wheel of Fortune | 0.20% | ~1,786 |
 | True Soldier | 0.20% | ~1,786 |
 | All the President's Men | 0.20% | ~43 |
 | Arachnophobia | 0.20% | ~43 |
@@ -23,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.10% | ~893 |
 | Frequent Flyer | 0.10% | ~893 |
 | Gun Fu | 0.10% | ~893 |
-| Gunslinger | 0.10% | ~893 |
 | Master Crafter | 0.10% | ~893 |
 | I Am The Law | 0.10% | ~893 |
 | Mean Streets | 0.10% | ~893 |
@@ -38,11 +40,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.10% | ~893 |
 | The Devil | 0.10% | ~893 |
 | The Fool | 0.10% | ~893 |
-| The Hermit | 0.10% | ~893 |
 | The Lovers | 0.10% | ~893 |
 | The Star | 0.10% | ~893 |
 | The Sun | 0.10% | ~893 |
-| The Wheel of Fortune | 0.10% | ~893 |
 | The World | 0.10% | ~893 |
 | Greetings from Pacifica! | 0.10% | ~893 |
 | The Jungle | 0.10% | ~893 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,068 (Ranked 15)  
+Progressed: 893,090 (Ranked 15)  
 Completed: 2,694 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,694 (0.30%) (Ranked 208)
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
-| 2023-10-21 | 893,068 | 2,694 |
+| 2023-10-21 | 893,090 | 2,694 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 317,262 (Ranked 11)  

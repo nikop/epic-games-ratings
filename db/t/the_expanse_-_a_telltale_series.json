@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14186,
+  "EOS_Progressed": 14188,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9226,6 +9226,11 @@
       "Time": "2023-10-21T16:06:53.0275769+00:00",
       "NumProgressed": 14186,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-21T17:11:47.4893584+00:00",
+      "NumProgressed": 14188,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9262,7 +9267,7 @@
       "Name": "Data Archivist",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "13",
@@ -9302,7 +9307,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "18",
@@ -9318,7 +9323,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "2",
@@ -9358,7 +9363,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "24",
@@ -9374,7 +9379,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "26",
@@ -9414,7 +9419,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "30",
@@ -9446,7 +9451,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "7",
@@ -9477,22 +9482,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14186,
+      "Progressed": 14188,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 140,
-      "Completed": 140
+      "Progressed": 142,
+      "Completed": 142
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:06:53.0275766+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:04.8775811+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:06:53.0276515+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:11:47.4893578+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:04:12.8637387+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:11:47.4895029+00:00"
 }

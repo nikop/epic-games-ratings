@@ -6,32 +6,32 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 98.00% | ~231 |
-| Daily Life Begins Anew | 82.00% | ~194 |
-| Our World Now | 81.00% | ~191 |
-| Never Saw It Coming | 67.00% | ~158 |
+| Welcome to Redo | 98.00% | ~232 |
+| Daily Life Begins Anew | 81.00% | ~192 |
+| Our World Now | 81.00% | ~192 |
+| Never Saw It Coming | 66.00% | ~156 |
 | Coup de Grace | 58.00% | ~137 |
 | Go-Home Club Activities START! | 49.00% | ~116 |
 | Philanthropist | 39.00% | ~92 |
-| Test Your Luck | 34.00% | ~80 |
+| Test Your Luck | 34.00% | ~81 |
 | Behind the Curtain | 33.00% | ~78 |
 | Master of Surprise | 30.00% | ~71 |
 | Be Who You Wanna Be | 27.00% | ~64 |
-| Investment Ban-χ-ing | 25.00% | ~59 |
 | Counter Champion | 25.00% | ~59 |
 | Friendly Neighborhood | 24.00% | ~57 |
+| Investment Ban-χ-ing | 24.00% | ~57 |
 | Combo Commando | 24.00% | ~57 |
-| One-Track Mind | 23.00% | ~54 |
-| Nice Doing Business | 23.00% | ~54 |
-| Stay Winning | 23.00% | ~54 |
+| One-Track Mind | 23.00% | ~55 |
+| Nice Doing Business | 23.00% | ~55 |
+| Stay Winning | 23.00% | ~55 |
 | WIRE Guru | 22.00% | ~52 |
 | The Greater Good | 19.00% | ~45 |
 | Selfish Decisions | 19.00% | ~45 |
 | Depths of the Heart | 19.00% | ~45 |
 | Extracurricular Affair | 19.00% | ~45 |
 | Lost Souls For Sale | 19.00% | ~45 |
-| Pulling Heartstrings | 18.00% | ~42 |
-| Trigger Finger | 18.00% | ~42 |
+| Pulling Heartstrings | 18.00% | ~43 |
+| Trigger Finger | 18.00% | ~43 |
 | Hopes Rewarded | 17.00% | ~40 |
 | Guarding Guru | 17.00% | ~40 |
 | Hustled and Bustled | 12.00% | ~28 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236 (Ranked 337)  
-Completed: 2 (0.85%) (Ranked 153)  
+Progressed: 237 (Ranked 337)  
+Completed: 2 (0.84%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 2 (0.85%) (Ranked 153)
 | 2023-08-02 | 234 | 2 |
 | 2023-08-14 | 235 | 2 |
 | 2023-09-02 | 236 | 2 |
+| 2023-10-21 | 237 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

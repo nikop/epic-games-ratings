@@ -907,9 +907,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663605,
+  "EOS_Progressed": 663606,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18407,6 +18407,11 @@
       "Time": "2023-10-21T16:08:23.5767575+00:00",
       "NumProgressed": 663605,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-21T17:13:26.3865631+00:00",
+      "NumProgressed": 663606,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18482,7 +18487,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66360
+      "UsersEstimate": 66361
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -18514,7 +18519,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66360
+      "UsersEstimate": 66361
     },
     {
       "ID": "Achievement_14_Magician",
@@ -18682,7 +18687,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165901
+      "UsersEstimate": 165902
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -18698,7 +18703,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59724
+      "UsersEstimate": 59725
     },
     {
       "ID": "Achievement_37_Champion",
@@ -18801,15 +18806,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663605,
+      "Progressed": 663606,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-21T02:59:27.5254645+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:08:23.5767569+00:00",
+  "LastChanged_Achievements": "2023-10-21T17:13:26.3865627+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:50.4172035+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:08:23.576896+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:05:04.2793912+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:26.3867299+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3340,9 +3340,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 303
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3651,8 +3651,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:11:02.3523179+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:01:40.2050262+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:11:02.35238+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:15:18.7556948+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:06:03.6484175+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:15:18.7557649+00:00"
 }

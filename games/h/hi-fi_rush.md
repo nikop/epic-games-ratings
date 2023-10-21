@@ -30,7 +30,7 @@ Rating: 4.85 (Ranked 43)
 | Who's the boss now? | 7.00% | ~291 |
 | Perfecter Parry-er! | 7.00% | ~291 |
 | Does that say weakpoint? | 7.00% | ~291 |
-| I have to read these things? | 6.00% | ~249 |
+| I have to read these things? | 6.00% | ~250 |
 | Well that was a rush! | 5.00% | ~208 |
 | That's a lot of junk metal… | 5.00% | ~208 |
 | Beat-hit mania | 4.00% | ~166 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 43)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,158 (Ranked 179)  
+Progressed: 4,159 (Ranked 179)  
 Completed: 8 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 8 (0.19%) (Ranked 227)
 | 2023-10-17 | 4,149 | 8 |
 | 2023-10-18 | 4,151 | 8 |
 | 2023-10-20 | 4,156 | 8 |
-| 2023-10-21 | 4,158 | 8 |
+| 2023-10-21 | 4,159 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

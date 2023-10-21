@@ -3,11 +3,11 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 540,
-  "Ranking_Popularity": 162,
+  "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
@@ -4507,10 +4507,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 6287,
       "NumberOfAwardsMax": 822
+    },
+    {
+      "Time": "2023-10-21T17:04:42.4796279+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 6290,
+      "NumberOfAwardsMax": 822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6287,
+  "NumberOfAwards": 6290,
   "NumberOfAwardsMax": 822,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4524,7 +4530,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 777
+      "Count": 778
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4548,7 +4554,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 761
+      "Count": 763
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4592,8 +4598,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-10-21T02:59:19.5369507+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:59:11.9150702+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:30.4502978+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:08:07.2813696+00:00"
+  "LastChanged": "2023-10-21T17:04:42.4796277+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:23.4666925+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:04:42.4796289+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:06.238501+00:00"
 }

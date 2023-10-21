@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39166,
+  "EOS_Progressed": 39170,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19475,6 +19475,11 @@
       "Time": "2023-10-21T16:07:43.6319429+00:00",
       "NumProgressed": 39166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T17:12:49.8571539+00:00",
+      "NumProgressed": 39170,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19502,7 +19507,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6659
     },
     {
       "ID": "ach_antiquarian10",
@@ -19550,7 +19555,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ach_cursestone",
@@ -19574,7 +19579,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ach_deathofermod",
@@ -19606,7 +19611,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14100
+      "UsersEstimate": 14101
     },
     {
       "ID": "ach_die10",
@@ -19614,7 +19619,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_die5",
@@ -19654,7 +19659,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ach_invictus",
@@ -19694,7 +19699,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5483
+      "UsersEstimate": 5484
     },
     {
       "ID": "ach_legacysalvager",
@@ -19710,7 +19715,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ach_newstories",
@@ -19734,7 +19739,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_portdeep",
@@ -19742,7 +19747,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_portdragon",
@@ -19774,7 +19779,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_portpearls",
@@ -19790,7 +19795,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_portrose",
@@ -19806,7 +19811,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_scion",
@@ -19838,7 +19843,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7050
+      "UsersEstimate": 7051
     },
     {
       "ID": "ach_terror100",
@@ -19854,7 +19859,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5875
+      "UsersEstimate": 5876
     },
     {
       "ID": "ach_undercurrent",
@@ -19870,7 +19875,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ach_underpressure",
@@ -19894,7 +19899,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ach_year10",
@@ -19917,15 +19922,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39166,
+      "Progressed": 39170,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:07:43.6319423+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:57:49.4242639+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:03:43.2153797+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:07:43.6321003+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:12:49.8571532+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:08:04.60346+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:12:49.8573391+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,227 |
-| Wallbanger | 5.00% | ~23,227 |
-| Exploitative | 4.00% | ~18,581 |
-| High Speed Low Drag | 4.00% | ~18,581 |
-| Wet Feet | 4.00% | ~18,581 |
-| Checkpoint Victory | 3.00% | ~13,936 |
-| Lucky | 3.00% | ~13,936 |
-| Stylin' | 3.00% | ~13,936 |
-| Turf War | 3.00% | ~13,936 |
+| Point Shooting | 5.00% | ~23,228 |
+| Wallbanger | 5.00% | ~23,228 |
+| Exploitative | 4.00% | ~18,582 |
+| High Speed Low Drag | 4.00% | ~18,582 |
+| Wet Feet | 4.00% | ~18,582 |
+| Checkpoint Victory | 3.00% | ~13,937 |
+| Lucky | 3.00% | ~13,937 |
+| Stylin' | 3.00% | ~13,937 |
+| Turf War | 3.00% | ~13,937 |
 | Banged | 2.00% | ~9,291 |
 | First Blood | 2.00% | ~9,291 |
 | Flaccid Paralysis | 2.00% | ~9,291 |
 | Push Victory | 2.00% | ~9,291 |
 | Self-destructive | 2.00% | ~9,291 |
-| Blindfire | 1.00% | ~4,645 |
-| Efficient | 1.00% | ~4,645 |
-| Ruthless | 1.00% | ~4,645 |
-| Semper Paratus | 1.00% | ~4,645 |
+| Blindfire | 1.00% | ~4,646 |
+| Efficient | 1.00% | ~4,646 |
+| Ruthless | 1.00% | ~4,646 |
+| Semper Paratus | 1.00% | ~4,646 |
 | Carrying | 0.90% | ~4,181 |
 | Mount & Gun | 0.90% | ~4,181 |
 | Personal | 0.90% | ~4,181 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~465 |
 | Road Hazard | 0.10% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,532 (Ranked 39)  
+Progressed: 464,552 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,11 +226,11 @@ Completed: 2 (0.00%) (Ranked 318)
 | 2023-10-18 | 463,672 | 2 |
 | 2023-10-19 | 463,959 | 2 |
 | 2023-10-20 | 464,276 | 2 |
-| 2023-10-21 | 464,532 | 2 |
+| 2023-10-21 | 464,552 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 393  (Ranked 224)  
-Sum: 3,086 (Ranked 171)  
-Diff (max vs sum): 53  
+Sum: 3,086 (Ranked 172)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 393 |

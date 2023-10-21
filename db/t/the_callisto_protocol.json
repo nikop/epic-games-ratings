@@ -1319,9 +1319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16141,
+  "EOS_Progressed": 16143,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7819,6 +7819,11 @@
       "Time": "2023-10-21T16:06:40.9578129+00:00",
       "NumProgressed": 16141,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-21T17:11:32.2709388+00:00",
+      "NumProgressed": 16143,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7862,7 +7867,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -7948,9 +7953,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 646
+      "UsersEstimate": 807
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -7990,7 +7995,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8205,13 +8210,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16141,
+      "Progressed": 16143,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4067,
+      "Progressed": 4069,
       "Completed": 29
     }
   ],
@@ -8219,8 +8224,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-21T11:58:34.338307+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:06:40.9578126+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:58:45.2405814+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:06:40.9578907+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:11:32.270938+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:02:41.0876871+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:11:32.2710852+00:00"
 }

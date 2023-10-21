@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2167,9 +2167,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 262
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2199,9 +2199,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 411
+      "UsersEstimate": 420
     },
     {
       "ID": "TerraTourGuide",
@@ -2246,8 +2246,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:08:05.7714204+00:00",
+  "LastChanged_Achievements": "2023-10-21T17:13:04.5018186+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:04:20.2470977+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:08:05.7714466+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:08:39.4852565+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:13:04.5018509+00:00"
 }

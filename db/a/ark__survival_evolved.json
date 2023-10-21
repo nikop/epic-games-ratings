@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
@@ -12864,10 +12864,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 273043,
       "NumberOfAwardsMax": 62408
+    },
+    {
+      "Time": "2023-10-21T17:07:08.0340933+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 273075,
+      "NumberOfAwardsMax": 62408
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273043,
+  "NumberOfAwards": 273075,
   "NumberOfAwardsMax": 62408,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12881,7 +12887,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 22147
+      "Count": 22166
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12893,7 +12899,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21229
+      "Count": 21242
     },
     {
       "Text": "This game is Educational",
@@ -12955,8 +12961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-10-21T15:03:07.9189409+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:57:28.2940798+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:02:42.9807319+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:07:19.4201249+00:00"
+  "LastChanged": "2023-10-21T17:07:08.0340928+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:59:21.7269432+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:07:08.0340942+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:12:20.8795577+00:00"
 }

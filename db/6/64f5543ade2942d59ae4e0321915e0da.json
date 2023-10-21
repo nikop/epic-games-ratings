@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -144,9 +144,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_BOSS_01",
@@ -240,9 +240,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -264,9 +264,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -414,8 +414,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:06:35.7829627+00:00",
+  "LastChanged_Achievements": "2023-10-21T17:11:25.7386024+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:04.3022619+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:06:35.7829965+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:04:12.1806777+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:11:25.7386583+00:00"
 }

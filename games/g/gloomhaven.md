@@ -1,41 +1,41 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 626)  
+Rating: 4.47 (Ranked 625)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 44.00% | ~6,573 |
-| Overkill | 35.00% | ~5,228 |
-| A normal day in Gloomhaven | 34.00% | ~5,079 |
-| Vaccine Incoming | 33.00% | ~4,930 |
-| Spread the plague | 31.00% | ~4,631 |
-| Get over here! | 24.00% | ~3,585 |
-| Just when I thought I was out... | 19.00% | ~2,838 |
-| Precious! | 17.00% | ~2,539 |
-| Mine... All Mine... | 17.00% | ~2,539 |
-| Light of my life | 15.00% | ~2,241 |
-| Anatomy Lesson | 15.00% | ~2,241 |
-| Grizzled veteran | 13.00% | ~1,942 |
-| You activated my trap card! | 13.00% | ~1,942 |
-| Obstacle race | 13.00% | ~1,942 |
-| Augmented rat | 12.00% | ~1,793 |
-| Doom and gloom | 11.00% | ~1,643 |
-| Who's the Boss? | 9.00% | ~1,344 |
-| Dungeon Veteran | 8.00% | ~1,195 |
-| Pack leader | 8.00% | ~1,195 |
-| Pain is your friend | 8.00% | ~1,195 |
-| Black death | 8.00% | ~1,195 |
-| Play it again, Sam | 8.00% | ~1,195 |
-| Quad damage | 6.00% | ~896 |
-| Power Up! | 5.00% | ~747 |
-| The Pro from Dover | 5.00% | ~747 |
-| Pretty lights! | 5.00% | ~747 |
-| Now you see me... | 5.00% | ~747 |
-| Caught off guard | 4.00% | ~598 |
-| Merchant of doom | 3.00% | ~448 |
-| Grin and bear it | 3.00% | ~448 |
+| I'm not dead yet | 43.00% | ~6,435 |
+| Overkill | 35.00% | ~5,238 |
+| A normal day in Gloomhaven | 34.00% | ~5,088 |
+| Vaccine Incoming | 33.00% | ~4,938 |
+| Spread the plague | 31.00% | ~4,639 |
+| Get over here! | 24.00% | ~3,592 |
+| Just when I thought I was out... | 19.00% | ~2,843 |
+| Precious! | 17.00% | ~2,544 |
+| Mine... All Mine... | 17.00% | ~2,544 |
+| Light of my life | 15.00% | ~2,245 |
+| Anatomy Lesson | 15.00% | ~2,245 |
+| Grizzled veteran | 13.00% | ~1,945 |
+| You activated my trap card! | 13.00% | ~1,945 |
+| Obstacle race | 13.00% | ~1,945 |
+| Augmented rat | 12.00% | ~1,796 |
+| Doom and gloom | 11.00% | ~1,646 |
+| Who's the Boss? | 9.00% | ~1,347 |
+| Dungeon Veteran | 8.00% | ~1,197 |
+| Pack leader | 8.00% | ~1,197 |
+| Pain is your friend | 8.00% | ~1,197 |
+| Black death | 8.00% | ~1,197 |
+| Play it again, Sam | 8.00% | ~1,197 |
+| Quad damage | 6.00% | ~898 |
+| Power Up! | 5.00% | ~748 |
+| The Pro from Dover | 5.00% | ~748 |
+| Pretty lights! | 5.00% | ~748 |
+| Now you see me... | 5.00% | ~748 |
+| Caught off guard | 4.00% | ~599 |
+| Merchant of doom | 3.00% | ~449 |
+| Grin and bear it | 3.00% | ~449 |
 | I hate portals | 2.00% | ~299 |
 | From Gloom, only greed and death emerges | 2.00% | ~299 |
 | The Rat King | 2.00% | ~299 |
@@ -45,9 +45,9 @@ Number of Ratings: 68  (23.09.2022)
 | Master Assassin | 2.00% | ~299 |
 | The Sniper | 2.00% | ~299 |
 | An axe to grind | 2.00% | ~299 |
-| Add a bit of colour | 1.00% | ~149 |
-| How to train your Drake | 1.00% | ~149 |
-| New Blood | 0.90% | ~134 |
+| Add a bit of colour | 1.00% | ~150 |
+| How to train your Drake | 1.00% | ~150 |
+| New Blood | 0.90% | ~135 |
 | Captain hooked | 0.80% | ~120 |
 | Betray this | 0.70% | ~105 |
 | Spoiler police! | 0.70% | ~105 |
@@ -60,15 +60,15 @@ Number of Ratings: 68  (23.09.2022)
 | Crimson Tornado | 0.30% | ~45 |
 | The Cartographer | 0.20% | ~30 |
 | The Jaws of victory! | 0.20% | ~30 |
+| Murder Death Kill | 0.20% | ~30 |
 | A cult following | 0.10% | ~15 |
 | Over your dead body | 0.10% | ~15 |
 | The Guildmaster | 0.10% | ~15 |
 | Lara Who? | 0.10% | ~15 |
 | Beware my power | 0.10% | ~15 |
 | Hard-travelling Heroes | 0.10% | ~15 |
-| Murder Death Kill | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,938 (Ranked 138)  
+Progressed: 14,965 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.01%) (Ranked 299)
 | 2023-10-18 | 14,328 | 1 |
 | 2023-10-19 | 14,556 | 1 |
 | 2023-10-20 | 14,770 | 1 |
-| 2023-10-21 | 14,938 | 1 |
+| 2023-10-21 | 14,965 | 1 |
 ## Awards
 Max (Character Customization): 3,557  (Ranked 90)  
 Sum: 8,305 (Ranked 98)  

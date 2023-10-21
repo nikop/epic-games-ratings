@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2546,
+  "EOS_Progressed": 2547,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.96,
+  "EOS_Completed_Percentage": 8.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6716,6 +6716,11 @@
       "Time": "2023-10-21T16:10:27.1839098+00:00",
       "NumProgressed": 2546,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-21T17:15:01.5105352+00:00",
+      "NumProgressed": 2547,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6767,7 +6772,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Jude",
@@ -6791,7 +6796,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6822,7 +6827,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2546,
+      "Progressed": 2547,
       "Completed": 228
     }
   ],
@@ -6830,8 +6835,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:10:27.1839092+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:59:02.4862405+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:01:17.9554441+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:10:27.1839576+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:15:01.5105345+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:42.9217404+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:05:38.0335095+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:15:01.5106265+00:00"
 }

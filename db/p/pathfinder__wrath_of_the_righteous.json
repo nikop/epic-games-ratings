@@ -3971,9 +3971,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11667,
+  "EOS_Progressed": 11669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13981,6 +13981,11 @@
       "Time": "2023-10-21T16:11:21.9422431+00:00",
       "NumProgressed": 11667,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T17:16:12.3668411+00:00",
+      "NumProgressed": 11669,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14000,7 +14005,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14016,7 +14021,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14128,7 +14133,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "19_EqualToAroden",
@@ -14872,7 +14877,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -14888,7 +14893,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -14896,7 +14901,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -14904,7 +14909,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -14912,28 +14917,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10449,
+      "Progressed": 10451,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11667,
+      "Progressed": 11669,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-21T15:00:17.5275964+00:00",
-  "LastChanged_Achievements": "2023-10-21T16:11:21.9422428+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-21T16:00:08.4094181+00:00",
-  "LastUpdate_Achievements": "2023-10-21T16:11:21.9424422+00:00"
+  "LastChanged_Achievements": "2023-10-21T17:16:12.3668403+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
+  "LastUpdate_Ratings": "2023-10-21T17:04:15.6911505+00:00",
+  "LastUpdate_Achievements": "2023-10-21T17:16:12.3672539+00:00"
 }
