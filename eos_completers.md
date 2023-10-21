@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.52% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.08% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.49% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.43% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -82,8 +82,8 @@
 | 80 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 81 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 83 | [The Complex](games/t/the_complex.md) | 3.28% |
-| 84 | [Doodle God](games/d/doodle_god.md) | 3.27% |
+| 83 | [Doodle God](games/d/doodle_god.md) | 3.27% |
+| 83 | [The Complex](games/t/the_complex.md) | 3.27% |
 | 85 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.21% |
 | 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
@@ -119,8 +119,8 @@
 | 117 | [Night Book](games/n/night_book.md) | 1.80% |
 | 118 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.79% |
 | 118 | [Frogun](games/f/frogun.md) | 1.79% |
-| 120 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.75% |
 | 120 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
+| 121 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.74% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
 | 123 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 124 | [Late Shift](games/l/late_shift.md) | 1.53% |
@@ -157,8 +157,8 @@
 | 154 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
-| 158 | [Eternights](games/e/eternights.md) | 0.74% |
-| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
+| 157 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
+| 159 | [Eternights](games/e/eternights.md) | 0.74% |
 | 160 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.67% |
 | 162 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
