@@ -14,7 +14,7 @@
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 538 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 441 | 211 |
 | 10 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 538 |
-| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,347 | 21 |
+| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,370 | 21 |
 | 16 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 80 |
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,033 | 146 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 538 |
@@ -575,7 +575,7 @@
 | 554 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51 | 0 | 538 |
 | 554 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 134 | 316 |
 | 554 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 488 |
-| 576 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,791 | 117 |
+| 576 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,793 | 116 |
 | 576 | [Anno 2070](games/a/anno_2070.md) | 4.50 | 0 | 538 |
 | 576 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.50 | 170 | 300 |
 | 576 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 422 | 218 |

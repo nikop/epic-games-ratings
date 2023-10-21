@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.53% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.13% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.11% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.71% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -20,9 +20,9 @@
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 20 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 16.67% |
-| 21 | [Island Cities](games/i/island_cities.md) | 16.62% |
+| 21 | [Island Cities](games/i/island_cities.md) | 16.60% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.12% |
-| 23 | [Seven Doors](games/s/seven_doors.md) | 14.29% |
+| 23 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
 | 25 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 12.50% |
@@ -31,7 +31,7 @@
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.26% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.96% |
+| 32 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
@@ -139,7 +139,7 @@
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.11% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
 | 141 | [Adios](games/a/adios.md) | 1.05% |
 | 141 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.05% |
 | 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -201,8 +201,8 @@
 | 199 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 199 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 201 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 202 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.33% |
-| 203 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 202 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 202 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.32% |
 | 204 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 204 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
 | 204 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |

@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 22,950 | 4.53 | 528 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,402 | 4.26 | 850 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,932 | 4.57 | 460 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,347 | 4.89 | 10 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,370 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,824 | 4.60 | 401 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,879 | 4.21 | 881 |
 | 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 16,583 | 4.74 | 151 |
@@ -115,8 +115,8 @@
 | 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,909 | 4.70 | 207 |
 | 114 | [Remnant 2](games/r/remnant_2.md) | 1,862 | 4.76 | 119 |
 | 115 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,809 | 4.56 | 475 |
+| 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,793 | 4.50 | 576 |
 | 116 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,793 | 4.63 | 339 |
-| 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,791 | 4.50 | 576 |
 | 118 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,788 | 4.57 | 460 |
 | 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,726 | 4.76 | 119 |
 | 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,725 | 4.82 | 63 |
