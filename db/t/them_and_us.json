@@ -3,9 +3,9 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1056,6 +1056,11 @@
       "Time": "2023-10-21T07:04:21.9468719+00:00",
       "NumProgressed": 245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T09:03:23.7336091+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1067,7 +1072,7 @@
       "Name": "Lover of classics",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1083,7 +1088,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1161,9 +1166,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 172
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1243,7 +1248,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_Researcher",
@@ -1331,7 +1336,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1363,7 +1368,7 @@
       "Name": "Trapped",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1386,7 +1391,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 1
     }
   ],
@@ -1394,8 +1399,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:03:18.5808589+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:03:23.7336086+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:38.3056306+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:03:18.580916+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:39.9882544+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:03:23.7336649+00:00"
 }

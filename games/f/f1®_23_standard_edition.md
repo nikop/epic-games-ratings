@@ -37,7 +37,7 @@ Rating: 4.68 (Ranked 241)
 | Switcheroo | 12.00% | ~400 |
 | Friendly Competition | 11.00% | ~367 |
 | Tinkerer | 11.00% | ~367 |
-| Undisputed Winner | 9.00% | ~300 |
+| Undisputed Winner | 10.00% | ~334 |
 | Living up to Expectations | 7.00% | ~234 |
 | Smooth Operator | 7.00% | ~234 |
 | For all Those Back at the Factory | 6.00% | ~200 |

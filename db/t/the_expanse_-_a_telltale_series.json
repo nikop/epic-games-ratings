@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -169,17 +169,23 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-21T08:59:07.5035138+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14173,
-  "EOS_Completed": 26,
+  "EOS_Progressed": 14174,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 233,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -9185,6 +9191,11 @@
       "Time": "2023-10-21T06:04:29.7239725+00:00",
       "NumProgressed": 14173,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-21T09:05:08.676445+00:00",
+      "NumProgressed": 14174,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9229,7 +9240,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "14",
@@ -9436,22 +9447,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14173,
-      "Completed": 26
+      "Progressed": 14174,
+      "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 127,
-      "Completed": 127
+      "Progressed": 128,
+      "Completed": 128
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-10-20T08:59:25.5282382+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:00.9882799+00:00",
+  "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:08.6764445+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:58.7935232+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:00.9883574+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:59:07.5035143+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:08.6765262+00:00"
 }

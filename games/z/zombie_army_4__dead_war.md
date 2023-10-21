@@ -8,7 +8,7 @@ Number of Ratings: 743  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 69.00% | ~30,139 |
 | Say goodbye, creep! | 66.00% | ~28,829 |
-| Blood splattered | 65.00% | ~28,392 |
+| Blood splattered | 66.00% | ~28,829 |
 | Groovy | 62.00% | ~27,082 |
 | Choo choo! | 62.00% | ~27,082 |
 | Cleanup on aisle 4! | 57.00% | ~24,898 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -327,7 +327,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71914,
+  "EOS_Progressed": 71915,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 2,
@@ -20512,6 +20512,11 @@
       "Time": "2023-10-21T08:05:19.7415733+00:00",
       "NumProgressed": 71914,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-21T09:05:28.2810363+00:00",
+      "NumProgressed": 71915,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20603,7 +20608,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38114
+      "UsersEstimate": 38115
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20683,7 +20688,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12225
+      "UsersEstimate": 12226
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -20714,7 +20719,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71914,
+      "Progressed": 71915,
       "Completed": 379
     }
   ],
@@ -20722,8 +20727,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:19.7415727+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:28.2810357+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:55.9105801+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:19.7417235+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:00:13.899704+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:28.2811808+00:00"
 }

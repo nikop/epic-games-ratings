@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3571,
+  "EOS_Progressed": 3572,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -8344,6 +8344,11 @@
       "Time": "2023-10-21T07:08:56.1179341+00:00",
       "NumProgressed": 3571,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-21T09:07:07.6471907+00:00",
+      "NumProgressed": 3572,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 16,
@@ -8403,7 +8408,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ach_bomb",
@@ -8451,7 +8456,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ach_magic_wand",
@@ -8482,14 +8487,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3571,
+      "Progressed": 3572,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:07:06.6246796+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:07:07.6471897+00:00",
   "LastUpdate_AppInfo": "2023-10-20T17:57:00.7331575+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:00.4858139+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:07:06.6247896+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:57:55.6503679+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:07:07.6472579+00:00"
 }

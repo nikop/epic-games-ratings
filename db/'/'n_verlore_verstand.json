@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -409,9 +409,9 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "30",
@@ -497,9 +497,9 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "40",
@@ -624,8 +624,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:06:06.2132623+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:06:16.4035555+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.3429473+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:50.8297417+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:06:06.2133027+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:00:08.5473947+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:06:16.4035993+00:00"
 }

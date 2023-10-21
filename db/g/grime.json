@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1171,9 +1171,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153540,
+  "EOS_Progressed": 153553,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1525,
+  "EOS_NewPlayers": 1529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12441,6 +12441,11 @@
       "Time": "2023-10-21T08:06:11.8966147+00:00",
       "NumProgressed": 153540,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T09:06:22.2672239+00:00",
+      "NumProgressed": 153553,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12524,7 +12529,7 @@
       "Name": "Weeper",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12572,7 +12577,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -12819,21 +12824,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153123,
+      "Progressed": 153136,
       "Completed": 1165
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153540,
+      "Progressed": 153553,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-21T05:58:07.464357+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:06:11.8966142+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:06:22.2672233+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:35.4834107+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:06:11.8967204+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:37.1332788+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:06:22.2673365+00:00"
 }

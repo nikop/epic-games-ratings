@@ -6,7 +6,7 @@
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
@@ -1313,11 +1313,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16129,
+  "EOS_Progressed": 16131,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -7773,6 +7773,11 @@
       "Time": "2023-10-21T08:04:47.787323+00:00",
       "NumProgressed": 16129,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-21T09:04:55.1668655+00:00",
+      "NumProgressed": 16131,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7912,7 +7917,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "KILL_ROBOT",
@@ -7944,7 +7949,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -7976,7 +7981,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8159,13 +8164,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16129,
+      "Progressed": 16131,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4055,
+      "Progressed": 4057,
       "Completed": 29
     }
   ],
@@ -8173,8 +8178,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:04:47.7873223+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:04:55.1668649+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:12.2020608+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:04:47.7874139+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:12.3624548+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:04:55.166949+00:00"
 }

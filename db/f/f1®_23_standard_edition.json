@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -393,7 +393,7 @@
   "Tags": [],
   "EOS_Progressed": 3337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3365,9 +3365,9 @@
       "ID": "achievement_0019",
       "SetID": "9123ogc",
       "Name": "Undisputed Winner",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_0020",
@@ -3622,8 +3622,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:04:49.9051156+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:04:57.4027644+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:02.9860563+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:04:49.9051838+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:57:59.5735811+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:04:57.4028264+00:00"
 }

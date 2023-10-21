@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -391,9 +391,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2054,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6221,6 +6221,11 @@
       "Time": "2023-10-21T00:05:21.9673787+00:00",
       "NumProgressed": 2054,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T09:05:13.086937+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6262,9 +6267,9 @@
       "ID": "backgroundstory",
       "SetID": "3nl4bcg",
       "Name": "Background Story",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 103
     },
     {
       "ID": "beastwarmachines",
@@ -6496,7 +6501,7 @@
       "Name": "Hunter",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "inspection",
@@ -6544,7 +6549,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "mastery",
@@ -6624,7 +6629,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "prestigiousx10",
@@ -6632,7 +6637,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "relicofthepast",
@@ -6712,7 +6717,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "thegameison",
@@ -6720,7 +6725,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "thepowerofawakening",
@@ -6728,7 +6733,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "theunstoppable",
@@ -6792,7 +6797,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "warmachinesarmy",
@@ -6831,7 +6836,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2054,
+      "Progressed": 2055,
       "Completed": 2
     }
   ],
@@ -6839,8 +6844,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-21T02:58:51.4211072+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:05.1631562+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:13.0869364+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:47.1860658+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:05.1632664+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:53.6297206+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:13.0870549+00:00"
 }

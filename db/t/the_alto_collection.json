@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -716,10 +716,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-10-21T08:59:09.6154688+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
+  "NumberOfAwards": 367,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -769,7 +775,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -784,7 +790,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43359,
+  "EOS_Progressed": 43363,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
@@ -21444,6 +21450,11 @@
       "Time": "2023-10-21T08:06:29.0933393+00:00",
       "NumProgressed": 43359,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T09:06:39.8653918+00:00",
+      "NumProgressed": 43363,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21479,7 +21490,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "distance500000",
@@ -21495,7 +21506,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11707
+      "UsersEstimate": 11708
     },
     {
       "ID": "goals180",
@@ -21575,7 +21586,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7371
+      "UsersEstimate": 7372
     },
     {
       "ID": "novice",
@@ -21583,7 +21594,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6937
+      "UsersEstimate": 6938
     },
     {
       "ID": "playerFelipe",
@@ -21663,7 +21674,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11273
+      "UsersEstimate": 11274
     },
     {
       "ID": "sandboarder",
@@ -21679,7 +21690,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4769
+      "UsersEstimate": 4770
     },
     {
       "ID": "ultimate",
@@ -21711,7 +21722,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "unlockmaya",
@@ -21766,15 +21777,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43359,
+      "Progressed": 43363,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:06:29.0933385+00:00",
+  "LastChanged": "2023-10-21T08:59:09.6154687+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:06:39.8653911+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:02.9706896+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:06:29.0934933+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:59:09.6154691+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:06:39.8655566+00:00"
 }

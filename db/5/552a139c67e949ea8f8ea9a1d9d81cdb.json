@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -653,8 +653,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:07:05.2831118+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:07:06.3964995+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:54.7250781+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:07:05.2831655+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:59:02.5827475+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:07:06.3965377+00:00"
 }

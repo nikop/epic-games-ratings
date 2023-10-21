@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5505,9 +5505,9 @@
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 410
     },
     {
       "ID": "A17",
@@ -5826,8 +5826,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-20T16:00:20.5501075+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:04:53.9715959+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:01.5541248+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:04.7958216+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:49.8489034+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:04:53.9716812+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:00:06.7153264+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:01.5542061+00:00"
 }

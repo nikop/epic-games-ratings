@@ -20,12 +20,12 @@ Rating: 4.60 (Ranked 401)
 | Seat of Power | 6.00% | ~314 |
 | Intimidation Tactics | 6.00% | ~314 |
 | Mighty Hoard | 6.00% | ~314 |
-| In a Liege of Your Own | 5.00% | ~261 |
-| Fiery Friend | 5.00% | ~261 |
-| Against the Odds | 5.00% | ~261 |
-| Impenetrable Fortress | 5.00% | ~261 |
-| Here be Dragons | 5.00% | ~261 |
-| Blood of the Dragon | 5.00% | ~261 |
+| In a Liege of Your Own | 5.00% | ~262 |
+| Fiery Friend | 5.00% | ~262 |
+| Against the Odds | 5.00% | ~262 |
+| Impenetrable Fortress | 5.00% | ~262 |
+| Here be Dragons | 5.00% | ~262 |
+| Blood of the Dragon | 5.00% | ~262 |
 | Valley of Wonders | 4.00% | ~209 |
 | Return of the Wizard King | 4.00% | ~209 |
 | Enchanted Archipelago | 4.00% | ~209 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 401)
 | Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,228 (Ranked 174)  
+Progressed: 5,230 (Ranked 174)  
 Completed: 6 (0.11%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 6 (0.11%) (Ranked 248)
 | 2023-10-18 | 5,226 | 6 |
 | 2023-10-19 | 5,227 | 6 |
 | 2023-10-20 | 5,228 | 6 |
+| 2023-10-21 | 5,230 | 6 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 501)  
 Sum: 26 (Ranked 509)  

@@ -6,13 +6,13 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,707 |
-| Finding Your Footing | 26.00% | ~11,273 |
-| Nomad | 17.00% | ~7,371 |
-| Picking Up Speed | 16.00% | ~6,937 |
+| Rookie | 27.00% | ~11,708 |
+| Finding Your Footing | 26.00% | ~11,274 |
+| Nomad | 17.00% | ~7,372 |
+| Picking Up Speed | 16.00% | ~6,938 |
 | Welcome Maya | 15.00% | ~6,504 |
-| Scout | 11.00% | ~4,769 |
-| Sightseer | 11.00% | ~4,769 |
+| Scout | 11.00% | ~4,770 |
+| Sightseer | 11.00% | ~4,770 |
 | Amateur | 10.00% | ~4,336 |
 | Unlock Maya | 8.00% | ~3,469 |
 | Enter Paz | 8.00% | ~3,469 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,168 |
 | One With The Board | 5.00% | ~2,168 |
 | Voyager | 5.00% | ~2,168 |
-| Izel Has Arrived | 4.00% | ~1,734 |
+| Izel Has Arrived | 4.00% | ~1,735 |
 | Junkie | 3.00% | ~1,301 |
 | Traveler | 3.00% | ~1,301 |
 | Journeyer | 3.00% | ~1,301 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,359 (Ranked 109)  
+Progressed: 43,363 (Ranked 109)  
 Completed: 5 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 5 (0.01%) (Ranked 299)
 | 2023-10-18 | 43,100 | 5 |
 | 2023-10-19 | 43,211 | 5 |
 | 2023-10-20 | 43,324 | 5 |
-| 2023-10-21 | 43,359 | 5 |
+| 2023-10-21 | 43,363 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 423)  
-Sum: 366 (Ranked 335)  
+Sum: 367 (Ranked 335)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): 88
 | This game has Quickly Understood Controls | 38 |
 | This game is Extremely Fun | 36 |
 | This game is Relaxing | 35 |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has Amazing Storytelling | 29 |
 | This game has Amazing Characters | 26 |
 ## Ratings History
@@ -355,3 +355,4 @@ Diff (max vs sum): 88
 | 2023-09-23 | 4.70 | - | 48 | 364 |
 | 2023-10-08 | 4.70 | - | 48 | 365 |
 | 2023-10-12 | 4.70 | - | 48 | 366 |
+| 2023-10-21 | 4.70 | - | 48 | 367 |

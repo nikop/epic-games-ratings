@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 438,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 60,
@@ -1185,9 +1185,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232084,
+  "EOS_Progressed": 232089,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1444,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15500,6 +15500,11 @@
       "Time": "2023-10-21T08:03:15.8651314+00:00",
       "NumProgressed": 232084,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-21T09:03:20.7437901+00:00",
+      "NumProgressed": 232089,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15943,7 +15948,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "ElfEpic",
@@ -15959,7 +15964,7 @@
       "Name": "Sowwy!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 76588
+      "UsersEstimate": 76589
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16159,7 +16164,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "SupportCount4",
@@ -16214,21 +16219,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232084,
+      "Progressed": 232089,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232084,
+      "Progressed": 232089,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-21T01:40:43.9411786+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:03:15.8651309+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:03:20.7437896+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:06.1366459+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:46.5779105+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:03:15.8653554+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:00:01.2479295+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:03:20.7439977+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~386 |
-| And again, and again, and... | 64.00% | ~284 |
-| Burn, Elysium, burn! | 62.00% | ~275 |
+| Huzza, he's back. | 87.00% | ~387 |
+| And again, and again, and... | 63.00% | ~280 |
+| Burn, Elysium, burn! | 62.00% | ~276 |
 | Kuvaq Minigame-Master | 61.00% | ~271 |
-| FunScore | 55.00% | ~244 |
-| Funtime's over | 53.00% | ~235 |
+| FunScore | 55.00% | ~245 |
+| Funtime's over | 53.00% | ~236 |
 | Chunky | 50.00% | ~222 |
 | Boat of love, boat of love | 49.00% | ~218 |
-| Shall we play a game? | 48.00% | ~213 |
+| Shall we play a game? | 48.00% | ~214 |
 | School's out | 43.00% | ~191 |
 | Elysian Minigame-Master | 38.00% | ~169 |
-| Scaffolding Expert | 37.00% | ~164 |
-| Sole Music | 35.00% | ~155 |
-| No man left behind! | 30.00% | ~133 |
-| Portals come in packs | 30.00% | ~133 |
-| Photo Friend | 26.00% | ~115 |
+| Scaffolding Expert | 37.00% | ~165 |
+| Sole Music | 35.00% | ~156 |
+| No man left behind! | 30.00% | ~134 |
+| Portals come in packs | 29.00% | ~129 |
+| Photo Friend | 26.00% | ~116 |
 | Brainfreeze | 21.00% | ~93 |
 | And everything comes full circle. | 20.00% | ~89 |
-| Masseltov | 19.00% | ~84 |
+| Masseltov | 19.00% | ~85 |
 | Quickdraw | 16.00% | ~71 |
 | Thuna...? | 14.00% | ~62 |
 | Monstrous Harassment | 14.00% | ~62 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 493)
 | Every man for himself! | 5.00% | ~22 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 287)  
+Progressed: 445 (Ranked 287)  
 Completed: 6 (1.35%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 6 (1.35%) (Ranked 132)
 | 2023-10-15 | 438 | 6 |
 | 2023-10-16 | 441 | 6 |
 | 2023-10-18 | 443 | 6 |
-| 2023-10-21 | 444 | 6 |
+| 2023-10-21 | 445 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

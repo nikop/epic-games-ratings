@@ -18,8 +18,8 @@
 | Mind Illuminator | 27.00% | ~17 |
 | Anomaly Destroyer | 24.00% | ~15 |
 | Stellar Dismantler | 24.00% | ~15 |
+| Behenian Champion | 24.00% | ~15 |
 | Loyal Partner | 23.00% | ~14 |
-| Behenian Champion | 23.00% | ~14 |
 | Aquarian Champion | 21.00% | ~13 |
 | Shard Spender | 19.00% | ~12 |
 | Star Killer | 19.00% | ~12 |

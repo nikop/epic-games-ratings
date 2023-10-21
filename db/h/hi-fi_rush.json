@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4157,
+  "EOS_Progressed": 4158,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7048,6 +7048,11 @@
       "Time": "2023-10-21T08:05:37.1818834+00:00",
       "NumProgressed": 4157,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-21T09:05:46.1499663+00:00",
+      "NumProgressed": 4158,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7265,9 +7270,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 374
     },
     {
       "ID": "Ach028",
@@ -7427,7 +7432,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "Ach048",
@@ -7465,9 +7470,9 @@
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 125
     },
     {
       "ID": "Ach053",
@@ -7626,13 +7631,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4157,
+      "Progressed": 4158,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2678,
+      "Progressed": 2679,
       "Completed": 1930
     }
   ],
@@ -7640,8 +7645,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:37.1818828+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:46.1499657+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:59:36.8320065+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:37.1820235+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:59:53.000675+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:46.1500803+00:00"
 }

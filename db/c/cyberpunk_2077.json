@@ -13910,7 +13910,7 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 892971,
+  "EOS_Progressed": 892985,
   "EOS_Completed": 2691,
   "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 34,
@@ -34715,6 +34715,11 @@
       "Time": "2023-10-21T08:05:06.0145632+00:00",
       "NumProgressed": 892971,
       "NumCompleted": 2691
+    },
+    {
+      "Time": "2023-10-21T09:05:13.994066+00:00",
+      "NumProgressed": 892985,
+      "NumCompleted": 2691
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34957,9 +34962,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TheLovers",
@@ -35246,21 +35251,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892971,
+      "Progressed": 892985,
       "Completed": 2691
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21594,
+      "Progressed": 21608,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-21T05:58:21.9509634+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:06.0145625+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:13.9940654+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:50.4553187+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:06.0148268+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:57.4591171+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:13.9942744+00:00"
 }

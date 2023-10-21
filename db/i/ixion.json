@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -289,7 +289,7 @@
   "Tags": [],
   "EOS_Progressed": 3246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5487,9 +5487,9 @@
       "ID": "ACH_BASE_22",
       "SetID": "92iocjf",
       "Name": "Sustainable Energy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_BASE_23",
@@ -5862,8 +5862,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:04:45.8873382+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:04:53.2999728+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.5119493+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:58:47.9560675+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:04:45.8874911+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:58:54.2929142+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:04:53.3000651+00:00"
 }

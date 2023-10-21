@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18553,
+  "EOS_Progressed": 18554,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11969,6 +11969,11 @@
       "Time": "2023-10-21T08:04:33.088662+00:00",
       "NumProgressed": 18553,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T09:04:39.7283886+00:00",
+      "NumProgressed": 18554,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11980,7 +11985,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "0002",
@@ -12068,7 +12073,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "0013",
@@ -12084,7 +12089,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "0015",
@@ -12267,7 +12272,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18553,
+      "Progressed": 18554,
       "Completed": 4
     }
   ],
@@ -12275,8 +12280,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:04:33.0886613+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:04:39.728388+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:57:23.9640451+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:04:33.0888212+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:57:16.4070264+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:04:39.7284937+00:00"
 }

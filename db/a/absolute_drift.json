@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546105,
+  "EOS_Progressed": 1546111,
   "EOS_Completed": 707,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21272,6 +21272,11 @@
       "Time": "2023-10-21T08:05:26.5194995+00:00",
       "NumProgressed": 1546105,
       "NumCompleted": 707
+    },
+    {
+      "Time": "2023-10-21T09:05:34.9681458+00:00",
+      "NumProgressed": 1546111,
+      "NumCompleted": 707
     }
   ],
   "TotalAchievements": 20,
@@ -21291,7 +21296,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108227
+      "UsersEstimate": 108228
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -21331,7 +21336,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139149
+      "UsersEstimate": 139150
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -21379,7 +21384,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154610
+      "UsersEstimate": 154611
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -21395,7 +21400,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139149
+      "UsersEstimate": 139150
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -21427,7 +21432,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77305
+      "UsersEstimate": 77306
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -21442,15 +21447,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1546105,
+      "Progressed": 1546111,
       "Completed": 707
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:26.519499+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:34.9681446+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:00:34.6617915+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:26.5196386+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:00:55.8211254+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:34.9682966+00:00"
 }

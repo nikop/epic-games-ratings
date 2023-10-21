@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3848,
+  "EOS_Progressed": 3857,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-10-21T08:05:36.0851661+00:00",
       "NumProgressed": 3848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T09:05:44.9292473+00:00",
+      "NumProgressed": 3857,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -2470,7 +2475,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_LEVEL974",
@@ -2534,7 +2539,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -2542,7 +2547,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -2550,7 +2555,7 @@
       "Name": "Level 1",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -2558,7 +2563,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -2566,7 +2571,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -2606,7 +2611,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -2637,14 +2642,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 3848,
+      "Progressed": 3857,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-21T08:05:36.0851656+00:00",
+  "LastChanged_Achievements": "2023-10-21T09:05:44.9292467+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:57:34.3375156+00:00",
-  "LastUpdate_Achievements": "2023-10-21T08:05:36.0852166+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:57:26.3008012+00:00",
+  "LastUpdate_Achievements": "2023-10-21T09:05:44.9293105+00:00"
 }

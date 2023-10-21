@@ -8,7 +8,7 @@
 | That's the spirit | 14.00% | ~43 |
 | The great escape | 13.00% | ~40 |
 | The Preacher's fate | 12.00% | ~37 |
-| A new dawn | 11.00% | ~34 |
+| A new dawn | 12.00% | ~37 |
 | True G3M4R | 10.00% | ~31 |
 | Scholar | 10.00% | ~31 |
 | The darkness | 10.00% | ~31 |
@@ -30,7 +30,7 @@
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 315)  
+Progressed: 310 (Ranked 316)  
 Completed: 20 (6.45%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
