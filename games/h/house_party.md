@@ -17,9 +17,9 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 2.00% | ~128 |
 | Drunk and Disorderly: Ashley | 1.00% | ~64 |
 | IRL Let's Player | 1.00% | ~64 |
+| Inspector | 1.00% | ~64 |
 | Newcomer: Vickie | 1.00% | ~64 |
 | Amy | 0.90% | ~58 |
-| Inspector | 0.90% | ~58 |
 | Social Butterfly | 0.90% | ~58 |
 | The Muse: Madison | 0.90% | ~58 |
 | It Smells Like Roses | 0.70% | ~24 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,396 (Ranked 166)  
+Progressed: 6,397 (Ranked 166)  
 Completed: 3 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 3 (0.05%) (Ranked 276)
 | 2023-10-17 | 6,383 | 3 |
 | 2023-10-19 | 6,388 | 3 |
 | 2023-10-20 | 6,391 | 3 |
-| 2023-10-21 | 6,396 | 3 |
+| 2023-10-21 | 6,397 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

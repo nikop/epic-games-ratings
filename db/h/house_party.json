@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6396,
+  "EOS_Progressed": 6397,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5901,6 +5901,11 @@
       "Time": "2023-10-21T12:05:11.408869+00:00",
       "NumProgressed": 6396,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-21T13:09:07.6433394+00:00",
+      "NumProgressed": 6397,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6158,9 +6163,9 @@
       "ID": "Inspector",
       "SetID": "bmkn7o4",
       "Name": "Inspector",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -6463,21 +6468,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3435,
+      "Progressed": 3436,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6396,
+      "Progressed": 6397,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:05:11.4088684+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:09:07.6433389+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7841194+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:01:01.4358042+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:05:11.4089808+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:04:30.0738621+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:09:07.6434314+00:00"
 }

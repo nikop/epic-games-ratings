@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8124,7 +8124,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63639,
+  "EOS_Progressed": 63645,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
@@ -27624,6 +27624,11 @@
       "Time": "2023-10-21T12:06:38.7220554+00:00",
       "NumProgressed": 63639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T13:10:50.4208278+00:00",
+      "NumProgressed": 63645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27643,7 +27648,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "Bannerlord",
@@ -27651,7 +27656,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14637
+      "UsersEstimate": 14638
     },
     {
       "ID": "Best served cold",
@@ -27675,7 +27680,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "Catch",
@@ -27747,7 +27752,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Freedom",
@@ -27763,7 +27768,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "Great Granny",
@@ -27795,7 +27800,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14637
+      "UsersEstimate": 14638
     },
     {
       "ID": "I can do it",
@@ -27803,7 +27808,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "I spit on your grave",
@@ -27827,7 +27832,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10819
+      "UsersEstimate": 10820
     },
     {
       "ID": "Kingslayer",
@@ -27859,7 +27864,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21001
+      "UsersEstimate": 21003
     },
     {
       "ID": "Lawbringer",
@@ -27867,7 +27872,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24819
+      "UsersEstimate": 24822
     },
     {
       "ID": "Lawmaker",
@@ -27875,7 +27880,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14637
+      "UsersEstimate": 14638
     },
     {
       "ID": "Long live the Empire",
@@ -27987,7 +27992,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12091
+      "UsersEstimate": 12093
     },
     {
       "ID": "This Is Our Land",
@@ -28011,7 +28016,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14637
+      "UsersEstimate": 14638
     },
     {
       "ID": "Undercover",
@@ -28042,15 +28047,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63639,
+      "Progressed": 63645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-20T19:59:46.3113475+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:06:38.722055+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:10:50.4208273+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:51.8810296+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:00:12.4573079+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:06:38.7222322+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:03:17.0442416+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:10:50.420953+00:00"
 }

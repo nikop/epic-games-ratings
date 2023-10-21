@@ -1,20 +1,20 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 723)  
+Rating: 4.39 (Ranked 731)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,111 |
-| IT MAKES BOOM! | 3.00% | ~7,266 |
-| EXTRA BOOST | 2.00% | ~4,844 |
-| PROTECTED | 2.00% | ~4,844 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,422 |
-| AGGRESSIVE RACER | 1.00% | ~2,422 |
-| PRO | 1.00% | ~2,422 |
-| A TIGER'S FEAR | 0.90% | ~2,180 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,211 |
-| ACE SPEEDSTER | 0.50% | ~1,211 |
+| ROOKIE | 5.00% | ~12,117 |
+| IT MAKES BOOM! | 3.00% | ~7,270 |
+| EXTRA BOOST | 2.00% | ~4,847 |
+| PROTECTED | 2.00% | ~4,847 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,423 |
+| AGGRESSIVE RACER | 1.00% | ~2,423 |
+| PRO | 1.00% | ~2,423 |
+| A TIGER'S FEAR | 0.90% | ~2,181 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,212 |
+| ACE SPEEDSTER | 0.50% | ~1,212 |
 | DEFEAT OUR CHAMPION | 0.40% | ~969 |
 | TRAINING HARD | 0.30% | ~727 |
 | RELEASE THE KRAKEN | 0.30% | ~727 |
@@ -25,13 +25,13 @@ Rating: 4.40 (Ranked 723)
 | FRIENDLY | 0.30% | ~727 |
 | MASTER | 0.30% | ~727 |
 | LEGENDARY HERO | 0.30% | ~727 |
-| PERFECTLY POISED | 0.20% | ~484 |
-| EXPERIENCED CREW | 0.20% | ~484 |
-| ACE TRICKSTER | 0.20% | ~484 |
+| PERFECTLY POISED | 0.20% | ~485 |
+| EXPERIENCED CREW | 0.20% | ~485 |
+| ACE TRICKSTER | 0.20% | ~485 |
 | FRAMED! | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,212 (Ranked 56)  
-Completed: 237 (0.10%) (Ranked 250)  
+Progressed: 242,345 (Ranked 56)  
+Completed: 239 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 237 (0.10%) (Ranked 250)
 | 2023-10-18 | 235,284 | 235 |
 | 2023-10-19 | 237,962 | 235 |
 | 2023-10-20 | 240,782 | 236 |
-| 2023-10-21 | 242,212 | 237 |
+| 2023-10-21 | 242,345 | 239 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 472)  
 Sum: 133 (Ranked 418)  

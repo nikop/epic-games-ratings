@@ -8,17 +8,17 @@
 | Goblin Tales | 31.00% | ~139 |
 | Bug Hunter | 25.00% | ~112 |
 | Boss Killer | 24.00% | ~108 |
-| The Fallen | 21.00% | ~94 |
+| The Fallen | 22.00% | ~99 |
 | Artifact Collector | 20.00% | ~90 |
 | Trap Master | 20.00% | ~90 |
 | Ghost Buster | 16.00% | ~72 |
 | Iconoclasm | 15.00% | ~67 |
 | Reincarnation | 15.00% | ~67 |
 | Librarian | 14.00% | ~63 |
+| Lumberjack | 13.00% | ~58 |
 | Orcs Must Die! | 13.00% | ~58 |
 | The End | 13.00% | ~58 |
 | Gladiator | 12.00% | ~54 |
-| Lumberjack | 12.00% | ~54 |
 | Troubleshooter | 11.00% | ~49 |
 | Money Swag | 8.00% | ~36 |
 | Oops | 7.00% | ~31 |

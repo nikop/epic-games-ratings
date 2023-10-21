@@ -8,8 +8,8 @@ Rating: 4.19 (Ranked 899)
 | Get a Grip | 8.00% | ~1,291 |
 | Paper Jams | 7.00% | ~1,130 |
 | Flesh Wound | 6.00% | ~968 |
+| Float Like A Butterfly | 6.00% | ~968 |
 | Chew 'Em Up | 5.00% | ~807 |
-| Float Like A Butterfly | 5.00% | ~807 |
 | The Outer Way | 5.00% | ~807 |
 | Keep Fighting | 5.00% | ~203 |
 | You Need a Gun | 4.00% | ~645 |
@@ -25,7 +25,7 @@ Rating: 4.19 (Ranked 899)
 | Crash Site | 4.00% | ~645 |
 | Full Circle | 4.00% | ~645 |
 | Power Up | 4.00% | ~645 |
-| It's Time | 4.00% | ~162 |
+| It's Time | 4.00% | ~163 |
 | Giving Back | 3.00% | ~484 |
 | Terminated | 3.00% | ~484 |
 | In Striking Distance | 2.00% | ~323 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,136 (Ranked 134)  
+Progressed: 16,137 (Ranked 134)  
 Completed: 75 (0.46%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 75 (0.46%) (Ranked 182)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,136 | 75 |
+| 2023-10-21 | 16,137 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 449 (Ranked 323)  

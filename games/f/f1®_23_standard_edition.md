@@ -50,12 +50,12 @@ Rating: 4.68 (Ranked 241)
 | Media Darling | 2.00% | ~67 |
 | Under the Microscope | 1.00% | ~33 |
 | Saturday Night Drama | 1.00% | ~33 |
-| Ultimate Collector | 0.50% | ~17 |
+| Ultimate Collector | 0.60% | ~20 |
 | Golden Touch | 0.40% | ~13 |
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,338 (Ranked 189)  
+Progressed: 3,338 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |

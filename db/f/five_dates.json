@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -1195,6 +1195,11 @@
       "Time": "2023-10-20T21:07:45.1675806+00:00",
       "NumProgressed": 569,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-21T13:11:19.2088803+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1206,7 +1211,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "booty_call",
@@ -1214,7 +1219,7 @@
       "Name": "Booty Call",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "crash_and_burn",
@@ -1230,7 +1235,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "hold_my_beer",
@@ -1262,7 +1267,7 @@
       "Name": "Light Sleepers",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "not_alone",
@@ -1325,7 +1330,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 9
     }
   ],
@@ -1333,8 +1338,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:07:20.5665972+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:11:19.2088799+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:54.2224534+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:00:03.853395+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:07:20.5666188+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:03:06.986247+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:11:19.2088959+00:00"
 }

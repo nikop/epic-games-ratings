@@ -6,8 +6,8 @@
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1892,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2254,6 +2254,11 @@
       "Time": "2023-10-21T11:05:26.8291494+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T13:09:55.1263631+00:00",
+      "NumProgressed": 1892,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2273,7 +2278,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2377,7 +2382,7 @@
       "Name": "Healing Old Wounds",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -2409,7 +2414,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2513,7 +2518,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2641,7 +2646,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2665,7 +2670,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -2688,15 +2693,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1892,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:05:47.8605619+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:09:55.1263628+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:00:36.1335585+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:05:47.8606185+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:03:47.6270933+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:09:55.1264093+00:00"
 }

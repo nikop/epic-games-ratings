@@ -15,9 +15,9 @@ Rating: 3.94 (Ranked 988)
 | Off the Rocks | 0.80% | ~714 |
 | Raider’s Ruin | 0.80% | ~714 |
 | Dragonslayer | 0.80% | ~714 |
+| Rockay Rex | 0.80% | ~714 |
 | Case Closed | 0.70% | ~625 |
 | King of the Hill | 0.70% | ~625 |
-| Rockay Rex | 0.70% | ~625 |
 | Hidden Sonata | 0.60% | ~535 |
 | Track Star | 0.60% | ~535 |
 | Headhunter | 0.50% | ~446 |
@@ -234,16 +234,16 @@ Completed: 50 (0.06%) (Ranked 270)
 | 2023-10-21 | 89,221 | 50 |
 ## Awards
 Max (Diverse Characters): 505  (Ranked 205)  
-Sum: 2,849 (Ranked 175)  
+Sum: 2,854 (Ranked 175)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 505 |
 | This game has Quickly Understood Controls | 479 |
 | This game is Highly Recommended | 473 |
-| This game has Challenging Combat | 471 |
+| This game has Challenging Combat | 472 |
+| This game is Extremely Fun | 464 |
 | This game has Amazing Characters | 461 |
-| This game is Extremely Fun | 460 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -452,4 +452,4 @@ Diff (max vs sum): 30
 | 2023-10-18 | 3.95 | 500 | 2,832 |
 | 2023-10-19 | 3.94 | 500 | 2,835 |
 | 2023-10-20 | 3.94 | 502 | 2,845 |
-| 2023-10-21 | 3.94 | 505 | 2,849 |
+| 2023-10-21 | 3.94 | 505 | 2,854 |

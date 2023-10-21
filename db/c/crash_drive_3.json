@@ -868,9 +868,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 91
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -997,8 +997,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:05:04.3388132+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:08:58.2459464+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:24.2620735+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:01:21.5732157+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:05:04.3388686+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:04:48.5901114+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:08:58.2459991+00:00"
 }

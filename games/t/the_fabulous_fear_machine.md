@@ -29,13 +29,13 @@
 | Et in arcadia ego | 29.00% | ~9 |
 | Blessed antennas | 26.00% | ~8 |
 | The bully | 23.00% | ~7 |
+| The barbarian invasions | 23.00% | ~7 |
 | The beast in the Oval Office | 19.00% | ~6 |
 | Blood Red Island | 19.00% | ~6 |
 | Bread and bocaua | 19.00% | ~6 |
 | Fanatacism is... poisonous | 19.00% | ~6 |
 | The adventurer | 19.00% | ~6 |
 | Pulp! The Beyond | 19.00% | ~6 |
-| The barbarian invasions | 19.00% | ~6 |
 | America had no Faith | 19.00% | ~6 |
 | The scholar | 16.00% | ~5 |
 | Pulp! True Adventures | 16.00% | ~5 |

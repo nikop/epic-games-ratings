@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,915 |
+| Devoured by Darkness | 25.00% | ~2,916 |
 | A Spark | 18.00% | ~2,099 |
-| Burning City | 17.00% | ~1,982 |
+| Burning City | 17.00% | ~1,983 |
 | Defender's Heart | 15.00% | ~1,749 |
 | Mythic Choices | 14.00% | ~1,633 |
 | Banner over the Citadel | 13.00% | ~1,516 |
-| Queen's Gratitude | 12.00% | ~1,399 |
+| Queen's Gratitude | 12.00% | ~1,400 |
 | Fifth Crusade | 8.00% | ~933 |
 | Embrace of the Abyss | 6.00% | ~700 |
 | Path of the Angel | 6.00% | ~700 |
@@ -24,11 +24,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~583 |
 | All Paths Open | 5.00% | ~583 |
 | Next-Door Play | 5.00% | ~583 |
-| Heart of the Fallen Land | 4.00% | ~466 |
-| Divide and Rule | 4.00% | ~466 |
-| Mythic Reinforcements | 4.00% | ~466 |
-| A Flame | 4.00% | ~466 |
-| Get the Toad | 4.00% | ~466 |
+| Heart of the Fallen Land | 4.00% | ~467 |
+| Divide and Rule | 4.00% | ~467 |
+| Mythic Reinforcements | 4.00% | ~467 |
+| A Flame | 4.00% | ~467 |
+| Get the Toad | 4.00% | ~467 |
 | Path of the Trickster | 3.00% | ~350 |
 | Heroic Victory | 3.00% | ~350 |
 | Core of the Riddle | 3.00% | ~350 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,661 (Ranked 146)  
+Progressed: 11,663 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
-| 2023-10-21 | 11,661 | 0 |
+| 2023-10-21 | 11,663 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,995 (Ranked 115)  

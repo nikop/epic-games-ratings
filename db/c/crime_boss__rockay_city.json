@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4105,10 +4105,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2849,
       "NumberOfAwardsMax": 505
+    },
+    {
+      "Time": "2023-10-21T13:06:39.8691453+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2854,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2849,
+  "NumberOfAwards": 2854,
   "NumberOfAwardsMax": 505,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4140,7 +4146,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 471
+      "Count": 472
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4164,12 +4170,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 460
+      "Count": 464
     }
   ],
   "EOS_Progressed": 89221,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23004,9 +23010,9 @@
       "ID": "ACH_0600",
       "SetID": "3kam13l",
       "Name": "Rockay Rex",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 625
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_1010",
@@ -23058,9 +23064,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-21T07:03:21.659873+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:06:09.3416825+00:00",
+  "LastChanged": "2023-10-21T13:06:39.8691451+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:10:10.3187914+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:02:41.274911+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:06:09.3418464+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:06:39.8691457+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:10:10.3189061+00:00"
 }

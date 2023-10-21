@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -989,9 +989,9 @@
       "ID": "Lumberjack",
       "SetID": "82505mn",
       "Name": "Lumberjack",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "Marksman",
@@ -1117,9 +1117,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "TheTrio",
@@ -1182,8 +1182,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:09:23.3828366+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:13:41.446367+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:36.2898004+00:00",
-  "LastUpdate_Ratings": "2023-10-21T12:01:44.6651084+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:09:23.3828777+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:05:17.881177+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:13:41.4463966+00:00"
 }

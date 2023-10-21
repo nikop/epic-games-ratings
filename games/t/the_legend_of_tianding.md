@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Hero Arrives | 71.00% | ~5 |
-| Eat the Rich | 43.00% | ~3 |
+| Eat the Rich | 57.00% | ~4 |
 | Urban Explorer | 43.00% | ~3 |
 | Death Battle | 29.00% | ~2 |
 | Phantom Kunoichi | 29.00% | ~2 |

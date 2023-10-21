@@ -16,10 +16,10 @@
 | Snow Fun! | 24.00% | ~95 |
 | The Collector | 23.00% | ~91 |
 | The Wild West | 23.00% | ~91 |
+| Bag of Tricks | 23.00% | ~91 |
 | You're it | 23.00% | ~91 |
 | To and Fro | 22.00% | ~87 |
 | Goodbye cruel world | 22.00% | ~87 |
-| Bag of Tricks | 22.00% | ~87 |
 | I see the light! | 22.00% | ~87 |
 | In the Bag! | 22.00% | ~87 |
 | First Come, First Serve | 21.00% | ~83 |

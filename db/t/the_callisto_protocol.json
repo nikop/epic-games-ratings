@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1319,9 +1319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16136,
+  "EOS_Progressed": 16137,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7799,6 +7799,11 @@
       "Time": "2023-10-21T12:05:12.4106536+00:00",
       "NumProgressed": 16136,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-21T13:09:08.9742709+00:00",
+      "NumProgressed": 16137,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7968,9 +7973,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 968
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8170,7 +8175,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -8185,13 +8190,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16136,
+      "Progressed": 16137,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4062,
+      "Progressed": 4063,
       "Completed": 29
     }
   ],
@@ -8199,8 +8204,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-21T11:58:34.338307+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:05:12.4106531+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:09:08.9742705+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:58:34.3383075+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:05:12.4107413+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:01:07.3013065+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:09:08.9743387+00:00"
 }

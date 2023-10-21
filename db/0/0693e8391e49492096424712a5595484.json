@@ -1984,25 +1984,25 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "BearBroom",
       "SetID": "db30heh",
       "Name": "Dusted",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2264,9 +2264,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "RogueRum",
@@ -2288,9 +2288,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2335,8 +2335,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:05:11.5422377+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:09:07.6449853+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:58:59.5519312+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:05:11.5422892+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:01:38.6331582+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:09:07.6450294+00:00"
 }

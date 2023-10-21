@@ -19,8 +19,8 @@ Rating: 3.82 (Ranked 1,004)
 | A Trip to Remember | 12.00% | ~65 |
 | Short Circuit | 11.00% | ~60 |
 | A Stealthy Outlook | 7.00% | ~38 |
-| Den Mother | 6.00% | ~32 |
-| Catch You Later | 6.00% | ~32 |
+| Den Mother | 6.00% | ~33 |
+| Catch You Later | 6.00% | ~33 |
 | Between the Covers | 5.00% | ~27 |
 | Antisocial Club | 5.00% | ~27 |
 | You Had One Job... | 5.00% | ~27 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 1,004)
 | Marvellous Toys | 2.00% | ~11 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 541 (Ranked 274)  
+Progressed: 542 (Ranked 274)  
 Completed: 6 (1.11%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 6 (1.11%) (Ranked 138)
 | 2023-10-16 | 534 | 6 |
 | 2023-10-19 | 537 | 6 |
 | 2023-10-20 | 539 | 6 |
-| 2023-10-21 | 541 | 6 |
+| 2023-10-21 | 542 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

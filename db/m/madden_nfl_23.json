@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -733,7 +733,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2811,
+  "EOS_Progressed": 2813,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
@@ -3688,6 +3688,11 @@
       "Time": "2023-10-21T12:04:28.3996973+00:00",
       "NumProgressed": 2811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T13:08:24.5401613+00:00",
+      "NumProgressed": 2813,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3708,7 +3713,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "achievement_11",
@@ -3732,7 +3737,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "achievement_14",
@@ -3740,7 +3745,7 @@
       "Name": "Dealmaker",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_15",
@@ -3748,7 +3753,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "achievement_16",
@@ -3844,7 +3849,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "achievement_8",
@@ -3867,7 +3872,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2811,
+      "Progressed": 2813,
       "Completed": 0
     }
   ],
@@ -3875,8 +3880,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-19T23:57:45.6696579+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:04:28.3996967+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:08:24.5401609+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:58:52.1839292+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:04:28.3997321+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:01:30.9492218+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:08:24.5401878+00:00"
 }

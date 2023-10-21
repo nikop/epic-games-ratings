@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,097 |
-| Sweet Sorrow | 18.00% | ~7,048 |
+| Sink Beneath the Waves | 36.00% | ~14,098 |
+| Sweet Sorrow | 18.00% | ~7,049 |
 | Rules the Waves | 17.00% | ~6,657 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,874 |
-| Rival | 14.00% | ~5,482 |
+| Rival | 14.00% | ~5,483 |
 | Correspondent | 12.00% | ~4,699 |
 | Lose Your Mind | 12.00% | ~4,699 |
 | Sound Mind? | 12.00% | ~4,699 |
-| Salt's Curse | 11.00% | ~4,307 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,307 |
-| The Fall of the House | 11.00% | ~4,307 |
-| Shipmate | 11.00% | ~4,307 |
+| Salt's Curse | 11.00% | ~4,308 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,308 |
+| The Fall of the House | 11.00% | ~4,308 |
+| Shipmate | 11.00% | ~4,308 |
 | One Year at Zee | 8.00% | ~3,133 |
 | Pupil | 7.00% | ~2,741 |
 | Salvager | 7.00% | ~2,741 |
@@ -34,7 +34,6 @@ Number of Ratings: 401  (23.09.2022)
 | A buoyant escape | 1.00% | ~392 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~392 |
 | The Bell Tolls | 1.00% | ~392 |
-| His bones in whispers | 1.00% | ~392 |
 | The dragon in the zee | 1.00% | ~392 |
 | Thanks for all the fish | 1.00% | ~392 |
 | Knife, Cup and Bone | 1.00% | ~392 |
@@ -42,6 +41,7 @@ Number of Ratings: 401  (23.09.2022)
 | Rosewater sailor | 1.00% | ~392 |
 | A current under zee | 1.00% | ~392 |
 | Never Stop Sinking... | 0.90% | ~352 |
+| His bones in whispers | 0.90% | ~352 |
 | The beauty of the deep | 0.90% | ~352 |
 | Leviathan | 0.90% | ~352 |
 | No regrets | 0.90% | ~352 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,157 (Ranked 113)  
+Progressed: 39,161 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 4 (0.01%) (Ranked 299)
 | 2023-10-18 | 39,040 | 4 |
 | 2023-10-19 | 39,083 | 4 |
 | 2023-10-20 | 39,129 | 4 |
-| 2023-10-21 | 39,157 | 4 |
+| 2023-10-21 | 39,161 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 275)  
 Sum: 288 (Ranked 356)  

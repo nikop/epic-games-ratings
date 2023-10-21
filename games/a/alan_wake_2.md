@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 66.00% | ~79 |
-| Hunting Season | 50.00% | ~60 |
+| Nightmare Territory | 67.00% | ~80 |
+| Hunting Season | 51.00% | ~61 |
 | Grew Bigger | 45.00% | ~54 |
 | Bring It | 44.00% | ~52 |
 | Coffee Thermos | 44.00% | ~52 |
@@ -13,19 +13,19 @@
 | Find the Light | 34.00% | ~40 |
 | Not the Last | 33.00% | ~39 |
 | Chased the Source | 30.00% | ~36 |
+| Somebody's Home | 29.00% | ~35 |
 | Felt Good | 27.00% | ~32 |
-| Somebody's Home | 27.00% | ~32 |
+| Filling the Shape | 25.00% | ~30 |
 | Greatest Hits | 24.00% | ~29 |
 | Lights Shining | 24.00% | ~29 |
-| Filling the Shape | 24.00% | ~29 |
+| Secret Stashes | 24.00% | ~29 |
 | Yippee Ki-yay | 23.00% | ~27 |
-| Secret Stashes | 23.00% | ~27 |
 | The Other Side | 23.00% | ~27 |
+| Into the Overlap | 22.00% | ~26 |
 | Aimed Ahead | 21.00% | ~25 |
 | Carry his Words | 21.00% | ~25 |
-| Into the Overlap | 21.00% | ~25 |
 | Ready for a Fight | 20.00% | ~24 |
-| Lawman | 18.00% | ~21 |
+| Lawman | 19.00% | ~23 |
 | Storm Cloud | 16.00% | ~19 |
 | Shining in the Night | 16.00% | ~19 |
 | New York City | 16.00% | ~19 |
@@ -33,24 +33,24 @@
 | All Accounted For | 15.00% | ~18 |
 | Talk Show | 14.00% | ~17 |
 | Stop Right There | 13.00% | ~15 |
+| Finding a Way | 13.00% | ~15 |
 | This is the Moment | 12.00% | ~14 |
-| Finding a Way | 12.00% | ~14 |
 | Growing Stronger | 9.00% | ~11 |
+| All His Life | 9.00% | ~11 |
 | Escape its Gravity | 8.00% | ~10 |
 | Bright Falls' Finest | 8.00% | ~10 |
 | Stop the Monster | 8.00% | ~10 |
 | Stunning Vistas | 8.00% | ~10 |
-| All His Life | 8.00% | ~10 |
 | In One Go | 8.00% | ~10 |
 | The Trail of the Writer | 6.00% | ~7 |
 | Back in Watery | 6.00% | ~7 |
 | We Watch in the Night | 6.00% | ~7 |
 | Seeing Double | 6.00% | ~7 |
 | In a Fancy Hotel | 6.00% | ~7 |
+| Gone for Good | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |
 | Coffee-Themed Fun | 5.00% | ~6 |
 | Girl in Love | 4.00% | ~5 |
-| Gone for Good | 4.00% | ~5 |
 | The Story Come True | 4.00% | ~5 |
 | End of the Road | 4.00% | ~5 |
 | Told and Retold | 4.00% | ~5 |

@@ -4,7 +4,7 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -702,8 +702,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:07:04.24822+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:10:57.4935065+00:00",
   "LastUpdate_AppInfo": "2023-10-15T19:57:18.5271955+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:58:24.153049+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:07:04.2482392+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:00:53.5368279+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:10:57.4935203+00:00"
 }

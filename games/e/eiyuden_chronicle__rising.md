@@ -14,8 +14,8 @@ Number of Ratings: 48  (23.09.2022)
 | Partners? | 63.00% | ~437 |
 | Magical Mineral Golem | 56.00% | ~389 |
 | On Outlander Lane | 55.00% | ~382 |
+| A Girl About the Town | 52.00% | ~361 |
 | First Time Fishing | 52.00% | ~361 |
-| A Girl About the Town | 51.00% | ~354 |
 | First Time Hunting | 50.00% | ~347 |
 | Rune Wall Wreckage | 49.00% | ~340 |
 | ...And Your Tax Money | 47.00% | ~326 |

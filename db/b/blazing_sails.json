@@ -2,12 +2,12 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1009,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.8,
+  "Rating": 3.81,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -291,10 +291,16 @@
       "Rating": 3.8,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-21T12:59:23.7658747+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
+  "NumberOfAwards": 281,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -320,7 +326,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 20
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -371,8 +377,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-21T11:57:16.587275+00:00",
+  "LastChanged": "2023-10-21T12:59:23.7658745+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.6389481+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:57:16.5872758+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:06:16.2718263+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:59:23.765875+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:10:19.6132174+00:00"
 }

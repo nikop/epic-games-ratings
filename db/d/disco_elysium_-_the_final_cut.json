@@ -1394,7 +1394,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129924,
+  "EOS_Progressed": 129926,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
@@ -19684,6 +19684,11 @@
       "Time": "2023-10-21T12:04:50.7579901+00:00",
       "NumProgressed": 129924,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-21T13:08:53.9454366+00:00",
+      "NumProgressed": 129926,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19727,7 +19732,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23386
+      "UsersEstimate": 23387
     },
     {
       "ID": "ACH_COP_BAD",
@@ -19735,7 +19740,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH_COP_BORING",
@@ -19815,7 +19820,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -19847,7 +19852,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH_DOLORES",
@@ -19855,7 +19860,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12992
+      "UsersEstimate": 12993
     },
     {
       "ID": "ACH_GLUTEN",
@@ -19887,7 +19892,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7795
+      "UsersEstimate": 7796
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -19911,7 +19916,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18189
+      "UsersEstimate": 18190
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -19975,7 +19980,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18189
+      "UsersEstimate": 18190
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -19983,7 +19988,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -20014,15 +20019,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129924,
+      "Progressed": 129926,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-20T10:57:25.2184126+00:00",
-  "LastChanged_Achievements": "2023-10-21T12:04:50.7579892+00:00",
+  "LastChanged_Achievements": "2023-10-21T13:08:53.9454363+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:18.5281336+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:58:04.5488322+00:00",
-  "LastUpdate_Achievements": "2023-10-21T12:04:50.7581439+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:00:19.0937791+00:00",
+  "LastUpdate_Achievements": "2023-10-21T13:08:53.9455437+00:00"
 }
