@@ -78,7 +78,7 @@
 | 76 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 77 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.77% |
 | 78 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.71% |
-| 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.63% |
+| 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.62% |
 | 80 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 81 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.47% |
 | 82 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -238,11 +238,11 @@
 | 234 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 237 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 239 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 239 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 239 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
-| 239 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
+| 238 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.14% |
+| 240 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 240 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 240 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 240 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
 | 244 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 244 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
 | 244 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
