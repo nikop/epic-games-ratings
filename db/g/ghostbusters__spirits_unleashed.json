@@ -2595,9 +2595,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26980,
+  "EOS_Progressed": 26990,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15780,6 +15780,11 @@
       "Time": "2023-10-21T22:05:40.240113+00:00",
       "NumProgressed": 26980,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T23:04:57.6057576+00:00",
+      "NumProgressed": 26990,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15791,7 +15796,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Animated",
@@ -15903,7 +15908,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Escape_Artist",
@@ -16095,7 +16100,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "Summoner",
@@ -16198,7 +16203,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26980,
+      "Progressed": 26990,
       "Completed": 60
     }
   ],
@@ -16206,8 +16211,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T22:02:04.2972215+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:05:40.2401126+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:04:57.6057561+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:02:04.2972221+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:05:40.2402482+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:00:44.3994437+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:04:57.6058809+00:00"
 }

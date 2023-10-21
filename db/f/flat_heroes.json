@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1164,9 +1164,9 @@
       "ID": "KillGhostInACombo",
       "SetID": "d9ekhim",
       "Name": "Bubble Party",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "MultiNinjaSlayer",
@@ -1389,8 +1389,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:06:02.5962087+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:05:14.6886564+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.3981612+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:59:32.3773969+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:06:02.5962552+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:58:56.7735917+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:05:14.6886985+00:00"
 }

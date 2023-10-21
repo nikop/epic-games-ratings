@@ -6,19 +6,19 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,125 |
-| Leader | 60.00% | ~5,856 |
+| First Step | 73.00% | ~7,126 |
+| Leader | 60.00% | ~5,857 |
 | Explorer | 53.00% | ~5,173 |
-| Healer | 52.00% | ~5,075 |
-| Aspiring Inventor | 44.00% | ~4,294 |
-| Adventurer | 42.00% | ~4,099 |
+| Healer | 52.00% | ~5,076 |
+| Aspiring Inventor | 44.00% | ~4,295 |
+| Adventurer | 42.00% | ~4,100 |
 | Famous Healer | 38.00% | ~3,709 |
 | Local Leader | 35.00% | ~3,416 |
-| Famous Explorer | 34.00% | ~3,318 |
-| New Opportunities | 34.00% | ~3,318 |
+| Famous Explorer | 34.00% | ~3,319 |
+| New Opportunities | 34.00% | ~3,319 |
 | Energized | 33.00% | ~3,221 |
 | The Long Haul | 33.00% | ~3,221 |
-| Survivor | 32.00% | ~3,123 |
+| Survivor | 32.00% | ~3,124 |
 | The Great Healer | 31.00% | ~3,026 |
 | Legendary Explorer | 28.00% | ~2,733 |
 | Cleaner | 28.00% | ~2,733 |
@@ -31,14 +31,14 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 22.00% | ~2,147 |
 | Real Survivor | 22.00% | ~2,147 |
 | Rocket Surgeon | 20.00% | ~1,952 |
-| War Never Changes | 19.00% | ~1,854 |
+| War Never Changes | 19.00% | ~1,855 |
 | Friendly | 17.00% | ~1,659 |
 | Big Game Hunter | 17.00% | ~1,659 |
 | Around the World | 17.00% | ~1,659 |
 | Spreading Influence | 17.00% | ~1,659 |
 | Bookworm | 15.00% | ~1,464 |
-| Famous Adventurer | 14.00% | ~1,366 |
-| Prepared for Anything | 14.00% | ~1,366 |
+| Famous Adventurer | 14.00% | ~1,367 |
+| Prepared for Anything | 14.00% | ~1,367 |
 | Big Catastrofan | 13.00% | ~1,269 |
 | It's a Finnish Thing | 10.00% | ~976 |
 | Sky Burial | 10.00% | ~976 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,760 (Ranked 150)  
+Progressed: 9,761 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,11 +250,11 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 9,686 | 0 |
 | 2023-10-19 | 9,709 | 0 |
 | 2023-10-20 | 9,733 | 0 |
-| 2023-10-21 | 9,760 | 0 |
+| 2023-10-21 | 9,761 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 344)  
-Sum: 710 (Ranked 285)  
-Diff (max vs sum): 59  
+Sum: 710 (Ranked 286)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

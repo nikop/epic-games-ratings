@@ -35,8 +35,8 @@
 | Scholar | 43.00% | ~330 |
 | Operative | 42.00% | ~322 |
 | Veteran | 41.00% | ~314 |
+| Power Full | 41.00% | ~314 |
 | The Professor | 40.00% | ~307 |
-| Power Full | 40.00% | ~307 |
 | The Archangel | 39.00% | ~299 |
 | Completionist | 37.00% | ~284 |
 | Colony Defense | 37.00% | ~284 |
@@ -46,9 +46,9 @@
 | Broke, Blind, and Bedlam | 35.00% | ~268 |
 | Archivist | 34.00% | ~261 |
 | Ghost Ship | 34.00% | ~261 |
+| The Quarian | 34.00% | ~261 |
 | A Personal Touch | 33.00% | ~253 |
 | The Assassin | 33.00% | ~253 |
-| The Quarian | 33.00% | ~253 |
 | Ghost of the Father | 33.00% | ~253 |
 | The Prodigal | 33.00% | ~253 |
 | The Justicar | 32.00% | ~245 |

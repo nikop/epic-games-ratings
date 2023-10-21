@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -734,9 +734,9 @@
       "ID": "PORTRAIT_1",
       "SetID": "g10jki",
       "Name": "Portrait 1",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "PORTRAIT_10",
@@ -822,9 +822,9 @@
       "ID": "PORTRAIT_2",
       "SetID": "g10jki",
       "Name": "Portrait 2",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PORTRAIT_20",
@@ -870,9 +870,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "g10jki",
       "Name": "Portrait 3",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PORTRAIT_4",
@@ -894,25 +894,25 @@
       "ID": "PORTRAIT_6",
       "SetID": "g10jki",
       "Name": "Portrait 6",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "PORTRAIT_7",
       "SetID": "g10jki",
       "Name": "Portrait 7",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "PORTRAIT_8",
       "SetID": "g10jki",
       "Name": "Portrait 8",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PORTRAIT_9",
@@ -933,8 +933,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:09:19.6395127+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:09:06.0562241+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:16.6817332+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:57:37.1706587+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:09:19.6395359+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:57:32.7303898+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:09:06.0562473+00:00"
 }

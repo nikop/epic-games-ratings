@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 798,
+  "EOS_Progressed": 804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 803,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -340,6 +340,11 @@
       "Time": "2023-10-21T22:06:45.9744747+00:00",
       "NumProgressed": 798,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T23:05:47.4359472+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -550,7 +555,7 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -623,13 +628,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 798,
+      "Progressed": 804,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:06:45.974474+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:05:47.4359466+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
   "LastUpdate_Ratings": "2023-10-21T22:03:18.7040755+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:06:45.9745026+00:00"
+  "LastUpdate_Achievements": "2023-10-21T23:05:47.4359741+00:00"
 }

@@ -304,9 +304,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
@@ -424,9 +424,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:07:53.7163644+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:06:38.5922271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:01:36.089097+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:07:53.7164015+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:00:24.9651961+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:06:38.5922659+00:00"
 }

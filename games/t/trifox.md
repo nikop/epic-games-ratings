@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | What is this? | 70.00% | ~69 |
 | Complete Level 1-1 | 62.00% | ~61 |
-| Immortal | 53.00% | ~52 |
-| Complete Level 1-2 | 44.00% | ~43 |
+| Immortal | 54.00% | ~53 |
+| Complete Level 1-2 | 45.00% | ~44 |
 | Scraping by | 31.00% | ~30 |
 | Engineer-mage hybrid | 31.00% | ~30 |
 | Complete Level 1-3 | 28.00% | ~27 |

@@ -1095,9 +1095,9 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_46",
@@ -1173,8 +1173,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:05:12.5720937+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:04:36.0564342+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.9980076+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:58:37.8938241+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:05:12.5721421+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:58:20.0202204+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:04:36.0564892+00:00"
 }

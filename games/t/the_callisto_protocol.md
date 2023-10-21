@@ -33,10 +33,10 @@ Rating: 4.19 (Ranked 900)
 | One Last Job | 2.00% | ~82 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~29 |
-| Parole Denied | 0.70% | ~29 |
 | Big Spender | 0.70% | ~29 |
 | Information Overload | 0.70% | ~29 |
 | Grim Reaper | 0.60% | ~97 |
+| Parole Denied | 0.60% | ~24 |
 | Quick Pick | 0.60% | ~24 |
 | Mugshot | 0.50% | ~81 |
 | Instigator | 0.40% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 900)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,153 (Ranked 134)  
+Progressed: 16,156 (Ranked 134)  
 Completed: 75 (0.46%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 75 (0.46%) (Ranked 183)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,153 | 75 |
+| 2023-10-21 | 16,156 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 382)  
 Sum: 449 (Ranked 323)  

@@ -6323,9 +6323,9 @@
       "ID": "ACH_ALL_ITEMS",
       "SetID": "5nj1ea3",
       "Name": "Gotta get \u0027em all",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACH_ATOMIC_DRILL",
@@ -6780,8 +6780,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:04:18.8556506+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:03:46.2583796+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:07.6944115+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:03:07.1215502+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:04:18.8557484+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:02:13.0429299+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:03:46.2584712+00:00"
 }

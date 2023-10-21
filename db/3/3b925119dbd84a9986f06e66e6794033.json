@@ -2,7 +2,7 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 107,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 70,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-10-21T20:06:23.2834237+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T23:05:31.8269358+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -248,7 +253,7 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -272,7 +277,7 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -304,7 +309,7 @@
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -312,9 +317,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TKO2_DOMINO",
@@ -328,7 +333,7 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -336,23 +341,23 @@
       "ID": "TKO2_NOT_HERE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 70,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:06:25.323795+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:05:31.8269342+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:57:44.8867857+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:06:25.3238089+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:57:38.4425927+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:05:31.8269515+00:00"
 }

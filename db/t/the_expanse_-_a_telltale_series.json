@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14207,
+  "EOS_Progressed": 14210,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9256,6 +9256,11 @@
       "Time": "2023-10-21T22:05:41.8934991+00:00",
       "NumProgressed": 14207,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-21T23:04:58.7680354+00:00",
+      "NumProgressed": 14210,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9284,7 +9289,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "12",
@@ -9300,7 +9305,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "14",
@@ -9324,7 +9329,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "17",
@@ -9420,7 +9425,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "28",
@@ -9507,22 +9512,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14207,
+      "Progressed": 14210,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 161,
-      "Completed": 161
+      "Progressed": 164,
+      "Completed": 164
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-21T22:05:41.8934986+00:00",
+  "LastChanged_Achievements": "2023-10-21T23:04:58.7680348+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:59:24.4027346+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:05:41.8935803+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:58:50.952449+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:04:58.7681075+00:00"
 }

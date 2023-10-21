@@ -4,10 +4,10 @@
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 284,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1961,6 +1961,6 @@
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
   "LastChanged": "2023-10-21T16:00:21.399541+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:19.5274333+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:59:35.7255936+00:00",
-  "LastUpdate_Achievements": "2023-10-21T22:05:48.6947843+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:58:58.6346805+00:00",
+  "LastUpdate_Achievements": "2023-10-21T23:05:03.8359918+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.30% | ~2,679 |
+| Ten out of Ten | 0.30% | ~2,680 |
 | Full Body Conversion | 0.20% | ~1,786 |
 | Right Back At Ya | 0.20% | ~1,786 |
 | Gunslinger | 0.20% | ~1,786 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,157 (Ranked 15)  
+Progressed: 893,167 (Ranked 15)  
 Completed: 2,695 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,695 (0.30%) (Ranked 208)
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
-| 2023-10-21 | 893,157 | 2,695 |
+| 2023-10-21 | 893,167 | 2,695 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 317,602 (Ranked 11)  

@@ -14,7 +14,7 @@
 | Eat That Apple | 25.00% | ~151 |
 | Tornado Chaser | 14.00% | ~84 |
 | Bomberman | 10.00% | ~60 |
-| Bubble Party | 7.00% | ~42 |
+| Bubble Party | 8.00% | ~48 |
 | The Colossus | 7.00% | ~42 |
 | Floor is Lava | 6.00% | ~36 |
 | Pim Pam Pum | 5.00% | ~30 |

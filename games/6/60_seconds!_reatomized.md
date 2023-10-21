@@ -24,8 +24,8 @@ Rating: 4.60 (Ranked 402)
 | What goes around... | 44.00% | ~2,391 |
 | Be Prepared | 38.00% | ~2,065 |
 | Unbreakable | 37.00% | ~2,011 |
+| Gotta get 'em all | 34.00% | ~1,848 |
 | This is the end | 34.00% | ~1,848 |
-| Gotta get 'em all | 33.00% | ~1,793 |
 | Atomic drill | 32.00% | ~1,739 |
 | Disco Roach | 28.00% | ~1,522 |
 | Dawkins Residence | 22.00% | ~1,195 |

@@ -6,12 +6,12 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Too Shall Pass | 0.20% | ~3 |
-| How Romantic! | 0.20% | ~3 |
-| The Cost of Heroism | 0.20% | ~3 |
+| This Too Shall Pass | 0.30% | ~4 |
+| How Romantic! | 0.30% | ~4 |
+| The Cost of Heroism | 0.30% | ~4 |
+| Gotta Ca... Must Collect All of Them | 0.20% | ~3 |
 | Me and My Familiar | 0.10% | ~1 |
 | Let Me Get My Chisel | 0.10% | ~1 |
-| Gotta Ca... Must Collect All of Them | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
 | Completing the Look | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
@@ -26,6 +26,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 0.10% | ~1 |
 | Daybreak | 0.10% | ~1 |
 | Core Failure | 0.10% | ~1 |
+| Bears are Scary | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
@@ -48,7 +49,6 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Turncoat | 0.00% | ~0 |
-| Bears are Scary | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Grillmaster | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,432 (Ranked 224)  
+Progressed: 1,433 (Ranked 224)  
 Completed: 6 (0.42%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 6 (0.42%) (Ranked 192)
 | 2023-10-17 | 1,427 | 6 |
 | 2023-10-18 | 1,431 | 6 |
 | 2023-10-20 | 1,432 | 6 |
+| 2023-10-21 | 1,433 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

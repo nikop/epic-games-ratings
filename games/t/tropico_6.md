@@ -234,8 +234,8 @@ Completed: 2 (0.04%) (Ranked 280)
 | 2023-10-21 | 5,638 | 2 |
 ## Awards
 Max (Highly Recommended): 100  (Ranked 349)  
-Sum: 715 (Ranked 283)  
-Diff (max vs sum): 66  
+Sum: 715 (Ranked 284)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
