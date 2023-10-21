@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2214,6 +2214,11 @@
       "Time": "2023-10-21T00:04:20.5000418+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T01:44:31.6356769+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2223,9 +2228,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 591
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2233,7 +2238,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2241,7 +2246,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2265,7 +2270,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2297,7 +2302,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2345,7 +2350,7 @@
       "Name": "Burnt Smell",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2425,7 +2430,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2497,7 +2502,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2505,7 +2510,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2513,7 +2518,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2537,7 +2542,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2545,7 +2550,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2577,7 +2582,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2633,7 +2638,7 @@
       "Name": "Ancestral Banquet",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NOTEM_ACHIEVEMENT_1",
@@ -2673,7 +2678,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2752,14 +2757,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:04:20.5000411+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:44:31.6356761+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:58:53.9702448+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:04:20.5001231+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:39:15.0959048+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:44:31.635757+00:00"
 }

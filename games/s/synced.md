@@ -1,17 +1,17 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 914)  
+Rating: 4.16 (Ranked 917)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,825 |
-| As Far Away As Possible | 16.00% | ~10,232 |
-| A Most Unstable Organism | 12.00% | ~7,674 |
-| No Time to Follow Protocol | 10.00% | ~6,395 |
-| Float Like a Butterfly... | 8.00% | ~5,116 |
-| Nano Connoisseur | 6.00% | ~3,837 |
-| In Two Places At Once | 6.00% | ~3,837 |
+| Your Lucky Day | 31.00% | ~19,828 |
+| As Far Away As Possible | 16.00% | ~10,234 |
+| A Most Unstable Organism | 12.00% | ~7,675 |
+| No Time to Follow Protocol | 10.00% | ~6,396 |
+| Float Like a Butterfly... | 8.00% | ~5,117 |
+| Nano Connoisseur | 6.00% | ~3,838 |
+| In Two Places At Once | 6.00% | ~3,838 |
 | Pulling Your Weight | 3.00% | ~1,919 |
 | Reaping Rivals | 3.00% | ~1,919 |
 | fifteenth Time's the Charm | 1.00% | ~640 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 914)
 | Runs for Your Money | 0.20% | ~128 |
 | Past Master | 0.20% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,952 (Ranked 98)  
+Progressed: 63,961 (Ranked 98)  
 Completed: 20 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 20 (0.03%) (Ranked 286)
 | 2023-10-18 | 63,694 | 18 |
 | 2023-10-19 | 63,825 | 20 |
 | 2023-10-20 | 63,949 | 20 |
-| 2023-10-21 | 63,952 | 20 |
+| 2023-10-21 | 63,961 | 20 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 385)  
-Sum: 250 (Ranked 367)  
+Sum: 251 (Ranked 367)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -90,7 +90,7 @@ Diff (max vs sum): 18
 | This game is Extremely Fun | 33 |
 | This game has a Competitive Community | 32 |
 | This game has Amazing Storytelling | 30 |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 29 |
 | This game is Relaxing | 24 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -138,3 +138,4 @@ Diff (max vs sum): 18
 | 2023-10-18 | 4.17 | 71 | 267 |
 | 2023-10-19 | 4.17 | 74 | 270 |
 | 2023-10-20 | 4.17 | 74 | 274 |
+| 2023-10-21 | 4.16 | 74 | 251 |

@@ -3,7 +3,7 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 481,
-  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -505,9 +505,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 81,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:54.87519+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:46:30.4043991+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:01:51.8496541+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:54.8752795+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:42:54.7320244+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:46:30.4044837+00:00"
 }

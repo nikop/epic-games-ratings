@@ -20,8 +20,8 @@ Number of Ratings: 180  (23.09.2022)
 | Transport master | 53.00% | ~935 |
 | Cadet | 53.00% | ~935 |
 | Cargo hub | 53.00% | ~935 |
+| Sculpturer | 50.00% | ~882 |
 | Settled down | 49.00% | ~865 |
-| Sculpturer | 49.00% | ~865 |
 | First electric train arrived | 47.00% | ~830 |
 | Now what? | 46.00% | ~812 |
 | First ship arrived | 45.00% | ~794 |
@@ -244,14 +244,14 @@ Completed: 1 (0.06%) (Ranked 270)
 | 2023-10-21 | 1,765 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 437)  
-Sum: 294 (Ranked 353)  
+Sum: 295 (Ranked 353)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 38 |
 | This game has Amazing Storytelling | 37 |
-| This game is Extremely Fun | 35 |
+| This game is Extremely Fun | 36 |
 | This game has Quickly Understood Controls | 33 |
 | This game is Relaxing | 32 |
 | This game has a Creative Community | 28 |
@@ -351,3 +351,4 @@ Diff (max vs sum): 84
 | 2023-10-03 | 4.69 | - | 42 | 292 |
 | 2023-10-09 | 4.69 | - | 42 | 293 |
 | 2023-10-17 | 4.69 | - | 42 | 294 |
+| 2023-10-21 | 4.69 | - | 42 | 295 |

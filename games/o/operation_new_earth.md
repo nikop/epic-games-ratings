@@ -9,8 +9,8 @@ Rating: 3.38 (Ranked 1,020)
 | Defenses Online | 26.00% | ~424 |
 | Facility Online | 21.00% | ~343 |
 | Corporal | 15.00% | ~245 |
+| Covert Operative | 13.00% | ~212 |
 | Sergeant | 12.00% | ~196 |
-| Covert Operative | 12.00% | ~196 |
 | Keeping Busy | 10.00% | ~163 |
 | Lieutenant | 10.00% | ~163 |
 | Getting Deployment | 10.00% | ~163 |

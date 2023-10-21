@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get lost! | 94.00% | ~74 |
-| Elevator Pitch | 81.00% | ~64 |
-| Beam me up | 61.00% | ~48 |
-| Rock Bottom | 57.00% | ~45 |
+| Elevator Pitch | 84.00% | ~66 |
+| Beam me up | 63.00% | ~50 |
+| Rock Bottom | 59.00% | ~47 |
 | Uncaged | 19.00% | ~15 |
 | The end is nigh! | 14.00% | ~11 |
 | Get Together | 14.00% | ~11 |
@@ -16,7 +16,7 @@
 | The best of both worlds | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 412)  
-Completed: 0 (0.00%) (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,8 +3,8 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2818,
+  "EOS_Progressed": 2819,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3756,6 +3756,11 @@
       "Time": "2023-10-20T22:04:21.0299357+00:00",
       "NumProgressed": 2818,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-21T01:43:45.4241553+00:00",
+      "NumProgressed": 2819,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3807,7 +3812,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "SLIDERS",
@@ -3863,14 +3868,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2818,
+      "Progressed": 2819,
       "Completed": 6
     }
   ],
@@ -3878,8 +3883,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:03:20.6739362+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:43:45.4241548+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:51.2813216+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:01:29.4802205+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:03:20.6740103+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:42:25.6316884+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:43:45.4241964+00:00"
 }

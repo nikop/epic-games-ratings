@@ -5,10 +5,10 @@
   "Ranking_Rating": 978,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -522,6 +522,11 @@
       "Time": "2023-10-20T14:03:36.5338087+00:00",
       "NumProgressed": 94,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T01:43:50.0592165+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -532,7 +537,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 85
     },
@@ -548,7 +553,7 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 25
     },
@@ -596,7 +601,7 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
       "UsersEstimate": 9
     },
@@ -620,7 +625,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 84
     },
@@ -676,7 +681,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
       "UsersEstimate": 79
     },
@@ -708,7 +713,7 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 65
     },
@@ -724,7 +729,7 @@
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -756,7 +761,7 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -764,7 +769,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
       "UsersEstimate": 83
     },
@@ -780,7 +785,7 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 57
     },
@@ -820,7 +825,7 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -884,7 +889,7 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -909,7 +914,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 1
     }
   ],
@@ -917,8 +922,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:03:24.6806429+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:43:50.0592161+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.0785415+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:59:22.3360063+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:03:24.6807017+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:39:51.6335276+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:43:50.0592661+00:00"
 }

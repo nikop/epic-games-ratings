@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -571,10 +571,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 294,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-21T01:37:42.7703879+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 294,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -594,7 +600,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -641,7 +647,7 @@
   ],
   "EOS_Progressed": 1765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4503,9 +4509,9 @@
       "ID": "achLandscape",
       "SetID": "dgl390n",
       "Name": "Sculpturer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 882
     },
     {
       "ID": "achLongestTrain",
@@ -4678,9 +4684,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2023-10-17T18:00:35.1820377+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:07:45.5305055+00:00",
+  "LastChanged": "2023-10-21T01:37:42.7703872+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:48:47.6043803+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.4175096+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:57:34.7079373+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:07:45.5305871+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:37:42.7703883+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:48:47.6044593+00:00"
 }

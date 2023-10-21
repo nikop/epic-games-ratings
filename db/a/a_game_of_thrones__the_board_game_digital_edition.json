@@ -6,7 +6,7 @@
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 213,
+  "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -1278,9 +1278,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26503,
+  "EOS_Progressed": 26507,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -20953,6 +20953,11 @@
       "Time": "2023-10-21T00:06:47.9973054+00:00",
       "NumProgressed": 26503,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-21T01:47:42.1787595+00:00",
+      "NumProgressed": 26507,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -21036,7 +21041,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "1025",
@@ -21060,7 +21065,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "1028",
@@ -21076,7 +21081,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "1030",
@@ -21092,7 +21097,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3710
+      "UsersEstimate": 3711
     },
     {
       "ID": "1032",
@@ -21100,7 +21105,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10601
+      "UsersEstimate": 10603
     },
     {
       "ID": "1033",
@@ -21124,7 +21129,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3445
+      "UsersEstimate": 3446
     },
     {
       "ID": "1036",
@@ -21132,22 +21137,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26503,
+      "Progressed": 26507,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:06:47.9973044+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:47:42.1787585+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:02:09.3487334+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:06:47.9974494+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:43:16.0849982+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:47:42.1789117+00:00"
 }

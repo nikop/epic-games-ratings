@@ -30,9 +30,9 @@ Rating: 4.50 (Ranked 576)
 | There you are! | 1.00% | ~268 |
 | Welcome to the Crew | 1.00% | ~268 |
 | Whoopsie | 1.00% | ~268 |
-| Skilled | 0.90% | ~241 |
-| Stunner | 0.90% | ~241 |
-| Legions | 0.80% | ~215 |
+| Legions | 0.90% | ~242 |
+| Skilled | 0.90% | ~242 |
+| Stunner | 0.90% | ~242 |
 | Pesky Jerks | 0.80% | ~215 |
 | We have the best insurance | 0.70% | ~188 |
 | Seasoned | 0.70% | ~188 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,833 (Ranked 119)  
-Completed: 60 (0.22%) (Ranked 218)  
+Progressed: 26,845 (Ranked 119)  
+Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,21 +241,21 @@ Completed: 60 (0.22%) (Ranked 218)
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
-| 2023-10-21 | 26,833 | 60 |
+| 2023-10-21 | 26,845 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
-Sum: 2,442 (Ranked 187)  
+Sum: 2,451 (Ranked 187)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 273 |
 | This game is Great for Beginners | 268 |
 | This game has Competitive Players | 247 |
+| This game has Amazing Storytelling | 245 |
+| This game is Relaxing | 244 |
 | This game has Diverse Characters | 242 |
-| This game has Amazing Storytelling | 242 |
 | This game is Extremely Fun | 241 |
 | This game is Highly Recommended | 240 |
-| This game is Relaxing | 238 |
 | This game has Amazing Characters | 226 |
 | This game has Quickly Understood Controls | 225 |
 | This game has Playful Visuals | 94 |
@@ -450,3 +450,4 @@ Diff (max vs sum): 67
 | 2023-10-18 | 4.50 | 264 | 2,405 |
 | 2023-10-19 | 4.50 | 266 | 2,420 |
 | 2023-10-20 | 4.50 | 273 | 2,442 |
+| 2023-10-21 | 4.50 | 273 | 2,451 |

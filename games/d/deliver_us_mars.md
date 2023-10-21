@@ -1,7 +1,7 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.14 (Ranked 928)  
+Rating: 4.14 (Ranked 929)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 4.14 (Ranked 928)
 | Who waits five minutes, seriously? | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7 (Ranked 556)  
-Completed: 0 (0.00%) (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

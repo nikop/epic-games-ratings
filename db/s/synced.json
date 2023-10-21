@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 917,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 98,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -697,10 +697,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 250,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-21T01:40:00.9571273+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 251,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 250,
+  "NumberOfAwards": 251,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -744,7 +750,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -759,9 +765,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 63952,
+  "EOS_Progressed": 63961,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 1022,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5994,6 +6000,11 @@
       "Time": "2023-10-21T00:09:21.8540345+00:00",
       "NumProgressed": 63952,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-21T01:50:13.6742377+00:00",
+      "NumProgressed": 63961,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6006,7 +6017,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19825
+      "UsersEstimate": 19828
     },
     {
       "ID": "10",
@@ -6046,7 +6057,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "15",
@@ -6070,7 +6081,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10232
+      "UsersEstimate": 10234
     },
     {
       "ID": "3",
@@ -6078,7 +6089,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7674
+      "UsersEstimate": 7675
     },
     {
       "ID": "4",
@@ -6086,7 +6097,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "5",
@@ -6094,7 +6105,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5116
+      "UsersEstimate": 5117
     },
     {
       "ID": "6",
@@ -6102,7 +6113,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3837
+      "UsersEstimate": 3838
     },
     {
       "ID": "7",
@@ -6133,16 +6144,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 63952,
+      "Progressed": 63961,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-20T11:59:08.1834491+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:09:21.8540338+00:00",
+  "LastChanged": "2023-10-21T01:40:00.957127+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:50:13.6742369+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:34.3906075+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:59:29.1616794+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:09:21.8540871+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:40:00.9571277+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:50:13.674283+00:00"
 }

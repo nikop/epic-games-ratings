@@ -59,7 +59,7 @@ Rating: 4.48 (Ranked 611)
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,156 (Ranked 229)  
-Completed: 0 (0.00%) (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

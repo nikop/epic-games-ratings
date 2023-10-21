@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2491,10 +2491,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2442,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-10-21T01:42:30.4958716+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2451,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2442,
+  "NumberOfAwards": 2451,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2544,7 +2550,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 242
+      "Count": 245
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2556,7 +2562,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 238
+      "Count": 244
     },
     {
       "Text": "This game has Competitive Players",
@@ -2571,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26833,
+  "EOS_Progressed": 26845,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15651,6 +15657,11 @@
       "Time": "2023-10-21T00:05:16.5995978+00:00",
       "NumProgressed": 26833,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T01:45:35.4953531+00:00",
+      "NumProgressed": 26845,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15828,9 +15839,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 242
     },
     {
       "ID": "Liability",
@@ -15942,7 +15953,7 @@
       "Name": "Skilled",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Solo_Capture",
@@ -15958,7 +15969,7 @@
       "Name": "Stunner",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Stylish",
@@ -16069,16 +16080,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26833,
+      "Progressed": 26845,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-20T23:02:52.0626781+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:16.5995972+00:00",
+  "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:45:35.4953525+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:01:34.6206221+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:16.5997304+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:42:30.495872+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:45:35.4954803+00:00"
 }

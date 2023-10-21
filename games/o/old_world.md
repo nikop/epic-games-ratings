@@ -10,28 +10,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~445 |
 | Friendly Family | 3.00% | ~445 |
 | Play a Single Player Game | 3.00% | ~445 |
-| Able | 2.00% | ~296 |
-| Architect | 2.00% | ~296 |
-| Enlightened | 2.00% | ~296 |
-| Glorious | 2.00% | ~296 |
-| Good | 2.00% | ~296 |
-| Intrepid | 2.00% | ~296 |
-| Just | 2.00% | ~296 |
-| Keystone | 2.00% | ~296 |
-| Learned | 2.00% | ~296 |
-| Mason | 2.00% | ~296 |
-| Noble | 2.00% | ~296 |
-| Pioneer | 2.00% | ~296 |
-| Strong | 2.00% | ~296 |
-| Warrior | 2.00% | ~296 |
-| Strong Cities | 2.00% | ~296 |
-| Hanging Gardens | 2.00% | ~296 |
-| Oracle | 2.00% | ~296 |
-| Judaism | 2.00% | ~296 |
-| Babylonian Paganism | 2.00% | ~296 |
-| Naming Landmarks | 2.00% | ~296 |
-| Trade Caravan | 2.00% | ~296 |
-| Kushite Paganism | 2.00% | ~296 |
+| Able | 2.00% | ~297 |
+| Architect | 2.00% | ~297 |
+| Enlightened | 2.00% | ~297 |
+| Glorious | 2.00% | ~297 |
+| Good | 2.00% | ~297 |
+| Intrepid | 2.00% | ~297 |
+| Just | 2.00% | ~297 |
+| Keystone | 2.00% | ~297 |
+| Learned | 2.00% | ~297 |
+| Mason | 2.00% | ~297 |
+| Noble | 2.00% | ~297 |
+| Pioneer | 2.00% | ~297 |
+| Strong | 2.00% | ~297 |
+| Warrior | 2.00% | ~297 |
+| Strong Cities | 2.00% | ~297 |
+| Hanging Gardens | 2.00% | ~297 |
+| Oracle | 2.00% | ~297 |
+| Judaism | 2.00% | ~297 |
+| Babylonian Paganism | 2.00% | ~297 |
+| Naming Landmarks | 2.00% | ~297 |
+| Trade Caravan | 2.00% | ~297 |
+| Kushite Paganism | 2.00% | ~297 |
 | Regicide | 1.00% | ~148 |
 | Ambitious | 1.00% | ~148 |
 | Drillmaster | 1.00% | ~148 |
@@ -76,18 +76,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
 | Victorious | 0.80% | ~119 |
+| Good Difficulty | 0.80% | ~119 |
 | Mausoleum | 0.80% | ~119 |
 | Learn to Play 3 | 0.80% | ~119 |
 | Points Victory | 0.80% | ~119 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Invincible | 0.70% | ~104 |
-| Good Difficulty | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Greece | 0.70% | ~104 |
 | Power to the People | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
+| Double Victory | 0.70% | ~104 |
 | Subjugator | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
-| Double Victory | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Capable | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
 | Assyrian Paganism | 0.50% | ~74 |
+| Hittite Paganism | 0.50% | ~74 |
 | Industrial Progress | 0.50% | ~74 |
 | Dualism | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
-| Hittite Paganism | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,824 (Ranked 138)  
+Progressed: 14,827 (Ranked 138)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,6 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
+| 2023-10-21 | 14,827 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

@@ -1,7 +1,7 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.58 (Ranked 439)  
+Rating: 4.58 (Ranked 438)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,7 +61,7 @@ Rating: 4.58 (Ranked 439)
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 686 (Ranked 260)  
-Completed: 0 (0.00%) (Ranked 317)  
+Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

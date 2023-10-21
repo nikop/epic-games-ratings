@@ -3,7 +3,7 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -959,9 +959,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -991,17 +991,17 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -1175,9 +1175,9 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1279,9 +1279,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -1334,8 +1334,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:57.621515+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:46:33.5459773+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:58:19.6644713+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:57.6216254+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:38:37.8257139+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:46:33.5460863+00:00"
 }

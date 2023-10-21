@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1888,
+  "EOS_Progressed": 1889,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2239,6 +2239,11 @@
       "Time": "2023-10-21T00:05:39.5494494+00:00",
       "NumProgressed": 1888,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T01:46:12.3326823+00:00",
+      "NumProgressed": 1889,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2258,7 +2263,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2282,7 +2287,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2296,9 +2301,9 @@
       "ID": "ACH_ELUSIVE_PREY",
       "SetID": "8j30i9k",
       "Name": "Elusive Prey",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2490,7 +2495,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_PERKY",
@@ -2498,7 +2503,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2546,7 +2551,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2618,7 +2623,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2626,7 +2631,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2634,7 +2639,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2666,22 +2671,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1888,
+      "Progressed": 1889,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:39.5494481+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:46:12.3326818+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:00:04.0032844+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:39.5495119+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:40:43.2570422+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:46:12.3327397+00:00"
 }

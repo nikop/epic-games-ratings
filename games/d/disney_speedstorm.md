@@ -5,17 +5,17 @@ Rating: 4.40 (Ranked 723)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,046 |
-| IT MAKES BOOM! | 3.00% | ~7,228 |
-| EXTRA BOOST | 2.00% | ~4,818 |
-| PROTECTED | 2.00% | ~4,818 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,409 |
-| AGGRESSIVE RACER | 1.00% | ~2,409 |
-| PRO | 1.00% | ~2,409 |
-| A TIGER'S FEAR | 0.90% | ~2,168 |
-| ACE SPEEDSTER | 0.50% | ~1,205 |
-| IT'S A LONG WAY TO THE TOP | 0.40% | ~964 |
-| DEFEAT OUR CHAMPION | 0.40% | ~964 |
+| ROOKIE | 5.00% | ~12,057 |
+| IT MAKES BOOM! | 3.00% | ~7,234 |
+| EXTRA BOOST | 2.00% | ~4,823 |
+| PROTECTED | 2.00% | ~4,823 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,411 |
+| AGGRESSIVE RACER | 1.00% | ~2,411 |
+| PRO | 1.00% | ~2,411 |
+| A TIGER'S FEAR | 0.90% | ~2,170 |
+| ACE SPEEDSTER | 0.50% | ~1,206 |
+| IT'S A LONG WAY TO THE TOP | 0.40% | ~965 |
+| DEFEAT OUR CHAMPION | 0.40% | ~965 |
 | TRAINING HARD | 0.30% | ~723 |
 | RELEASE THE KRAKEN | 0.30% | ~723 |
 | BE OUR GUEST | 0.30% | ~723 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 723)
 | ACE TRICKSTER | 0.20% | ~482 |
 | FRAMED! | 0.10% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,917 (Ranked 56)  
+Progressed: 241,149 (Ranked 56)  
 Completed: 236 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,17 +210,17 @@ Completed: 236 (0.10%) (Ranked 250)
 | 2023-10-18 | 235,284 | 235 |
 | 2023-10-19 | 237,962 | 235 |
 | 2023-10-20 | 240,782 | 236 |
-| 2023-10-21 | 240,917 | 236 |
+| 2023-10-21 | 241,149 | 236 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 471)  
-Sum: 131 (Ranked 419)  
-Diff (max vs sum): 52  
+Sum: 133 (Ranked 418)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 32 |
 | This game is Great for Quick Sessions | 31 |
 | This game has Amazing Characters | 25 |
-| This game is Great for Beginners | 22 |
+| This game is Great for Beginners | 24 |
 | This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -245,3 +245,4 @@ Diff (max vs sum): 52
 | 2023-10-18 | 4.42 | 29 | 119 |
 | 2023-10-19 | 4.41 | 31 | 126 |
 | 2023-10-20 | 4.41 | 32 | 131 |
+| 2023-10-21 | 4.40 | 32 | 133 |

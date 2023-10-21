@@ -3,7 +3,7 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1582,
+  "EOS_Progressed": 1583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3202,6 +3202,11 @@
       "Time": "2023-10-21T00:09:01.7447794+00:00",
       "NumProgressed": 1582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T01:49:40.3467814+00:00",
+      "NumProgressed": 1583,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3214,7 +3219,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3222,7 +3227,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3605,14 +3610,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1582,
+      "Progressed": 1583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:09:01.7447785+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:49:40.3467809+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:00:11.5457143+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:09:01.7448431+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:40:54.4543116+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:49:40.3468486+00:00"
 }

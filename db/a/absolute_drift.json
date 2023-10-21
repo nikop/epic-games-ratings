@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546052,
+  "EOS_Progressed": 1546058,
   "EOS_Completed": 707,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21232,6 +21232,11 @@
       "Time": "2023-10-21T00:05:44.7869838+00:00",
       "NumProgressed": 1546052,
       "NumCompleted": 707
+    },
+    {
+      "Time": "2023-10-21T01:46:18.5271856+00:00",
+      "NumProgressed": 1546058,
+      "NumCompleted": 707
     }
   ],
   "TotalAchievements": 20,
@@ -21339,7 +21344,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154605
+      "UsersEstimate": 154606
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -21363,7 +21368,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13914
+      "UsersEstimate": 13915
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -21402,15 +21407,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1546052,
+      "Progressed": 1546058,
       "Completed": 707
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:44.7869831+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:46:18.5271849+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:37.6128187+00:00",
-  "LastUpdate_Ratings": "2023-10-21T00:01:01.3952202+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:44.787136+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:41:56.7669504+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:46:18.5273337+00:00"
 }

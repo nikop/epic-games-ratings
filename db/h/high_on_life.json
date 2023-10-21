@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24275,
+  "EOS_Progressed": 24276,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -5794,6 +5794,11 @@
       "Time": "2023-10-21T00:03:24.5972053+00:00",
       "NumProgressed": 24275,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-21T01:43:49.9902363+00:00",
+      "NumProgressed": 24276,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5971,9 +5976,9 @@
       "ID": "ACH_KILL_NIPULON",
       "SetID": "cdkbb11",
       "Name": "Self-Actualization",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 194
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -6156,13 +6161,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24275,
+      "Progressed": 24276,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1568,
+      "Progressed": 1569,
       "Completed": 1373
     }
   ],
@@ -6170,8 +6175,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-07T05:03:09.4311759+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:03:24.5972047+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:43:49.9902358+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:58:55.6587165+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:03:24.5972983+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:39:18.8698631+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:43:49.9903198+00:00"
 }

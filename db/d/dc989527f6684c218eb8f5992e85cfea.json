@@ -3,8 +3,8 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12764,
+  "EOS_Progressed": 12766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12559,6 +12559,11 @@
       "Time": "2023-10-21T00:04:02.8227926+00:00",
       "NumProgressed": 12764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T01:44:10.9648012+00:00",
+      "NumProgressed": 12766,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12642,7 +12647,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12658,7 +12663,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12769,14 +12774,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12764,
+      "Progressed": 12766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:04:02.8227919+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:44:10.9648004+00:00",
   "LastUpdate_AppInfo": "2023-10-14T02:11:04.1756812+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:57:22.3878661+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:04:02.8228993+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:37:27.5767744+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:44:10.9648996+00:00"
 }

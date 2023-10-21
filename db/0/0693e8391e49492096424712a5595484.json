@@ -1971,9 +1971,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "BasiliskFishingRod",
@@ -2131,9 +2131,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 253
     },
     {
       "ID": "HastrmanHappy",
@@ -2195,9 +2195,9 @@
       "ID": "PriestPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Zonked",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 179
     },
     {
       "ID": "PriestRogue",
@@ -2291,9 +2291,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "SwordDiamond",
@@ -2330,8 +2330,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:05:03.6706488+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:45:19.4522594+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:58:39.1918746+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:05:03.6706999+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:38:59.1716306+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:45:19.4523007+00:00"
 }

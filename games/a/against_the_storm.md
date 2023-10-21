@@ -9,11 +9,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | First Real Expedition | 6.00% | ~1,020 |
 | Overcoming Difficulty | 6.00% | ~1,020 |
 | The Marshlands | 6.00% | ~1,020 |
+| The Scarlet Orchard | 6.00% | ~1,020 |
 | Taking Action | 6.00% | ~1,020 |
 | No Deaths | 6.00% | ~1,020 |
 | Fertile Meadows | 5.00% | ~850 |
 | Coral Forest | 5.00% | ~850 |
-| The Scarlet Orchard | 5.00% | ~850 |
 | Homesick | 4.00% | ~680 |
 | Bandit Camp | 4.00% | ~680 |
 | Barren Lands | 4.00% | ~680 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,993 (Ranked 132)  
-Completed: 52 (0.31%) (Ranked 203)  
+Completed: 52 (0.31%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

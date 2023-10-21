@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 956)  
+Rating: 4.06 (Ranked 957)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,395 (Ranked 59)  
-Completed: 2,375 (1.02%) (Ranked 145)  
+Progressed: 232,404 (Ranked 59)  
+Completed: 2,376 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -719,14 +719,14 @@ Completed: 2,375 (1.02%) (Ranked 145)
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
-| 2023-10-21 | 232,395 | 2,375 |
+| 2023-10-21 | 232,404 | 2,376 |
 ## Awards
-Max (Great for Beginners): 5,424  (Ranked 69)  
-Sum: 32,131 (Ranked 41)  
+Max (Great for Beginners): 5,432  (Ranked 69)  
+Sum: 32,139 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,424 |
+| This game is Great for Beginners | 5,432 |
 | This game has Diverse Characters | 5,420 |
 | This game has Quickly Understood Controls | 4,795 |
 | This game is Relaxing | 4,683 |
@@ -1004,3 +1004,4 @@ Diff (max vs sum): 28
 | 2023-10-18 | 4.06 | - | 5,419 | 32,103 |
 | 2023-10-19 | 4.06 | - | 5,424 | 32,121 |
 | 2023-10-20 | 4.06 | - | 5,424 | 32,131 |
+| 2023-10-21 | 4.06 | - | 5,432 | 32,139 |

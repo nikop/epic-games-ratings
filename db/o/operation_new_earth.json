@@ -6257,9 +6257,9 @@
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 212
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6386,8 +6386,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-21T00:07:49.8469419+00:00",
+  "LastChanged_Achievements": "2023-10-21T01:49:02.6688761+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:58:11.8056265+00:00",
-  "LastUpdate_Achievements": "2023-10-21T00:07:49.8470165+00:00"
+  "LastUpdate_Ratings": "2023-10-21T01:38:24.9599601+00:00",
+  "LastUpdate_Achievements": "2023-10-21T01:49:02.6689451+00:00"
 }
