@@ -2262,9 +2262,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 100
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2366,9 +2366,9 @@
       "ID": "BURN_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 119
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2773,8 +2773,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:04:21.3994879+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:05:02.618224+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:58:49.6323413+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:04:21.3995593+00:00"
+  "LastUpdate_Ratings": "2023-10-21T03:59:29.3207169+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:05:02.6183752+00:00"
 }

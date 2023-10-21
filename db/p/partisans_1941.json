@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -3345,9 +3345,9 @@
       "ID": "Your_turn",
       "SetID": "85nb4h3",
       "Name": "Your Answer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
@@ -3361,8 +3361,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:04:09.7197971+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:04:46.1338467+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:40.4893349+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:00:40.3210423+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:04:09.719836+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:02:14.6539016+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:04:46.133889+00:00"
 }

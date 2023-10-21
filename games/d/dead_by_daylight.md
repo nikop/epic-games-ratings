@@ -6,40 +6,40 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~28,618 |
-| It wakes | 3.00% | ~28,618 |
-| Skillful | 3.00% | ~28,618 |
-| No one left behind | 2.00% | ~19,079 |
-| Medic | 2.00% | ~19,079 |
-| Handyman | 2.00% | ~19,079 |
-| Not half bad | 2.00% | ~19,079 |
-| Bloody Millionaire | 2.00% | ~19,079 |
-| Apt Survivor | 2.00% | ~19,079 |
-| Survival Treasures | 2.00% | ~19,079 |
-| I | 2.00% | ~19,079 |
-| Sorted | 2.00% | ~19,079 |
-| Healthy Obsession | 2.00% | ~19,079 |
-| Resurgence | 2.00% | ~19,079 |
-| Make Some Noise | 2.00% | ~19,079 |
-| The Grand Sacrifice | 1.00% | ~9,539 |
-| Agonizing Escape | 1.00% | ~9,539 |
-| Backdoor Escape | 1.00% | ~9,539 |
-| I've got your back | 1.00% | ~9,539 |
-| Nerves of steel | 1.00% | ~9,539 |
-| Perfect Escape | 1.00% | ~9,539 |
-| Perfect Killing | 1.00% | ~9,539 |
-| Apt Killer | 1.00% | ~9,539 |
-| Risk it all | 1.00% | ~9,539 |
-| Vulture | 1.00% | ~9,539 |
-| II | 1.00% | ~9,539 |
-| Engineer | 1.00% | ~9,539 |
-| Wounded Healer | 1.00% | ~9,539 |
-| Close Shave | 1.00% | ~9,539 |
-| Preemptive Strike | 1.00% | ~9,539 |
-| Humanitarian | 1.00% | ~9,539 |
-| Second Act | 1.00% | ~9,539 |
-| III | 0.90% | ~8,586 |
-| With Scars to Show | 0.90% | ~8,586 |
+| Zealous | 3.00% | ~28,622 |
+| It wakes | 3.00% | ~28,622 |
+| Skillful | 3.00% | ~28,622 |
+| No one left behind | 2.00% | ~19,081 |
+| Medic | 2.00% | ~19,081 |
+| Handyman | 2.00% | ~19,081 |
+| Not half bad | 2.00% | ~19,081 |
+| Bloody Millionaire | 2.00% | ~19,081 |
+| Apt Survivor | 2.00% | ~19,081 |
+| Survival Treasures | 2.00% | ~19,081 |
+| I | 2.00% | ~19,081 |
+| Sorted | 2.00% | ~19,081 |
+| Healthy Obsession | 2.00% | ~19,081 |
+| Resurgence | 2.00% | ~19,081 |
+| Make Some Noise | 2.00% | ~19,081 |
+| The Grand Sacrifice | 1.00% | ~9,541 |
+| Agonizing Escape | 1.00% | ~9,541 |
+| Backdoor Escape | 1.00% | ~9,541 |
+| I've got your back | 1.00% | ~9,541 |
+| Nerves of steel | 1.00% | ~9,541 |
+| Perfect Escape | 1.00% | ~9,541 |
+| Perfect Killing | 1.00% | ~9,541 |
+| Apt Killer | 1.00% | ~9,541 |
+| Risk it all | 1.00% | ~9,541 |
+| Vulture | 1.00% | ~9,541 |
+| II | 1.00% | ~9,541 |
+| Engineer | 1.00% | ~9,541 |
+| Wounded Healer | 1.00% | ~9,541 |
+| Close Shave | 1.00% | ~9,541 |
+| Preemptive Strike | 1.00% | ~9,541 |
+| Humanitarian | 1.00% | ~9,541 |
+| Second Act | 1.00% | ~9,541 |
+| III | 0.90% | ~8,587 |
+| With Scars to Show | 0.90% | ~8,587 |
 | Escape Artist | 0.80% | ~7,632 |
 | Cherish your Life | 0.80% | ~7,632 |
 | First to the Punch | 0.80% | ~7,632 |
@@ -52,6 +52,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 0.70% | ~6,678 |
 | All Aboard | 0.70% | ~6,678 |
 | Item of Obsession | 0.70% | ~6,678 |
+| House of Pain | 0.70% | ~6,678 |
 | Holiday Get-Together | 0.70% | ~6,678 |
 | Near-Death Experience | 0.70% | ~6,678 |
 | Unforgettable Getaway | 0.70% | ~6,678 |
@@ -64,7 +65,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 0.70% | ~6,678 |
 | Gifts for the Fog | 0.60% | ~5,724 |
 | Shock Therapy | 0.60% | ~5,724 |
-| House of Pain | 0.60% | ~5,724 |
 | Cottage Owner | 0.60% | ~5,724 |
 | Escaping the Nightmare | 0.60% | ~5,724 |
 | Campbell's Chapel Legacy | 0.60% | ~5,724 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~954 |
 | Adept Ripley | 0.10% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953,945 (Ranked 14)  
+Progressed: 954,059 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 52 (0.01%) (Ranked 299)
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
 | 2023-10-20 | 953,522 | 52 |
-| 2023-10-21 | 953,945 | 52 |
+| 2023-10-21 | 954,059 | 52 |
 ## Awards
 Max (Diverse Characters): 34,271  (Ranked 15)  
 Sum: 264,729 (Ranked 13)  

@@ -7,7 +7,7 @@ Rating: 4.58 (Ranked 438)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 17.00% | ~2,409 |
 | Drug Gifter | 7.00% | ~992 |
-| Bosmang | 6.00% | ~850 |
+| Bosmang | 7.00% | ~992 |
 | The Pit and the Pirates | 5.00% | ~709 |
 | Drone Dodger | 5.00% | ~709 |
 | Call it Even | 5.00% | ~709 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26854,
+  "EOS_Progressed": 26865,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15672,6 +15672,11 @@
       "Time": "2023-10-21T03:05:05.7059125+00:00",
       "NumProgressed": 26854,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T04:06:04.5042121+00:00",
+      "NumProgressed": 26865,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15705,9 +15710,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 215
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -15937,9 +15942,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 161
     },
     {
       "ID": "Seasoned",
@@ -16090,7 +16095,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26854,
+      "Progressed": 26865,
       "Completed": 60
     }
   ],
@@ -16098,8 +16103,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:05:05.705912+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:06:04.5042116+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:01:04.0805598+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:05:05.7060401+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:02:48.6825982+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:06:04.5043415+00:00"
 }

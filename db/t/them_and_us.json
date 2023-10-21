@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1046,6 +1046,11 @@
       "Time": "2023-10-20T21:08:50.5740736+00:00",
       "NumProgressed": 243,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T04:04:06.761401+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1073,7 +1078,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1153,7 +1158,7 @@
       "Name": "Forced to Kill",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1265,7 +1270,7 @@
       "Name": "Safe...For now?",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ETUA_StayDead",
@@ -1343,9 +1348,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ETUA_Trapped",
@@ -1376,7 +1381,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 1
     }
   ],
@@ -1384,8 +1389,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:03:31.701286+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:04:06.7614004+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:58.0301725+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:58:41.8651209+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:03:31.7013364+00:00"
+  "LastUpdate_Ratings": "2023-10-21T03:59:18.9815463+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:04:06.7614471+00:00"
 }

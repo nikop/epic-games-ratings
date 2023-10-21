@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 76.00% | ~21,821 |
-| Quick Understanding of Block Extrusion | 68.00% | ~19,524 |
-| Nature or Nurture | 50.00% | ~14,356 |
-| Power Glove | 47.00% | ~13,495 |
-| Forgotten Memories | 40.00% | ~11,485 |
-| Cogs in the Machine | 32.00% | ~9,188 |
-| Mission Success | 17.00% | ~4,881 |
-| There's No Place Like Home | 17.00% | ~4,881 |
-| Green Cube Killer | 15.00% | ~4,307 |
-| Infinity Loop | 11.00% | ~3,158 |
-| Path to Salvation | 11.00% | ~3,158 |
-| Descendants | 9.00% | ~2,584 |
-| The Flawed Teacher | 7.00% | ~2,010 |
-| To Infinity and Beyond | 4.00% | ~1,148 |
-| The Truthful Enemy | 3.00% | ~861 |
+| Lost in Space | 76.00% | ~21,845 |
+| Quick Understanding of Block Extrusion | 68.00% | ~19,545 |
+| Nature or Nurture | 50.00% | ~14,372 |
+| Power Glove | 47.00% | ~13,509 |
+| Forgotten Memories | 40.00% | ~11,497 |
+| Cogs in the Machine | 32.00% | ~9,198 |
+| Mission Success | 17.00% | ~4,886 |
+| There's No Place Like Home | 17.00% | ~4,886 |
+| Green Cube Killer | 15.00% | ~4,311 |
+| Infinity Loop | 11.00% | ~3,162 |
+| Path to Salvation | 11.00% | ~3,162 |
+| Descendants | 9.00% | ~2,587 |
+| The Flawed Teacher | 7.00% | ~2,012 |
+| To Infinity and Beyond | 4.00% | ~1,150 |
+| The Truthful Enemy | 3.00% | ~862 |
 | Laser Sharp | 1.00% | ~287 |
 | Home Stretch | 0.70% | ~201 |
 | Bronze collector | 0.60% | ~172 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.30% | ~86 |
 | Expert Collector | 0.30% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,712 (Ranked 117)  
+Progressed: 28,743 (Ranked 117)  
 Completed: 39 (0.14%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 39 (0.14%) (Ranked 238)
 | 2023-10-18 | 25,351 | 30 |
 | 2023-10-19 | 27,195 | 34 |
 | 2023-10-20 | 28,560 | 37 |
-| 2023-10-21 | 28,712 | 39 |
+| 2023-10-21 | 28,743 | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

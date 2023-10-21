@@ -4,7 +4,7 @@
 Rating: 4.59 (Ranked 420)  
 ## Awards
 Max (Great for Quick Sessions): 419  (Ranked 220)  
-Sum: 3,730 (Ranked 156)  
+Sum: 3,735 (Ranked 156)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 64
 | This game has Quickly Understood Controls | 359 |
 | This game is Extremely Fun | 344 |
 | This game is Great for Beginners | 331 |
+| This game has Amazing Characters | 319 |
 | This game has Challenging Combat | 316 |
-| This game has Amazing Characters | 314 |
 | This game is Highly Recommended | 309 |
 | This game has Amazing Storytelling | 293 |
 | This game has a Competitive Community | 259 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 64
 | 2023-10-18 | 4.59 | 410 | 3,677 |
 | 2023-10-19 | 4.59 | 415 | 3,695 |
 | 2023-10-20 | 4.59 | 419 | 3,726 |
-| 2023-10-21 | 4.59 | 419 | 3,730 |
+| 2023-10-21 | 4.59 | 419 | 3,735 |

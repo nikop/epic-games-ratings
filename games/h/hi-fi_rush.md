@@ -23,11 +23,11 @@ Rating: 4.85 (Ranked 43)
 | The Negotiator | 8.00% | ~332 |
 | Headliner | 8.00% | ~332 |
 | Time to pay up! | 8.00% | ~332 |
+| You must like calling me in, Chai | 8.00% | ~332 |
 | Out in a puff of smoke | 8.00% | ~332 |
 | I look cool. But I can look COOLER. | 8.00% | ~332 |
 | NOW we got a kickass hideout! | 8.00% | ~214 |
 | Who's the boss now? | 7.00% | ~291 |
-| You must like calling me in, Chai | 7.00% | ~291 |
 | Perfecter Parry-er! | 7.00% | ~291 |
 | Does that say weakpoint? | 7.00% | ~291 |
 | I have to read these things? | 6.00% | ~249 |

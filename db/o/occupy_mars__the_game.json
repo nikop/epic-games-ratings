@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1674,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4006,6 +4006,11 @@
       "Time": "2023-10-20T22:09:56.5238996+00:00",
       "NumProgressed": 1674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T04:09:35.5590311+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4033,7 +4038,7 @@
       "Name": "Driver\u0027s License",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
@@ -4041,7 +4046,7 @@
       "Name": "Explosive Miner",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -4089,7 +4094,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4193,7 +4198,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4209,7 +4214,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4217,7 +4222,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -4233,7 +4238,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4265,7 +4270,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4273,7 +4278,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4329,7 +4334,7 @@
       "Name": "Rocket Jump",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -4400,7 +4405,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 0
     }
   ],
@@ -4408,8 +4413,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:08:29.3818605+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:09:35.5590305+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:10.2990063+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:01:04.1996784+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:08:29.3819223+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:02:48.8661251+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:09:35.5591448+00:00"
 }

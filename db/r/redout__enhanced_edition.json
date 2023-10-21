@@ -337,7 +337,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234038,
+  "EOS_Progressed": 234040,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
@@ -19677,6 +19677,11 @@
       "Time": "2023-10-21T03:04:20.0381581+00:00",
       "NumProgressed": 234038,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-21T04:05:00.7921862+00:00",
+      "NumProgressed": 234040,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -19848,7 +19853,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21063
+      "UsersEstimate": 21064
     },
     {
       "ID": "PHOTOFINISH",
@@ -19912,7 +19917,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51488
+      "UsersEstimate": 51489
     },
     {
       "ID": "TACTICIAN",
@@ -19936,7 +19941,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51488
+      "UsersEstimate": 51489
     },
     {
       "ID": "TUNINGMANIAC",
@@ -19959,15 +19964,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234038,
+      "Progressed": 234040,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-21T03:04:20.0381573+00:00",
+  "LastChanged_Achievements": "2023-10-21T04:05:00.7921857+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.7010053+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:59:54.0678321+00:00",
-  "LastUpdate_Achievements": "2023-10-21T03:04:20.0382976+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:00:59.7777853+00:00",
+  "LastUpdate_Achievements": "2023-10-21T04:05:00.7923585+00:00"
 }
