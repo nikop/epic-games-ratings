@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.53% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.11% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.10% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.71% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -202,11 +202,11 @@
 | 199 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 201 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 202 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 202 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.32% |
-| 204 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 204 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
-| 204 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 204 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 203 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 203 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 203 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 203 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.31% |
+| 203 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 208 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 208 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 208 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.30% |
