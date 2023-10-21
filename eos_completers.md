@@ -3,10 +3,10 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.08% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.49% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.42% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.44% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.43% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
@@ -33,7 +33,7 @@
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.80% |
 | 33 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
-| 34 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.53% |
+| 34 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.39% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.21% |
 | 37 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
@@ -64,10 +64,10 @@
 | 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 63 | [JARS](games/j/jars.md) | 4.82% |
 | 64 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
-| 65 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.76% |
-| 66 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
-| 67 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.70% |
-| 68 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
+| 65 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
+| 66 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.70% |
+| 67 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.55% |
+| 67 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 69 | [ZZT!](games/z/zzt!.md) | 4.45% |
 | 70 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
 | 71 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
@@ -90,7 +90,7 @@
 | 87 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 89 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 90 | [HordeCore](games/h/hordecore.md) | 3.09% |
-| 91 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.05% |
+| 91 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.03% |
 | 92 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.86% |
@@ -123,7 +123,7 @@
 | 121 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.74% |
 | 122 | [Somerville](games/s/somerville.md) | 1.70% |
 | 123 | [Five Dates](games/f/five_dates.md) | 1.57% |
-| 124 | [Late Shift](games/l/late_shift.md) | 1.53% |
+| 124 | [Late Shift](games/l/late_shift.md) | 1.52% |
 | 125 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 125 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 127 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
@@ -139,12 +139,12 @@
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.11% |
 | 138 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
-| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
-| 141 | [Adios](games/a/adios.md) | 1.05% |
-| 141 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.05% |
-| 141 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 144 | [Trifox](games/t/trifox.md) | 1.03% |
-| 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
+| 140 | [Adios](games/a/adios.md) | 1.05% |
+| 140 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.05% |
+| 140 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 140 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 144 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
+| 144 | [Trifox](games/t/trifox.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
 | 147 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
 | 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.98% |
@@ -685,4 +685,4 @@
 | 318 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 318 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 318 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,449 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,450 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
