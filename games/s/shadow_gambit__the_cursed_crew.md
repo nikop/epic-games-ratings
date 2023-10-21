@@ -7,7 +7,7 @@ Rating: 4.74 (Ranked 151)
 | ---- | ---------- | ----- |
 | A New Journey | 66.00% | ~494 |
 | The Adventure Begins | 53.00% | ~396 |
-| Swabbie | 42.00% | ~314 |
+| Swabbie | 43.00% | ~322 |
 | With Great Power… | 41.00% | ~307 |
 | This Belongs in a Museum | 38.00% | ~284 |
 | The Gambit Has Begun | 34.00% | ~254 |

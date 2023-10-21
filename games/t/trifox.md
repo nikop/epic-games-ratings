@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~68 |
-| Complete Level 1-1 | 62.00% | ~60 |
-| Immortal | 54.00% | ~52 |
+| What is this? | 70.00% | ~69 |
+| Complete Level 1-1 | 62.00% | ~61 |
+| Immortal | 53.00% | ~52 |
 | Complete Level 1-2 | 44.00% | ~43 |
 | Scraping by | 31.00% | ~30 |
 | Engineer-mage hybrid | 31.00% | ~30 |
 | Complete Level 1-3 | 28.00% | ~27 |
-| Defeat the warrior boss | 22.00% | ~21 |
-| Get out of my way | 21.00% | ~20 |
-| Redecorator | 20.00% | ~19 |
-| Just a sip | 19.00% | ~18 |
+| Defeat the warrior boss | 21.00% | ~21 |
+| Get out of my way | 20.00% | ~20 |
+| Redecorator | 19.00% | ~19 |
+| Just a sip | 18.00% | ~18 |
 | Complete Level 2-1 | 16.00% | ~16 |
 | Complete Level 2-2 | 16.00% | ~16 |
 | Versatile | 16.00% | ~16 |
@@ -24,9 +24,9 @@
 | Too many crates | 11.00% | ~11 |
 | Baby steps | 11.00% | ~11 |
 | Complete Level 3-1 | 11.00% | ~11 |
+| Engineer-warrior hybrid | 10.00% | ~10 |
 | Party popper | 10.00% | ~10 |
 | Complete Level 3-2 | 9.00% | ~9 |
-| Engineer-warrior hybrid | 9.00% | ~9 |
 | Mage-warrior hybrid | 9.00% | ~9 |
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 398)  
-Completed: 1 (1.03%) (Ranked 144)  
+Progressed: 98 (Ranked 398)  
+Completed: 1 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 1 (1.03%) (Ranked 144)
 | 2023-10-17 | 93 | 1 |
 | 2023-10-18 | 94 | 1 |
 | 2023-10-19 | 96 | 1 |
-| 2023-10-21 | 97 | 1 |
+| 2023-10-21 | 98 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

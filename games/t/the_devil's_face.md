@@ -11,7 +11,7 @@
 | This looks really bad | 16.00% | ~68 |
 | Unholy lands | 13.00% | ~56 |
 | Unveiling the Magnitude of Sin | 8.00% | ~34 |
-| The court | 6.00% | ~26 |
+| The court | 7.00% | ~30 |
 | Holy Nails | 5.00% | ~21 |
 | The crucifixion | 4.00% | ~17 |
 | Flagellation | 4.00% | ~17 |

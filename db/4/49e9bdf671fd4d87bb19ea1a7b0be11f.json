@@ -4,8 +4,8 @@
   "ProductSlug": "champion-shift-d366a9",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-16T21:57:22.8762528+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:58:57.5201611+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:05:31.3795046+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:59:28.28235+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:06:08.826426+00:00"
 }

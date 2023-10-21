@@ -4,8 +4,8 @@
   "ProductSlug": "geometric-sniper-z-ef97ef",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-08T17:00:00+00:00",
     "PcReleaseDate": "2022-12-19T18:00:00+00:00",
@@ -520,9 +520,9 @@
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "b50kim2",
       "Name": "MISSION 03",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
@@ -704,9 +704,9 @@
       "ID": "ACHIEVEMENT_MR_01",
       "SetID": "b50kim2",
       "Name": "MY 1ST REWARD",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_MR_02",
@@ -760,9 +760,9 @@
       "ID": "ACHIEVEMENT_RW_01",
       "SetID": "b50kim2",
       "Name": "RUNAWAY 01",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_RW_02",
@@ -911,8 +911,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:09:24.4102684+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:09:36.8720806+00:00",
   "LastUpdate_AppInfo": "2023-10-17T04:57:03.2083263+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:57:19.1829533+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:09:24.4103053+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:57:16.4999394+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:09:36.8721295+00:00"
 }

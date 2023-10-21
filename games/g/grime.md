@@ -6,10 +6,10 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 2.00% | ~3,074 |
-| Taste | 2.00% | ~3,074 |
-| Imprint | 2.00% | ~3,074 |
-| Ravenous | 2.00% | ~3,074 |
+| The Hunt | 2.00% | ~3,075 |
+| Taste | 2.00% | ~3,075 |
+| Imprint | 2.00% | ~3,075 |
+| Ravenous | 2.00% | ~3,075 |
 | Weeper | 1.00% | ~1,537 |
 | Silenced Whispers | 0.90% | ~1,384 |
 | Devourer | 0.90% | ~1,384 |
@@ -23,11 +23,11 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.60% | ~922 |
 | Shapely | 0.50% | ~769 |
 | Glare | 0.50% | ~767 |
+| Predator | 0.50% | ~769 |
 | Assimilation | 0.40% | ~615 |
 | Hunt Down | 0.40% | ~615 |
 | Host | 0.40% | ~613 |
 | Celebration | 0.40% | ~615 |
-| Predator | 0.40% | ~615 |
 | Breath | 0.30% | ~461 |
 | Artisan | 0.30% | ~461 |
 | Hush | 0.30% | ~461 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~153 |
 | Intensify | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,725 (Ranked 72)  
+Progressed: 153,733 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,15 +214,15 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-18 | 153,042 | 1 |
 | 2023-10-19 | 153,244 | 1 |
 | 2023-10-20 | 153,466 | 1 |
-| 2023-10-21 | 153,725 | 1 |
+| 2023-10-21 | 153,733 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 431)  
-Sum: 305 (Ranked 349)  
+Sum: 306 (Ranked 349)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 45 |
-| This game has Quickly Understood Controls | 43 |
+| This game has Quickly Understood Controls | 44 |
 | This game has Unique Visuals | 41 |
 | This game has Challenging Combat | 40 |
 | This game is Extremely Fun | 40 |
@@ -352,4 +352,4 @@ Diff (max vs sum): 82
 | 2023-10-18 | 4.59 | - | 45 | 298 |
 | 2023-10-19 | 4.59 | - | 45 | 299 |
 | 2023-10-20 | 4.59 | - | 45 | 304 |
-| 2023-10-21 | 4.59 | - | 45 | 305 |
+| 2023-10-21 | 4.59 | - | 45 | 306 |

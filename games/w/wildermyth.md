@@ -23,6 +23,7 @@ Number of Ratings: 45  (23.09.2022)
 | Everfading | 0.10% | ~1 |
 | War Endured | 0.10% | ~1 |
 | Echoes Die | 0.10% | ~1 |
+| A Story of Heroes | 0.10% | ~1 |
 | Daybreak | 0.10% | ~1 |
 | Core Failure | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
@@ -42,7 +43,6 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
-| A Story of Heroes | 0.00% | ~0 |
 | A Hunger, Sated | 0.00% | ~0 |
 | Wingknight's Prowess | 0.00% | ~0 |
 | All My Birds, Safely Home | 0.00% | ~0 |

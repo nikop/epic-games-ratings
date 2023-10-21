@@ -31,17 +31,17 @@
 | Romantic Races | 3.00% | ~48 |
 | Rounding Off | 3.00% | ~48 |
 | Iconic! | 2.00% | ~32 |
-| I'll Be the Best! | 2.00% | ~32 |
 | Back in Blighty | 2.00% | ~32 |
 | Still Here | 2.00% | ~32 |
 | My Work Here Is Done | 2.00% | ~32 |
 | Overtaking the Master | 2.00% | ~32 |
+| I'll Be the Best! | 1.00% | ~16 |
 | Next Level | 1.00% | ~16 |
 | I Don't Stop | 1.00% | ~16 |
-| Exhausted but Happy | 0.80% | ~13 |
+| Exhausted but Happy | 0.70% | ~11 |
 | In Search of Perfection | 0.60% | ~10 |
 | Globe-trotter | 0.40% | ~6 |
-| Maximum Endurance | 0.30% | ~5 |
+| Maximum Endurance | 0.20% | ~3 |
 | Full Power | 0.20% | ~3 |
 | At the Top | 0.20% | ~3 |
 | There's a Great View up Here | 0.20% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 218)  
+Progressed: 1,601 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,4 +104,4 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 1,541 | 0 |
 | 2023-10-19 | 1,564 | 0 |
 | 2023-10-20 | 1,580 | 0 |
-| 2023-10-21 | 1,599 | 0 |
+| 2023-10-21 | 1,601 | 0 |

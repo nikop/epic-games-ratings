@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8142,9 +8142,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63687,
+  "EOS_Progressed": 63689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27682,6 +27682,11 @@
       "Time": "2023-10-21T21:06:12.7323511+00:00",
       "NumProgressed": 63687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T22:07:02.7572578+00:00",
+      "NumProgressed": 63689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27693,7 +27698,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "Apple of my eye",
@@ -27821,7 +27826,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8279
+      "UsersEstimate": 8280
     },
     {
       "ID": "Great Granny",
@@ -27925,7 +27930,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24838
+      "UsersEstimate": 24839
     },
     {
       "ID": "Lawmaker",
@@ -28053,7 +28058,7 @@
       "Name": "This Is Our Land",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "This is Sparta",
@@ -28077,7 +28082,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Veni vidi vici",
@@ -28085,7 +28090,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -28100,15 +28105,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63687,
+      "Progressed": 63689,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-21T17:05:09.5345227+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:06:12.7323506+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:07:02.7572573+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:59:21.3265967+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:06:12.7324761+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:59:57.8168268+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:07:02.7574274+00:00"
 }

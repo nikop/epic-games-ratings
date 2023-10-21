@@ -5,12 +5,12 @@ Rating: 4.36 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 0.10% | ~4 |
-| Sector 2 | 0.10% | ~4 |
-| Sector 3 | 0.10% | ~4 |
-| Sector 4 | 0.10% | ~4 |
-| Sector 5 | 0.10% | ~4 |
-| Sector 6 | 0.10% | ~4 |
+| Sector 1 | 0.10% | ~5 |
+| Sector 2 | 0.10% | ~5 |
+| Sector 3 | 0.10% | ~5 |
+| Sector 4 | 0.10% | ~5 |
+| Sector 5 | 0.10% | ~5 |
+| Sector 6 | 0.10% | ~5 |
 | Feeling the Blues | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Squished | 0.00% | ~0 |
@@ -30,14 +30,14 @@ Rating: 4.36 (Ranked 764)
 | Sector 7 | 0.00% | ~0 |
 | Did That Work? -- No! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,478 (Ranked 177)  
+Progressed: 4,587 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1 | 0 |
 | 2023-10-20 | 2,060 | 0 |
-| 2023-10-21 | 4,478 | 0 |
+| 2023-10-21 | 4,587 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

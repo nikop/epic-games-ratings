@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Chapter I | 53.00% | ~72 |
 | Fire in the... nevermind | 53.00% | ~72 |
-| Chapter I | 52.00% | ~71 |
-| Haute cuisine | 48.00% | ~65 |
+| Haute cuisine | 49.00% | ~67 |
 | Demolition expert | 40.00% | ~54 |
 | I didn't do it! | 40.00% | ~54 |
 | Wooooooow! | 37.00% | ~50 |

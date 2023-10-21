@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2013,9 +2013,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_104",
@@ -2365,9 +2365,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_3",
@@ -2957,9 +2957,9 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_97",
@@ -3001,8 +3001,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:06:44.6862346+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:07:44.6877836+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:03:21.500827+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:06:44.6864209+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:03:15.9060551+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:07:44.6880398+00:00"
 }

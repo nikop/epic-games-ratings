@@ -20,8 +20,8 @@ Rating: 3.94 (Ranked 988)
 | King of the Hill | 0.70% | ~625 |
 | Hidden Sonata | 0.60% | ~535 |
 | Track Star | 0.60% | ~535 |
+| True Player | 0.60% | ~535 |
 | Headhunter | 0.50% | ~446 |
-| True Player | 0.50% | ~446 |
 | I Like Trains | 0.40% | ~357 |
 | Moneybags | 0.40% | ~357 |
 | Legend Looter | 0.30% | ~268 |

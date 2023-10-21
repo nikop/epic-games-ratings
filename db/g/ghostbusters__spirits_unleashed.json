@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2509,10 +2509,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2460,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-10-21T22:02:04.2972218+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2464,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2460,
+  "NumberOfAwards": 2464,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2520,7 +2526,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 268
+      "Count": 272
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2589,9 +2595,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26974,
+  "EOS_Progressed": 26980,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15769,6 +15775,11 @@
       "Time": "2023-10-21T21:05:09.083331+00:00",
       "NumProgressed": 26974,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T22:05:40.240113+00:00",
+      "NumProgressed": 26980,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15820,7 +15831,7 @@
       "Name": "Clutch Capture",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Collect_Spores",
@@ -15828,7 +15839,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Collector",
@@ -15844,7 +15855,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Daily_Dose",
@@ -15868,7 +15879,7 @@
       "Name": "Discovery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Dont_Need_These",
@@ -15916,7 +15927,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "GB_In_Training",
@@ -16068,7 +16079,7 @@
       "Name": "Solo Capture",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Stunner",
@@ -16108,7 +16119,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Teamwork",
@@ -16116,7 +16127,7 @@
       "Name": "Teamwork",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Terrifying",
@@ -16140,7 +16151,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Tobins_Prodigy",
@@ -16164,7 +16175,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Welcome_Crew",
@@ -16180,23 +16191,23 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26974,
+      "Progressed": 26980,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-21T19:01:55.5945796+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:05:09.0833305+00:00",
+  "LastChanged": "2023-10-21T22:02:04.2972215+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:05:40.2401126+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:00:50.946622+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:05:09.0834266+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:02:04.2972221+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:05:40.2402482+00:00"
 }

@@ -19,8 +19,8 @@
 | Turian Ally | 57.00% | ~437 |
 | Charismatic | 57.00% | ~437 |
 | Soldier | 56.00% | ~430 |
+| Asari Ally | 53.00% | ~407 |
 | Medal of Exploration III | 52.00% | ~399 |
-| Asari Ally | 52.00% | ~399 |
 | Principled | 52.00% | ~399 |
 | Soldier Ally | 50.00% | ~384 |
 | Paramour I | 49.00% | ~376 |
@@ -74,7 +74,7 @@
 | Against All Odds | 28.00% | ~215 |
 | Friend or Foe | 28.00% | ~215 |
 | Mobilizer | 28.00% | ~215 |
-| Untouchable | 26.00% | ~199 |
+| Untouchable | 27.00% | ~207 |
 | Eye of the Hurricane | 26.00% | ~199 |
 | Giant Killer | 26.00% | ~199 |
 | A House Divided | 26.00% | ~199 |
@@ -104,7 +104,7 @@
 | Master and Commander | 17.00% | ~130 |
 | Throw Mastery | 16.00% | ~123 |
 | Patriot | 16.00% | ~123 |
-| Legend | 15.00% | ~115 |
+| Legend | 16.00% | ~123 |
 | Mail Slot | 14.00% | ~107 |
 | Long Service Medal | 14.00% | ~107 |
 | Combined Arms | 13.00% | ~100 |

@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Carthage | 0.50% | ~74 |
+| Egypt | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
 | Assyrian Paganism | 0.50% | ~74 |
 | Hittite Paganism | 0.50% | ~74 |
@@ -130,18 +131,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
+| Bad Heir Day | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
 | Cao'an | 0.40% | ~59 |
 | Adur Burzen-Mihr | 0.40% | ~59 |
 | Learn to Play 5 | 0.40% | ~59 |
-| Egypt | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
 | Enlightenment | 0.40% | ~59 |
 | Kush | 0.40% | ~59 |
 | Beja Archer | 0.40% | ~59 |
-| Bad Heir Day | 0.30% | ~45 |
 | Ishtar Gate in Babylon | 0.30% | ~45 |
 | Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |

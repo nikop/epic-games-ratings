@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 825,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -439,6 +439,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-10-21T22:01:14.7100375+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
@@ -453,9 +459,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 249799,
+  "EOS_Progressed": 249803,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21058,6 +21064,11 @@
       "Time": "2023-10-21T21:09:24.8662611+00:00",
       "NumProgressed": 249799,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T22:09:37.58606+00:00",
+      "NumProgressed": 249803,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21069,7 +21080,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67446
+      "UsersEstimate": 67447
     },
     {
       "ID": "ACH_AON",
@@ -21213,7 +21224,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69944
+      "UsersEstimate": 69945
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21285,7 +21296,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59952
+      "UsersEstimate": 59953
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -21389,7 +21400,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62450
+      "UsersEstimate": 62451
     },
     {
       "ID": "ACH_SOREAD",
@@ -21484,16 +21495,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249799,
+      "Progressed": 249803,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-10-18T22:11:28.2196234+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:09:24.8662607+00:00",
+  "LastChanged": "2023-10-21T22:01:14.710033+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:09:37.5860594+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:00:15.0719594+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:09:24.8663983+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:01:14.7100379+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:09:37.586219+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -23,7 +23,7 @@
   "EOS_Progressed": 312,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
     {
@@ -1498,9 +1498,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1522,9 +1522,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1562,17 +1562,17 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1586,9 +1586,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1681,8 +1681,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:06:24.6673979+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:07:18.2391189+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:00:02.2209191+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:06:24.6674196+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:01:00.5914008+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:07:18.2391492+00:00"
 }

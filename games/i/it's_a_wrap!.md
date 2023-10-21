@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 89.00% | ~102 |
+| Under the Bridge | 90.00% | ~104 |
 | Treasure Hunter | 9.00% | ~10 |
 | Budget Killer | 5.00% | ~6 |
 | Space Invader | 5.00% | ~6 |

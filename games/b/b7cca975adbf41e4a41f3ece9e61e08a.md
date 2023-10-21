@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 87.00% | ~1,088 |
-| I Challenge You To Save More Money! | 78.00% | ~975 |
-| I Love How Tough You Are | 58.00% | ~725 |
+| I Challenge You To Save More Money! | 79.00% | ~988 |
+| I Love How Tough You Are | 58.00% | ~726 |
 | Wanna Come To My Place For Dinner? | 48.00% | ~600 |
-| What I Want Is You | 41.00% | ~512 |
+| What I Want Is You | 41.00% | ~513 |
 | To Be Or Not To Be | 38.00% | ~475 |
-| Are You Alright? | 37.00% | ~462 |
-| Love Actually | 29.00% | ~362 |
+| Are You Alright? | 37.00% | ~463 |
+| Love Actually | 29.00% | ~363 |
 | Drama King | 27.00% | ~338 |
-| Go Clean up In Your Own Way | 25.00% | ~312 |
+| Go Clean up In Your Own Way | 25.00% | ~313 |
 | You're Really Something Else | 24.00% | ~300 |
 | Happy Family | 23.00% | ~288 |
 | Drama CP: Reel to Real | 23.00% | ~288 |
@@ -27,15 +27,15 @@
 | All I Have Is Money | 15.00% | ~188 |
 | Days Of Innocence | 14.00% | ~175 |
 | SALUTE | 14.00% | ~175 |
-| A Slap In The Face! | 13.00% | ~162 |
-| Let Me Be Your Toy Boy | 13.00% | ~162 |
-| That's So You | 13.00% | ~162 |
+| A Slap In The Face! | 13.00% | ~163 |
+| Let Me Be Your Toy Boy | 13.00% | ~163 |
+| That's So You | 13.00% | ~163 |
 | Lover In Dark Alley | 12.00% | ~150 |
 | Love You Three Thousand | 7.00% | ~88 |
 | Doesn't Matter I'll Handle It | 6.00% | ~75 |
 | Off We Sail Tonight | 6.00% | ~75 |
 | Can You Do This Or Not? | 6.00% | ~75 |
-| New Yoga Pose Unlocked | 5.00% | ~62 |
+| New Yoga Pose Unlocked | 5.00% | ~63 |
 | Life Is A Rollercoaster | 4.00% | ~50 |
 | Boys Need To Protect Themselves | 4.00% | ~50 |
 | The Flash | 4.00% | ~50 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.70% | ~9 |
 | Limerence | 0.70% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,250 (Ranked 229)  
+Progressed: 1,251 (Ranked 228)  
 Completed: 7 (0.56%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 7 (0.56%) (Ranked 173)
 | 2023-10-18 | 179 | 0 |
 | 2023-10-19 | 539 | 0 |
 | 2023-10-20 | 877 | 1 |
-| 2023-10-21 | 1,250 | 7 |
+| 2023-10-21 | 1,251 | 7 |

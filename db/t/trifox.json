@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -130,6 +130,11 @@
       "Time": "2023-10-21T12:07:39.3354587+00:00",
       "NumProgressed": 97,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T22:07:53.7163649+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -195,7 +200,7 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -219,7 +224,7 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -229,7 +234,7 @@
       "Name": "What is this?",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -283,7 +288,7 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -293,7 +298,7 @@
       "Name": "Complete Level 1-1",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -315,7 +320,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 21
     },
@@ -403,9 +408,9 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
       "SetID": "cfld5bl",
       "Name": "Engineer-warrior hybrid",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
@@ -419,7 +424,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 52
     },
@@ -508,7 +513,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 1
     }
   ],
@@ -516,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:06:51.7118076+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:07:53.7163644+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-21T21:00:30.4293583+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:06:51.7118364+00:00"
+  "LastUpdate_Ratings": "2023-10-21T22:01:36.089097+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:07:53.7164015+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1642,
+  "EOS_Progressed": 1643,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6099,6 +6099,11 @@
       "Time": "2023-10-21T17:14:26.3062235+00:00",
       "NumProgressed": 1642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T22:08:30.6188716+00:00",
+      "NumProgressed": 1643,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6316,9 +6321,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 148
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6398,7 +6403,7 @@
       "Name": "Jet Troops",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -6413,7 +6418,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 1
     }
   ],
@@ -6421,8 +6426,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:08:10.6264627+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:08:30.6188711+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:58:09.2040108+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:08:10.6265136+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:58:21.6690969+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:08:30.6189426+00:00"
 }

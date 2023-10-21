@@ -13934,10 +13934,10 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893149,
+  "EOS_Progressed": 893157,
   "EOS_Completed": 2695,
-  "EOS_NewPlayers": 1367,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 1363,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34804,6 +34804,11 @@
       "Time": "2023-10-21T21:05:15.0349679+00:00",
       "NumProgressed": 893149,
       "NumCompleted": 2695
+    },
+    {
+      "Time": "2023-10-21T22:05:47.8915034+00:00",
+      "NumProgressed": 893157,
+      "NumCompleted": 2695
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35102,9 +35107,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TrueSoldier",
@@ -35335,21 +35340,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893149,
+      "Progressed": 893157,
       "Completed": 2695
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21772,
+      "Progressed": 21780,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-21T20:58:45.8850797+00:00",
-  "LastChanged_Achievements": "2023-10-21T21:05:15.0349676+00:00",
+  "LastChanged_Achievements": "2023-10-21T22:05:47.891503+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:58:45.8850804+00:00",
-  "LastUpdate_Achievements": "2023-10-21T21:05:15.0351064+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:59:12.9024209+00:00",
+  "LastUpdate_Achievements": "2023-10-21T22:05:47.8916939+00:00"
 }
