@@ -6,20 +6,20 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,020 |
-| Strongman | 31.00% | ~6,533 |
-| Alpha Male | 20.00% | ~4,215 |
-| Just Enough | 19.00% | ~4,004 |
-| Pro-creative | 18.00% | ~3,793 |
-| Worth Every Penny | 15.00% | ~3,161 |
-| Family man | 13.00% | ~2,740 |
-| Junior Estate Agent | 13.00% | ~2,740 |
-| Mystery | 10.00% | ~2,107 |
-| Artistic soul | 10.00% | ~2,107 |
+| First money | 95.00% | ~20,027 |
+| Strongman | 31.00% | ~6,535 |
+| Alpha Male | 20.00% | ~4,216 |
+| Just Enough | 19.00% | ~4,005 |
+| Pro-creative | 18.00% | ~3,795 |
+| Worth Every Penny | 15.00% | ~3,162 |
+| Family man | 13.00% | ~2,741 |
+| Junior Estate Agent | 13.00% | ~2,741 |
+| Mystery | 10.00% | ~2,108 |
+| Artistic soul | 10.00% | ~2,108 |
 | Estate Agent | 5.00% | ~1,054 |
 | Millionaire | 5.00% | ~1,054 |
 | Perfectionist | 5.00% | ~1,054 |
-| I'm Belieber | 2.00% | ~421 |
+| I'm Belieber | 2.00% | ~422 |
 | Knock, knock | 1.00% | ~211 |
 | You do it wrong | 1.00% | ~211 |
 | Wall Street Shark | 0.90% | ~190 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~126 |
 | Senior Estate Agent | 0.60% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,074 (Ranked 125)  
+Progressed: 21,081 (Ranked 125)  
 Completed: 21 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 21 (0.10%) (Ranked 250)
 | 2023-10-18 | 20,970 | 21 |
 | 2023-10-19 | 21,002 | 21 |
 | 2023-10-20 | 21,038 | 21 |
-| 2023-10-21 | 21,074 | 21 |
+| 2023-10-21 | 21,081 | 21 |
 ## Awards
 Max (Great for Beginners): 316  (Ranked 239)  
 Sum: 2,228 (Ranked 196)  

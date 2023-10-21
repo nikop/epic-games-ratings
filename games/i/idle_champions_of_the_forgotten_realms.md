@@ -18,11 +18,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
 | The Mad Wizard | 0.20% | ~465 |
-| Elturel's Last Stand | 0.20% | ~397 |
-| The Hunt for The Last Breath | 0.20% | ~397 |
-| To Infinity's and Beyond | 0.20% | ~397 |
-| Legends and Lore | 0.20% | ~397 |
-| Fowl Play | 0.20% | ~397 |
+| Elturel's Last Stand | 0.20% | ~398 |
+| The Hunt for The Last Breath | 0.20% | ~398 |
+| To Infinity's and Beyond | 0.20% | ~398 |
+| Legends and Lore | 0.20% | ~398 |
+| Fowl Play | 0.20% | ~398 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
 | Upholding the Law | 0.10% | ~232 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,474 (Ranked 60)  
+Progressed: 232,477 (Ranked 60)  
 Completed: 2,377 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -719,7 +719,7 @@ Completed: 2,377 (1.02%) (Ranked 145)
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
-| 2023-10-21 | 232,474 | 2,377 |
+| 2023-10-21 | 232,477 | 2,377 |
 ## Awards
 Max (Great for Beginners): 5,432  (Ranked 69)  
 Sum: 32,142 (Ranked 41)  

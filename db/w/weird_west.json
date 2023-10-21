@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1899,
+  "EOS_Progressed": 1900,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2279,6 +2279,11 @@
       "Time": "2023-10-21T19:05:47.6173605+00:00",
       "NumProgressed": 1899,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T20:06:09.5510961+00:00",
+      "NumProgressed": 1900,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2298,7 +2303,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2306,7 +2311,7 @@
       "Name": "Dirt and Blame",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_DISHONORED",
@@ -2442,7 +2447,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2538,7 +2543,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2546,7 +2551,7 @@
       "Name": "Winter Has Come",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_POWER_BEHIND_THE_PULPIT",
@@ -2570,7 +2575,7 @@
       "Name": "Revenant",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_SCHOLAR",
@@ -2586,7 +2591,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2666,7 +2671,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2674,7 +2679,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2713,15 +2718,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1899,
+      "Progressed": 1900,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:47.61736+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:06:09.5510945+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:00:25.8497385+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:47.617424+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:00:22.7434406+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:06:09.551155+00:00"
 }

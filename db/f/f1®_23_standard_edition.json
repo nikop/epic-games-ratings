@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3346,
+  "EOS_Progressed": 3347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3241,6 +3241,11 @@
       "Time": "2023-10-21T19:05:15.8680531+00:00",
       "NumProgressed": 3346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T20:05:30.3643183+00:00",
+      "NumProgressed": 3347,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3253,15 +3258,15 @@
       "Name": "Spring Cleaning",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 535
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_0003",
@@ -3293,7 +3298,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2643
+      "UsersEstimate": 2644
     },
     {
       "ID": "achievement_0007",
@@ -3301,7 +3306,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3179
+      "UsersEstimate": 3180
     },
     {
       "ID": "achievement_0008",
@@ -3309,7 +3314,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "achievement_0009",
@@ -3325,7 +3330,7 @@
       "Name": "Network Success",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_0011",
@@ -3349,7 +3354,7 @@
       "Name": "Oil and Water",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_0014",
@@ -3365,7 +3370,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "achievement_0016",
@@ -3413,7 +3418,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "achievement_0022",
@@ -3429,7 +3434,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achievement_0024",
@@ -3509,7 +3514,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "achievement_0034",
@@ -3563,9 +3568,9 @@
       "ID": "achievement_0040",
       "SetID": "9123ogc",
       "Name": "One for the Book",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_0041",
@@ -3589,7 +3594,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "achievement_0044",
@@ -3613,7 +3618,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_0047",
@@ -3644,7 +3649,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3346,
+      "Progressed": 3347,
       "Completed": 0
     }
   ],
@@ -3652,8 +3657,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:15.8680527+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:05:30.3643172+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:58:09.8194517+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:15.8681107+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:58:13.6443115+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:05:30.3643774+00:00"
 }

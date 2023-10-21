@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,787 |
-| Now You're Talking | 62.00% | ~328,412 |
-| Steel Yourself | 62.00% | ~328,412 |
-| Window Dressing | 50.00% | ~264,848 |
-| Trigger Happy | 46.00% | ~243,660 |
-| Riverborn | 45.00% | ~238,363 |
-| Starry Eyed | 34.00% | ~180,097 |
-| Poking Around | 34.00% | ~180,097 |
-| Talk of the Town | 24.00% | ~127,127 |
-| AAARR! | 23.00% | ~121,830 |
-| Hello Darkness | 23.00% | ~121,830 |
-| Wind At Our Backs | 22.00% | ~116,533 |
-| To the Beat | 20.00% | ~105,939 |
-| Sunny Shores | 17.00% | ~90,048 |
-| Sunday Best | 16.00% | ~84,751 |
-| To Victory! | 15.00% | ~79,454 |
-| Two of a Kind | 14.00% | ~74,157 |
-| Keep On Trucking | 13.00% | ~68,860 |
+| First Step | 70.00% | ~370,791 |
+| Now You're Talking | 62.00% | ~328,415 |
+| Steel Yourself | 62.00% | ~328,415 |
+| Window Dressing | 50.00% | ~264,851 |
+| Trigger Happy | 46.00% | ~243,663 |
+| Riverborn | 45.00% | ~238,366 |
+| Starry Eyed | 34.00% | ~180,099 |
+| Poking Around | 34.00% | ~180,099 |
+| Talk of the Town | 24.00% | ~127,128 |
+| AAARR! | 23.00% | ~121,831 |
+| Hello Darkness | 23.00% | ~121,831 |
+| Wind At Our Backs | 22.00% | ~116,534 |
+| To the Beat | 20.00% | ~105,940 |
+| Sunny Shores | 17.00% | ~90,049 |
+| Sunday Best | 16.00% | ~84,752 |
+| To Victory! | 15.00% | ~79,455 |
+| Two of a Kind | 14.00% | ~74,158 |
+| Keep On Trucking | 13.00% | ~68,861 |
 | Going on an Adventure | 11.00% | ~58,267 |
 | Make Peace, Not War | 11.00% | ~58,267 |
 | Walking The Line | 10.00% | ~52,970 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,589 |
 | Point Taken | 0.20% | ~1,059 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,696 (Ranked 34)  
+Progressed: 529,702 (Ranked 34)  
 Completed: 487 (0.09%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 487 (0.09%) (Ranked 256)
 | 2023-10-18 | 529,531 | 487 |
 | 2023-10-19 | 529,584 | 487 |
 | 2023-10-20 | 529,643 | 487 |
-| 2023-10-21 | 529,696 | 487 |
+| 2023-10-21 | 529,702 | 487 |
 ## Awards
 Max (Relaxing): 20  (Ranked 531)  
 Sum: 20 (Ranked 532)  

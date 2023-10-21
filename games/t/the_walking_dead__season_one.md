@@ -1,7 +1,7 @@
 # The Walking Dead: Season One
 [Store](https://store.epicgames.com/en-US/p/walking-dead-season-one)  
 [View Rawdata](../../db/t/the_walking_dead__season_one.json)  
-Rating: 4.83 (Ranked 56)  
+Rating: 4.82 (Ranked 62)  
 Number of Ratings: 70  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 28  (Ranked 488)  
@@ -59,3 +59,4 @@ Diff (max vs sum): -13
 | 2023-07-06 | 4.81 | - | 28 | 28 |
 | 2023-10-10 | 4.82 | - | 28 | 28 |
 | 2023-10-15 | 4.83 | - | 28 | 28 |
+| 2023-10-21 | 4.82 | - | 28 | 28 |

@@ -1920,9 +1920,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14855,
+  "EOS_Progressed": 14856,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14395,6 +14395,11 @@
       "Time": "2023-10-21T19:09:18.5692314+00:00",
       "NumProgressed": 14855,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T20:09:37.5698782+00:00",
+      "NumProgressed": 14856,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15940,9 +15945,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -16388,9 +16393,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -16516,9 +16521,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -17116,9 +17121,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -17141,21 +17146,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14855,
+      "Progressed": 14856,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14855,
+      "Progressed": 14856,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-21T16:01:08.2420995+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:09:18.5692308+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:09:37.5698777+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:00:09.4852913+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:09:18.570369+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:00:08.4118034+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:09:37.5712041+00:00"
 }

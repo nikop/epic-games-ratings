@@ -27,17 +27,17 @@ Rating: 4.50 (Ranked 576)
 | Icing on the Cake | 1.00% | ~270 |
 | Right back at ya | 1.00% | ~270 |
 | Side Hustle | 1.00% | ~270 |
+| Skilled | 1.00% | ~270 |
 | Summoner | 1.00% | ~270 |
 | Terrifying | 1.00% | ~270 |
 | Welcome to the Crew | 1.00% | ~270 |
 | Legions | 0.90% | ~243 |
 | Pesky Jerks | 0.90% | ~243 |
-| Skilled | 0.90% | ~243 |
 | Stunner | 0.90% | ~243 |
 | We have the best insurance | 0.80% | ~216 |
+| Seasoned | 0.80% | ~216 |
 | Diabolical | 0.70% | ~189 |
 | Rift Destroyer | 0.70% | ~189 |
-| Seasoned | 0.70% | ~189 |
 | Tobin's Prodigy | 0.70% | ~189 |
 | Collector | 0.60% | ~162 |
 | Escape Artist | 0.60% | ~162 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,961 (Ranked 119)  
+Progressed: 26,963 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
-| 2023-10-21 | 26,961 | 60 |
+| 2023-10-21 | 26,963 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,460 (Ranked 186)  

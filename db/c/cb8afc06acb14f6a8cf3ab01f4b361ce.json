@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 49,
@@ -233,9 +233,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 284372,
+  "EOS_Progressed": 284448,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13724,
+  "EOS_NewPlayers": 13674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3008,6 +3008,11 @@
       "Time": "2023-10-21T19:05:31.5210265+00:00",
       "NumProgressed": 284372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T20:05:49.9346119+00:00",
+      "NumProgressed": 284448,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -3020,7 +3025,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 102374
+      "UsersEstimate": 102401
     },
     {
       "ID": "S02_BRDA",
@@ -3028,7 +3033,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 65406
+      "UsersEstimate": 65423
     },
     {
       "ID": "S03_OTWA",
@@ -3036,7 +3041,7 @@
       "Name": "Rumors are true",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14219
+      "UsersEstimate": 14222
     },
     {
       "ID": "S04_BRDC",
@@ -3044,7 +3049,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11375
+      "UsersEstimate": 11378
     },
     {
       "ID": "S05_SWRA",
@@ -3052,7 +3057,7 @@
       "Name": "Back to your senses",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8531
+      "UsersEstimate": 8533
     },
     {
       "ID": "S06_LWTC",
@@ -3060,7 +3065,7 @@
       "Name": "They tricked me",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5689
     },
     {
       "ID": "S07_INWA",
@@ -3068,7 +3073,7 @@
       "Name": "We need to talk",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5689
     },
     {
       "ID": "S08_MNSA",
@@ -3156,7 +3161,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 108061
+      "UsersEstimate": 108090
     },
     {
       "ID": "S19_CHALLENGES",
@@ -3188,7 +3193,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5689
     },
     {
       "ID": "S23_ETHEREAL",
@@ -3212,7 +3217,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14219
+      "UsersEstimate": 14222
     },
     {
       "ID": "S26_CRTA",
@@ -3236,7 +3241,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "S29_RECOVER",
@@ -3244,7 +3249,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17062
+      "UsersEstimate": 17067
     },
     {
       "ID": "S30_DIAMOND",
@@ -3252,7 +3257,7 @@
       "Name": "Bring it on!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14219
+      "UsersEstimate": 14222
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -3324,7 +3329,7 @@
       "Name": "I took a risk",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5689
     },
     {
       "ID": "S40_BONUS",
@@ -3332,14 +3337,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28437
+      "UsersEstimate": 28445
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 284372,
+      "Progressed": 284448,
       "Completed": 1
     }
   ],
@@ -3347,8 +3352,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-21T15:05:18.923743+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:31.521026+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:05:49.9346113+00:00",
   "LastUpdate_AppInfo": "2023-10-19T17:57:07.3700367+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:02:24.3638955+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:31.5210771+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:03:04.8283782+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:05:49.934666+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 469,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-10-21T15:08:12.3578884+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T20:05:58.0813316+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -204,7 +209,7 @@
       "ID": "check_and_no_mate",
       "SetID": "7i36ba9",
       "Name": "Check and No Mate",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -228,7 +233,7 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -244,7 +249,7 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -260,7 +265,7 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -276,7 +281,7 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -300,7 +305,7 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -316,7 +321,7 @@
       "ID": "taxi_drivers_knowledge",
       "SetID": "7i36ba9",
       "Name": "Taxi Driver\u0027s Knowledge",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -340,7 +345,7 @@
       "ID": "the_fall",
       "SetID": "7i36ba9",
       "Name": "The Fall",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -348,7 +353,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 95,
       "UsersEstimate": 13
     },
@@ -356,7 +361,7 @@
       "ID": "the_martyr",
       "SetID": "7i36ba9",
       "Name": "The Martyr",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -380,7 +385,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -388,7 +393,7 @@
       "ID": "the_swell_celebration",
       "SetID": "7i36ba9",
       "Name": "The Swell Celebration",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 3
     },
@@ -396,7 +401,7 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -413,14 +418,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:38.5479516+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:05:58.0813307+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:57:42.0089122+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:38.5479709+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:57:47.4408789+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:05:58.081354+00:00"
 }

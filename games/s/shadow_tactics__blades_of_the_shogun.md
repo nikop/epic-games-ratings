@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,098 |
-| A thief's beginning | 10.00% | ~20,915 |
-| Thorough | 10.00% | ~20,915 |
+| Genin | 12.00% | ~25,099 |
+| A thief's beginning | 10.00% | ~20,916 |
+| Thorough | 10.00% | ~20,916 |
 | Disguised | 9.00% | ~18,824 |
 | Rollin' | 9.00% | ~18,824 |
 | Rescue Takuma | 8.00% | ~16,732 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~209 |
 | Release the Kraken | 0.10% | ~209 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,153 (Ranked 66)  
+Progressed: 209,156 (Ranked 66)  
 Completed: 91 (0.04%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,10 +235,10 @@ Completed: 91 (0.04%) (Ranked 280)
 | 2023-10-18 | 208,553 | 91 |
 | 2023-10-19 | 208,723 | 91 |
 | 2023-10-20 | 208,934 | 91 |
-| 2023-10-21 | 209,153 | 91 |
+| 2023-10-21 | 209,156 | 91 |
 ## Awards
 Max (Great for Beginners): 568  (Ranked 196)  
-Sum: 4,800 (Ranked 139)  
+Sum: 4,801 (Ranked 139)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 488 |
 | This game has Challenging Combat | 482 |
 | This game has Quickly Understood Controls | 454 |
-| This game has a Creative Community | 250 |
+| This game has a Creative Community | 251 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -446,3 +446,4 @@ Diff (max vs sum): 57
 | 2023-10-18 | 4.67 | - | 567 | 4,793 |
 | 2023-10-19 | 4.67 | - | 567 | 4,796 |
 | 2023-10-20 | 4.67 | - | 568 | 4,800 |
+| 2023-10-21 | 4.67 | - | 568 | 4,801 |

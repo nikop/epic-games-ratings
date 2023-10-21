@@ -2,12 +2,12 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -846,10 +846,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-10-21T20:01:37.8592092+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 255,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -893,7 +899,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
@@ -925,8 +931,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-10-21T13:05:41.6370666+00:00",
+  "LastChanged": "2023-10-21T20:01:37.8592091+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.6521932+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:01:38.402511+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:07:29.1521569+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:01:37.8592097+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:07:50.4758167+00:00"
 }

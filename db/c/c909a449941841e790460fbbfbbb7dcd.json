@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -398,9 +398,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -446,9 +446,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -477,8 +477,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:08:16.6549833+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:08:25.4548159+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:57:28.9232785+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:08:16.6549989+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:57:35.7169253+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:08:25.4548322+00:00"
 }

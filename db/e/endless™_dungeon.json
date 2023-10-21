@@ -2,9 +2,9 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -163,6 +163,11 @@
       "Time": "2023-10-21T19:05:48.8335007+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T20:06:10.9920615+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -207,7 +212,7 @@
       "Name": "Blobmeister",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -231,7 +236,7 @@
       "Name": "Pest Control",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -239,15 +244,15 @@
       "Name": "Team Builder",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -255,7 +260,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -263,7 +268,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -271,7 +276,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -287,13 +292,13 @@
       "Name": "How Low Can We Go?",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "No Stone Unturned",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -319,7 +324,7 @@
       "Name": "Hoarder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -351,7 +356,7 @@
       "Name": "Long Live Rock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -375,7 +380,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -414,13 +419,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:48.8335+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:06:10.9920609+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:58:23.3305337+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:48.8335225+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:58:26.4391646+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:06:10.9920855+00:00"
 }

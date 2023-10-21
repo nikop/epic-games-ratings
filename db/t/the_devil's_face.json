@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1854,6 +1854,11 @@
       "Time": "2023-10-21T19:08:01.5830674+00:00",
       "NumProgressed": 426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T20:08:06.3971851+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1871,9 +1876,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1921,7 +1926,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1937,7 +1942,7 @@
       "Name": "Unholy lands",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1976,14 +1981,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:08:01.5830669+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:08:06.3971845+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:01:52.5866915+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:08:01.5830884+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:01:50.7584715+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:08:06.3972096+00:00"
 }

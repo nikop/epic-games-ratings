@@ -15,7 +15,7 @@ Rating: 4.37 (Ranked 756)
 | Do you feel like a tough guy? | 43.00% | ~978 |
 | Turn Up The HEAT | 41.00% | ~933 |
 | Stop Hitting Yourself! | 34.00% | ~774 |
-| Nothing to Wear | 30.00% | ~682 |
+| Nothing to Wear | 31.00% | ~705 |
 | The First Law of Thermodynamics | 28.00% | ~637 |
 | The Second Law of Thermodynamics | 15.00% | ~341 |
 | Do you trust me? | 15.00% | ~341 |

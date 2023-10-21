@@ -9,7 +9,7 @@
 | Teacher's pet | 54.00% | ~7 |
 | Out of my area | 46.00% | ~6 |
 | Robot cleaner | 46.00% | ~6 |
-| Skynet Wins | 38.00% | ~5 |
+| Skynet Wins | 46.00% | ~6 |
 | Big Win | 23.00% | ~3 |
 | Short Circuit | 23.00% | ~3 |
 | Airstrike | 15.00% | ~2 |

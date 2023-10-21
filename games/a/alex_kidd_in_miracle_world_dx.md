@@ -15,7 +15,7 @@
 | Janken The Great | 11.00% | ~34 |
 | Pacifist | 11.00% | ~34 |
 | Overwhelmed Beast | 9.00% | ~28 |
-| Radaxian Protector | 4.00% | ~13 |
+| Radaxian Protector | 5.00% | ~16 |
 | Let's Talk | 2.00% | ~6 |
 | Champion | 2.00% | ~6 |
 | Stingy | 2.00% | ~6 |

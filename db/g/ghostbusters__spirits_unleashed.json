@@ -2589,7 +2589,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26961,
+  "EOS_Progressed": 26963,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 2,
@@ -15759,6 +15759,11 @@
       "Time": "2023-10-21T19:05:23.9546671+00:00",
       "NumProgressed": 26961,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T20:05:41.1391852+00:00",
+      "NumProgressed": 26963,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -16032,9 +16037,9 @@
       "ID": "Seasoned",
       "SetID": "819popo",
       "Name": "Seasoned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 216
     },
     {
       "ID": "Side_Hustle",
@@ -16048,9 +16053,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 270
     },
     {
       "ID": "Solo_Capture",
@@ -16177,7 +16182,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26961,
+      "Progressed": 26963,
       "Completed": 60
     }
   ],
@@ -16185,8 +16190,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T19:01:55.5945796+00:00",
-  "LastChanged_Achievements": "2023-10-21T19:05:23.9546666+00:00",
+  "LastChanged_Achievements": "2023-10-21T20:05:41.1391847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:01:55.5945805+00:00",
-  "LastUpdate_Achievements": "2023-10-21T19:05:23.9547939+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:01:56.0476612+00:00",
+  "LastUpdate_Achievements": "2023-10-21T20:05:41.1393128+00:00"
 }
