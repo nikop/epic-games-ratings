@@ -13824,10 +13824,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 316262,
       "NumberOfAwardsMax": 99962
+    },
+    {
+      "Time": "2023-10-21T05:58:21.9509636+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 316478,
+      "NumberOfAwardsMax": 99962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316262,
+  "NumberOfAwards": 316478,
   "NumberOfAwardsMax": 99962,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13877,7 +13883,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 17696
+      "Count": 17912
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13904,9 +13910,9 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 892954,
+  "EOS_Progressed": 892959,
   "EOS_Completed": 2691,
-  "EOS_NewPlayers": 1410,
+  "EOS_NewPlayers": 1405,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34694,6 +34700,11 @@
       "Time": "2023-10-21T05:05:30.4535816+00:00",
       "NumProgressed": 892954,
       "NumCompleted": 2691
+    },
+    {
+      "Time": "2023-10-21T06:04:34.3907082+00:00",
+      "NumProgressed": 892959,
+      "NumCompleted": 2691
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34904,9 +34915,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TheDevil",
@@ -35225,21 +35236,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 892954,
+      "Progressed": 892959,
       "Completed": 2691
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21577,
+      "Progressed": 21582,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-21T04:59:12.5412988+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:05:30.4535812+00:00",
+  "LastChanged": "2023-10-21T05:58:21.9509634+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:04:34.3907073+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:59:12.5412995+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:05:30.4537371+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:58:21.9509645+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:04:34.390889+00:00"
 }

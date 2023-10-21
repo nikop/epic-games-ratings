@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -211,17 +211,17 @@
       "ID": "ACH_5",
       "SetID": "15cie2",
       "Name": "Art Connoisseur",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_6",
       "SetID": "15cie2",
       "Name": "Survivor",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_7",
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:06:24.393096+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:05:21.5685976+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:05.8471579+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:57:34.2259425+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:06:24.3931169+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:56:57.3496486+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:05:21.5686098+00:00"
 }

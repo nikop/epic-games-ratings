@@ -37,7 +37,7 @@
 | Veteran | 41.00% | ~311 |
 | The Professor | 40.00% | ~304 |
 | Power Full | 40.00% | ~304 |
-| The Archangel | 38.00% | ~288 |
+| The Archangel | 39.00% | ~296 |
 | Completionist | 37.00% | ~281 |
 | The Convict | 37.00% | ~281 |
 | Colony Defense | 36.00% | ~273 |
@@ -86,7 +86,7 @@
 | Pathfinder | 23.00% | ~175 |
 | Arbiter | 23.00% | ~175 |
 | Lost and Found | 23.00% | ~175 |
-| Paramour II | 21.00% | ~159 |
+| Paramour II | 22.00% | ~167 |
 | Party Crasher | 21.00% | ~159 |
 | Pyromaniac | 20.00% | ~152 |
 | No One Left Behind | 20.00% | ~152 |

@@ -2,12 +2,12 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 357,
-  "Ranking_Popularity": 471,
+  "Ranking_Rating": 339,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -443,12 +443,18 @@
       "Rating": 4.62,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-10-21T05:58:46.2835575+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
-  "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwards": 233,
+  "NumberOfAwardsMax": 33,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -460,7 +466,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -523,8 +529,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2023-10-20T13:59:49.2597123+00:00",
+  "LastChanged": "2023-10-21T05:58:46.2835572+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.9385318+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:59:42.4346187+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:09:17.1636786+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:58:46.2835579+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:08:25.6652719+00:00"
 }

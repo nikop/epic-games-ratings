@@ -2,9 +2,9 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -259,6 +259,11 @@
       "Time": "2023-10-20T17:04:45.9865947+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T06:03:35.6808246+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-20T13:09:34.3755385+00:00",
@@ -341,9 +346,9 @@
       "ID": "JUMPER_100",
       "SetID": "dademeo",
       "Name": "Jumper 100",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "JUMPER_1000",
@@ -365,9 +370,9 @@
       "ID": "JELLY_DANCE",
       "SetID": "dademeo",
       "Name": "Jelly Dance",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "JELLY_OF_STEEL",
@@ -414,14 +419,14 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:04:23.7501721+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:03:35.6808243+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:12.0454797+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:59:43.4795265+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:04:23.7501917+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:58:47.0515455+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:03:35.6808346+00:00"
 }

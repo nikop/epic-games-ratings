@@ -10,13 +10,13 @@ Rating: 4.19 (Ranked 898)
 | Flesh Wound | 6.00% | ~968 |
 | Chew 'Em Up | 5.00% | ~806 |
 | Float Like A Butterfly | 5.00% | ~806 |
+| The Outer Way | 5.00% | ~806 |
 | Keep Fighting | 5.00% | ~203 |
 | You Need a Gun | 4.00% | ~645 |
 | I Do Belong Here | 4.00% | ~645 |
 | Two Heads Are Better Than One | 4.00% | ~645 |
 | Workplace Hazard | 4.00% | ~645 |
 | Reforged | 4.00% | ~645 |
-| The Outer Way | 4.00% | ~645 |
 | If the SHU Fits... | 4.00% | ~645 |
 | Without A Paddle | 4.00% | ~645 |
 | In the Pipe, Five by Five | 4.00% | ~645 |
@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 898)
 | It's Time | 4.00% | ~162 |
 | Giving Back | 3.00% | ~484 |
 | Terminated | 3.00% | ~484 |
-| In Striking Distance | 2.00% | ~322 |
-| The Commonality | 2.00% | ~322 |
+| In Striking Distance | 2.00% | ~323 |
+| The Commonality | 2.00% | ~323 |
 | One Last Job | 2.00% | ~81 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~28 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 898)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,125 (Ranked 134)  
+Progressed: 16,126 (Ranked 134)  
 Completed: 75 (0.47%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 75 (0.47%) (Ranked 181)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,125 | 75 |
+| 2023-10-21 | 16,126 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 448 (Ranked 323)  

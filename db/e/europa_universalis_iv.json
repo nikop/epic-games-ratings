@@ -11007,9 +11007,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 435631,
+  "EOS_Progressed": 435652,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5600,
+  "EOS_NewPlayers": 5601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31912,6 +31912,11 @@
       "Time": "2023-10-21T05:04:33.467046+00:00",
       "NumProgressed": 435631,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T06:03:44.444904+00:00",
+      "NumProgressed": 435652,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32539,7 +32544,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -32923,7 +32928,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17425
+      "UsersEstimate": 17426
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33131,7 +33136,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -33139,7 +33144,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -33491,7 +33496,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "achievement_my_true_friend",
@@ -33859,7 +33864,7 @@
       "Name": "Respected",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -34203,7 +34208,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13069
+      "UsersEstimate": 13070
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34347,7 +34352,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -34515,7 +34520,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -34531,7 +34536,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_trustworthy",
@@ -34587,7 +34592,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17425
+      "UsersEstimate": 17426
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -34619,7 +34624,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17425
+      "UsersEstimate": 17426
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -34754,21 +34759,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 435631,
+      "Progressed": 435652,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 435631,
+      "Progressed": 435652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-20T23:59:25.4048695+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:04:33.4670456+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:03:44.4449033+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:59:41.7051973+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:04:33.4682493+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:58:45.7430615+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:03:44.4461389+00:00"
 }

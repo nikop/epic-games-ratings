@@ -6,32 +6,32 @@ Number of Ratings: 32,207  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long and Winding Road | 93.00% | ~525,247 |
-| The People's Hero | 56.00% | ~316,278 |
-| In A Flash | 32.00% | ~180,730 |
-| Lest Ye Be Judged | 24.00% | ~135,548 |
-| Heart of Darkness | 24.00% | ~135,548 |
-| Cayde's Pathfinder | 23.00% | ~129,900 |
-| Ikora's Protégé | 21.00% | ~118,604 |
-| The Life Exotic | 19.00% | ~107,309 |
-| Heart of the Awoken | 18.00% | ~101,661 |
-| Zavala's Lieutenant | 17.00% | ~96,013 |
-| Challenge Accepted | 16.00% | ~90,365 |
-| High-Stakes Play | 16.00% | ~90,365 |
-| Show Me What You Got | 16.00% | ~90,365 |
-| Legends Grow | 14.00% | ~79,069 |
-| Exotique | 13.00% | ~73,422 |
-| Nothing Left to Say | 13.00% | ~73,422 |
-| An Exotic Journey | 12.00% | ~67,774 |
-| Darkness Falls | 12.00% | ~67,774 |
-| Belly Of The Beast | 10.00% | ~56,478 |
-| The Prestige | 7.00% | ~39,535 |
-| Fashion Statement | 7.00% | ~39,535 |
-| Wishing for the Best | 6.00% | ~33,887 |
-| Seal the Deal | 4.00% | ~22,591 |
+| Long and Winding Road | 93.00% | ~525,269 |
+| The People's Hero | 56.00% | ~316,291 |
+| In A Flash | 32.00% | ~180,738 |
+| Lest Ye Be Judged | 24.00% | ~135,553 |
+| Heart of Darkness | 24.00% | ~135,553 |
+| Cayde's Pathfinder | 23.00% | ~129,905 |
+| Ikora's Protégé | 21.00% | ~118,609 |
+| The Life Exotic | 19.00% | ~107,313 |
+| Heart of the Awoken | 18.00% | ~101,665 |
+| Zavala's Lieutenant | 17.00% | ~96,017 |
+| Challenge Accepted | 16.00% | ~90,369 |
+| High-Stakes Play | 16.00% | ~90,369 |
+| Show Me What You Got | 16.00% | ~90,369 |
+| Legends Grow | 14.00% | ~79,073 |
+| Exotique | 13.00% | ~73,425 |
+| Nothing Left to Say | 13.00% | ~73,425 |
+| An Exotic Journey | 12.00% | ~67,777 |
+| Darkness Falls | 12.00% | ~67,777 |
+| Belly Of The Beast | 10.00% | ~56,480 |
+| The Prestige | 7.00% | ~39,536 |
+| Fashion Statement | 7.00% | ~39,536 |
+| Wishing for the Best | 6.00% | ~33,888 |
+| Seal the Deal | 4.00% | ~22,592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564,782 (Ranked 30)  
-Completed: 16,029 (2.84%) (Ranked 96)  
+Progressed: 564,805 (Ranked 30)  
+Completed: 16,031 (2.84%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,7 +214,7 @@ Completed: 16,029 (2.84%) (Ranked 96)
 | 2023-10-18 | 562,654 | 15,889 |
 | 2023-10-19 | 563,612 | 15,964 |
 | 2023-10-20 | 564,553 | 16,019 |
-| 2023-10-21 | 564,782 | 16,029 |
+| 2023-10-21 | 564,805 | 16,031 |
 ## Awards
 Max (Great Boss Battles): 38,527  (Ranked 14)  
 Sum: 98,167 (Ranked 16)  

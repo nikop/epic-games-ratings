@@ -13,11 +13,11 @@
 | They’re Watching | 27.00% | ~4 |
 | Thanksgiving Day | 20.00% | ~3 |
 | The Witch’s Haunt | 20.00% | ~3 |
+| Art Connoisseur | 20.00% | ~3 |
+| Survivor | 20.00% | ~3 |
 | The Last Skull | 20.00% | ~3 |
 | Trapped in Time | 13.00% | ~2 |
 | A Cabin Boy with Potential | 13.00% | ~2 |
-| Art Connoisseur | 13.00% | ~2 |
-| Survivor | 13.00% | ~2 |
 | Master of Riddles | 13.00% | ~2 |
 | Don’t Touch the Rum! | 7.00% | ~1 |
 | Oh... You didn't think to bring it? | 7.00% | ~1 |

@@ -5,25 +5,25 @@ Rating: 4.44 (Ranked 661)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,535 |
-| A new Journey | 74.00% | ~1,515 |
-| Departure | 73.00% | ~1,494 |
-| From X to Y | 72.00% | ~1,474 |
-| Way of Iron | 70.00% | ~1,433 |
-| Mystery Tour | 69.00% | ~1,412 |
-| We brake for nobody | 68.00% | ~1,392 |
+| Country Bumpkin | 75.00% | ~1,536 |
+| A new Journey | 74.00% | ~1,516 |
+| Departure | 73.00% | ~1,495 |
+| From X to Y | 72.00% | ~1,475 |
+| Way of Iron | 70.00% | ~1,434 |
+| Mystery Tour | 69.00% | ~1,413 |
+| We brake for nobody | 67.00% | ~1,372 |
 | Brainstorm | 65.00% | ~1,331 |
 | Travel Company | 65.00% | ~1,331 |
-| Mind the Gap | 64.00% | ~1,310 |
-| All around the World | 62.00% | ~1,269 |
-| Right through the middle | 58.00% | ~1,187 |
+| Mind the Gap | 64.00% | ~1,311 |
+| All around the World | 62.00% | ~1,270 |
+| Right through the middle | 58.00% | ~1,188 |
 | Facility Manager | 53.00% | ~1,085 |
 | Poor Devil | 53.00% | ~1,085 |
 | Producer | 50.00% | ~1,024 |
 | Apprentice | 42.00% | ~860 |
-| Bridge Builder | 41.00% | ~839 |
-| Access granted | 35.00% | ~716 |
-| Going once, going twice, sold | 35.00% | ~716 |
+| Bridge Builder | 41.00% | ~840 |
+| Access granted | 35.00% | ~717 |
+| Going once, going twice, sold | 35.00% | ~717 |
 | Stoker | 33.00% | ~676 |
 | Bull and bear | 33.00% | ~676 |
 | Full Steam ahead | 32.00% | ~655 |
@@ -34,12 +34,12 @@ Rating: 4.44 (Ranked 661)
 | Country Life | 28.00% | ~573 |
 | General Manager | 27.00% | ~553 |
 | Hostile Takeover | 25.00% | ~512 |
-| Seven at one stroke | 24.00% | ~491 |
+| Seven at one stroke | 24.00% | ~492 |
 | Trailblazer | 21.00% | ~430 |
 | Traffic Junction | 21.00% | ~430 |
 | Breaking Ground | 21.00% | ~430 |
 | Traffic Jam | 19.00% | ~389 |
-| Networker | 18.00% | ~368 |
+| Networker | 18.00% | ~369 |
 | Resistance is futile | 17.00% | ~348 |
 | Assimilated | 16.00% | ~328 |
 | Locusts | 15.00% | ~307 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 661)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,047 (Ranked 207)  
+Progressed: 2,048 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 2,039 | 0 |
 | 2023-10-19 | 2,043 | 0 |
 | 2023-10-20 | 2,046 | 0 |
-| 2023-10-21 | 2,047 | 0 |
+| 2023-10-21 | 2,048 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

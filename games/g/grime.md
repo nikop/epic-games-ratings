@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.60% | ~921 |
 | Watcher | 0.60% | ~921 |
 | Shapely | 0.50% | ~768 |
-| Glare | 0.50% | ~765 |
+| Glare | 0.50% | ~766 |
 | Assimilation | 0.40% | ~614 |
 | Hunt Down | 0.40% | ~614 |
 | Host | 0.40% | ~612 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~153 |
 | Intensify | 0.10% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,512 (Ranked 72)  
+Progressed: 153,524 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-18 | 153,042 | 1 |
 | 2023-10-19 | 153,244 | 1 |
 | 2023-10-20 | 153,466 | 1 |
-| 2023-10-21 | 153,512 | 1 |
+| 2023-10-21 | 153,524 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 429)  
-Sum: 304 (Ranked 348)  
+Sum: 305 (Ranked 348)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 81
 | This game is Extremely Fun | 40 |
 | This game has Amazing Storytelling | 35 |
 | This game has a Creative Community | 32 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -352,3 +352,4 @@ Diff (max vs sum): 81
 | 2023-10-18 | 4.59 | - | 45 | 298 |
 | 2023-10-19 | 4.59 | - | 45 | 299 |
 | 2023-10-20 | 4.59 | - | 45 | 304 |
+| 2023-10-21 | 4.59 | - | 45 | 305 |

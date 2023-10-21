@@ -7,17 +7,17 @@ Rating: 4.50 (Ranked 576)
 | ---- | ---------- | ----- |
 | Advancement | 3.00% | ~806 |
 | Stylish | 3.00% | ~806 |
-| Clutch Capture | 2.00% | ~537 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~537 |
-| Cultured | 2.00% | ~537 |
-| Discovery | 2.00% | ~537 |
-| Meticulously Efficient | 2.00% | ~537 |
-| Fully Upgraded | 2.00% | ~537 |
-| Solo Capture | 2.00% | ~537 |
-| Swift Rift Removers | 2.00% | ~537 |
-| Teamwork | 2.00% | ~537 |
-| There you are! | 2.00% | ~537 |
-| Vaporous Expansion | 2.00% | ~537 |
+| Clutch Capture | 2.00% | ~538 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~538 |
+| Cultured | 2.00% | ~538 |
+| Discovery | 2.00% | ~538 |
+| Meticulously Efficient | 2.00% | ~538 |
+| Fully Upgraded | 2.00% | ~538 |
+| Solo Capture | 2.00% | ~538 |
+| Swift Rift Removers | 2.00% | ~538 |
+| Teamwork | 2.00% | ~538 |
+| There you are! | 2.00% | ~538 |
+| Vaporous Expansion | 2.00% | ~538 |
 | Animated | 1.00% | ~269 |
 | Back Off | 1.00% | ~269 |
 | Daily Dose | 1.00% | ~269 |
@@ -35,17 +35,17 @@ Rating: 4.50 (Ranked 576)
 | Stunner | 0.90% | ~242 |
 | We have the best insurance | 0.80% | ~215 |
 | Pesky Jerks | 0.80% | ~215 |
+| Rift Destroyer | 0.70% | ~188 |
 | Seasoned | 0.70% | ~188 |
 | Tobin's Prodigy | 0.70% | ~188 |
 | Collector | 0.60% | ~161 |
 | Diabolical | 0.60% | ~161 |
 | Escape Artist | 0.60% | ~161 |
 | Reckless | 0.60% | ~161 |
-| Rift Destroyer | 0.60% | ~161 |
 | Rivalry | 0.60% | ~161 |
-| Fragile Panes | 0.40% | ~107 |
-| Liability | 0.40% | ~107 |
-| Surprise! | 0.40% | ~107 |
+| Fragile Panes | 0.40% | ~108 |
+| Liability | 0.40% | ~108 |
+| Surprise! | 0.40% | ~108 |
 | Master Collector | 0.20% | ~54 |
 | Rift Seeker | 0.20% | ~54 |
 | Therapeutic | 0.20% | ~54 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,872 (Ranked 119)  
+Progressed: 26,877 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
-| 2023-10-21 | 26,872 | 60 |
+| 2023-10-21 | 26,877 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,451 (Ranked 187)  

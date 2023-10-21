@@ -24,11 +24,11 @@ Rating: 3.98 (Ranked 978)
 | Periapt Alizarin | 21.00% | ~20 |
 | Geas Aristeya | 19.00% | ~18 |
 | Armsman | 19.00% | ~18 |
-| A Perfect Cycle | 15.00% | ~14 |
-| Recruit | 15.00% | ~14 |
+| A Perfect Cycle | 16.00% | ~15 |
+| Recruit | 16.00% | ~15 |
 | Good Boy | 13.00% | ~12 |
+| Lights Army | 11.00% | ~10 |
 | Periapt Cerulean | 11.00% | ~10 |
-| Lights Army | 9.00% | ~9 |
 | Periapt Viridian | 9.00% | ~9 |
 | Shroudfane Explorer | 9.00% | ~9 |
 | Armaments Gules | 8.00% | ~8 |

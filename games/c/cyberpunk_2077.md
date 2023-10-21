@@ -7,6 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.20% | ~1,786 |
+| Rough Landing | 0.20% | ~1,786 |
 | City Lights | 0.10% | ~893 |
 | To Bad Decisions! | 0.10% | ~893 |
 | Bushido and Chill | 0.10% | ~893 |
@@ -31,7 +32,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.10% | ~893 |
 | Stanislavski's Method | 0.10% | ~893 |
 | Temperance | 0.10% | ~893 |
-| Rough Landing | 0.10% | ~893 |
 | The Devil | 0.10% | ~893 |
 | The Fool | 0.10% | ~893 |
 | The Hermit | 0.10% | ~893 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 892,954 (Ranked 15)  
+Progressed: 892,959 (Ranked 15)  
 Completed: 2,691 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,16 +256,16 @@ Completed: 2,691 (0.30%) (Ranked 208)
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
-| 2023-10-21 | 892,954 | 2,691 |
+| 2023-10-21 | 892,959 | 2,691 |
 ## Awards
 Max (Character Customization): 99,962  (Ranked 9)  
-Sum: 316,262 (Ranked 11)  
+Sum: 316,478 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 99,962 |
 | This game has Great Boss Battles | 70,969 |
-| This game is Great for Beginners | 17,696 |
+| This game is Great for Beginners | 17,912 |
 | This game has Diverse Characters | 17,590 |
 | This game is Highly Recommended | 17,009 |
 | This game has Amazing Storytelling | 16,845 |
@@ -552,4 +552,4 @@ Diff (max vs sum): -2
 | 2023-10-18 | 4.64 | - | 99,323 | 311,170 |
 | 2023-10-19 | 4.64 | - | 99,621 | 313,301 |
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
-| 2023-10-21 | 4.64 | - | 99,962 | 316,262 |
+| 2023-10-21 | 4.64 | - | 99,962 | 316,478 |

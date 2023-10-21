@@ -5,13 +5,13 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~908 |
+| Wakey Wakey | 28.00% | ~909 |
 | Sputnik 2049 | 25.00% | ~811 |
 | Infinite Growth... | 24.00% | ~779 |
 | Without Breaking Some Eggs... | 23.00% | ~746 |
-| Space Society | 17.00% | ~551 |
-| A Thousand Strong | 17.00% | ~551 |
-| Ready for a New World | 17.00% | ~551 |
+| Space Society | 17.00% | ~552 |
+| A Thousand Strong | 17.00% | ~552 |
+| Ready for a New World | 17.00% | ~552 |
 | Permanent Redesigns | 15.00% | ~487 |
 | Fully Recycled | 13.00% | ~422 |
 | Ain't Nobody Got Time for That | 13.00% | ~422 |
@@ -33,9 +33,9 @@ Rating: 4.56 (Ranked 475)
 | Oats | 5.00% | ~162 |
 | What They Hide From Us | 5.00% | ~162 |
 | BRAWL! | 5.00% | ~162 |
-| What the Ruins Teach Us | 5.00% | ~162 |
 | ...  in a finite world | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
+| What the Ruins Teach Us | 4.00% | ~130 |
 | Sustainable Energy | 3.00% | ~97 |
 | Delivery! | 3.00% | ~97 |
 | Pedal to the Metal | 3.00% | ~97 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 475)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,244 (Ranked 192)  
+Progressed: 3,245 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-17 | 3,237 | 0 |
 | 2023-10-18 | 3,238 | 0 |
 | 2023-10-19 | 3,241 | 0 |
-| 2023-10-21 | 3,244 | 0 |
+| 2023-10-21 | 3,245 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

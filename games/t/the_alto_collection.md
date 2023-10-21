@@ -1,41 +1,41 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 207)  
+Rating: 4.70 (Ranked 206)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,704 |
-| Finding Your Footing | 26.00% | ~11,271 |
-| Nomad | 17.00% | ~7,369 |
-| Picking Up Speed | 16.00% | ~6,936 |
-| Welcome Maya | 15.00% | ~6,502 |
-| Scout | 11.00% | ~4,768 |
-| Sightseer | 11.00% | ~4,768 |
+| Rookie | 27.00% | ~11,706 |
+| Finding Your Footing | 26.00% | ~11,272 |
+| Nomad | 17.00% | ~7,370 |
+| Picking Up Speed | 16.00% | ~6,937 |
+| Welcome Maya | 15.00% | ~6,503 |
+| Scout | 11.00% | ~4,769 |
+| Sightseer | 11.00% | ~4,769 |
 | Amateur | 10.00% | ~4,335 |
 | Unlock Maya | 8.00% | ~3,468 |
 | Enter Paz | 8.00% | ~3,468 |
 | Wanderer | 8.00% | ~3,468 |
 | Aviator | 6.00% | ~2,601 |
-| My Little Friend | 5.00% | ~2,167 |
-| One With The Board | 5.00% | ~2,167 |
-| Voyager | 5.00% | ~2,167 |
+| My Little Friend | 5.00% | ~2,168 |
+| One With The Board | 5.00% | ~2,168 |
+| Voyager | 5.00% | ~2,168 |
 | Izel Has Arrived | 4.00% | ~1,734 |
-| Junkie | 3.00% | ~1,300 |
-| Traveler | 3.00% | ~1,300 |
-| Journeyer | 3.00% | ~1,300 |
-| Unlock Paz | 3.00% | ~1,300 |
-| Human Flight | 3.00% | ~1,300 |
-| Sandboarder | 3.00% | ~1,300 |
+| Junkie | 3.00% | ~1,301 |
+| Traveler | 3.00% | ~1,301 |
+| Journeyer | 3.00% | ~1,301 |
+| Unlock Paz | 3.00% | ~1,301 |
+| Human Flight | 3.00% | ~1,301 |
+| Sandboarder | 3.00% | ~1,301 |
 | Explorer | 2.00% | ~867 |
 | Pro | 2.00% | ~867 |
 | Unlock Izel | 2.00% | ~867 |
 | Here Comes Felipe | 2.00% | ~867 |
-| Hoist the Mainsail | 1.00% | ~433 |
-| Daredevil | 1.00% | ~433 |
-| Introducing Sumara | 1.00% | ~433 |
-| Vandal | 1.00% | ~433 |
+| Hoist the Mainsail | 1.00% | ~434 |
+| Daredevil | 1.00% | ~434 |
+| Introducing Sumara | 1.00% | ~434 |
+| Vandal | 1.00% | ~434 |
 | Unlock Felipe | 0.90% | ~390 |
 | Adventurer | 0.80% | ~347 |
 | Unlock Tupa | 0.50% | ~217 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,349 (Ranked 109)  
+Progressed: 43,354 (Ranked 109)  
 Completed: 5 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 5 (0.01%) (Ranked 299)
 | 2023-10-18 | 43,100 | 5 |
 | 2023-10-19 | 43,211 | 5 |
 | 2023-10-20 | 43,324 | 5 |
-| 2023-10-21 | 43,349 | 5 |
+| 2023-10-21 | 43,354 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 423)  
 Sum: 366 (Ranked 335)  

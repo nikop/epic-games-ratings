@@ -1103,10 +1103,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 304,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-21T05:58:07.4643573+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 304,
+  "NumberOfAwards": 305,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1162,12 +1168,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     }
   ],
-  "EOS_Progressed": 153512,
+  "EOS_Progressed": 153524,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1514,
+  "EOS_NewPlayers": 1518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12420,6 +12426,11 @@
       "Time": "2023-10-21T05:06:48.5049125+00:00",
       "NumProgressed": 153512,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T06:05:42.4270568+00:00",
+      "NumProgressed": 153524,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12543,7 +12554,7 @@
       "Name": "Glare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -12798,21 +12809,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153095,
+      "Progressed": 153107,
       "Completed": 1165
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153512,
+      "Progressed": 153524,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-20T23:58:42.0672588+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:06:48.5049119+00:00",
+  "LastChanged": "2023-10-21T05:58:07.464357+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:05:42.4270559+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:58:57.022404+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:06:48.5050179+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:58:07.4643577+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:05:42.4271661+00:00"
 }

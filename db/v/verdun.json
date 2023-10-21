@@ -1751,9 +1751,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 61226,
+  "EOS_Progressed": 61228,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21886,6 +21886,11 @@
       "Time": "2023-10-21T05:09:17.8227145+00:00",
       "NumProgressed": 61226,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T06:08:26.215599+00:00",
+      "NumProgressed": 61228,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -21897,7 +21902,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33674
+      "UsersEstimate": 33675
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -22017,7 +22022,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -22025,7 +22030,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5510
+      "UsersEstimate": 5511
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -22153,7 +22158,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19592
+      "UsersEstimate": 19593
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -22161,7 +22166,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24490
+      "UsersEstimate": 24491
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -22185,7 +22190,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38572
+      "UsersEstimate": 38574
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -22209,7 +22214,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14694
+      "UsersEstimate": 14695
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -22241,7 +22246,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -22265,7 +22270,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 47756
+      "UsersEstimate": 47758
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -22273,7 +22278,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5510
+      "UsersEstimate": 5511
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -22313,7 +22318,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -22337,7 +22342,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5510
+      "UsersEstimate": 5511
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -22353,7 +22358,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5510
+      "UsersEstimate": 5511
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -22368,15 +22373,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 61226,
+      "Progressed": 61228,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:09:17.8227139+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:08:26.2155981+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:32.0014815+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:01:15.7945709+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:09:17.8228861+00:00"
+  "LastUpdate_Ratings": "2023-10-21T06:00:04.0826024+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:08:26.2157774+00:00"
 }

@@ -22,11 +22,11 @@ Rating: 4.06 (Ranked 957)
 | Enlightenment | 16.00% | ~329 |
 | Hero inspection | 15.00% | ~308 |
 | Lieutenant | 15.00% | ~308 |
+| The Unstoppable | 15.00% | ~308 |
 | Milestone collector | 14.00% | ~288 |
 | Mysterious Rock | 14.00% | ~288 |
 | Natural Talent | 14.00% | ~288 |
 | Superior | 14.00% | ~288 |
-| The Unstoppable | 14.00% | ~288 |
 | Scientist | 13.00% | ~267 |
 | Hunter | 12.00% | ~246 |
 | The power of Awakening | 12.00% | ~246 |
@@ -57,9 +57,9 @@ Rating: 4.06 (Ranked 957)
 | The Alchemist | 7.00% | ~144 |
 | Active Member | 6.00% | ~123 |
 | Ancient Knowledge | 6.00% | ~123 |
+| Background Story | 6.00% | ~123 |
 | Legendary | 6.00% | ~123 |
 | Arena Challenger | 5.00% | ~103 |
-| Background Story | 5.00% | ~103 |
 | Ebony Jungle Liberator | 5.00% | ~103 |
 | Mythic Power | 4.00% | ~82 |
 | What lies behind the bush | 4.00% | ~82 |

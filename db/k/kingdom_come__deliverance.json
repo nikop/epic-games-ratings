@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
@@ -7989,9 +7989,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805480,
+  "EOS_Progressed": 805481,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28534,6 +28534,11 @@
       "Time": "2023-10-21T05:06:09.3545807+00:00",
       "NumProgressed": 805480,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-21T06:05:08.3584188+00:00",
+      "NumProgressed": 805481,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28745,7 +28750,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185260
+      "UsersEstimate": 185261
     },
     {
       "ID": "Fighter",
@@ -28865,7 +28870,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104712
+      "UsersEstimate": 104713
     },
     {
       "ID": "Judas",
@@ -29200,15 +29205,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805480,
+      "Progressed": 805481,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-20T23:00:41.1856228+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:06:09.3545801+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:05:08.3584178+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:13.6850555+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:00:16.282545+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:06:09.354793+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:59:16.4458847+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:05:08.3586349+00:00"
 }

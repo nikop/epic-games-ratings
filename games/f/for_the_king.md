@@ -1,17 +1,17 @@
 # For The King
 [Store](https://store.epicgames.com/en-US/p/for-the-king)  
 [View Rawdata](../../db/f/for_the_king.json)  
-Rating: 4.70 (Ranked 207)  
+Rating: 4.70 (Ranked 206)  
 Number of Ratings: 5,563  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 398  (Ranked 222)  
-Sum: 2,983 (Ranked 173)  
-Diff (max vs sum): 49  
+Max (Great for Beginners): 399  (Ranked 222)  
+Sum: 2,985 (Ranked 172)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 398 |
+| This game is Great for Beginners | 399 |
 | This game is Extremely Fun | 353 |
-| This game has Diverse Characters | 344 |
+| This game has Diverse Characters | 345 |
 | This game is Relaxing | 336 |
 | This game has Quickly Understood Controls | 330 |
 | This game is Highly Recommended | 325 |
@@ -226,3 +226,4 @@ Diff (max vs sum): 49
 | 2023-10-18 | 4.70 | - | 398 | 2,981 |
 | 2023-10-19 | 4.70 | - | 398 | 2,982 |
 | 2023-10-20 | 4.70 | - | 398 | 2,983 |
+| 2023-10-21 | 4.70 | - | 399 | 2,985 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1313,9 +1313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16125,
+  "EOS_Progressed": 16126,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -7758,6 +7758,11 @@
       "Time": "2023-10-21T05:05:08.891468+00:00",
       "NumProgressed": 16125,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-21T06:04:15.7989715+00:00",
+      "NumProgressed": 16126,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7881,7 +7886,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "KILL_2HEAD",
@@ -7921,7 +7926,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -7959,9 +7964,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 806
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8144,13 +8149,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16125,
+      "Progressed": 16126,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4051,
+      "Progressed": 4052,
       "Completed": 29
     }
   ],
@@ -8158,8 +8163,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-19T07:57:37.4777054+00:00",
-  "LastChanged_Achievements": "2023-10-21T05:05:08.8914675+00:00",
+  "LastChanged_Achievements": "2023-10-21T06:04:15.7989705+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:28.7445303+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:58:34.3690302+00:00",
-  "LastUpdate_Achievements": "2023-10-21T05:05:08.8915411+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:57:47.0212125+00:00",
+  "LastUpdate_Achievements": "2023-10-21T06:04:15.7990506+00:00"
 }
