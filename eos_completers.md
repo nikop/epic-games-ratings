@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.05% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.01% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.99% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.71% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -45,7 +45,7 @@
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.46% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.44% |
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.39% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
@@ -108,7 +108,7 @@
 | 106 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 107 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.27% |
-| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.26% |
+| 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.25% |
 | 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.09% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.96% |
@@ -188,8 +188,8 @@
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 187 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 187 | [Tchia](games/t/tchia.md) | 0.45% |
-| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
 | 191 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 192 | [Them and Us](games/t/them_and_us.md) | 0.41% |
 | 193 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
@@ -238,11 +238,11 @@
 | 234 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 237 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 238 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 239 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 239 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 239 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 239 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.13% |
-| 239 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
+| 238 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.14% |
+| 240 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 240 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 240 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 240 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.13% |
 | 244 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 244 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
 | 244 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
