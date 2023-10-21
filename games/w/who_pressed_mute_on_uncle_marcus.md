@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Sorry, kiddo | 96.00% | ~204 |
 | And away we go! | 90.00% | ~192 |
-| Job one. DONE! | 62.00% | ~132 |
+| Job one. DONE! | 63.00% | ~134 |
 | You are Carol Vorderman | 61.00% | ~130 |
 | Toby foolery | 53.00% | ~113 |
 | Don't fear the baldness | 41.00% | ~87 |
@@ -15,8 +15,8 @@
 | Just like me | 34.00% | ~72 |
 | I bless the rain down in London | 33.00% | ~70 |
 | Brown nosing | 30.00% | ~64 |
+| Cheat | 29.00% | ~62 |
 | Delusions | 29.00% | ~62 |
-| Cheat | 28.00% | ~60 |
 | Prove it | 28.00% | ~60 |
 | The truth | 28.00% | ~60 |
 | Making a murderer | 20.00% | ~43 |

@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2023-10-21T06:04:10.4009898+00:00",
       "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T12:05:06.9764507+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -139,7 +144,7 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 70,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -147,7 +152,7 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -179,7 +184,7 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -211,7 +216,7 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -235,7 +240,7 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -243,7 +248,7 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -259,7 +264,7 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -267,7 +272,7 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -275,7 +280,7 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -291,9 +296,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -371,7 +376,7 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -404,13 +409,13 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:04:37.0627411+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:05:06.9764502+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:59:10.1850833+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:04:37.0627787+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:59:29.6175929+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:05:06.9764852+00:00"
 }

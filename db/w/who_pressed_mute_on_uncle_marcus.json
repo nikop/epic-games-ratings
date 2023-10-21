@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -456,9 +456,9 @@
       "ID": "cheat",
       "SetID": "202dmm8",
       "Name": "Cheat",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "delusions",
@@ -488,9 +488,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "just_like_me",
@@ -569,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:05:33.4004854+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:06:04.3122263+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:03.2501677+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:57:17.4746712+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:05:33.4005033+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:57:37.2674456+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:06:04.3122435+00:00"
 }

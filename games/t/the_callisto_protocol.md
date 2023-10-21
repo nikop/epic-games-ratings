@@ -6,7 +6,7 @@ Rating: 4.19 (Ranked 899)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,291 |
-| Paper Jams | 7.00% | ~1,129 |
+| Paper Jams | 7.00% | ~1,130 |
 | Flesh Wound | 6.00% | ~968 |
 | Chew 'Em Up | 5.00% | ~807 |
 | Float Like A Butterfly | 5.00% | ~807 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 899)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,135 (Ranked 134)  
-Completed: 75 (0.46%) (Ranked 183)  
+Progressed: 16,136 (Ranked 134)  
+Completed: 75 (0.46%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,10 +230,10 @@ Completed: 75 (0.46%) (Ranked 183)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,135 | 75 |
+| 2023-10-21 | 16,136 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
-Sum: 448 (Ranked 323)  
+Sum: 449 (Ranked 323)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 76 |
 | This game has Amazing Characters | 74 |
 | This game has Quickly Understood Controls | 72 |
-| This game is Extremely Fun | 67 |
+| This game is Extremely Fun | 68 |
 | This game has Challenging Combat | 57 |
 | This game has a Creative Community | 26 |
 ## Ratings History
@@ -386,3 +386,4 @@ Diff (max vs sum): 58
 | 2023-10-13 | 4.19 | 76 | 445 |
 | 2023-10-16 | 4.19 | 76 | 447 |
 | 2023-10-19 | 4.19 | 76 | 448 |
+| 2023-10-21 | 4.19 | 76 | 449 |

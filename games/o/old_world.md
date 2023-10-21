@@ -49,6 +49,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~148 |
 | Artisans | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
+| Acropolis | 1.00% | ~148 |
 | Apadana | 1.00% | ~148 |
 | Colossus | 1.00% | ~148 |
 | Great Ziggurat | 1.00% | ~148 |
@@ -69,7 +70,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~148 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
-| Acropolis | 0.90% | ~134 |
 | Mythology | 0.90% | ~134 |
 | Beloved | 0.80% | ~119 |
 | Conqueror | 0.80% | ~119 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.80% | ~119 |
 | Hanging Gardens in Babylon | 0.70% | ~104 |
 | Invincible | 0.70% | ~104 |
+| Subjugator | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Greece | 0.70% | ~104 |
@@ -89,7 +90,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
-| Subjugator | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
 | Riders | 0.60% | ~89 |
 | Statesmen | 0.60% | ~89 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.30% | ~45 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
+| Cleopatra's Love | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
 | Glorious Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
@@ -203,7 +204,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.10% | ~15 |
 | Silver Victory (Carthage 4) | 0.10% | ~15 |
 | Carthage Campaign | 0.10% | ~15 |
-| Cleopatra's Love | 0.10% | ~15 |
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,837 (Ranked 139)  
+Progressed: 14,839 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,837 | 5 |
+| 2023-10-21 | 14,839 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,850 (Ranked 211)  

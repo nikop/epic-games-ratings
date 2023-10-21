@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 65.00% | ~77 |
-| Hunting Season | 50.00% | ~59 |
-| Grew Bigger | 43.00% | ~51 |
-| Bring It | 42.00% | ~50 |
-| Coffee Thermos | 42.00% | ~50 |
+| Nightmare Territory | 66.00% | ~79 |
+| Hunting Season | 50.00% | ~60 |
+| Grew Bigger | 45.00% | ~54 |
+| Bring It | 44.00% | ~52 |
+| Coffee Thermos | 44.00% | ~52 |
+| Darkness Coiled | 35.00% | ~42 |
 | Find the Light | 34.00% | ~40 |
-| Darkness Coiled | 34.00% | ~40 |
-| Not the Last | 32.00% | ~38 |
-| Chased the Source | 29.00% | ~34 |
+| Not the Last | 33.00% | ~39 |
+| Chased the Source | 30.00% | ~36 |
+| Felt Good | 27.00% | ~32 |
 | Somebody's Home | 27.00% | ~32 |
-| Felt Good | 25.00% | ~30 |
-| Greatest Hits | 24.00% | ~28 |
-| Filling the Shape | 24.00% | ~28 |
-| Lights Shining | 23.00% | ~27 |
+| Greatest Hits | 24.00% | ~29 |
+| Lights Shining | 24.00% | ~29 |
+| Filling the Shape | 24.00% | ~29 |
 | Yippee Ki-yay | 23.00% | ~27 |
+| Secret Stashes | 23.00% | ~27 |
 | The Other Side | 23.00% | ~27 |
 | Aimed Ahead | 21.00% | ~25 |
 | Carry his Words | 21.00% | ~25 |
-| Secret Stashes | 21.00% | ~25 |
+| Into the Overlap | 21.00% | ~25 |
 | Ready for a Fight | 20.00% | ~24 |
-| Into the Overlap | 20.00% | ~24 |
 | Lawman | 18.00% | ~21 |
+| Storm Cloud | 16.00% | ~19 |
 | Shining in the Night | 16.00% | ~19 |
-| Storm Cloud | 15.00% | ~18 |
-| New York City | 15.00% | ~18 |
+| New York City | 16.00% | ~19 |
 | Return | 15.00% | ~18 |
 | All Accounted For | 15.00% | ~18 |
 | Talk Show | 14.00% | ~17 |
@@ -36,12 +36,12 @@
 | This is the Moment | 12.00% | ~14 |
 | Finding a Way | 12.00% | ~14 |
 | Growing Stronger | 9.00% | ~11 |
-| Escape its Gravity | 8.00% | ~9 |
-| Bright Falls' Finest | 8.00% | ~9 |
-| Stop the Monster | 8.00% | ~9 |
-| Stunning Vistas | 8.00% | ~9 |
-| All His Life | 8.00% | ~9 |
-| In One Go | 8.00% | ~9 |
+| Escape its Gravity | 8.00% | ~10 |
+| Bright Falls' Finest | 8.00% | ~10 |
+| Stop the Monster | 8.00% | ~10 |
+| Stunning Vistas | 8.00% | ~10 |
+| All His Life | 8.00% | ~10 |
+| In One Go | 8.00% | ~10 |
 | The Trail of the Writer | 6.00% | ~7 |
 | Back in Watery | 6.00% | ~7 |
 | We Watch in the Night | 6.00% | ~7 |
@@ -71,7 +71,7 @@
 | The Nice Things in Life | 0.80% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 379)  
+Progressed: 119 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
 | 2023-10-20 | 100 | 0 |
-| 2023-10-21 | 118 | 0 |
+| 2023-10-21 | 119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

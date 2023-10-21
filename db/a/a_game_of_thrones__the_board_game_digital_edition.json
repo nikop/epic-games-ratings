@@ -1216,10 +1216,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 786,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-10-21T12:02:48.5925908+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 789,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 786,
+  "NumberOfAwards": 789,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1233,13 +1239,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1263,7 +1269,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Relaxing",
@@ -1278,9 +1284,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26523,
+  "EOS_Progressed": 26528,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21003,6 +21009,11 @@
       "Time": "2023-10-21T11:07:02.2192818+00:00",
       "NumProgressed": 26523,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-21T12:07:23.6116963+00:00",
+      "NumProgressed": 26528,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -21030,7 +21041,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "1018",
@@ -21062,7 +21073,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "1022",
@@ -21070,7 +21081,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "1023",
@@ -21094,7 +21105,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "1026",
@@ -21110,7 +21121,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "1028",
@@ -21118,7 +21129,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "1029",
@@ -21134,7 +21145,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     },
     {
       "ID": "1031",
@@ -21142,7 +21153,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "1032",
@@ -21150,7 +21161,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10611
     },
     {
       "ID": "1033",
@@ -21174,7 +21185,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "1036",
@@ -21189,15 +21200,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26523,
+      "Progressed": 26528,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:07:02.219281+00:00",
+  "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:07:23.6116959+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.5941656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:02:19.6843226+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:07:02.2194519+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:02:48.5925911+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:07:23.6118448+00:00"
 }

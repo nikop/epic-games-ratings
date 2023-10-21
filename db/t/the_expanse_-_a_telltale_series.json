@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14176,
+  "EOS_Progressed": 14180,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9201,6 +9201,11 @@
       "Time": "2023-10-21T11:05:06.0617125+00:00",
       "NumProgressed": 14176,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-21T12:05:24.8725485+00:00",
+      "NumProgressed": 14180,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9245,7 +9250,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "14",
@@ -9269,7 +9274,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "17",
@@ -9365,7 +9370,7 @@
       "Name": "Bosmang",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "28",
@@ -9452,22 +9457,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14176,
+      "Progressed": 14180,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 130,
-      "Completed": 130
+      "Progressed": 134,
+      "Completed": 134
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:05:06.0617117+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:05:24.872548+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.5814563+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:59:10.7930233+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:05:06.06183+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:59:30.0044359+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:05:24.8726351+00:00"
 }

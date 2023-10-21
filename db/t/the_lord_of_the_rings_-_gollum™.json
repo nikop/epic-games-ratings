@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1308,6 +1308,11 @@
       "Time": "2023-10-20T23:04:37.9000975+00:00",
       "NumProgressed": 534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T12:04:13.8716896+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1343,7 +1348,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Chapter10",
@@ -1375,7 +1380,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Chapter5",
@@ -1383,7 +1388,7 @@
       "Name": "The Traitor",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Chapter6",
@@ -1415,7 +1420,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Collectibles1",
@@ -1423,7 +1428,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Collectibles2",
@@ -1487,7 +1492,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Memories",
@@ -1503,7 +1508,7 @@
       "Name": "Murderer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NoDamage",
@@ -1591,7 +1596,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "WelcomeToMordor",
@@ -1599,21 +1604,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:03:45.3617283+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:04:13.871689+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:54.5145948+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:01:50.7510892+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:03:45.3617898+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:02:21.7649309+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:04:13.8717305+00:00"
 }

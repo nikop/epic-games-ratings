@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1126,9 +1126,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 573
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1311,8 +1311,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:09:22.0824407+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T10:57:22.3826287+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:01:42.6625264+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:09:22.0824833+00:00"
+  "LastChanged_Achievements": "2023-10-21T12:09:25.9445464+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
+  "LastUpdate_Ratings": "2023-10-21T12:02:13.3738664+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:09:25.9445844+00:00"
 }

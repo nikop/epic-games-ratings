@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~67 |
-| Complete Level 1-1 | 61.00% | ~59 |
-| Immortal | 53.00% | ~51 |
-| Complete Level 1-2 | 45.00% | ~43 |
+| What is this? | 70.00% | ~68 |
+| Complete Level 1-1 | 62.00% | ~60 |
+| Immortal | 54.00% | ~52 |
+| Complete Level 1-2 | 44.00% | ~43 |
 | Scraping by | 31.00% | ~30 |
 | Engineer-mage hybrid | 31.00% | ~30 |
 | Complete Level 1-3 | 28.00% | ~27 |
@@ -15,19 +15,19 @@
 | Get out of my way | 21.00% | ~20 |
 | Redecorator | 20.00% | ~19 |
 | Just a sip | 19.00% | ~18 |
-| Complete Level 2-1 | 17.00% | ~16 |
-| Complete Level 2-2 | 17.00% | ~16 |
-| Versatile | 17.00% | ~16 |
-| Complete Level 2-3 | 14.00% | ~13 |
-| Well-off | 13.00% | ~12 |
-| Defeat the engineer boss | 13.00% | ~12 |
+| Complete Level 2-1 | 16.00% | ~16 |
+| Complete Level 2-2 | 16.00% | ~16 |
+| Versatile | 16.00% | ~16 |
+| Complete Level 2-3 | 13.00% | ~13 |
+| Well-off | 12.00% | ~12 |
+| Defeat the engineer boss | 12.00% | ~12 |
 | Too many crates | 11.00% | ~11 |
 | Baby steps | 11.00% | ~11 |
 | Complete Level 3-1 | 11.00% | ~11 |
+| Party popper | 10.00% | ~10 |
 | Complete Level 3-2 | 9.00% | ~9 |
 | Engineer-warrior hybrid | 9.00% | ~9 |
 | Mage-warrior hybrid | 9.00% | ~9 |
-| Party popper | 9.00% | ~9 |
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
 | Complete Level 3-3 | 7.00% | ~7 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 399)  
-Completed: 1 (1.04%) (Ranked 144)  
+Progressed: 97 (Ranked 398)  
+Completed: 1 (1.03%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 1 (1.04%) (Ranked 144)
 | 2023-10-17 | 93 | 1 |
 | 2023-10-18 | 94 | 1 |
 | 2023-10-19 | 96 | 1 |
+| 2023-10-21 | 97 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

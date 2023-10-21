@@ -7139,7 +7139,7 @@
   ],
   "EOS_Progressed": 715817,
   "EOS_Completed": 12924,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23519,9 +23519,9 @@
       "ID": "07_Wude_H1",
       "SetID": "adcm20g",
       "Name": "Muk Yan Master",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 716
+      "UsersEstimate": 1432
     },
     {
       "ID": "08_Wude_H2",
@@ -23965,8 +23965,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-21T07:01:14.5964997+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:06:17.1568309+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:06:38.5240551+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:04.5804609+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:00:19.1682458+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:06:17.1570144+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:00:42.0536907+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:06:38.5242275+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 110,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -123,6 +123,11 @@
       "Time": "2023-10-21T11:05:28.1892201+00:00",
       "NumProgressed": 332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T12:05:49.2032343+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -167,7 +172,7 @@
       "Name": "Blobmeister",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -189,9 +194,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -199,7 +204,7 @@
       "Name": "Team Builder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -207,15 +212,15 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -223,7 +228,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -231,7 +236,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -247,7 +252,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -279,7 +284,7 @@
       "Name": "Hoarder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -311,7 +316,7 @@
       "Name": "Long Live Rock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -335,7 +340,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -374,13 +379,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:05:28.1892196+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:05:49.203234+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:24.0694484+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:58:09.3924905+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:05:28.1892465+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:58:30.6059295+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:05:49.2032586+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3803,8 +3803,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:06:39.27127+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:07:20.9472713+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:10.5073273+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:00:20.5511003+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:06:39.2713495+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:00:45.6113086+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:07:20.9473394+00:00"
 }

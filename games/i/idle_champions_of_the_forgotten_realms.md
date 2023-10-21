@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.30% | ~697 |
 | The Jungles of Doomspace | 0.30% | ~596 |
 | Spelljammers in Training | 0.30% | ~596 |
+| Were-verpowered | 0.20% | ~465 |
 | The Ring of Regeneration | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
 | The Mad Wizard | 0.20% | ~465 |
@@ -127,7 +128,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~199 |
 | Get Back In The Castle | 0.10% | ~199 |
 | Kas the Destroyer | 0.10% | ~199 |
-| Were-verpowered | 0.10% | ~232 |
 | Checkmate | 0.10% | ~199 |
 | Pin and Skewer | 0.10% | ~199 |
 | Vecna Out! | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,435 (Ranked 59)  
+Progressed: 232,442 (Ranked 59)  
 Completed: 2,376 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -719,7 +719,7 @@ Completed: 2,376 (1.02%) (Ranked 145)
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
-| 2023-10-21 | 232,435 | 2,376 |
+| 2023-10-21 | 232,442 | 2,376 |
 ## Awards
 Max (Great for Beginners): 5,432  (Ranked 69)  
 Sum: 32,139 (Ranked 41)  

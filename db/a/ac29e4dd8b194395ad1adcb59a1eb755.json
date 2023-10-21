@@ -4,8 +4,8 @@
   "ProductSlug": "time-trap-8a9725",
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -153,8 +153,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:09:16.0611579+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:09:19.8146706+00:00",
   "LastUpdate_AppInfo": "2023-10-17T16:57:22.6339745+00:00",
-  "LastUpdate_Ratings": "2023-10-21T11:00:50.9861568+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:09:16.0611659+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:01:17.4616563+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:09:19.8146828+00:00"
 }

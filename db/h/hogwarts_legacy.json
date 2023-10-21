@@ -9303,9 +9303,9 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 298637,
+  "EOS_Progressed": 298639,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28953,6 +28953,11 @@
       "Time": "2023-10-21T11:08:03.8694834+00:00",
       "NumProgressed": 298637,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-21T12:08:16.2447494+00:00",
+      "NumProgressed": 298639,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 45,
@@ -29084,7 +29089,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35836
+      "UsersEstimate": 35837
     },
     {
       "ID": "PFA_24",
@@ -29116,7 +29121,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "PFA_28",
@@ -29164,7 +29169,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "PFA_33",
@@ -29212,7 +29217,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "PFA_39",
@@ -29268,7 +29273,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26877
+      "UsersEstimate": 26878
     },
     {
       "ID": "PFA_45",
@@ -29284,7 +29289,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11945
+      "UsersEstimate": 11946
     },
     {
       "ID": "PFA_6",
@@ -29308,7 +29313,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35836
+      "UsersEstimate": 35837
     },
     {
       "ID": "PFA_9",
@@ -29316,14 +29321,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26877
+      "UsersEstimate": 26878
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298637,
+      "Progressed": 298639,
       "Completed": 490
     }
   ],
@@ -29331,8 +29336,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-21T10:59:32.7369107+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:08:03.8694828+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:08:16.2447488+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:59:32.7369116+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:08:03.8696322+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:59:57.8215949+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:08:16.2449275+00:00"
 }

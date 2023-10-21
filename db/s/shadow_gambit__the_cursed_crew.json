@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.22,
+  "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2227,6 +2227,11 @@
       "Time": "2023-10-20T20:09:17.80866+00:00",
       "NumProgressed": 746,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-21T12:09:11.2014883+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2247,7 +2252,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "_03_FinishAct1",
@@ -2255,15 +2260,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 276
     },
     {
       "ID": "_05_FinishAct2",
@@ -2279,7 +2284,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "_07_FinishAct3",
@@ -2295,7 +2300,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "_09_Completion_20",
@@ -2303,15 +2308,15 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 179
     },
     {
       "ID": "_11_Completion_40",
@@ -2359,7 +2364,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2423,7 +2428,7 @@
       "Name": "Jaded Judge",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2446,7 +2451,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 24
     }
   ],
@@ -2454,8 +2459,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:09:07.9718228+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:09:11.2014877+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.0426096+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:59:40.2409133+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:09:07.9718615+00:00"
+  "LastUpdate_Ratings": "2023-10-21T12:00:10.8281288+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:09:11.201523+00:00"
 }

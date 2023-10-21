@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1635,
+  "EOS_Progressed": 1636,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6079,6 +6079,11 @@
       "Time": "2023-10-21T11:08:18.4917813+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T12:08:31.0864642+00:00",
+      "NumProgressed": 1636,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6098,7 +6103,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6194,15 +6199,15 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6393,7 +6398,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1635,
+      "Progressed": 1636,
       "Completed": 1
     }
   ],
@@ -6401,8 +6406,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:08:18.4917808+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:08:31.0864638+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:23.525424+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:58:09.4369879+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:08:18.4918626+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:58:30.725664+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:08:31.0865367+00:00"
 }

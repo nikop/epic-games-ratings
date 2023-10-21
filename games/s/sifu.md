@@ -28,13 +28,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.30% | ~2,147 |
 | Take damage to save time | 0.30% | ~2,147 |
 | Martial Hub | 0.30% | ~75 |
+| Muk Yan Master | 0.20% | ~1,432 |
 | Scareless | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
 | Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
 | Kung-Fu Tussle | 0.20% | ~1,432 |
 | Bloody Sport | 0.20% | ~50 |
-| Muk Yan Master | 0.10% | ~716 |
 | Tiger on Fire | 0.10% | ~716 |
 | Source of Flying Daggers | 0.10% | ~716 |
 | Iron Money | 0.10% | ~716 |

@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7327,
+  "EOS_Progressed": 7329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4622,6 +4622,11 @@
       "Time": "2023-10-21T10:10:38.9471461+00:00",
       "NumProgressed": 7327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T12:09:30.6430693+00:00",
+      "NumProgressed": 7329,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4754,7 +4759,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "GamesPlayed10",
@@ -4778,7 +4783,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "GamesWon10",
@@ -5066,7 +5071,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "PlayerKills100",
@@ -5225,7 +5230,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7327,
+      "Progressed": 7329,
       "Completed": 1
     }
   ],
@@ -5233,8 +5238,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-21T11:09:26.5657919+00:00",
+  "LastChanged_Achievements": "2023-10-21T12:09:30.6430688+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:58:26.1081815+00:00",
-  "LastUpdate_Achievements": "2023-10-21T11:09:26.5659014+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:58:49.1253517+00:00",
+  "LastUpdate_Achievements": "2023-10-21T12:09:30.6431845+00:00"
 }
