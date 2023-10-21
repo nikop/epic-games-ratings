@@ -4,7 +4,7 @@
   "ProductSlug": "lumote",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-21T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.4254175+00:00",
   "LastChanged": "2023-03-31T05:58:00.4254176+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.0138363+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:00:57.7375394+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:08:16.4352221+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:02:10.1612173+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:09:40.5544677+00:00"
 }

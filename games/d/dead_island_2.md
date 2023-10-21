@@ -5,39 +5,39 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 4.00% | ~27,993 |
-| Hotel California | 4.00% | ~27,993 |
-| Welcome To Hell-A | 4.00% | ~27,993 |
-| Dr. Reed, I Presume? | 3.00% | ~20,995 |
-| Git Gutte! | 3.00% | ~20,995 |
-| Bookworm | 3.00% | ~20,995 |
-| But Doctor, I am Butcho | 3.00% | ~20,995 |
-| Slayer Squad | 3.00% | ~20,995 |
-| Can't Handle the Truth | 3.00% | ~20,995 |
-| Coup de Grâce | 3.00% | ~20,995 |
-| Like Riding a Bike | 3.00% | ~20,995 |
-| Hazardous Materials | 3.00% | ~20,995 |
-| Friends Like These | 3.00% | ~20,995 |
-| Apex Predator | 3.00% | ~20,995 |
-| Zombologist | 3.00% | ~20,995 |
-| A Patton Emerges | 3.00% | ~20,995 |
-| Stacking the Deck | 3.00% | ~20,995 |
-| Personal Assistant Personally Assisted | 3.00% | ~20,995 |
-| This is My Weapon | 3.00% | ~20,995 |
-| Making Your Mark | 2.00% | ~13,996 |
-| Anger Management | 2.00% | ~13,996 |
-| Perks of the Job | 2.00% | ~13,996 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,996 |
-| Ooh, Shiny! | 2.00% | ~13,996 |
-| Humanity Distilled | 2.00% | ~13,996 |
-| I Am the Resurrection | 2.00% | ~13,996 |
-| Down with the Sickness | 2.00% | ~13,996 |
-| Our True Nature | 2.00% | ~13,996 |
-| Smorgasbord | 1.00% | ~6,998 |
-| Jumbo Keyring | 1.00% | ~6,998 |
-| Max Headroom | 1.00% | ~6,998 |
-| Go, Bobcats! | 1.00% | ~6,998 |
-| Rising Star | 1.00% | ~6,998 |
+| Break A Leg | 4.00% | ~27,994 |
+| Hotel California | 4.00% | ~27,994 |
+| Welcome To Hell-A | 4.00% | ~27,994 |
+| Dr. Reed, I Presume? | 3.00% | ~20,996 |
+| Git Gutte! | 3.00% | ~20,996 |
+| Bookworm | 3.00% | ~20,996 |
+| But Doctor, I am Butcho | 3.00% | ~20,996 |
+| Slayer Squad | 3.00% | ~20,996 |
+| Can't Handle the Truth | 3.00% | ~20,996 |
+| Coup de Grâce | 3.00% | ~20,996 |
+| Like Riding a Bike | 3.00% | ~20,996 |
+| Hazardous Materials | 3.00% | ~20,996 |
+| Friends Like These | 3.00% | ~20,996 |
+| Apex Predator | 3.00% | ~20,996 |
+| Zombologist | 3.00% | ~20,996 |
+| A Patton Emerges | 3.00% | ~20,996 |
+| Stacking the Deck | 3.00% | ~20,996 |
+| Personal Assistant Personally Assisted | 3.00% | ~20,996 |
+| This is My Weapon | 3.00% | ~20,996 |
+| Making Your Mark | 2.00% | ~13,997 |
+| Anger Management | 2.00% | ~13,997 |
+| Perks of the Job | 2.00% | ~13,997 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~13,997 |
+| Ooh, Shiny! | 2.00% | ~13,997 |
+| Humanity Distilled | 2.00% | ~13,997 |
+| I Am the Resurrection | 2.00% | ~13,997 |
+| Down with the Sickness | 2.00% | ~13,997 |
+| Our True Nature | 2.00% | ~13,997 |
+| Smorgasbord | 1.00% | ~6,999 |
+| Jumbo Keyring | 1.00% | ~6,999 |
+| Max Headroom | 1.00% | ~6,999 |
+| Go, Bobcats! | 1.00% | ~6,999 |
+| Rising Star | 1.00% | ~6,999 |
 | Not Even My Final Form | 0.80% | ~5,599 |
 | Internet Famous | 0.80% | ~5,599 |
 | Make it So | 0.70% | ~4,899 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 514)
 | Donk! | 0.20% | ~1,400 |
 | Bucket List | 0.10% | ~700 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,822 (Ranked 22)  
-Completed: 2,240 (0.32%) (Ranked 203)  
+Progressed: 699,859 (Ranked 22)  
+Completed: 2,241 (0.32%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 2,240 (0.32%) (Ranked 203)
 | 2023-10-18 | 697,769 | 2,242 |
 | 2023-10-19 | 698,583 | 2,242 |
 | 2023-10-20 | 699,491 | 2,239 |
-| 2023-10-21 | 699,822 | 2,240 |
+| 2023-10-21 | 699,859 | 2,241 |
 ## Awards
 Max (Great Boss Battles): 6,526  (Ranked 56)  
 Sum: 9,782 (Ranked 91)  

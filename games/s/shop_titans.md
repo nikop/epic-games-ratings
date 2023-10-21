@@ -44,13 +44,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.90% | ~1,241 |
 | Tax not Included | 0.80% | ~1,103 |
 | Fated Encounters | 0.80% | ~1,103 |
+| For the Hoard! | 0.80% | ~1,103 |
 | Trash to Treasure | 0.80% | ~1,103 |
 | Royal Ransom | 0.80% | ~1,103 |
 | Magical Harmony | 0.80% | ~1,103 |
 | A Notch Above the Rest | 0.70% | ~965 |
 | The King's Caprice | 0.70% | ~965 |
 | Big Game Hunting | 0.70% | ~965 |
-| For the Hoard! | 0.70% | ~965 |
 | Scrapbooker | 0.70% | ~965 |
 | Locally Sourced | 0.70% | ~965 |
 | Flying off the Shelves | 0.70% | ~965 |
@@ -95,11 +95,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.60% | ~827 |
 | Exotic Commodities | 0.60% | ~827 |
 | King's Blade | 0.60% | ~827 |
-| Constellated | 0.50% | ~689 |
-| Fillin' the Bin | 0.50% | ~689 |
-| Industrial Evolution | 0.50% | ~689 |
-| A Legend is Born | 0.50% | ~689 |
-| Economy of Scarce | 0.50% | ~689 |
+| Constellated | 0.50% | ~690 |
+| Fillin' the Bin | 0.50% | ~690 |
+| Industrial Evolution | 0.50% | ~690 |
+| A Legend is Born | 0.50% | ~690 |
+| Economy of Scarce | 0.50% | ~690 |
 | The Free Encyclopedia | 0.40% | ~552 |
 | Thank You Tom Nook | 0.40% | ~552 |
 | Jackpot! | 0.40% | ~552 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,898 (Ranked 74)  
+Progressed: 137,900 (Ranked 74)  
 Completed: 171 (0.12%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 171 (0.12%) (Ranked 244)
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
 | 2023-10-20 | 137,884 | 171 |
-| 2023-10-21 | 137,898 | 171 |
+| 2023-10-21 | 137,900 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 73)  
 Sum: 27,418 (Ranked 50)  

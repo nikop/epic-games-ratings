@@ -6,25 +6,25 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,383 |
-| He's Signed! | 50.00% | ~237,383 |
-| First Victory | 50.00% | ~237,383 |
+| Clean Sheet | 50.00% | ~237,384 |
+| He's Signed! | 50.00% | ~237,384 |
+| First Victory | 50.00% | ~237,384 |
 | He's Sold! | 48.00% | ~227,888 |
 | I'm The Boss! | 42.00% | ~199,402 |
 | Hat-trick | 41.00% | ~194,654 |
 | Scoring Streak | 38.00% | ~180,411 |
-| Unbeatable! | 37.00% | ~175,663 |
-| Thumping | 37.00% | ~175,663 |
+| Unbeatable! | 37.00% | ~175,664 |
+| Thumping | 37.00% | ~175,664 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,168 |
 | Total Support | 32.00% | ~151,925 |
 | Record Signing | 32.00% | ~151,925 |
-| He's a Natural | 31.00% | ~147,177 |
-| Millionaire's Club | 31.00% | ~147,177 |
+| He's a Natural | 31.00% | ~147,178 |
+| Millionaire's Club | 31.00% | ~147,178 |
 | Team Performance | 30.00% | ~142,430 |
 | Parked The Bus | 29.00% | ~137,682 |
 | Shrewd Spender | 29.00% | ~137,682 |
 | Star Man | 29.00% | ~137,682 |
-| Attack! | 28.00% | ~132,934 |
+| Attack! | 28.00% | ~132,935 |
 | You're On Fire | 27.00% | ~128,187 |
 | Tremendous Trio | 27.00% | ~128,187 |
 | Record Sale | 27.00% | ~128,187 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~475 |
 | Shoestring Budget | 0.10% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,766 (Ranked 36)  
+Progressed: 474,767 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,17 +289,17 @@ Completed: 22 (0.00%) (Ranked 318)
 | 2023-10-18 | 474,682 | 22 |
 | 2023-10-19 | 474,718 | 22 |
 | 2023-10-20 | 474,757 | 22 |
-| 2023-10-21 | 474,766 | 22 |
+| 2023-10-21 | 474,767 | 22 |
 ## Awards
 Max (Relaxing): 6,463  (Ranked 58)  
-Sum: 50,893 (Ranked 27)  
+Sum: 50,895 (Ranked 27)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,463 |
 | This game is Extremely Fun | 6,059 |
 | This game has Competitive Players | 5,896 |
-| This game is Highly Recommended | 5,879 |
+| This game is Highly Recommended | 5,881 |
 | This game has Quickly Understood Controls | 5,879 |
 | This game is Educational | 5,865 |
 | This game has Diverse Characters | 5,551 |
@@ -577,4 +577,4 @@ Diff (max vs sum): 31
 | 2023-10-18 | 4.80 | - | 6,462 | 50,885 |
 | 2023-10-19 | 4.80 | - | 6,462 | 50,889 |
 | 2023-10-20 | 4.80 | - | 6,462 | 50,892 |
-| 2023-10-21 | 4.80 | - | 6,463 | 50,893 |
+| 2023-10-21 | 4.80 | - | 6,463 | 50,895 |

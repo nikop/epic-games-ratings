@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6619,9 +6619,9 @@
       "Count": 3764
     }
   ],
-  "EOS_Progressed": 137898,
+  "EOS_Progressed": 137900,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25434,6 +25434,11 @@
       "Time": "2023-10-21T09:05:55.7140122+00:00",
       "NumProgressed": 137898,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-21T10:07:06.450321+00:00",
+      "NumProgressed": 137900,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25509,7 +25514,7 @@
       "Name": "Constellated",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ashley_a",
@@ -25619,9 +25624,9 @@
       "ID": "chest02",
       "SetID": "anfd17p",
       "Name": "For the Hoard!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 965
+      "UsersEstimate": 1103
     },
     {
       "ID": "chest03",
@@ -25701,7 +25706,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "craft01",
@@ -25733,7 +25738,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "craft05",
@@ -25893,7 +25898,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "fuseuncommon",
@@ -26301,7 +26306,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "workers01",
@@ -26340,15 +26345,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137898,
+      "Progressed": 137900,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-20T23:01:09.8712278+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:05:55.7140117+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:07:06.4503207+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.2617104+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:00:15.4872473+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:05:55.7143154+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:01:12.2117658+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:07:06.4505259+00:00"
 }

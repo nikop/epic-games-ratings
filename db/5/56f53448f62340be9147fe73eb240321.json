@@ -4,7 +4,7 @@
   "ProductSlug": "100-worlds-escape-the-room-c6f972",
   "Ranking_EOS_Progress": 591,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-24T22:00:00+00:00",
@@ -100,25 +100,25 @@
       "ID": "ach_hint_9",
       "SetID": "c0bphk8",
       "Name": "Together is better!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 130,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "c0bphk8",
       "Name": "Inquiring mind!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_skip_1",
       "SetID": "c0bphk8",
       "Name": "Keep moving on!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_skip_3",
@@ -154,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-19T06:01:22.7935728+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:05:18.5902545+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:06:16.4099032+00:00",
   "LastUpdate_AppInfo": "2023-10-18T13:57:20.5540992+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:00:16.1162726+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:05:18.5902653+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:01:13.1074565+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:06:16.4099119+00:00"
 }

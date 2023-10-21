@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1889,
+  "EOS_Progressed": 1890,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2244,6 +2244,11 @@
       "Time": "2023-10-21T01:46:12.3326823+00:00",
       "NumProgressed": 1889,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T10:06:32.2101829+00:00",
+      "NumProgressed": 1890,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2407,7 +2412,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2487,7 +2492,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2551,7 +2556,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1360
+      "UsersEstimate": 1361
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2583,7 +2588,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2631,7 +2636,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2678,15 +2683,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1889,
+      "Progressed": 1890,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:05:30.0401555+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:06:32.2101822+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:00:00.6327866+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:05:30.040214+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:00:53.2988473+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:06:32.2102313+00:00"
 }

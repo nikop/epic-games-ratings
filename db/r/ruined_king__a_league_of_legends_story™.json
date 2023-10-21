@@ -4,10 +4,10 @@
   "ProductSlug": "ruined-king-a-league-of-legends-story",
   "Ranking_Rating": 339,
   "Ranking_Popularity": 286,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-11-16T16:30:00+00:00",
@@ -564,6 +564,6 @@
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
   "LastChanged": "2023-10-01T15:58:16.9673663+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:34.3503334+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:58:40.496024+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:05:01.3081071+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:59:09.7412381+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:05:54.1317936+00:00"
 }

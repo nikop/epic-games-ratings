@@ -4,7 +4,7 @@
   "ProductSlug": "aerial-platforms-119f15",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -156,8 +156,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:09:13.1783957+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:10:26.0419794+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.5217274+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:59:55.7584943+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:09:13.1784087+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:00:43.9667587+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:10:26.0419873+00:00"
 }

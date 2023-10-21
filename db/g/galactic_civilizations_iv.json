@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6947,
+  "EOS_Progressed": 6948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7315,6 +7315,11 @@
       "Time": "2023-10-21T09:03:23.562211+00:00",
       "NumProgressed": 6947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T10:04:09.873592+00:00",
+      "NumProgressed": 6948,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7366,7 +7371,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4307
+      "UsersEstimate": 4308
     },
     {
       "ID": "Control_All_Relics",
@@ -7438,7 +7443,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "First_Ship_Designed",
@@ -7462,7 +7467,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5349
+      "UsersEstimate": 5350
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7716,9 +7721,9 @@
       "ID": "Win_As_Festron",
       "SetID": "4h07amh",
       "Name": "Win as Festron",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 63
     },
     {
       "ID": "Win_As_Iconian",
@@ -7814,7 +7819,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4585
+      "UsersEstimate": 4586
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7901,15 +7906,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6947,
+      "Progressed": 6948,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:03:23.5622104+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:04:09.8735912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:59:49.2309326+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:03:23.5623567+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:00:33.4680898+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:04:09.873682+00:00"
 }

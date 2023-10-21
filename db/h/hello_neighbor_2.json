@@ -429,9 +429,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2993,
+  "EOS_Progressed": 2994,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2023-10-21T09:03:32.7347106+00:00",
       "NumProgressed": 2993,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-21T10:04:21.6075561+00:00",
+      "NumProgressed": 2994,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3858,7 +3863,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3914,7 +3919,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -3922,7 +3927,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_REUNION",
@@ -3938,7 +3943,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3961,7 +3966,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2993,
+      "Progressed": 2994,
       "Completed": 121
     }
   ],
@@ -3969,8 +3974,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:03:32.73471+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:04:21.6075557+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:11.4944348+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:57:27.6819267+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:03:32.7347456+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:57:41.6872508+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:04:21.6075792+00:00"
 }

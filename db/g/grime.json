@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1171,9 +1171,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153553,
+  "EOS_Progressed": 153569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1529,
+  "EOS_NewPlayers": 1536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12446,6 +12446,11 @@
       "Time": "2023-10-21T09:06:22.2672239+00:00",
       "NumProgressed": 153553,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T10:07:42.1308116+00:00",
+      "NumProgressed": 153569,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12593,7 +12598,7 @@
       "Name": "Harmless",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -12824,21 +12829,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153136,
+      "Progressed": 153152,
       "Completed": 1165
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153553,
+      "Progressed": 153569,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-21T05:58:07.464357+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:06:22.2672233+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:07:42.1308112+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:58:37.1332788+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:06:22.2673365+00:00"
+  "LastUpdate_Ratings": "2023-10-21T09:59:06.5529586+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:07:42.1308942+00:00"
 }

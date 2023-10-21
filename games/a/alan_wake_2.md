@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 66.00% | ~76 |
+| Nightmare Territory | 66.00% | ~77 |
 | Hunting Season | 50.00% | ~58 |
-| Bring It | 43.00% | ~49 |
-| Coffee Thermos | 43.00% | ~49 |
-| Grew Bigger | 43.00% | ~49 |
-| Find the Light | 35.00% | ~40 |
+| Grew Bigger | 43.00% | ~50 |
+| Bring It | 42.00% | ~49 |
+| Coffee Thermos | 42.00% | ~49 |
+| Find the Light | 34.00% | ~39 |
 | Darkness Coiled | 34.00% | ~39 |
-| Not the Last | 31.00% | ~36 |
-| Chased the Source | 29.00% | ~33 |
+| Not the Last | 33.00% | ~38 |
+| Chased the Source | 28.00% | ~32 |
+| Somebody's Home | 26.00% | ~30 |
 | Felt Good | 25.00% | ~29 |
-| Somebody's Home | 24.00% | ~28 |
 | Filling the Shape | 24.00% | ~28 |
-| Greatest Hits | 23.00% | ~26 |
-| Lights Shining | 23.00% | ~26 |
-| Yippee Ki-yay | 23.00% | ~26 |
-| Aimed Ahead | 22.00% | ~25 |
-| Carry his Words | 22.00% | ~25 |
+| Greatest Hits | 23.00% | ~27 |
+| Lights Shining | 23.00% | ~27 |
+| Yippee Ki-yay | 23.00% | ~27 |
+| Aimed Ahead | 22.00% | ~26 |
+| Carry his Words | 22.00% | ~26 |
+| Secret Stashes | 22.00% | ~26 |
+| The Other Side | 22.00% | ~26 |
 | Ready for a Fight | 21.00% | ~24 |
 | Into the Overlap | 21.00% | ~24 |
-| Secret Stashes | 20.00% | ~23 |
-| The Other Side | 20.00% | ~23 |
 | Lawman | 18.00% | ~21 |
-| Shining in the Night | 17.00% | ~20 |
-| All Accounted For | 16.00% | ~18 |
+| Shining in the Night | 16.00% | ~19 |
+| All Accounted For | 16.00% | ~19 |
+| Storm Cloud | 15.00% | ~17 |
 | Talk Show | 15.00% | ~17 |
+| New York City | 15.00% | ~17 |
+| Return | 14.00% | ~16 |
 | Stop Right There | 13.00% | ~15 |
-| Storm Cloud | 13.00% | ~15 |
-| New York City | 13.00% | ~15 |
 | This is the Moment | 12.00% | ~14 |
-| Return | 12.00% | ~14 |
-| Finding a Way | 11.00% | ~13 |
-| Growing Stronger | 10.00% | ~12 |
+| Finding a Way | 12.00% | ~14 |
 | Escape its Gravity | 9.00% | ~10 |
+| Growing Stronger | 9.00% | ~10 |
 | All His Life | 9.00% | ~10 |
 | Bright Falls' Finest | 8.00% | ~9 |
 | Stop the Monster | 8.00% | ~9 |
@@ -71,7 +71,7 @@
 | The Nice Things in Life | 0.90% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 380)  
+Progressed: 116 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
 | 2023-10-20 | 100 | 0 |
-| 2023-10-21 | 115 | 0 |
+| 2023-10-21 | 116 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Hateful Pole Fighter | 0.40% | ~2,863 |
 | Life is your teacher | 0.40% | ~2,863 |
 | State of constant learning | 0.40% | ~2,863 |
+| Qi Gong: Breath | 0.40% | ~2,863 |
 | Lightning Hands | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~100 |
 | Fight the way you practice | 0.40% | ~100 |
@@ -21,7 +22,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.30% | ~2,147 |
 | Stuntmaster | 0.30% | ~2,147 |
 | Street Fighting | 0.30% | ~2,147 |
-| Qi Gong: Breath | 0.30% | ~2,147 |
 | Qi Gong: Essence | 0.30% | ~2,147 |
 | Old Child | 0.30% | ~2,147 |
 | Path of the Prospect | 0.30% | ~2,147 |

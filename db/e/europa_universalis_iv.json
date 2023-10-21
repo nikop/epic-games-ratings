@@ -10933,11 +10933,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 54294,
       "NumberOfAwardsMax": 6599
+    },
+    {
+      "Time": "2023-10-21T10:00:01.3945823+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 54325,
+      "NumberOfAwardsMax": 6618
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54294,
-  "NumberOfAwardsMax": 6599,
+  "NumberOfAwards": 54325,
+  "NumberOfAwardsMax": 6618,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -10968,7 +10974,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6599
+      "Count": 6618
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10980,7 +10986,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5930
+      "Count": 5942
     },
     {
       "Text": "This game is Relaxing",
@@ -11007,9 +11013,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 435787,
+  "EOS_Progressed": 435824,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5627,
+  "EOS_NewPlayers": 5606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31932,6 +31938,11 @@
       "Time": "2023-10-21T09:04:24.9400845+00:00",
       "NumProgressed": 435787,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T10:05:04.9973584+00:00",
+      "NumProgressed": 435824,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32335,7 +32346,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -32599,7 +32610,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -32943,7 +32954,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17431
+      "UsersEstimate": 17433
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33895,7 +33906,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -34223,7 +34234,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13074
+      "UsersEstimate": 13075
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34495,7 +34506,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3486
+      "UsersEstimate": 3487
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -34607,7 +34618,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17431
+      "UsersEstimate": 17433
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -34639,7 +34650,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17431
+      "UsersEstimate": 17433
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -34774,21 +34785,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 435787,
+      "Progressed": 435824,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 435787,
+      "Progressed": 435824,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-20T23:59:25.4048695+00:00",
-  "LastChanged_Achievements": "2023-10-21T09:04:24.9400829+00:00",
+  "LastChanged": "2023-10-21T10:00:01.3945822+00:00",
+  "LastChanged_Achievements": "2023-10-21T10:05:04.9973579+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.3086374+00:00",
-  "LastUpdate_Ratings": "2023-10-21T08:59:24.4708017+00:00",
-  "LastUpdate_Achievements": "2023-10-21T09:04:24.9413134+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:00:01.3945828+00:00",
+  "LastUpdate_Achievements": "2023-10-21T10:05:04.9984101+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,757 |
-| Cavalier | 25.00% | ~201,372 |
-| Fatso | 23.00% | ~185,263 |
-| Awakening | 21.00% | ~169,153 |
-| Ranger | 20.00% | ~161,098 |
-| Scrooge | 20.00% | ~161,098 |
-| Anorectic | 16.00% | ~128,878 |
-| Bookworm | 15.00% | ~120,824 |
-| Firestarter | 15.00% | ~120,824 |
-| Insomniac | 13.00% | ~104,714 |
-| Buddy | 12.00% | ~96,659 |
-| Thief | 12.00% | ~96,659 |
-| Sinner | 11.00% | ~88,604 |
-| Traveller | 11.00% | ~88,604 |
-| Convict | 10.00% | ~80,549 |
-| Haggler | 9.00% | ~72,494 |
-| McLovin | 7.00% | ~56,384 |
-| Runt | 7.00% | ~56,384 |
-| Casanova | 6.00% | ~48,329 |
-| Bad Trip | 5.00% | ~40,274 |
-| Monk | 5.00% | ~40,274 |
-| Serial Killer | 5.00% | ~40,274 |
+| Blacksmith's Son | 32.00% | ~257,761 |
+| Cavalier | 25.00% | ~201,376 |
+| Fatso | 23.00% | ~185,266 |
+| Awakening | 21.00% | ~169,156 |
+| Ranger | 20.00% | ~161,101 |
+| Scrooge | 20.00% | ~161,101 |
+| Anorectic | 16.00% | ~128,880 |
+| Bookworm | 15.00% | ~120,825 |
+| Firestarter | 15.00% | ~120,825 |
+| Insomniac | 13.00% | ~104,715 |
+| Buddy | 12.00% | ~96,660 |
+| Thief | 12.00% | ~96,660 |
+| Sinner | 11.00% | ~88,605 |
+| Traveller | 11.00% | ~88,605 |
+| Convict | 10.00% | ~80,550 |
+| Haggler | 9.00% | ~72,495 |
+| McLovin | 7.00% | ~56,385 |
+| Runt | 7.00% | ~56,385 |
+| Casanova | 6.00% | ~48,330 |
+| Bad Trip | 5.00% | ~40,275 |
+| Monk | 5.00% | ~40,275 |
+| Serial Killer | 5.00% | ~40,275 |
 | Bastard | 4.00% | ~32,220 |
 | Hunter | 4.00% | ~32,220 |
 | Plague Doctor | 4.00% | ~32,220 |
@@ -51,45 +51,45 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,055 |
 | Master Huntsman | 1.00% | ~8,055 |
 | Stealth Killer | 1.00% | ~8,055 |
-| Bailiff | 0.90% | ~7,249 |
-| Tracker | 0.90% | ~7,249 |
+| Bailiff | 0.90% | ~7,250 |
+| Tracker | 0.90% | ~7,250 |
 | David Horak | 0.80% | ~6,444 |
-| Fighter | 0.70% | ~5,638 |
-| Mercenary's Honour | 0.70% | ~5,638 |
-| Saviour | 0.70% | ~5,638 |
+| Fighter | 0.70% | ~5,639 |
+| Mercenary's Honour | 0.70% | ~5,639 |
+| Saviour | 0.70% | ~5,639 |
 | Edward Kelly | 0.60% | ~4,833 |
-| I Can Quit Anytime | 0.50% | ~4,027 |
-| Perfectionist | 0.50% | ~4,027 |
-| Alcoholic | 0.30% | ~2,416 |
-| Sniper | 0.30% | ~2,416 |
+| I Can Quit Anytime | 0.50% | ~4,028 |
+| Perfectionist | 0.50% | ~4,028 |
+| Alcoholic | 0.30% | ~2,417 |
+| Sniper | 0.30% | ~2,417 |
 | Angel of Mercy | 0.20% | ~1,611 |
 | Christian Burial | 0.20% | ~1,611 |
 | Friends without benefits | 0.20% | ~1,611 |
 | Game Over | 0.20% | ~1,611 |
 | Not-so-Christian Burial | 0.20% | ~1,611 |
 | True Friend | 0.20% | ~1,611 |
-| Bad Girl | 0.10% | ~805 |
-| Cleric's pet | 0.10% | ~805 |
-| Full House Sinner | 0.10% | ~805 |
-| Lord Capon's Ghost | 0.10% | ~805 |
-| Hardcore Henry | 0.10% | ~805 |
-| Infernal Justice | 0.10% | ~805 |
-| Judas | 0.10% | ~805 |
-| Like a Ghost | 0.10% | ~805 |
-| Lost Trinket | 0.10% | ~805 |
-| Merciful | 0.10% | ~805 |
-| You had one job! | 0.10% | ~805 |
-| Pilgrim | 0.10% | ~805 |
-| Pinky Promis | 0.10% | ~805 |
-| Ledetchko Revenant | 0.10% | ~805 |
-| 'Tis but a scratch | 0.10% | ~805 |
-| Torturer | 0.10% | ~805 |
-| Trial-And-Error | 0.10% | ~805 |
-| Virgin | 0.10% | ~805 |
-| Voyeur | 0.10% | ~805 |
-| Wingman | 0.10% | ~805 |
+| Bad Girl | 0.10% | ~806 |
+| Cleric's pet | 0.10% | ~806 |
+| Full House Sinner | 0.10% | ~806 |
+| Lord Capon's Ghost | 0.10% | ~806 |
+| Hardcore Henry | 0.10% | ~806 |
+| Infernal Justice | 0.10% | ~806 |
+| Judas | 0.10% | ~806 |
+| Like a Ghost | 0.10% | ~806 |
+| Lost Trinket | 0.10% | ~806 |
+| Merciful | 0.10% | ~806 |
+| You had one job! | 0.10% | ~806 |
+| Pilgrim | 0.10% | ~806 |
+| Pinky Promis | 0.10% | ~806 |
+| Ledetchko Revenant | 0.10% | ~806 |
+| 'Tis but a scratch | 0.10% | ~806 |
+| Torturer | 0.10% | ~806 |
+| Trial-And-Error | 0.10% | ~806 |
+| Virgin | 0.10% | ~806 |
+| Voyeur | 0.10% | ~806 |
+| Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,490 (Ranked 17)  
+Progressed: 805,503 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 51 (0.01%) (Ranked 299)
 | 2023-10-18 | 805,252 | 51 |
 | 2023-10-19 | 805,362 | 51 |
 | 2023-10-20 | 805,466 | 51 |
-| 2023-10-21 | 805,490 | 51 |
+| 2023-10-21 | 805,503 | 51 |
 ## Awards
 Max (Character Customization): 7,531  (Ranked 50)  
 Sum: 28,027 (Ranked 48)  
