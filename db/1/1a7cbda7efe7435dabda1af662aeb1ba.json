@@ -4,7 +4,7 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:47:28.327313+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:22:02.5039963+00:00",
   "LastUpdate_AppInfo": "2023-10-18T05:57:17.9025614+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:38:09.1517043+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:47:28.3273376+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:12:12.5607909+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:22:02.5040195+00:00"
 }

@@ -327,7 +327,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 71898,
+  "EOS_Progressed": 71900,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 2,
@@ -20477,6 +20477,11 @@
       "Time": "2023-10-21T01:46:10.0632566+00:00",
       "NumProgressed": 71898,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-21T02:20:43.3259511+00:00",
+      "NumProgressed": 71900,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20504,7 +20509,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 48891
+      "UsersEstimate": 48892
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20520,7 +20525,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18693
+      "UsersEstimate": 18694
     },
     {
       "ID": "ERADICATE",
@@ -20536,7 +20541,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20131
+      "UsersEstimate": 20132
     },
     {
       "ID": "FOXIN_AROUND",
@@ -20544,7 +20549,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20850
+      "UsersEstimate": 20851
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -20568,7 +20573,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38106
+      "UsersEstimate": 38107
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20679,7 +20684,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 71898,
+      "Progressed": 71900,
       "Completed": 379
     }
   ],
@@ -20687,8 +20692,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:46:10.0632561+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:20:43.3259505+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:07.1643616+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:40:57.8781795+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:46:10.063405+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:15:20.493175+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:20:43.3261485+00:00"
 }

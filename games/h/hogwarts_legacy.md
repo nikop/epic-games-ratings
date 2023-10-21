@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 119)
 | Loom for Improvement | 11.00% | ~32,849 |
 | A Talent for Spending | 11.00% | ~32,849 |
 | Coasting Along | 11.00% | ~32,849 |
-| The Hero of Hogwarts | 10.00% | ~29,862 |
-| Challenge Accepted | 10.00% | ~29,862 |
-| Followed the Butterflies | 10.00% | ~29,862 |
+| The Hero of Hogwarts | 10.00% | ~29,863 |
+| Challenge Accepted | 10.00% | ~29,863 |
+| Followed the Butterflies | 10.00% | ~29,863 |
 | The Spell Master | 9.00% | ~26,876 |
 | Rising From the Ashes | 9.00% | ~26,876 |
 | The Avenging Gazelle | 8.00% | ~23,890 |
@@ -40,9 +40,9 @@ Rating: 4.76 (Ranked 119)
 | Put Down Roots | 3.00% | ~8,959 |
 | The Auror's Apprentice | 3.00% | ~8,959 |
 | Floo Around the World | 3.00% | ~8,959 |
-| The Good Samaritan | 2.00% | ~5,972 |
-| Rise to the Challenges | 2.00% | ~5,972 |
-| Finishing Touches | 2.00% | ~5,972 |
+| The Good Samaritan | 2.00% | ~5,973 |
+| Rise to the Challenges | 2.00% | ~5,973 |
+| Finishing Touches | 2.00% | ~5,973 |
 | Savvy Spender | 1.00% | ~2,986 |
 | Merlin's Beard! | 1.00% | ~2,986 |
 | Demiguise Dread | 1.00% | ~2,986 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,625 (Ranked 47)  
+Progressed: 298,626 (Ranked 47)  
 Completed: 490 (0.16%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 490 (0.16%) (Ranked 234)
 | 2023-10-18 | 298,550 | 488 |
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
-| 2023-10-21 | 298,625 | 490 |
+| 2023-10-21 | 298,626 | 490 |
 ## Awards
 Max (Character Customization): 23,665  (Ranked 17)  
 Sum: 46,267 (Ranked 30)  

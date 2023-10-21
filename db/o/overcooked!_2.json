@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
@@ -3030,10 +3030,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2215,
       "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2023-10-21T02:17:14.0198233+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2216,
+      "NumberOfAwardsMax": 245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2215,
+  "NumberOfAwards": 2216,
   "NumberOfAwardsMax": 245,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3065,7 +3071,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 173
+      "Count": 174
     },
     {
       "Text": "This game is Relaxing",
@@ -3127,8 +3133,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-10-20T15:02:26.6468422+00:00",
+  "LastChanged": "2023-10-21T02:17:14.0198231+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:58.0346921+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:42:42.3797995+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:45:33.2550137+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:17:14.0198237+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:20:12.6586659+00:00"
 }

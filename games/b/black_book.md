@@ -6,21 +6,21 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 26.00% | ~11,703 |
-| Student | 20.00% | ~9,002 |
-| Knower | 15.00% | ~6,752 |
-| Listener | 14.00% | ~6,301 |
-| Aspen Tree | 13.00% | ~5,851 |
-| Healer | 13.00% | ~5,851 |
-| Scientist | 11.00% | ~4,951 |
-| Soldier | 11.00% | ~4,951 |
-| Cow Level | 10.00% | ~4,501 |
-| Old Friend | 9.00% | ~4,051 |
-| Herbalist | 9.00% | ~4,051 |
-| New Spirits | 9.00% | ~4,051 |
-| Voipel | 9.00% | ~4,051 |
-| Water | 9.00% | ~4,051 |
-| Black Mage | 9.00% | ~4,051 |
+| Initiation | 26.00% | ~11,704 |
+| Student | 20.00% | ~9,003 |
+| Knower | 15.00% | ~6,753 |
+| Listener | 14.00% | ~6,302 |
+| Aspen Tree | 13.00% | ~5,852 |
+| Healer | 13.00% | ~5,852 |
+| Scientist | 11.00% | ~4,952 |
+| Soldier | 11.00% | ~4,952 |
+| Cow Level | 10.00% | ~4,502 |
+| Old Friend | 9.00% | ~4,052 |
+| Herbalist | 9.00% | ~4,052 |
+| New Spirits | 9.00% | ~4,052 |
+| Voipel | 9.00% | ~4,052 |
+| Water | 9.00% | ~4,052 |
+| Black Mage | 9.00% | ~4,052 |
 | Card Player | 8.00% | ~3,601 |
 | Pine Tree | 8.00% | ~3,601 |
 | Collector | 8.00% | ~3,601 |
@@ -40,16 +40,16 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~2,701 |
 | Folklorist | 6.00% | ~2,701 |
 | Keeper of Knowledge | 6.00% | ~2,701 |
-| Vorsa | 5.00% | ~2,250 |
-| Traveller | 5.00% | ~2,250 |
-| Musician | 4.00% | ~1,800 |
-| Susanin | 4.00% | ~1,800 |
-| Black Sorceress | 3.00% | ~1,350 |
-| Cheater | 3.00% | ~1,350 |
-| Diplomat | 3.00% | ~1,350 |
-| Righteous | 3.00% | ~1,350 |
-| White Head | 3.00% | ~1,350 |
-| Koldun | 3.00% | ~1,350 |
+| Vorsa | 5.00% | ~2,251 |
+| Traveller | 5.00% | ~2,251 |
+| Musician | 4.00% | ~1,801 |
+| Susanin | 4.00% | ~1,801 |
+| Black Sorceress | 3.00% | ~1,351 |
+| Cheater | 3.00% | ~1,351 |
+| Diplomat | 3.00% | ~1,351 |
+| Righteous | 3.00% | ~1,351 |
+| White Head | 3.00% | ~1,351 |
+| Koldun | 3.00% | ~1,351 |
 | Revelation | 2.00% | ~900 |
 | Detective | 2.00% | ~900 |
 | Great Sorceress | 2.00% | ~900 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~450 |
 | Word Master | 0.20% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,010 (Ranked 106)  
+Progressed: 45,017 (Ranked 106)  
 Completed: 36 (0.08%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 36 (0.08%) (Ranked 263)
 | 2023-10-18 | 44,202 | 34 |
 | 2023-10-19 | 44,528 | 35 |
 | 2023-10-20 | 44,975 | 36 |
-| 2023-10-21 | 45,010 | 36 |
+| 2023-10-21 | 45,017 | 36 |
 ## Awards
 Max (Character Customization): 77  (Ranked 378)  
 Sum: 77 (Ranked 448)  

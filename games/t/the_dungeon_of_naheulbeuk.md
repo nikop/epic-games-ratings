@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 33.00% | ~76,578 |
+| Sowwy! | 33.00% | ~76,579 |
 | Alt+F4 | 7.00% | ~16,244 |
-| Where's that freaking Dwarf? | 6.00% | ~13,923 |
+| Where's that freaking Dwarf? | 6.00% | ~13,924 |
 | Déjà vu | 5.00% | ~11,603 |
 | Sock! SOCK! | 4.00% | ~9,282 |
 | Speedrun | 4.00% | ~9,282 |
@@ -41,8 +41,8 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,321 |
 | Lust and Debauchery | 1.00% | ~2,321 |
 | Thieves' Guild Accreditation | 1.00% | ~2,321 |
-| Dead for good | 0.90% | ~2,088 |
-| Material Girl | 0.90% | ~2,088 |
+| Dead for good | 0.90% | ~2,089 |
+| Material Girl | 0.90% | ~2,089 |
 | Gargantua | 0.80% | ~1,856 |
 | In Navalu's footsteps | 0.70% | ~1,624 |
 | We come in peace | 0.60% | ~1,392 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,055 (Ranked 60)  
+Progressed: 232,059 (Ranked 60)  
 Completed: 6 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 6 (0.00%) (Ranked 318)
 | 2023-10-18 | 231,653 | 6 |
 | 2023-10-19 | 231,827 | 6 |
 | 2023-10-20 | 232,042 | 6 |
-| 2023-10-21 | 232,055 | 6 |
+| 2023-10-21 | 232,059 | 6 |
 ## Awards
 Max (Character Customization): 216  (Ranked 274)  
 Sum: 429 (Ranked 326)  

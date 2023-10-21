@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 43.00% | ~681 |
-| Eat My Dust | 41.00% | ~649 |
-| Clean Race | 40.00% | ~633 |
+| First Love | 43.00% | ~682 |
+| Eat My Dust | 41.00% | ~650 |
+| Clean Race | 40.00% | ~634 |
 | Hear That Roar! | 38.00% | ~602 |
-| Rivals to the End | 29.00% | ~459 |
+| Rivals to the End | 29.00% | ~460 |
 | Bitter Rivalry | 25.00% | ~396 |
 | We're Going to Need a Bigger Garage | 24.00% | ~380 |
-| Champagne Spray | 23.00% | ~364 |
+| Champagne Spray | 23.00% | ~365 |
 | Restored and Ready | 18.00% | ~285 |
 | I Want One Too! | 18.00% | ~285 |
 | Legendary!!! | 18.00% | ~285 |
@@ -24,12 +24,12 @@
 | Evangelist | 6.00% | ~95 |
 | Make It Your Own! | 5.00% | ~79 |
 | I Make the Rules! | 4.00% | ~63 |
-| Spoilt for Choice | 3.00% | ~47 |
-| Cherry Blossom and Temples | 3.00% | ~47 |
-| La Dolce Vita | 3.00% | ~47 |
-| The Road to Liberty | 3.00% | ~47 |
-| Romantic Races | 3.00% | ~47 |
-| Rounding Off | 3.00% | ~47 |
+| Spoilt for Choice | 3.00% | ~48 |
+| Cherry Blossom and Temples | 3.00% | ~48 |
+| La Dolce Vita | 3.00% | ~48 |
+| The Road to Liberty | 3.00% | ~48 |
+| Romantic Races | 3.00% | ~48 |
+| Rounding Off | 3.00% | ~48 |
 | Iconic! | 2.00% | ~32 |
 | I'll Be the Best! | 2.00% | ~32 |
 | Back in Blighty | 2.00% | ~32 |
@@ -39,7 +39,7 @@
 | Next Level | 1.00% | ~16 |
 | I Don't Stop | 1.00% | ~16 |
 | Exhausted but Happy | 0.80% | ~13 |
-| In Search of Perfection | 0.60% | ~9 |
+| In Search of Perfection | 0.60% | ~10 |
 | Globe-trotter | 0.40% | ~6 |
 | Maximum Endurance | 0.30% | ~5 |
 | Full Power | 0.20% | ~3 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 218)  
+Progressed: 1,585 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,4 +104,4 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 1,541 | 0 |
 | 2023-10-19 | 1,564 | 0 |
 | 2023-10-20 | 1,580 | 0 |
-| 2023-10-21 | 1,583 | 0 |
+| 2023-10-21 | 1,585 | 0 |

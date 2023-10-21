@@ -9285,7 +9285,7 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 298625,
+  "EOS_Progressed": 298626,
   "EOS_Completed": 490,
   "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 5,
@@ -28900,6 +28900,11 @@
       "Time": "2023-10-21T01:48:32.7631796+00:00",
       "NumProgressed": 298625,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-21T02:23:06.1384248+00:00",
+      "NumProgressed": 298626,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 45,
@@ -28943,7 +28948,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29862
+      "UsersEstimate": 29863
     },
     {
       "ID": "PFA_14",
@@ -29007,7 +29012,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "PFA_21",
@@ -29015,7 +29020,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29862
+      "UsersEstimate": 29863
     },
     {
       "ID": "PFA_22",
@@ -29135,7 +29140,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29862
+      "UsersEstimate": 29863
     },
     {
       "ID": "PFA_36",
@@ -29143,7 +29148,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "PFA_37",
@@ -29207,7 +29212,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5973
     },
     {
       "ID": "PFA_44",
@@ -29270,7 +29275,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298625,
+      "Progressed": 298626,
       "Completed": 490
     }
   ],
@@ -29278,8 +29283,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-20T23:59:29.0179279+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:48:32.7631785+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:23:06.1384242+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:40:00.4716165+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:48:32.7633428+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:14:14.8867431+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:23:06.138623+00:00"
 }

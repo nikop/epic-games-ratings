@@ -6,22 +6,22 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,406 |
-| Worker Specialization | 77.00% | ~5,337 |
-| First Contact | 73.00% | ~5,060 |
-| Win a Battle | 66.00% | ~4,574 |
-| Anomaly Researcher | 62.00% | ~4,297 |
-| Unleash My Power | 61.00% | ~4,228 |
-| Own 30 Planets | 33.00% | ~2,287 |
-| Xenocide | 32.00% | ~2,218 |
-| Design a Civilization | 31.00% | ~2,149 |
-| Commodity Trader | 30.00% | ~2,079 |
-| Design a Ship | 28.00% | ~1,941 |
-| Commodity Seller | 25.00% | ~1,733 |
-| Prestige Victory! | 14.00% | ~970 |
-| Galactic War | 11.00% | ~762 |
+| Colonize a Planet | 78.00% | ~5,409 |
+| Worker Specialization | 77.00% | ~5,340 |
+| First Contact | 73.00% | ~5,063 |
+| Win a Battle | 66.00% | ~4,577 |
+| Anomaly Researcher | 62.00% | ~4,300 |
+| Unleash My Power | 61.00% | ~4,230 |
+| Own 30 Planets | 33.00% | ~2,289 |
+| Xenocide | 32.00% | ~2,219 |
+| Design a Civilization | 31.00% | ~2,150 |
+| Commodity Trader | 30.00% | ~2,080 |
+| Design a Ship | 28.00% | ~1,942 |
+| Commodity Seller | 25.00% | ~1,734 |
+| Prestige Victory! | 14.00% | ~971 |
+| Galactic War | 11.00% | ~763 |
 | Trading Partner | 9.00% | ~624 |
-| Fleet Victory | 8.00% | ~554 |
+| Fleet Victory | 8.00% | ~555 |
 | Win as Terrans | 7.00% | ~485 |
 | Gain an Ally | 6.00% | ~416 |
 | War with the Unknown | 6.00% | ~416 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,931 (Ranked 164)  
+Progressed: 6,935 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 6,860 | 0 |
 | 2023-10-19 | 6,878 | 0 |
 | 2023-10-20 | 6,927 | 0 |
-| 2023-10-21 | 6,931 | 0 |
+| 2023-10-21 | 6,935 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 359)  
 Sum: 681 (Ranked 289)  

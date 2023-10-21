@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,910 |
+| Devoured by Darkness | 25.00% | ~2,911 |
 | A Spark | 18.00% | ~2,096 |
-| Burning City | 17.00% | ~1,979 |
-| Defender's Heart | 15.00% | ~1,746 |
+| Burning City | 17.00% | ~1,980 |
+| Defender's Heart | 15.00% | ~1,747 |
 | Mythic Choices | 14.00% | ~1,630 |
-| Banner over the Citadel | 13.00% | ~1,513 |
+| Banner over the Citadel | 13.00% | ~1,514 |
 | Queen's Gratitude | 12.00% | ~1,397 |
-| Fifth Crusade | 8.00% | ~931 |
+| Fifth Crusade | 8.00% | ~932 |
 | Embrace of the Abyss | 6.00% | ~699 |
 | Path of the Angel | 6.00% | ~699 |
 | Demonic and Divine | 6.00% | ~699 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~233 |
 | Your First Big Enemy | 2.00% | ~233 |
 | Truly Important Deed | 2.00% | ~233 |
-| Stay Underground | 2.00% | ~208 |
-| Sarkoris Will Be Green | 2.00% | ~208 |
+| Stay Underground | 2.00% | ~209 |
+| Sarkoris Will Be Green | 2.00% | ~209 |
 | The Final Threshold | 1.00% | ~116 |
 | Path of the Legend | 1.00% | ~116 |
 | Strategic Victory | 1.00% | ~116 |
@@ -53,9 +53,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.90% | ~105 |
 | End of Eternal Guard | 0.90% | ~105 |
 | Truly Profane Gift | 0.90% | ~105 |
-| Masterful Charge | 0.70% | ~81 |
-| Playful Mood | 0.70% | ~81 |
-| Dreadful Dragon | 0.70% | ~81 |
+| Masterful Charge | 0.70% | ~82 |
+| Playful Mood | 0.70% | ~82 |
+| Dreadful Dragon | 0.70% | ~82 |
 | Prelate's Nemesis | 0.50% | ~58 |
 | Ashes to Ashes | 0.40% | ~47 |
 | Masterful Dispel | 0.30% | ~35 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,642 (Ranked 146)  
+Progressed: 11,645 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
-| 2023-10-21 | 11,642 | 0 |
+| 2023-10-21 | 11,645 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,995 (Ranked 115)  

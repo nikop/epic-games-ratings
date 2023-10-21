@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~28,614 |
-| It wakes | 3.00% | ~28,614 |
-| Skillful | 3.00% | ~28,614 |
-| No one left behind | 2.00% | ~19,076 |
-| Medic | 2.00% | ~19,076 |
-| Handyman | 2.00% | ~19,076 |
-| Not half bad | 2.00% | ~19,076 |
-| Bloody Millionaire | 2.00% | ~19,076 |
-| Apt Survivor | 2.00% | ~19,076 |
-| Survival Treasures | 2.00% | ~19,076 |
-| I | 2.00% | ~19,076 |
-| Sorted | 2.00% | ~19,076 |
-| Healthy Obsession | 2.00% | ~19,076 |
-| Resurgence | 2.00% | ~19,076 |
-| Make Some Noise | 2.00% | ~19,076 |
-| The Grand Sacrifice | 1.00% | ~9,538 |
-| Agonizing Escape | 1.00% | ~9,538 |
-| Backdoor Escape | 1.00% | ~9,538 |
-| I've got your back | 1.00% | ~9,538 |
-| Nerves of steel | 1.00% | ~9,538 |
-| Perfect Escape | 1.00% | ~9,538 |
-| Perfect Killing | 1.00% | ~9,538 |
-| Apt Killer | 1.00% | ~9,538 |
-| Risk it all | 1.00% | ~9,538 |
-| Vulture | 1.00% | ~9,538 |
-| II | 1.00% | ~9,538 |
-| Engineer | 1.00% | ~9,538 |
-| Wounded Healer | 1.00% | ~9,538 |
-| Close Shave | 1.00% | ~9,538 |
-| Preemptive Strike | 1.00% | ~9,538 |
-| Humanitarian | 1.00% | ~9,538 |
-| Second Act | 1.00% | ~9,538 |
-| III | 0.90% | ~8,584 |
-| With Scars to Show | 0.90% | ~8,584 |
-| Escape Artist | 0.80% | ~7,630 |
-| First to the Punch | 0.80% | ~7,630 |
-| Every Last Drop | 0.80% | ~7,630 |
-| Flight to Freedom | 0.80% | ~7,630 |
-| A Fast Death | 0.80% | ~7,630 |
-| Rebuilding The Borgo | 0.80% | ~7,630 |
+| Zealous | 3.00% | ~28,616 |
+| It wakes | 3.00% | ~28,616 |
+| Skillful | 3.00% | ~28,616 |
+| No one left behind | 2.00% | ~19,077 |
+| Medic | 2.00% | ~19,077 |
+| Handyman | 2.00% | ~19,077 |
+| Not half bad | 2.00% | ~19,077 |
+| Bloody Millionaire | 2.00% | ~19,077 |
+| Apt Survivor | 2.00% | ~19,077 |
+| Survival Treasures | 2.00% | ~19,077 |
+| I | 2.00% | ~19,077 |
+| Sorted | 2.00% | ~19,077 |
+| Healthy Obsession | 2.00% | ~19,077 |
+| Resurgence | 2.00% | ~19,077 |
+| Make Some Noise | 2.00% | ~19,077 |
+| The Grand Sacrifice | 1.00% | ~9,539 |
+| Agonizing Escape | 1.00% | ~9,539 |
+| Backdoor Escape | 1.00% | ~9,539 |
+| I've got your back | 1.00% | ~9,539 |
+| Nerves of steel | 1.00% | ~9,539 |
+| Perfect Escape | 1.00% | ~9,539 |
+| Perfect Killing | 1.00% | ~9,539 |
+| Apt Killer | 1.00% | ~9,539 |
+| Risk it all | 1.00% | ~9,539 |
+| Vulture | 1.00% | ~9,539 |
+| II | 1.00% | ~9,539 |
+| Engineer | 1.00% | ~9,539 |
+| Wounded Healer | 1.00% | ~9,539 |
+| Close Shave | 1.00% | ~9,539 |
+| Preemptive Strike | 1.00% | ~9,539 |
+| Humanitarian | 1.00% | ~9,539 |
+| Second Act | 1.00% | ~9,539 |
+| III | 0.90% | ~8,585 |
+| With Scars to Show | 0.90% | ~8,585 |
+| Escape Artist | 0.80% | ~7,631 |
+| First to the Punch | 0.80% | ~7,631 |
+| Every Last Drop | 0.80% | ~7,631 |
+| Flight to Freedom | 0.80% | ~7,631 |
+| A Fast Death | 0.80% | ~7,631 |
+| Rebuilding The Borgo | 0.80% | ~7,631 |
 | Blood on your hands | 0.70% | ~6,677 |
 | Made it out alive! | 0.70% | ~6,677 |
 | III-50 | 0.70% | ~6,677 |
@@ -94,17 +94,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | High Speed Pursuit | 0.40% | ~3,815 |
 | Complete the Evolution | 0.40% | ~3,815 |
 | Kitted Out | 0.40% | ~3,815 |
-| Blood in your mouth | 0.30% | ~2,861 |
-| Looter | 0.30% | ~2,861 |
-| Whiffing to Success | 0.30% | ~2,861 |
-| Outrage | 0.30% | ~2,861 |
-| Heavy Burden | 0.30% | ~2,861 |
-| I See You | 0.30% | ~2,861 |
-| Power Moves | 0.30% | ~2,861 |
-| Punch Drunk | 0.30% | ~2,861 |
-| Prowler | 0.30% | ~2,861 |
-| Triage | 0.30% | ~2,861 |
-| Hack the Mainframe | 0.30% | ~2,861 |
+| Blood in your mouth | 0.30% | ~2,862 |
+| Looter | 0.30% | ~2,862 |
+| Whiffing to Success | 0.30% | ~2,862 |
+| Outrage | 0.30% | ~2,862 |
+| Heavy Burden | 0.30% | ~2,862 |
+| I See You | 0.30% | ~2,862 |
+| Power Moves | 0.30% | ~2,862 |
+| Punch Drunk | 0.30% | ~2,862 |
+| Prowler | 0.30% | ~2,862 |
+| Triage | 0.30% | ~2,862 |
+| Hack the Mainframe | 0.30% | ~2,862 |
 | A feast for the Entity | 0.20% | ~1,908 |
 | In the void she walks | 0.20% | ~1,908 |
 | Mad House | 0.20% | ~1,908 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~954 |
 | Adept Ripley | 0.10% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953,791 (Ranked 14)  
+Progressed: 953,860 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 52 (0.01%) (Ranked 299)
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
 | 2023-10-20 | 953,522 | 52 |
-| 2023-10-21 | 953,791 | 52 |
+| 2023-10-21 | 953,860 | 52 |
 ## Awards
 Max (Diverse Characters): 34,271  (Ranked 15)  
 Sum: 264,729 (Ranked 13)  

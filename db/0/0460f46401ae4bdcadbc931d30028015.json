@@ -427,9 +427,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2689,
+  "EOS_Progressed": 2690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2987,6 +2987,11 @@
       "Time": "2023-10-21T01:48:31.4026014+00:00",
       "NumProgressed": 2689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T02:23:04.3888048+00:00",
+      "NumProgressed": 2690,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3007,7 +3012,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_11",
@@ -3015,7 +3020,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "achievement_12",
@@ -3133,9 +3138,9 @@
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 699
     },
     {
       "ID": "achievement_7",
@@ -3159,14 +3164,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2689,
+      "Progressed": 2690,
       "Completed": 0
     }
   ],
@@ -3174,8 +3179,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-21T01:43:32.4786296+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:48:31.4026008+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:23:04.3888042+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:43:32.4786317+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:48:31.4026369+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:18:07.6848387+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:23:04.3888371+00:00"
 }

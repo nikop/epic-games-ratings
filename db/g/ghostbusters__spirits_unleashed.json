@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26845,
+  "EOS_Progressed": 26848,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15662,6 +15662,11 @@
       "Time": "2023-10-21T01:45:35.4953531+00:00",
       "NumProgressed": 26845,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T02:20:15.2913509+00:00",
+      "NumProgressed": 26848,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -16031,9 +16036,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 537
     },
     {
       "ID": "Tobins_Prodigy",
@@ -16080,7 +16085,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26845,
+      "Progressed": 26848,
       "Completed": 60
     }
   ],
@@ -16088,8 +16093,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:45:35.4953525+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:20:15.2913503+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:42:30.495872+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:45:35.4954803+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:17:01.0613262+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:20:15.2915202+00:00"
 }

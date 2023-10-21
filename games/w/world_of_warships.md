@@ -6,20 +6,20 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~33,694 |
-| Initial Capital | 69.00% | ~28,702 |
-| Moneybags | 48.00% | ~19,967 |
-| Junior Supply Officer | 48.00% | ~19,967 |
-| Naval Warfare. Arson | 36.00% | ~14,975 |
-| Naval Warfare. Ramming | 35.00% | ~14,559 |
-| Amateur | 34.00% | ~14,143 |
-| Naval Constructor | 34.00% | ~14,143 |
-| Naval Warfare. Tactics | 33.00% | ~13,727 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,399 |
-| Naval Warfare. Lucky Shot | 22.00% | ~9,151 |
-| Naval Warfare. Flooding | 21.00% | ~8,735 |
-| Business Magnate | 19.00% | ~7,903 |
-| Battle Hero | 17.00% | ~7,071 |
+| Junior Naval Designer | 81.00% | ~33,696 |
+| Initial Capital | 69.00% | ~28,704 |
+| Moneybags | 48.00% | ~19,968 |
+| Junior Supply Officer | 48.00% | ~19,968 |
+| Naval Warfare. Arson | 36.00% | ~14,976 |
+| Naval Warfare. Ramming | 35.00% | ~14,560 |
+| Amateur | 34.00% | ~14,144 |
+| Naval Constructor | 34.00% | ~14,144 |
+| Naval Warfare. Tactics | 33.00% | ~13,728 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,400 |
+| Naval Warfare. Lucky Shot | 22.00% | ~9,152 |
+| Naval Warfare. Flooding | 21.00% | ~8,736 |
+| Business Magnate | 19.00% | ~7,904 |
+| Battle Hero | 17.00% | ~7,072 |
 | Supply Officer | 15.00% | ~6,240 |
 | Smooth Supply | 15.00% | ~6,240 |
 | Warrior | 14.00% | ~5,824 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~42 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,597 (Ranked 112)  
+Progressed: 41,600 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 40,801 | 0 |
 | 2023-10-19 | 41,163 | 0 |
 | 2023-10-20 | 41,568 | 0 |
-| 2023-10-21 | 41,597 | 0 |
+| 2023-10-21 | 41,600 | 0 |
 ## Awards
 Max (Relaxing): 1,432  (Ranked 131)  
 Sum: 12,017 (Ranked 81)  

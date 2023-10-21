@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3207,6 +3207,11 @@
       "Time": "2023-10-21T01:49:40.3467814+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T02:24:12.3367834+00:00",
+      "NumProgressed": 1585,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3219,7 +3224,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3299,7 +3304,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -3347,7 +3352,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -3355,7 +3360,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -3371,7 +3376,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -3379,7 +3384,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -3427,7 +3432,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3515,7 +3520,7 @@
       "Name": "Eat My Dust",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3523,7 +3528,7 @@
       "Name": "Champagne Spray",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3531,7 +3536,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -3547,7 +3552,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -3571,7 +3576,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3610,14 +3615,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-21T01:49:40.3467809+00:00",
+  "LastChanged_Achievements": "2023-10-21T02:24:12.3367827+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-21T01:40:54.4543116+00:00",
-  "LastUpdate_Achievements": "2023-10-21T01:49:40.3468486+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:15:15.1427136+00:00",
+  "LastUpdate_Achievements": "2023-10-21T02:24:12.3368627+00:00"
 }
