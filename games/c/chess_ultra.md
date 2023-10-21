@@ -5,26 +5,26 @@ Rating: 4.29 (Ranked 825)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~149,491 |
-| Doubled Pawn | 56.00% | ~119,593 |
-| Check | 55.00% | ~117,457 |
-| Absolute pin | 47.00% | ~100,373 |
-| Promotion | 31.00% | ~66,203 |
-| Checkmate | 30.00% | ~64,068 |
-| O-O | 24.00% | ~51,254 |
-| Spanish Bishop | 21.00% | ~44,847 |
-| Queen Sacrifice | 20.00% | ~42,712 |
-| Stalemate | 18.00% | ~38,441 |
-| O-O-O | 13.00% | ~27,763 |
-| Octopus | 13.00% | ~27,763 |
-| Stranger Danger | 12.00% | ~25,627 |
-| En Passant | 9.00% | ~19,220 |
-| Double Check | 7.00% | ~14,949 |
+| Chop Wood | 70.00% | ~149,497 |
+| Doubled Pawn | 56.00% | ~119,598 |
+| Check | 55.00% | ~117,462 |
+| Absolute pin | 47.00% | ~100,376 |
+| Promotion | 31.00% | ~66,206 |
+| Checkmate | 30.00% | ~64,070 |
+| O-O | 24.00% | ~51,256 |
+| Spanish Bishop | 21.00% | ~44,849 |
+| Queen Sacrifice | 20.00% | ~42,713 |
+| Stalemate | 18.00% | ~38,442 |
+| O-O-O | 13.00% | ~27,764 |
+| Octopus | 13.00% | ~27,764 |
+| Stranger Danger | 12.00% | ~25,628 |
+| En Passant | 9.00% | ~19,221 |
+| Double Check | 7.00% | ~14,950 |
 | Piece Collector | 6.00% | ~12,814 |
 | ELO | 5.00% | ~10,678 |
 | Family Fork | 5.00% | ~10,678 |
 | Friendly Fire | 5.00% | ~10,678 |
-| Underpromote | 4.00% | ~8,542 |
+| Underpromote | 4.00% | ~8,543 |
 | ELO ELO | 3.00% | ~6,407 |
 | Learner | 3.00% | ~6,407 |
 | Blind Pigs | 2.00% | ~4,271 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 825)
 | Tournament Master | 0.10% | ~214 |
 | Tournament Pro | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,559 (Ranked 64)  
+Progressed: 213,567 (Ranked 64)  
 Completed: 2 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 2 (0.00%) (Ranked 317)
 | 2023-10-18 | 213,251 | 2 |
 | 2023-10-19 | 213,405 | 2 |
 | 2023-10-20 | 213,559 | 2 |
+| 2023-10-21 | 213,567 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

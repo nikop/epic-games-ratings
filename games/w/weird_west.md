@@ -9,13 +9,13 @@ Number of Ratings: 125  (23.09.2022)
 | Unforgiven | 88.00% | ~1,661 |
 | Self-Improvement | 71.00% | ~1,340 |
 | Perky | 65.00% | ~1,227 |
-| Let’s Ride | 60.00% | ~1,132 |
+| Let’s Ride | 60.00% | ~1,133 |
 | Welcome to the Weird West | 57.00% | ~1,076 |
 | Dead or Alive | 56.00% | ~1,057 |
-| Full House | 37.00% | ~698 |
+| Full House | 37.00% | ~699 |
 | Off the Trail | 34.00% | ~642 |
-| Justice Served | 29.00% | ~547 |
-| Chain Reaction | 27.00% | ~509 |
+| Justice Served | 29.00% | ~548 |
+| Chain Reaction | 27.00% | ~510 |
 | Through Their Eyes | 26.00% | ~491 |
 | Dishonored | 25.00% | ~472 |
 | Rain of Death | 25.00% | ~472 |
@@ -31,9 +31,9 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 13.00% | ~245 |
 | Turning the Tables | 13.00% | ~245 |
 | Workers' Rights | 13.00% | ~245 |
-| Power Behind the Pulpit | 12.00% | ~226 |
-| Something Wicked This Way Comes… | 12.00% | ~226 |
-| There is Hope | 12.00% | ~226 |
+| Power Behind the Pulpit | 12.00% | ~227 |
+| Something Wicked This Way Comes… | 12.00% | ~227 |
+| There is Hope | 12.00% | ~227 |
 | The Philosopher’s Stone | 10.00% | ~189 |
 | Loyalty to the Pack | 9.00% | ~170 |
 | Eternity Can Wait | 9.00% | ~170 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,887 (Ranked 210)  
+Progressed: 1,888 (Ranked 210)  
 Completed: 7 (0.37%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 7 (0.37%) (Ranked 197)
 | 2023-10-18 | 1,856 | 7 |
 | 2023-10-19 | 1,868 | 7 |
 | 2023-10-20 | 1,887 | 7 |
+| 2023-10-21 | 1,888 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

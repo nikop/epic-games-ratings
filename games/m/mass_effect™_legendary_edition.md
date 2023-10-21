@@ -10,15 +10,15 @@
 | Recruit | 72.00% | ~545 |
 | Search and Rescue | 72.00% | ~545 |
 | Quarian Ally | 68.00% | ~515 |
+| Honorarium of Corporate Service | 66.00% | ~500 |
 | Medal of Heroism | 65.00% | ~492 |
-| Honorarium of Corporate Service | 65.00% | ~492 |
 | Council Legion of Merit | 60.00% | ~454 |
 | Medal of Honor | 58.00% | ~439 |
 | Meritorious Service Medal | 58.00% | ~439 |
 | Medal of Exploration II | 58.00% | ~439 |
 | Turian Ally | 57.00% | ~431 |
+| Charismatic | 57.00% | ~431 |
 | Soldier | 56.00% | ~424 |
-| Charismatic | 56.00% | ~424 |
 | Medal of Exploration III | 52.00% | ~394 |
 | Asari Ally | 52.00% | ~394 |
 | Principled | 52.00% | ~394 |

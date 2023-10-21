@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3479,9 +3479,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51858,
+  "EOS_Progressed": 51859,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -13104,6 +13104,11 @@
       "Time": "2023-10-20T23:06:03.1926904+00:00",
       "NumProgressed": 51858,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-21T00:05:16.8231084+00:00",
+      "NumProgressed": 51859,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 45,
@@ -13139,7 +13144,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40968
+      "UsersEstimate": 40969
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13227,7 +13232,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30596
+      "UsersEstimate": 30597
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13235,7 +13240,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24373
+      "UsersEstimate": 24374
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13243,7 +13248,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20743
+      "UsersEstimate": 20744
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -13283,7 +13288,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11927
+      "UsersEstimate": 11928
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -13307,7 +13312,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29559
+      "UsersEstimate": 29560
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -13379,7 +13384,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50302
+      "UsersEstimate": 50303
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13419,7 +13424,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36819
+      "UsersEstimate": 36820
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13435,7 +13440,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19187
+      "UsersEstimate": 19188
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -13451,7 +13456,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28003
+      "UsersEstimate": 28004
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13474,15 +13479,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51858,
+      "Progressed": 51859,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-20T22:57:35.0702987+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:06:03.1926894+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:05:16.8231077+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:19.7884008+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:57:35.0702991+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:06:03.1927885+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:57:32.5344821+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:05:16.8232085+00:00"
 }

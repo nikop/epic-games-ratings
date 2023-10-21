@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 60.00% | ~60 |
+| Nightmare Territory | 60.00% | ~61 |
 | Hunting Season | 43.00% | ~43 |
-| Grew Bigger | 40.00% | ~40 |
-| Bring It | 39.00% | ~39 |
-| Coffee Thermos | 38.00% | ~38 |
+| Grew Bigger | 41.00% | ~41 |
+| Bring It | 40.00% | ~40 |
+| Coffee Thermos | 39.00% | ~39 |
 | Find the Light | 36.00% | ~36 |
-| Darkness Coiled | 29.00% | ~29 |
+| Darkness Coiled | 30.00% | ~30 |
 | Lights Shining | 27.00% | ~27 |
 | Yippee Ki-yay | 27.00% | ~27 |
 | Filling the Shape | 27.00% | ~27 |
 | Greatest Hits | 25.00% | ~25 |
+| Not the Last | 25.00% | ~25 |
 | Ready for a Fight | 24.00% | ~24 |
+| Chased the Source | 24.00% | ~24 |
 | Aimed Ahead | 23.00% | ~23 |
-| Not the Last | 23.00% | ~23 |
-| Chased the Source | 23.00% | ~23 |
 | Carry his Words | 21.00% | ~21 |
 | The Other Side | 21.00% | ~21 |
+| Somebody's Home | 20.00% | ~20 |
 | Felt Good | 19.00% | ~19 |
-| Somebody's Home | 18.00% | ~18 |
 | Shining in the Night | 18.00% | ~18 |
 | All Accounted For | 18.00% | ~18 |
 | Stop Right There | 15.00% | ~15 |
@@ -71,7 +71,7 @@
 | Cut Short | 1.00% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 394)  
+Progressed: 101 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
 | 2023-10-20 | 100 | 0 |
+| 2023-10-21 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

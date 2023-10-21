@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7878,10 +7878,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50890,
       "NumberOfAwardsMax": 6462
+    },
+    {
+      "Time": "2023-10-20T23:57:32.1678693+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50892,
+      "NumberOfAwardsMax": 6462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50890,
+  "NumberOfAwards": 50892,
   "NumberOfAwardsMax": 6462,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -7937,7 +7943,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5549
+      "Count": 5551
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7952,9 +7958,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474757,
+  "EOS_Progressed": 474758,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26827,6 +26833,11 @@
       "Time": "2023-10-20T22:06:12.0806253+00:00",
       "NumProgressed": 474757,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-21T00:05:11.7306951+00:00",
+      "NumProgressed": 474758,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -26854,7 +26865,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128184
+      "UsersEstimate": 128185
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -26926,7 +26937,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 128184
+      "UsersEstimate": 128185
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -27022,7 +27033,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237378
+      "UsersEstimate": 237379
     },
     {
       "ID": "achievement_club_world_cup",
@@ -27134,7 +27145,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94951
+      "UsersEstimate": 94952
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -27158,7 +27169,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194650
+      "UsersEstimate": 194651
     },
     {
       "ID": "achievement_head_to_head",
@@ -27270,7 +27281,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151922
+      "UsersEstimate": 151923
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -27278,7 +27289,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94951
+      "UsersEstimate": 94952
     },
     {
       "ID": "achievement_pick_feeder",
@@ -27334,7 +27345,7 @@
       "Name": "Record Sale",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 128184
+      "UsersEstimate": 128185
     },
     {
       "ID": "achievement_record_signing",
@@ -27342,7 +27353,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151922
+      "UsersEstimate": 151923
     },
     {
       "ID": "achievement_rushed_signing",
@@ -27382,7 +27393,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227883
+      "UsersEstimate": 227884
     },
     {
       "ID": "achievement_signed_a_player",
@@ -27390,7 +27401,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237378
+      "UsersEstimate": 237379
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -27422,7 +27433,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118689
+      "UsersEstimate": 118690
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -27470,7 +27481,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237378
+      "UsersEstimate": 237379
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -27494,7 +27505,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61718
+      "UsersEstimate": 61719
     },
     {
       "ID": "achievement_won_world_cup",
@@ -27621,15 +27632,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474757,
+      "Progressed": 474758,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-10-20T13:02:49.2528178+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:05:55.7903135+00:00",
+  "LastChanged": "2023-10-20T23:57:32.1678691+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:05:11.7306944+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:20.1729368+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:57:34.4971001+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:05:55.7905668+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:57:32.16787+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:05:11.7309344+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1097,10 +1097,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 302,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-20T23:58:42.067259+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 304,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 302,
+  "NumberOfAwards": 304,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1132,7 +1138,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1159,9 +1165,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 153466,
+  "EOS_Progressed": 153475,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1534,
+  "EOS_NewPlayers": 1525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12384,6 +12390,11 @@
       "Time": "2023-10-20T23:07:47.7936609+00:00",
       "NumProgressed": 153466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T00:06:33.6121393+00:00",
+      "NumProgressed": 153475,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12443,7 +12454,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12459,7 +12470,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12611,7 +12622,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12667,7 +12678,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12762,21 +12773,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153049,
+      "Progressed": 153058,
       "Completed": 1165
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153466,
+      "Progressed": 153475,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-20T21:59:05.2236275+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:07:47.7936605+00:00",
+  "LastChanged": "2023-10-20T23:58:42.0672588+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:06:33.6121384+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:33.8479674+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:59:01.0026792+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:07:47.793773+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:58:42.0672596+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:06:33.6122554+00:00"
 }

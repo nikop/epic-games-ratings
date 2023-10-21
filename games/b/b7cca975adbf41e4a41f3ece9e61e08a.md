@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 84.00% | ~737 |
-| I Challenge You To Save More Money! | 74.00% | ~649 |
-| I Love How Tough You Are | 51.00% | ~447 |
-| Wanna Come To My Place For Dinner? | 41.00% | ~360 |
-| What I Want Is You | 35.00% | ~307 |
-| Are You Alright? | 35.00% | ~307 |
-| To Be Or Not To Be | 31.00% | ~272 |
-| Love Actually | 24.00% | ~210 |
-| Go Clean up In Your Own Way | 24.00% | ~210 |
-| Drama King | 23.00% | ~202 |
-| You're Really Something Else | 21.00% | ~184 |
-| Drama CP: Reel to Real | 20.00% | ~175 |
+| Last Night...Did We... | 84.00% | ~740 |
+| I Challenge You To Save More Money! | 73.00% | ~643 |
+| I Love How Tough You Are | 51.00% | ~449 |
+| Wanna Come To My Place For Dinner? | 41.00% | ~361 |
+| What I Want Is You | 35.00% | ~308 |
+| Are You Alright? | 35.00% | ~308 |
+| To Be Or Not To Be | 31.00% | ~273 |
+| Love Actually | 24.00% | ~211 |
+| Go Clean up In Your Own Way | 24.00% | ~211 |
+| Drama King | 23.00% | ~203 |
+| You're Really Something Else | 21.00% | ~185 |
+| Drama CP: Reel to Real | 20.00% | ~176 |
 | FIRST LOVE | 19.00% | ~167 |
-| Happy Family | 18.00% | ~158 |
-| Worthless Speech | 18.00% | ~158 |
-| Still Single | 17.00% | ~149 |
-| Absolutely Elegant | 16.00% | ~140 |
-| David | 16.00% | ~140 |
-| ONE PUNCH | 13.00% | ~114 |
-| All I Have Is Money | 12.00% | ~105 |
-| Go Get Some Fries On The Pier | 12.00% | ~105 |
-| Days Of Innocence | 11.00% | ~96 |
-| A Slap In The Face! | 11.00% | ~96 |
-| That's So You | 11.00% | ~96 |
-| SALUTE | 11.00% | ~96 |
+| Worthless Speech | 18.00% | ~159 |
+| Happy Family | 17.00% | ~150 |
+| Still Single | 17.00% | ~150 |
+| Absolutely Elegant | 16.00% | ~141 |
+| David | 16.00% | ~141 |
+| ONE PUNCH | 13.00% | ~115 |
+| All I Have Is Money | 12.00% | ~106 |
+| Go Get Some Fries On The Pier | 12.00% | ~106 |
+| Days Of Innocence | 11.00% | ~97 |
+| A Slap In The Face! | 11.00% | ~97 |
+| That's So You | 11.00% | ~97 |
+| SALUTE | 11.00% | ~97 |
 | Let Me Be Your Toy Boy | 10.00% | ~88 |
 | Lover In Dark Alley | 9.00% | ~79 |
 | Doesn't Matter I'll Handle It | 5.00% | ~44 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.20% | ~2 |
 | Limerence | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877 (Ranked 245)  
+Progressed: 881 (Ranked 245)  
 Completed: 1 (0.11%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,3 +61,4 @@ Completed: 1 (0.11%) (Ranked 247)
 | 2023-10-18 | 179 | 0 |
 | 2023-10-19 | 539 | 0 |
 | 2023-10-20 | 877 | 1 |
+| 2023-10-21 | 881 | 1 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2053,
+  "EOS_Progressed": 2054,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6210,6 +6210,11 @@
       "Time": "2023-10-19T18:04:22.1533959+00:00",
       "NumProgressed": 2053,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T00:05:21.9673787+00:00",
+      "NumProgressed": 2054,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6235,9 +6240,9 @@
       "ID": "angelpower",
       "SetID": "3nl4bcg",
       "Name": "Angel Power",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "arenachallenger",
@@ -6333,7 +6338,7 @@
       "Name": "Dragon Master",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "dragonslayer",
@@ -6389,7 +6394,7 @@
       "Name": "Enlightenment",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "exoticmerchant",
@@ -6405,7 +6410,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "fourleafclover",
@@ -6549,7 +6554,7 @@
       "Name": "Milestone collector",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "minerclicker",
@@ -6581,7 +6586,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "mythicpower",
@@ -6597,7 +6602,7 @@
       "Name": "Natural Talent",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "pokerface",
@@ -6669,7 +6674,7 @@
       "Name": "Superior",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "templeofeternals",
@@ -6677,7 +6682,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "thealchemist",
@@ -6725,7 +6730,7 @@
       "Name": "The Unstoppable",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "titanpower",
@@ -6781,7 +6786,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "warmachinesarmy",
@@ -6813,14 +6818,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2053,
+      "Progressed": 2054,
       "Completed": 2
     }
   ],
@@ -6828,8 +6833,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-18T19:57:48.2497701+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:06:09.8750304+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:05:21.9673774+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:40.7167186+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:59:18.6117399+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:06:09.8752044+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:58:55.0354497+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:05:21.9675182+00:00"
 }

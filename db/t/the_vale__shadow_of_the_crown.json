@@ -4,8 +4,8 @@
   "ProductSlug": "the-vale-shadow-of-the-crown",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-19T12:00:00+00:00",
     "PcReleaseDate": "2021-08-19T12:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.1527481+00:00",
   "LastChanged": "2023-03-31T05:58:28.1527483+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:56.4056822+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:03:03.7411939+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:04:29.5430129+00:00"
+  "LastUpdate_Ratings": "2023-10-21T00:01:43.0862064+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:03:38.2695894+00:00"
 }

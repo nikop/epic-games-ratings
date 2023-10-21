@@ -25,11 +25,11 @@
 | Ms. Camilla B. Culsham | 18.00% | ~4 |
 | Irene Court-Smyth | 18.00% | ~4 |
 | The Apartment | 18.00% | ~4 |
+| A rude awakening | 14.00% | ~3 |
+| Nathaniel Dryden | 14.00% | ~3 |
 | Well-acquainted | 9.00% | ~2 |
 | Truth from within | 9.00% | ~2 |
-| A rude awakening | 9.00% | ~2 |
 | Anastasia Babanin | 9.00% | ~2 |
-| Nathaniel Dryden | 9.00% | ~2 |
 | Zakariya Demir | 9.00% | ~2 |
 | Bartholomew | 9.00% | ~2 |
 | The Scheme | 9.00% | ~2 |

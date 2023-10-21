@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1887,
+  "EOS_Progressed": 1888,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2234,6 +2234,11 @@
       "Time": "2023-10-20T22:06:50.3087617+00:00",
       "NumProgressed": 1887,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T00:05:39.5494494+00:00",
+      "NumProgressed": 1888,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2245,7 +2250,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2325,7 +2330,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2389,7 +2394,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2397,7 +2402,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2509,7 +2514,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2549,7 +2554,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2565,7 +2570,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2668,15 +2673,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1887,
+      "Progressed": 1888,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:06:33.7875916+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:05:39.5494481+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:00:48.2676704+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:06:33.7876508+00:00"
+  "LastUpdate_Ratings": "2023-10-21T00:00:04.0032844+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:05:39.5495119+00:00"
 }

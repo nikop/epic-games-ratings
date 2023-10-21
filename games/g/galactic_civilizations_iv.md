@@ -1,32 +1,32 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 913)  
+Rating: 4.17 (Ranked 914)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,403 |
-| Worker Specialization | 78.00% | ~5,403 |
-| First Contact | 73.00% | ~5,057 |
-| Win a Battle | 66.00% | ~4,572 |
-| Anomaly Researcher | 62.00% | ~4,295 |
-| Unleash My Power | 61.00% | ~4,225 |
-| Own 30 Planets | 33.00% | ~2,286 |
-| Xenocide | 32.00% | ~2,217 |
-| Design a Civilization | 31.00% | ~2,147 |
-| Commodity Trader | 30.00% | ~2,078 |
-| Design a Ship | 28.00% | ~1,940 |
-| Commodity Seller | 25.00% | ~1,732 |
+| Colonize a Planet | 78.00% | ~5,406 |
+| Worker Specialization | 77.00% | ~5,337 |
+| First Contact | 73.00% | ~5,060 |
+| Win a Battle | 66.00% | ~4,574 |
+| Anomaly Researcher | 62.00% | ~4,297 |
+| Unleash My Power | 61.00% | ~4,228 |
+| Own 30 Planets | 33.00% | ~2,287 |
+| Xenocide | 32.00% | ~2,218 |
+| Design a Civilization | 31.00% | ~2,149 |
+| Commodity Trader | 30.00% | ~2,079 |
+| Design a Ship | 28.00% | ~1,941 |
+| Commodity Seller | 25.00% | ~1,733 |
 | Prestige Victory! | 14.00% | ~970 |
 | Galactic War | 11.00% | ~762 |
-| Trading Partner | 9.00% | ~623 |
+| Trading Partner | 9.00% | ~624 |
 | Fleet Victory | 8.00% | ~554 |
 | Win as Terrans | 7.00% | ~485 |
 | Gain an Ally | 6.00% | ~416 |
 | War with the Unknown | 6.00% | ~416 |
 | Win with a Custom Faction | 6.00% | ~416 |
-| Win Quickly | 5.00% | ~346 |
+| Win Quickly | 5.00% | ~347 |
 | Conquest Victory! | 4.00% | ~277 |
 | Pirate Cleansing | 3.00% | ~208 |
 | Win an Immense Game | 3.00% | ~208 |
@@ -40,10 +40,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Mimot | 1.00% | ~69 |
 | Win as the Navigators | 0.90% | ~62 |
 | Win as Torians | 0.80% | ~55 |
-| Win as the Drengin | 0.70% | ~48 |
-| Win as the Krynn | 0.70% | ~48 |
-| Win as the Manti | 0.70% | ~48 |
-| Win as Xeloxi | 0.70% | ~48 |
+| Win as the Drengin | 0.70% | ~49 |
+| Win as the Krynn | 0.70% | ~49 |
+| Win as the Manti | 0.70% | ~49 |
+| Win as Xeloxi | 0.70% | ~49 |
 | Win as the Drath | 0.60% | ~42 |
 | Win as the Iridium | 0.60% | ~42 |
 | Win as the Onyx | 0.60% | ~42 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,927 (Ranked 163)  
+Progressed: 6,931 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,6 +263,7 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-18 | 6,860 | 0 |
 | 2023-10-19 | 6,878 | 0 |
 | 2023-10-20 | 6,927 | 0 |
+| 2023-10-21 | 6,931 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 359)  
 Sum: 681 (Ranked 289)  

@@ -4495,9 +4495,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 248118,
+  "EOS_Progressed": 248119,
   "EOS_Completed": 859,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -24480,6 +24480,11 @@
       "Time": "2023-10-20T23:09:31.9434736+00:00",
       "NumProgressed": 248118,
       "NumCompleted": 859
+    },
+    {
+      "Time": "2023-10-21T00:08:09.8250058+00:00",
+      "NumProgressed": 248119,
+      "NumCompleted": 859
     }
   ],
   "TotalAchievements": 39,
@@ -24539,7 +24544,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 74435
+      "UsersEstimate": 74436
     },
     {
       "ID": "AchievementBoulderID",
@@ -24555,7 +24560,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 225787
+      "UsersEstimate": 225788
     },
     {
       "ID": "AchievementClownID",
@@ -24571,7 +24576,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 19849
+      "UsersEstimate": 19850
     },
     {
       "ID": "AchievementCrashGameID",
@@ -24627,7 +24632,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47142
+      "UsersEstimate": 47143
     },
     {
       "ID": "AchievementINirvanaID",
@@ -24651,7 +24656,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111653
+      "UsersEstimate": 111654
     },
     {
       "ID": "AchievementIntroID",
@@ -24659,7 +24664,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 141427
+      "UsersEstimate": 141428
     },
     {
       "ID": "AchievementLootBoxID",
@@ -24723,7 +24728,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 183607
+      "UsersEstimate": 183608
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -24731,7 +24736,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19849
+      "UsersEstimate": 19850
     },
     {
       "ID": "AchievementStratosphereID",
@@ -24739,7 +24744,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124059
+      "UsersEstimate": 124060
     },
     {
       "ID": "AchievementStreakingID",
@@ -24771,7 +24776,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116615
+      "UsersEstimate": 116616
     },
     {
       "ID": "AchievementTrinketID",
@@ -24802,7 +24807,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 248118,
+      "Progressed": 248119,
       "Completed": 859
     }
   ],
@@ -24810,8 +24815,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-20T17:58:39.430762+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:09:31.9434731+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:08:09.8250051+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:27.2965539+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:58:45.8528504+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:09:31.9436583+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:58:31.8339085+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:08:09.8251685+00:00"
 }

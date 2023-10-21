@@ -7,19 +7,19 @@ Rating: 4.46 (Ranked 631)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,730 |
 | Confirming Suspicions | 41.00% | ~1,542 |
-| The Kraken Wakes | 37.00% | ~1,391 |
-| It's Starting to Crack | 34.00% | ~1,278 |
+| The Kraken Wakes | 37.00% | ~1,392 |
+| It's Starting to Crack | 34.00% | ~1,279 |
 | Change the Channel | 31.00% | ~1,166 |
 | Lord of War | 30.00% | ~1,128 |
-| Taking it back | 29.00% | ~1,090 |
+| Taking it back | 29.00% | ~1,091 |
 | Resourceful | 27.00% | ~1,015 |
 | Target America | 26.00% | ~978 |
-| The Kraken Sleeps | 24.00% | ~902 |
+| The Kraken Sleeps | 24.00% | ~903 |
 | Organ Grinder | 23.00% | ~865 |
 | As Quiet as a Mouse | 23.00% | ~865 |
 | Liberté | 22.00% | ~827 |
 | Sharpshooter | 22.00% | ~827 |
-| Explosive Efficiency | 19.00% | ~714 |
+| Explosive Efficiency | 19.00% | ~715 |
 | Gunslinger | 18.00% | ~677 |
 | Just a Flesh Wound | 17.00% | ~639 |
 | Climbing the Ladder | 16.00% | ~602 |
@@ -27,12 +27,12 @@ Rating: 4.46 (Ranked 631)
 | Close Quarters | 16.00% | ~602 |
 | Snake in the Grass | 15.00% | ~564 |
 | Brains of the Operation | 15.00% | ~564 |
-| No Stone Unturned | 14.00% | ~526 |
-| Opposing Force | 14.00% | ~526 |
-| Fields of Glory | 14.00% | ~526 |
-| Skirmisher | 14.00% | ~526 |
-| Die Nussknacker Sweet! | 14.00% | ~526 |
-| Enemy at the Gates | 13.00% | ~489 |
+| No Stone Unturned | 14.00% | ~527 |
+| Opposing Force | 14.00% | ~527 |
+| Enemy at the Gates | 14.00% | ~527 |
+| Fields of Glory | 14.00% | ~527 |
+| Skirmisher | 14.00% | ~527 |
+| Die Nussknacker Sweet! | 14.00% | ~527 |
 | Set Europe Ablaze | 13.00% | ~489 |
 | Precision Is Key | 10.00% | ~376 |
 | My Little Friend | 10.00% | ~376 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 631)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,760 (Ranked 181)  
+Progressed: 3,761 (Ranked 181)  
 Completed: 11 (0.29%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,6 +259,7 @@ Completed: 11 (0.29%) (Ranked 212)
 | 2023-10-18 | 3,754 | 11 |
 | 2023-10-19 | 3,758 | 11 |
 | 2023-10-20 | 3,760 | 11 |
+| 2023-10-21 | 3,761 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 526)  
 Sum: 21 (Ranked 527)  

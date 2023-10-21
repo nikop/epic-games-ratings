@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 80.00% | ~24 |
-| Master trainee | 77.00% | ~23 |
-| Jung's dream | 70.00% | ~21 |
-| The battle of Great Britain | 60.00% | ~18 |
-| Giant | 57.00% | ~17 |
-| Pulp! Where Monsters Dwell | 50.00% | ~15 |
-| A continent with chemistry | 50.00% | ~15 |
-| The happy farmer girl | 50.00% | ~15 |
-| A rival with no options | 47.00% | ~14 |
-| Pulp! Terror Tales in the Night | 43.00% | ~13 |
-| Pulp! Out of this World | 43.00% | ~13 |
-| Pulp! Adventures into the Unknown | 43.00% | ~13 |
-| Kirlian's best disciple | 43.00% | ~13 |
-| Diagnosis: fear | 40.00% | ~12 |
-| Ambition is... blind | 40.00% | ~12 |
-| You have two wishes left | 40.00% | ~12 |
-| The seer | 37.00% | ~11 |
-| You had one wish left | 33.00% | ~10 |
-| The artist | 33.00% | ~10 |
-| Welcome to Hellville | 33.00% | ~10 |
-| You've awakened the beast | 30.00% | ~9 |
-| Hate is... addictive | 30.00% | ~9 |
-| Et in arcadia ego | 30.00% | ~9 |
-| Blessed antennas | 27.00% | ~8 |
+| You have three wishes left | 81.00% | ~25 |
+| Master trainee | 77.00% | ~24 |
+| Jung's dream | 68.00% | ~21 |
+| The battle of Great Britain | 61.00% | ~19 |
+| Giant | 58.00% | ~18 |
+| Pulp! Where Monsters Dwell | 52.00% | ~16 |
+| A continent with chemistry | 48.00% | ~15 |
+| The happy farmer girl | 48.00% | ~15 |
+| A rival with no options | 45.00% | ~14 |
+| Pulp! Terror Tales in the Night | 42.00% | ~13 |
+| Pulp! Out of this World | 42.00% | ~13 |
+| Pulp! Adventures into the Unknown | 42.00% | ~13 |
+| Kirlian's best disciple | 42.00% | ~13 |
+| Diagnosis: fear | 39.00% | ~12 |
+| Ambition is... blind | 39.00% | ~12 |
+| You have two wishes left | 39.00% | ~12 |
+| The seer | 35.00% | ~11 |
+| You had one wish left | 32.00% | ~10 |
+| The artist | 32.00% | ~10 |
+| Welcome to Hellville | 32.00% | ~10 |
+| You've awakened the beast | 29.00% | ~9 |
+| Hate is... addictive | 29.00% | ~9 |
+| Et in arcadia ego | 29.00% | ~9 |
+| Blessed antennas | 26.00% | ~8 |
 | The bully | 23.00% | ~7 |
-| The beast in the Oval Office | 20.00% | ~6 |
-| Blood Red Island | 20.00% | ~6 |
-| Bread and bocaua | 20.00% | ~6 |
-| Fanatacism is... poisonous | 20.00% | ~6 |
-| The adventurer | 20.00% | ~6 |
-| Pulp! The Beyond | 20.00% | ~6 |
-| The barbarian invasions | 20.00% | ~6 |
-| America had no Faith | 20.00% | ~6 |
-| The scholar | 17.00% | ~5 |
-| Pulp! True Adventures | 17.00% | ~5 |
+| The beast in the Oval Office | 19.00% | ~6 |
+| Blood Red Island | 19.00% | ~6 |
+| Bread and bocaua | 19.00% | ~6 |
+| Fanatacism is... poisonous | 19.00% | ~6 |
+| The adventurer | 19.00% | ~6 |
+| Pulp! The Beyond | 19.00% | ~6 |
+| The barbarian invasions | 19.00% | ~6 |
+| America had no Faith | 19.00% | ~6 |
+| The scholar | 16.00% | ~5 |
+| Pulp! True Adventures | 16.00% | ~5 |
 | Pulp! Tales from the Crypt | 13.00% | ~4 |
 | ECO mode | 13.00% | ~4 |
-| Vaccine fans | 7.00% | ~2 |
-| A new Hindenburg | 7.00% | ~2 |
+| Vaccine fans | 6.00% | ~2 |
+| A new Hindenburg | 6.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
 | Pulp! Skeleton Hand | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 478)  
+Progressed: 31 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,3 +70,4 @@ Completed: 0 (0.00%) (Ranked 317)
 | 2023-10-13 | 28 | 0 |
 | 2023-10-15 | 29 | 0 |
 | 2023-10-17 | 30 | 0 |
+| 2023-10-21 | 31 | 0 |

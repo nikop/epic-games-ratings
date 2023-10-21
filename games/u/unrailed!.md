@@ -6,16 +6,16 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,023 |
-| Incurious | 17.00% | ~111,466 |
-| Climate Change | 16.00% | ~104,909 |
-| Stroller | 15.00% | ~98,353 |
-| Advanced Hiker | 13.00% | ~85,239 |
-| Toy Train | 13.00% | ~85,239 |
-| Hiker | 12.00% | ~78,682 |
+| Advanced Stroller | 18.00% | ~118,024 |
+| Incurious | 17.00% | ~111,467 |
+| Climate Change | 16.00% | ~104,911 |
+| Stroller | 15.00% | ~98,354 |
+| Advanced Hiker | 13.00% | ~85,240 |
+| Toy Train | 13.00% | ~85,240 |
+| Hiker | 12.00% | ~78,683 |
 | Mojave Courier | 6.00% | ~39,341 |
-| Saved by Nausicaä | 5.00% | ~32,784 |
-| Advanced Voyager | 4.00% | ~26,227 |
+| Saved by Nausicaä | 5.00% | ~32,785 |
+| Advanced Voyager | 4.00% | ~26,228 |
 | Voyager | 3.00% | ~19,671 |
 | Expert Stroller | 3.00% | ~19,671 |
 | Orient Express | 3.00% | ~19,671 |
@@ -23,7 +23,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Destructionist | 3.00% | ~19,671 |
 | Expert Hiker | 2.00% | ~13,114 |
 | Lost | 2.00% | ~13,114 |
-| Rocketman | 0.80% | ~5,245 |
+| Rocketman | 0.80% | ~5,246 |
 | Expert Voyager | 0.70% | ~4,590 |
 | Shopaholic | 0.70% | ~4,590 |
 | Nanuk | 0.60% | ~3,934 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~656 |
 | 20 Miles under the Sea | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,684 (Ranked 27)  
+Progressed: 655,691 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 12 (0.00%) (Ranked 317)
 | 2023-10-18 | 655,256 | 12 |
 | 2023-10-19 | 655,431 | 12 |
 | 2023-10-20 | 655,684 | 12 |
+| 2023-10-21 | 655,691 | 12 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 279)  
 Sum: 1,582 (Ranked 223)  

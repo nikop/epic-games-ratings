@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~28,606 |
-| It wakes | 3.00% | ~28,606 |
-| Skillful | 3.00% | ~28,606 |
-| No one left behind | 2.00% | ~19,070 |
-| Medic | 2.00% | ~19,070 |
-| Handyman | 2.00% | ~19,070 |
-| Not half bad | 2.00% | ~19,070 |
-| Apt Survivor | 2.00% | ~19,070 |
-| Survival Treasures | 2.00% | ~19,070 |
-| I | 2.00% | ~19,070 |
-| Sorted | 2.00% | ~19,070 |
-| Healthy Obsession | 2.00% | ~19,070 |
-| Resurgence | 2.00% | ~19,070 |
-| Make Some Noise | 2.00% | ~19,070 |
-| The Grand Sacrifice | 1.00% | ~9,535 |
-| Agonizing Escape | 1.00% | ~9,535 |
-| Backdoor Escape | 1.00% | ~9,535 |
-| I've got your back | 1.00% | ~9,535 |
-| Nerves of steel | 1.00% | ~9,535 |
-| Perfect Escape | 1.00% | ~9,535 |
-| Perfect Killing | 1.00% | ~9,535 |
-| Bloody Millionaire | 1.00% | ~9,535 |
-| Apt Killer | 1.00% | ~9,535 |
-| Risk it all | 1.00% | ~9,535 |
-| Vulture | 1.00% | ~9,535 |
-| II | 1.00% | ~9,535 |
-| Engineer | 1.00% | ~9,535 |
-| Wounded Healer | 1.00% | ~9,535 |
-| Close Shave | 1.00% | ~9,535 |
-| Preemptive Strike | 1.00% | ~9,535 |
-| Humanitarian | 1.00% | ~9,535 |
-| Second Act | 1.00% | ~9,535 |
-| III | 0.90% | ~8,582 |
-| With Scars to Show | 0.90% | ~8,582 |
-| Escape Artist | 0.80% | ~7,628 |
-| First to the Punch | 0.80% | ~7,628 |
-| Every Last Drop | 0.80% | ~7,628 |
-| Flight to Freedom | 0.80% | ~7,628 |
-| A Fast Death | 0.80% | ~7,628 |
-| Rebuilding The Borgo | 0.80% | ~7,628 |
+| Zealous | 3.00% | ~28,608 |
+| It wakes | 3.00% | ~28,608 |
+| Skillful | 3.00% | ~28,608 |
+| No one left behind | 2.00% | ~19,072 |
+| Medic | 2.00% | ~19,072 |
+| Handyman | 2.00% | ~19,072 |
+| Not half bad | 2.00% | ~19,072 |
+| Bloody Millionaire | 2.00% | ~19,072 |
+| Apt Survivor | 2.00% | ~19,072 |
+| Survival Treasures | 2.00% | ~19,072 |
+| I | 2.00% | ~19,072 |
+| Sorted | 2.00% | ~19,072 |
+| Healthy Obsession | 2.00% | ~19,072 |
+| Resurgence | 2.00% | ~19,072 |
+| Make Some Noise | 2.00% | ~19,072 |
+| The Grand Sacrifice | 1.00% | ~9,536 |
+| Agonizing Escape | 1.00% | ~9,536 |
+| Backdoor Escape | 1.00% | ~9,536 |
+| I've got your back | 1.00% | ~9,536 |
+| Nerves of steel | 1.00% | ~9,536 |
+| Perfect Escape | 1.00% | ~9,536 |
+| Perfect Killing | 1.00% | ~9,536 |
+| Apt Killer | 1.00% | ~9,536 |
+| Risk it all | 1.00% | ~9,536 |
+| Vulture | 1.00% | ~9,536 |
+| II | 1.00% | ~9,536 |
+| Engineer | 1.00% | ~9,536 |
+| Wounded Healer | 1.00% | ~9,536 |
+| Close Shave | 1.00% | ~9,536 |
+| Preemptive Strike | 1.00% | ~9,536 |
+| Humanitarian | 1.00% | ~9,536 |
+| Second Act | 1.00% | ~9,536 |
+| III | 0.90% | ~8,583 |
+| With Scars to Show | 0.90% | ~8,583 |
+| Escape Artist | 0.80% | ~7,629 |
+| First to the Punch | 0.80% | ~7,629 |
+| Every Last Drop | 0.80% | ~7,629 |
+| Flight to Freedom | 0.80% | ~7,629 |
+| A Fast Death | 0.80% | ~7,629 |
+| Rebuilding The Borgo | 0.80% | ~7,629 |
 | Blood on your hands | 0.70% | ~6,675 |
 | Made it out alive! | 0.70% | ~6,675 |
 | III-50 | 0.70% | ~6,675 |
@@ -60,18 +60,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.70% | ~6,675 |
 | Chorus of Chaos | 0.70% | ~6,675 |
 | One More Step | 0.70% | ~6,675 |
-| Gifts for the Fog | 0.60% | ~5,721 |
-| Shock Therapy | 0.60% | ~5,721 |
-| All Aboard | 0.60% | ~5,721 |
-| House of Pain | 0.60% | ~5,721 |
-| Cottage Owner | 0.60% | ~5,721 |
-| Escaping the Nightmare | 0.60% | ~5,721 |
-| Campbell's Chapel Legacy | 0.60% | ~5,721 |
-| Ancestor's Rite | 0.60% | ~5,721 |
-| Cutting Out | 0.60% | ~5,721 |
-| Outrun Evil | 0.60% | ~5,721 |
-| Lifting The Fog | 0.60% | ~5,721 |
-| MU/TH/UR Dearest | 0.60% | ~5,721 |
+| Gifts for the Fog | 0.60% | ~5,722 |
+| Shock Therapy | 0.60% | ~5,722 |
+| All Aboard | 0.60% | ~5,722 |
+| House of Pain | 0.60% | ~5,722 |
+| Cottage Owner | 0.60% | ~5,722 |
+| Escaping the Nightmare | 0.60% | ~5,722 |
+| Campbell's Chapel Legacy | 0.60% | ~5,722 |
+| Ancestor's Rite | 0.60% | ~5,722 |
+| Cutting Out | 0.60% | ~5,722 |
+| Outrun Evil | 0.60% | ~5,722 |
+| Lifting The Fog | 0.60% | ~5,722 |
+| MU/TH/UR Dearest | 0.60% | ~5,722 |
 | A bite for the Entity | 0.50% | ~4,768 |
 | Blood on your face | 0.50% | ~4,768 |
 | Hemophobia | 0.50% | ~4,768 |
@@ -91,6 +91,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.40% | ~3,814 |
 | Broken Bodies | 0.40% | ~3,814 |
 | Insult and Injury | 0.40% | ~3,814 |
+| High Speed Pursuit | 0.40% | ~3,814 |
 | Complete the Evolution | 0.40% | ~3,814 |
 | Kitted Out | 0.40% | ~3,814 |
 | Blood in your mouth | 0.30% | ~2,861 |
@@ -103,7 +104,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Punch Drunk | 0.30% | ~2,861 |
 | Prowler | 0.30% | ~2,861 |
 | Triage | 0.30% | ~2,861 |
-| High Speed Pursuit | 0.30% | ~2,861 |
 | Hack the Mainframe | 0.30% | ~2,861 |
 | A feast for the Entity | 0.20% | ~1,907 |
 | In the void she walks | 0.20% | ~1,907 |
@@ -111,6 +111,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Happy Holidays | 0.20% | ~1,907 |
 | Dismantle | 0.20% | ~1,907 |
 | Denied! | 0.20% | ~1,907 |
+| Bodyguard | 0.20% | ~1,907 |
 | Death of Ignorance | 0.20% | ~1,907 |
 | Viral Video | 0.20% | ~1,907 |
 | Ghost in the Machine | 0.20% | ~1,907 |
@@ -178,7 +179,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Skilled Generalist | 0.10% | ~954 |
 | Bloodbath | 0.10% | ~954 |
 | Adept Oni | 0.10% | ~954 |
-| Bodyguard | 0.10% | ~954 |
 | Adept Yui | 0.10% | ~954 |
 | Bound and Downed | 0.10% | ~954 |
 | Quick Draw | 0.10% | ~954 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~954 |
 | Adept Ripley | 0.10% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 953,522 (Ranked 14)  
+Progressed: 953,616 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,6 +420,7 @@ Completed: 52 (0.01%) (Ranked 299)
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
 | 2023-10-20 | 953,522 | 52 |
+| 2023-10-21 | 953,616 | 52 |
 ## Awards
 Max (Diverse Characters): 34,271  (Ranked 15)  
 Sum: 264,676 (Ranked 13)  

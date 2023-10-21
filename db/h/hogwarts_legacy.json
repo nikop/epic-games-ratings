@@ -9199,10 +9199,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46263,
       "NumberOfAwardsMax": 23665
+    },
+    {
+      "Time": "2023-10-20T23:59:29.0179281+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46267,
+      "NumberOfAwardsMax": 23665
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46263,
+  "NumberOfAwards": 46267,
   "NumberOfAwardsMax": 23665,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9240,7 +9246,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1150
+      "Count": 1154
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9279,7 +9285,7 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 298622,
+  "EOS_Progressed": 298624,
   "EOS_Completed": 490,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 5,
@@ -28884,6 +28890,11 @@
       "Time": "2023-10-20T23:08:54.881552+00:00",
       "NumProgressed": 298622,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-21T00:07:32.8480797+00:00",
+      "NumProgressed": 298624,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 45,
@@ -28895,7 +28906,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44793
+      "UsersEstimate": 44794
     },
     {
       "ID": "PFA_10",
@@ -28903,7 +28914,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_11",
@@ -28911,7 +28922,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_12",
@@ -28919,7 +28930,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_13",
@@ -28951,7 +28962,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_17",
@@ -29023,7 +29034,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_25",
@@ -29079,7 +29090,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_31",
@@ -29151,7 +29162,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32848
+      "UsersEstimate": 32849
     },
     {
       "ID": "PFA_4",
@@ -29254,16 +29265,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298622,
+      "Progressed": 298624,
       "Completed": 490
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-20T22:00:19.2477672+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:08:54.8815515+00:00",
+  "LastChanged": "2023-10-20T23:59:29.0179279+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:07:32.8480787+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-20T23:00:05.5925522+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:08:54.8817443+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:59:29.0179297+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:07:32.8482564+00:00"
 }

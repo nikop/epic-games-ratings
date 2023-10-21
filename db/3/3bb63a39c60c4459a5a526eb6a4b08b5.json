@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -3388,9 +3388,9 @@
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 100
     },
     {
       "ID": "Reviewer",
@@ -3451,8 +3451,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-20T23:07:43.4433178+00:00",
+  "LastChanged_Achievements": "2023-10-21T00:06:30.5467466+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-20T22:57:32.1842849+00:00",
-  "LastUpdate_Achievements": "2023-10-20T23:07:43.4433714+00:00"
+  "LastUpdate_Ratings": "2023-10-20T23:57:31.0907834+00:00",
+  "LastUpdate_Achievements": "2023-10-21T00:06:30.5468011+00:00"
 }
