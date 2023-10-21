@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -391,9 +391,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2055,
+  "EOS_Progressed": 2057,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6226,6 +6226,11 @@
       "Time": "2023-10-21T09:05:13.086937+00:00",
       "NumProgressed": 2055,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T18:08:00.5947726+00:00",
+      "NumProgressed": 2057,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6277,7 +6282,7 @@
       "Name": "Beast War Machines",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "blueprintupgrades",
@@ -6285,7 +6290,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "cauldronliberator",
@@ -6317,7 +6322,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "dailyquestcompletionist",
@@ -6357,7 +6362,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ebonyjungleliberator",
@@ -6373,7 +6378,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "enchantingskillx5",
@@ -6389,7 +6394,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "enhancedwarmachines",
@@ -6411,9 +6416,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 391
     },
     {
       "ID": "fellowshippower",
@@ -6421,7 +6426,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "fourleafclover",
@@ -6445,7 +6450,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "gearenchanting",
@@ -6469,7 +6474,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "herewegoagain",
@@ -6485,7 +6490,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "howdoyouturnthison",
@@ -6509,7 +6514,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "jewelenchanting",
@@ -6533,7 +6538,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "lockandload",
@@ -6573,7 +6578,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "missionsdedication",
@@ -6629,7 +6634,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "prestigiousx10",
@@ -6693,7 +6698,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "thealchemist",
@@ -6709,7 +6714,7 @@
       "Name": "The Expeditioner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "thefatherofdragons",
@@ -6739,9 +6744,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 288
     },
     {
       "ID": "titanpower",
@@ -6797,7 +6802,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1913
     },
     {
       "ID": "warmachinesarmy",
@@ -6813,7 +6818,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "whatliesbehindthebush",
@@ -6829,14 +6834,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1625
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2055,
+      "Progressed": 2057,
       "Completed": 2
     }
   ],
@@ -6844,8 +6849,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-21T02:58:51.4211072+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:11:52.6206169+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:08:00.5947713+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:03:44.5334107+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:11:52.6208306+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:00:37.6935684+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:08:00.5948898+00:00"
 }

@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1500,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -3109,6 +3109,11 @@
       "Time": "2023-10-21T11:03:49.1412654+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T18:06:49.0165762+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3160,7 +3165,7 @@
       "Name": "Commandos",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Death_to_the_dictator",
@@ -3359,15 +3364,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:10:39.9613258+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:06:49.0165757+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.410552+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:07:41.1603147+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:10:39.9613952+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:04:01.1258812+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:06:49.0166157+00:00"
 }

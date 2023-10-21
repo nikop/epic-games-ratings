@@ -4,10 +4,10 @@
   "ProductSlug": "nioh-2-the-complete-edition",
   "Ranking_Rating": 82,
   "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-23T14:56:18+00:00",
@@ -4103,6 +4103,6 @@
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
   "LastChanged": "2023-10-20T12:00:22.0153901+00:00",
   "LastUpdate_AppInfo": "2023-10-21T09:57:09.5295981+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:06:46.6225365+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:13:07.0108179+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:03:18.3332348+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:09:15.0696464+00:00"
 }

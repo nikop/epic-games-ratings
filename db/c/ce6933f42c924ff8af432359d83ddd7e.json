@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Completed_Percentage": 4.22,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1114,6 +1114,11 @@
       "Time": "2023-10-21T17:12:51.4901326+00:00",
       "NumProgressed": 426,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-21T18:08:59.8851305+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1166,7 +1171,7 @@
       "Name": "Evil plan",
       "Percentage": 47,
       "XP": 85,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1198,21 +1203,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:12:51.4901318+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:08:59.8851296+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:57:21.2553187+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:09:19.839168+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:12:51.4901571+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:05:36.9359651+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:08:59.8851465+00:00"
 }

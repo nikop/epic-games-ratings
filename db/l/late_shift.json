@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -965,6 +965,11 @@
       "Time": "2023-10-21T16:06:58.8870681+00:00",
       "NumProgressed": 523,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-21T18:08:02.2326874+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -976,7 +981,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1014,9 +1019,9 @@
       "ID": "ENDING_4",
       "SetID": "8eejhlh",
       "Name": "The Fool",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     },
     {
       "ID": "ENDING_5",
@@ -1024,15 +1029,15 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ENDING_6",
       "SetID": "8eejhlh",
       "Name": "The Bribe",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 141
     },
     {
       "ID": "ENDING_7",
@@ -1046,9 +1051,9 @@
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 299
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1064,7 +1069,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "GOOD_KARMA",
@@ -1135,7 +1140,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 8
     }
   ],
@@ -1143,8 +1148,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:11:54.5508604+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:08:02.2326865+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:06:46.9229876+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:11:54.5508808+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:03:18.4981469+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:08:02.2327085+00:00"
 }

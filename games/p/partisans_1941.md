@@ -30,14 +30,14 @@ Number of Ratings: 98  (23.09.2022)
 | Experienced Strategist | 2.00% | ~30 |
 | How?! | 1.00% | ~15 |
 | Tough as Nails | 0.50% | ~8 |
-| Commandos | 0.30% | ~4 |
+| Commandos | 0.30% | ~5 |
 | We Weren't There | 0.20% | ~3 |
 | Inspector General | 0.10% | ~2 |
 | Defense of Steel | 0.10% | ~2 |
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 221)  
+Progressed: 1,501 (Ranked 221)  
 Completed: 1 (0.07%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.07%) (Ranked 265)
 | 2023-10-17 | 1,496 | 1 |
 | 2023-10-18 | 1,497 | 1 |
 | 2023-10-20 | 1,498 | 1 |
-| 2023-10-21 | 1,500 | 1 |
+| 2023-10-21 | 1,501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

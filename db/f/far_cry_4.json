@@ -2,12 +2,12 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 265,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 181,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2014-11-18T16:00:00+00:00",
@@ -2110,6 +2110,6 @@
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
   "LastChanged": "2023-10-21T11:58:25.1447938+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.6252574+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:02:25.1538785+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:11:24.4403274+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:59:22.7541381+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:07:33.3147467+00:00"
 }

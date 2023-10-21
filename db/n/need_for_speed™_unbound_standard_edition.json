@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7193,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2023-10-21T17:11:17.3077362+00:00",
       "NumProgressed": 7193,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-10-21T18:07:26.0833297+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -3823,7 +3828,7 @@
       "Name": "Serious Guap",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3889
     },
     {
       "ID": "achievement_16",
@@ -3831,7 +3836,7 @@
       "Name": "Cash Money Millionaire",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3384
     },
     {
       "ID": "achievement_17",
@@ -3839,7 +3844,7 @@
       "Name": "Flow Master",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_18",
@@ -3847,7 +3852,7 @@
       "Name": "In the Flow",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2088
     },
     {
       "ID": "achievement_19",
@@ -3855,7 +3860,7 @@
       "Name": "Rebel Without a Pause",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4897
     },
     {
       "ID": "achievement_2",
@@ -3863,7 +3868,7 @@
       "Name": "Most Wanted",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4681
     },
     {
       "ID": "achievement_20",
@@ -3871,7 +3876,7 @@
       "Name": "Style it Out",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3889
     },
     {
       "ID": "achievement_21",
@@ -3879,7 +3884,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3528
     },
     {
       "ID": "achievement_22",
@@ -3887,7 +3892,7 @@
       "Name": "Escape Artist",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3961
     },
     {
       "ID": "achievement_23",
@@ -3895,7 +3900,7 @@
       "Name": "Public Enemy",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 5970
+      "UsersEstimate": 5977
     },
     {
       "ID": "achievement_24",
@@ -3903,7 +3908,7 @@
       "Name": "Untouchable",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3889
     },
     {
       "ID": "achievement_25",
@@ -3911,7 +3916,7 @@
       "Name": "Access All Areas",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2520
     },
     {
       "ID": "achievement_26",
@@ -3919,7 +3924,7 @@
       "Name": "Full House",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_27",
@@ -3927,7 +3932,7 @@
       "Name": "B for My Name",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "achievement_28",
@@ -3935,7 +3940,7 @@
       "Name": "Bring Your A Game",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_29",
@@ -3943,7 +3948,7 @@
       "Name": "Teacher\u0027s Pet",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1584
     },
     {
       "ID": "achievement_3",
@@ -3951,7 +3956,7 @@
       "Name": "New Crew",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4537
     },
     {
       "ID": "achievement_30",
@@ -3959,7 +3964,7 @@
       "Name": "Superstar",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "achievement_31",
@@ -3967,7 +3972,7 @@
       "Name": "Top Billin\u0027",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1728
     },
     {
       "ID": "achievement_32",
@@ -3975,7 +3980,7 @@
       "Name": "Mixtape",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "achievement_33",
@@ -3983,7 +3988,7 @@
       "Name": "#Blessed",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2448
     },
     {
       "ID": "achievement_34",
@@ -3991,15 +3996,15 @@
       "Name": "The Collector",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2158
+      "UsersEstimate": 2160
     },
     {
       "ID": "achievement_35",
       "SetID": "d0n64ce",
       "Name": "Hey Speedie!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4969
     },
     {
       "ID": "achievement_36",
@@ -4007,7 +4012,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 6042
+      "UsersEstimate": 6049
     },
     {
       "ID": "achievement_37",
@@ -4015,7 +4020,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6689
+      "UsersEstimate": 6697
     },
     {
       "ID": "achievement_38",
@@ -4023,7 +4028,7 @@
       "Name": "Fashion Killa",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6409
     },
     {
       "ID": "achievement_39",
@@ -4031,7 +4036,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6474
+      "UsersEstimate": 6481
     },
     {
       "ID": "achievement_4",
@@ -4039,7 +4044,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3668
+      "UsersEstimate": 3673
     },
     {
       "ID": "achievement_40",
@@ -4047,7 +4052,7 @@
       "Name": "Kick it",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2304
     },
     {
       "ID": "achievement_41",
@@ -4055,7 +4060,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6186
+      "UsersEstimate": 6193
     },
     {
       "ID": "achievement_5",
@@ -4063,7 +4068,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2880
     },
     {
       "ID": "achievement_6",
@@ -4071,7 +4076,7 @@
       "Name": "Found Family",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2304
     },
     {
       "ID": "achievement_7",
@@ -4079,7 +4084,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6121
     },
     {
       "ID": "achievement_8",
@@ -4093,22 +4098,22 @@
       "ID": "achievement_9",
       "SetID": "d0n64ce",
       "Name": "Heaven Spot",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 7193,
+      "Progressed": 7201,
       "Completed": 41
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:11:17.3077356+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:07:26.0833291+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:01.0271507+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:02:47.3852391+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:11:17.3078388+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:59:45.0648269+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:07:26.0833885+00:00"
 }

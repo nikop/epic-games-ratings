@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 474)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,856 |
-| Pay 'n' Spray | 51.00% | ~6,752 |
-| All Dressed Up for San Fierro | 26.00% | ~3,442 |
+| Getting Started | 82.00% | ~10,858 |
+| Pay 'n' Spray | 51.00% | ~6,753 |
+| All Dressed Up for San Fierro | 26.00% | ~3,443 |
 | The American Dream | 20.00% | ~2,648 |
-| School's Out | 19.00% | ~2,515 |
+| School's Out | 19.00% | ~2,516 |
 | Smooth Moves | 17.00% | ~2,251 |
 | What happens in Las Venturas... | 15.00% | ~1,986 |
 | Today Was a Good Day | 15.00% | ~1,986 |
-| Horror of the Santa Maria | 11.00% | ~1,456 |
+| Horror of the Santa Maria | 11.00% | ~1,457 |
 | Liberty City State of Mind | 10.00% | ~1,324 |
 | The End of the Line | 8.00% | ~1,059 |
 | Original Gangster | 8.00% | ~1,059 |
@@ -25,13 +25,13 @@ Rating: 4.56 (Ranked 474)
 | Bike or Biker | 3.00% | ~397 |
 | What the City Needs | 3.00% | ~397 |
 | Yes I Speak English | 3.00% | ~397 |
-| Public Enemy No. 1 | 3.00% | ~397 |
 | A Legitimate Business | 2.00% | ~265 |
 | I’ll Have Two Number 9s | 2.00% | ~265 |
 | Who Needs Directions? | 2.00% | ~265 |
 | Swiss Army Strife | 2.00% | ~265 |
 | Double or Nothin' | 2.00% | ~265 |
 | Assassin | 2.00% | ~265 |
+| Public Enemy No. 1 | 2.00% | ~265 |
 | Ain’t Nothing But a G Thing | 2.00% | ~265 |
 | Hoopin' it Up | 1.00% | ~132 |
 | Lucky Spinner | 1.00% | ~132 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 474)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,239 (Ranked 142)  
+Progressed: 13,241 (Ranked 142)  
 Completed: 50 (0.38%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 50 (0.38%) (Ranked 196)
 | 2023-10-18 | 13,216 | 50 |
 | 2023-10-19 | 13,225 | 50 |
 | 2023-10-20 | 13,234 | 50 |
-| 2023-10-21 | 13,239 | 50 |
+| 2023-10-21 | 13,241 | 50 |
 ## Awards
 Max (Great Boss Battles): 356  (Ranked 231)  
 Sum: 570 (Ranked 305)  

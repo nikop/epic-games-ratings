@@ -4263,7 +4263,7 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 10958,
+  "EOS_Progressed": 10959,
   "EOS_Completed": 262,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 5,
@@ -16473,6 +16473,11 @@
       "Time": "2023-10-21T17:10:23.8271495+00:00",
       "NumProgressed": 10958,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-21T18:06:32.9975677+00:00",
+      "NumProgressed": 10959,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 15,
@@ -16500,7 +16505,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "Chef_Cook",
@@ -16508,7 +16513,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "Chit_Chatter",
@@ -16572,7 +16577,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7561
+      "UsersEstimate": 7562
     },
     {
       "ID": "Renovator",
@@ -16596,14 +16601,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6794
+      "UsersEstimate": 6795
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10958,
+      "Progressed": 10959,
       "Completed": 262
     }
   ],
@@ -16611,8 +16616,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-21T17:05:35.8220601+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:10:23.827149+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:06:32.997567+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:05:35.822061+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:10:23.8272478+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:02:13.7099891+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:06:32.9976535+00:00"
 }

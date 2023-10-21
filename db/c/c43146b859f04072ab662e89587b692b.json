@@ -78,9 +78,9 @@
       "ID": "MYSTERIOUS_HORRORS_ACH",
       "SetID": "cnj66m",
       "Name": "Mysterious Horrors",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PURGATORY_ACH",
@@ -149,8 +149,8 @@
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:10:39.7245153+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:06:48.398631+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.8392357+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:02:45.1427673+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:10:39.7245294+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:59:41.1149287+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:06:48.3986416+00:00"
 }

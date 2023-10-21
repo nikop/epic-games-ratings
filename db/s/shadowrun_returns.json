@@ -2,12 +2,12 @@
   "ID": "a8400ce7530e4479b32dcaf0e92fce57",
   "Name": "Shadowrun Returns",
   "ProductSlug": "shadowrun-returns",
-  "Ranking_Rating": 696,
+  "Ranking_Rating": 702,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-08-27T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 324,
   "RatingHistory": [
     {
@@ -506,6 +506,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-10-21T18:02:52.0861819+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
@@ -531,8 +537,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2023-10-13T17:04:24.2979137+00:00",
+  "LastChanged": "2023-10-21T18:02:52.0861818+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:02.3845936+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:06:18.8230251+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:11:08.5654398+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:02:52.0861827+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:07:17.4432384+00:00"
 }

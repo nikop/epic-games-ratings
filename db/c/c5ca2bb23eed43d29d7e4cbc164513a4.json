@@ -2,9 +2,9 @@
   "ID": "c5ca2bb23eed43d29d7e4cbc164513a4",
   "Name": "Outbreak Contagious Memories",
   "ProductSlug": "outbreak-contagious-memories-9e3c2a",
-  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-16T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-10-21T17:10:58.6400518+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T18:07:07.4132309+00:00",
+      "NumProgressed": 16,
       "NumCompleted": 0
     }
   ],
@@ -57,7 +62,7 @@
       "ID": "ALWAYS_RECYCLE_ACH",
       "SetID": "1ln1olh",
       "Name": "Always Recycle",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -105,7 +110,7 @@
       "ID": "CLASSIC_SAFE_ROOM_ACH",
       "SetID": "1ln1olh",
       "Name": "Classic Safe Room",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -121,7 +126,7 @@
       "ID": "DINE_AND_ASH_ACH",
       "SetID": "1ln1olh",
       "Name": "Dine and Ash",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -153,7 +158,7 @@
       "ID": "EXPERIENCE_THE_NIGHTLIFE_ACH",
       "SetID": "1ln1olh",
       "Name": "Experience the Nightlife",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -187,7 +192,7 @@
       "Name": "That Old Familiar Feeling",
       "Percentage": 113,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "THE_GUN_SURVIVOR_ACH",
@@ -209,7 +214,7 @@
       "ID": "TIME_FOR_PAYBACK_ACH",
       "SetID": "1ln1olh",
       "Name": "Time for Payback",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -241,7 +246,7 @@
       "ID": "YOU_DIED_ACH",
       "SetID": "1ln1olh",
       "Name": "You Died",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 9
     }
@@ -250,14 +255,14 @@
     {
       "ID": "1ln1olh",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-18T22:09:37.4633891+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.5727447+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:10:58.6400509+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:07:07.4132302+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.3795655+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:02:44.3229097+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:10:58.6400793+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:59:40.8037188+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:07:07.413255+00:00"
 }

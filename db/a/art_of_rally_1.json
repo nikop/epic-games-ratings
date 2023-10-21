@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10280,
+  "EOS_Progressed": 10281,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1689,6 +1689,11 @@
       "Time": "2023-10-18T20:06:25.8288236+00:00",
       "NumProgressed": 10280,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-21T18:10:02.9767148+00:00",
+      "NumProgressed": 10281,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1756,7 +1761,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1892,7 +1897,7 @@
       "Name": "where is the stage?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH_FUJIN_ODO",
@@ -1924,7 +1929,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9869
+      "UsersEstimate": 9870
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1940,7 +1945,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6169
     },
     {
       "ID": "ACH_NIGHT",
@@ -1988,7 +1993,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ACH_SNOW",
@@ -2043,15 +2048,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10280,
+      "Progressed": 10281,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:13:44.6915568+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:10:02.9767144+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.5718252+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:05:15.290732+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:13:44.6916346+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:01:53.3594066+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:10:02.9767582+00:00"
 }

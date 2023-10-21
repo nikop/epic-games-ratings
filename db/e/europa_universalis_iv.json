@@ -11031,9 +11031,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 436284,
+  "EOS_Progressed": 436342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5541,
+  "EOS_NewPlayers": 5558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31996,6 +31996,11 @@
       "Time": "2023-10-21T17:10:58.2102448+00:00",
       "NumProgressed": 436284,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T18:07:07.2207583+00:00",
+      "NumProgressed": 436342,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32135,7 +32140,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -32287,7 +32292,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -32399,7 +32404,7 @@
       "Name": "Blockader",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -32447,7 +32452,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -32519,7 +32524,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_cold_war",
@@ -32527,7 +32532,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "achievement_colonial_management",
@@ -32543,7 +32548,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -32663,7 +32668,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -32839,7 +32844,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "achievement_forever_golden",
@@ -33007,7 +33012,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17451
+      "UsersEstimate": 17454
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33031,7 +33036,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -33959,7 +33964,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -34007,7 +34012,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -34287,7 +34292,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34511,7 +34516,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -34559,7 +34564,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -34671,7 +34676,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17451
+      "UsersEstimate": 17454
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -34703,7 +34708,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17451
+      "UsersEstimate": 17454
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -34838,21 +34843,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 436284,
+      "Progressed": 436342,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 436284,
+      "Progressed": 436342,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-21T16:00:30.5677428+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:10:58.2102442+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:07:07.2207576+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:04:42.5993004+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:10:58.2116963+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:01:25.0292271+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:07:07.2222932+00:00"
 }

@@ -28,9 +28,9 @@
 | Scientist | 48.00% | ~368 |
 | Merciless | 47.00% | ~360 |
 | Krogan Ally | 45.00% | ~345 |
+| Head Hunter | 45.00% | ~345 |
 | Missing in Action | 44.00% | ~337 |
 | Very Elusive | 44.00% | ~337 |
-| Head Hunter | 44.00% | ~337 |
 | Sentinel Ally | 43.00% | ~329 |
 | Scholar | 43.00% | ~329 |
 | Operative | 42.00% | ~322 |
@@ -60,21 +60,21 @@
 | Catharsis | 31.00% | ~237 |
 | Big Game Hunter | 31.00% | ~237 |
 | Agent | 31.00% | ~237 |
+| Driven | 31.00% | ~237 |
 | Focused | 30.00% | ~230 |
 | Cat's in the Cradle | 30.00% | ~230 |
 | Fade Away | 30.00% | ~230 |
 | Treason | 30.00% | ~230 |
 | Digital Exorcist | 30.00% | ~230 |
-| Driven | 30.00% | ~230 |
 | Bringer of War | 30.00% | ~230 |
 | Doppelganger | 29.00% | ~222 |
 | First Aid Specialist | 28.00% | ~214 |
+| Mission Accomplished | 28.00% | ~214 |
 | Suicide Mission | 28.00% | ~214 |
+| Against All Odds | 28.00% | ~214 |
 | Friend or Foe | 28.00% | ~214 |
 | Mobilizer | 28.00% | ~214 |
 | Untouchable | 27.00% | ~207 |
-| Mission Accomplished | 27.00% | ~207 |
-| Against All Odds | 27.00% | ~207 |
 | Eye of the Hurricane | 26.00% | ~199 |
 | Giant Killer | 26.00% | ~199 |
 | A House Divided | 26.00% | ~199 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 874,
+  "EOS_Progressed": 875,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2069,6 +2069,11 @@
       "Time": "2023-10-21T12:06:40.4349128+00:00",
       "NumProgressed": 874,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T18:09:12.5776143+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2097,7 +2102,7 @@
       "Name": "Boxing Clever",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Cartographer",
@@ -2119,9 +2124,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 350
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2137,7 +2142,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "DustDancing",
@@ -2151,9 +2156,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 236
     },
     {
       "ID": "LightsOut",
@@ -2161,15 +2166,15 @@
       "Name": "Lights Out",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 254
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2177,7 +2182,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Outpatient",
@@ -2217,7 +2222,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "TragedyDocumented",
@@ -2225,7 +2230,7 @@
       "Name": "Tragedy Documented",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WelcomeToFortSolis",
@@ -2233,21 +2238,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 874,
+      "Progressed": 875,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:13:04.5018186+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:09:12.5776136+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:08:39.4852565+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:13:04.5018509+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:05:02.0380172+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:09:12.5776426+00:00"
 }

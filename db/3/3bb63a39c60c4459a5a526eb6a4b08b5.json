@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 842,
+  "EOS_Progressed": 843,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3134,6 +3134,11 @@
       "Time": "2023-10-21T17:13:12.9141661+00:00",
       "NumProgressed": 842,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T18:09:20.9172764+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3161,7 +3166,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "BigPlane",
@@ -3169,7 +3174,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "BudgetFlight",
@@ -3177,7 +3182,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Calculated",
@@ -3305,7 +3310,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LongDistance",
@@ -3417,7 +3422,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Restructuring",
@@ -3457,7 +3462,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "TimeForManagement",
@@ -3480,14 +3485,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 842,
+      "Progressed": 843,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:13:12.9141655+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:09:20.9172759+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:01:15.297658+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:13:12.9142567+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:58:23.7119899+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:09:20.9173291+00:00"
 }

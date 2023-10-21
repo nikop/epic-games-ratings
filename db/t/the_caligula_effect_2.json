@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -143,9 +143,9 @@
       "ID": "ACH_03",
       "SetID": "2eg5kgc",
       "Name": "Daily Life Begins Anew",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_04",
@@ -439,9 +439,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_41",
@@ -455,9 +455,9 @@
       "ID": "ACH_42",
       "SetID": "2eg5kgc",
       "Name": "Coup de Grace",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_43",
@@ -527,8 +527,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:16:08.6106816+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:12:05.5474154+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7902537+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:04:49.8803207+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:16:08.6107548+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:01:31.5377685+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:12:05.5474642+00:00"
 }

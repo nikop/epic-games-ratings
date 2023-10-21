@@ -1,15 +1,15 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 305)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 3.00% | ~445 |
-| Settler | 3.00% | ~445 |
-| Friendly Family | 3.00% | ~445 |
-| Play a Single Player Game | 3.00% | ~445 |
+| Explorer | 3.00% | ~446 |
+| Settler | 3.00% | ~446 |
+| Friendly Family | 3.00% | ~446 |
+| Play a Single Player Game | 3.00% | ~446 |
 | Able | 2.00% | ~297 |
 | Ambitious | 2.00% | ~297 |
 | Architect | 2.00% | ~297 |
@@ -32,43 +32,43 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 2.00% | ~297 |
 | Judaism | 2.00% | ~297 |
 | Babylonian Paganism | 2.00% | ~297 |
+| Greek Paganism | 2.00% | ~297 |
 | Naming Landmarks | 2.00% | ~297 |
 | Trade Caravan | 2.00% | ~297 |
 | Kushite Paganism | 2.00% | ~297 |
-| Regicide | 1.00% | ~148 |
-| Drillmaster | 1.00% | ~148 |
-| Brilliant | 1.00% | ~148 |
-| Fountainhead | 1.00% | ~148 |
-| Great | 1.00% | ~148 |
-| Magnificent | 1.00% | ~148 |
-| Mighty | 1.00% | ~148 |
-| Valiant | 1.00% | ~148 |
-| Wise | 1.00% | ~148 |
-| Legendary Cities | 1.00% | ~148 |
-| Able Difficulty | 1.00% | ~148 |
-| Just Difficulty | 1.00% | ~148 |
-| Artisans | 1.00% | ~148 |
-| Furious Family | 1.00% | ~148 |
-| Acropolis | 1.00% | ~148 |
-| Apadana | 1.00% | ~148 |
-| Colossus | 1.00% | ~148 |
-| Great Ziggurat | 1.00% | ~148 |
-| Ishtar Gate | 1.00% | ~148 |
-| Lighthouse | 1.00% | ~148 |
-| Musaeum | 1.00% | ~148 |
-| Necropolis | 1.00% | ~148 |
-| Pyramids | 1.00% | ~148 |
-| Learn to Play 1 | 1.00% | ~148 |
-| Learn to Play 2 | 1.00% | ~148 |
-| Manichaeism | 1.00% | ~148 |
-| Carthaginian Paganism | 1.00% | ~148 |
-| Egyptian Paganism | 1.00% | ~148 |
-| Greek Paganism | 1.00% | ~148 |
-| Roman Paganism | 1.00% | ~148 |
-| Zoroastrianism | 1.00% | ~148 |
-| Mythology | 1.00% | ~148 |
-| Win a Single Player Game | 1.00% | ~148 |
-| Kushite Pyramids | 1.00% | ~148 |
+| Regicide | 1.00% | ~149 |
+| Drillmaster | 1.00% | ~149 |
+| Brilliant | 1.00% | ~149 |
+| Fountainhead | 1.00% | ~149 |
+| Great | 1.00% | ~149 |
+| Magnificent | 1.00% | ~149 |
+| Mighty | 1.00% | ~149 |
+| Valiant | 1.00% | ~149 |
+| Wise | 1.00% | ~149 |
+| Legendary Cities | 1.00% | ~149 |
+| Able Difficulty | 1.00% | ~149 |
+| Just Difficulty | 1.00% | ~149 |
+| Artisans | 1.00% | ~149 |
+| Furious Family | 1.00% | ~149 |
+| Acropolis | 1.00% | ~149 |
+| Apadana | 1.00% | ~149 |
+| Colossus | 1.00% | ~149 |
+| Great Ziggurat | 1.00% | ~149 |
+| Ishtar Gate | 1.00% | ~149 |
+| Lighthouse | 1.00% | ~149 |
+| Musaeum | 1.00% | ~149 |
+| Necropolis | 1.00% | ~149 |
+| Pyramids | 1.00% | ~149 |
+| Learn to Play 1 | 1.00% | ~149 |
+| Learn to Play 2 | 1.00% | ~149 |
+| Manichaeism | 1.00% | ~149 |
+| Carthaginian Paganism | 1.00% | ~149 |
+| Egyptian Paganism | 1.00% | ~149 |
+| Roman Paganism | 1.00% | ~149 |
+| Zoroastrianism | 1.00% | ~149 |
+| Mythology | 1.00% | ~149 |
+| Win a Single Player Game | 1.00% | ~149 |
+| Kushite Pyramids | 1.00% | ~149 |
 | Conqueror | 0.90% | ~134 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
@@ -80,20 +80,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.80% | ~119 |
 | Mausoleum | 0.80% | ~119 |
 | Learn to Play 3 | 0.80% | ~119 |
+| Power to the People | 0.80% | ~119 |
 | Points Victory | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
+| Riders | 0.70% | ~104 |
+| Statesmen | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Greece | 0.70% | ~104 |
-| Power to the People | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
+| Economic Reform | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
 | Landowners | 0.60% | ~89 |
-| Riders | 0.60% | ~89 |
-| Statesmen | 0.60% | ~89 |
 | Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
@@ -102,8 +103,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
-| Economic Reform | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |
+| Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
 | Legalism | 0.60% | ~89 |
 | Redemption | 0.60% | ~89 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.50% | ~74 |
 | Hittite Paganism | 0.50% | ~74 |
 | Industrial Progress | 0.50% | ~74 |
-| Dualism | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
 | Turreted Elephant | 0.50% | ~74 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.40% | ~59 |
 | Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
+| Cao'an | 0.40% | ~59 |
 | Adur Burzen-Mihr | 0.40% | ~59 |
 | Learn to Play 5 | 0.40% | ~59 |
 | Egypt | 0.40% | ~59 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Peacemaker | 0.30% | ~45 |
-| Cao'an | 0.30% | ~45 |
 | Old World Order | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
 | Cataphract Archer | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,848 (Ranked 139)  
+Progressed: 14,852 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,848 | 5 |
+| 2023-10-21 | 14,852 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,851 (Ranked 211)  

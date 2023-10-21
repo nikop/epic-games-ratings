@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.80% | ~1,103 |
 | Magical Harmony | 0.80% | ~1,103 |
 | A Notch Above the Rest | 0.70% | ~965 |
+| A Ronin Reborn | 0.70% | ~965 |
 | The King's Caprice | 0.70% | ~965 |
 | Big Game Hunting | 0.70% | ~965 |
 | Scrapbooker | 0.70% | ~965 |
@@ -72,7 +73,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Top of the World | 0.60% | ~828 |
 | Proud Paladin | 0.60% | ~828 |
 | Above the Norm | 0.60% | ~828 |
-| A Ronin Reborn | 0.60% | ~828 |
 | Thirst for Knowledge | 0.60% | ~828 |
 | Booty by the Boatload | 0.60% | ~828 |
 | Archivist | 0.60% | ~828 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,922 (Ranked 74)  
+Progressed: 137,923 (Ranked 74)  
 Completed: 171 (0.12%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 171 (0.12%) (Ranked 244)
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
 | 2023-10-20 | 137,884 | 171 |
-| 2023-10-21 | 137,922 | 171 |
+| 2023-10-21 | 137,923 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 73)  
 Sum: 27,418 (Ranked 50)  

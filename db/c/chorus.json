@@ -307,7 +307,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1250,
+  "EOS_Progressed": 1251,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -2292,6 +2292,11 @@
       "Time": "2023-10-21T15:11:11.252143+00:00",
       "NumProgressed": 1250,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-21T18:11:11.6467518+00:00",
+      "NumProgressed": 1251,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2319,7 +2324,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Finish5SideMissions",
@@ -2335,7 +2340,7 @@
       "Name": "Paragon",
       "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "GatlingVsArmor",
@@ -2367,7 +2372,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "MasteryOfCombat",
@@ -2415,7 +2420,7 @@
       "Name": "Power Chord",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -2423,7 +2428,7 @@
       "Name": "Uneasy Alliance",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "MissionDefenderOfTheWeak",
@@ -2431,7 +2436,7 @@
       "Name": "Payback",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2447,7 +2452,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "MissionEosReturn",
@@ -2487,7 +2492,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2503,7 +2508,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -2511,7 +2516,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "MissionSalvage",
@@ -2527,7 +2532,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "MissionShipyard",
@@ -2535,7 +2540,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "MissionSlayingChimera",
@@ -2543,7 +2548,7 @@
       "Name": "The Path Forward",
       "Percentage": 45,
       "XP": 70,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "MissionTemple",
@@ -2591,7 +2596,7 @@
       "Name": "Crash Test",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "RiteOfTheHunt",
@@ -2599,7 +2604,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "RiteOfTheStar",
@@ -2631,7 +2636,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "WinARace",
@@ -2646,15 +2651,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1250,
+      "Progressed": 1251,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-21T17:14:34.4620132+00:00",
+  "LastChanged_Achievements": "2023-10-21T18:11:11.6467512+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:33.850098+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:00:58.2637068+00:00",
-  "LastUpdate_Achievements": "2023-10-21T17:14:34.4620954+00:00"
+  "LastUpdate_Ratings": "2023-10-21T17:58:10.6235206+00:00",
+  "LastUpdate_Achievements": "2023-10-21T18:11:11.6467995+00:00"
 }
