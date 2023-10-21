@@ -784,7 +784,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43357,
+  "EOS_Progressed": 43359,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 0,
@@ -21439,6 +21439,11 @@
       "Time": "2023-10-21T07:08:29.4087923+00:00",
       "NumProgressed": 43357,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T08:06:29.0933393+00:00",
+      "NumProgressed": 43359,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21490,7 +21495,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11706
+      "UsersEstimate": 11707
     },
     {
       "ID": "goals180",
@@ -21530,7 +21535,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "journeyer",
@@ -21761,15 +21766,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43357,
+      "Progressed": 43359,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-12T08:00:34.9108004+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:08:29.4087919+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:06:29.0933385+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:17.6286578+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:59:59.2329508+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:08:29.4089958+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:02.9706896+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:06:29.0934933+00:00"
 }

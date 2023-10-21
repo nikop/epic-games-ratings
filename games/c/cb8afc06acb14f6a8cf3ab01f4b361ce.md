@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~107,607 |
-| May the Torchbearer light our way | 36.00% | ~101,943 |
-| A powerful aura was here | 23.00% | ~65,130 |
-| Let's raise the stakes!! | 10.00% | ~28,318 |
-| Your wounds… They are healing so fast! | 6.00% | ~16,991 |
-| Rumors are true | 5.00% | ~14,159 |
-| Pride is a sin, young Knight | 5.00% | ~14,159 |
-| Bring it on! | 5.00% | ~14,159 |
-| We'll be careful | 4.00% | ~11,327 |
-| Back to your senses | 3.00% | ~8,495 |
-| They tricked me | 2.00% | ~5,664 |
-| We need to talk | 2.00% | ~5,664 |
-| They won't last long | 2.00% | ~5,664 |
-| I took a risk | 2.00% | ~5,664 |
+| The touch of Chaos | 38.00% | ~107,635 |
+| May the Torchbearer light our way | 36.00% | ~101,970 |
+| A powerful aura was here | 23.00% | ~65,147 |
+| Let's raise the stakes!! | 10.00% | ~28,325 |
+| Your wounds… They are healing so fast! | 6.00% | ~16,995 |
+| Rumors are true | 5.00% | ~14,162 |
+| Pride is a sin, young Knight | 5.00% | ~14,162 |
+| Bring it on! | 5.00% | ~14,162 |
+| We'll be careful | 4.00% | ~11,330 |
+| Back to your senses | 3.00% | ~8,497 |
+| They tricked me | 2.00% | ~5,665 |
+| We need to talk | 2.00% | ~5,665 |
+| They won't last long | 2.00% | ~5,665 |
+| I took a risk | 2.00% | ~5,665 |
 | I feel drawn to it | 1.00% | ~2,832 |
 | Here to stay | 1.00% | ~2,832 |
 | Counting on you | 1.00% | ~2,832 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 906)
 | We strike as one | 0.10% | ~283 |
 | Chaos be damned! | 0.10% | ~283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283,176 (Ranked 49)  
+Progressed: 283,249 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,11 +74,11 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-18 | 279,492 | 1 |
 | 2023-10-19 | 280,964 | 1 |
 | 2023-10-20 | 282,646 | 1 |
-| 2023-10-21 | 283,176 | 1 |
+| 2023-10-21 | 283,249 | 1 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 468)  
+Max (Great Boss Battles): 33  (Ranked 469)  
 Sum: 33 (Ranked 492)  
-Diff (max vs sum): -24  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 41 |

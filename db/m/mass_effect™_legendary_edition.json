@@ -2493,9 +2493,9 @@
       "ID": "achievement_48",
       "SetID": "d252ncf",
       "Name": "The Krogan",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_49",
@@ -2885,9 +2885,9 @@
       "ID": "achievement_92",
       "SetID": "d252ncf",
       "Name": "Fact Finder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_93",
@@ -2961,8 +2961,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:08:34.1142978+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:06:32.427174+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:04:02.770179+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:08:34.1145557+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:03:05.6636745+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:06:32.4275021+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 65.00% | ~74 |
-| Hunting Season | 49.00% | ~56 |
-| Grew Bigger | 43.00% | ~49 |
-| Coffee Thermos | 42.00% | ~48 |
-| Bring It | 41.00% | ~47 |
+| Nightmare Territory | 66.00% | ~75 |
+| Hunting Season | 50.00% | ~57 |
+| Grew Bigger | 44.00% | ~50 |
+| Bring It | 43.00% | ~49 |
+| Coffee Thermos | 43.00% | ~49 |
 | Find the Light | 35.00% | ~40 |
-| Darkness Coiled | 33.00% | ~38 |
+| Darkness Coiled | 34.00% | ~39 |
 | Not the Last | 31.00% | ~35 |
-| Chased the Source | 28.00% | ~32 |
+| Chased the Source | 29.00% | ~33 |
 | Felt Good | 25.00% | ~28 |
 | Somebody's Home | 25.00% | ~28 |
 | Filling the Shape | 25.00% | ~28 |
@@ -20,8 +20,8 @@
 | Yippee Ki-yay | 24.00% | ~27 |
 | Greatest Hits | 23.00% | ~26 |
 | Aimed Ahead | 22.00% | ~25 |
+| Carry his Words | 22.00% | ~25 |
 | Ready for a Fight | 21.00% | ~24 |
-| Carry his Words | 21.00% | ~24 |
 | Into the Overlap | 20.00% | ~23 |
 | The Other Side | 20.00% | ~23 |
 | Secret Stashes | 19.00% | ~22 |

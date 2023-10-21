@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -498,9 +498,9 @@
       "ID": "ACH_FELLOW_INFLUENCER",
       "SetID": "8h8m55b",
       "Name": "Fellow Influencer",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FESTINA_LENTE",
@@ -809,8 +809,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:08:59.4661545+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:07:08.8723761+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.4016767+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:58:18.0869587+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:08:59.4662033+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:57:52.5564161+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:07:08.8724261+00:00"
 }

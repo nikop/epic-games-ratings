@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -139,9 +139,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_BOSS_01",
@@ -235,9 +235,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -409,8 +409,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:05:54.6139457+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:04:42.5793132+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:59:55.0762104+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:05:54.6139798+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:58:58.5464229+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:04:42.5793496+00:00"
 }

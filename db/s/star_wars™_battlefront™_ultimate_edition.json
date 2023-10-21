@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 762,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2089,6 +2089,11 @@
       "Time": "2023-10-21T01:48:47.2918678+00:00",
       "NumProgressed": 760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T08:08:08.0809435+00:00",
+      "NumProgressed": 762,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2133,7 +2138,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_14",
@@ -2325,7 +2330,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 686
     },
     {
       "ID": "achievement_36",
@@ -2341,7 +2346,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_38",
@@ -2363,9 +2368,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_40",
@@ -2373,7 +2378,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_41",
@@ -2405,7 +2410,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_45",
@@ -2453,7 +2458,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_50",
@@ -2523,9 +2528,9 @@
       "ID": "achievement_58",
       "SetID": "cemm4l8",
       "Name": "Alternative solution",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_59",
@@ -2539,9 +2544,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_60",
@@ -2604,13 +2609,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 762,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 760,
+      "Progressed": 762,
       "Completed": 1
     }
   ],
@@ -2618,8 +2623,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:09:27.3976334+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:08:08.0809429+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:00:29.9629682+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:09:27.3977156+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:22.4645025+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:08:08.0810493+00:00"
 }

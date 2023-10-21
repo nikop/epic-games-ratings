@@ -227,25 +227,25 @@
       "ID": "ACH_7",
       "SetID": "15cie2",
       "Name": "Egyptologist",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_8",
       "SetID": "15cie2",
       "Name": "The Last Skull",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_9",
       "SetID": "15cie2",
       "Name": "Master of Riddles",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 160,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:07:34.8700895+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:05:51.733059+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:05.8471579+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:57:34.7360355+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:07:34.870105+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:57:21.8026084+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:05:51.7330725+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 677,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 198,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 95,
@@ -788,7 +788,7 @@
   ],
   "EOS_Progressed": 225228,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21131,8 +21131,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:09:37.4838414+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:08:14.6813216+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:01.3902355+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:57:38.9957238+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:09:37.4839893+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:57:24.8236067+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:08:14.6814706+00:00"
 }

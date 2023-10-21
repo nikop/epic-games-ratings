@@ -366,7 +366,7 @@
   ],
   "EOS_Progressed": 1889,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2549,9 +2549,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2685,8 +2685,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:06:50.391186+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:05:21.4312106+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.2877358+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:01:05.4716416+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:06:50.391279+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:45.9739541+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:05:21.4312922+00:00"
 }

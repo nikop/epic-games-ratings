@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6943,
+  "EOS_Progressed": 6944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7305,6 +7305,11 @@
       "Time": "2023-10-21T06:03:03.6505987+00:00",
       "NumProgressed": 6943,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T08:03:18.4037799+00:00",
+      "NumProgressed": 6944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7396,7 +7401,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "First_Major_Ally",
@@ -7428,7 +7433,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 5068
+      "UsersEstimate": 5069
     },
     {
       "ID": "First_Ship_Designed",
@@ -7452,7 +7457,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7532,7 +7537,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "Play_1000_Hours",
@@ -7636,7 +7641,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4235
+      "UsersEstimate": 4236
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7804,7 +7809,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -7812,7 +7817,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Win_Conquest",
@@ -7891,15 +7896,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6943,
+      "Progressed": 6944,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:04:21.6595477+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:03:18.4037794+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:21.0832103+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:00:47.1197301+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:04:21.6597305+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:33.4412249+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:03:18.403932+00:00"
 }

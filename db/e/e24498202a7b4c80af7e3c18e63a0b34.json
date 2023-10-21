@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6302,
+  "EOS_Progressed": 6303,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -3852,6 +3852,11 @@
       "Time": "2023-10-21T03:09:09.8285229+00:00",
       "NumProgressed": 6302,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-21T08:09:03.4904247+00:00",
+      "NumProgressed": 6303,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3864,7 +3869,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "achievement_01_02",
@@ -3872,7 +3877,7 @@
       "Name": "Tournament Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_01_03",
@@ -3880,7 +3885,7 @@
       "Name": "Brand New Ride",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3907
+      "UsersEstimate": 3908
     },
     {
       "ID": "achievement_01_04",
@@ -3888,7 +3893,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "achievement_01_05",
@@ -3904,7 +3909,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "achievement_01_07",
@@ -3920,7 +3925,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4600
+      "UsersEstimate": 4601
     },
     {
       "ID": "achievement_01_09",
@@ -3936,7 +3941,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "achievement_02_01",
@@ -3976,7 +3981,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "achievement_02_06",
@@ -4016,7 +4021,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_03_03",
@@ -4112,7 +4117,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3152
     },
     {
       "ID": "achievement_04_04",
@@ -4120,7 +4125,7 @@
       "Name": "Flawless Racer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "achievement_04_05",
@@ -4152,7 +4157,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "achievement_04_09",
@@ -4167,7 +4172,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6302,
+      "Progressed": 6303,
       "Completed": 27
     }
   ],
@@ -4175,8 +4180,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-20T23:59:11.4876628+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:10:05.3256386+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:09:03.4904241+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:59:56.8307297+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:10:05.3257074+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:58:59.7359783+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:09:03.4904818+00:00"
 }

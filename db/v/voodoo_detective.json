@@ -4,7 +4,7 @@
   "ProductSlug": "voodoo-detective-75d493",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-24T07:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.8655037+00:00",
   "LastChanged": "2023-03-31T05:58:34.8655038+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:08.2143706+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:01:20.164729+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:06:46.5665228+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:55.2824113+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:05:18.906851+00:00"
 }

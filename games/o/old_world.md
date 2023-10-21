@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 2.00% | ~297 |
 | Strong | 2.00% | ~297 |
 | Warrior | 2.00% | ~297 |
+| Developing Cities | 2.00% | ~297 |
 | Strong Cities | 2.00% | ~297 |
 | Hanging Gardens | 2.00% | ~297 |
 | Oracle | 2.00% | ~297 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~148 |
 | Valiant | 1.00% | ~148 |
 | Wise | 1.00% | ~148 |
-| Developing Cities | 1.00% | ~148 |
 | Legendary Cities | 1.00% | ~148 |
 | Able Difficulty | 1.00% | ~148 |
 | Just Difficulty | 1.00% | ~148 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Capable | 0.50% | ~74 |
+| Ready | 0.50% | ~74 |
 | Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
 | Devout | 0.40% | ~59 |
-| Ready | 0.40% | ~59 |
 | Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
 | Adur Burzen-Mihr | 0.40% | ~59 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,829 (Ranked 139)  
+Progressed: 14,830 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,829 | 5 |
+| 2023-10-21 | 14,830 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,850 (Ranked 211)  

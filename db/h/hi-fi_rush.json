@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4156,
+  "EOS_Progressed": 4157,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7043,6 +7043,11 @@
       "Time": "2023-10-20T10:05:35.8267492+00:00",
       "NumProgressed": 4156,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-21T08:05:37.1818834+00:00",
+      "NumProgressed": 4157,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7054,7 +7059,7 @@
       "Name": "Start with a bang!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Ach002",
@@ -7078,7 +7083,7 @@
       "Name": "The Negotiator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach005",
@@ -7086,7 +7091,7 @@
       "Name": "Headliner",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach006",
@@ -7094,7 +7099,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach007",
@@ -7230,7 +7235,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "Ach024",
@@ -7254,7 +7259,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach027",
@@ -7278,7 +7283,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach030",
@@ -7382,7 +7387,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach043",
@@ -7621,13 +7626,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4156,
+      "Progressed": 4157,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2677,
+      "Progressed": 2678,
       "Completed": 1930
     }
   ],
@@ -7635,8 +7640,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:07:13.3689697+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:05:37.1818828+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.0502704+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:00:53.2661664+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:07:13.3691138+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:36.8320065+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:05:37.1820235+00:00"
 }

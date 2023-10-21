@@ -41,7 +41,7 @@
 | Completionist | 37.00% | ~281 |
 | Colony Defense | 37.00% | ~281 |
 | The Convict | 37.00% | ~281 |
-| The Krogan | 36.00% | ~273 |
+| The Krogan | 37.00% | ~281 |
 | Galactic Explorer | 36.00% | ~273 |
 | Broke, Blind, and Bedlam | 35.00% | ~266 |
 | Archivist | 34.00% | ~258 |
@@ -93,9 +93,9 @@
 | No One Left Behind | 20.00% | ~152 |
 | Hard Target | 20.00% | ~152 |
 | Saboteur | 20.00% | ~152 |
+| Fact Finder | 20.00% | ~152 |
 | Under Pressure | 19.00% | ~144 |
 | Last Witness | 19.00% | ~144 |
-| Fact Finder | 19.00% | ~144 |
 | Last Resort | 18.00% | ~137 |
 | Sabotage Specialist | 18.00% | ~137 |
 | Well Connected | 18.00% | ~137 |

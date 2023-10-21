@@ -266,9 +266,9 @@
       "ID": "13",
       "SetID": "b5e4c1b",
       "Name": "Bring It",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "14",
@@ -338,9 +338,9 @@
       "ID": "21",
       "SetID": "b5e4c1b",
       "Name": "Coffee Thermos",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "22",
@@ -426,25 +426,25 @@
       "ID": "31",
       "SetID": "b5e4c1b",
       "Name": "Carry his Words",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "32",
       "SetID": "b5e4c1b",
       "Name": "Nightmare Territory",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "33",
       "SetID": "b5e4c1b",
       "Name": "Grew Bigger",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "34",
@@ -482,9 +482,9 @@
       "ID": "38",
       "SetID": "b5e4c1b",
       "Name": "Hunting Season",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "39",
@@ -746,17 +746,17 @@
       "ID": "8",
       "SetID": "b5e4c1b",
       "Name": "Chased the Source",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "9",
       "SetID": "b5e4c1b",
       "Name": "Darkness Coiled",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -771,8 +771,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:10:38.9523184+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:09:26.7506562+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:09.1997352+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:00:59.9812246+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:10:38.9523889+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:59:43.1501352+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:09:26.7507187+00:00"
 }

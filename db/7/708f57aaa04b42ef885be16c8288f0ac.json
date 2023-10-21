@@ -2,9 +2,9 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -265,6 +265,11 @@
       "Time": "2023-10-21T07:07:29.3008989+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T08:05:48.1047704+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -349,7 +354,7 @@
       "Name": "First Time?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FuneralForTheDeath",
@@ -475,7 +480,7 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -548,13 +553,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 577,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-21T07:07:29.3008986+00:00",
+  "LastChanged_Achievements": "2023-10-21T08:05:48.1047699+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-21T07:04:06.7240551+00:00",
-  "LastUpdate_Achievements": "2023-10-21T07:07:29.3009279+00:00"
+  "LastUpdate_Ratings": "2023-10-21T08:03:07.7092628+00:00",
+  "LastUpdate_Achievements": "2023-10-21T08:05:48.1047972+00:00"
 }
