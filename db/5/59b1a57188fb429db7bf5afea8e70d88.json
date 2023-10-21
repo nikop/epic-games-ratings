@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -170,9 +170,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -321,8 +321,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:07:17.6296617+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:06:24.707381+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:11.4813248+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:57:50.1226531+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:07:17.6296763+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:57:57.5776333+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:06:24.7073977+00:00"
 }

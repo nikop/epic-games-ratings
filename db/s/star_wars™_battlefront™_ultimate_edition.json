@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2109,6 +2109,11 @@
       "Time": "2023-10-21T15:10:47.8647938+00:00",
       "NumProgressed": 767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T16:10:11.0466741+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2313,7 +2318,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_32",
@@ -2321,7 +2326,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_33",
@@ -2345,7 +2350,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_36",
@@ -2385,7 +2390,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_40",
@@ -2473,7 +2478,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_50",
@@ -2559,9 +2564,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_60",
@@ -2624,13 +2629,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 1
     }
   ],
@@ -2638,8 +2643,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:10:47.8647933+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:10:11.0466738+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:22.846224+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:01:02.1080467+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:47.8648617+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:00:47.6299174+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:10:11.0467451+00:00"
 }

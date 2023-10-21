@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Death Comes For All | 0.70% | ~23 |
-| Hands-On Research | 0.60% | ~20 |
 | Harvest No More | 0.60% | ~20 |
+| Hands-On Research | 0.50% | ~16 |
 | Strike Force | 0.40% | ~13 |
 | Suffer Not the Mutant | 0.40% | ~13 |
 | Warp Flickers | 0.30% | ~10 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,272 (Ranked 192)  
+Progressed: 3,273 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-17 | 3,268 | 0 |
 | 2023-10-19 | 3,270 | 0 |
 | 2023-10-20 | 3,272 | 0 |
+| 2023-10-21 | 3,273 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 270)  
 Sum: 474 (Ranked 318)  

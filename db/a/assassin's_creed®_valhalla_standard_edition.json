@@ -2,13 +2,13 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10975,10 +10975,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 34359,
       "NumberOfAwardsMax": 14379
+    },
+    {
+      "Time": "2023-10-21T16:04:49.8591531+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 34373,
+      "NumberOfAwardsMax": 14379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34359,
+  "NumberOfAwards": 34373,
   "NumberOfAwardsMax": 14379,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10992,7 +10998,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 9252
+      "Count": 9263
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11028,7 +11034,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1290
+      "Count": 1293
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11066,8 +11072,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-10-21T13:06:50.4017779+00:00",
+  "LastChanged": "2023-10-21T16:04:49.8591528+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:18.3360329+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:05:17.4543668+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:43.6423433+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:04:49.8591537+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:07:27.7194644+00:00"
 }

@@ -11,13 +11,19 @@
 | Royal blessing | 40.00% | ~2 |
 | Under cover | 40.00% | ~2 |
 | A hidden snake | 40.00% | ~2 |
+| Blood and sand | 40.00% | ~2 |
+| Crimson rivers | 20.00% | ~1 |
 | Power of Inquisition | 20.00% | ~1 |
+| The champion of the arena | 20.00% | ~1 |
 | Surpass the teacher | 20.00% | ~1 |
+| Vene, vidi, vici | 20.00% | ~1 |
 | By own strength | 20.00% | ~1 |
 | A solo player | 20.00% | ~1 |
+| Protect the Healer! | 20.00% | ~1 |
+| Cunning plan | 20.00% | ~1 |
 | Do it yourself | 20.00% | ~1 |
-| Blood and sand | 20.00% | ~1 |
-| Crimson rivers | 0.00% | ~0 |
+| Help of the Gell | 20.00% | ~1 |
+| She-Wolf | 20.00% | ~1 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
@@ -26,10 +32,8 @@
 | Berkanan Borgia | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | The best apprentice | 0.00% | ~0 |
-| The champion of the arena | 0.00% | ~0 |
 | Stronger than Gellian steel | 0.00% | ~0 |
 | First among Frisians | 0.00% | ~0 |
-| Vene, vidi, vici | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
 | All for one! | 0.00% | ~0 |
 | Rage | 0.00% | ~0 |
@@ -37,12 +41,9 @@
 | Never laid a finger | 0.00% | ~0 |
 | Deadly strike | 0.00% | ~0 |
 | Punish the Punisher | 0.00% | ~0 |
-| Protect the Healer! | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
-| Cunning plan | 0.00% | ~0 |
 | By someone else's hands | 0.00% | ~0 |
-| Help of the Gell | 0.00% | ~0 |
 | Trial by cold | 0.00% | ~0 |
 | There can be only one | 0.00% | ~0 |
 | Blood and honour | 0.00% | ~0 |
@@ -52,7 +53,6 @@
 | Nothing is settled | 0.00% | ~0 |
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
-| She-Wolf | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 571)  
 Completed: 0 (0.00%) (Ranked 318)  

@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 632)  
+Rating: 4.46 (Ranked 633)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,763 (Ranked 181)  
+Progressed: 3,763 (Ranked 182)  
 Completed: 11 (0.29%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

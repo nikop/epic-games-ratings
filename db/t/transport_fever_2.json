@@ -4,11 +4,11 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -653,7 +653,7 @@
   ],
   "EOS_Progressed": 1766,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4416,9 +4416,9 @@
       "ID": "achFirstCargoTransported",
       "SetID": "dgl390n",
       "Name": "First cargo item on board",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1254
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -4696,8 +4696,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-10-21T11:57:52.2042426+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:10:48.3188805+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:10:11.4530488+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:13.4175096+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:57:49.9301975+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:48.3189575+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:57:57.3447405+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:10:11.4531274+00:00"
 }

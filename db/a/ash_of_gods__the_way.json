@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -80,9 +80,9 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect2",
@@ -160,9 +160,9 @@
       "ID": "fights3",
       "SetID": "c64if4d",
       "Name": "The champion of the arena",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fights4",
@@ -192,9 +192,9 @@
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fights8",
@@ -272,9 +272,9 @@
       "ID": "special6",
       "SetID": "c64if4d",
       "Name": "Protect the Healer!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "special7",
@@ -296,9 +296,9 @@
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story1",
@@ -328,9 +328,9 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story13",
@@ -456,17 +456,17 @@
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -481,8 +481,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:06:38.661982+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T14:57:33.8449509+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:00:08.4027008+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:06:38.6620167+00:00"
+  "LastChanged_Achievements": "2023-10-21T16:05:55.5203314+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T15:57:04.1083299+00:00",
+  "LastUpdate_Ratings": "2023-10-21T16:00:03.6235089+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:05:55.5203743+00:00"
 }

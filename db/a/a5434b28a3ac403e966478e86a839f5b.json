@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 448,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1361,9 +1361,9 @@
       "ID": "ACH_xatrix",
       "SetID": "51of0eo",
       "Name": "Destroy the Moon Base",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
@@ -1376,8 +1376,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:10:05.8570578+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:09:08.7238137+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:57:51.3241672+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:05.8570737+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:57:59.5532314+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:09:08.7238292+00:00"
 }

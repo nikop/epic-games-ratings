@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2017-10-12T00:00:00+00:00",
@@ -418,9 +418,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:08:11.2889072+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:07:04.2517052+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.3062214+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:58:06.6822319+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:11.2889447+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:58:16.9649717+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:07:04.2517503+00:00"
 }

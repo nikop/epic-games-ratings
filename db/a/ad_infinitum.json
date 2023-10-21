@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "ACH_AWAITINGORDERS",
       "SetID": "88d7anj",
       "Name": "Awaiting orders",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_AWAKEN",
@@ -504,9 +504,9 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:10:19.0084771+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:09:18.8434294+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:14.1866903+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:01:54.7095098+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:19.0084958+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:01:32.5704847+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:09:18.8434523+00:00"
 }

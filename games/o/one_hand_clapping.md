@@ -7,10 +7,10 @@
 | Silent City | 20.00% | ~165 |
 | Duet Desert | 4.00% | ~33 |
 | Fermata | 3.00% | ~25 |
-| Cadenza | 2.00% | ~16 |
-| Staccato | 2.00% | ~16 |
-| Maestro Mountain | 2.00% | ~16 |
-| Fugue Forest | 2.00% | ~16 |
+| Cadenza | 2.00% | ~17 |
+| Staccato | 2.00% | ~17 |
+| Maestro Mountain | 2.00% | ~17 |
+| Fugue Forest | 2.00% | ~17 |
 | Tempo | 1.00% | ~8 |
 | Cadence | 1.00% | ~8 |
 | Maestro Mountain Glyph | 0.80% | ~7 |
@@ -33,7 +33,7 @@
 | Ostinato | 0.00% | ~0 |
 | Rondo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 249)  
+Progressed: 826 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-16 | 820 | 0 |
 | 2023-10-17 | 823 | 0 |
 | 2023-10-19 | 825 | 0 |
+| 2023-10-21 | 826 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

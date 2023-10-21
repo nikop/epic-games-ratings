@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3124,6 +3124,11 @@
       "Time": "2023-10-21T15:09:29.7741543+00:00",
       "NumProgressed": 839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T16:08:12.6504582+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3151,7 +3156,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "BigPlane",
@@ -3167,7 +3172,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Calculated",
@@ -3231,7 +3236,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "FullCompletion",
@@ -3271,7 +3276,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "LargeTerritories",
@@ -3333,9 +3338,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 327
+      "UsersEstimate": 336
     },
     {
       "ID": "NoTimeForModernization",
@@ -3359,7 +3364,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Ownway",
@@ -3407,7 +3412,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Restructuring",
@@ -3470,14 +3475,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:09:29.774154+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:08:12.6504579+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:57:43.5068716+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:09:29.7741949+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:57:50.6739537+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:08:12.650504+00:00"
 }

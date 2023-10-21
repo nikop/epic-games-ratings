@@ -9,6 +9,7 @@
 | Spirit Within | 22.00% | ~2 |
 | A Small Thirsty Thing | 11.00% | ~1 |
 | Let Me Solo Them | 11.00% | ~1 |
+| The River Styx | 11.00% | ~1 |
 | Sovereignty of Irons | 11.00% | ~1 |
 | Transformative Nature | 11.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
@@ -37,7 +38,6 @@
 | Dousing a Venerable Flame | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
 | Explorer | 0.00% | ~0 |
-| The River Styx | 0.00% | ~0 |
 | A Girl From Husker | 0.00% | ~0 |
 | Frigid Winds | 0.00% | ~0 |
 | Child of Ronkurth | 0.00% | ~0 |

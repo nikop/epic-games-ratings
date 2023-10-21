@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -4803,6 +4803,6 @@
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
   "LastChanged": "2023-10-21T04:00:07.652431+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.6129199+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:00:40.336864+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:19.6118489+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:00:29.2143011+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:09:19.2059128+00:00"
 }

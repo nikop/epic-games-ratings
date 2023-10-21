@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26929,
+  "EOS_Progressed": 26934,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15727,6 +15727,11 @@
       "Time": "2023-10-21T15:07:53.8711121+00:00",
       "NumProgressed": 26929,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T16:06:51.7930779+00:00",
+      "NumProgressed": 26934,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15816,9 +15821,9 @@
       "ID": "Diabolical",
       "SetID": "819popo",
       "Name": "Diabolical",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 189
     },
     {
       "ID": "Discovery",
@@ -16145,7 +16150,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26929,
+      "Progressed": 26934,
       "Completed": 60
     }
   ],
@@ -16153,8 +16158,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:07:53.8711117+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:04:33.4752654+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:07:53.8712103+00:00"
+  "LastChanged_Achievements": "2023-10-21T16:06:51.7930776+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
+  "LastUpdate_Ratings": "2023-10-21T16:04:06.4449173+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:06:51.793201+00:00"
 }

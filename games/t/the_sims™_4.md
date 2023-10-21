@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_sims™_4.json)  
 Rating: 4.63 (Ranked 339)  
 ## Awards
-Max (Great for Beginners): 1,323  (Ranked 133)  
-Sum: 7,338 (Ranked 109)  
-Diff (max vs sum): 24  
+Max (Great for Beginners): 1,331  (Ranked 132)  
+Sum: 7,346 (Ranked 109)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,323 |
+| This game is Great for Beginners | 1,331 |
 | This game has Diverse Characters | 1,021 |
 | This game has a Creative Community | 709 |
 | This game is Highly Recommended | 637 |
@@ -260,4 +260,4 @@ Diff (max vs sum): 24
 | 2023-10-18 | 4.63 | 1,304 | 7,243 |
 | 2023-10-19 | 4.63 | 1,313 | 7,273 |
 | 2023-10-20 | 4.63 | 1,323 | 7,309 |
-| 2023-10-21 | 4.63 | 1,323 | 7,338 |
+| 2023-10-21 | 4.63 | 1,331 | 7,346 |

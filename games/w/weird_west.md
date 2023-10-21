@@ -6,17 +6,17 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,667 |
-| Self-Improvement | 72.00% | ~1,364 |
-| Perky | 65.00% | ~1,231 |
-| Let’s Ride | 60.00% | ~1,136 |
-| Welcome to the Weird West | 57.00% | ~1,080 |
-| Dead or Alive | 56.00% | ~1,061 |
-| Full House | 37.00% | ~701 |
-| Off the Trail | 34.00% | ~644 |
-| Justice Served | 29.00% | ~549 |
-| Chain Reaction | 27.00% | ~511 |
-| Through Their Eyes | 26.00% | ~492 |
+| Unforgiven | 88.00% | ~1,668 |
+| Self-Improvement | 72.00% | ~1,365 |
+| Perky | 65.00% | ~1,232 |
+| Let’s Ride | 60.00% | ~1,138 |
+| Welcome to the Weird West | 57.00% | ~1,081 |
+| Dead or Alive | 56.00% | ~1,062 |
+| Full House | 37.00% | ~702 |
+| Off the Trail | 34.00% | ~645 |
+| Justice Served | 29.00% | ~550 |
+| Chain Reaction | 26.00% | ~493 |
+| Through Their Eyes | 26.00% | ~493 |
 | Dishonored | 25.00% | ~474 |
 | Rain of Death | 25.00% | ~474 |
 | Scholar | 25.00% | ~474 |
@@ -30,14 +30,14 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 13.00% | ~246 |
 | Turning the Tables | 13.00% | ~246 |
 | Workers' Rights | 13.00% | ~246 |
-| Elusive Prey | 12.00% | ~227 |
-| Power Behind the Pulpit | 12.00% | ~227 |
-| Something Wicked This Way Comes… | 12.00% | ~227 |
-| There is Hope | 12.00% | ~227 |
-| The Philosopher’s Stone | 10.00% | ~189 |
-| Loyalty to the Pack | 9.00% | ~170 |
-| Eternity Can Wait | 9.00% | ~170 |
-| Mystery Machine | 9.00% | ~170 |
+| Elusive Prey | 12.00% | ~228 |
+| Power Behind the Pulpit | 12.00% | ~228 |
+| Something Wicked This Way Comes… | 12.00% | ~228 |
+| There is Hope | 12.00% | ~228 |
+| The Philosopher’s Stone | 10.00% | ~190 |
+| Loyalty to the Pack | 9.00% | ~171 |
+| Eternity Can Wait | 9.00% | ~171 |
+| Mystery Machine | 9.00% | ~171 |
 | Do Not Pass Go… | 8.00% | ~152 |
 | Gold Digger | 8.00% | ~152 |
 | Monster Hunter | 8.00% | ~152 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,894 (Ranked 210)  
+Progressed: 1,896 (Ranked 210)  
 Completed: 7 (0.37%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 7 (0.37%) (Ranked 199)
 | 2023-10-18 | 1,856 | 7 |
 | 2023-10-19 | 1,868 | 7 |
 | 2023-10-20 | 1,887 | 7 |
-| 2023-10-21 | 1,894 | 7 |
+| 2023-10-21 | 1,896 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

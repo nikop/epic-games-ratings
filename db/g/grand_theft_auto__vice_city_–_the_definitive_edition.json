@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -781,7 +781,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10647,
+  "EOS_Progressed": 10648,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -11621,6 +11621,11 @@
       "Time": "2023-10-21T15:08:13.8378687+00:00",
       "NumProgressed": 10647,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T16:07:06.0726246+00:00",
+      "NumProgressed": 10648,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 34,
@@ -11800,7 +11805,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "ACH23",
@@ -11830,9 +11835,9 @@
       "ID": "ACH26",
       "SetID": "9llo822",
       "Name": "Tommy Two-Wheels",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1704
     },
     {
       "ID": "ACH27",
@@ -11903,7 +11908,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10647,
+      "Progressed": 10648,
       "Completed": 60
     }
   ],
@@ -11911,8 +11916,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-20T18:00:39.436899+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:08:13.8378684+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:07:06.0726242+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:56.7423853+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:01:42.7046634+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:13.8379376+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:01:18.4427827+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:07:06.0727149+00:00"
 }

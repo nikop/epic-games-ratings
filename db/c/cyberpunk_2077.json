@@ -13922,9 +13922,9 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 893051,
+  "EOS_Progressed": 893068,
   "EOS_Completed": 2694,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1348,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34762,6 +34762,11 @@
       "Time": "2023-10-21T15:08:03.9291856+00:00",
       "NumProgressed": 893051,
       "NumCompleted": 2694
+    },
+    {
+      "Time": "2023-10-21T16:06:58.7606177+00:00",
+      "NumProgressed": 893068,
+      "NumCompleted": 2694
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35068,9 +35073,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TrueWarrior",
@@ -35293,21 +35298,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893051,
+      "Progressed": 893068,
       "Completed": 2694
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21674,
+      "Progressed": 21691,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-21T14:59:56.0568382+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:08:03.9291845+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:06:58.7606173+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:59:56.0568391+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:03.9293271+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:59:51.9449785+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:06:58.7608048+00:00"
 }

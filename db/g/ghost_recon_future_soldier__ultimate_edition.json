@@ -2,13 +2,13 @@
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
   "ProductSlug": "ghost-recon-future-soldier",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-07-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.56,
   "NumberOfRatings": 23,
   "RatingHistory": [
     {
@@ -242,6 +242,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-21T16:04:56.5846185+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -267,8 +273,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2023-10-07T09:02:07.2958743+00:00",
+  "LastChanged": "2023-10-21T16:04:56.5846184+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:26.764198+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:05:20.3332439+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:11:35.505054+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:04:56.5846189+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:10:39.4991671+00:00"
 }

@@ -52,6 +52,7 @@
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
 | Astrarium of Holding | 3.00% | ~2 |
+| Critical Twist | 3.00% | ~2 |
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
@@ -63,7 +64,6 @@
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Astral Tinkerer | 2.00% | ~1 |
-| Critical Twist | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |

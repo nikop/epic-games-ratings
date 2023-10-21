@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24284,
+  "EOS_Progressed": 24285,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5840,6 +5840,11 @@
       "Time": "2023-10-21T15:06:12.6041752+00:00",
       "NumProgressed": 24284,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-21T16:05:36.3417641+00:00",
+      "NumProgressed": 24285,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6033,9 +6038,9 @@
       "ID": "ACH_KILL_SLUMSLEY",
       "SetID": "cdkbb11",
       "Name": "Fallout Doesn\u0027t Let You Do This",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -6202,13 +6207,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24284,
+      "Progressed": 24285,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1577,
+      "Progressed": 1578,
       "Completed": 1374
     }
   ],
@@ -6216,8 +6221,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:06:12.6041748+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:05:36.3417637+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:39.0375133+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:59:46.3431065+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:06:12.6042308+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:59:45.442115+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:05:36.3418344+00:00"
 }

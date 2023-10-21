@@ -2,13 +2,13 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 392,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -9830,10 +9830,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 29283,
       "NumberOfAwardsMax": 4669
+    },
+    {
+      "Time": "2023-10-21T15:57:28.747243+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 29291,
+      "NumberOfAwardsMax": 4669
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29283,
+  "NumberOfAwards": 29291,
   "NumberOfAwardsMax": 4669,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9853,7 +9859,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3426
+      "Count": 3429
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9877,7 +9883,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3316
+      "Count": 3319
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9889,7 +9895,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3275
+      "Count": 3277
     }
   ],
   "EOS_Progressed": 0,
@@ -9911,9 +9917,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2023-10-21T13:57:37.9680025+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:05:47.349431+00:00",
+  "LastChanged": "2023-10-21T15:57:28.7472428+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:05:17.9868046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:05.1179566+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:57:19.3326092+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:05:47.3494367+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:57:28.7472438+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:05:17.9868118+00:00"
 }

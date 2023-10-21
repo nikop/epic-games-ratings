@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "CriticalTwist",
       "SetID": "1jeo1g7",
       "Name": "Critical Twist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DenyingDestiny",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:10:49.3315068+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:10:12.1603282+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:31.1237479+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:58:49.6974529+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:10:49.3315969+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:58:50.6657502+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:10:12.1604439+00:00"
 }

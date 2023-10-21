@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5231,
+  "EOS_Progressed": 5232,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6409,6 +6409,11 @@
       "Time": "2023-10-21T15:06:30.5593881+00:00",
       "NumProgressed": 5231,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-21T16:05:49.856436+00:00",
+      "NumProgressed": 5232,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6418,9 +6423,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 262
     },
     {
       "ID": "10",
@@ -6819,13 +6824,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5231,
+      "Progressed": 5232,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5231,
+      "Progressed": 5232,
       "Completed": 6
     }
   ],
@@ -6833,8 +6838,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-20T15:01:55.5187477+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:06:30.5593878+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:05:49.8564357+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:43.1584566+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:04:03.699869+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:06:30.5594566+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:03:31.4098457+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:05:49.8565159+00:00"
 }

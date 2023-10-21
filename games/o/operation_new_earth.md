@@ -6,8 +6,8 @@ Rating: 3.38 (Ranked 1,020)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 29.00% | ~476 |
-| Defenses Online | 26.00% | ~426 |
-| Facility Online | 21.00% | ~344 |
+| Defenses Online | 26.00% | ~427 |
+| Facility Online | 21.00% | ~345 |
 | Corporal | 15.00% | ~246 |
 | Sergeant | 12.00% | ~197 |
 | Covert Operative | 12.00% | ~197 |
@@ -30,11 +30,11 @@ Rating: 3.38 (Ranked 1,020)
 | Major | 4.00% | ~66 |
 | Gold Achiever | 3.00% | ~49 |
 | Resourceful | 3.00% | ~49 |
-| Control the Skies | 3.00% | ~49 |
 | Advanced Warfare | 2.00% | ~33 |
 | Colonel | 2.00% | ~33 |
 | Seek & Destroy | 2.00% | ~33 |
 | Battle Ready | 2.00% | ~33 |
+| Control the Skies | 2.00% | ~33 |
 | General | 1.00% | ~16 |
 | Titan Tanks | 1.00% | ~16 |
 | Shock Troops | 1.00% | ~16 |
@@ -44,7 +44,7 @@ Rating: 3.38 (Ranked 1,020)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,640 (Ranked 216)  
+Progressed: 1,641 (Ranked 216)  
 Completed: 1 (0.06%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.06%) (Ranked 270)
 | 2023-10-18 | 1,624 | 1 |
 | 2023-10-19 | 1,628 | 1 |
 | 2023-10-20 | 1,632 | 1 |
-| 2023-10-21 | 1,640 | 1 |
+| 2023-10-21 | 1,641 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

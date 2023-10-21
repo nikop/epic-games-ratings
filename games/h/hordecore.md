@@ -8,13 +8,13 @@
 | Decision Maker | 80.00% | ~285 |
 | Sneaky Sneak | 78.00% | ~278 |
 | DIY | 78.00% | ~278 |
-| Master Chef | 65.00% | ~231 |
+| Master Chef | 66.00% | ~235 |
 | Master of Cards | 59.00% | ~210 |
 | Over Nine Thousaaand | 57.00% | ~203 |
 | Getting the Hang Of This | 48.00% | ~171 |
 | Collector | 29.00% | ~103 |
+| That’s What Friends Are For | 22.00% | ~78 |
 | Blow ‘Em Up | 22.00% | ~78 |
-| That’s What Friends Are For | 21.00% | ~75 |
 | Poker-Man | 20.00% | ~71 |
 | FOR THE GAUNTLET! | 20.00% | ~71 |
 | Untapped Potential | 17.00% | ~61 |

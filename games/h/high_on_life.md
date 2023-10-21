@@ -23,7 +23,7 @@ Rating: 4.65 (Ranked 304)
 | Bathe With A Giant Nude Alien | 0.90% | ~14 |
 | Lezduit! | 0.80% | ~194 |
 | Legendary Bounty Hunter | 0.80% | ~194 |
-| Fallout Doesn't Let You Do This | 0.70% | ~170 |
+| Fallout Doesn't Let You Do This | 0.80% | ~194 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
 | We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
 | Eatin' Good in the Neighborhood | 0.60% | ~146 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 304)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,284 (Ranked 122)  
+Progressed: 24,285 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 13 (0.05%) (Ranked 276)
 | 2023-10-18 | 24,252 | 13 |
 | 2023-10-19 | 24,259 | 13 |
 | 2023-10-20 | 24,273 | 13 |
-| 2023-10-21 | 24,284 | 13 |
+| 2023-10-21 | 24,285 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

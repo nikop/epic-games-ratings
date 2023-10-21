@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.43,
+  "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1460,6 +1460,11 @@
       "Time": "2023-10-21T14:08:14.6309028+00:00",
       "NumProgressed": 311,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-21T16:08:16.0871532+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1469,9 +1474,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "END_GOOD",
@@ -1485,9 +1490,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1533,9 +1538,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1557,9 +1562,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1629,9 +1634,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "PROGRESS_N2",
@@ -1639,7 +1644,7 @@
       "Name": "The great escape",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PROGRESS_N3",
@@ -1670,14 +1675,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:09:34.4009567+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:08:16.0871527+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:02:39.8799548+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:09:34.4009787+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:02:18.326349+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:08:16.0871793+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -143,6 +143,11 @@
       "Time": "2023-10-21T15:08:26.554346+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T16:07:15.1898255+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -187,7 +192,7 @@
       "Name": "Blobmeister",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -195,7 +200,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -203,15 +208,15 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -219,15 +224,15 @@
       "Name": "Team Builder",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -235,7 +240,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -243,13 +248,13 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 133
     },
@@ -257,9 +262,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -267,7 +272,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -297,9 +302,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -331,7 +336,7 @@
       "Name": "Long Live Rock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -355,7 +360,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -363,7 +368,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -394,13 +399,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 381,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:08:26.5543456+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:07:15.189825+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:24.0694484+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:58:42.7811043+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:26.5543641+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:58:42.9497773+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:07:15.1898481+00:00"
 }

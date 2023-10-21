@@ -1,48 +1,48 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 515)  
+Rating: 4.54 (Ranked 514)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 4.00% | ~28,007 |
-| Hotel California | 4.00% | ~28,007 |
-| Welcome To Hell-A | 4.00% | ~28,007 |
-| Dr. Reed, I Presume? | 3.00% | ~21,005 |
-| Git Gutte! | 3.00% | ~21,005 |
-| Bookworm | 3.00% | ~21,005 |
-| But Doctor, I am Butcho | 3.00% | ~21,005 |
-| Slayer Squad | 3.00% | ~21,005 |
-| Can't Handle the Truth | 3.00% | ~21,005 |
-| Coup de Grâce | 3.00% | ~21,005 |
-| Like Riding a Bike | 3.00% | ~21,005 |
-| Hazardous Materials | 3.00% | ~21,005 |
-| Friends Like These | 3.00% | ~21,005 |
-| Apex Predator | 3.00% | ~21,005 |
-| Zombologist | 3.00% | ~21,005 |
-| A Patton Emerges | 3.00% | ~21,005 |
-| Stacking the Deck | 3.00% | ~21,005 |
-| Personal Assistant Personally Assisted | 3.00% | ~21,005 |
-| This is My Weapon | 3.00% | ~21,005 |
-| Making Your Mark | 2.00% | ~14,003 |
-| Anger Management | 2.00% | ~14,003 |
-| Perks of the Job | 2.00% | ~14,003 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,003 |
-| Ooh, Shiny! | 2.00% | ~14,003 |
-| Humanity Distilled | 2.00% | ~14,003 |
-| I Am the Resurrection | 2.00% | ~14,003 |
-| Down with the Sickness | 2.00% | ~14,003 |
-| Our True Nature | 2.00% | ~14,003 |
+| Break A Leg | 4.00% | ~28,009 |
+| Hotel California | 4.00% | ~28,009 |
+| Welcome To Hell-A | 4.00% | ~28,009 |
+| Dr. Reed, I Presume? | 3.00% | ~21,007 |
+| Git Gutte! | 3.00% | ~21,007 |
+| Bookworm | 3.00% | ~21,007 |
+| But Doctor, I am Butcho | 3.00% | ~21,007 |
+| Slayer Squad | 3.00% | ~21,007 |
+| Can't Handle the Truth | 3.00% | ~21,007 |
+| Coup de Grâce | 3.00% | ~21,007 |
+| Like Riding a Bike | 3.00% | ~21,007 |
+| Hazardous Materials | 3.00% | ~21,007 |
+| Friends Like These | 3.00% | ~21,007 |
+| Apex Predator | 3.00% | ~21,007 |
+| Zombologist | 3.00% | ~21,007 |
+| A Patton Emerges | 3.00% | ~21,007 |
+| Stacking the Deck | 3.00% | ~21,007 |
+| Personal Assistant Personally Assisted | 3.00% | ~21,007 |
+| This is My Weapon | 3.00% | ~21,007 |
+| Making Your Mark | 2.00% | ~14,004 |
+| Anger Management | 2.00% | ~14,004 |
+| Perks of the Job | 2.00% | ~14,004 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,004 |
+| Ooh, Shiny! | 2.00% | ~14,004 |
+| Humanity Distilled | 2.00% | ~14,004 |
+| I Am the Resurrection | 2.00% | ~14,004 |
+| Down with the Sickness | 2.00% | ~14,004 |
+| Our True Nature | 2.00% | ~14,004 |
 | Smorgasbord | 1.00% | ~7,002 |
 | Jumbo Keyring | 1.00% | ~7,002 |
 | Max Headroom | 1.00% | ~7,002 |
 | Go, Bobcats! | 1.00% | ~7,002 |
 | Rising Star | 1.00% | ~7,002 |
-| On Safari | 0.80% | ~5,601 |
-| Not Even My Final Form | 0.80% | ~5,601 |
-| Internet Famous | 0.80% | ~5,601 |
-| Make it So | 0.70% | ~4,901 |
-| Variety is the Spice of Death | 0.70% | ~4,901 |
+| On Safari | 0.80% | ~5,602 |
+| Not Even My Final Form | 0.80% | ~5,602 |
+| Internet Famous | 0.80% | ~5,602 |
+| Make it So | 0.70% | ~4,902 |
+| Variety is the Spice of Death | 0.70% | ~4,902 |
 | LA Influential | 0.60% | ~4,201 |
 | Gore Horse | 0.50% | ~3,501 |
 | Sharpest Tool in the Box | 0.50% | ~3,501 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,400 |
 | Bucket List | 0.10% | ~700 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,166 (Ranked 22)  
+Progressed: 700,223 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,10 +235,10 @@ Completed: 2,242 (0.32%) (Ranked 203)
 | 2023-10-18 | 697,769 | 2,242 |
 | 2023-10-19 | 698,583 | 2,242 |
 | 2023-10-20 | 699,491 | 2,239 |
-| 2023-10-21 | 700,166 | 2,242 |
+| 2023-10-21 | 700,223 | 2,242 |
 ## Awards
 Max (Great Boss Battles): 6,526  (Ranked 56)  
-Sum: 9,782 (Ranked 91)  
+Sum: 9,785 (Ranked 91)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 457 |
 | This game has Quickly Understood Controls | 431 |
 | This game is Relaxing | 413 |
-| This game has Amazing Storytelling | 389 |
+| This game has Amazing Storytelling | 392 |
 | This game is Highly Recommended | 371 |
 | This game is Extremely Fun | 370 |
 | This game has Amazing Characters | 359 |
@@ -437,4 +437,4 @@ Diff (max vs sum): -35
 | 2023-10-18 | 4.54 | 6,489 | 9,718 |
 | 2023-10-19 | 4.54 | 6,500 | 9,745 |
 | 2023-10-20 | 4.54 | 6,509 | 9,763 |
-| 2023-10-21 | 4.54 | 6,526 | 9,782 |
+| 2023-10-21 | 4.54 | 6,526 | 9,785 |

@@ -22,9 +22,9 @@
 | You have two wishes left | 42.00% | ~13 |
 | The artist | 35.00% | ~11 |
 | The seer | 35.00% | ~11 |
+| Welcome to Hellville | 35.00% | ~11 |
 | You had one wish left | 32.00% | ~10 |
 | Et in arcadia ego | 32.00% | ~10 |
-| Welcome to Hellville | 32.00% | ~10 |
 | You've awakened the beast | 29.00% | ~9 |
 | Hate is... addictive | 29.00% | ~9 |
 | Blessed antennas | 26.00% | ~8 |

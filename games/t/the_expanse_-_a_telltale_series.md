@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 420)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~2,411 |
+| Oyedang, Kopengs | 17.00% | ~2,412 |
 | Drug Gifter | 7.00% | ~993 |
 | Bosmang | 7.00% | ~993 |
 | The Pit and the Pirates | 5.00% | ~709 |
@@ -19,7 +19,7 @@ Rating: 4.59 (Ranked 420)
 | Khan's Revenge | 4.00% | ~567 |
 | Captain Drummer | 4.00% | ~567 |
 | Celebrations are in Order | 4.00% | ~567 |
-| Stogie for Fogey | 3.00% | ~425 |
+| Stogie for Fogey | 3.00% | ~426 |
 | Doctor Approved | 2.00% | ~284 |
 | Bottoms up! | 2.00% | ~284 |
 | Thorston Mayer | 2.00% | ~284 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 420)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,183 (Ranked 140)  
+Progressed: 14,186 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 27 (0.19%) (Ranked 227)
 | 2023-10-18 | 14,108 | 26 |
 | 2023-10-19 | 14,126 | 26 |
 | 2023-10-20 | 14,164 | 26 |
-| 2023-10-21 | 14,183 | 27 |
+| 2023-10-21 | 14,186 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

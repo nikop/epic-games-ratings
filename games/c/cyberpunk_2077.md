@@ -11,6 +11,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.20% | ~1,786 |
 | Rough Landing | 0.20% | ~1,786 |
 | The High Priestess | 0.20% | ~1,786 |
+| True Soldier | 0.20% | ~1,786 |
 | All the President's Men | 0.20% | ~43 |
 | Arachnophobia | 0.20% | ~43 |
 | City Lights | 0.10% | ~893 |
@@ -45,7 +46,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.10% | ~893 |
 | Greetings from Pacifica! | 0.10% | ~893 |
 | The Jungle | 0.10% | ~893 |
-| True Soldier | 0.10% | ~893 |
 | True Warrior | 0.10% | ~893 |
 | Two Heads, One Bullet | 0.10% | ~893 |
 | Judy vs Night City | 0.10% | ~893 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,051 (Ranked 15)  
+Progressed: 893,068 (Ranked 15)  
 Completed: 2,694 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,694 (0.30%) (Ranked 208)
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
-| 2023-10-21 | 893,051 | 2,694 |
+| 2023-10-21 | 893,068 | 2,694 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 317,262 (Ranked 11)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -649,9 +649,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -792,8 +792,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-21T15:08:45.2582089+00:00",
+  "LastChanged_Achievements": "2023-10-21T16:07:29.2034546+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-21T15:04:52.0922062+00:00",
-  "LastUpdate_Achievements": "2023-10-21T15:08:45.2582982+00:00"
+  "LastUpdate_Ratings": "2023-10-21T16:04:29.0807977+00:00",
+  "LastUpdate_Achievements": "2023-10-21T16:07:29.2035361+00:00"
 }
