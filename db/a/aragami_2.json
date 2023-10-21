@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -16835,9 +16835,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "db84117",
       "Name": "Anger Management",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 872
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -17044,8 +17044,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:12:01.7431495+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:09:07.9951949+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:03.6344723+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:07:05.1328248+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:12:01.7432758+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:04:10.712214+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:09:07.9952983+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.44 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,536 |
+| Country Bumpkin | 75.00% | ~1,537 |
 | A new Journey | 74.00% | ~1,516 |
-| Departure | 73.00% | ~1,495 |
+| Departure | 73.00% | ~1,496 |
 | From X to Y | 72.00% | ~1,475 |
 | Way of Iron | 70.00% | ~1,434 |
-| Mystery Tour | 69.00% | ~1,413 |
-| We brake for nobody | 67.00% | ~1,372 |
-| Brainstorm | 65.00% | ~1,331 |
-| Mind the Gap | 65.00% | ~1,331 |
-| Travel Company | 65.00% | ~1,331 |
+| Mystery Tour | 69.00% | ~1,414 |
+| We brake for nobody | 67.00% | ~1,373 |
+| Brainstorm | 65.00% | ~1,332 |
+| Mind the Gap | 65.00% | ~1,332 |
+| Travel Company | 65.00% | ~1,332 |
 | All around the World | 62.00% | ~1,270 |
 | Right through the middle | 58.00% | ~1,188 |
-| Facility Manager | 53.00% | ~1,085 |
-| Poor Devil | 53.00% | ~1,085 |
+| Facility Manager | 53.00% | ~1,086 |
+| Poor Devil | 53.00% | ~1,086 |
 | Producer | 50.00% | ~1,024 |
-| Apprentice | 42.00% | ~860 |
+| Apprentice | 42.00% | ~861 |
 | Bridge Builder | 41.00% | ~840 |
 | Access granted | 35.00% | ~717 |
 | Going once, going twice, sold | 35.00% | ~717 |
 | Stoker | 33.00% | ~676 |
 | Bull and bear | 33.00% | ~676 |
-| Full Steam ahead | 32.00% | ~655 |
-| All mine | 30.00% | ~614 |
-| Mole | 30.00% | ~614 |
-| Financial Shark | 30.00% | ~614 |
-| Socializer | 30.00% | ~614 |
-| Country Life | 28.00% | ~573 |
+| Full Steam ahead | 32.00% | ~656 |
+| All mine | 30.00% | ~615 |
+| Mole | 30.00% | ~615 |
+| Financial Shark | 30.00% | ~615 |
+| Socializer | 30.00% | ~615 |
+| Country Life | 28.00% | ~574 |
 | General Manager | 27.00% | ~553 |
 | Hostile Takeover | 25.00% | ~512 |
 | Seven at one stroke | 24.00% | ~492 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 662)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,048 (Ranked 207)  
+Progressed: 2,049 (Ranked 207)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 2,039 | 0 |
 | 2023-10-19 | 2,043 | 0 |
 | 2023-10-20 | 2,046 | 0 |
-| 2023-10-21 | 2,048 | 0 |
+| 2023-10-21 | 2,049 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

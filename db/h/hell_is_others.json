@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 723,
+  "Ranking_Rating": 724,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 51,
@@ -1111,9 +1111,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257532,
+  "EOS_Progressed": 257534,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19201,6 +19201,11 @@
       "Time": "2023-10-21T13:12:49.7705573+00:00",
       "NumProgressed": 257532,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-21T14:10:03.3954852+00:00",
+      "NumProgressed": 257534,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -19260,7 +19265,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79835
+      "UsersEstimate": 79836
     },
     {
       "ID": "BackHomeNTimes",
@@ -19659,7 +19664,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257532,
+      "Progressed": 257534,
       "Completed": 3
     }
   ],
@@ -19667,8 +19672,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-19T18:57:30.8283269+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:12:49.7705566+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:10:03.3954849+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:45.0933759+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:01:17.1403474+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:12:49.7706827+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:59:05.2328681+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:10:03.395608+00:00"
 }

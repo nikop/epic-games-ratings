@@ -453,9 +453,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 249732,
+  "EOS_Progressed": 249735,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21018,6 +21018,11 @@
       "Time": "2023-10-21T13:13:49.2774009+00:00",
       "NumProgressed": 249732,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-21T14:10:41.3297003+00:00",
+      "NumProgressed": 249735,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21093,7 +21098,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32465
+      "UsersEstimate": 32466
     },
     {
       "ID": "ACH_HATTRICK",
@@ -21173,7 +21178,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69925
+      "UsersEstimate": 69926
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21349,7 +21354,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62433
+      "UsersEstimate": 62434
     },
     {
       "ID": "ACH_SOREAD",
@@ -21444,7 +21449,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249732,
+      "Progressed": 249735,
       "Completed": 7
     }
   ],
@@ -21452,8 +21457,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-18T22:11:28.2196234+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:13:49.2774006+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:10:41.3296999+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:29.8544864+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:04:55.95814+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:13:49.2775293+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:02:26.0710898+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:10:41.3298277+00:00"
 }

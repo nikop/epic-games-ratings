@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.30% | ~697 |
 | The Cursed Farmer | 0.30% | ~697 |
 | The Jungles of Doomspace | 0.30% | ~596 |
+| The Arena of Blood | 0.30% | ~596 |
 | Spelljammers in Training | 0.30% | ~596 |
 | Were-verpowered | 0.20% | ~465 |
 | The Ring of Regeneration | 0.20% | ~465 |
@@ -20,7 +21,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.20% | ~397 |
 | To Infinity's and Beyond | 0.20% | ~397 |
 | Legends and Lore | 0.20% | ~397 |
-| The Arena of Blood | 0.20% | ~397 |
 | Fowl Play | 0.20% | ~397 |
 | Maddening | 0.10% | ~232 |
 | Pros and CONs | 0.10% | ~232 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,448 (Ranked 59)  
+Progressed: 232,453 (Ranked 59)  
 Completed: 2,376 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -719,7 +719,7 @@ Completed: 2,376 (1.02%) (Ranked 145)
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
-| 2023-10-21 | 232,448 | 2,376 |
+| 2023-10-21 | 232,453 | 2,376 |
 ## Awards
 Max (Great for Beginners): 5,432  (Ranked 69)  
 Sum: 32,139 (Ranked 41)  

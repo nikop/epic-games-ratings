@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26907,
+  "EOS_Progressed": 26918,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 468,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15717,6 +15717,11 @@
       "Time": "2023-10-21T13:09:23.513588+00:00",
       "NumProgressed": 26907,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T14:06:18.0319597+00:00",
+      "NumProgressed": 26918,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15728,7 +15733,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Animated",
@@ -15784,7 +15789,7 @@
       "Name": "Collector",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Cultured",
@@ -15808,7 +15813,7 @@
       "Name": "Diabolical",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Discovery",
@@ -15848,7 +15853,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Fragile_Panes",
@@ -15952,7 +15957,7 @@
       "Name": "Reckless",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Rift_Destroyer",
@@ -15984,7 +15989,7 @@
       "Name": "Rivalry",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Seasoned",
@@ -16032,7 +16037,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Summoner",
@@ -16135,7 +16140,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26907,
+      "Progressed": 26918,
       "Completed": 60
     }
   ],
@@ -16143,8 +16148,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:09:23.5135875+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:06:18.0319593+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:06:10.4245119+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:09:23.513686+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:03:20.0624758+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:06:18.0320541+00:00"
 }

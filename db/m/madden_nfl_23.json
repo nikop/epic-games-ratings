@@ -3711,9 +3711,9 @@
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1575
     },
     {
       "ID": "achievement_11",
@@ -3880,8 +3880,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-19T23:57:45.6696579+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:08:24.5401609+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:05:13.4359976+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:01:30.9492218+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:08:24.5401878+00:00"
+  "LastUpdate_Ratings": "2023-10-21T13:59:20.1846058+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:05:13.4360231+00:00"
 }

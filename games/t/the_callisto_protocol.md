@@ -12,19 +12,19 @@ Rating: 4.19 (Ranked 899)
 | Chew 'Em Up | 5.00% | ~807 |
 | The Outer Way | 5.00% | ~807 |
 | Keep Fighting | 5.00% | ~203 |
-| You Need a Gun | 4.00% | ~645 |
-| I Do Belong Here | 4.00% | ~645 |
-| Two Heads Are Better Than One | 4.00% | ~645 |
-| Workplace Hazard | 4.00% | ~645 |
-| Reforged | 4.00% | ~645 |
-| If the SHU Fits... | 4.00% | ~645 |
-| Without A Paddle | 4.00% | ~645 |
-| In the Pipe, Five by Five | 4.00% | ~645 |
-| What Lies Beneath | 4.00% | ~645 |
-| Desperate Times | 4.00% | ~645 |
-| Crash Site | 4.00% | ~645 |
-| Full Circle | 4.00% | ~645 |
-| Power Up | 4.00% | ~645 |
+| You Need a Gun | 4.00% | ~646 |
+| I Do Belong Here | 4.00% | ~646 |
+| Two Heads Are Better Than One | 4.00% | ~646 |
+| Workplace Hazard | 4.00% | ~646 |
+| Reforged | 4.00% | ~646 |
+| If the SHU Fits... | 4.00% | ~646 |
+| Without A Paddle | 4.00% | ~646 |
+| In the Pipe, Five by Five | 4.00% | ~646 |
+| What Lies Beneath | 4.00% | ~646 |
+| Desperate Times | 4.00% | ~646 |
+| Crash Site | 4.00% | ~646 |
+| Full Circle | 4.00% | ~646 |
+| Power Up | 4.00% | ~646 |
 | It's Time | 4.00% | ~163 |
 | Giving Back | 3.00% | ~484 |
 | Terminated | 3.00% | ~484 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,137 (Ranked 134)  
+Progressed: 16,139 (Ranked 134)  
 Completed: 75 (0.46%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 75 (0.46%) (Ranked 182)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,137 | 75 |
+| 2023-10-21 | 16,139 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 381)  
 Sum: 449 (Ranked 323)  

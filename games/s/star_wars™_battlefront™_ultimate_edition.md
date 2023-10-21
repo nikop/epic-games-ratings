@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~688 |
-| Off to a good start | 68.00% | ~520 |
-| Do... or do not. There is no try | 52.00% | ~397 |
+| New Recruit | 90.00% | ~689 |
+| Off to a good start | 68.00% | ~521 |
+| Do... or do not. There is no try | 52.00% | ~398 |
 | A good blaster at your side | 34.00% | ~260 |
 | Scrap collector | 20.00% | ~153 |
 | I suggest a new strategy | 20.00% | ~153 |
-| Great shot, kid! | 19.00% | ~145 |
-| All right, I'll give it a try | 18.00% | ~138 |
+| Great shot, kid! | 19.00% | ~146 |
+| All right, I'll give it a try | 17.00% | ~130 |
 | Shoot first | 17.00% | ~130 |
-| The power of the Force | 16.00% | ~122 |
-| Together we can rule the galaxy | 16.00% | ~122 |
+| The power of the Force | 16.00% | ~123 |
+| Together we can rule the galaxy | 16.00% | ~123 |
 | Collector | 15.00% | ~115 |
 | Tell Jabba that I've got his money | 11.00% | ~84 |
 | Best star-pilot in the galaxy | 11.00% | ~84 |
 | Survivor | 11.00% | ~84 |
-| Never tell me the odds! | 10.00% | ~76 |
-| A cunning warrior | 10.00% | ~76 |
+| Never tell me the odds! | 10.00% | ~77 |
+| A cunning warrior | 10.00% | ~77 |
 | What's the cargo? | 9.00% | ~69 |
 | "Gonk? Gonk!" | 8.00% | ~61 |
 | Impressive. Most impressive. | 8.00% | ~61 |
 | Judge me by my size, do you? | 8.00% | ~61 |
-| Distinguished | 7.00% | ~53 |
-| A tremor in the Force | 7.00% | ~53 |
-| Support the troops | 7.00% | ~53 |
+| Distinguished | 7.00% | ~54 |
+| A tremor in the Force | 7.00% | ~54 |
+| Support the troops | 7.00% | ~54 |
 | Not bad for a little furball | 5.00% | ~38 |
 | Patience you must have | 5.00% | ~38 |
 | I've been waiting for you | 4.00% | ~31 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 764 (Ranked 250)  
+Progressed: 766 (Ranked 250)  
 Completed: 1 (0.13%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.13%) (Ranked 240)
 | 2023-10-18 | 730 | 1 |
 | 2023-10-19 | 739 | 1 |
 | 2023-10-20 | 758 | 1 |
-| 2023-10-21 | 764 | 1 |
+| 2023-10-21 | 766 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

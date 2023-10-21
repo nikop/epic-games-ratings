@@ -3965,9 +3965,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11663,
+  "EOS_Progressed": 11665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13960,6 +13960,11 @@
       "Time": "2023-10-21T13:13:49.9485623+00:00",
       "NumProgressed": 11663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T14:10:41.905527+00:00",
+      "NumProgressed": 11665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14219,7 +14224,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14339,7 +14344,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "49_Flame",
@@ -14898,21 +14903,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10445,
+      "Progressed": 10447,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11663,
+      "Progressed": 11665,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-20T21:59:55.1875466+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:13:49.9485619+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:10:41.9055265+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:02:32.8363916+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:13:49.9487436+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:00:12.2100303+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:10:41.9057108+00:00"
 }

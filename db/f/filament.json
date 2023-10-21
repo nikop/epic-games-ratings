@@ -276,9 +276,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 203815,
+  "EOS_Progressed": 203822,
   "EOS_Completed": 519,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -20096,6 +20096,11 @@
       "Time": "2023-10-21T13:09:35.6747602+00:00",
       "NumProgressed": 203815,
       "NumCompleted": 519
+    },
+    {
+      "Time": "2023-10-21T14:06:27.5539151+00:00",
+      "NumProgressed": 203822,
+      "NumCompleted": 519
     }
   ],
   "TotalAchievements": 29,
@@ -20131,7 +20136,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191586
+      "UsersEstimate": 191593
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -20179,7 +20184,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -20275,7 +20280,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -20307,7 +20312,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16305
+      "UsersEstimate": 16306
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -20338,7 +20343,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 203815,
+      "Progressed": 203822,
       "Completed": 519
     }
   ],
@@ -20346,8 +20351,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-17T16:00:20.099734+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:09:35.6747595+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:06:27.5539146+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:18.0641163+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:06:16.0081419+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:09:35.6748695+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:03:27.1861238+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:06:27.5540223+00:00"
 }

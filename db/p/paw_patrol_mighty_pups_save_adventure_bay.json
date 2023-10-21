@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -269,17 +269,17 @@
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "18",
@@ -325,9 +325,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "23",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:10:16.0579555+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:07:17.4403589+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:15.9762635+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:02:59.4728548+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:10:16.0579745+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:00:42.6660378+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:07:17.4403831+00:00"
 }

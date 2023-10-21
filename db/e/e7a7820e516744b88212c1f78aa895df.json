@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -670,6 +670,11 @@
       "Time": "2023-10-21T01:46:32.9463121+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T14:07:18.6559869+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -786,7 +791,7 @@
       "Name": "In the Good Books",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSponsorMain1",
@@ -905,14 +910,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:10:17.9012543+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:07:18.6559865+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:03:07.1723197+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:10:17.9012748+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:00:49.0567496+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:07:18.6560324+00:00"
 }

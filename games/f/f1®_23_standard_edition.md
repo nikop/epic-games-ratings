@@ -5,31 +5,31 @@ Rating: 4.68 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,171 |
-| On the Top Step | 90.00% | ~3,004 |
-| Setting up for Success | 79.00% | ~2,637 |
-| Team Orders | 77.00% | ~2,570 |
-| Engineer | 57.00% | ~1,903 |
-| Familiar Faces | 51.00% | ~1,702 |
-| Going the Extra Mile | 45.00% | ~1,502 |
-| Sharing the Love | 43.00% | ~1,435 |
+| Getting on the Step | 95.00% | ~3,173 |
+| On the Top Step | 90.00% | ~3,006 |
+| Setting up for Success | 79.00% | ~2,639 |
+| Team Orders | 77.00% | ~2,572 |
+| Engineer | 57.00% | ~1,904 |
+| Familiar Faces | 51.00% | ~1,703 |
+| Going the Extra Mile | 45.00% | ~1,503 |
+| Sharing the Love | 44.00% | ~1,470 |
 | Hitting a Season | 41.00% | ~1,369 |
 | Challenge Yourself | 36.00% | ~1,202 |
-| A Dozen Pieces | 34.00% | ~1,135 |
-| Making History | 34.00% | ~1,135 |
-| Network Success | 27.00% | ~901 |
-| Writing a new Chapter | 27.00% | ~901 |
-| Spring Cleaning | 25.00% | ~834 |
+| A Dozen Pieces | 34.00% | ~1,136 |
+| Making History | 34.00% | ~1,136 |
+| Network Success | 27.00% | ~902 |
+| Writing a new Chapter | 27.00% | ~902 |
+| Spring Cleaning | 25.00% | ~835 |
 | Reduce | 21.00% | ~701 |
 | Ups and Downs | 21.00% | ~701 |
 | Crucial Combo | 20.00% | ~668 |
-| One for the Book | 19.00% | ~634 |
+| One for the Book | 19.00% | ~635 |
 | Reuse | 18.00% | ~601 |
-| Proving Them Wrong | 17.00% | ~567 |
+| Proving Them Wrong | 17.00% | ~568 |
 | Gathering Dust | 16.00% | ~534 |
 | Oil and Water | 16.00% | ~534 |
 | Hitting a Bullseye | 15.00% | ~501 |
-| Lightning Round the World | 14.00% | ~467 |
+| Lightning Round the World | 14.00% | ~468 |
 | Eagle Eye | 13.00% | ~434 |
 | All in a Weekend's Work | 13.00% | ~434 |
 | Spinning Around | 13.00% | ~434 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 241)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,338 (Ranked 190)  
+Progressed: 3,340 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 3,319 | 0 |
 | 2023-10-19 | 3,325 | 0 |
 | 2023-10-20 | 3,333 | 0 |
-| 2023-10-21 | 3,338 | 0 |
+| 2023-10-21 | 3,340 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

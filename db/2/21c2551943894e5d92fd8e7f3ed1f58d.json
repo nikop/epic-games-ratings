@@ -4,7 +4,7 @@
   "ProductSlug": "the-wild-case-b692f3",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -186,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T15:06:23.0648875+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:08:04.1109904+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:04:58.2557565+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:18.5311747+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:04:20.0206158+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:08:04.1110001+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:01:52.5462179+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:04:58.2557676+00:00"
 }

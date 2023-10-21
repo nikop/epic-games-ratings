@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~148 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
+| Hanging Gardens in Babylon | 0.80% | ~119 |
 | Beloved | 0.80% | ~119 |
 | Conqueror | 0.80% | ~119 |
 | Intercessor | 0.80% | ~119 |
@@ -80,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 0.80% | ~119 |
 | Learn to Play 3 | 0.80% | ~119 |
 | Points Victory | 0.80% | ~119 |
-| Hanging Gardens in Babylon | 0.70% | ~104 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
+| Run, Pheidippides, Run! | 0.20% | ~30 |
 | Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
 | Persia | 0.20% | ~30 |
@@ -217,7 +218,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
-| Run, Pheidippides, Run! | 0.10% | ~15 |
 | Nenikekamen | 0.10% | ~15 |
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,840 (Ranked 139)  
+Progressed: 14,842 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,840 | 5 |
+| 2023-10-21 | 14,842 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,850 (Ranked 211)  

@@ -9223,10 +9223,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46303,
       "NumberOfAwardsMax": 23683
+    },
+    {
+      "Time": "2023-10-21T14:00:42.4258466+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46308,
+      "NumberOfAwardsMax": 23683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46303,
+  "NumberOfAwards": 46308,
   "NumberOfAwardsMax": 23683,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9270,7 +9276,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1159
+      "Count": 1164
     },
     {
       "Text": "This game is Relaxing",
@@ -9303,9 +9309,9 @@
       "Count": 728
     }
   ],
-  "EOS_Progressed": 298642,
+  "EOS_Progressed": 298643,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -28963,6 +28969,11 @@
       "Time": "2023-10-21T13:12:16.1448051+00:00",
       "NumProgressed": 298642,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-21T14:09:18.7179184+00:00",
+      "NumProgressed": 298643,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 45,
@@ -29118,7 +29129,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "PFA_27",
@@ -29302,7 +29313,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38823
+      "UsersEstimate": 38824
     },
     {
       "ID": "PFA_7",
@@ -29310,7 +29321,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38823
+      "UsersEstimate": 38824
     },
     {
       "ID": "PFA_8",
@@ -29333,16 +29344,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298642,
+      "Progressed": 298643,
       "Completed": 490
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-21T10:59:32.7369107+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:12:16.1448047+00:00",
-  "LastUpdate_AppInfo": "2023-10-14T12:59:16.623812+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:02:59.2856336+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:12:16.1449243+00:00"
+  "LastChanged": "2023-10-21T14:00:42.4258464+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:09:18.7179181+00:00",
+  "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
+  "LastUpdate_Ratings": "2023-10-21T14:00:42.4258469+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:09:18.7180389+00:00"
 }

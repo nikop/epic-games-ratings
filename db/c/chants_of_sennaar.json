@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.45,
+  "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1455,6 +1455,11 @@
       "Time": "2023-10-20T23:07:48.5572045+00:00",
       "NumProgressed": 310,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-10-21T14:08:14.6309028+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 25,
@@ -1610,7 +1615,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1624,9 +1629,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "PROGRESS_N2",
@@ -1665,14 +1670,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-21T13:11:06.6217008+00:00",
+  "LastChanged_Achievements": "2023-10-21T14:08:14.6309024+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:04:37.078772+00:00",
-  "LastUpdate_Achievements": "2023-10-21T13:11:06.6217221+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:02:08.0220525+00:00",
+  "LastUpdate_Achievements": "2023-10-21T14:08:14.6309236+00:00"
 }
