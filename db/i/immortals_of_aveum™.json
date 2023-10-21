@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -761,9 +761,9 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_48",
@@ -922,8 +922,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:03:09.8678726+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:04:30.1182622+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:46.0785415+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:58:43.2845067+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:03:09.8679247+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:00:10.1612567+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:04:30.1183124+00:00"
 }

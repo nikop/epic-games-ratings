@@ -1916,7 +1916,7 @@
   ],
   "EOS_Progressed": 14829,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17066,9 +17066,9 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
@@ -17088,8 +17088,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-21T05:59:04.6099331+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:09:13.3090872+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:10:40.3575169+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:59:04.6099337+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:09:13.3104028+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:00:46.1420554+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:10:40.3590975+00:00"
 }

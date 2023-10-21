@@ -10,21 +10,21 @@
 | Purification Pioneer | 32.00% | ~20 |
 | Dicesmithing Time! | 31.00% | ~19 |
 | Eridanian Champion | 31.00% | ~19 |
+| Lacertian Champion | 31.00% | ~19 |
 | Mechanical Buddy | 29.00% | ~18 |
 | Sanctuary Guardian | 29.00% | ~18 |
 | Wild's Keeper | 29.00% | ~18 |
-| Lacertian Champion | 29.00% | ~18 |
+| Apian Champion | 29.00% | ~18 |
 | Mind Illuminator | 27.00% | ~17 |
-| Apian Champion | 27.00% | ~17 |
 | Anomaly Destroyer | 24.00% | ~15 |
 | Stellar Dismantler | 24.00% | ~15 |
+| Loyal Partner | 23.00% | ~14 |
 | Behenian Champion | 23.00% | ~14 |
-| Loyal Partner | 21.00% | ~13 |
 | Aquarian Champion | 21.00% | ~13 |
+| Shard Spender | 19.00% | ~12 |
+| Star Killer | 19.00% | ~12 |
 | Astral Adventurer | 18.00% | ~11 |
 | Heart Gate | 18.00% | ~11 |
-| Shard Spender | 18.00% | ~11 |
-| Star Killer | 18.00% | ~11 |
 | Astral Seeker | 16.00% | ~10 |
 | The Corruption Goddess | 16.00% | ~10 |
 | The Goddes Avatar | 16.00% | ~10 |
@@ -42,8 +42,8 @@
 | The Chaos Artisan | 8.00% | ~5 |
 | The Dark Moon | 8.00% | ~5 |
 | Behenian Hero | 8.00% | ~5 |
+| Artificer | 6.00% | ~4 |
 | The Distorted Sage | 6.00% | ~4 |
-| Artificer | 5.00% | ~3 |
 | If I Had Failed... | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 65.00% | ~73 |
-| Hunting Season | 50.00% | ~56 |
+| Nightmare Territory | 65.00% | ~74 |
+| Hunting Season | 49.00% | ~56 |
 | Grew Bigger | 43.00% | ~49 |
-| Bring It | 42.00% | ~47 |
-| Coffee Thermos | 42.00% | ~47 |
-| Find the Light | 34.00% | ~38 |
-| Darkness Coiled | 34.00% | ~38 |
+| Coffee Thermos | 42.00% | ~48 |
+| Bring It | 41.00% | ~47 |
+| Find the Light | 35.00% | ~40 |
+| Darkness Coiled | 33.00% | ~38 |
 | Not the Last | 31.00% | ~35 |
 | Chased the Source | 28.00% | ~32 |
 | Felt Good | 25.00% | ~28 |
+| Somebody's Home | 25.00% | ~28 |
 | Filling the Shape | 25.00% | ~28 |
 | Lights Shining | 24.00% | ~27 |
 | Yippee Ki-yay | 24.00% | ~27 |
-| Somebody's Home | 24.00% | ~27 |
 | Greatest Hits | 23.00% | ~26 |
+| Aimed Ahead | 22.00% | ~25 |
 | Ready for a Fight | 21.00% | ~24 |
-| Aimed Ahead | 21.00% | ~24 |
+| Carry his Words | 21.00% | ~24 |
+| Into the Overlap | 20.00% | ~23 |
 | The Other Side | 20.00% | ~23 |
-| Carry his Words | 19.00% | ~21 |
-| Into the Overlap | 19.00% | ~21 |
-| Secret Stashes | 19.00% | ~21 |
-| Lawman | 18.00% | ~20 |
+| Secret Stashes | 19.00% | ~22 |
+| Lawman | 18.00% | ~21 |
 | Shining in the Night | 17.00% | ~19 |
 | All Accounted For | 16.00% | ~18 |
-| Talk Show | 14.00% | ~16 |
+| Talk Show | 15.00% | ~17 |
 | Stop Right There | 13.00% | ~15 |
+| This is the Moment | 12.00% | ~14 |
 | Storm Cloud | 12.00% | ~14 |
 | New York City | 12.00% | ~14 |
 | Return | 12.00% | ~14 |
-| Finding a Way | 12.00% | ~14 |
-| This is the Moment | 11.00% | ~12 |
+| Finding a Way | 11.00% | ~13 |
 | Growing Stronger | 10.00% | ~11 |
 | Escape its Gravity | 9.00% | ~10 |
 | All His Life | 9.00% | ~10 |
@@ -71,7 +71,7 @@
 | The Nice Things in Life | 0.90% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 380)  
+Progressed: 114 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
 | 2023-10-20 | 100 | 0 |
-| 2023-10-21 | 113 | 0 |
+| 2023-10-21 | 114 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

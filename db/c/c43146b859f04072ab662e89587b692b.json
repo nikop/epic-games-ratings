@@ -100,9 +100,9 @@
       "ID": "STRANGE_LAND_ACH",
       "SetID": "cnj66m",
       "Name": "Strange Land",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SUPERIOR_FIREPOWER_ACH",
@@ -146,8 +146,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:03:31.4998417+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:05:00.4655896+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.8392357+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:57:50.6019435+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:03:31.4998532+00:00"
+  "LastUpdate_Ratings": "2023-10-21T06:58:53.3562303+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:05:00.4656026+00:00"
 }

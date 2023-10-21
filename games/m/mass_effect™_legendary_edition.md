@@ -39,8 +39,8 @@
 | Power Full | 40.00% | ~304 |
 | The Archangel | 39.00% | ~296 |
 | Completionist | 37.00% | ~281 |
+| Colony Defense | 37.00% | ~281 |
 | The Convict | 37.00% | ~281 |
-| Colony Defense | 36.00% | ~273 |
 | The Krogan | 36.00% | ~273 |
 | Galactic Explorer | 36.00% | ~273 |
 | Broke, Blind, and Bedlam | 35.00% | ~266 |
@@ -88,11 +88,11 @@
 | Lost and Found | 23.00% | ~175 |
 | Paramour II | 22.00% | ~167 |
 | Party Crasher | 21.00% | ~159 |
+| Problem Solver | 21.00% | ~159 |
 | Pyromaniac | 20.00% | ~152 |
 | No One Left Behind | 20.00% | ~152 |
 | Hard Target | 20.00% | ~152 |
 | Saboteur | 20.00% | ~152 |
-| Problem Solver | 20.00% | ~152 |
 | Under Pressure | 19.00% | ~144 |
 | Last Witness | 19.00% | ~144 |
 | Fact Finder | 19.00% | ~144 |

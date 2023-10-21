@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~28,628 |
-| It wakes | 3.00% | ~28,628 |
-| Skillful | 3.00% | ~28,628 |
-| No one left behind | 2.00% | ~19,085 |
-| Medic | 2.00% | ~19,085 |
-| Handyman | 2.00% | ~19,085 |
-| Not half bad | 2.00% | ~19,085 |
-| Bloody Millionaire | 2.00% | ~19,085 |
-| Apt Survivor | 2.00% | ~19,085 |
-| Survival Treasures | 2.00% | ~19,085 |
-| I | 2.00% | ~19,085 |
-| Sorted | 2.00% | ~19,085 |
-| Healthy Obsession | 2.00% | ~19,085 |
-| Resurgence | 2.00% | ~19,085 |
-| Make Some Noise | 2.00% | ~19,085 |
+| Zealous | 3.00% | ~28,630 |
+| It wakes | 3.00% | ~28,630 |
+| Skillful | 3.00% | ~28,630 |
+| No one left behind | 2.00% | ~19,087 |
+| Medic | 2.00% | ~19,087 |
+| Handyman | 2.00% | ~19,087 |
+| Not half bad | 2.00% | ~19,087 |
+| Bloody Millionaire | 2.00% | ~19,087 |
+| Apt Survivor | 2.00% | ~19,087 |
+| Survival Treasures | 2.00% | ~19,087 |
+| I | 2.00% | ~19,087 |
+| Sorted | 2.00% | ~19,087 |
+| Healthy Obsession | 2.00% | ~19,087 |
+| Resurgence | 2.00% | ~19,087 |
+| Make Some Noise | 2.00% | ~19,087 |
 | The Grand Sacrifice | 1.00% | ~9,543 |
 | Agonizing Escape | 1.00% | ~9,543 |
 | Backdoor Escape | 1.00% | ~9,543 |
@@ -38,15 +38,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Preemptive Strike | 1.00% | ~9,543 |
 | Humanitarian | 1.00% | ~9,543 |
 | Second Act | 1.00% | ~9,543 |
-| III | 0.90% | ~8,588 |
-| With Scars to Show | 0.90% | ~8,588 |
-| Escape Artist | 0.80% | ~7,634 |
-| Cherish your Life | 0.80% | ~7,634 |
-| First to the Punch | 0.80% | ~7,634 |
-| Every Last Drop | 0.80% | ~7,634 |
-| Flight to Freedom | 0.80% | ~7,634 |
-| A Fast Death | 0.80% | ~7,634 |
-| Rebuilding The Borgo | 0.80% | ~7,634 |
+| Escape Artist | 0.90% | ~8,589 |
+| III | 0.90% | ~8,589 |
+| With Scars to Show | 0.90% | ~8,589 |
+| Cherish your Life | 0.80% | ~7,635 |
+| First to the Punch | 0.80% | ~7,635 |
+| Every Last Drop | 0.80% | ~7,635 |
+| Flight to Freedom | 0.80% | ~7,635 |
+| A Fast Death | 0.80% | ~7,635 |
+| Rebuilding The Borgo | 0.80% | ~7,635 |
 | Blood on your hands | 0.70% | ~6,680 |
 | Made it out alive! | 0.70% | ~6,680 |
 | III-50 | 0.70% | ~6,680 |
@@ -72,19 +72,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.60% | ~5,726 |
 | Lifting The Fog | 0.60% | ~5,726 |
 | MU/TH/UR Dearest | 0.60% | ~5,726 |
-| A bite for the Entity | 0.50% | ~4,771 |
-| Blood on your face | 0.50% | ~4,771 |
-| Hemophobia | 0.50% | ~4,771 |
-| Leapfrog | 0.50% | ~4,771 |
-| Serial Killer | 0.50% | ~4,771 |
-| Devoted Gatekeeping | 0.50% | ~4,771 |
-| Shrine Apparatus | 0.50% | ~4,771 |
-| Grim Pilgrimage | 0.50% | ~4,771 |
-| Selfless Survival | 0.50% | ~4,771 |
-| End of Days | 0.50% | ~4,771 |
-| Insult and Injury | 0.50% | ~4,771 |
-| Outrun the Overlap | 0.50% | ~4,771 |
-| Extraterrestrial | 0.50% | ~4,771 |
+| A bite for the Entity | 0.50% | ~4,772 |
+| Blood on your face | 0.50% | ~4,772 |
+| Hemophobia | 0.50% | ~4,772 |
+| Leapfrog | 0.50% | ~4,772 |
+| Serial Killer | 0.50% | ~4,772 |
+| Devoted Gatekeeping | 0.50% | ~4,772 |
+| Shrine Apparatus | 0.50% | ~4,772 |
+| Grim Pilgrimage | 0.50% | ~4,772 |
+| Selfless Survival | 0.50% | ~4,772 |
+| End of Days | 0.50% | ~4,772 |
+| Insult and Injury | 0.50% | ~4,772 |
+| Outrun the Overlap | 0.50% | ~4,772 |
+| Extraterrestrial | 0.50% | ~4,772 |
 | Jump Scares | 0.40% | ~3,817 |
 | Deep Cleansing | 0.40% | ~3,817 |
 | Texas BBQ | 0.40% | ~3,817 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~954 |
 | Adept Ripley | 0.10% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 954,253 (Ranked 14)  
+Progressed: 954,347 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 52 (0.01%) (Ranked 299)
 | 2023-10-18 | 948,147 | 51 |
 | 2023-10-19 | 950,730 | 51 |
 | 2023-10-20 | 953,522 | 52 |
-| 2023-10-21 | 954,253 | 52 |
+| 2023-10-21 | 954,347 | 52 |
 ## Awards
 Max (Diverse Characters): 34,341  (Ranked 15)  
 Sum: 264,799 (Ranked 13)  

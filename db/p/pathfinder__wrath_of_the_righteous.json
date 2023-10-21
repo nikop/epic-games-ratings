@@ -3965,9 +3965,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11650,
+  "EOS_Progressed": 11651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13930,6 +13930,11 @@
       "Time": "2023-10-21T06:09:15.5021541+00:00",
       "NumProgressed": 11650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T07:10:43.0276495+00:00",
+      "NumProgressed": 11651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -13941,7 +13946,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "02_BurningCity",
@@ -13957,7 +13962,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "04_FithCrusade",
@@ -13989,7 +13994,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "08_PathOfAngel",
@@ -14013,7 +14018,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "11_PathOfAeon",
@@ -14061,7 +14066,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "17_Transformation",
@@ -14069,7 +14074,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "18_MythicChoices",
@@ -14125,7 +14130,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14149,7 +14154,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "29_StrategicVictory",
@@ -14157,7 +14162,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -14205,7 +14210,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -14285,7 +14290,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "46_AllPathsOpen",
@@ -14293,7 +14298,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -14365,7 +14370,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "56_GetToad",
@@ -14868,21 +14873,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10432,
+      "Progressed": 10433,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11650,
+      "Progressed": 11651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-20T21:59:55.1875466+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:09:15.5021533+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:10:43.027649+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:48.4782392+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:58:34.172097+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:09:15.5023812+00:00"
+  "LastUpdate_Ratings": "2023-10-21T06:59:59.3127909+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:10:43.0278853+00:00"
 }

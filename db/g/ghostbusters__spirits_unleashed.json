@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26877,
+  "EOS_Progressed": 26887,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 446,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15687,6 +15687,11 @@
       "Time": "2023-10-21T06:04:27.821953+00:00",
       "NumProgressed": 26877,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T07:06:19.1408505+00:00",
+      "NumProgressed": 26887,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15698,7 +15703,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "Animated",
@@ -16002,7 +16007,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "Summoner",
@@ -16105,7 +16110,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26877,
+      "Progressed": 26887,
       "Completed": 60
     }
   ],
@@ -16113,8 +16118,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:04:27.821952+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:06:19.14085+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:00:35.6641587+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:04:27.8220794+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:02:56.768699+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:06:19.1410171+00:00"
 }

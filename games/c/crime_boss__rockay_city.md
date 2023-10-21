@@ -15,9 +15,9 @@ Rating: 3.94 (Ranked 988)
 | Off the Rocks | 0.80% | ~714 |
 | Raider’s Ruin | 0.80% | ~714 |
 | Dragonslayer | 0.80% | ~714 |
-| Case Closed | 0.70% | ~624 |
-| King of the Hill | 0.70% | ~624 |
-| Rockay Rex | 0.70% | ~624 |
+| Case Closed | 0.70% | ~625 |
+| King of the Hill | 0.70% | ~625 |
+| Rockay Rex | 0.70% | ~625 |
 | Hidden Sonata | 0.60% | ~535 |
 | Track Star | 0.60% | ~535 |
 | Headhunter | 0.50% | ~446 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 988)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,214 (Ranked 86)  
+Progressed: 89,216 (Ranked 86)  
 Completed: 50 (0.06%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 50 (0.06%) (Ranked 270)
 | 2023-10-18 | 89,164 | 50 |
 | 2023-10-19 | 89,188 | 50 |
 | 2023-10-20 | 89,206 | 50 |
-| 2023-10-21 | 89,214 | 50 |
+| 2023-10-21 | 89,216 | 50 |
 ## Awards
 Max (Diverse Characters): 505  (Ranked 205)  
-Sum: 2,848 (Ranked 175)  
+Sum: 2,849 (Ranked 175)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): 30
 | This game has Quickly Understood Controls | 479 |
 | This game is Highly Recommended | 473 |
 | This game has Challenging Combat | 471 |
-| This game has Amazing Characters | 460 |
+| This game has Amazing Characters | 461 |
 | This game is Extremely Fun | 460 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -452,4 +452,4 @@ Diff (max vs sum): 30
 | 2023-10-18 | 3.95 | 500 | 2,832 |
 | 2023-10-19 | 3.94 | 500 | 2,835 |
 | 2023-10-20 | 3.94 | 502 | 2,845 |
-| 2023-10-21 | 3.94 | 505 | 2,848 |
+| 2023-10-21 | 3.94 | 505 | 2,849 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2405,9 +2405,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_39",
@@ -2901,9 +2901,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_95",
@@ -2961,8 +2961,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:06:03.5496583+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:08:34.1142978+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:30.4071338+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:02:21.3655102+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:06:03.5498872+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:04:02.770179+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:08:34.1145557+00:00"
 }

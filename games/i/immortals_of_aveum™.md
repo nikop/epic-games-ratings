@@ -29,7 +29,7 @@ Rating: 3.98 (Ranked 978)
 | Good Boy | 13.00% | ~12 |
 | Lights Army | 11.00% | ~10 |
 | Periapt Cerulean | 11.00% | ~10 |
-| Periapt Viridian | 9.00% | ~9 |
+| Periapt Viridian | 11.00% | ~10 |
 | Shroudfane Explorer | 9.00% | ~9 |
 | Armaments Gules | 8.00% | ~8 |
 | Scholar | 7.00% | ~7 |

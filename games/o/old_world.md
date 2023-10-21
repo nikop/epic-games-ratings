@@ -138,6 +138,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.40% | ~59 |
 | Turreted Elephant | 0.40% | ~59 |
 | All Nations | 0.40% | ~59 |
+| Beja Archer | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~44 |
 | Ishtar Gate in Babylon | 0.30% | ~44 |
 | Carthage - Ox Hide | 0.30% | ~44 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.30% | ~44 |
 | Greater Kmt Unified | 0.30% | ~44 |
 | Kush | 0.30% | ~44 |
-| Beja Archer | 0.30% | ~44 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |

@@ -191,17 +191,17 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -215,9 +215,9 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -326,8 +326,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:05:02.3032334+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:07:08.0186988+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:57:16.4818161+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:05:02.3032497+00:00"
+  "LastUpdate_Ratings": "2023-10-21T06:58:01.8529821+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:07:08.0187166+00:00"
 }

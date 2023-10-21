@@ -4099,10 +4099,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2848,
       "NumberOfAwardsMax": 505
+    },
+    {
+      "Time": "2023-10-21T07:03:21.6598732+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2849,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2848,
+  "NumberOfAwards": 2849,
   "NumberOfAwardsMax": 505,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4122,7 +4128,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 460
+      "Count": 461
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4161,9 +4167,9 @@
       "Count": 460
     }
   ],
-  "EOS_Progressed": 89214,
+  "EOS_Progressed": 89216,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22686,6 +22692,11 @@
       "Time": "2023-10-21T06:05:01.2556667+00:00",
       "NumProgressed": 89214,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-21T07:07:06.5731502+00:00",
+      "NumProgressed": 89216,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22913,7 +22924,7 @@
       "Name": "Case Closed",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_0420",
@@ -22921,7 +22932,7 @@
       "Name": "King of the Hill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_0430",
@@ -22985,7 +22996,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_1010",
@@ -23024,22 +23035,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89214,
+      "Progressed": 89216,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17561,
+      "Progressed": 17563,
       "Completed": 15552
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-21T01:43:04.9449167+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:05:01.2556656+00:00",
+  "LastChanged": "2023-10-21T07:03:21.659873+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:07:06.5731498+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:09.3878818+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:02:07.5881778+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:05:01.255815+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:03:21.6598738+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:07:06.5733393+00:00"
 }

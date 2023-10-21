@@ -6,24 +6,24 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,912 |
+| Devoured by Darkness | 25.00% | ~2,913 |
 | A Spark | 18.00% | ~2,097 |
 | Burning City | 17.00% | ~1,981 |
 | Defender's Heart | 15.00% | ~1,748 |
 | Mythic Choices | 14.00% | ~1,631 |
-| Banner over the Citadel | 13.00% | ~1,514 |
+| Banner over the Citadel | 13.00% | ~1,515 |
 | Queen's Gratitude | 12.00% | ~1,398 |
 | Fifth Crusade | 8.00% | ~932 |
 | Embrace of the Abyss | 6.00% | ~699 |
 | Path of the Angel | 6.00% | ~699 |
 | Demonic and Divine | 6.00% | ~699 |
-| Path of the Azata | 5.00% | ~582 |
-| Transformation | 5.00% | ~582 |
-| The Legacy | 5.00% | ~582 |
-| Great Upstart | 5.00% | ~582 |
-| Voice from Your Dreams | 5.00% | ~582 |
-| All Paths Open | 5.00% | ~582 |
-| Next-Door Play | 5.00% | ~582 |
+| Path of the Azata | 5.00% | ~583 |
+| Transformation | 5.00% | ~583 |
+| The Legacy | 5.00% | ~583 |
+| Great Upstart | 5.00% | ~583 |
+| Voice from Your Dreams | 5.00% | ~583 |
+| All Paths Open | 5.00% | ~583 |
+| Next-Door Play | 5.00% | ~583 |
 | Heart of the Fallen Land | 4.00% | ~466 |
 | Divide and Rule | 4.00% | ~466 |
 | Mythic Reinforcements | 4.00% | ~466 |
@@ -44,10 +44,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 2.00% | ~233 |
 | Stay Underground | 2.00% | ~209 |
 | Sarkoris Will Be Green | 2.00% | ~209 |
-| The Final Threshold | 1.00% | ~116 |
-| Path of the Legend | 1.00% | ~116 |
-| Strategic Victory | 1.00% | ~116 |
-| Abyssal Conspiracy | 1.00% | ~116 |
+| The Final Threshold | 1.00% | ~117 |
+| Path of the Legend | 1.00% | ~117 |
+| Strategic Victory | 1.00% | ~117 |
+| Abyssal Conspiracy | 1.00% | ~117 |
 | This Wall Won't Fall | 1.00% | ~104 |
 | Not the Last Sarkorian | 1.00% | ~104 |
 | Path of the Dragon | 0.90% | ~105 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,650 (Ranked 146)  
+Progressed: 11,651 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
-| 2023-10-21 | 11,650 | 0 |
+| 2023-10-21 | 11,651 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,995 (Ranked 115)  

@@ -4,7 +4,7 @@
   "ProductSlug": "farmers-life-f91b9a",
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-20T15:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-10-21T06:57:38.0713088+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:02:29.8608067+00:00",
-  "LastUpdate_Ratings": "2023-10-21T05:56:59.5222173+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:03:09.6095225+00:00"
+  "LastUpdate_Ratings": "2023-10-21T06:57:38.071313+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:04:29.6818225+00:00"
 }

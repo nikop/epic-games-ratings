@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1081,9 +1081,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3025,
+  "EOS_Progressed": 3026,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5421,6 +5421,11 @@
       "Time": "2023-10-20T18:06:22.1412272+00:00",
       "NumProgressed": 3025,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-21T07:06:51.3249791+00:00",
+      "NumProgressed": 3026,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5472,7 +5477,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_DIPPED",
@@ -5624,7 +5629,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_NAHELL",
@@ -5648,7 +5653,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -5720,7 +5725,7 @@
       "Name": "That was wheelie fun",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_THATS-HOW-ITS-DONE",
@@ -5744,7 +5749,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -5752,7 +5757,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -5808,22 +5813,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3025,
+      "Progressed": 3026,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-21T00:01:01.2659693+00:00",
-  "LastChanged_Achievements": "2023-10-21T06:04:50.919173+00:00",
+  "LastChanged_Achievements": "2023-10-21T07:06:51.3249787+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:15.9585572+00:00",
-  "LastUpdate_Ratings": "2023-10-21T06:00:08.406874+00:00",
-  "LastUpdate_Achievements": "2023-10-21T06:04:50.9192389+00:00"
+  "LastUpdate_Ratings": "2023-10-21T07:02:14.9882451+00:00",
+  "LastUpdate_Achievements": "2023-10-21T07:06:51.3250555+00:00"
 }
