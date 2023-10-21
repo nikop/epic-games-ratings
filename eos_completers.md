@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.53% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.10% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 46.09% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.71% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.39% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 6.95% |
+| 50 | [Scorn](games/s/scorn.md) | 6.94% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.45% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -88,8 +88,8 @@
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.22% |
 | 87 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 87 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
-| 89 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.12% |
 | 89 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 90 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.11% |
 | 91 | [HordeCore](games/h/hordecore.md) | 3.10% |
 | 92 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 93 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
@@ -109,7 +109,7 @@
 | 107 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 108 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.27% |
 | 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.26% |
-| 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.17% |
+| 110 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.09% |
 | 112 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.96% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
@@ -132,8 +132,8 @@
 | 129 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 131 | [Chorus](games/c/chorus.md) | 1.36% |
 | 132 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
-| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.31% |
 | 133 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
+| 134 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.30% |
 | 135 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.29% |
 | 136 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.28% |
 | 137 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
@@ -187,8 +187,8 @@
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.46% |
 | 186 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 186 | [Tchia](games/t/tchia.md) | 0.45% |
-| 188 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
-| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
+| 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
+| 188 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
 | 190 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 191 | [Them and Us](games/t/them_and_us.md) | 0.41% |
 | 192 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
