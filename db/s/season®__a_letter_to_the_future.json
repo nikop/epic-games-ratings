@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1289,
+  "EOS_Progressed": 1290,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-10-21T08:06:26.2321356+00:00",
       "NumProgressed": 1289,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-21T19:07:10.847099+00:00",
+      "NumProgressed": 1290,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2656,7 +2661,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2664,7 +2669,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2696,7 +2701,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -2704,7 +2709,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_THEEND",
@@ -2720,14 +2725,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1289,
+      "Progressed": 1290,
       "Completed": 57
     }
   ],
@@ -2735,8 +2740,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:09:41.0063118+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:07:10.8470984+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.8809216+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:02:35.4806528+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:09:41.0063374+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:00:34.6948677+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:07:10.8471263+00:00"
 }

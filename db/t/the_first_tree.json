@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36960,
+  "EOS_Progressed": 36962,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16173,6 +16173,11 @@
       "Time": "2023-10-21T18:06:07.3968301+00:00",
       "NumProgressed": 36960,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-21T19:03:17.7294114+00:00",
+      "NumProgressed": 36962,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -16232,7 +16237,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "completionist",
@@ -16272,7 +16277,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28459
+      "UsersEstimate": 28461
     },
     {
       "ID": "roots",
@@ -16280,7 +16285,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "secretItem",
@@ -16295,15 +16300,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 36960,
+      "Progressed": 36962,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:06:07.3968296+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:03:17.7294109+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:32.7210571+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:03:57.9313223+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:06:07.3969748+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:01:25.9073572+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:03:17.7295203+00:00"
 }

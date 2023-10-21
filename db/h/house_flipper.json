@@ -1959,9 +1959,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 21072,
+  "EOS_Progressed": 21074,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9504,6 +9504,11 @@
       "Time": "2023-10-21T18:07:39.4250305+00:00",
       "NumProgressed": 21072,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-21T19:05:12.0655635+00:00",
+      "NumProgressed": 21074,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9515,7 +9520,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "CarMechanic",
@@ -9563,7 +9568,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20018
+      "UsersEstimate": 20020
     },
     {
       "ID": "GameOver",
@@ -9603,7 +9608,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2739
+      "UsersEstimate": 2740
     },
     {
       "ID": "KnockKnock",
@@ -9651,7 +9656,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4215
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9675,7 +9680,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6532
+      "UsersEstimate": 6533
     },
     {
       "ID": "VeronicaLiptson",
@@ -9698,15 +9703,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21072,
+      "Progressed": 21074,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-19T02:58:10.2624005+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:07:39.4250296+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:05:12.0655629+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:01:36.4328925+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:07:39.425099+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:59:51.1470443+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:05:12.0656252+00:00"
 }

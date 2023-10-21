@@ -1891,9 +1891,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 273006,
+  "EOS_Progressed": 273028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1761,
+  "EOS_NewPlayers": 1770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22851,6 +22851,11 @@
       "Time": "2023-10-21T18:09:06.4574724+00:00",
       "NumProgressed": 273006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T19:06:33.4026735+00:00",
+      "NumProgressed": 273028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -22910,7 +22915,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27301
+      "UsersEstimate": 27303
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -22950,7 +22955,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10920
+      "UsersEstimate": 10921
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -22982,7 +22987,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -23022,7 +23027,7 @@
       "Name": "I Found it!",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27301
+      "UsersEstimate": 27303
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -23030,7 +23035,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5460
+      "UsersEstimate": 5461
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -23070,7 +23075,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8190
+      "UsersEstimate": 8191
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -23086,7 +23091,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 223865
+      "UsersEstimate": 223883
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -23094,22 +23099,22 @@
       "Name": "I know the Rules",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 95552
+      "UsersEstimate": 95560
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 273006,
+      "Progressed": 273028,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-10-21T14:03:46.7392605+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:09:06.4574715+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:06:33.4026731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.6764804+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:05:17.330845+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:09:06.457627+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:02:16.404482+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:06:33.4028235+00:00"
 }

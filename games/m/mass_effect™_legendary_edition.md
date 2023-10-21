@@ -45,7 +45,7 @@
 | Galactic Explorer | 36.00% | ~276 |
 | Broke, Blind, and Bedlam | 35.00% | ~268 |
 | Archivist | 34.00% | ~260 |
-| Ghost Ship | 33.00% | ~253 |
+| Ghost Ship | 34.00% | ~260 |
 | The Assassin | 33.00% | ~253 |
 | The Justicar | 33.00% | ~253 |
 | The Quarian | 33.00% | ~253 |

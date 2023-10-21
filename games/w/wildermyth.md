@@ -18,6 +18,7 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 0.10% | ~1 |
 | Cutthroat Competitors | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
+| Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | War Endured | 0.10% | ~1 |
 | Echoes Die | 0.10% | ~1 |
@@ -39,7 +40,6 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
 | Thematic Divergence | 0.00% | ~0 |
-| Pyrrhic Victory | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
 | A Story of Heroes | 0.00% | ~0 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,432 (Ranked 224)  
-Completed: 6 (0.42%) (Ranked 191)  
+Completed: 6 (0.42%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

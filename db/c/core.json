@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -2274,10 +2274,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 2127,
       "NumberOfAwardsMax": 759
+    },
+    {
+      "Time": "2023-10-21T19:02:16.6478856+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 2128,
+      "NumberOfAwardsMax": 759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2127,
+  "NumberOfAwards": 2128,
   "NumberOfAwardsMax": 759,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2327,7 +2333,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2371,8 +2377,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-10-21T15:05:01.8554384+00:00",
+  "LastChanged": "2023-10-21T19:02:16.6478851+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.9923628+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:05:17.6345626+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:07:11.4185853+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:02:16.6478864+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:04:29.3329852+00:00"
 }

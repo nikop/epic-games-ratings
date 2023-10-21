@@ -1394,7 +1394,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129939,
+  "EOS_Progressed": 129941,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
@@ -19714,6 +19714,11 @@
       "Time": "2023-10-21T18:07:28.0729696+00:00",
       "NumProgressed": 129939,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-21T19:05:02.9049204+00:00",
+      "NumProgressed": 129941,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19781,7 +19786,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31185
+      "UsersEstimate": 31186
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19829,7 +19834,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20790
+      "UsersEstimate": 20791
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -19837,7 +19842,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27287
+      "UsersEstimate": 27288
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19861,7 +19866,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20790
+      "UsersEstimate": 20791
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -19869,7 +19874,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14293
+      "UsersEstimate": 14294
     },
     {
       "ID": "ACH_CUNO",
@@ -19941,7 +19946,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -20005,7 +20010,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -20044,15 +20049,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129939,
+      "Progressed": 129941,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-20T10:57:25.2184126+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:07:28.0729687+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:05:02.9049199+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:58:54.4417456+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:07:28.0731117+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:57:54.8407029+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:05:02.9050585+00:00"
 }

@@ -1471,9 +1471,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 138
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
@@ -1485,8 +1485,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:08:39.096549+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:06:10.9009895+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.5119154+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:05:16.1706192+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:08:39.0965725+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:02:15.3922498+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:06:10.901013+00:00"
 }

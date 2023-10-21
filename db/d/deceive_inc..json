@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18573,
+  "EOS_Progressed": 18576,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12014,6 +12014,11 @@
       "Time": "2023-10-21T18:07:23.0368348+00:00",
       "NumProgressed": 18573,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T19:04:39.069245+00:00",
+      "NumProgressed": 18576,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12025,7 +12030,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "0002",
@@ -12041,7 +12046,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "0004",
@@ -12049,7 +12054,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "0005",
@@ -12057,7 +12062,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "0006",
@@ -12081,7 +12086,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "0009",
@@ -12121,7 +12126,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "0014",
@@ -12153,7 +12158,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "0018",
@@ -12177,7 +12182,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "0021",
@@ -12185,7 +12190,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "0022",
@@ -12193,7 +12198,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "0023",
@@ -12209,7 +12214,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4087
     },
     {
       "ID": "0025",
@@ -12217,7 +12222,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "0026",
@@ -12249,7 +12254,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "0030",
@@ -12257,7 +12262,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3343
+      "UsersEstimate": 3344
     },
     {
       "ID": "0031",
@@ -12312,7 +12317,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18573,
+      "Progressed": 18576,
       "Completed": 4
     }
   ],
@@ -12320,8 +12325,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:07:23.0368339+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:04:39.0692446+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:57:54.6413311+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:07:23.0369344+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:57:19.2591028+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:04:39.0693413+00:00"
 }

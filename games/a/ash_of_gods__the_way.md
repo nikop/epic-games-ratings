@@ -23,6 +23,8 @@
 | Cunning plan | 20.00% | ~1 |
 | Do it yourself | 20.00% | ~1 |
 | Help of the Gell | 20.00% | ~1 |
+| Trial by cold | 20.00% | ~1 |
+| All's fair in love and war | 20.00% | ~1 |
 | She-Wolf | 20.00% | ~1 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
@@ -44,10 +46,8 @@
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
 | By someone else's hands | 0.00% | ~0 |
-| Trial by cold | 0.00% | ~0 |
 | There can be only one | 0.00% | ~0 |
 | Blood and honour | 0.00% | ~0 |
-| All's fair in love and war | 0.00% | ~0 |
 | The End | 0.00% | ~0 |
 | Happily ever after | 0.00% | ~0 |
 | Nothing is settled | 0.00% | ~0 |

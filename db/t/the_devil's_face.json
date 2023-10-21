@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1849,6 +1849,11 @@
       "Time": "2023-10-21T18:10:28.7484825+00:00",
       "NumProgressed": 425,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T19:08:01.5830674+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1868,7 +1873,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1906,9 +1911,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1971,14 +1976,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:10:28.7484818+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:08:01.5830669+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:04:40.1825091+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:10:28.7485046+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:01:52.5866915+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:08:01.5830884+00:00"
 }

@@ -30,8 +30,8 @@
 | Time | 17.00% | ~18 |
 | The Fix | 17.00% | ~18 |
 | Bad Trip | 15.00% | ~16 |
+| Regrets | 15.00% | ~16 |
 | The Mountains, The Valleys | 15.00% | ~16 |
-| Regrets | 14.00% | ~15 |
 | Chase the Crow | 13.00% | ~14 |
 | Love | 13.00% | ~14 |
 | The Accident | 13.00% | ~14 |
@@ -48,9 +48,9 @@
 | Riders on the Storm | 4.00% | ~4 |
 | Under my Wheels | 4.00% | ~4 |
 | The Fight Song | 4.00% | ~4 |
+| All Apologies | 3.00% | ~3 |
 | Voodoo Child | 2.00% | ~2 |
 | Purple Haze | 2.00% | ~2 |
-| All Apologies | 2.00% | ~2 |
 | The Show Must Go On | 2.00% | ~2 |
 | Carry On | 2.00% | ~2 |
 | Killer Cars | 2.00% | ~2 |

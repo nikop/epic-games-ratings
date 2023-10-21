@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,138 |
 | Tinkle of Coins | 3.00% | ~4,138 |
 | Titan's First Steps | 3.00% | ~4,138 |
-| One Easy Payment | 2.00% | ~2,758 |
-| Some Assembly Required | 2.00% | ~2,758 |
-| Disintermediation | 2.00% | ~2,758 |
-| Another Satisfied Customer | 2.00% | ~2,758 |
-| It's Free Real Estate | 2.00% | ~2,758 |
-| Pretty Penny | 2.00% | ~2,758 |
-| Budding Merchant | 2.00% | ~2,758 |
-| Capitalism Ho! | 2.00% | ~2,758 |
-| Own the Means of Production | 2.00% | ~2,758 |
+| One Easy Payment | 2.00% | ~2,759 |
+| Some Assembly Required | 2.00% | ~2,759 |
+| Disintermediation | 2.00% | ~2,759 |
+| Another Satisfied Customer | 2.00% | ~2,759 |
+| It's Free Real Estate | 2.00% | ~2,759 |
+| Pretty Penny | 2.00% | ~2,759 |
+| Budding Merchant | 2.00% | ~2,759 |
+| Capitalism Ho! | 2.00% | ~2,759 |
+| Own the Means of Production | 2.00% | ~2,759 |
 | The Daily Grind | 1.00% | ~1,379 |
 | On the Path to Greatness | 1.00% | ~1,379 |
 | Ascended | 1.00% | ~1,379 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,923 (Ranked 74)  
+Progressed: 137,926 (Ranked 74)  
 Completed: 171 (0.12%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,15 +303,15 @@ Completed: 171 (0.12%) (Ranked 244)
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
 | 2023-10-20 | 137,884 | 171 |
-| 2023-10-21 | 137,923 | 171 |
+| 2023-10-21 | 137,926 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 73)  
-Sum: 27,418 (Ranked 50)  
+Sum: 27,420 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,797 |
-| This game is Relaxing | 4,026 |
+| This game is Relaxing | 4,028 |
 | This game has Quickly Understood Controls | 4,015 |
 | This game has Diverse Characters | 3,920 |
 | This game is Highly Recommended | 3,764 |
@@ -586,3 +586,4 @@ Diff (max vs sum): 23
 | 2023-10-18 | 3.99 | - | 4,793 | 27,403 |
 | 2023-10-19 | 3.99 | - | 4,793 | 27,406 |
 | 2023-10-20 | 3.99 | - | 4,797 | 27,418 |
+| 2023-10-21 | 3.99 | - | 4,797 | 27,420 |

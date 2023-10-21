@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-10-21T15:08:47.1235883+00:00",
       "NumProgressed": 177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T19:06:13.8158374+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -778,9 +783,9 @@
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achSponsor20",
@@ -915,14 +920,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:08:42.4692566+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:06:13.8158369+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:01:37.4444693+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:08:42.4692847+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:59:52.2169841+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:06:13.8158621+00:00"
 }

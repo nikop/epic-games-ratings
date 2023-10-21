@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1319,9 +1319,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16145,
+  "EOS_Progressed": 16148,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7829,6 +7829,11 @@
       "Time": "2023-10-21T18:07:41.1235197+00:00",
       "NumProgressed": 16145,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-10-21T19:05:13.4427104+00:00",
+      "NumProgressed": 16148,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 47,
@@ -7848,7 +7853,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -7936,7 +7941,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -8152,7 +8157,7 @@
       "Name": "Big Spender",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -8168,7 +8173,7 @@
       "Name": "Information Overload",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -8215,13 +8220,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16145,
+      "Progressed": 16148,
       "Completed": 75
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4071,
+      "Progressed": 4074,
       "Completed": 29
     }
   ],
@@ -8229,8 +8234,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-21T11:58:34.338307+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:07:41.1235189+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:05:13.4427099+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:59:36.8839469+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:07:41.1236023+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:58:25.2729899+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:05:13.4427884+00:00"
 }

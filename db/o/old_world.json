@@ -1920,7 +1920,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14852,
+  "EOS_Progressed": 14855,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -14390,6 +14390,11 @@
       "Time": "2023-10-21T18:12:09.1445407+00:00",
       "NumProgressed": 14852,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T19:09:18.5692314+00:00",
+      "NumProgressed": 14855,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14767,9 +14772,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -15807,9 +15812,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
       "SetID": "9201eeb",
       "Name": "Ishtar Gate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
@@ -17136,21 +17141,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14852,
+      "Progressed": 14855,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14852,
+      "Progressed": 14855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-21T16:01:08.2420995+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:12:09.1445401+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:09:18.5692308+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:01:59.4322264+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:12:09.1458818+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:00:09.4852913+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:09:18.570369+00:00"
 }

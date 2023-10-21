@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -429,9 +429,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2999,
+  "EOS_Progressed": 3001,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
@@ -3864,6 +3864,11 @@
       "Time": "2023-10-21T17:10:17.708546+00:00",
       "NumProgressed": 2999,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-21T19:03:32.9940048+00:00",
+      "NumProgressed": 3001,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3979,14 +3984,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2311
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2999,
+      "Progressed": 3001,
       "Completed": 121
     }
   ],
@@ -3994,8 +3999,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:06:26.7539644+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:03:32.9940045+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-21T17:58:19.9877028+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:06:26.7539981+00:00"
+  "LastUpdate_Ratings": "2023-10-21T18:57:35.2672457+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:03:32.9940361+00:00"
 }

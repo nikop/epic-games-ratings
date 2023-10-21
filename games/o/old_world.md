@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~297 |
 | Strong Cities | 2.00% | ~297 |
 | Hanging Gardens | 2.00% | ~297 |
+| Ishtar Gate | 2.00% | ~297 |
 | Oracle | 2.00% | ~297 |
 | Christianity | 2.00% | ~297 |
 | Judaism | 2.00% | ~297 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~149 |
 | Colossus | 1.00% | ~149 |
 | Great Ziggurat | 1.00% | ~149 |
-| Ishtar Gate | 1.00% | ~149 |
 | Lighthouse | 1.00% | ~149 |
 | Musaeum | 1.00% | ~149 |
 | Necropolis | 1.00% | ~149 |
@@ -69,11 +69,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~149 |
 | Win a Single Player Game | 1.00% | ~149 |
 | Kushite Pyramids | 1.00% | ~149 |
+| Beloved | 0.90% | ~134 |
 | Conqueror | 0.90% | ~134 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
-| Beloved | 0.80% | ~119 |
 | Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
 | Victorious | 0.80% | ~119 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,852 (Ranked 139)  
+Progressed: 14,855 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,852 | 5 |
+| 2023-10-21 | 14,855 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,851 (Ranked 211)  

@@ -4945,9 +4945,9 @@
       "Count": 667
     }
   ],
-  "EOS_Progressed": 3571498,
+  "EOS_Progressed": 3571517,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 2245,
+  "EOS_NewPlayers": 2246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25935,6 +25935,11 @@
       "Time": "2023-10-21T18:06:48.0066676+00:00",
       "NumProgressed": 3571498,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-10-21T19:04:10.6823514+00:00",
+      "NumProgressed": 3571517,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 52,
@@ -25954,7 +25959,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 892874
+      "UsersEstimate": 892879
     },
     {
       "ID": "BRICK",
@@ -25986,7 +25991,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 571440
+      "UsersEstimate": 571443
     },
     {
       "ID": "BUILD_2",
@@ -25994,7 +25999,7 @@
       "Name": "Triple threat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107145
+      "UsersEstimate": 107146
     },
     {
       "ID": "BUILD_3",
@@ -26002,7 +26007,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142860
+      "UsersEstimate": 142861
     },
     {
       "ID": "CASH_1",
@@ -26010,7 +26015,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1392884
+      "UsersEstimate": 1392892
     },
     {
       "ID": "CASH_2",
@@ -26018,7 +26023,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 142860
+      "UsersEstimate": 142861
     },
     {
       "ID": "CASH_3",
@@ -26026,7 +26031,7 @@
       "Name": "You rock at this!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 107145
+      "UsersEstimate": 107146
     },
     {
       "ID": "CASH_4",
@@ -26042,7 +26047,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 321435
+      "UsersEstimate": 321437
     },
     {
       "ID": "DATE",
@@ -26050,7 +26055,7 @@
       "Name": "Hasta La Vista, Baby.",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "DELIVERY",
@@ -26066,7 +26071,7 @@
       "Name": "So you\u0027re the reason why the prices are so high?",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "HBPC",
@@ -26074,7 +26079,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 714300
+      "UsersEstimate": 714303
     },
     {
       "ID": "HBPC_TIME",
@@ -26082,7 +26087,7 @@
       "Name": "Wow to build a PC!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "HOARDER",
@@ -26090,7 +26095,7 @@
       "Name": "Hoarder",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "INVENTORY",
@@ -26098,7 +26103,7 @@
       "Name": "Sitting on a fortune",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "JOBS_1",
@@ -26106,7 +26111,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1035734
+      "UsersEstimate": 1035740
     },
     {
       "ID": "JOBS_2",
@@ -26114,7 +26119,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 392865
+      "UsersEstimate": 392867
     },
     {
       "ID": "JOBS_3",
@@ -26130,7 +26135,7 @@
       "Name": "Work ethic 101",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 25000
+      "UsersEstimate": 25001
     },
     {
       "ID": "JOBS_5",
@@ -26138,7 +26143,7 @@
       "Name": "Wow, you really like PCs",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "LEVEL_1",
@@ -26146,7 +26151,7 @@
       "Name": "From humble beginnings...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 250005
+      "UsersEstimate": 250006
     },
     {
       "ID": "LEVEL_2",
@@ -26178,7 +26183,7 @@
       "Name": "Mister Big",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "MONITOR",
@@ -26186,7 +26191,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1750034
+      "UsersEstimate": 1750043
     },
     {
       "ID": "NO_PASTE",
@@ -26194,7 +26199,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1642889
+      "UsersEstimate": 1642898
     },
     {
       "ID": "OPC_BM_1",
@@ -26202,7 +26207,7 @@
       "Name": "Show off",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 32143
+      "UsersEstimate": 32144
     },
     {
       "ID": "OPC_BM_2",
@@ -26234,7 +26239,7 @@
       "Name": "Getting your feet wet",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "PERFECTION",
@@ -26250,7 +26255,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 321435
+      "UsersEstimate": 321437
     },
     {
       "ID": "PLAY_MUSIC",
@@ -26258,7 +26263,7 @@
       "Name": "Your music sucks",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 107145
+      "UsersEstimate": 107146
     },
     {
       "ID": "RADS",
@@ -26266,7 +26271,7 @@
       "Name": "Going loopy",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "REPAY",
@@ -26306,7 +26311,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 250005
+      "UsersEstimate": 250006
     },
     {
       "ID": "STARS_2",
@@ -26314,7 +26319,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 142860
+      "UsersEstimate": 142861
     },
     {
       "ID": "STARS_3",
@@ -26322,7 +26327,7 @@
       "Name": "Customer\u0027s ALWAYS right.",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "STOP_IT",
@@ -26330,7 +26335,7 @@
       "Name": "Stop it",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "TREAT_1",
@@ -26338,7 +26343,7 @@
       "Name": "Treat yourself - GPU",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "TREAT_2",
@@ -26346,7 +26351,7 @@
       "Name": "Treat yourself - CPU",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10714
+      "UsersEstimate": 10715
     },
     {
       "ID": "TREAT_3",
@@ -26354,22 +26359,22 @@
       "Name": "Treat yourself - RAM",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17857
+      "UsersEstimate": 17858
     }
   ],
   "AchievementSets": [
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3571498,
+      "Progressed": 3571517,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-10-20T19:02:10.6901773+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:06:48.006667+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:04:10.6823507+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:45.5591396+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:04:25.2899546+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:06:48.0068401+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:01:45.0581838+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:04:10.6825256+00:00"
 }

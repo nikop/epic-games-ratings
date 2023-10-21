@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,724 |
-| Finding Your Footing | 26.00% | ~11,289 |
-| Nomad | 17.00% | ~7,382 |
-| Picking Up Speed | 16.00% | ~6,947 |
-| Welcome Maya | 15.00% | ~6,513 |
-| Scout | 11.00% | ~4,776 |
-| Sightseer | 11.00% | ~4,776 |
-| Amateur | 10.00% | ~4,342 |
+| Rookie | 27.00% | ~11,725 |
+| Finding Your Footing | 26.00% | ~11,291 |
+| Nomad | 17.00% | ~7,383 |
+| Picking Up Speed | 16.00% | ~6,948 |
+| Welcome Maya | 15.00% | ~6,514 |
+| Scout | 11.00% | ~4,777 |
+| Sightseer | 11.00% | ~4,777 |
+| Amateur | 10.00% | ~4,343 |
 | Unlock Maya | 8.00% | ~3,474 |
 | Enter Paz | 8.00% | ~3,474 |
 | Wanderer | 8.00% | ~3,474 |
-| Aviator | 6.00% | ~2,605 |
+| Aviator | 6.00% | ~2,606 |
 | My Little Friend | 5.00% | ~2,171 |
 | One With The Board | 5.00% | ~2,171 |
 | Voyager | 5.00% | ~2,171 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,303 |
 | Human Flight | 3.00% | ~1,303 |
 | Sandboarder | 3.00% | ~1,303 |
-| Explorer | 2.00% | ~868 |
-| Pro | 2.00% | ~868 |
-| Unlock Izel | 2.00% | ~868 |
-| Here Comes Felipe | 2.00% | ~868 |
+| Explorer | 2.00% | ~869 |
+| Pro | 2.00% | ~869 |
+| Unlock Izel | 2.00% | ~869 |
+| Here Comes Felipe | 2.00% | ~869 |
 | Hoist the Mainsail | 1.00% | ~434 |
 | Daredevil | 1.00% | ~434 |
 | Introducing Sumara | 1.00% | ~434 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~43 |
 | Windswept | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,421 (Ranked 109)  
+Progressed: 43,427 (Ranked 109)  
 Completed: 5 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 5 (0.01%) (Ranked 299)
 | 2023-10-18 | 43,100 | 5 |
 | 2023-10-19 | 43,211 | 5 |
 | 2023-10-20 | 43,324 | 5 |
-| 2023-10-21 | 43,421 | 5 |
+| 2023-10-21 | 43,427 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 423)  
 Sum: 367 (Ranked 335)  

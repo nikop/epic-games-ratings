@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,350 |
+| Tattletale | 40.00% | ~6,351 |
 | Man of politics | 35.00% | ~5,557 |
-| Friends of sorts | 33.00% | ~5,239 |
-| Yet another secret | 33.00% | ~5,239 |
-| Let there be darkness | 32.00% | ~5,080 |
+| Friends of sorts | 33.00% | ~5,240 |
+| Yet another secret | 33.00% | ~5,240 |
+| Let there be darkness | 32.00% | ~5,081 |
 | End of Book One | 30.00% | ~4,763 |
-| Garden of Eden | 24.00% | ~3,810 |
-| Full house | 24.00% | ~3,810 |
-| Wannabe knight | 23.00% | ~3,651 |
+| Garden of Eden | 24.00% | ~3,811 |
+| Full house | 24.00% | ~3,811 |
+| Wannabe knight | 23.00% | ~3,652 |
 | Help an old friend | 22.00% | ~3,493 |
-| Two of us | 20.00% | ~3,175 |
+| Two of us | 20.00% | ~3,176 |
 | Negotiation skills | 18.00% | ~2,858 |
 | Workers' union | 18.00% | ~2,858 |
 | End of Book Two | 18.00% | ~2,858 |
@@ -25,8 +25,8 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,223 |
 | Exterminator | 13.00% | ~2,064 |
 | Whodunnit | 12.00% | ~1,905 |
-| Good midwife | 11.00% | ~1,746 |
-| First profit | 11.00% | ~1,746 |
+| Good midwife | 11.00% | ~1,747 |
+| First profit | 11.00% | ~1,747 |
 | Friar Tuck | 10.00% | ~1,588 |
 | Team player | 10.00% | ~1,588 |
 | Skilled merchant | 9.00% | ~1,429 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~476 |
 | Boy of mystery | 2.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,876 (Ranked 135)  
+Progressed: 15,878 (Ranked 135)  
 Completed: 113 (0.71%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,11 +232,11 @@ Completed: 113 (0.71%) (Ranked 160)
 | 2023-10-18 | 15,828 | 113 |
 | 2023-10-19 | 15,845 | 113 |
 | 2023-10-20 | 15,860 | 113 |
-| 2023-10-21 | 15,876 | 113 |
+| 2023-10-21 | 15,878 | 113 |
 ## Awards
 Max (Easy Puzzles): 153  (Ranked 306)  
-Sum: 195 (Ranked 390)  
-Diff (max vs sum): -84  
+Sum: 195 (Ranked 391)  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 153 |

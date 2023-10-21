@@ -2,9 +2,9 @@
   "ID": "08a9c02dda9c41a59230704e270c4c01",
   "Name": "Outbreak Lost Hope Broken Faith",
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
-  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -58,6 +58,11 @@
     {
       "Time": "2023-10-19T20:06:45.324526+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T19:07:21.9904571+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -101,7 +106,7 @@
       "ID": "GET_AWAY_FROM_HER_ACH",
       "SetID": "1go0aao",
       "Name": "Get Away From Her!",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -109,7 +114,7 @@
       "ID": "IVE_LOST_HER_ACH",
       "SetID": "1go0aao",
       "Name": "I\u0027ve Lost Her",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -117,7 +122,7 @@
       "ID": "I_NEED_A_WEAPON_ACH",
       "SetID": "1go0aao",
       "Name": "I Need a Weapon",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -166,14 +171,14 @@
     {
       "ID": "1go0aao",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-10-21T18:10:04.26517+00:00",
+  "LastChanged_Achievements": "2023-10-21T19:07:21.9904566+00:00",
   "LastUpdate_AppInfo": "2023-10-18T18:57:29.0194141+00:00",
-  "LastUpdate_Ratings": "2023-10-21T18:04:34.051329+00:00",
-  "LastUpdate_Achievements": "2023-10-21T18:10:04.2651807+00:00"
+  "LastUpdate_Ratings": "2023-10-21T19:01:48.8049852+00:00",
+  "LastUpdate_Achievements": "2023-10-21T19:07:21.9904681+00:00"
 }

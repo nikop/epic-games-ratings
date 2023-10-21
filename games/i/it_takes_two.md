@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~13,379 |
-| Fried Friendship | 87.00% | ~13,227 |
-| Look At Him Go | 78.00% | ~11,858 |
-| On Rails Experience | 57.00% | ~8,666 |
-| A Daring Devil | 52.00% | ~7,906 |
-| Break the Bank | 43.00% | ~6,537 |
-| It Took Two | 42.00% | ~6,385 |
-| Bug Sized Relaxation | 21.00% | ~3,193 |
+| Struck A Pose | 88.00% | ~13,383 |
+| Fried Friendship | 87.00% | ~13,231 |
+| Look At Him Go | 79.00% | ~12,014 |
+| On Rails Experience | 57.00% | ~8,669 |
+| A Daring Devil | 52.00% | ~7,908 |
+| Break the Bank | 43.00% | ~6,539 |
+| It Took Two | 42.00% | ~6,387 |
+| Bug Sized Relaxation | 21.00% | ~3,194 |
 | Plastic Prison Breakers | 17.00% | ~2,585 |
-| Terror Of The Seven Seas | 15.00% | ~2,280 |
-| Realize Your Art | 12.00% | ~1,824 |
-| Force Triangulated | 12.00% | ~1,824 |
-| Meditation Maestro | 12.00% | ~1,824 |
-| Lost And Found | 10.00% | ~1,520 |
-| Something Fishy | 10.00% | ~1,520 |
-| Platforming Prodigy | 9.00% | ~1,368 |
-| Snackosaurus | 8.00% | ~1,216 |
-| Mood Swing | 7.00% | ~1,064 |
+| Terror Of The Seven Seas | 15.00% | ~2,281 |
+| Realize Your Art | 12.00% | ~1,825 |
+| Force Triangulated | 12.00% | ~1,825 |
+| Meditation Maestro | 12.00% | ~1,825 |
+| Lost And Found | 10.00% | ~1,521 |
+| Something Fishy | 10.00% | ~1,521 |
+| Platforming Prodigy | 9.00% | ~1,369 |
+| Snackosaurus | 8.00% | ~1,217 |
+| Mood Swing | 7.00% | ~1,065 |
 | Minigame Megalomania | 4.00% | ~608 |
 | Faraway Frequencies | 4.00% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,203 (Ranked 137)  
-Completed: 66 (0.43%) (Ranked 189)  
+Progressed: 15,208 (Ranked 137)  
+Completed: 66 (0.43%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,4 +61,4 @@ Completed: 66 (0.43%) (Ranked 189)
 | 2023-10-18 | 14,455 | 64 |
 | 2023-10-19 | 14,625 | 64 |
 | 2023-10-20 | 14,888 | 65 |
-| 2023-10-21 | 15,203 | 66 |
+| 2023-10-21 | 15,208 | 66 |
