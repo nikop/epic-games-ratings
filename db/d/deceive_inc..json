@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18561,
+  "EOS_Progressed": 18563,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -11994,6 +11994,11 @@
       "Time": "2023-10-21T13:08:48.3748377+00:00",
       "NumProgressed": 18561,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T15:07:19.5033032+00:00",
+      "NumProgressed": 18563,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12021,7 +12026,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "0004",
@@ -12045,7 +12050,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "0007",
@@ -12141,7 +12146,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "0019",
@@ -12189,7 +12194,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "0025",
@@ -12269,7 +12274,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "0035",
@@ -12292,7 +12297,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18561,
+      "Progressed": 18563,
       "Completed": 4
     }
   ],
@@ -12300,8 +12305,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:05:31.6729255+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:07:19.5033027+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:57:34.679889+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:05:31.6730022+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:57:18.0767409+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:07:19.5033817+00:00"
 }

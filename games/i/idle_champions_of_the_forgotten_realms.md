@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.30% | ~596 |
 | Were-verpowered | 0.20% | ~465 |
 | The Ring of Regeneration | 0.20% | ~465 |
+| Seeking Allies | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
 | The Mad Wizard | 0.20% | ~465 |
 | Elturel's Last Stand | 0.20% | ~397 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~199 |
 | Flies on the Wall | 0.10% | ~232 |
 | The Killer Mists | 0.10% | ~232 |
-| Seeking Allies | 0.10% | ~232 |
 | Class Vacation | 0.10% | ~232 |
 | A Nod from Strahd | 0.10% | ~199 |
 | Backtracking Through Barovia | 0.10% | ~232 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,453 (Ranked 59)  
-Completed: 2,376 (1.02%) (Ranked 145)  
+Progressed: 232,457 (Ranked 59)  
+Completed: 2,377 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -719,10 +719,10 @@ Completed: 2,376 (1.02%) (Ranked 145)
 | 2023-10-18 | 232,193 | 2,373 |
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
-| 2023-10-21 | 232,453 | 2,376 |
+| 2023-10-21 | 232,457 | 2,377 |
 ## Awards
 Max (Great for Beginners): 5,432  (Ranked 69)  
-Sum: 32,139 (Ranked 41)  
+Sum: 32,141 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -731,7 +731,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,795 |
 | This game is Relaxing | 4,683 |
 | This game is Highly Recommended | 4,168 |
-| This game has Amazing Characters | 4,165 |
+| This game has Amazing Characters | 4,167 |
 | This game has Playful Visuals | 3,476 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1004,4 +1004,4 @@ Diff (max vs sum): 28
 | 2023-10-18 | 4.06 | - | 5,419 | 32,103 |
 | 2023-10-19 | 4.06 | - | 5,424 | 32,121 |
 | 2023-10-20 | 4.06 | - | 5,424 | 32,131 |
-| 2023-10-21 | 4.06 | - | 5,432 | 32,139 |
+| 2023-10-21 | 4.06 | - | 5,432 | 32,141 |

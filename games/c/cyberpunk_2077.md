@@ -1,12 +1,14 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 325)  
+Rating: 4.64 (Ranked 326)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.20% | ~1,786 |
+| Ten out of Ten | 0.30% | ~2,679 |
+| Full Body Conversion | 0.20% | ~1,786 |
+| Stanislavski's Method | 0.20% | ~1,786 |
 | Rough Landing | 0.20% | ~1,786 |
 | The High Priestess | 0.20% | ~1,786 |
 | All the President's Men | 0.20% | ~43 |
@@ -14,7 +16,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | City Lights | 0.10% | ~893 |
 | To Bad Decisions! | 0.10% | ~893 |
 | Bushido and Chill | 0.10% | ~893 |
-| Full Body Conversion | 0.10% | ~893 |
 | Right Back At Ya | 0.10% | ~893 |
 | To Protect and Serve | 0.10% | ~893 |
 | The Wandering Fool | 0.10% | ~893 |
@@ -33,7 +34,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~893 |
 | Daemon In The Shell | 0.10% | ~893 |
 | Life of the Road | 0.10% | ~893 |
-| Stanislavski's Method | 0.10% | ~893 |
 | Temperance | 0.10% | ~893 |
 | The Devil | 0.10% | ~893 |
 | The Fool | 0.10% | ~893 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,041 (Ranked 15)  
-Completed: 2,693 (0.30%) (Ranked 208)  
+Progressed: 893,051 (Ranked 15)  
+Completed: 2,694 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,17 +256,17 @@ Completed: 2,693 (0.30%) (Ranked 208)
 | 2023-10-18 | 892,603 | 2,683 |
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
-| 2023-10-21 | 893,041 | 2,693 |
+| 2023-10-21 | 893,051 | 2,694 |
 ## Awards
-Max (Character Customization): 99,962  (Ranked 9)  
-Sum: 316,677 (Ranked 11)  
+Max (Character Customization): 100,310  (Ranked 9)  
+Sum: 317,262 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 99,962 |
+| This game has Inclusive Character Customization | 100,310 |
 | This game has Great Boss Battles | 70,969 |
 | This game is Great for Beginners | 17,912 |
-| This game has Diverse Characters | 17,590 |
+| This game has Diverse Characters | 17,827 |
 | This game is Highly Recommended | 17,009 |
 | This game has Amazing Storytelling | 16,845 |
 | This game is Extremely Fun | 16,793 |
@@ -552,4 +552,4 @@ Diff (max vs sum): -2
 | 2023-10-18 | 4.64 | - | 99,323 | 311,170 |
 | 2023-10-19 | 4.64 | - | 99,621 | 313,301 |
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
-| 2023-10-21 | 4.64 | - | 99,962 | 316,677 |
+| 2023-10-21 | 4.64 | - | 100,310 | 317,262 |

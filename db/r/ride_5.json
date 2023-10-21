@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3232,6 +3232,11 @@
       "Time": "2023-10-21T14:10:21.190795+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T15:11:39.4132457+00:00",
+      "NumProgressed": 1593,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3244,7 +3249,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3260,7 +3265,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3276,7 +3281,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3300,7 +3305,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3314,9 +3319,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 382
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3332,7 +3337,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3348,7 +3353,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3420,7 +3425,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3444,7 +3449,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3452,7 +3457,7 @@
       "Name": "Clean Race",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3530,9 +3535,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 398
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3540,7 +3545,7 @@
       "Name": "Eat My Dust",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3596,7 +3601,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3635,14 +3640,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:10:21.1907947+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:11:39.4132454+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:05.5662527+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:01:39.2128343+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:10:21.1908434+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:02:05.4528048+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:11:39.413298+00:00"
 }

@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 325)  
+Rating: 4.65 (Ranked 304)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 325)
 | Legendary Bounty Hunter | 0.80% | ~194 |
 | Fallout Doesn't Let You Do This | 0.70% | ~170 |
 | Series Wrap on Suit-O | 0.70% | ~170 |
+| We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
 | Eatin' Good in the Neighborhood | 0.60% | ~146 |
-| We Came, We Chainsaw, We Conquered | 0.60% | ~9 |
 | Eye Scream, You Scream | 0.50% | ~121 |
 | Mux Ado About Shipping | 0.50% | ~8 |
 | Sequel-Bait | 0.30% | ~73 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 325)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,283 (Ranked 122)  
+Progressed: 24,284 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 13 (0.05%) (Ranked 276)
 | 2023-10-18 | 24,252 | 13 |
 | 2023-10-19 | 24,259 | 13 |
 | 2023-10-20 | 24,273 | 13 |
-| 2023-10-21 | 24,283 | 13 |
+| 2023-10-21 | 24,284 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -290,3 +290,4 @@ Completed: 13 (0.05%) (Ranked 276)
 | 2023-09-29 | 4.64 | 0 | 0 |
 | 2023-10-04 | 4.63 | 0 | 0 |
 | 2023-10-07 | 4.64 | 0 | 0 |
+| 2023-10-21 | 4.65 | 0 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -173,11 +173,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 694,
+  "EOS_Progressed": 695,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.65,
+  "EOS_Completed_Percentage": 8.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -353,6 +353,11 @@
       "Time": "2023-10-21T07:08:03.4787606+00:00",
       "NumProgressed": 694,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T15:09:32.7733142+00:00",
+      "NumProgressed": 695,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -364,7 +369,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -372,7 +377,7 @@
       "Name": "Partners?",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -380,7 +385,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -388,7 +393,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -428,7 +433,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -500,7 +505,7 @@
       "Name": "No One Better",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT019",
@@ -508,15 +513,15 @@
       "Name": "Full Force - CJ",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT020",
       "SetID": "dejhjd5",
       "Name": "Full Force - Garoo",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT021",
@@ -548,7 +553,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -556,7 +561,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -596,7 +601,7 @@
       "Name": "Gourmand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -604,7 +609,7 @@
       "Name": "Accessorizer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT032",
@@ -644,7 +649,7 @@
       "Name": "First Time Hunting",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -652,7 +657,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -668,7 +673,7 @@
       "Name": "Meat Master",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -700,7 +705,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -708,7 +713,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -716,7 +721,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -732,7 +737,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -740,7 +745,7 @@
       "Name": "Champion of the Snowpeak",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT049",
@@ -763,15 +768,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 694,
+      "Progressed": 695,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-10-09T03:01:40.7583334+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:08:13.2486315+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:09:32.7733139+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.6561421+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:01:08.2809497+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:08:13.2486668+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:01:23.458118+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:09:32.7733495+00:00"
 }

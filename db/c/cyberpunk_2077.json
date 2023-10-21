@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
@@ -13836,18 +13836,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 316677,
       "NumberOfAwardsMax": 99962
+    },
+    {
+      "Time": "2023-10-21T14:59:56.0568383+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 317262,
+      "NumberOfAwardsMax": 100310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316677,
-  "NumberOfAwardsMax": 99962,
+  "NumberOfAwards": 317262,
+  "NumberOfAwardsMax": 100310,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 99962
+      "Count": 100310
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13859,7 +13865,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 17590
+      "Count": 17827
     },
     {
       "Text": "This game is Relaxing",
@@ -13916,10 +13922,10 @@
       "Count": 10987
     }
   ],
-  "EOS_Progressed": 893041,
-  "EOS_Completed": 2693,
-  "EOS_NewPlayers": 1373,
-  "EOS_NewCompleters": 34,
+  "EOS_Progressed": 893051,
+  "EOS_Completed": 2694,
+  "EOS_NewPlayers": 1359,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34751,6 +34757,11 @@
       "Time": "2023-10-21T14:06:26.0272839+00:00",
       "NumProgressed": 893041,
       "NumCompleted": 2693
+    },
+    {
+      "Time": "2023-10-21T15:08:03.9291856+00:00",
+      "NumProgressed": 893051,
+      "NumCompleted": 2694
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34785,9 +34796,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "Denied",
@@ -34937,17 +34948,17 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 2679
     },
     {
       "ID": "Temperance",
@@ -35282,21 +35293,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893041,
-      "Completed": 2693
+      "Progressed": 893051,
+      "Completed": 2694
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21664,
+      "Progressed": 21674,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-21T10:58:58.2892467+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:06:26.0272835+00:00",
+  "LastChanged": "2023-10-21T14:59:56.0568382+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:08:03.9291845+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:37.5483976+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:59:54.3746045+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:06:26.0274246+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:59:56.0568391+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:08:03.9293271+00:00"
 }

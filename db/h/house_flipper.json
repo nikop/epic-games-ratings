@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1959,9 +1959,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 21062,
+  "EOS_Progressed": 21064,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9484,6 +9484,11 @@
       "Time": "2023-10-21T14:06:05.723187+00:00",
       "NumProgressed": 21062,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-21T15:07:37.436542+00:00",
+      "NumProgressed": 21064,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9503,7 +9508,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ChangChoi",
@@ -9527,7 +9532,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3160
     },
     {
       "ID": "EstateAgent",
@@ -9543,7 +9548,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20009
+      "UsersEstimate": 20011
     },
     {
       "ID": "GameOver",
@@ -9551,7 +9556,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "GorgioShanua",
@@ -9615,7 +9620,7 @@
       "Name": "Negotiator",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Perfectionist",
@@ -9631,7 +9636,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9647,7 +9652,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "Strongman",
@@ -9655,7 +9660,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6529
+      "UsersEstimate": 6530
     },
     {
       "ID": "VeronicaLiptson",
@@ -9678,15 +9683,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21062,
+      "Progressed": 21064,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-19T02:58:10.2624005+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:06:05.7231866+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:07:37.4365413+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:53.7092922+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:00:47.6818676+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:06:05.7232344+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:00:57.3250462+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:07:37.4365883+00:00"
 }

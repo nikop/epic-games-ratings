@@ -3,14 +3,14 @@
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
 Rating: 4.45 (Ranked 651)  
 ## Awards
-Max (Great for Beginners): 76  (Ranked 381)  
-Sum: 664 (Ranked 296)  
-Diff (max vs sum): 85  
+Max (Relaxing): 79  (Ranked 374)  
+Sum: 671 (Ranked 294)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 79 |
 | This game is Great for Beginners | 76 |
 | This game has Quickly Understood Controls | 75 |
-| This game is Relaxing | 72 |
 | This game is Educational | 65 |
 | This game is Extremely Fun | 62 |
 | This game has Diverse Characters | 61 |
@@ -36,4 +36,4 @@ Diff (max vs sum): 85
 | 2023-10-18 | 4.46 | 70 | 539 |
 | 2023-10-19 | 4.46 | 70 | 558 |
 | 2023-10-20 | 4.46 | 75 | 640 |
-| 2023-10-21 | 4.45 | 76 | 664 |
+| 2023-10-21 | 4.45 | 79 | 671 |

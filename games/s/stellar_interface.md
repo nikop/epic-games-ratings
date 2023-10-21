@@ -103,6 +103,7 @@
 | Godlike | 2.00% | ~1 |
 | Usurper IV | 2.00% | ~1 |
 | Rampage | 2.00% | ~1 |
+| Usurper V | 2.00% | ~1 |
 | Five-O | 2.00% | ~1 |
 | Galactic Colonel | 2.00% | ~1 |
 | Galactic Major | 2.00% | ~1 |
@@ -130,7 +131,6 @@
 | Universal Admiral | 0.00% | ~0 |
 | Completionist | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
-| Usurper V | 0.00% | ~0 |
 | Universal Captain | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |

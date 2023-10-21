@@ -7,17 +7,17 @@ Rating: 4.50 (Ranked 576)
 | ---- | ---------- | ----- |
 | Advancement | 3.00% | ~808 |
 | Stylish | 3.00% | ~808 |
-| Clutch Capture | 2.00% | ~538 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~538 |
-| Cultured | 2.00% | ~538 |
-| Discovery | 2.00% | ~538 |
-| Meticulously Efficient | 2.00% | ~538 |
-| Fully Upgraded | 2.00% | ~538 |
-| Solo Capture | 2.00% | ~538 |
-| Swift Rift Removers | 2.00% | ~538 |
-| Teamwork | 2.00% | ~538 |
-| There you are! | 2.00% | ~538 |
-| Vaporous Expansion | 2.00% | ~538 |
+| Clutch Capture | 2.00% | ~539 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~539 |
+| Cultured | 2.00% | ~539 |
+| Discovery | 2.00% | ~539 |
+| Meticulously Efficient | 2.00% | ~539 |
+| Fully Upgraded | 2.00% | ~539 |
+| Solo Capture | 2.00% | ~539 |
+| Swift Rift Removers | 2.00% | ~539 |
+| Teamwork | 2.00% | ~539 |
+| There you are! | 2.00% | ~539 |
+| Vaporous Expansion | 2.00% | ~539 |
 | Animated | 1.00% | ~269 |
 | Back Off | 1.00% | ~269 |
 | Daily Dose | 1.00% | ~269 |
@@ -35,9 +35,9 @@ Rating: 4.50 (Ranked 576)
 | Skilled | 0.90% | ~242 |
 | Stunner | 0.90% | ~242 |
 | We have the best insurance | 0.80% | ~215 |
-| Rift Destroyer | 0.70% | ~188 |
-| Seasoned | 0.70% | ~188 |
-| Tobin's Prodigy | 0.70% | ~188 |
+| Rift Destroyer | 0.70% | ~189 |
+| Seasoned | 0.70% | ~189 |
+| Tobin's Prodigy | 0.70% | ~189 |
 | Collector | 0.60% | ~162 |
 | Diabolical | 0.60% | ~162 |
 | Escape Artist | 0.60% | ~162 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,918 (Ranked 119)  
+Progressed: 26,929 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
-| 2023-10-21 | 26,918 | 60 |
+| 2023-10-21 | 26,929 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,451 (Ranked 187)  

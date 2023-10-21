@@ -9,8 +9,8 @@
 | On the Road | 45.00% | ~196 |
 | Souvenirs | 31.00% | ~135 |
 | Welcome to the Garage | 20.00% | ~87 |
+| Truthseeker | 17.00% | ~74 |
 | This is Not Heavy Metal! | 17.00% | ~74 |
-| Truthseeker | 16.00% | ~70 |
 | Freedom | 9.00% | ~39 |
 | 86's Nightmare | 9.00% | ~39 |
 | Partners in Crime | 9.00% | ~39 |
@@ -21,7 +21,7 @@
 | Try Harder | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 435 (Ranked 289)  
-Completed: 2 (0.46%) (Ranked 182)  
+Completed: 2 (0.46%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

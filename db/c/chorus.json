@@ -3,11 +3,11 @@
   "Name": "Chorus",
   "ProductSlug": "chorus",
   "Ranking_Rating": 632,
-  "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 488,
+  "Ranking_Popularity": 464,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -307,9 +307,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1250,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -2287,6 +2287,11 @@
       "Time": "2023-10-20T05:08:02.0284747+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-21T15:11:11.252143+00:00",
+      "NumProgressed": 1250,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 43,
@@ -2298,7 +2303,7 @@
       "Name": "Demigod",
       "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "DieInPermadeath",
@@ -2314,7 +2319,7 @@
       "Name": "Voices from the Past",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "Finish5SideMissions",
@@ -2322,15 +2327,15 @@
       "Name": "Helping Hand",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "FinishAllSideMissions",
       "SetID": "a6c395p",
       "Name": "Paragon",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 70,
-      "UsersEstimate": 787
+      "UsersEstimate": 775
     },
     {
       "ID": "GatlingVsArmor",
@@ -2338,7 +2343,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Kill3InOneDrift",
@@ -2346,7 +2351,7 @@
       "Name": "Showoff",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "KillWhileDrifting",
@@ -2354,7 +2359,7 @@
       "Name": "Born to Drift",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "KillWithALargeShip",
@@ -2362,7 +2367,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "MasteryOfCombat",
@@ -2370,7 +2375,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MasteryOfRites",
@@ -2394,7 +2399,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -2424,9 +2429,9 @@
       "ID": "MissionDefenderOfTheWeak",
       "SetID": "a6c395p",
       "Name": "Payback",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 650
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -2434,7 +2439,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -2442,7 +2447,7 @@
       "Name": "Full Arsenal",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "MissionEosReturn",
@@ -2464,9 +2469,9 @@
       "ID": "MissionHeartOfTheFaceless",
       "SetID": "a6c395p",
       "Name": "Disciple",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 375
     },
     {
       "ID": "MissionHelios",
@@ -2482,7 +2487,7 @@
       "Name": "Safe Home",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -2490,7 +2495,7 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "MissionOldFriend",
@@ -2514,7 +2519,7 @@
       "Name": "Shields Down",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "MissionScavengingJob",
@@ -2546,7 +2551,7 @@
       "Name": "Disruption",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -2594,7 +2599,7 @@
       "Name": "Huntress",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "RiteOfTheStar",
@@ -2610,7 +2615,7 @@
       "Name": "It Was An Accident",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "UseRepairDrones",
@@ -2618,7 +2623,7 @@
       "Name": "Phoenix",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "VisitAllLocations",
@@ -2626,7 +2631,7 @@
       "Name": "Space Traveler",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "WinARace",
@@ -2641,15 +2646,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1250,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-10-05T08:58:55.3962263+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:09:39.964993+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:11:11.2521425+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:03.5329317+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:57:45.6852297+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:09:39.9650307+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:57:27.037754+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:11:11.2521793+00:00"
 }

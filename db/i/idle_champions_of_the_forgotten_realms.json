@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7439,10 +7439,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32139,
       "NumberOfAwardsMax": 5432
+    },
+    {
+      "Time": "2023-10-21T14:59:52.6395399+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32141,
+      "NumberOfAwardsMax": 5432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32139,
+  "NumberOfAwards": 32141,
   "NumberOfAwardsMax": 5432,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7480,7 +7486,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4165
+      "Count": 4167
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7489,10 +7495,10 @@
       "Count": 3476
     }
   ],
-  "EOS_Progressed": 232453,
-  "EOS_Completed": 2376,
-  "EOS_NewPlayers": 635,
-  "EOS_NewCompleters": 15,
+  "EOS_Progressed": 232457,
+  "EOS_Completed": 2377,
+  "EOS_NewPlayers": 632,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -28029,6 +28035,11 @@
       "Time": "2023-10-21T14:06:24.4804106+00:00",
       "NumProgressed": 232453,
       "NumCompleted": 2376
+    },
+    {
+      "Time": "2023-10-21T15:08:00.8812007+00:00",
+      "NumProgressed": 232457,
+      "NumCompleted": 2377
     }
   ],
   "TotalAchievements": 528,
@@ -29830,9 +29841,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 465
     },
     {
       "ID": "objective_completed_390",
@@ -32263,21 +32274,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198727,
+      "Progressed": 198731,
       "Completed": 3666
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232453,
-      "Completed": 2376
+      "Progressed": 232457,
+      "Completed": 2377
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-21T01:39:20.6444073+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:06:24.4804102+00:00",
+  "LastChanged": "2023-10-21T14:59:52.6395398+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:08:00.8812003+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:38.1045135+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:59:52.7910207+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:06:24.4829834+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:59:52.6395404+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:08:00.8837603+00:00"
 }

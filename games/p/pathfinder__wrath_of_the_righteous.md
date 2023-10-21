@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 17.00% | ~1,983 |
 | Defender's Heart | 15.00% | ~1,750 |
 | Mythic Choices | 14.00% | ~1,633 |
-| Banner over the Citadel | 13.00% | ~1,516 |
+| Banner over the Citadel | 13.00% | ~1,517 |
 | Queen's Gratitude | 12.00% | ~1,400 |
 | Fifth Crusade | 8.00% | ~933 |
 | Embrace of the Abyss | 6.00% | ~700 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,665 (Ranked 146)  
+Progressed: 11,666 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,15 +307,15 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 11,567 | 0 |
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
-| 2023-10-21 | 11,665 | 0 |
+| 2023-10-21 | 11,666 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
-Sum: 6,995 (Ranked 115)  
+Sum: 6,996 (Ranked 115)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,726 |
-| This game is Extremely Fun | 652 |
+| This game is Extremely Fun | 653 |
 | This game is Highly Recommended | 640 |
 | This game has Amazing Characters | 638 |
 | This game has Diverse Characters | 630 |
@@ -568,3 +568,4 @@ Diff (max vs sum): 4
 | 2023-10-17 | 4.76 | - | 1,726 | 6,993 |
 | 2023-10-19 | 4.76 | - | 1,726 | 6,994 |
 | 2023-10-20 | 4.76 | - | 1,726 | 6,995 |
+| 2023-10-21 | 4.76 | - | 1,726 | 6,996 |

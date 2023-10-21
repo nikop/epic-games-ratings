@@ -3,7 +3,7 @@
   "Name": "Dark Fantasy Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 4,
+  "Ranking_EOS_Completed": 5,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 45.89,
+  "EOS_Completed_Percentage": 45.73,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1624,6 +1624,11 @@
       "Time": "2023-10-21T14:04:31.8873536+00:00",
       "NumProgressed": 292,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-10-21T15:06:00.4935186+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 134
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1636,7 +1641,7 @@
       "Name": "Portrait 1",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "PORTRAIT_10",
@@ -1644,15 +1649,15 @@
       "Name": "Portrait 1",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "PORTRAIT_11",
       "SetID": "2fge00i",
       "Name": "Portrait 11",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "PORTRAIT_12",
@@ -1682,25 +1687,25 @@
       "ID": "PORTRAIT_15",
       "SetID": "2fge00i",
       "Name": "Portrait 15",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "PORTRAIT_16",
       "SetID": "2fge00i",
       "Name": "Portrait 16",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "PORTRAIT_17",
       "SetID": "2fge00i",
       "Name": "Portrait 17",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 138
     },
     {
       "ID": "PORTRAIT_18",
@@ -1708,7 +1713,7 @@
       "Name": "Portrait 18",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "PORTRAIT_19",
@@ -1716,7 +1721,7 @@
       "Name": "Portrait 19",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "PORTRAIT_2",
@@ -1724,15 +1729,15 @@
       "Name": "Portrait 2",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "PORTRAIT_3",
@@ -1746,17 +1751,17 @@
       "ID": "PORTRAIT_4",
       "SetID": "2fge00i",
       "Name": "Portrait 4",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 214
     },
     {
       "ID": "PORTRAIT_5",
       "SetID": "2fge00i",
       "Name": "Portrait 5",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 208
     },
     {
       "ID": "PORTRAIT_6",
@@ -1772,7 +1777,7 @@
       "Name": "Portrait 7",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PORTRAIT_8",
@@ -1780,7 +1785,7 @@
       "Name": "Portrait 8",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "PORTRAIT_9",
@@ -1788,21 +1793,21 @@
       "Name": "Portrait 9",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     }
   ],
   "AchievementSets": [
     {
       "ID": "2fge00i",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 134
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:04:31.8873532+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:06:00.4935181+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:08.9765467+00:00",
-  "LastUpdate_Ratings": "2023-10-21T13:57:38.7159351+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:04:31.8873767+00:00"
+  "LastUpdate_Ratings": "2023-10-21T14:57:20.1724281+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:06:00.4935394+00:00"
 }

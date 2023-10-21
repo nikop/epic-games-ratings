@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~214 |
-| Initiate's Resolve | 6.00% | ~214 |
+| To Suffer is to Learn | 6.00% | ~215 |
+| Initiate's Resolve | 6.00% | ~215 |
 | Missilis | 5.00% | ~179 |
 | Modest Earnings | 5.00% | ~179 |
 | Armaments of the Pantheon | 5.00% | ~179 |
@@ -31,20 +31,20 @@
 | Ophiolatreia | 3.00% | ~107 |
 | Halls of Marble | 3.00% | ~107 |
 | Serpentine | 3.00% | ~107 |
-| Wayward Son of Hephaestus | 2.00% | ~71 |
-| Lament of the Constellations | 2.00% | ~71 |
-| Forged in Fire | 2.00% | ~71 |
-| Rock and a Hard Place | 2.00% | ~71 |
-| The Midas Touch | 2.00% | ~71 |
-| Hapax Legomenon | 2.00% | ~71 |
-| Don't Pay the Ferryman | 2.00% | ~71 |
-| Veneration of Hephaestus | 2.00% | ~71 |
-| Vandili | 2.00% | ~71 |
-| No Scylla in Sight | 2.00% | ~71 |
-| Cloaca Maxima | 2.00% | ~71 |
-| Baby Crabs They Ain't | 2.00% | ~71 |
-| Mors Omnibus | 2.00% | ~71 |
-| Blot Out the Sky | 2.00% | ~71 |
+| Wayward Son of Hephaestus | 2.00% | ~72 |
+| Lament of the Constellations | 2.00% | ~72 |
+| Forged in Fire | 2.00% | ~72 |
+| Rock and a Hard Place | 2.00% | ~72 |
+| The Midas Touch | 2.00% | ~72 |
+| Hapax Legomenon | 2.00% | ~72 |
+| Don't Pay the Ferryman | 2.00% | ~72 |
+| Veneration of Hephaestus | 2.00% | ~72 |
+| Vandili | 2.00% | ~72 |
+| No Scylla in Sight | 2.00% | ~72 |
+| Cloaca Maxima | 2.00% | ~72 |
+| Baby Crabs They Ain't | 2.00% | ~72 |
+| Mors Omnibus | 2.00% | ~72 |
+| Blot Out the Sky | 2.00% | ~72 |
 | The Nameless One | 1.00% | ~36 |
 | Rule of Thirds | 1.00% | ~36 |
 | Pyr Demon | 1.00% | ~36 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574 (Ranked 186)  
+Progressed: 3,577 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 3,568 | 0 |
 | 2023-10-19 | 3,571 | 0 |
 | 2023-10-20 | 3,574 | 0 |
+| 2023-10-21 | 3,577 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

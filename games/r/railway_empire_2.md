@@ -49,8 +49,8 @@ Rating: 4.44 (Ranked 662)
 | Max Power | 14.00% | ~287 |
 | A new Hope | 11.00% | ~225 |
 | Tycoon | 11.00% | ~225 |
-| Unstoppable | 8.00% | ~164 |
-| Track to the Future | 8.00% | ~164 |
+| Unstoppable | 9.00% | ~184 |
+| Track to the Future | 9.00% | ~184 |
 | Call of Duty | 8.00% | ~164 |
 | Conductor | 7.00% | ~143 |
 | Engineer | 4.00% | ~82 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 311,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.43,
   "EosHistory": [
@@ -1509,9 +1509,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1557,9 +1557,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1661,9 +1661,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
@@ -1676,8 +1676,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:08:14.6309024+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:09:34.4009567+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:19.4856723+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:02:08.0220525+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:08:14.6309236+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:02:39.8799548+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:09:34.4009787+00:00"
 }

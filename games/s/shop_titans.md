@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,137 |
-| Basic in Bulk | 3.00% | ~4,137 |
-| Tinkle of Coins | 3.00% | ~4,137 |
-| Titan's First Steps | 3.00% | ~4,137 |
+| Sponsored by Argon | 3.00% | ~4,138 |
+| Basic in Bulk | 3.00% | ~4,138 |
+| Tinkle of Coins | 3.00% | ~4,138 |
+| Titan's First Steps | 3.00% | ~4,138 |
 | One Easy Payment | 2.00% | ~2,758 |
 | Some Assembly Required | 2.00% | ~2,758 |
 | Disintermediation | 2.00% | ~2,758 |
@@ -38,12 +38,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,379 |
 | Arcane Industries | 1.00% | ~1,379 |
 | Research & Development | 0.90% | ~1,241 |
+| Fated Encounters | 0.90% | ~1,241 |
 | Power of Love | 0.90% | ~1,241 |
 | Flawless Fusion | 0.90% | ~1,241 |
 | Helping Hand | 0.90% | ~1,241 |
 | Natural 20 | 0.90% | ~1,241 |
 | Tax not Included | 0.80% | ~1,103 |
-| Fated Encounters | 0.80% | ~1,103 |
 | For the Hoard! | 0.80% | ~1,103 |
 | Trash to Treasure | 0.80% | ~1,103 |
 | Royal Ransom | 0.80% | ~1,103 |
@@ -68,33 +68,33 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.70% | ~965 |
 | Special Ingredient | 0.70% | ~965 |
 | Complete Monopoly | 0.70% | ~965 |
-| Cream of the Crop | 0.60% | ~827 |
-| Top of the World | 0.60% | ~827 |
-| Proud Paladin | 0.60% | ~827 |
-| Above the Norm | 0.60% | ~827 |
-| A Ronin Reborn | 0.60% | ~827 |
-| Thirst for Knowledge | 0.60% | ~827 |
-| Booty by the Boatload | 0.60% | ~827 |
-| Archivist | 0.60% | ~827 |
-| Omae wa Mou Shindeiru | 0.60% | ~827 |
-| Supercharged | 0.60% | ~827 |
-| Ritualist | 0.60% | ~827 |
-| Fit for a King | 0.60% | ~827 |
-| By Your Powers Combined... | 0.60% | ~827 |
-| Wealth Beyond Measure | 0.60% | ~827 |
-| Fat Cat Tag Team | 0.60% | ~827 |
-| Item of Renown | 0.60% | ~827 |
-| Master Merchant | 0.60% | ~827 |
-| Bountiful Harvest | 0.60% | ~827 |
-| Precision Engineering | 0.60% | ~827 |
-| Attrition Mission | 0.60% | ~827 |
-| Glittering Collection | 0.60% | ~827 |
-| Treasure Trove | 0.60% | ~827 |
-| Moment of Respite | 0.60% | ~827 |
-| King's Shadow | 0.60% | ~827 |
-| Master Recycler | 0.60% | ~827 |
-| Exotic Commodities | 0.60% | ~827 |
-| King's Blade | 0.60% | ~827 |
+| Cream of the Crop | 0.60% | ~828 |
+| Top of the World | 0.60% | ~828 |
+| Proud Paladin | 0.60% | ~828 |
+| Above the Norm | 0.60% | ~828 |
+| A Ronin Reborn | 0.60% | ~828 |
+| Thirst for Knowledge | 0.60% | ~828 |
+| Booty by the Boatload | 0.60% | ~828 |
+| Archivist | 0.60% | ~828 |
+| Omae wa Mou Shindeiru | 0.60% | ~828 |
+| Supercharged | 0.60% | ~828 |
+| Ritualist | 0.60% | ~828 |
+| Fit for a King | 0.60% | ~828 |
+| By Your Powers Combined... | 0.60% | ~828 |
+| Wealth Beyond Measure | 0.60% | ~828 |
+| Fat Cat Tag Team | 0.60% | ~828 |
+| Item of Renown | 0.60% | ~828 |
+| Master Merchant | 0.60% | ~828 |
+| Bountiful Harvest | 0.60% | ~828 |
+| Precision Engineering | 0.60% | ~828 |
+| Attrition Mission | 0.60% | ~828 |
+| Glittering Collection | 0.60% | ~828 |
+| Treasure Trove | 0.60% | ~828 |
+| Moment of Respite | 0.60% | ~828 |
+| King's Shadow | 0.60% | ~828 |
+| Master Recycler | 0.60% | ~828 |
+| Exotic Commodities | 0.60% | ~828 |
+| King's Blade | 0.60% | ~828 |
 | Constellated | 0.50% | ~690 |
 | Fillin' the Bin | 0.50% | ~690 |
 | Industrial Evolution | 0.50% | ~690 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,915 (Ranked 74)  
+Progressed: 137,919 (Ranked 74)  
 Completed: 171 (0.12%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 171 (0.12%) (Ranked 244)
 | 2023-10-18 | 137,790 | 171 |
 | 2023-10-19 | 137,829 | 171 |
 | 2023-10-20 | 137,884 | 171 |
-| 2023-10-21 | 137,915 | 171 |
+| 2023-10-21 | 137,919 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 73)  
 Sum: 27,418 (Ranked 50)  

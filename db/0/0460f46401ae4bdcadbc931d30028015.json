@@ -427,7 +427,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2701,
+  "EOS_Progressed": 2703,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
@@ -3027,6 +3027,11 @@
       "Time": "2023-10-21T14:09:17.3412346+00:00",
       "NumProgressed": 2701,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T15:10:31.530307+00:00",
+      "NumProgressed": 2703,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3047,7 +3052,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "achievement_11",
@@ -3055,7 +3060,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "achievement_12",
@@ -3063,7 +3068,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_13",
@@ -3071,7 +3076,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achievement_14",
@@ -3079,7 +3084,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "achievement_15",
@@ -3135,7 +3140,7 @@
       "Name": "Saw It Coming",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "achievement_21",
@@ -3167,7 +3172,7 @@
       "Name": "Change of Scenery",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_6",
@@ -3175,7 +3180,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_7",
@@ -3191,7 +3196,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "achievement_9",
@@ -3206,7 +3211,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2701,
+      "Progressed": 2703,
       "Completed": 0
     }
   ],
@@ -3214,8 +3219,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-21T01:43:32.4786296+00:00",
-  "LastChanged_Achievements": "2023-10-21T14:09:17.3412341+00:00",
+  "LastChanged_Achievements": "2023-10-21T15:10:31.5303065+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-21T14:04:11.8464551+00:00",
-  "LastUpdate_Achievements": "2023-10-21T14:09:17.3412597+00:00"
+  "LastUpdate_Ratings": "2023-10-21T15:05:33.081161+00:00",
+  "LastUpdate_Achievements": "2023-10-21T15:10:31.5303311+00:00"
 }

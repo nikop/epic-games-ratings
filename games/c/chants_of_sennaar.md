@@ -13,20 +13,20 @@
 | A good beginning | 10.00% | ~31 |
 | True G3M4R | 10.00% | ~31 |
 | The darkness | 10.00% | ~31 |
+| One last step | 10.00% | ~31 |
 | Cable guy | 9.00% | ~28 |
-| One last step | 9.00% | ~28 |
+| Half the way | 9.00% | ~28 |
 | I did it | 8.00% | ~25 |
 | In this together | 8.00% | ~25 |
 | Peace walker | 8.00% | ~25 |
-| Half the way | 8.00% | ~25 |
 | Champollion | 8.00% | ~25 |
 | Alchemists Express | 7.00% | ~22 |
 | Open door | 6.00% | ~19 |
 | Feels like springtime | 6.00% | ~19 |
 | Free at last | 5.00% | ~16 |
+| A Link to the Past | 5.00% | ~16 |
 | Rascal | 5.00% | ~16 |
 | For its own good | 4.00% | ~12 |
-| A Link to the Past | 4.00% | ~12 |
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

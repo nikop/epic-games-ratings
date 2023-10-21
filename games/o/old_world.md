@@ -49,7 +49,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~148 |
 | Artisans | 1.00% | ~148 |
 | Furious Family | 1.00% | ~148 |
-| Acropolis | 1.00% | ~148 |
 | Apadana | 1.00% | ~148 |
 | Colossus | 1.00% | ~148 |
 | Great Ziggurat | 1.00% | ~148 |
@@ -71,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~148 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
+| Acropolis | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
 | Beloved | 0.80% | ~119 |
 | Conqueror | 0.80% | ~119 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,842 (Ranked 139)  
+Progressed: 14,845 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,842 | 5 |
+| 2023-10-21 | 14,845 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,850 (Ranked 211)  
