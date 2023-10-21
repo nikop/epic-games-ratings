@@ -7,19 +7,19 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,694 |
-| I read Shakespeare and stuff | 64.00% | ~32,165 |
+| I read Shakespeare and stuff | 64.00% | ~32,166 |
 | Just a sprinkle | 63.00% | ~31,663 |
-| I'm stumped | 61.00% | ~30,657 |
+| I'm stumped | 61.00% | ~30,658 |
 | Plant get enough | 60.00% | ~30,155 |
-| It's just the beginning | 59.00% | ~29,652 |
+| It's just the beginning | 59.00% | ~29,653 |
 | This is just my weekend vehicle | 58.00% | ~29,150 |
 | Hard work pays off | 53.00% | ~26,637 |
-| It's never too late to farm | 50.00% | ~25,129 |
+| It's never too late to farm | 50.00% | ~25,130 |
 | All out of Land | 44.00% | ~22,114 |
 | Field Trip | 44.00% | ~22,114 |
-| I like to switch it up | 40.00% | ~20,103 |
+| I like to switch it up | 40.00% | ~20,104 |
 | Help me to help you | 38.00% | ~19,098 |
-| Ultimutt Pawesomeness | 28.00% | ~14,072 |
+| Ultimutt Pawesomeness | 28.00% | ~14,073 |
 | Van Gogh | 26.00% | ~13,067 |
 | You wood not believe it | 22.00% | ~11,057 |
 | Vehicle fleet | 22.00% | ~11,057 |
@@ -35,10 +35,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's sow easy | 11.00% | ~5,528 |
 | Giddy-up! | 10.00% | ~5,026 |
 | Cowherd | 7.00% | ~3,518 |
-| Fluffyness | 6.00% | ~3,015 |
-| Road Trip | 6.00% | ~3,015 |
-| Helper A does not stop … ever | 6.00% | ~3,015 |
-| Bringing in the Honey | 6.00% | ~3,015 |
+| Fluffyness | 6.00% | ~3,016 |
+| Road Trip | 6.00% | ~3,016 |
+| Helper A does not stop … ever | 6.00% | ~3,016 |
+| Bringing in the Honey | 6.00% | ~3,016 |
 | Three little piggies… | 4.00% | ~2,010 |
 | Game on | 4.00% | ~2,010 |
 | Pretty colourful | 0.80% | ~402 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~201 |
 | Raisin the stakes | 0.30% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,258 (Ranked 103)  
+Progressed: 50,259 (Ranked 103)  
 Completed: 6 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 6 (0.01%) (Ranked 299)
 | 2023-10-18 | 50,141 | 6 |
 | 2023-10-19 | 50,185 | 6 |
 | 2023-10-20 | 50,240 | 6 |
-| 2023-10-21 | 50,258 | 6 |
+| 2023-10-21 | 50,259 | 6 |
 ## Awards
 Max (Great for Beginners): 5,226  (Ranked 70)  
-Sum: 41,437 (Ranked 33)  
+Sum: 41,439 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 37
 | This game has Diverse Characters | 4,324 |
 | This game is Educational | 4,251 |
 | This game is Relaxing | 4,203 |
-| This game has Quickly Understood Controls | 4,175 |
+| This game has Quickly Understood Controls | 4,177 |
 | This game is Highly Recommended | 4,121 |
 | This game is Extremely Fun | 4,074 |
 | This game has Amazing Storytelling | 3,967 |
@@ -533,3 +533,4 @@ Diff (max vs sum): 37
 | 2023-10-18 | 4.69 | - | 5,208 | 41,376 |
 | 2023-10-19 | 4.69 | - | 5,216 | 41,408 |
 | 2023-10-20 | 4.69 | - | 5,226 | 41,437 |
+| 2023-10-21 | 4.69 | - | 5,226 | 41,439 |

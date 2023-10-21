@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 514,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 73,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149144,
+  "EOS_Progressed": 149147,
   "EOS_Completed": 305,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -15218,6 +15218,11 @@
       "Time": "2023-10-21T10:04:37.6526842+00:00",
       "NumProgressed": 149144,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2023-10-21T11:03:42.4825854+00:00",
+      "NumProgressed": 149147,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 31,
@@ -15237,7 +15242,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104401
+      "UsersEstimate": 104403
     },
     {
       "ID": "EAwards_10",
@@ -15245,7 +15250,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20880
+      "UsersEstimate": 20881
     },
     {
       "ID": "EAwards_11",
@@ -15261,7 +15266,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25354
+      "UsersEstimate": 25355
     },
     {
       "ID": "EAwards_13",
@@ -15277,7 +15282,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58166
+      "UsersEstimate": 58167
     },
     {
       "ID": "EAwards_15",
@@ -15285,7 +15290,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17897
+      "UsersEstimate": 17898
     },
     {
       "ID": "EAwards_16",
@@ -15325,7 +15330,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41760
+      "UsersEstimate": 41761
     },
     {
       "ID": "EAwards_20",
@@ -15413,7 +15418,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28337
+      "UsersEstimate": 28338
     },
     {
       "ID": "EAwards_30",
@@ -15445,7 +15450,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37286
+      "UsersEstimate": 37287
     },
     {
       "ID": "EAwards_7",
@@ -15461,7 +15466,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55183
+      "UsersEstimate": 55184
     },
     {
       "ID": "EAwards_9",
@@ -15469,14 +15474,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17897
+      "UsersEstimate": 17898
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149144,
+      "Progressed": 149147,
       "Completed": 305
     }
   ],
@@ -15484,8 +15489,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:04:37.6526839+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:03:42.4825849+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:59:22.8797284+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:04:37.6527972+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:58:53.1732932+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:03:42.4827359+00:00"
 }

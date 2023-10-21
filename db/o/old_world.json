@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1914,9 +1914,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14833,
+  "EOS_Progressed": 14837,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14344,6 +14344,11 @@
       "Time": "2023-10-21T10:10:36.7080838+00:00",
       "NumProgressed": 14833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-21T11:09:24.8813351+00:00",
+      "NumProgressed": 14837,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14411,7 +14416,7 @@
       "Name": "Bad Heir Day",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -14443,7 +14448,7 @@
       "Name": "Ishtar Gate in Babylon",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_BARBARIAN_INVASION",
@@ -14507,7 +14512,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -14931,7 +14936,7 @@
       "Name": "Old",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -14939,7 +14944,7 @@
       "Name": "Peacemaker",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -15195,7 +15200,7 @@
       "Name": "Champions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -15243,7 +15248,7 @@
       "Name": "Sages",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -15675,7 +15680,7 @@
       "Name": "Acropolis",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -15747,7 +15752,7 @@
       "Name": "Cao\u0027an",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -16019,7 +16024,7 @@
       "Name": "Old World Order",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -16283,7 +16288,7 @@
       "Name": "Ten Crowns",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -16347,7 +16352,7 @@
       "Name": "Mythology",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -16395,7 +16400,7 @@
       "Name": "Cataphract Archer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -16507,7 +16512,7 @@
       "Name": "No Undo",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -16723,7 +16728,7 @@
       "Name": "Rmt n Kmt Buhen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_DEFEAT",
@@ -16747,7 +16752,7 @@
       "Name": "Greater Kmt Unified",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_MINOR_VICTORY",
@@ -17067,7 +17072,7 @@
       "Name": "Kush",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -17090,21 +17095,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14833,
+      "Progressed": 14837,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14833,
+      "Progressed": 14837,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-21T05:59:04.6099331+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:10:36.7080833+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:09:24.8813345+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:21.7880328+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:00:32.3551738+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:10:36.7090664+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:59:55.3433489+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:09:24.8826071+00:00"
 }

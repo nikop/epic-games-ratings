@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~80 |
-| Tinkerer | 69.00% | ~64 |
-| Welcome to the Club | 38.00% | ~35 |
-| Apprentice | 38.00% | ~35 |
+| Self-Defence | 85.00% | ~80 |
+| Tinkerer | 68.00% | ~64 |
+| Welcome to the Club | 37.00% | ~35 |
+| Apprentice | 37.00% | ~35 |
 | A new World ahead | 31.00% | ~29 |
 | Can't touch this | 28.00% | ~26 |
-| Don't Cry Wolf | 25.00% | ~23 |
+| Don't Cry Wolf | 24.00% | ~23 |
 | Freezing Cold | 19.00% | ~18 |
 | Expert | 18.00% | ~17 |
 | Searing Heat | 16.00% | ~15 |
@@ -23,10 +23,10 @@
 | The A-Team | 10.00% | ~9 |
 | Defeat Uskol | 9.00% | ~8 |
 | Finally! | 9.00% | ~8 |
-| Mirror, Mirror on the Wall | 8.00% | ~7 |
-| Craftsmen | 8.00% | ~7 |
-| Defeat Tezuth | 8.00% | ~7 |
-| Through Dangers Untold | 8.00% | ~7 |
+| Mirror, Mirror on the Wall | 7.00% | ~7 |
+| Craftsmen | 7.00% | ~7 |
+| Defeat Tezuth | 7.00% | ~7 |
+| Through Dangers Untold | 7.00% | ~7 |
 | A Deceiving Gift | 6.00% | ~6 |
 | Bringing guns to a sword fight | 5.00% | ~5 |
 | Ancient Powers | 5.00% | ~5 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 405)  
+Progressed: 94 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-06 | 91 | 0 |
 | 2023-10-15 | 92 | 0 |
 | 2023-10-18 | 93 | 0 |
+| 2023-10-21 | 94 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

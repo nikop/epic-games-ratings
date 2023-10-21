@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10258,10 +10258,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 41437,
       "NumberOfAwardsMax": 5226
+    },
+    {
+      "Time": "2023-10-21T11:01:49.2700072+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 41439,
+      "NumberOfAwardsMax": 5226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41437,
+  "NumberOfAwards": 41439,
   "NumberOfAwardsMax": 5226,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10287,7 +10293,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4175
+      "Count": 4177
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10338,9 +10344,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50258,
+  "EOS_Progressed": 50259,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26838,6 +26844,11 @@
       "Time": "2023-10-21T10:10:02.7535649+00:00",
       "NumProgressed": 50258,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-21T11:08:39.632744+00:00",
+      "NumProgressed": 50259,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -26873,7 +26884,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "CarDriving",
@@ -26881,7 +26892,7 @@
       "Name": "Road Trip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "CollectiblesAlpine",
@@ -26929,7 +26940,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32165
+      "UsersEstimate": 32166
     },
     {
       "ID": "CutTree",
@@ -26945,7 +26956,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30657
+      "UsersEstimate": 30658
     },
     {
       "ID": "DeliveryGrapes",
@@ -27033,7 +27044,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 25129
+      "UsersEstimate": 25130
     },
     {
       "ID": "Mission",
@@ -27041,7 +27052,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "MissionFirst",
@@ -27065,7 +27076,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "NumDrivables",
@@ -27073,7 +27084,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20103
+      "UsersEstimate": 20104
     },
     {
       "ID": "NumPlaceables",
@@ -27113,7 +27124,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14072
+      "UsersEstimate": 14073
     },
     {
       "ID": "PlayTime",
@@ -27121,7 +27132,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 29652
+      "UsersEstimate": 29653
     },
     {
       "ID": "Sow",
@@ -27192,15 +27203,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50258,
+      "Progressed": 50259,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-10-20T22:03:10.2701862+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:10:02.7535647+00:00",
+  "LastChanged": "2023-10-21T11:01:49.270007+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:08:39.6327434+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.6227562+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:02:55.3648444+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:10:02.7536692+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:01:49.2700079+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:08:39.6328776+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 42.00% | ~629 |
-| Grenadier | 41.00% | ~614 |
-| War Never Changes | 41.00% | ~614 |
-| Heroes Never Die | 37.00% | ~554 |
-| Mosquito bite | 35.00% | ~524 |
-| Spice It Up | 31.00% | ~464 |
-| Bomberman | 27.00% | ~404 |
-| Agent 47 | 26.00% | ~389 |
-| You're Gonna Go Far, Kid | 26.00% | ~389 |
+| E1M1 | 42.00% | ~630 |
+| Grenadier | 41.00% | ~615 |
+| War Never Changes | 41.00% | ~615 |
+| Heroes Never Die | 37.00% | ~555 |
+| Mosquito bite | 35.00% | ~525 |
+| Spice It Up | 31.00% | ~465 |
+| Bomberman | 27.00% | ~405 |
+| Agent 47 | 26.00% | ~390 |
+| You're Gonna Go Far, Kid | 26.00% | ~390 |
 | Death to the Oppressor! | 19.00% | ~285 |
 | The Gang's All Here | 16.00% | ~240 |
 | Your Answer | 15.00% | ~225 |
@@ -24,20 +24,20 @@ Number of Ratings: 98  (23.09.2022)
 | Lock, Stock | 8.00% | ~120 |
 | Payback Time | 7.00% | ~105 |
 | No Witness | 5.00% | ~75 |
-| Strategist | 4.00% | ~60 |
+| Strategist | 5.00% | ~75 |
 | Do a Barrel Roll! | 2.00% | ~30 |
 | Unbreakable Wall | 2.00% | ~30 |
 | Experienced Strategist | 2.00% | ~30 |
 | How?! | 1.00% | ~15 |
-| Tough as Nails | 0.50% | ~7 |
+| Tough as Nails | 0.50% | ~8 |
 | Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
-| Inspector General | 0.10% | ~1 |
-| Defense of Steel | 0.10% | ~1 |
-| A Little Culture | 0.10% | ~1 |
-| Scout | 0.10% | ~1 |
+| Inspector General | 0.10% | ~2 |
+| Defense of Steel | 0.10% | ~2 |
+| A Little Culture | 0.10% | ~2 |
+| Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,498 (Ranked 221)  
+Progressed: 1,500 (Ranked 221)  
 Completed: 1 (0.07%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 1 (0.07%) (Ranked 265)
 | 2023-10-17 | 1,496 | 1 |
 | 2023-10-18 | 1,497 | 1 |
 | 2023-10-20 | 1,498 | 1 |
+| 2023-10-21 | 1,500 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

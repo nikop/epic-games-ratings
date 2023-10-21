@@ -11,8 +11,8 @@
 | I didn't do it! | 40.00% | ~54 |
 | Wooooooow! | 37.00% | ~50 |
 | Keep away from children | 36.00% | ~49 |
+| Artistic fool | 35.00% | ~48 |
 | Open up wide | 35.00% | ~48 |
-| Artistic fool | 34.00% | ~46 |
 | Let the boot talk | 32.00% | ~44 |
 | Chapter II | 27.00% | ~37 |
 | Shadow on the wall | 25.00% | ~34 |

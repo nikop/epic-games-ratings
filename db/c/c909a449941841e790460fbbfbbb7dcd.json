@@ -334,9 +334,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -422,9 +422,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -477,8 +477,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:09:27.7931912+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:08:21.3071722+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:57:35.6403176+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:09:27.7932037+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:57:19.8919387+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:08:21.3071873+00:00"
 }

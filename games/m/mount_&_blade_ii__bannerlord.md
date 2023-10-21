@@ -6,30 +6,30 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,814 |
-| Landlord | 33.00% | ~20,997 |
-| Bannerlord | 23.00% | ~14,634 |
-| Horde breaker | 23.00% | ~14,634 |
-| Lawmaker | 23.00% | ~14,634 |
-| Trained | 23.00% | ~14,634 |
-| The king is pleased | 19.00% | ~12,089 |
-| King Solomon | 17.00% | ~10,816 |
-| Apple of my eye | 16.00% | ~10,180 |
-| I can do it | 16.00% | ~10,180 |
-| God of the Arena | 13.00% | ~8,271 |
-| Against all odds | 12.00% | ~7,635 |
-| This Is Our Land | 12.00% | ~7,635 |
+| Lawbringer | 39.00% | ~24,817 |
+| Landlord | 33.00% | ~20,999 |
+| Bannerlord | 23.00% | ~14,636 |
+| Horde breaker | 23.00% | ~14,636 |
+| Lawmaker | 23.00% | ~14,636 |
+| Trained | 23.00% | ~14,636 |
+| The king is pleased | 19.00% | ~12,090 |
+| King Solomon | 17.00% | ~10,818 |
+| Apple of my eye | 16.00% | ~10,181 |
+| I can do it | 16.00% | ~10,181 |
+| God of the Arena | 13.00% | ~8,272 |
+| Against all odds | 12.00% | ~7,636 |
+| This Is Our Land | 12.00% | ~7,636 |
 | Duelist | 10.00% | ~6,363 |
 | Dynasty | 10.00% | ~6,363 |
 | I spit on your grave | 10.00% | ~6,363 |
 | Swordbearer | 10.00% | ~6,363 |
 | What have the Romans ever done for us? | 10.00% | ~6,363 |
-| Butterlord | 8.00% | ~5,090 |
+| Butterlord | 8.00% | ~5,091 |
 | Know your enemy | 7.00% | ~4,454 |
 | Mastery | 7.00% | ~4,454 |
-| Crowdfunded | 5.00% | ~3,181 |
-| Crush your enemies | 5.00% | ~3,181 |
-| My way | 5.00% | ~3,181 |
+| Crowdfunded | 5.00% | ~3,182 |
+| Crush your enemies | 5.00% | ~3,182 |
+| My way | 5.00% | ~3,182 |
 | Veni vidi vici | 4.00% | ~2,545 |
 | Freedom! | 3.00% | ~1,909 |
 | Long live the Empire! | 3.00% | ~1,909 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,626 (Ranked 99)  
+Progressed: 63,634 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 63,498 | 0 |
 | 2023-10-19 | 63,545 | 0 |
 | 2023-10-20 | 63,599 | 0 |
-| 2023-10-21 | 63,626 | 0 |
+| 2023-10-21 | 63,634 | 0 |
 ## Awards
 Max (Character Customization): 7,255  (Ranked 52)  
 Sum: 14,942 (Ranked 66)  

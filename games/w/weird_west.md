@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,663 |
-| Self-Improvement | 72.00% | ~1,361 |
-| Perky | 65.00% | ~1,228 |
-| Let’s Ride | 60.00% | ~1,134 |
-| Welcome to the Weird West | 57.00% | ~1,077 |
-| Dead or Alive | 56.00% | ~1,058 |
-| Full House | 37.00% | ~699 |
+| Unforgiven | 88.00% | ~1,664 |
+| Self-Improvement | 71.00% | ~1,343 |
+| Perky | 65.00% | ~1,229 |
+| Let’s Ride | 60.00% | ~1,135 |
+| Welcome to the Weird West | 57.00% | ~1,078 |
+| Dead or Alive | 56.00% | ~1,059 |
+| Full House | 37.00% | ~700 |
 | Off the Trail | 34.00% | ~643 |
 | Justice Served | 29.00% | ~548 |
-| Chain Reaction | 27.00% | ~510 |
-| Through Their Eyes | 26.00% | ~491 |
-| Dishonored | 25.00% | ~472 |
-| Rain of Death | 25.00% | ~472 |
-| Scholar | 25.00% | ~472 |
+| Chain Reaction | 27.00% | ~511 |
+| Through Their Eyes | 26.00% | ~492 |
+| Dishonored | 25.00% | ~473 |
+| Rain of Death | 25.00% | ~473 |
+| Scholar | 25.00% | ~473 |
 | The Great Escape | 23.00% | ~435 |
 | That’s All, Folks | 19.00% | ~359 |
-| Fallen Star | 16.00% | ~302 |
-| For Balance | 16.00% | ~302 |
-| Here Comes Santa Claus | 16.00% | ~302 |
-| Winds of War | 16.00% | ~302 |
+| Fallen Star | 16.00% | ~303 |
+| For Balance | 16.00% | ~303 |
+| Here Comes Santa Claus | 16.00% | ~303 |
+| Winds of War | 16.00% | ~303 |
 | Dog Days | 13.00% | ~246 |
 | Out on the Ebb Tide | 13.00% | ~246 |
 | Turning the Tables | 13.00% | ~246 |
@@ -45,8 +45,8 @@ Number of Ratings: 125  (23.09.2022)
 | Getting the Gang Back Together | 7.00% | ~132 |
 | Healing Old Wounds | 6.00% | ~113 |
 | Who You Gonna Call? | 6.00% | ~113 |
-| This Is Sparta | 5.00% | ~94 |
-| What’s in the Box? | 5.00% | ~94 |
+| This Is Sparta | 5.00% | ~95 |
+| What’s in the Box? | 5.00% | ~95 |
 | Ghost Town | 3.00% | ~57 |
 | Lord Inut Sends His Regards | 3.00% | ~57 |
 | Moondrunk | 3.00% | ~57 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,890 (Ranked 210)  
+Progressed: 1,891 (Ranked 210)  
 Completed: 7 (0.37%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 7 (0.37%) (Ranked 198)
 | 2023-10-18 | 1,856 | 7 |
 | 2023-10-19 | 1,868 | 7 |
 | 2023-10-20 | 1,887 | 7 |
-| 2023-10-21 | 1,890 | 7 |
+| 2023-10-21 | 1,891 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

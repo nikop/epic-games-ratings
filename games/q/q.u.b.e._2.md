@@ -1,27 +1,27 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.48 (Ranked 611)  
+Rating: 4.48 (Ranked 612)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 76.00% | ~22,029 |
-| Quick Understanding of Block Extrusion | 68.00% | ~19,710 |
-| Nature or Nurture | 50.00% | ~14,492 |
-| Power Glove | 47.00% | ~13,623 |
-| Forgotten Memories | 40.00% | ~11,594 |
-| Cogs in the Machine | 32.00% | ~9,275 |
-| Mission Success | 18.00% | ~5,217 |
-| There's No Place Like Home | 17.00% | ~4,927 |
-| Green Cube Killer | 15.00% | ~4,348 |
-| Infinity Loop | 11.00% | ~3,188 |
-| Path to Salvation | 11.00% | ~3,188 |
-| Descendants | 9.00% | ~2,609 |
-| The Flawed Teacher | 7.00% | ~2,029 |
-| To Infinity and Beyond | 4.00% | ~1,159 |
-| The Truthful Enemy | 3.00% | ~870 |
-| Laser Sharp | 1.00% | ~290 |
+| Lost in Space | 76.00% | ~22,084 |
+| Quick Understanding of Block Extrusion | 68.00% | ~19,759 |
+| Nature or Nurture | 50.00% | ~14,529 |
+| Power Glove | 47.00% | ~13,657 |
+| Forgotten Memories | 40.00% | ~11,623 |
+| Cogs in the Machine | 32.00% | ~9,299 |
+| Mission Success | 18.00% | ~5,230 |
+| There's No Place Like Home | 17.00% | ~4,940 |
+| Green Cube Killer | 15.00% | ~4,359 |
+| Infinity Loop | 11.00% | ~3,196 |
+| Path to Salvation | 11.00% | ~3,196 |
+| Descendants | 9.00% | ~2,615 |
+| The Flawed Teacher | 7.00% | ~2,034 |
+| To Infinity and Beyond | 4.00% | ~1,162 |
+| The Truthful Enemy | 3.00% | ~872 |
+| Laser Sharp | 1.00% | ~291 |
 | Home Stretch | 0.70% | ~203 |
 | Get me out of here | 0.70% | ~203 |
 | True collector | 0.60% | ~174 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.30% | ~87 |
 | Expert Collector | 0.30% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,985 (Ranked 117)  
+Progressed: 29,058 (Ranked 117)  
 Completed: 40 (0.14%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 40 (0.14%) (Ranked 238)
 | 2023-10-18 | 25,351 | 30 |
 | 2023-10-19 | 27,195 | 34 |
 | 2023-10-20 | 28,560 | 37 |
-| 2023-10-21 | 28,985 | 40 |
+| 2023-10-21 | 29,058 | 40 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

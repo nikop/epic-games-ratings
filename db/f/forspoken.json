@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -415,9 +415,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 42220,
+  "EOS_Progressed": 42222,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11050,6 +11050,11 @@
       "Time": "2023-10-21T08:08:25.3923998+00:00",
       "NumProgressed": 42220,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-21T11:08:32.1968597+00:00",
+      "NumProgressed": 42222,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11213,7 +11218,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "CUFF_ATTACK",
@@ -11301,7 +11306,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -11484,22 +11489,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42220,
+      "Progressed": 42222,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7057,
-      "Completed": 7057
+      "Progressed": 7059,
+      "Completed": 7059
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-18T22:10:53.8645123+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:09:42.3750391+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:08:32.1968591+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:05.4941436+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:00:49.1584063+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:09:42.3751281+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:00:08.8125674+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:08:32.1969863+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -141,8 +141,8 @@
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:07:22.2646701+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:06:14.2562958+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.6009822+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:02:09.0869448+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:07:22.2646758+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:01:16.0617133+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:06:14.2563096+00:00"
 }

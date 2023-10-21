@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18555,
+  "EOS_Progressed": 18558,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -11979,6 +11979,11 @@
       "Time": "2023-10-21T10:05:24.897045+00:00",
       "NumProgressed": 18555,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T11:04:27.1178945+00:00",
+      "NumProgressed": 18558,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -11990,7 +11995,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "0002",
@@ -12006,7 +12011,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "0004",
@@ -12174,7 +12179,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "0025",
@@ -12214,7 +12219,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "0030",
@@ -12277,7 +12282,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18555,
+      "Progressed": 18558,
       "Completed": 4
     }
   ],
@@ -12285,8 +12290,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:05:24.8970446+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:04:27.1178938+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:07.4457302+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:57:25.0862613+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:05:24.8971215+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:57:11.8868095+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:04:27.1180152+00:00"
 }

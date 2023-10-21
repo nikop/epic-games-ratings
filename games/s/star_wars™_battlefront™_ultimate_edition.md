@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~686 |
-| Off to a good start | 68.00% | ~518 |
-| Do... or do not. There is no try | 52.00% | ~396 |
-| A good blaster at your side | 34.00% | ~259 |
-| Scrap collector | 20.00% | ~152 |
-| I suggest a new strategy | 20.00% | ~152 |
+| New Recruit | 90.00% | ~688 |
+| Off to a good start | 68.00% | ~520 |
+| Do... or do not. There is no try | 52.00% | ~397 |
+| A good blaster at your side | 34.00% | ~260 |
+| Scrap collector | 20.00% | ~153 |
+| I suggest a new strategy | 20.00% | ~153 |
 | Great shot, kid! | 19.00% | ~145 |
-| All right, I'll give it a try | 18.00% | ~137 |
+| All right, I'll give it a try | 18.00% | ~138 |
 | Shoot first | 17.00% | ~130 |
 | The power of the Force | 16.00% | ~122 |
 | Together we can rule the galaxy | 16.00% | ~122 |
-| Collector | 15.00% | ~114 |
+| Collector | 15.00% | ~115 |
 | Tell Jabba that I've got his money | 11.00% | ~84 |
 | Best star-pilot in the galaxy | 11.00% | ~84 |
 | Survivor | 11.00% | ~84 |
@@ -30,15 +30,15 @@
 | Support the troops | 7.00% | ~53 |
 | Not bad for a little furball | 5.00% | ~38 |
 | Patience you must have | 5.00% | ~38 |
-| I've been waiting for you | 4.00% | ~30 |
-| When 900 years old you reach... | 4.00% | ~30 |
-| Determined | 4.00% | ~30 |
-| Your journey has only started | 4.00% | ~30 |
-| On the ball | 4.00% | ~30 |
-| Precision shot | 4.00% | ~30 |
-| Safety ain't the point of a joyride | 4.00% | ~30 |
-| That's no moon | 4.00% | ~30 |
-| Don't underestimate the Force | 4.00% | ~30 |
+| I've been waiting for you | 4.00% | ~31 |
+| When 900 years old you reach... | 4.00% | ~31 |
+| Determined | 4.00% | ~31 |
+| Your journey has only started | 4.00% | ~31 |
+| On the ball | 4.00% | ~31 |
+| Precision shot | 4.00% | ~31 |
+| Safety ain't the point of a joyride | 4.00% | ~31 |
+| That's no moon | 4.00% | ~31 |
+| Don't underestimate the Force | 4.00% | ~31 |
 | The Force is strong with this one | 3.00% | ~23 |
 | This is a new day, a new beginning | 3.00% | ~23 |
 | City in the Clouds | 3.00% | ~23 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.30% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762 (Ranked 252)  
+Progressed: 764 (Ranked 250)  
 Completed: 1 (0.13%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.13%) (Ranked 240)
 | 2023-10-18 | 730 | 1 |
 | 2023-10-19 | 739 | 1 |
 | 2023-10-20 | 758 | 1 |
-| 2023-10-21 | 762 | 1 |
+| 2023-10-21 | 764 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

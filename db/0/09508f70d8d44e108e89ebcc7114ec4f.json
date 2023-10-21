@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1371,9 +1371,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 224
     },
     {
       "ID": "fish_trade",
@@ -1522,8 +1522,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:08:12.7977872+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:07:03.6996168+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:02.3123727+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:59:11.3360372+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:08:12.7978078+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:58:41.8746359+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:07:03.6996486+00:00"
 }

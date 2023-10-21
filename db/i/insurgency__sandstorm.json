@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3674,10 +3674,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3085,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-10-21T11:00:35.8529872+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3086,
+      "NumberOfAwardsMax": 393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3085,
+  "NumberOfAwards": 3086,
   "NumberOfAwardsMax": 393,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3697,7 +3703,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3748,9 +3754,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 464433,
+  "EOS_Progressed": 464444,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2312,
+  "EOS_NewPlayers": 2309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24593,6 +24599,11 @@
       "Time": "2023-10-21T10:06:43.0245538+00:00",
       "NumProgressed": 464433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T11:05:35.1129803+00:00",
+      "NumProgressed": 464444,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24660,7 +24671,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -24692,7 +24703,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -24708,7 +24719,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     },
     {
       "ID": "ACH_JR_50",
@@ -24764,7 +24775,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -24876,22 +24887,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18578
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 464433,
+      "Progressed": 464444,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-21T05:00:39.3573278+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:06:43.0245533+00:00",
+  "LastChanged": "2023-10-21T11:00:35.8529871+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:05:35.1129798+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:10.7771003+00:00",
-  "LastUpdate_Ratings": "2023-10-21T10:01:16.4470211+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:06:43.0246723+00:00"
+  "LastUpdate_Ratings": "2023-10-21T11:00:35.852988+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:05:35.1131785+00:00"
 }

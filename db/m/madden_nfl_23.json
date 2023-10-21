@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -733,7 +733,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2809,
+  "EOS_Progressed": 2810,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
@@ -3678,6 +3678,11 @@
       "Time": "2023-10-21T10:05:00.8597686+00:00",
       "NumProgressed": 2809,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T11:04:09.5445486+00:00",
+      "NumProgressed": 2810,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3690,7 +3695,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_10",
@@ -3698,7 +3703,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "achievement_11",
@@ -3842,7 +3847,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_9",
@@ -3857,7 +3862,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2809,
+      "Progressed": 2810,
       "Completed": 0
     }
   ],
@@ -3865,8 +3870,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-19T23:57:45.6696579+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:05:00.8597682+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:04:09.5445481+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:59:08.8110287+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:58:58.3915426+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:05:00.8597932+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:58:29.094238+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:04:09.5445897+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~23,222 |
 | Wallbanger | 5.00% | ~23,222 |
-| Exploitative | 4.00% | ~18,577 |
-| High Speed Low Drag | 4.00% | ~18,577 |
-| Wet Feet | 4.00% | ~18,577 |
+| Exploitative | 4.00% | ~18,578 |
+| High Speed Low Drag | 4.00% | ~18,578 |
+| Wet Feet | 4.00% | ~18,578 |
 | Checkpoint Victory | 3.00% | ~13,933 |
 | Lucky | 3.00% | ~13,933 |
 | Stylin' | 3.00% | ~13,933 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Carrying | 0.90% | ~4,180 |
 | Mount & Gun | 0.90% | ~4,180 |
 | Personal | 0.90% | ~4,180 |
-| Grounded | 0.80% | ~3,715 |
-| Play to Win | 0.80% | ~3,715 |
+| Grounded | 0.80% | ~3,716 |
+| Play to Win | 0.80% | ~3,716 |
 | #1 | 0.70% | ~3,251 |
 | Special Delivery | 0.70% | ~3,251 |
 | Firefight Victory | 0.60% | ~2,787 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~464 |
 | Road Hazard | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,433 (Ranked 39)  
+Progressed: 464,444 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,17 +226,17 @@ Completed: 2 (0.00%) (Ranked 318)
 | 2023-10-18 | 463,672 | 2 |
 | 2023-10-19 | 463,959 | 2 |
 | 2023-10-20 | 464,276 | 2 |
-| 2023-10-21 | 464,433 | 2 |
+| 2023-10-21 | 464,444 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 393  (Ranked 224)  
-Sum: 3,085 (Ranked 171)  
+Sum: 3,086 (Ranked 171)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 393 |
 | This game has Challenging Combat | 374 |
 | This game is Extremely Fun | 360 |
-| This game has Competitive Players | 354 |
+| This game has Competitive Players | 355 |
 | This game is Highly Recommended | 339 |
 | This game has Realistic Visuals | 327 |
 | This game has Amazing Storytelling | 324 |
@@ -507,4 +507,4 @@ Diff (max vs sum): 53
 | 2023-10-17 | 4.62 | - | 389 | 3,075 |
 | 2023-10-18 | 4.62 | - | 389 | 3,080 |
 | 2023-10-19 | 4.62 | - | 392 | 3,083 |
-| 2023-10-21 | 4.62 | - | 393 | 3,085 |
+| 2023-10-21 | 4.62 | - | 393 | 3,086 |

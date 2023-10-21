@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1968,9 +1968,9 @@
       "ID": "AmanitaRun",
       "SetID": "db30heh",
       "Name": "Wild Run",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "BasiliskBroom",
@@ -2335,8 +2335,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-21T10:05:43.924044+00:00",
+  "LastChanged_Achievements": "2023-10-21T11:04:41.4661555+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-21T09:59:03.8003458+00:00",
-  "LastUpdate_Achievements": "2023-10-21T10:05:43.9240793+00:00"
+  "LastUpdate_Ratings": "2023-10-21T10:58:33.8470728+00:00",
+  "LastUpdate_Achievements": "2023-10-21T11:04:41.4662062+00:00"
 }
