@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advancement | 3.00% | ~805 |
-| Stylish | 3.00% | ~805 |
+| Advancement | 3.00% | ~806 |
+| Stylish | 3.00% | ~806 |
 | Clutch Capture | 2.00% | ~537 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~537 |
 | Cultured | 2.00% | ~537 |
@@ -18,18 +18,18 @@ Rating: 4.50 (Ranked 576)
 | Teamwork | 2.00% | ~537 |
 | There you are! | 2.00% | ~537 |
 | Vaporous Expansion | 2.00% | ~537 |
-| Animated | 1.00% | ~268 |
-| Back Off | 1.00% | ~268 |
-| Daily Dose | 1.00% | ~268 |
-| Ectoplasmic Entity | 1.00% | ~268 |
-| Ghostbuster In Training | 1.00% | ~268 |
-| Icing on the Cake | 1.00% | ~268 |
-| Right back at ya | 1.00% | ~268 |
-| Side Hustle | 1.00% | ~268 |
-| Summoner | 1.00% | ~268 |
-| Terrifying | 1.00% | ~268 |
-| Welcome to the Crew | 1.00% | ~268 |
-| Whoopsie | 1.00% | ~268 |
+| Animated | 1.00% | ~269 |
+| Back Off | 1.00% | ~269 |
+| Daily Dose | 1.00% | ~269 |
+| Ectoplasmic Entity | 1.00% | ~269 |
+| Ghostbuster In Training | 1.00% | ~269 |
+| Icing on the Cake | 1.00% | ~269 |
+| Right back at ya | 1.00% | ~269 |
+| Side Hustle | 1.00% | ~269 |
+| Summoner | 1.00% | ~269 |
+| Terrifying | 1.00% | ~269 |
+| Welcome to the Crew | 1.00% | ~269 |
+| Whoopsie | 1.00% | ~269 |
 | Legions | 0.90% | ~242 |
 | Skilled | 0.90% | ~242 |
 | Stunner | 0.90% | ~242 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,848 (Ranked 119)  
+Progressed: 26,854 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-18 | 26,596 | 59 |
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
-| 2023-10-21 | 26,848 | 60 |
+| 2023-10-21 | 26,854 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,451 (Ranked 187)  

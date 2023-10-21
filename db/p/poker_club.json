@@ -865,9 +865,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 532294,
+  "EOS_Progressed": 532296,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21495,6 +21495,11 @@
       "Time": "2023-10-21T02:23:44.5345016+00:00",
       "NumProgressed": 532294,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T03:08:27.1620363+00:00",
+      "NumProgressed": 532296,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -21506,7 +21511,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 143719
+      "UsersEstimate": 143720
     },
     {
       "ID": "Backdoor",
@@ -21530,7 +21535,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 53229
+      "UsersEstimate": 53230
     },
     {
       "ID": "BlindmansBluff",
@@ -21538,7 +21543,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47906
+      "UsersEstimate": 47907
     },
     {
       "ID": "BluffingEh",
@@ -21738,7 +21743,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47906
+      "UsersEstimate": 47907
     },
     {
       "ID": "PokerShowdown",
@@ -21754,7 +21759,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 404543
+      "UsersEstimate": 404545
     },
     {
       "ID": "ProPlayer",
@@ -21858,14 +21863,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58552
+      "UsersEstimate": 58553
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 532294,
+      "Progressed": 532296,
       "Completed": 2
     }
   ],
@@ -21873,8 +21878,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-20T13:06:30.825816+00:00",
-  "LastChanged_Achievements": "2023-10-21T02:23:44.534501+00:00",
+  "LastChanged_Achievements": "2023-10-21T03:08:27.1620358+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:39.863967+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:16:23.923204+00:00",
-  "LastUpdate_Achievements": "2023-10-21T02:23:44.5346932+00:00"
+  "LastUpdate_Ratings": "2023-10-21T03:00:38.7492758+00:00",
+  "LastUpdate_Achievements": "2023-10-21T03:08:27.1621976+00:00"
 }

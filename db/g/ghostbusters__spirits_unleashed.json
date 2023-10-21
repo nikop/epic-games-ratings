@@ -2577,7 +2577,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26848,
+  "EOS_Progressed": 26854,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 2,
@@ -15667,6 +15667,11 @@
       "Time": "2023-10-21T02:20:15.2913509+00:00",
       "NumProgressed": 26848,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T03:05:05.7059125+00:00",
+      "NumProgressed": 26854,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15678,7 +15683,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Animated",
@@ -15686,7 +15691,7 @@
       "Name": "Animated",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Back_Off",
@@ -15694,7 +15699,7 @@
       "Name": "Back Off",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Best_Insurance",
@@ -15750,7 +15755,7 @@
       "Name": "Daily Dose",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Diabolical",
@@ -15782,7 +15787,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Efficient",
@@ -15822,7 +15827,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Ghost_Expert",
@@ -15838,7 +15843,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Legions",
@@ -15926,7 +15931,7 @@
       "Name": "Right back at ya",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Rivalry",
@@ -15950,7 +15955,7 @@
       "Name": "Side Hustle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Skilled",
@@ -15982,7 +15987,7 @@
       "Name": "Stylish",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "Summoner",
@@ -15990,7 +15995,7 @@
       "Name": "Summoner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Surprise",
@@ -16022,7 +16027,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Therapeutic",
@@ -16070,7 +16075,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Whoopsie",
@@ -16078,14 +16083,14 @@
       "Name": "Whoopsie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26848,
+      "Progressed": 26854,
       "Completed": 60
     }
   ],
@@ -16093,8 +16098,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T02:20:15.2913503+00:00",
+  "LastChanged_Achievements": "2023-10-21T03:05:05.705912+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:17:01.0613262+00:00",
-  "LastUpdate_Achievements": "2023-10-21T02:20:15.2915202+00:00"
+  "LastUpdate_Ratings": "2023-10-21T03:01:04.0805598+00:00",
+  "LastUpdate_Achievements": "2023-10-21T03:05:05.7060401+00:00"
 }

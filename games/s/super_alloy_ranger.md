@@ -11,7 +11,7 @@
 | GG EZ | 55.00% | ~55 |
 | Hydrophobia | 42.00% | ~42 |
 | Ka-Ching! | 33.00% | ~33 |
-| Stop Right There | 29.00% | ~29 |
+| Stop Right There | 30.00% | ~30 |
 | Get to the Point | 28.00% | ~28 |
 | Mr. Want It All | 17.00% | ~17 |
 | Toe to Toe | 16.00% | ~16 |

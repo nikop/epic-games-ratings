@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~445 |
 | Play a Single Player Game | 3.00% | ~445 |
 | Able | 2.00% | ~297 |
+| Ambitious | 2.00% | ~297 |
 | Architect | 2.00% | ~297 |
 | Enlightened | 2.00% | ~297 |
 | Glorious | 2.00% | ~297 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~297 |
 | Kushite Paganism | 2.00% | ~297 |
 | Regicide | 1.00% | ~148 |
-| Ambitious | 1.00% | ~148 |
 | Drillmaster | 1.00% | ~148 |
 | Brilliant | 1.00% | ~148 |
 | Fountainhead | 1.00% | ~148 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,827 (Ranked 138)  
+Progressed: 14,829 (Ranked 138)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-18 | 14,791 | 5 |
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
-| 2023-10-21 | 14,827 | 5 |
+| 2023-10-21 | 14,829 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,848 (Ranked 211)  

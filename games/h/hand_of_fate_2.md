@@ -6,7 +6,7 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,772 |
+| The Fool | 72.00% | ~477,773 |
 | Apprentice | 58.00% | ~384,872 |
 | Close Shave | 25.00% | ~165,893 |
 | Mercenary | 23.00% | ~152,622 |
@@ -16,7 +16,7 @@ Number of Ratings: 780  (23.09.2022)
 | Master of Arms | 12.00% | ~79,629 |
 | Gambler | 10.00% | ~66,357 |
 | Dice Master | 10.00% | ~66,357 |
-| Swordsman | 9.00% | ~59,721 |
+| Swordsman | 9.00% | ~59,722 |
 | Knight | 8.00% | ~53,086 |
 | Cure for Corruption | 8.00% | ~53,086 |
 | Focused | 8.00% | ~53,086 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,572 (Ranked 25)  
+Progressed: 663,573 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 171 (0.03%) (Ranked 286)
 | 2023-10-18 | 663,483 | 171 |
 | 2023-10-19 | 663,528 | 171 |
 | 2023-10-20 | 663,571 | 171 |
-| 2023-10-21 | 663,572 | 171 |
+| 2023-10-21 | 663,573 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 455)  
-Sum: 186 (Ranked 394)  
-Diff (max vs sum): 61  
+Sum: 187 (Ranked 393)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
@@ -251,7 +251,7 @@ Diff (max vs sum): 61
 | This game is Highly Recommended | 30 |
 | This game has Amazing Characters | 28 |
 | This game is Great for Beginners | 26 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 23 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -353,3 +353,4 @@ Diff (max vs sum): 61
 | 2023-08-25 | 4.56 | - | 35 | 184 |
 | 2023-09-12 | 4.55 | - | 35 | 185 |
 | 2023-09-17 | 4.55 | - | 35 | 186 |
+| 2023-10-21 | 4.55 | - | 35 | 187 |

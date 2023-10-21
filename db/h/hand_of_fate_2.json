@@ -4,7 +4,7 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 493,
   "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 117,
@@ -845,10 +845,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-10-21T02:59:27.5254647+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 186,
+  "NumberOfAwards": 187,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -898,10 +904,10 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 663572,
+  "EOS_Progressed": 663573,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
@@ -18331,6 +18337,11 @@
       "Time": "2023-10-21T00:06:42.3273271+00:00",
       "NumProgressed": 663572,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-21T03:06:28.543051+00:00",
+      "NumProgressed": 663573,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18342,7 +18353,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477772
+      "UsersEstimate": 477773
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18622,7 +18633,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59721
+      "UsersEstimate": 59722
     },
     {
       "ID": "Achievement_37_Champion",
@@ -18725,15 +18736,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663572,
+      "Progressed": 663573,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-09-17T14:00:02.1778642+00:00",
-  "LastChanged_Achievements": "2023-10-21T02:22:11.2052049+00:00",
+  "LastChanged": "2023-10-21T02:59:27.5254645+00:00",
+  "LastChanged_Achievements": "2023-10-21T03:06:28.5430504+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:29.0869646+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:14:25.3429745+00:00",
-  "LastUpdate_Achievements": "2023-10-21T02:22:11.2053474+00:00"
+  "LastUpdate_Ratings": "2023-10-21T02:59:27.525466+00:00",
+  "LastUpdate_Achievements": "2023-10-21T03:06:28.543198+00:00"
 }

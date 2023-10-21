@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1429,10 +1429,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3434,
       "NumberOfAwardsMax": 1236
+    },
+    {
+      "Time": "2023-10-21T03:03:11.9434458+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3443,
+      "NumberOfAwardsMax": 1236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3434,
+  "NumberOfAwards": 3443,
   "NumberOfAwardsMax": 1236,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1494,7 +1500,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 195
+      "Count": 204
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1509,9 +1515,9 @@
       "Count": 240
     }
   ],
-  "EOS_Progressed": 7854,
+  "EOS_Progressed": 7856,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5104,6 +5110,11 @@
       "Time": "2023-10-21T01:43:46.8687533+00:00",
       "NumProgressed": 7854,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T03:03:35.0718272+00:00",
+      "NumProgressed": 7856,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5116,7 +5127,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "ach02",
@@ -5124,7 +5135,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ach03",
@@ -5132,7 +5143,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "ach04",
@@ -5140,7 +5151,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ach05",
@@ -5156,7 +5167,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "ach07",
@@ -5164,7 +5175,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ach08",
@@ -5172,7 +5183,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ach09",
@@ -5244,7 +5255,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "ach18",
@@ -5252,7 +5263,7 @@
       "Name": "Adventure Time",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2828
     },
     {
       "ID": "ach19",
@@ -5300,7 +5311,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3692
     },
     {
       "ID": "ach25",
@@ -5340,7 +5351,7 @@
       "Name": "Unstoppable",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ach30",
@@ -5380,7 +5391,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "ach35",
@@ -5404,7 +5415,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "ach38",
@@ -5412,7 +5423,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "ach39",
@@ -5420,7 +5431,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ach40",
@@ -5428,7 +5439,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ach41",
@@ -5436,7 +5447,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ach42",
@@ -5444,7 +5455,7 @@
       "Name": "Quest Master",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3299
+      "UsersEstimate": 3300
     },
     {
       "ID": "ach43",
@@ -5452,7 +5463,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "ach44",
@@ -5484,7 +5495,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ach48",
@@ -5515,16 +5526,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7854,
+      "Progressed": 7856,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-20T23:03:37.8108564+00:00",
-  "LastChanged_Achievements": "2023-10-21T02:18:20.3013611+00:00",
+  "LastChanged": "2023-10-21T03:03:11.9434456+00:00",
+  "LastChanged_Achievements": "2023-10-21T03:03:35.0718268+00:00",
   "LastUpdate_AppInfo": "2023-10-14T07:57:06.3888504+00:00",
-  "LastUpdate_Ratings": "2023-10-21T02:17:49.6819323+00:00",
-  "LastUpdate_Achievements": "2023-10-21T02:18:20.3014692+00:00"
+  "LastUpdate_Ratings": "2023-10-21T03:03:11.9434463+00:00",
+  "LastUpdate_Achievements": "2023-10-21T03:03:35.0719011+00:00"
 }

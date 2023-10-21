@@ -41,7 +41,7 @@ Number of Ratings: 209  (23.09.2022)
 | Diamond Pickaxe | 77.00% | ~1,754 |
 | Killed them all | 77.00% | ~1,754 |
 | Trickle Down Economy | 77.00% | ~1,754 |
-| Win | 76.00% | ~1,731 |
+| Win | 77.00% | ~1,754 |
 | Greenhouse | 72.00% | ~1,640 |
 | Played with fire | 71.00% | ~1,617 |
 | You feel very sorry | 70.00% | ~1,595 |

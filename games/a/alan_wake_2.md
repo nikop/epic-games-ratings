@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 61.00% | ~66 |
-| Hunting Season | 46.00% | ~50 |
+| Nightmare Territory | 62.00% | ~68 |
+| Hunting Season | 47.00% | ~51 |
 | Grew Bigger | 39.00% | ~43 |
 | Bring It | 38.00% | ~41 |
 | Coffee Thermos | 38.00% | ~41 |
 | Find the Light | 34.00% | ~37 |
+| Not the Last | 28.00% | ~31 |
 | Darkness Coiled | 28.00% | ~31 |
 | Lights Shining | 25.00% | ~27 |
 | Yippee Ki-yay | 25.00% | ~27 |
-| Not the Last | 25.00% | ~27 |
 | Filling the Shape | 25.00% | ~27 |
 | Greatest Hits | 24.00% | ~26 |
 | Chased the Source | 23.00% | ~25 |
 | Ready for a Fight | 22.00% | ~24 |
 | Aimed Ahead | 21.00% | ~23 |
+| Somebody's Home | 21.00% | ~23 |
 | The Other Side | 21.00% | ~23 |
 | Carry his Words | 20.00% | ~22 |
-| Somebody's Home | 20.00% | ~22 |
 | Felt Good | 19.00% | ~21 |
 | Shining in the Night | 17.00% | ~19 |
 | All Accounted For | 17.00% | ~19 |
@@ -38,10 +38,10 @@
 | Growing Stronger | 10.00% | ~11 |
 | All His Life | 9.00% | ~10 |
 | Escape its Gravity | 8.00% | ~9 |
+| Stop the Monster | 8.00% | ~9 |
 | Stunning Vistas | 8.00% | ~9 |
 | In One Go | 8.00% | ~9 |
 | Bright Falls' Finest | 7.00% | ~8 |
-| Stop the Monster | 7.00% | ~8 |
 | The Trail of the Writer | 6.00% | ~7 |
 | Back in Watery | 6.00% | ~7 |
 | We Watch in the Night | 6.00% | ~7 |
