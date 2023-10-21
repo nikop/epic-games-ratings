@@ -16,17 +16,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~101 |
 | Fight the way you practice | 0.40% | ~101 |
-| A Lady's Blood in the Snow | 0.30% | ~2,147 |
-| Lady Wing Chun | 0.30% | ~2,147 |
-| Furious Fists | 0.30% | ~2,147 |
-| Kill Nil | 0.30% | ~2,147 |
-| Stuntmaster | 0.30% | ~2,147 |
-| Street Fighting | 0.30% | ~2,147 |
-| Qi Gong: Essence | 0.30% | ~2,147 |
-| Old Child | 0.30% | ~2,147 |
-| Path of the Prospect | 0.30% | ~2,147 |
-| Rumble in the Hangar | 0.30% | ~2,147 |
-| Take damage to save time | 0.30% | ~2,147 |
+| A Lady's Blood in the Snow | 0.30% | ~2,148 |
+| Lady Wing Chun | 0.30% | ~2,148 |
+| Furious Fists | 0.30% | ~2,148 |
+| Kill Nil | 0.30% | ~2,148 |
+| Stuntmaster | 0.30% | ~2,148 |
+| Street Fighting | 0.30% | ~2,148 |
+| Qi Gong: Essence | 0.30% | ~2,148 |
+| Old Child | 0.30% | ~2,148 |
+| Path of the Prospect | 0.30% | ~2,148 |
+| Rumble in the Hangar | 0.30% | ~2,148 |
+| Take damage to save time | 0.30% | ~2,148 |
 | Martial Hub | 0.30% | ~75 |
 | Muk Yan Master | 0.20% | ~1,432 |
 | Scareless | 0.20% | ~1,432 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,831 (Ranked 20)  
+Progressed: 715,835 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 12,925 (1.81%) (Ranked 116)
 | 2023-10-18 | 715,755 | 12,923 |
 | 2023-10-19 | 715,784 | 12,923 |
 | 2023-10-20 | 715,805 | 12,924 |
-| 2023-10-21 | 715,831 | 12,925 |
+| 2023-10-21 | 715,835 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,710  (Ranked 53)  
-Sum: 11,661 (Ranked 82)  
+Sum: 11,662 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -265,7 +265,7 @@ Diff (max vs sum): -29
 | This game has Quickly Understood Controls | 561 |
 | This game is Extremely Fun | 559 |
 | This game has Amazing Characters | 556 |
-| This game is Highly Recommended | 554 |
+| This game is Highly Recommended | 555 |
 | This game has Unique Visuals | 529 |
 | This game has a Creative Community | 406 |
 | This game is Relaxing | 401 |
@@ -550,4 +550,4 @@ Diff (max vs sum): -29
 | 2023-10-18 | 4.82 | - | 6,700 | 11,633 |
 | 2023-10-19 | 4.82 | - | 6,704 | 11,644 |
 | 2023-10-20 | 4.82 | - | 6,710 | 11,656 |
-| 2023-10-21 | 4.82 | - | 6,710 | 11,661 |
+| 2023-10-21 | 4.82 | - | 6,710 | 11,662 |

@@ -2097,9 +2097,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 526
     },
     {
       "ID": "BoxingClever",
@@ -2209,9 +2209,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 412
+      "UsersEstimate": 420
     },
     {
       "ID": "TerraTourGuide",
@@ -2241,9 +2241,9 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 771
     }
   ],
   "AchievementSets": [
@@ -2256,8 +2256,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:06:59.5986343+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:06:14.1467352+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:02:05.3865992+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:06:59.5986641+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:00:59.576982+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:06:14.1467689+00:00"
 }

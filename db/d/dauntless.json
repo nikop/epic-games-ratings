@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
@@ -10089,18 +10089,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 58180,
       "NumberOfAwardsMax": 22950
+    },
+    {
+      "Time": "2023-10-21T20:59:08.244612+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 58229,
+      "NumberOfAwardsMax": 22985
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58180,
-  "NumberOfAwardsMax": 22950,
+  "NumberOfAwards": 58229,
+  "NumberOfAwardsMax": 22985,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 22950
+      "Count": 22985
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10136,7 +10142,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3255
+      "Count": 3262
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10148,7 +10154,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3109
+      "Count": 3116
     },
     {
       "Text": "This game is Relaxing",
@@ -10174,8 +10180,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2023-10-21T17:04:41.1233206+00:00",
+  "LastChanged": "2023-10-21T20:59:08.2446119+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:22.4632599+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:59:43.5327773+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:04:53.5135106+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:59:08.2446126+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:04:31.0979984+00:00"
 }

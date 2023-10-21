@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18578,
+  "EOS_Progressed": 18579,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12024,6 +12024,11 @@
       "Time": "2023-10-21T20:05:09.1985216+00:00",
       "NumProgressed": 18578,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-21T21:04:43.9806654+00:00",
+      "NumProgressed": 18579,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12035,7 +12040,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5573
+      "UsersEstimate": 5574
     },
     {
       "ID": "0002",
@@ -12123,7 +12128,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "0013",
@@ -12139,7 +12144,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2972
+      "UsersEstimate": 2973
     },
     {
       "ID": "0015",
@@ -12322,7 +12327,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18578,
+      "Progressed": 18579,
       "Completed": 4
     }
   ],
@@ -12330,8 +12335,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:05:09.198521+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:04:43.9806646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:57:27.3886372+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:05:09.1986125+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:57:25.1599721+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:04:43.9807398+00:00"
 }

@@ -9241,10 +9241,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46313,
       "NumberOfAwardsMax": 23683
+    },
+    {
+      "Time": "2023-10-21T20:59:12.3576169+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46319,
+      "NumberOfAwardsMax": 23683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46313,
+  "NumberOfAwards": 46319,
   "NumberOfAwardsMax": 23683,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9312,18 +9318,18 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1038
+      "Count": 1040
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 728
+      "Count": 732
     }
   ],
-  "EOS_Progressed": 298665,
+  "EOS_Progressed": 298667,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29011,6 +29017,11 @@
       "Time": "2023-10-21T20:08:05.5252469+00:00",
       "NumProgressed": 298665,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-21T21:07:07.9903804+00:00",
+      "NumProgressed": 298667,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29054,7 +29065,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29866
+      "UsersEstimate": 29867
     },
     {
       "ID": "PFA_14",
@@ -29126,7 +29137,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29866
+      "UsersEstimate": 29867
     },
     {
       "ID": "PFA_22",
@@ -29246,7 +29257,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29866
+      "UsersEstimate": 29867
     },
     {
       "ID": "PFA_36",
@@ -29358,7 +29369,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38826
+      "UsersEstimate": 38827
     },
     {
       "ID": "PFA_8",
@@ -29381,16 +29392,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298665,
+      "Progressed": 298667,
       "Completed": 491
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-21T19:59:48.1220238+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:08:05.5252463+00:00",
+  "LastChanged": "2023-10-21T20:59:12.3576163+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:07:07.99038+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:59:48.1220245+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:08:05.5254029+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:59:12.3576174+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:07:07.9905012+00:00"
 }

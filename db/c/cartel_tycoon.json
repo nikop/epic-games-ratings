@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 639,
+  "EOS_Progressed": 640,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2044,6 +2044,11 @@
       "Time": "2023-10-20T23:06:42.1449361+00:00",
       "NumProgressed": 639,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-21T21:05:37.6533493+00:00",
+      "NumProgressed": 640,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2055,7 +2060,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "cool-shirts",
@@ -2119,7 +2124,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "play-at-night",
@@ -2175,7 +2180,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "unlock-residences",
@@ -2183,7 +2188,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "upgrade-building",
@@ -2191,7 +2196,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "use-submarine",
@@ -2206,15 +2211,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 639,
+      "Progressed": 640,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:06:15.5273906+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:05:37.6533488+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.5174847+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:01:43.4381359+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:06:15.5274184+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:00:42.2284538+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:05:37.653369+00:00"
 }

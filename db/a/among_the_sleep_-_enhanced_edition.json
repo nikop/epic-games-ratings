@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 817,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 85,
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89615,
+  "EOS_Progressed": 89625,
   "EOS_Completed": 405,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -20892,6 +20892,11 @@
       "Time": "2023-10-21T20:08:24.1039284+00:00",
       "NumProgressed": 89615,
       "NumCompleted": 405
+    },
+    {
+      "Time": "2023-10-21T21:08:12.4064236+00:00",
+      "NumProgressed": 89625,
+      "NumCompleted": 405
     }
   ],
   "TotalAchievements": 10,
@@ -20967,7 +20972,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31365
+      "UsersEstimate": 31369
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -20975,22 +20980,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9858
+      "UsersEstimate": 9859
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 89615,
+      "Progressed": 89625,
       "Completed": 405
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:08:24.1039279+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:08:12.406423+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.8590443+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:02:19.5917238+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:08:24.1040736+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:03:09.8410308+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:08:12.4066809+00:00"
 }

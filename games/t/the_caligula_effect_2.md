@@ -25,9 +25,9 @@ Number of Ratings: 32  (23.09.2022)
 | Nice Doing Business | 23.00% | ~55 |
 | Stay Winning | 23.00% | ~55 |
 | WIRE Guru | 22.00% | ~52 |
-| The Greater Good | 19.00% | ~45 |
+| The Greater Good | 20.00% | ~47 |
+| Depths of the Heart | 20.00% | ~47 |
 | Selfish Decisions | 19.00% | ~45 |
-| Depths of the Heart | 19.00% | ~45 |
 | Extracurricular Affair | 19.00% | ~45 |
 | Lost Souls For Sale | 19.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~43 |

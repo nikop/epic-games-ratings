@@ -46,11 +46,11 @@
 | Broke, Blind, and Bedlam | 35.00% | ~268 |
 | Archivist | 34.00% | ~261 |
 | Ghost Ship | 34.00% | ~261 |
+| A Personal Touch | 33.00% | ~253 |
 | The Assassin | 33.00% | ~253 |
 | The Quarian | 33.00% | ~253 |
 | Ghost of the Father | 33.00% | ~253 |
 | The Prodigal | 33.00% | ~253 |
-| A Personal Touch | 32.00% | ~245 |
 | The Justicar | 32.00% | ~245 |
 | Battlemaster | 32.00% | ~245 |
 | The Cure | 32.00% | ~245 |
@@ -88,12 +88,12 @@
 | Lost and Found | 23.00% | ~176 |
 | Paramour II | 22.00% | ~169 |
 | Party Crasher | 21.00% | ~161 |
+| Problem Solver | 21.00% | ~161 |
 | Pyromaniac | 20.00% | ~153 |
 | No One Left Behind | 20.00% | ~153 |
 | Hard Target | 20.00% | ~153 |
 | Saboteur | 20.00% | ~153 |
 | Fact Finder | 20.00% | ~153 |
-| Problem Solver | 20.00% | ~153 |
 | Under Pressure | 19.00% | ~146 |
 | Last Witness | 19.00% | ~146 |
 | Well Connected | 19.00% | ~146 |

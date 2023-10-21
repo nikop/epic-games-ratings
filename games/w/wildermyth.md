@@ -14,6 +14,7 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
 | Completing the Look | 0.10% | ~1 |
+| Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
 | Cutthroat Competitors | 0.10% | ~1 |
@@ -32,7 +33,6 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 0.00% | ~0 |
 | A Lowly Crust of Beef | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
-| Empty the Caves | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |

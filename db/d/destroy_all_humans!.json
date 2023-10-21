@@ -2,12 +2,12 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -306,6 +306,6 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "LastChanged": "2023-04-21T20:57:46.983965+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:15.1816502+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:01:00.878313+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:07:30.3064913+00:00"
+  "LastUpdate_Ratings": "2023-10-21T21:00:07.3116598+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:06:38.9097661+00:00"
 }

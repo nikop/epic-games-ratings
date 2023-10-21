@@ -6,12 +6,12 @@ Rating: 4.19 (Ranked 900)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,292 |
-| Paper Jams | 7.00% | ~1,130 |
+| Paper Jams | 7.00% | ~1,131 |
 | Flesh Wound | 6.00% | ~969 |
 | Float Like A Butterfly | 6.00% | ~969 |
-| Two Heads Are Better Than One | 5.00% | ~807 |
-| Chew 'Em Up | 5.00% | ~807 |
-| The Outer Way | 5.00% | ~807 |
+| Two Heads Are Better Than One | 5.00% | ~808 |
+| Chew 'Em Up | 5.00% | ~808 |
+| The Outer Way | 5.00% | ~808 |
 | Keep Fighting | 5.00% | ~204 |
 | You Need a Gun | 4.00% | ~646 |
 | I Do Belong Here | 4.00% | ~646 |
@@ -26,11 +26,11 @@ Rating: 4.19 (Ranked 900)
 | Full Circle | 4.00% | ~646 |
 | Power Up | 4.00% | ~646 |
 | It's Time | 4.00% | ~163 |
-| Giving Back | 3.00% | ~484 |
-| Terminated | 3.00% | ~484 |
+| Giving Back | 3.00% | ~485 |
+| Terminated | 3.00% | ~485 |
 | In Striking Distance | 2.00% | ~323 |
 | The Commonality | 2.00% | ~323 |
-| One Last Job | 2.00% | ~81 |
+| One Last Job | 2.00% | ~82 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~29 |
 | Parole Denied | 0.70% | ~29 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 900)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,148 (Ranked 134)  
+Progressed: 16,151 (Ranked 134)  
 Completed: 75 (0.46%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 75 (0.46%) (Ranked 183)
 | 2023-10-18 | 16,031 | 75 |
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
-| 2023-10-21 | 16,148 | 75 |
+| 2023-10-21 | 16,151 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 382)  
 Sum: 449 (Ranked 323)  

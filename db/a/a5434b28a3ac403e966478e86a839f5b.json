@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -1255,6 +1255,11 @@
       "Time": "2023-10-21T14:08:37.9398763+00:00",
       "NumProgressed": 448,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-21T21:06:47.2584398+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1265,9 +1270,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 120,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_eou1",
@@ -1283,7 +1288,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_eou3",
@@ -1299,7 +1304,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_eou5",
@@ -1313,9 +1318,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_eou7",
@@ -1329,9 +1334,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_mg2",
@@ -1370,14 +1375,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:07:39.8740681+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:06:47.2584387+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:57:46.9961248+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:07:39.8741076+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:57:44.3876489+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:06:47.2584562+00:00"
 }

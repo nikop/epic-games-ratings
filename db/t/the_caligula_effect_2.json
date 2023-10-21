@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "ACH_08",
       "SetID": "2eg5kgc",
       "Name": "The Greater Good",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_09",
@@ -223,9 +223,9 @@
       "ID": "ACH_13",
       "SetID": "2eg5kgc",
       "Name": "Depths of the Heart",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_14",
@@ -527,8 +527,8 @@
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:09:33.6804131+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:09:22.6117334+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7902537+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:59:48.7864772+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:09:33.6804591+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:59:12.8442768+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:09:22.6117642+00:00"
 }

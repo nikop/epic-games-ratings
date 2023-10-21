@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16851,
+  "EOS_Progressed": 16852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5787,6 +5787,11 @@
       "Time": "2023-10-21T07:09:07.3711022+00:00",
       "NumProgressed": 16851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T21:07:05.1818727+00:00",
+      "NumProgressed": 16852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5798,7 +5803,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16008
+      "UsersEstimate": 16009
     },
     {
       "ID": "ACH001",
@@ -5806,7 +5811,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14492
+      "UsersEstimate": 14493
     },
     {
       "ID": "ACH0010",
@@ -5950,7 +5955,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9268
+      "UsersEstimate": 9269
     },
     {
       "ID": "ACH004",
@@ -5958,7 +5963,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14660
+      "UsersEstimate": 14661
     },
     {
       "ID": "ACH005",
@@ -6005,7 +6010,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16851,
+      "Progressed": 16852,
       "Completed": 0
     }
   ],
@@ -6013,8 +6018,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-16T02:21:33.0705222+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:08:02.0800577+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:07:05.1818723+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:32.1142451+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:57:32.4451603+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:08:02.0801099+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:57:30.3176348+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:07:05.1819131+00:00"
 }

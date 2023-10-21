@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7057,10 +7057,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11661,
       "NumberOfAwardsMax": 6710
+    },
+    {
+      "Time": "2023-10-21T20:59:44.0293397+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11662,
+      "NumberOfAwardsMax": 6710
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11661,
+  "NumberOfAwards": 11662,
   "NumberOfAwardsMax": 6710,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7128,7 +7134,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 554
+      "Count": 555
     },
     {
       "Text": "This game has a Creative Community",
@@ -7137,9 +7143,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715831,
+  "EOS_Progressed": 715835,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23497,6 +23503,11 @@
       "Time": "2023-10-21T19:06:36.6040059+00:00",
       "NumProgressed": 715831,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-21T21:06:12.636182+00:00",
+      "NumProgressed": 715835,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -23532,7 +23543,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "05_Vengeance_H4",
@@ -23540,7 +23551,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "06_Vengeance_H5",
@@ -23548,7 +23559,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "07_Wude_H1",
@@ -23612,7 +23623,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "15_Detective_H1",
@@ -23660,7 +23671,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -23676,7 +23687,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -23716,7 +23727,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -23756,7 +23767,7 @@
       "Name": "Old Child",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "33_BladeOneShot",
@@ -23788,7 +23799,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -23796,7 +23807,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -23820,7 +23831,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -23987,21 +23998,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25132,
+      "Progressed": 25136,
       "Completed": 10714
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715831,
+      "Progressed": 715835,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-21T07:01:14.5964997+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:06:57.6802644+00:00",
+  "LastChanged": "2023-10-21T20:59:44.0293394+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:06:12.6361815+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:00:32.1548+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:06:57.6804284+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:59:44.0293404+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:06:12.6363034+00:00"
 }

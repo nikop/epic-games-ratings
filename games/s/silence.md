@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fire in the... nevermind | 53.00% | ~72 |
 | Chapter I | 52.00% | ~71 |
-| Fire in the... nevermind | 52.00% | ~71 |
 | Haute cuisine | 48.00% | ~65 |
 | Demolition expert | 40.00% | ~54 |
 | I didn't do it! | 40.00% | ~54 |
@@ -23,14 +23,14 @@
 | Bubblekillerfamily | 23.00% | ~31 |
 | Quite a buggy game | 21.00% | ~29 |
 | Mirror mirror on the wall... | 21.00% | ~29 |
-| Pacifist | 19.00% | ~26 |
+| Pacifist | 20.00% | ~27 |
 | Fastidious Clown | 19.00% | ~26 |
 | It's not easy being green! | 18.00% | ~24 |
 | Home is where the heart is | 18.00% | ~24 |
 | Death is a part of life | 15.00% | ~20 |
 | Master of Thermodynamics | 14.00% | ~19 |
+| To err is human... | 13.00% | ~18 |
 | Unfullfilled dreams | 13.00% | ~18 |
-| To err is human... | 12.00% | ~16 |
 | Useless but beautiful | 10.00% | ~14 |
 | Nothing can stop me | 10.00% | ~14 |
 | Mumbo Jumbo | 10.00% | ~14 |

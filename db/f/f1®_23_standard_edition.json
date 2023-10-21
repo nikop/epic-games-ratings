@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3347,
+  "EOS_Progressed": 3348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3246,6 +3246,11 @@
       "Time": "2023-10-21T20:05:30.3643183+00:00",
       "NumProgressed": 3347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T21:05:00.8511196+00:00",
+      "NumProgressed": 3348,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3290,7 +3295,7 @@
       "Name": "Crucial Combo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "achievement_0006",
@@ -3298,7 +3303,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "achievement_0007",
@@ -3306,7 +3311,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3180
+      "UsersEstimate": 3181
     },
     {
       "ID": "achievement_0008",
@@ -3314,7 +3319,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3012
+      "UsersEstimate": 3013
     },
     {
       "ID": "achievement_0009",
@@ -3378,7 +3383,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "achievement_0017",
@@ -3418,7 +3423,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "achievement_0022",
@@ -3490,7 +3495,7 @@
       "Name": "Reuse",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_0031",
@@ -3602,7 +3607,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "achievement_0045",
@@ -3649,7 +3654,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3347,
+      "Progressed": 3348,
       "Completed": 0
     }
   ],
@@ -3657,8 +3662,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-21T20:05:30.3643172+00:00",
+  "LastChanged_Achievements": "2023-10-21T21:05:00.8511188+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-21T19:58:13.6443115+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:05:30.3643774+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:58:02.9493665+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:05:00.8511645+00:00"
 }

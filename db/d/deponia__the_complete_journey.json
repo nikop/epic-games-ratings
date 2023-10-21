@@ -2,12 +2,12 @@
   "ID": "e5decf71f325458b92653616ee98682a",
   "Name": "Deponia: The Complete Journey",
   "ProductSlug": "deponia-the-complete-journey",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -655,18 +655,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-10-21T20:59:54.0479427+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 283,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
-  "NumberOfAwardsMax": 282,
+  "NumberOfAwards": 283,
+  "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 282
+      "Count": 283
     }
   ],
   "EOS_Progressed": 0,
@@ -680,8 +686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2023-08-30T18:57:23.5464939+00:00",
+  "LastChanged": "2023-10-21T20:59:54.0479424+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:02.2136164+00:00",
-  "LastUpdate_Ratings": "2023-10-21T20:00:46.3280549+00:00",
-  "LastUpdate_Achievements": "2023-10-21T20:07:09.9008198+00:00"
+  "LastUpdate_Ratings": "2023-10-21T20:59:54.047943+00:00",
+  "LastUpdate_Achievements": "2023-10-21T21:06:22.5499627+00:00"
 }
