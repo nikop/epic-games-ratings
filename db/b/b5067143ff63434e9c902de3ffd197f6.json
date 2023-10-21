@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3824,
+  "EOS_Progressed": 3828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-10-21T04:06:56.8588282+00:00",
       "NumProgressed": 3824,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T05:06:06.1150975+00:00",
+      "NumProgressed": 3828,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -2474,7 +2479,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -2522,7 +2527,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -2562,7 +2567,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -2578,7 +2583,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -2594,7 +2599,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -2602,7 +2607,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -2610,21 +2615,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 3824,
+      "Progressed": 3828,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:06:56.8588275+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:06:06.115097+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:57:53.5001916+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:06:56.8588598+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:57:48.3783649+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:06:06.1151261+00:00"
 }

@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 554)  
+Rating: 4.51 (Ranked 553)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~565,015 |
-| Error: Stack Overflow | 66.00% | ~400,978 |
-| We need more gold | 61.00% | ~370,601 |
-| The dawn of civilization | 53.00% | ~321,998 |
-| More FPS for the FPS god! | 50.00% | ~303,772 |
-| Beauty and harmony | 48.00% | ~291,621 |
-| One more! | 44.00% | ~267,319 |
-| Overmind | 24.00% | ~145,810 |
-| RNG is my best friend now | 18.00% | ~109,358 |
+| First.. Bit? | 93.00% | ~565,021 |
+| Error: Stack Overflow | 66.00% | ~400,982 |
+| We need more gold | 61.00% | ~370,605 |
+| The dawn of civilization | 53.00% | ~322,001 |
+| More FPS for the FPS god! | 50.00% | ~303,774 |
+| Beauty and harmony | 48.00% | ~291,624 |
+| One more! | 44.00% | ~267,322 |
+| Overmind | 24.00% | ~145,812 |
+| RNG is my best friend now | 18.00% | ~109,359 |
 | Cosplay | 13.00% | ~78,981 |
 | Evolution in progress... | 13.00% | ~78,981 |
-| Step by step | 8.00% | ~48,603 |
+| Step by step | 8.00% | ~48,604 |
 | README reader | 3.00% | ~18,226 |
 | Data scientist | 3.00% | ~18,226 |
 | One small step for a man... | 3.00% | ~18,226 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,823 |
 | The Scrooge | 0.10% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,543 (Ranked 29)  
+Progressed: 607,549 (Ranked 29)  
 Completed: 533 (0.09%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 533 (0.09%) (Ranked 256)
 | 2023-10-18 | 607,284 | 532 |
 | 2023-10-19 | 607,397 | 532 |
 | 2023-10-20 | 607,526 | 533 |
-| 2023-10-21 | 607,543 | 533 |
+| 2023-10-21 | 607,549 | 533 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 316)  
 Sum: 134 (Ranked 417)  

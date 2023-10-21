@@ -703,9 +703,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -727,9 +727,9 @@
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -1039,9 +1039,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1247,9 +1247,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1334,8 +1334,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:06:59.8201396+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:06:08.5531385+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:58:52.7472948+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:06:59.8202468+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:58:39.8455386+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:06:08.5532454+00:00"
 }

@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57413,
+  "EOS_Progressed": 57414,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11126,6 +11126,11 @@
       "Time": "2023-10-21T03:03:32.1897569+00:00",
       "NumProgressed": 57413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-21T05:03:27.2184046+00:00",
+      "NumProgressed": 57414,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -11528,7 +11533,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57413,
+      "Progressed": 57414,
       "Completed": 6
     }
   ],
@@ -11536,8 +11541,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:04:07.4254519+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:03:27.218404+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:36.8834078+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:59:18.419096+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:04:07.425657+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:58:59.4603449+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:03:27.2185076+00:00"
 }

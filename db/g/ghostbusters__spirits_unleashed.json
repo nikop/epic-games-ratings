@@ -2577,9 +2577,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 26865,
+  "EOS_Progressed": 26872,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15677,6 +15677,11 @@
       "Time": "2023-10-21T04:06:04.5042121+00:00",
       "NumProgressed": 26865,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-21T05:05:23.0973852+00:00",
+      "NumProgressed": 26872,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -16054,9 +16059,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 188
     },
     {
       "ID": "Ultimate_Defense",
@@ -16095,7 +16100,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 26865,
+      "Progressed": 26872,
       "Completed": 60
     }
   ],
@@ -16103,8 +16108,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-21T01:42:30.4958713+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:06:04.5042116+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:05:23.0973842+00:00",
   "LastUpdate_AppInfo": "2023-10-14T14:57:17.9420656+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:02:48.6825982+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:06:04.5043415+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:01:50.2727178+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:05:23.0975093+00:00"
 }

@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 65.00% | ~72 |
-| Hunting Season | 48.00% | ~53 |
-| Coffee Thermos | 40.00% | ~44 |
-| Grew Bigger | 40.00% | ~44 |
-| Bring It | 38.00% | ~42 |
-| Find the Light | 34.00% | ~37 |
+| Nightmare Territory | 64.00% | ~71 |
+| Hunting Season | 49.00% | ~54 |
+| Grew Bigger | 43.00% | ~48 |
+| Coffee Thermos | 42.00% | ~47 |
+| Bring It | 41.00% | ~46 |
+| Find the Light | 33.00% | ~37 |
+| Darkness Coiled | 33.00% | ~37 |
 | Not the Last | 30.00% | ~33 |
-| Darkness Coiled | 30.00% | ~33 |
-| Lights Shining | 25.00% | ~28 |
-| Yippee Ki-yay | 25.00% | ~28 |
+| Chased the Source | 28.00% | ~31 |
 | Filling the Shape | 25.00% | ~28 |
-| Chased the Source | 25.00% | ~28 |
-| Greatest Hits | 24.00% | ~26 |
-| Somebody's Home | 24.00% | ~26 |
+| Lights Shining | 24.00% | ~27 |
+| Yippee Ki-yay | 24.00% | ~27 |
+| Somebody's Home | 24.00% | ~27 |
+| Greatest Hits | 23.00% | ~26 |
+| Felt Good | 23.00% | ~26 |
 | Ready for a Fight | 22.00% | ~24 |
-| Aimed Ahead | 21.00% | ~23 |
-| Felt Good | 21.00% | ~23 |
+| Aimed Ahead | 22.00% | ~24 |
 | The Other Side | 21.00% | ~23 |
 | Carry his Words | 20.00% | ~22 |
 | Shining in the Night | 17.00% | ~19 |
+| Into the Overlap | 16.00% | ~18 |
 | Secret Stashes | 16.00% | ~18 |
 | All Accounted For | 16.00% | ~18 |
-| Into the Overlap | 15.00% | ~16 |
-| Stop Right There | 14.00% | ~15 |
-| Talk Show | 14.00% | ~15 |
-| Lawman | 13.00% | ~14 |
+| Stop Right There | 14.00% | ~16 |
+| Lawman | 14.00% | ~16 |
+| Talk Show | 14.00% | ~16 |
 | Storm Cloud | 13.00% | ~14 |
 | New York City | 13.00% | ~14 |
 | Return | 13.00% | ~14 |
@@ -71,7 +71,7 @@
 | The Nice Things in Life | 0.90% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 383)  
+Progressed: 111 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 25 | 0 |
 | 2023-10-19 | 50 | 0 |
 | 2023-10-20 | 100 | 0 |
-| 2023-10-21 | 110 | 0 |
+| 2023-10-21 | 111 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

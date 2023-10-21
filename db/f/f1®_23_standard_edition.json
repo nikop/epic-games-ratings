@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3336,
+  "EOS_Progressed": 3337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3206,6 +3206,11 @@
       "Time": "2023-10-21T01:45:24.743178+00:00",
       "NumProgressed": 3336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T05:05:11.6870837+00:00",
+      "NumProgressed": 3337,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3258,7 +3263,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "achievement_0007",
@@ -3266,7 +3271,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "achievement_0008",
@@ -3274,7 +3279,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3002
+      "UsersEstimate": 3003
     },
     {
       "ID": "achievement_0009",
@@ -3346,7 +3351,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_0018",
@@ -3360,9 +3365,9 @@
       "ID": "achievement_0019",
       "SetID": "9123ogc",
       "Name": "Undisputed Winner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 334
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_0020",
@@ -3386,7 +3391,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_0023",
@@ -3394,7 +3399,7 @@
       "Name": "Sharing the Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "achievement_0024",
@@ -3450,7 +3455,7 @@
       "Name": "Reuse",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "achievement_0031",
@@ -3554,7 +3559,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "achievement_0044",
@@ -3562,7 +3567,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "achievement_0045",
@@ -3570,7 +3575,7 @@
       "Name": "Making History",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "achievement_0046",
@@ -3609,7 +3614,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3336,
+      "Progressed": 3337,
       "Completed": 0
     }
   ],
@@ -3617,8 +3622,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:05:50.7866776+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:05:11.6870832+00:00",
   "LastUpdate_AppInfo": "2023-10-14T13:56:56.8221835+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:58:32.5499265+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:05:50.7867824+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:58:24.3748799+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:05:11.6871416+00:00"
 }

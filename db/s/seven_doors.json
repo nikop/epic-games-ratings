@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -115,25 +115,25 @@
       "ID": "ACH_1",
       "SetID": "15cie2",
       "Name": "Welcome to Seven Doors",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_10",
       "SetID": "15cie2",
       "Name": "Thanksgiving Day",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_11",
       "SetID": "15cie2",
       "Name": "No Fear of the Dark",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_12",
@@ -187,25 +187,25 @@
       "ID": "ACH_2",
       "SetID": "15cie2",
       "Name": "Kill the Dead Man",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_3",
       "SetID": "15cie2",
       "Name": "Diogenes Syndrome",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_4",
       "SetID": "15cie2",
       "Name": "They\u2019re Watching",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_5",
@@ -260,8 +260,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:07:19.3679756+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:06:24.393096+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:05.8471579+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:57:35.0871977+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:07:19.3679936+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:57:34.2259425+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:06:24.3931169+00:00"
 }

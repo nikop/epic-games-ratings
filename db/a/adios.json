@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76304,
+  "EOS_Progressed": 76308,
   "EOS_Completed": 803,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20607,6 +20607,11 @@
       "Time": "2023-10-21T04:08:13.0535264+00:00",
       "NumProgressed": 76304,
       "NumCompleted": 803
+    },
+    {
+      "Time": "2023-10-21T05:07:08.3723229+00:00",
+      "NumProgressed": 76308,
+      "NumCompleted": 803
     }
   ],
   "TotalAchievements": 25,
@@ -20650,7 +20655,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16787
+      "UsersEstimate": 16788
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20690,7 +20695,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15261
+      "UsersEstimate": 15262
     },
     {
       "ID": "Hearty",
@@ -20706,7 +20711,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6867
+      "UsersEstimate": 6868
     },
     {
       "ID": "Magnetic Miracles",
@@ -20720,9 +20725,9 @@
       "ID": "Master, Commander",
       "SetID": "1e8d2nk",
       "Name": "Master, Commander",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 16024
+      "UsersEstimate": 15262
     },
     {
       "ID": "Meaty",
@@ -20738,7 +20743,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14498
+      "UsersEstimate": 14499
     },
     {
       "ID": "Nice Try",
@@ -20754,15 +20759,15 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "Piano Man",
       "SetID": "1e8d2nk",
       "Name": "Piano Man",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 8393
+      "UsersEstimate": 7631
     },
     {
       "ID": "Right On Target",
@@ -20778,7 +20783,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "Spicy",
@@ -20810,14 +20815,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76304,
+      "Progressed": 76308,
       "Completed": 803
     }
   ],
@@ -20825,8 +20830,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:08:13.0535259+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:07:08.3723224+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:58:21.8706974+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:58:19.0765449+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:08:13.0536961+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:58:13.1520664+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:07:08.3724592+00:00"
 }

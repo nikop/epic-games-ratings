@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -282,6 +282,11 @@
       "Time": "2023-10-21T04:08:36.5716256+00:00",
       "NumProgressed": 102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T05:07:27.7458984+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -292,7 +297,7 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -348,17 +353,17 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -372,17 +377,17 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -412,9 +417,9 @@
       "ID": "ML_ACHIEVEMENT_16",
       "SetID": "5k00jcd",
       "Name": "Stage animal",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -446,13 +451,13 @@
       "Name": "Challenge accepted!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -460,7 +465,7 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -476,9 +481,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -556,7 +561,7 @@
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -564,17 +569,17 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -604,17 +609,17 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -637,14 +642,14 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:08:36.571625+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:07:27.7458977+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-21T03:59:43.2185216+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:08:36.5717327+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:59:19.0280681+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:07:27.7459359+00:00"
 }

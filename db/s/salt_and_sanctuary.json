@@ -2706,7 +2706,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 535926,
+  "EOS_Progressed": 535927,
   "EOS_Completed": 1586,
   "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 16,
@@ -22791,6 +22791,11 @@
       "Time": "2023-10-21T04:09:13.0163199+00:00",
       "NumProgressed": 535926,
       "NumCompleted": 1586
+    },
+    {
+      "Time": "2023-10-21T05:08:08.1286436+00:00",
+      "NumProgressed": 535927,
+      "NumCompleted": 1586
     }
   ],
   "TotalAchievements": 37,
@@ -22802,7 +22807,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69670
+      "UsersEstimate": 69671
     },
     {
       "ID": "COASTROCK",
@@ -22914,7 +22919,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214370
+      "UsersEstimate": 214371
     },
     {
       "ID": "THE_CASTLE",
@@ -22970,7 +22975,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69670
+      "UsersEstimate": 69671
     },
     {
       "ID": "THE_IRON_ONES",
@@ -23074,7 +23079,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91107
+      "UsersEstimate": 91108
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -23097,15 +23102,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 535926,
+      "Progressed": 535927,
       "Completed": 1586
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-16T15:59:05.91541+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:09:13.0163194+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:08:08.1286431+00:00",
   "LastUpdate_AppInfo": "2023-10-14T15:57:31.6704285+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:01:56.1833333+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:09:13.0164779+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:01:13.6656629+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:08:08.128789+00:00"
 }

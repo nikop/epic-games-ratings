@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 119)
 | The Hero of Hogwarts | 10.00% | ~29,863 |
 | Challenge Accepted | 10.00% | ~29,863 |
 | Followed the Butterflies | 10.00% | ~29,863 |
-| The Spell Master | 9.00% | ~26,876 |
-| Rising From the Ashes | 9.00% | ~26,876 |
+| The Spell Master | 9.00% | ~26,877 |
+| Rising From the Ashes | 9.00% | ~26,877 |
 | The Avenging Gazelle | 8.00% | ~23,890 |
 | Beast Friends | 8.00% | ~23,890 |
 | A Sallow Grave | 8.00% | ~23,890 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,090 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,627 (Ranked 47)  
+Progressed: 298,629 (Ranked 47)  
 Completed: 490 (0.16%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,14 +235,14 @@ Completed: 490 (0.16%) (Ranked 234)
 | 2023-10-18 | 298,550 | 488 |
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
-| 2023-10-21 | 298,627 | 490 |
+| 2023-10-21 | 298,629 | 490 |
 ## Awards
-Max (Character Customization): 23,665  (Ranked 17)  
-Sum: 46,271 (Ranked 30)  
+Max (Character Customization): 23,683  (Ranked 17)  
+Sum: 46,289 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,665 |
+| This game has Inclusive Character Customization | 23,683 |
 | This game has Great Boss Battles | 11,845 |
 | This game is Great for Beginners | 1,199 |
 | This game has Amazing Storytelling | 1,170 |
@@ -468,4 +468,4 @@ Diff (max vs sum): -13
 | 2023-10-18 | 4.76 | 23,620 | 46,145 |
 | 2023-10-19 | 4.76 | 23,644 | 46,213 |
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
-| 2023-10-21 | 4.76 | 23,665 | 46,271 |
+| 2023-10-21 | 4.76 | 23,683 | 46,289 |

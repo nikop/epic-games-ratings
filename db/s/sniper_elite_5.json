@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,7 +559,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3763,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -7374,6 +7374,11 @@
       "Time": "2023-10-21T04:06:40.0601815+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-21T05:05:52.4538088+00:00",
+      "NumProgressed": 3763,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7457,7 +7462,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -7553,7 +7558,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7689,7 +7694,7 @@
       "Name": "Tinkerer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -7713,7 +7718,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -7721,7 +7726,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7737,7 +7742,7 @@
       "Name": "Road Rage",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -7952,13 +7957,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3713,
+      "Progressed": 3714,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3763,
       "Completed": 11
     }
   ],
@@ -7966,8 +7971,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:06:40.0601808+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:05:52.4538083+00:00",
   "LastUpdate_AppInfo": "2023-10-14T10:57:25.01046+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:03:37.6303421+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:06:40.0603611+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:03:11.8386311+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:05:52.4539093+00:00"
 }

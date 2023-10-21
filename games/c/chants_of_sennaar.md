@@ -12,12 +12,12 @@
 | True G3M4R | 10.00% | ~31 |
 | Scholar | 10.00% | ~31 |
 | The darkness | 10.00% | ~31 |
+| Cable guy | 9.00% | ~28 |
 | A good beginning | 9.00% | ~28 |
 | One last step | 9.00% | ~28 |
 | I did it | 8.00% | ~25 |
 | In this together | 8.00% | ~25 |
 | Peace walker | 8.00% | ~25 |
-| Cable guy | 8.00% | ~25 |
 | Half the way | 8.00% | ~25 |
 | Champollion | 8.00% | ~25 |
 | Alchemists Express | 7.00% | ~22 |

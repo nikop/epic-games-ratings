@@ -6,16 +6,16 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,031 |
-| Incurious | 17.00% | ~111,473 |
-| Climate Change | 16.00% | ~104,916 |
-| Stroller | 15.00% | ~98,359 |
-| Advanced Hiker | 13.00% | ~85,244 |
-| Toy Train | 13.00% | ~85,244 |
-| Hiker | 12.00% | ~78,687 |
+| Advanced Stroller | 18.00% | ~118,033 |
+| Incurious | 17.00% | ~111,476 |
+| Climate Change | 16.00% | ~104,919 |
+| Stroller | 15.00% | ~98,361 |
+| Advanced Hiker | 13.00% | ~85,246 |
+| Toy Train | 13.00% | ~85,246 |
+| Hiker | 12.00% | ~78,689 |
 | Mojave Courier | 6.00% | ~39,344 |
-| Saved by Nausicaä | 5.00% | ~32,786 |
-| Advanced Voyager | 4.00% | ~26,229 |
+| Saved by Nausicaä | 5.00% | ~32,787 |
+| Advanced Voyager | 4.00% | ~26,230 |
 | Voyager | 3.00% | ~19,672 |
 | Expert Stroller | 3.00% | ~19,672 |
 | Orient Express | 3.00% | ~19,672 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~656 |
 | 20 Miles under the Sea | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655,726 (Ranked 27)  
+Progressed: 655,741 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,17 +243,17 @@ Completed: 12 (0.00%) (Ranked 318)
 | 2023-10-18 | 655,256 | 12 |
 | 2023-10-19 | 655,431 | 12 |
 | 2023-10-20 | 655,684 | 12 |
-| 2023-10-21 | 655,726 | 12 |
+| 2023-10-21 | 655,741 | 12 |
 ## Awards
 Max (Great for Beginners): 198  (Ranked 279)  
-Sum: 1,582 (Ranked 223)  
+Sum: 1,583 (Ranked 223)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 198 |
 | This game has Diverse Characters | 196 |
 | This game has Quickly Understood Controls | 191 |
-| This game is Extremely Fun | 185 |
+| This game is Extremely Fun | 186 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 169 |
 | This game has Playful Visuals | 159 |
@@ -393,3 +393,4 @@ Diff (max vs sum): 56
 | 2023-10-09 | 4.64 | - | 198 | 1,580 |
 | 2023-10-15 | 4.64 | - | 198 | 1,581 |
 | 2023-10-17 | 4.64 | - | 198 | 1,582 |
+| 2023-10-21 | 4.64 | - | 198 | 1,583 |

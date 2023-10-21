@@ -1865,9 +1865,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1952,8 +1952,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:08:57.5494852+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:07:44.96266+00:00",
   "LastUpdate_AppInfo": "2023-10-14T11:57:11.021684+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:02:41.3506455+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:08:57.5495075+00:00"
+  "LastUpdate_Ratings": "2023-10-21T05:01:47.4017923+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:07:44.9626856+00:00"
 }

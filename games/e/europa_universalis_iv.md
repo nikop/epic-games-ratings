@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,424 |
-| Until death do us apart | 4.00% | ~17,424 |
-| Victorious! | 4.00% | ~17,424 |
-| That is mine! | 3.00% | ~13,068 |
-| Brothers in Arms | 2.00% | ~8,712 |
-| Cold War | 2.00% | ~8,712 |
-| For the Glory | 2.00% | ~8,712 |
-| That's a Grand Navy | 2.00% | ~8,712 |
-| Seriously?! | 2.00% | ~8,712 |
+| That's a Grand Army | 4.00% | ~17,425 |
+| Until death do us apart | 4.00% | ~17,425 |
+| Victorious! | 4.00% | ~17,425 |
+| That is mine! | 3.00% | ~13,069 |
+| Brothers in Arms | 2.00% | ~8,713 |
+| Cold War | 2.00% | ~8,713 |
+| For the Glory | 2.00% | ~8,713 |
+| That's a Grand Navy | 2.00% | ~8,713 |
+| Seriously?! | 2.00% | ~8,713 |
 | Defender of the Faith | 1.00% | ~4,356 |
 | It's all about luck | 1.00% | ~4,356 |
 | It's all about the money | 1.00% | ~4,356 |
@@ -32,13 +32,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,178 |
 | Combined Arms | 0.50% | ~2,178 |
 | This navy can take it all | 0.50% | ~2,178 |
-| Bright Spark | 0.40% | ~1,742 |
-| The Emperors new clothes | 0.40% | ~1,742 |
-| Factionalism | 0.40% | ~1,742 |
-| Gentle Persuasion | 0.40% | ~1,742 |
-| Isn't this the way to India? | 0.40% | ~1,742 |
-| Queen of Conquest | 0.40% | ~1,742 |
-| The Five Colonies | 0.40% | ~1,742 |
+| Bright Spark | 0.40% | ~1,743 |
+| The Emperors new clothes | 0.40% | ~1,743 |
+| Factionalism | 0.40% | ~1,743 |
+| Gentle Persuasion | 0.40% | ~1,743 |
+| Isn't this the way to India? | 0.40% | ~1,743 |
+| Queen of Conquest | 0.40% | ~1,743 |
+| The Five Colonies | 0.40% | ~1,743 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,307 |
 | Down Under | 0.30% | ~1,307 |
 | Electable! | 0.30% | ~1,307 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435,612 (Ranked 40)  
+Progressed: 435,631 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-18 | 433,999 | 1 |
 | 2023-10-19 | 434,645 | 1 |
 | 2023-10-20 | 435,486 | 1 |
-| 2023-10-21 | 435,612 | 1 |
+| 2023-10-21 | 435,631 | 1 |
 ## Awards
 Max (Educational): 6,599  (Ranked 55)  
 Sum: 54,294 (Ranked 24)  

@@ -6,10 +6,10 @@ Rating: 4.46 (Ranked 631)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,731 |
-| Confirming Suspicions | 41.00% | ~1,542 |
+| Confirming Suspicions | 41.00% | ~1,543 |
 | The Kraken Wakes | 37.00% | ~1,392 |
 | It's Starting to Crack | 34.00% | ~1,279 |
-| Change the Channel | 31.00% | ~1,166 |
+| Change the Channel | 31.00% | ~1,167 |
 | Lord of War | 30.00% | ~1,129 |
 | Taking it back | 29.00% | ~1,091 |
 | Resourceful | 27.00% | ~1,016 |
@@ -42,10 +42,10 @@ Rating: 4.46 (Ranked 631)
 | The Long Game | 5.00% | ~188 |
 | It'll Buff Right Out | 5.00% | ~188 |
 | Don't hold your breath | 5.00% | ~188 |
-| Strategist | 4.00% | ~150 |
-| Tinkerer | 4.00% | ~150 |
-| Locomotion Commotion | 4.00% | ~150 |
-| Road Rage | 4.00% | ~150 |
+| Strategist | 4.00% | ~151 |
+| Tinkerer | 4.00% | ~151 |
+| Locomotion Commotion | 4.00% | ~151 |
+| Road Rage | 4.00% | ~151 |
 | Last Resort | 4.00% | ~149 |
 | Siegebreaker | 4.00% | ~149 |
 | Ghost of Falaise | 4.00% | ~149 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 631)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,762 (Ranked 181)  
+Progressed: 3,763 (Ranked 181)  
 Completed: 11 (0.29%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 11 (0.29%) (Ranked 213)
 | 2023-10-18 | 3,754 | 11 |
 | 2023-10-19 | 3,758 | 11 |
 | 2023-10-20 | 3,760 | 11 |
-| 2023-10-21 | 3,762 | 11 |
+| 2023-10-21 | 3,763 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 526)  
 Sum: 21 (Ranked 527)  

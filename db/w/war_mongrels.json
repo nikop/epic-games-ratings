@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -265,7 +265,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -1755,6 +1755,11 @@
       "Time": "2023-10-20T16:05:03.5869363+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-21T05:05:04.7603359+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1878,7 +1883,7 @@
       "Name": "Prospector",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -1886,7 +1891,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1950,7 +1955,7 @@
       "Name": "Collectibles of Chapter VIII",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COLL_CH09",
@@ -1974,7 +1979,7 @@
       "Name": "Collectibles of Chapter XI",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -1982,7 +1987,7 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_FIN_CH01",
@@ -1990,7 +1995,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2020,9 +2025,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2030,7 +2035,7 @@
       "Name": "Opportunities",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2070,7 +2075,7 @@
       "Name": "Sorrow",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2086,7 +2091,7 @@
       "Name": "Such is War!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -2094,7 +2099,7 @@
       "Name": "Piece of Cake",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_HEAL",
@@ -2110,7 +2115,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2118,7 +2123,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_JOACHIM_FATE2",
@@ -2134,7 +2139,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2166,7 +2171,7 @@
       "Name": "It Will Rain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_KILL_OFFICER",
@@ -2174,7 +2179,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2190,7 +2195,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2222,7 +2227,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_NOMOON",
@@ -2237,15 +2242,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-21T04:05:42.3494678+00:00",
+  "LastChanged_Achievements": "2023-10-21T05:05:04.760335+00:00",
   "LastUpdate_AppInfo": "2023-10-14T12:59:17.404444+00:00",
-  "LastUpdate_Ratings": "2023-10-21T04:00:22.2490651+00:00",
-  "LastUpdate_Achievements": "2023-10-21T04:05:42.3495354+00:00"
+  "LastUpdate_Ratings": "2023-10-21T04:59:54.19985+00:00",
+  "LastUpdate_Achievements": "2023-10-21T05:05:04.7603996+00:00"
 }

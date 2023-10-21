@@ -16,7 +16,7 @@
 | The crucifixion | 4.00% | ~17 |
 | Flagellation | 4.00% | ~17 |
 | The choice | 3.00% | ~13 |
-| Hubris | 2.00% | ~8 |
+| Hubris | 3.00% | ~13 |
 | Humility | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419 (Ranked 295)  
