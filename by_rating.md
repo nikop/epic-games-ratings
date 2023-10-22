@@ -240,8 +240,8 @@
 | 224 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 539 |
 | 224 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 439 |
 | 224 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,005 | 150 |
-| 241 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,371 | 91 |
-| 241 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,710 | 88 |
+| 241 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,372 | 91 |
+| 241 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,721 | 88 |
 | 241 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 539 |
 | 241 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 71 | 391 |
 | 241 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 539 |
@@ -390,7 +390,7 @@
 | 376 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,272 | 136 |
 | 376 | [MudRunner](games/m/mudrunner.md) | 4.61 | 269 | 257 |
 | 376 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,661 | 100 |
-| 376 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 711 | 178 |
+| 376 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 713 | 178 |
 | 376 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 340 |
 | 376 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 534 | 200 |
 | 376 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,281 | 39 |
@@ -795,21 +795,21 @@
 | 786 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 539 |
 | 786 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 2,892 | 97 |
 | 795 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 539 |
-| 795 | [Filament](games/f/filament.md) | 4.33 | 565 | 198 |
+| 795 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.33 | 142 | 312 |
+| 795 | [Filament](games/f/filament.md) | 4.33 | 566 | 198 |
 | 795 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 539 |
 | 795 | [Paladins](games/p/paladins.md) | 4.33 | 3,740 | 86 |
 | 795 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 539 |
 | 795 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 539 |
 | 795 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 520 |
 | 795 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 539 |
-| 803 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 63 | 400 |
-| 803 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.32 | 142 | 312 |
-| 803 | [House Party](games/h/house_party.md) | 4.32 | 0 | 539 |
-| 803 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 539 |
-| 803 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 482 |
-| 803 | [Vampyr](games/v/vampyr.md) | 4.32 | 569 | 196 |
-| 803 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 539 |
-| 803 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 539 |
+| 804 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 63 | 400 |
+| 804 | [House Party](games/h/house_party.md) | 4.32 | 0 | 539 |
+| 804 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 539 |
+| 804 | [Speed Brawl](games/s/speed_brawl.md) | 4.32 | 29 | 482 |
+| 804 | [Vampyr](games/v/vampyr.md) | 4.32 | 569 | 196 |
+| 804 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 539 |
+| 804 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 539 |
 | 811 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 539 |
 | 811 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 367 | 228 |
 | 811 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 539 |

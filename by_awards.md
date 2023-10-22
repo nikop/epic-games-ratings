@@ -87,10 +87,10 @@
 | 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,817 | 4.27 | 842 |
 | 86 | [Paladins](games/p/paladins.md) | 3,740 | 4.33 | 795 |
 | 87 | [Trackmania](games/t/trackmania.md) | 3,726 | 4.67 | 266 |
-| 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,710 | 4.68 | 241 |
+| 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,721 | 4.68 | 241 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,645 | 4.46 | 632 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,558 | 4.47 | 625 |
-| 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,371 | 4.68 | 241 |
+| 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,372 | 4.68 | 241 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,364 | 4.76 | 121 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,325 | 4.57 | 459 |
 | 94 | [Hades](games/h/hades.md) | 3,321 | 4.92 | 4 |
@@ -177,7 +177,7 @@
 | 175 | [Subnautica](games/s/subnautica.md) | 722 | 4.85 | 43 |
 | 176 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 718 | 4.74 | 151 |
 | 176 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 718 | 4.59 | 420 |
-| 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 711 | 4.61 | 376 |
+| 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 713 | 4.61 | 376 |
 | 179 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 702 | 4.24 | 861 |
 | 180 | [Neon Abyss](games/n/neon_abyss.md) | 698 | 4.68 | 241 |
 | 181 | [FAR CRY 4](games/f/far_cry_4.md) | 693 | 4.67 | 266 |
@@ -195,9 +195,9 @@
 | 193 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 574 | 4.68 | 241 |
 | 194 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 571 | 4.40 | 725 |
 | 195 | [Dishonored 2](games/d/dishonored_2.md) | 570 | 4.79 | 92 |
-| 196 | [Vampyr](games/v/vampyr.md) | 569 | 4.32 | 803 |
+| 196 | [Vampyr](games/v/vampyr.md) | 569 | 4.32 | 804 |
 | 197 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 568 | 4.67 | 266 |
-| 198 | [Filament](games/f/filament.md) | 565 | 4.33 | 795 |
+| 198 | [Filament](games/f/filament.md) | 566 | 4.33 | 795 |
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 551 | 4.07 | 957 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 534 | 4.61 | 376 |
 | 201 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 524 | 4.86 | 28 |
@@ -311,7 +311,7 @@
 | 309 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 149 | 4.77 | 112 |
 | 310 | [Encased](games/e/encased.md) | 146 | 4.34 | 786 |
 | 311 | [Night in the Woods](games/n/night_in_the_woods.md) | 145 | 4.73 | 167 |
-| 312 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 142 | 4.32 | 803 |
+| 312 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 142 | 4.33 | 795 |
 | 313 | [Timberborn](games/t/timberborn.md) | 141 | 4.72 | 180 |
 | 314 | [First Class Trouble](games/f/first_class_trouble.md) | 138 | 4.48 | 611 |
 | 314 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 138 | 4.70 | 206 |
@@ -399,7 +399,7 @@
 | 397 | [Symphony of War](games/s/symphony_of_war.md) | 67 | 4.64 | 326 |
 | 398 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 66 | 4.51 | 555 |
 | 399 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 595 |
-| 400 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 63 | 4.32 | 803 |
+| 400 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 63 | 4.32 | 804 |
 | 400 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.60 | 403 |
 | 402 | [Heavy Rain](games/h/heavy_rain.md) | 62 | 4.59 | 420 |
 | 403 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 662 |
@@ -484,7 +484,7 @@
 | 482 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 990 |
 | 482 | [Madden NFL 23](games/m/madden_nfl_23.md) | 29 | 4.28 | 834 |
 | 482 | [Rayman Origins](games/r/rayman_origins.md) | 29 | 4.86 | 28 |
-| 482 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 803 |
+| 482 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 804 |
 | 482 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 678 |
 | 482 | [Warpips](games/w/warpips.md) | 29 | 4.42 | 697 |
 | 488 | [Chimeraland](games/c/chimeraland.md) | 28 | 3.90 | 996 |
