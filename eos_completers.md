@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.10% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.20% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.19% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -109,13 +109,13 @@
 | 107 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 108 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 109 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.26% |
-| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.24% |
+| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.23% |
 | 111 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 112 | [Bloodshore](games/b/bloodshore.md) | 2.07% |
 | 113 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 114 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
-| 115 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.90% |
-| 116 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 115 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.89% |
+| 116 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 117 | [Sifu](games/s/sifu.md) | 1.81% |
 | 118 | [Night Book](games/n/night_book.md) | 1.80% |
 | 119 | [Frogun](games/f/frogun.md) | 1.79% |
@@ -155,7 +155,7 @@
 | 153 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 154 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 155 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 155 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.80% |
+| 156 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.79% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 157 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
@@ -171,15 +171,15 @@
 | 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 170 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
 | 170 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
-| 170 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
+| 170 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
 | 170 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 176 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 176 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 178 | [Dead Space](games/d/dead_space.md) | 0.52% |
-| 179 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.51% |
+| 174 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
+| 175 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 177 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 179 | [Dead Space](games/d/dead_space.md) | 0.52% |
+| 180 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 182 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
 | 183 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
