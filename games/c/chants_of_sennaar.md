@@ -7,8 +7,8 @@
 | That's the spirit | 15.00% | ~47 |
 | Welcome to the Tower | 15.00% | ~47 |
 | The great escape | 14.00% | ~44 |
+| The Preacher's fate | 13.00% | ~41 |
 | A new dawn | 13.00% | ~41 |
-| The Preacher's fate | 12.00% | ~38 |
 | Scholar | 12.00% | ~38 |
 | Peace walker | 11.00% | ~35 |
 | Cable guy | 11.00% | ~35 |

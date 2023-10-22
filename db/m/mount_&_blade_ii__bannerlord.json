@@ -8178,7 +8178,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63762,
+  "EOS_Progressed": 63763,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
@@ -27818,6 +27818,11 @@
       "Time": "2023-10-22T19:06:51.1044774+00:00",
       "NumProgressed": 63762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T20:06:54.7669951+00:00",
+      "NumProgressed": 63763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27829,7 +27834,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7651
+      "UsersEstimate": 7652
     },
     {
       "ID": "Apple of my eye",
@@ -28053,7 +28058,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "Lawbringer",
@@ -28061,7 +28066,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24867
+      "UsersEstimate": 24868
     },
     {
       "ID": "Lawmaker",
@@ -28221,7 +28226,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -28236,15 +28241,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63762,
+      "Progressed": 63763,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-22T19:00:01.1924005+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:06:51.1044769+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:06:54.7669944+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:00:01.1924014+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:06:51.1046536+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:00:10.2593387+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:06:54.7671541+00:00"
 }

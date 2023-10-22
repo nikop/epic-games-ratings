@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,153 |
-| Leader | 60.00% | ~5,879 |
-| Explorer | 53.00% | ~5,193 |
-| Healer | 52.00% | ~5,095 |
+| First Step | 73.00% | ~7,155 |
+| Leader | 60.00% | ~5,881 |
+| Explorer | 53.00% | ~5,195 |
+| Healer | 52.00% | ~5,097 |
 | Aspiring Inventor | 44.00% | ~4,312 |
 | Adventurer | 42.00% | ~4,116 |
 | Famous Healer | 38.00% | ~3,724 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,799 (Ranked 150)  
+Progressed: 9,801 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 9,709 | 0 |
 | 2023-10-20 | 9,733 | 0 |
 | 2023-10-21 | 9,761 | 0 |
-| 2023-10-22 | 9,799 | 0 |
+| 2023-10-22 | 9,801 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 344)  
-Sum: 712 (Ranked 286)  
+Sum: 713 (Ranked 286)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 58
 | This game has Diverse Characters | 73 |
 | This game has Amazing Characters | 69 |
 | This game has Obsessive Gameplay | 58 |
-| This game has a Creative Community | 45 |
+| This game has a Creative Community | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -399,4 +399,4 @@ Diff (max vs sum): 58
 | 2023-10-09 | 4.48 | - | 103 | 708 |
 | 2023-10-11 | 4.48 | - | 103 | 709 |
 | 2023-10-13 | 4.48 | - | 103 | 710 |
-| 2023-10-22 | 4.48 | - | 103 | 712 |
+| 2023-10-22 | 4.48 | - | 103 | 713 |

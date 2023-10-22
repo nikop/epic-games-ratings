@@ -4,10 +4,10 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 224,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -583,10 +583,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 296,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-22T19:58:08.4224517+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 297,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 296,
+  "NumberOfAwards": 297,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -648,12 +654,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 1771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4715,9 +4721,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2023-10-21T11:57:52.2042426+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:08:05.4838617+00:00",
+  "LastChanged": "2023-10-22T19:58:08.4224516+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:08:19.7046254+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.0173144+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:57:58.3346185+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:08:05.4839633+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:58:08.4224521+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:08:19.7047032+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1488,
+  "EOS_Progressed": 1489,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1953,6 +1953,11 @@
       "Time": "2023-10-21T12:06:27.2927716+00:00",
       "NumProgressed": 1488,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-22T20:06:41.3939985+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1964,7 +1969,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "10",
@@ -1988,7 +1993,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "13",
@@ -2018,9 +2023,9 @@
       "ID": "16",
       "SetID": "n50no0",
       "Name": "My little pony",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 283
+      "UsersEstimate": 298
     },
     {
       "ID": "17",
@@ -2060,7 +2065,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "21",
@@ -2156,7 +2161,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "5",
@@ -2188,7 +2193,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "9",
@@ -2203,15 +2208,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1488,
+      "Progressed": 1489,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:06:37.9157736+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:06:41.3939981+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.2230355+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:01:31.7665349+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:06:37.9158059+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:01:45.1699832+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:06:41.394031+00:00"
 }

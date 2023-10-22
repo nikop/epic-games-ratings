@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.30% | ~2,148 |
 | Path of the Prospect | 0.30% | ~2,148 |
 | Take damage to save time | 0.30% | ~2,148 |
-| Martial Hub | 0.30% | ~75 |
+| Martial Hub | 0.30% | ~76 |
 | Muk Yan Master | 0.20% | ~1,432 |
 | Scareless | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,865 (Ranked 20)  
+Progressed: 715,867 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 12,925 (1.81%) (Ranked 118)
 | 2023-10-19 | 715,784 | 12,923 |
 | 2023-10-20 | 715,805 | 12,924 |
 | 2023-10-21 | 715,835 | 12,925 |
-| 2023-10-22 | 715,865 | 12,925 |
+| 2023-10-22 | 715,867 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,720  (Ranked 53)  
 Sum: 11,679 (Ranked 82)  

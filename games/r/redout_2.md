@@ -5,15 +5,15 @@ Rating: 4.48 (Ranked 612)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~312 |
-| Increasing your Power Level | 27.00% | ~312 |
+| Rookie No More | 28.00% | ~324 |
+| Increasing your Power Level | 28.00% | ~324 |
 | Enter the Speed Gauntlet | 25.00% | ~289 |
 | I just can't choose | 25.00% | ~289 |
 | A Cheese Grater to the Face | 20.00% | ~231 |
 | Put it on a shelf | 19.00% | ~220 |
 | It's like an haircut | 18.00% | ~208 |
+| Suit up | 17.00% | ~197 |
 | Ride in the rising sun | 16.00% | ~185 |
-| Suit up | 16.00% | ~185 |
 | Walked like an Egyptian | 15.00% | ~173 |
 | Running at the speed of sound | 14.00% | ~162 |
 | Rookie No-No More | 13.00% | ~150 |
@@ -52,9 +52,9 @@ Rating: 4.48 (Ranked 612)
 | Familiar Face | 1.00% | ~12 |
 | Eat dust my friend | 1.00% | ~12 |
 | Better than half the studio... | 1.00% | ~12 |
+| Beat you to it! | 1.00% | ~12 |
 | Grandslam | 1.00% | ~12 |
 | Redout Grandmaster | 0.90% | ~10 |
-| Beat you to it! | 0.90% | ~10 |
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

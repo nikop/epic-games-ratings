@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,761 |
-| Finding Your Footing | 26.00% | ~11,326 |
-| Nomad | 17.00% | ~7,405 |
-| Picking Up Speed | 16.00% | ~6,970 |
-| Welcome Maya | 15.00% | ~6,534 |
+| Rookie | 27.00% | ~11,763 |
+| Finding Your Footing | 26.00% | ~11,328 |
+| Nomad | 17.00% | ~7,407 |
+| Picking Up Speed | 16.00% | ~6,971 |
+| Welcome Maya | 15.00% | ~6,535 |
 | Scout | 11.00% | ~4,792 |
 | Sightseer | 11.00% | ~4,792 |
-| Amateur | 10.00% | ~4,356 |
+| Amateur | 10.00% | ~4,357 |
 | Unlock Maya | 8.00% | ~3,485 |
 | Enter Paz | 8.00% | ~3,485 |
 | Wanderer | 8.00% | ~3,485 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,178 |
 | One With The Board | 5.00% | ~2,178 |
 | Voyager | 5.00% | ~2,178 |
-| Izel Has Arrived | 4.00% | ~1,742 |
+| Izel Has Arrived | 4.00% | ~1,743 |
 | Junkie | 3.00% | ~1,307 |
 | Traveler | 3.00% | ~1,307 |
 | Journeyer | 3.00% | ~1,307 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~436 |
 | Vandal | 1.00% | ~436 |
 | Unlock Felipe | 0.90% | ~392 |
-| Adventurer | 0.80% | ~348 |
+| Adventurer | 0.80% | ~349 |
 | Unlock Tupa | 0.50% | ~218 |
 | Master Of The Sands | 0.30% | ~131 |
 | Master | 0.20% | ~87 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~44 |
 | Windswept | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,561 (Ranked 109)  
+Progressed: 43,568 (Ranked 109)  
 Completed: 5 (0.01%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,11 +231,11 @@ Completed: 5 (0.01%) (Ranked 300)
 | 2023-10-19 | 43,211 | 5 |
 | 2023-10-20 | 43,324 | 5 |
 | 2023-10-21 | 43,459 | 5 |
-| 2023-10-22 | 43,561 | 5 |
+| 2023-10-22 | 43,568 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 48  (Ranked 424)  
+Max (Great for Quick Sessions): 48  (Ranked 423)  
 Sum: 369 (Ranked 335)  
-Diff (max vs sum): 89  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |

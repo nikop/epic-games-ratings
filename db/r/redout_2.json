@@ -1180,9 +1180,9 @@
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 324
     },
     {
       "ID": "CAREERADVANCED",
@@ -1356,17 +1356,17 @@
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 197
     },
     {
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 324
     },
     {
       "ID": "ONEPAINT",
@@ -1428,9 +1428,9 @@
       "ID": "WINBEAT",
       "SetID": "3dh70f3",
       "Name": "Beat you to it!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1477,8 +1477,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:07:21.1839771+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:07:25.1091864+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:26.3637065+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:01:11.7291301+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:07:21.1840363+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:01:24.5205799+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:07:25.1092383+00:00"
 }

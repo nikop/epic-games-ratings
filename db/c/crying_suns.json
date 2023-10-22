@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469498,
+  "EOS_Progressed": 469500,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20000,6 +20000,11 @@
       "Time": "2023-10-22T19:09:05.8476043+00:00",
       "NumProgressed": 469498,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-22T20:09:31.5749643+00:00",
+      "NumProgressed": 469500,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20099,7 +20104,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309869
+      "UsersEstimate": 309870
     },
     {
       "ID": "achievement_story_landa",
@@ -20131,7 +20136,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117374
+      "UsersEstimate": 117375
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20195,7 +20200,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159629
+      "UsersEstimate": 159630
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20323,7 +20328,7 @@
       "Name": "Liberator",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_hard",
@@ -20331,7 +20336,7 @@
       "Name": "The Art of War",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_as_easy_normal",
@@ -20339,7 +20344,7 @@
       "Name": "Geno Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_as_hard",
@@ -20347,7 +20352,7 @@
       "Name": "Geno Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_church_easy_normal",
@@ -20355,7 +20360,7 @@
       "Name": "Jericho Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_church_hard",
@@ -20363,7 +20368,7 @@
       "Name": "Jericho Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_kb_easy_normal",
@@ -20371,7 +20376,7 @@
       "Name": "Hammer Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_kb_hard",
@@ -20379,7 +20384,7 @@
       "Name": "Hammer Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_pirate_easy_normal",
@@ -20387,7 +20392,7 @@
       "Name": "Void Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_pirate_hard",
@@ -20395,7 +20400,7 @@
       "Name": "Void Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
@@ -20403,7 +20408,7 @@
       "Name": "Kaos Mastery",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_hard",
@@ -20411,7 +20416,7 @@
       "Name": "Kaos Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_easy_normal",
@@ -20419,7 +20424,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -20427,7 +20432,7 @@
       "Name": "Excelsior Supremacy",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "achievement_win_boss_sector_1",
@@ -20435,7 +20440,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206579
+      "UsersEstimate": 206580
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20443,7 +20448,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140849
+      "UsersEstimate": 140850
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20467,7 +20472,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183104
+      "UsersEstimate": 183105
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20475,7 +20480,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -20642,21 +20647,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13432,
+      "Progressed": 13434,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469498,
+      "Progressed": 469500,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:09:05.8476037+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:09:31.5749639+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:00:56.5681682+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:09:05.8478096+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:01:09.4494537+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:09:31.575165+00:00"
 }

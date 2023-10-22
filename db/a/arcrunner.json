@@ -1780,9 +1780,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1924,9 +1924,9 @@
       "ID": "ACHV_TERMINATED3",
       "SetID": "cceobco",
       "Name": "Terminated III",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 92
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -1987,8 +1987,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:05:21.4108326+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:05:24.9982244+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:45.4002512+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:57:18.955183+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:05:21.4108736+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:57:28.536585+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:05:24.9982565+00:00"
 }

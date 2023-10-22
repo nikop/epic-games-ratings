@@ -89,9 +89,9 @@
       "ID": "ACH_COMPLETE_TUTORIAL",
       "SetID": "b9ng4ag",
       "Name": "Fighting Steps",
-      "Percentage": 60,
+      "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_DEFEAT_BOWIE_SPECIAL",
@@ -113,9 +113,9 @@
       "ID": "ACH_DEFEAT_CYBER",
       "SetID": "b9ng4ag",
       "Name": "Killer Debut",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DEFEAT_EVIL_RICO",
@@ -176,8 +176,8 @@
   ],
   "FirstSeen": "2023-10-21T23:58:29.5927099+00:00",
   "FirstSeenAchievements": "2023-09-02T00:00:26.8543865+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:07:41.0568445+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:08:05.0487179+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.4873174+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:59:12.677614+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:07:41.0568609+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:59:20.3281935+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:08:05.0487278+00:00"
 }

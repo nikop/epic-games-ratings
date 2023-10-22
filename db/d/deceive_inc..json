@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18617,
+  "EOS_Progressed": 18621,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12105,6 +12105,11 @@
       "Time": "2023-10-22T19:05:04.9527013+00:00",
       "NumProgressed": 18617,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T20:05:08.4839022+00:00",
+      "NumProgressed": 18621,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12116,7 +12121,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "0002",
@@ -12132,7 +12137,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "0004",
@@ -12172,7 +12177,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "0009",
@@ -12180,7 +12185,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "0010",
@@ -12244,7 +12249,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "0018",
@@ -12300,7 +12305,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4096
+      "UsersEstimate": 4097
     },
     {
       "ID": "0025",
@@ -12308,7 +12313,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "0026",
@@ -12332,7 +12337,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "0029",
@@ -12340,7 +12345,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "0030",
@@ -12348,7 +12353,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "0031",
@@ -12380,7 +12385,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "0035",
@@ -12403,7 +12408,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18617,
+      "Progressed": 18621,
       "Completed": 4
     }
   ],
@@ -12411,8 +12416,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:05:04.9527007+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:05:08.4839018+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:57:39.6564307+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:05:04.9528177+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:57:49.3020375+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:05:08.4839999+00:00"
 }

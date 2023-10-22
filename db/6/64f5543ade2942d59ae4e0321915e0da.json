@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 516,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -278,9 +278,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -302,9 +302,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -437,8 +437,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:05:16.4553106+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:05:20.0221327+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:59:26.8773431+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:05:16.4553431+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:59:37.7221723+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:05:20.0221716+00:00"
 }

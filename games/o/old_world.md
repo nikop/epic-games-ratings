@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 1.00% | ~149 |
 | Just Difficulty | 1.00% | ~149 |
 | Artisans | 1.00% | ~149 |
+| Champions | 1.00% | ~149 |
 | Sages | 1.00% | ~149 |
 | Furious Family | 1.00% | ~149 |
 | Acropolis | 1.00% | ~149 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~134 |
 | Conqueror | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
-| Champions | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,879 (Ranked 139)  
+Progressed: 14,882 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 287)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,879 | 5 |
+| 2023-10-22 | 14,882 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

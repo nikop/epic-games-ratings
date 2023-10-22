@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
@@ -2034,6 +2034,11 @@
       "Time": "2023-10-22T19:07:21.6594618+00:00",
       "NumProgressed": 577,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-22T20:07:25.5221604+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2070,7 +2075,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "RedSkeleton",
@@ -2078,7 +2083,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "YellowSkeleton",
@@ -2093,14 +2098,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:07:21.6594615+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:07:25.5221601+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.3074367+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:58:20.7995102+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:07:21.6595017+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:58:29.3310464+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:07:25.5221771+00:00"
 }

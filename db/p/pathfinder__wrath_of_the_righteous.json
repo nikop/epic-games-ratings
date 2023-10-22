@@ -3903,18 +3903,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6997,
       "NumberOfAwardsMax": 1726
+    },
+    {
+      "Time": "2023-10-22T19:59:43.1041117+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6999,
+      "NumberOfAwardsMax": 1728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6997,
-  "NumberOfAwardsMax": 1726,
+  "NumberOfAwards": 6999,
+  "NumberOfAwardsMax": 1728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1726
+      "Count": 1728
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3977,9 +3983,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11703,
+  "EOS_Progressed": 11707,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14082,6 +14088,11 @@
       "Time": "2023-10-22T18:09:50.45704+00:00",
       "NumProgressed": 11703,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T20:09:36.0077748+00:00",
+      "NumProgressed": 11707,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14093,7 +14104,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "02_BurningCity",
@@ -14109,7 +14120,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "04_FithCrusade",
@@ -14117,7 +14128,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14229,7 +14240,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "19_EqualToAroden",
@@ -14293,7 +14304,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "28_GreatUpstart",
@@ -14341,7 +14352,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15020,21 +15031,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10485,
+      "Progressed": 10489,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11703,
+      "Progressed": 11707,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-21T20:58:56.8421589+00:00",
-  "LastChanged_Achievements": "2023-10-22T19:09:10.4126885+00:00",
+  "LastChanged": "2023-10-22T19:59:43.1041116+00:00",
+  "LastChanged_Achievements": "2023-10-22T20:09:36.0077745+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:59:30.2853188+00:00",
-  "LastUpdate_Achievements": "2023-10-22T19:09:10.4129165+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:59:43.1041122+00:00",
+  "LastUpdate_Achievements": "2023-10-22T20:09:36.0080064+00:00"
 }

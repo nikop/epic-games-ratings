@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,926 |
+| Devoured by Darkness | 25.00% | ~2,927 |
 | A Spark | 18.00% | ~2,107 |
 | Burning City | 17.00% | ~1,990 |
-| Defender's Heart | 15.00% | ~1,755 |
-| Mythic Choices | 14.00% | ~1,638 |
-| Banner over the Citadel | 13.00% | ~1,521 |
-| Queen's Gratitude | 12.00% | ~1,404 |
-| Fifth Crusade | 8.00% | ~936 |
+| Defender's Heart | 15.00% | ~1,756 |
+| Mythic Choices | 14.00% | ~1,639 |
+| Banner over the Citadel | 13.00% | ~1,522 |
+| Queen's Gratitude | 12.00% | ~1,405 |
+| Fifth Crusade | 8.00% | ~937 |
 | Embrace of the Abyss | 6.00% | ~702 |
 | Path of the Angel | 6.00% | ~702 |
 | Demonic and Divine | 6.00% | ~702 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,703 (Ranked 146)  
+Progressed: 11,707 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,14 +308,14 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
 | 2023-10-21 | 11,674 | 0 |
-| 2023-10-22 | 11,703 | 0 |
+| 2023-10-22 | 11,707 | 0 |
 ## Awards
-Max (Character Customization): 1,726  (Ranked 120)  
-Sum: 6,997 (Ranked 117)  
+Max (Character Customization): 1,728  (Ranked 120)  
+Sum: 6,999 (Ranked 117)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,726 |
+| This game has Inclusive Character Customization | 1,728 |
 | This game is Extremely Fun | 653 |
 | This game is Highly Recommended | 640 |
 | This game has Amazing Characters | 638 |
@@ -570,3 +570,4 @@ Diff (max vs sum): 3
 | 2023-10-19 | 4.76 | - | 1,726 | 6,994 |
 | 2023-10-20 | 4.76 | - | 1,726 | 6,995 |
 | 2023-10-21 | 4.76 | - | 1,726 | 6,997 |
+| 2023-10-22 | 4.76 | - | 1,728 | 6,999 |

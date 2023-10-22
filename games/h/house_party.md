@@ -19,8 +19,8 @@ Number of Ratings: 177  (23.09.2022)
 | IRL Let's Player | 1.00% | ~64 |
 | Inspector | 1.00% | ~64 |
 | Newcomer: Vickie | 1.00% | ~64 |
+| Social Butterfly | 1.00% | ~64 |
 | Amy | 0.90% | ~58 |
-| Social Butterfly | 0.90% | ~58 |
 | The Muse: Madison | 0.90% | ~58 |
 | It Smells Like Roses | 0.70% | ~24 |
 | Smooth Operator: Ashley | 0.70% | ~45 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,400 (Ranked 166)  
+Progressed: 6,400 (Ranked 167)  
 Completed: 3 (0.05%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
