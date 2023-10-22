@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -676,9 +676,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:05:26.2690659+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:05:40.5861072+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.3062214+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:58:12.3914692+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:26.2691553+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:58:23.7813642+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:05:40.5861604+00:00"
 }

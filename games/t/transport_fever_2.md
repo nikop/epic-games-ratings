@@ -62,7 +62,7 @@ Number of Ratings: 180  (23.09.2022)
 | Speed of light | 2.00% | ~35 |
 | Campaign tycoon | 1.00% | ~18 |
 | Trans-Siberian Railway | 1.00% | ~18 |
-| Train Fever | 0.90% | ~16 |
+| Train Fever | 1.00% | ~18 |
 | Louis Favre | 0.90% | ~16 |
 | Big spender | 0.50% | ~9 |
 | Glacier express | 0.20% | ~4 |

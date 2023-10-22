@@ -2845,9 +2845,9 @@
       "ID": "ID_ACHIEV_05",
       "SetID": "98bke8c",
       "Name": "Brave New World",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "ID_ACHIEV_06",
@@ -3357,8 +3357,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:05:30.8344577+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:05:45.2715333+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:05.7761009+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:58:55.2919797+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:30.8346224+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:06.7620733+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:05:45.2717617+00:00"
 }

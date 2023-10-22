@@ -13970,9 +13970,9 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893314,
-  "EOS_Completed": 2696,
-  "EOS_NewPlayers": 1315,
+  "EOS_Progressed": 893321,
+  "EOS_Completed": 2697,
+  "EOS_NewPlayers": 1300,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34930,6 +34930,11 @@
       "Time": "2023-10-22T15:05:20.6090956+00:00",
       "NumProgressed": 893314,
       "NumCompleted": 2696
+    },
+    {
+      "Time": "2023-10-22T16:05:35.1530413+00:00",
+      "NumProgressed": 893321,
+      "NumCompleted": 2697
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34964,9 +34969,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "Denied",
@@ -35036,9 +35041,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -35461,21 +35466,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893314,
-      "Completed": 2696
+      "Progressed": 893321,
+      "Completed": 2697
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21937,
+      "Progressed": 21944,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T14:59:04.1716985+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:05:20.609095+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:05:35.1530409+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:59:04.1716997+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:20.6094338+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:14.3914552+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:05:35.1532305+00:00"
 }

@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1086,6 +1086,11 @@
       "Time": "2023-10-22T14:04:08.0839163+00:00",
       "NumProgressed": 252,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T16:04:09.0971466+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1113,7 +1118,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1191,9 +1196,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 177
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1359,9 +1364,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1385,7 +1390,7 @@
       "Name": "A Night To Remember",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_Trapped",
@@ -1416,7 +1421,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 1
     }
   ],
@@ -1424,8 +1429,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:03:37.0890486+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:04:09.0971461+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:58:51.37973+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:03:37.0890866+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:02.0290209+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:04:09.0971849+00:00"
 }

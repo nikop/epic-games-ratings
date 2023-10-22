@@ -1,15 +1,15 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.59 (Ranked 420)  
+Rating: 4.59 (Ranked 421)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 17.00% | ~2,419 |
+| Oyedang, Kopengs | 18.00% | ~2,561 |
 | Drug Gifter | 7.00% | ~996 |
 | Bosmang | 7.00% | ~996 |
 | The Pit and the Pirates | 6.00% | ~854 |
-| Drone Dodger | 5.00% | ~711 |
+| Drone Dodger | 6.00% | ~854 |
 | Call it Even | 5.00% | ~711 |
 | Celebrations are in Order | 5.00% | ~711 |
 | Impossible Objects | 5.00% | ~711 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 420)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,227 (Ranked 140)  
+Progressed: 14,228 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 27 (0.19%) (Ranked 228)
 | 2023-10-19 | 14,126 | 26 |
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
-| 2023-10-22 | 14,227 | 27 |
+| 2023-10-22 | 14,228 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

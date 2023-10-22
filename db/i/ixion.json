@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -289,7 +289,7 @@
   "Tags": [],
   "EOS_Progressed": 3251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5496,9 +5496,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_BASE_21",
@@ -5887,8 +5887,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:05:03.2537488+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:05:17.8201825+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.455219+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:59:01.6309902+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:03.2539127+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:11.8825662+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:05:17.8202751+00:00"
 }

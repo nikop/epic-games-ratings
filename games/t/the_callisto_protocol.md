@@ -6,17 +6,17 @@ Rating: 4.19 (Ranked 900)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,294 |
-| Paper Jams | 7.00% | ~1,132 |
+| Paper Jams | 7.00% | ~1,133 |
 | Flesh Wound | 6.00% | ~971 |
 | Float Like A Butterfly | 6.00% | ~971 |
 | Two Heads Are Better Than One | 5.00% | ~809 |
 | Chew 'Em Up | 5.00% | ~809 |
+| Reforged | 5.00% | ~809 |
 | The Outer Way | 5.00% | ~809 |
 | Keep Fighting | 5.00% | ~205 |
 | You Need a Gun | 4.00% | ~647 |
 | I Do Belong Here | 4.00% | ~647 |
 | Workplace Hazard | 4.00% | ~647 |
-| Reforged | 4.00% | ~647 |
 | If the SHU Fits... | 4.00% | ~647 |
 | Without A Paddle | 4.00% | ~647 |
 | In the Pipe, Five by Five | 4.00% | ~647 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 900)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,176 (Ranked 134)  
+Progressed: 16,179 (Ranked 134)  
 Completed: 77 (0.48%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 77 (0.48%) (Ranked 183)
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
-| 2023-10-22 | 16,176 | 77 |
+| 2023-10-22 | 16,179 | 77 |
 ## Awards
 Max (Amazing Storytelling): 77  (Ranked 379)  
 Sum: 451 (Ranked 323)  

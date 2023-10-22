@@ -425,9 +425,9 @@
       "ID": "AstralSeeker",
       "SetID": "1jeo1g7",
       "Name": "Astral Seeker",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AstralTinkerer",
@@ -873,9 +873,9 @@
       "ID": "TheCorruptionGoddess",
       "SetID": "1jeo1g7",
       "Name": "The Corruption Goddess",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TheDarkMoon",
@@ -1025,9 +1025,9 @@
       "ID": "BehenianHero",
       "SetID": "1jeo1g7",
       "Name": "Behenian Hero",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BehenianMastery",
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:03:21.610064+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:03:43.7350108+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:58:31.789283+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:03:21.6102779+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:58:42.4561616+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:03:43.7351296+00:00"
 }

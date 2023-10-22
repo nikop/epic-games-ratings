@@ -363,9 +363,9 @@
       "ID": "deathlooper",
       "SetID": "84ad177",
       "Name": "Deathlooper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "good_job_nerd",
@@ -387,9 +387,9 @@
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -451,9 +451,9 @@
       "ID": "tried_to_warn_you",
       "SetID": "84ad177",
       "Name": "We tried to warn you!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "um_ok",
@@ -484,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:04:35.9065673+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:04:47.5383593+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.3790114+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:00:52.9495946+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:04:35.9065833+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:01:05.4183694+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:04:47.5383748+00:00"
 }

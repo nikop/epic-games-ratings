@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -559,7 +559,7 @@
   ],
   "EOS_Progressed": 13592,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10444,9 +10444,9 @@
       "ID": "ACH_32",
       "SetID": "9d4cf4c",
       "Name": "Perfect shot",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2990
+      "UsersEstimate": 3126
     },
     {
       "ID": "ACH_33",
@@ -10485,8 +10485,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-19T21:01:27.400524+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:06:32.190596+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:06:45.671012+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.8379595+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:57:48.3159797+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:06:32.1907501+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:57:57.9859187+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:06:45.6711276+00:00"
 }

@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
+| Via Recta Souk | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
 | Economic Reform | 0.70% | ~104 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
-| Via Recta Souk | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
 | Carthage | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |
@@ -135,6 +135,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.50% | ~74 |
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |
+| Carthage - Ox Hide | 0.40% | ~60 |
 | Devout | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Noble Difficulty | 0.40% | ~60 |
@@ -144,7 +145,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
-| Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Old World Order | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,877 (Ranked 139)  
+Progressed: 14,878 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 287)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,877 | 5 |
+| 2023-10-22 | 14,878 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

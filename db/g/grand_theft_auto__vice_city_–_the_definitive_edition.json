@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10654,
+  "EOS_Progressed": 10655,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11667,6 +11667,11 @@
       "Time": "2023-10-22T15:05:27.6404302+00:00",
       "NumProgressed": 10654,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-22T16:05:41.9641395+00:00",
+      "NumProgressed": 10655,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 34,
@@ -11694,7 +11699,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH04",
@@ -11949,7 +11954,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10654,
+      "Progressed": 10655,
       "Completed": 61
     }
   ],
@@ -11957,8 +11962,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:05:27.6404298+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:05:41.9641391+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:59:51.6885827+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:27.6405995+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:00:04.0891281+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:05:41.9642301+00:00"
 }

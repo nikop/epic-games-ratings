@@ -25,8 +25,8 @@
 | Shield Crusher | 7.00% | ~32 |
 | Treasure Hunter | 7.00% | ~32 |
 | Explorer | 6.00% | ~27 |
+| Pyromancer | 5.00% | ~23 |
 | Trio | 5.00% | ~23 |
-| Pyromancer | 4.00% | ~18 |
 | Spell Master | 4.00% | ~18 |
 | Arrive Home | 3.00% | ~14 |
 | Holy Knight | 3.00% | ~14 |
@@ -40,7 +40,7 @@
 | Weapon Master | 1.00% | ~5 |
 | Witch | 1.00% | ~5 |
 | Assassin | 0.90% | ~4 |
-| Art Collector | 0.20% | ~1 |
+| Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.20% | ~1 |
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |

@@ -4,7 +4,7 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 394,
@@ -345,10 +345,16 @@
       "Rating": 3.8,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-10-22T15:57:45.3962067+00:00",
+      "Rating": 3.8,
+      "NumberOfAwards": 331,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313,
+  "NumberOfAwards": 331,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -374,7 +380,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 32
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
@@ -404,7 +410,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 37
     },
     {
       "Text": "This game has a Competitive Community",
@@ -425,8 +431,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-22T14:57:36.4484995+00:00",
+  "LastChanged": "2023-10-22T15:57:45.3962066+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.5469226+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:57:36.4485002+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:05:53.953428+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:57:45.3962071+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:06:08.188037+00:00"
 }

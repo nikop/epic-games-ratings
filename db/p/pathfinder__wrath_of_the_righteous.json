@@ -3977,9 +3977,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11697,
+  "EOS_Progressed": 11699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14067,6 +14067,11 @@
       "Time": "2023-10-22T15:09:01.5733384+00:00",
       "NumProgressed": 11697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T16:09:23.2809029+00:00",
+      "NumProgressed": 11699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14078,7 +14083,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "02_BurningCity",
@@ -14086,7 +14091,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14446,7 +14451,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2105
+      "UsersEstimate": 2106
     },
     {
       "ID": "49_Flame",
@@ -15005,21 +15010,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10479,
+      "Progressed": 10481,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11697,
+      "Progressed": 11699,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-21T20:58:56.8421589+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:09:01.573338+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:09:23.2809025+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:59:14.7726408+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:09:01.5735841+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:24.6232694+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:09:23.2811365+00:00"
 }

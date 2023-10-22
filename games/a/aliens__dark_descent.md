@@ -36,7 +36,7 @@ Rating: 4.48 (Ranked 611)
 | Abysmal Horrors | 22.00% | ~767 |
 | One For Every Occasion | 21.00% | ~732 |
 | Frontliner | 21.00% | ~732 |
-| The Cable Guy | 20.00% | ~698 |
+| The Cable Guy | 21.00% | ~732 |
 | Bandage Lover | 19.00% | ~663 |
 | Regicide | 16.00% | ~558 |
 | This Went Smoothly | 14.00% | ~488 |

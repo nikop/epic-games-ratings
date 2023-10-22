@@ -69,9 +69,9 @@ Number of Ratings: 62  (23.09.2022)
 | Bling-Bling | 1.00% | ~47 |
 | Sniffing Around | 0.80% | ~38 |
 | Suited and Booted | 0.80% | ~38 |
+| Brave New World | 0.70% | ~33 |
 | Modus Operandi | 0.70% | ~33 |
 | Tools of War | 0.70% | ~33 |
-| Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,736 (Ranked 177)  

@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1296,9 +1296,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 483
     },
     {
       "ID": "Achievement_Traitor",
@@ -1321,8 +1321,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:08:39.4556144+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:09:21.3944028+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:02:12.4881295+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:08:39.4556615+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:57:25.8520127+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:09:21.3944454+00:00"
 }

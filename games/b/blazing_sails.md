@@ -4,19 +4,19 @@
 Rating: 3.80 (Ranked 1,009)  
 ## Awards
 Max (Amazing Characters): 51  (Ranked 414)  
-Sum: 313 (Ranked 348)  
-Diff (max vs sum): 66  
+Sum: 331 (Ranked 347)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 51 |
 | This game is Highly Recommended | 48 |
 | This game is Great for Beginners | 44 |
 | This game has Competitive Players | 43 |
+| This game has Playful Visuals | 41 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
-| This game has Playful Visuals | 32 |
+| This game has Amazing Storytelling | 37 |
 | This game has a Competitive Community | 32 |
-| This game has Amazing Storytelling | 28 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |

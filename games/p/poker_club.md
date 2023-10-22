@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~404,844 |
-| Handy | 41.00% | ~218,402 |
-| Cold Caller | 39.00% | ~207,749 |
-| A Bit On The Side | 27.00% | ~143,826 |
-| Backdoor | 25.00% | ~133,172 |
-| Rank Amateur | 21.00% | ~111,865 |
-| Three Way | 18.00% | ~95,884 |
-| Deadly Assassin | 15.00% | ~79,903 |
-| Gutshot | 14.00% | ~74,576 |
-| Risk It For A Biscuit | 14.00% | ~74,576 |
-| Showoff | 13.00% | ~69,250 |
-| W.H.I.P. | 11.00% | ~58,596 |
-| Bet Bet Bet | 10.00% | ~53,269 |
-| Blindman's Bluff | 9.00% | ~47,942 |
-| Poker Joker | 9.00% | ~47,942 |
-| Never Give Up | 8.00% | ~42,615 |
-| The Bigger They Are | 8.00% | ~42,615 |
-| Total Knock Out | 8.00% | ~42,615 |
-| Dog Eat Dog | 7.00% | ~37,288 |
-| Quack Quack | 7.00% | ~37,288 |
-| Give Your Regards To Broadway | 6.00% | ~31,961 |
+| Pro Creation | 76.00% | ~404,857 |
+| Handy | 41.00% | ~218,410 |
+| Cold Caller | 39.00% | ~207,756 |
+| A Bit On The Side | 27.00% | ~143,831 |
+| Backdoor | 25.00% | ~133,177 |
+| Rank Amateur | 21.00% | ~111,868 |
+| Three Way | 18.00% | ~95,887 |
+| Deadly Assassin | 15.00% | ~79,906 |
+| Gutshot | 14.00% | ~74,579 |
+| Risk It For A Biscuit | 14.00% | ~74,579 |
+| Showoff | 13.00% | ~69,252 |
+| W.H.I.P. | 11.00% | ~58,598 |
+| Bet Bet Bet | 10.00% | ~53,271 |
+| Blindman's Bluff | 9.00% | ~47,944 |
+| Poker Joker | 9.00% | ~47,944 |
+| Never Give Up | 8.00% | ~42,617 |
+| The Bigger They Are | 8.00% | ~42,617 |
+| Total Knock Out | 8.00% | ~42,617 |
+| Dog Eat Dog | 7.00% | ~37,289 |
+| Quack Quack | 7.00% | ~37,289 |
+| Give Your Regards To Broadway | 6.00% | ~31,962 |
 | Check Yourself | 4.00% | ~21,308 |
 | Moneymaker | 4.00% | ~21,308 |
 | In The Gang | 3.00% | ~15,981 |
@@ -37,7 +37,7 @@ Rating: 3.82 (Ranked 1,004)
 | Holding Your Own | 1.00% | ~5,327 |
 | Regular Punter | 0.70% | ~3,729 |
 | How I Roll | 0.60% | ~3,196 |
-| Club Legend | 0.50% | ~2,663 |
+| Club Legend | 0.50% | ~2,664 |
 | Bring It On | 0.20% | ~1,065 |
 | Dress To Impress | 0.20% | ~1,065 |
 | Bounty Hunter | 0.10% | ~533 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,004)
 | Rounder | 0.10% | ~533 |
 | Top Dog | 0.10% | ~533 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,689 (Ranked 33)  
+Progressed: 532,707 (Ranked 33)  
 Completed: 2 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 2 (0.00%) (Ranked 319)
 | 2023-10-19 | 532,042 | 2 |
 | 2023-10-20 | 532,272 | 2 |
 | 2023-10-21 | 532,526 | 2 |
-| 2023-10-22 | 532,689 | 2 |
+| 2023-10-22 | 532,707 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 411)  
 Sum: 132 (Ranked 419)  

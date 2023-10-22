@@ -777,9 +777,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64249,
+  "EOS_Progressed": 64257,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1017,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6207,6 +6207,11 @@
       "Time": "2023-10-22T15:08:39.776843+00:00",
       "NumProgressed": 64249,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-22T16:09:21.6716925+00:00",
+      "NumProgressed": 64257,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6219,7 +6224,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19917
+      "UsersEstimate": 19920
     },
     {
       "ID": "10",
@@ -6227,7 +6232,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "11",
@@ -6235,7 +6240,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "12",
@@ -6243,7 +6248,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "13",
@@ -6283,7 +6288,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10924
     },
     {
       "ID": "3",
@@ -6291,7 +6296,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7710
+      "UsersEstimate": 7711
     },
     {
       "ID": "4",
@@ -6299,7 +6304,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6425
+      "UsersEstimate": 6426
     },
     {
       "ID": "5",
@@ -6307,7 +6312,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "6",
@@ -6331,7 +6336,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "9",
@@ -6339,14 +6344,14 @@
       "Name": "Past Master",
       "Percentage": 0.2,
       "XP": 200,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64249,
+      "Progressed": 64257,
       "Completed": 21
     }
   ],
@@ -6354,8 +6359,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-22T14:59:29.7267348+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:08:39.7768425+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:09:21.6716921+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:59:29.7267357+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:08:39.7769105+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:59:39.2303223+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:09:21.671734+00:00"
 }

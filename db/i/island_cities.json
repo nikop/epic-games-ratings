@@ -3281,9 +3281,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_014",
@@ -3297,17 +3297,17 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 142
     },
     {
       "ID": "LEVEL_017",
@@ -3370,8 +3370,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-22T15:08:03.5342023+00:00",
+  "LastChanged_Achievements": "2023-10-22T16:08:15.7746758+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.8244205+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:58:00.8779194+00:00",
-  "LastUpdate_Achievements": "2023-10-22T15:08:03.5342648+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:58:09.3823376+00:00",
+  "LastUpdate_Achievements": "2023-10-22T16:08:15.7747078+00:00"
 }

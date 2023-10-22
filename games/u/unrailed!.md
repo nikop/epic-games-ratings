@@ -6,30 +6,30 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,133 |
-| Incurious | 17.00% | ~111,570 |
-| Climate Change | 16.00% | ~105,008 |
-| Stroller | 15.00% | ~98,445 |
-| Advanced Hiker | 13.00% | ~85,319 |
-| Toy Train | 13.00% | ~85,319 |
-| Hiker | 12.00% | ~78,756 |
-| Mojave Courier | 6.00% | ~39,378 |
-| Saved by Nausicaä | 5.00% | ~32,815 |
-| Advanced Voyager | 4.00% | ~26,252 |
-| Voyager | 3.00% | ~19,689 |
-| Expert Stroller | 3.00% | ~19,689 |
-| Orient Express | 3.00% | ~19,689 |
-| Marathon | 3.00% | ~19,689 |
-| Destructionist | 3.00% | ~19,689 |
+| Advanced Stroller | 18.00% | ~118,137 |
+| Incurious | 17.00% | ~111,574 |
+| Climate Change | 16.00% | ~105,011 |
+| Stroller | 15.00% | ~98,448 |
+| Advanced Hiker | 13.00% | ~85,321 |
+| Toy Train | 13.00% | ~85,321 |
+| Hiker | 12.00% | ~78,758 |
+| Mojave Courier | 6.00% | ~39,379 |
+| Saved by Nausicaä | 5.00% | ~32,816 |
+| Advanced Voyager | 4.00% | ~26,253 |
+| Voyager | 3.00% | ~19,690 |
+| Expert Stroller | 3.00% | ~19,690 |
+| Orient Express | 3.00% | ~19,690 |
+| Marathon | 3.00% | ~19,690 |
+| Destructionist | 3.00% | ~19,690 |
 | Expert Hiker | 2.00% | ~13,126 |
 | Lost | 2.00% | ~13,126 |
-| Rocketman | 0.80% | ~5,250 |
+| Rocketman | 0.80% | ~5,251 |
 | Expert Voyager | 0.70% | ~4,594 |
 | Shopaholic | 0.70% | ~4,594 |
 | Nanuk | 0.60% | ~3,938 |
 | Dynamite Fishing | 0.60% | ~3,938 |
-| Scrooge | 0.50% | ~3,281 |
-| Terminal Station | 0.50% | ~3,281 |
+| Scrooge | 0.50% | ~3,282 |
+| Terminal Station | 0.50% | ~3,282 |
 | Wayfarer | 0.40% | ~2,625 |
 | Advanced Wayfarer | 0.40% | ~2,625 |
 | Tough Nut! | 0.40% | ~2,625 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~656 |
 | 20 Miles under the Sea | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,297 (Ranked 27)  
+Progressed: 656,317 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 12 (0.00%) (Ranked 319)
 | 2023-10-19 | 655,431 | 12 |
 | 2023-10-20 | 655,684 | 12 |
 | 2023-10-21 | 656,085 | 12 |
-| 2023-10-22 | 656,297 | 12 |
+| 2023-10-22 | 656,317 | 12 |
 ## Awards
 Max (Great for Beginners): 199  (Ranked 279)  
 Sum: 1,584 (Ranked 224)  

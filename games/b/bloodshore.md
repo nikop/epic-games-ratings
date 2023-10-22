@@ -14,13 +14,13 @@
 | Good job, nerd | 32.00% | ~62 |
 | Bromance | 31.00% | ~60 |
 | Mission Complete | 31.00% | ~60 |
-| Lootaphilia | 23.00% | ~45 |
+| Lootaphilia | 24.00% | ~47 |
 | Maybe you should give it another go | 10.00% | ~19 |
 | I used to think I was indecisive... | 8.00% | ~16 |
 | Mikey Lizard | 6.00% | ~12 |
+| We tried to warn you! | 5.00% | ~10 |
+| Deathlooper | 4.00% | ~8 |
 | That's my boy! | 4.00% | ~8 |
-| We tried to warn you! | 4.00% | ~8 |
-| Deathlooper | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 194 (Ranked 348)  
 Completed: 4 (2.06%) (Ranked 113)  
