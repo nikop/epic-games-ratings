@@ -5,9 +5,9 @@
   "Ranking_Rating": 726,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2023-10-19T16:09:14.3675232+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-22T21:09:22.4687701+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2013,9 +2018,9 @@
       "ID": "ACH_BOOK_5",
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2047,7 +2052,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2079,7 +2084,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2095,7 +2100,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -2103,7 +2108,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2111,7 +2116,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2127,7 +2132,7 @@
       "Name": "Hotel sleuthing",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -2135,7 +2140,7 @@
       "Name": "Big fortune",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_POSTCARD",
@@ -2165,9 +2170,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_STAR_2",
@@ -2230,7 +2235,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 16
     }
   ],
@@ -2238,8 +2243,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-21T14:59:13.9477211+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:09:22.725654+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:09:22.4687698+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:08.2673476+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:59:03.2393579+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:09:22.7256856+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:59:14.237281+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:09:22.4687931+00:00"
 }

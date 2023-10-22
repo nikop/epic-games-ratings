@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1677,
+  "EOS_Progressed": 1678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4021,6 +4021,11 @@
       "Time": "2023-10-22T14:03:39.4317877+00:00",
       "NumProgressed": 1677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T21:04:03.8008959+00:00",
+      "NumProgressed": 1678,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4208,7 +4213,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4248,7 +4253,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4280,7 +4285,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4390,9 +4395,9 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 487
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4415,7 +4420,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1677,
+      "Progressed": 1678,
       "Completed": 0
     }
   ],
@@ -4423,8 +4428,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:03:47.3188002+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:04:03.8008955+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:02:03.7088241+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:03:47.318862+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:02:16.7630191+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:04:03.8009436+00:00"
 }

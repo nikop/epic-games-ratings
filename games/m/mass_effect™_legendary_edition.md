@@ -45,19 +45,19 @@
 | Galactic Explorer | 36.00% | ~281 |
 | Broke, Blind, and Bedlam | 35.00% | ~273 |
 | Archivist | 34.00% | ~266 |
+| Ghost Ship | 34.00% | ~266 |
 | A Personal Touch | 33.00% | ~258 |
-| Ghost Ship | 33.00% | ~258 |
 | The Assassin | 33.00% | ~258 |
 | The Quarian | 33.00% | ~258 |
 | Ghost of the Father | 33.00% | ~258 |
 | The Prodigal | 33.00% | ~258 |
 | The Justicar | 32.00% | ~250 |
 | Battlemaster | 32.00% | ~250 |
+| Catharsis | 32.00% | ~250 |
 | The Cure | 32.00% | ~250 |
 | Revenge! | 32.00% | ~250 |
 | Heart of Darkness | 32.00% | ~250 |
 | Shopaholic | 32.00% | ~250 |
-| Catharsis | 31.00% | ~242 |
 | Fade Away | 31.00% | ~242 |
 | Big Game Hunter | 31.00% | ~242 |
 | Agent | 31.00% | ~242 |
@@ -75,17 +75,17 @@
 | Untouchable | 27.00% | ~211 |
 | Mission Accomplished | 27.00% | ~211 |
 | Against All Odds | 27.00% | ~211 |
+| Eye of the Hurricane | 26.00% | ~203 |
 | Giant Killer | 26.00% | ~203 |
 | A House Divided | 26.00% | ~203 |
-| Eye of the Hurricane | 25.00% | ~195 |
+| World Shaker | 26.00% | ~203 |
 | Weapon Specialist | 25.00% | ~195 |
-| World Shaker | 25.00% | ~195 |
 | Liberator | 25.00% | ~195 |
 | Tunnel Rat | 24.00% | ~187 |
+| Savior | 23.00% | ~180 |
 | Pathfinder | 23.00% | ~180 |
 | Arbiter | 23.00% | ~180 |
 | Lost and Found | 23.00% | ~180 |
-| Savior | 22.00% | ~172 |
 | Paramour II | 22.00% | ~172 |
 | Party Crasher | 21.00% | ~164 |
 | Pyromaniac | 20.00% | ~156 |

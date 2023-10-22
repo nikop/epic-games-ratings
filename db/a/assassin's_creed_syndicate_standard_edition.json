@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 555,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -2652,10 +2652,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 879,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2023-10-22T21:02:10.9418915+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 880,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 879,
+  "NumberOfAwards": 880,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2681,7 +2687,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2743,8 +2749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-10-22T15:00:54.8643941+00:00",
+  "LastChanged": "2023-10-22T21:02:10.9418912+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:44.5797249+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:01:48.0735909+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:09:06.3142567+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:02:10.9418923+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:09:05.4598218+00:00"
 }

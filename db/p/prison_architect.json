@@ -6115,10 +6115,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4626,
       "NumberOfAwardsMax": 537
+    },
+    {
+      "Time": "2023-10-22T20:59:48.162994+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4628,
+      "NumberOfAwardsMax": 537
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4626,
+  "NumberOfAwards": 4628,
   "NumberOfAwardsMax": 537,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6156,7 +6162,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 504
+      "Count": 506
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6189,9 +6195,9 @@
       "Count": 435
     }
   ],
-  "EOS_Progressed": 186312,
+  "EOS_Progressed": 186328,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2281,
+  "EOS_NewPlayers": 2288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27149,6 +27155,11 @@
       "Time": "2023-10-22T20:07:13.2350646+00:00",
       "NumProgressed": 186312,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-22T21:07:47.1633059+00:00",
+      "NumProgressed": 186328,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27160,7 +27171,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "Achievement_1",
@@ -27176,7 +27187,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "Achievement_11",
@@ -27184,7 +27195,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "Achievement_12",
@@ -27192,7 +27203,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29810
+      "UsersEstimate": 29812
     },
     {
       "ID": "Achievement_13",
@@ -27216,7 +27227,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "Achievement_2",
@@ -27240,7 +27251,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46578
+      "UsersEstimate": 46582
     },
     {
       "ID": "Achievement_5",
@@ -27248,7 +27259,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "Achievement_6",
@@ -27272,7 +27283,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16770
     },
     {
       "ID": "Achievement_9",
@@ -27287,15 +27298,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 186312,
+      "Progressed": 186328,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-22T17:00:00.6912483+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:07:13.2350642+00:00",
+  "LastChanged": "2023-10-22T20:59:48.1629939+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:07:47.1633056+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:59:35.7212849+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:07:13.2351977+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:59:48.1629944+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:07:47.163413+00:00"
 }

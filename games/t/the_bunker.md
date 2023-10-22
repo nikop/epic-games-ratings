@@ -14,13 +14,13 @@
 | Broken | 62.00% | ~77 |
 | Radiation | 60.00% | ~74 |
 | Descent | 60.00% | ~74 |
-| Awakenings | 58.00% | ~72 |
-| Cold Storage | 58.00% | ~72 |
+| Awakenings | 59.00% | ~73 |
+| Cold Storage | 59.00% | ~73 |
 | Sam | 55.00% | ~68 |
 | Commissioner | 53.00% | ~66 |
 | Churchill | 51.00% | ~63 |
+| Leave | 50.00% | ~62 |
 | Engineer | 50.00% | ~62 |
-| Leave | 49.00% | ~61 |
 | Soldier | 49.00% | ~61 |
 | Doctor | 48.00% | ~60 |
 | Press Play | 37.00% | ~46 |
@@ -33,7 +33,7 @@
 | Friends | 6.00% | ~7 |
 | The Missing Piece | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 377)  
+Progressed: 124 (Ranked 378)  
 Completed: 5 (4.03%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |

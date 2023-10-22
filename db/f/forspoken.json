@@ -421,9 +421,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42249,
+  "EOS_Progressed": 42250,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11156,6 +11156,11 @@
       "Time": "2023-10-22T20:09:03.6165194+00:00",
       "NumProgressed": 42249,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-22T21:09:02.4592885+00:00",
+      "NumProgressed": 42250,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11183,7 +11188,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -11231,7 +11236,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -11303,7 +11308,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "CRAFT_ALL",
@@ -11319,7 +11324,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "CUFF_ATTACK",
@@ -11343,7 +11348,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "JUSTCOUNTER",
@@ -11375,7 +11380,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LOCATION_TEN",
@@ -11407,7 +11412,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -11471,7 +11476,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "PARKOUR_TIME",
@@ -11590,22 +11595,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42249,
+      "Progressed": 42250,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7086,
-      "Completed": 7086
+      "Progressed": 7087,
+      "Completed": 7087
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:09:03.616519+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:09:02.4592881+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4363915+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:00:29.0829248+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:09:03.6166305+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:00:46.7203894+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:09:02.4593747+00:00"
 }

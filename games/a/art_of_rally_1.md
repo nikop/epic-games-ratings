@@ -6,20 +6,20 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,875 |
-| keep it tidy | 77.00% | ~7,920 |
-| podium | 72.00% | ~7,406 |
+| light attack | 96.00% | ~9,876 |
+| keep it tidy | 77.00% | ~7,921 |
+| podium | 72.00% | ~7,407 |
 | medium attack | 60.00% | ~6,172 |
-| brail | 57.00% | ~5,863 |
+| brail | 57.00% | ~5,864 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,423 |
-| grocery-getter | 40.00% | ~4,114 |
+| grocery-getter | 40.00% | ~4,115 |
 | food tour: pasta | 27.00% | ~2,777 |
-| rwd only | 26.00% | ~2,674 |
+| rwd only | 26.00% | ~2,675 |
 | to finish first, first you must finish | 21.00% | ~2,160 |
 | autopilot | 21.00% | ~2,160 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,160 |
 | turbo | 20.00% | ~2,057 |
-| food tour: pretzel | 19.00% | ~1,954 |
+| food tour: pretzel | 19.00% | ~1,955 |
 | bicycle race | 15.00% | ~1,543 |
 | car wash | 15.00% | ~1,543 |
 | monster | 14.00% | ~1,440 |
@@ -28,7 +28,7 @@ Number of Ratings: 56  (23.09.2022)
 | snorkel | 14.00% | ~1,440 |
 | perkele | 13.00% | ~1,337 |
 | where is the stage? | 13.00% | ~1,337 |
-| maximum attack | 11.00% | ~1,131 |
+| maximum attack | 11.00% | ~1,132 |
 | espresso | 10.00% | ~1,029 |
 | parallel universe | 10.00% | ~1,029 |
 | mittens | 8.00% | ~823 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,286 (Ranked 149)  
+Progressed: 10,287 (Ranked 149)  
 Completed: 9 (0.09%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 9 (0.09%) (Ranked 257)
 | 2023-10-17 | 10,279 | 9 |
 | 2023-10-18 | 10,280 | 9 |
 | 2023-10-21 | 10,285 | 9 |
-| 2023-10-22 | 10,286 | 9 |
+| 2023-10-22 | 10,287 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

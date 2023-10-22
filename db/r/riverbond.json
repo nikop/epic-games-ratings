@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529809,
+  "EOS_Progressed": 529810,
   "EOS_Completed": 488,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20237,6 +20237,11 @@
       "Time": "2023-10-22T20:06:34.5571105+00:00",
       "NumProgressed": 529809,
       "NumCompleted": 488
+    },
+    {
+      "Time": "2023-10-22T21:07:05.1864744+00:00",
+      "NumProgressed": 529810,
+      "NumCompleted": 488
     }
   ],
   "TotalAchievements": 57,
@@ -20264,7 +20269,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370866
+      "UsersEstimate": 370867
     },
     {
       "ID": "12",
@@ -20320,7 +20325,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79471
+      "UsersEstimate": 79472
     },
     {
       "ID": "19",
@@ -20472,7 +20477,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264904
+      "UsersEstimate": 264905
     },
     {
       "ID": "36",
@@ -20480,7 +20485,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84769
+      "UsersEstimate": 84770
     },
     {
       "ID": "37",
@@ -20624,7 +20629,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243712
+      "UsersEstimate": 243713
     },
     {
       "ID": "53",
@@ -20703,15 +20708,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529809,
+      "Progressed": 529810,
       "Completed": 488
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:06:34.5571101+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:07:05.1864741+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:58:33.8969944+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:06:34.5572825+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:58:40.7742395+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:07:05.1866102+00:00"
 }

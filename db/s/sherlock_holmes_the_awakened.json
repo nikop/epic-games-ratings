@@ -2,11 +2,11 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 339,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 258,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
@@ -2671,9 +2671,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 464
+      "UsersEstimate": 471
     },
     {
       "ID": "MQ02_1",
@@ -2896,8 +2896,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:04:08.1733154+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:04:26.6313849+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:58:13.7407342+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:04:08.1733483+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:58:21.2539403+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:04:26.6314122+00:00"
 }

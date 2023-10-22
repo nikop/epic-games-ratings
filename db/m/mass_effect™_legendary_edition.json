@@ -2090,9 +2090,9 @@
       "ID": "achievement_107",
       "SetID": "d252ncf",
       "Name": "Eye of the Hurricane",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_108",
@@ -2154,9 +2154,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 180
     },
     {
       "ID": "achievement_115",
@@ -2498,9 +2498,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_4",
@@ -2634,9 +2634,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_55",
@@ -2882,9 +2882,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 203
     },
     {
       "ID": "achievement_83",
@@ -3046,8 +3046,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:07:33.7196402+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:08:09.6420788+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:03:07.532313+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:07:33.7198773+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:03:08.5885433+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:08:09.64226+00:00"
 }

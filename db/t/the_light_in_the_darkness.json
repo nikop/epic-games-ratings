@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2552,
+  "EOS_Progressed": 2553,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -6736,6 +6736,11 @@
       "Time": "2023-10-22T18:09:13.6028197+00:00",
       "NumProgressed": 2552,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2023-10-22T21:08:50.7312951+00:00",
+      "NumProgressed": 2553,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 12,
@@ -6779,7 +6784,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "Jakob",
@@ -6842,7 +6847,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2552,
+      "Progressed": 2553,
       "Completed": 228
     }
   ],
@@ -6850,8 +6855,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:09:01.94891+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:08:50.7312947+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.9217404+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:00:27.0503428+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:09:01.9490322+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:00:44.281954+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:08:50.7313332+00:00"
 }

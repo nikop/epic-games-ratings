@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6649,9 +6649,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 137998,
+  "EOS_Progressed": 138001,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25629,6 +25629,11 @@
       "Time": "2023-10-22T20:06:39.773903+00:00",
       "NumProgressed": 137998,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-22T21:07:10.9741652+00:00",
+      "NumProgressed": 138001,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -26526,24 +26531,24 @@
       "ID": "yami_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Blade",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 828
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137998,
+      "Progressed": 138001,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-22T06:01:10.0501614+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:06:39.7739026+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:07:10.9741649+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:00:47.4278614+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:06:39.7741851+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:01:08.5398314+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:07:10.974374+00:00"
 }

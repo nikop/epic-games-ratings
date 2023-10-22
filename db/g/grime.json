@@ -1127,10 +1127,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-22T20:59:23.9349174+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
+  "NumberOfAwards": 309,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1174,7 +1180,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1189,9 +1195,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154033,
+  "EOS_Progressed": 154043,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12639,6 +12645,11 @@
       "Time": "2023-10-22T20:07:07.4345643+00:00",
       "NumProgressed": 154033,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T21:07:40.9899172+00:00",
+      "NumProgressed": 154043,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12770,7 +12781,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -13017,21 +13028,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153616,
+      "Progressed": 153626,
       "Completed": 1170
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154033,
+      "Progressed": 154043,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:07:07.4345638+00:00",
+  "LastChanged": "2023-10-22T20:59:23.9349173+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:07:40.9899169+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:59:11.5334007+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:07:07.4346724+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:59:23.9349178+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:07:40.9899999+00:00"
 }

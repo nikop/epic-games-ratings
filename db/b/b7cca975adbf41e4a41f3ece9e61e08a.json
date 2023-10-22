@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1606,
+  "EOS_Progressed": 1607,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1593,
+  "EOS_NewPlayers": 1594,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2023-10-22T20:06:45.6670708+00:00",
       "NumProgressed": 1606,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-22T21:07:17.2730304+00:00",
+      "NumProgressed": 1607,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -631,7 +636,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -639,7 +644,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -751,7 +756,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -767,7 +772,7 @@
       "Name": "Love Actually",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -775,7 +780,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -783,7 +788,7 @@
       "Name": "Still Single",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -813,9 +818,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7opfcp",
       "Name": "Wanna Come To My Place For Dinner?",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 868
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -871,7 +876,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -879,7 +884,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -887,7 +892,7 @@
       "Name": "Are You Alright?",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -903,7 +908,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -966,14 +971,14 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 1606,
+      "Progressed": 1607,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:06:45.6670705+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:07:17.2730301+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:02:04.8065044+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:06:45.6671106+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:02:17.3094375+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:07:17.2730603+00:00"
 }

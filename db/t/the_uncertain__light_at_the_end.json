@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.11,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -788,6 +788,11 @@
       "Time": "2023-10-21T13:13:47.6547656+00:00",
       "NumProgressed": 542,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T21:09:35.2094232+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -831,7 +836,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Echoes",
@@ -887,7 +892,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "Hitman",
@@ -903,7 +908,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Investigative",
@@ -919,7 +924,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Leisurely_Strol",
@@ -935,7 +940,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Misanthrope",
@@ -1030,7 +1035,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 6
     }
   ],
@@ -1038,8 +1043,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:09:34.829325+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:09:35.2094228+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2702098+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:03:14.0914636+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:09:34.8293498+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:03:15.9167157+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:09:35.2094493+00:00"
 }

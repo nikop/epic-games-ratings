@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10657,
+  "EOS_Progressed": 10658,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -11682,6 +11682,11 @@
       "Time": "2023-10-22T19:05:51.726728+00:00",
       "NumProgressed": 10657,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-22T21:06:22.6908532+00:00",
+      "NumProgressed": 10658,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 34,
@@ -11853,7 +11858,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "ACH22",
@@ -11861,7 +11866,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "ACH23",
@@ -11964,7 +11969,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10657,
+      "Progressed": 10658,
       "Completed": 61
     }
   ],
@@ -11972,8 +11977,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:05:55.0797874+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:06:22.6908528+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:00:28.4479375+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:05:55.0798769+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:00:45.9555322+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:06:22.6909228+00:00"
 }

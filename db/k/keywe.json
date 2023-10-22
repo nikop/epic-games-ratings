@@ -2,9 +2,9 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -185,6 +185,11 @@
       "Time": "2023-10-12T12:04:14.9108734+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T21:08:17.3451308+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -243,7 +248,7 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -251,7 +256,7 @@
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -269,13 +274,13 @@
       "Name": "You\u0027re Hired",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -283,7 +288,7 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -291,7 +296,7 @@
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -299,7 +304,7 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -315,7 +320,7 @@
       "ID": "goldOnFall",
       "SetID": "cfe0fhi",
       "Name": "Autumn Postmasters",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -356,13 +361,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
@@ -370,8 +375,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:07:41.0489175+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:08:17.3451305+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.4882167+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:57:33.079526+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:07:41.0489327+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:57:32.5583943+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:08:17.3451443+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3885,9 +3885,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 75860,
+  "EOS_Progressed": 75861,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24760,6 +24760,11 @@
       "Time": "2023-10-22T20:06:08.9043379+00:00",
       "NumProgressed": 75860,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-22T21:06:37.5834823+00:00",
+      "NumProgressed": 75861,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24875,7 +24880,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24275
+      "UsersEstimate": 24276
     },
     {
       "ID": "complete_mission_1",
@@ -24899,7 +24904,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28068
+      "UsersEstimate": 28069
     },
     {
       "ID": "cutting_edge_materials",
@@ -24955,7 +24960,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14413
+      "UsersEstimate": 14414
     },
     {
       "ID": "empire_tier_4",
@@ -24979,7 +24984,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24275
+      "UsersEstimate": 24276
     },
     {
       "ID": "fully_complete_a_building",
@@ -25003,7 +25008,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10620
+      "UsersEstimate": 10621
     },
     {
       "ID": "get_betrayed",
@@ -25155,7 +25160,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31861
+      "UsersEstimate": 31862
     },
     {
       "ID": "whole_map_purple",
@@ -25194,13 +25199,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75860,
+      "Progressed": 75861,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47497,
+      "Progressed": 47498,
       "Completed": 4160
     }
   ],
@@ -25208,8 +25213,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-22T17:01:44.5459553+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:06:08.9043375+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:06:37.5834819+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:01:05.5659354+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:06:08.9045034+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:01:24.9403081+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:06:37.5836125+00:00"
 }

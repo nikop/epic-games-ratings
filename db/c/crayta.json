@@ -3,11 +3,11 @@
   "Name": "Crayta",
   "ProductSlug": "crayta",
   "Ranking_Rating": 899,
-  "Ranking_Popularity": 416,
+  "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109745,
+  "EOS_Progressed": 109746,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2857,6 +2857,11 @@
       "Time": "2023-10-22T18:06:33.7873777+00:00",
       "NumProgressed": 109745,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T21:06:15.7213735+00:00",
+      "NumProgressed": 109746,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3060,7 +3065,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25241
+      "UsersEstimate": 25242
     },
     {
       "ID": "34",
@@ -3139,15 +3144,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109745,
+      "Progressed": 109746,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:05:48.6672517+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:06:15.7213729+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:34.6873362+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:00:14.081985+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:05:48.6672885+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:00:30.6973836+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:06:15.7214059+00:00"
 }

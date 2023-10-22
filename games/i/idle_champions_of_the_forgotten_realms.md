@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~465 |
 | The Path of Dreams | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
+| The Battle of High Hall Tower | 0.20% | ~398 |
 | Elturel's Last Stand | 0.20% | ~398 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
 | To Infinity's and Beyond | 0.20% | ~398 |
@@ -464,7 +465,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frozen Vengeance | 0.10% | ~199 |
 | Mimic Vengeance | 0.10% | ~199 |
 | REALLY Frozen Vengeance | 0.10% | ~199 |
-| The Battle of High Hall Tower | 0.10% | ~199 |
 | Might Makes Right | 0.10% | ~199 |
 | The Stunning Tower Battle | 0.10% | ~199 |
 | Gargauth's Betrayal | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,582 (Ranked 60)  
+Progressed: 232,586 (Ranked 60)  
 Completed: 2,379 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -720,7 +720,7 @@ Completed: 2,379 (1.02%) (Ranked 145)
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
 | 2023-10-21 | 232,492 | 2,377 |
-| 2023-10-22 | 232,582 | 2,379 |
+| 2023-10-22 | 232,586 | 2,379 |
 ## Awards
 Max (Great for Beginners): 5,437  (Ranked 69)  
 Sum: 32,159 (Ranked 41)  

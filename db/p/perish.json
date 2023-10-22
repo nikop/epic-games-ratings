@@ -3546,9 +3546,9 @@
       "ID": "ACH_M_D1",
       "SetID": "b3fep3o",
       "Name": "Modest Earnings",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_M_D2",
@@ -3626,9 +3626,9 @@
       "ID": "ACH_OB_BB",
       "SetID": "b3fep3o",
       "Name": "Symbols of Heresy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_OB_BR",
@@ -3923,8 +3923,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-22T20:05:45.4499687+00:00",
+  "LastChanged_Achievements": "2023-10-22T21:06:12.1204018+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:02.0899041+00:00",
-  "LastUpdate_Ratings": "2023-10-22T19:57:18.0584727+00:00",
-  "LastUpdate_Achievements": "2023-10-22T20:05:45.4500505+00:00"
+  "LastUpdate_Ratings": "2023-10-22T20:57:17.5135193+00:00",
+  "LastUpdate_Achievements": "2023-10-22T21:06:12.1204637+00:00"
 }
