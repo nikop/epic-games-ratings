@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 595)  
+Rating: 4.49 (Ranked 596)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,28 +9,28 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 24.00% | ~1,050 |
 | Hit 'Em Where It Hurts | 23.00% | ~1,006 |
 | That'll Leave a Mark | 23.00% | ~1,006 |
-| Debuff Dogpile | 22.00% | ~962 |
-| Perk Shard Punch Card | 22.00% | ~962 |
+| Debuff Dogpile | 22.00% | ~963 |
+| Perk Shard Punch Card | 22.00% | ~963 |
 | Mushroom Madness! | 21.00% | ~919 |
-| First Strike | 18.00% | ~787 |
-| Spending Spree | 18.00% | ~787 |
+| First Strike | 18.00% | ~788 |
+| Spending Spree | 18.00% | ~788 |
 | Horder Better Faster Stronger | 17.00% | ~744 |
 | Ten Steps from the Grave | 15.00% | ~656 |
-| Everything Must Go! | 14.00% | ~612 |
+| Everything Must Go! | 14.00% | ~613 |
 | Next Time on MythForce... | 13.00% | ~569 |
-| Cold-Blooded Critters | 10.00% | ~437 |
+| Cold-Blooded Critters | 10.00% | ~438 |
 | Death Becomes You | 8.00% | ~350 |
-| Flawless Victory | 6.00% | ~262 |
-| The Harder They Fall | 6.00% | ~262 |
-| On this Episode! | 6.00% | ~262 |
+| Flawless Victory | 6.00% | ~263 |
+| The Harder They Fall | 6.00% | ~263 |
+| On this Episode! | 6.00% | ~263 |
 | Deadication | 4.00% | ~175 |
 | We've Got a Kaiju on the Field | 3.00% | ~131 |
 | Season Finale | 3.00% | ~131 |
-| The Fourth Gate | 2.00% | ~87 |
-| Vexed Her | 0.40% | ~17 |
+| The Fourth Gate | 2.00% | ~88 |
+| Vexed Her | 0.40% | ~18 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,374 (Ranked 178)  
+Progressed: 4,376 (Ranked 178)  
 Completed: 3 (0.07%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.07%) (Ranked 266)
 | 2023-10-19 | 4,275 | 3 |
 | 2023-10-20 | 4,307 | 3 |
 | 2023-10-21 | 4,351 | 3 |
-| 2023-10-22 | 4,374 | 3 |
+| 2023-10-22 | 4,376 | 3 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 464)  
 Sum: 284 (Ranked 360)  

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~173 |
+| Inquisitor | 39.00% | ~178 |
 | Goblin Tales | 31.00% | ~141 |
 | Bug Hunter | 25.00% | ~114 |
 | Boss Killer | 24.00% | ~109 |
-| The Fallen | 22.00% | ~100 |
+| The Fallen | 21.00% | ~96 |
 | Artifact Collector | 20.00% | ~91 |
 | Trap Master | 20.00% | ~91 |
 | Ghost Buster | 16.00% | ~73 |
@@ -35,17 +35,17 @@
 | Meat Lover | 2.00% | ~9 |
 | Sling of David | 2.00% | ~9 |
 | Sword Master | 2.00% | ~9 |
+| Witch | 2.00% | ~9 |
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
-| Witch | 1.00% | ~5 |
 | Assassin | 0.90% | ~4 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.20% | ~1 |
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455 (Ranked 285)  
+Progressed: 456 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 447 | 0 |
 | 2023-10-20 | 449 | 0 |
 | 2023-10-21 | 450 | 0 |
-| 2023-10-22 | 455 | 0 |
+| 2023-10-22 | 456 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

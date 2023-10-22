@@ -8,10 +8,10 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~1,848 |
 | Keeping it classy | 28.00% | ~848 |
-| Welcome to the family | 22.00% | ~666 |
+| Welcome to the family | 22.00% | ~667 |
 | The finer things in life | 20.00% | ~606 |
 | Backpacker | 14.00% | ~424 |
-| Go with the Flow | 14.00% | ~424 |
+| Go with the Flow | 13.00% | ~394 |
 | Keep the dream alive | 10.00% | ~303 |
 | Plastic Surgeon | 10.00% | ~303 |
 | The flip trick crown jewel | 10.00% | ~303 |
@@ -30,14 +30,14 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~182 |
 | Squad goals | 6.00% | ~182 |
 | Sup widdit big dog! | 6.00% | ~182 |
-| DIY Boss | 5.00% | ~151 |
-| Globetrotter | 5.00% | ~151 |
-| Laid back | 5.00% | ~151 |
-| Lines for days | 5.00% | ~151 |
-| Manny Destroys All | 5.00% | ~151 |
-| Renaissance man | 5.00% | ~151 |
-| Tank commander | 5.00% | ~151 |
-| Trick shot marksman | 5.00% | ~151 |
+| DIY Boss | 5.00% | ~152 |
+| Globetrotter | 5.00% | ~152 |
+| Laid back | 5.00% | ~152 |
+| Lines for days | 5.00% | ~152 |
+| Manny Destroys All | 5.00% | ~152 |
+| Renaissance man | 5.00% | ~152 |
+| Tank commander | 5.00% | ~152 |
+| Trick shot marksman | 5.00% | ~152 |
 | Cops called! | 4.00% | ~121 |
 | G.O.A.T. status | 4.00% | ~121 |
 | Prince of Philly | 4.00% | ~121 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,029 (Ranked 194)  
+Progressed: 3,030 (Ranked 194)  
 Completed: 1 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 1 (0.03%) (Ranked 287)
 | 2023-10-19 | 3,023 | 1 |
 | 2023-10-20 | 3,025 | 1 |
 | 2023-10-21 | 3,027 | 1 |
-| 2023-10-22 | 3,029 | 1 |
+| 2023-10-22 | 3,030 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 404)  
 Sum: 529 (Ranked 310)  

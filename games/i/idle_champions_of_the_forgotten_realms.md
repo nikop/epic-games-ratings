@@ -11,13 +11,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.30% | ~698 |
 | The Cursed Farmer | 0.30% | ~698 |
 | The Mad Wizard | 0.30% | ~698 |
-| The Jungles of Doomspace | 0.30% | ~596 |
-| The Arena of Blood | 0.30% | ~596 |
-| Spelljammers in Training | 0.30% | ~596 |
+| The Jungles of Doomspace | 0.30% | ~597 |
+| The Arena of Blood | 0.30% | ~597 |
+| Spelljammers in Training | 0.30% | ~597 |
 | Were-verpowered | 0.20% | ~465 |
 | The Ring of Regeneration | 0.20% | ~465 |
 | Seeking Allies | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
+| Mad Cow Disease | 0.20% | ~465 |
 | The Path of Dreams | 0.20% | ~398 |
 | Elturel's Last Stand | 0.20% | ~398 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
@@ -285,7 +286,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~233 |
 | Dino Nightmare | 0.10% | ~233 |
 | A Familiar Friend | 0.10% | ~199 |
-| Mad Cow Disease | 0.10% | ~233 |
 | Exploring Port Nyanzaru | 0.10% | ~233 |
 | A Tale of Two Cities | 0.10% | ~233 |
 | A Tale of Two Fiends | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,558 (Ranked 60)  
+Progressed: 232,563 (Ranked 60)  
 Completed: 2,379 (1.02%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -720,7 +720,7 @@ Completed: 2,379 (1.02%) (Ranked 145)
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
 | 2023-10-21 | 232,492 | 2,377 |
-| 2023-10-22 | 232,558 | 2,379 |
+| 2023-10-22 | 232,563 | 2,379 |
 ## Awards
 Max (Great for Beginners): 5,437  (Ranked 69)  
 Sum: 32,157 (Ranked 41)  

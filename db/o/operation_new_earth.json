@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1649,
+  "EOS_Progressed": 1650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6134,6 +6134,11 @@
       "Time": "2023-10-22T16:08:15.6679891+00:00",
       "NumProgressed": 1649,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T17:09:16.3395439+00:00",
+      "NumProgressed": 1650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6153,7 +6158,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6177,7 +6182,7 @@
       "Name": "Gold Achiever",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -6257,7 +6262,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6319,9 +6324,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 462
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6361,7 +6366,7 @@
       "Name": "Resourceful",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -6448,7 +6453,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1649,
+      "Progressed": 1650,
       "Completed": 1
     }
   ],
@@ -6456,8 +6461,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:08:15.6679886+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:09:16.3395432+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:58:38.9915706+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:08:15.6680555+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:58:57.350659+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:09:16.3396576+00:00"
 }

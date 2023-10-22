@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3606,
+  "EOS_Progressed": 3607,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5292,6 +5292,11 @@
       "Time": "2023-10-22T15:04:43.0008842+00:00",
       "NumProgressed": 3606,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T17:05:42.9725714+00:00",
+      "NumProgressed": 3607,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5311,7 +5316,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "AncestorsPride_13",
@@ -5375,7 +5380,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ForAllAurai_8",
@@ -5391,7 +5396,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -5407,7 +5412,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "HouseofCards_19",
@@ -5447,7 +5452,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MasterofAurai_20",
@@ -5487,7 +5492,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5495,7 +5500,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5503,7 +5508,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5527,7 +5532,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5638,15 +5643,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3606,
+      "Progressed": 3607,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:54.5859019+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:05:42.9725707+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.6172621+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:59:17.3967641+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:54.5859637+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:59:55.3763178+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:05:42.972637+00:00"
 }

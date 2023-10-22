@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2613,9 +2613,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27094,
+  "EOS_Progressed": 27102,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15888,6 +15888,11 @@
       "Time": "2023-10-22T16:05:29.1969365+00:00",
       "NumProgressed": 27094,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-22T17:06:28.7926605+00:00",
+      "NumProgressed": 27102,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 51,
@@ -16025,9 +16030,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 136
     },
     {
       "ID": "Fully_Upgraded",
@@ -16219,7 +16224,7 @@
       "Name": "Surprise!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Swift_Removers",
@@ -16306,7 +16311,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27094,
+      "Progressed": 27102,
       "Completed": 61
     }
   ],
@@ -16314,8 +16319,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-22T15:57:33.2099176+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:05:29.196936+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:06:28.7926599+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:57:33.2099181+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:05:29.1970603+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:57:25.5376236+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:06:28.7928841+00:00"
 }

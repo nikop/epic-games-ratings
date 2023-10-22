@@ -7519,9 +7519,9 @@
       "Count": 3477
     }
   ],
-  "EOS_Progressed": 232558,
+  "EOS_Progressed": 232563,
   "EOS_Completed": 2379,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28189,6 +28189,11 @@
       "Time": "2023-10-22T16:05:44.3357378+00:00",
       "NumProgressed": 232558,
       "NumCompleted": 2379
+    },
+    {
+      "Time": "2023-10-22T17:06:51.2170468+00:00",
+      "NumProgressed": 232563,
+      "NumCompleted": 2379
     }
   ],
   "TotalAchievements": 528,
@@ -30334,9 +30339,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 465
     },
     {
       "ID": "objective_completed_54",
@@ -32360,7 +32365,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_1406",
@@ -32376,7 +32381,7 @@
       "Name": "The Arena of Blood",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_1411",
@@ -32408,7 +32413,7 @@
       "Name": "Spelljammers in Training",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "objective_completed_1421",
@@ -32423,21 +32428,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198832,
+      "Progressed": 198837,
       "Completed": 3669
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232558,
+      "Progressed": 232563,
       "Completed": 2379
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-22T02:18:14.9533652+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:05:44.3357374+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:06:51.217046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:59:12.4845248+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:05:44.3390547+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:59:49.4785544+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:06:51.2221622+00:00"
 }

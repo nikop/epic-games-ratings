@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 90.00% | ~111 |
-| The Routine | 80.00% | ~98 |
-| Mother | 78.00% | ~96 |
-| Failure | 76.00% | ~93 |
-| Replace Fuse | 67.00% | ~82 |
-| Alarm | 65.00% | ~80 |
-| Air Filtration | 63.00% | ~77 |
-| Broken | 62.00% | ~76 |
+| Last Goodbye | 90.00% | ~112 |
+| The Routine | 79.00% | ~98 |
+| Mother | 77.00% | ~95 |
+| Failure | 75.00% | ~93 |
+| Replace Fuse | 66.00% | ~82 |
+| Alarm | 65.00% | ~81 |
+| Air Filtration | 63.00% | ~78 |
+| Broken | 61.00% | ~76 |
 | Radiation | 60.00% | ~74 |
 | Descent | 59.00% | ~73 |
-| Awakenings | 59.00% | ~73 |
-| Cold Storage | 59.00% | ~73 |
-| Sam | 54.00% | ~66 |
-| Commissioner | 53.00% | ~65 |
-| Leave | 50.00% | ~62 |
+| Awakenings | 58.00% | ~72 |
+| Cold Storage | 58.00% | ~72 |
+| Sam | 54.00% | ~67 |
+| Commissioner | 52.00% | ~64 |
 | Churchill | 50.00% | ~62 |
 | Engineer | 50.00% | ~62 |
-| Soldier | 49.00% | ~60 |
+| Leave | 49.00% | ~61 |
+| Soldier | 48.00% | ~60 |
 | Doctor | 47.00% | ~58 |
 | Press Play | 37.00% | ~46 |
-| General | 28.00% | ~34 |
-| Bookworm | 23.00% | ~28 |
-| Floppy Disk Finder | 15.00% | ~18 |
-| Stay | 15.00% | ~18 |
+| General | 28.00% | ~35 |
+| Bookworm | 23.00% | ~29 |
+| Floppy Disk Finder | 15.00% | ~19 |
+| Stay | 15.00% | ~19 |
 | Nurse | 12.00% | ~15 |
-| No Page Unturned | 7.00% | ~9 |
-| The Missing Piece | 7.00% | ~9 |
+| No Page Unturned | 6.00% | ~7 |
 | Friends | 6.00% | ~7 |
+| The Missing Piece | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 380)  
-Completed: 5 (4.07%) (Ranked 74)  
+Progressed: 124 (Ranked 377)  
+Completed: 5 (4.03%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,7 +68,7 @@ Completed: 5 (4.07%) (Ranked 74)
 | 2023-10-18 | 119 | 5 |
 | 2023-10-20 | 120 | 5 |
 | 2023-10-21 | 122 | 5 |
-| 2023-10-22 | 123 | 5 |
+| 2023-10-22 | 124 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

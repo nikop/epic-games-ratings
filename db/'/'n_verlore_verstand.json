@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -326,9 +326,9 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "20",
@@ -629,8 +629,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:06:37.6280125+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:08:06.434427+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.2028457+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:00:11.9786203+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:06:37.6280551+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:01:13.7487851+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:08:06.4344673+00:00"
 }

@@ -22,8 +22,8 @@
 | Asari Ally | 53.00% | ~413 |
 | Medal of Exploration III | 52.00% | ~406 |
 | Principled | 52.00% | ~406 |
+| Soldier Ally | 50.00% | ~390 |
 | Paramour I | 49.00% | ~382 |
-| Soldier Ally | 49.00% | ~382 |
 | Colonial Savior | 49.00% | ~382 |
 | Scientist | 48.00% | ~374 |
 | Merciless | 47.00% | ~367 |
@@ -66,11 +66,11 @@
 | Treason | 30.00% | ~234 |
 | Bringer of War | 30.00% | ~234 |
 | Cat's in the Cradle | 29.00% | ~226 |
+| Doppelganger | 29.00% | ~226 |
 | Digital Exorcist | 29.00% | ~226 |
 | First Aid Specialist | 28.00% | ~218 |
 | Suicide Mission | 28.00% | ~218 |
 | Friend or Foe | 28.00% | ~218 |
-| Doppelganger | 28.00% | ~218 |
 | Mobilizer | 28.00% | ~218 |
 | Untouchable | 27.00% | ~211 |
 | Mission Accomplished | 27.00% | ~211 |

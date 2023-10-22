@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -999,9 +999,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 509
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1168,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:05:34.8073586+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:06:37.0225917+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:00:35.5590595+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:05:34.8073856+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:01:47.0196344+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:06:37.0226137+00:00"
 }

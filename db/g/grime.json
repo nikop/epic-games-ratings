@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153985,
+  "EOS_Progressed": 153995,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12619,6 +12619,11 @@
       "Time": "2023-10-22T16:06:41.824516+00:00",
       "NumProgressed": 153985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T17:08:12.6725504+00:00",
+      "NumProgressed": 153995,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12892,9 +12897,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1232
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -12997,21 +13002,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153568,
+      "Progressed": 153578,
       "Completed": 1169
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153985,
+      "Progressed": 153995,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:06:41.8245156+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:08:12.6725497+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:59:01.6757829+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:06:41.8246234+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:59:33.4652781+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:08:12.6727412+00:00"
 }

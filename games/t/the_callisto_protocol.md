@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 8.00% | ~1,294 |
+| Get a Grip | 8.00% | ~1,295 |
 | Paper Jams | 7.00% | ~1,133 |
 | Flesh Wound | 6.00% | ~971 |
 | Float Like A Butterfly | 6.00% | ~971 |
@@ -13,7 +13,7 @@ Rating: 4.19 (Ranked 900)
 | Chew 'Em Up | 5.00% | ~809 |
 | Reforged | 5.00% | ~809 |
 | The Outer Way | 5.00% | ~809 |
-| Keep Fighting | 5.00% | ~205 |
+| Keep Fighting | 5.00% | ~206 |
 | You Need a Gun | 4.00% | ~647 |
 | I Do Belong Here | 4.00% | ~647 |
 | Workplace Hazard | 4.00% | ~647 |
@@ -26,8 +26,8 @@ Rating: 4.19 (Ranked 900)
 | Full Circle | 4.00% | ~647 |
 | Power Up | 4.00% | ~647 |
 | It's Time | 4.00% | ~164 |
-| Giving Back | 3.00% | ~485 |
-| Terminated | 3.00% | ~485 |
+| Giving Back | 3.00% | ~486 |
+| Terminated | 3.00% | ~486 |
 | In Striking Distance | 2.00% | ~324 |
 | The Commonality | 2.00% | ~324 |
 | One Last Job | 2.00% | ~82 |
@@ -42,6 +42,7 @@ Rating: 4.19 (Ranked 900)
 | Instigator | 0.40% | ~16 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
+| Hoard Mode | 0.20% | ~8 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
@@ -50,10 +51,9 @@ Rating: 4.19 (Ranked 900)
 | Lifer | 0.10% | ~4 |
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |
-| Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,179 (Ranked 134)  
+Progressed: 16,184 (Ranked 134)  
 Completed: 77 (0.48%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 77 (0.48%) (Ranked 183)
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
-| 2023-10-22 | 16,179 | 77 |
+| 2023-10-22 | 16,184 | 77 |
 ## Awards
 Max (Amazing Storytelling): 77  (Ranked 379)  
 Sum: 451 (Ranked 323)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1771,9 +1771,9 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -2002,8 +2002,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:27.5645562+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:05:04.2097613+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:04.3681048+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:00:24.3334426+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:27.5646486+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:01:33.1858707+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:05:04.2098818+00:00"
 }

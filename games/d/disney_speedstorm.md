@@ -1,21 +1,21 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 725)  
+Rating: 4.41 (Ranked 704)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,328 |
-| IT MAKES BOOM! | 3.00% | ~7,397 |
-| EXTRA BOOST | 2.00% | ~4,931 |
-| PROTECTED | 2.00% | ~4,931 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,466 |
-| AGGRESSIVE RACER | 1.00% | ~2,466 |
-| PRO | 1.00% | ~2,466 |
-| A TIGER'S FEAR | 0.90% | ~2,219 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,233 |
-| ACE SPEEDSTER | 0.50% | ~1,233 |
-| DEFEAT OUR CHAMPION | 0.40% | ~986 |
+| ROOKIE | 5.00% | ~12,337 |
+| IT MAKES BOOM! | 3.00% | ~7,402 |
+| EXTRA BOOST | 2.00% | ~4,935 |
+| PROTECTED | 2.00% | ~4,935 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,467 |
+| AGGRESSIVE RACER | 1.00% | ~2,467 |
+| PRO | 1.00% | ~2,467 |
+| A TIGER'S FEAR | 0.90% | ~2,221 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,234 |
+| ACE SPEEDSTER | 0.50% | ~1,234 |
+| DEFEAT OUR CHAMPION | 0.40% | ~987 |
 | TRAINING HARD | 0.30% | ~740 |
 | RELEASE THE KRAKEN | 0.30% | ~740 |
 | BE OUR GUEST | 0.30% | ~740 |
@@ -30,8 +30,8 @@ Rating: 4.40 (Ranked 725)
 | ACE TRICKSTER | 0.20% | ~493 |
 | FRAMED! | 0.10% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,563 (Ranked 56)  
-Completed: 239 (0.10%) (Ranked 251)  
+Progressed: 246,739 (Ranked 56)  
+Completed: 239 (0.10%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,11 +211,11 @@ Completed: 239 (0.10%) (Ranked 251)
 | 2023-10-19 | 237,962 | 235 |
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
-| 2023-10-22 | 246,563 | 239 |
+| 2023-10-22 | 246,739 | 239 |
 ## Awards
 Max (Great for Quick Sessions): 33  (Ranked 470)  
-Sum: 136 (Ranked 417)  
-Diff (max vs sum): 53  
+Sum: 156 (Ranked 411)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |
@@ -223,6 +223,7 @@ Diff (max vs sum): 53
 | This game has Amazing Characters | 25 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Storytelling | 21 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -247,3 +248,4 @@ Diff (max vs sum): 53
 | 2023-10-19 | 4.41 | 31 | 126 |
 | 2023-10-20 | 4.41 | 32 | 131 |
 | 2023-10-21 | 4.40 | 33 | 136 |
+| 2023-10-22 | 4.41 | 33 | 156 |

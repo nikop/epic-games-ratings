@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -433,7 +433,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2742,
+  "EOS_Progressed": 2743,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
@@ -3128,6 +3128,11 @@
       "Time": "2023-10-22T15:07:13.9815624+00:00",
       "NumProgressed": 2742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T17:09:03.1303469+00:00",
+      "NumProgressed": 2743,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3148,7 +3153,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "achievement_11",
@@ -3268,7 +3273,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_6",
@@ -3307,7 +3312,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2742,
+      "Progressed": 2743,
       "Completed": 0
     }
   ],
@@ -3315,8 +3320,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-22T01:44:00.5636291+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:08:06.7702439+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:09:03.1303461+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:57:44.3020562+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:08:06.7702723+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:57:42.8003657+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:09:03.1304056+00:00"
 }

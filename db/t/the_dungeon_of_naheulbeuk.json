@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1135,18 +1135,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 432,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2023-10-22T17:01:07.8431843+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 433,
+      "NumberOfAwardsMax": 219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 432,
-  "NumberOfAwardsMax": 218,
+  "NumberOfAwards": 433,
+  "NumberOfAwardsMax": 219,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game is Relaxing",
@@ -1197,9 +1203,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232453,
+  "EOS_Progressed": 232473,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1419,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15672,6 +15678,11 @@
       "Time": "2023-10-22T16:04:07.3776073+00:00",
       "NumProgressed": 232453,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-22T17:04:34.4600821+00:00",
+      "NumProgressed": 232473,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -15731,7 +15742,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11624
     },
     {
       "ID": "Chapter2",
@@ -16083,7 +16094,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13947
+      "UsersEstimate": 13948
     },
     {
       "ID": "DwarfElf15Support",
@@ -16115,7 +16126,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "ElfEpic",
@@ -16131,7 +16142,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79034
+      "UsersEstimate": 79041
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16179,7 +16190,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16272
+      "UsersEstimate": 16273
     },
     {
       "ID": "FollowBraztok",
@@ -16331,7 +16342,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "SupportCount4",
@@ -16386,21 +16397,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232453,
+      "Progressed": 232473,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232453,
+      "Progressed": 232473,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-10-21T20:00:23.9402035+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:07.3776068+00:00",
+  "LastChanged": "2023-10-22T17:01:07.843184+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:04:34.4600815+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:00:08.1706243+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:07.3777984+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:01:07.843185+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:04:34.4602766+00:00"
 }

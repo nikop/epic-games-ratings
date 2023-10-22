@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Tough Decision | 94.00% | ~548 |
 | Blast From The Past | 86.00% | ~501 |
-| Kamikaze | 64.00% | ~373 |
+| Kamikaze | 65.00% | ~379 |
 | The Rebel And The Doctor | 58.00% | ~338 |
 | Beat It | 52.00% | ~303 |
 | Free Champagne | 48.00% | ~280 |
-| Storage Hunter | 47.00% | ~274 |
+| Storage Hunter | 48.00% | ~280 |
 | Falling For You | 45.00% | ~262 |
 | Trust Me For Once | 29.00% | ~169 |
 | Lab Rat | 25.00% | ~146 |

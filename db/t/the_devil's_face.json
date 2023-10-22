@@ -2,7 +2,7 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1889,6 +1889,11 @@
       "Time": "2023-10-22T11:03:17.5357788+00:00",
       "NumProgressed": 436,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T17:03:47.9440674+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1954,9 +1959,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1970,17 +1975,17 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2011,14 +2016,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:03:31.5295413+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:03:47.9440665+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:02:02.1268207+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:03:31.5296038+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:57:11.8584316+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:03:47.9444206+00:00"
 }

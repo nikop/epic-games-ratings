@@ -6,9 +6,9 @@
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -1757,9 +1757,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2125,8 +2125,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:06:21.0981595+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:07:41.9534656+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:00:41.5900912+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:06:21.0982147+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:01:56.1670964+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:07:41.9535625+00:00"
 }

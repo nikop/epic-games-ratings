@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2013,9 +2013,9 @@
       "ID": "ACH_BOOK_5",
       "SetID": "7k95e4n",
       "Name": "Humble beginnings",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2165,9 +2165,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH_STAR_2",
@@ -2238,8 +2238,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-21T14:59:13.9477211+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:09:11.9524228+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:09:54.2051584+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:08.2673476+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:58:55.1150035+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:09:11.9524536+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:59:21.4853063+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:09:54.2051909+00:00"
 }

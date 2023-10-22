@@ -10,24 +10,24 @@
 | A new dawn | 13.00% | ~41 |
 | The Preacher's fate | 12.00% | ~38 |
 | Scholar | 12.00% | ~38 |
+| Peace walker | 11.00% | ~35 |
+| Cable guy | 11.00% | ~35 |
 | True G3M4R | 11.00% | ~35 |
 | The darkness | 11.00% | ~35 |
 | One last step | 11.00% | ~35 |
 | I did it | 10.00% | ~32 |
-| Peace walker | 10.00% | ~32 |
-| Cable guy | 10.00% | ~32 |
+| In this together | 10.00% | ~32 |
 | A good beginning | 10.00% | ~32 |
 | Half the way | 10.00% | ~32 |
-| In this together | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
 | Feels like springtime | 8.00% | ~25 |
 | Alchemists Express | 8.00% | ~25 |
 | Open door | 7.00% | ~22 |
 | Free at last | 6.00% | ~19 |
 | Rascal | 6.00% | ~19 |
+| For its own good | 5.00% | ~16 |
 | A Link to the Past | 5.00% | ~16 |
-| For its own good | 4.00% | ~13 |
-| A great audience | 3.00% | ~9 |
+| A great audience | 4.00% | ~13 |
 | Fashion victim | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 315 (Ranked 315)  

@@ -6,13 +6,13 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,862 |
+| Lawbringer | 39.00% | ~24,864 |
 | Landlord | 33.00% | ~21,038 |
-| Bannerlord | 23.00% | ~14,662 |
-| Horde breaker | 23.00% | ~14,662 |
-| Lawmaker | 23.00% | ~14,662 |
-| Trained | 23.00% | ~14,662 |
-| The king is pleased | 19.00% | ~12,112 |
+| Bannerlord | 23.00% | ~14,663 |
+| Horde breaker | 23.00% | ~14,663 |
+| Lawmaker | 23.00% | ~14,663 |
+| Trained | 23.00% | ~14,663 |
+| The king is pleased | 19.00% | ~12,113 |
 | King Solomon | 17.00% | ~10,838 |
 | Apple of my eye | 16.00% | ~10,200 |
 | I can do it | 16.00% | ~10,200 |
@@ -25,21 +25,21 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,375 |
 | What have the Romans ever done for us? | 10.00% | ~6,375 |
 | Butterlord | 8.00% | ~5,100 |
-| Know your enemy | 7.00% | ~4,462 |
-| Mastery | 7.00% | ~4,462 |
+| Know your enemy | 7.00% | ~4,463 |
+| Mastery | 7.00% | ~4,463 |
 | Crowdfunded | 5.00% | ~3,188 |
 | Crush your enemies | 5.00% | ~3,188 |
 | My way | 5.00% | ~3,188 |
 | Veni vidi vici | 4.00% | ~2,550 |
-| Freedom! | 3.00% | ~1,912 |
-| Long live the Empire! | 3.00% | ~1,912 |
-| Real Estate | 3.00% | ~1,912 |
+| Freedom! | 3.00% | ~1,913 |
+| Long live the Empire! | 3.00% | ~1,913 |
+| Real Estate | 3.00% | ~1,913 |
 | Entrepreneur | 1.00% | ~638 |
 | Supreme Emperor | 1.00% | ~638 |
 | Crackshot | 0.90% | ~574 |
 | Undercover | 0.80% | ~510 |
 | Fat Cat | 0.70% | ~446 |
-| Catch | 0.60% | ~382 |
+| Catch | 0.60% | ~383 |
 | Slice 'n dice | 0.50% | ~319 |
 | Ride it like you stole it | 0.40% | ~255 |
 | Mounted Archery | 0.30% | ~191 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,750 (Ranked 99)  
+Progressed: 63,753 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 63,545 | 0 |
 | 2023-10-20 | 63,599 | 0 |
 | 2023-10-21 | 63,692 | 0 |
-| 2023-10-22 | 63,750 | 0 |
+| 2023-10-22 | 63,753 | 0 |
 ## Awards
 Max (Character Customization): 7,267  (Ranked 52)  
 Sum: 14,966 (Ranked 66)  

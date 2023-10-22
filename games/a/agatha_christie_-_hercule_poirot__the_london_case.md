@@ -37,21 +37,21 @@
 | Well-travelled | 4.00% | ~1 |
 | A peculiar fellow | 4.00% | ~1 |
 | Evelyn Lakshmi Warbeck | 4.00% | ~1 |
+| Florence Farquhar | 4.00% | ~1 |
 | Horace Mountjoy | 4.00% | ~1 |
 | Johan Kristiansen | 4.00% | ~1 |
 | Mortimer Ailsworth | 4.00% | ~1 |
 | Perkins | 4.00% | ~1 |
 | The Suspects | 4.00% | ~1 |
 | The Secrets | 4.00% | ~1 |
+| The Investigation Starts Anew | 4.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
 | A perilous journey | 0.00% | ~0 |
 | The Penitent Magdalene | 0.00% | ~0 |
 | A true performance | 0.00% | ~0 |
-| Florence Farquhar | 0.00% | ~0 |
-| The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 488)  
+Progressed: 23 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |

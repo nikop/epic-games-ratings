@@ -1,11 +1,11 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.40 (Ranked 725)  
+Rating: 4.40 (Ranked 726)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~823 |
+| Good start | 77.00% | ~834 |
 | And so it begins | 73.00% | ~791 |
 | No pressure | 70.00% | ~758 |
 | Memento | 62.00% | ~671 |
@@ -14,7 +14,7 @@ Rating: 4.40 (Ranked 725)
 | Soulmate? | 54.00% | ~585 |
 | Excellent service | 50.00% | ~542 |
 | Roll with it | 47.00% | ~509 |
-| Humble beginnings | 44.00% | ~477 |
+| Humble beginnings | 45.00% | ~487 |
 | Love is in the air | 44.00% | ~477 |
 | Fine, I'll do it myself | 43.00% | ~466 |
 | Moving up | 42.00% | ~455 |

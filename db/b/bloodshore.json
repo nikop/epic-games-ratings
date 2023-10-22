@@ -2,10 +2,10 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 348,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 194,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.06,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -330,6 +330,11 @@
       "Time": "2023-10-22T14:04:57.2715687+00:00",
       "NumProgressed": 194,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T17:05:32.6374878+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -395,17 +400,17 @@
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "mission_complete",
@@ -477,15 +482,15 @@
       "ID": "84ad177",
       "IsBase": true,
       "Progressed": 194,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-11-13T23:58:32.3641197+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:47.5383593+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:05:32.6374871+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.3790114+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:01:05.4183694+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:47.5383748+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:02:29.7454391+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:05:32.63751+00:00"
 }

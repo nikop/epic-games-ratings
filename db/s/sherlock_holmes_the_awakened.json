@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2733,9 +2733,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 377
     },
     {
       "ID": "MQ04_1",
@@ -2797,9 +2797,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 263
     },
     {
       "ID": "MQ06_2",
@@ -2821,9 +2821,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 327
+      "UsersEstimate": 334
     },
     {
       "ID": "MQ07_1",
@@ -2886,8 +2886,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:11.2288927+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:04:40.0478981+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:58:16.5520117+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:11.2289329+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:58:25.1259327+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:04:40.047945+00:00"
 }

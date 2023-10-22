@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1240,10 +1240,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 710,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-22T16:57:12.4936829+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 712,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 710,
+  "NumberOfAwards": 712,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1299,7 +1305,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 71
+      "Count": 73
     },
     {
       "Text": "This game has a Creative Community",
@@ -1310,7 +1316,7 @@
   ],
   "EOS_Progressed": 9797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15826,9 +15832,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-10-13T05:57:40.9154054+00:00",
-  "LastChanged_Achievements": "2023-10-22T16:04:46.2792328+00:00",
+  "LastChanged": "2023-10-22T16:57:12.4936826+00:00",
+  "LastChanged_Achievements": "2023-10-22T17:05:31.1420026+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-22T15:02:02.4616854+00:00",
-  "LastUpdate_Achievements": "2023-10-22T16:04:46.2793724+00:00"
+  "LastUpdate_Ratings": "2023-10-22T16:57:12.4936836+00:00",
+  "LastUpdate_Achievements": "2023-10-22T17:05:31.1422526+00:00"
 }

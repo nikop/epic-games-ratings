@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~104 |
 | Riders | 0.70% | ~104 |
 | Statesmen | 0.70% | ~104 |
+| Traders | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
 | Via Recta Souk | 0.70% | ~104 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
 | Hunters | 0.60% | ~89 |
-| Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
