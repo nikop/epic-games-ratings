@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 947,
+  "EOS_Progressed": 964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -405,6 +405,11 @@
       "Time": "2023-10-22T11:05:56.8972764+00:00",
       "NumProgressed": 947,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T12:07:34.7354224+00:00",
+      "NumProgressed": 964,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -489,7 +494,7 @@
       "Name": "First Time?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FuneralForTheDeath",
@@ -688,13 +693,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 947,
+      "Progressed": 964,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:56.8972759+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:07:34.7354218+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:57:24.4480443+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:56.8973025+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:57:37.6374903+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:07:34.7354549+00:00"
 }

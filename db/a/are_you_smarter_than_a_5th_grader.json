@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -629,9 +629,9 @@
       "ID": "SmarterThanA5thGrader",
       "SetID": "6l18k14",
       "Name": "Smarter than a 5th Grader",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "StudySession",
@@ -670,8 +670,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:06:02.6092317+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:07:43.5153433+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:55.2754226+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:57:18.1398054+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:06:02.6092464+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:57:24.5380818+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:07:43.5153681+00:00"
 }

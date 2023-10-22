@@ -1965,9 +1965,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21099,
+  "EOS_Progressed": 21100,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9565,6 +9565,11 @@
       "Time": "2023-10-22T11:04:55.2278528+00:00",
       "NumProgressed": 21099,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-22T12:06:06.2585798+00:00",
+      "NumProgressed": 21100,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9624,7 +9629,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20044
+      "UsersEstimate": 20045
     },
     {
       "ID": "GameOver",
@@ -9759,15 +9764,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21099,
+      "Progressed": 21100,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-21T20:59:15.0014306+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:04:55.227852+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:06.2585794+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:16.9315117+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:04:55.2279143+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:31.5716833+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:06.2586458+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -54,9 +54,9 @@
       "ID": "DECAYED_REMAINS_ACH",
       "SetID": "cnj66m",
       "Name": "Decayed Remains",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HER_ENDLESS_NIGHTMARES_ACH",
@@ -126,9 +126,9 @@
       "ID": "TOWER_OF_PAIN_ACH",
       "SetID": "cnj66m",
       "Name": "Tower of Pain",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UNBROKEN_LOOP_ACH",
@@ -149,8 +149,8 @@
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:04:10.0487891+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:05:07.6655873+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.8392357+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:20.4642148+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:04:10.0487976+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:04.8767277+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:05:07.6655978+00:00"
 }

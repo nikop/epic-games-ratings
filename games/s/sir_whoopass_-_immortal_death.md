@@ -22,25 +22,25 @@
 | You're not going to blow me up! | 54.00% | ~58 |
 | Mushroom soup of the day | 51.00% | ~55 |
 | Honk honk! | 50.00% | ~54 |
+| Butcher | 50.00% | ~54 |
+| Spare Ribs | 50.00% | ~54 |
 | Cockadoodledoo! | 50.00% | ~54 |
-| Butcher | 49.00% | ~52 |
-| Spare Ribs | 49.00% | ~52 |
 | Thats disgusting! | 47.00% | ~50 |
-| My pants squeak when I walk | 43.00% | ~46 |
+| My pants squeak when I walk | 44.00% | ~47 |
 | Self assessed tax return | 41.00% | ~44 |
 | Surprise!! | 41.00% | ~44 |
-| Haemochromatosis | 39.00% | ~42 |
+| Haemochromatosis | 40.00% | ~43 |
 | Make America Grate Again | 36.00% | ~39 |
 | Pasta Bolognese | 35.00% | ~37 |
-| You can't stop me, bro! | 33.00% | ~35 |
-| You are no match for me, Billy! | 32.00% | ~34 |
-| Catch the bus with me! | 32.00% | ~34 |
+| You can't stop me, bro! | 34.00% | ~36 |
+| You are no match for me, Billy! | 33.00% | ~35 |
+| Catch the bus with me! | 33.00% | ~35 |
 | Karaoke king | 32.00% | ~34 |
+| I'm going to get a concussion | 30.00% | ~32 |
 | Meatballs, coming up! | 29.00% | ~31 |
-| I'm going to get a concussion | 29.00% | ~31 |
-| Another one bites the iron | 28.00% | ~30 |
+| Another one bites the iron | 29.00% | ~31 |
 | A Megapint...? | 24.00% | ~26 |
-| Ripe Meat Off The Bone! | 23.00% | ~25 |
+| Ripe Meat Off The Bone! | 24.00% | ~26 |
 | Hovering around | 23.00% | ~25 |
 | Kleptomaniac | 23.00% | ~25 |
 | You're not so Big anymore, Boi! | 21.00% | ~22 |

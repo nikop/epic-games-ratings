@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 573,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.57,
   "EosHistory": [
@@ -1205,6 +1205,11 @@
       "Time": "2023-10-21T17:13:28.4689276+00:00",
       "NumProgressed": 572,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-22T12:08:22.4345388+00:00",
+      "NumProgressed": 573,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1216,7 +1221,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "booty_call",
@@ -1240,7 +1245,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "hold_my_beer",
@@ -1256,7 +1261,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "interrogation",
@@ -1335,7 +1340,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 573,
       "Completed": 9
     }
   ],
@@ -1343,8 +1348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:06:29.4155504+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:08:22.4345383+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:28.5795458+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:17.6382402+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:06:29.4155708+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:32.7623105+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:08:22.4345585+00:00"
 }

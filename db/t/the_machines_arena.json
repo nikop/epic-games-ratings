@@ -3,11 +3,11 @@
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 140,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -103,6 +103,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
   "LastChanged": "2023-09-29T07:57:38.8317628+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.8614993+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:46.0333008+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:09:21.8141687+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:41.9665961+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:09:51.3353897+00:00"
 }

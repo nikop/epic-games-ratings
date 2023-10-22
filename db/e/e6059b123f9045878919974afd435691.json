@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2274,6 +2274,11 @@
       "Time": "2023-10-22T05:04:28.857721+00:00",
       "NumProgressed": 928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T12:05:26.5064386+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2285,7 +2290,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2301,7 +2306,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2357,7 +2362,7 @@
       "Name": "Capraphobia",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2485,7 +2490,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2525,7 +2530,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2533,7 +2538,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2677,7 +2682,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2717,7 +2722,7 @@
       "Name": "The Last of Us",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2812,14 +2817,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:04:23.3517788+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:05:26.5064381+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:46.7725499+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:04:23.3518598+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:43.2563005+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:05:26.506539+00:00"
 }

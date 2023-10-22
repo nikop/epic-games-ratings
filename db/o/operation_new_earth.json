@@ -3,11 +3,11 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1020,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1646,
+  "EOS_Progressed": 1647,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6119,6 +6119,11 @@
       "Time": "2023-10-22T08:09:11.8032328+00:00",
       "NumProgressed": 1646,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T12:09:13.5646114+00:00",
+      "NumProgressed": 1647,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6306,7 +6311,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6433,7 +6438,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1646,
+      "Progressed": 1647,
       "Completed": 1
     }
   ],
@@ -6441,8 +6446,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:08:25.0595091+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:09:13.5646109+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:15.7981018+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:08:25.0595742+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:58:57.0931268+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:09:13.5646903+00:00"
 }

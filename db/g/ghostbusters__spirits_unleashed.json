@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2607,7 +2607,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27070,
+  "EOS_Progressed": 27072,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 2,
@@ -15857,6 +15857,11 @@
       "Time": "2023-10-22T11:05:07.6770634+00:00",
       "NumProgressed": 27070,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-22T12:06:24.528413+00:00",
+      "NumProgressed": 27072,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 51,
@@ -15924,7 +15929,7 @@
       "Name": "Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Cultured",
@@ -15948,7 +15953,7 @@
       "Name": "Diabolical",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Discovery",
@@ -15988,7 +15993,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Fragile_Panes",
@@ -16092,7 +16097,7 @@
       "Name": "Reckless",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Rift_Destroyer",
@@ -16100,7 +16105,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Rift_Seeker",
@@ -16236,7 +16241,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Ultimate_Defense",
@@ -16275,7 +16280,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27070,
+      "Progressed": 27072,
       "Completed": 60
     }
   ],
@@ -16283,8 +16288,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-22T05:00:39.3711798+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:07.6770627+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:24.5284125+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:57:16.3803583+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:07.6771855+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:57:21.4525722+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:24.5285654+00:00"
 }

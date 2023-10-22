@@ -3,11 +3,11 @@
   "Name": "This Is The Police",
   "ProductSlug": "this-is-the-police",
   "Ranking_Rating": 151,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-24T17:00:00+00:00",
@@ -258,6 +258,6 @@
   "FirstSeen": "2022-07-22T20:22:17.2330735+00:00",
   "LastChanged": "2023-10-18T21:00:21.3217632+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:37.2210663+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:00:37.8833105+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:06:49.5959628+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:02:30.9315911+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:03:21.4725226+00:00"
 }

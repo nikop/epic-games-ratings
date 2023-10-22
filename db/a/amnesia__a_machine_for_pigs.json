@@ -3,11 +3,11 @@
   "Name": "Amnesia: A Machine for Pigs",
   "ProductSlug": "amnesia-a-machine-for-pigs",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-10-15T15:00:00+00:00",
@@ -435,6 +435,6 @@
   "FirstSeen": "2022-07-22T20:28:01.9575759+00:00",
   "LastChanged": "2023-08-27T02:16:23.6955126+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:10.2023902+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:43.7379172+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:03:54.8021145+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:38.3011883+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:04:45.6111508+00:00"
 }

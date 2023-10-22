@@ -13964,9 +13964,9 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893251,
+  "EOS_Progressed": 893262,
   "EOS_Completed": 2696,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34904,6 +34904,11 @@
       "Time": "2023-10-22T11:05:13.5367606+00:00",
       "NumProgressed": 893251,
       "NumCompleted": 2696
+    },
+    {
+      "Time": "2023-10-22T12:06:32.8096735+00:00",
+      "NumProgressed": 893262,
+      "NumCompleted": 2696
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34930,9 +34935,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "Cyberjunkie",
@@ -35018,9 +35023,9 @@
       "ID": "LikeFatherLikeSon",
       "SetID": "47clieb",
       "Name": "Mean Streets",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "LittleTokyo",
@@ -35435,21 +35440,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893251,
+      "Progressed": 893262,
       "Completed": 2696
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21874,
+      "Progressed": 21885,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T10:58:52.4090219+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:13.5367601+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:32.8096731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:52.4090226+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:13.5369364+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:51.3482765+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:32.8098972+00:00"
 }

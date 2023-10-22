@@ -33,9 +33,9 @@ Rating: 4.19 (Ranked 900)
 | One Last Job | 2.00% | ~82 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~29 |
+| Grim Reaper | 0.70% | ~113 |
 | Big Spender | 0.70% | ~29 |
 | Information Overload | 0.70% | ~29 |
-| Grim Reaper | 0.60% | ~97 |
 | Parole Denied | 0.60% | ~25 |
 | Quick Pick | 0.60% | ~25 |
 | Mugshot | 0.50% | ~81 |

@@ -3,11 +3,11 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 662,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 172,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
+  "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5516,
+  "EOS_Progressed": 5517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3973,6 +3973,11 @@
       "Time": "2023-10-22T10:04:02.7961633+00:00",
       "NumProgressed": 5516,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T12:04:45.916655+00:00",
+      "NumProgressed": 5517,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4016,7 +4021,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -4080,7 +4085,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_campaign_progress4",
@@ -4104,7 +4109,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ach_campaign_progress7",
@@ -4352,7 +4357,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -4376,7 +4381,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_frp_many_products3",
@@ -4591,15 +4596,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5516,
+      "Progressed": 5517,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:03:54.9955903+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:04:45.9166545+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.5188861+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:15.7232402+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:03:54.9956967+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:29.7075303+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:04:45.9167846+00:00"
 }

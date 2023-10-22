@@ -617,9 +617,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:03:20.8205893+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:03:37.156438+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:55.513847+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:03:20.8206313+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:56.4257166+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:03:37.1564798+00:00"
 }

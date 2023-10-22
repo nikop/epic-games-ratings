@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 151,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -2247,6 +2247,11 @@
       "Time": "2023-10-22T06:09:48.245839+00:00",
       "NumProgressed": 750,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-22T12:09:48.4273083+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2267,7 +2272,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "_03_FinishAct1",
@@ -2299,7 +2304,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "_07_FinishAct3",
@@ -2323,7 +2328,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_10_Completion_30",
@@ -2379,7 +2384,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2419,7 +2424,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2466,7 +2471,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 24
     }
   ],
@@ -2474,8 +2479,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:09:19.769361+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:09:48.4273078+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:21.5727273+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:09:19.7693925+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:41.0298939+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:09:48.427347+00:00"
 }

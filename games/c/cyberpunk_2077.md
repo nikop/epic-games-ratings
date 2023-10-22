@@ -9,9 +9,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.40% | ~3,573 |
 | Rough Landing | 0.30% | ~2,680 |
 | The High Priestess | 0.30% | ~2,680 |
+| Bushido and Chill | 0.20% | ~1,787 |
 | Full Body Conversion | 0.20% | ~1,787 |
 | Right Back At Ya | 0.20% | ~1,787 |
 | Gunslinger | 0.20% | ~1,787 |
+| Mean Streets | 0.20% | ~1,787 |
 | The Quick and the Dead | 0.20% | ~1,787 |
 | Breathtaking | 0.20% | ~1,787 |
 | Life of the Road | 0.20% | ~1,787 |
@@ -32,7 +34,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.20% | ~44 |
 | City Lights | 0.10% | ~893 |
 | To Bad Decisions! | 0.10% | ~893 |
-| Bushido and Chill | 0.10% | ~893 |
 | To Protect and Serve | 0.10% | ~893 |
 | The Wandering Fool | 0.10% | ~893 |
 | Autojock | 0.10% | ~893 |
@@ -40,7 +41,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 0.10% | ~893 |
 | Master Crafter | 0.10% | ~893 |
 | I Am The Law | 0.10% | ~893 |
-| Mean Streets | 0.10% | ~893 |
 | Little Tokyo | 0.10% | ~893 |
 | Christmas Tree Attack | 0.10% | ~893 |
 | Must Be Rats | 0.10% | ~893 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,251 (Ranked 15)  
+Progressed: 893,262 (Ranked 15)  
 Completed: 2,696 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,696 (0.30%) (Ranked 208)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,251 | 2,696 |
+| 2023-10-22 | 893,262 | 2,696 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 319,221 (Ranked 11)  

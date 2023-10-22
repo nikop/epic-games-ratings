@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -854,9 +854,9 @@
       "ID": "Achi_44",
       "SetID": "51a97k7",
       "Name": "Decapitation Strike",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_45",
@@ -919,8 +919,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:09:33.6286267+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:10:09.5757858+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:57:42.0335572+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:09:33.628666+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:58:04.61667+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:10:09.5758434+00:00"
 }

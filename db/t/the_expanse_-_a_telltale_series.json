@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 420,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14224,
+  "EOS_Progressed": 14226,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9306,6 +9306,11 @@
       "Time": "2023-10-22T11:05:08.3316741+00:00",
       "NumProgressed": 14224,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-22T12:06:25.3957032+00:00",
+      "NumProgressed": 14226,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9334,7 +9339,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "12",
@@ -9358,7 +9363,7 @@
       "Name": "Doctor Approved",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "15",
@@ -9390,7 +9395,7 @@
       "Name": "Bottoms up!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "19",
@@ -9414,7 +9419,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "21",
@@ -9446,7 +9451,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "25",
@@ -9557,22 +9562,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14224,
+      "Progressed": 14226,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 178,
-      "Completed": 178
+      "Progressed": 180,
+      "Completed": 180
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:08.3316736+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:25.3957028+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:59.135798+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:08.3317707+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:03.4671838+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:25.3957831+00:00"
 }

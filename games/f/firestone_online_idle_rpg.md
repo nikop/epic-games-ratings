@@ -5,10 +5,10 @@ Rating: 4.08 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,918 |
-| World Map | 79.00% | ~1,629 |
-| Temple of Eternals | 57.00% | ~1,175 |
-| Prestigious | 54.00% | ~1,113 |
+| Victor | 93.00% | ~1,919 |
+| World Map | 79.00% | ~1,630 |
+| Temple of Eternals | 57.00% | ~1,176 |
+| Prestigious | 54.00% | ~1,114 |
 | Fellowship Power | 42.00% | ~866 |
 | Guild Power | 26.00% | ~536 |
 | Prestigious x10 | 23.00% | ~474 |
@@ -28,8 +28,8 @@ Rating: 4.08 (Ranked 950)
 | Natural Talent | 14.00% | ~289 |
 | Superior | 14.00% | ~289 |
 | Scientist | 13.00% | ~268 |
-| Hunter | 12.00% | ~247 |
-| The power of Awakening | 12.00% | ~247 |
+| Hunter | 12.00% | ~248 |
+| The power of Awakening | 12.00% | ~248 |
 | Challenger | 11.00% | ~227 |
 | Daily Quest Completionist | 11.00% | ~227 |
 | Doing My Part | 11.00% | ~227 |
@@ -61,8 +61,8 @@ Rating: 4.08 (Ranked 950)
 | Legendary | 6.00% | ~124 |
 | Arena Challenger | 5.00% | ~103 |
 | Ebony Jungle Liberator | 5.00% | ~103 |
-| Mythic Power | 4.00% | ~82 |
-| What lies behind the bush | 4.00% | ~82 |
+| Mythic Power | 4.00% | ~83 |
+| What lies behind the bush | 4.00% | ~83 |
 | Gear Enchanting | 3.00% | ~62 |
 | Cauldron Liberator | 2.00% | ~41 |
 | Enchanting skill x5 | 2.00% | ~41 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 950)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,062 (Ranked 206)  
+Progressed: 2,063 (Ranked 206)  
 Completed: 2 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2 (0.10%) (Ranked 250)
 | 2023-10-18 | 2,048 | 2 |
 | 2023-10-19 | 2,053 | 2 |
 | 2023-10-21 | 2,058 | 2 |
-| 2023-10-22 | 2,062 | 2 |
+| 2023-10-22 | 2,063 | 2 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 488)  
 Sum: 75 (Ranked 453)  

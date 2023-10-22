@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-1-280ea4",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-07-07T21:56:56.8984905+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.3402565+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:04:00.0420557+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:04:53.0831935+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.7777657+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:07.5026634+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:04:00.0420595+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:58:45.0371992+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:04:53.083197+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 625,
-  "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 532,
+  "Ranking_Popularity": 532,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529759,
+  "EOS_Progressed": 529760,
   "EOS_Completed": 487,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20192,6 +20192,11 @@
       "Time": "2023-10-22T11:05:52.6398539+00:00",
       "NumProgressed": 529759,
       "NumCompleted": 487
+    },
+    {
+      "Time": "2023-10-22T12:07:28.9809162+00:00",
+      "NumProgressed": 529760,
+      "NumCompleted": 487
     }
   ],
   "TotalAchievements": 57,
@@ -20219,7 +20224,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370831
+      "UsersEstimate": 370832
     },
     {
       "ID": "12",
@@ -20243,7 +20248,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58273
+      "UsersEstimate": 58274
     },
     {
       "ID": "15",
@@ -20307,7 +20312,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58273
+      "UsersEstimate": 58274
     },
     {
       "ID": "22",
@@ -20435,7 +20440,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84761
+      "UsersEstimate": 84762
     },
     {
       "ID": "37",
@@ -20579,7 +20584,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243689
+      "UsersEstimate": 243690
     },
     {
       "ID": "53",
@@ -20658,15 +20663,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529759,
+      "Progressed": 529760,
       "Completed": 487
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:52.6398534+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:07:28.9809158+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:08.3615261+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:52.6400208+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:58:46.2364163+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:07:28.9810965+00:00"
 }

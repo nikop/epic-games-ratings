@@ -717,9 +717,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -741,9 +741,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -965,9 +965,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -989,9 +989,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -1021,17 +1021,17 @@
       "ID": "GSS_ACH_41_PARTY_BUS",
       "SetID": "5fn8ia4",
       "Name": "Party Bus",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -1149,9 +1149,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -1197,17 +1197,17 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
@@ -1301,9 +1301,9 @@
       "ID": "GSS_ACH_76_EMPLOYEE_LEVEL_02",
       "SetID": "5fn8ia4",
       "Name": "Training the Employees",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:47.7459021+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:07:21.6577075+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:22.625554+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:47.7460085+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:07.0123761+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:07:21.6578194+00:00"
 }

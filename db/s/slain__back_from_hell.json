@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38944,
+  "EOS_Progressed": 38947,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20538,6 +20538,11 @@
       "Time": "2023-10-22T11:05:30.8926968+00:00",
       "NumProgressed": 38944,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-22T12:06:58.4732221+00:00",
+      "NumProgressed": 38947,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20557,7 +20562,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8178
+      "UsersEstimate": 8179
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -20581,7 +20586,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -20597,7 +20602,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -20627,9 +20632,9 @@
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
       "SetID": "443p4o4",
       "Name": "Four Legged Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -20780,7 +20785,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38944,
+      "Progressed": 38947,
       "Completed": 26
     }
   ],
@@ -20788,8 +20793,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:30.8926963+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:58.4732217+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:00:48.9513936+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:30.8928355+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:02:50.8074674+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:58.4733985+00:00"
 }

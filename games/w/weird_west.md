@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,677 |
-| Self-Improvement | 72.00% | ~1,372 |
-| Perky | 65.00% | ~1,239 |
-| Let’s Ride | 60.00% | ~1,144 |
-| Welcome to the Weird West | 57.00% | ~1,086 |
-| Dead or Alive | 56.00% | ~1,067 |
-| Full House | 37.00% | ~705 |
-| Off the Trail | 34.00% | ~648 |
+| Unforgiven | 88.00% | ~1,679 |
+| Self-Improvement | 71.00% | ~1,355 |
+| Perky | 65.00% | ~1,240 |
+| Let’s Ride | 60.00% | ~1,145 |
+| Welcome to the Weird West | 57.00% | ~1,088 |
+| Dead or Alive | 56.00% | ~1,068 |
+| Full House | 37.00% | ~706 |
+| Off the Trail | 34.00% | ~649 |
 | Justice Served | 29.00% | ~553 |
 | Chain Reaction | 26.00% | ~496 |
 | Through Their Eyes | 26.00% | ~496 |
-| Dishonored | 25.00% | ~476 |
-| Rain of Death | 25.00% | ~476 |
-| Scholar | 25.00% | ~476 |
-| The Great Escape | 23.00% | ~438 |
-| That’s All, Folks | 19.00% | ~362 |
+| Dishonored | 25.00% | ~477 |
+| Rain of Death | 25.00% | ~477 |
+| Scholar | 25.00% | ~477 |
+| The Great Escape | 23.00% | ~439 |
+| That’s All, Folks | 19.00% | ~363 |
 | Fallen Star | 16.00% | ~305 |
 | Here Comes Santa Claus | 16.00% | ~305 |
 | Winds of War | 16.00% | ~305 |
@@ -38,11 +38,11 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~172 |
 | Eternity Can Wait | 9.00% | ~172 |
 | Mystery Machine | 9.00% | ~172 |
-| Do Not Pass Go… | 8.00% | ~152 |
-| Gold Digger | 8.00% | ~152 |
-| Monster Hunter | 8.00% | ~152 |
-| Knuckle Sandwich | 8.00% | ~152 |
-| Getting the Gang Back Together | 7.00% | ~133 |
+| Do Not Pass Go… | 8.00% | ~153 |
+| Gold Digger | 8.00% | ~153 |
+| Monster Hunter | 8.00% | ~153 |
+| Knuckle Sandwich | 8.00% | ~153 |
+| Getting the Gang Back Together | 7.00% | ~134 |
 | Healing Old Wounds | 6.00% | ~114 |
 | Who You Gonna Call? | 6.00% | ~114 |
 | This Is Sparta | 5.00% | ~95 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,906 (Ranked 210)  
+Progressed: 1,908 (Ranked 210)  
 Completed: 7 (0.37%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 7 (0.37%) (Ranked 198)
 | 2023-10-19 | 1,868 | 7 |
 | 2023-10-20 | 1,887 | 7 |
 | 2023-10-21 | 1,902 | 7 |
-| 2023-10-22 | 1,906 | 7 |
+| 2023-10-22 | 1,908 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 488)  
 Sum: 28 (Ranked 501)  

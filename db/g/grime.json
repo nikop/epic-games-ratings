@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153897,
+  "EOS_Progressed": 153909,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1564,
+  "EOS_NewPlayers": 1565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12594,6 +12594,11 @@
       "Time": "2023-10-22T11:06:19.8972587+00:00",
       "NumProgressed": 153897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T12:08:08.3207623+00:00",
+      "NumProgressed": 153909,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12701,7 +12706,7 @@
       "Name": "Shapely",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -12811,9 +12816,9 @@
       "ID": "MISC_ACTIVATEALLBEACONS",
       "SetID": "ccc0dlh",
       "Name": "All-Seeing",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 616
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -12829,7 +12834,7 @@
       "Name": "Predator",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -12972,21 +12977,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153480,
+      "Progressed": 153492,
       "Completed": 1169
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153897,
+      "Progressed": 153909,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:06:19.8972583+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:08:08.3207618+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:39.6083968+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:06:19.897363+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:32.7328751+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:08:08.320893+00:00"
 }

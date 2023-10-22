@@ -1932,9 +1932,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14869,
+  "EOS_Progressed": 14870,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14457,6 +14457,11 @@
       "Time": "2023-10-22T11:09:36.0098157+00:00",
       "NumProgressed": 14869,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T12:10:12.4544971+00:00",
+      "NumProgressed": 14870,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14522,9 +14527,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -15882,9 +15887,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -16146,9 +16151,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -17203,21 +17208,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14869,
+      "Progressed": 14870,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14869,
+      "Progressed": 14870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-22T09:59:37.3953785+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:09:36.0098152+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:10:12.4544966+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:28.8792785+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:09:36.0110897+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:00:54.1797224+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:10:12.4558572+00:00"
 }

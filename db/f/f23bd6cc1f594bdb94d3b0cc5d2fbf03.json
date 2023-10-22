@@ -4,7 +4,7 @@
   "ProductSlug": "3d-chess-online-615201",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-26T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:59.5178474+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:18.3049869+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:59:44.4035326+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:03:46.6250601+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:01:12.7716009+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:04:33.734378+00:00"
 }

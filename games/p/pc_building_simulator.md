@@ -6,41 +6,41 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,750,153 |
-| Easy to forget | 46.00% | ~1,643,001 |
-| Back in the black | 39.00% | ~1,392,979 |
-| That's what I'm talking about | 29.00% | ~1,035,805 |
-| The Best of Both Worlds | 25.00% | ~892,935 |
-| Get your wings | 20.00% | ~714,348 |
-| Double trouble | 16.00% | ~571,479 |
-| Smashing it | 11.00% | ~392,892 |
-| But can it run Crysis? | 9.00% | ~321,457 |
-| My favourite feature... | 9.00% | ~321,457 |
-| From humble beginnings... | 7.00% | ~250,022 |
-| Customer satisfaction | 7.00% | ~250,022 |
+| You need to plug it in... | 49.00% | ~1,750,163 |
+| Easy to forget | 46.00% | ~1,643,011 |
+| Back in the black | 39.00% | ~1,392,987 |
+| That's what I'm talking about | 29.00% | ~1,035,811 |
+| The Best of Both Worlds | 25.00% | ~892,940 |
+| Get your wings | 20.00% | ~714,352 |
+| Double trouble | 16.00% | ~571,482 |
+| Smashing it | 11.00% | ~392,894 |
+| But can it run Crysis? | 9.00% | ~321,459 |
+| My favourite feature... | 9.00% | ~321,459 |
+| From humble beginnings... | 7.00% | ~250,023 |
+| Customer satisfaction | 7.00% | ~250,023 |
 | Keeping things neat | 4.00% | ~142,870 |
 | Seems you're pretty good at this | 4.00% | ~142,870 |
 | Bending over backwards | 4.00% | ~142,870 |
-| Triple threat | 3.00% | ~107,152 |
-| You rock at this! | 3.00% | ~107,152 |
-| Your music sucks | 3.00% | ~107,152 |
+| Triple threat | 3.00% | ~107,153 |
+| You rock at this! | 3.00% | ~107,153 |
+| Your music sucks | 3.00% | ~107,153 |
 | I'm broke, Uncle! | 2.00% | ~71,435 |
 | Maybe you should try something else? | 2.00% | ~71,435 |
 | Taking care of business | 2.00% | ~71,435 |
 | Things are under control | 2.00% | ~71,435 |
 | Perfection | 2.00% | ~71,435 |
 | Calling in Sick | 2.00% | ~71,435 |
-| Overvolted | 1.00% | ~35,717 |
-| If you fail the first time... | 1.00% | ~35,717 |
-| Amazonian | 1.00% | ~35,717 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,717 |
-| Building isn't cheap! | 1.00% | ~35,717 |
-| Majority Shareholder | 1.00% | ~35,717 |
-| Owner | 1.00% | ~35,717 |
+| Overvolted | 1.00% | ~35,718 |
+| If you fail the first time... | 1.00% | ~35,718 |
+| Amazonian | 1.00% | ~35,718 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,718 |
+| Building isn't cheap! | 1.00% | ~35,718 |
+| Majority Shareholder | 1.00% | ~35,718 |
+| Owner | 1.00% | ~35,718 |
 | Show off | 0.90% | ~32,146 |
 | Work ethic 101 | 0.70% | ~25,002 |
-| Building momentum | 0.60% | ~21,430 |
-| Lead by example | 0.60% | ~21,430 |
+| Building momentum | 0.60% | ~21,431 |
+| Lead by example | 0.60% | ~21,431 |
 | Treat yourself - RAM | 0.50% | ~17,859 |
 | Mr big business | 0.40% | ~14,287 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,715 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,715 |
 | Customer's ALWAYS right. | 0.30% | ~10,715 |
 | Treat yourself - CPU | 0.30% | ~10,715 |
-| 1920x1080 | 0.20% | ~7,143 |
-| Blow 'em away | 0.20% | ~7,143 |
+| 1920x1080 | 0.20% | ~7,144 |
+| Blow 'em away | 0.20% | ~7,144 |
 | Hasta La Vista, Baby. | 0.10% | ~3,572 |
 | Wow to build a PC! | 0.10% | ~3,572 |
 | Hoarder | 0.10% | ~3,572 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,572 |
 | Treat yourself - GPU | 0.10% | ~3,572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,571,741 (Ranked 5)  
+Progressed: 3,571,762 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,14 +244,14 @@ Completed: 36 (0.00%) (Ranked 318)
 | 2023-10-19 | 3,570,886 | 36 |
 | 2023-10-20 | 3,571,206 | 36 |
 | 2023-10-21 | 3,571,580 | 36 |
-| 2023-10-22 | 3,571,741 | 36 |
+| 2023-10-22 | 3,571,762 | 36 |
 ## Awards
-Max (Great for Beginners): 1,087  (Ranked 141)  
-Sum: 8,074 (Ranked 102)  
+Max (Great for Beginners): 1,088  (Ranked 141)  
+Sum: 8,075 (Ranked 102)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,087 |
+| This game is Great for Beginners | 1,088 |
 | This game is Educational | 1,004 |
 | This game is Extremely Fun | 1,001 |
 | This game is Relaxing | 989 |
@@ -498,4 +498,4 @@ Diff (max vs sum): 39
 | 2023-10-17 | 4.65 | - | 1,085 | 8,069 |
 | 2023-10-18 | 4.65 | - | 1,086 | 8,071 |
 | 2023-10-20 | 4.65 | - | 1,087 | 8,073 |
-| 2023-10-22 | 4.65 | - | 1,087 | 8,074 |
+| 2023-10-22 | 4.65 | - | 1,088 | 8,075 |

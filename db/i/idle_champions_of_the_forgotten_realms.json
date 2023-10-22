@@ -7519,9 +7519,9 @@
       "Count": 3477
     }
   ],
-  "EOS_Progressed": 232530,
+  "EOS_Progressed": 232537,
   "EOS_Completed": 2378,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28164,6 +28164,11 @@
       "Time": "2023-10-22T11:05:20.6420021+00:00",
       "NumProgressed": 232530,
       "NumCompleted": 2378
+    },
+    {
+      "Time": "2023-10-22T12:06:43.2187779+00:00",
+      "NumProgressed": 232537,
+      "NumCompleted": 2378
     }
   ],
   "TotalAchievements": 528,
@@ -31317,9 +31322,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 698
     },
     {
       "ID": "objective_completed_70",
@@ -32398,21 +32403,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198804,
+      "Progressed": 198811,
       "Completed": 3669
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232530,
+      "Progressed": 232537,
       "Completed": 2378
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-22T02:18:14.9533652+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:05:20.6420017+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:06:43.2187776+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:58:49.8410885+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:05:20.6448243+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:59:48.1580325+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:06:43.2221309+00:00"
 }

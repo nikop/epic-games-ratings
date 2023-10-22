@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -504,9 +504,9 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BILLY_GOAT_1",
@@ -688,9 +688,9 @@
       "ID": "DIE_1",
       "SetID": "9gfkh7c",
       "Name": "Catch the bus with me!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DODGE_1",
@@ -704,9 +704,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DODGE_3",
@@ -744,9 +744,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ENEMIES_2",
@@ -888,9 +888,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ITEM_2",
@@ -936,9 +936,9 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "JUMP_3",
@@ -952,9 +952,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVELUP_1",
@@ -992,17 +992,17 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MOUNT_1",
@@ -1096,9 +1096,9 @@
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -1151,8 +1151,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-10-22T11:08:06.0355701+00:00",
+  "LastChanged_Achievements": "2023-10-22T12:08:45.6365011+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:05.5775878+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:57:53.8431296+00:00",
-  "LastUpdate_Achievements": "2023-10-22T11:08:06.035662+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:58:24.1203778+00:00",
+  "LastUpdate_Achievements": "2023-10-22T12:08:45.6366239+00:00"
 }
