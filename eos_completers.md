@@ -2,11 +2,11 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
+| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.95% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.79% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.76% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -26,7 +26,7 @@
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 25 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 12.50% |
 | 25 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 12.50% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
+| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.31% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.49% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -60,26 +60,26 @@
 | 58 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.63% |
 | 59 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 60 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
-| 61 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 5.00% |
 | 61 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.00% |
-| 63 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
-| 64 | [JARS](games/j/jars.md) | 4.82% |
-| 65 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
+| 63 | [JARS](games/j/jars.md) | 4.82% |
+| 64 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 65 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.76% |
 | 66 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 67 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.69% |
 | 68 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.55% |
 | 68 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 70 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 71 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
-| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.24% |
+| 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.25% |
 | 73 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
 | 74 | [The Bunker](games/t/the_bunker.md) | 4.03% |
 | 75 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
 | 76 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.98% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 78 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
-| 79 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.64% |
-| 80 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.61% |
+| 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.70% |
+| 80 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.64% |
 | 81 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 82 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -111,7 +111,7 @@
 | 109 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 110 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.39% |
 | 111 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.25% |
-| 112 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.20% |
+| 112 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.19% |
 | 113 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 114 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 115 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
@@ -125,7 +125,7 @@
 | 123 | [Somerville](games/s/somerville.md) | 1.70% |
 | 124 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.62% |
 | 125 | [Five Dates](games/f/five_dates.md) | 1.57% |
-| 126 | [Late Shift](games/l/late_shift.md) | 1.51% |
+| 126 | [Late Shift](games/l/late_shift.md) | 1.50% |
 | 127 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 127 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 129 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
@@ -138,9 +138,9 @@
 | 136 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.29% |
 | 137 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
 | 138 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.11% |
-| 140 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.10% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 139 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.10% |
+| 139 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
+| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
 | 142 | [Adios](games/a/adios.md) | 1.05% |
 | 142 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.05% |
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
