@@ -11,7 +11,7 @@
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 100,310 | 4.64 | 326 |
 | 10 | [VALORANT](games/v/valorant.md) | 76,606 | 4.53 | 527 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,456 | 4.58 | 439 |
-| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,184 | 4.61 | 376 |
+| 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,313 | 4.61 | 376 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,135 | 4.74 | 151 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,565 | 4.49 | 594 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 34,341 | 4.51 | 555 |
@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,370 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,848 | 4.60 | 403 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,913 | 4.21 | 881 |
-| 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 16,688 | 4.74 | 151 |
+| 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 16,818 | 4.74 | 151 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,650 | 4.76 | 121 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,549 | 4.58 | 439 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,395 | 4.60 | 403 |
@@ -62,7 +62,7 @@
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,302 | 4.75 | 140 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,060 | 4.79 | 92 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,984 | 4.64 | 326 |
-| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,943 | 4.82 | 62 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,947 | 4.82 | 62 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,928 | 4.66 | 285 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,850 | 4.66 | 285 |
 | 66 | [Prey](games/p/prey.md) | 5,742 | 4.62 | 357 |
@@ -118,8 +118,8 @@
 | 116 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,795 | 4.63 | 339 |
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,793 | 4.50 | 576 |
 | 118 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,788 | 4.57 | 459 |
-| 119 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,726 | 4.76 | 121 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,725 | 4.82 | 62 |
+| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,730 | 4.82 | 62 |
+| 120 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,726 | 4.76 | 121 |
 | 121 | [Celeste](games/c/celeste.md) | 1,665 | 4.92 | 4 |
 | 122 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,590 | 4.78 | 100 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,577 | 4.55 | 494 |
@@ -188,7 +188,7 @@
 | 186 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 648 | 4.50 | 576 |
 | 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 622 | 4.73 | 167 |
 | 188 | [Dark Deity](games/d/dark_deity.md) | 618 | 4.16 | 918 |
-| 189 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 615 | 4.63 | 339 |
+| 189 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 616 | 4.63 | 339 |
 | 190 | [Star Trek Online](games/s/star_trek_online.md) | 593 | 4.44 | 662 |
 | 191 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 592 | 4.39 | 735 |
 | 192 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 589 | 4.62 | 357 |
@@ -202,9 +202,9 @@
 | 200 | [Prison Architect](games/p/prison_architect.md) | 534 | 4.61 | 376 |
 | 201 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 524 | 4.86 | 28 |
 | 202 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 515 |
+| 203 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 509 | 3.94 | 988 |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 509 | 4.72 | 180 |
 | 203 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 509 | 4.60 | 403 |
-| 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 505 | 3.94 | 988 |
 | 206 | [Surviving Mars](games/s/surviving_mars.md) | 494 | 4.60 | 403 |
 | 207 | [Second Extinction™](games/s/second_extinction™.md) | 475 | 4.05 | 964 |
 | 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 473 | 4.40 | 725 |

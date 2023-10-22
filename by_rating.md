@@ -63,8 +63,8 @@
 | 56 | [WarmSnow](games/w/warmsnow.md) | 4.83 | 0 | 538 |
 | 62 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 538 |
 | 62 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 436 | 213 |
-| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,725 | 120 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,943 | 63 |
+| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,730 | 119 |
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,947 | 63 |
 | 62 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 538 |
 | 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 464 |
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 796 | 166 |
@@ -130,7 +130,7 @@
 | 121 | [Journey](games/j/journey.md) | 4.76 | 0 | 538 |
 | 121 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 538 |
 | 121 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 538 |
-| 121 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,726 | 119 |
+| 121 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,726 | 120 |
 | 121 | [Quake](games/q/quake.md) | 4.76 | 49 | 422 |
 | 121 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,870 | 114 |
 | 121 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,488 | 37 |
@@ -153,7 +153,7 @@
 | 151 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 538 |
 | 151 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 538 |
 | 151 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 825 | 161 |
-| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 16,688 | 24 |
+| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 16,818 | 24 |
 | 151 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 718 | 176 |
 | 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 538 |
 | 151 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,260 | 52 |
@@ -346,7 +346,7 @@
 | 339 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 538 |
 | 339 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 538 |
 | 339 | [GigaBash](games/g/gigabash.md) | 4.63 | 0 | 538 |
-| 339 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 615 | 189 |
+| 339 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 616 | 189 |
 | 339 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 538 |
 | 339 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 538 |
 | 339 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 185 | 286 |
@@ -383,7 +383,7 @@
 | 376 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.61 | 0 | 538 |
 | 376 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 820 | 164 |
 | 376 | [Darkwood](games/d/darkwood.md) | 4.61 | 327 | 238 |
-| 376 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 47,184 | 12 |
+| 376 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 47,313 | 12 |
 | 376 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 538 |
 | 376 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 538 |
 | 376 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 538 |
@@ -987,7 +987,7 @@
 | 985 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.96 | 0 | 538 |
 | 986 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 431 |
 | 986 | [Ironcast](games/i/ironcast.md) | 3.95 | 0 | 538 |
-| 988 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 505 | 205 |
+| 988 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 509 | 203 |
 | 988 | [Patron](games/p/patron.md) | 3.94 | 0 | 538 |
 | 990 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 482 |
 | 990 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 538 |
