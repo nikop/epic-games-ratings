@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.26% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.21% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.10% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.20% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,8 +49,8 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.52% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 6.95% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.73% |
+| 50 | [Scorn](games/s/scorn.md) | 6.94% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.71% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 54 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -147,15 +147,15 @@
 | 144 | [Trifox](games/t/trifox.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
 | 147 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
-| 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.98% |
+| 148 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
 | 149 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 149 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 151 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
 | 151 | [Hades](games/h/hades.md) | 0.91% |
 | 153 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 154 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 155 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.81% |
-| 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 155 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 155 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.80% |
 | 157 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 157 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
@@ -188,9 +188,9 @@
 | 183 | [The Devil's Face](games/t/the_devil's_face.md) | 0.46% |
 | 187 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 187 | [Tchia](games/t/tchia.md) | 0.45% |
-| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.44% |
-| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 190 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
+| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
+| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.43% |
 | 192 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 193 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 193 | [Them and Us](games/t/them_and_us.md) | 0.40% |
