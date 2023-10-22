@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.10% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.02% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.97% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -115,11 +115,11 @@
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.06% |
 | 114 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 115 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
-| 116 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.89% |
+| 116 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.88% |
 | 117 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 118 | [Sifu](games/s/sifu.md) | 1.81% |
-| 119 | [Night Book](games/n/night_book.md) | 1.80% |
-| 120 | [Frogun](games/f/frogun.md) | 1.79% |
+| 119 | [Frogun](games/f/frogun.md) | 1.79% |
+| 119 | [Night Book](games/n/night_book.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 122 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.72% |
 | 123 | [Somerville](games/s/somerville.md) | 1.70% |
@@ -157,9 +157,9 @@
 | 155 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.79% |
-| 158 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
-| 160 | [Eternights](games/e/eternights.md) | 0.74% |
+| 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
+| 159 | [Eternights](games/e/eternights.md) | 0.74% |
 | 161 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 162 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
@@ -177,9 +177,9 @@
 | 175 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 177 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.53% |
 | 177 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 180 | [Dead Space](games/d/dead_space.md) | 0.52% |
+| 179 | [Dead Space](games/d/dead_space.md) | 0.52% |
+| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.52% |
 | 181 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 183 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
@@ -198,10 +198,10 @@
 | 196 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 196 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 198 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 199 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 199 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 199 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.37% |
-| 201 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 201 | [The Surge](games/t/the_surge.md) | 0.36% |
+| 202 | [The Surge](games/t/the_surge.md) | 0.36% |
 | 203 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 204 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 205 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
