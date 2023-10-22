@@ -6,9 +6,9 @@
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,11 +413,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22557,
+  "EOS_Progressed": 22560,
   "EOS_Completed": 441,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 1.96,
+  "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -20248,6 +20248,11 @@
       "Time": "2023-10-22T04:05:07.0852774+00:00",
       "NumProgressed": 22557,
       "NumCompleted": 441
+    },
+    {
+      "Time": "2023-10-22T05:05:37.6642062+00:00",
+      "NumProgressed": 22560,
+      "NumCompleted": 441
     }
   ],
   "TotalAchievements": 20,
@@ -20267,7 +20272,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "EAST_FINISHED",
@@ -20291,7 +20296,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20339,7 +20344,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "FOUND_MAMBA",
@@ -20347,7 +20352,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -20355,7 +20360,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -20363,7 +20368,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "GAME_FINISHED",
@@ -20379,7 +20384,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17369
+      "UsersEstimate": 17371
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20387,7 +20392,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6316
+      "UsersEstimate": 6317
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20395,7 +20400,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -20403,7 +20408,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "WEST_FINISHED",
@@ -20411,22 +20416,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22557,
+      "Progressed": 22560,
       "Completed": 441
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:05:07.085277+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:05:37.6642059+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:35.3840838+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:05:07.0854011+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:56.1086254+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:05:37.6643386+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7361,
+  "EOS_Progressed": 7362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4692,6 +4692,11 @@
       "Time": "2023-10-22T04:08:53.297588+00:00",
       "NumProgressed": 7361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T05:09:31.860811+00:00",
+      "NumProgressed": 7362,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5136,7 +5141,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "PlayerKills100",
@@ -5295,7 +5300,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7361,
+      "Progressed": 7362,
       "Completed": 1
     }
   ],
@@ -5303,8 +5308,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:53.2975876+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:31.8608106+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:58:07.1097338+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:53.297739+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:58:25.7242552+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:31.8609315+00:00"
 }

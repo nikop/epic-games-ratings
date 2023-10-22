@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4275,9 +4275,9 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 10967,
+  "EOS_Progressed": 10968,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -16520,6 +16520,11 @@
       "Time": "2023-10-22T04:03:25.5460077+00:00",
       "NumProgressed": 10967,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-22T05:04:04.3501187+00:00",
+      "NumProgressed": 10968,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 15,
@@ -16539,7 +16544,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "Bestest_Friend",
@@ -16547,7 +16552,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5154
+      "UsersEstimate": 5155
     },
     {
       "ID": "Chef_Cook",
@@ -16571,7 +16576,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "Duty_Bound",
@@ -16603,7 +16608,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7677
+      "UsersEstimate": 7678
     },
     {
       "ID": "Miner",
@@ -16619,7 +16624,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7567
+      "UsersEstimate": 7568
     },
     {
       "ID": "Renovator",
@@ -16627,7 +16632,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "Thorn_Cleaner",
@@ -16650,7 +16655,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 10967,
+      "Progressed": 10968,
       "Completed": 262
     }
   ],
@@ -16658,8 +16663,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-21T23:59:22.245828+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:03:25.5460073+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:04:04.3501183+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:09.8759367+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:03:25.5460937+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:28.7918023+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:04:04.3502141+00:00"
 }

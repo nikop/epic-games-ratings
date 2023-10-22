@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1612,
+  "EOS_Progressed": 1613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3292,6 +3292,11 @@
       "Time": "2023-10-22T03:09:28.9309113+00:00",
       "NumProgressed": 1612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T05:09:14.5245876+00:00",
+      "NumProgressed": 1613,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3304,7 +3309,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3318,9 +3323,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 258
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3528,7 +3533,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -3656,7 +3661,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -3695,14 +3700,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1612,
+      "Progressed": 1613,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:36.0816094+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:14.524587+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:20.855332+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:36.0816757+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:40.8691688+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:14.5246528+00:00"
 }

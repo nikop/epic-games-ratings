@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 31.00% | ~281 |
+| Time Heals All Wounds | 31.00% | ~282 |
 | The Mysterious Stranger | 25.00% | ~227 |
 | Rail Rat | 25.00% | ~227 |
 | Immaculate Aim | 22.00% | ~200 |
@@ -24,12 +24,12 @@ Rating: 4.62 (Ranked 357)
 | Like Clockwork | 19.00% | ~173 |
 | The Betrayer | 19.00% | ~173 |
 | Golem Chaser | 19.00% | ~173 |
-| Right On Time | 18.00% | ~163 |
-| The Loose Cannon | 18.00% | ~163 |
-| Check Your Pulse | 18.00% | ~163 |
-| The Family Fortune | 18.00% | ~163 |
-| Street Style | 17.00% | ~154 |
-| The Man Who Shattered Time | 17.00% | ~154 |
+| Right On Time | 18.00% | ~164 |
+| The Loose Cannon | 18.00% | ~164 |
+| Check Your Pulse | 18.00% | ~164 |
+| The Family Fortune | 18.00% | ~164 |
+| Street Style | 17.00% | ~155 |
+| The Man Who Shattered Time | 17.00% | ~155 |
 | Cartographer | 15.00% | ~136 |
 | Treasure Trove | 14.00% | ~127 |
 | Whiz Kid | 14.00% | ~127 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 357)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 908 (Ranked 245)  
+Progressed: 909 (Ranked 245)  
 Completed: 5 (0.55%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 5 (0.55%) (Ranked 174)
 | 2023-10-16 | 906 | 5 |
 | 2023-10-19 | 907 | 5 |
 | 2023-10-20 | 908 | 5 |
+| 2023-10-22 | 909 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

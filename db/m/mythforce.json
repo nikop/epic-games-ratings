@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -760,7 +760,7 @@
   ],
   "EOS_Progressed": 4360,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8063,9 +8063,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 654
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -8095,8 +8095,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:37.551278+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:15.9951278+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:17.8106085+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:37.5513327+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:37.919989+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:15.995189+00:00"
 }

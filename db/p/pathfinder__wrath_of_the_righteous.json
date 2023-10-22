@@ -3,11 +3,11 @@
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 121,
-  "Ranking_Popularity": 119,
+  "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3977,9 +3977,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11682,
+  "EOS_Progressed": 11686,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14022,6 +14022,11 @@
       "Time": "2023-10-22T04:08:52.8799254+00:00",
       "NumProgressed": 11682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T05:09:31.3618008+00:00",
+      "NumProgressed": 11686,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14033,7 +14038,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2922
     },
     {
       "ID": "02_BurningCity",
@@ -14041,7 +14046,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1986
+      "UsersEstimate": 1987
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14121,7 +14126,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "13_PathOfLich",
@@ -14169,7 +14174,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1635
+      "UsersEstimate": 1636
     },
     {
       "ID": "19_EqualToAroden",
@@ -14257,7 +14262,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "31_DivideAndRule",
@@ -14281,7 +14286,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14305,7 +14310,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -14417,7 +14422,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -14960,21 +14965,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10464,
+      "Progressed": 10468,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11682,
+      "Progressed": 11686,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-21T20:58:56.8421589+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:52.879925+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:31.3618005+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:58:36.3563063+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:52.8801527+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:58:55.4287864+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:31.3620287+00:00"
 }

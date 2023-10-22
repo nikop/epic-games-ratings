@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~465 |
 | Seeking Allies | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
+| The Path of Dreams | 0.20% | ~398 |
 | The Mad Wizard | 0.20% | ~465 |
 | Elturel's Last Stand | 0.20% | ~398 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
@@ -370,7 +371,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dream Gauntlet | 0.10% | ~199 |
 | Zombie Dreams | 0.10% | ~199 |
 | Look Out! | 0.10% | ~199 |
-| The Path of Dreams | 0.10% | ~199 |
 | The Path of Redcaps | 0.10% | ~199 |
 | The Path of Trials | 0.10% | ~199 |
 | Bad Odds in Avernus | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Entrance of the Gladiators | 0.10% | ~199 |
 | Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,512 (Ranked 60)  
+Progressed: 232,514 (Ranked 60)  
 Completed: 2,377 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -720,7 +720,7 @@ Completed: 2,377 (1.02%) (Ranked 144)
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
 | 2023-10-21 | 232,492 | 2,377 |
-| 2023-10-22 | 232,512 | 2,377 |
+| 2023-10-22 | 232,514 | 2,377 |
 ## Awards
 Max (Great for Beginners): 5,437  (Ranked 69)  
 Sum: 32,157 (Ranked 41)  

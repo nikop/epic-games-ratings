@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18589,
+  "EOS_Progressed": 18591,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12044,6 +12044,11 @@
       "Time": "2023-10-22T04:04:14.5272811+00:00",
       "NumProgressed": 18589,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T05:04:43.326784+00:00",
+      "NumProgressed": 18591,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12063,7 +12068,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "0003",
@@ -12119,7 +12124,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "0010",
@@ -12143,7 +12148,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "0013",
@@ -12159,7 +12164,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "0015",
@@ -12271,7 +12276,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "0029",
@@ -12342,7 +12347,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18589,
+      "Progressed": 18591,
       "Completed": 4
     }
   ],
@@ -12350,8 +12355,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:04:14.5272807+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:04:43.3267836+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:57:11.8830584+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:04:14.5273796+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:57:33.3408013+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:04:43.3268844+00:00"
 }

@@ -25,8 +25,8 @@
 | Carry his Words | 26.00% | ~34 |
 | Greatest Hits | 25.00% | ~32 |
 | The Other Side | 24.00% | ~31 |
+| Ready for a Fight | 22.00% | ~28 |
 | Shining in the Night | 22.00% | ~28 |
-| Ready for a Fight | 21.00% | ~27 |
 | Talk Show | 21.00% | ~27 |
 | Storm Cloud | 18.00% | ~23 |
 | New York City | 18.00% | ~23 |
@@ -36,10 +36,10 @@
 | Stop Right There | 15.00% | ~19 |
 | Escape its Gravity | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
+| All His Life | 13.00% | ~17 |
 | Bright Falls' Finest | 12.00% | ~15 |
 | Stop the Monster | 12.00% | ~15 |
 | Growing Stronger | 12.00% | ~15 |
-| All His Life | 12.00% | ~15 |
 | Back in Watery | 10.00% | ~13 |
 | In One Go | 10.00% | ~13 |
 | We Watch in the Night | 9.00% | ~12 |
@@ -51,16 +51,16 @@
 | The Trail of the Writer | 6.00% | ~8 |
 | Girl in Love | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
+| The Story Come True | 5.00% | ~6 |
 | The Old Gods | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |
+| End of the Road | 5.00% | ~6 |
 | Behind the Masks | 5.00% | ~6 |
 | The Cult of the Word | 5.00% | ~6 |
 | Coffee-Themed Fun | 5.00% | ~6 |
+| Cut Short | 5.00% | ~6 |
 | All Smiles | 4.00% | ~5 |
-| The Story Come True | 4.00% | ~5 |
-| End of the Road | 4.00% | ~5 |
 | His Way Out | 4.00% | ~5 |
-| Cut Short | 4.00% | ~5 |
 | The Koskela Brothers | 3.00% | ~4 |
 | Rock n' Roll, Baby | 3.00% | ~4 |
 | Shift in Reality | 3.00% | ~4 |

@@ -13,7 +13,7 @@
 | Ka-Ching! | 34.00% | ~34 |
 | Stop Right There | 30.00% | ~30 |
 | Get to the Point | 28.00% | ~28 |
-| Mr. Want It All | 17.00% | ~17 |
+| Mr. Want It All | 18.00% | ~18 |
 | Toe to Toe | 17.00% | ~17 |
 | The Hidden Secret | 16.00% | ~16 |
 | Phew! | 15.00% | ~15 |
@@ -28,11 +28,11 @@
 | The Deep Frozen Conqueror | 6.00% | ~6 |
 | The Infinite Train Conqueror | 6.00% | ~6 |
 | The Paradox Coordinate Conqueror | 6.00% | ~6 |
+| The Inactivated Frozen Conqueror | 6.00% | ~6 |
 | Hell of a Fight | 6.00% | ~6 |
 | Decapitation Strike | 6.00% | ~6 |
 | The Sunken City Conqueror | 5.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~5 |
-| The Inactivated Frozen Conqueror | 5.00% | ~5 |
 | Death Bringer Conqueror | 5.00% | ~5 |
 | Rapidfire | 5.00% | ~5 |
 | Air Interception | 5.00% | ~5 |

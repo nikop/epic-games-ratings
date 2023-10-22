@@ -334,9 +334,9 @@
       "ID": "14",
       "SetID": "b5e4c1b",
       "Name": "Ready for a Fight",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "15",
@@ -534,9 +534,9 @@
       "ID": "37",
       "SetID": "b5e4c1b",
       "Name": "The Story Come True",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "38",
@@ -622,9 +622,9 @@
       "ID": "47",
       "SetID": "b5e4c1b",
       "Name": "End of the Road",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "48",
@@ -662,9 +662,9 @@
       "ID": "51",
       "SetID": "b5e4c1b",
       "Name": "All His Life",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "52",
@@ -798,9 +798,9 @@
       "ID": "7",
       "SetID": "b5e4c1b",
       "Name": "Cut Short",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "8",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:51.0839391+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:29.5838266+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.0925269+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:12.3416844+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:51.0840087+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:31.2692536+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:29.583894+00:00"
 }

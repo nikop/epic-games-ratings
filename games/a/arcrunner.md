@@ -30,7 +30,7 @@
 | Destruction | 0.90% | ~7 |
 | Ripperdoc | 0.50% | ~4 |
 | Hard Boiled | 0.40% | ~3 |
-| Weaponsmith | 0.30% | ~2 |
+| Weaponsmith | 0.40% | ~3 |
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

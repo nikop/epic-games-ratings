@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Stylish | 4.00% | ~1,082 |
 | Advancement | 3.00% | ~811 |
 | Meticulously Efficient | 3.00% | ~811 |
-| Stylish | 3.00% | ~811 |
 | Clutch Capture | 2.00% | ~541 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~541 |
 | Cultured | 2.00% | ~541 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,033 (Ranked 119)  
+Progressed: 27,043 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
-| 2023-10-22 | 27,033 | 60 |
+| 2023-10-22 | 27,043 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
-Sum: 2,465 (Ranked 185)  
+Sum: 2,467 (Ranked 185)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +256,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 244 |
 | This game is Relaxing | 244 |
 | This game has Diverse Characters | 243 |
-| This game is Highly Recommended | 240 |
+| This game is Highly Recommended | 242 |
 | This game has Quickly Understood Controls | 231 |
 | This game has Amazing Characters | 226 |
 | This game has Playful Visuals | 94 |
@@ -452,4 +452,4 @@ Diff (max vs sum): 69
 | 2023-10-19 | 4.50 | 266 | 2,420 |
 | 2023-10-20 | 4.50 | 273 | 2,442 |
 | 2023-10-21 | 4.50 | 273 | 2,464 |
-| 2023-10-22 | 4.50 | 273 | 2,465 |
+| 2023-10-22 | 4.50 | 273 | 2,467 |

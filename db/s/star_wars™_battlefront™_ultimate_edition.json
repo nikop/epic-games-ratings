@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 788,
+  "EOS_Progressed": 789,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -2164,6 +2164,11 @@
       "Time": "2023-10-22T04:08:09.3248501+00:00",
       "NumProgressed": 788,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T05:08:07.5753222+00:00",
+      "NumProgressed": 789,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2400,7 +2405,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "achievement_36",
@@ -2416,7 +2421,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_38",
@@ -2679,13 +2684,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 788,
+      "Progressed": 789,
       "Completed": 1
     }
   ],
@@ -2693,8 +2698,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:09.3248498+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:08:07.5753218+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:58:53.979818+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:09.3249306+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:12.9977947+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:08:07.5754037+00:00"
 }

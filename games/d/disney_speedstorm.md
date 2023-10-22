@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 725)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,258 |
-| IT MAKES BOOM! | 3.00% | ~7,355 |
-| EXTRA BOOST | 2.00% | ~4,903 |
-| PROTECTED | 2.00% | ~4,903 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,452 |
-| AGGRESSIVE RACER | 1.00% | ~2,452 |
-| PRO | 1.00% | ~2,452 |
-| A TIGER'S FEAR | 0.90% | ~2,206 |
+| ROOKIE | 5.00% | ~12,265 |
+| IT MAKES BOOM! | 3.00% | ~7,359 |
+| EXTRA BOOST | 2.00% | ~4,906 |
+| PROTECTED | 2.00% | ~4,906 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,453 |
+| AGGRESSIVE RACER | 1.00% | ~2,453 |
+| PRO | 1.00% | ~2,453 |
+| A TIGER'S FEAR | 0.90% | ~2,208 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,226 |
 | ACE SPEEDSTER | 0.50% | ~1,226 |
 | DEFEAT OUR CHAMPION | 0.40% | ~981 |
-| TRAINING HARD | 0.30% | ~735 |
-| RELEASE THE KRAKEN | 0.30% | ~735 |
-| BE OUR GUEST | 0.30% | ~735 |
-| ACE BRAWLER | 0.30% | ~735 |
-| ACE DEFENDER | 0.30% | ~735 |
-| THE EYE OF THE HUNTER | 0.30% | ~735 |
-| FRIENDLY | 0.30% | ~735 |
-| MASTER | 0.30% | ~735 |
-| LEGENDARY HERO | 0.30% | ~735 |
-| PERFECTLY POISED | 0.20% | ~490 |
-| EXPERIENCED CREW | 0.20% | ~490 |
-| ACE TRICKSTER | 0.20% | ~490 |
+| TRAINING HARD | 0.30% | ~736 |
+| RELEASE THE KRAKEN | 0.30% | ~736 |
+| BE OUR GUEST | 0.30% | ~736 |
+| ACE BRAWLER | 0.30% | ~736 |
+| ACE DEFENDER | 0.30% | ~736 |
+| THE EYE OF THE HUNTER | 0.30% | ~736 |
+| FRIENDLY | 0.30% | ~736 |
+| MASTER | 0.30% | ~736 |
+| LEGENDARY HERO | 0.30% | ~736 |
+| PERFECTLY POISED | 0.20% | ~491 |
+| EXPERIENCED CREW | 0.20% | ~491 |
+| ACE TRICKSTER | 0.20% | ~491 |
 | FRAMED! | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,156 (Ranked 56)  
+Progressed: 245,294 (Ranked 56)  
 Completed: 239 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,11 +211,11 @@ Completed: 239 (0.10%) (Ranked 250)
 | 2023-10-19 | 237,962 | 235 |
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
-| 2023-10-22 | 245,156 | 239 |
+| 2023-10-22 | 245,294 | 239 |
 ## Awards
 Max (Great for Quick Sessions): 33  (Ranked 470)  
-Sum: 136 (Ranked 416)  
-Diff (max vs sum): 54  
+Sum: 136 (Ranked 417)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |

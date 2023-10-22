@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 487,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -208,6 +208,11 @@
       "Time": "2023-10-22T04:05:03.7281013+00:00",
       "NumProgressed": 477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T05:05:31.2487737+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -252,7 +257,7 @@
       "Name": "Blobmeister",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -276,7 +281,7 @@
       "Name": "Pest Control",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -284,7 +289,7 @@
       "Name": "Team Builder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -300,15 +305,15 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -316,7 +321,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -332,7 +337,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -364,7 +369,7 @@
       "Name": "Hoarder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -396,7 +401,7 @@
       "Name": "Long Live Rock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -420,7 +425,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -459,13 +464,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 487,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:05:03.7281009+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:05:31.2487733+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:57:52.7315209+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:05:03.728121+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:58:14.2886063+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:05:31.2487973+00:00"
 }

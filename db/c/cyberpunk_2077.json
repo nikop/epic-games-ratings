@@ -13866,10 +13866,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 318587,
       "NumberOfAwardsMax": 100310
+    },
+    {
+      "Time": "2023-10-22T04:58:46.1436698+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 318773,
+      "NumberOfAwardsMax": 100310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 318587,
+  "NumberOfAwards": 318773,
   "NumberOfAwardsMax": 100310,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13895,7 +13901,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 16054
+      "Count": 16240
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13946,9 +13952,9 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893196,
+  "EOS_Progressed": 893200,
   "EOS_Completed": 2695,
-  "EOS_NewPlayers": 1353,
+  "EOS_NewPlayers": 1344,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34851,6 +34857,11 @@
       "Time": "2023-10-22T04:04:45.3472323+00:00",
       "NumProgressed": 893196,
       "NumCompleted": 2695
+    },
+    {
+      "Time": "2023-10-22T05:05:13.5303745+00:00",
+      "NumProgressed": 893200,
+      "NumCompleted": 2695
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34989,9 +35000,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "MustBeTheRats",
@@ -35165,9 +35176,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -35189,9 +35200,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "YipMan",
@@ -35382,21 +35393,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893196,
+      "Progressed": 893200,
       "Completed": 2695
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21819,
+      "Progressed": 21823,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-22T02:18:16.9664556+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:04:45.3472318+00:00",
+  "LastChanged": "2023-10-22T04:58:46.1436697+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:05:13.5303741+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:58:27.7196062+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:04:45.3474005+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:58:46.1436704+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:05:13.5305567+00:00"
 }

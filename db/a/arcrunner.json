@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1951,9 +1951,9 @@
       "ID": "ACHV_WEAPONSMITH",
       "SetID": "cceobco",
       "Name": "Weaponsmith",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHV_HELLRAISER",
@@ -1982,8 +1982,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:04:27.6068356+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:04:56.2431323+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:45.4002512+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:56:56.1540636+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:04:27.606865+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:57:17.8062476+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:04:56.2431639+00:00"
 }

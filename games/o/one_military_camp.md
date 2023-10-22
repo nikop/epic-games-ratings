@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 52.00% | ~95 |
-| The 4 Pillars | 50.00% | ~92 |
-| Capitalism | 21.00% | ~38 |
+| First Step | 52.00% | ~96 |
+| The 4 Pillars | 49.00% | ~90 |
+| Capitalism | 21.00% | ~39 |
 | There's something in those trees | 11.00% | ~20 |
 | Indebted | 11.00% | ~20 |
 | Great Producer | 11.00% | ~20 |
 | Green Energy | 11.00% | ~20 |
 | Desert Power | 10.00% | ~18 |
-| Desert Rat | 9.00% | ~16 |
+| Desert Rat | 9.00% | ~17 |
 | Perfect Soldier | 8.00% | ~15 |
 | Health Care | 8.00% | ~15 |
 | Ammo Tycoon | 8.00% | ~15 |
@@ -28,9 +28,9 @@
 | Medicine Tycoon | 5.00% | ~9 |
 | Supersoldier | 4.00% | ~7 |
 | Outdoor Decorator | 4.00% | ~7 |
-| Tear Down the Wall! | 3.00% | ~5 |
-| Human Resources | 3.00% | ~5 |
-| Training Camp | 3.00% | ~5 |
+| Tear Down the Wall! | 3.00% | ~6 |
+| Human Resources | 3.00% | ~6 |
+| Training Camp | 3.00% | ~6 |
 | Economist | 2.00% | ~4 |
 | Crisis Committee | 2.00% | ~4 |
 | Vive le Résistance | 2.00% | ~4 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 353)  
+Progressed: 184 (Ranked 353)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,3 +108,4 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-12 | 181 | 0 |
 | 2023-10-17 | 182 | 0 |
 | 2023-10-20 | 183 | 0 |
+| 2023-10-22 | 184 | 0 |

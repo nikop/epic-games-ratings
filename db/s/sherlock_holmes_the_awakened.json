@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.68,
   "EosHistory": [
@@ -2619,6 +2619,11 @@
       "Time": "2023-10-22T01:50:47.850108+00:00",
       "NumProgressed": 706,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-22T05:03:54.3034378+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2630,7 +2635,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "MQ01_2",
@@ -2638,7 +2643,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MQ02_1",
@@ -2670,7 +2675,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MQ03_1",
@@ -2678,7 +2683,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ03_2",
@@ -2694,7 +2699,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "MQ03_4",
@@ -2710,7 +2715,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MQ04_1",
@@ -2718,7 +2723,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "MQ04_2",
@@ -2726,7 +2731,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MQ04_3",
@@ -2774,7 +2779,7 @@
       "Name": "Brain Food",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MQ06_2",
@@ -2806,7 +2811,7 @@
       "Name": "Read It And Weep",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MQ07_2",
@@ -2820,9 +2825,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "MQ08_2",
@@ -2853,7 +2858,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 26
     }
   ],
@@ -2861,8 +2866,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:03:15.5632265+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:03:54.3034374+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:57:32.9504214+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:03:15.5632636+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:57:53.6797607+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:03:54.3034726+00:00"
 }

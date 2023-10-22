@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -566,9 +566,9 @@
       "ID": "Achi_08",
       "SetID": "51a97k7",
       "Name": "The Inactivated Frozen Conqueror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_09",
@@ -702,9 +702,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achi_26",
@@ -919,8 +919,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:51.6831074+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:09:30.1599027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:57:19.7642241+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:51.6831536+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:57:39.6790322+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:09:30.1599486+00:00"
 }

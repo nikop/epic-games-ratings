@@ -2300,9 +2300,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 193
     },
     {
       "ID": "AC18",
@@ -2541,8 +2541,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:12.6095141+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:08:10.9943139+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:57:46.6785721+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:12.6095655+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:58:08.3744983+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:08:10.9943672+00:00"
 }

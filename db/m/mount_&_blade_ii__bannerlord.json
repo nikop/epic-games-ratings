@@ -8148,9 +8148,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63698,
+  "EOS_Progressed": 63702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27713,6 +27713,11 @@
       "Time": "2023-10-22T03:07:35.0387854+00:00",
       "NumProgressed": 63698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T05:06:11.8089861+00:00",
+      "NumProgressed": 63702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27948,7 +27953,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21020
+      "UsersEstimate": 21022
     },
     {
       "ID": "Lawbringer",
@@ -27956,7 +27961,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24842
+      "UsersEstimate": 24844
     },
     {
       "ID": "Lawmaker",
@@ -28044,7 +28049,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "Strike",
@@ -28131,15 +28136,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63698,
+      "Progressed": 63702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-21T22:59:17.9089527+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:05:40.7530141+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:06:11.8089858+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:58:57.0164168+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:05:40.7531748+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:59:15.9834764+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:06:11.8091437+00:00"
 }

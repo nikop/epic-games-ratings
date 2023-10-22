@@ -8364,9 +8364,9 @@
       "Count": 953
     }
   ],
-  "EOS_Progressed": 121144,
+  "EOS_Progressed": 121145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27514,6 +27514,11 @@
       "Time": "2023-10-22T04:08:04.514248+00:00",
       "NumProgressed": 121144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T05:08:02.7317924+00:00",
+      "NumProgressed": 121145,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -27525,7 +27530,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 86012
+      "UsersEstimate": 86013
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -27557,7 +27562,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 75109
+      "UsersEstimate": 75110
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -27565,7 +27570,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82378
+      "UsersEstimate": 82379
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -27573,7 +27578,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 81166
+      "UsersEstimate": 81167
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -27581,7 +27586,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 79955
+      "UsersEstimate": 79956
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -27589,7 +27594,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 75109
+      "UsersEstimate": 75110
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -27597,7 +27602,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72686
+      "UsersEstimate": 72687
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -27605,7 +27610,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82378
+      "UsersEstimate": 82379
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -27661,7 +27666,7 @@
       "Name": "Dissector",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "combat_kill_cosmic",
@@ -27797,7 +27802,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20594
+      "UsersEstimate": 20595
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -27821,7 +27826,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72686
+      "UsersEstimate": 72687
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -27845,7 +27850,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72686
+      "UsersEstimate": 72687
     },
     {
       "ID": "driving_distance_easy",
@@ -27893,7 +27898,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83589
+      "UsersEstimate": 83590
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -27917,7 +27922,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112664
+      "UsersEstimate": 112665
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -27933,7 +27938,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 36343
+      "UsersEstimate": 36344
     },
     {
       "ID": "inn_visit_all_variants",
@@ -27981,7 +27986,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 81166
+      "UsersEstimate": 81167
     },
     {
       "ID": "run_victory_act02",
@@ -28044,15 +28049,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 121144,
+      "Progressed": 121145,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-21T21:00:11.6606252+00:00",
-  "LastChanged_Achievements": "2023-10-22T04:08:04.5142473+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:08:02.7317919+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:18.3277019+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:59:44.9875126+00:00",
-  "LastUpdate_Achievements": "2023-10-22T04:08:04.5144818+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:00:03.6687649+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:08:02.7319708+00:00"
 }

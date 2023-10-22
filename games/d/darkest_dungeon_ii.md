@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~112,664 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~86,012 |
-| A Clear Conscience | 69.00% | ~83,589 |
-| Unleash Hell | 68.00% | ~82,378 |
-| Unfulfilled Desires | 68.00% | ~82,378 |
-| Funny Guy | 67.00% | ~81,166 |
-| Unshackled | 67.00% | ~81,166 |
-| Long Live the King | 66.00% | ~79,955 |
-| Resurrection | 62.00% | ~75,109 |
-| Wyrdly Reconstructed | 62.00% | ~75,109 |
-| Boxcar Kid | 60.00% | ~72,686 |
-| Rush Hour | 60.00% | ~72,686 |
-| To Grandmother's House | 60.00% | ~72,686 |
+| A Place to Lay Your Head | 93.00% | ~112,665 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~86,013 |
+| A Clear Conscience | 69.00% | ~83,590 |
+| Unleash Hell | 68.00% | ~82,379 |
+| Unfulfilled Desires | 68.00% | ~82,379 |
+| Funny Guy | 67.00% | ~81,167 |
+| Unshackled | 67.00% | ~81,167 |
+| Long Live the King | 66.00% | ~79,956 |
+| Resurrection | 62.00% | ~75,110 |
+| Wyrdly Reconstructed | 62.00% | ~75,110 |
+| Boxcar Kid | 60.00% | ~72,687 |
+| Rush Hour | 60.00% | ~72,687 |
+| To Grandmother's House | 60.00% | ~72,687 |
 | Serenity Now! | 54.00% | ~65,418 |
 | Hope Rekindled | 50.00% | ~60,572 |
 | Ramble On | 49.00% | ~59,361 |
@@ -32,7 +32,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Overdue Notice | 32.00% | ~38,766 |
 | Whale | 32.00% | ~38,766 |
 | Banishment | 31.00% | ~37,555 |
-| FNG | 30.00% | ~36,343 |
+| FNG | 30.00% | ~36,344 |
 | Predator | 25.00% | ~30,286 |
 | Reverse Banditry | 25.00% | ~30,286 |
 | Autodidact | 25.00% | ~30,286 |
@@ -42,8 +42,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 21.00% | ~25,440 |
 | It Rings a Bell | 20.00% | ~24,229 |
 | Escape from the Black Hole | 18.00% | ~21,806 |
-| Dissector | 17.00% | ~20,594 |
-| It Happens | 17.00% | ~20,594 |
+| Dissector | 17.00% | ~20,595 |
+| It Happens | 17.00% | ~20,595 |
 | This Belongs in a Museum | 16.00% | ~19,383 |
 | Handled | 16.00% | ~19,383 |
 | Catch and Decease | 14.00% | ~16,960 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~121 |
 | No Gravestone Left Unturned | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,144 (Ranked 79)  
+Progressed: 121,145 (Ranked 79)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-19 | 120,929 | 1 |
 | 2023-10-20 | 121,019 | 1 |
 | 2023-10-21 | 121,129 | 1 |
-| 2023-10-22 | 121,144 | 1 |
+| 2023-10-22 | 121,145 | 1 |
 ## Awards
 Max (Character Customization): 7,468  (Ranked 51)  
 Sum: 19,577 (Ranked 57)  

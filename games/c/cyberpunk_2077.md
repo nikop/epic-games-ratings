@@ -11,13 +11,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.20% | ~1,786 |
 | Right Back At Ya | 0.20% | ~1,786 |
 | Gunslinger | 0.20% | ~1,786 |
+| The Quick and the Dead | 0.20% | ~1,786 |
 | Stanislavski's Method | 0.20% | ~1,786 |
 | The Hermit | 0.20% | ~1,786 |
 | The High Priestess | 0.20% | ~1,786 |
 | The Wheel of Fortune | 0.20% | ~1,786 |
 | The Jungle | 0.20% | ~1,786 |
 | True Soldier | 0.20% | ~1,786 |
+| True Warrior | 0.20% | ~1,786 |
 | Two Heads, One Bullet | 0.20% | ~1,786 |
+| V for Vendetta | 0.20% | ~1,786 |
 | Legend of The Afterlife | 0.20% | ~1,786 |
 | All the President's Men | 0.20% | ~44 |
 | Arachnophobia | 0.20% | ~44 |
@@ -34,7 +37,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Mean Streets | 0.10% | ~893 |
 | Little Tokyo | 0.10% | ~893 |
 | Christmas Tree Attack | 0.10% | ~893 |
-| The Quick and the Dead | 0.10% | ~893 |
 | Must Be Rats | 0.10% | ~893 |
 | Breathtaking | 0.10% | ~893 |
 | The Wasteland | 0.10% | ~893 |
@@ -48,9 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~893 |
 | The World | 0.10% | ~893 |
 | Greetings from Pacifica! | 0.10% | ~893 |
-| True Warrior | 0.10% | ~893 |
 | Judy vs Night City | 0.10% | ~893 |
-| V for Vendetta | 0.10% | ~893 |
 | It's Elementary | 0.10% | ~893 |
 | The APB is Not Enough | 0.10% | ~22 |
 | Spin Doctor | 0.10% | ~22 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,196 (Ranked 15)  
+Progressed: 893,200 (Ranked 15)  
 Completed: 2,695 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 2,695 (0.30%) (Ranked 208)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,196 | 2,695 |
+| 2023-10-22 | 893,200 | 2,695 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
-Sum: 318,587 (Ranked 11)  
+Sum: 318,773 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -272,8 +272,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 17,049 |
 | This game is Extremely Fun | 16,793 |
 | This game has Amazing Characters | 16,760 |
+| This game is Relaxing | 16,240 |
 | This game has Quickly Understood Controls | 16,192 |
-| This game is Relaxing | 16,054 |
 | This game has a Creative Community | 11,123 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -554,4 +554,4 @@ Diff (max vs sum): -2
 | 2023-10-19 | 4.64 | - | 99,621 | 313,301 |
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
-| 2023-10-22 | 4.64 | - | 100,310 | 318,587 |
+| 2023-10-22 | 4.64 | - | 100,310 | 318,773 |

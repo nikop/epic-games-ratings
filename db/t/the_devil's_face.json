@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 434,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1874,6 +1874,11 @@
       "Time": "2023-10-22T01:54:38.7242547+00:00",
       "NumProgressed": 431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T05:03:24.6831466+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1885,15 +1890,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 135
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1931,9 +1936,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1949,7 +1954,7 @@
       "Name": "This looks really bad",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1957,7 +1962,7 @@
       "Name": "Unholy lands",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1996,14 +2001,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 434,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:08:41.4032435+00:00",
+  "LastChanged_Achievements": "2023-10-22T05:03:24.6831451+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:00:18.1197256+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:08:41.4032604+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:00:35.7316792+00:00",
+  "LastUpdate_Achievements": "2023-10-22T05:03:24.6853218+00:00"
 }
