@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.26% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.32% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.30% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -170,12 +170,12 @@
 | 167 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 170 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
+| 170 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
 | 170 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
 | 170 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 174 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.55% |
+| 176 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.54% |
 | 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 177 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 179 | [Dead Space](games/d/dead_space.md) | 0.52% |
