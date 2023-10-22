@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -2817,9 +2817,9 @@
       "ID": "ACHV_09",
       "SetID": "8p5mlmc",
       "Name": "Bad Dog",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHV_10",
@@ -3218,8 +3218,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:07:58.6378995+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:07:48.4217722+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:11.9883876+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:58:06.5881146+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:07:58.6380103+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:58:10.3872012+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:07:48.421827+00:00"
 }

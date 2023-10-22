@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3765,
+  "EOS_Progressed": 3766,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7389,6 +7389,11 @@
       "Time": "2023-10-22T07:03:58.9646544+00:00",
       "NumProgressed": 3765,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-22T18:04:25.1968648+00:00",
+      "NumProgressed": 3766,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7400,15 +7405,15 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 828
+      "UsersEstimate": 866
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7478,9 +7483,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1732
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7536,7 +7541,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7552,7 +7557,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7560,7 +7565,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7592,7 +7597,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7600,7 +7605,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7632,7 +7637,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7656,7 +7661,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7920,7 +7925,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -7928,7 +7933,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -7967,13 +7972,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3716,
+      "Progressed": 3717,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3765,
+      "Progressed": 3766,
       "Completed": 11
     }
   ],
@@ -7981,8 +7986,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:04:22.3096798+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:04:25.1968643+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:03:18.5653257+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:04:22.3098591+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:03:14.5440414+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:04:25.1969532+00:00"
 }

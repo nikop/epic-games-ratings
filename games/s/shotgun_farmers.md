@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 80.00% | ~254 |
-| First Blood | 61.00% | ~194 |
+| First Blood | 62.00% | ~197 |
 | Triple Kill | 60.00% | ~191 |
 | Aspairagus | 60.00% | ~161 |
 | No Asperascope | 57.00% | ~181 |
@@ -36,7 +36,7 @@
 | Quadsparagus | 10.00% | ~27 |
 | Bring Home The Bacon | 9.00% | ~29 |
 | Expert Survivor | 9.00% | ~24 |
-| Early Bird | 6.00% | ~19 |
+| Early Bird | 7.00% | ~22 |
 | Pyromaniac | 6.00% | ~16 |
 | Chick Magnet | 5.00% | ~16 |
 | I Have The High Ground | 5.00% | ~16 |

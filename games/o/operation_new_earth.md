@@ -1,13 +1,13 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.38 (Ranked 1,020)  
+Rating: 3.38 (Ranked 1,021)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 28.00% | ~462 |
 | Defenses Online | 26.00% | ~429 |
-| Facility Online | 21.00% | ~346 |
+| Facility Online | 21.00% | ~347 |
 | Corporal | 15.00% | ~248 |
 | Sergeant | 12.00% | ~198 |
 | Covert Operative | 12.00% | ~198 |
@@ -16,16 +16,16 @@ Rating: 3.38 (Ranked 1,020)
 | Getting Deployment | 10.00% | ~165 |
 | On Target | 10.00% | ~165 |
 | Infantry Reporting | 10.00% | ~165 |
-| Stocking Up | 9.00% | ~148 |
+| Stocking Up | 9.00% | ~149 |
 | Fighting for Survival | 8.00% | ~132 |
 | Silver Competitor | 8.00% | ~132 |
 | Captain | 8.00% | ~132 |
 | Factory Expansion | 8.00% | ~132 |
 | Exterminator | 7.00% | ~116 |
 | Brothers in Arms | 6.00% | ~99 |
-| Know The Enemy | 5.00% | ~82 |
-| Silver Achiever | 5.00% | ~82 |
-| Moving On Up | 5.00% | ~82 |
+| Know The Enemy | 5.00% | ~83 |
+| Silver Achiever | 5.00% | ~83 |
+| Moving On Up | 5.00% | ~83 |
 | Player Betrayer | 4.00% | ~66 |
 | Major | 4.00% | ~66 |
 | Gold Achiever | 3.00% | ~50 |
@@ -35,16 +35,16 @@ Rating: 3.38 (Ranked 1,020)
 | Seek & Destroy | 2.00% | ~33 |
 | Battle Ready | 2.00% | ~33 |
 | Control the Skies | 2.00% | ~33 |
-| General | 1.00% | ~16 |
-| Titan Tanks | 1.00% | ~16 |
-| Shock Troops | 1.00% | ~16 |
+| General | 1.00% | ~17 |
+| Titan Tanks | 1.00% | ~17 |
+| Shock Troops | 1.00% | ~17 |
 | Advanced Interceptors | 0.80% | ~13 |
 | Jet Troops | 0.70% | ~12 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,650 (Ranked 215)  
+Progressed: 1,651 (Ranked 215)  
 Completed: 1 (0.06%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.06%) (Ranked 271)
 | 2023-10-19 | 1,628 | 1 |
 | 2023-10-20 | 1,632 | 1 |
 | 2023-10-21 | 1,643 | 1 |
-| 2023-10-22 | 1,650 | 1 |
+| 2023-10-22 | 1,651 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

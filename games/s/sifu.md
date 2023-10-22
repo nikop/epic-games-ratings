@@ -14,6 +14,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.40% | ~2,863 |
 | Qi Gong: Breath | 0.40% | ~2,863 |
 | Lightning Hands | 0.40% | ~2,863 |
+| Rumble in the Hangar | 0.40% | ~2,863 |
 | Project Arena | 0.40% | ~101 |
 | Fight the way you practice | 0.40% | ~101 |
 | A Lady's Blood in the Snow | 0.30% | ~2,148 |
@@ -25,7 +26,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.30% | ~2,148 |
 | Old Child | 0.30% | ~2,148 |
 | Path of the Prospect | 0.30% | ~2,148 |
-| Rumble in the Hangar | 0.30% | ~2,148 |
 | Take damage to save time | 0.30% | ~2,148 |
 | Martial Hub | 0.30% | ~75 |
 | Muk Yan Master | 0.20% | ~1,432 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,859 (Ranked 20)  
+Progressed: 715,863 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 12,925 (1.81%) (Ranked 118)
 | 2023-10-19 | 715,784 | 12,923 |
 | 2023-10-20 | 715,805 | 12,924 |
 | 2023-10-21 | 715,835 | 12,925 |
-| 2023-10-22 | 715,859 | 12,925 |
+| 2023-10-22 | 715,863 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,720  (Ranked 53)  
 Sum: 11,679 (Ranked 82)  

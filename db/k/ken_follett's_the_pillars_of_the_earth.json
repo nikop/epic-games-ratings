@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -540,9 +540,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15903,
+  "EOS_Progressed": 15905,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12515,6 +12515,11 @@
       "Time": "2023-10-22T17:07:54.4771322+00:00",
       "NumProgressed": 15903,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-22T18:07:44.5669386+00:00",
+      "NumProgressed": 15905,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12526,7 +12531,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "tpote_achievement_10",
@@ -12566,7 +12571,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5248
+      "UsersEstimate": 5249
     },
     {
       "ID": "tpote_achievement_15",
@@ -12582,7 +12587,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "tpote_achievement_17",
@@ -12614,7 +12619,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5248
+      "UsersEstimate": 5249
     },
     {
       "ID": "tpote_achievement_20",
@@ -12630,7 +12635,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "tpote_achievement_22",
@@ -12654,7 +12659,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "tpote_achievement_25",
@@ -12670,7 +12675,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "tpote_achievement_27",
@@ -12686,7 +12691,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "tpote_achievement_29",
@@ -12702,7 +12707,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "tpote_achievement_30",
@@ -12726,7 +12731,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "tpote_achievement_33",
@@ -12790,7 +12795,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "tpote_achievement_40",
@@ -12846,22 +12851,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15903,
+      "Progressed": 15905,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-20T17:57:24.1431013+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:07:54.4771314+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:07:44.5669378+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:58:12.1845761+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:07:54.4773189+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:58:15.0524415+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:07:44.5670178+00:00"
 }

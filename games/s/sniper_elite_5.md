@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 632)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,770 |
+| Meeting Resistance | 46.00% | ~1,732 |
 | Confirming Suspicions | 41.00% | ~1,544 |
 | The Kraken Wakes | 37.00% | ~1,393 |
 | It's Starting to Crack | 34.00% | ~1,280 |
@@ -15,16 +15,16 @@ Rating: 4.46 (Ranked 632)
 | Resourceful | 27.00% | ~1,017 |
 | Target America | 26.00% | ~979 |
 | The Kraken Sleeps | 24.00% | ~904 |
+| Liberté | 23.00% | ~866 |
 | Organ Grinder | 23.00% | ~866 |
 | As Quiet as a Mouse | 23.00% | ~866 |
-| Liberté | 22.00% | ~828 |
-| Sharpshooter | 22.00% | ~828 |
-| Explosive Efficiency | 19.00% | ~715 |
+| Sharpshooter | 22.00% | ~829 |
+| Explosive Efficiency | 19.00% | ~716 |
 | Gunslinger | 18.00% | ~678 |
 | Just a Flesh Wound | 17.00% | ~640 |
-| Climbing the Ladder | 16.00% | ~602 |
-| Der Geist | 16.00% | ~602 |
-| Close Quarters | 16.00% | ~602 |
+| Climbing the Ladder | 16.00% | ~603 |
+| Der Geist | 16.00% | ~603 |
+| Close Quarters | 16.00% | ~603 |
 | Snake in the Grass | 15.00% | ~565 |
 | Brains of the Operation | 15.00% | ~565 |
 | No Stone Unturned | 14.00% | ~527 |
@@ -33,9 +33,9 @@ Rating: 4.46 (Ranked 632)
 | Fields of Glory | 14.00% | ~527 |
 | Skirmisher | 14.00% | ~527 |
 | Die Nussknacker Sweet! | 14.00% | ~527 |
-| Set Europe Ablaze | 13.00% | ~489 |
-| Precision Is Key | 10.00% | ~376 |
-| My Little Friend | 10.00% | ~376 |
+| Set Europe Ablaze | 13.00% | ~490 |
+| Precision Is Key | 10.00% | ~377 |
+| My Little Friend | 10.00% | ~377 |
 | Rigged to Blow | 9.00% | ~339 |
 | Herr Today, Gone Tomorrow | 7.00% | ~260 |
 | Operation Foxley | 6.00% | ~223 |
@@ -53,8 +53,8 @@ Rating: 4.46 (Ranked 632)
 | Burn after reading | 3.00% | ~113 |
 | Souvenir hunter | 3.00% | ~113 |
 | Shoot for the Moon | 3.00% | ~113 |
-| If You Go Down To The Woods Today | 3.00% | ~111 |
-| Fight Another Day | 3.00% | ~111 |
+| If You Go Down To The Woods Today | 3.00% | ~112 |
+| Fight Another Day | 3.00% | ~112 |
 | Out of Scope | 2.00% | ~75 |
 | Eagle Eyed | 2.00% | ~75 |
 | Up close and personal | 2.00% | ~75 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 632)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,765 (Ranked 182)  
+Progressed: 3,766 (Ranked 182)  
 Completed: 11 (0.29%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 11 (0.29%) (Ranked 214)
 | 2023-10-19 | 3,758 | 11 |
 | 2023-10-20 | 3,760 | 11 |
 | 2023-10-21 | 3,763 | 11 |
-| 2023-10-22 | 3,765 | 11 |
+| 2023-10-22 | 3,766 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 528)  
 Sum: 21 (Ranked 529)  

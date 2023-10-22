@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1020,
+  "Ranking_Rating": 1021,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1650,
+  "EOS_Progressed": 1651,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -6139,6 +6139,11 @@
       "Time": "2023-10-22T17:09:16.3395439+00:00",
       "NumProgressed": 1650,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T18:09:00.2015072+00:00",
+      "NumProgressed": 1651,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6150,7 +6155,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6222,7 +6227,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_headquarters_10",
@@ -6238,7 +6243,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "objective_headquarters_20",
@@ -6254,7 +6259,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6310,7 +6315,7 @@
       "Name": "General",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -6358,7 +6363,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6422,7 +6427,7 @@
       "Name": "Titan Tanks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -6430,7 +6435,7 @@
       "Name": "Shock Troops",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -6453,7 +6458,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1650,
+      "Progressed": 1651,
       "Completed": 1
     }
   ],
@@ -6461,8 +6466,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:09:16.3395432+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:09:00.2015066+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:58:57.350659+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:09:16.3396576+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:58:57.4717442+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:09:00.2015745+00:00"
 }

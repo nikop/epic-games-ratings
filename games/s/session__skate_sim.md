@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,848 |
-| Keeping it classy | 28.00% | ~848 |
+| You're free now! | 61.00% | ~1,849 |
+| Keeping it classy | 28.00% | ~849 |
 | Welcome to the family | 22.00% | ~667 |
-| The finer things in life | 20.00% | ~606 |
+| The finer things in life | 19.00% | ~576 |
 | Backpacker | 14.00% | ~424 |
 | Go with the Flow | 13.00% | ~394 |
 | Keep the dream alive | 10.00% | ~303 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,030 (Ranked 194)  
+Progressed: 3,031 (Ranked 194)  
 Completed: 1 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,16 +228,16 @@ Completed: 1 (0.03%) (Ranked 287)
 | 2023-10-19 | 3,023 | 1 |
 | 2023-10-20 | 3,025 | 1 |
 | 2023-10-21 | 3,027 | 1 |
-| 2023-10-22 | 3,030 | 1 |
+| 2023-10-22 | 3,031 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 404)  
-Sum: 529 (Ranked 310)  
+Sum: 530 (Ranked 310)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |
 | This game is Great for Quick Sessions | 52 |
-| This game has Amazing Characters | 48 |
+| This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 48 |
 | This game has a Creative Community | 45 |
 | This game has Amazing Storytelling | 45 |
@@ -407,3 +407,4 @@ Diff (max vs sum): 94
 | 2023-10-18 | 4.70 | - | 55 | 525 |
 | 2023-10-20 | 4.70 | - | 56 | 526 |
 | 2023-10-21 | 4.70 | - | 56 | 529 |
+| 2023-10-22 | 4.70 | - | 56 | 530 |

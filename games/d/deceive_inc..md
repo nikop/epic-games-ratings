@@ -5,17 +5,17 @@ Rating: 4.57 (Ranked 459)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,584 |
-| Mainframe Hacker | 23.00% | ~4,281 |
-| The Spy who eliminated me | 23.00% | ~4,281 |
-| Tomorrow Never Dyes | 22.00% | ~4,095 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,585 |
+| Mainframe Hacker | 23.00% | ~4,282 |
+| The Spy who eliminated me | 23.00% | ~4,282 |
+| Tomorrow Never Dyes | 22.00% | ~4,096 |
+| Never Say Loser Again | 19.00% | ~3,537 |
 | From the Vault with Love | 18.00% | ~3,351 |
-| Never Say Loser Again | 18.00% | ~3,351 |
 | Tailor-Made | 18.00% | ~3,351 |
 | For your Eyes only | 18.00% | ~3,351 |
-| Assistant Accountant | 17.00% | ~3,164 |
-| You Only Live Twice | 16.00% | ~2,978 |
-| Fully Decked Out | 16.00% | ~2,978 |
+| Assistant Accountant | 17.00% | ~3,165 |
+| You Only Live Twice | 16.00% | ~2,979 |
+| Fully Decked Out | 16.00% | ~2,979 |
 | A view to Win | 13.00% | ~2,420 |
 | Smells Like Trouble | 12.00% | ~2,234 |
 | The Living Portrait | 11.00% | ~2,048 |
@@ -23,8 +23,8 @@ Rating: 4.57 (Ranked 459)
 | Private Collection | 11.00% | ~2,048 |
 | Killer Looks | 11.00% | ~2,048 |
 | Hostile Takeover | 11.00% | ~2,048 |
-| Keycards Royale | 10.00% | ~1,861 |
-| Dr. No Kill | 10.00% | ~1,861 |
+| Keycards Royale | 10.00% | ~1,862 |
+| Dr. No Kill | 10.00% | ~1,862 |
 | In It to Win It | 9.00% | ~1,675 |
 | Security Supervisor | 6.00% | ~1,117 |
 | License to Thrill | 5.00% | ~931 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 459)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,614 (Ranked 130)  
+Progressed: 18,616 (Ranked 130)  
 Completed: 4 (0.02%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 4 (0.02%) (Ranked 292)
 | 2023-10-19 | 18,507 | 4 |
 | 2023-10-20 | 18,544 | 4 |
 | 2023-10-21 | 18,588 | 4 |
-| 2023-10-22 | 18,614 | 4 |
+| 2023-10-22 | 18,616 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

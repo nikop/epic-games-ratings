@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 476,
+  "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -404,6 +404,6 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "LastChanged": "2023-10-06T15:02:37.8614455+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.7427626+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:59:53.076863+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:09:25.5742733+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:59:50.9558214+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:09:08.8131362+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -457,9 +457,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_10",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:05:52.713894+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:05:49.3169837+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:08.4783384+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:01:01.6180555+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:05:52.713913+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:00:57.3108767+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:05:49.3169952+00:00"
 }

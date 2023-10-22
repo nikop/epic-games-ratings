@@ -31,9 +31,9 @@ Rating: 4.65 (Ranked 305)
 | Mux Ado About Shipping | 0.50% | ~8 |
 | Sequel-Bait | 0.30% | ~73 |
 | Gunning For Your Job | 0.30% | ~73 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Fall In Love With A Parasite | 0.30% | ~5 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.20% | ~49 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 305)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,308 (Ranked 122)  
+Progressed: 24,309 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 13 (0.05%) (Ranked 277)
 | 2023-10-19 | 24,259 | 13 |
 | 2023-10-20 | 24,273 | 13 |
 | 2023-10-21 | 24,294 | 13 |
-| 2023-10-22 | 24,308 | 13 |
+| 2023-10-22 | 24,309 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

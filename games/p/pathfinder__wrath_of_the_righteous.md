@@ -1,14 +1,14 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 121)  
+Rating: 4.76 (Ranked 120)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,925 |
-| A Spark | 18.00% | ~2,106 |
-| Burning City | 17.00% | ~1,989 |
+| Devoured by Darkness | 25.00% | ~2,926 |
+| A Spark | 18.00% | ~2,107 |
+| Burning City | 17.00% | ~1,990 |
 | Defender's Heart | 15.00% | ~1,755 |
 | Mythic Choices | 14.00% | ~1,638 |
 | Banner over the Citadel | 13.00% | ~1,521 |
@@ -33,9 +33,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~351 |
 | Core of the Riddle | 3.00% | ~351 |
 | Hey, I Know You! | 3.00% | ~351 |
-| Hanged Man's Notes | 3.00% | ~314 |
-| The Lady of the Forest | 3.00% | ~314 |
-| Beware Still Water | 3.00% | ~314 |
+| Hanged Man's Notes | 3.00% | ~315 |
+| The Lady of the Forest | 3.00% | ~315 |
+| Beware Still Water | 3.00% | ~315 |
 | Path of the Demon | 2.00% | ~234 |
 | Path of the Aeon | 2.00% | ~234 |
 | Path of the Lich | 2.00% | ~234 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,701 (Ranked 146)  
+Progressed: 11,703 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,11 +308,11 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
 | 2023-10-21 | 11,674 | 0 |
-| 2023-10-22 | 11,701 | 0 |
+| 2023-10-22 | 11,703 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 120)  
-Sum: 6,997 (Ranked 118)  
-Diff (max vs sum): 2  
+Sum: 6,997 (Ranked 117)  
+Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,726 |

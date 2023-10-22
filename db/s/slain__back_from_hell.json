@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 38973,
+  "EOS_Progressed": 38975,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20568,6 +20568,11 @@
       "Time": "2023-10-22T17:07:02.7980608+00:00",
       "NumProgressed": 38973,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-22T18:06:55.2841221+00:00",
+      "NumProgressed": 38975,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20587,7 +20592,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -20619,7 +20624,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -20691,7 +20696,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -20810,7 +20815,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 38973,
+      "Progressed": 38975,
       "Completed": 26
     }
   ],
@@ -20818,8 +20823,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:07:02.7980601+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:06:55.2841215+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:57:12.2387044+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:07:02.7983106+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:57:17.4339296+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:06:55.2842367+00:00"
 }

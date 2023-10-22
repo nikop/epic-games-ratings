@@ -2,13 +2,13 @@
   "ID": "3328b08ac1c14540aa265a1a85c07839",
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 120,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -6560,24 +6560,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 10353,
       "NumberOfAwardsMax": 4818
+    },
+    {
+      "Time": "2023-10-22T17:59:00.632991+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10380,
+      "NumberOfAwardsMax": 4835
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10353,
-  "NumberOfAwardsMax": 4818,
+  "NumberOfAwards": 10380,
+  "NumberOfAwardsMax": 4835,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4818
+      "Count": 4835
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2975
+      "Count": 2985
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6651,8 +6657,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-10-22T16:59:01.0486656+00:00",
+  "LastChanged": "2023-10-22T17:59:00.6329908+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.9580014+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:59:01.0486666+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:04:35.976364+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:59:00.6329914+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:04:37.7282874+00:00"
 }

@@ -28,7 +28,7 @@ Rating: 4.24 (Ranked 862)
 | Full Arsenal | 17.00% | ~356 |
 | Can't Trust Banks | 15.00% | ~314 |
 | Mommy Dearest | 14.00% | ~293 |
-| Bad Dog | 13.00% | ~272 |
+| Bad Dog | 14.00% | ~293 |
 | Where It All Began | 13.00% | ~272 |
 | Risk Tolerant | 13.00% | ~272 |
 | Sorry, Didn't See You There | 13.00% | ~272 |

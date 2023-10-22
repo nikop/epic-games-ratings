@@ -5,49 +5,49 @@ Rating: 4.28 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,484 |
-| Copacetic Coordination | 16.00% | ~55,820 |
-| Fronting the Money | 15.00% | ~52,332 |
-| The Dawn of Automation | 14.00% | ~48,843 |
-| Extraordinary Logistics | 14.00% | ~48,843 |
-| Dirty Money | 13.00% | ~45,354 |
-| Family First | 13.00% | ~45,354 |
-| Cleaning House | 12.00% | ~41,865 |
-| Room in the Back | 12.00% | ~41,865 |
-| Beating the Heat | 11.00% | ~38,377 |
-| Booze Baron | 11.00% | ~38,377 |
-| Friends on the Force | 10.00% | ~34,888 |
-| Neighborhood Watch | 10.00% | ~34,888 |
-| Core Corps | 8.00% | ~27,910 |
-| Sizeable Stash | 8.00% | ~27,910 |
-| Street Fighter | 7.00% | ~24,421 |
-| Friendly Gestures | 7.00% | ~24,421 |
-| People Person | 7.00% | ~24,421 |
+| Corner Clout | 46.00% | ~160,490 |
+| Copacetic Coordination | 16.00% | ~55,823 |
+| Fronting the Money | 15.00% | ~52,334 |
+| The Dawn of Automation | 14.00% | ~48,845 |
+| Extraordinary Logistics | 14.00% | ~48,845 |
+| Dirty Money | 13.00% | ~45,356 |
+| Family First | 13.00% | ~45,356 |
+| Cleaning House | 12.00% | ~41,867 |
+| Room in the Back | 12.00% | ~41,867 |
+| Beating the Heat | 11.00% | ~38,378 |
+| Booze Baron | 11.00% | ~38,378 |
+| Friends on the Force | 10.00% | ~34,889 |
+| Neighborhood Watch | 10.00% | ~34,889 |
+| Core Corps | 8.00% | ~27,911 |
+| Sizeable Stash | 8.00% | ~27,911 |
+| Street Fighter | 7.00% | ~24,422 |
+| Friendly Gestures | 7.00% | ~24,422 |
+| People Person | 7.00% | ~24,422 |
 | Liquor Lord | 6.00% | ~20,933 |
 | Safety in Numbers | 6.00% | ~20,933 |
 | Moving Experiences | 6.00% | ~20,933 |
 | Wise Head | 6.00% | ~20,933 |
 | Show ‘em the Sugar | 6.00% | ~20,933 |
 | Killing Them Softly | 6.00% | ~20,933 |
-| Street Knowledge | 5.00% | ~17,444 |
-| Oh Captain | 5.00% | ~17,444 |
-| Branching Out | 5.00% | ~17,444 |
-| Improvement Missions | 5.00% | ~17,444 |
-| Opportunity Knocked | 5.00% | ~17,444 |
-| City of Big Shoulders | 5.00% | ~17,444 |
-| Mission Mastery | 5.00% | ~17,444 |
-| Considerable Clams | 4.00% | ~13,955 |
-| Gin Joint | 4.00% | ~13,955 |
-| An Affront to the Enemy | 4.00% | ~13,955 |
-| Friends from Back Home | 4.00% | ~13,955 |
-| Half Century Mark | 4.00% | ~13,955 |
-| Corner Opportunities | 3.00% | ~10,466 |
-| 2122 North Clark Street | 3.00% | ~10,466 |
-| Copious Cabbage | 3.00% | ~10,466 |
-| Sockdolager | 3.00% | ~10,466 |
-| Still Stalwart | 3.00% | ~10,466 |
-| Bees Knees Bootlegger | 3.00% | ~10,466 |
-| Tighten the Screws | 3.00% | ~10,466 |
+| Street Knowledge | 5.00% | ~17,445 |
+| Oh Captain | 5.00% | ~17,445 |
+| Branching Out | 5.00% | ~17,445 |
+| Improvement Missions | 5.00% | ~17,445 |
+| Opportunity Knocked | 5.00% | ~17,445 |
+| City of Big Shoulders | 5.00% | ~17,445 |
+| Mission Mastery | 5.00% | ~17,445 |
+| Considerable Clams | 4.00% | ~13,956 |
+| Gin Joint | 4.00% | ~13,956 |
+| An Affront to the Enemy | 4.00% | ~13,956 |
+| Friends from Back Home | 4.00% | ~13,956 |
+| Half Century Mark | 4.00% | ~13,956 |
+| Corner Opportunities | 3.00% | ~10,467 |
+| 2122 North Clark Street | 3.00% | ~10,467 |
+| Copious Cabbage | 3.00% | ~10,467 |
+| Sockdolager | 3.00% | ~10,467 |
+| Still Stalwart | 3.00% | ~10,467 |
+| Bees Knees Bootlegger | 3.00% | ~10,467 |
+| Tighten the Screws | 3.00% | ~10,467 |
 | One of Us | 2.00% | ~6,978 |
 | Baker’s Dozen | 2.00% | ~6,978 |
 | Dropping the Dime | 2.00% | ~6,978 |
@@ -65,10 +65,10 @@ Rating: 4.28 (Ranked 834)
 | Getting Fancy | 0.80% | ~2,791 |
 | Crossing Over | 0.80% | ~2,791 |
 | Still Dreaming | 0.50% | ~1,744 |
-| Working on the Railroad | 0.50% | ~1,744 |
 | Social Butterfly | 0.50% | ~1,744 |
 | Homemade Hooch | 0.40% | ~1,396 |
 | High End Booze | 0.40% | ~1,396 |
+| Working on the Railroad | 0.40% | ~1,396 |
 | In-House Maintenance | 0.40% | ~1,396 |
 | Bottled Up | 0.30% | ~1,047 |
 | Streetwise | 0.30% | ~1,047 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 834)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,878 (Ranked 43)  
+Progressed: 348,891 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 7 (0.00%) (Ranked 319)
 | 2023-10-19 | 348,407 | 7 |
 | 2023-10-20 | 348,546 | 7 |
 | 2023-10-21 | 348,735 | 7 |
-| 2023-10-22 | 348,878 | 7 |
+| 2023-10-22 | 348,891 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 447)  
 Sum: 179 (Ranked 400)  

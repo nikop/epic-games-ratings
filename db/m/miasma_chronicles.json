@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3562,9 +3562,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 636
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3803,8 +3803,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:08:29.1491948+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:08:16.3166974+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.0007152+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:01:16.3856675+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:08:29.1492754+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:01:13.2163803+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:08:16.3167461+00:00"
 }

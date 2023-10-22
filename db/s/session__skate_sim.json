@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1013,10 +1013,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 529,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-10-22T18:02:05.5564511+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 530,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 530,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1042,7 +1048,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1093,9 +1099,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3030,
+  "EOS_Progressed": 3031,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5458,6 +5464,11 @@
       "Time": "2023-10-22T17:07:01.9687283+00:00",
       "NumProgressed": 3030,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T18:06:54.4810317+00:00",
+      "NumProgressed": 3031,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5621,7 +5632,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5771,9 +5782,9 @@
       "ID": "ACH_THE-FINER-THINGS-IN-LIFE",
       "SetID": "72olkc5",
       "Name": "The finer things in life",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5845,22 +5856,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3030,
+      "Progressed": 3031,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-10-21T16:03:07.0064228+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:07:01.9687278+00:00",
+  "LastChanged": "2023-10-22T18:02:05.5564507+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:06:54.4810312+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.22373+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:02:13.0068921+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:07:01.9687924+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:02:05.5564518+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:06:54.4810837+00:00"
 }

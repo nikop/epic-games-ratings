@@ -2,13 +2,13 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 994,
+  "Ranking_Rating": 995,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7375,
+  "EOS_Progressed": 7377,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4742,6 +4742,11 @@
       "Time": "2023-10-22T17:10:10.9421539+00:00",
       "NumProgressed": 7375,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T18:09:51.1100733+00:00",
+      "NumProgressed": 7377,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4874,7 +4879,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "GamesPlayed10",
@@ -4898,7 +4903,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "GamesWon10",
@@ -5162,7 +5167,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "NeutralKills200",
@@ -5250,7 +5255,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "SEUpgraded1",
@@ -5282,7 +5287,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -5298,7 +5303,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "TGPurchased1",
@@ -5345,7 +5350,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7375,
+      "Progressed": 7377,
       "Completed": 1
     }
   ],
@@ -5353,8 +5358,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:10:10.9421534+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:09:51.1100723+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:59:17.6741757+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:10:10.9422719+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:59:14.8918715+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:09:51.1101657+00:00"
 }

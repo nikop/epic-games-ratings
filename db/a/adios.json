@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1018,
+  "Ranking_Rating": 1019,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76454,
+  "EOS_Progressed": 76460,
   "EOS_Completed": 805,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20787,6 +20787,11 @@
       "Time": "2023-10-22T17:08:35.9624408+00:00",
       "NumProgressed": 76454,
       "NumCompleted": 805
+    },
+    {
+      "Time": "2023-10-22T18:08:22.6169371+00:00",
+      "NumProgressed": 76460,
+      "NumCompleted": 805
     }
   ],
   "TotalAchievements": 25,
@@ -20814,7 +20819,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13762
+      "UsersEstimate": 13763
     },
     {
       "ID": "Audiophile",
@@ -20830,7 +20835,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16820
+      "UsersEstimate": 16821
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -20838,7 +20843,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13762
+      "UsersEstimate": 13763
     },
     {
       "ID": "Butcher",
@@ -20854,7 +20859,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4587
+      "UsersEstimate": 4588
     },
     {
       "ID": "Fair\u0027sFair",
@@ -20870,7 +20875,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15291
+      "UsersEstimate": 15292
     },
     {
       "ID": "Hearty",
@@ -20902,7 +20907,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16055
+      "UsersEstimate": 16057
     },
     {
       "ID": "Meaty",
@@ -20918,7 +20923,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14526
+      "UsersEstimate": 14527
     },
     {
       "ID": "Nice Try",
@@ -20926,7 +20931,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12233
+      "UsersEstimate": 12234
     },
     {
       "ID": "Nothing Left to Say",
@@ -20942,7 +20947,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8410
+      "UsersEstimate": 8411
     },
     {
       "ID": "Right On Target",
@@ -20950,7 +20955,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9939
+      "UsersEstimate": 9940
     },
     {
       "ID": "Sniper",
@@ -20990,14 +20995,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76454,
+      "Progressed": 76460,
       "Completed": 805
     }
   ],
@@ -21005,8 +21010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:08:35.96244+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:08:22.6169366+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:58:34.8422405+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:08:35.9626933+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:58:35.9447624+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:08:22.6170473+00:00"
 }

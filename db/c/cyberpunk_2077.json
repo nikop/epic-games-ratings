@@ -13970,7 +13970,7 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893341,
+  "EOS_Progressed": 893354,
   "EOS_Completed": 2698,
   "EOS_NewPlayers": 1309,
   "EOS_NewCompleters": 29,
@@ -34940,6 +34940,11 @@
       "Time": "2023-10-22T17:06:37.5930028+00:00",
       "NumProgressed": 893341,
       "NumCompleted": 2698
+    },
+    {
+      "Time": "2023-10-22T18:06:31.6197174+00:00",
+      "NumProgressed": 893354,
+      "NumCompleted": 2698
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35126,9 +35131,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "Specialist",
@@ -35471,21 +35476,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893341,
+      "Progressed": 893354,
       "Completed": 2698
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21964,
+      "Progressed": 21977,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T14:59:04.1716985+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:06:37.5930018+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:06:31.6197168+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:59:52.4284014+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:06:37.5933078+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:59:50.307428+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:06:31.6198592+00:00"
 }

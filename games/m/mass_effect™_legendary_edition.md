@@ -94,11 +94,11 @@
 | Saboteur | 20.00% | ~156 |
 | Problem Solver | 20.00% | ~156 |
 | Under Pressure | 19.00% | ~148 |
+| Last Resort | 19.00% | ~148 |
 | Last Witness | 19.00% | ~148 |
+| Well Connected | 19.00% | ~148 |
 | Fact Finder | 19.00% | ~148 |
-| Last Resort | 18.00% | ~140 |
 | Sabotage Specialist | 18.00% | ~140 |
-| Well Connected | 18.00% | ~140 |
 | Electronics Specialist | 17.00% | ~133 |
 | Executioner | 17.00% | ~133 |
 | Master and Commander | 17.00% | ~133 |

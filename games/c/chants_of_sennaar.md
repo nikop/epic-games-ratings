@@ -19,14 +19,14 @@
 | In this together | 10.00% | ~32 |
 | A good beginning | 10.00% | ~32 |
 | Half the way | 10.00% | ~32 |
+| Alchemists Express | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
 | Feels like springtime | 8.00% | ~25 |
-| Alchemists Express | 8.00% | ~25 |
 | Open door | 7.00% | ~22 |
 | Free at last | 6.00% | ~19 |
+| A Link to the Past | 6.00% | ~19 |
 | Rascal | 6.00% | ~19 |
 | For its own good | 5.00% | ~16 |
-| A Link to the Past | 5.00% | ~16 |
 | A great audience | 4.00% | ~13 |
 | Fashion victim | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)

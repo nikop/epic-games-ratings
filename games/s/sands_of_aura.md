@@ -14,6 +14,7 @@
 | The Guardian of Fire | 9.00% | ~1 |
 | Sovereignty of Irons | 9.00% | ~1 |
 | Transformative Nature | 9.00% | ~1 |
+| Champion of Starspire | 9.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -61,7 +62,6 @@
 | Holding Out | 0.00% | ~0 |
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
-| Champion of Starspire | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 319)  

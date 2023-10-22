@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 61.00% | ~14 |
-| Marc Allard | 61.00% | ~14 |
+| Little ideas | 65.00% | ~15 |
+| Marc Allard | 65.00% | ~15 |
 | The Ship | 57.00% | ~13 |
 | Seeking the truth | 52.00% | ~12 |
 | An old friend | 48.00% | ~11 |
@@ -34,8 +34,12 @@
 | Bartholomew | 13.00% | ~3 |
 | The Scheme | 13.00% | ~3 |
 | A curious phrase | 9.00% | ~2 |
+| The Denouement | 4.00% | ~1 |
 | Well-travelled | 4.00% | ~1 |
+| A treasured heirloom | 4.00% | ~1 |
 | A peculiar fellow | 4.00% | ~1 |
+| The Penitent Magdalene | 4.00% | ~1 |
+| A true performance | 4.00% | ~1 |
 | Evelyn Lakshmi Warbeck | 4.00% | ~1 |
 | Florence Farquhar | 4.00% | ~1 |
 | Horace Mountjoy | 4.00% | ~1 |
@@ -45,11 +49,7 @@
 | The Suspects | 4.00% | ~1 |
 | The Secrets | 4.00% | ~1 |
 | The Investigation Starts Anew | 4.00% | ~1 |
-| The Denouement | 0.00% | ~0 |
-| A treasured heirloom | 0.00% | ~0 |
 | A perilous journey | 0.00% | ~0 |
-| The Penitent Magdalene | 0.00% | ~0 |
-| A true performance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 319)  

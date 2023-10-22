@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -158,9 +158,9 @@
       "ID": "ACH_01_TUTORIAL",
       "SetID": "9dl0ei6",
       "Name": "Tutorial",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_02_FIRSTRACE",
@@ -334,9 +334,9 @@
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -381,8 +381,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-10-22T17:09:40.3052075+00:00",
+  "LastChanged_Achievements": "2023-10-22T18:09:22.0677508+00:00",
   "LastUpdate_AppInfo": "2023-10-15T19:57:18.0318979+00:00",
-  "LastUpdate_Ratings": "2023-10-22T16:57:49.790069+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:09:40.3052426+00:00"
+  "LastUpdate_Ratings": "2023-10-22T17:57:54.7292417+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:09:22.0677678+00:00"
 }

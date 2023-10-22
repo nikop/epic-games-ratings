@@ -2,13 +2,13 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 112,
-  "Ranking_Popularity": 477,
+  "Ranking_Rating": 120,
+  "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -852,18 +852,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 255,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-10-22T18:02:19.8507006+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 256,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 255,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 256,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -931,8 +937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-10-21T20:01:37.8592091+00:00",
+  "LastChanged": "2023-10-22T18:02:19.8507004+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.6521932+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:02:27.6376739+00:00",
-  "LastUpdate_Achievements": "2023-10-22T17:08:54.9638881+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:02:19.8507009+00:00",
+  "LastUpdate_Achievements": "2023-10-22T18:08:40.3788636+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.40% | ~3,573 |
 | Full Body Conversion | 0.30% | ~2,680 |
+| Stanislavski's Method | 0.30% | ~2,680 |
 | Rough Landing | 0.30% | ~2,680 |
 | The High Priestess | 0.30% | ~2,680 |
 | True Soldier | 0.30% | ~2,680 |
@@ -24,7 +25,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.20% | ~1,787 |
 | Breathtaking | 0.20% | ~1,787 |
 | Life of the Road | 0.20% | ~1,787 |
-| Stanislavski's Method | 0.20% | ~1,787 |
 | Temperance | 0.20% | ~1,787 |
 | The Hermit | 0.20% | ~1,787 |
 | The Lovers | 0.20% | ~1,787 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,341 (Ranked 15)  
+Progressed: 893,354 (Ranked 15)  
 Completed: 2,698 (0.30%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,698 (0.30%) (Ranked 209)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,341 | 2,698 |
+| 2023-10-22 | 893,354 | 2,698 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
 Sum: 319,824 (Ranked 11)  
