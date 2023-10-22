@@ -9,9 +9,9 @@ Rating: 4.59 (Ranked 420)
 | Drug Gifter | 7.00% | ~995 |
 | Bosmang | 7.00% | ~995 |
 | The Pit and the Pirates | 6.00% | ~853 |
-| Drone Dodger | 5.00% | ~710 |
-| Call it Even | 5.00% | ~710 |
-| Impossible Objects | 5.00% | ~710 |
+| Drone Dodger | 5.00% | ~711 |
+| Call it Even | 5.00% | ~711 |
+| Impossible Objects | 5.00% | ~711 |
 | Data Archivist | 4.00% | ~568 |
 | Spore Taste | 4.00% | ~568 |
 | Martian Music | 4.00% | ~568 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 420)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,210 (Ranked 140)  
+Progressed: 14,211 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 27 (0.19%) (Ranked 227)
 | 2023-10-19 | 14,126 | 26 |
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
+| 2023-10-22 | 14,211 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1894,9 +1894,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1934,33 +1934,33 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1974,17 +1974,17 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "296pn27",
       "Name": "Holy Nails",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -1997,8 +1997,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:08:04.9360161+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:08:04.3368489+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:00:40.8858297+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:08:04.9360405+00:00"
+  "LastUpdate_Ratings": "2023-10-22T00:00:39.6704639+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:08:04.336872+00:00"
 }

@@ -1,16 +1,16 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,918 |
-| A Spark | 18.00% | ~2,101 |
+| Devoured by Darkness | 25.00% | ~2,919 |
+| A Spark | 18.00% | ~2,102 |
 | Burning City | 17.00% | ~1,985 |
 | Defender's Heart | 15.00% | ~1,751 |
-| Mythic Choices | 14.00% | ~1,634 |
+| Mythic Choices | 14.00% | ~1,635 |
 | Banner over the Citadel | 13.00% | ~1,518 |
 | Queen's Gratitude | 12.00% | ~1,401 |
 | Fifth Crusade | 8.00% | ~934 |
@@ -36,12 +36,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 3.00% | ~314 |
 | The Lady of the Forest | 3.00% | ~314 |
 | Beware Still Water | 3.00% | ~314 |
-| Path of the Demon | 2.00% | ~233 |
-| Path of the Aeon | 2.00% | ~233 |
-| Path of the Lich | 2.00% | ~233 |
-| Capitulation Is Now Moot | 2.00% | ~233 |
-| Your First Big Enemy | 2.00% | ~233 |
-| Truly Important Deed | 2.00% | ~233 |
+| Path of the Demon | 2.00% | ~234 |
+| Path of the Aeon | 2.00% | ~234 |
+| Path of the Lich | 2.00% | ~234 |
+| Capitulation Is Now Moot | 2.00% | ~234 |
+| Your First Big Enemy | 2.00% | ~234 |
+| Truly Important Deed | 2.00% | ~234 |
 | Stay Underground | 2.00% | ~209 |
 | Sarkoris Will Be Green | 2.00% | ~209 |
 | The Final Threshold | 1.00% | ~117 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,674 (Ranked 146)  
+Progressed: 11,675 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
 | 2023-10-21 | 11,674 | 0 |
+| 2023-10-22 | 11,675 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 119)  
 Sum: 6,997 (Ranked 117)  

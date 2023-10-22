@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,178 |
-| Before the Downfall | 97.00% | ~18,238 |
-| Money like Water | 95.00% | ~17,862 |
-| Minimalist | 94.00% | ~17,674 |
-| Builder | 86.00% | ~16,170 |
+| Trevithick's Legacy | 102.00% | ~19,177 |
+| Before the Downfall | 97.00% | ~18,237 |
+| Money like Water | 95.00% | ~17,861 |
+| Minimalist | 94.00% | ~17,673 |
+| Builder | 86.00% | ~16,169 |
 | Eraser | 73.00% | ~13,725 |
 | Pocket of Trains | 68.00% | ~12,785 |
 | Inspector | 61.00% | ~11,469 |
 | Going the Distance | 56.00% | ~10,529 |
-| Oil Baron | 44.00% | ~8,273 |
-| Loads-a-Money | 44.00% | ~8,273 |
-| Helper of the People | 41.00% | ~7,709 |
-| Simplification | 35.00% | ~6,581 |
-| Box of Trains | 35.00% | ~6,581 |
-| Let There be Light | 34.00% | ~6,393 |
-| Hot Water | 32.00% | ~6,017 |
-| Indecisive | 30.00% | ~5,641 |
-| The scenic route | 29.00% | ~5,453 |
-| Industrialist | 26.00% | ~4,889 |
+| Oil Baron | 44.00% | ~8,272 |
+| Loads-a-Money | 44.00% | ~8,272 |
+| Helper of the People | 41.00% | ~7,708 |
+| Simplification | 35.00% | ~6,580 |
+| Box of Trains | 35.00% | ~6,580 |
+| Let There be Light | 34.00% | ~6,392 |
+| Hot Water | 32.00% | ~6,016 |
+| Indecisive | 30.00% | ~5,640 |
+| The scenic route | 29.00% | ~5,452 |
+| Industrialist | 26.00% | ~4,888 |
 | Perfectionist | 25.00% | ~4,700 |
 | 8K is Enough for Everyone | 24.00% | ~4,512 |
 | Trains over Pipes | 24.00% | ~4,512 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 494)
 | Overdeer | 0.60% | ~113 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,802 (Ranked 129)  
+Progressed: 18,801 (Ranked 129)  
 Completed: 32 (0.17%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 32 (0.17%) (Ranked 232)
 | 2023-10-19 | 18,856 | 32 |
 | 2023-10-20 | 18,841 | 32 |
 | 2023-10-21 | 18,822 | 32 |
+| 2023-10-22 | 18,801 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 363)  
 Sum: 673 (Ranked 293)  

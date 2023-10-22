@@ -18,17 +18,17 @@
 | The third floor | 19.00% | ~38 |
 | One-way | 17.00% | ~34 |
 | On the right path | 16.00% | ~32 |
-| It can't be true | 15.00% | ~30 |
+| It can't be true | 16.00% | ~32 |
 | I'm close now | 12.00% | ~24 |
 | Failed attempt | 12.00% | ~24 |
 | The real escape | 12.00% | ~24 |
 | Good choice | 12.00% | ~24 |
 | Take the long way round | 12.00% | ~24 |
 | He who seeks, finds! | 12.00% | ~24 |
-| Nightmare in the kitchen | 10.00% | ~20 |
-| Born again | 7.00% | ~14 |
+| Nightmare in the kitchen | 11.00% | ~22 |
+| Born again | 8.00% | ~16 |
+| The experiment | 7.00% | ~14 |
 | 373 | 6.00% | ~12 |
-| The experiment | 6.00% | ~12 |
 | Matthew's revenge | 5.00% | ~10 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |

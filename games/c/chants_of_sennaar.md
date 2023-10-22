@@ -26,8 +26,8 @@
 | Free at last | 5.00% | ~16 |
 | A Link to the Past | 5.00% | ~16 |
 | Rascal | 5.00% | ~16 |
+| A great audience | 4.00% | ~12 |
 | For its own good | 4.00% | ~12 |
-| A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 312 (Ranked 316)  

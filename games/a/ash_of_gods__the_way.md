@@ -19,6 +19,7 @@
 | Vene, vidi, vici | 20.00% | ~1 |
 | By own strength | 20.00% | ~1 |
 | A solo player | 20.00% | ~1 |
+| Punish the Punisher | 20.00% | ~1 |
 | Protect the Healer! | 20.00% | ~1 |
 | Cunning plan | 20.00% | ~1 |
 | Do it yourself | 20.00% | ~1 |
@@ -42,7 +43,6 @@
 | The power of persuasion | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Deadly strike | 0.00% | ~0 |
-| Punish the Punisher | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
 | By someone else's hands | 0.00% | ~0 |

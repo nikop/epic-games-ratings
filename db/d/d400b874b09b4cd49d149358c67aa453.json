@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1560,17 +1560,17 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
       "SetID": "al4k4nh",
       "Name": "I can fix that",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1632,9 +1632,9 @@
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
       "SetID": "al4k4nh",
       "Name": "I like the risk",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1696,9 +1696,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1719,8 +1719,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:08:03.6967418+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:08:02.9315111+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:33.8138445+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:58:15.0886127+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:08:03.6967715+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:58:05.1148218+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:08:02.9315381+00:00"
 }

@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1066,6 +1066,11 @@
       "Time": "2023-10-21T19:03:24.9777997+00:00",
       "NumProgressed": 247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T00:03:28.5335643+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1093,7 +1098,7 @@
       "Name": "Alone with Them",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1173,7 +1178,7 @@
       "Name": "Forced to Kill",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1267,9 +1272,9 @@
       "ID": "ETUA_RestInPeace",
       "SetID": "65jc0ap",
       "Name": "Rest In Peace",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ETUA_SUPER",
@@ -1283,9 +1288,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "ETUA_StayDead",
@@ -1365,7 +1370,7 @@
       "Name": "A Night To Remember",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ETUA_Trapped",
@@ -1396,7 +1401,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 1
     }
   ],
@@ -1404,8 +1409,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:03:27.7656742+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:03:28.5335636+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:58:30.2857061+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:03:27.7657125+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:58:22.1911545+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:03:28.5336025+00:00"
 }

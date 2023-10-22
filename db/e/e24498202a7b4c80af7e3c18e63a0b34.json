@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 167,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-09-26T18:04:36.0445809+00:00",
@@ -91,15 +91,21 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-21T23:58:43.7664548+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6330,
+  "EOS_Progressed": 6331,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -3927,6 +3933,11 @@
       "Time": "2023-10-21T22:09:07.4774507+00:00",
       "NumProgressed": 6330,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-22T00:08:36.1131591+00:00",
+      "NumProgressed": 6331,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -3939,7 +3950,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "achievement_01_02",
@@ -3947,7 +3958,7 @@
       "Name": "Tournament Star",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_01_03",
@@ -3969,9 +3980,9 @@
       "ID": "achievement_01_05",
       "SetID": "4f1m94d",
       "Name": "Automotive Stylist",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2976
     },
     {
       "ID": "achievement_01_06",
@@ -3979,7 +3990,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3671
+      "UsersEstimate": 3672
     },
     {
       "ID": "achievement_01_07",
@@ -3995,7 +4006,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "achievement_01_09",
@@ -4011,7 +4022,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "achievement_02_01",
@@ -4035,7 +4046,7 @@
       "Name": "Professional Champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_02_04",
@@ -4067,7 +4078,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "achievement_02_08",
@@ -4083,7 +4094,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "achievement_03_02",
@@ -4139,7 +4150,7 @@
       "Name": "Golden Professional Champion",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "achievement_03_09",
@@ -4179,7 +4190,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "achievement_04_03",
@@ -4187,7 +4198,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "achievement_04_04",
@@ -4201,9 +4212,9 @@
       "ID": "achievement_04_05",
       "SetID": "4f1m94d",
       "Name": "That was a Close Call!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2026
+      "UsersEstimate": 1963
     },
     {
       "ID": "achievement_04_06",
@@ -4227,7 +4238,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5380
+      "UsersEstimate": 5381
     },
     {
       "ID": "achievement_04_09",
@@ -4242,16 +4253,16 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6330,
+      "Progressed": 6331,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-14T17:57:03.7987631+00:00",
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
-  "LastChanged": "2023-10-20T23:59:11.4876628+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:08:36.823097+00:00",
+  "LastChanged": "2023-10-21T23:58:43.7664545+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:08:36.1131585+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:58:51.4885784+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:08:36.8231491+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:58:43.7664552+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:08:36.1132117+00:00"
 }

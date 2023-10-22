@@ -28,19 +28,19 @@
 | Scientist | 48.00% | ~368 |
 | Merciless | 47.00% | ~360 |
 | Krogan Ally | 45.00% | ~345 |
+| Head Hunter | 45.00% | ~345 |
 | Sentinel Ally | 44.00% | ~337 |
 | Missing in Action | 44.00% | ~337 |
 | Very Elusive | 44.00% | ~337 |
-| Head Hunter | 44.00% | ~337 |
 | Scholar | 43.00% | ~330 |
 | Operative | 42.00% | ~322 |
 | Veteran | 41.00% | ~314 |
 | Power Full | 41.00% | ~314 |
 | The Professor | 40.00% | ~307 |
 | The Archangel | 39.00% | ~299 |
+| The Convict | 38.00% | ~291 |
 | Completionist | 37.00% | ~284 |
 | Colony Defense | 37.00% | ~284 |
-| The Convict | 37.00% | ~284 |
 | The Krogan | 37.00% | ~284 |
 | Galactic Explorer | 36.00% | ~276 |
 | Broke, Blind, and Bedlam | 35.00% | ~268 |
@@ -49,9 +49,9 @@
 | The Quarian | 34.00% | ~261 |
 | A Personal Touch | 33.00% | ~253 |
 | The Assassin | 33.00% | ~253 |
+| The Justicar | 33.00% | ~253 |
 | Ghost of the Father | 33.00% | ~253 |
 | The Prodigal | 33.00% | ~253 |
-| The Justicar | 32.00% | ~245 |
 | Battlemaster | 32.00% | ~245 |
 | The Cure | 32.00% | ~245 |
 | Big Game Hunter | 32.00% | ~245 |
@@ -90,11 +90,11 @@
 | Party Crasher | 21.00% | ~161 |
 | Problem Solver | 21.00% | ~161 |
 | Pyromaniac | 20.00% | ~153 |
+| Under Pressure | 20.00% | ~153 |
 | No One Left Behind | 20.00% | ~153 |
 | Hard Target | 20.00% | ~153 |
 | Saboteur | 20.00% | ~153 |
 | Fact Finder | 20.00% | ~153 |
-| Under Pressure | 19.00% | ~146 |
 | Last Witness | 19.00% | ~146 |
 | Well Connected | 19.00% | ~146 |
 | Last Resort | 18.00% | ~138 |

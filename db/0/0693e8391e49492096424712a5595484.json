@@ -3,9 +3,9 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 497,
-  "EOS_Completed": 37,
+  "EOS_Completed": 38,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.44,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -1959,6 +1959,11 @@
       "Time": "2023-10-21T10:05:43.9240445+00:00",
       "NumProgressed": 497,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-10-22T00:04:36.3481608+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 45,
@@ -2056,9 +2061,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "BroomPistol",
@@ -2330,13 +2335,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 497,
-      "Completed": 37
+      "Completed": 38
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:04:45.8516569+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:04:36.34816+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:14.1155127+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:58:26.414332+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:04:45.8517065+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:58:18.3737263+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:04:36.3482057+00:00"
 }

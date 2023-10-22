@@ -6,23 +6,23 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,311 |
-| ''I don't like you either!'' | 79.00% | ~40,975 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,344 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,312 |
+| ''I don't like you either!'' | 79.00% | ~40,976 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,345 |
 | ''Impressive, most impressive'' | 71.00% | ~36,826 |
 | The Phantom Menace | 59.00% | ~30,602 |
-| ''Aggressive Negotiations'' | 58.00% | ~30,083 |
-| ''I can fly anything'' | 57.00% | ~29,564 |
-| ''And who gave you permission...?'' | 54.00% | ~28,008 |
-| A New Hope | 48.00% | ~24,896 |
-| Attack of the Clones | 47.00% | ~24,377 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,602 |
+| ''I can fly anything'' | 57.00% | ~29,565 |
+| ''And who gave you permission...?'' | 54.00% | ~28,009 |
+| A New Hope | 48.00% | ~24,897 |
+| Attack of the Clones | 47.00% | ~24,378 |
 | Revenge of the Sith | 40.00% | ~20,747 |
-| The Empire Strikes Back | 38.00% | ~19,709 |
+| The Empire Strikes Back | 38.00% | ~19,710 |
 | ''A fine addition to my collection'' | 37.00% | ~19,191 |
-| Return of the Jedi | 32.00% | ~16,597 |
+| Return of the Jedi | 32.00% | ~16,598 |
 | The Force Awakens | 27.00% | ~14,004 |
-| The Last Jedi | 23.00% | ~11,929 |
-| The Rise of Skywalker | 20.00% | ~10,373 |
+| The Last Jedi | 23.00% | ~11,930 |
+| The Rise of Skywalker | 20.00% | ~10,374 |
 | ''It's true... all of it'' | 19.00% | ~9,855 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,855 |
 | ''Raw, untamed power'' | 8.00% | ~4,149 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~519 |
 | ''I've never seen a real one!'' | 1.00% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,867 (Ranked 102)  
+Progressed: 51,868 (Ranked 102)  
 Completed: 241 (0.46%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 241 (0.46%) (Ranked 183)
 | 2023-10-19 | 51,854 | 241 |
 | 2023-10-20 | 51,858 | 241 |
 | 2023-10-21 | 51,867 | 241 |
+| 2023-10-22 | 51,868 | 241 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 104)  
 Sum: 6,670 (Ranked 122)  

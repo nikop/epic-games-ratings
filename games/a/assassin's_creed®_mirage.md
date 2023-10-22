@@ -4,15 +4,15 @@
 Rating: 4.45 (Ranked 651)  
 ## Awards
 Max (Quickly Understood Controls): 80  (Ranked 374)  
-Sum: 635 (Ranked 299)  
-Diff (max vs sum): 75  
+Sum: 639 (Ranked 298)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 80 |
 | This game is Relaxing | 79 |
 | This game is Great for Beginners | 76 |
 | This game has Diverse Characters | 70 |
-| This game is Educational | 65 |
+| This game is Educational | 69 |
 | This game is Highly Recommended | 65 |
 | This game is Extremely Fun | 62 |
 | This game has Beautiful Visuals | 54 |

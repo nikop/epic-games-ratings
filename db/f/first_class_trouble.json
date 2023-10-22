@@ -2,12 +2,12 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -1597,10 +1597,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 675,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2023-10-21T23:59:08.233852+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 676,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 675,
+  "NumberOfAwards": 676,
   "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1638,7 +1644,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1677,8 +1683,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-10-21T05:58:59.1135642+00:00",
+  "LastChanged": "2023-10-21T23:59:08.2338517+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.1684509+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:59:18.2463321+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:04:30.5647237+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:59:08.2338524+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:04:20.6415455+00:00"
 }

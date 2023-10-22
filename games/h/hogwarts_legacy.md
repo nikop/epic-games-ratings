@@ -1,13 +1,13 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 121)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,801 |
 | First Class Student | 14.00% | ~41,814 |
-| Troll with the Punches | 13.00% | ~38,827 |
+| Troll with the Punches | 13.00% | ~38,828 |
 | A Keen Sense of Spell | 12.00% | ~35,841 |
 | That's a Keeper | 12.00% | ~35,841 |
 | Grappling with a Graphorn | 11.00% | ~32,854 |
@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 120)
 | The Hero of Hogwarts | 10.00% | ~29,867 |
 | Challenge Accepted | 10.00% | ~29,867 |
 | Followed the Butterflies | 10.00% | ~29,867 |
-| The Spell Master | 9.00% | ~26,880 |
-| Rising From the Ashes | 9.00% | ~26,880 |
+| The Spell Master | 9.00% | ~26,881 |
+| Rising From the Ashes | 9.00% | ~26,881 |
 | The Avenging Gazelle | 8.00% | ~23,894 |
 | Beast Friends | 8.00% | ~23,894 |
 | A Sallow Grave | 8.00% | ~23,894 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,671 (Ranked 47)  
+Progressed: 298,674 (Ranked 47)  
 Completed: 491 (0.16%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 491 (0.16%) (Ranked 234)
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
+| 2023-10-22 | 298,674 | 491 |
 ## Awards
 Max (Character Customization): 23,683  (Ranked 17)  
 Sum: 46,325 (Ranked 30)  

@@ -172,9 +172,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_BOSS_03",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:04:41.1319785+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:04:31.2365663+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:58:50.4402993+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:04:41.1320189+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:58:41.448146+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:04:31.2366003+00:00"
 }

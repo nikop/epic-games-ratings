@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 70.00% | ~90 |
+| Nightmare Territory | 71.00% | ~92 |
 | Hunting Season | 55.00% | ~71 |
 | Grew Bigger | 50.00% | ~64 |
 | Bring It | 49.00% | ~63 |
@@ -14,7 +14,7 @@
 | Find the Light | 38.00% | ~49 |
 | Chased the Source | 36.00% | ~46 |
 | Felt Good | 33.00% | ~43 |
-| Somebody's Home | 32.00% | ~41 |
+| Somebody's Home | 33.00% | ~43 |
 | Into the Overlap | 28.00% | ~36 |
 | Secret Stashes | 27.00% | ~35 |
 | Filling the Shape | 27.00% | ~35 |
@@ -23,23 +23,23 @@
 | Lawman | 26.00% | ~34 |
 | Carry his Words | 25.00% | ~32 |
 | Yippee Ki-yay | 24.00% | ~31 |
-| The Other Side | 23.00% | ~30 |
-| Greatest Hits | 22.00% | ~28 |
+| The Other Side | 24.00% | ~31 |
+| Greatest Hits | 23.00% | ~30 |
 | Shining in the Night | 21.00% | ~27 |
 | Ready for a Fight | 20.00% | ~26 |
 | Talk Show | 20.00% | ~26 |
-| Storm Cloud | 17.00% | ~22 |
-| New York City | 17.00% | ~22 |
-| Return | 16.00% | ~21 |
-| This is the Moment | 15.00% | ~19 |
+| Storm Cloud | 18.00% | ~23 |
+| New York City | 18.00% | ~23 |
+| Return | 17.00% | ~22 |
+| This is the Moment | 16.00% | ~21 |
+| Finding a Way | 15.00% | ~19 |
+| Stop Right There | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
-| Finding a Way | 14.00% | ~18 |
-| Stop Right There | 13.00% | ~17 |
 | Escape its Gravity | 12.00% | ~15 |
 | All His Life | 12.00% | ~15 |
 | Stop the Monster | 11.00% | ~14 |
 | Bright Falls' Finest | 10.00% | ~13 |
-| Growing Stronger | 9.00% | ~12 |
+| Growing Stronger | 10.00% | ~13 |
 | Back in Watery | 9.00% | ~12 |
 | In One Go | 9.00% | ~12 |
 | Stunning Vistas | 8.00% | ~10 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 767,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2101,9 +2101,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_114",
@@ -2517,17 +2517,17 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_48",
@@ -2661,9 +2661,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_63",
@@ -3001,8 +3001,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:06:31.5590368+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:06:22.3341638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:02:19.4127168+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:06:31.5592321+00:00"
+  "LastUpdate_Ratings": "2023-10-22T00:02:27.3405332+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:06:22.3343975+00:00"
 }

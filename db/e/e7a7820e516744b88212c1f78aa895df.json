@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-10-21T22:06:32.3724563+00:00",
       "NumProgressed": 181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T00:05:27.7817935+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -712,13 +717,13 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achMaxCage",
       "SetID": "7ji07dj",
       "Name": "Fortress on Wheels",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -766,15 +771,15 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "achScoutMaxStar",
       "SetID": "7ji07dj",
       "Name": "Employee of the Month",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -792,7 +797,7 @@
       "Name": "Extra Funding",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achSponsor10",
@@ -814,9 +819,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achSponsorMain1",
@@ -935,14 +940,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-21T23:05:37.1767271+00:00",
+  "LastChanged_Achievements": "2023-10-22T00:05:27.7817927+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-21T22:59:10.6397614+00:00",
-  "LastUpdate_Achievements": "2023-10-21T23:05:37.1767541+00:00"
+  "LastUpdate_Ratings": "2023-10-21T23:59:03.2459573+00:00",
+  "LastUpdate_Achievements": "2023-10-22T00:05:27.7818195+00:00"
 }
