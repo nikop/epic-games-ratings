@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1932,9 +1932,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14870,
+  "EOS_Progressed": 14871,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14462,6 +14462,11 @@
       "Time": "2023-10-22T12:10:12.4544971+00:00",
       "NumProgressed": 14870,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T13:11:25.041704+00:00",
+      "NumProgressed": 14871,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15231,9 +15236,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great Difficulty",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
@@ -17208,21 +17213,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14870,
+      "Progressed": 14871,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14870,
+      "Progressed": 14871,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-22T09:59:37.3953785+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:10:12.4544966+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:11:25.0417034+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:00:54.1797224+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:10:12.4558572+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:02:21.6510764+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:11:25.042838+00:00"
 }

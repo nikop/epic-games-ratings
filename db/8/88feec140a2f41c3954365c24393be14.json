@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -161,11 +161,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97172,
-  "EOS_Completed": 4115,
-  "EOS_NewPlayers": 2647,
-  "EOS_NewCompleters": 323,
-  "EOS_Completed_Percentage": 4.23,
+  "EOS_Progressed": 97186,
+  "EOS_Completed": 4117,
+  "EOS_NewPlayers": 2623,
+  "EOS_NewCompleters": 324,
+  "EOS_Completed_Percentage": 4.24,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:33.5899615+00:00",
@@ -4691,6 +4691,11 @@
       "Time": "2023-10-22T12:09:08.3693395+00:00",
       "NumProgressed": 97172,
       "NumCompleted": 4115
+    },
+    {
+      "Time": "2023-10-22T13:10:10.4581905+00:00",
+      "NumProgressed": 97186,
+      "NumCompleted": 4117
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -4703,7 +4708,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60247
+      "UsersEstimate": 60255
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -4711,7 +4716,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 14576
+      "UsersEstimate": 14578
     },
     {
       "ID": "GoldPact",
@@ -4719,7 +4724,7 @@
       "Name": "Gold Pact",
       "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 16519
+      "UsersEstimate": 16522
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -4735,7 +4740,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 52473
+      "UsersEstimate": 52480
     },
     {
       "ID": "ShipDip",
@@ -4743,7 +4748,7 @@
       "Name": "Ship Dip!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 48586
+      "UsersEstimate": 48593
     },
     {
       "ID": "TheArtOfParley",
@@ -4751,7 +4756,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 72879
+      "UsersEstimate": 72890
     },
     {
       "ID": "TheGoldenRatio",
@@ -4759,7 +4764,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 10689
+      "UsersEstimate": 10690
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -4767,7 +4772,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 56360
+      "UsersEstimate": 56368
     },
     {
       "ID": "WeCanDoBetter",
@@ -4775,7 +4780,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 74822
+      "UsersEstimate": 74833
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -4783,7 +4788,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 75794
+      "UsersEstimate": 75805
     },
     {
       "ID": "WelcomeAboard",
@@ -4791,23 +4796,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 75794
+      "UsersEstimate": 75805
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 97172,
-      "Completed": 4115
+      "Progressed": 97186,
+      "Completed": 4117
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-19T19:58:56.0723038+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:09:08.3693391+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:10:10.4581901+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.1265351+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:00:41.4017578+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:09:08.3693847+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:02:11.053705+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:10:10.4582281+00:00"
 }

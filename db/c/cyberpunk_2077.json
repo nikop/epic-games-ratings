@@ -13964,10 +13964,10 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893262,
+  "EOS_Progressed": 893279,
   "EOS_Completed": 2696,
-  "EOS_NewPlayers": 1316,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 1320,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34909,6 +34909,11 @@
       "Time": "2023-10-22T12:06:32.8096735+00:00",
       "NumProgressed": 893262,
       "NumCompleted": 2696
+    },
+    {
+      "Time": "2023-10-22T13:07:54.279577+00:00",
+      "NumProgressed": 893279,
+      "NumCompleted": 2696
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34991,9 +34996,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "Gunslinger",
@@ -35375,9 +35380,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 66
     },
     {
       "ID": "HydraIsDead",
@@ -35440,21 +35445,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893262,
+      "Progressed": 893279,
       "Completed": 2696
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21885,
+      "Progressed": 21902,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T10:58:52.4090219+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:06:32.8096731+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:07:54.279576+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:59:51.3482765+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:06:32.8098972+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:01:29.3148336+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:07:54.2797671+00:00"
 }

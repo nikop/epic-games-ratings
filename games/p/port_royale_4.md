@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~790 |
-| My little farm | 64.00% | ~624 |
-| Every beginning is difficult | 63.00% | ~614 |
+| Cabin boy | 81.00% | ~791 |
+| My little farm | 64.00% | ~625 |
+| Every beginning is difficult | 63.00% | ~615 |
 | Gofer | 57.00% | ~556 |
-| 3, 2, 1, mine | 55.00% | ~536 |
-| O Captain! My Captain! | 54.00% | ~526 |
-| Seafarer | 52.00% | ~507 |
-| Greed for gold | 43.00% | ~419 |
+| 3, 2, 1, mine | 55.00% | ~537 |
+| O Captain! My Captain! | 54.00% | ~527 |
+| Seafarer | 52.00% | ~508 |
+| Greed for gold | 43.00% | ~420 |
 | Intangible | 42.00% | ~410 |
 | I'm out of here for a while | 42.00% | ~410 |
-| In a mint condition | 38.00% | ~370 |
+| In a mint condition | 38.00% | ~371 |
 | Licence to Kill | 37.00% | ~361 |
 | Pirates! | 34.00% | ~332 |
 | Collectionitis | 29.00% | ~283 |
 | Christening | 28.00% | ~273 |
 | Megalomania | 28.00% | ~273 |
 | Groundskeeper | 26.00% | ~254 |
-| Wholesale | 22.00% | ~214 |
+| Wholesale | 22.00% | ~215 |
 | Walk the plank | 21.00% | ~205 |
 | Pearly gates | 18.00% | ~176 |
 | My precious! | 17.00% | ~166 |
-| Conquistador | 14.00% | ~136 |
+| Conquistador | 14.00% | ~137 |
 | Panic buying | 11.00% | ~107 |
 | Just a scratch | 9.00% | ~88 |
 | Your vessel, my vessel | 9.00% | ~88 |
@@ -36,7 +36,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~78 |
 | Maker | 7.00% | ~68 |
 | Conglomerate | 7.00% | ~68 |
-| The Grande Bouffe | 6.00% | ~58 |
+| The Grande Bouffe | 6.00% | ~59 |
 | Buccaneer | 5.00% | ~49 |
 | Flying Dutchman | 5.00% | ~49 |
 | Overpopulation | 4.00% | ~39 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975 (Ranked 240)  
+Progressed: 976 (Ranked 241)  
 Completed: 1 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 1 (0.10%) (Ranked 250)
 | 2023-10-19 | 970 | 1 |
 | 2023-10-20 | 971 | 1 |
 | 2023-10-21 | 974 | 1 |
-| 2023-10-22 | 975 | 1 |
+| 2023-10-22 | 976 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -11,6 +11,7 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 0.30% | ~4 |
 | The Cost of Heroism | 0.30% | ~4 |
 | Let Me Get My Chisel | 0.20% | ~3 |
+| Cutthroat Competitors | 0.20% | ~3 |
 | Daybreak | 0.20% | ~3 |
 | Me and My Familiar | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
@@ -18,7 +19,6 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
-| Cutthroat Competitors | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
 | Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |

@@ -7,35 +7,35 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 73.00% | ~7,139 |
-| Leader | 61.00% | ~5,965 |
+| Leader | 61.00% | ~5,966 |
 | Explorer | 53.00% | ~5,183 |
-| Healer | 52.00% | ~5,085 |
+| Healer | 52.00% | ~5,086 |
 | Aspiring Inventor | 44.00% | ~4,303 |
-| Adventurer | 42.00% | ~4,107 |
+| Adventurer | 42.00% | ~4,108 |
 | Famous Healer | 38.00% | ~3,716 |
 | Local Leader | 35.00% | ~3,423 |
 | Famous Explorer | 34.00% | ~3,325 |
 | New Opportunities | 34.00% | ~3,325 |
 | Energized | 33.00% | ~3,227 |
 | The Long Haul | 33.00% | ~3,227 |
-| Survivor | 32.00% | ~3,129 |
-| The Great Healer | 31.00% | ~3,031 |
+| Survivor | 32.00% | ~3,130 |
+| The Great Healer | 31.00% | ~3,032 |
 | Legendary Explorer | 28.00% | ~2,738 |
 | Cleaner | 28.00% | ~2,738 |
 | Catastrofan | 28.00% | ~2,738 |
 | Finders, Keepers | 26.00% | ~2,543 |
 | Top Notch | 25.00% | ~2,445 |
 | Great Leader | 23.00% | ~2,249 |
+| Ice Lakes | 23.00% | ~2,249 |
 | Mentor | 23.00% | ~2,249 |
-| Merchant | 22.00% | ~2,151 |
-| Ice Lakes | 22.00% | ~2,151 |
-| Real Survivor | 22.00% | ~2,151 |
+| Merchant | 22.00% | ~2,152 |
+| Real Survivor | 22.00% | ~2,152 |
 | Rocket Surgeon | 20.00% | ~1,956 |
 | War Never Changes | 19.00% | ~1,858 |
-| Friendly | 17.00% | ~1,662 |
-| Big Game Hunter | 17.00% | ~1,662 |
-| Around the World | 17.00% | ~1,662 |
-| Spreading Influence | 17.00% | ~1,662 |
+| Friendly | 17.00% | ~1,663 |
+| Big Game Hunter | 17.00% | ~1,663 |
+| Around the World | 17.00% | ~1,663 |
+| Spreading Influence | 17.00% | ~1,663 |
 | Bookworm | 15.00% | ~1,467 |
 | Famous Adventurer | 14.00% | ~1,369 |
 | Prepared for Anything | 14.00% | ~1,369 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,779 (Ranked 150)  
+Progressed: 9,780 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 9,709 | 0 |
 | 2023-10-20 | 9,733 | 0 |
 | 2023-10-21 | 9,761 | 0 |
-| 2023-10-22 | 9,779 | 0 |
+| 2023-10-22 | 9,780 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 344)  
 Sum: 710 (Ranked 286)  

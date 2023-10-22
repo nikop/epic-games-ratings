@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,857 |
-| Landlord | 33.00% | ~21,033 |
-| Bannerlord | 23.00% | ~14,659 |
-| Horde breaker | 23.00% | ~14,659 |
-| Lawmaker | 23.00% | ~14,659 |
-| Trained | 23.00% | ~14,659 |
-| The king is pleased | 19.00% | ~12,110 |
-| King Solomon | 17.00% | ~10,835 |
-| Apple of my eye | 16.00% | ~10,198 |
-| I can do it | 16.00% | ~10,198 |
+| Lawbringer | 39.00% | ~24,859 |
+| Landlord | 33.00% | ~21,035 |
+| Bannerlord | 23.00% | ~14,660 |
+| Horde breaker | 23.00% | ~14,660 |
+| Lawmaker | 23.00% | ~14,660 |
+| Trained | 23.00% | ~14,660 |
+| The king is pleased | 19.00% | ~12,111 |
+| King Solomon | 17.00% | ~10,836 |
+| Apple of my eye | 16.00% | ~10,199 |
+| I can do it | 16.00% | ~10,199 |
 | God of the Arena | 13.00% | ~8,286 |
 | This Is Our Land | 13.00% | ~8,286 |
-| Against all odds | 12.00% | ~7,648 |
+| Against all odds | 12.00% | ~7,649 |
 | Duelist | 10.00% | ~6,374 |
 | Dynasty | 10.00% | ~6,374 |
 | I spit on your grave | 10.00% | ~6,374 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,187 |
 | Crush your enemies | 5.00% | ~3,187 |
 | My way | 5.00% | ~3,187 |
-| Veni vidi vici | 4.00% | ~2,549 |
+| Veni vidi vici | 4.00% | ~2,550 |
 | Freedom! | 3.00% | ~1,912 |
 | Long live the Empire! | 3.00% | ~1,912 |
 | Real Estate | 3.00% | ~1,912 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,736 (Ranked 99)  
+Progressed: 63,741 (Ranked 99)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 63,545 | 0 |
 | 2023-10-20 | 63,599 | 0 |
 | 2023-10-21 | 63,692 | 0 |
-| 2023-10-22 | 63,736 | 0 |
+| 2023-10-22 | 63,741 | 0 |
 ## Awards
 Max (Character Customization): 7,260  (Ranked 52)  
-Sum: 14,958 (Ranked 66)  
+Sum: 14,959 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,016 |
 | This game has Diverse Characters | 970 |
 | This game is Highly Recommended | 903 |
-| This game is Extremely Fun | 854 |
+| This game is Extremely Fun | 855 |
 | This game has Amazing Storytelling | 843 |
 | This game has Amazing Characters | 842 |
 | This game is Relaxing | 839 |
@@ -545,4 +545,4 @@ Diff (max vs sum): -14
 | 2023-10-19 | 4.74 | - | 7,249 | 14,927 |
 | 2023-10-20 | 4.74 | - | 7,255 | 14,942 |
 | 2023-10-21 | 4.74 | - | 7,260 | 14,955 |
-| 2023-10-22 | 4.74 | - | 7,260 | 14,958 |
+| 2023-10-22 | 4.74 | - | 7,260 | 14,959 |

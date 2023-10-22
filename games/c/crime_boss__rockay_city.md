@@ -18,9 +18,9 @@ Rating: 3.94 (Ranked 988)
 | Dragonslayer | 0.80% | ~714 |
 | Rockay Rex | 0.80% | ~714 |
 | Case Closed | 0.70% | ~625 |
-| Hidden Sonata | 0.60% | ~535 |
-| Track Star | 0.60% | ~535 |
-| True Player | 0.60% | ~535 |
+| Hidden Sonata | 0.60% | ~536 |
+| Track Star | 0.60% | ~536 |
+| True Player | 0.60% | ~536 |
 | Headhunter | 0.50% | ~446 |
 | I Like Trains | 0.40% | ~357 |
 | Freebooter | 0.40% | ~357 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 988)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,248 (Ranked 86)  
+Progressed: 89,250 (Ranked 86)  
 Completed: 50 (0.06%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 50 (0.06%) (Ranked 270)
 | 2023-10-19 | 89,188 | 50 |
 | 2023-10-20 | 89,206 | 50 |
 | 2023-10-21 | 89,231 | 50 |
-| 2023-10-22 | 89,248 | 50 |
+| 2023-10-22 | 89,250 | 50 |
 ## Awards
 Max (Diverse Characters): 509  (Ranked 203)  
 Sum: 2,862 (Ranked 175)  

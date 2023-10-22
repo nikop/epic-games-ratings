@@ -7,7 +7,7 @@
 | Choking Hazard | 44.00% | ~83 |
 | Animal Lover | 34.00% | ~64 |
 | Don't Breathe | 31.00% | ~59 |
-| Smooth Operator | 16.00% | ~30 |
+| Smooth Operator | 17.00% | ~32 |
 | Easy Listening | 15.00% | ~28 |
 | Rapturous Applause! | 14.00% | ~26 |
 | Perfect Harmony! | 13.00% | ~25 |
@@ -16,10 +16,10 @@
 | Bull in a China Shop | 6.00% | ~11 |
 | Sker Explorer | 5.00% | ~9 |
 | Ending on a High Note | 2.00% | ~4 |
+| Phonic Boom | 2.00% | ~4 |
 | The Long Night | 2.00% | ~4 |
 | Luddite | 1.00% | ~2 |
 | Maids of Sker | 1.00% | ~2 |
-| Phonic Boom | 1.00% | ~2 |
 | Axe of Kindness | 0.50% | ~1 |
 | In Darkness | 0.50% | ~1 |
 | Scholar | 0.50% | ~1 |

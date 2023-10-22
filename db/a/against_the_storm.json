@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17010,
+  "EOS_Progressed": 17011,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12356,6 +12356,11 @@
       "Time": "2023-10-22T12:05:57.0982825+00:00",
       "NumProgressed": 17010,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-22T13:07:23.9927267+00:00",
+      "NumProgressed": 17011,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12527,7 +12532,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "WinNearFishmen",
@@ -12631,7 +12636,7 @@
       "Name": "Coral Forest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "WinOnCursed",
@@ -12766,15 +12771,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17010,
+      "Progressed": 17011,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:05:57.098282+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:07:23.9927262+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:57:34.7886122+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:05:57.0983848+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:59:31.8825757+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:07:23.992826+00:00"
 }

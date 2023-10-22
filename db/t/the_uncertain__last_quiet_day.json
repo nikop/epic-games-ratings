@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2023-10-19T18:04:43.6527127+00:00",
       "NumProgressed": 555,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-22T13:08:17.4792772+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -705,7 +710,7 @@
       "Name": "Ace",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ANNOYING",
@@ -713,7 +718,7 @@
       "Name": "Annoying",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "BLADE_RUNNER",
@@ -729,7 +734,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -737,7 +742,7 @@
       "Name": "Concrete painting",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CURIOUS",
@@ -745,7 +750,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -753,7 +758,7 @@
       "Name": "Everybody lies",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -777,7 +782,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "HACKER",
@@ -785,7 +790,7 @@
       "Name": "Hacker",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "HANDS_UP",
@@ -793,7 +798,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -809,7 +814,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "HIPSTER",
@@ -825,7 +830,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "LUCKY_DOG",
@@ -865,7 +870,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "PERFECT_HEARING",
@@ -881,7 +886,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "POOL",
@@ -897,7 +902,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -905,7 +910,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "SILENT",
@@ -935,9 +940,9 @@
       "ID": "THERE_IS_ANOTHER_WAY",
       "SetID": "2iigf77",
       "Name": "There is another way",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 122
     },
     {
       "ID": "UNCERTAIN",
@@ -945,7 +950,7 @@
       "Name": "Uncertain",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WALKING_ROBOT",
@@ -960,7 +965,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 18
     }
   ],
@@ -968,8 +973,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:06:59.9012739+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:08:17.4792769+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.6002167+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:01:57.801209+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:06:59.9013033+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:03:19.4685843+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:08:17.479306+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4191,9 +4191,9 @@
       "Count": 464
     }
   ],
-  "EOS_Progressed": 89248,
+  "EOS_Progressed": 89250,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22816,6 +22816,11 @@
       "Time": "2023-10-22T12:07:12.5155927+00:00",
       "NumProgressed": 89248,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-22T13:08:29.4073774+00:00",
+      "NumProgressed": 89250,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -22851,7 +22856,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_0014",
@@ -22859,7 +22864,7 @@
       "Name": "Track Star",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_0015",
@@ -23075,7 +23080,7 @@
       "Name": "True Player",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_0450",
@@ -23154,13 +23159,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89248,
+      "Progressed": 89250,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17595,
+      "Progressed": 17597,
       "Completed": 15553
     }
   ],
@@ -23168,8 +23173,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-22T04:57:16.2709522+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:07:12.5155921+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:08:29.4073761+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.0531076+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:57:26.7031777+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:07:12.5157725+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:59:27.2519343+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:08:29.4075284+00:00"
 }

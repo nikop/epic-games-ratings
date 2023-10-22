@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 520,
+  "EOS_Progressed": 523,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -248,6 +248,11 @@
       "Time": "2023-10-22T12:06:57.8154186+00:00",
       "NumProgressed": 520,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T13:08:15.6664951+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -290,25 +295,25 @@
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
       "SetID": "9991201",
       "Name": "Aggressive Antivirus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -316,7 +321,7 @@
       "Name": "Pest Control",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -324,7 +329,7 @@
       "Name": "Team Builder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -340,7 +345,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 366
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -348,7 +353,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -356,7 +361,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -404,7 +409,7 @@
       "Name": "Hoarder",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -458,9 +463,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -468,7 +473,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -499,13 +504,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 520,
+      "Progressed": 523,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:06:57.8154182+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:08:15.6664943+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:58:57.9227023+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:06:57.8154459+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:00:44.1796232+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:08:15.666518+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10285,
+  "EOS_Progressed": 10286,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1709,6 +1709,11 @@
       "Time": "2023-10-21T23:06:34.2441067+00:00",
       "NumProgressed": 10285,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-22T13:09:45.0106442+00:00",
+      "NumProgressed": 10286,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1808,7 +1813,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1864,7 +1869,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1880,7 +1885,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7920
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1928,7 +1933,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5862
+      "UsersEstimate": 5863
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1944,7 +1949,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9874
+      "UsersEstimate": 9875
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1960,7 +1965,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6171
+      "UsersEstimate": 6172
     },
     {
       "ID": "ACH_NIGHT",
@@ -2056,22 +2061,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10285,
+      "Progressed": 10286,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:08:39.564478+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:09:45.0106437+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.5718252+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:00:47.9946305+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:08:39.5645222+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:02:17.0644662+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:09:45.0106867+00:00"
 }

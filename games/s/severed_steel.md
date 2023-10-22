@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 224)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~203,106 |
-| 50 HEADSHOTS | 28.00% | ~189,566 |
-| SCIENCE AND INDUSTRY | 27.00% | ~182,796 |
-| FINISHED CHAPTER 1 | 26.00% | ~176,025 |
-| FINISHED CHAPTER 2 | 19.00% | ~128,634 |
-| 200 HEADSHOTS | 17.00% | ~115,094 |
-| FINISHED CHAPTER 3 | 16.00% | ~108,323 |
-| FINISHED CHAPTER 4 | 14.00% | ~94,783 |
-| FINISH CHAPTER 5 | 12.00% | ~81,243 |
-| FINISH CHAPTER 6 | 10.00% | ~67,702 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,702 |
-| 1000 KILLS | 8.00% | ~54,162 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,081 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,540 |
-| FIRST BLOOD | 2.00% | ~13,540 |
+| 100 KILLS | 30.00% | ~203,114 |
+| 50 HEADSHOTS | 28.00% | ~189,573 |
+| SCIENCE AND INDUSTRY | 27.00% | ~182,802 |
+| FINISHED CHAPTER 1 | 26.00% | ~176,032 |
+| FINISHED CHAPTER 2 | 19.00% | ~128,639 |
+| 200 HEADSHOTS | 17.00% | ~115,098 |
+| FINISHED CHAPTER 3 | 16.00% | ~108,327 |
+| FINISHED CHAPTER 4 | 14.00% | ~94,786 |
+| FINISH CHAPTER 5 | 12.00% | ~81,246 |
+| FINISH CHAPTER 6 | 10.00% | ~67,705 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,705 |
+| 1000 KILLS | 8.00% | ~54,164 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,082 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,541 |
+| FIRST BLOOD | 2.00% | ~13,541 |
 | PACEMAKER | 1.00% | ~6,770 |
 | TIME PARADOX | 1.00% | ~6,770 |
 | OUT OF ORDER | 0.90% | ~6,093 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 224)
 | THE GAMBLER | 0.10% | ~677 |
 | WARRIOR IN A GARDEN | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,021 (Ranked 23)  
+Progressed: 677,046 (Ranked 23)  
 Completed: 77 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 77 (0.01%) (Ranked 299)
 | 2023-10-19 | 675,836 | 74 |
 | 2023-10-20 | 676,263 | 75 |
 | 2023-10-21 | 676,789 | 77 |
-| 2023-10-22 | 677,021 | 77 |
+| 2023-10-22 | 677,046 | 77 |
 ## Awards
 Max (Great Boss Battles): 355  (Ranked 233)  
 Sum: 355 (Ranked 339)  

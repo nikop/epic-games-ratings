@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16858,
+  "EOS_Progressed": 16859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5823,6 +5823,11 @@
       "Time": "2023-10-22T12:04:02.5659967+00:00",
       "NumProgressed": 16858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T13:05:35.8233796+00:00",
+      "NumProgressed": 16859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -5834,7 +5839,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "ACH001",
@@ -5842,7 +5847,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14498
+      "UsersEstimate": 14499
     },
     {
       "ID": "ACH0010",
@@ -5866,7 +5871,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8260
+      "UsersEstimate": 8261
     },
     {
       "ID": "ACH0013",
@@ -5874,7 +5879,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "ACH0014",
@@ -5954,7 +5959,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5900
+      "UsersEstimate": 5901
     },
     {
       "ID": "ACH0023",
@@ -5978,7 +5983,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH003",
@@ -5994,7 +5999,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14666
+      "UsersEstimate": 14667
     },
     {
       "ID": "ACH005",
@@ -6041,7 +6046,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16858,
+      "Progressed": 16859,
       "Completed": 0
     }
   ],
@@ -6049,8 +6054,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:04:02.5659962+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:05:35.8233784+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:32.1142451+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:58:01.204891+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:04:02.5660615+00:00"
+  "LastUpdate_Ratings": "2023-10-22T12:59:55.1226469+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:05:35.8234336+00:00"
 }

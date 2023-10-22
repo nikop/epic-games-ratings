@@ -27,29 +27,29 @@
 | Cockadoodledoo! | 50.00% | ~54 |
 | Thats disgusting! | 47.00% | ~50 |
 | My pants squeak when I walk | 44.00% | ~47 |
-| Self assessed tax return | 41.00% | ~44 |
+| Self assessed tax return | 42.00% | ~45 |
 | Surprise!! | 41.00% | ~44 |
 | Haemochromatosis | 40.00% | ~43 |
 | Make America Grate Again | 36.00% | ~39 |
-| Pasta Bolognese | 35.00% | ~37 |
+| Pasta Bolognese | 36.00% | ~39 |
 | You can't stop me, bro! | 34.00% | ~36 |
 | You are no match for me, Billy! | 33.00% | ~35 |
 | Catch the bus with me! | 33.00% | ~35 |
 | Karaoke king | 32.00% | ~34 |
+| Meatballs, coming up! | 30.00% | ~32 |
 | I'm going to get a concussion | 30.00% | ~32 |
-| Meatballs, coming up! | 29.00% | ~31 |
 | Another one bites the iron | 29.00% | ~31 |
-| A Megapint...? | 24.00% | ~26 |
+| A Megapint...? | 25.00% | ~27 |
 | Ripe Meat Off The Bone! | 24.00% | ~26 |
-| Hovering around | 23.00% | ~25 |
+| Hovering around | 24.00% | ~26 |
 | Kleptomaniac | 23.00% | ~25 |
-| You're not so Big anymore, Boi! | 21.00% | ~22 |
+| You're not so Big anymore, Boi! | 22.00% | ~24 |
 | Your daily dose of Vitamin C. | 21.00% | ~22 |
 | I cant stand still! | 21.00% | ~22 |
+| Slimy... yet satisfying | 18.00% | ~19 |
 | Master Butcher | 17.00% | ~18 |
-| Slimy... yet satisfying | 17.00% | ~18 |
+| Deal with it | 17.00% | ~18 |
 | Just wing it! | 16.00% | ~17 |
-| Deal with it | 16.00% | ~17 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~14 |
 | Yeehaw!!! | 13.00% | ~14 |
 | You're looking mozzare-hella good! | 12.00% | ~13 |

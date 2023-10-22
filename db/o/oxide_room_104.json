@@ -4,8 +4,8 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-10-22T06:04:30.0062006+00:00",
       "NumProgressed": 202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T13:06:13.1845852+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -946,7 +951,7 @@
       "Name": "Antidote",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_BANDAGES",
@@ -954,7 +959,7 @@
       "Name": "First aid",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_BATHROOM",
@@ -962,7 +967,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1042,7 +1047,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1066,7 +1071,7 @@
       "Name": "Soundtrack",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1138,7 +1143,7 @@
       "Name": "One-way",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_SPADE",
@@ -1162,29 +1167,29 @@
       "Name": "The third floor",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:04:34.2231421+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:06:13.1845847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.0821897+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:00:09.6378904+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:04:34.2231765+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:01:45.1264204+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:06:13.1846163+00:00"
 }

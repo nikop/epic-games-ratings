@@ -159,6 +159,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
+| Great Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
@@ -213,7 +214,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~15 |
 | Council of Madness | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
-| Great Difficulty | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
 | Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,870 (Ranked 139)  
+Progressed: 14,871 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,870 | 5 |
+| 2023-10-22 | 14,871 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

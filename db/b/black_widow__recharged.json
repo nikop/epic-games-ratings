@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19011,
+  "EOS_Progressed": 19012,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15071,6 +15071,11 @@
       "Time": "2023-10-22T11:03:14.747641+00:00",
       "NumProgressed": 19011,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-22T13:05:23.9498548+00:00",
+      "NumProgressed": 19012,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15154,7 +15159,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2471
+      "UsersEstimate": 2472
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -15193,15 +15198,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19011,
+      "Progressed": 19012,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:03:28.3707626+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:05:23.949854+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.6055871+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:58:22.0021718+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:03:28.3709047+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:00:12.8711666+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:05:23.9499669+00:00"
 }

@@ -20,9 +20,9 @@
 | Untapped Potential | 17.00% | ~61 |
 | Played by Gramps | 14.00% | ~50 |
 | Size Doesn’t Matter | 13.00% | ~46 |
+| Totally Swamped | 12.00% | ~43 |
 | I Choo-Choo-Choose You | 12.00% | ~43 |
 | My Savior! | 12.00% | ~43 |
-| Totally Swamped | 11.00% | ~39 |
 | Is Anyone Out There? | 11.00% | ~39 |
 | Limitless | 10.00% | ~36 |
 | Hammer Time | 10.00% | ~36 |

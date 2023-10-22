@@ -5,22 +5,22 @@ Rating: 4.55 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,169 |
-| Before the Downfall | 97.00% | ~18,229 |
-| Money like Water | 95.00% | ~17,853 |
-| Minimalist | 94.00% | ~17,665 |
-| Builder | 86.00% | ~16,162 |
-| Eraser | 73.00% | ~13,719 |
+| Trevithick's Legacy | 102.00% | ~19,168 |
+| Before the Downfall | 97.00% | ~18,228 |
+| Money like Water | 95.00% | ~17,852 |
+| Minimalist | 94.00% | ~17,664 |
+| Builder | 86.00% | ~16,161 |
+| Eraser | 73.00% | ~13,718 |
 | Pocket of Trains | 68.00% | ~12,779 |
-| Inspector | 61.00% | ~11,464 |
+| Inspector | 61.00% | ~11,463 |
 | Going the Distance | 56.00% | ~10,524 |
-| Oil Baron | 44.00% | ~8,269 |
-| Loads-a-Money | 44.00% | ~8,269 |
+| Oil Baron | 44.00% | ~8,268 |
+| Loads-a-Money | 44.00% | ~8,268 |
 | Helper of the People | 41.00% | ~7,705 |
-| Simplification | 35.00% | ~6,578 |
-| Box of Trains | 35.00% | ~6,578 |
-| Let There be Light | 34.00% | ~6,390 |
-| Hot Water | 32.00% | ~6,014 |
+| Simplification | 35.00% | ~6,577 |
+| Box of Trains | 35.00% | ~6,577 |
+| Let There be Light | 34.00% | ~6,389 |
+| Hot Water | 32.00% | ~6,013 |
 | Indecisive | 30.00% | ~5,638 |
 | The scenic route | 29.00% | ~5,450 |
 | Industrialist | 26.00% | ~4,886 |
@@ -32,7 +32,7 @@ Rating: 4.55 (Ranked 494)
 | Investor | 10.00% | ~1,879 |
 | The poor groundwater levels | 8.00% | ~1,503 |
 | Metropolis | 8.00% | ~1,503 |
-| Multiverse | 7.00% | ~1,316 |
+| Multiverse | 7.00% | ~1,315 |
 | High Flier | 4.00% | ~752 |
 | To infinity, and beyond! | 3.00% | ~564 |
 | Space industrialization | 2.00% | ~376 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 494)
 | Overdeer | 0.60% | ~113 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,793 (Ranked 129)  
+Progressed: 18,792 (Ranked 129)  
 Completed: 32 (0.17%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 32 (0.17%) (Ranked 232)
 | 2023-10-22 | 18,801 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 91  (Ranked 363)  
-Sum: 673 (Ranked 293)  
+Sum: 674 (Ranked 293)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -239,7 +239,7 @@ Diff (max vs sum): 70
 | This game is Extremely Fun | 85 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 61 |
-| This game has Amazing Characters | 46 |
+| This game has Amazing Characters | 47 |
 | This game has a Creative Community | 42 |
 | This game has Challenging Combat | 29 |
 ## Ratings History
@@ -309,3 +309,4 @@ Diff (max vs sum): 70
 | 2023-10-01 | 4.55 | 89 | 670 |
 | 2023-10-06 | 4.55 | 90 | 672 |
 | 2023-10-19 | 4.55 | 91 | 673 |
+| 2023-10-22 | 4.55 | 91 | 674 |

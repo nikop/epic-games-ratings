@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153909,
+  "EOS_Progressed": 153931,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12599,6 +12599,11 @@
       "Time": "2023-10-22T12:08:08.3207623+00:00",
       "NumProgressed": 153909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T13:09:17.7084484+00:00",
+      "NumProgressed": 153931,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12658,7 +12663,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12674,7 +12679,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12682,7 +12687,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12714,7 +12719,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12722,7 +12727,7 @@
       "Name": "Glare",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -12754,7 +12759,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -12762,7 +12767,7 @@
       "Name": "Jawstag",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -12786,7 +12791,7 @@
       "Name": "Feast",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -12794,7 +12799,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -12826,7 +12831,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12874,7 +12879,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -12882,7 +12887,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12906,7 +12911,7 @@
       "Name": "Dream",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "QUEST_CODA",
@@ -12922,7 +12927,7 @@
       "Name": "Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "QUEST_LISTENER",
@@ -12946,7 +12951,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MISC_FINISHNG",
@@ -12954,7 +12959,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -12962,7 +12967,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -12970,28 +12975,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153492,
+      "Progressed": 153514,
       "Completed": 1169
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153909,
+      "Progressed": 153931,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T12:08:08.3207618+00:00",
+  "LastChanged_Achievements": "2023-10-22T13:09:17.7084481+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T11:59:32.7328751+00:00",
-  "LastUpdate_Achievements": "2023-10-22T12:08:08.320893+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:01:13.1554368+00:00",
+  "LastUpdate_Achievements": "2023-10-22T13:09:17.7085576+00:00"
 }
