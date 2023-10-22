@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1904,
+  "EOS_Progressed": 1905,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2304,6 +2304,11 @@
       "Time": "2023-10-22T02:24:59.7575121+00:00",
       "NumProgressed": 1904,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-22T09:05:53.4665393+00:00",
+      "NumProgressed": 1905,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2323,7 +2328,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2363,7 +2368,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2395,7 +2400,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2467,7 +2472,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2547,7 +2552,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2579,7 +2584,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2611,15 +2616,15 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
       "SetID": "8j30i9k",
       "Name": "Something Wicked This Way Comes\u2026",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2633,9 +2638,9 @@
       "ID": "ACH_THERE_IS_HOPE",
       "SetID": "8j30i9k",
       "Name": "There is Hope",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2699,7 +2704,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2738,15 +2743,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1904,
+      "Progressed": 1905,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:06:40.0807493+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:05:53.4665386+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:00:46.8472534+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:06:40.0808069+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:59:54.8787198+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:05:53.4665979+00:00"
 }

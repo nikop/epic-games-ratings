@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 634,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -58,9 +58,9 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LostCat",
@@ -96,8 +96,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:05:28.157616+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:05:02.7288999+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.445405+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:58:24.4452611+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:05:28.1576242+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:58:22.2212586+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:05:02.7289094+00:00"
 }

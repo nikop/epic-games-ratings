@@ -6,26 +6,26 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~789 |
-| My little farm | 64.00% | ~623 |
+| Cabin boy | 81.00% | ~790 |
+| My little farm | 64.00% | ~624 |
 | Every beginning is difficult | 63.00% | ~614 |
-| Gofer | 57.00% | ~555 |
+| Gofer | 57.00% | ~556 |
 | 3, 2, 1, mine | 55.00% | ~536 |
-| O Captain! My Captain! | 55.00% | ~536 |
-| Seafarer | 52.00% | ~506 |
+| O Captain! My Captain! | 54.00% | ~526 |
+| Seafarer | 52.00% | ~507 |
 | Greed for gold | 43.00% | ~419 |
-| Intangible | 42.00% | ~409 |
-| I'm out of here for a while | 42.00% | ~409 |
+| Intangible | 42.00% | ~410 |
+| I'm out of here for a while | 42.00% | ~410 |
 | In a mint condition | 38.00% | ~370 |
-| Licence to Kill | 37.00% | ~360 |
-| Pirates! | 34.00% | ~331 |
-| Collectionitis | 29.00% | ~282 |
+| Licence to Kill | 37.00% | ~361 |
+| Pirates! | 34.00% | ~332 |
+| Collectionitis | 29.00% | ~283 |
 | Christening | 28.00% | ~273 |
 | Megalomania | 28.00% | ~273 |
-| Groundskeeper | 26.00% | ~253 |
+| Groundskeeper | 26.00% | ~254 |
 | Wholesale | 22.00% | ~214 |
 | Walk the plank | 21.00% | ~205 |
-| Pearly gates | 18.00% | ~175 |
+| Pearly gates | 18.00% | ~176 |
 | My precious! | 17.00% | ~166 |
 | Conquistador | 14.00% | ~136 |
 | Panic buying | 11.00% | ~107 |
@@ -43,12 +43,12 @@ Number of Ratings: 53  (23.09.2022)
 | Premier Maître | 3.00% | ~29 |
 | Supreme conqueror | 3.00% | ~29 |
 | A true pirate! | 3.00% | ~29 |
-| Strategist | 2.00% | ~19 |
-| The customer is always right | 2.00% | ~19 |
-| Master & Commander | 2.00% | ~19 |
-| All aboard! | 2.00% | ~19 |
-| Gold fever | 2.00% | ~19 |
-| Fill it up, please! | 2.00% | ~19 |
+| Strategist | 2.00% | ~20 |
+| The customer is always right | 2.00% | ~20 |
+| Master & Commander | 2.00% | ~20 |
+| All aboard! | 2.00% | ~20 |
+| Gold fever | 2.00% | ~20 |
+| Fill it up, please! | 2.00% | ~20 |
 | Administrator | 1.00% | ~10 |
 | Raiders of the Lost Ark | 0.90% | ~9 |
 | Capitalist | 0.80% | ~8 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 240)  
+Progressed: 975 (Ranked 240)  
 Completed: 1 (0.10%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 1 (0.10%) (Ranked 250)
 | 2023-10-19 | 970 | 1 |
 | 2023-10-20 | 971 | 1 |
 | 2023-10-21 | 974 | 1 |
+| 2023-10-22 | 975 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

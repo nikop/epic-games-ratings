@@ -18,14 +18,14 @@
 | Chicken Dinner | 21.00% | ~108 |
 | Peaceful Instinct | 19.00% | ~98 |
 | Maternity | 16.00% | ~82 |
+| Family Reunion | 15.00% | ~77 |
 | Barking in The Rain | 15.00% | ~77 |
-| Family Reunion | 14.00% | ~72 |
 | Never Run Around | 14.00% | ~72 |
 | Beyond Words | 14.00% | ~72 |
+| Three Little Foxes | 11.00% | ~57 |
 | Two Peas in a Pod | 11.00% | ~57 |
 | All For One | 11.00% | ~57 |
 | Extinction is Forever | 11.00% | ~57 |
-| Three Little Foxes | 10.00% | ~51 |
 | We Are a Family | 9.00% | ~46 |
 | For a Better Tomorrow | 4.00% | ~21 |
 | Mother Love | 4.00% | ~21 |

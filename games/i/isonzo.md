@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,888 |
-| Peak Performance | 54.00% | ~3,817 |
-| You Shall Not Pass | 54.00% | ~3,817 |
-| Avanti Savoia! | 48.00% | ~3,393 |
-| Mamma Mia! | 38.00% | ~2,686 |
+| Tutti Eroi! | 55.00% | ~3,889 |
+| Peak Performance | 54.00% | ~3,818 |
+| You Shall Not Pass | 54.00% | ~3,818 |
+| Avanti Savoia! | 48.00% | ~3,394 |
+| Mamma Mia! | 38.00% | ~2,687 |
 | Conrad von Hotzensocks | 36.00% | ~2,545 |
-| Gabriele D'Annunzio | 34.00% | ~2,403 |
+| Gabriele D'Annunzio | 34.00% | ~2,404 |
 | Silver Lining | 30.00% | ~2,121 |
 | Aurelio Baruzzi | 24.00% | ~1,697 |
 | Decimation | 22.00% | ~1,555 |
@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,555 |
 | Insubordination | 20.00% | ~1,414 |
 | Ragazzi del '99 | 19.00% | ~1,343 |
-| The Lion of the Isonzo | 18.00% | ~1,272 |
+| The Lion of the Isonzo | 18.00% | ~1,273 |
 | Luigi Cadorna | 15.00% | ~1,060 |
 | Dirty Dozen | 14.00% | ~990 |
 | Shaken, Not Stirred | 14.00% | ~990 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 7.00% | ~495 |
 | Cercatore d'Oro | 6.00% | ~424 |
 | The Enlightment | 6.00% | ~424 |
-| Generalissimo | 5.00% | ~353 |
+| Generalissimo | 5.00% | ~354 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~283 |
 | Seeing Red | 4.00% | ~283 |
 | Farewell to Arms | 3.00% | ~212 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,069 (Ranked 162)  
+Progressed: 7,070 (Ranked 162)  
 Completed: 9 (0.13%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 9 (0.13%) (Ranked 240)
 | 2023-10-19 | 7,063 | 9 |
 | 2023-10-20 | 7,064 | 9 |
 | 2023-10-21 | 7,069 | 9 |
+| 2023-10-22 | 7,070 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 454)  
 Sum: 274 (Ranked 363)  

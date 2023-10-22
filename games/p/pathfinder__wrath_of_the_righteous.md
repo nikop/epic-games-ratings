@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 15.00% | ~1,753 |
 | Mythic Choices | 14.00% | ~1,636 |
 | Banner over the Citadel | 13.00% | ~1,519 |
-| Queen's Gratitude | 12.00% | ~1,402 |
+| Queen's Gratitude | 12.00% | ~1,403 |
 | Fifth Crusade | 8.00% | ~935 |
 | Embrace of the Abyss | 6.00% | ~701 |
 | Path of the Angel | 6.00% | ~701 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~584 |
 | All Paths Open | 5.00% | ~584 |
 | Next-Door Play | 5.00% | ~584 |
-| Heart of the Fallen Land | 4.00% | ~467 |
-| The Legacy | 4.00% | ~467 |
-| Divide and Rule | 4.00% | ~467 |
-| Mythic Reinforcements | 4.00% | ~467 |
-| A Flame | 4.00% | ~467 |
-| Get the Toad | 4.00% | ~467 |
+| Heart of the Fallen Land | 4.00% | ~468 |
+| The Legacy | 4.00% | ~468 |
+| Divide and Rule | 4.00% | ~468 |
+| Mythic Reinforcements | 4.00% | ~468 |
+| A Flame | 4.00% | ~468 |
+| Get the Toad | 4.00% | ~468 |
 | Path of the Trickster | 3.00% | ~351 |
 | Heroic Victory | 3.00% | ~351 |
 | Core of the Riddle | 3.00% | ~351 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,687 (Ranked 146)  
+Progressed: 11,688 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 11,606 | 0 |
 | 2023-10-20 | 11,639 | 0 |
 | 2023-10-21 | 11,674 | 0 |
-| 2023-10-22 | 11,687 | 0 |
+| 2023-10-22 | 11,688 | 0 |
 ## Awards
 Max (Character Customization): 1,726  (Ranked 120)  
 Sum: 6,997 (Ranked 117)  

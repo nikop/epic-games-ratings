@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1668,17 +1668,17 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
@@ -1691,8 +1691,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:07:54.0451105+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:06:45.3816065+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:01:25.241565+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:07:54.0451399+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:00:18.4445569+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:06:45.3816357+00:00"
 }

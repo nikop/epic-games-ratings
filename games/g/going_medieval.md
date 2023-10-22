@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,729 |
-| Having A Field Day | 75.00% | ~4,729 |
+| Get A Room | 75.00% | ~4,730 |
+| Having A Field Day | 75.00% | ~4,730 |
 | Reap What You Sow | 72.00% | ~4,540 |
-| The First Day | 69.00% | ~4,350 |
-| Green Thumb | 67.00% | ~4,224 |
-| Novice Researcher | 67.00% | ~4,224 |
-| Home Cooked Meal | 59.00% | ~3,720 |
+| The First Day | 69.00% | ~4,351 |
+| Green Thumb | 67.00% | ~4,225 |
+| Novice Researcher | 67.00% | ~4,225 |
+| Home Cooked Meal | 59.00% | ~3,721 |
 | Onward | 57.00% | ~3,594 |
 | The First Week | 55.00% | ~3,468 |
 | Beam Me Up | 52.00% | ~3,279 |
 | Studious Researcher | 52.00% | ~3,279 |
 | Putting Food on the Table | 51.00% | ~3,216 |
-| Adept Researcher | 45.00% | ~2,837 |
-| Retribution | 42.00% | ~2,648 |
-| Feast or Famine | 42.00% | ~2,648 |
-| ...And Don’t Come Back! | 42.00% | ~2,648 |
+| Adept Researcher | 45.00% | ~2,838 |
+| Retribution | 42.00% | ~2,649 |
+| Feast or Famine | 42.00% | ~2,649 |
+| ...And Don’t Come Back! | 42.00% | ~2,649 |
 | Fit For A King | 32.00% | ~2,018 |
 | Heating Up | 31.00% | ~1,955 |
 | Luminary Researcher | 31.00% | ~1,955 |
-| Winter Is Coming | 28.00% | ~1,765 |
+| Winter Is Coming | 28.00% | ~1,766 |
 | Winter Is Here | 24.00% | ~1,513 |
 | Disassembled | 22.00% | ~1,387 |
 | A Party Now | 21.00% | ~1,324 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~126 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,305 (Ranked 168)  
+Progressed: 6,306 (Ranked 168)  
 Completed: 14 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 14 (0.22%) (Ranked 219)
 | 2023-10-19 | 6,266 | 14 |
 | 2023-10-20 | 6,282 | 14 |
 | 2023-10-21 | 6,298 | 14 |
-| 2023-10-22 | 6,305 | 14 |
+| 2023-10-22 | 6,306 | 14 |
 ## Awards
 Max (Relaxing): 123  (Ranked 325)  
 Sum: 997 (Ranked 250)  

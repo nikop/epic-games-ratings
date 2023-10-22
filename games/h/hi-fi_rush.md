@@ -5,8 +5,8 @@ Rating: 4.85 (Ranked 43)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 16.00% | ~666 |
 | Start with a bang! | 15.00% | ~624 |
-| Feeling the beat! | 15.00% | ~624 |
 | You can pet the cat! | 14.00% | ~583 |
 | Cream of the Crop | 13.00% | ~541 |
 | Who put gears in there? | 13.00% | ~541 |
@@ -20,11 +20,11 @@ Rating: 4.85 (Ranked 43)
 | Uh, they were broken when I got here | 10.00% | ~416 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~375 |
 | Kissing the sky! | 9.00% | ~375 |
+| I look cool. But I can look COOLER. | 9.00% | ~375 |
 | The Negotiator | 8.00% | ~333 |
 | Headliner | 8.00% | ~333 |
 | Time to pay up! | 8.00% | ~333 |
 | Out in a puff of smoke | 8.00% | ~333 |
-| I look cool. But I can look COOLER. | 8.00% | ~333 |
 | NOW we got a kickass hideout! | 8.00% | ~215 |
 | Who's the boss now? | 7.00% | ~291 |
 | You must like calling me in, Chai | 7.00% | ~291 |

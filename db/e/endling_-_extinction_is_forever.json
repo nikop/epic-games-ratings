@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -789,9 +789,9 @@
       "ID": "TROP002",
       "SetID": "9n0dl35",
       "Name": "Three Little Foxes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "TROP003",
@@ -829,9 +829,9 @@
       "ID": "TROP007",
       "SetID": "9n0dl35",
       "Name": "Family Reunion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "TROP008",
@@ -1006,8 +1006,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:09:48.2845021+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:09:27.7569679+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:37.4487556+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:00:32.1312674+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:09:48.2845307+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:59:44.8477754+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:09:27.756995+00:00"
 }

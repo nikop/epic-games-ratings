@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -459,9 +459,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 249830,
+  "EOS_Progressed": 249833,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21109,6 +21109,11 @@
       "Time": "2023-10-22T08:10:19.1480154+00:00",
       "NumProgressed": 249830,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-22T09:09:42.3825373+00:00",
+      "NumProgressed": 249833,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21120,7 +21125,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67454
+      "UsersEstimate": 67455
     },
     {
       "ID": "ACH_AON",
@@ -21264,7 +21269,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69952
+      "UsersEstimate": 69953
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21336,7 +21341,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59959
+      "UsersEstimate": 59960
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -21424,7 +21429,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -21432,7 +21437,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "ACH_SCRATCH",
@@ -21512,7 +21517,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 19986
+      "UsersEstimate": 19987
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -21535,7 +21540,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249830,
+      "Progressed": 249833,
       "Completed": 7
     }
   ],
@@ -21543,8 +21548,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-21T22:01:14.710033+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:10:19.148015+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:09:42.3825369+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:01:39.5462983+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:10:19.1482203+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:00:27.7959238+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:09:42.3827129+00:00"
 }

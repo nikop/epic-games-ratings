@@ -16,7 +16,7 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,813 |
 | Wannabe knight | 23.00% | ~3,654 |
 | Help an old friend | 22.00% | ~3,495 |
-| Two of us | 20.00% | ~3,177 |
+| Two of us | 20.00% | ~3,178 |
 | Negotiation skills | 18.00% | ~2,860 |
 | Workers' union | 18.00% | ~2,860 |
 | End of Book Two | 18.00% | ~2,860 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,224 |
 | Jack was here! | 14.00% | ~2,224 |
 | Exterminator | 13.00% | ~2,065 |
-| Whodunnit | 12.00% | ~1,906 |
+| Whodunnit | 12.00% | ~1,907 |
 | Good midwife | 11.00% | ~1,748 |
 | First profit | 11.00% | ~1,748 |
 | Friar Tuck | 10.00% | ~1,589 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~794 |
 | Lone wolf | 5.00% | ~794 |
 | Vox Populi | 5.00% | ~794 |
-| Revenge | 4.00% | ~635 |
-| Self-defense | 4.00% | ~635 |
-| Countess Aliena | 4.00% | ~635 |
+| Revenge | 4.00% | ~636 |
+| Self-defense | 4.00% | ~636 |
+| Countess Aliena | 4.00% | ~636 |
 | Care, like a brother cares | 3.00% | ~477 |
 | A brush with death | 3.00% | ~477 |
 | Boy of mystery | 2.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,887 (Ranked 135)  
+Progressed: 15,888 (Ranked 135)  
 Completed: 113 (0.71%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 113 (0.71%) (Ranked 160)
 | 2023-10-19 | 15,845 | 113 |
 | 2023-10-20 | 15,860 | 113 |
 | 2023-10-21 | 15,883 | 113 |
-| 2023-10-22 | 15,887 | 113 |
+| 2023-10-22 | 15,888 | 113 |
 ## Awards
 Max (Easy Puzzles): 153  (Ranked 306)  
 Sum: 195 (Ranked 391)  

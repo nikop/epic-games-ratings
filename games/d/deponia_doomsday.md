@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 494)
 | Portals come in packs | 29.00% | ~129 |
 | Photo Friend | 26.00% | ~116 |
 | Brainfreeze | 21.00% | ~93 |
+| Masseltov | 20.00% | ~89 |
 | And everything comes full circle. | 20.00% | ~89 |
-| Masseltov | 19.00% | ~85 |
 | Quickdraw | 16.00% | ~71 |
 | Thuna...? | 14.00% | ~62 |
 | Monstrous Harassment | 14.00% | ~62 |

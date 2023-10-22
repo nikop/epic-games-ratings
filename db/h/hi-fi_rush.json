@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7258,9 +7258,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 666
     },
     {
       "ID": "Ach024",
@@ -7410,9 +7410,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach043",
@@ -7665,8 +7665,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:07:04.5458886+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:06:10.7238487+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:00:37.6936762+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:07:04.5460165+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:59:48.2615083+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:06:10.7239723+00:00"
 }

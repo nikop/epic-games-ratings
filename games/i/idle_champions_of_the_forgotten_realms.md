@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.20% | ~398 |
 | Legends and Lore | 0.20% | ~398 |
 | Fowl Play | 0.20% | ~398 |
+| Time Out | 0.20% | ~398 |
 | Maddening | 0.10% | ~233 |
 | Pros and CONs | 0.10% | ~233 |
 | Upholding the Law | 0.10% | ~233 |
@@ -533,9 +534,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
-| Time Out | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,522 (Ranked 60)  
+Progressed: 232,523 (Ranked 60)  
 Completed: 2,377 (1.02%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -720,7 +720,7 @@ Completed: 2,377 (1.02%) (Ranked 144)
 | 2023-10-19 | 232,282 | 2,374 |
 | 2023-10-20 | 232,392 | 2,374 |
 | 2023-10-21 | 232,492 | 2,377 |
-| 2023-10-22 | 232,522 | 2,377 |
+| 2023-10-22 | 232,523 | 2,377 |
 ## Awards
 Max (Great for Beginners): 5,437  (Ranked 69)  
 Sum: 32,157 (Ranked 41)  

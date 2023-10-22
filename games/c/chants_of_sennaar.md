@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| That's the spirit | 15.00% | ~47 |
 | Welcome to the Tower | 15.00% | ~47 |
-| That's the spirit | 14.00% | ~44 |
 | The great escape | 13.00% | ~41 |
 | The Preacher's fate | 12.00% | ~38 |
 | A new dawn | 12.00% | ~38 |
 | True G3M4R | 11.00% | ~34 |
 | Scholar | 11.00% | ~34 |
+| The darkness | 11.00% | ~34 |
+| One last step | 11.00% | ~34 |
 | I did it | 10.00% | ~31 |
 | Peace walker | 10.00% | ~31 |
 | Cable guy | 10.00% | ~31 |
 | A good beginning | 10.00% | ~31 |
 | Half the way | 10.00% | ~31 |
-| The darkness | 10.00% | ~31 |
-| One last step | 10.00% | ~31 |
 | In this together | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
 | Alchemists Express | 8.00% | ~25 |

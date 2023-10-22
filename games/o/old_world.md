@@ -95,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.70% | ~104 |
 | Economic Reform | 0.70% | ~104 |
 | Legalism | 0.70% | ~104 |
+| Redemption | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.60% | ~89 |
 | Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
-| Redemption | 0.60% | ~89 |
 | Revelation | 0.60% | ~89 |
 | Cimmerian Archer | 0.60% | ~89 |
 | Legionary | 0.60% | ~89 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -105,7 +105,7 @@
   "Tags": [],
   "EOS_Progressed": 6337,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -4227,9 +4227,9 @@
       "ID": "achievement_04_05",
       "SetID": "4f1m94d",
       "Name": "That was a Close Call!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 2028
     },
     {
       "ID": "achievement_04_06",
@@ -4276,8 +4276,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-21T23:58:43.7664545+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:09:38.5374862+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:09:21.0712405+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:59:46.5672807+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:09:38.5375492+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:59:15.710693+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:09:21.0712919+00:00"
 }

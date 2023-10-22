@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -265,7 +265,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231334,
+  "EOS_Progressed": 231335,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 0,
@@ -19325,6 +19325,11 @@
       "Time": "2023-10-22T08:07:48.5299231+00:00",
       "NumProgressed": 231334,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T09:06:41.6667402+00:00",
+      "NumProgressed": 231335,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19400,7 +19405,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83280
+      "UsersEstimate": 83281
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19496,7 +19501,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50893
+      "UsersEstimate": 50894
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -19559,7 +19564,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231334,
+      "Progressed": 231335,
       "Completed": 5
     }
   ],
@@ -19567,8 +19572,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:07:48.5299223+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:06:41.6667397+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:58:24.8175744+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:07:48.5300638+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:58:22.4610433+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:06:41.6668832+00:00"
 }

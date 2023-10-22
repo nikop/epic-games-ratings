@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 109,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 504,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -228,6 +228,11 @@
       "Time": "2023-10-22T08:06:42.3685996+00:00",
       "NumProgressed": 501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T09:05:54.5794432+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -272,7 +277,7 @@
       "Name": "Blobmeister",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -296,7 +301,7 @@
       "Name": "Pest Control",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -318,9 +323,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -328,7 +333,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -336,15 +341,15 @@
       "Name": "Getting the Hang of It",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -352,15 +357,15 @@
       "Name": "How Low Can We Go?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "No Stone Unturned",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -384,7 +389,7 @@
       "Name": "Hoarder",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -438,9 +443,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -479,13 +484,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 504,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-22T08:06:42.3685987+00:00",
+  "LastChanged_Achievements": "2023-10-22T09:05:54.579442+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:58:43.1788844+00:00",
-  "LastUpdate_Achievements": "2023-10-22T08:06:42.3686346+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:58:33.5687232+00:00",
+  "LastUpdate_Achievements": "2023-10-22T09:05:54.5794666+00:00"
 }

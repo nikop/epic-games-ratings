@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 70.00% | ~91 |
+| Nightmare Territory | 71.00% | ~92 |
 | Hunting Season | 55.00% | ~72 |
 | Grew Bigger | 50.00% | ~65 |
 | Bring It | 49.00% | ~64 |
@@ -16,9 +16,9 @@
 | Felt Good | 34.00% | ~44 |
 | Somebody's Home | 34.00% | ~44 |
 | Into the Overlap | 29.00% | ~38 |
+| Secret Stashes | 29.00% | ~38 |
 | Aimed Ahead | 28.00% | ~36 |
 | Carry his Words | 28.00% | ~36 |
-| Secret Stashes | 28.00% | ~36 |
 | Filling the Shape | 28.00% | ~36 |
 | Lawman | 27.00% | ~35 |
 | Lights Shining | 26.00% | ~34 |
@@ -41,9 +41,9 @@
 | Bright Falls' Finest | 12.00% | ~16 |
 | Growing Stronger | 12.00% | ~16 |
 | Back in Watery | 11.00% | ~14 |
+| Stunning Vistas | 10.00% | ~13 |
+| We Watch in the Night | 10.00% | ~13 |
 | In One Go | 10.00% | ~13 |
-| Stunning Vistas | 9.00% | ~12 |
-| We Watch in the Night | 9.00% | ~12 |
 | In a Fancy Hotel | 9.00% | ~12 |
 | Seeing Double | 8.00% | ~10 |
 | Girl in Love | 7.00% | ~9 |
@@ -52,10 +52,10 @@
 | The Trail of the Writer | 6.00% | ~8 |
 | The Old Gods | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
+| Behind the Masks | 6.00% | ~8 |
 | The Story Come True | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |
 | End of the Road | 5.00% | ~6 |
-| Behind the Masks | 5.00% | ~6 |
 | The Cult of the Word | 5.00% | ~6 |
 | Coffee-Themed Fun | 5.00% | ~6 |
 | Cut Short | 5.00% | ~6 |
