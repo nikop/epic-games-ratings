@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 121)
 | Beast Friends | 8.00% | ~23,894 |
 | A Sallow Grave | 8.00% | ~23,894 |
 | Flight the Good Flight | 8.00% | ~23,894 |
-| The Seeker of Knowledge | 6.00% | ~17,920 |
-| The Root of the Problem | 6.00% | ~17,920 |
-| Third Time's a Charm | 6.00% | ~17,920 |
-| Raising Expectations | 6.00% | ~17,920 |
+| The Seeker of Knowledge | 6.00% | ~17,921 |
+| The Root of the Problem | 6.00% | ~17,921 |
+| Third Time's a Charm | 6.00% | ~17,921 |
+| Raising Expectations | 6.00% | ~17,921 |
 | The Toast of the Town | 5.00% | ~14,934 |
 | The Gryffindor in the Graveyard | 5.00% | ~14,934 |
 | The Ends Petrify the Means | 5.00% | ~14,934 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,675 (Ranked 47)  
+Progressed: 298,676 (Ranked 47)  
 Completed: 491 (0.16%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 491 (0.16%) (Ranked 235)
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
-| 2023-10-22 | 298,675 | 491 |
+| 2023-10-22 | 298,676 | 491 |
 ## Awards
 Max (Character Customization): 23,683  (Ranked 17)  
 Sum: 46,325 (Ranked 30)  

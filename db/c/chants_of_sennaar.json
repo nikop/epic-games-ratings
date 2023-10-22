@@ -1479,9 +1479,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "END_GOOD",
@@ -1495,9 +1495,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1686,8 +1686,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-22T01:53:49.4764146+00:00",
+  "LastChanged_Achievements": "2023-10-22T02:25:50.5626372+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-22T01:47:36.5194107+00:00",
-  "LastUpdate_Achievements": "2023-10-22T01:53:49.4764424+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:19:40.7769842+00:00",
+  "LastUpdate_Achievements": "2023-10-22T02:25:50.5626648+00:00"
 }

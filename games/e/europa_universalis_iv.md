@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,465 |
-| Until death do us apart | 4.00% | ~17,465 |
-| Victorious! | 4.00% | ~17,465 |
+| That's a Grand Army | 4.00% | ~17,466 |
+| Until death do us apart | 4.00% | ~17,466 |
+| Victorious! | 4.00% | ~17,466 |
 | That is mine! | 3.00% | ~13,099 |
 | Brothers in Arms | 2.00% | ~8,733 |
 | Cold War | 2.00% | ~8,733 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,493 |
 | Royal Authority | 0.80% | ~3,493 |
 | Total Control | 0.80% | ~3,493 |
-| My armies are invincible! | 0.70% | ~3,056 |
+| My armies are invincible! | 0.70% | ~3,057 |
 | Agressive Expander | 0.50% | ~2,183 |
 | Azur semé de lis or | 0.50% | ~2,183 |
 | City of Cities | 0.50% | ~2,183 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 436,631 (Ranked 40)  
+Progressed: 436,644 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 1 (0.00%) (Ranked 318)
 | 2023-10-19 | 434,645 | 1 |
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
-| 2023-10-22 | 436,631 | 1 |
+| 2023-10-22 | 436,644 | 1 |
 ## Awards
 Max (Educational): 6,618  (Ranked 55)  
 Sum: 54,423 (Ranked 24)  

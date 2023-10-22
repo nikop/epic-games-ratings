@@ -1183,9 +1183,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153786,
+  "EOS_Progressed": 153792,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1549,
+  "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12538,6 +12538,11 @@
       "Time": "2023-10-22T01:53:48.5506658+00:00",
       "NumProgressed": 153786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T02:25:49.7985403+00:00",
+      "NumProgressed": 153792,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12669,7 +12674,7 @@
       "Name": "Host",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -12916,21 +12921,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153369,
+      "Progressed": 153375,
       "Completed": 1167
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153786,
+      "Progressed": 153792,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T01:45:36.3612269+00:00",
-  "LastChanged_Achievements": "2023-10-22T01:53:48.5506651+00:00",
+  "LastChanged_Achievements": "2023-10-22T02:25:49.7985398+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T01:45:36.3612274+00:00",
-  "LastUpdate_Achievements": "2023-10-22T01:53:48.5507723+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:18:01.5113399+00:00",
+  "LastUpdate_Achievements": "2023-10-22T02:25:49.7986512+00:00"
 }

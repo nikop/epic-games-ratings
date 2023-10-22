@@ -10,13 +10,13 @@ Number of Ratings: 170  (23.09.2022)
 | Mama? | 28.00% | ~6,314 |
 | People's Haven | 18.00% | ~4,059 |
 | Cartographer | 17.00% | ~3,834 |
-| Antlers of Stone | 15.00% | ~3,382 |
+| Antlers of Stone | 15.00% | ~3,383 |
 | Knowledge for Power | 14.00% | ~3,157 |
 | Gaze into the abyss | 13.00% | ~2,932 |
 | Mausoleum of Ice | 13.00% | ~2,932 |
 | Wings of Stone | 12.00% | ~2,706 |
 | Equilibrium | 12.00% | ~2,706 |
-| In the belly of the beast | 11.00% | ~2,480 |
+| In the belly of the beast | 11.00% | ~2,481 |
 | Condor condo | 10.00% | ~2,255 |
 | Memorial | 9.00% | ~2,030 |
 | An uninvited guest | 8.00% | ~1,804 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Talk to all the spirit animals | 6.00% | ~1,353 |
 | Hide and Seek | 5.00% | ~1,128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,550 (Ranked 124)  
+Progressed: 22,551 (Ranked 124)  
 Completed: 441 (1.96%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 441 (1.96%) (Ranked 112)
 | 2023-10-19 | 22,405 | 441 |
 | 2023-10-20 | 22,460 | 441 |
 | 2023-10-21 | 22,537 | 441 |
-| 2023-10-22 | 22,550 | 441 |
+| 2023-10-22 | 22,551 | 441 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

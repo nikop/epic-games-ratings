@@ -35,7 +35,7 @@
 | Finding a Way | 16.00% | ~21 |
 | Stop Right There | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
-| Escape its Gravity | 12.00% | ~15 |
+| Escape its Gravity | 13.00% | ~17 |
 | Stop the Monster | 12.00% | ~15 |
 | Growing Stronger | 12.00% | ~15 |
 | All His Life | 12.00% | ~15 |
@@ -46,10 +46,10 @@
 | Stunning Vistas | 8.00% | ~10 |
 | Seeing Double | 8.00% | ~10 |
 | In a Fancy Hotel | 8.00% | ~10 |
+| Strange Reality | 6.00% | ~8 |
 | The Trail of the Writer | 6.00% | ~8 |
 | Gone for Good | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
-| Strange Reality | 5.00% | ~6 |
 | Girl in Love | 5.00% | ~6 |
 | The Old Gods | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |

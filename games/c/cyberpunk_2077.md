@@ -7,11 +7,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.30% | ~2,680 |
+| Rough Landing | 0.30% | ~2,680 |
 | Full Body Conversion | 0.20% | ~1,786 |
 | Right Back At Ya | 0.20% | ~1,786 |
 | Gunslinger | 0.20% | ~1,786 |
 | Stanislavski's Method | 0.20% | ~1,786 |
-| Rough Landing | 0.20% | ~1,786 |
 | The Hermit | 0.20% | ~1,786 |
 | The High Priestess | 0.20% | ~1,786 |
 | The Wheel of Fortune | 0.20% | ~1,786 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,182 (Ranked 15)  
+Progressed: 893,185 (Ranked 15)  
 Completed: 2,695 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,21 +257,21 @@ Completed: 2,695 (0.30%) (Ranked 208)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,182 | 2,695 |
+| 2023-10-22 | 893,185 | 2,695 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
-Sum: 317,822 (Ranked 11)  
+Sum: 318,587 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 100,310 |
-| This game has Great Boss Battles | 70,969 |
+| This game has Great Boss Battles | 71,352 |
 | This game is Great for Beginners | 17,912 |
 | This game has Diverse Characters | 17,827 |
+| This game is Highly Recommended | 17,215 |
 | This game has Amazing Storytelling | 17,049 |
-| This game is Highly Recommended | 17,009 |
 | This game is Extremely Fun | 16,793 |
-| This game has Amazing Characters | 16,584 |
+| This game has Amazing Characters | 16,760 |
 | This game has Quickly Understood Controls | 16,192 |
 | This game is Relaxing | 16,054 |
 | This game has a Creative Community | 11,123 |
@@ -554,3 +554,4 @@ Diff (max vs sum): -2
 | 2023-10-19 | 4.64 | - | 99,621 | 313,301 |
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
+| 2023-10-22 | 4.64 | - | 100,310 | 318,587 |

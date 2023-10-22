@@ -13860,10 +13860,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 317822,
       "NumberOfAwardsMax": 100310
+    },
+    {
+      "Time": "2023-10-22T02:18:16.9664557+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 318587,
+      "NumberOfAwardsMax": 100310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 317822,
+  "NumberOfAwards": 318587,
   "NumberOfAwardsMax": 100310,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13877,7 +13883,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 70969
+      "Count": 71352
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13907,7 +13913,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17009
+      "Count": 17215
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13925,7 +13931,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 16584
+      "Count": 16760
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13940,9 +13946,9 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893182,
+  "EOS_Progressed": 893185,
   "EOS_Completed": 2695,
-  "EOS_NewPlayers": 1361,
+  "EOS_NewPlayers": 1358,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34830,6 +34836,11 @@
       "Time": "2023-10-22T01:52:27.3735397+00:00",
       "NumProgressed": 893182,
       "NumCompleted": 2695
+    },
+    {
+      "Time": "2023-10-22T02:24:42.2092511+00:00",
+      "NumProgressed": 893185,
+      "NumCompleted": 2695
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35040,9 +35051,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 2680
     },
     {
       "ID": "TheDevil",
@@ -35361,21 +35372,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893182,
+      "Progressed": 893185,
       "Completed": 2695
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21805,
+      "Progressed": 21808,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-21T23:58:34.7427618+00:00",
-  "LastChanged_Achievements": "2023-10-22T01:52:27.3735392+00:00",
+  "LastChanged": "2023-10-22T02:18:16.9664556+00:00",
+  "LastChanged_Achievements": "2023-10-22T02:24:42.2092507+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T01:45:55.1230164+00:00",
-  "LastUpdate_Achievements": "2023-10-22T01:52:27.3737156+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:18:16.9664562+00:00",
+  "LastUpdate_Achievements": "2023-10-22T02:24:42.2094509+00:00"
 }

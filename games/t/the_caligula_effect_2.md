@@ -17,9 +17,9 @@ Number of Ratings: 32  (23.09.2022)
 | Behind the Curtain | 33.00% | ~78 |
 | Master of Surprise | 30.00% | ~71 |
 | Be Who You Wanna Be | 27.00% | ~64 |
+| Investment Ban-χ-ing | 25.00% | ~59 |
 | Counter Champion | 25.00% | ~59 |
 | Friendly Neighborhood | 24.00% | ~57 |
-| Investment Ban-χ-ing | 24.00% | ~57 |
 | Combo Commando | 24.00% | ~57 |
 | One-Track Mind | 23.00% | ~55 |
 | Nice Doing Business | 23.00% | ~55 |
@@ -28,10 +28,10 @@ Number of Ratings: 32  (23.09.2022)
 | The Greater Good | 20.00% | ~47 |
 | Depths of the Heart | 20.00% | ~47 |
 | Selfish Decisions | 19.00% | ~45 |
+| Pulling Heartstrings | 19.00% | ~45 |
 | Extracurricular Affair | 19.00% | ~45 |
 | Lost Souls For Sale | 19.00% | ~45 |
 | Trigger Finger | 19.00% | ~45 |
-| Pulling Heartstrings | 18.00% | ~43 |
 | Hopes Rewarded | 17.00% | ~40 |
 | Guarding Guru | 17.00% | ~40 |
 | Hustled and Bustled | 12.00% | ~28 |

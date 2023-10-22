@@ -7,8 +7,8 @@ Rating: 4.19 (Ranked 900)
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,293 |
 | Paper Jams | 7.00% | ~1,131 |
-| Flesh Wound | 6.00% | ~969 |
-| Float Like A Butterfly | 6.00% | ~969 |
+| Flesh Wound | 6.00% | ~970 |
+| Float Like A Butterfly | 6.00% | ~970 |
 | Two Heads Are Better Than One | 5.00% | ~808 |
 | Chew 'Em Up | 5.00% | ~808 |
 | The Outer Way | 5.00% | ~808 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 900)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,158 (Ranked 134)  
+Progressed: 16,160 (Ranked 134)  
 Completed: 75 (0.46%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 75 (0.46%) (Ranked 182)
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
-| 2023-10-22 | 16,158 | 75 |
+| 2023-10-22 | 16,160 | 75 |
 ## Awards
 Max (Highly Recommended): 76  (Ranked 382)  
 Sum: 449 (Ranked 323)  

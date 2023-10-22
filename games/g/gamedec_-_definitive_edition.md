@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~69,947 |
-| Powergamer | 27.00% | ~67,449 |
-| Barely scratched the surface | 25.00% | ~62,453 |
+| I will finish what you started | 28.00% | ~69,948 |
+| Powergamer | 27.00% | ~67,450 |
+| Barely scratched the surface | 25.00% | ~62,454 |
 | Write that down | 24.00% | ~59,955 |
-| Guns, lots of guns | 13.00% | ~32,475 |
-| Collector | 12.00% | ~29,977 |
+| Guns, lots of guns | 13.00% | ~32,476 |
+| Collector | 12.00% | ~29,978 |
 | Elementary! | 9.00% | ~22,483 |
 | Griever | 8.00% | ~19,985 |
 | Pumpkin Jack | 8.00% | ~19,985 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,989 |
 | Good listener | 5.00% | ~12,491 |
 | Valedictorian | 5.00% | ~12,491 |
-| BOY! | 4.00% | ~9,992 |
-| Ka-ching! | 4.00% | ~9,992 |
-| So you like to read? | 4.00% | ~9,992 |
+| BOY! | 4.00% | ~9,993 |
+| Ka-ching! | 4.00% | ~9,993 |
+| So you like to read? | 4.00% | ~9,993 |
 | Hoarder | 3.00% | ~7,494 |
 | I like to sniff around | 3.00% | ~7,494 |
 | Mind reader | 3.00% | ~7,494 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,498 |
 | Take the blue pill | 1.00% | ~2,498 |
 | The power of three | 1.00% | ~2,498 |
-| It's blue, always blue | 0.80% | ~1,998 |
-| Let's try another | 0.80% | ~1,998 |
-| Home run | 0.80% | ~1,998 |
+| It's blue, always blue | 0.80% | ~1,999 |
+| Let's try another | 0.80% | ~1,999 |
+| Home run | 0.80% | ~1,999 |
 | I have the high ground | 0.70% | ~1,749 |
 | Enjoy these little moments | 0.50% | ~1,249 |
 | Who wouldn't love a troll? | 0.50% | ~1,249 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~500 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,811 (Ranked 53)  
+Progressed: 249,814 (Ranked 54)  
 Completed: 7 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 7 (0.00%) (Ranked 318)
 | 2023-10-19 | 249,575 | 7 |
 | 2023-10-20 | 249,667 | 7 |
 | 2023-10-21 | 249,803 | 7 |
-| 2023-10-22 | 249,811 | 7 |
+| 2023-10-22 | 249,814 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 367)  
 Sum: 86 (Ranked 442)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -765,9 +765,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64176,
+  "EOS_Progressed": 64180,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1026,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6125,6 +6125,11 @@
       "Time": "2023-10-22T01:56:30.9393857+00:00",
       "NumProgressed": 64176,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-22T02:29:02.6543342+00:00",
+      "NumProgressed": 64180,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6137,7 +6142,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19895
+      "UsersEstimate": 19896
     },
     {
       "ID": "10",
@@ -6201,7 +6206,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10911
     },
     {
       "ID": "3",
@@ -6209,7 +6214,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7701
+      "UsersEstimate": 7702
     },
     {
       "ID": "4",
@@ -6264,7 +6269,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64176,
+      "Progressed": 64180,
       "Completed": 21
     }
   ],
@@ -6272,8 +6277,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-21T01:40:00.957127+00:00",
-  "LastChanged_Achievements": "2023-10-22T01:56:30.9393853+00:00",
+  "LastChanged_Achievements": "2023-10-22T02:29:02.6543336+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-22T01:46:28.7979063+00:00",
-  "LastUpdate_Achievements": "2023-10-22T01:56:30.9394267+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:18:45.9987476+00:00",
+  "LastUpdate_Achievements": "2023-10-22T02:29:02.6543838+00:00"
 }

@@ -11,14 +11,14 @@
 | A new dawn | 12.00% | ~37 |
 | True G3M4R | 11.00% | ~34 |
 | Scholar | 11.00% | ~34 |
+| I did it | 10.00% | ~31 |
+| Peace walker | 10.00% | ~31 |
 | Cable guy | 10.00% | ~31 |
 | A good beginning | 10.00% | ~31 |
 | Half the way | 10.00% | ~31 |
 | The darkness | 10.00% | ~31 |
 | One last step | 10.00% | ~31 |
-| I did it | 9.00% | ~28 |
 | In this together | 9.00% | ~28 |
-| Peace walker | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
 | Alchemists Express | 8.00% | ~25 |
 | Open door | 7.00% | ~22 |
