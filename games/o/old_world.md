@@ -84,10 +84,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
+| Landowners | 0.70% | ~104 |
 | Patrons | 0.70% | ~104 |
 | Riders | 0.70% | ~104 |
 | Statesmen | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
+| Temple of Solomon | 0.70% | ~104 |
 | Greece | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
@@ -95,15 +97,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
-| Landowners | 0.60% | ~89 |
+| Strong Difficulty | 0.60% | ~89 |
 | Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
-| Temple of Solomon | 0.60% | ~89 |
 | Pantheon | 0.60% | ~89 |
 | Via Recta Souk | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
+| Carthage | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |
 | Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
@@ -114,15 +116,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~74 |
-| Strong Difficulty | 0.50% | ~74 |
 | Hunters | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
-| Carthage | 0.50% | ~74 |
 | Egypt | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
 | Assyrian Paganism | 0.50% | ~74 |
 | Hittite Paganism | 0.50% | ~74 |
 | Industrial Progress | 0.50% | ~74 |
+| Enlightenment | 0.50% | ~74 |
 | Veneration | 0.50% | ~74 |
 | Mounted Lancer | 0.50% | ~74 |
 | Turreted Elephant | 0.50% | ~74 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~59 |
 | Learn to Play 5 | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
-| Enlightenment | 0.40% | ~59 |
 | Beja Archer | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~45 |
 | Ishtar Gate in Babylon | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,862 (Ranked 139)  
+Progressed: 14,863 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,862 | 5 |
+| 2023-10-22 | 14,863 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,851 (Ranked 211)  

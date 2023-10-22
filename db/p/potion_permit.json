@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1622,
+  "EOS_Progressed": 1623,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-10-16T10:08:06.5454805+00:00",
       "NumProgressed": 1622,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-22T04:08:39.295705+00:00",
+      "NumProgressed": 1623,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2274,7 +2279,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2282,7 +2287,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2290,7 +2295,7 @@
       "Name": "Good Samaritan",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -2410,7 +2415,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2538,7 +2543,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2577,7 +2582,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1622,
+      "Progressed": 1623,
       "Completed": 10
     }
   ],
@@ -2585,8 +2590,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:09:33.1856081+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:08:39.2957046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.8207941+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:58:22.2237013+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:09:33.1856409+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:57:38.3045934+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:08:39.2957559+00:00"
 }

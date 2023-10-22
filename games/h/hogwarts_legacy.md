@@ -10,13 +10,13 @@ Rating: 4.76 (Ranked 121)
 | Troll with the Punches | 13.00% | ~38,828 |
 | A Keen Sense of Spell | 12.00% | ~35,841 |
 | That's a Keeper | 12.00% | ~35,841 |
-| Grappling with a Graphorn | 11.00% | ~32,854 |
-| The One Who Mastered Memories | 11.00% | ~32,854 |
-| The Hallowed Hero | 11.00% | ~32,854 |
-| The Defender of Dragons | 11.00% | ~32,854 |
-| Loom for Improvement | 11.00% | ~32,854 |
-| A Talent for Spending | 11.00% | ~32,854 |
-| Coasting Along | 11.00% | ~32,854 |
+| Grappling with a Graphorn | 11.00% | ~32,855 |
+| The One Who Mastered Memories | 11.00% | ~32,855 |
+| The Hallowed Hero | 11.00% | ~32,855 |
+| The Defender of Dragons | 11.00% | ~32,855 |
+| Loom for Improvement | 11.00% | ~32,855 |
+| A Talent for Spending | 11.00% | ~32,855 |
+| Coasting Along | 11.00% | ~32,855 |
 | The Hero of Hogwarts | 10.00% | ~29,868 |
 | Challenge Accepted | 10.00% | ~29,868 |
 | Followed the Butterflies | 10.00% | ~29,868 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,677 (Ranked 47)  
+Progressed: 298,679 (Ranked 47)  
 Completed: 491 (0.16%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 491 (0.16%) (Ranked 235)
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
-| 2023-10-22 | 298,677 | 491 |
+| 2023-10-22 | 298,679 | 491 |
 ## Awards
 Max (Character Customization): 23,683  (Ranked 17)  
-Sum: 46,325 (Ranked 30)  
+Sum: 46,329 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,154 |
 | This game is Relaxing | 1,151 |
 | This game has Amazing Characters | 1,117 |
-| This game is Highly Recommended | 1,087 |
+| This game is Highly Recommended | 1,091 |
 | This game has Quickly Understood Controls | 1,040 |
 | This game has Beautiful Visuals | 960 |
 | This game has a Creative Community | 732 |
@@ -470,3 +470,4 @@ Diff (max vs sum): -13
 | 2023-10-19 | 4.76 | 23,644 | 46,213 |
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
+| 2023-10-22 | 4.76 | 23,683 | 46,329 |

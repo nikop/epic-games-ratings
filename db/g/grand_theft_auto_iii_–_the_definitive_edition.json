@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8321,
+  "EOS_Progressed": 8322,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10166,6 +10166,11 @@
       "Time": "2023-10-21T16:07:04.6579347+00:00",
       "NumProgressed": 8321,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-22T04:04:51.4816867+00:00",
+      "NumProgressed": 8322,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 29,
@@ -10177,7 +10182,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "ACH02",
@@ -10321,7 +10326,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH20",
@@ -10408,7 +10413,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8321,
+      "Progressed": 8322,
       "Completed": 55
     }
   ],
@@ -10416,8 +10421,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:06:29.0462824+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:04:51.4816863+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.3427063+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:03:07.3203054+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:06:29.0463461+00:00"
+  "LastUpdate_Ratings": "2023-10-22T04:00:30.3620223+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:04:51.4817695+00:00"
 }

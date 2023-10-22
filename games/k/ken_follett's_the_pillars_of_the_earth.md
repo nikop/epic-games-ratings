@@ -10,25 +10,25 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~5,401 |
 | Friends of sorts | 33.00% | ~5,242 |
 | Yet another secret | 33.00% | ~5,242 |
-| Let there be darkness | 32.00% | ~5,083 |
+| Let there be darkness | 32.00% | ~5,084 |
 | End of Book One | 30.00% | ~4,766 |
-| Garden of Eden | 24.00% | ~3,812 |
-| Full house | 24.00% | ~3,812 |
+| Garden of Eden | 24.00% | ~3,813 |
+| Full house | 24.00% | ~3,813 |
 | Wannabe knight | 23.00% | ~3,654 |
 | Help an old friend | 22.00% | ~3,495 |
 | Two of us | 20.00% | ~3,177 |
 | Negotiation skills | 18.00% | ~2,859 |
 | Workers' union | 18.00% | ~2,859 |
 | End of Book Two | 18.00% | ~2,859 |
-| Everything's in order | 17.00% | ~2,700 |
+| Everything's in order | 17.00% | ~2,701 |
 | Twist of Fate | 14.00% | ~2,224 |
 | Jack was here! | 14.00% | ~2,224 |
 | Exterminator | 13.00% | ~2,065 |
 | Whodunnit | 12.00% | ~1,906 |
 | Good midwife | 11.00% | ~1,747 |
 | First profit | 11.00% | ~1,747 |
-| Friar Tuck | 10.00% | ~1,588 |
-| Team player | 10.00% | ~1,588 |
+| Friar Tuck | 10.00% | ~1,589 |
+| Team player | 10.00% | ~1,589 |
 | Skilled merchant | 9.00% | ~1,430 |
 | Nothing but make-believe | 9.00% | ~1,430 |
 | Brother Marcus | 9.00% | ~1,430 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~477 |
 | Boy of mystery | 2.00% | ~318 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,885 (Ranked 135)  
+Progressed: 15,886 (Ranked 135)  
 Completed: 113 (0.71%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 113 (0.71%) (Ranked 160)
 | 2023-10-19 | 15,845 | 113 |
 | 2023-10-20 | 15,860 | 113 |
 | 2023-10-21 | 15,883 | 113 |
-| 2023-10-22 | 15,885 | 113 |
+| 2023-10-22 | 15,886 | 113 |
 ## Awards
 Max (Easy Puzzles): 153  (Ranked 306)  
 Sum: 195 (Ranked 391)  

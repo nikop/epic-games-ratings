@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,571 |
-| MVP | 54.00% | ~1,542 |
-| Big Spender | 53.00% | ~1,514 |
-| Stud Finder | 41.00% | ~1,171 |
-| Dealmaker | 40.00% | ~1,142 |
-| ROTY | 33.00% | ~942 |
-| Roster Reshuffle | 31.00% | ~885 |
+| Bragging Rights | 55.00% | ~1,573 |
+| MVP | 54.00% | ~1,544 |
+| Big Spender | 53.00% | ~1,516 |
+| Stud Finder | 41.00% | ~1,173 |
+| Dealmaker | 40.00% | ~1,144 |
+| ROTY | 33.00% | ~944 |
+| Roster Reshuffle | 31.00% | ~887 |
 | Future of the Franchise | 19.00% | ~543 |
-| Change of Scenery | 18.00% | ~514 |
+| Change of Scenery | 18.00% | ~515 |
 | Throwin’ Dots | 17.00% | ~486 |
 | Already in Progress | 17.00% | ~486 |
-| Primetime | 16.00% | ~457 |
-| Pro Bowler | 16.00% | ~457 |
+| Primetime | 16.00% | ~458 |
+| Pro Bowler | 16.00% | ~458 |
 | Unblockable | 9.00% | ~257 |
 | Pocket Ace | 5.00% | ~143 |
 | Head-to-Head | 5.00% | ~143 |
@@ -25,9 +25,9 @@ Rating: 4.28 (Ranked 834)
 | Gain Train | 1.00% | ~29 |
 | Ol' Reliable | 0.70% | ~20 |
 | Lockdown Leader | 0.50% | ~14 |
-| The Fortress | 0.40% | ~11 |
+| The Fortress | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,856 (Ranked 196)  
+Progressed: 2,860 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,15 +64,15 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 2,748 | 0 |
 | 2023-10-20 | 2,783 | 0 |
 | 2023-10-21 | 2,843 | 0 |
-| 2023-10-22 | 2,856 | 0 |
+| 2023-10-22 | 2,860 | 0 |
 ## Awards
 Max (Diverse Characters): 29  (Ranked 482)  
-Sum: 76 (Ranked 451)  
-Diff (max vs sum): 31  
+Sum: 78 (Ranked 447)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 29 |
-| This game has a Competitive Community | 25 |
+| This game has a Competitive Community | 27 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -196,3 +196,4 @@ Diff (max vs sum): 31
 | 2023-10-14 | 4.27 | 27 | 74 |
 | 2023-10-16 | 4.28 | 28 | 75 |
 | 2023-10-19 | 4.28 | 29 | 76 |
+| 2023-10-22 | 4.28 | 29 | 78 |

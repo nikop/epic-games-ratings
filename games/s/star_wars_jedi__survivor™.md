@@ -5,46 +5,46 @@ Rating: 4.49 (Ranked 594)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,676 |
-| For Saw Gerrera | 98.00% | ~5,618 |
-| Grab Some Seat | 92.00% | ~5,274 |
-| Can You Pet the Bogling? | 87.00% | ~4,988 |
-| The Past Made Present | 84.00% | ~4,816 |
-| Survivors, We Adapt | 80.00% | ~4,586 |
-| Among the Masters | 78.00% | ~4,472 |
-| They Never Saw It Coming | 77.00% | ~4,414 |
-| Who Gives a Puck | 74.00% | ~4,242 |
-| For the Path | 66.00% | ~3,784 |
-| Mirror Match | 65.00% | ~3,726 |
-| Now, This Isn't Podracing | 65.00% | ~3,726 |
-| Skywalker | 61.00% | ~3,497 |
-| Out of Bedlam | 61.00% | ~3,497 |
-| Cleaning Up | 55.00% | ~3,153 |
-| Kitted Out | 52.00% | ~2,981 |
-| Tanalorr Bound | 52.00% | ~2,981 |
-| Hey, Luke At Us | 50.00% | ~2,866 |
-| Tragedy | 49.00% | ~2,809 |
+| Rooftop Duel | 99.00% | ~5,678 |
+| For Saw Gerrera | 98.00% | ~5,620 |
+| Grab Some Seat | 92.00% | ~5,276 |
+| Can You Pet the Bogling? | 87.00% | ~4,989 |
+| The Past Made Present | 84.00% | ~4,817 |
+| Survivors, We Adapt | 80.00% | ~4,588 |
+| Among the Masters | 78.00% | ~4,473 |
+| They Never Saw It Coming | 77.00% | ~4,416 |
+| Who Gives a Puck | 74.00% | ~4,244 |
+| For the Path | 66.00% | ~3,785 |
+| Mirror Match | 65.00% | ~3,728 |
+| Now, This Isn't Podracing | 65.00% | ~3,728 |
+| Skywalker | 61.00% | ~3,498 |
+| Out of Bedlam | 61.00% | ~3,498 |
+| Cleaning Up | 55.00% | ~3,154 |
+| Kitted Out | 52.00% | ~2,982 |
+| Tanalorr Bound | 52.00% | ~2,982 |
+| Hey, Luke At Us | 50.00% | ~2,868 |
+| Tragedy | 49.00% | ~2,810 |
 | At the Precipice | 47.00% | ~2,695 |
-| Into the Abyss | 46.00% | ~2,637 |
-| Riposte | 46.00% | ~2,637 |
+| Into the Abyss | 46.00% | ~2,638 |
+| Riposte | 46.00% | ~2,638 |
 | Greezy Money | 44.00% | ~2,523 |
-| A Place You Could Call Home | 43.00% | ~2,465 |
+| A Place You Could Call Home | 43.00% | ~2,466 |
 | Catch! | 41.00% | ~2,351 |
-| They're Probably Fine | 40.00% | ~2,293 |
-| Han Slowlo | 37.00% | ~2,121 |
-| There Is No Try | 37.00% | ~2,121 |
+| They're Probably Fine | 40.00% | ~2,294 |
+| Han Slowlo | 37.00% | ~2,122 |
+| There Is No Try | 37.00% | ~2,122 |
 | The Jedi Path | 32.00% | ~1,835 |
 | This Is Canon | 29.00% | ~1,663 |
 | It's a Trap | 26.00% | ~1,491 |
-| You've Got A Friend | 22.00% | ~1,261 |
-| King of the World | 16.00% | ~917 |
+| You've Got A Friend | 23.00% | ~1,319 |
+| King of the World | 16.00% | ~918 |
 | Reconnaissance | 15.00% | ~860 |
 | Max Capacity | 14.00% | ~803 |
 | A Presence I've Not Felt Since... | 14.00% | ~803 |
 | Slam Dunk | 11.00% | ~631 |
 | Star Tours | 11.00% | ~631 |
-| Caij Match | 10.00% | ~573 |
-| Gambler | 10.00% | ~573 |
+| Caij Match | 10.00% | ~574 |
+| Gambler | 10.00% | ~574 |
 | Growth Spurt | 9.00% | ~516 |
 | Perk of the Job | 7.00% | ~401 |
 | I'm a Living Legend | 6.00% | ~344 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 594)
 | Blood, Sweat, and Tears | 3.00% | ~172 |
 | Pinpoint | 2.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,733 (Ranked 170)  
+Progressed: 5,735 (Ranked 170)  
 Completed: 25 (0.44%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,19 +95,19 @@ Completed: 25 (0.44%) (Ranked 189)
 | 2023-10-19 | 5,559 | 22 |
 | 2023-10-20 | 5,635 | 22 |
 | 2023-10-21 | 5,721 | 25 |
-| 2023-10-22 | 5,733 | 25 |
+| 2023-10-22 | 5,735 | 25 |
 ## Awards
 Max (Great Boss Battles): 3,029  (Ranked 95)  
-Sum: 4,517 (Ranked 143)  
+Sum: 4,523 (Ranked 143)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,029 |
 | This game has Amazing Storytelling | 194 |
-| This game has Quickly Understood Controls | 185 |
+| This game has Quickly Understood Controls | 186 |
+| This game is Relaxing | 175 |
 | This game has Diverse Characters | 174 |
-| This game is Relaxing | 172 |
-| This game has Amazing Characters | 171 |
+| This game has Amazing Characters | 173 |
 | This game is Highly Recommended | 166 |
 | This game is Extremely Fun | 159 |
 | This game has Challenging Combat | 151 |
@@ -290,3 +290,4 @@ Diff (max vs sum): -48
 | 2023-10-19 | 4.49 | 3,017 | 4,488 |
 | 2023-10-20 | 4.49 | 3,017 | 4,498 |
 | 2023-10-21 | 4.49 | 3,029 | 4,517 |
+| 2023-10-22 | 4.49 | 3,029 | 4,523 |

@@ -27,7 +27,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Shared Recollections | 42.00% | ~33,528 |
 | The Water's Light | 40.00% | ~31,931 |
 | Path of the Sage | 40.00% | ~31,931 |
-| Malice Takes Root | 37.00% | ~29,536 |
+| Malice Takes Root | 38.00% | ~30,335 |
 | Path of the Dark Knight | 37.00% | ~29,536 |
 | Path of the Paladin | 37.00% | ~29,536 |
 | Path of the Breaker | 37.00% | ~29,536 |

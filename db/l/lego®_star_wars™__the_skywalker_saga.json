@@ -6,9 +6,9 @@
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 182,
+  "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3479,9 +3479,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51868,
+  "EOS_Progressed": 51869,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -13139,6 +13139,11 @@
       "Time": "2023-10-22T00:04:48.2024087+00:00",
       "NumProgressed": 51868,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-22T04:04:39.8381654+00:00",
+      "NumProgressed": 51869,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 45,
@@ -13174,7 +13179,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40976
+      "UsersEstimate": 40977
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13262,7 +13267,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30602
+      "UsersEstimate": 30603
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13278,7 +13283,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20747
+      "UsersEstimate": 20748
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -13310,7 +13315,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14004
+      "UsersEstimate": 14005
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -13390,7 +13395,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30602
+      "UsersEstimate": 30603
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13414,7 +13419,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50312
+      "UsersEstimate": 50313
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13430,7 +13435,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -13454,7 +13459,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36826
+      "UsersEstimate": 36827
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13470,7 +13475,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19191
+      "UsersEstimate": 19192
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -13502,22 +13507,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37345
+      "UsersEstimate": 37346
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51868,
+      "Progressed": 51869,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-20T22:57:35.0702987+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:06:13.2573095+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:04:39.838165+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.1332855+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:58:06.0083833+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:06:13.2573821+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:57:27.9472794+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:04:39.838261+00:00"
 }

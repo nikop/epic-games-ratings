@@ -8,24 +8,24 @@ Rating: 4.56 (Ranked 474)
 | Wakey Wakey | 28.00% | ~910 |
 | Sputnik 2049 | 25.00% | ~812 |
 | Infinite Growth... | 24.00% | ~780 |
-| Without Breaking Some Eggs... | 23.00% | ~747 |
+| Without Breaking Some Eggs... | 23.00% | ~748 |
 | Space Society | 17.00% | ~552 |
 | A Thousand Strong | 17.00% | ~552 |
 | Ready for a New World | 17.00% | ~552 |
-| Permanent Redesigns | 15.00% | ~487 |
+| Permanent Redesigns | 15.00% | ~488 |
 | Fully Recycled | 13.00% | ~422 |
 | Ain't Nobody Got Time for That | 13.00% | ~422 |
 | The Ship of Theseus | 13.00% | ~422 |
 | Guy de Borderlands | 12.00% | ~390 |
 | Hope Seeker | 12.00% | ~390 |
-| Exceeding Capacity | 11.00% | ~357 |
-| Breaking Protocol | 11.00% | ~357 |
+| Exceeding Capacity | 11.00% | ~358 |
+| Breaking Protocol | 11.00% | ~358 |
 | A Hunk of Junk | 10.00% | ~325 |
 | Man's Best Friend | 8.00% | ~260 |
 | Power Outage | 8.00% | ~260 |
 | Please Make it Stop! | 8.00% | ~260 |
-| Sightseeing | 7.00% | ~227 |
-| Convenient Transport | 7.00% | ~227 |
+| Sightseeing | 7.00% | ~228 |
+| Convenient Transport | 7.00% | ~228 |
 | Access Granted | 6.00% | ~195 |
 | Necessary Enhancement | 6.00% | ~195 |
 | All in Good Health | 6.00% | ~195 |
@@ -37,10 +37,10 @@ Rating: 4.56 (Ranked 474)
 | ...  in a finite world | 4.00% | ~130 |
 | Sustainable Energy | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
-| Delivery! | 3.00% | ~97 |
-| Pedal to the Metal | 3.00% | ~97 |
-| Drill-dozer | 3.00% | ~97 |
-| Pulsar Disciple | 3.00% | ~97 |
+| Delivery! | 3.00% | ~98 |
+| Pedal to the Metal | 3.00% | ~98 |
+| Drill-dozer | 3.00% | ~98 |
+| Pulsar Disciple | 3.00% | ~98 |
 | Mutual Loyalty | 2.00% | ~65 |
 | Tiqqun Contender | 2.00% | ~65 |
 | Catastrophe Avoided | 2.00% | ~65 |
@@ -53,7 +53,7 @@ Rating: 4.56 (Ranked 474)
 | You Had One Job... | 1.00% | ~32 |
 | Gregor Spinoza | 1.00% | ~32 |
 | Scientifically Accurate | 1.00% | ~32 |
-| Work Harder | 0.60% | ~19 |
+| Work Harder | 0.60% | ~20 |
 | Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.30% | ~10 |
 | A Junker's Dream | 0.20% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 474)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,249 (Ranked 193)  
+Progressed: 3,250 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 3,238 | 0 |
 | 2023-10-19 | 3,241 | 0 |
 | 2023-10-21 | 3,249 | 0 |
+| 2023-10-22 | 3,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

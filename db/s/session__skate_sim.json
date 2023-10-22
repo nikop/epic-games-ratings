@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1093,9 +1093,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3027,
+  "EOS_Progressed": 3028,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5443,6 +5443,11 @@
       "Time": "2023-10-21T23:05:21.5530596+00:00",
       "NumProgressed": 3027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T04:05:03.3804554+00:00",
+      "NumProgressed": 3028,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5582,7 +5587,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_HOARDER",
@@ -5598,7 +5603,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -5758,7 +5763,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5806,7 +5811,7 @@
       "Name": "Upfront shredder",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -5830,22 +5835,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3027,
+      "Progressed": 3028,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-21T16:03:07.0064228+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:06:44.274874+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:05:03.3804549+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.22373+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:02:08.6097483+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:06:44.2749269+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:59:57.0073758+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:05:03.3805151+00:00"
 }

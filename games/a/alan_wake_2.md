@@ -11,30 +11,30 @@
 | Coffee Thermos | 48.00% | ~62 |
 | Not the Last | 42.00% | ~54 |
 | Darkness Coiled | 41.00% | ~53 |
-| Find the Light | 38.00% | ~49 |
+| Find the Light | 39.00% | ~50 |
 | Chased the Source | 36.00% | ~46 |
 | Felt Good | 33.00% | ~43 |
 | Somebody's Home | 33.00% | ~43 |
+| Aimed Ahead | 28.00% | ~36 |
 | Into the Overlap | 28.00% | ~36 |
 | Secret Stashes | 28.00% | ~36 |
 | Filling the Shape | 28.00% | ~36 |
 | Lights Shining | 26.00% | ~34 |
-| Aimed Ahead | 26.00% | ~34 |
+| Yippee Ki-yay | 26.00% | ~34 |
 | Lawman | 26.00% | ~34 |
+| Carry his Words | 26.00% | ~34 |
 | Greatest Hits | 25.00% | ~32 |
-| Yippee Ki-yay | 25.00% | ~32 |
-| Carry his Words | 25.00% | ~32 |
 | The Other Side | 24.00% | ~31 |
 | Shining in the Night | 22.00% | ~28 |
 | Ready for a Fight | 21.00% | ~27 |
-| Talk Show | 20.00% | ~26 |
+| Talk Show | 21.00% | ~27 |
 | Storm Cloud | 18.00% | ~23 |
 | New York City | 18.00% | ~23 |
+| This is the Moment | 17.00% | ~22 |
 | Return | 17.00% | ~22 |
-| This is the Moment | 16.00% | ~21 |
 | Finding a Way | 16.00% | ~21 |
+| Stop Right There | 15.00% | ~19 |
 | Escape its Gravity | 14.00% | ~18 |
-| Stop Right There | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
 | Bright Falls' Finest | 12.00% | ~15 |
 | Stop the Monster | 12.00% | ~15 |
@@ -43,9 +43,9 @@
 | Back in Watery | 10.00% | ~13 |
 | In One Go | 10.00% | ~13 |
 | We Watch in the Night | 9.00% | ~12 |
+| Seeing Double | 9.00% | ~12 |
+| In a Fancy Hotel | 9.00% | ~12 |
 | Stunning Vistas | 8.00% | ~10 |
-| Seeing Double | 8.00% | ~10 |
-| In a Fancy Hotel | 8.00% | ~10 |
 | Gone for Good | 7.00% | ~9 |
 | Strange Reality | 6.00% | ~8 |
 | The Trail of the Writer | 6.00% | ~8 |
@@ -61,10 +61,10 @@
 | End of the Road | 4.00% | ~5 |
 | His Way Out | 4.00% | ~5 |
 | Cut Short | 4.00% | ~5 |
+| The Koskela Brothers | 3.00% | ~4 |
 | Rock n' Roll, Baby | 3.00% | ~4 |
 | Shift in Reality | 3.00% | ~4 |
 | Back to Life | 3.00% | ~4 |
-| The Koskela Brothers | 2.00% | ~3 |
 | Filled with Rage | 2.00% | ~3 |
 | I'll Find You | 2.00% | ~3 |
 | The Nice Things in Life | 2.00% | ~3 |

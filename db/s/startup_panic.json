@@ -2,7 +2,7 @@
   "ID": "92546d82a1d043ad8cff2c6c2cd78bb9",
   "Name": "Startup Panic",
   "ProductSlug": "startup-panic",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 735,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 687,
@@ -157,6 +157,6 @@
   "FirstSeenRating": "2022-07-31T11:01:04.2055558+00:00",
   "LastChanged": "2023-05-28T22:58:35.8405553+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.7484821+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:58:39.420787+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:08:54.6064134+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:57:47.8823863+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:08:10.3109635+00:00"
 }

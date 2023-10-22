@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24298,
+  "EOS_Progressed": 24300,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5885,6 +5885,11 @@
       "Time": "2023-10-22T03:04:25.9874448+00:00",
       "NumProgressed": 24298,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-22T04:03:17.8127514+00:00",
+      "NumProgressed": 24300,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -5966,9 +5971,9 @@
       "ID": "ACH_GET_LEZDUIT",
       "SetID": "cdkbb11",
       "Name": "Lezduit!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -6000,7 +6005,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -6247,13 +6252,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24298,
+      "Progressed": 24300,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1591,
+      "Progressed": 1593,
       "Completed": 1374
     }
   ],
@@ -6261,8 +6266,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:04:25.9874444+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:03:17.8127508+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:59:34.2022458+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:04:25.9874997+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:58:23.84158+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:03:17.8128488+00:00"
 }

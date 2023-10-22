@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1546297,
+  "EOS_Progressed": 1546303,
   "EOS_Completed": 708,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21367,6 +21367,11 @@
       "Time": "2023-10-22T03:06:48.1814641+00:00",
       "NumProgressed": 1546297,
       "NumCompleted": 708
+    },
+    {
+      "Time": "2023-10-22T04:05:06.1987554+00:00",
+      "NumProgressed": 1546303,
+      "NumCompleted": 708
     }
   ],
   "TotalAchievements": 20,
@@ -21402,7 +21407,7 @@
       "Name": "Double Rainbow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7731
+      "UsersEstimate": 7732
     },
     {
       "ID": "ACH_DRIFT_LINE_APPRENTICE",
@@ -21537,15 +21542,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1546297,
+      "Progressed": 1546303,
       "Completed": 708
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-22T03:06:48.1814633+00:00",
+  "LastChanged_Achievements": "2023-10-22T04:05:06.198755+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:30.6444374+00:00",
-  "LastUpdate_Ratings": "2023-10-22T03:02:08.7823837+00:00",
-  "LastUpdate_Achievements": "2023-10-22T03:06:48.1815723+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:59:57.1218017+00:00",
+  "LastUpdate_Achievements": "2023-10-22T04:05:06.1988801+00:00"
 }

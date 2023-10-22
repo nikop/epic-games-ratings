@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~444,902 |
-| The Three | 64.00% | ~343,057 |
-| The Banquet | 40.00% | ~214,411 |
-| Devara's Light | 31.00% | ~166,168 |
-| The Iron Ones | 18.00% | ~96,485 |
+| Find Sanctuary | 83.00% | ~444,906 |
+| The Three | 64.00% | ~343,060 |
+| The Banquet | 40.00% | ~214,412 |
+| Devara's Light | 31.00% | ~166,170 |
+| The Iron Ones | 18.00% | ~96,486 |
 | The Village | 17.00% | ~91,125 |
-| The Forest | 15.00% | ~80,404 |
+| The Forest | 15.00% | ~80,405 |
 | The Keep | 14.00% | ~75,044 |
 | Branded | 13.00% | ~69,684 |
 | The Imposter | 13.00% | ~69,684 |
 | The Castle | 11.00% | ~58,963 |
-| The Dome | 9.00% | ~48,242 |
-| The Red Hall | 9.00% | ~48,242 |
+| The Dome | 9.00% | ~48,243 |
+| The Red Hall | 9.00% | ~48,243 |
 | The Sacrifice | 8.00% | ~42,882 |
 | The Cave | 7.00% | ~37,522 |
 | The Mire | 7.00% | ~37,522 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,162 |
 | The Lake | 6.00% | ~32,162 |
 | The Ruins | 6.00% | ~32,162 |
-| The Alkymancery | 5.00% | ~26,801 |
-| The Pitchwoods | 5.00% | ~26,801 |
+| The Alkymancery | 5.00% | ~26,802 |
+| The Pitchwoods | 5.00% | ~26,802 |
 | Honed | 4.00% | ~21,441 |
 | The House of Splendor | 4.00% | ~21,441 |
 | The Crypt | 4.00% | ~21,441 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,721 |
 | Fading Fast | 1.00% | ~5,360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,027 (Ranked 32)  
+Progressed: 536,031 (Ranked 32)  
 Completed: 1,586 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 1,586 (0.30%) (Ranked 208)
 | 2023-10-19 | 535,817 | 1,584 |
 | 2023-10-20 | 535,910 | 1,586 |
 | 2023-10-21 | 536,014 | 1,586 |
-| 2023-10-22 | 536,027 | 1,586 |
+| 2023-10-22 | 536,031 | 1,586 |
 ## Awards
 Max (Challenging Combat): 290  (Ranked 245)  
 Sum: 1,977 (Ranked 206)  
