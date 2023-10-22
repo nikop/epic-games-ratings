@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 881)  
+Rating: 4.21 (Ranked 882)  
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 510)  
 Sum: 24 (Ranked 515)  

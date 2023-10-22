@@ -80,17 +80,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.80% | ~119 |
 | Victorious | 0.80% | ~119 |
 | Good Difficulty | 0.80% | ~119 |
+| Patrons | 0.80% | ~119 |
+| Greece | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Points Victory | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
 | Landowners | 0.70% | ~104 |
-| Patrons | 0.70% | ~104 |
 | Riders | 0.70% | ~104 |
 | Statesmen | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
-| Greece | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
 | Economic Reform | 0.70% | ~104 |
@@ -139,6 +139,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~59 |
 | Learn to Play 5 | 0.40% | ~59 |
 | Rome | 0.40% | ~59 |
+| Kush | 0.40% | ~59 |
 | Beja Archer | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~45 |
 | Ishtar Gate in Babylon | 0.30% | ~45 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.30% | ~45 |
 | Rmt n Kmt Buhen | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
-| Kush | 0.30% | ~45 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,866 (Ranked 139)  
+Progressed: 14,867 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,10 +534,10 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,866 | 5 |
+| 2023-10-22 | 14,867 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,851 (Ranked 211)  
+Sum: 1,852 (Ranked 211)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -548,7 +548,7 @@ Diff (max vs sum): 56
 | This game is Educational | 211 |
 | This game has Challenging Combat | 200 |
 | This game has Quickly Understood Controls | 194 |
-| This game has Amazing Characters | 192 |
+| This game has Amazing Characters | 193 |
 | This game has Amazing Storytelling | 187 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -706,3 +706,4 @@ Diff (max vs sum): 56
 | 2023-10-18 | 4.65 | - | 224 | 1,846 |
 | 2023-10-19 | 4.65 | - | 224 | 1,848 |
 | 2023-10-21 | 4.65 | - | 224 | 1,851 |
+| 2023-10-22 | 4.65 | - | 224 | 1,852 |

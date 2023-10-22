@@ -10,7 +10,7 @@
 | Complete Level 1-2 | 46.00% | ~45 |
 | Engineer-mage hybrid | 32.00% | ~31 |
 | Scraping by | 31.00% | ~30 |
-| Complete Level 1-3 | 28.00% | ~27 |
+| Complete Level 1-3 | 29.00% | ~28 |
 | Defeat the warrior boss | 21.00% | ~21 |
 | Get out of my way | 20.00% | ~20 |
 | Redecorator | 19.00% | ~19 |
@@ -25,9 +25,9 @@
 | Baby steps | 11.00% | ~11 |
 | Complete Level 3-1 | 11.00% | ~11 |
 | Engineer-warrior hybrid | 10.00% | ~10 |
+| Mage-warrior hybrid | 10.00% | ~10 |
 | Party popper | 10.00% | ~10 |
 | Complete Level 3-2 | 9.00% | ~9 |
-| Mage-warrior hybrid | 9.00% | ~9 |
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
 | Complete Level 3-3 | 7.00% | ~7 |

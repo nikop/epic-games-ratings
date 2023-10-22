@@ -312,9 +312,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -416,9 +416,9 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_WARRIORMAGE",
       "SetID": "cfld5bl",
       "Name": "Mage-warrior hybrid",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:08:41.6986199+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:08:14.5213211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:02:03.3074157+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:08:41.6986696+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:01:19.9152918+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:08:14.5213578+00:00"
 }

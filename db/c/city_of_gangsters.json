@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348777,
+  "EOS_Progressed": 348780,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 955,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21554,6 +21554,11 @@
       "Time": "2023-10-22T06:07:38.8632608+00:00",
       "NumProgressed": 348777,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-22T07:07:00.251547+00:00",
+      "NumProgressed": 348780,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21581,7 +21586,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41853
+      "UsersEstimate": 41854
     },
     {
       "ID": "ach004",
@@ -21621,7 +21626,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41853
+      "UsersEstimate": 41854
     },
     {
       "ID": "ach009",
@@ -21773,7 +21778,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160437
+      "UsersEstimate": 160439
     },
     {
       "ID": "ach028",
@@ -21789,7 +21794,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38365
+      "UsersEstimate": 38366
     },
     {
       "ID": "ach030",
@@ -21901,7 +21906,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24414
+      "UsersEstimate": 24415
     },
     {
       "ID": "ach044",
@@ -21925,7 +21930,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24414
+      "UsersEstimate": 24415
     },
     {
       "ID": "ach047",
@@ -21965,7 +21970,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38365
+      "UsersEstimate": 38366
     },
     {
       "ID": "ach052",
@@ -22093,7 +22098,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55804
+      "UsersEstimate": 55805
     },
     {
       "ID": "ach069",
@@ -22173,7 +22178,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24414
+      "UsersEstimate": 24415
     },
     {
       "ID": "ach079",
@@ -22204,7 +22209,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348777,
+      "Progressed": 348780,
       "Completed": 7
     }
   ],
@@ -22212,8 +22217,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:07:38.8632603+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:07:00.2515466+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:00:01.6357345+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:07:38.8634826+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:59:35.1522805+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:07:00.2517632+00:00"
 }

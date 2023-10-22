@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,521 |
-| Overkill | 35.00% | ~5,307 |
-| A normal day in Gloomhaven | 34.00% | ~5,156 |
-| Vaccine Incoming | 33.00% | ~5,004 |
-| Spread the plague | 31.00% | ~4,701 |
-| Get over here! | 24.00% | ~3,639 |
-| Just when I thought I was out... | 19.00% | ~2,881 |
-| Precious! | 17.00% | ~2,578 |
-| Mine... All Mine... | 17.00% | ~2,578 |
-| Light of my life | 15.00% | ~2,275 |
-| Anatomy Lesson | 15.00% | ~2,275 |
-| Grizzled veteran | 14.00% | ~2,123 |
-| You activated my trap card! | 13.00% | ~1,971 |
-| Obstacle race | 13.00% | ~1,971 |
+| I'm not dead yet | 43.00% | ~6,523 |
+| Overkill | 35.00% | ~5,310 |
+| A normal day in Gloomhaven | 34.00% | ~5,158 |
+| Vaccine Incoming | 33.00% | ~5,006 |
+| Spread the plague | 31.00% | ~4,703 |
+| Get over here! | 24.00% | ~3,641 |
+| Just when I thought I was out... | 19.00% | ~2,882 |
+| Precious! | 17.00% | ~2,579 |
+| Mine... All Mine... | 17.00% | ~2,579 |
+| Light of my life | 15.00% | ~2,276 |
+| Anatomy Lesson | 15.00% | ~2,276 |
+| Grizzled veteran | 14.00% | ~2,124 |
+| You activated my trap card! | 13.00% | ~1,972 |
+| Obstacle race | 13.00% | ~1,972 |
 | Augmented rat | 12.00% | ~1,820 |
-| Doom and gloom | 11.00% | ~1,668 |
+| Doom and gloom | 11.00% | ~1,669 |
 | Who's the Boss? | 9.00% | ~1,365 |
-| Dungeon Veteran | 8.00% | ~1,213 |
-| Pack leader | 8.00% | ~1,213 |
-| Pain is your friend | 8.00% | ~1,213 |
-| Black death | 8.00% | ~1,213 |
-| Play it again, Sam | 8.00% | ~1,213 |
+| Dungeon Veteran | 8.00% | ~1,214 |
+| Pack leader | 8.00% | ~1,214 |
+| Pain is your friend | 8.00% | ~1,214 |
+| Black death | 8.00% | ~1,214 |
+| Play it again, Sam | 8.00% | ~1,214 |
 | Quad damage | 6.00% | ~910 |
 | Power Up! | 5.00% | ~758 |
 | Pretty lights! | 5.00% | ~758 |
@@ -47,17 +47,17 @@ Number of Ratings: 68  (23.09.2022)
 | An axe to grind | 2.00% | ~303 |
 | Add a bit of colour | 1.00% | ~152 |
 | How to train your Drake | 1.00% | ~152 |
-| Captain hooked | 0.90% | ~136 |
-| New Blood | 0.90% | ~136 |
+| Captain hooked | 0.90% | ~137 |
+| New Blood | 0.90% | ~137 |
 | Betray this | 0.70% | ~106 |
 | Spoiler police! | 0.70% | ~106 |
 | The Pacifist | 0.50% | ~76 |
 | A tough job | 0.40% | ~61 |
 | Born Support | 0.40% | ~61 |
-| The evil that men do | 0.30% | ~45 |
-| MacReady Steady.. Go! | 0.30% | ~45 |
-| Pull out the big guns | 0.30% | ~45 |
-| Crimson Tornado | 0.30% | ~45 |
+| The evil that men do | 0.30% | ~46 |
+| MacReady Steady.. Go! | 0.30% | ~46 |
+| Pull out the big guns | 0.30% | ~46 |
+| Crimson Tornado | 0.30% | ~46 |
 | The Cartographer | 0.20% | ~30 |
 | The Jaws of victory! | 0.20% | ~30 |
 | Murder Death Kill | 0.20% | ~30 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~15 |
 | Hard-travelling Heroes | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,164 (Ranked 138)  
+Progressed: 15,170 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.01%) (Ranked 299)
 | 2023-10-19 | 14,556 | 1 |
 | 2023-10-20 | 14,770 | 1 |
 | 2023-10-21 | 15,077 | 1 |
-| 2023-10-22 | 15,164 | 1 |
+| 2023-10-22 | 15,170 | 1 |
 ## Awards
 Max (Character Customization): 3,557  (Ranked 90)  
 Sum: 8,306 (Ranked 98)  

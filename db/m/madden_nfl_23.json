@@ -739,9 +739,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2867,
+  "EOS_Progressed": 2868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3779,6 +3779,11 @@
       "Time": "2023-10-22T06:05:18.4858178+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T07:04:56.5675945+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3815,7 +3820,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_13",
@@ -3839,7 +3844,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "achievement_16",
@@ -3919,7 +3924,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_6",
@@ -3958,7 +3963,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2867,
+      "Progressed": 2868,
       "Completed": 0
     }
   ],
@@ -3966,8 +3971,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T03:58:08.6782298+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:05:18.4858174+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:04:56.5675941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-22T05:59:05.9849519+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:05:18.4858533+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:58:48.2693474+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:04:56.5676351+00:00"
 }

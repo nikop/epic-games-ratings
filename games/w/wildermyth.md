@@ -6,10 +6,10 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Gotta Ca... Must Collect All of Them | 0.30% | ~4 |
 | This Too Shall Pass | 0.30% | ~4 |
 | How Romantic! | 0.30% | ~4 |
 | The Cost of Heroism | 0.30% | ~4 |
-| Gotta Ca... Must Collect All of Them | 0.20% | ~3 |
 | Me and My Familiar | 0.10% | ~1 |
 | Let Me Get My Chisel | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |

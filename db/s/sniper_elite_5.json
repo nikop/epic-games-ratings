@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3764,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7384,6 +7384,11 @@
       "Time": "2023-10-22T00:03:16.7643088+00:00",
       "NumProgressed": 3764,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-22T07:03:58.9646544+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7475,7 +7480,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7563,7 +7568,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7577,9 +7582,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 301
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -7603,7 +7608,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7619,7 +7624,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7803,7 +7808,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7962,13 +7967,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3715,
+      "Progressed": 3716,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3764,
+      "Progressed": 3765,
       "Completed": 11
     }
   ],
@@ -7976,8 +7981,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-18T04:01:21.5719039+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:04:12.1505043+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:03:58.9646539+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:03:24.6519608+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:04:12.1506958+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:03:23.3822071+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:03:58.9647525+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 515,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 203,
@@ -5539,10 +5539,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9792,
       "NumberOfAwardsMax": 6526
+    },
+    {
+      "Time": "2023-10-22T07:03:27.5878794+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9795,
+      "NumberOfAwardsMax": 6526
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9792,
+  "NumberOfAwards": 9795,
   "NumberOfAwardsMax": 6526,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5562,7 +5568,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 431
+      "Count": 434
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5601,9 +5607,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 700885,
+  "EOS_Progressed": 700912,
   "EOS_Completed": 2242,
-  "EOS_NewPlayers": 4923,
+  "EOS_NewPlayers": 4933,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -26586,6 +26592,11 @@
       "Time": "2023-10-22T06:08:47.3680009+00:00",
       "NumProgressed": 700885,
       "NumCompleted": 2242
+    },
+    {
+      "Time": "2023-10-22T07:08:19.7252246+00:00",
+      "NumProgressed": 700912,
+      "NumCompleted": 2242
     }
   ],
   "TotalAchievements": 45,
@@ -26661,7 +26672,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28035
+      "UsersEstimate": 28036
     },
     {
       "ID": "ach_contender",
@@ -26757,7 +26768,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28035
+      "UsersEstimate": 28036
     },
     {
       "ID": "ach_impressive_aim",
@@ -26861,7 +26872,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "ach_skilled_up",
@@ -26933,7 +26944,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28035
+      "UsersEstimate": 28036
     },
     {
       "ID": "ach_well_known_survivor",
@@ -26956,22 +26967,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 700885,
+      "Progressed": 700912,
       "Completed": 2242
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 26427,
-      "Completed": 26427
+      "Progressed": 26454,
+      "Completed": 26454
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-22T00:02:30.6279715+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:08:47.3680004+00:00",
+  "LastChanged": "2023-10-22T07:03:27.5878792+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:08:19.7252243+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:03:29.2192553+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:08:47.3681663+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:03:27.5878798+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:08:19.7253819+00:00"
 }

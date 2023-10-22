@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9365,
+  "EOS_Progressed": 9366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10570,6 +10570,11 @@
       "Time": "2023-10-22T04:05:13.2378425+00:00",
       "NumProgressed": 9365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T07:06:30.6281188+00:00",
+      "NumProgressed": 9366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -10605,7 +10610,7 @@
       "Name": "Clips and Crits",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -10683,9 +10688,9 @@
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
       "SetID": "97mcd7i",
       "Name": "Gunplay And Cosplay",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 4963
+      "UsersEstimate": 5058
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -10693,7 +10698,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -10725,7 +10730,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8335
+      "UsersEstimate": 8336
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10749,7 +10754,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -10779,9 +10784,9 @@
       "ID": "ACH_PHOTOGENIC",
       "SetID": "97mcd7i",
       "Name": "Photogenic",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 7960
+      "UsersEstimate": 8055
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -10797,7 +10802,7 @@
       "Name": "Plug It In",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7679
+      "UsersEstimate": 7680
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -10821,7 +10826,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -10853,7 +10858,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -10885,7 +10890,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7679
+      "UsersEstimate": 7680
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -10957,7 +10962,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -10973,22 +10978,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5244
+      "UsersEstimate": 5245
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9365,
+      "Progressed": 9366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:07:07.528405+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:06:30.6281183+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:49.1107056+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:00:54.0928242+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:07:07.5285052+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:00:17.9387519+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:06:30.6282085+00:00"
 }

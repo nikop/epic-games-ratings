@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 4.00% | ~28,035 |
-| Hotel California | 4.00% | ~28,035 |
-| Welcome To Hell-A | 4.00% | ~28,035 |
+| Break A Leg | 4.00% | ~28,036 |
+| Hotel California | 4.00% | ~28,036 |
+| Welcome To Hell-A | 4.00% | ~28,036 |
 | Dr. Reed, I Presume? | 3.00% | ~21,027 |
 | Git Gutte! | 3.00% | ~21,027 |
 | Bookworm | 3.00% | ~21,027 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 515)
 | Variety is the Spice of Death | 0.70% | ~4,906 |
 | LA Influential | 0.60% | ~4,205 |
 | Gore Horse | 0.60% | ~4,205 |
-| Sharpest Tool in the Box | 0.50% | ~3,504 |
+| Sharpest Tool in the Box | 0.50% | ~3,505 |
 | Sole Survivor | 0.40% | ~2,804 |
 | Survival Skills | 0.40% | ~2,804 |
 | Donk! | 0.20% | ~1,402 |
 | Bucket List | 0.10% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 700,885 (Ranked 22)  
+Progressed: 700,912 (Ranked 22)  
 Completed: 2,242 (0.32%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,17 +236,17 @@ Completed: 2,242 (0.32%) (Ranked 203)
 | 2023-10-19 | 698,583 | 2,242 |
 | 2023-10-20 | 699,491 | 2,239 |
 | 2023-10-21 | 700,647 | 2,242 |
-| 2023-10-22 | 700,885 | 2,242 |
+| 2023-10-22 | 700,912 | 2,242 |
 ## Awards
-Max (Great Boss Battles): 6,526  (Ranked 56)  
-Sum: 9,792 (Ranked 91)  
-Diff (max vs sum): -35  
+Max (Great Boss Battles): 6,526  (Ranked 57)  
+Sum: 9,795 (Ranked 91)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,526 |
 | This game is Great for Beginners | 466 |
 | This game has Diverse Characters | 457 |
-| This game has Quickly Understood Controls | 431 |
+| This game has Quickly Understood Controls | 434 |
 | This game is Relaxing | 413 |
 | This game has Amazing Storytelling | 392 |
 | This game is Highly Recommended | 378 |
@@ -439,4 +439,4 @@ Diff (max vs sum): -35
 | 2023-10-19 | 4.54 | 6,500 | 9,745 |
 | 2023-10-20 | 4.54 | 6,509 | 9,763 |
 | 2023-10-21 | 4.54 | 6,526 | 9,785 |
-| 2023-10-22 | 4.54 | 6,526 | 9,792 |
+| 2023-10-22 | 4.54 | 6,526 | 9,795 |

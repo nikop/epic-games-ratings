@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2023-10-21T23:09:18.2039077+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T07:10:00.6495386+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T15:08:41.0490704+00:00",
@@ -328,7 +333,7 @@
       "Name": "Bring It",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "14",
@@ -336,7 +341,7 @@
       "Name": "Ready for a Fight",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "15",
@@ -352,15 +357,15 @@
       "Name": "Stop Right There",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "17",
       "SetID": "b5e4c1b",
       "Name": "Find the Light",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "18",
@@ -374,9 +379,9 @@
       "ID": "19",
       "SetID": "b5e4c1b",
       "Name": "Yippee Ki-yay",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "2",
@@ -390,9 +395,9 @@
       "ID": "20",
       "SetID": "b5e4c1b",
       "Name": "Aimed Ahead",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "21",
@@ -406,17 +411,17 @@
       "ID": "22",
       "SetID": "b5e4c1b",
       "Name": "Felt Good",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "23",
       "SetID": "b5e4c1b",
       "Name": "Lawman",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "24",
@@ -424,7 +429,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "25",
@@ -464,7 +469,7 @@
       "Name": "Growing Stronger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3",
@@ -472,7 +477,7 @@
       "Name": "Not the Last",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "30",
@@ -486,17 +491,17 @@
       "ID": "31",
       "SetID": "b5e4c1b",
       "Name": "Carry his Words",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "32",
       "SetID": "b5e4c1b",
       "Name": "Nightmare Territory",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 91
     },
     {
       "ID": "33",
@@ -504,7 +509,7 @@
       "Name": "Grew Bigger",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "34",
@@ -544,7 +549,7 @@
       "Name": "Hunting Season",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "39",
@@ -560,7 +565,7 @@
       "Name": "Shining in the Night",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "40",
@@ -568,7 +573,7 @@
       "Name": "Into the Overlap",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "41",
@@ -598,9 +603,9 @@
       "ID": "44",
       "SetID": "b5e4c1b",
       "Name": "Seeing Double",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "45",
@@ -630,9 +635,9 @@
       "ID": "48",
       "SetID": "b5e4c1b",
       "Name": "Talk Show",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "49",
@@ -646,9 +651,9 @@
       "ID": "5",
       "SetID": "b5e4c1b",
       "Name": "Secret Stashes",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "50",
@@ -670,9 +675,9 @@
       "ID": "52",
       "SetID": "b5e4c1b",
       "Name": "In a Fancy Hotel",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "53",
@@ -806,24 +811,24 @@
       "ID": "8",
       "SetID": "b5e4c1b",
       "Name": "Chased the Source",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "9",
       "SetID": "b5e4c1b",
       "Name": "Darkness Coiled",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "b5e4c1b",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
@@ -831,8 +836,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-22T06:10:08.352826+00:00",
+  "LastChanged_Achievements": "2023-10-22T07:10:00.6495383+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.0925269+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:00:47.4147416+00:00",
-  "LastUpdate_Achievements": "2023-10-22T06:10:08.3529435+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:00:12.7755262+00:00",
+  "LastUpdate_Achievements": "2023-10-22T07:10:00.6496076+00:00"
 }
