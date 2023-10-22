@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.10% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.97% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.92% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -73,7 +73,7 @@
 | 71 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.24% |
 | 73 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
-| 74 | [The Bunker](games/t/the_bunker.md) | 4.10% |
+| 74 | [The Bunker](games/t/the_bunker.md) | 4.07% |
 | 75 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
 | 76 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.98% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -91,7 +91,7 @@
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 91 | [HordeCore](games/h/hordecore.md) | 3.09% |
-| 92 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.03% |
+| 92 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 3.01% |
 | 93 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 94 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 94 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -156,7 +156,7 @@
 | 154 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 155 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.79% |
+| 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.78% |
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
@@ -179,8 +179,8 @@
 | 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 177 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 179 | [Dead Space](games/d/dead_space.md) | 0.52% |
-| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.52% |
-| 181 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 180 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 180 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.51% |
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 183 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 184 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
@@ -231,10 +231,10 @@
 | 228 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
 | 228 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 231 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
+| 231 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.18% |
 | 231 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
-| 233 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.17% |
-| 233 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 233 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 234 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 234 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 236 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 236 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 236 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
