@@ -15,7 +15,7 @@ Rating: 4.35 (Ranked 778)
 | Florette Duval | 55.00% | ~241 |
 | Major Felix Hagen | 55.00% | ~241 |
 | Fine-toothed Comb | 54.00% | ~237 |
-| Order and Method | 52.00% | ~228 |
+| Order and Method | 53.00% | ~232 |
 | The Altercation | 50.00% | ~219 |
 | Truth from Within | 48.00% | ~210 |
 | The Major | 47.00% | ~206 |

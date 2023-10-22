@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~171 |
 | Goblin Tales | 31.00% | ~140 |
-| Bug Hunter | 25.00% | ~112 |
+| Bug Hunter | 25.00% | ~113 |
 | Boss Killer | 24.00% | ~108 |
 | The Fallen | 22.00% | ~99 |
 | Artifact Collector | 20.00% | ~90 |
@@ -15,9 +15,9 @@
 | Reincarnation | 16.00% | ~72 |
 | Iconoclasm | 15.00% | ~68 |
 | Librarian | 14.00% | ~63 |
-| Lumberjack | 13.00% | ~58 |
-| Orcs Must Die! | 13.00% | ~58 |
-| The End | 13.00% | ~58 |
+| Lumberjack | 13.00% | ~59 |
+| Orcs Must Die! | 13.00% | ~59 |
+| The End | 13.00% | ~59 |
 | Gladiator | 12.00% | ~54 |
 | Troubleshooter | 11.00% | ~50 |
 | Money Swag | 8.00% | ~36 |
@@ -25,7 +25,7 @@
 | Shield Crusher | 7.00% | ~32 |
 | Treasure Hunter | 7.00% | ~32 |
 | Explorer | 6.00% | ~27 |
-| Trio | 5.00% | ~22 |
+| Trio | 5.00% | ~23 |
 | Pyromancer | 4.00% | ~18 |
 | Spell Master | 4.00% | ~18 |
 | Arrive Home | 3.00% | ~14 |
@@ -35,17 +35,17 @@
 | Meat Lover | 2.00% | ~9 |
 | Sling of David | 2.00% | ~9 |
 | Sword Master | 2.00% | ~9 |
-| Roughneck | 1.00% | ~4 |
-| Rune Master | 1.00% | ~4 |
-| Weapon Master | 1.00% | ~4 |
-| Witch | 1.00% | ~4 |
+| Roughneck | 1.00% | ~5 |
+| Rune Master | 1.00% | ~5 |
+| Weapon Master | 1.00% | ~5 |
+| Witch | 1.00% | ~5 |
 | Assassin | 0.90% | ~4 |
 | Art Collector | 0.20% | ~1 |
 | Cryomancer | 0.20% | ~1 |
 | Hardboiled | 0.20% | ~1 |
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 286)  
+Progressed: 451 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 447 | 0 |
 | 2023-10-20 | 449 | 0 |
 | 2023-10-21 | 450 | 0 |
+| 2023-10-22 | 451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

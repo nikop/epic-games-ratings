@@ -5,31 +5,31 @@ Rating: 4.69 (Ranked 224)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~203,041 |
-| 50 HEADSHOTS | 28.00% | ~189,505 |
-| SCIENCE AND INDUSTRY | 27.00% | ~182,737 |
-| FINISHED CHAPTER 1 | 26.00% | ~175,969 |
-| FINISHED CHAPTER 2 | 19.00% | ~128,593 |
-| 200 HEADSHOTS | 17.00% | ~115,057 |
-| FINISHED CHAPTER 3 | 16.00% | ~108,289 |
-| FINISHED CHAPTER 4 | 14.00% | ~94,753 |
-| FINISH CHAPTER 5 | 12.00% | ~81,216 |
-| FINISH CHAPTER 6 | 10.00% | ~67,680 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,680 |
-| 1000 KILLS | 8.00% | ~54,144 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,072 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,536 |
-| FIRST BLOOD | 2.00% | ~13,536 |
+| 100 KILLS | 30.00% | ~203,052 |
+| 50 HEADSHOTS | 28.00% | ~189,515 |
+| SCIENCE AND INDUSTRY | 27.00% | ~182,747 |
+| FINISHED CHAPTER 1 | 26.00% | ~175,978 |
+| FINISHED CHAPTER 2 | 19.00% | ~128,600 |
+| 200 HEADSHOTS | 17.00% | ~115,063 |
+| FINISHED CHAPTER 3 | 16.00% | ~108,294 |
+| FINISHED CHAPTER 4 | 14.00% | ~94,758 |
+| FINISH CHAPTER 5 | 12.00% | ~81,221 |
+| FINISH CHAPTER 6 | 10.00% | ~67,684 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,684 |
+| 1000 KILLS | 8.00% | ~54,147 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,074 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,537 |
+| FIRST BLOOD | 2.00% | ~13,537 |
 | PACEMAKER | 1.00% | ~6,768 |
 | TIME PARADOX | 1.00% | ~6,768 |
-| OUT OF ORDER | 0.90% | ~6,091 |
-| FIREFIGHT LEVEL 30 | 0.80% | ~5,414 |
+| OUT OF ORDER | 0.90% | ~6,092 |
+| FIREFIGHT LEVEL 30 | 0.80% | ~5,415 |
 | PARTYHARD | 0.70% | ~4,738 |
 | NEW GAME PLUS | 0.60% | ~4,061 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,384 |
 | CHURCH | 0.40% | ~2,707 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,030 |
-| 5 RUNS | 0.30% | ~2,030 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,031 |
+| 5 RUNS | 0.30% | ~2,031 |
 | CHALET | 0.20% | ~1,354 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,354 |
 | REMEMBER THE ARMORY | 0.20% | ~1,354 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 224)
 | THE GAMBLER | 0.10% | ~677 |
 | WARRIOR IN A GARDEN | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,804 (Ranked 23)  
+Progressed: 676,840 (Ranked 23)  
 Completed: 77 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 77 (0.01%) (Ranked 299)
 | 2023-10-19 | 675,836 | 74 |
 | 2023-10-20 | 676,263 | 75 |
 | 2023-10-21 | 676,789 | 77 |
-| 2023-10-22 | 676,804 | 77 |
+| 2023-10-22 | 676,840 | 77 |
 ## Awards
 Max (Great Boss Battles): 355  (Ranked 233)  
 Sum: 355 (Ranked 339)  

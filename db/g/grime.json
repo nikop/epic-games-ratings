@@ -1115,10 +1115,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-22T01:45:36.3612271+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
+  "NumberOfAwards": 307,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1138,7 +1144,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
@@ -1177,9 +1183,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153762,
+  "EOS_Progressed": 153786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12527,6 +12533,11 @@
       "Time": "2023-10-22T00:06:01.8067139+00:00",
       "NumProgressed": 153762,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T01:53:48.5506658+00:00",
+      "NumProgressed": 153786,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12586,7 +12597,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12602,7 +12613,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12714,7 +12725,7 @@
       "Name": "Feast",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -12754,7 +12765,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12794,7 +12805,7 @@
       "Name": "Yank",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -12802,7 +12813,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -12810,7 +12821,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3075
+      "UsersEstimate": 3076
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12905,21 +12916,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153345,
+      "Progressed": 153369,
       "Completed": 1167
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153762,
+      "Progressed": 153786,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-21T21:58:52.0172705+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:06:01.8067133+00:00",
+  "LastChanged": "2023-10-22T01:45:36.3612269+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:53:48.5506651+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:58:21.3614791+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:06:01.8068191+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:45:36.3612274+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:53:48.5507723+00:00"
 }

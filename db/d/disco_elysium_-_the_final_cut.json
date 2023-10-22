@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 173,
+  "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 291,
@@ -1394,9 +1394,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 129954,
+  "EOS_Progressed": 129957,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19744,6 +19744,11 @@
       "Time": "2023-10-22T00:04:25.8212073+00:00",
       "NumProgressed": 129954,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-22T01:51:54.2769205+00:00",
+      "NumProgressed": 129957,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -19811,7 +19816,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31189
+      "UsersEstimate": 31190
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -19819,7 +19824,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10396
+      "UsersEstimate": 10397
     },
     {
       "ID": "ACH_COP_DORK",
@@ -19835,7 +19840,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36387
+      "UsersEstimate": 36388
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -19867,7 +19872,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27290
+      "UsersEstimate": 27291
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -19915,7 +19920,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12995
+      "UsersEstimate": 12996
     },
     {
       "ID": "ACH_GLUTEN",
@@ -20074,15 +20079,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 129954,
+      "Progressed": 129957,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-20T10:57:25.2184126+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:04:25.8212067+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:51:54.27692+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:57:40.1998518+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:04:25.8213479+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:44:45.2208191+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:51:54.2770675+00:00"
 }

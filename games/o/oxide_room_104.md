@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~176 |
-| Brute force | 83.00% | ~166 |
-| Nimble fingers | 79.00% | ~158 |
-| Room 104 | 79.00% | ~158 |
-| Face to face | 78.00% | ~156 |
-| Now or never | 75.00% | ~150 |
-| Let's play a game… | 74.00% | ~148 |
-| First aid | 62.00% | ~124 |
-| Soundtrack | 62.00% | ~124 |
-| Antidote | 55.00% | ~110 |
-| Pick the right door | 27.00% | ~54 |
+| What's going on here? | 88.00% | ~177 |
+| Brute force | 82.00% | ~165 |
+| Nimble fingers | 79.00% | ~159 |
+| Room 104 | 79.00% | ~159 |
+| Face to face | 78.00% | ~157 |
+| Let's play a game… | 74.00% | ~149 |
+| Now or never | 74.00% | ~149 |
+| Soundtrack | 62.00% | ~125 |
+| First aid | 61.00% | ~123 |
+| Antidote | 55.00% | ~111 |
+| Pick the right door | 26.00% | ~52 |
 | The third floor | 19.00% | ~38 |
 | One-way | 17.00% | ~34 |
 | On the right path | 16.00% | ~32 |
-| It can't be true | 16.00% | ~32 |
+| It can't be true | 15.00% | ~30 |
 | I'm close now | 12.00% | ~24 |
 | Failed attempt | 12.00% | ~24 |
 | The real escape | 12.00% | ~24 |
 | Good choice | 12.00% | ~24 |
 | Take the long way round | 12.00% | ~24 |
 | He who seeks, finds! | 12.00% | ~24 |
-| Nightmare in the kitchen | 11.00% | ~22 |
-| Born again | 8.00% | ~16 |
-| The experiment | 7.00% | ~14 |
+| Nightmare in the kitchen | 10.00% | ~20 |
+| Born again | 7.00% | ~14 |
 | 373 | 6.00% | ~12 |
+| The experiment | 6.00% | ~12 |
 | Matthew's revenge | 5.00% | ~10 |
 | Eva's diary | 2.00% | ~4 |
-| Horror book | 2.00% | ~4 |
-| A dark past | 2.00% | ~4 |
+| Horror book | 1.00% | ~2 |
+| A dark past | 1.00% | ~2 |
 | Matthew's mistakes | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 346)  
+Progressed: 201 (Ranked 346)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 192 | 0 |
 | 2023-10-20 | 194 | 0 |
 | 2023-10-21 | 200 | 0 |
+| 2023-10-22 | 201 | 0 |

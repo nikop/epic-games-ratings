@@ -20,14 +20,14 @@
 | Diagnosis: fear | 42.00% | ~13 |
 | Ambition is... blind | 42.00% | ~13 |
 | You have two wishes left | 42.00% | ~13 |
+| Et in arcadia ego | 35.00% | ~11 |
 | The artist | 35.00% | ~11 |
 | The seer | 35.00% | ~11 |
 | Welcome to Hellville | 35.00% | ~11 |
 | You had one wish left | 32.00% | ~10 |
-| Et in arcadia ego | 32.00% | ~10 |
 | You've awakened the beast | 29.00% | ~9 |
 | Hate is... addictive | 29.00% | ~9 |
-| Blessed antennas | 26.00% | ~8 |
+| Blessed antennas | 29.00% | ~9 |
 | The bully | 23.00% | ~7 |
 | The barbarian invasions | 23.00% | ~7 |
 | The beast in the Oval Office | 19.00% | ~6 |

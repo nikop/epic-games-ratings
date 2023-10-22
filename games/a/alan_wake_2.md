@@ -10,42 +10,42 @@
 | Bring It | 49.00% | ~63 |
 | Coffee Thermos | 48.00% | ~62 |
 | Not the Last | 42.00% | ~54 |
-| Darkness Coiled | 40.00% | ~52 |
+| Darkness Coiled | 41.00% | ~53 |
 | Find the Light | 38.00% | ~49 |
 | Chased the Source | 36.00% | ~46 |
 | Felt Good | 33.00% | ~43 |
 | Somebody's Home | 33.00% | ~43 |
 | Into the Overlap | 28.00% | ~36 |
+| Filling the Shape | 28.00% | ~36 |
 | Secret Stashes | 27.00% | ~35 |
-| Filling the Shape | 27.00% | ~35 |
 | Lights Shining | 26.00% | ~34 |
 | Aimed Ahead | 26.00% | ~34 |
 | Lawman | 26.00% | ~34 |
+| Greatest Hits | 25.00% | ~32 |
+| Yippee Ki-yay | 25.00% | ~32 |
 | Carry his Words | 25.00% | ~32 |
-| Yippee Ki-yay | 24.00% | ~31 |
 | The Other Side | 24.00% | ~31 |
-| Greatest Hits | 23.00% | ~30 |
+| Ready for a Fight | 21.00% | ~27 |
 | Shining in the Night | 21.00% | ~27 |
-| Ready for a Fight | 20.00% | ~26 |
 | Talk Show | 20.00% | ~26 |
 | Storm Cloud | 18.00% | ~23 |
 | New York City | 18.00% | ~23 |
 | Return | 17.00% | ~22 |
 | This is the Moment | 16.00% | ~21 |
-| Finding a Way | 15.00% | ~19 |
+| Finding a Way | 16.00% | ~21 |
 | Stop Right There | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
 | Escape its Gravity | 12.00% | ~15 |
+| Stop the Monster | 12.00% | ~15 |
+| Growing Stronger | 12.00% | ~15 |
 | All His Life | 12.00% | ~15 |
-| Stop the Monster | 11.00% | ~14 |
-| Bright Falls' Finest | 10.00% | ~13 |
-| Growing Stronger | 10.00% | ~13 |
+| Bright Falls' Finest | 11.00% | ~14 |
+| In One Go | 10.00% | ~13 |
 | Back in Watery | 9.00% | ~12 |
-| In One Go | 9.00% | ~12 |
+| We Watch in the Night | 9.00% | ~12 |
 | Stunning Vistas | 8.00% | ~10 |
-| We Watch in the Night | 8.00% | ~10 |
+| Seeing Double | 8.00% | ~10 |
 | In a Fancy Hotel | 8.00% | ~10 |
-| Seeing Double | 7.00% | ~9 |
 | The Trail of the Writer | 6.00% | ~8 |
 | Gone for Good | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |

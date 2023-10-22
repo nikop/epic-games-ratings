@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9333,9 +9333,9 @@
       "Count": 732
     }
   ],
-  "EOS_Progressed": 298674,
+  "EOS_Progressed": 298675,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29043,6 +29043,11 @@
       "Time": "2023-10-22T00:08:03.7472017+00:00",
       "NumProgressed": 298674,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-22T01:54:38.0992381+00:00",
+      "NumProgressed": 298675,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29086,7 +29091,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29867
+      "UsersEstimate": 29868
     },
     {
       "ID": "PFA_14",
@@ -29150,7 +29155,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "PFA_21",
@@ -29158,7 +29163,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29867
+      "UsersEstimate": 29868
     },
     {
       "ID": "PFA_22",
@@ -29278,7 +29283,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29867
+      "UsersEstimate": 29868
     },
     {
       "ID": "PFA_36",
@@ -29286,7 +29291,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "PFA_37",
@@ -29350,7 +29355,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "PFA_44",
@@ -29382,7 +29387,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41814
+      "UsersEstimate": 41815
     },
     {
       "ID": "PFA_7",
@@ -29413,7 +29418,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298674,
+      "Progressed": 298675,
       "Completed": 491
     }
   ],
@@ -29421,8 +29426,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-21T21:59:46.5728921+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:08:03.7472008+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:54:38.0992376+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:58:58.3257637+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:08:03.7473537+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:46:28.6533774+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:54:38.0993895+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,387 |
-| Biggest Communism Builder | 24.00% | ~31,189 |
-| The World's Most Laughable Centrist | 21.00% | ~27,290 |
+| Goodest Of The Good Cops | 28.00% | ~36,388 |
+| Biggest Communism Builder | 24.00% | ~31,190 |
+| The World's Most Laughable Centrist | 21.00% | ~27,291 |
 | Il Coppo Del'Arte! | 18.00% | ~23,392 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,793 |
 | Hyperstellar Law Official | 16.00% | ~20,793 |
@@ -16,9 +16,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~18,194 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,894 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,295 |
-| The Figurines Won't Win Her Back | 10.00% | ~12,995 |
+| The Figurines Won't Win Her Back | 10.00% | ~12,996 |
 | Unbelievably Boring **** | 9.00% | ~11,696 |
-| Enemy Of The Physical Realm | 8.00% | ~10,396 |
+| Enemy Of The Physical Realm | 8.00% | ~10,397 |
 | Hardie's Heroes | 6.00% | ~7,797 |
 | The Lawbringer | 4.00% | ~5,198 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,198 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,954 (Ranked 77)  
+Progressed: 129,957 (Ranked 77)  
 Completed: 28 (0.02%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,11 +232,11 @@ Completed: 28 (0.02%) (Ranked 291)
 | 2023-10-19 | 129,878 | 28 |
 | 2023-10-20 | 129,910 | 28 |
 | 2023-10-21 | 129,952 | 28 |
-| 2023-10-22 | 129,954 | 28 |
+| 2023-10-22 | 129,957 | 28 |
 ## Awards
-Max (Character Customization): 734  (Ranked 173)  
+Max (Character Customization): 734  (Ranked 174)  
 Sum: 1,108 (Ranked 242)  
-Diff (max vs sum): -69  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 734 |

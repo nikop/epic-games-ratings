@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-10-21T00:03:30.0131496+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T01:50:57.5470681+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1614,7 +1619,7 @@
       "ID": "ACHIEVEMENT_BLOODSTORM",
       "SetID": "2ff85j2",
       "Name": "Bloodstorm",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1630,7 +1635,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -1702,7 +1707,7 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1806,7 +1811,7 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1831,7 +1836,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 0
     }
   ],
@@ -1839,8 +1844,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:03:38.9258953+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:50:57.5470675+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.6660224+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:57:39.2136248+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:03:38.9259277+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:44:44.1115073+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:50:57.5470985+00:00"
 }

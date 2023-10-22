@@ -4,7 +4,7 @@
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 82,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:04:58.1275277+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:52:32.6471171+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.6284315+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:58:52.8015264+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:04:58.127544+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:46:19.3702642+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:52:32.6471344+00:00"
 }

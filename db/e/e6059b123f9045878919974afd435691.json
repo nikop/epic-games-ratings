@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2259,6 +2259,11 @@
       "Time": "2023-10-21T23:04:15.9604796+00:00",
       "NumProgressed": 924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T01:51:31.4608992+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2278,7 +2283,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2310,7 +2315,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2342,7 +2347,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2550,7 +2555,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2566,7 +2571,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2582,7 +2587,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2630,7 +2635,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2686,7 +2691,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -2694,7 +2699,7 @@
       "Name": "Buy A Book",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2718,7 +2723,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2797,14 +2802,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:04:06.4390536+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:51:31.4608984+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:58:29.4575212+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:04:06.4391342+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:45:48.2733257+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:51:31.4610032+00:00"
 }

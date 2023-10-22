@@ -30,8 +30,8 @@ Number of Ratings: 32  (23.09.2022)
 | Selfish Decisions | 19.00% | ~45 |
 | Extracurricular Affair | 19.00% | ~45 |
 | Lost Souls For Sale | 19.00% | ~45 |
+| Trigger Finger | 19.00% | ~45 |
 | Pulling Heartstrings | 18.00% | ~43 |
-| Trigger Finger | 18.00% | ~43 |
 | Hopes Rewarded | 17.00% | ~40 |
 | Guarding Guru | 17.00% | ~40 |
 | Hustled and Bustled | 12.00% | ~28 |

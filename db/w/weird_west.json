@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2604,9 +2604,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2692,9 +2692,9 @@
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
       "SetID": "8j30i9k",
       "Name": "Welcome to the Weird West",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2740,8 +2740,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:05:11.2936247+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:52:48.3647183+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:59:28.587136+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:05:11.293682+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:46:59.345389+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:52:48.3647783+00:00"
 }

@@ -5,26 +5,26 @@ Rating: 4.63 (Ranked 339)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~465 |
-| To Hell In A Handcart | 66.00% | ~465 |
-| High Profile | 59.00% | ~416 |
+| Read Between The Lines | 66.00% | ~466 |
+| To Hell In A Handcart | 65.00% | ~459 |
+| High Profile | 59.00% | ~417 |
 | Whispers In The Dark | 57.00% | ~402 |
 | Fond Memories | 54.00% | ~381 |
 | A Method To His Madness | 53.00% | ~374 |
 | History Check | 52.00% | ~367 |
-| The New World | 49.00% | ~345 |
-| Open Sesame | 48.00% | ~338 |
-| Sticky Fingers | 48.00% | ~338 |
-| Knives Out | 48.00% | ~338 |
-| Gaze Into The Abyss | 47.00% | ~331 |
-| Back In The Saddle | 47.00% | ~331 |
-| Land, Ho! | 47.00% | ~331 |
-| No Man Is An Island | 47.00% | ~331 |
-| Lock, Stock, And Barrel | 46.00% | ~324 |
-| At Wits' End | 46.00% | ~324 |
-| Bookworm | 44.00% | ~310 |
-| Up In Flames | 44.00% | ~310 |
-| Fhtagn! | 44.00% | ~310 |
+| The New World | 49.00% | ~346 |
+| Open Sesame | 48.00% | ~339 |
+| Sticky Fingers | 48.00% | ~339 |
+| Knives Out | 48.00% | ~339 |
+| Gaze Into The Abyss | 47.00% | ~332 |
+| Land, Ho! | 47.00% | ~332 |
+| No Man Is An Island | 47.00% | ~332 |
+| Lock, Stock, And Barrel | 46.00% | ~325 |
+| Back In The Saddle | 46.00% | ~325 |
+| At Wits' End | 46.00% | ~325 |
+| Fhtagn! | 44.00% | ~311 |
+| Bookworm | 43.00% | ~304 |
+| Up In Flames | 43.00% | ~304 |
 | Going Once... | 39.00% | ~275 |
 | Let Me Be Frank | 37.00% | ~261 |
 | Brain Food | 37.00% | ~261 |
@@ -34,8 +34,8 @@ Rating: 4.63 (Ranked 339)
 | Big Breakthrough | 13.00% | ~92 |
 | Reawakened | 4.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705 (Ranked 259)  
-Completed: 26 (3.69%) (Ranked 78)  
+Progressed: 706 (Ranked 259)  
+Completed: 26 (3.68%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,6 +188,7 @@ Completed: 26 (3.69%) (Ranked 78)
 | 2023-10-19 | 691 | 26 |
 | 2023-10-20 | 700 | 26 |
 | 2023-10-21 | 705 | 26 |
+| 2023-10-22 | 706 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

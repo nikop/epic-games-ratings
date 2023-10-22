@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -3249,9 +3249,9 @@
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 224
     },
     {
       "ID": "LEVEL_010",
@@ -3370,8 +3370,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:08:16.6601066+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:55:13.435362+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.8244205+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:57:27.6233468+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:08:16.6601398+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:44:33.8275573+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:55:13.4353983+00:00"
 }

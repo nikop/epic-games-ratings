@@ -758,9 +758,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4358,
+  "EOS_Progressed": 4359,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7883,6 +7883,11 @@
       "Time": "2023-10-22T00:08:42.8812128+00:00",
       "NumProgressed": 4358,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-22T01:56:14.0548479+00:00",
+      "NumProgressed": 4359,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -7951,7 +7956,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -7959,7 +7964,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -7975,7 +7980,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -7983,7 +7988,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8023,7 +8028,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -8047,7 +8052,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8063,7 +8068,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8078,15 +8083,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4358,
+      "Progressed": 4359,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-22T00:08:42.8812121+00:00",
+  "LastChanged_Achievements": "2023-10-22T01:56:14.0548474+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-21T23:59:32.0627274+00:00",
-  "LastUpdate_Achievements": "2023-10-22T00:08:42.8812763+00:00"
+  "LastUpdate_Ratings": "2023-10-22T01:47:03.8950349+00:00",
+  "LastUpdate_Achievements": "2023-10-22T01:56:14.0549048+00:00"
 }
