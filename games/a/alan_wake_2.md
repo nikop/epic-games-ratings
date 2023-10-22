@@ -16,8 +16,8 @@
 | Felt Good | 33.00% | ~43 |
 | Somebody's Home | 33.00% | ~43 |
 | Into the Overlap | 28.00% | ~36 |
+| Secret Stashes | 28.00% | ~36 |
 | Filling the Shape | 28.00% | ~36 |
-| Secret Stashes | 27.00% | ~35 |
 | Lights Shining | 26.00% | ~34 |
 | Aimed Ahead | 26.00% | ~34 |
 | Lawman | 26.00% | ~34 |
@@ -25,32 +25,32 @@
 | Yippee Ki-yay | 25.00% | ~32 |
 | Carry his Words | 25.00% | ~32 |
 | The Other Side | 24.00% | ~31 |
+| Shining in the Night | 22.00% | ~28 |
 | Ready for a Fight | 21.00% | ~27 |
-| Shining in the Night | 21.00% | ~27 |
 | Talk Show | 20.00% | ~26 |
 | Storm Cloud | 18.00% | ~23 |
 | New York City | 18.00% | ~23 |
 | Return | 17.00% | ~22 |
 | This is the Moment | 16.00% | ~21 |
 | Finding a Way | 16.00% | ~21 |
+| Escape its Gravity | 14.00% | ~18 |
 | Stop Right There | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
-| Escape its Gravity | 13.00% | ~17 |
+| Bright Falls' Finest | 12.00% | ~15 |
 | Stop the Monster | 12.00% | ~15 |
 | Growing Stronger | 12.00% | ~15 |
 | All His Life | 12.00% | ~15 |
-| Bright Falls' Finest | 11.00% | ~14 |
+| Back in Watery | 10.00% | ~13 |
 | In One Go | 10.00% | ~13 |
-| Back in Watery | 9.00% | ~12 |
 | We Watch in the Night | 9.00% | ~12 |
 | Stunning Vistas | 8.00% | ~10 |
 | Seeing Double | 8.00% | ~10 |
 | In a Fancy Hotel | 8.00% | ~10 |
+| Gone for Good | 7.00% | ~9 |
 | Strange Reality | 6.00% | ~8 |
 | The Trail of the Writer | 6.00% | ~8 |
-| Gone for Good | 6.00% | ~8 |
+| Girl in Love | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
-| Girl in Love | 5.00% | ~6 |
 | The Old Gods | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |
 | Behind the Masks | 5.00% | ~6 |
@@ -59,14 +59,14 @@
 | All Smiles | 4.00% | ~5 |
 | The Story Come True | 4.00% | ~5 |
 | End of the Road | 4.00% | ~5 |
-| His Way Out | 3.00% | ~4 |
+| His Way Out | 4.00% | ~5 |
+| Cut Short | 4.00% | ~5 |
+| Rock n' Roll, Baby | 3.00% | ~4 |
 | Shift in Reality | 3.00% | ~4 |
 | Back to Life | 3.00% | ~4 |
-| Cut Short | 3.00% | ~4 |
 | The Koskela Brothers | 2.00% | ~3 |
 | Filled with Rage | 2.00% | ~3 |
 | I'll Find You | 2.00% | ~3 |
-| Rock n' Roll, Baby | 2.00% | ~3 |
 | The Nice Things in Life | 2.00% | ~3 |
 | Hidden by the Trees | 0.80% | ~1 |
 | Rustic Charm | 0.00% | ~0 |

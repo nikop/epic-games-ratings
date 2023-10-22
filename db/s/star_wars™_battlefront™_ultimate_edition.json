@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2154,6 +2154,11 @@
       "Time": "2023-10-22T00:08:13.058697+00:00",
       "NumProgressed": 786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T03:08:53.1732127+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2270,7 +2275,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_22",
@@ -2366,7 +2371,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_33",
@@ -2382,7 +2387,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_35",
@@ -2390,7 +2395,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_36",
@@ -2406,7 +2411,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_38",
@@ -2414,7 +2419,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_39",
@@ -2470,7 +2475,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_45",
@@ -2606,7 +2611,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_60",
@@ -2669,13 +2674,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 1
     }
   ],
@@ -2683,8 +2688,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:28:19.3043569+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:08:53.1732113+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:18:52.4603947+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:28:19.3044393+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:00:27.1990275+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:08:53.1732748+00:00"
 }

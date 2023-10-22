@@ -7,13 +7,13 @@ Number of Ratings: 22,103  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~34,850 |
-| To The Nines | 42.00% | ~31,819 |
-| Optimized | 37.00% | ~28,031 |
+| To The Nines | 42.00% | ~31,820 |
+| Optimized | 37.00% | ~28,032 |
 | Performance Review | 36.00% | ~27,274 |
 | Making a Name | 35.00% | ~26,516 |
 | Tune Up | 33.00% | ~25,001 |
-| Wet Work | 32.00% | ~24,243 |
-| Landlord | 32.00% | ~24,243 |
+| Wet Work | 32.00% | ~24,244 |
+| Landlord | 32.00% | ~24,244 |
 | The Side Job | 31.00% | ~23,486 |
 | Wrecking Ball | 28.00% | ~21,213 |
 | Food for Thought | 27.00% | ~20,455 |
@@ -21,12 +21,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Young Empire | 25.00% | ~18,940 |
 | Work Ethic | 23.00% | ~17,425 |
 | Picking Fights | 20.00% | ~15,152 |
-| Power Players | 19.00% | ~14,394 |
+| Power Players | 19.00% | ~14,395 |
 | Quality Time | 18.00% | ~13,637 |
+| Showdown | 17.00% | ~12,879 |
 | Et tu? | 17.00% | ~12,879 |
-| Showdown | 16.00% | ~12,122 |
 | Took It to The Limit | 16.00% | ~12,122 |
-| Kitted Out | 14.00% | ~10,606 |
+| Kitted Out | 14.00% | ~10,607 |
 | Masters of Santo Ileso | 12.00% | ~9,091 |
 | Hijacked | 11.00% | ~8,334 |
 | The Spins | 10.00% | ~7,576 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~152 |
 | Fiesta Time | 0.20% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,760 (Ranked 92)  
+Progressed: 75,761 (Ranked 92)  
 Completed: 51 (0.07%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 51 (0.07%) (Ranked 265)
 | 2023-10-19 | 75,514 | 51 |
 | 2023-10-20 | 75,610 | 51 |
 | 2023-10-21 | 75,744 | 51 |
-| 2023-10-22 | 75,760 | 51 |
+| 2023-10-22 | 75,761 | 51 |
 ## Awards
 Max (Extremely Fun): 1,070  (Ranked 143)  
-Sum: 8,691 (Ranked 97)  
+Sum: 8,692 (Ranked 97)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 46
 | This game is Highly Recommended | 1,011 |
 | This game is Great for Beginners | 1,008 |
 | This game has Diverse Characters | 1,000 |
-| This game has Amazing Characters | 992 |
+| This game has Amazing Characters | 993 |
 | This game is Relaxing | 985 |
 | This game has Amazing Storytelling | 975 |
 | This game has Playful Visuals | 777 |
@@ -468,3 +468,4 @@ Diff (max vs sum): 46
 | 2023-10-17 | 3.79 | - | 1,069 | 8,687 |
 | 2023-10-18 | 3.79 | - | 1,070 | 8,688 |
 | 2023-10-21 | 3.79 | - | 1,070 | 8,691 |
+| 2023-10-22 | 3.79 | - | 1,070 | 8,692 |

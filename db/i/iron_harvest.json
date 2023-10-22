@@ -2,7 +2,7 @@
   "ID": "f312bc218b1d46f7921619cc9f3bf3c7",
   "Name": "Iron Harvest",
   "ProductSlug": "iron-harvest",
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 687,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 165,
   "RatingHistory": [
     {
@@ -386,6 +386,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-22T03:02:29.6137193+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -403,8 +409,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
-  "LastChanged": "2023-10-03T23:58:27.9564982+00:00",
+  "LastChanged": "2023-10-22T03:02:29.6137188+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:48.3530795+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:22:03.7654833+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:28:25.3238101+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:02:29.6137196+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:09:00.927707+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-new-lands",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 322,
-  "Ranking_PopularitySum": 276,
+  "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 687,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 395,
@@ -1584,10 +1584,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 743,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2023-10-22T02:59:18.6016935+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 744,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 743,
+  "NumberOfAwards": 744,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1631,7 +1637,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1663,8 +1669,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2023-10-18T04:02:06.2526564+00:00",
+  "LastChanged": "2023-10-22T02:59:18.6016934+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5551854+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:17:59.8945775+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:24:46.032063+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:59:18.6016939+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:06:25.1718966+00:00"
 }

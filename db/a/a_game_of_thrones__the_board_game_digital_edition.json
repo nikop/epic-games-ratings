@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 120,
@@ -1284,7 +1284,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26595,
+  "EOS_Progressed": 26597,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 3,
@@ -21079,6 +21079,11 @@
       "Time": "2023-10-22T01:54:03.9457393+00:00",
       "NumProgressed": 26595,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-22T03:08:05.7873452+00:00",
+      "NumProgressed": 26597,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -21218,7 +21223,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "1032",
@@ -21226,7 +21231,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10638
+      "UsersEstimate": 10639
     },
     {
       "ID": "1033",
@@ -21250,7 +21255,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "1036",
@@ -21265,15 +21270,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26595,
+      "Progressed": 26597,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:26:02.4309317+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:08:05.7873446+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:22:30.963017+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:26:02.4310704+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:03:15.9494643+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:08:05.7874505+00:00"
 }

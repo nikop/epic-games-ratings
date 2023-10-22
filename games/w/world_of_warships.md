@@ -1,28 +1,28 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 702)  
+Rating: 4.41 (Ranked 703)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~34,143 |
-| Initial Capital | 69.00% | ~29,085 |
-| Moneybags | 48.00% | ~20,233 |
-| Junior Supply Officer | 48.00% | ~20,233 |
-| Naval Warfare. Arson | 36.00% | ~15,175 |
-| Naval Warfare. Ramming | 35.00% | ~14,753 |
-| Naval Constructor | 34.00% | ~14,332 |
-| Amateur | 33.00% | ~13,910 |
-| Naval Warfare. Tactics | 33.00% | ~13,910 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,538 |
-| Naval Warfare. Lucky Shot | 22.00% | ~9,273 |
-| Naval Warfare. Flooding | 21.00% | ~8,852 |
-| Business Magnate | 19.00% | ~8,009 |
-| Battle Hero | 17.00% | ~7,166 |
-| Supply Officer | 15.00% | ~6,323 |
-| Smooth Supply | 15.00% | ~6,323 |
-| Warrior | 14.00% | ~5,901 |
+| Junior Naval Designer | 81.00% | ~34,150 |
+| Initial Capital | 69.00% | ~29,091 |
+| Moneybags | 48.00% | ~20,237 |
+| Junior Supply Officer | 48.00% | ~20,237 |
+| Naval Warfare. Arson | 36.00% | ~15,178 |
+| Naval Warfare. Ramming | 35.00% | ~14,756 |
+| Naval Constructor | 34.00% | ~14,335 |
+| Amateur | 33.00% | ~13,913 |
+| Naval Warfare. Tactics | 33.00% | ~13,913 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,540 |
+| Naval Warfare. Lucky Shot | 22.00% | ~9,275 |
+| Naval Warfare. Flooding | 21.00% | ~8,854 |
+| Business Magnate | 19.00% | ~8,011 |
+| Battle Hero | 17.00% | ~7,167 |
+| Supply Officer | 15.00% | ~6,324 |
+| Smooth Supply | 15.00% | ~6,324 |
+| Warrior | 14.00% | ~5,903 |
 | Veteran | 9.00% | ~3,794 |
 | Legend of the Seas | 4.00% | ~1,686 |
 | Chief Naval Architect | 4.00% | ~1,686 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~42 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,152 (Ranked 112)  
+Progressed: 42,161 (Ranked 112)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 41,163 | 0 |
 | 2023-10-20 | 41,568 | 0 |
 | 2023-10-21 | 42,092 | 0 |
-| 2023-10-22 | 42,152 | 0 |
+| 2023-10-22 | 42,161 | 0 |
 ## Awards
 Max (Relaxing): 1,435  (Ranked 131)  
 Sum: 12,040 (Ranked 81)  

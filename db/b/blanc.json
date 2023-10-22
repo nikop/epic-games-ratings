@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2824,
+  "EOS_Progressed": 2826,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3776,6 +3776,11 @@
       "Time": "2023-10-21T23:03:29.013588+00:00",
       "NumProgressed": 2824,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T03:04:21.1442415+00:00",
+      "NumProgressed": 2826,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3803,7 +3808,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -3875,7 +3880,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -3890,7 +3895,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2824,
+      "Progressed": 2826,
       "Completed": 6
     }
   ],
@@ -3898,8 +3903,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:23:08.0089239+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:04:21.1442407+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:50.1126153+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:16:27.8964869+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:23:08.0089585+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:57:19.6586783+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:04:21.1442667+00:00"
 }

@@ -1557,9 +1557,9 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 7913,
+  "EOS_Progressed": 7914,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5247,6 +5247,11 @@
       "Time": "2023-10-22T01:50:48.564506+00:00",
       "NumProgressed": 7913,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T03:04:23.4746385+00:00",
+      "NumProgressed": 7914,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5259,7 +5264,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "ach02",
@@ -5283,7 +5288,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ach05",
@@ -5307,7 +5312,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "ach08",
@@ -5427,7 +5432,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ach23",
@@ -5443,7 +5448,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ach25",
@@ -5475,7 +5480,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "ach29",
@@ -5547,7 +5552,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "ach38",
@@ -5627,7 +5632,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "ach48",
@@ -5658,7 +5663,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7913,
+      "Progressed": 7914,
       "Completed": 0
     }
   ],
@@ -5666,8 +5671,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-22T01:44:07.1513836+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:23:09.9855143+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:04:23.4746381+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:16:40.0445415+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:23:09.9855834+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:57:36.4521465+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:04:23.474691+00:00"
 }

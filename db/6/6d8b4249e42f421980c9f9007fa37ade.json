@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -775,9 +775,9 @@
       "ID": "Epic_SmallBell_1",
       "SetID": "ba1m2fc",
       "Name": "Ancient Murmur",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Epic_SpendMoney_100000",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:28:38.8497233+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:09:18.059042+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:09.5421135+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:22:32.9783059+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:28:38.8497698+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:03:20.7762241+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:09:18.0590781+00:00"
 }

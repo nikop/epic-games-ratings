@@ -265,7 +265,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231316,
+  "EOS_Progressed": 231319,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
@@ -19295,6 +19295,11 @@
       "Time": "2023-10-22T02:25:46.8073259+00:00",
       "NumProgressed": 231316,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T03:07:45.1468302+00:00",
+      "NumProgressed": 231319,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19370,7 +19375,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83274
+      "UsersEstimate": 83275
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19450,7 +19455,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78647
+      "UsersEstimate": 78648
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -19474,7 +19479,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6939
+      "UsersEstimate": 6940
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -19529,7 +19534,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231316,
+      "Progressed": 231319,
       "Completed": 5
     }
   ],
@@ -19537,8 +19542,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:25:46.8073243+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:07:45.1468298+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:17:21.4955934+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:25:46.8074678+00:00"
+  "LastUpdate_Ratings": "2023-10-22T02:58:27.669941+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:07:45.1469355+00:00"
 }

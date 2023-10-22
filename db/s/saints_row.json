@@ -3799,10 +3799,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 8691,
       "NumberOfAwardsMax": 1070
+    },
+    {
+      "Time": "2023-10-22T03:01:36.2614172+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 8692,
+      "NumberOfAwardsMax": 1070
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8691,
+  "NumberOfAwards": 8692,
   "NumberOfAwardsMax": 1070,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3852,7 +3858,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 992
+      "Count": 993
     },
     {
       "Text": "This game has a Silly Community",
@@ -3867,9 +3873,9 @@
       "Count": 1070
     }
   ],
-  "EOS_Progressed": 75760,
+  "EOS_Progressed": 75761,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24662,6 +24668,11 @@
       "Time": "2023-10-22T02:25:02.1821227+00:00",
       "NumProgressed": 75760,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-22T03:06:46.2444237+00:00",
+      "NumProgressed": 75761,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24759,9 +24770,9 @@
       "ID": "complete_final_mission",
       "SetID": "3ib2d0i",
       "Name": "Showdown",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 12122
+      "UsersEstimate": 12879
     },
     {
       "ID": "complete_first_side_hustle",
@@ -24777,7 +24788,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24243
+      "UsersEstimate": 24244
     },
     {
       "ID": "complete_mission_1",
@@ -24801,7 +24812,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28031
+      "UsersEstimate": 28032
     },
     {
       "ID": "cutting_edge_materials",
@@ -24857,7 +24868,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14394
+      "UsersEstimate": 14395
     },
     {
       "ID": "empire_tier_4",
@@ -24881,7 +24892,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24243
+      "UsersEstimate": 24244
     },
     {
       "ID": "fully_complete_a_building",
@@ -24905,7 +24916,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10606
+      "UsersEstimate": 10607
     },
     {
       "ID": "get_betrayed",
@@ -25057,7 +25068,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31819
+      "UsersEstimate": 31820
     },
     {
       "ID": "whole_map_purple",
@@ -25096,22 +25107,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75760,
+      "Progressed": 75761,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47397,
+      "Progressed": 47398,
       "Completed": 4152
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-10-21T17:06:42.158017+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:25:02.1821221+00:00",
+  "LastChanged": "2023-10-22T03:01:36.261417+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:06:46.2444232+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:19:42.6458011+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:25:02.1822943+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:01:36.2614176+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:06:46.2445545+00:00"
 }

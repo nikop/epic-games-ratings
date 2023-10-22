@@ -6581,10 +6581,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27424,
       "NumberOfAwardsMax": 4797
+    },
+    {
+      "Time": "2023-10-22T03:01:20.826777+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27426,
+      "NumberOfAwardsMax": 4797
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27424,
+  "NumberOfAwards": 27426,
   "NumberOfAwardsMax": 4797,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6628,7 +6634,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3185
+      "Count": 3187
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6637,9 +6643,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 137943,
+  "EOS_Progressed": 137945,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25532,6 +25538,11 @@
       "Time": "2023-10-22T02:25:25.8393894+00:00",
       "NumProgressed": 137943,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-22T03:07:17.2977144+00:00",
+      "NumProgressed": 137945,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 112,
@@ -25655,7 +25666,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "blueprint03",
@@ -25703,7 +25714,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "chest01",
@@ -25903,7 +25914,7 @@
       "Name": "Power of Love",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "energy03",
@@ -25983,7 +25994,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "fuselegendary",
@@ -26063,7 +26074,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "help02",
@@ -26207,7 +26218,7 @@
       "Name": "Natural 20",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "master03",
@@ -26438,15 +26449,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 137943,
+      "Progressed": 137945,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-22T02:19:30.2658462+00:00",
-  "LastChanged_Achievements": "2023-10-22T02:25:25.8393889+00:00",
+  "LastChanged": "2023-10-22T03:01:20.8267769+00:00",
+  "LastChanged_Achievements": "2023-10-22T03:07:17.2977139+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-22T02:19:30.2658474+00:00",
-  "LastUpdate_Achievements": "2023-10-22T02:25:25.83967+00:00"
+  "LastUpdate_Ratings": "2023-10-22T03:01:20.8267775+00:00",
+  "LastUpdate_Achievements": "2023-10-22T03:07:17.2979226+00:00"
 }

@@ -33,8 +33,8 @@
 | Very Elusive | 44.00% | ~338 |
 | Head Hunter | 44.00% | ~338 |
 | Scholar | 43.00% | ~331 |
+| Veteran | 42.00% | ~323 |
 | Operative | 42.00% | ~323 |
-| Veteran | 41.00% | ~315 |
 | The Professor | 40.00% | ~308 |
 | Power Full | 40.00% | ~308 |
 | The Archangel | 39.00% | ~300 |
@@ -80,8 +80,8 @@
 | A House Divided | 26.00% | ~200 |
 | World Shaker | 26.00% | ~200 |
 | Weapon Specialist | 25.00% | ~192 |
+| Liberator | 25.00% | ~192 |
 | Tunnel Rat | 24.00% | ~185 |
-| Liberator | 24.00% | ~185 |
 | Savior | 23.00% | ~177 |
 | Pathfinder | 23.00% | ~177 |
 | Arbiter | 23.00% | ~177 |

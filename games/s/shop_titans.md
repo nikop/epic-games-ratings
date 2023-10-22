@@ -37,12 +37,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 1.00% | ~1,379 |
 | Did we pack lunch? | 1.00% | ~1,379 |
 | Arcane Industries | 1.00% | ~1,379 |
-| Research & Development | 0.90% | ~1,241 |
-| Fated Encounters | 0.90% | ~1,241 |
-| Power of Love | 0.90% | ~1,241 |
-| Flawless Fusion | 0.90% | ~1,241 |
-| Helping Hand | 0.90% | ~1,241 |
-| Natural 20 | 0.90% | ~1,241 |
+| Research & Development | 0.90% | ~1,242 |
+| Fated Encounters | 0.90% | ~1,242 |
+| Power of Love | 0.90% | ~1,242 |
+| Flawless Fusion | 0.90% | ~1,242 |
+| Helping Hand | 0.90% | ~1,242 |
+| Natural 20 | 0.90% | ~1,242 |
 | Tax not Included | 0.80% | ~1,104 |
 | For the Hoard! | 0.80% | ~1,104 |
 | Trash to Treasure | 0.80% | ~1,104 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137,943 (Ranked 75)  
+Progressed: 137,945 (Ranked 75)  
 Completed: 171 (0.12%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 171 (0.12%) (Ranked 244)
 | 2023-10-19 | 137,829 | 171 |
 | 2023-10-20 | 137,884 | 171 |
 | 2023-10-21 | 137,935 | 171 |
-| 2023-10-22 | 137,943 | 171 |
+| 2023-10-22 | 137,945 | 171 |
 ## Awards
 Max (Great for Beginners): 4,797  (Ranked 73)  
-Sum: 27,424 (Ranked 50)  
+Sum: 27,426 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -317,7 +317,7 @@ Diff (max vs sum): 23
 | This game has Diverse Characters | 3,920 |
 | This game is Highly Recommended | 3,766 |
 | This game has Easy Combat | 3,712 |
-| This game has Playful Visuals | 3,185 |
+| This game has Playful Visuals | 3,187 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -588,4 +588,4 @@ Diff (max vs sum): 23
 | 2023-10-19 | 3.99 | - | 4,793 | 27,406 |
 | 2023-10-20 | 3.99 | - | 4,797 | 27,418 |
 | 2023-10-21 | 3.99 | - | 4,797 | 27,422 |
-| 2023-10-22 | 3.99 | - | 4,797 | 27,424 |
+| 2023-10-22 | 3.99 | - | 4,797 | 27,426 |

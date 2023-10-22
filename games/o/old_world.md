@@ -73,13 +73,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.90% | ~134 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
+| Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
 | Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
 | Victorious | 0.80% | ~119 |
 | Good Difficulty | 0.80% | ~119 |
-| Mausoleum | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Points Victory | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,861 (Ranked 139)  
+Progressed: 14,862 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,861 | 5 |
+| 2023-10-22 | 14,862 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,851 (Ranked 211)  
