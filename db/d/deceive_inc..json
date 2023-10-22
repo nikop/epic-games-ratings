@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -253,15 +253,21 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-22T09:57:36.2748352+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18593,
+  "EOS_Progressed": 18595,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12054,6 +12060,11 @@
       "Time": "2023-10-22T06:05:44.5081189+00:00",
       "NumProgressed": 18593,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T10:04:46.2001063+00:00",
+      "NumProgressed": 18595,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12129,7 +12140,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "0010",
@@ -12161,7 +12172,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "0014",
@@ -12191,9 +12202,9 @@
       "ID": "0017",
       "SetID": "2n2feee",
       "Name": "Never Say Loser Again",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3347
     },
     {
       "ID": "0018",
@@ -12201,7 +12212,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "0019",
@@ -12217,7 +12228,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1859
+      "UsersEstimate": 1860
     },
     {
       "ID": "0021",
@@ -12249,7 +12260,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "0025",
@@ -12281,7 +12292,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "0029",
@@ -12352,16 +12363,16 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18593,
+      "Progressed": 18595,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
-  "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:05:06.0472319+00:00",
+  "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:04:46.2001059+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:57:54.1900436+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:05:06.0473366+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:57:36.2748356+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:04:46.200205+00:00"
 }

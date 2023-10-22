@@ -4,8 +4,8 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3171,9 +3171,9 @@
       "ID": "ActivePause",
       "SetID": "1e89b4i",
       "Name": "Active Pause",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "BasicControls",
@@ -3506,8 +3506,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:06:42.3407375+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:24.6852744+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:05.6145049+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:06:42.3407934+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:57:48.7668139+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:24.6853254+00:00"
 }

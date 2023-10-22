@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 494)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~387 |
-| And again, and again, and... | 63.00% | ~280 |
+| And again, and again, and... | 64.00% | ~285 |
 | Burn, Elysium, burn! | 62.00% | ~276 |
 | Kuvaq Minigame-Master | 61.00% | ~271 |
 | FunScore | 55.00% | ~245 |

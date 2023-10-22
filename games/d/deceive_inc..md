@@ -1,16 +1,16 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.56 (Ranked 474)  
+Rating: 4.57 (Ranked 459)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 30.00% | ~5,578 |
-| Mainframe Hacker | 23.00% | ~4,276 |
-| The Spy who eliminated me | 23.00% | ~4,276 |
-| Tomorrow Never Dyes | 22.00% | ~4,090 |
-| Never Say Loser Again | 19.00% | ~3,533 |
+| Mainframe Hacker | 23.00% | ~4,277 |
+| The Spy who eliminated me | 23.00% | ~4,277 |
+| Tomorrow Never Dyes | 22.00% | ~4,091 |
 | From the Vault with Love | 18.00% | ~3,347 |
+| Never Say Loser Again | 18.00% | ~3,347 |
 | Tailor-Made | 18.00% | ~3,347 |
 | For your Eyes only | 18.00% | ~3,347 |
 | Assistant Accountant | 17.00% | ~3,161 |
@@ -23,9 +23,9 @@ Rating: 4.56 (Ranked 474)
 | Private Collection | 11.00% | ~2,045 |
 | Killer Looks | 11.00% | ~2,045 |
 | Hostile Takeover | 11.00% | ~2,045 |
-| Keycards Royale | 10.00% | ~1,859 |
-| Dr. No Kill | 10.00% | ~1,859 |
-| In It to Win It | 9.00% | ~1,673 |
+| Keycards Royale | 10.00% | ~1,860 |
+| Dr. No Kill | 10.00% | ~1,860 |
+| In It to Win It | 9.00% | ~1,674 |
 | Security Supervisor | 6.00% | ~1,116 |
 | License to Thrill | 5.00% | ~930 |
 | Social of Solace | 3.00% | ~558 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 474)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,593 (Ranked 130)  
+Progressed: 18,595 (Ranked 130)  
 Completed: 4 (0.02%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 4 (0.02%) (Ranked 291)
 | 2023-10-19 | 18,507 | 4 |
 | 2023-10-20 | 18,544 | 4 |
 | 2023-10-21 | 18,588 | 4 |
-| 2023-10-22 | 18,593 | 4 |
+| 2023-10-22 | 18,595 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -267,3 +267,4 @@ Completed: 4 (0.02%) (Ranked 291)
 | 2023-09-08 | 4.59 | 0 | 0 |
 | 2023-09-09 | 4.55 | 0 | 0 |
 | 2023-09-16 | 4.56 | 0 | 0 |
+| 2023-10-22 | 4.57 | 0 | 0 |

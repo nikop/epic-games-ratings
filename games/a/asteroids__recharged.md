@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Hero | 70.00% | ~73 |
-| Now I'm Here | 66.00% | ~69 |
+| Now I'm Here | 67.00% | ~70 |
 | The Hitman | 53.00% | ~55 |
 | Keep Yourself Alive | 48.00% | ~50 |
 | All Dead, All Dead | 40.00% | ~42 |

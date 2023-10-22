@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7607,
+  "EOS_Progressed": 7608,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7518,6 +7518,11 @@
       "Time": "2023-10-21T17:09:50.1297621+00:00",
       "NumProgressed": 7607,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-22T10:03:38.5555345+00:00",
+      "NumProgressed": 7608,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7569,7 +7574,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7633,7 +7638,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "LIBERATOR",
@@ -7696,7 +7701,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7607,
+      "Progressed": 7608,
       "Completed": 34
     }
   ],
@@ -7704,8 +7709,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:03:40.1476567+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:03:38.5555341+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.1147547+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:28.6394518+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:03:40.1477152+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:12.5975539+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:03:38.555593+00:00"
 }

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Exam Time | 84.00% | ~307 |
-| 1st Grade | 41.00% | ~150 |
+| 1st Grade | 42.00% | ~154 |
 | Smarter than a 5th Grader | 36.00% | ~132 |
 | Study Session | 31.00% | ~113 |
 | Unlucky | 21.00% | ~77 |
 | Exam Practice | 13.00% | ~48 |
-| In The Honor Roll | 10.00% | ~37 |
+| In The Honor Roll | 11.00% | ~40 |
 | Byoing | 8.00% | ~29 |
 | 2nd Grade | 3.00% | ~11 |
 | 3rd Grade | 1.00% | ~4 |

@@ -2,10 +2,10 @@
   "ID": "8acd1f98795f45b5bb8c16556e1fc7ae",
   "Name": "Battle of Guardians",
   "ProductSlug": "battle-of-guardians-4fbdcb",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-22T17:00:00+00:00",
     "PcReleaseDate": "2023-03-30T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-24T02:17:33.820423+00:00",
   "LastUpdate_AppInfo": "2023-10-15T10:57:18.4286535+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:17.2586623+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:05:42.4513501+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:59:06.4321964+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:05:23.0084741+00:00"
 }

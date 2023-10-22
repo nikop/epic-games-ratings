@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -391,7 +391,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3351,
+  "EOS_Progressed": 3352,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -3266,6 +3266,11 @@
       "Time": "2023-10-22T08:05:57.3076073+00:00",
       "NumProgressed": 3351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T10:05:03.4455136+00:00",
+      "NumProgressed": 3352,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3284,9 +3289,9 @@
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 536
     },
     {
       "ID": "achievement_0003",
@@ -3318,7 +3323,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "achievement_0007",
@@ -3326,7 +3331,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3183
+      "UsersEstimate": 3184
     },
     {
       "ID": "achievement_0008",
@@ -3334,7 +3339,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "achievement_0009",
@@ -3438,7 +3443,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "achievement_0022",
@@ -3446,7 +3451,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_0023",
@@ -3454,7 +3459,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "achievement_0024",
@@ -3534,7 +3539,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "achievement_0034",
@@ -3542,7 +3547,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_0035",
@@ -3614,7 +3619,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "achievement_0044",
@@ -3630,7 +3635,7 @@
       "Name": "Making History",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "achievement_0046",
@@ -3669,7 +3674,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3351,
+      "Progressed": 3352,
       "Completed": 0
     }
   ],
@@ -3677,8 +3682,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:05:23.0368136+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:05:03.4455132+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:27.6468576+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:05:23.0368993+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:11.6395094+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:05:03.4455731+00:00"
 }

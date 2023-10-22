@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 900)
 | It's Time | 4.00% | ~164 |
 | Giving Back | 3.00% | ~485 |
 | Terminated | 3.00% | ~485 |
-| In Striking Distance | 2.00% | ~323 |
-| The Commonality | 2.00% | ~323 |
+| In Striking Distance | 2.00% | ~324 |
+| The Commonality | 2.00% | ~324 |
 | One Last Job | 2.00% | ~82 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~29 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 900)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,173 (Ranked 134)  
-Completed: 76 (0.47%) (Ranked 182)  
+Progressed: 16,175 (Ranked 134)  
+Completed: 77 (0.48%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,17 +231,17 @@ Completed: 76 (0.47%) (Ranked 182)
 | 2023-10-19 | 16,085 | 75 |
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
-| 2023-10-22 | 16,173 | 76 |
+| 2023-10-22 | 16,175 | 77 |
 ## Awards
 Max (Amazing Storytelling): 77  (Ranked 379)  
-Sum: 450 (Ranked 323)  
+Sum: 451 (Ranked 323)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 77 |
 | This game is Highly Recommended | 76 |
 | This game has Amazing Characters | 74 |
-| This game has Quickly Understood Controls | 72 |
+| This game has Quickly Understood Controls | 73 |
 | This game is Extremely Fun | 68 |
 | This game has Challenging Combat | 57 |
 | This game has a Creative Community | 26 |
@@ -388,4 +388,4 @@ Diff (max vs sum): 56
 | 2023-10-16 | 4.19 | 76 | 447 |
 | 2023-10-19 | 4.19 | 76 | 448 |
 | 2023-10-21 | 4.19 | 76 | 449 |
-| 2023-10-22 | 4.19 | 77 | 450 |
+| 2023-10-22 | 4.19 | 77 | 451 |

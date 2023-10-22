@@ -2,10 +2,10 @@
   "ID": "b0beeaad664a41ddb029247838a5a930",
   "Name": "The Legend of Heroes Trails through Daybreak",
   "ProductSlug": "the-legend-of-heroes-trails-through-daybreak-dac84d",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-03-02T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-19T20:57:12.6619042+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:32.485202+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:07:24.6336332+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:16.6164804+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:07:07.4823979+00:00"
 }

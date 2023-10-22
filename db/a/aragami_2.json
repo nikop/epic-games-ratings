@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43629,
+  "EOS_Progressed": 43630,
   "EOS_Completed": 239,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -16744,6 +16744,11 @@
       "Time": "2023-10-22T08:08:37.5709516+00:00",
       "NumProgressed": 43629,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-10-22T10:06:58.6381571+00:00",
+      "NumProgressed": 43630,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 44,
@@ -16835,7 +16840,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -16875,7 +16880,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34903
+      "UsersEstimate": 34904
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -16931,7 +16936,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9598
+      "UsersEstimate": 9599
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -16979,7 +16984,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23996
+      "UsersEstimate": 23997
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -16987,7 +16992,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 13961
+      "UsersEstimate": 13962
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -16995,7 +17000,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27486
+      "UsersEstimate": 27487
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17019,7 +17024,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26177
+      "UsersEstimate": 26178
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17027,7 +17032,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29231
+      "UsersEstimate": 29232
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -17035,7 +17040,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -17059,7 +17064,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19633
+      "UsersEstimate": 19634
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -17067,7 +17072,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2182
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -17091,7 +17096,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40575
+      "UsersEstimate": 40576
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17099,14 +17104,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22687
+      "UsersEstimate": 22688
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43629,
+      "Progressed": 43630,
       "Completed": 239
     }
   ],
@@ -17114,8 +17119,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:07:15.8254396+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:58.6381568+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.1359928+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:03:17.7180544+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:07:15.8257162+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:03:13.7546698+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:58.6382773+00:00"
 }

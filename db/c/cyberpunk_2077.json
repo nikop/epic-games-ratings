@@ -13958,10 +13958,10 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893233,
+  "EOS_Progressed": 893241,
   "EOS_Completed": 2696,
-  "EOS_NewPlayers": 1331,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 1328,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34888,6 +34888,11 @@
       "Time": "2023-10-22T09:05:37.2992808+00:00",
       "NumProgressed": 893233,
       "NumCompleted": 2696
+    },
+    {
+      "Time": "2023-10-22T10:05:17.7714799+00:00",
+      "NumProgressed": 893241,
+      "NumCompleted": 2696
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35138,9 +35143,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "TheStar",
@@ -35298,9 +35303,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "Kingofcups",
@@ -35419,21 +35424,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893233,
+      "Progressed": 893241,
       "Completed": 2696
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21856,
+      "Progressed": 21864,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T05:59:35.5103249+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:05:37.2992804+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:05:17.7714794+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:08.4314291+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:05:37.3175835+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:56.5775034+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:05:17.7716574+00:00"
 }

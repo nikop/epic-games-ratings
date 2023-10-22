@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~149 |
 | Beloved | 0.90% | ~134 |
 | Conqueror | 0.90% | ~134 |
+| Victorious | 0.90% | ~134 |
 | Champions | 0.90% | ~134 |
 | Sages | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
@@ -78,7 +79,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.80% | ~119 |
 | Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
-| Victorious | 0.80% | ~119 |
 | Good Difficulty | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Greece | 0.80% | ~119 |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-22 | 14,868 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
-Sum: 1,852 (Ranked 211)  
+Sum: 1,853 (Ranked 211)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -546,7 +546,7 @@ Diff (max vs sum): 56
 | This game is Highly Recommended | 214 |
 | This game is Extremely Fun | 213 |
 | This game is Educational | 211 |
-| This game has Challenging Combat | 200 |
+| This game has Challenging Combat | 201 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Characters | 193 |
 | This game has Amazing Storytelling | 187 |
@@ -706,4 +706,4 @@ Diff (max vs sum): 56
 | 2023-10-18 | 4.65 | - | 224 | 1,846 |
 | 2023-10-19 | 4.65 | - | 224 | 1,848 |
 | 2023-10-21 | 4.65 | - | 224 | 1,851 |
-| 2023-10-22 | 4.65 | - | 224 | 1,852 |
+| 2023-10-22 | 4.65 | - | 224 | 1,853 |

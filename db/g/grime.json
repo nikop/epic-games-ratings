@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153875,
+  "EOS_Progressed": 153889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1567,
+  "EOS_NewPlayers": 1571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12584,6 +12584,11 @@
       "Time": "2023-10-22T09:06:44.3057772+00:00",
       "NumProgressed": 153875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T10:06:26.7285864+00:00",
+      "NumProgressed": 153889,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12849,9 +12854,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1231
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -12962,21 +12967,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153458,
+      "Progressed": 153472,
       "Completed": 1169
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153875,
+      "Progressed": 153889,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:06:44.3057761+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:26.728586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:55.3856127+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:06:44.3058907+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:41.5213526+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:26.7286944+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -851,10 +851,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-10-22T09:59:27.5437545+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 188,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
+  "NumberOfAwards": 188,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -898,7 +904,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -907,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663640,
+  "EOS_Progressed": 663642,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18482,6 +18488,11 @@
       "Time": "2023-10-22T09:06:52.6318927+00:00",
       "NumProgressed": 663640,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-22T10:06:35.2691304+00:00",
+      "NumProgressed": 663642,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18493,7 +18504,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477821
+      "UsersEstimate": 477822
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18501,7 +18512,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384911
+      "UsersEstimate": 384912
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -18509,7 +18520,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152637
+      "UsersEstimate": 152638
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -18517,7 +18528,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39818
+      "UsersEstimate": 39819
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -18629,7 +18640,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152637
+      "UsersEstimate": 152638
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -18653,7 +18664,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39818
+      "UsersEstimate": 39819
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -18876,15 +18887,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663640,
+      "Progressed": 663642,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-10-21T02:59:27.5254645+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:06:52.6318922+00:00",
+  "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:35.26913+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:35.9157997+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:06:52.6320487+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:59:27.543755+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:35.2692722+00:00"
 }

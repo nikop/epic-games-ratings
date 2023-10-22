@@ -6,9 +6,9 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,059 |
-| Comeback | 82.00% | ~110,616 |
-| Information is Key | 80.00% | ~107,918 |
+| Immovable Object | 89.00% | ~120,060 |
+| Comeback | 82.00% | ~110,617 |
+| Information is Key | 80.00% | ~107,919 |
 | Unlucky | 70.00% | ~94,429 |
 | Anarchist | 68.00% | ~91,731 |
 | Wallhack | 65.00% | ~87,684 |
@@ -16,23 +16,23 @@ Number of Ratings: 13,393  (23.09.2022)
 | Lucky Shot | 53.00% | ~71,496 |
 | Forward Observer | 52.00% | ~70,147 |
 | Ring Ring! | 52.00% | ~70,147 |
-| Bossing Around | 45.00% | ~60,704 |
-| Frostbite | 45.00% | ~60,704 |
-| Night Owl | 44.00% | ~59,355 |
-| Strength in Numbers | 44.00% | ~59,355 |
-| Fog of War | 41.00% | ~55,308 |
-| Rasputin | 39.00% | ~52,610 |
-| Stronghold Denied | 39.00% | ~52,610 |
-| Anyone Else? | 38.00% | ~51,261 |
-| Hydra | 36.00% | ~48,563 |
-| This Belongs to Us Now | 36.00% | ~48,563 |
-| Stronghold | 35.00% | ~47,214 |
-| Leeroy | 33.00% | ~44,516 |
-| Lost Batallion | 33.00% | ~44,516 |
-| This is MY Machine Gun! | 32.00% | ~43,167 |
-| Together As One | 31.00% | ~41,818 |
-| Gavrilo Princip | 27.00% | ~36,422 |
-| Lead Harvest | 25.00% | ~33,724 |
+| Bossing Around | 45.00% | ~60,705 |
+| Frostbite | 45.00% | ~60,705 |
+| Night Owl | 44.00% | ~59,356 |
+| Strength in Numbers | 44.00% | ~59,356 |
+| Fog of War | 41.00% | ~55,309 |
+| Rasputin | 39.00% | ~52,611 |
+| Stronghold Denied | 39.00% | ~52,611 |
+| Anyone Else? | 38.00% | ~51,262 |
+| Hydra | 36.00% | ~48,564 |
+| This Belongs to Us Now | 36.00% | ~48,564 |
+| Stronghold | 35.00% | ~47,215 |
+| Leeroy | 33.00% | ~44,517 |
+| Lost Batallion | 33.00% | ~44,517 |
+| This is MY Machine Gun! | 32.00% | ~43,168 |
+| Together As One | 31.00% | ~41,819 |
+| Gavrilo Princip | 27.00% | ~36,423 |
+| Lead Harvest | 25.00% | ~33,725 |
 | Skynet Confirmed | 23.00% | ~31,027 |
 | Kesselschlacht | 22.00% | ~29,678 |
 | Democracy Works! | 20.00% | ~26,980 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,214 |
 | Road to Berlin | 0.60% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,898 (Ranked 76)  
+Progressed: 134,899 (Ranked 76)  
 Completed: 30 (0.02%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 30 (0.02%) (Ranked 291)
 | 2023-10-19 | 134,563 | 30 |
 | 2023-10-20 | 134,671 | 30 |
 | 2023-10-21 | 134,846 | 30 |
-| 2023-10-22 | 134,898 | 30 |
+| 2023-10-22 | 134,899 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 237)  
 Sum: 3,252 (Ranked 166)  

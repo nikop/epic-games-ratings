@@ -2,10 +2,10 @@
   "ID": "9b090c87343a44df9662d262558ceee1",
   "Name": "Cats Hidden in Italy",
   "ProductSlug": "cats-hidden-in-italy-32d9d4",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.4678778+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:00:20.9565555+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:09:18.5570931+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:00:15.8041966+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:08:10.5002+00:00"
 }

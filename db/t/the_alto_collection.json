@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 43510,
+  "EOS_Progressed": 43513,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21581,6 +21581,11 @@
       "Time": "2023-10-22T09:07:00.4268931+00:00",
       "NumProgressed": 43510,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T10:06:43.0232736+00:00",
+      "NumProgressed": 43513,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -21632,7 +21637,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11748
+      "UsersEstimate": 11749
     },
     {
       "ID": "goals180",
@@ -21848,7 +21853,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "unlockmaya",
@@ -21856,7 +21861,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6526
+      "UsersEstimate": 6527
     },
     {
       "ID": "unlockpaz",
@@ -21903,15 +21908,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 43510,
+      "Progressed": 43513,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-22T08:59:17.0919455+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:07:00.4268926+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:43.0232732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2258943+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:17.091946+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:07:00.4270531+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:59:06.2210907+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:43.0234253+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "52a92e2c71b54d58a249946982a0a379",
   "Name": "ANNO Mutationem",
   "ProductSlug": "anno-mutationem-ef8b9e",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -858,8 +858,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:09:42.3111948+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:09:15.0256747+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:07.2675093+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:41.7207951+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:09:42.3112238+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:59:34.84383+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:09:15.025703+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4019249f7e6b41f8b063d7a3b36840dd",
   "Name": "Midnight Pufferfish Show",
   "ProductSlug": "pufferfishshow-14b732",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T22:09:37.1795836+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:03:20.782811+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:09:36.5061129+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:03:16.3992822+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:09:08.8360542+00:00"
 }

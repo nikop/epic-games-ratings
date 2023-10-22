@@ -2,10 +2,10 @@
   "ID": "02986de08035424686db07cfc8171454",
   "Name": "Pixeljunk Scrappers Deluxe",
   "ProductSlug": "pixeljunk-scrappers-deluxe",
-  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T03:06:19.7882985+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:06:52.6058179+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:06:35.1690013+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.0087058+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:26.4332843+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:06:52.6058216+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:10.726865+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:06:35.1690048+00:00"
 }

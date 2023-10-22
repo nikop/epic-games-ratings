@@ -6,11 +6,11 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,821 |
-| Apprentice | 58.00% | ~384,911 |
+| The Fool | 72.00% | ~477,822 |
+| Apprentice | 58.00% | ~384,912 |
 | Close Shave | 25.00% | ~165,910 |
-| Mercenary | 23.00% | ~152,637 |
-| Ninja | 23.00% | ~152,637 |
+| Mercenary | 23.00% | ~152,638 |
+| Ninja | 23.00% | ~152,638 |
 | Northern Scourge | 17.00% | ~112,819 |
 | Thief Bane | 14.00% | ~92,910 |
 | Master of Arms | 12.00% | ~79,637 |
@@ -24,8 +24,8 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,455 |
 | Devil Dice | 7.00% | ~46,455 |
 | Broken Heart | 7.00% | ~46,455 |
-| Adventurer | 6.00% | ~39,818 |
-| Empire's Bane | 6.00% | ~39,818 |
+| Adventurer | 6.00% | ~39,819 |
+| Empire's Bane | 6.00% | ~39,819 |
 | Jack of all Trades | 5.00% | ~33,182 |
 | Smithy | 5.00% | ~33,182 |
 | Leap of Faith | 3.00% | ~19,909 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,640 (Ranked 25)  
+Progressed: 663,642 (Ranked 25)  
 Completed: 171 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 171 (0.03%) (Ranked 286)
 | 2023-10-19 | 663,528 | 171 |
 | 2023-10-20 | 663,571 | 171 |
 | 2023-10-21 | 663,627 | 171 |
-| 2023-10-22 | 663,640 | 171 |
+| 2023-10-22 | 663,642 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 456)  
-Sum: 187 (Ranked 395)  
+Sum: 188 (Ranked 395)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 61
 | This game is Great for Beginners | 26 |
 | This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 23 |
-| This game has Unique Visuals | 20 |
+| This game has Unique Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -355,3 +355,4 @@ Diff (max vs sum): 61
 | 2023-09-12 | 4.55 | - | 35 | 185 |
 | 2023-09-17 | 4.55 | - | 35 | 186 |
 | 2023-10-21 | 4.55 | - | 35 | 187 |
+| 2023-10-22 | 4.55 | - | 35 | 188 |

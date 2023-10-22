@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1275,10 +1275,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-10-22T09:58:21.5835103+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 451,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1298,7 +1304,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1325,11 +1331,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16173,
-  "EOS_Completed": 76,
-  "EOS_NewPlayers": 162,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Progressed": 16175,
+  "EOS_Completed": 77,
+  "EOS_NewPlayers": 164,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -7895,6 +7901,11 @@
       "Time": "2023-10-22T09:05:20.773109+00:00",
       "NumProgressed": 16173,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-10-22T10:05:01.0879074+00:00",
+      "NumProgressed": 16175,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8018,7 +8029,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "KILL_2HEAD",
@@ -8058,7 +8069,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8281,22 +8292,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16173,
-      "Completed": 76
+      "Progressed": 16175,
+      "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4099,
+      "Progressed": 4101,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-22T08:58:35.5578757+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:05:20.7731085+00:00",
+  "LastChanged": "2023-10-22T09:58:21.5835101+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:05:01.087907+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:58:35.5578763+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:05:20.7731934+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:58:21.5835107+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:05:01.0879872+00:00"
 }

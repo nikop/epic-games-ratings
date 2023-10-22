@@ -17,6 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.20% | ~1,786 |
 | Stanislavski's Method | 0.20% | ~1,786 |
 | The Hermit | 0.20% | ~1,786 |
+| The Lovers | 0.20% | ~1,786 |
 | The Wheel of Fortune | 0.20% | ~1,786 |
 | The Jungle | 0.20% | ~1,786 |
 | True Soldier | 0.20% | ~1,786 |
@@ -25,6 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.20% | ~1,786 |
 | V for Vendetta | 0.20% | ~1,786 |
 | Legend of The Afterlife | 0.20% | ~1,786 |
+| Spin Doctor | 0.20% | ~44 |
 | All the President's Men | 0.20% | ~44 |
 | Arachnophobia | 0.20% | ~44 |
 | City Lights | 0.10% | ~893 |
@@ -46,14 +48,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.10% | ~893 |
 | The Devil | 0.10% | ~893 |
 | The Fool | 0.10% | ~893 |
-| The Lovers | 0.10% | ~893 |
 | The Star | 0.10% | ~893 |
 | The Sun | 0.10% | ~893 |
 | The World | 0.10% | ~893 |
 | Greetings from Pacifica! | 0.10% | ~893 |
 | It's Elementary | 0.10% | ~893 |
 | The APB is Not Enough | 0.10% | ~22 |
-| Spin Doctor | 0.10% | ~22 |
 | Relic Ruler | 0.10% | ~22 |
 | Judgement Day | 0.10% | ~22 |
 | King of Cups | 0.10% | ~22 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,233 (Ranked 15)  
+Progressed: 893,241 (Ranked 15)  
 Completed: 2,696 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,696 (0.30%) (Ranked 208)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,233 | 2,696 |
+| 2023-10-22 | 893,241 | 2,696 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 319,006 (Ranked 11)  

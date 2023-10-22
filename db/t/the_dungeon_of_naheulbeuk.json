@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1197,9 +1197,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232340,
+  "EOS_Progressed": 232350,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1407,
+  "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15637,6 +15637,11 @@
       "Time": "2023-10-22T09:04:11.5770282+00:00",
       "NumProgressed": 232340,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T10:03:50.3688792+00:00",
+      "NumProgressed": 232350,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 88,
@@ -15696,7 +15701,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11617
+      "UsersEstimate": 11618
     },
     {
       "ID": "Chapter2",
@@ -15792,7 +15797,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "CompanionPriestress",
@@ -16000,7 +16005,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -16048,7 +16053,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13940
+      "UsersEstimate": 13941
     },
     {
       "ID": "DwarfElf15Support",
@@ -16064,7 +16069,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "DwarfInsultWin",
@@ -16072,7 +16077,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "DwarfLevel2",
@@ -16088,7 +16093,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -16096,7 +16101,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 78996
+      "UsersEstimate": 78999
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16144,7 +16149,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16264
+      "UsersEstimate": 16265
     },
     {
       "ID": "FollowBraztok",
@@ -16152,7 +16157,7 @@
       "Name": "The beards of change",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "FollowNarzatok",
@@ -16168,7 +16173,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "KillDungeonLich",
@@ -16264,7 +16269,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "RangerEpic",
@@ -16288,7 +16293,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "Speedrun",
@@ -16351,21 +16356,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232340,
+      "Progressed": 232350,
       "Completed": 6
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232340,
+      "Progressed": 232350,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-21T20:00:23.9402035+00:00",
-  "LastChanged_Achievements": "2023-10-22T09:04:11.5770278+00:00",
+  "LastChanged_Achievements": "2023-10-22T10:03:50.3688788+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-22T08:59:55.7370238+00:00",
-  "LastUpdate_Achievements": "2023-10-22T09:04:11.5772214+00:00"
+  "LastUpdate_Ratings": "2023-10-22T09:59:48.9177748+00:00",
+  "LastUpdate_Achievements": "2023-10-22T10:03:50.369075+00:00"
 }
