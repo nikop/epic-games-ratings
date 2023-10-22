@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.58% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.10% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.19% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 45.15% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.15% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.52% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
-| 50 | [Scorn](games/s/scorn.md) | 6.94% |
+| 50 | [Scorn](games/s/scorn.md) | 6.98% |
 | 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.71% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -171,9 +171,9 @@
 | 167 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.58% |
 | 170 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
 | 170 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
-| 170 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
 | 170 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 174 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
+| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.56% |
+| 173 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
 | 175 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 177 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -181,16 +181,16 @@
 | 179 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 180 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
-| 182 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
+| 182 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 183 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.46% |
 | 183 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 183 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 183 | [The Devil's Face](games/t/the_devil's_face.md) | 0.46% |
 | 187 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 187 | [Tchia](games/t/tchia.md) | 0.45% |
-| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
-| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
-| 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.43% |
+| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.43% |
+| 190 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.43% |
 | 192 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 193 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 193 | [Them and Us](games/t/them_and_us.md) | 0.40% |
@@ -379,6 +379,7 @@
 | 318 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 0.00% |
 | 318 | [Covid Carl](games/c/covid_carl.md) | 0.00% |
 | 318 | [Crayta](games/c/crayta.md) | 0.00% |
+| 318 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 0.00% |
 | 318 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
 | 318 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
 | 318 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 0.00% |

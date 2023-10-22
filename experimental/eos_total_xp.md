@@ -169,6 +169,7 @@
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
+| [Creepy Tale](../games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 13 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
