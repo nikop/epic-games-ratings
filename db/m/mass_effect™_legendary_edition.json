@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2180,9 +2180,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_121",
@@ -3016,8 +3016,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:06:42.2875498+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:08:32.7683683+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-22T05:03:18.1139784+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:06:42.2877867+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:03:25.2281026+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:08:32.7686064+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
@@ -400,9 +400,9 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERMAGE",
       "SetID": "cfld5bl",
       "Name": "Engineer-mage hybrid",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:06:48.4084903+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:08:41.6986199+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T05:00:22.5325619+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:06:48.4085276+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:02:03.3074157+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:08:41.6986696+00:00"
 }

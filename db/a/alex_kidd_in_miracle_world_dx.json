@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.28,
+  "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -459,6 +459,11 @@
       "Time": "2023-10-21T00:03:28.0108485+00:00",
       "NumProgressed": 313,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T06:04:38.9066683+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -502,7 +507,7 @@
       "Name": "Second Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "EGLE_FREED",
@@ -518,15 +523,15 @@
       "Name": "First Commander",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "GRIZZLY_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Assailants",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 82
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -534,7 +539,7 @@
       "Name": "Janken The Great",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_04",
@@ -550,7 +555,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "NO_PURCHASES",
@@ -597,7 +602,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 4
     }
   ],
@@ -605,8 +610,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:04:00.0165553+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:04:38.9066677+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:43.2846673+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:57:56.1660078+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:04:00.0165684+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:58:15.5605596+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:04:38.9066855+00:00"
 }

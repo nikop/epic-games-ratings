@@ -17,17 +17,17 @@
 | Nothing's Impossible | 40.00% | ~2 |
 | Except Maybe This | 40.00% | ~2 |
 | Ready For The Olympics | 40.00% | ~2 |
+| Never Forget your First | 40.00% | ~2 |
+| Intense Commute | 20.00% | ~1 |
 | Explored The Labs | 20.00% | ~1 |
 | Bullet Conscious | 20.00% | ~1 |
 | Defence Broken | 20.00% | ~1 |
 | Gunny | 20.00% | ~1 |
 | C-C-Combo! | 20.00% | ~1 |
 | Cubes Can Fly | 20.00% | ~1 |
-| Never Forget your First | 20.00% | ~1 |
 | I Refuse To Be A Hero | 20.00% | ~1 |
 | In Too Deep | 0.00% | ~0 |
 | Now What? | 0.00% | ~0 |
-| Intense Commute | 0.00% | ~0 |
 | Got Wet | 0.00% | ~0 |
 | A Plan in Motion | 0.00% | ~0 |
 | Hangar in There | 0.00% | ~0 |

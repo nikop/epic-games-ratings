@@ -23,12 +23,12 @@ Rating: 3.94 (Ranked 988)
 | True Player | 0.60% | ~535 |
 | Headhunter | 0.50% | ~446 |
 | I Like Trains | 0.40% | ~357 |
+| Freebooter | 0.40% | ~357 |
 | Moneybags | 0.40% | ~357 |
 | Legend Looter | 0.30% | ~268 |
 | Imports and Exports | 0.30% | ~268 |
 | Savvy Seeker | 0.30% | ~268 |
 | Foo Finder | 0.30% | ~268 |
-| Freebooter | 0.30% | ~268 |
 | Olympus Ascended | 0.30% | ~268 |
 | Ding Dong | 0.30% | ~268 |
 | All that Glitters | 0.30% | ~53 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 988)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,237 (Ranked 86)  
+Progressed: 89,238 (Ranked 86)  
 Completed: 50 (0.06%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 50 (0.06%) (Ranked 270)
 | 2023-10-19 | 89,188 | 50 |
 | 2023-10-20 | 89,206 | 50 |
 | 2023-10-21 | 89,231 | 50 |
-| 2023-10-22 | 89,237 | 50 |
+| 2023-10-22 | 89,238 | 50 |
 ## Awards
 Max (Diverse Characters): 509  (Ranked 203)  
 Sum: 2,862 (Ranked 175)  

@@ -22,8 +22,8 @@
 | Medal of Exploration III | 53.00% | ~409 |
 | Asari Ally | 53.00% | ~409 |
 | Principled | 52.00% | ~401 |
+| Paramour I | 50.00% | ~386 |
 | Soldier Ally | 50.00% | ~386 |
-| Paramour I | 49.00% | ~378 |
 | Colonial Savior | 49.00% | ~378 |
 | Scientist | 48.00% | ~370 |
 | Merciless | 47.00% | ~362 |

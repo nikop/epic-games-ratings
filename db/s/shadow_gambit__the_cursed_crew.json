@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -2242,6 +2242,11 @@
       "Time": "2023-10-22T00:08:42.4000412+00:00",
       "NumProgressed": 749,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-22T06:09:48.245839+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2262,7 +2267,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "_03_FinishAct1",
@@ -2270,7 +2275,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2302,7 +2307,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "_08_Completion_10",
@@ -2350,7 +2355,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "_14_Completion_70",
@@ -2358,7 +2363,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "_15_Completion_80",
@@ -2382,7 +2387,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2390,7 +2395,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2438,7 +2443,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2461,7 +2466,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 24
     }
   ],
@@ -2469,8 +2474,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:09:15.5598166+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:09:48.2458384+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:59:15.5100928+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:09:15.5598492+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:00:22.8944467+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:09:48.2458935+00:00"
 }

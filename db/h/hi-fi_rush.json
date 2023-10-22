@@ -5,10 +5,10 @@
   "Ranking_Rating": 43,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7253,9 +7253,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 666
     },
     {
       "ID": "Ach024",
@@ -7285,9 +7285,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 416
     },
     {
       "ID": "Ach028",
@@ -7660,8 +7660,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:05:49.2825495+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:07:14.3306897+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:59:27.4423882+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:05:49.2826699+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:00:41.5687122+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:07:14.3309103+00:00"
 }

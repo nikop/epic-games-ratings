@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1121,6 +1121,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-22T05:59:17.2520107+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -1183,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153825,
+  "EOS_Progressed": 153838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1550,
+  "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12558,6 +12564,11 @@
       "Time": "2023-10-22T05:06:22.1343284+00:00",
       "NumProgressed": 153825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T06:08:02.4868534+00:00",
+      "NumProgressed": 153838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12617,7 +12628,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -12625,7 +12636,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -12633,7 +12644,7 @@
       "Name": "Taste",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12657,7 +12668,7 @@
       "Name": "Artisan",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -12673,7 +12684,7 @@
       "Name": "Scion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12697,7 +12708,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -12705,7 +12716,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -12737,7 +12748,7 @@
       "Name": "Inevitable",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -12761,7 +12772,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -12777,7 +12788,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -12785,7 +12796,7 @@
       "Name": "Imprint",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -12817,7 +12828,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -12841,7 +12852,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -12936,21 +12947,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153408,
+      "Progressed": 153421,
       "Completed": 1168
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153825,
+      "Progressed": 153838,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-22T01:45:36.3612269+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:06:22.1343281+00:00",
+  "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:08:02.4868529+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:58:34.350965+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:06:22.1344214+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:59:17.2520111+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:08:02.4870388+00:00"
 }

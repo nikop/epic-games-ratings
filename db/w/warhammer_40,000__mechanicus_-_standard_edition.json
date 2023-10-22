@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225311,
+  "EOS_Progressed": 225314,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20941,6 +20941,11 @@
       "Time": "2023-10-22T05:08:13.0629871+00:00",
       "NumProgressed": 225311,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T06:09:15.9444463+00:00",
+      "NumProgressed": 225314,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20952,7 +20957,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42809
+      "UsersEstimate": 42810
     },
     {
       "ID": "ACH_BASE_10",
@@ -20960,7 +20965,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58581
+      "UsersEstimate": 58582
     },
     {
       "ID": "ACH_BASE_11",
@@ -20976,7 +20981,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ACH_BASE_13",
@@ -20984,7 +20989,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_BASE_15",
@@ -21120,7 +21125,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ACH_BASE_30",
@@ -21200,7 +21205,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27037
+      "UsersEstimate": 27038
     },
     {
       "ID": "ACH_BASE_8",
@@ -21208,7 +21213,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9012
+      "UsersEstimate": 9013
     },
     {
       "ID": "ACH_BASE_9",
@@ -21223,7 +21228,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225311,
+      "Progressed": 225314,
       "Completed": 5
     }
   ],
@@ -21231,8 +21236,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:08:13.0629866+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:09:15.9444457+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:57:34.2778654+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:08:13.0631362+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:57:44.7285152+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:09:15.9447037+00:00"
 }

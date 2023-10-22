@@ -28,13 +28,13 @@ Rating: 4.06 (Ranked 957)
 | Superior | 14.00% | ~289 |
 | The Unstoppable | 14.00% | ~289 |
 | Scientist | 13.00% | ~268 |
+| Hunter | 12.00% | ~247 |
 | The power of Awakening | 12.00% | ~247 |
 | Challenger | 11.00% | ~227 |
 | Daily Quest Completionist | 11.00% | ~227 |
 | Doing My Part | 11.00% | ~227 |
 | Four Leaf Clover | 11.00% | ~227 |
 | Frostfire Liberator | 11.00% | ~227 |
-| Hunter | 11.00% | ~227 |
 | Mastery | 11.00% | ~227 |
 | Moving Up The Ladder | 11.00% | ~227 |
 | Relic Of The Past | 11.00% | ~227 |
@@ -57,9 +57,9 @@ Rating: 4.06 (Ranked 957)
 | The Alchemist | 7.00% | ~144 |
 | Active Member | 6.00% | ~124 |
 | Ancient Knowledge | 6.00% | ~124 |
+| Background Story | 6.00% | ~124 |
 | Legendary | 6.00% | ~124 |
 | Arena Challenger | 5.00% | ~103 |
-| Background Story | 5.00% | ~103 |
 | Ebony Jungle Liberator | 5.00% | ~103 |
 | Mythic Power | 4.00% | ~82 |
 | What lies behind the bush | 4.00% | ~82 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1920,7 +1920,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14864,
+  "EOS_Progressed": 14866,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
@@ -14425,6 +14425,11 @@
       "Time": "2023-10-22T05:09:32.4030665+00:00",
       "NumProgressed": 14864,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T06:10:11.8870689+00:00",
+      "NumProgressed": 14866,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16322,9 +16327,9 @@
       "ID": "ACHIEVEMENT_ROMA_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus in Roma",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -17171,21 +17176,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14864,
+      "Progressed": 14866,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14864,
+      "Progressed": 14866,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-21T16:01:08.2420995+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:09:32.4030661+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:10:11.8870684+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:59:23.4323438+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:09:32.4043274+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:00:36.255689+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:10:11.8883732+00:00"
 }

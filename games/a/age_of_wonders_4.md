@@ -18,10 +18,10 @@ Rating: 4.60 (Ranked 403)
 | Stronger Together | 6.00% | ~314 |
 | My Final Form | 6.00% | ~314 |
 | Seat of Power | 6.00% | ~314 |
+| In a Liege of Your Own | 6.00% | ~314 |
 | Intimidation Tactics | 6.00% | ~314 |
 | Mighty Hoard | 6.00% | ~314 |
 | Valley of Wonders | 5.00% | ~262 |
-| In a Liege of Your Own | 5.00% | ~262 |
 | Fiery Friend | 5.00% | ~262 |
 | Against the Odds | 5.00% | ~262 |
 | Impenetrable Fortress | 5.00% | ~262 |

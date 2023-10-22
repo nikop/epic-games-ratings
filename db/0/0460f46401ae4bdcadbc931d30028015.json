@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 945,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -433,7 +433,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2737,
+  "EOS_Progressed": 2738,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
@@ -3108,6 +3108,11 @@
       "Time": "2023-10-22T05:06:58.6211806+00:00",
       "NumProgressed": 2737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T06:08:56.5927036+00:00",
+      "NumProgressed": 2738,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3120,7 +3125,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_10",
@@ -3160,7 +3165,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "achievement_15",
@@ -3248,7 +3253,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "achievement_6",
@@ -3272,7 +3277,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "achievement_9",
@@ -3287,7 +3292,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2737,
+      "Progressed": 2738,
       "Completed": 0
     }
   ],
@@ -3295,8 +3300,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-22T01:44:00.5636291+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:06:58.6211802+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:08:56.592703+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:57:24.4354441+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:06:58.6212121+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:57:31.3974954+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:08:56.5927371+00:00"
 }

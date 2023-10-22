@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 5,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -53,11 +53,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25997,
+  "EOS_Progressed": 26004,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2312,
+  "EOS_NewPlayers": 2313,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 45.23,
+  "EOS_Completed_Percentage": 45.22,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6383,6 +6383,11 @@
       "Time": "2023-10-22T05:05:51.2164616+00:00",
       "NumProgressed": 25997,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-22T06:07:17.0747225+00:00",
+      "NumProgressed": 26004,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6403,7 +6408,7 @@
       "Name": "First blood",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16643
     },
     {
       "ID": "grenadeKills",
@@ -6506,7 +6511,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 25997,
+      "Progressed": 26004,
       "Completed": 11759
     }
   ],
@@ -6514,8 +6519,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-10-21T14:02:04.7860782+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:05:51.2164612+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:07:17.074722+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.8560856+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:59:55.601792+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:05:51.2165133+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:01:24.1080088+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:07:17.074774+00:00"
 }

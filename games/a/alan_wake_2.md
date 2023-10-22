@@ -15,9 +15,9 @@
 | Chased the Source | 36.00% | ~46 |
 | Felt Good | 33.00% | ~43 |
 | Somebody's Home | 33.00% | ~43 |
-| Aimed Ahead | 28.00% | ~36 |
-| Into the Overlap | 28.00% | ~36 |
-| Secret Stashes | 28.00% | ~36 |
+| Aimed Ahead | 29.00% | ~37 |
+| Into the Overlap | 29.00% | ~37 |
+| Secret Stashes | 29.00% | ~37 |
 | Filling the Shape | 28.00% | ~36 |
 | Lights Shining | 26.00% | ~34 |
 | Yippee Ki-yay | 26.00% | ~34 |
@@ -27,7 +27,7 @@
 | The Other Side | 24.00% | ~31 |
 | Ready for a Fight | 22.00% | ~28 |
 | Shining in the Night | 22.00% | ~28 |
-| Talk Show | 21.00% | ~27 |
+| Talk Show | 22.00% | ~28 |
 | Storm Cloud | 18.00% | ~23 |
 | New York City | 18.00% | ~23 |
 | This is the Moment | 17.00% | ~22 |
@@ -36,23 +36,23 @@
 | Stop Right There | 15.00% | ~19 |
 | Escape its Gravity | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
+| Stop the Monster | 13.00% | ~17 |
 | All His Life | 13.00% | ~17 |
 | Bright Falls' Finest | 12.00% | ~15 |
-| Stop the Monster | 12.00% | ~15 |
 | Growing Stronger | 12.00% | ~15 |
 | Back in Watery | 10.00% | ~13 |
 | In One Go | 10.00% | ~13 |
+| Stunning Vistas | 9.00% | ~12 |
 | We Watch in the Night | 9.00% | ~12 |
 | Seeing Double | 9.00% | ~12 |
 | In a Fancy Hotel | 9.00% | ~12 |
-| Stunning Vistas | 8.00% | ~10 |
+| Girl in Love | 7.00% | ~9 |
 | Gone for Good | 7.00% | ~9 |
 | Strange Reality | 6.00% | ~8 |
 | The Trail of the Writer | 6.00% | ~8 |
-| Girl in Love | 6.00% | ~8 |
+| The Old Gods | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
 | The Story Come True | 5.00% | ~6 |
-| The Old Gods | 5.00% | ~6 |
 | The Final Deerfest | 5.00% | ~6 |
 | End of the Road | 5.00% | ~6 |
 | Behind the Masks | 5.00% | ~6 |

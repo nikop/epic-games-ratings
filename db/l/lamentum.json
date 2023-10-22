@@ -6,9 +6,9 @@
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "achievement_14",
       "SetID": "7881h0d",
       "Name": "Lord Clayton",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_15",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:04:44.1521344+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:05:45.5799535+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:08.4783384+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:59:30.530907+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:04:44.1521505+00:00"
+  "LastUpdate_Ratings": "2023-10-22T06:00:46.2789397+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:05:45.5799823+00:00"
 }

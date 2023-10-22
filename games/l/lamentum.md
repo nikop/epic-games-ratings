@@ -11,7 +11,7 @@ Rating: 4.37 (Ranked 756)
 | Lord Wesley | 34.00% | ~111 |
 | One step down | 27.00% | ~88 |
 | My dear Magda | 27.00% | ~88 |
-| Lord Clayton | 22.00% | ~72 |
+| Lord Clayton | 23.00% | ~75 |
 | The other side of the mirror | 16.00% | ~52 |
 | Little Mary | 14.00% | ~46 |
 | There is freedom in awakening | 11.00% | ~36 |
@@ -26,7 +26,7 @@ Rating: 4.37 (Ranked 756)
 | Lamentum | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 326 (Ranked 311)  
-Completed: 8 (2.45%) (Ranked 103)  
+Completed: 8 (2.45%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

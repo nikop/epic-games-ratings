@@ -5,8 +5,8 @@ Rating: 4.85 (Ranked 43)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 16.00% | ~666 |
 | Start with a bang! | 15.00% | ~624 |
-| Feeling the beat! | 15.00% | ~624 |
 | You can pet the cat! | 14.00% | ~583 |
 | Cream of the Crop | 13.00% | ~541 |
 | Who put gears in there? | 13.00% | ~541 |
@@ -16,9 +16,9 @@ Rating: 4.85 (Ranked 43)
 | Alright, that felt AWESOME! | 11.00% | ~458 |
 | This will cost you big time | 10.00% | ~416 |
 | I play my own way! | 10.00% | ~416 |
+| Z-shielding's got nothing on us! | 10.00% | ~416 |
 | Uh, they were broken when I got here | 10.00% | ~416 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~374 |
-| Z-shielding's got nothing on us! | 9.00% | ~374 |
 | Kissing the sky! | 9.00% | ~374 |
 | The Negotiator | 8.00% | ~333 |
 | Headliner | 8.00% | ~333 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 43)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,161 (Ranked 180)  
+Progressed: 4,161 (Ranked 181)  
 Completed: 8 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |

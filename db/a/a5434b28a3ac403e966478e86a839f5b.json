@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -1344,9 +1344,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_mg2",
@@ -1391,8 +1391,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:06:44.0480757+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:08:35.3703277+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:57:50.3775318+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:06:44.0480943+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:58:06.6131108+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:08:35.3703522+00:00"
 }

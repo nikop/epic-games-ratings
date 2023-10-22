@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18591,
+  "EOS_Progressed": 18593,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12049,6 +12049,11 @@
       "Time": "2023-10-22T05:04:43.326784+00:00",
       "NumProgressed": 18591,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T06:05:44.5081189+00:00",
+      "NumProgressed": 18593,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12060,7 +12065,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5577
+      "UsersEstimate": 5578
     },
     {
       "ID": "0002",
@@ -12076,7 +12081,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "0004",
@@ -12084,7 +12089,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "0005",
@@ -12116,7 +12121,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "0009",
@@ -12188,7 +12193,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "0018",
@@ -12252,7 +12257,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "0026",
@@ -12292,7 +12297,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "0031",
@@ -12347,7 +12352,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18591,
+      "Progressed": 18593,
       "Completed": 4
     }
   ],
@@ -12355,8 +12360,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-16T21:01:33.1962471+00:00",
-  "LastChanged_Achievements": "2023-10-22T05:04:43.3267836+00:00",
+  "LastChanged_Achievements": "2023-10-22T06:05:44.5081182+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-22T04:57:33.3408013+00:00",
-  "LastUpdate_Achievements": "2023-10-22T05:04:43.3268844+00:00"
+  "LastUpdate_Ratings": "2023-10-22T05:57:43.2275106+00:00",
+  "LastUpdate_Achievements": "2023-10-22T06:05:44.5082356+00:00"
 }

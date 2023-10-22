@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 439)  
+Rating: 4.58 (Ranked 438)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~78,986 |
+| Sowwy! | 34.00% | ~78,989 |
 | Alt+F4 | 7.00% | ~16,262 |
 | Where's that freaking Dwarf? | 6.00% | ~13,939 |
 | Déjà vu | 5.00% | ~11,616 |
-| Sock! SOCK! | 4.00% | ~9,292 |
-| Speedrun | 4.00% | ~9,292 |
-| A beer, two curses, three companions | 3.00% | ~6,969 |
-| GG EZ | 3.00% | ~6,969 |
-| DM intervention | 3.00% | ~6,969 |
-| Fireproof Wizardess | 3.00% | ~6,969 |
+| Sock! SOCK! | 4.00% | ~9,293 |
+| Speedrun | 4.00% | ~9,293 |
+| A beer, two curses, three companions | 3.00% | ~6,970 |
+| GG EZ | 3.00% | ~6,970 |
+| DM intervention | 3.00% | ~6,970 |
+| Fireproof Wizardess | 3.00% | ~6,970 |
 | Livin' in a dwarven paradise | 2.00% | ~4,646 |
 | Shiny and Crôm | 2.00% | ~4,646 |
 | Way of the Wimp | 2.00% | ~4,646 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,323 |
 | Dead for good | 0.90% | ~2,091 |
 | Material Girl | 0.90% | ~2,091 |
-| Gargantua | 0.80% | ~1,858 |
+| Gargantua | 0.80% | ~1,859 |
 | In Navalu's footsteps | 0.70% | ~1,626 |
 | We come in peace | 0.60% | ~1,394 |
 | Lëgal Legend | 0.60% | ~1,394 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~232 |
 | Dwarf Candy | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,311 (Ranked 61)  
+Progressed: 232,320 (Ranked 61)  
 Completed: 6 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 6 (0.00%) (Ranked 318)
 | 2023-10-19 | 231,827 | 6 |
 | 2023-10-20 | 232,042 | 6 |
 | 2023-10-21 | 232,272 | 6 |
-| 2023-10-22 | 232,311 | 6 |
+| 2023-10-22 | 232,320 | 6 |
 ## Awards
 Max (Character Customization): 218  (Ranked 272)  
 Sum: 432 (Ranked 325)  
