@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.79% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.74% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.72% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -103,7 +103,7 @@
 | 101 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.65% |
 | 102 | [Bloodshore](games/b/bloodshore.md) | 2.58% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 104 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.55% |
+| 104 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.53% |
 | 105 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 106 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 107 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
@@ -134,7 +134,7 @@
 | 131 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 133 | [Chorus](games/c/chorus.md) | 1.36% |
 | 134 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 1.31% |
+| 135 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 136 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.29% |
 | 137 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
 | 138 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
