@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Novice Mason | 55.00% | ~26 |
+| Novice Mason | 57.00% | ~27 |
 | Constructor | 36.00% | ~17 |
 | Expert Mason | 23.00% | ~11 |
 | Arch Mason | 15.00% | ~7 |

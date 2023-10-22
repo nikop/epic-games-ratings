@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~958,402 |
-| I Need a Bigger Garage | 63.00% | ~670,881 |
-| Pump my Ride | 47.00% | ~500,499 |
-| Ghostbuster | 33.00% | ~351,414 |
-| Call Roadside Assistance | 18.00% | ~191,680 |
-| That Was Close | 18.00% | ~191,680 |
-| Quickie | 11.00% | ~117,138 |
-| California Dreamer | 7.00% | ~74,542 |
-| Can't Touch This | 5.00% | ~53,245 |
-| Carménère Taster | 4.00% | ~42,596 |
-| Comeback | 4.00% | ~42,596 |
+| The First of Many | 90.00% | ~958,424 |
+| I Need a Bigger Garage | 63.00% | ~670,896 |
+| Pump my Ride | 47.00% | ~500,510 |
+| Ghostbuster | 33.00% | ~351,422 |
+| Call Roadside Assistance | 18.00% | ~191,685 |
+| That Was Close | 18.00% | ~191,685 |
+| Quickie | 11.00% | ~117,141 |
+| California Dreamer | 7.00% | ~74,544 |
+| Can't Touch This | 5.00% | ~53,246 |
+| Carménère Taster | 4.00% | ~42,597 |
+| Comeback | 4.00% | ~42,597 |
 | Driver from Ipanema | 3.00% | ~31,947 |
 | Supersonic | 3.00% | ~31,947 |
 | Marathonist | 3.00% | ~31,947 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.80% | ~8,519 |
 | Survivor | 0.60% | ~6,389 |
 | King of the World | 0.60% | ~6,389 |
-| Getting Famous | 0.50% | ~5,324 |
+| Getting Famous | 0.50% | ~5,325 |
 | Now Go Play Outside | 0.30% | ~3,195 |
 | Master of the Racetrack | 0.20% | ~2,130 |
 | Transporter | 0.10% | ~1,065 |
 | Look Mom, No Hands! | 0.10% | ~1,065 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,064,891 (Ranked 13)  
+Progressed: 1,064,915 (Ranked 13)  
 Completed: 463 (0.04%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 463 (0.04%) (Ranked 281)
 | 2023-10-19 | 1,063,243 | 457 |
 | 2023-10-20 | 1,063,660 | 458 |
 | 2023-10-21 | 1,064,326 | 460 |
-| 2023-10-22 | 1,064,891 | 463 |
+| 2023-10-22 | 1,064,915 | 463 |
 ## Awards
 Max (Great for Beginners): 161  (Ranked 303)  
 Sum: 1,339 (Ranked 231)  

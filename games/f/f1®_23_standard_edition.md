@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,193 |
-| On the Top Step | 90.00% | ~3,025 |
-| Setting up for Success | 79.00% | ~2,655 |
-| Team Orders | 77.00% | ~2,588 |
+| Getting on the Step | 95.00% | ~3,194 |
+| On the Top Step | 90.00% | ~3,026 |
+| Setting up for Success | 79.00% | ~2,656 |
+| Team Orders | 77.00% | ~2,589 |
 | Engineer | 57.00% | ~1,916 |
-| Familiar Faces | 51.00% | ~1,714 |
-| Going the Extra Mile | 45.00% | ~1,512 |
+| Familiar Faces | 51.00% | ~1,715 |
+| Going the Extra Mile | 45.00% | ~1,513 |
 | Sharing the Love | 44.00% | ~1,479 |
 | Hitting a Season | 41.00% | ~1,378 |
 | Challenge Yourself | 36.00% | ~1,210 |
 | A Dozen Pieces | 34.00% | ~1,143 |
 | Making History | 34.00% | ~1,143 |
-| Network Success | 27.00% | ~907 |
-| Writing a new Chapter | 27.00% | ~907 |
+| Network Success | 27.00% | ~908 |
+| Writing a new Chapter | 27.00% | ~908 |
 | Spring Cleaning | 25.00% | ~840 |
 | Reduce | 21.00% | ~706 |
 | Ups and Downs | 21.00% | ~706 |
@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 241)
 | One for the Book | 19.00% | ~639 |
 | Reuse | 18.00% | ~605 |
 | Proving Them Wrong | 18.00% | ~605 |
-| Gathering Dust | 17.00% | ~571 |
+| Gathering Dust | 17.00% | ~572 |
 | Oil and Water | 16.00% | ~538 |
 | Hitting a Bullseye | 15.00% | ~504 |
 | Lightning Round the World | 14.00% | ~471 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 241)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,361 (Ranked 190)  
+Progressed: 3,362 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 3,325 | 0 |
 | 2023-10-20 | 3,333 | 0 |
 | 2023-10-21 | 3,349 | 0 |
-| 2023-10-22 | 3,361 | 0 |
+| 2023-10-22 | 3,362 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

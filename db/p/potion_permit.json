@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1623,
+  "EOS_Progressed": 1624,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2268,6 +2268,11 @@
       "Time": "2023-10-22T04:08:39.295705+00:00",
       "NumProgressed": 1623,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-22T23:09:48.8898245+00:00",
+      "NumProgressed": 1624,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2279,7 +2284,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2327,7 +2332,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2335,7 +2340,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2343,7 +2348,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2351,7 +2356,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2359,7 +2364,7 @@
       "Name": "Expert Chemist",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -2367,7 +2372,7 @@
       "Name": "Amateur Chef",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2391,7 +2396,7 @@
       "Name": "Friendly",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -2423,7 +2428,7 @@
       "Name": "Spark of Love",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -2431,7 +2436,7 @@
       "Name": "Decorative Mind",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -2447,7 +2452,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2455,7 +2460,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2543,7 +2548,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2582,7 +2587,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1623,
+      "Progressed": 1624,
       "Completed": 10
     }
   ],
@@ -2590,8 +2595,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:09:01.6987437+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:09:48.8898238+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.8207941+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:01.0256607+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:09:01.6987873+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:58:43.1086769+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:09:48.8898671+00:00"
 }

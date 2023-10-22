@@ -3,8 +3,8 @@
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 576,
-  "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 185,
+  "Ranking_Popularity": 253,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 89,
@@ -2545,18 +2545,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2474,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2023-10-22T22:57:29.9835938+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2482,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2474,
-  "NumberOfAwardsMax": 273,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 2482,
+  "NumberOfAwardsMax": 275,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 272
+      "Count": 275
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2586,7 +2592,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 231
+      "Count": 236
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2625,9 +2631,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27162,
+  "EOS_Progressed": 27176,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15930,6 +15936,11 @@
       "Time": "2023-10-22T22:05:14.888702+00:00",
       "NumProgressed": 27162,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-22T23:06:29.3344598+00:00",
+      "NumProgressed": 27176,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 51,
@@ -15965,7 +15976,7 @@
       "Name": "We have the best insurance",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -15981,7 +15992,7 @@
       "Name": "Clutch Capture",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Collect_Spores",
@@ -15989,7 +16000,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Collector",
@@ -16005,7 +16016,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Daily_Dose",
@@ -16029,7 +16040,7 @@
       "Name": "Discovery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Dont_Need_These",
@@ -16077,7 +16088,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "GB_In_Training",
@@ -16205,7 +16216,7 @@
       "Name": "Seasoned",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Side_Hustle",
@@ -16229,7 +16240,7 @@
       "Name": "Solo Capture",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Stunner",
@@ -16245,7 +16256,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "Summoner",
@@ -16269,7 +16280,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Teamwork",
@@ -16277,7 +16288,7 @@
       "Name": "Teamwork",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Terrifying",
@@ -16293,7 +16304,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "There_You_Are",
@@ -16301,7 +16312,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Tobins_Prodigy",
@@ -16325,7 +16336,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Welcome_Crew",
@@ -16341,23 +16352,23 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27162,
+      "Progressed": 27176,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-22T20:57:23.0889906+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:05:14.8887014+00:00",
+  "LastChanged": "2023-10-22T22:57:29.9835935+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:06:29.3344589+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:57:15.6843379+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:05:14.8888292+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:57:29.9835942+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:06:29.3346357+00:00"
 }

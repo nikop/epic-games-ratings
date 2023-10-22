@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2923,9 +2923,9 @@
       "Count": 245
     }
   ],
-  "EOS_Progressed": 79980,
+  "EOS_Progressed": 79981,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -23458,6 +23458,11 @@
       "Time": "2023-10-22T22:03:51.7904127+00:00",
       "NumProgressed": 79980,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2023-10-22T23:04:28.8076171+00:00",
+      "NumProgressed": 79981,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 30,
@@ -23469,7 +23474,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10397
+      "UsersEstimate": 10398
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -23493,7 +23498,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18395
+      "UsersEstimate": 18396
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -23501,7 +23506,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -23557,7 +23562,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22394
+      "UsersEstimate": 22395
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -23653,7 +23658,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14396
+      "UsersEstimate": 14397
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -23708,15 +23713,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 79980,
+      "Progressed": 79981,
       "Completed": 144
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-22T20:57:16.8111133+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:03:51.7904123+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:04:28.8076165+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.8498885+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:57:11.3999258+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:03:51.7905627+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:57:22.9584968+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:04:28.8078153+00:00"
 }

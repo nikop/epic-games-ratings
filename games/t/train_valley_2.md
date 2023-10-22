@@ -6,40 +6,40 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~298,588 |
-| Full garage | 60.00% | ~245,414 |
-| To the eyeballs! | 51.00% | ~208,602 |
-| Individual delivery | 46.00% | ~188,151 |
-| Non-Stop | 44.00% | ~179,971 |
-| Juggler | 36.00% | ~147,249 |
-| Forgot something | 35.00% | ~143,158 |
-| Close call! | 30.00% | ~122,707 |
-| Get out my way | 28.00% | ~114,527 |
-| Common cause | 26.00% | ~106,346 |
-| Critical care | 26.00% | ~106,346 |
-| Mega-railroad | 23.00% | ~94,076 |
-| Upgrade complete | 23.00% | ~94,076 |
-| Just in time! | 18.00% | ~73,624 |
-| Builder | 17.00% | ~69,534 |
-| Long Haul | 17.00% | ~69,422 |
-| Steam Age | 16.00% | ~65,444 |
-| Multilevel road | 15.00% | ~61,354 |
-| Bridgemania | 14.00% | ~57,263 |
-| Need to think | 14.00% | ~57,263 |
-| The Tortoise | 12.00% | ~49,083 |
-| Without a lunch break | 11.00% | ~44,993 |
-| Beginner | 10.00% | ~40,902 |
-| One way | 10.00% | ~40,902 |
-| Relocation | 10.00% | ~40,902 |
-| Industrial Age | 9.00% | ~36,812 |
-| Just One More Valley | 9.00% | ~36,753 |
-| Prick of conscience | 8.00% | ~32,722 |
+| Dealmaker | 73.00% | ~298,593 |
+| Full garage | 60.00% | ~245,419 |
+| To the eyeballs! | 51.00% | ~208,606 |
+| Individual delivery | 46.00% | ~188,155 |
+| Non-Stop | 44.00% | ~179,974 |
+| Juggler | 36.00% | ~147,252 |
+| Forgot something | 35.00% | ~143,161 |
+| Close call! | 30.00% | ~122,710 |
+| Get out my way | 28.00% | ~114,529 |
+| Common cause | 26.00% | ~106,348 |
+| Critical care | 26.00% | ~106,348 |
+| Mega-railroad | 23.00% | ~94,077 |
+| Upgrade complete | 23.00% | ~94,077 |
+| Just in time! | 18.00% | ~73,626 |
+| Builder | 17.00% | ~69,535 |
+| Long Haul | 17.00% | ~69,423 |
+| Steam Age | 16.00% | ~65,445 |
+| Multilevel road | 15.00% | ~61,355 |
+| Bridgemania | 14.00% | ~57,264 |
+| Need to think | 14.00% | ~57,264 |
+| The Tortoise | 12.00% | ~49,084 |
+| Without a lunch break | 11.00% | ~44,994 |
+| Beginner | 10.00% | ~40,903 |
+| One way | 10.00% | ~40,903 |
+| Relocation | 10.00% | ~40,903 |
+| Industrial Age | 9.00% | ~36,813 |
+| Just One More Valley | 9.00% | ~36,754 |
+| Prick of conscience | 8.00% | ~32,723 |
 | Missed it! | 7.00% | ~28,632 |
-| At the last moment! | 6.00% | ~24,541 |
-| Overseer | 6.00% | ~24,541 |
-| Highlander | 5.00% | ~20,451 |
-| Jewelry accuracy | 5.00% | ~20,451 |
-| Stargazer | 5.00% | ~20,451 |
+| At the last moment! | 6.00% | ~24,542 |
+| Overseer | 6.00% | ~24,542 |
+| Highlander | 5.00% | ~20,452 |
+| Jewelry accuracy | 5.00% | ~20,452 |
+| Stargazer | 5.00% | ~20,452 |
 | Bridge builder | 4.00% | ~16,361 |
 | Electrical Age | 4.00% | ~16,361 |
 | Large construction | 4.00% | ~16,361 |
@@ -49,13 +49,13 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~12,271 |
 | Sabotage | 3.00% | ~12,271 |
 | Test Batch | 3.00% | ~12,251 |
-| Astronomer | 2.00% | ~8,180 |
-| Innovator | 2.00% | ~8,180 |
-| Lucky vandal | 2.00% | ~8,180 |
-| The Hare | 2.00% | ~8,180 |
-| Vandal | 2.00% | ~8,180 |
-| Will work | 2.00% | ~8,180 |
-| Woodcutter | 2.00% | ~8,180 |
+| Astronomer | 2.00% | ~8,181 |
+| Innovator | 2.00% | ~8,181 |
+| Lucky vandal | 2.00% | ~8,181 |
+| The Hare | 2.00% | ~8,181 |
+| Vandal | 2.00% | ~8,181 |
+| Will work | 2.00% | ~8,181 |
+| Woodcutter | 2.00% | ~8,181 |
 | Occupied! | 2.00% | ~8,167 |
 | Achiever | 1.00% | ~4,090 |
 | Metro builder | 1.00% | ~4,090 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~408 |
 | World Zapper | 0.10% | ~408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,024 (Ranked 42)  
+Progressed: 409,032 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 19 (0.00%) (Ranked 319)
 | 2023-10-19 | 407,744 | 19 |
 | 2023-10-20 | 408,093 | 19 |
 | 2023-10-21 | 408,588 | 19 |
-| 2023-10-22 | 409,024 | 19 |
+| 2023-10-22 | 409,032 | 19 |
 ## Awards
 Max (Challenging Puzzles): 798  (Ranked 167)  
 Sum: 1,614 (Ranked 219)  

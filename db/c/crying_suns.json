@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469504,
+  "EOS_Progressed": 469505,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20015,6 +20015,11 @@
       "Time": "2023-10-22T22:09:10.2025745+00:00",
       "NumProgressed": 469504,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-22T23:10:01.1968044+00:00",
+      "NumProgressed": 469505,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20178,7 +20183,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51645
+      "UsersEstimate": 51646
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -20210,7 +20215,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159631
+      "UsersEstimate": 159632
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20458,7 +20463,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140851
+      "UsersEstimate": 140852
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20474,7 +20479,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51645
+      "UsersEstimate": 51646
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -20657,21 +20662,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13438,
+      "Progressed": 13439,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469504,
+      "Progressed": 469505,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:09:10.2025741+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:10:01.1968033+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:00:10.6406675+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:09:10.2027844+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:01:56.4652063+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:10:01.197071+00:00"
 }

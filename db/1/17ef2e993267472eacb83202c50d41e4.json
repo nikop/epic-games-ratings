@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7383,
+  "EOS_Progressed": 7384,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4762,6 +4762,11 @@
       "Time": "2023-10-22T22:09:14.5020789+00:00",
       "NumProgressed": 7383,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T23:10:06.8339735+00:00",
+      "NumProgressed": 7384,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4846,7 +4851,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "EAUpgraded1",
@@ -4950,7 +4955,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "HAPurchased1",
@@ -5206,7 +5211,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "PlayerKills100",
@@ -5270,7 +5275,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "SEUpgraded1",
@@ -5326,7 +5331,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "TPurchased1",
@@ -5350,7 +5355,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "WCUpgraded1",
@@ -5365,7 +5370,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7383,
+      "Progressed": 7384,
       "Completed": 1
     }
   ],
@@ -5373,8 +5378,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:09:14.5020784+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:10:06.833973+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:29.003041+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:09:14.5021918+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:59:25.8542174+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:10:06.8340936+00:00"
 }

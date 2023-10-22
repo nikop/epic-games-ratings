@@ -10,7 +10,7 @@ Rating: 4.66 (Ranked 284)
 | ... And Spit Back Out | 60.00% | ~4,238 |
 | Break-Net Speed | 48.00% | ~3,390 |
 | Bramble Breaker | 46.00% | ~3,249 |
-| Miner 49er | 42.00% | ~2,966 |
+| Miner 49er | 43.00% | ~3,037 |
 | Humble Collector | 42.00% | ~2,966 |
 | Calm Sailing | 36.00% | ~2,543 |
 | Open the Gate! | 33.00% | ~2,331 |

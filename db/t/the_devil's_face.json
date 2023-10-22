@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1909,6 +1909,11 @@
       "Time": "2023-10-22T20:03:32.6886825+00:00",
       "NumProgressed": 440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T23:03:50.9207816+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1920,7 +1925,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1966,9 +1971,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2031,14 +2036,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:03:33.1175442+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:03:50.920781+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:57:07.8599641+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:03:33.1175666+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:57:17.4145317+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:03:50.9208248+00:00"
 }

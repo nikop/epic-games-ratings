@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,501 |
-| Until death do us apart | 4.00% | ~17,501 |
-| Victorious! | 4.00% | ~17,501 |
+| That's a Grand Army | 4.00% | ~17,502 |
+| Until death do us apart | 4.00% | ~17,502 |
+| Victorious! | 4.00% | ~17,502 |
 | That is mine! | 3.00% | ~13,126 |
-| Brothers in Arms | 2.00% | ~8,750 |
-| Cold War | 2.00% | ~8,750 |
-| For the Glory | 2.00% | ~8,750 |
-| That's a Grand Navy | 2.00% | ~8,750 |
-| Seriously?! | 2.00% | ~8,750 |
+| Brothers in Arms | 2.00% | ~8,751 |
+| Cold War | 2.00% | ~8,751 |
+| For the Glory | 2.00% | ~8,751 |
+| That's a Grand Navy | 2.00% | ~8,751 |
+| Seriously?! | 2.00% | ~8,751 |
 | Defender of the Faith | 1.00% | ~4,375 |
 | It's all about luck | 1.00% | ~4,375 |
 | It's all about the money | 1.00% | ~4,375 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,524 (Ranked 40)  
+Progressed: 437,539 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,10 +546,10 @@ Completed: 1 (0.00%) (Ranked 319)
 | 2023-10-19 | 434,645 | 1 |
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
-| 2023-10-22 | 437,524 | 1 |
+| 2023-10-22 | 437,539 | 1 |
 ## Awards
 Max (Educational): 6,632  (Ranked 55)  
-Sum: 54,537 (Ranked 24)  
+Sum: 54,547 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -561,7 +561,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 6,104 |
 | This game has Competitive Players | 5,953 |
 | This game has Amazing Storytelling | 5,555 |
-| This game has Amazing Characters | 5,121 |
+| This game has Amazing Characters | 5,131 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -844,4 +844,4 @@ Diff (max vs sum): 31
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
 | 2023-10-20 | 4.69 | - | 6,599 | 54,294 |
 | 2023-10-21 | 4.69 | - | 6,618 | 54,423 |
-| 2023-10-22 | 4.69 | - | 6,632 | 54,537 |
+| 2023-10-22 | 4.69 | - | 6,632 | 54,547 |

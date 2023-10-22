@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12847,
+  "EOS_Progressed": 12848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12709,6 +12709,11 @@
       "Time": "2023-10-22T22:04:17.9574535+00:00",
       "NumProgressed": 12847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T23:05:06.5933496+00:00",
+      "NumProgressed": 12848,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12888,7 +12893,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -12912,21 +12917,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12847,
+      "Progressed": 12848,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:04:17.9574528+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:05:06.5933487+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3039299+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:57:42.3656993+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:04:17.9575473+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:58:12.1262483+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:05:06.5934631+00:00"
 }

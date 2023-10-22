@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 438,
   "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 55,
@@ -1195,9 +1195,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154047,
+  "EOS_Progressed": 154057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12655,6 +12655,11 @@
       "Time": "2023-10-22T22:06:26.3099113+00:00",
       "NumProgressed": 154047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T23:08:13.4564717+00:00",
+      "NumProgressed": 154057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12802,7 +12807,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -12858,7 +12863,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -12866,7 +12871,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13033,21 +13038,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153630,
+      "Progressed": 153640,
       "Completed": 1170
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154047,
+      "Progressed": 154057,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T20:59:23.9349173+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:06:26.3099108+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:08:13.4564711+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:38.2192647+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:06:26.3100194+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:59:42.8919963+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:08:13.4565977+00:00"
 }

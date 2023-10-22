@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -235,6 +235,11 @@
       "Time": "2023-10-14T16:06:11.6200995+00:00",
       "NumProgressed": 153,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T23:08:27.5997859+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -246,7 +251,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "LC-02",
@@ -254,15 +259,15 @@
       "Name": "Bakery Startup",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LC-03",
       "SetID": "ap2ljl4",
       "Name": "Bakery Business",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-04",
@@ -278,7 +283,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LC-06",
@@ -332,17 +337,17 @@
       "ID": "LC-12",
       "SetID": "ap2ljl4",
       "Name": "The Famous Lemon Cake",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "LC-14",
@@ -381,7 +386,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 2
     }
   ],
@@ -389,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:06:35.1068064+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:08:27.5997853+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:49.4632212+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:03:02.5407539+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:06:35.1068202+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:03:03.3719855+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:08:27.5997993+00:00"
 }

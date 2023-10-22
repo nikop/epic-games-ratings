@@ -4,7 +4,7 @@
   "ProductSlug": "fusion-paradox-31b28a",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-12T17:00:00+00:00",
@@ -164,8 +164,8 @@
   ],
   "FirstSeen": "2023-05-22T15:57:15.7739931+00:00",
   "FirstSeenAchievements": "2023-05-03T14:01:13.0837425+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:06:11.0055237+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:07:50.8489543+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:08.7364478+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:35.8848503+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:06:11.005533+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:59:37.9644127+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:07:50.8489657+00:00"
 }

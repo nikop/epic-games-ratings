@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 4.00% | ~595 |
+| Play a Single Player Game | 4.00% | ~596 |
 | Explorer | 3.00% | ~447 |
 | Settler | 3.00% | ~447 |
 | Friendly Family | 3.00% | ~447 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.70% | ~104 |
 | Circus Maximus | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
+| Pantheon | 0.70% | ~104 |
 | Via Recta Souk | 0.70% | ~104 |
 | Persian Paganism | 0.70% | ~104 |
 | Building Wonders | 0.70% | ~104 |
@@ -107,7 +108,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
-| Pantheon | 0.60% | ~89 |
 | Learn to Play 4 | 0.60% | ~89 |
 | Carthage | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,887 (Ranked 139)  
+Progressed: 14,889 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 287)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,887 | 5 |
+| 2023-10-22 | 14,889 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

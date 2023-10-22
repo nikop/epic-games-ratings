@@ -3,11 +3,11 @@
   "Name": "MechWarrior 5: Mercenaries Standard Edition",
   "ProductSlug": "mechwarrior-5",
   "Ranking_Rating": 376,
-  "Ranking_Popularity": 136,
+  "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -5119,10 +5119,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 7893,
       "NumberOfAwardsMax": 1272
+    },
+    {
+      "Time": "2023-10-22T22:59:21.2715015+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 7895,
+      "NumberOfAwardsMax": 1272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7893,
+  "NumberOfAwards": 7895,
   "NumberOfAwardsMax": 1272,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5160,7 +5166,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 965
+      "Count": 967
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5192,8 +5198,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2023-10-22T15:58:49.2737185+00:00",
+  "LastChanged": "2023-10-22T22:59:21.2715012+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.7237857+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:26.2968892+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:06:58.68841+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:59:21.271502+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:09:02.4711394+00:00"
 }

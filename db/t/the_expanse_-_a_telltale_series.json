@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14245,
+  "EOS_Progressed": 14248,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9351,6 +9351,11 @@
       "Time": "2023-10-22T22:05:15.701975+00:00",
       "NumProgressed": 14245,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-22T23:06:30.6470851+00:00",
+      "NumProgressed": 14248,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9395,7 +9400,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "14",
@@ -9602,22 +9607,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14245,
+      "Progressed": 14248,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 199,
-      "Completed": 199
+      "Progressed": 202,
+      "Completed": 202
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-22T22:05:15.7019744+00:00",
+  "LastChanged_Achievements": "2023-10-22T23:06:30.6470845+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:58:58.7919498+00:00",
-  "LastUpdate_Achievements": "2023-10-22T22:05:15.7020591+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:00:15.8075643+00:00",
+  "LastUpdate_Achievements": "2023-10-22T23:06:30.6471934+00:00"
 }

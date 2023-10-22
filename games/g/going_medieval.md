@@ -6,19 +6,19 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,738 |
-| Having A Field Day | 75.00% | ~4,738 |
-| Reap What You Sow | 72.00% | ~4,549 |
-| The First Day | 69.00% | ~4,359 |
-| Green Thumb | 67.00% | ~4,233 |
-| Novice Researcher | 67.00% | ~4,233 |
+| Get A Room | 75.00% | ~4,739 |
+| Having A Field Day | 75.00% | ~4,739 |
+| Reap What You Sow | 72.00% | ~4,550 |
+| The First Day | 69.00% | ~4,360 |
+| Green Thumb | 67.00% | ~4,234 |
+| Novice Researcher | 67.00% | ~4,234 |
 | Home Cooked Meal | 59.00% | ~3,728 |
-| Onward | 57.00% | ~3,601 |
+| Onward | 57.00% | ~3,602 |
 | The First Week | 55.00% | ~3,475 |
-| Beam Me Up | 52.00% | ~3,285 |
-| Studious Researcher | 52.00% | ~3,285 |
-| Putting Food on the Table | 51.00% | ~3,222 |
-| Adept Researcher | 45.00% | ~2,843 |
+| Beam Me Up | 52.00% | ~3,286 |
+| Studious Researcher | 52.00% | ~3,286 |
+| Putting Food on the Table | 51.00% | ~3,223 |
+| Adept Researcher | 45.00% | ~2,844 |
 | Retribution | 42.00% | ~2,654 |
 | Feast or Famine | 42.00% | ~2,654 |
 | ...And Don’t Come Back! | 42.00% | ~2,654 |
@@ -26,19 +26,19 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 31.00% | ~1,959 |
 | Luminary Researcher | 31.00% | ~1,959 |
 | Winter Is Coming | 28.00% | ~1,769 |
-| Winter Is Here | 24.00% | ~1,516 |
+| Winter Is Here | 24.00% | ~1,517 |
 | Disassembled | 22.00% | ~1,390 |
 | A Party Now | 21.00% | ~1,327 |
 | Oh Deer! | 21.00% | ~1,327 |
 | All Year Round | 21.00% | ~1,327 |
 | Nothing Wasted | 13.00% | ~821 |
 | Don't Cry Wolf | 13.00% | ~821 |
-| Deerly Departed | 8.00% | ~505 |
+| Deerly Departed | 8.00% | ~506 |
 | Where Wolf? | 5.00% | ~316 |
 | Food Chain | 2.00% | ~126 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,318 (Ranked 169)  
+Progressed: 6,319 (Ranked 169)  
 Completed: 14 (0.22%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 14 (0.22%) (Ranked 221)
 | 2023-10-19 | 6,266 | 14 |
 | 2023-10-20 | 6,282 | 14 |
 | 2023-10-21 | 6,298 | 14 |
-| 2023-10-22 | 6,318 | 14 |
+| 2023-10-22 | 6,319 | 14 |
 ## Awards
 Max (Relaxing): 123  (Ranked 326)  
 Sum: 997 (Ranked 250)  
