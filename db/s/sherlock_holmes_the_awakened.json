@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2791,17 +2791,17 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ06_1",
@@ -2896,8 +2896,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:04:26.6313849+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:04:01.5553594+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:58:21.2539403+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:04:26.6314122+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:57:55.4545049+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:04:01.5553948+00:00"
 }

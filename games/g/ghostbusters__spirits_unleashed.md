@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 576)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 4.00% | ~1,086 |
-| Advancement | 3.00% | ~814 |
-| Meticulously Efficient | 3.00% | ~814 |
+| Advancement | 3.00% | ~815 |
+| Meticulously Efficient | 3.00% | ~815 |
 | Clutch Capture | 2.00% | ~543 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~543 |
 | Cultured | 2.00% | ~543 |
@@ -19,21 +19,21 @@ Rating: 4.50 (Ranked 576)
 | There you are! | 2.00% | ~543 |
 | Vaporous Expansion | 2.00% | ~543 |
 | Whoopsie | 2.00% | ~543 |
-| Animated | 1.00% | ~271 |
-| Back Off | 1.00% | ~271 |
-| Daily Dose | 1.00% | ~271 |
-| Ectoplasmic Entity | 1.00% | ~271 |
-| Ghostbuster In Training | 1.00% | ~271 |
-| Icing on the Cake | 1.00% | ~271 |
-| Legions | 1.00% | ~271 |
-| Pesky Jerks | 1.00% | ~271 |
-| Right back at ya | 1.00% | ~271 |
-| Side Hustle | 1.00% | ~271 |
-| Skilled | 1.00% | ~271 |
-| Stunner | 1.00% | ~271 |
-| Summoner | 1.00% | ~271 |
-| Terrifying | 1.00% | ~271 |
-| Welcome to the Crew | 1.00% | ~271 |
+| Animated | 1.00% | ~272 |
+| Back Off | 1.00% | ~272 |
+| Daily Dose | 1.00% | ~272 |
+| Ectoplasmic Entity | 1.00% | ~272 |
+| Ghostbuster In Training | 1.00% | ~272 |
+| Icing on the Cake | 1.00% | ~272 |
+| Legions | 1.00% | ~272 |
+| Pesky Jerks | 1.00% | ~272 |
+| Right back at ya | 1.00% | ~272 |
+| Side Hustle | 1.00% | ~272 |
+| Skilled | 1.00% | ~272 |
+| Stunner | 1.00% | ~272 |
+| Summoner | 1.00% | ~272 |
+| Terrifying | 1.00% | ~272 |
+| Welcome to the Crew | 1.00% | ~272 |
 | We have the best insurance | 0.90% | ~244 |
 | Seasoned | 0.90% | ~244 |
 | Rift Destroyer | 0.80% | ~217 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,148 (Ranked 119)  
-Completed: 61 (0.22%) (Ranked 220)  
+Progressed: 27,162 (Ranked 119)  
+Completed: 62 (0.23%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 61 (0.22%) (Ranked 220)
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
-| 2023-10-22 | 27,148 | 61 |
+| 2023-10-22 | 27,162 | 62 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,474 (Ranked 185)  

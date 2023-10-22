@@ -6,10 +6,10 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.40% | ~3,574 |
+| Ten out of Ten | 0.50% | ~4,467 |
+| Rough Landing | 0.40% | ~3,574 |
 | Full Body Conversion | 0.30% | ~2,680 |
 | Stanislavski's Method | 0.30% | ~2,680 |
-| Rough Landing | 0.30% | ~2,680 |
 | The Hermit | 0.30% | ~2,680 |
 | The High Priestess | 0.30% | ~2,680 |
 | The Wheel of Fortune | 0.30% | ~2,680 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,380 (Ranked 15)  
+Progressed: 893,389 (Ranked 15)  
 Completed: 2,700 (0.30%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,700 (0.30%) (Ranked 209)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,380 | 2,700 |
+| 2023-10-22 | 893,389 | 2,700 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
 Sum: 320,208 (Ranked 11)  

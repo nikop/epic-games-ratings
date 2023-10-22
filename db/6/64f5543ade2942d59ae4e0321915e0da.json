@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -267,9 +267,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -299,9 +299,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -403,9 +403,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -442,8 +442,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:05:44.6910159+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:04:59.3369497+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:59:49.3913961+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:05:44.691043+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:58:57.4690141+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:04:59.3369864+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
       "SetID": "caeik3h",
       "Name": "Mischievous Demon",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_ORCSDEN",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:06:55.9426675+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:05:51.6539444+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:57:19.8076234+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:06:55.9427318+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:57:13.4114589+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:05:51.6540282+00:00"
 }

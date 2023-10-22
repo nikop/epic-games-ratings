@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 925,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -421,7 +421,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42250,
+  "EOS_Progressed": 42251,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -11161,6 +11161,11 @@
       "Time": "2023-10-22T21:09:02.4592885+00:00",
       "NumProgressed": 42250,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-22T22:08:18.4621947+00:00",
+      "NumProgressed": 42251,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11268,7 +11273,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -11276,7 +11281,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -11284,7 +11289,7 @@
       "Name": "Breaking Point",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -11292,7 +11297,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -11300,7 +11305,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -11332,7 +11337,7 @@
       "Name": "No Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -11388,7 +11393,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -11404,7 +11409,7 @@
       "Name": "Paragon",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MAGIC_BREAK",
@@ -11452,7 +11457,7 @@
       "Name": "Pilgrimage: Adept",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MONUMENT_FIRST",
@@ -11468,7 +11473,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -11508,7 +11513,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "SPRING_ALL",
@@ -11516,7 +11521,7 @@
       "Name": "Call of the Fount: Beatified",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "SPRING_FIRST",
@@ -11532,7 +11537,7 @@
       "Name": "I Can Fly!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "STEALTH",
@@ -11564,7 +11569,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -11595,22 +11600,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42250,
+      "Progressed": 42251,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7087,
-      "Completed": 7087
+      "Progressed": 7088,
+      "Completed": 7088
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:09:02.4592881+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:08:18.4621939+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4363915+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:00:46.7203894+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:09:02.4593747+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:59:36.043899+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:08:18.4623085+00:00"
 }

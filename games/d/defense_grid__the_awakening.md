@@ -1,53 +1,53 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 650)  
+Rating: 4.45 (Ranked 649)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~395,532 |
-| Happy Returns | 78.00% | ~380,883 |
-| Hey! That's mine! | 78.00% | ~380,883 |
-| Field Promotion | 74.00% | ~361,350 |
-| Leadhead | 71.00% | ~346,701 |
-| Eradicator | 67.00% | ~327,168 |
-| Surplus | 65.00% | ~317,402 |
-| I Spy | 64.00% | ~312,519 |
-| Burn Baby Burn | 59.00% | ~288,103 |
-| Yellow Beats Green | 56.00% | ~273,454 |
-| Salvage Rights | 53.00% | ~258,805 |
-| Close Call | 50.00% | ~244,156 |
-| Pew Pew | 50.00% | ~244,156 |
-| What IS that? | 50.00% | ~244,156 |
-| Penny Pincher | 49.00% | ~239,272 |
-| Arsenal | 46.00% | ~224,623 |
-| Boot Camp | 45.00% | ~219,740 |
-| Flawless Victory | 42.00% | ~205,091 |
-| Confident | 41.00% | ~200,208 |
-| Exterminator | 36.00% | ~175,792 |
-| Sharpshooter | 34.00% | ~166,026 |
-| Not So Fast | 33.00% | ~161,143 |
-| Great Ball of Fire | 32.00% | ~156,260 |
-| No Sale | 31.00% | ~151,376 |
-| Kaboom! | 30.00% | ~146,493 |
-| Liquidator | 29.00% | ~141,610 |
-| High Voltage | 24.00% | ~117,195 |
-| Filthy Rich | 19.00% | ~92,779 |
-| The Not-So-Friendly Skies | 18.00% | ~87,896 |
-| Power Builder | 17.00% | ~83,013 |
-| Pyrrhic Victory | 17.00% | ~83,013 |
+| First Blood | 81.00% | ~395,535 |
+| Happy Returns | 78.00% | ~380,886 |
+| Hey! That's mine! | 78.00% | ~380,886 |
+| Field Promotion | 74.00% | ~361,353 |
+| Leadhead | 71.00% | ~346,704 |
+| Eradicator | 67.00% | ~327,171 |
+| Surplus | 65.00% | ~317,405 |
+| I Spy | 64.00% | ~312,522 |
+| Burn Baby Burn | 59.00% | ~288,106 |
+| Yellow Beats Green | 56.00% | ~273,456 |
+| Salvage Rights | 53.00% | ~258,807 |
+| Close Call | 50.00% | ~244,158 |
+| Pew Pew | 50.00% | ~244,158 |
+| What IS that? | 50.00% | ~244,158 |
+| Penny Pincher | 49.00% | ~239,274 |
+| Arsenal | 46.00% | ~224,625 |
+| Boot Camp | 45.00% | ~219,742 |
+| Flawless Victory | 42.00% | ~205,092 |
+| Confident | 41.00% | ~200,209 |
+| Exterminator | 36.00% | ~175,793 |
+| Sharpshooter | 34.00% | ~166,027 |
+| Not So Fast | 33.00% | ~161,144 |
+| Great Ball of Fire | 32.00% | ~156,261 |
+| No Sale | 31.00% | ~151,378 |
+| Kaboom! | 30.00% | ~146,494 |
+| Liquidator | 29.00% | ~141,611 |
+| High Voltage | 24.00% | ~117,196 |
+| Filthy Rich | 19.00% | ~92,780 |
+| The Not-So-Friendly Skies | 18.00% | ~87,897 |
+| Power Builder | 17.00% | ~83,014 |
+| Pyrrhic Victory | 17.00% | ~83,014 |
 | Death From Above | 16.00% | ~78,130 |
 | Retry | 16.00% | ~78,130 |
-| Head Trauma | 12.00% | ~58,597 |
-| Full Defense | 10.00% | ~48,831 |
+| Head Trauma | 12.00% | ~58,598 |
+| Full Defense | 10.00% | ~48,832 |
 | Overseer | 9.00% | ~43,948 |
 | Annihilator | 8.00% | ~39,065 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,065 |
 | Indecisive | 6.00% | ~29,299 |
 | Base Defender | 5.00% | ~24,416 |
 | Relay Race | 5.00% | ~24,416 |
-| Tower Expert | 4.00% | ~19,532 |
+| Tower Expert | 4.00% | ~19,533 |
 | Diversity | 3.00% | ~14,649 |
 | Full Potential | 3.00% | ~14,649 |
 | Minimalist | 2.00% | ~9,766 |
@@ -60,8 +60,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Well Invested | 1.00% | ~4,883 |
 | Xenocide | 1.00% | ~4,883 |
 | Planet Defender | 0.90% | ~4,395 |
-| Master Siege Breaker | 0.80% | ~3,906 |
-| Few and Proud | 0.80% | ~3,906 |
+| Master Siege Breaker | 0.80% | ~3,907 |
+| Few and Proud | 0.80% | ~3,907 |
 | Shell-shocked | 0.70% | ~3,418 |
 | Alien Tears | 0.50% | ~2,442 |
 | Full House | 0.50% | ~2,442 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~488 |
 | You Monster | 0.10% | ~488 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,311 (Ranked 35)  
+Progressed: 488,315 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 4 (0.00%) (Ranked 319)
 | 2023-10-19 | 488,090 | 4 |
 | 2023-10-20 | 488,156 | 4 |
 | 2023-10-21 | 488,237 | 4 |
-| 2023-10-22 | 488,311 | 4 |
+| 2023-10-22 | 488,315 | 4 |
 ## Awards
 Max (Great for Beginners): 254  (Ranked 261)  
 Sum: 1,700 (Ranked 213)  

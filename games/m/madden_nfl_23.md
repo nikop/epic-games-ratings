@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,590 |
-| MVP | 54.00% | ~1,561 |
-| Big Spender | 53.00% | ~1,532 |
-| Stud Finder | 41.00% | ~1,185 |
-| Dealmaker | 40.00% | ~1,156 |
-| ROTY | 33.00% | ~954 |
-| Roster Reshuffle | 31.00% | ~896 |
-| Future of the Franchise | 19.00% | ~549 |
-| Throwin’ Dots | 18.00% | ~520 |
-| Already in Progress | 17.00% | ~491 |
-| Change of Scenery | 17.00% | ~491 |
+| Bragging Rights | 55.00% | ~1,591 |
+| MVP | 54.00% | ~1,562 |
+| Big Spender | 53.00% | ~1,533 |
+| Stud Finder | 41.00% | ~1,186 |
+| Dealmaker | 40.00% | ~1,157 |
+| ROTY | 33.00% | ~955 |
+| Roster Reshuffle | 31.00% | ~897 |
+| Future of the Franchise | 19.00% | ~550 |
+| Throwin’ Dots | 18.00% | ~521 |
+| Already in Progress | 17.00% | ~492 |
+| Change of Scenery | 17.00% | ~492 |
 | Primetime | 16.00% | ~463 |
 | Pro Bowler | 16.00% | ~463 |
 | Unblockable | 9.00% | ~260 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 834)
 | Lockdown Leader | 0.50% | ~14 |
 | The Fortress | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,891 (Ranked 196)  
+Progressed: 2,893 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,14 +64,14 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 2,748 | 0 |
 | 2023-10-20 | 2,783 | 0 |
 | 2023-10-21 | 2,843 | 0 |
-| 2023-10-22 | 2,891 | 0 |
+| 2023-10-22 | 2,893 | 0 |
 ## Awards
-Max (Diverse Characters): 29  (Ranked 483)  
-Sum: 78 (Ranked 447)  
-Diff (max vs sum): 36  
+Max (Diverse Characters): 30  (Ranked 480)  
+Sum: 79 (Ranked 446)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 29 |
+| This game has Diverse Characters | 30 |
 | This game has a Competitive Community | 27 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
@@ -196,4 +196,4 @@ Diff (max vs sum): 36
 | 2023-10-14 | 4.27 | 27 | 74 |
 | 2023-10-16 | 4.28 | 28 | 75 |
 | 2023-10-19 | 4.28 | 29 | 76 |
-| 2023-10-22 | 4.28 | 29 | 78 |
+| 2023-10-22 | 4.28 | 30 | 79 |

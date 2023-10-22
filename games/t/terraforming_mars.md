@@ -1,33 +1,33 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 516)  
+Rating: 4.54 (Ranked 515)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~29,591 |
-| Final touch | 36.00% | ~28,791 |
-| Prop-M Rover | 32.00% | ~25,592 |
-| Changing the Planet | 28.00% | ~22,393 |
-| Sojourner | 26.00% | ~20,794 |
-| Beagle 2 | 24.00% | ~19,194 |
-| New Home | 23.00% | ~18,394 |
-| Winner Winner Terraformer | 21.00% | ~16,795 |
-| Project Manager | 19.00% | ~15,195 |
-| Curiosity | 19.00% | ~15,195 |
-| Collector | 19.00% | ~15,195 |
-| Master | 19.00% | ~15,195 |
+| It's a steal! | 37.00% | ~29,593 |
+| Final touch | 36.00% | ~28,793 |
+| Prop-M Rover | 32.00% | ~25,594 |
+| Changing the Planet | 28.00% | ~22,394 |
+| Sojourner | 26.00% | ~20,795 |
+| Beagle 2 | 24.00% | ~19,195 |
+| New Home | 23.00% | ~18,395 |
+| Winner Winner Terraformer | 21.00% | ~16,796 |
+| Project Manager | 19.00% | ~15,196 |
+| Curiosity | 19.00% | ~15,196 |
+| Collector | 19.00% | ~15,196 |
+| Master | 19.00% | ~15,196 |
 | No Longer Red | 18.00% | ~14,396 |
 | Self-sufficient | 18.00% | ~14,396 |
-| Money money | 15.00% | ~11,996 |
+| Money money | 15.00% | ~11,997 |
 | Biggest Reward | 14.00% | ~11,197 |
 | First Journey | 13.00% | ~10,397 |
-| Acquired knowledge | 12.00% | ~9,597 |
-| Hellenic Elysium | 12.00% | ~9,597 |
-| Grand champion | 12.00% | ~9,597 |
-| Landlord | 11.00% | ~8,797 |
-| Most Achievements | 11.00% | ~8,797 |
+| Acquired knowledge | 12.00% | ~9,598 |
+| Hellenic Elysium | 12.00% | ~9,598 |
+| Grand champion | 12.00% | ~9,598 |
+| Landlord | 11.00% | ~8,798 |
+| Most Achievements | 11.00% | ~8,798 |
 | Spirit | 10.00% | ~7,998 |
 | Ultimate success | 10.00% | ~7,998 |
 | Variety Expert | 9.00% | ~7,198 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,399 |
 | Opportunity | 3.00% | ~2,399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,975 (Ranked 89)  
+Progressed: 79,980 (Ranked 89)  
 Completed: 144 (0.18%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 144 (0.18%) (Ranked 231)
 | 2023-10-19 | 79,575 | 144 |
 | 2023-10-20 | 79,685 | 144 |
 | 2023-10-21 | 79,828 | 144 |
-| 2023-10-22 | 79,975 | 144 |
+| 2023-10-22 | 79,980 | 144 |
 ## Awards
 Max (Relaxing): 520  (Ranked 202)  
 Sum: 3,201 (Ranked 169)  

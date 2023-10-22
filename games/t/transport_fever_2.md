@@ -18,8 +18,8 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 56.00% | ~992 |
 | Transport millionaire | 55.00% | ~975 |
 | Cadet | 54.00% | ~957 |
+| Transport master | 53.00% | ~939 |
 | Cargo hub | 53.00% | ~939 |
-| Transport master | 52.00% | ~921 |
 | Settled down | 49.00% | ~868 |
 | Sculpturer | 49.00% | ~868 |
 | First electric train arrived | 47.00% | ~833 |
@@ -245,14 +245,14 @@ Completed: 1 (0.06%) (Ranked 271)
 | 2023-10-22 | 1,772 | 1 |
 ## Awards
 Max (Highly Recommended): 42  (Ranked 439)  
-Sum: 297 (Ranked 352)  
-Diff (max vs sum): 87  
+Sum: 298 (Ranked 351)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 42 |
 | This game is Great for Beginners | 39 |
+| This game is Extremely Fun | 37 |
 | This game has Amazing Storytelling | 37 |
-| This game is Extremely Fun | 36 |
 | This game has Quickly Understood Controls | 33 |
 | This game is Relaxing | 32 |
 | This game has a Creative Community | 28 |
@@ -353,4 +353,4 @@ Diff (max vs sum): 87
 | 2023-10-09 | 4.69 | - | 42 | 293 |
 | 2023-10-17 | 4.69 | - | 42 | 294 |
 | 2023-10-21 | 4.69 | - | 42 | 296 |
-| 2023-10-22 | 4.69 | - | 42 | 297 |
+| 2023-10-22 | 4.69 | - | 42 | 298 |

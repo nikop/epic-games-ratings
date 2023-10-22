@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8037,9 +8037,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805724,
+  "EOS_Progressed": 805726,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28777,6 +28777,11 @@
       "Time": "2023-10-22T21:06:59.9484575+00:00",
       "NumProgressed": 805724,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-22T22:05:55.9674084+00:00",
+      "NumProgressed": 805726,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28892,7 +28897,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48343
+      "UsersEstimate": 48344
     },
     {
       "ID": "Cavalier",
@@ -28900,7 +28905,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201431
+      "UsersEstimate": 201432
     },
     {
       "ID": "Chivalrous",
@@ -28932,7 +28937,7 @@
       "Name": "Completionist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "Conqueror",
@@ -28948,7 +28953,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80572
+      "UsersEstimate": 80573
     },
     {
       "ID": "DavidHorak",
@@ -28964,7 +28969,7 @@
       "Name": "Death by splinter",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "EdwardKelly",
@@ -29124,7 +29129,7 @@
       "Name": "King Charming",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "KingdomDidNotCome",
@@ -29140,7 +29145,7 @@
       "Name": "Knightrider",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "LevelCap",
@@ -29148,7 +29153,7 @@
       "Name": "Level Cap",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "LikeGhost",
@@ -29180,7 +29185,7 @@
       "Name": "Arena Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "McLovin",
@@ -29284,7 +29289,7 @@
       "Name": "Robber Baron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "Runt",
@@ -29348,7 +29353,7 @@
       "Name": "Talmberger",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "TheEnd",
@@ -29356,7 +29361,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16114
+      "UsersEstimate": 16115
     },
     {
       "ID": "Thief",
@@ -29443,15 +29448,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805724,
+      "Progressed": 805726,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-22T17:01:02.4079895+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:06:59.9484571+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:05:55.9674079+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:00:46.3772749+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:06:59.9486302+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:59:35.7923957+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:05:55.9675994+00:00"
 }

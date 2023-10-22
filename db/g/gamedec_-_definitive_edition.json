@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 817,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -445,6 +445,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2023-10-22T22:00:16.4787812+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
@@ -459,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 249922,
+  "EOS_Progressed": 249926,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21169,6 +21175,11 @@
       "Time": "2023-10-22T21:03:26.3759401+00:00",
       "NumProgressed": 249922,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-22T22:03:24.7726111+00:00",
+      "NumProgressed": 249926,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21180,7 +21191,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67479
+      "UsersEstimate": 67480
     },
     {
       "ID": "ACH_AON",
@@ -21212,7 +21223,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -21236,7 +21247,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -21316,7 +21327,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_ISTARTED",
@@ -21324,7 +21335,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69978
+      "UsersEstimate": 69979
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21332,7 +21343,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -21380,7 +21391,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -21396,7 +21407,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59981
+      "UsersEstimate": 59982
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -21428,7 +21439,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -21436,7 +21447,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -21460,7 +21471,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "ACH_MEMORY5",
@@ -21500,7 +21511,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62480
+      "UsersEstimate": 62482
     },
     {
       "ID": "ACH_SOREAD",
@@ -21548,7 +21559,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14995
+      "UsersEstimate": 14996
     },
     {
       "ID": "ACH_TROLLKING",
@@ -21556,7 +21567,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -21595,16 +21606,16 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249922,
+      "Progressed": 249926,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2023-10-21T22:01:14.710033+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:03:26.3759398+00:00",
+  "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:03:24.7726107+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:01:37.3760541+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:03:26.3760751+00:00"
+  "LastUpdate_Ratings": "2023-10-22T22:00:16.4787817+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:03:24.772796+00:00"
 }

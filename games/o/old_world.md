@@ -7,9 +7,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 4.00% | ~595 |
-| Explorer | 3.00% | ~446 |
-| Settler | 3.00% | ~446 |
-| Friendly Family | 3.00% | ~446 |
+| Explorer | 3.00% | ~447 |
+| Settler | 3.00% | ~447 |
+| Friendly Family | 3.00% | ~447 |
 | Able | 2.00% | ~298 |
 | Ambitious | 2.00% | ~298 |
 | Architect | 2.00% | ~298 |
@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
 | Cataphract Archer | 0.30% | ~45 |
+| Three Man Chariot | 0.30% | ~45 |
 | No Undo | 0.30% | ~45 |
 | Rmt n Kmt Buhen | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
@@ -173,7 +174,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
-| Three Man Chariot | 0.20% | ~30 |
 | Siege Tower | 0.20% | ~30 |
 | Conquest Victory | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,883 (Ranked 139)  
+Progressed: 14,887 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 287)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,883 | 5 |
+| 2023-10-22 | 14,887 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

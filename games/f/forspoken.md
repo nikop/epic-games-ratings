@@ -6,15 +6,15 @@ Rating: 4.15 (Ranked 925)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 10.00% | ~4,225 |
-| Unlocked Potential | 9.00% | ~3,802 |
+| Unlocked Potential | 9.00% | ~3,803 |
 | Tinkerer | 7.00% | ~2,958 |
 | Knock 'Em Dead | 7.00% | ~2,958 |
 | Leapfrogger | 6.00% | ~2,535 |
 | Pilgrimage: Initiate | 6.00% | ~2,535 |
 | Hell of a Run | 6.00% | ~2,535 |
 | Call of the Fount: Baptized | 6.00% | ~2,535 |
-| No Mercy | 5.00% | ~2,112 |
-| Explorer: Seeker | 5.00% | ~2,112 |
+| No Mercy | 5.00% | ~2,113 |
+| Explorer: Seeker | 5.00% | ~2,113 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,690 |
 | Stuck | 4.00% | ~1,690 |
 | Help Me Out Here | 4.00% | ~1,690 |
@@ -28,12 +28,12 @@ Rating: 4.15 (Ranked 925)
 | Explorer: Pathfinder | 2.00% | ~845 |
 | Shocker | 2.00% | ~845 |
 | From Every Angle | 2.00% | ~845 |
-| The Hue of Blue | 1.00% | ~422 |
-| The Truth Will Out | 1.00% | ~422 |
-| Breaking Point | 1.00% | ~422 |
-| None the Wiser | 1.00% | ~422 |
-| Forspoken | 1.00% | ~422 |
-| Pilgrimage: Novice | 1.00% | ~422 |
+| The Hue of Blue | 1.00% | ~423 |
+| The Truth Will Out | 1.00% | ~423 |
+| Breaking Point | 1.00% | ~423 |
+| None the Wiser | 1.00% | ~423 |
+| Forspoken | 1.00% | ~423 |
+| Pilgrimage: Novice | 1.00% | ~423 |
 | Wildfire | 0.70% | ~296 |
 | Realized Potential | 0.70% | ~296 |
 | Awakening | 0.60% | ~254 |
@@ -44,11 +44,11 @@ Rating: 4.15 (Ranked 925)
 | Tit for Tat | 0.30% | ~127 |
 | Promises | 0.30% | ~127 |
 | Rebirth | 0.30% | ~127 |
-| Paragon | 0.20% | ~84 |
-| Pilgrimage: Adept | 0.20% | ~84 |
-| Call of the Fount: Beatified | 0.20% | ~84 |
-| I Can Fly! | 0.20% | ~84 |
-| A Roaring Trade | 0.20% | ~84 |
+| Paragon | 0.20% | ~85 |
+| Pilgrimage: Adept | 0.20% | ~85 |
+| Call of the Fount: Beatified | 0.20% | ~85 |
+| I Can Fly! | 0.20% | ~85 |
+| A Roaring Trade | 0.20% | ~85 |
 | Abominizer | 0.10% | ~42 |
 | Through the Eyes of Another: Visionary | 0.10% | ~42 |
 | Kit and Caboodle | 0.10% | ~42 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 925)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,250 (Ranked 112)  
+Progressed: 42,251 (Ranked 112)  
 Completed: 3 (0.01%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,11 +244,11 @@ Completed: 3 (0.01%) (Ranked 300)
 | 2023-10-19 | 42,199 | 3 |
 | 2023-10-20 | 42,215 | 3 |
 | 2023-10-21 | 42,230 | 3 |
-| 2023-10-22 | 42,250 | 3 |
+| 2023-10-22 | 42,251 | 3 |
 ## Awards
-Max (Character Customization): 29  (Ranked 483)  
+Max (Character Customization): 29  (Ranked 484)  
 Sum: 29 (Ranked 499)  
-Diff (max vs sum): -16  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

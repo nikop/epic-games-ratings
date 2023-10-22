@@ -6,39 +6,39 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,448 |
-| Just The Two of Us | 32.00% | ~30,540 |
-| Up On High | 25.00% | ~23,859 |
-| Under The Hood | 25.00% | ~23,859 |
-| Got Your Nose | 24.00% | ~22,905 |
-| The Gift of Gab | 24.00% | ~22,905 |
-| Wrapping Up | 22.00% | ~20,996 |
-| More Than A Box Of Sand | 18.00% | ~17,178 |
-| The Dunboyne | 17.00% | ~16,224 |
-| Badge Hobbyist | 17.00% | ~16,224 |
-| Chum Novice | 16.00% | ~15,270 |
-| Silver-Tongued Sable | 16.00% | ~15,270 |
-| Sticky Paws | 16.00% | ~15,270 |
-| Bubble Up | 16.00% | ~15,270 |
-| Thread The Needle | 15.00% | ~14,315 |
-| Power to the People | 14.00% | ~13,361 |
-| Take That! | 13.00% | ~12,407 |
-| Nesting Giant | 13.00% | ~12,407 |
-| Treasure Tracker | 13.00% | ~12,407 |
-| Big Spender | 13.00% | ~12,407 |
-| Badge Collector | 12.00% | ~11,452 |
-| Quite The Catch | 12.00% | ~11,452 |
-| Rowleys Way | 11.00% | ~10,498 |
+| Simoon | 34.00% | ~32,451 |
+| Just The Two of Us | 32.00% | ~30,542 |
+| Up On High | 25.00% | ~23,861 |
+| Under The Hood | 25.00% | ~23,861 |
+| Got Your Nose | 24.00% | ~22,906 |
+| The Gift of Gab | 24.00% | ~22,906 |
+| Wrapping Up | 22.00% | ~20,997 |
+| More Than A Box Of Sand | 18.00% | ~17,180 |
+| The Dunboyne | 17.00% | ~16,225 |
+| Badge Hobbyist | 17.00% | ~16,225 |
+| Chum Novice | 16.00% | ~15,271 |
+| Silver-Tongued Sable | 16.00% | ~15,271 |
+| Sticky Paws | 16.00% | ~15,271 |
+| Bubble Up | 16.00% | ~15,271 |
+| Thread The Needle | 15.00% | ~14,316 |
+| Power to the People | 14.00% | ~13,362 |
+| Take That! | 13.00% | ~12,408 |
+| Nesting Giant | 13.00% | ~12,408 |
+| Treasure Tracker | 13.00% | ~12,408 |
+| Big Spender | 13.00% | ~12,408 |
+| Badge Collector | 12.00% | ~11,453 |
+| Quite The Catch | 12.00% | ~11,453 |
+| Rowleys Way | 11.00% | ~10,499 |
 | The Machinist Mask | 10.00% | ~9,544 |
 | The Cartographer Mask | 10.00% | ~9,544 |
 | Balfron Connection | 10.00% | ~9,544 |
 | Ceiling Of Stars | 10.00% | ~9,544 |
 | Playing Dress Up | 10.00% | ~9,544 |
-| Many Different Faces | 9.00% | ~8,589 |
-| Trellick's Pillar | 9.00% | ~8,589 |
-| Centre Of Brunswick | 9.00% | ~8,589 |
-| Bike Collector | 9.00% | ~8,589 |
-| Not That Kind Of Gliding | 9.00% | ~8,589 |
+| Many Different Faces | 9.00% | ~8,590 |
+| Trellick's Pillar | 9.00% | ~8,590 |
+| Centre Of Brunswick | 9.00% | ~8,590 |
+| Bike Collector | 9.00% | ~8,590 |
+| Not That Kind Of Gliding | 9.00% | ~8,590 |
 | The Scrapper Mask | 8.00% | ~7,635 |
 | Shadow Of Neave | 8.00% | ~7,635 |
 | Fragile Goods | 8.00% | ~7,635 |
@@ -50,21 +50,21 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~6,681 |
 | Smoked Out | 7.00% | ~6,681 |
 | A Hard Place | 7.00% | ~6,681 |
-| The Climber Mask | 6.00% | ~5,726 |
-| The Merchant Mask | 6.00% | ~5,726 |
-| Honorary Chum | 6.00% | ~5,726 |
-| Bikes Don't Fly | 6.00% | ~5,726 |
+| The Climber Mask | 6.00% | ~5,727 |
+| The Merchant Mask | 6.00% | ~5,727 |
+| Honorary Chum | 6.00% | ~5,727 |
+| Bikes Don't Fly | 6.00% | ~5,727 |
 | The Gliding | 5.00% | ~4,772 |
 | The Entertainer Mask | 5.00% | ~4,772 |
-| The Quick and the Curious | 4.00% | ~3,817 |
-| Bike Aficionado | 4.00% | ~3,817 |
+| The Quick and the Curious | 4.00% | ~3,818 |
+| Bike Aficionado | 4.00% | ~3,818 |
 | Chum Expert | 3.00% | ~2,863 |
 | Gastric Bypass | 3.00% | ~2,863 |
 | The Angler Mask | 3.00% | ~2,863 |
 | Vivacious Vivarium | 2.00% | ~1,909 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,436 (Ranked 84)  
-Completed: 962 (1.01%) (Ranked 146)  
+Progressed: 95,443 (Ranked 84)  
+Completed: 963 (1.01%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,7 +248,7 @@ Completed: 962 (1.01%) (Ranked 146)
 | 2023-10-19 | 94,827 | 957 |
 | 2023-10-20 | 94,998 | 957 |
 | 2023-10-21 | 95,227 | 959 |
-| 2023-10-22 | 95,436 | 962 |
+| 2023-10-22 | 95,443 | 963 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 511)  
 Sum: 89 (Ranked 440)  

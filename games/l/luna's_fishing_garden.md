@@ -9,13 +9,13 @@
 | The Ones that Got Away | 68.00% | ~466 |
 | Immortal | 41.00% | ~281 |
 | Up! | 35.00% | ~240 |
+| Science Enthusiast | 28.00% | ~192 |
 | Bird Breeder | 27.00% | ~185 |
-| Science Enthusiast | 27.00% | ~185 |
 | Master Angler | 24.00% | ~165 |
 | Fish Appreciation | 22.00% | ~151 |
 | We're Gonna Need a Bigger Screen | 22.00% | ~151 |
 | A Work of Art | 22.00% | ~151 |
-| Cleanup Duty | 17.00% | ~117 |
+| Cleanup Duty | 18.00% | ~123 |
 | Hide and Seek | 15.00% | ~103 |
 | Be Like the Lotus | 12.00% | ~82 |
 ## Popularity (Based on EOS Achievements)

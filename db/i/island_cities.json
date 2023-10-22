@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 747,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.64,
+  "EOS_Completed_Percentage": 16.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3176,6 +3176,11 @@
       "Time": "2023-10-21T13:12:37.5634676+00:00",
       "NumProgressed": 745,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2023-10-22T22:08:07.9837601+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 22,
@@ -3187,7 +3192,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 715
+      "UsersEstimate": 717
     },
     {
       "ID": "LEVEL_002",
@@ -3195,7 +3200,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 648
+      "UsersEstimate": 650
     },
     {
       "ID": "LEVEL_003",
@@ -3203,7 +3208,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "LEVEL_004",
@@ -3211,7 +3216,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "LEVEL_005",
@@ -3219,7 +3224,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 372
+      "UsersEstimate": 374
     },
     {
       "ID": "LEVEL_006",
@@ -3227,15 +3232,15 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 283
+      "UsersEstimate": 276
     },
     {
       "ID": "LEVEL_008",
@@ -3243,7 +3248,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LEVEL_009",
@@ -3305,9 +3310,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_017",
@@ -3362,7 +3367,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 747,
       "Completed": 124
     }
   ],
@@ -3370,8 +3375,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:08:37.992598+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:08:07.9837592+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.8244205+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:58:14.7184387+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:08:37.9926268+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:57:50.0453229+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:08:07.9837952+00:00"
 }

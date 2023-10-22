@@ -3,12 +3,12 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 834,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 447,
+  "Ranking_Popularity": 480,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -713,18 +713,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 78,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-10-22T21:58:31.8979951+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 79,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has a Competitive Community",
@@ -739,9 +745,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2891,
+  "EOS_Progressed": 2893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3824,6 +3830,11 @@
       "Time": "2023-10-22T21:05:10.4701018+00:00",
       "NumProgressed": 2891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T22:04:34.2443929+00:00",
+      "NumProgressed": 2893,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3844,7 +3855,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "achievement_11",
@@ -3852,7 +3863,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "achievement_12",
@@ -3860,7 +3871,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "achievement_13",
@@ -3868,7 +3879,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "achievement_14",
@@ -3876,7 +3887,7 @@
       "Name": "Dealmaker",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "achievement_15",
@@ -3884,7 +3895,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "achievement_16",
@@ -3892,7 +3903,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "achievement_17",
@@ -3948,7 +3959,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_4",
@@ -3964,7 +3975,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_6",
@@ -3972,7 +3983,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "achievement_7",
@@ -3980,7 +3991,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "achievement_8",
@@ -4003,16 +4014,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2891,
+      "Progressed": 2893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-10-22T03:58:08.6782298+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:05:10.4701014+00:00",
+  "LastChanged": "2023-10-22T21:58:31.897995+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:04:34.2443924+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:59:14.8841685+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:05:10.470128+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:58:31.8979955+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:04:34.2444264+00:00"
 }

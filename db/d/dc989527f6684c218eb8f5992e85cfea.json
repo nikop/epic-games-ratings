@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12844,
+  "EOS_Progressed": 12847,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12704,6 +12704,11 @@
       "Time": "2023-10-22T21:04:48.7730738+00:00",
       "NumProgressed": 12844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T22:04:17.9574535+00:00",
+      "NumProgressed": 12847,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12715,7 +12720,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -12787,7 +12792,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5651
+      "UsersEstimate": 5653
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12803,7 +12808,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -12914,14 +12919,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12844,
+      "Progressed": 12847,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:04:48.7730733+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:04:17.9574528+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3039299+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:58:01.0731353+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:04:48.7731458+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:57:42.3656993+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:04:17.9575473+00:00"
 }

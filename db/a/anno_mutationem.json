@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 677,
+  "EOS_Progressed": 678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-10-20T09:10:36.6995013+00:00",
       "NumProgressed": 677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T22:03:25.0490399+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -603,7 +608,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Combine",
@@ -627,7 +632,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -651,7 +656,7 @@
       "Name": "I just love stuff!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "I_think_its_broke",
@@ -675,7 +680,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Lady_Luck",
@@ -729,9 +734,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 515
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -739,7 +744,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "The Traveler",
@@ -819,7 +824,7 @@
       "Name": "You are the One",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "manhole",
@@ -827,7 +832,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "posters",
@@ -850,7 +855,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 677,
+      "Progressed": 678,
       "Completed": 0
     }
   ],
@@ -858,8 +863,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:03:26.6980417+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:03:25.0490393+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:07.2675093+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:00:31.9786199+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:03:26.6980688+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:59:26.650801+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:03:25.0490722+00:00"
 }

@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.54 (Ranked 516)  
+Rating: 4.54 (Ranked 515)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,10 +11,10 @@ Rating: 4.54 (Ranked 516)
 | Lot 49 | 5.00% | ~63 |
 | Viva La Revolution | 5.00% | ~63 |
 | Atomic Soda | 4.00% | ~50 |
-| Mysterious Knife | 4.00% | ~50 |
 | Shadow over Trudograd | 4.00% | ~50 |
 | Walking Fortress | 4.00% | ~50 |
 | Freelance Police | 3.00% | ~38 |
+| Mysterious Knife | 3.00% | ~38 |
 | The Great and Powerful | 3.00% | ~38 |
 | Albino Bloodsucker | 2.00% | ~25 |
 | Fight Club | 2.00% | ~25 |
@@ -38,7 +38,7 @@ Rating: 4.54 (Ranked 516)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,257 (Ranked 228)  
+Progressed: 1,258 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-18 | 1,254 | 0 |
 | 2023-10-19 | 1,255 | 0 |
 | 2023-10-21 | 1,257 | 0 |
+| 2023-10-22 | 1,258 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 506)  
 Sum: 25 (Ranked 514)  

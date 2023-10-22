@@ -2,10 +2,10 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.63,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -394,6 +394,11 @@
       "Time": "2023-10-16T19:10:23.2191186+00:00",
       "NumProgressed": 71,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-22T22:08:28.764932+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -612,14 +617,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:09:16.4253632+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:08:28.7649315+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:34.2358408+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:59:22.545936+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:09:16.4253808+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:58:37.3115132+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:08:28.7649534+00:00"
 }

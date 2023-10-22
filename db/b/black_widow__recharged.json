@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -167,7 +167,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19029,
+  "EOS_Progressed": 19030,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
@@ -15117,6 +15117,11 @@
       "Time": "2023-10-22T21:03:34.3575774+00:00",
       "NumProgressed": 19029,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-22T22:03:30.6424912+00:00",
+      "NumProgressed": 19030,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15144,7 +15149,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -15184,7 +15189,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10085
+      "UsersEstimate": 10086
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -15192,7 +15197,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -15239,15 +15244,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19029,
+      "Progressed": 19030,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-22T20:58:17.9975571+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:03:34.357577+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:03:30.6424906+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.6055871+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:58:17.9975579+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:03:34.3576547+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:57:52.4684878+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:03:30.6425912+00:00"
 }

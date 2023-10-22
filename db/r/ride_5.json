@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 110,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3352,6 +3352,11 @@
       "Time": "2023-10-22T20:09:18.1910291+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T22:08:29.5714485+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3364,7 +3369,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3388,7 +3393,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -3428,7 +3433,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -3436,7 +3441,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3755,14 +3760,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:09:17.4405023+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:08:29.5714479+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-22T21:00:59.525985+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:09:17.4405526+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:59:45.6543828+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:08:29.571513+00:00"
 }

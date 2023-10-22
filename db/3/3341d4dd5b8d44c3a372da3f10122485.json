@@ -913,9 +913,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 80,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "Konec",
@@ -961,25 +961,25 @@
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 80,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 75,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "Tuleni",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-22T21:07:12.3629918+00:00",
+  "LastChanged_Achievements": "2023-10-22T22:06:04.7923541+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.962177+00:00",
-  "LastUpdate_Ratings": "2023-10-22T20:58:43.3586309+00:00",
-  "LastUpdate_Achievements": "2023-10-22T21:07:12.363004+00:00"
+  "LastUpdate_Ratings": "2023-10-22T21:58:11.3773469+00:00",
+  "LastUpdate_Achievements": "2023-10-22T22:06:04.7923704+00:00"
 }
