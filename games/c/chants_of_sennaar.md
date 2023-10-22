@@ -20,12 +20,12 @@
 | Half the way | 10.00% | ~32 |
 | In this together | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
+| Feels like springtime | 8.00% | ~25 |
 | Alchemists Express | 8.00% | ~25 |
 | Open door | 7.00% | ~22 |
-| Feels like springtime | 7.00% | ~22 |
-| Free at last | 5.00% | ~16 |
+| Free at last | 6.00% | ~19 |
+| Rascal | 6.00% | ~19 |
 | A Link to the Past | 5.00% | ~16 |
-| Rascal | 5.00% | ~16 |
 | For its own good | 4.00% | ~13 |
 | A great audience | 3.00% | ~9 |
 | Fashion victim | 1.00% | ~3 |

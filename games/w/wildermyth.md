@@ -10,8 +10,8 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 0.30% | ~4 |
 | How Romantic! | 0.30% | ~4 |
 | The Cost of Heroism | 0.30% | ~4 |
+| Cutthroat Competitors | 0.30% | ~4 |
 | Let Me Get My Chisel | 0.20% | ~3 |
-| Cutthroat Competitors | 0.20% | ~3 |
 | Daybreak | 0.20% | ~3 |
 | Me and My Familiar | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,433 (Ranked 225)  
-Completed: 6 (0.42%) (Ranked 192)  
+Completed: 6 (0.42%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

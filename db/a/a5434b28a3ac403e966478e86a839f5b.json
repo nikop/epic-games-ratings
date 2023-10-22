@@ -2,8 +2,8 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1270,6 +1270,11 @@
       "Time": "2023-10-22T03:08:18.842915+00:00",
       "NumProgressed": 451,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-22T14:03:15.3476533+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1288,9 +1293,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_eou2",
@@ -1314,7 +1319,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_eou5",
@@ -1385,14 +1390,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:05:18.3937843+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:03:15.3476526+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:00:11.5517116+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:05:18.3938085+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:57:54.4803337+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:03:15.3476788+00:00"
 }

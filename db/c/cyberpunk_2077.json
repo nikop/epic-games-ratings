@@ -6,8 +6,8 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -13964,10 +13964,10 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893279,
+  "EOS_Progressed": 893295,
   "EOS_Completed": 2696,
-  "EOS_NewPlayers": 1320,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 1315,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34914,6 +34914,11 @@
       "Time": "2023-10-22T13:07:54.279577+00:00",
       "NumProgressed": 893279,
       "NumCompleted": 2696
+    },
+    {
+      "Time": "2023-10-22T14:05:52.5395525+00:00",
+      "NumProgressed": 893295,
+      "NumCompleted": 2696
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35396,9 +35401,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 66
     },
     {
       "ID": "KingOfTheCups",
@@ -35445,21 +35450,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893279,
+      "Progressed": 893295,
       "Completed": 2696
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21902,
+      "Progressed": 21918,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T10:58:52.4090219+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:07:54.279576+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:05:52.5395519+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:29.3148336+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:07:54.2797671+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:17.3325062+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:05:52.5397817+00:00"
 }

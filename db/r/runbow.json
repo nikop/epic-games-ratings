@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250545,
+  "EOS_Progressed": 250547,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17112,6 +17112,11 @@
       "Time": "2023-10-22T13:08:43.3381073+00:00",
       "NumProgressed": 250545,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T14:06:41.789038+00:00",
+      "NumProgressed": 250547,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17147,7 +17152,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52614
+      "UsersEstimate": 52615
     },
     {
       "ID": "blotbuster",
@@ -17299,7 +17304,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132789
+      "UsersEstimate": 132790
     },
     {
       "ID": "indegestible",
@@ -17355,7 +17360,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35076
+      "UsersEstimate": 35077
     },
     {
       "ID": "myFirstRunbow",
@@ -17363,7 +17368,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125272
+      "UsersEstimate": 125274
     },
     {
       "ID": "notScared",
@@ -17483,14 +17488,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40087
+      "UsersEstimate": 40088
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250545,
+      "Progressed": 250547,
       "Completed": 6
     }
   ],
@@ -17498,8 +17503,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:08:43.3381062+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:06:41.7890374+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:03:50.6007715+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:08:43.3382496+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:02:05.199045+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:06:41.7892195+00:00"
 }

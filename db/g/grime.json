@@ -4,9 +4,9 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 438,
   "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153931,
+  "EOS_Progressed": 153950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1566,
+  "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12604,6 +12604,11 @@
       "Time": "2023-10-22T13:09:17.7084484+00:00",
       "NumProgressed": 153931,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T14:07:15.8873365+00:00",
+      "NumProgressed": 153950,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12751,15 +12756,15 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 924
+      "UsersEstimate": 1078
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -12807,7 +12812,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -12815,7 +12820,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -12871,7 +12876,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -12982,21 +12987,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153514,
+      "Progressed": 153533,
       "Completed": 1169
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153931,
+      "Progressed": 153950,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:09:17.7084481+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:07:15.8873359+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:13.1554368+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:09:17.7085576+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:02.1836629+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:07:15.8874759+00:00"
 }

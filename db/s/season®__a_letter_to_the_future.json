@@ -3,8 +3,8 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
@@ -2594,6 +2594,11 @@
       "Time": "2023-10-21T19:07:10.847099+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-22T14:07:32.0234597+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 16,
@@ -2605,7 +2610,7 @@
       "Name": "Artist Assistant",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -2661,7 +2666,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2669,7 +2674,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2693,7 +2698,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2732,7 +2737,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 57
     }
   ],
@@ -2740,8 +2745,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:09:34.3629644+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:07:32.023459+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.8809216+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:02:46.5240523+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:09:34.3629941+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:00:29.8362221+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:07:32.0234913+00:00"
 }

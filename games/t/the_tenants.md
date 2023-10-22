@@ -1,7 +1,7 @@
 # The Tenants
 [Store](https://store.epicgames.com/en-US/p/the-tenants)  
 [View Rawdata](../../db/t/the_tenants.json)  
-Rating: 4.53 (Ranked 527)  
+Rating: 4.53 (Ranked 528)  
 Number of Ratings: 82  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,6 +9,7 @@ Number of Ratings: 82  (23.09.2022)
 | And So It Begins | 0.30% | ~29 |
 | Gotta Start Somewhere | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
+| Lured In | 0.30% | ~29 |
 | Renovator | 0.30% | ~29 |
 | Still Kind Of Poor | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
@@ -16,24 +17,25 @@ Number of Ratings: 82  (23.09.2022)
 | Agent | 0.20% | ~19 |
 | Master Agent | 0.20% | ~19 |
 | A Real Landlord | 0.20% | ~19 |
+| Babysitter | 0.20% | ~19 |
 | Cleaning Service | 0.20% | ~19 |
 | Filthy Rich | 0.20% | ~19 |
 | Home, Sweet Home | 0.20% | ~19 |
 | Kill It With Gas | 0.20% | ~19 |
-| Lured In | 0.20% | ~19 |
 | Millionaire | 0.20% | ~19 |
 | Mr Clean | 0.20% | ~19 |
 | Rat Race | 0.20% | ~19 |
 | Expert Renovator | 0.20% | ~19 |
 | Master Renovator | 0.20% | ~19 |
+| Run, Forrest, Run! | 0.20% | ~19 |
 | TGIF | 0.20% | ~19 |
 | Expert Agent | 0.10% | ~10 |
 | Another One | 0.10% | ~10 |
-| Babysitter | 0.10% | ~10 |
 | Expert Babysitter | 0.10% | ~10 |
 | Master Babysitter | 0.10% | ~10 |
 | Better Safe Than Sorry | 0.10% | ~10 |
 | Bookworm | 0.10% | ~10 |
+| Botanist | 0.10% | ~10 |
 | Decorator | 0.10% | ~10 |
 | Double Digits | 0.10% | ~10 |
 | Face of Streaming | 0.10% | ~10 |
@@ -48,17 +50,16 @@ Number of Ratings: 82  (23.09.2022)
 | Privileged | 0.10% | ~10 |
 | Realtor | 0.10% | ~10 |
 | Master Realtor | 0.10% | ~10 |
-| Run, Forrest, Run! | 0.10% | ~10 |
 | Senpai | 0.10% | ~10 |
 | The Aftershock | 0.10% | ~10 |
 | The More The Merrier | 0.10% | ~10 |
+| The Suburban Dream | 0.10% | ~10 |
 | Well, Scratch That | 0.10% | ~10 |
 | What’s That Smell? | 0.10% | ~10 |
 | 5G | 0.00% | ~0 |
 | Achievement Hunter | 0.00% | ~0 |
 | Banksy | 0.00% | ~0 |
 | Big Apple | 0.00% | ~0 |
-| Botanist | 0.00% | ~0 |
 | Business Aid | 0.00% | ~0 |
 | Cacti Enjoyer | 0.00% | ~0 |
 | Capitalist | 0.00% | ~0 |
@@ -87,14 +88,13 @@ Number of Ratings: 82  (23.09.2022)
 | Sprinkle Sprinkle Little Star | 0.00% | ~0 |
 | Texas HoldEm | 0.00% | ~0 |
 | The Great Tenantsini | 0.00% | ~0 |
-| The Suburban Dream | 0.00% | ~0 |
 | Unclest of the Uncles | 0.00% | ~0 |
 | What Taxes Sir? | 0.00% | ~0 |
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,736 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 318)  
+Progressed: 9,737 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,6 +169,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-04 | 9,734 | 0 |
 | 2023-10-08 | 9,735 | 0 |
 | 2023-10-14 | 9,736 | 0 |
+| 2023-10-22 | 9,737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

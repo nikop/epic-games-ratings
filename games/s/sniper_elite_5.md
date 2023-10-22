@@ -36,7 +36,7 @@ Rating: 4.46 (Ranked 632)
 | Set Europe Ablaze | 13.00% | ~489 |
 | Precision Is Key | 10.00% | ~376 |
 | My Little Friend | 10.00% | ~376 |
-| Rigged to Blow | 8.00% | ~301 |
+| Rigged to Blow | 9.00% | ~339 |
 | Herr Today, Gone Tomorrow | 7.00% | ~260 |
 | Operation Foxley | 6.00% | ~223 |
 | The Long Game | 5.00% | ~188 |
@@ -78,7 +78,7 @@ Rating: 4.46 (Ranked 632)
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,765 (Ranked 182)  
-Completed: 11 (0.29%) (Ranked 213)  
+Completed: 11 (0.29%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

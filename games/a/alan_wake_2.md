@@ -13,50 +13,50 @@
 | Not the Last | 42.00% | ~55 |
 | Find the Light | 41.00% | ~54 |
 | Chased the Source | 39.00% | ~51 |
+| Somebody's Home | 37.00% | ~49 |
 | Felt Good | 36.00% | ~48 |
-| Somebody's Home | 36.00% | ~48 |
+| Aimed Ahead | 32.00% | ~42 |
 | Into the Overlap | 32.00% | ~42 |
-| Aimed Ahead | 30.00% | ~40 |
 | Lawman | 30.00% | ~40 |
 | Secret Stashes | 30.00% | ~40 |
 | Filling the Shape | 30.00% | ~40 |
-| Carry his Words | 27.00% | ~36 |
+| Carry his Words | 29.00% | ~38 |
+| The Other Side | 27.00% | ~36 |
 | Greatest Hits | 26.00% | ~34 |
 | Lights Shining | 26.00% | ~34 |
 | Yippee Ki-yay | 26.00% | ~34 |
-| The Other Side | 25.00% | ~33 |
-| Talk Show | 24.00% | ~32 |
+| Talk Show | 25.00% | ~33 |
 | Ready for a Fight | 22.00% | ~29 |
-| Shining in the Night | 21.00% | ~28 |
+| Shining in the Night | 22.00% | ~29 |
+| Storm Cloud | 21.00% | ~28 |
+| New York City | 21.00% | ~28 |
 | This is the Moment | 20.00% | ~26 |
-| Storm Cloud | 20.00% | ~26 |
-| New York City | 20.00% | ~26 |
-| Return | 18.00% | ~24 |
+| Return | 20.00% | ~26 |
 | Finding a Way | 17.00% | ~22 |
+| Growing Stronger | 16.00% | ~21 |
 | Escape its Gravity | 15.00% | ~20 |
-| Growing Stronger | 15.00% | ~20 |
 | Stop Right There | 14.00% | ~18 |
+| Bright Falls' Finest | 14.00% | ~18 |
 | Stop the Monster | 14.00% | ~18 |
 | All Accounted For | 14.00% | ~18 |
-| Bright Falls' Finest | 13.00% | ~17 |
 | All His Life | 13.00% | ~17 |
+| Back in Watery | 12.00% | ~16 |
 | Stunning Vistas | 11.00% | ~15 |
-| Back in Watery | 11.00% | ~15 |
 | In One Go | 11.00% | ~15 |
 | We Watch in the Night | 10.00% | ~13 |
-| In a Fancy Hotel | 9.00% | ~12 |
+| In a Fancy Hotel | 10.00% | ~13 |
+| The Trail of the Writer | 8.00% | ~11 |
+| Girl in Love | 8.00% | ~11 |
 | Gone for Good | 8.00% | ~11 |
 | Seeing Double | 8.00% | ~11 |
-| The Trail of the Writer | 7.00% | ~9 |
-| Girl in Love | 7.00% | ~9 |
+| The Old Gods | 7.00% | ~9 |
 | Behind the Masks | 7.00% | ~9 |
 | Strange Reality | 6.00% | ~8 |
-| The Old Gods | 6.00% | ~8 |
 | The Final Deerfest | 6.00% | ~8 |
 | Told and Retold | 6.00% | ~8 |
+| The Cult of the Word | 6.00% | ~8 |
 | The Story Come True | 5.00% | ~7 |
 | End of the Road | 5.00% | ~7 |
-| The Cult of the Word | 5.00% | ~7 |
 | His Way Out | 5.00% | ~7 |
 | Coffee-Themed Fun | 5.00% | ~7 |
 | Back to Life | 5.00% | ~7 |
@@ -72,7 +72,7 @@
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 132 (Ranked 372)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 121,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 117,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3977,9 +3977,9 @@
       "Count": 389
     }
   ],
-  "EOS_Progressed": 11693,
+  "EOS_Progressed": 11694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14057,6 +14057,11 @@
       "Time": "2023-10-22T13:11:23.5252257+00:00",
       "NumProgressed": 11693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T14:09:30.9862726+00:00",
+      "NumProgressed": 11694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14068,7 +14073,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "02_BurningCity",
@@ -14092,7 +14097,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14995,21 +15000,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10475,
+      "Progressed": 10476,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11693,
+      "Progressed": 11694,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-21T20:58:56.8421589+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:11:23.5252251+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:09:30.9862718+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:42.7259532+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:11:23.5254552+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:29.2376566+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:09:30.9868554+00:00"
 }

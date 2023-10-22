@@ -6,16 +6,16 @@ Rating: 4.56 (Ranked 475)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 28.00% | ~910 |
-| Sputnik 2049 | 25.00% | ~812 |
+| Sputnik 2049 | 25.00% | ~813 |
 | Infinite Growth... | 24.00% | ~780 |
 | Without Breaking Some Eggs... | 23.00% | ~748 |
-| Space Society | 17.00% | ~552 |
-| A Thousand Strong | 17.00% | ~552 |
-| Ready for a New World | 17.00% | ~552 |
+| Space Society | 17.00% | ~553 |
+| A Thousand Strong | 17.00% | ~553 |
+| Ready for a New World | 17.00% | ~553 |
 | Permanent Redesigns | 15.00% | ~488 |
-| Fully Recycled | 13.00% | ~422 |
-| Ain't Nobody Got Time for That | 13.00% | ~422 |
-| The Ship of Theseus | 13.00% | ~422 |
+| Fully Recycled | 13.00% | ~423 |
+| Ain't Nobody Got Time for That | 13.00% | ~423 |
+| The Ship of Theseus | 13.00% | ~423 |
 | Guy de Borderlands | 12.00% | ~390 |
 | Hope Seeker | 12.00% | ~390 |
 | Exceeding Capacity | 11.00% | ~358 |
@@ -30,10 +30,10 @@ Rating: 4.56 (Ranked 475)
 | Necessary Enhancement | 6.00% | ~195 |
 | All in Good Health | 6.00% | ~195 |
 | From the Past | 6.00% | ~195 |
-| Oats | 5.00% | ~162 |
-| What They Hide From Us | 5.00% | ~162 |
-| BRAWL! | 5.00% | ~162 |
-| What the Ruins Teach Us | 5.00% | ~162 |
+| Oats | 5.00% | ~163 |
+| What They Hide From Us | 5.00% | ~163 |
+| BRAWL! | 5.00% | ~163 |
+| What the Ruins Teach Us | 5.00% | ~163 |
 | ...  in a finite world | 4.00% | ~130 |
 | Sustainable Energy | 4.00% | ~130 |
 | In Dolos We Trust | 4.00% | ~130 |
@@ -48,23 +48,23 @@ Rating: 4.56 (Ranked 475)
 | Space Greenhouse | 2.00% | ~65 |
 | Tiqqun Unchained | 2.00% | ~65 |
 | Help of the Forgotten Member | 2.00% | ~65 |
-| Better Him Than Me | 1.00% | ~32 |
-| Remember the Dead | 1.00% | ~32 |
-| You Had One Job... | 1.00% | ~32 |
-| Gregor Spinoza | 1.00% | ~32 |
-| Scientifically Accurate | 1.00% | ~32 |
+| Better Him Than Me | 1.00% | ~33 |
+| Remember the Dead | 1.00% | ~33 |
+| You Had One Job... | 1.00% | ~33 |
+| Gregor Spinoza | 1.00% | ~33 |
+| Scientifically Accurate | 1.00% | ~33 |
 | Work Harder | 0.60% | ~20 |
 | Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.30% | ~10 |
-| A Junker's Dream | 0.20% | ~6 |
-| Scenic View | 0.20% | ~6 |
+| A Junker's Dream | 0.20% | ~7 |
+| Scenic View | 0.20% | ~7 |
 | This is Fine | 0.10% | ~3 |
 | Suburban Perfection | 0.10% | ~3 |
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,250 (Ranked 193)  
-Completed: 0 (0.00%) (Ranked 318)  
+Progressed: 3,251 (Ranked 193)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-18 | 3,238 | 0 |
 | 2023-10-19 | 3,241 | 0 |
 | 2023-10-21 | 3,249 | 0 |
-| 2023-10-22 | 3,250 | 0 |
+| 2023-10-22 | 3,251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

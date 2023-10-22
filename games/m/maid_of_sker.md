@@ -9,12 +9,12 @@
 | Don't Breathe | 31.00% | ~59 |
 | Smooth Operator | 17.00% | ~32 |
 | Easy Listening | 15.00% | ~28 |
+| Perfect Harmony! | 14.00% | ~26 |
 | Rapturous Applause! | 14.00% | ~26 |
-| Perfect Harmony! | 13.00% | ~25 |
 | Wales Interactive | 10.00% | ~19 |
 | Chief Butler | 8.00% | ~15 |
 | Bull in a China Shop | 6.00% | ~11 |
-| Sker Explorer | 5.00% | ~9 |
+| Sker Explorer | 6.00% | ~11 |
 | Ending on a High Note | 2.00% | ~4 |
 | Phonic Boom | 2.00% | ~4 |
 | The Long Night | 2.00% | ~4 |
@@ -36,7 +36,7 @@
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 189 (Ranked 350)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

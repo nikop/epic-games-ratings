@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanic | 92.00% | ~48 |
+| Mechanic | 94.00% | ~49 |
 | Firefighter | 88.00% | ~46 |
 | Pirate | 75.00% | ~39 |
-| Miner | 65.00% | ~34 |
+| Miner | 67.00% | ~35 |
 | Expert Mechanic | 52.00% | ~27 |
 | Cookie Addict | 50.00% | ~26 |
 | Salvager | 42.00% | ~22 |
@@ -29,7 +29,7 @@
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 442)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

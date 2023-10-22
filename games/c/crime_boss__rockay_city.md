@@ -5,11 +5,11 @@ Rating: 3.94 (Ranked 988)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 1.00% | ~892 |
-| Underworld Initiate | 1.00% | ~892 |
-| First One’s Free | 1.00% | ~892 |
-| Downed but Not Outed | 1.00% | ~892 |
-| Too Old for This | 1.00% | ~892 |
+| Neophyte Ninja | 1.00% | ~893 |
+| Underworld Initiate | 1.00% | ~893 |
+| First One’s Free | 1.00% | ~893 |
+| Downed but Not Outed | 1.00% | ~893 |
+| Too Old for This | 1.00% | ~893 |
 | Fancy Pants | 0.90% | ~803 |
 | Roid Ranger | 0.80% | ~714 |
 | King of the Hill | 0.80% | ~714 |
@@ -32,8 +32,8 @@ Rating: 3.94 (Ranked 988)
 | Olympus Ascended | 0.30% | ~268 |
 | Ding Dong | 0.30% | ~268 |
 | All that Glitters | 0.30% | ~53 |
-| Rockay Raider | 0.20% | ~178 |
-| Classy Joint | 0.20% | ~178 |
+| Rockay Raider | 0.20% | ~179 |
+| Classy Joint | 0.20% | ~179 |
 | All for One | 0.20% | ~35 |
 | Rockay Knight | 0.10% | ~89 |
 | Privateer | 0.10% | ~89 |
@@ -47,8 +47,8 @@ Rating: 3.94 (Ranked 988)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,250 (Ranked 86)  
-Completed: 50 (0.06%) (Ranked 270)  
+Progressed: 89,251 (Ranked 86)  
+Completed: 50 (0.06%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 50 (0.06%) (Ranked 270)
 | 2023-10-19 | 89,188 | 50 |
 | 2023-10-20 | 89,206 | 50 |
 | 2023-10-21 | 89,231 | 50 |
-| 2023-10-22 | 89,250 | 50 |
+| 2023-10-22 | 89,251 | 50 |
 ## Awards
 Max (Diverse Characters): 509  (Ranked 203)  
 Sum: 2,862 (Ranked 175)  

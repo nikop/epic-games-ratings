@@ -32,7 +32,7 @@ Rating: 4.82 (Ranked 62)
 | Full equipped | 23.00% | ~599 |
 | Glyndemere | 22.00% | ~573 |
 | Iffighain Headquarters | 22.00% | ~573 |
-| Whispers in the Woods II | 18.00% | ~469 |
+| Whispers in the Woods II | 19.00% | ~495 |
 | No more holding back | 18.00% | ~469 |
 | Terbisia | 18.00% | ~469 |
 | Quickmoore Headquarters | 18.00% | ~469 |
@@ -60,7 +60,7 @@ Rating: 4.82 (Ranked 62)
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,606 (Ranked 200)  
-Completed: 13 (0.50%) (Ranked 181)  
+Completed: 13 (0.50%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

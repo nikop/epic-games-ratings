@@ -6,7 +6,7 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -2049,6 +2049,11 @@
       "Time": "2023-10-21T21:05:37.6533493+00:00",
       "NumProgressed": 640,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T14:06:18.9913176+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2076,7 +2081,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "dont-miss-calls",
@@ -2084,7 +2089,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "female-conqueror",
@@ -2108,7 +2113,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "kill-lieutenants",
@@ -2124,7 +2129,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "play-at-night",
@@ -2132,7 +2137,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "product-profit",
@@ -2148,7 +2153,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "rename-lieutenant",
@@ -2196,7 +2201,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "use-submarine",
@@ -2211,15 +2216,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:08:20.2694981+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:06:18.9913171+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.5174847+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:59:28.6614123+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:08:20.269525+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:57:15.0450734+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:06:18.9913494+00:00"
 }

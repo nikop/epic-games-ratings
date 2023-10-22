@@ -42,7 +42,7 @@
 | The Winged Dagger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 560)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

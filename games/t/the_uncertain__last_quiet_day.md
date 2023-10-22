@@ -11,7 +11,7 @@
 | Now you know | 53.00% | ~295 |
 | Short circuit | 53.00% | ~295 |
 | Curious | 42.00% | ~234 |
-| Everybody lies | 35.00% | ~195 |
+| Everybody lies | 36.00% | ~200 |
 | Trick or Treat? | 23.00% | ~128 |
 | There is another way | 22.00% | ~122 |
 | Sysadmin | 21.00% | ~117 |
@@ -38,7 +38,7 @@
 | Silent | 4.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 556 (Ranked 272)  
-Completed: 18 (3.24%) (Ranked 85)  
+Completed: 18 (3.24%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

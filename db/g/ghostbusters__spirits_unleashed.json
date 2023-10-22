@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2607,11 +2607,11 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27077,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 590,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Progressed": 27082,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 594,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:46.8023803+00:00",
@@ -15867,6 +15867,11 @@
       "Time": "2023-10-22T13:07:47.010465+00:00",
       "NumProgressed": 27077,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-22T14:05:45.3469583+00:00",
+      "NumProgressed": 27082,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 51,
@@ -16092,25 +16097,25 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 271
     },
     {
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 190
     },
     {
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 217
     },
     {
       "ID": "Rift_Seeker",
@@ -16285,16 +16290,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27077,
-      "Completed": 60
+      "Progressed": 27082,
+      "Completed": 61
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-22T05:00:39.3711798+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:07:47.0104646+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:05:45.3469575+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:59:22.2832925+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:07:47.0105805+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:57:09.0756483+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:05:45.3471195+00:00"
 }

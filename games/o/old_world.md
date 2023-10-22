@@ -10,35 +10,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~446 |
 | Friendly Family | 3.00% | ~446 |
 | Play a Single Player Game | 3.00% | ~446 |
-| Able | 2.00% | ~297 |
-| Ambitious | 2.00% | ~297 |
-| Architect | 2.00% | ~297 |
-| Enlightened | 2.00% | ~297 |
-| Glorious | 2.00% | ~297 |
-| Good | 2.00% | ~297 |
-| Intrepid | 2.00% | ~297 |
-| Just | 2.00% | ~297 |
-| Keystone | 2.00% | ~297 |
-| Learned | 2.00% | ~297 |
-| Mason | 2.00% | ~297 |
-| Noble | 2.00% | ~297 |
-| Pioneer | 2.00% | ~297 |
-| Strong | 2.00% | ~297 |
-| Warrior | 2.00% | ~297 |
-| Developing Cities | 2.00% | ~297 |
-| Strong Cities | 2.00% | ~297 |
-| Hanging Gardens | 2.00% | ~297 |
-| Ishtar Gate | 2.00% | ~297 |
-| Lighthouse | 2.00% | ~297 |
-| Oracle | 2.00% | ~297 |
-| Pyramids | 2.00% | ~297 |
-| Christianity | 2.00% | ~297 |
-| Judaism | 2.00% | ~297 |
-| Babylonian Paganism | 2.00% | ~297 |
-| Greek Paganism | 2.00% | ~297 |
-| Naming Landmarks | 2.00% | ~297 |
-| Trade Caravan | 2.00% | ~297 |
-| Kushite Paganism | 2.00% | ~297 |
+| Able | 2.00% | ~298 |
+| Ambitious | 2.00% | ~298 |
+| Architect | 2.00% | ~298 |
+| Enlightened | 2.00% | ~298 |
+| Glorious | 2.00% | ~298 |
+| Good | 2.00% | ~298 |
+| Intrepid | 2.00% | ~298 |
+| Just | 2.00% | ~298 |
+| Keystone | 2.00% | ~298 |
+| Learned | 2.00% | ~298 |
+| Mason | 2.00% | ~298 |
+| Noble | 2.00% | ~298 |
+| Pioneer | 2.00% | ~298 |
+| Strong | 2.00% | ~298 |
+| Warrior | 2.00% | ~298 |
+| Developing Cities | 2.00% | ~298 |
+| Strong Cities | 2.00% | ~298 |
+| Hanging Gardens | 2.00% | ~298 |
+| Ishtar Gate | 2.00% | ~298 |
+| Lighthouse | 2.00% | ~298 |
+| Oracle | 2.00% | ~298 |
+| Pyramids | 2.00% | ~298 |
+| Christianity | 2.00% | ~298 |
+| Judaism | 2.00% | ~298 |
+| Babylonian Paganism | 2.00% | ~298 |
+| Greek Paganism | 2.00% | ~298 |
+| Naming Landmarks | 2.00% | ~298 |
+| Trade Caravan | 2.00% | ~298 |
+| Kushite Paganism | 2.00% | ~298 |
 | Regicide | 1.00% | ~149 |
 | Drillmaster | 1.00% | ~149 |
 | Brilliant | 1.00% | ~149 |
@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 1.00% | ~149 |
 | Just Difficulty | 1.00% | ~149 |
 | Artisans | 1.00% | ~149 |
+| Sages | 1.00% | ~149 |
 | Furious Family | 1.00% | ~149 |
 | Acropolis | 1.00% | ~149 |
 | Apadana | 1.00% | ~149 |
@@ -73,9 +74,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
 | Champions | 0.90% | ~134 |
-| Sages | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
+| Points Victory | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
 | Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.80% | ~119 |
 | Greece | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
-| Points Victory | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
 | Landowners | 0.70% | ~104 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.70% | ~104 |
 | Legalism | 0.70% | ~104 |
 | Redemption | 0.70% | ~104 |
+| Revelation | 0.70% | ~104 |
 | Legionary | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
@@ -112,11 +113,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.60% | ~89 |
 | Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
-| Revelation | 0.60% | ~89 |
 | Cimmerian Archer | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~74 |
+| Clerics | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Egypt | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
@@ -132,20 +133,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
-| Bad Heir Day | 0.40% | ~59 |
-| Ishtar Gate in Babylon | 0.40% | ~59 |
-| Devout | 0.40% | ~59 |
-| Noble Difficulty | 0.40% | ~59 |
-| Clerics | 0.40% | ~59 |
-| Cao'an | 0.40% | ~59 |
-| Adur Burzen-Mihr | 0.40% | ~59 |
-| Learn to Play 5 | 0.40% | ~59 |
-| Rome | 0.40% | ~59 |
-| Kush | 0.40% | ~59 |
-| Beja Archer | 0.40% | ~59 |
+| Bad Heir Day | 0.40% | ~60 |
+| Ishtar Gate in Babylon | 0.40% | ~60 |
+| Devout | 0.40% | ~60 |
+| Peacemaker | 0.40% | ~60 |
+| Noble Difficulty | 0.40% | ~60 |
+| Cao'an | 0.40% | ~60 |
+| Adur Burzen-Mihr | 0.40% | ~60 |
+| Learn to Play 5 | 0.40% | ~60 |
+| Rome | 0.40% | ~60 |
+| Kush | 0.40% | ~60 |
+| Beja Archer | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
-| Peacemaker | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Old World Order | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
@@ -219,6 +219,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
+| That Also Works | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
@@ -340,7 +341,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Restorer | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Elephant in Elephantine | 0.00% | ~0 |
-| That Also Works | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,871 (Ranked 139)  
-Completed: 5 (0.03%) (Ranked 286)  
+Progressed: 14,875 (Ranked 139)  
+Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,871 | 5 |
+| 2023-10-22 | 14,875 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

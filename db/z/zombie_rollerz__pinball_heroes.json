@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:48.5975235+00:00",
@@ -659,6 +659,11 @@
       "Time": "2023-10-18T00:05:10.8433547+00:00",
       "NumProgressed": 173,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T14:04:14.8424003+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -694,7 +699,7 @@
       "Name": "Bullseye!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -716,9 +721,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -732,9 +737,9 @@
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -766,7 +771,7 @@
       "Name": "The Blacksmith",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CLG_UNLOCK_10005",
@@ -806,7 +811,7 @@
       "Name": "The Steampunk",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "CLG_UNLOCK_10010",
@@ -854,7 +859,7 @@
       "Name": "The Bird",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -862,7 +867,7 @@
       "Name": "The Flower",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -876,9 +881,9 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -916,17 +921,17 @@
       "ID": "PRG_BOSS_SLIME",
       "SetID": "89cjc9l",
       "Name": "The Slime",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -934,7 +939,7 @@
       "Name": "The Tunneler",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -942,7 +947,7 @@
       "Name": "Villfir Forest",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PRG_CHAPTER_2",
@@ -956,9 +961,9 @@
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PRG_HARD_10001",
@@ -1142,7 +1147,7 @@
       "Name": "Out of the Frying Pan...",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -1156,9 +1161,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1244,16 +1249,16 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 1
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:06:17.7066904+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:04:14.8423997+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:13.890378+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:00:10.0308407+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:06:17.7067701+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:57:52.8411301+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:04:14.8425016+00:00"
 }

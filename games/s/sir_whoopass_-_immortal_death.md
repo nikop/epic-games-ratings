@@ -42,10 +42,10 @@
 | A Megapint...? | 25.00% | ~27 |
 | Ripe Meat Off The Bone! | 24.00% | ~26 |
 | Hovering around | 24.00% | ~26 |
-| Kleptomaniac | 23.00% | ~25 |
+| Kleptomaniac | 24.00% | ~26 |
 | You're not so Big anymore, Boi! | 22.00% | ~24 |
+| I cant stand still! | 22.00% | ~24 |
 | Your daily dose of Vitamin C. | 21.00% | ~22 |
-| I cant stand still! | 21.00% | ~22 |
 | Slimy... yet satisfying | 18.00% | ~19 |
 | Master Butcher | 17.00% | ~18 |
 | Deal with it | 17.00% | ~18 |
@@ -65,9 +65,9 @@
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~5 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~5 |
+| Ancient Ruins of Leaky Roof | 5.00% | ~5 |
 | Ancient Ruins of Imperfectly Designed Walls | 4.00% | ~4 |
 | Ancient Ruins of Inadequate Opportunities | 4.00% | ~4 |
-| Ancient Ruins of Leaky Roof | 4.00% | ~4 |
 | Fifty Shades of Gruyere | 3.00% | ~3 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~3 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~3 |
@@ -88,7 +88,7 @@
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 390)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

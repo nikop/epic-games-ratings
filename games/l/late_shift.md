@@ -14,7 +14,7 @@
 | Good Karma | 31.00% | ~164 |
 | Office Clerk | 29.00% | ~153 |
 | Protector | 29.00% | ~153 |
-| The Bribe | 27.00% | ~143 |
+| The Bribe | 28.00% | ~148 |
 | The Ploy | 16.00% | ~85 |
 | Interrogation | 16.00% | ~85 |
 | Sabotage | 13.00% | ~69 |
@@ -25,8 +25,8 @@
 | The Coward | 3.00% | ~16 |
 | Expert Storyteller | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529 (Ranked 276)  
-Completed: 8 (1.51%) (Ranked 125)  
+Progressed: 529 (Ranked 277)  
+Completed: 8 (1.51%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

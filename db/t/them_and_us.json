@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 252,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1081,6 +1081,11 @@
       "Time": "2023-10-22T12:04:31.7621814+00:00",
       "NumProgressed": 251,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T14:04:08.0839163+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1188,7 +1193,7 @@
       "Name": "Forced to Kill",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1411,7 +1416,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 252,
       "Completed": 1
     }
   ],
@@ -1419,8 +1424,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:06:11.1482248+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:04:08.0839156+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:13.780144+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:06:11.1482646+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:02.619901+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:04:08.0839619+00:00"
 }

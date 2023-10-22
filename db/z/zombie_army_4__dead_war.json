@@ -6,7 +6,7 @@
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 107,
-  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -8104,9 +8104,9 @@
       "ID": "SE_COMPLETE_MILAN",
       "SetID": "49kdhbg",
       "Name": "Choo choo!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27094
+      "UsersEstimate": 27531
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8448,8 +8448,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-22T12:03:06.7688264+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:05:46.5345381+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:03:43.6416457+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.0687474+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:05:05.8318928+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:05:46.534638+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:02:30.3361081+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:03:43.6417655+00:00"
 }

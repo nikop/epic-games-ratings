@@ -6,24 +6,24 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 76.00% | ~23,113 |
-| Quick Understanding of Block Extrusion | 68.00% | ~20,680 |
-| Nature or Nurture | 50.00% | ~15,206 |
-| Power Glove | 48.00% | ~14,598 |
-| Forgotten Memories | 40.00% | ~12,165 |
-| Cogs in the Machine | 33.00% | ~10,036 |
-| Mission Success | 18.00% | ~5,474 |
-| There's No Place Like Home | 18.00% | ~5,474 |
-| Green Cube Killer | 16.00% | ~4,866 |
-| Infinity Loop | 12.00% | ~3,649 |
-| Path to Salvation | 12.00% | ~3,649 |
-| Descendants | 10.00% | ~3,041 |
-| The Flawed Teacher | 8.00% | ~2,433 |
-| To Infinity and Beyond | 4.00% | ~1,216 |
-| The Truthful Enemy | 3.00% | ~912 |
-| Laser Sharp | 1.00% | ~304 |
+| Lost in Space | 75.00% | ~22,850 |
+| Quick Understanding of Block Extrusion | 68.00% | ~20,718 |
+| Nature or Nurture | 50.00% | ~15,234 |
+| Power Glove | 48.00% | ~14,624 |
+| Forgotten Memories | 40.00% | ~12,187 |
+| Cogs in the Machine | 33.00% | ~10,054 |
+| Mission Success | 18.00% | ~5,484 |
+| There's No Place Like Home | 18.00% | ~5,484 |
+| Green Cube Killer | 16.00% | ~4,875 |
+| Infinity Loop | 12.00% | ~3,656 |
+| Path to Salvation | 12.00% | ~3,656 |
+| Descendants | 10.00% | ~3,047 |
+| The Flawed Teacher | 8.00% | ~2,437 |
+| To Infinity and Beyond | 4.00% | ~1,219 |
+| The Truthful Enemy | 3.00% | ~914 |
+| Laser Sharp | 1.00% | ~305 |
 | Home Stretch | 0.90% | ~274 |
-| Get me out of here | 0.80% | ~243 |
+| Get me out of here | 0.80% | ~244 |
 | True collector | 0.70% | ~213 |
 | Bronze collector | 0.70% | ~213 |
 | Gold collector | 0.70% | ~213 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.40% | ~122 |
 | Expert Collector | 0.40% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,412 (Ranked 117)  
-Completed: 51 (0.17%) (Ranked 232)  
+Progressed: 30,467 (Ranked 117)  
+Completed: 52 (0.17%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 51 (0.17%) (Ranked 232)
 | 2023-10-19 | 27,195 | 34 |
 | 2023-10-20 | 28,560 | 37 |
 | 2023-10-21 | 29,832 | 49 |
-| 2023-10-22 | 30,412 | 51 |
+| 2023-10-22 | 30,467 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

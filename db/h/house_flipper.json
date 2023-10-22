@@ -6,7 +6,7 @@
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -1965,9 +1965,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21104,
+  "EOS_Progressed": 21107,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9575,6 +9575,11 @@
       "Time": "2023-10-22T13:07:31.649317+00:00",
       "NumProgressed": 21104,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-22T14:05:29.693053+00:00",
+      "NumProgressed": 21107,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9634,7 +9639,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20049
+      "UsersEstimate": 20052
     },
     {
       "ID": "GameOver",
@@ -9666,7 +9671,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "JuniorEstateAgent",
@@ -9746,7 +9751,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6542
+      "UsersEstimate": 6543
     },
     {
       "ID": "VeronicaLiptson",
@@ -9754,7 +9759,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "YouDoItWrong",
@@ -9769,15 +9774,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21104,
+      "Progressed": 21107,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-21T20:59:15.0014306+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:07:31.6493166+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:05:29.6930524+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:02:04.6694951+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:07:31.6493834+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:50.0595902+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:05:29.693139+00:00"
 }

@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 355)  
-Completed: 2 (1.16%) (Ranked 137)  
+Progressed: 173 (Ranked 356)  
+Completed: 2 (1.16%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

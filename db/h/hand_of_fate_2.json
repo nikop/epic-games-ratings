@@ -6,7 +6,7 @@
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 25,
-  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663651,
+  "EOS_Progressed": 663653,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18508,6 +18508,11 @@
       "Time": "2023-10-22T13:09:28.1269068+00:00",
       "NumProgressed": 663651,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-22T14:07:26.2336127+00:00",
+      "NumProgressed": 663653,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18519,7 +18524,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477829
+      "UsersEstimate": 477830
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18527,7 +18532,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384918
+      "UsersEstimate": 384919
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -18902,15 +18907,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663651,
+      "Progressed": 663653,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:09:28.1269064+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:07:26.233612+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:02:08.6902785+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:09:28.127052+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:54.4760538+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:07:26.2338001+00:00"
 }

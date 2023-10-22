@@ -11,7 +11,7 @@ Number of Ratings: 98  (23.09.2022)
 | War Never Changes | 41.00% | ~615 |
 | Heroes Never Die | 37.00% | ~555 |
 | Mosquito bite | 35.00% | ~525 |
-| Spice It Up | 31.00% | ~465 |
+| Spice It Up | 32.00% | ~480 |
 | Bomberman | 27.00% | ~405 |
 | Agent 47 | 26.00% | ~390 |
 | You're Gonna Go Far, Kid | 26.00% | ~390 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,501 (Ranked 221)  
-Completed: 1 (0.07%) (Ranked 265)  
+Progressed: 1,501 (Ranked 222)  
+Completed: 1 (0.07%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

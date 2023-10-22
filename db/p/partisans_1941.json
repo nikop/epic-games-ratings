@@ -5,9 +5,9 @@
   "Ranking_Rating": 357,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -3275,9 +3275,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 480
     },
     {
       "ID": "KillAllM2",
@@ -3371,8 +3371,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:06:43.0384011+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:04:41.135165+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.410552+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:03:41.8262907+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:06:43.0384468+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:01:25.8059068+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:04:41.1352072+00:00"
 }

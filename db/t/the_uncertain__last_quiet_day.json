@@ -3,8 +3,8 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -756,9 +756,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 200
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -973,8 +973,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:08:17.4792769+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:06:16.3745563+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.6002167+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:03:19.4685843+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:08:17.479306+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:01:02.8465227+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:06:16.3745851+00:00"
 }

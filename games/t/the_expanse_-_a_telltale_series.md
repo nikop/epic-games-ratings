@@ -11,6 +11,7 @@ Rating: 4.59 (Ranked 420)
 | The Pit and the Pirates | 6.00% | ~854 |
 | Drone Dodger | 5.00% | ~711 |
 | Call it Even | 5.00% | ~711 |
+| Celebrations are in Order | 5.00% | ~711 |
 | Impossible Objects | 5.00% | ~711 |
 | Data Archivist | 4.00% | ~569 |
 | Spore Taste | 4.00% | ~569 |
@@ -18,7 +19,6 @@ Rating: 4.59 (Ranked 420)
 | Heal Thy Medic | 4.00% | ~569 |
 | Khan's Revenge | 4.00% | ~569 |
 | Captain Drummer | 4.00% | ~569 |
-| Celebrations are in Order | 4.00% | ~569 |
 | Stogie for Fogey | 3.00% | ~427 |
 | Doctor Approved | 2.00% | ~285 |
 | Bottoms up! | 2.00% | ~285 |
@@ -37,7 +37,7 @@ Rating: 4.59 (Ranked 420)
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,227 (Ranked 140)  
-Completed: 27 (0.19%) (Ranked 227)  
+Completed: 27 (0.19%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

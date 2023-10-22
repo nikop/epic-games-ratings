@@ -6,11 +6,11 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~23,248 |
-| Wallbanger | 5.00% | ~23,248 |
-| Exploitative | 4.00% | ~18,598 |
-| High Speed Low Drag | 4.00% | ~18,598 |
-| Wet Feet | 4.00% | ~18,598 |
+| Point Shooting | 5.00% | ~23,249 |
+| Wallbanger | 5.00% | ~23,249 |
+| Exploitative | 4.00% | ~18,599 |
+| High Speed Low Drag | 4.00% | ~18,599 |
+| Wet Feet | 4.00% | ~18,599 |
 | Checkpoint Victory | 3.00% | ~13,949 |
 | Lucky | 3.00% | ~13,949 |
 | Stylin' | 3.00% | ~13,949 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~465 |
 | Road Hazard | 0.10% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,959 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 318)  
+Progressed: 464,974 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 2 (0.00%) (Ranked 318)
 | 2023-10-19 | 463,959 | 2 |
 | 2023-10-20 | 464,276 | 2 |
 | 2023-10-21 | 464,687 | 2 |
-| 2023-10-22 | 464,959 | 2 |
+| 2023-10-22 | 464,974 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 393  (Ranked 224)  
 Sum: 3,086 (Ranked 172)  

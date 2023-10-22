@@ -6,7 +6,7 @@
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -11061,9 +11061,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 437075,
+  "EOS_Progressed": 437121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5500,
+  "EOS_NewPlayers": 5480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32126,6 +32126,11 @@
       "Time": "2023-10-22T13:07:05.8077019+00:00",
       "NumProgressed": 437075,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T14:05:04.1465453+00:00",
+      "NumProgressed": 437121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32265,7 +32270,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -32417,7 +32422,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -32649,7 +32654,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_cold_war",
@@ -32673,7 +32678,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -33137,7 +33142,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17483
+      "UsersEstimate": 17485
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34417,7 +34422,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13112
+      "UsersEstimate": 13114
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34641,7 +34646,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -34801,7 +34806,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17483
+      "UsersEstimate": 17485
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -34833,7 +34838,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17483
+      "UsersEstimate": 17485
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -34968,21 +34973,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 437075,
+      "Progressed": 437121,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 437075,
+      "Progressed": 437121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-22T10:59:11.0550513+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:07:05.8077014+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:05:04.1465447+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:57.7615718+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:07:05.8091198+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:41.9885495+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:05:04.1484832+00:00"
 }

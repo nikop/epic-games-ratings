@@ -9,8 +9,8 @@
 | Nimble fingers | 78.00% | ~158 |
 | Room 104 | 78.00% | ~158 |
 | Face to face | 77.00% | ~156 |
+| Now or never | 74.00% | ~150 |
 | Let's play a game… | 73.00% | ~148 |
-| Now or never | 73.00% | ~148 |
 | Soundtrack | 62.00% | ~126 |
 | First aid | 61.00% | ~124 |
 | Antidote | 54.00% | ~110 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 344)  
-Completed: 0 (0.00%) (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

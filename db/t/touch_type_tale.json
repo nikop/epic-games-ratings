@@ -3,8 +3,8 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3725,
+  "EOS_Progressed": 3726,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4277,6 +4277,11 @@
       "Time": "2023-10-22T11:04:46.4275139+00:00",
       "NumProgressed": 3725,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-22T14:05:19.0921209+00:00",
+      "NumProgressed": 3726,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4336,7 +4341,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3278
+      "UsersEstimate": 3279
     },
     {
       "ID": "campaign10",
@@ -4376,7 +4381,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "campaign15",
@@ -4384,7 +4389,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "campaign16",
@@ -4424,7 +4429,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "campaign20",
@@ -4440,7 +4445,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "campaign4",
@@ -4472,7 +4477,7 @@
       "Name": "Maestro",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "campaign8",
@@ -4504,7 +4509,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "scenario3",
@@ -4551,7 +4556,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3725,
+      "Progressed": 3726,
       "Completed": 11
     }
   ],
@@ -4559,8 +4564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:07:21.1657305+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:05:19.0921203+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:58.9642707+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:01:00.2024599+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:07:21.165783+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:58:46.8824647+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:05:19.0921808+00:00"
 }

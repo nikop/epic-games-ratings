@@ -25,8 +25,8 @@ Rating: 4.73 (Ranked 167)
 | Improved crossbow | 27.00% | ~3,670 |
 | King Hugo | 25.00% | ~3,398 |
 | Mercy | 24.00% | ~3,262 |
+| Perfect shot | 23.00% | ~3,126 |
 | Effective instruments | 22.00% | ~2,990 |
-| Perfect shot | 22.00% | ~2,990 |
 | Perfect throw | 22.00% | ~2,990 |
 | Knights! | 21.00% | ~2,854 |
 | Handful of pockets | 13.00% | ~1,767 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 167)
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,591 (Ranked 141)  
-Completed: 49 (0.36%) (Ranked 200)  
+Completed: 49 (0.36%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

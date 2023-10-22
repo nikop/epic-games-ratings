@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~46,532 |
-| Get Busy Living | 16.00% | ~29,781 |
-| Samuel Norton | 9.00% | ~16,752 |
-| Spare The Rod | 5.00% | ~9,306 |
-| Don't Put Me In The Dark | 3.00% | ~5,584 |
-| Wait and Hope | 3.00% | ~5,584 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,584 |
+| Stone Walls | 25.00% | ~46,541 |
+| Get Busy Living | 16.00% | ~29,786 |
+| Samuel Norton | 9.00% | ~16,755 |
+| Spare The Rod | 5.00% | ~9,308 |
+| Don't Put Me In The Dark | 3.00% | ~5,585 |
+| Wait and Hope | 3.00% | ~5,585 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,585 |
 | Throw The Book At Them | 2.00% | ~3,723 |
 | Iron Bars | 2.00% | ~3,723 |
-| D.B. Cooper | 1.00% | ~1,861 |
+| D.B. Cooper | 1.00% | ~1,862 |
 | Reformation | 0.60% | ~1,117 |
 | Crowd Control | 0.50% | ~931 |
 | Freedom | 0.40% | ~745 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~186 |
 | ... It's What You Can Prove | 0.10% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186,130 (Ranked 70)  
-Completed: 8 (0.00%) (Ranked 318)  
+Progressed: 186,163 (Ranked 70)  
+Completed: 8 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,15 +208,15 @@ Completed: 8 (0.00%) (Ranked 318)
 | 2023-10-19 | 184,959 | 8 |
 | 2023-10-20 | 185,398 | 8 |
 | 2023-10-21 | 185,889 | 8 |
-| 2023-10-22 | 186,130 | 8 |
+| 2023-10-22 | 186,163 | 8 |
 ## Awards
-Max (Extremely Fun): 534  (Ranked 200)  
-Sum: 4,621 (Ranked 142)  
+Max (Great for Beginners): 537  (Ranked 200)  
+Sum: 4,625 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 537 |
 | This game is Extremely Fun | 534 |
-| This game is Great for Beginners | 533 |
 | This game is Highly Recommended | 504 |
 | This game has Quickly Understood Controls | 501 |
 | This game is Relaxing | 483 |
@@ -501,4 +501,4 @@ Diff (max vs sum): 58
 | 2023-10-19 | 4.61 | - | 532 | 4,600 |
 | 2023-10-20 | 4.61 | - | 532 | 4,609 |
 | 2023-10-21 | 4.61 | - | 534 | 4,618 |
-| 2023-10-22 | 4.61 | - | 534 | 4,621 |
+| 2023-10-22 | 4.61 | - | 537 | 4,625 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -2257,6 +2257,11 @@
       "Time": "2023-10-22T13:11:05.0355812+00:00",
       "NumProgressed": 752,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-22T14:09:12.5586502+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2277,7 +2282,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "_03_FinishAct1",
@@ -2341,7 +2346,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_11_Completion_40",
@@ -2349,7 +2354,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_12_Completion_50",
@@ -2397,7 +2402,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2413,7 +2418,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2421,7 +2426,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2476,7 +2481,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 24
     }
   ],
@@ -2484,8 +2489,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:11:05.0355804+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:09:12.5586494+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:02:10.740257+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:11:05.0356146+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:59:56.5709001+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:09:12.5586828+00:00"
 }

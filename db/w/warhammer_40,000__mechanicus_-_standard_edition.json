@@ -6,7 +6,7 @@
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 318,
+  "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
@@ -786,7 +786,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225344,
+  "EOS_Progressed": 225347,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
@@ -20981,6 +20981,11 @@
       "Time": "2023-10-22T13:10:18.5389673+00:00",
       "NumProgressed": 225344,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T14:08:26.3825654+00:00",
+      "NumProgressed": 225347,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -20992,7 +20997,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42815
+      "UsersEstimate": 42816
     },
     {
       "ID": "ACH_BASE_10",
@@ -21000,7 +21005,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58589
+      "UsersEstimate": 58590
     },
     {
       "ID": "ACH_BASE_11",
@@ -21040,7 +21045,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22534
+      "UsersEstimate": 22535
     },
     {
       "ID": "ACH_BASE_17",
@@ -21240,7 +21245,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27041
+      "UsersEstimate": 27042
     },
     {
       "ID": "ACH_BASE_8",
@@ -21263,7 +21268,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225344,
+      "Progressed": 225347,
       "Completed": 5
     }
   ],
@@ -21271,8 +21276,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-22T13:10:18.5389669+00:00",
+  "LastChanged_Achievements": "2023-10-22T14:08:26.3825645+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-22T12:59:50.8205582+00:00",
-  "LastUpdate_Achievements": "2023-10-22T13:10:18.5391356+00:00"
+  "LastUpdate_Ratings": "2023-10-22T13:57:35.1755422+00:00",
+  "LastUpdate_Achievements": "2023-10-22T14:08:26.3827591+00:00"
 }
