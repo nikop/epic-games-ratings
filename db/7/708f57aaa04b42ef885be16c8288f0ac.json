@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1052,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -440,6 +440,11 @@
       "Time": "2023-10-22T18:07:30.0808882+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T19:06:35.6156521+00:00",
+      "NumProgressed": 1065,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -522,9 +527,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "FuneralForTheDeath",
@@ -723,13 +728,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1065,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:07:30.0808877+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:06:35.6156515+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:57:43.9311014+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:07:30.0809101+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:57:24.509703+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:06:35.6156838+00:00"
 }

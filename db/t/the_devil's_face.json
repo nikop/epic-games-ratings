@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1899,6 +1899,11 @@
       "Time": "2023-10-22T18:04:02.1249258+00:00",
       "NumProgressed": 438,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T19:03:09.5726921+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1908,17 +1913,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 140
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1964,9 +1969,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1974,7 +1979,7 @@
       "Name": "This looks really bad",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2021,14 +2026,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:04:02.124925+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:03:09.5726915+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:57:17.0875725+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:04:02.1249433+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:57:02.443658+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:03:09.5729495+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.08 (Ranked 951)
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 50.00% | ~1,838 |
 | Totally Intentional | 45.00% | ~1,655 |
-| Each Sold Separately | 37.00% | ~1,360 |
+| Each Sold Separately | 38.00% | ~1,397 |
 | We're In | 33.00% | ~1,213 |
 | You're Not Naked | 29.00% | ~1,066 |
 | From Zeroes... | 29.00% | ~1,066 |

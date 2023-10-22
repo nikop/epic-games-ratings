@@ -7,6 +7,7 @@
 | Task Apprentice | 22.00% | ~2 |
 | City Link | 22.00% | ~2 |
 | Billionaire Club | 11.00% | ~1 |
+| Trainee | 11.00% | ~1 |
 | Line Up | 11.00% | ~1 |
 | Full House | 11.00% | ~1 |
 | Speed Demon | 11.00% | ~1 |
@@ -23,7 +24,6 @@
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
-| Trainee | 0.00% | ~0 |
 | Diesel Dream | 0.00% | ~0 |
 | Electric Avenue | 0.00% | ~0 |
 | Super Long Train | 0.00% | ~0 |

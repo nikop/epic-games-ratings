@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5518,
+  "EOS_Progressed": 5519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3983,6 +3983,11 @@
       "Time": "2023-10-22T16:04:18.3913348+00:00",
       "NumProgressed": 5518,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T19:04:03.2697466+00:00",
+      "NumProgressed": 5519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4378,7 +4383,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ach_frp_many_products2",
@@ -4601,15 +4606,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5518,
+      "Progressed": 5519,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:04:51.233305+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:04:03.269746+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.5188861+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:00:27.609613+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:04:51.2333886+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:59:52.165311+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:04:03.2698767+00:00"
 }

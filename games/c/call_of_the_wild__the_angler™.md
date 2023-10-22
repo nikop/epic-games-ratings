@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.17 (Ranked 916)  
+Rating: 4.17 (Ranked 915)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 2.00% | ~122 |
 | Taylor Made | 2.00% | ~122 |
 | Rod and Troll | 2.00% | ~110 |
-| Golden Ridge Ranger | 0.70% | ~43 |
+| Golden Ridge Ranger | 0.80% | ~49 |
 | Fish upon a Star | 0.70% | ~38 |
 | Head for Heights | 0.60% | ~37 |
 | Lake Me up Before You Go Go | 0.50% | ~31 |

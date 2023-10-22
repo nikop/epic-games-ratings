@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2205,9 +2205,9 @@
       "ID": "achievement_120",
       "SetID": "d252ncf",
       "Name": "Paramour I",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_121",
@@ -2237,9 +2237,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_125",
@@ -2581,9 +2581,9 @@
       "ID": "achievement_49",
       "SetID": "d252ncf",
       "Name": "The Professor",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_5",
@@ -2621,9 +2621,9 @@
       "ID": "achievement_53",
       "SetID": "d252ncf",
       "Name": "Cat\u0027s in the Cradle",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_54",
@@ -2653,9 +2653,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_58",
@@ -2997,9 +2997,9 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_97",
@@ -3041,8 +3041,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:08:30.2960511+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:07:29.9153772+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:03:15.4362965+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:08:30.2962278+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:02:14.0924324+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:07:29.9156406+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,737 |
-| Having A Field Day | 75.00% | ~4,737 |
+| Get A Room | 75.00% | ~4,738 |
+| Having A Field Day | 75.00% | ~4,738 |
 | Reap What You Sow | 72.00% | ~4,548 |
-| The First Day | 69.00% | ~4,358 |
+| The First Day | 69.00% | ~4,359 |
 | Green Thumb | 67.00% | ~4,232 |
 | Novice Researcher | 67.00% | ~4,232 |
-| Home Cooked Meal | 59.00% | ~3,726 |
-| Onward | 57.00% | ~3,600 |
+| Home Cooked Meal | 59.00% | ~3,727 |
+| Onward | 57.00% | ~3,601 |
 | The First Week | 55.00% | ~3,474 |
-| Beam Me Up | 52.00% | ~3,284 |
-| Studious Researcher | 52.00% | ~3,284 |
-| Putting Food on the Table | 51.00% | ~3,221 |
-| Adept Researcher | 45.00% | ~2,842 |
+| Beam Me Up | 52.00% | ~3,285 |
+| Studious Researcher | 52.00% | ~3,285 |
+| Putting Food on the Table | 51.00% | ~3,222 |
+| Adept Researcher | 45.00% | ~2,843 |
 | Retribution | 42.00% | ~2,653 |
 | Feast or Famine | 42.00% | ~2,653 |
 | ...And Don’t Come Back! | 42.00% | ~2,653 |
 | Fit For A King | 32.00% | ~2,021 |
 | Heating Up | 31.00% | ~1,958 |
 | Luminary Researcher | 31.00% | ~1,958 |
-| Winter Is Coming | 28.00% | ~1,768 |
+| Winter Is Coming | 28.00% | ~1,769 |
 | Winter Is Here | 24.00% | ~1,516 |
 | Disassembled | 22.00% | ~1,390 |
-| A Party Now | 21.00% | ~1,326 |
-| Oh Deer! | 21.00% | ~1,326 |
-| All Year Round | 21.00% | ~1,326 |
+| A Party Now | 21.00% | ~1,327 |
+| Oh Deer! | 21.00% | ~1,327 |
+| All Year Round | 21.00% | ~1,327 |
 | Nothing Wasted | 13.00% | ~821 |
 | Don't Cry Wolf | 13.00% | ~821 |
 | Deerly Departed | 8.00% | ~505 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~126 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,316 (Ranked 168)  
+Progressed: 6,317 (Ranked 169)  
 Completed: 14 (0.22%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 14 (0.22%) (Ranked 220)
 | 2023-10-19 | 6,266 | 14 |
 | 2023-10-20 | 6,282 | 14 |
 | 2023-10-21 | 6,298 | 14 |
-| 2023-10-22 | 6,316 | 14 |
+| 2023-10-22 | 6,317 | 14 |
 ## Awards
 Max (Relaxing): 123  (Ranked 326)  
 Sum: 997 (Ranked 250)  

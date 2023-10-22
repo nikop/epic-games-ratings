@@ -13890,10 +13890,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 319824,
       "NumberOfAwardsMax": 100696
+    },
+    {
+      "Time": "2023-10-22T18:59:18.5248838+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 319972,
+      "NumberOfAwardsMax": 100696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 319824,
+  "NumberOfAwards": 319972,
   "NumberOfAwardsMax": 100696,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13967,13 +13973,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11123
+      "Count": 11271
     }
   ],
-  "EOS_Progressed": 893354,
-  "EOS_Completed": 2698,
-  "EOS_NewPlayers": 1309,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 893364,
+  "EOS_Completed": 2699,
+  "EOS_NewPlayers": 1305,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -34945,6 +34951,11 @@
       "Time": "2023-10-22T18:06:31.6197174+00:00",
       "NumProgressed": 893354,
       "NumCompleted": 2698
+    },
+    {
+      "Time": "2023-10-22T19:05:43.5274098+00:00",
+      "NumProgressed": 893364,
+      "NumCompleted": 2699
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -34963,9 +34974,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "BushidoAndChill",
@@ -35476,21 +35487,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893354,
-      "Completed": 2698
+      "Progressed": 893364,
+      "Completed": 2699
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21977,
+      "Progressed": 21987,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-22T14:59:04.1716985+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:06:31.6197168+00:00",
+  "LastChanged": "2023-10-22T18:59:18.5248836+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:05:43.5274092+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:59:50.307428+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:06:31.6198592+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:59:18.5248846+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:05:43.5276174+00:00"
 }

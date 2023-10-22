@@ -20,11 +20,11 @@ Number of Ratings: 371  (23.09.2022)
 | The Emperor Protects | 3.00% | ~98 |
 | Gunmaster | 3.00% | ~98 |
 | A Foul Creche | 3.00% | ~98 |
-| Hold Your Ground | 2.00% | ~65 |
-| Corruption Cleanser | 2.00% | ~65 |
-| Nemesis Master | 2.00% | ~65 |
-| Just a Scratch | 2.00% | ~65 |
-| Hive Exterminator | 2.00% | ~65 |
+| Hold Your Ground | 2.00% | ~66 |
+| Corruption Cleanser | 2.00% | ~66 |
+| Nemesis Master | 2.00% | ~66 |
+| Just a Scratch | 2.00% | ~66 |
+| Hive Exterminator | 2.00% | ~66 |
 | Daemonkeeper | 1.00% | ~33 |
 | Exterminator | 1.00% | ~33 |
 | Efficient Killer | 1.00% | ~33 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,274 (Ranked 192)  
+Progressed: 3,275 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,6 +244,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-19 | 3,270 | 0 |
 | 2023-10-20 | 3,272 | 0 |
 | 2023-10-21 | 3,274 | 0 |
+| 2023-10-22 | 3,275 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 270)  
 Sum: 474 (Ranked 318)  

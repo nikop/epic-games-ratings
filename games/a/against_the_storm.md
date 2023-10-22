@@ -28,19 +28,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 4.00% | ~681 |
 | A Real Challenge | 4.00% | ~681 |
 | Trade Baron | 4.00% | ~681 |
-| Serving Ale | 3.00% | ~510 |
-| Against All Odds | 3.00% | ~510 |
-| Ruined Armory | 3.00% | ~510 |
-| Dangerous Lands | 3.00% | ~510 |
-| Fishmen Ritual Site | 3.00% | ~510 |
-| Forbidden Lands | 3.00% | ~510 |
-| Haunted Forest | 3.00% | ~510 |
-| Flooded Mines | 3.00% | ~510 |
-| Forsaken Gods Temple | 3.00% | ~510 |
-| Corrosive Torrent | 3.00% | ~510 |
-| Like a Machine | 3.00% | ~510 |
-| Defying the Crown | 3.00% | ~510 |
-| Into the Forest | 3.00% | ~510 |
+| Serving Ale | 3.00% | ~511 |
+| Against All Odds | 3.00% | ~511 |
+| Ruined Armory | 3.00% | ~511 |
+| Dangerous Lands | 3.00% | ~511 |
+| Fishmen Ritual Site | 3.00% | ~511 |
+| Forbidden Lands | 3.00% | ~511 |
+| Haunted Forest | 3.00% | ~511 |
+| Flooded Mines | 3.00% | ~511 |
+| Forsaken Gods Temple | 3.00% | ~511 |
+| Corrosive Torrent | 3.00% | ~511 |
+| Like a Machine | 3.00% | ~511 |
+| Defying the Crown | 3.00% | ~511 |
+| Into the Forest | 3.00% | ~511 |
 | Refinery | 2.00% | ~340 |
 | Victory through Prosperity | 2.00% | ~340 |
 | Feeding The People | 1.00% | ~170 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,016 (Ranked 132)  
+Progressed: 17,018 (Ranked 132)  
 Completed: 52 (0.31%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 52 (0.31%) (Ranked 205)
 | 2023-10-19 | 16,982 | 52 |
 | 2023-10-20 | 16,991 | 52 |
 | 2023-10-21 | 16,999 | 52 |
-| 2023-10-22 | 17,016 | 52 |
+| 2023-10-22 | 17,018 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,196 (Ranked 170)  

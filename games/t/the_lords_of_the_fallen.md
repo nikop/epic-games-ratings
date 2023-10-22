@@ -3,13 +3,13 @@
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
 Rating: 4.22 (Ranked 877)  
 ## Awards
-Max (Great Boss Battles): 24  (Ranked 510)  
-Sum: 24 (Ranked 516)  
-Diff (max vs sum): -6  
+Max (Great Boss Battles): 31  (Ranked 478)  
+Sum: 31 (Ranked 496)  
+Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 42 |
-| This game has Great Boss Battles | 24 |
+| This game has Great Boss Battles | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,4 +20,4 @@ Diff (max vs sum): -6
 | 2023-10-19 | 4.22 | 42 | 42 |
 | 2023-10-20 | 4.24 | 42 | 62 |
 | 2023-10-21 | 4.24 | 24 | 24 |
-| 2023-10-22 | 4.22 | 24 | 24 |
+| 2023-10-22 | 4.22 | 31 | 31 |

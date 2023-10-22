@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -4376,17 +4376,17 @@
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 298
     },
     {
       "ID": "campaign14",
       "SetID": "2h56gn1",
       "Name": "Well Supplied",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 410
     },
     {
       "ID": "campaign15",
@@ -4569,8 +4569,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:05:54.3189221+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:05:09.6851102+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:58.9642707+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:59:13.8255443+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:05:54.318961+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:58:50.9832778+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:05:09.6851717+00:00"
 }

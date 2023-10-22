@@ -2,13 +2,13 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Ranking_Rating": 43,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -5308,6 +5308,6 @@
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
   "LastChanged": "2023-10-22T03:59:22.9018981+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.025451+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:01:16.2649217+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:06:40.3495198+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:00:34.9988265+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:05:51.0345167+00:00"
 }

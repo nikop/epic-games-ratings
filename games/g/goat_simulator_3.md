@@ -1,38 +1,38 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 49)  
+Rating: 4.84 (Ranked 48)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,010 |
-| Private Club | 74.00% | ~183,789 |
-| Rogue Guild | 65.00% | ~161,436 |
-| I Watched the Intro | 57.00% | ~141,567 |
-| Covert Consortium | 55.00% | ~136,600 |
-| Goat Queen | 53.00% | ~131,632 |
-| Reach the Stratosphere | 50.00% | ~124,182 |
-| Synchronization Complete | 47.00% | ~116,731 |
-| Secret Society | 45.00% | ~111,763 |
-| Shadow Syndicate | 38.00% | ~94,378 |
-| What a Waste of Money | 33.00% | ~81,960 |
-| New Goat Order | 30.00% | ~74,509 |
-| Don't touch the servers | 28.00% | ~69,542 |
-| San Angora: Become Human | 27.00% | ~67,058 |
-| Real Buoy | 27.00% | ~67,058 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,574 |
-| Welcome to Earth | 25.00% | ~62,091 |
-| Into the Matrix | 19.00% | ~47,189 |
-| Egg Simulator | 18.00% | ~44,705 |
-| Where is It? | 17.00% | ~42,222 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~37,254 |
-| Black Market | 14.00% | ~34,771 |
-| 401(K.O.) | 14.00% | ~34,771 |
-| Car Cave | 12.00% | ~29,804 |
-| Club Mohair | 8.00% | ~19,869 |
-| A Center for Ants? | 8.00% | ~19,869 |
-| French Fika | 7.00% | ~17,385 |
-| Nasty! | 5.00% | ~12,418 |
+| Forgotten Sorority | 91.00% | ~226,020 |
+| Private Club | 74.00% | ~183,797 |
+| Rogue Guild | 65.00% | ~161,443 |
+| I Watched the Intro | 57.00% | ~141,573 |
+| Covert Consortium | 55.00% | ~136,606 |
+| Goat Queen | 53.00% | ~131,638 |
+| Reach the Stratosphere | 50.00% | ~124,187 |
+| Synchronization Complete | 47.00% | ~116,736 |
+| Secret Society | 45.00% | ~111,768 |
+| Shadow Syndicate | 38.00% | ~94,382 |
+| What a Waste of Money | 33.00% | ~81,963 |
+| New Goat Order | 30.00% | ~74,512 |
+| Don't touch the servers | 28.00% | ~69,545 |
+| San Angora: Become Human | 27.00% | ~67,061 |
+| Real Buoy | 27.00% | ~67,061 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,577 |
+| Welcome to Earth | 25.00% | ~62,094 |
+| Into the Matrix | 19.00% | ~47,191 |
+| Egg Simulator | 18.00% | ~44,707 |
+| Where is It? | 17.00% | ~42,224 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~37,256 |
+| Black Market | 14.00% | ~34,772 |
+| 401(K.O.) | 14.00% | ~34,772 |
+| Car Cave | 12.00% | ~29,805 |
+| Club Mohair | 8.00% | ~19,870 |
+| A Center for Ants? | 8.00% | ~19,870 |
+| French Fika | 7.00% | ~17,386 |
+| Nasty! | 5.00% | ~12,419 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,935 |
 | [REDACTED] | 4.00% | ~9,935 |
 | Cannibanana | 2.00% | ~4,967 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,490 |
 | G.O.A.T | 0.30% | ~745 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,363 (Ranked 55)  
+Progressed: 248,374 (Ranked 55)  
 Completed: 862 (0.35%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 862 (0.35%) (Ranked 203)
 | 2023-10-19 | 248,012 | 859 |
 | 2023-10-20 | 248,118 | 859 |
 | 2023-10-21 | 248,256 | 859 |
-| 2023-10-22 | 248,363 | 862 |
+| 2023-10-22 | 248,374 | 862 |
 ## Awards
 Max (Great for Beginners): 422  (Ranked 219)  
-Sum: 3,618 (Ranked 158)  
+Sum: 3,623 (Ranked 158)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -243,10 +243,10 @@ Diff (max vs sum): 61
 | This game has Amazing Characters | 360 |
 | This game is Extremely Fun | 355 |
 | This game has Amazing Storytelling | 349 |
-| This game is Relaxing | 344 |
+| This game is Relaxing | 346 |
 | This game has a Silly Community | 344 |
 | This game has Quickly Understood Controls | 338 |
-| This game has Easy Combat | 308 |
+| This game has Easy Combat | 311 |
 | This game is Educational | 263 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -459,4 +459,4 @@ Diff (max vs sum): 61
 | 2023-10-19 | 4.84 | 421 | 3,605 |
 | 2023-10-20 | 4.84 | 421 | 3,609 |
 | 2023-10-21 | 4.84 | 421 | 3,612 |
-| 2023-10-22 | 4.84 | 422 | 3,618 |
+| 2023-10-22 | 4.84 | 422 | 3,623 |

@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,433 (Ranked 225)  
-Completed: 6 (0.42%) (Ranked 192)  
+Completed: 6 (0.42%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,8 +205,8 @@ Completed: 6 (0.42%) (Ranked 192)
 | 2023-10-20 | 1,432 | 6 |
 | 2023-10-21 | 1,433 | 6 |
 ## Awards
-Max (Character Customization): 28  (Ranked 489)  
-Sum: 28 (Ranked 503)  
+Max (Character Customization): 28  (Ranked 490)  
+Sum: 28 (Ranked 504)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |

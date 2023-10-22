@@ -5,20 +5,20 @@ Rating: 4.59 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~2,562 |
-| Drug Gifter | 7.00% | ~996 |
-| Bosmang | 7.00% | ~996 |
+| Oyedang, Kopengs | 18.00% | ~2,563 |
+| Drug Gifter | 7.00% | ~997 |
+| Bosmang | 7.00% | ~997 |
 | The Pit and the Pirates | 6.00% | ~854 |
 | Drone Dodger | 6.00% | ~854 |
 | Call it Even | 5.00% | ~712 |
 | Celebrations are in Order | 5.00% | ~712 |
 | Impossible Objects | 5.00% | ~712 |
-| Data Archivist | 4.00% | ~569 |
-| Spore Taste | 4.00% | ~569 |
-| Martian Music | 4.00% | ~569 |
-| Heal Thy Medic | 4.00% | ~569 |
-| Khan's Revenge | 4.00% | ~569 |
-| Captain Drummer | 4.00% | ~569 |
+| Data Archivist | 4.00% | ~570 |
+| Spore Taste | 4.00% | ~570 |
+| Martian Music | 4.00% | ~570 |
+| Heal Thy Medic | 4.00% | ~570 |
+| Khan's Revenge | 4.00% | ~570 |
+| Captain Drummer | 4.00% | ~570 |
 | Stogie for Fogey | 3.00% | ~427 |
 | Doctor Approved | 2.00% | ~285 |
 | Bottoms up! | 2.00% | ~285 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 421)
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,234 (Ranked 140)  
+Progressed: 14,240 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 27 (0.19%) (Ranked 228)
 | 2023-10-19 | 14,126 | 26 |
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
-| 2023-10-22 | 14,234 | 27 |
+| 2023-10-22 | 14,240 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

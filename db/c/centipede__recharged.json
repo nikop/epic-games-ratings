@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -299,13 +299,19 @@
       "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-22T19:01:04.2680268+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17986,
+  "EOS_Progressed": 17987,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -14400,6 +14406,11 @@
       "Time": "2023-10-22T18:07:45.6147024+00:00",
       "NumProgressed": 17986,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-22T19:06:49.6210709+00:00",
+      "NumProgressed": 17987,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14459,7 +14470,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5935
+      "UsersEstimate": 5936
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14475,7 +14486,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -14483,7 +14494,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "Mirrors",
@@ -14507,7 +14518,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 8993
+      "UsersEstimate": 8994
     },
     {
       "ID": "Sole_Survivor",
@@ -14523,7 +14534,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "The_Reaper",
@@ -14538,15 +14549,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 17986,
+      "Progressed": 17987,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
-  "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:07:45.6147019+00:00",
+  "LastChanged": "2023-10-22T19:01:04.2680266+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:06:49.6210704+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:01:52.300812+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:07:45.6147725+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:01:04.2680273+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:06:49.621184+00:00"
 }

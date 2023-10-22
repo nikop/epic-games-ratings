@@ -5,21 +5,21 @@ Rating: 4.59 (Ranked 421)
 Number of Ratings: 247  (23.09.2022)  
 ## Awards
 Max (Character Customization): 360  (Ranked 231)  
-Sum: 980 (Ranked 253)  
-Diff (max vs sum): -22  
+Sum: 982 (Ranked 251)  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 360 |
 | This game has Great Boss Battles | 228 |
 | This game has Amazing Storytelling | 46 |
+| This game is Highly Recommended | 43 |
 | This game is Great for Beginners | 43 |
-| This game is Highly Recommended | 42 |
 | This game has Competitive Players | 38 |
 | This game has Challenging Combat | 37 |
 | This game is Relaxing | 37 |
 | This game has Amazing Characters | 34 |
 | This game has Quickly Understood Controls | 33 |
-| This game is Extremely Fun | 29 |
+| This game is Extremely Fun | 30 |
 | This game has Diverse Characters | 28 |
 | This game has a Competitive Community | 25 |
 | This game has Realistic Visuals | 22 |
@@ -260,4 +260,4 @@ Diff (max vs sum): -22
 | 2023-10-19 | 4.59 | - | 355 | 971 |
 | 2023-10-20 | 4.59 | - | 356 | 972 |
 | 2023-10-21 | 4.59 | - | 356 | 976 |
-| 2023-10-22 | 4.59 | - | 360 | 980 |
+| 2023-10-22 | 4.59 | - | 360 | 982 |

@@ -16,11 +16,11 @@
 | All Ovens Blazing | 13.00% | ~485 |
 | Boulder Clash | 13.00% | ~485 |
 | Held Back by the Roots | 12.00% | ~447 |
-| Well Supplied | 10.00% | ~373 |
+| Well Supplied | 11.00% | ~410 |
+| Damage Control | 8.00% | ~298 |
 | Sniped | 7.00% | ~261 |
 | Leave Them no Cake | 7.00% | ~261 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~261 |
-| Damage Control | 7.00% | ~261 |
 | Master of the Brawl | 7.00% | ~261 |
 | Your Biggest Fans | 6.00% | ~224 |
 | A Secret Recipe | 6.00% | ~224 |

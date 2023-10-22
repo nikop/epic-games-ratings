@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 413,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -355,6 +355,11 @@
       "Time": "2023-10-22T06:05:54.7790463+00:00",
       "NumProgressed": 412,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T19:05:13.5004448+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -382,7 +387,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Award_BumperCar",
@@ -390,7 +395,7 @@
       "Name": "Bumper Car",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Award_BurnThem",
@@ -406,7 +411,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -414,7 +419,7 @@
       "Name": "Death from Above",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -430,15 +435,15 @@
       "Name": "The Disruptor",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 190
     },
     {
       "ID": "Award_EarlyBird",
@@ -446,7 +451,7 @@
       "Name": "Early Bird",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Award_ExtraAmmo",
@@ -454,7 +459,7 @@
       "Name": "Extra Ammo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Award_FinalAscension",
@@ -470,7 +475,7 @@
       "Name": "First Victory",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Award_Gunner",
@@ -518,7 +523,7 @@
       "Name": "Hull King",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Award_IntelKing",
@@ -614,7 +619,7 @@
       "Name": "Scavenger",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Award_ShellShock",
@@ -654,7 +659,7 @@
       "Name": "Splash Damage",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Award_Stunning",
@@ -694,7 +699,7 @@
       "Name": "Thirty Birds...",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Award_TimeRun",
@@ -710,14 +715,14 @@
       "Name": "What-A-Shot",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 413,
       "Completed": 1
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:05:58.8377167+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:05:13.5004442+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:22.8117809+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:00:19.2181081+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:05:58.8377476+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:59:43.0133477+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:05:13.5004828+00:00"
 }

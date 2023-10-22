@@ -284,6 +284,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.10% | ~15 |
 | Role-Playing | 0.10% | ~15 |
 | Time Victory | 0.10% | ~15 |
+| Win a 1-v-1 Game | 0.10% | ~15 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~15 |
 | Win a Hotseat Game | 0.10% | ~15 |
 | Win a LAN Game | 0.10% | ~15 |
@@ -345,11 +346,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 | Merchants of the Levant | 0.00% | ~0 |
-| Win a 1-v-1 Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,878 (Ranked 139)  
+Progressed: 14,879 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 287)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,878 | 5 |
+| 2023-10-22 | 14,879 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

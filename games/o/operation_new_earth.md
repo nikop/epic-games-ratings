@@ -30,11 +30,11 @@ Rating: 3.38 (Ranked 1,021)
 | Major | 4.00% | ~66 |
 | Gold Achiever | 3.00% | ~50 |
 | Resourceful | 3.00% | ~50 |
+| Control the Skies | 3.00% | ~50 |
 | Advanced Warfare | 2.00% | ~33 |
 | Colonel | 2.00% | ~33 |
 | Seek & Destroy | 2.00% | ~33 |
 | Battle Ready | 2.00% | ~33 |
-| Control the Skies | 2.00% | ~33 |
 | General | 1.00% | ~17 |
 | Titan Tanks | 1.00% | ~17 |
 | Shock Troops | 1.00% | ~17 |

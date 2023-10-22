@@ -14,6 +14,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.30% | ~2,680 |
 | All the President's Men | 0.30% | ~66 |
 | Arachnophobia | 0.30% | ~66 |
+| To Bad Decisions! | 0.20% | ~1,787 |
 | Bushido and Chill | 0.20% | ~1,787 |
 | Right Back At Ya | 0.20% | ~1,787 |
 | Gun Fu | 0.20% | ~1,787 |
@@ -38,7 +39,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.20% | ~1,787 |
 | Spin Doctor | 0.20% | ~44 |
 | City Lights | 0.10% | ~893 |
-| To Bad Decisions! | 0.10% | ~893 |
 | To Protect and Serve | 0.10% | ~893 |
 | The Wandering Fool | 0.10% | ~893 |
 | Autojock | 0.10% | ~893 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,354 (Ranked 15)  
-Completed: 2,698 (0.30%) (Ranked 209)  
+Progressed: 893,364 (Ranked 15)  
+Completed: 2,699 (0.30%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,10 +257,10 @@ Completed: 2,698 (0.30%) (Ranked 209)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,354 | 2,698 |
+| 2023-10-22 | 893,364 | 2,699 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
-Sum: 319,824 (Ranked 11)  
+Sum: 319,972 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): -2
 | This game has Amazing Characters | 16,760 |
 | This game is Relaxing | 16,240 |
 | This game has Quickly Understood Controls | 16,192 |
-| This game has a Creative Community | 11,123 |
+| This game has a Creative Community | 11,271 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -554,4 +554,4 @@ Diff (max vs sum): -2
 | 2023-10-19 | 4.64 | - | 99,621 | 313,301 |
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
-| 2023-10-22 | 4.64 | - | 100,696 | 319,824 |
+| 2023-10-22 | 4.64 | - | 100,696 | 319,972 |

@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 94.00% | ~733 |
 | Spectre Inductee | 84.00% | ~655 |
 | Medal of Exploration I | 75.00% | ~585 |
-| Recruit | 72.00% | ~562 |
+| Recruit | 73.00% | ~569 |
 | Search and Rescue | 72.00% | ~562 |
 | Quarian Ally | 68.00% | ~530 |
 | Medal of Heroism | 66.00% | ~515 |
@@ -22,8 +22,8 @@
 | Asari Ally | 53.00% | ~413 |
 | Medal of Exploration III | 52.00% | ~406 |
 | Principled | 52.00% | ~406 |
+| Paramour I | 50.00% | ~390 |
 | Soldier Ally | 50.00% | ~390 |
-| Paramour I | 49.00% | ~382 |
 | Colonial Savior | 49.00% | ~382 |
 | Scientist | 48.00% | ~374 |
 | Merciless | 47.00% | ~367 |
@@ -35,7 +35,7 @@
 | Scholar | 43.00% | ~335 |
 | Veteran | 42.00% | ~328 |
 | Operative | 42.00% | ~328 |
-| The Professor | 40.00% | ~312 |
+| The Professor | 41.00% | ~320 |
 | Power Full | 40.00% | ~312 |
 | The Archangel | 39.00% | ~304 |
 | Completionist | 37.00% | ~289 |
@@ -49,10 +49,10 @@
 | Ghost Ship | 33.00% | ~257 |
 | The Assassin | 33.00% | ~257 |
 | The Quarian | 33.00% | ~257 |
+| Ghost of the Father | 33.00% | ~257 |
 | The Prodigal | 33.00% | ~257 |
 | The Justicar | 32.00% | ~250 |
 | Battlemaster | 32.00% | ~250 |
-| Ghost of the Father | 32.00% | ~250 |
 | The Cure | 32.00% | ~250 |
 | Revenge! | 32.00% | ~250 |
 | Heart of Darkness | 32.00% | ~250 |
@@ -63,9 +63,9 @@
 | Agent | 31.00% | ~242 |
 | Driven | 31.00% | ~242 |
 | Focused | 30.00% | ~234 |
+| Cat's in the Cradle | 30.00% | ~234 |
 | Treason | 30.00% | ~234 |
 | Bringer of War | 30.00% | ~234 |
-| Cat's in the Cradle | 29.00% | ~226 |
 | Doppelganger | 29.00% | ~226 |
 | Digital Exorcist | 29.00% | ~226 |
 | First Aid Specialist | 28.00% | ~218 |
@@ -104,7 +104,7 @@
 | Master and Commander | 17.00% | ~133 |
 | Throw Mastery | 16.00% | ~125 |
 | Patriot | 16.00% | ~125 |
-| Legend | 15.00% | ~117 |
+| Legend | 16.00% | ~125 |
 | Mail Slot | 14.00% | ~109 |
 | Long Service Medal | 14.00% | ~109 |
 | Combined Arms | 13.00% | ~101 |

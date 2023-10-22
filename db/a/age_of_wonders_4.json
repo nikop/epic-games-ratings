@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 403,
-  "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 5234,
+  "EOS_Progressed": 5235,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6424,6 +6424,11 @@
       "Time": "2023-10-22T18:05:02.3231422+00:00",
       "NumProgressed": 5234,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T19:04:13.1122029+00:00",
+      "NumProgressed": 5235,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6834,13 +6839,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5234,
+      "Progressed": 5235,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5234,
+      "Progressed": 5235,
       "Completed": 6
     }
   ],
@@ -6848,8 +6853,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-20T15:01:55.5187477+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:05:02.3231416+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:04:13.1122025+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.066766+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:02:19.5025603+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:05:02.3232052+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:01:30.1862607+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:04:13.1123108+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469497,
+  "EOS_Progressed": 469498,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19995,6 +19995,11 @@
       "Time": "2023-10-22T18:09:45.5410888+00:00",
       "NumProgressed": 469497,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-22T19:09:05.8476043+00:00",
+      "NumProgressed": 469498,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20022,7 +20027,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112679
+      "UsersEstimate": 112680
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20030,7 +20035,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103289
+      "UsersEstimate": 103290
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20094,7 +20099,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309868
+      "UsersEstimate": 309869
     },
     {
       "ID": "achievement_story_landa",
@@ -20182,7 +20187,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93899
+      "UsersEstimate": 93900
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20518,7 +20523,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103289
+      "UsersEstimate": 103290
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -20637,21 +20642,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13431,
+      "Progressed": 13432,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469497,
+      "Progressed": 469498,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:09:45.5410883+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:09:05.8476037+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:01:43.06943+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:09:45.5412434+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:00:56.5681682+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:09:05.8478096+00:00"
 }

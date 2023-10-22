@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~1,405 |
-| I Challenge You To Save More Money! | 81.00% | ~1,294 |
-| I Love How Tough You Are | 62.00% | ~990 |
-| Wanna Come To My Place For Dinner? | 53.00% | ~846 |
-| What I Want Is You | 47.00% | ~751 |
-| To Be Or Not To Be | 44.00% | ~703 |
-| Are You Alright? | 39.00% | ~623 |
-| Love Actually | 36.00% | ~575 |
-| Drama King | 31.00% | ~495 |
-| You're Really Something Else | 28.00% | ~447 |
-| Happy Family | 27.00% | ~431 |
-| Go Clean up In Your Own Way | 26.00% | ~415 |
-| Worthless Speech | 25.00% | ~399 |
-| ONE PUNCH | 24.00% | ~383 |
-| Drama CP: Reel to Real | 24.00% | ~383 |
-| Absolutely Elegant | 23.00% | ~367 |
-| Still Single | 23.00% | ~367 |
-| FIRST LOVE | 23.00% | ~367 |
-| Go Get Some Fries On The Pier | 19.00% | ~303 |
-| David | 18.00% | ~287 |
+| Last Night...Did We... | 88.00% | ~1,410 |
+| I Challenge You To Save More Money! | 81.00% | ~1,298 |
+| I Love How Tough You Are | 62.00% | ~993 |
+| Wanna Come To My Place For Dinner? | 53.00% | ~849 |
+| What I Want Is You | 47.00% | ~753 |
+| To Be Or Not To Be | 44.00% | ~705 |
+| Are You Alright? | 39.00% | ~625 |
+| Love Actually | 36.00% | ~577 |
+| Drama King | 31.00% | ~497 |
+| You're Really Something Else | 28.00% | ~449 |
+| Happy Family | 27.00% | ~433 |
+| Go Clean up In Your Own Way | 26.00% | ~417 |
+| Worthless Speech | 25.00% | ~400 |
+| ONE PUNCH | 24.00% | ~384 |
+| Drama CP: Reel to Real | 24.00% | ~384 |
+| Absolutely Elegant | 23.00% | ~368 |
+| Still Single | 23.00% | ~368 |
+| FIRST LOVE | 23.00% | ~368 |
+| Go Get Some Fries On The Pier | 19.00% | ~304 |
+| David | 18.00% | ~288 |
 | All I Have Is Money | 16.00% | ~256 |
 | Days Of Innocence | 16.00% | ~256 |
 | A Slap In The Face! | 16.00% | ~256 |
@@ -43,11 +43,11 @@
 | Counting Sheep? | 4.00% | ~64 |
 | Stubborn Noob | 4.00% | ~64 |
 | This Ain't Right In Many Ways... | 4.00% | ~64 |
-| Tall; Grande; Venti | 0.80% | ~13 |
 | Limerence | 0.80% | ~13 |
 | Hurrah! | 0.70% | ~11 |
+| Tall; Grande; Venti | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,597 (Ranked 219)  
+Progressed: 1,602 (Ranked 219)  
 Completed: 9 (0.56%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 9 (0.56%) (Ranked 174)
 | 2023-10-19 | 539 | 0 |
 | 2023-10-20 | 877 | 1 |
 | 2023-10-21 | 1,253 | 7 |
-| 2023-10-22 | 1,597 | 9 |
+| 2023-10-22 | 1,602 | 9 |

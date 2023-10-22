@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 110,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1628,
+  "EOS_Progressed": 1629,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3342,6 +3342,11 @@
       "Time": "2023-10-22T18:09:29.9839015+00:00",
       "NumProgressed": 1628,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T19:08:32.4345471+00:00",
+      "NumProgressed": 1629,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3386,7 +3391,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3408,9 +3413,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3442,7 +3447,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3530,7 +3535,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3562,7 +3567,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3642,7 +3647,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3658,7 +3663,7 @@
       "Name": "Champagne Spray",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -3745,14 +3750,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1628,
+      "Progressed": 1629,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:09:29.9839005+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:08:32.4345465+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-22T18:01:13.3045081+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:09:29.9839489+00:00"
+  "LastUpdate_Ratings": "2023-10-22T19:00:32.4629719+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:08:32.4346196+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2619,9 +2619,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27116,
+  "EOS_Progressed": 27124,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15904,6 +15904,11 @@
       "Time": "2023-10-22T18:06:23.0999474+00:00",
       "NumProgressed": 27116,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-22T19:05:36.2714668+00:00",
+      "NumProgressed": 27124,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 51,
@@ -15915,7 +15920,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "Animated",
@@ -16027,7 +16032,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "Escape_Artist",
@@ -16322,7 +16327,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27116,
+      "Progressed": 27124,
       "Completed": 61
     }
   ],
@@ -16330,8 +16335,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-22T17:57:30.0906707+00:00",
-  "LastChanged_Achievements": "2023-10-22T18:06:23.0999469+00:00",
+  "LastChanged_Achievements": "2023-10-22T19:05:36.271466+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T17:57:30.0906713+00:00",
-  "LastUpdate_Achievements": "2023-10-22T18:06:23.1000425+00:00"
+  "LastUpdate_Ratings": "2023-10-22T18:57:13.9509548+00:00",
+  "LastUpdate_Achievements": "2023-10-22T19:05:36.2716288+00:00"
 }
