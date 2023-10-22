@@ -23,7 +23,7 @@
 | Bonds of Enmity | 52.00% | ~86 |
 | Counter Specialist | 49.00% | ~81 |
 | Axer of Auspice | 44.00% | ~73 |
-| Fair Means or Foul | 42.00% | ~69 |
+| Fair Means or Foul | 43.00% | ~71 |
 | Snare Specialist | 42.00% | ~69 |
 | Single Minded | 41.00% | ~68 |
 | Mighty Marmelizer | 40.00% | ~66 |

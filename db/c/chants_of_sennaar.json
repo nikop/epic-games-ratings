@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1622,9 +1622,9 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1670,9 +1670,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "PROGRESS_N4",
@@ -1701,8 +1701,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:07:17.213917+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:06:29.5159735+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:00:51.2388068+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:07:17.2139499+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:00:22.8759839+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:06:29.5160212+00:00"
 }

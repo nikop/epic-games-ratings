@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~13,595 |
-| Fried Friendship | 87.00% | ~13,441 |
-| Look At Him Go | 79.00% | ~12,205 |
-| On Rails Experience | 57.00% | ~8,806 |
-| A Daring Devil | 52.00% | ~8,033 |
-| Break the Bank | 43.00% | ~6,643 |
-| It Took Two | 42.00% | ~6,489 |
-| Bug Sized Relaxation | 21.00% | ~3,244 |
-| Plastic Prison Breakers | 17.00% | ~2,626 |
-| Terror Of The Seven Seas | 15.00% | ~2,317 |
-| Realize Your Art | 12.00% | ~1,854 |
-| Force Triangulated | 12.00% | ~1,854 |
-| Meditation Maestro | 12.00% | ~1,854 |
-| Something Fishy | 11.00% | ~1,699 |
-| Lost And Found | 10.00% | ~1,545 |
-| Platforming Prodigy | 9.00% | ~1,390 |
-| Snackosaurus | 8.00% | ~1,236 |
-| Mood Swing | 7.00% | ~1,081 |
-| Minigame Megalomania | 4.00% | ~618 |
-| Faraway Frequencies | 4.00% | ~618 |
+| Struck A Pose | 88.00% | ~13,611 |
+| Fried Friendship | 87.00% | ~13,456 |
+| Look At Him Go | 79.00% | ~12,219 |
+| On Rails Experience | 57.00% | ~8,816 |
+| A Daring Devil | 52.00% | ~8,043 |
+| Break the Bank | 43.00% | ~6,651 |
+| It Took Two | 42.00% | ~6,496 |
+| Bug Sized Relaxation | 21.00% | ~3,248 |
+| Plastic Prison Breakers | 17.00% | ~2,629 |
+| Terror Of The Seven Seas | 15.00% | ~2,320 |
+| Realize Your Art | 12.00% | ~1,856 |
+| Force Triangulated | 12.00% | ~1,856 |
+| Meditation Maestro | 12.00% | ~1,856 |
+| Something Fishy | 11.00% | ~1,701 |
+| Lost And Found | 10.00% | ~1,547 |
+| Platforming Prodigy | 9.00% | ~1,392 |
+| Snackosaurus | 8.00% | ~1,237 |
+| Mood Swing | 7.00% | ~1,083 |
+| Minigame Megalomania | 4.00% | ~619 |
+| Faraway Frequencies | 4.00% | ~619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,449 (Ranked 136)  
+Progressed: 15,467 (Ranked 136)  
 Completed: 68 (0.44%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 68 (0.44%) (Ranked 190)
 | 2023-10-19 | 14,625 | 64 |
 | 2023-10-20 | 14,888 | 65 |
 | 2023-10-21 | 15,220 | 66 |
-| 2023-10-22 | 15,449 | 68 |
+| 2023-10-22 | 15,467 | 68 |

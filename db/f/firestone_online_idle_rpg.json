@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -403,7 +403,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2063,
+  "EOS_Progressed": 2064,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -6268,6 +6268,11 @@
       "Time": "2023-10-22T12:06:32.0254921+00:00",
       "NumProgressed": 2063,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T15:05:19.9616146+00:00",
+      "NumProgressed": 2064,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6383,7 +6388,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "dragonmaster",
@@ -6463,7 +6468,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "fourleafclover",
@@ -6511,7 +6516,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "herewegoagain",
@@ -6527,7 +6532,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "howdoyouturnthison",
@@ -6575,7 +6580,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "lockandload",
@@ -6671,7 +6676,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "prestigiousx10",
@@ -6679,7 +6684,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "relicofthepast",
@@ -6783,7 +6788,7 @@
       "Name": "The Unstoppable",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "titanpower",
@@ -6839,7 +6844,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "warmachinesarmy",
@@ -6871,14 +6876,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2063,
+      "Progressed": 2064,
       "Completed": 2
     }
   ],
@@ -6886,8 +6891,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-22T09:58:52.0824136+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:05:51.700121+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:05:19.961614+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:59:13.4189657+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:05:51.7002656+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:59:01.1442116+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:05:19.9617389+00:00"
 }

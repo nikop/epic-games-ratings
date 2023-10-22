@@ -7,9 +7,9 @@
 | That's the spirit | 15.00% | ~47 |
 | Welcome to the Tower | 15.00% | ~47 |
 | The great escape | 14.00% | ~44 |
+| A new dawn | 13.00% | ~41 |
 | The Preacher's fate | 12.00% | ~38 |
 | Scholar | 12.00% | ~38 |
-| A new dawn | 12.00% | ~38 |
 | True G3M4R | 11.00% | ~35 |
 | The darkness | 11.00% | ~35 |
 | One last step | 11.00% | ~35 |
@@ -28,7 +28,7 @@
 | A Link to the Past | 5.00% | ~16 |
 | For its own good | 4.00% | ~13 |
 | A great audience | 3.00% | ~9 |
-| Fashion victim | 1.00% | ~3 |
+| Fashion victim | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 315 (Ranked 315)  
 Completed: 21 (6.67%) (Ranked 51)  

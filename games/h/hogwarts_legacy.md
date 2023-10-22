@@ -26,13 +26,13 @@ Rating: 4.76 (Ranked 121)
 | Beast Friends | 8.00% | ~23,895 |
 | A Sallow Grave | 8.00% | ~23,895 |
 | Flight the Good Flight | 8.00% | ~23,895 |
-| The Seeker of Knowledge | 6.00% | ~17,921 |
-| The Root of the Problem | 6.00% | ~17,921 |
-| Third Time's a Charm | 6.00% | ~17,921 |
-| Raising Expectations | 6.00% | ~17,921 |
-| The Toast of the Town | 5.00% | ~14,934 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,934 |
-| The Ends Petrify the Means | 5.00% | ~14,934 |
+| The Seeker of Knowledge | 6.00% | ~17,922 |
+| The Root of the Problem | 6.00% | ~17,922 |
+| Third Time's a Charm | 6.00% | ~17,922 |
+| Raising Expectations | 6.00% | ~17,922 |
+| The Toast of the Town | 5.00% | ~14,935 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,935 |
+| The Ends Petrify the Means | 5.00% | ~14,935 |
 | Going Through the Potions | 4.00% | ~11,948 |
 | Room with a View | 4.00% | ~11,948 |
 | The Intrepid Explorer | 4.00% | ~11,948 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,690 (Ranked 47)  
+Progressed: 298,692 (Ranked 47)  
 Completed: 491 (0.16%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 491 (0.16%) (Ranked 236)
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
-| 2023-10-22 | 298,690 | 491 |
+| 2023-10-22 | 298,692 | 491 |
 ## Awards
 Max (Character Customization): 23,719  (Ranked 17)  
-Sum: 46,406 (Ranked 30)  
+Sum: 46,410 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 11,887 |
 | This game is Great for Beginners | 1,205 |
 | This game has Amazing Storytelling | 1,173 |
-| This game has Diverse Characters | 1,164 |
+| This game has Diverse Characters | 1,168 |
 | This game is Extremely Fun | 1,156 |
 | This game is Relaxing | 1,154 |
 | This game has Amazing Characters | 1,125 |
@@ -470,4 +470,4 @@ Diff (max vs sum): -13
 | 2023-10-19 | 4.76 | 23,644 | 46,213 |
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
-| 2023-10-22 | 4.76 | 23,719 | 46,406 |
+| 2023-10-22 | 4.76 | 23,719 | 46,410 |

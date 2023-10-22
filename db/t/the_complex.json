@@ -832,9 +832,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "free_champagne",
@@ -848,9 +848,9 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 372
+      "UsersEstimate": 378
     },
     {
       "ID": "kindar_surprise",
@@ -913,8 +913,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:06:07.0463036+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:05:31.7133009+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:21.4066435+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:03:03.0421392+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:06:07.0463247+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:02:14.2283259+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:05:31.7133313+00:00"
 }

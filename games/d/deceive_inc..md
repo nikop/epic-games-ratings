@@ -9,8 +9,8 @@ Rating: 4.57 (Ranked 459)
 | Mainframe Hacker | 23.00% | ~4,279 |
 | The Spy who eliminated me | 23.00% | ~4,279 |
 | Tomorrow Never Dyes | 22.00% | ~4,093 |
+| Never Say Loser Again | 19.00% | ~3,535 |
 | From the Vault with Love | 18.00% | ~3,349 |
-| Never Say Loser Again | 18.00% | ~3,349 |
 | Tailor-Made | 18.00% | ~3,349 |
 | For your Eyes only | 18.00% | ~3,349 |
 | Assistant Accountant | 17.00% | ~3,163 |

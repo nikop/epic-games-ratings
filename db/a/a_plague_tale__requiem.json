@@ -6,9 +6,9 @@
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -557,11 +557,11 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13591,
-  "EOS_Completed": 49,
-  "EOS_NewPlayers": 46,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 13592,
+  "EOS_Completed": 50,
+  "EOS_NewPlayers": 47,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -10182,6 +10182,11 @@
       "Time": "2023-10-22T13:09:22.4631981+00:00",
       "NumProgressed": 13591,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-10-22T15:06:32.1905965+00:00",
+      "NumProgressed": 13592,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -10193,7 +10198,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12504
+      "UsersEstimate": 12505
     },
     {
       "ID": "ACH_02",
@@ -10201,7 +10206,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10737
+      "UsersEstimate": 10738
     },
     {
       "ID": "ACH_03",
@@ -10209,7 +10214,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10057
+      "UsersEstimate": 10058
     },
     {
       "ID": "ACH_04",
@@ -10233,7 +10238,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8834
+      "UsersEstimate": 8835
     },
     {
       "ID": "ACH_07",
@@ -10241,7 +10246,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "ACH_08",
@@ -10265,7 +10270,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7203
+      "UsersEstimate": 7204
     },
     {
       "ID": "ACH_11",
@@ -10289,7 +10294,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "ACH_14",
@@ -10439,9 +10444,9 @@
       "ID": "ACH_32",
       "SetID": "9d4cf4c",
       "Name": "Perfect shot",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3126
+      "UsersEstimate": 2990
     },
     {
       "ID": "ACH_33",
@@ -10472,16 +10477,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13591,
-      "Completed": 49
+      "Progressed": 13592,
+      "Completed": 50
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-19T21:01:27.400524+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:07:20.5265592+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:06:32.190596+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.8379595+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:57:37.7342262+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:07:20.5266921+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:57:48.3159797+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:06:32.1907501+00:00"
 }

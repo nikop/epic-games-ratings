@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -367,6 +367,11 @@
       "Time": "2023-10-22T10:03:27.1932206+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T15:03:13.7101161+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -379,15 +384,15 @@
       "Name": "Rookie",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -395,7 +400,7 @@
       "Name": "Out of control",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -411,7 +416,7 @@
       "Name": "Like lightning!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -427,15 +432,15 @@
       "Name": "Globetrotter",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -443,7 +448,7 @@
       "Name": "Masterful!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -451,7 +456,7 @@
       "Name": "Drift champ",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -505,9 +510,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -529,9 +534,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -547,7 +552,7 @@
       "Name": "The Octopus",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -563,7 +568,7 @@
       "Name": "The Terrordactyl",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -579,7 +584,7 @@
       "Name": "The Nitro Bot",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -587,7 +592,7 @@
       "Name": "Extreme conditions",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -603,7 +608,7 @@
       "Name": "\u2026Is half done",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -611,7 +616,7 @@
       "Name": "Eagle eye",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -619,7 +624,7 @@
       "Name": "Shopping time!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -627,7 +632,7 @@
       "Name": "Spendthrift",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -643,7 +648,7 @@
       "Name": "Beyond the limit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -657,9 +662,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -675,7 +680,7 @@
       "Name": "Spoiled for choice",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -722,14 +727,14 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:03:28.3340313+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:03:13.7101155+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:59:21.7976492+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:03:28.3340768+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:59:07.4628582+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:03:13.7102105+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~732 |
-| Spectre Inductee | 83.00% | ~647 |
+| Spectre Inductee | 84.00% | ~654 |
 | Medal of Exploration I | 75.00% | ~584 |
 | Recruit | 72.00% | ~561 |
 | Search and Rescue | 72.00% | ~561 |
@@ -45,11 +45,11 @@
 | Galactic Explorer | 36.00% | ~280 |
 | Broke, Blind, and Bedlam | 35.00% | ~273 |
 | Archivist | 34.00% | ~265 |
+| A Personal Touch | 33.00% | ~257 |
 | Ghost Ship | 33.00% | ~257 |
 | The Assassin | 33.00% | ~257 |
 | The Quarian | 33.00% | ~257 |
 | The Prodigal | 33.00% | ~257 |
-| A Personal Touch | 32.00% | ~249 |
 | The Justicar | 32.00% | ~249 |
 | Battlemaster | 32.00% | ~249 |
 | Ghost of the Father | 32.00% | ~249 |
@@ -71,10 +71,10 @@
 | Friend or Foe | 28.00% | ~218 |
 | Doppelganger | 28.00% | ~218 |
 | Mobilizer | 28.00% | ~218 |
+| Untouchable | 27.00% | ~210 |
 | First Aid Specialist | 27.00% | ~210 |
 | Mission Accomplished | 27.00% | ~210 |
 | Against All Odds | 27.00% | ~210 |
-| Untouchable | 26.00% | ~203 |
 | Eye of the Hurricane | 26.00% | ~203 |
 | Giant Killer | 26.00% | ~203 |
 | A House Divided | 26.00% | ~203 |

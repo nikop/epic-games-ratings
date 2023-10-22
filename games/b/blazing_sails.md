@@ -4,8 +4,8 @@
 Rating: 3.80 (Ranked 1,009)  
 ## Awards
 Max (Amazing Characters): 51  (Ranked 414)  
-Sum: 302 (Ranked 349)  
-Diff (max vs sum): 65  
+Sum: 313 (Ranked 348)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 51 |
@@ -15,8 +15,8 @@ Diff (max vs sum): 65
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
 | This game has Playful Visuals | 32 |
+| This game has a Competitive Community | 32 |
 | This game has Amazing Storytelling | 28 |
-| This game has a Competitive Community | 21 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |

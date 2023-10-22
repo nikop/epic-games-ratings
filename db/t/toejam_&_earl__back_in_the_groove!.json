@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57440,
+  "EOS_Progressed": 57441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11216,6 +11216,11 @@
       "Time": "2023-10-22T14:04:08.5357163+00:00",
       "NumProgressed": 57440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-22T15:03:37.6134053+00:00",
+      "NumProgressed": 57441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -11569,9 +11574,9 @@
       "ID": "TimelySplash",
       "SetID": "8gem5jc",
       "Name": "A Timely Splash",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1149
     },
     {
       "ID": "TotalBummer",
@@ -11618,7 +11623,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57440,
+      "Progressed": 57441,
       "Completed": 6
     }
   ],
@@ -11626,8 +11631,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:04:08.5357158+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:03:37.6134046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:04.322049+00:00",
-  "LastUpdate_Ratings": "2023-10-22T13:59:02.0253175+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:04:08.5358485+00:00"
+  "LastUpdate_Ratings": "2023-10-22T14:58:50.88737+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:03:37.6136038+00:00"
 }

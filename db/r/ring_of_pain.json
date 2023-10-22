@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3160,9 +3160,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238359,
+  "EOS_Progressed": 238360,
   "EOS_Completed": 282,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -22365,6 +22365,11 @@
       "Time": "2023-10-22T14:09:18.949783+00:00",
       "NumProgressed": 238359,
       "NumCompleted": 282
+    },
+    {
+      "Time": "2023-10-22T15:08:31.6519139+00:00",
+      "NumProgressed": 238360,
+      "NumCompleted": 282
     }
   ],
   "TotalAchievements": 122,
@@ -22376,7 +22381,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 26219
+      "UsersEstimate": 26220
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -22408,7 +22413,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228825
+      "UsersEstimate": 228826
     },
     {
       "ID": "CURSE1HP",
@@ -22456,7 +22461,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 126330
+      "UsersEstimate": 126331
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -22496,7 +22501,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174002
+      "UsersEstimate": 174003
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -22560,7 +22565,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138248
+      "UsersEstimate": 138249
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -22568,7 +22573,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78658
+      "UsersEstimate": 78659
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -22776,7 +22781,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145399
+      "UsersEstimate": 145400
     },
     {
       "ID": "KILL1000",
@@ -22872,7 +22877,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109645
+      "UsersEstimate": 109646
     },
     {
       "ID": "KILLPARANOIA",
@@ -22904,7 +22909,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109645
+      "UsersEstimate": 109646
     },
     {
       "ID": "KILLSPITTER",
@@ -22912,7 +22917,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 85809
+      "UsersEstimate": 85810
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -23024,7 +23029,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 154933
+      "UsersEstimate": 154934
     },
     {
       "ID": "PETRIFY50",
@@ -23040,7 +23045,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 38137
+      "UsersEstimate": 38138
     },
     {
       "ID": "POISON300",
@@ -23056,7 +23061,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78658
+      "UsersEstimate": 78659
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -23144,7 +23149,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 102494
+      "UsersEstimate": 102495
     },
     {
       "ID": "STEALTH100",
@@ -23351,7 +23356,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238359,
+      "Progressed": 238360,
       "Completed": 282
     }
   ],
@@ -23359,8 +23364,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-21T12:02:03.2524014+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:09:18.9497824+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:08:31.6519134+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.7378131+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:02:04.5314004+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:09:18.9500957+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:00:52.7059859+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:08:31.652241+00:00"
 }

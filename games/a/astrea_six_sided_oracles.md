@@ -21,19 +21,19 @@
 | Stellar Dismantler | 24.00% | ~15 |
 | Loyal Partner | 23.00% | ~14 |
 | Aquarian Champion | 23.00% | ~14 |
+| Heart Gate | 19.00% | ~12 |
 | Shard Spender | 19.00% | ~12 |
 | Star Killer | 19.00% | ~12 |
 | Astral Adventurer | 18.00% | ~11 |
-| Heart Gate | 18.00% | ~11 |
+| The Goddes Avatar | 18.00% | ~11 |
 | Astral Seeker | 16.00% | ~10 |
 | The Corruption Goddess | 16.00% | ~10 |
-| The Goddes Avatar | 16.00% | ~10 |
 | Favored by the Cosmos | 15.00% | ~9 |
 | Unbeatable | 15.00% | ~9 |
+| Heavy Purger | 11.00% | ~7 |
 | Wave Bender | 11.00% | ~7 |
 | Anomaly Control | 10.00% | ~6 |
 | Denying Destiny | 10.00% | ~6 |
-| Heavy Purger | 10.00% | ~6 |
 | Stellar Haste | 10.00% | ~6 |
 | Apian Hero | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
@@ -41,9 +41,9 @@
 | Sadistic Plan | 8.00% | ~5 |
 | The Chaos Artisan | 8.00% | ~5 |
 | The Dark Moon | 8.00% | ~5 |
+| The Distorted Sage | 8.00% | ~5 |
 | Behenian Hero | 8.00% | ~5 |
 | Artificer | 6.00% | ~4 |
-| The Distorted Sage | 6.00% | ~4 |
 | If I Had Failed... | 5.00% | ~3 |
 | Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |

@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1042,9 +1042,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 243
     },
     {
       "ID": "ENDING_6",
@@ -1106,9 +1106,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1138,9 +1138,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 227
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1163,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-22T14:05:52.242602+00:00",
+  "LastChanged_Achievements": "2023-10-22T15:05:20.3072927+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-22T14:00:54.0544474+00:00",
-  "LastUpdate_Achievements": "2023-10-22T14:05:52.2426286+00:00"
+  "LastUpdate_Ratings": "2023-10-22T15:00:25.2418073+00:00",
+  "LastUpdate_Achievements": "2023-10-22T15:05:20.3073285+00:00"
 }

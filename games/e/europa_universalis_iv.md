@@ -6,23 +6,23 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,485 |
-| Until death do us apart | 4.00% | ~17,485 |
-| Victorious! | 4.00% | ~17,485 |
-| That is mine! | 3.00% | ~13,114 |
-| Brothers in Arms | 2.00% | ~8,742 |
-| Cold War | 2.00% | ~8,742 |
-| For the Glory | 2.00% | ~8,742 |
-| That's a Grand Navy | 2.00% | ~8,742 |
-| Seriously?! | 2.00% | ~8,742 |
-| Defender of the Faith | 1.00% | ~4,371 |
-| It's all about luck | 1.00% | ~4,371 |
-| It's all about the money | 1.00% | ~4,371 |
-| Respected | 1.00% | ~4,371 |
-| The Princess is in this Castle | 1.00% | ~4,371 |
-| True Catholic | 1.00% | ~4,371 |
-| Truly Divine Ruler | 1.00% | ~4,371 |
-| Blockader | 0.80% | ~3,497 |
+| That's a Grand Army | 4.00% | ~17,487 |
+| Until death do us apart | 4.00% | ~17,487 |
+| Victorious! | 4.00% | ~17,487 |
+| That is mine! | 3.00% | ~13,115 |
+| Brothers in Arms | 2.00% | ~8,743 |
+| Cold War | 2.00% | ~8,743 |
+| For the Glory | 2.00% | ~8,743 |
+| That's a Grand Navy | 2.00% | ~8,743 |
+| Seriously?! | 2.00% | ~8,743 |
+| Defender of the Faith | 1.00% | ~4,372 |
+| It's all about luck | 1.00% | ~4,372 |
+| It's all about the money | 1.00% | ~4,372 |
+| Respected | 1.00% | ~4,372 |
+| The Princess is in this Castle | 1.00% | ~4,372 |
+| True Catholic | 1.00% | ~4,372 |
+| Truly Divine Ruler | 1.00% | ~4,372 |
+| Blockader | 0.90% | ~3,935 |
 | Double the Love | 0.80% | ~3,497 |
 | Royal Authority | 0.80% | ~3,497 |
 | Total Control | 0.80% | ~3,497 |
@@ -32,20 +32,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,186 |
 | Combined Arms | 0.50% | ~2,186 |
 | This navy can take it all | 0.50% | ~2,186 |
-| Bright Spark | 0.40% | ~1,748 |
-| The Emperors new clothes | 0.40% | ~1,748 |
-| Factionalism | 0.40% | ~1,748 |
-| Gentle Persuasion | 0.40% | ~1,748 |
-| Isn't this the way to India? | 0.40% | ~1,748 |
-| Queen of Conquest | 0.40% | ~1,748 |
-| The Five Colonies | 0.40% | ~1,748 |
-| Trustworthy | 0.40% | ~1,748 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,311 |
-| Down Under | 0.30% | ~1,311 |
-| Electable! | 0.30% | ~1,311 |
-| A Golden Empire | 0.30% | ~1,311 |
-| Market Control | 0.30% | ~1,311 |
-| Populists in Government | 0.30% | ~1,311 |
+| Bright Spark | 0.40% | ~1,749 |
+| The Emperors new clothes | 0.40% | ~1,749 |
+| Factionalism | 0.40% | ~1,749 |
+| Gentle Persuasion | 0.40% | ~1,749 |
+| Isn't this the way to India? | 0.40% | ~1,749 |
+| Queen of Conquest | 0.40% | ~1,749 |
+| The Five Colonies | 0.40% | ~1,749 |
+| Trustworthy | 0.40% | ~1,749 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,312 |
+| Down Under | 0.30% | ~1,312 |
+| Electable! | 0.30% | ~1,312 |
+| A Golden Empire | 0.30% | ~1,312 |
+| Market Control | 0.30% | ~1,312 |
+| Populists in Government | 0.30% | ~1,312 |
 | Absolutely | 0.20% | ~874 |
 | All belongs to Mother Russia | 0.20% | ~874 |
 | At every continent | 0.20% | ~874 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,121 (Ranked 40)  
+Progressed: 437,169 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,17 +546,17 @@ Completed: 1 (0.00%) (Ranked 319)
 | 2023-10-19 | 434,645 | 1 |
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
-| 2023-10-22 | 437,121 | 1 |
+| 2023-10-22 | 437,169 | 1 |
 ## Awards
 Max (Educational): 6,632  (Ranked 55)  
-Sum: 54,470 (Ranked 24)  
+Sum: 54,494 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,632 |
-| This game is Highly Recommended | 6,318 |
+| This game is Highly Recommended | 6,330 |
 | This game has Diverse Characters | 6,298 |
-| This game has Challenging Combat | 6,261 |
+| This game has Challenging Combat | 6,273 |
 | This game is Extremely Fun | 6,242 |
 | This game is Relaxing | 6,104 |
 | This game has Competitive Players | 5,953 |
@@ -844,4 +844,4 @@ Diff (max vs sum): 31
 | 2023-10-19 | 4.69 | - | 6,587 | 54,183 |
 | 2023-10-20 | 4.69 | - | 6,599 | 54,294 |
 | 2023-10-21 | 4.69 | - | 6,618 | 54,423 |
-| 2023-10-22 | 4.69 | - | 6,632 | 54,470 |
+| 2023-10-22 | 4.69 | - | 6,632 | 54,494 |

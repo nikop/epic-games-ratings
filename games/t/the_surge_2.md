@@ -35,8 +35,8 @@ Rating: 4.24 (Ranked 861)
 | What A Catchy Song | 13.00% | ~272 |
 | Corrupted Beauty | 12.00% | ~251 |
 | Marked For Success | 12.00% | ~251 |
+| Triplets | 11.00% | ~230 |
 | Stimulating The Local Economy | 10.00% | ~209 |
-| Triplets | 10.00% | ~209 |
 | Denying Prophecy | 9.00% | ~188 |
 | Defense in Depth | 9.00% | ~188 |
 | A Little Banged Up | 8.00% | ~167 |
