@@ -35,6 +35,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.20% | ~1,432 |
 | Kung-Fu Tussle | 0.20% | ~1,432 |
 | Bloody Sport | 0.20% | ~50 |
+| The best strikes are the ones we avoid | 0.20% | ~50 |
 | Tiger on Fire | 0.10% | ~716 |
 | Source of Flying Daggers | 0.10% | ~716 |
 | Iron Money | 0.10% | ~716 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.10% | ~716 |
 | Deadly Venom | 0.10% | ~25 |
 | Secure, Protect, Leave | 0.10% | ~25 |
-| The best strikes are the ones we avoid | 0.10% | ~25 |
 | A Touch of Acumen | 0.10% | ~25 |
 | Crouching Tiger | 0.10% | ~25 |
 | Hidden Dragon | 0.10% | ~25 |
@@ -254,15 +254,15 @@ Completed: 12,925 (1.81%) (Ranked 117)
 | 2023-10-21 | 715,835 | 12,925 |
 | 2023-10-22 | 715,851 | 12,925 |
 ## Awards
-Max (Great Boss Battles): 6,710  (Ranked 53)  
-Sum: 11,665 (Ranked 82)  
+Max (Great Boss Battles): 6,720  (Ranked 53)  
+Sum: 11,676 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,710 |
+| This game has Great Boss Battles | 6,720 |
 | This game has Diverse Characters | 633 |
 | This game has Challenging Combat | 586 |
-| This game has Amazing Storytelling | 570 |
+| This game has Amazing Storytelling | 571 |
 | This game has Quickly Understood Controls | 561 |
 | This game is Extremely Fun | 559 |
 | This game has Amazing Characters | 556 |
@@ -552,4 +552,4 @@ Diff (max vs sum): -29
 | 2023-10-19 | 4.82 | - | 6,704 | 11,644 |
 | 2023-10-20 | 4.82 | - | 6,710 | 11,656 |
 | 2023-10-21 | 4.82 | - | 6,710 | 11,662 |
-| 2023-10-22 | 4.82 | - | 6,710 | 11,665 |
+| 2023-10-22 | 4.82 | - | 6,720 | 11,676 |

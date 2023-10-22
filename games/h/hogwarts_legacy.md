@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 121)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,802 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,803 |
 | First Class Student | 14.00% | ~41,816 |
 | Troll with the Punches | 13.00% | ~38,829 |
 | A Keen Sense of Spell | 12.00% | ~35,842 |
@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 121)
 | The Hero of Hogwarts | 10.00% | ~29,868 |
 | Challenge Accepted | 10.00% | ~29,868 |
 | Followed the Butterflies | 10.00% | ~29,868 |
-| The Spell Master | 9.00% | ~26,881 |
-| Rising From the Ashes | 9.00% | ~26,881 |
+| The Spell Master | 9.00% | ~26,882 |
+| Rising From the Ashes | 9.00% | ~26,882 |
 | The Avenging Gazelle | 8.00% | ~23,895 |
 | Beast Friends | 8.00% | ~23,895 |
 | A Sallow Grave | 8.00% | ~23,895 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 121)
 | Room with a View | 4.00% | ~11,947 |
 | The Intrepid Explorer | 4.00% | ~11,947 |
 | The Wise Owl | 4.00% | ~11,947 |
-| Put Down Roots | 3.00% | ~8,960 |
-| The Auror's Apprentice | 3.00% | ~8,960 |
-| Floo Around the World | 3.00% | ~8,960 |
+| Put Down Roots | 3.00% | ~8,961 |
+| The Auror's Apprentice | 3.00% | ~8,961 |
+| Floo Around the World | 3.00% | ~8,961 |
 | The Good Samaritan | 2.00% | ~5,974 |
 | Rise to the Challenges | 2.00% | ~5,974 |
 | Finishing Touches | 2.00% | ~5,974 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,683 (Ranked 47)  
+Progressed: 298,684 (Ranked 47)  
 Completed: 491 (0.16%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,19 +236,19 @@ Completed: 491 (0.16%) (Ranked 235)
 | 2023-10-19 | 298,586 | 489 |
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
-| 2023-10-22 | 298,683 | 491 |
+| 2023-10-22 | 298,684 | 491 |
 ## Awards
 Max (Character Customization): 23,719  (Ranked 17)  
-Sum: 46,376 (Ranked 30)  
+Sum: 46,406 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,719 |
-| This game has Great Boss Battles | 11,859 |
+| This game has Great Boss Battles | 11,887 |
 | This game is Great for Beginners | 1,205 |
 | This game has Amazing Storytelling | 1,173 |
 | This game has Diverse Characters | 1,164 |
-| This game is Extremely Fun | 1,154 |
+| This game is Extremely Fun | 1,156 |
 | This game is Relaxing | 1,154 |
 | This game has Amazing Characters | 1,125 |
 | This game is Highly Recommended | 1,091 |
@@ -470,4 +470,4 @@ Diff (max vs sum): -13
 | 2023-10-19 | 4.76 | 23,644 | 46,213 |
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
-| 2023-10-22 | 4.76 | 23,719 | 46,376 |
+| 2023-10-22 | 4.76 | 23,719 | 46,406 |

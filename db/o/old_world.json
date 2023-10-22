@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1932,9 +1932,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14868,
+  "EOS_Progressed": 14869,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14452,6 +14452,11 @@
       "Time": "2023-10-22T08:10:20.9284175+00:00",
       "NumProgressed": 14868,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-22T11:09:36.0098157+00:00",
+      "NumProgressed": 14869,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15205,9 +15210,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -15317,9 +15322,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -15445,9 +15450,9 @@
       "ID": "ACHIEVEMENT_GREECE1_WIN",
       "SetID": "9201eeb",
       "Name": "Nenikekamen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
@@ -15925,9 +15930,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -16533,9 +16538,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -17198,21 +17203,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14868,
+      "Progressed": 14869,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14868,
+      "Progressed": 14869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-22T09:59:37.3953785+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:09:16.653233+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:09:36.0098152+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:59:37.3953791+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:09:16.654536+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:59:28.8792785+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:09:36.0110897+00:00"
 }

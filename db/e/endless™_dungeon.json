@@ -2,7 +2,7 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 107,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 509,
+  "EOS_Progressed": 515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -238,6 +238,11 @@
       "Time": "2023-10-22T10:05:35.5255406+00:00",
       "NumProgressed": 509,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T11:05:30.4483802+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -282,7 +287,7 @@
       "Name": "Blobmeister",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -306,7 +311,7 @@
       "Name": "Pest Control",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -314,7 +319,7 @@
       "Name": "Team Builder",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -322,7 +327,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -330,23 +335,23 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 108
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -354,7 +359,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -362,7 +367,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -394,7 +399,7 @@
       "Name": "Hoarder",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -448,9 +453,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -489,13 +494,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 509,
+      "Progressed": 515,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:05:35.5255403+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:05:30.4483797+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:58:18.5247257+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:05:35.5255635+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:16.303625+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:05:30.4484024+00:00"
 }

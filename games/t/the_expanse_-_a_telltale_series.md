@@ -29,14 +29,14 @@ Rating: 4.59 (Ranked 420)
 | No Belter Left Behind | 1.00% | ~142 |
 | Data Master | 1.00% | ~142 |
 | Debris Spree | 0.80% | ~114 |
-| Data Recoverer | 0.70% | ~100 |
+| Data Recoverer | 0.80% | ~114 |
 | Urshanabi Hoarder | 0.50% | ~71 |
 | Grave Robber | 0.40% | ~57 |
 | Data Miner | 0.30% | ~43 |
 | Scavenger Star | 0.20% | ~28 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,222 (Ranked 140)  
+Progressed: 14,224 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 27 (0.19%) (Ranked 227)
 | 2023-10-19 | 14,126 | 26 |
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
-| 2023-10-22 | 14,222 | 27 |
+| 2023-10-22 | 14,224 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

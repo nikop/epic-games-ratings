@@ -1,12 +1,12 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 594)  
+Rating: 4.49 (Ranked 595)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 24.00% | ~1,048 |
+| Faceroll the Bones | 24.00% | ~1,049 |
 | Hit 'Em Where It Hurts | 23.00% | ~1,005 |
 | That'll Leave a Mark | 23.00% | ~1,005 |
 | Debuff Dogpile | 22.00% | ~961 |
@@ -19,7 +19,7 @@ Number of Ratings: 285  (23.09.2022)
 | Everything Must Go! | 14.00% | ~612 |
 | Next Time on MythForce... | 13.00% | ~568 |
 | Cold-Blooded Critters | 10.00% | ~437 |
-| Death Becomes You | 8.00% | ~349 |
+| Death Becomes You | 8.00% | ~350 |
 | Flawless Victory | 6.00% | ~262 |
 | The Harder They Fall | 6.00% | ~262 |
 | On this Episode! | 6.00% | ~262 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~17 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,368 (Ranked 178)  
+Progressed: 4,369 (Ranked 178)  
 Completed: 3 (0.07%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 3 (0.07%) (Ranked 265)
 | 2023-10-19 | 4,275 | 3 |
 | 2023-10-20 | 4,307 | 3 |
 | 2023-10-21 | 4,351 | 3 |
-| 2023-10-22 | 4,368 | 3 |
+| 2023-10-22 | 4,369 | 3 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 464)  
 Sum: 284 (Ranked 359)  

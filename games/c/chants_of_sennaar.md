@@ -9,10 +9,10 @@
 | The great escape | 14.00% | ~44 |
 | The Preacher's fate | 12.00% | ~38 |
 | A new dawn | 12.00% | ~38 |
-| True G3M4R | 11.00% | ~34 |
-| Scholar | 11.00% | ~34 |
-| The darkness | 11.00% | ~34 |
-| One last step | 11.00% | ~34 |
+| True G3M4R | 11.00% | ~35 |
+| Scholar | 11.00% | ~35 |
+| The darkness | 11.00% | ~35 |
+| One last step | 11.00% | ~35 |
 | I did it | 10.00% | ~31 |
 | Peace walker | 10.00% | ~31 |
 | Cable guy | 10.00% | ~31 |
@@ -30,8 +30,8 @@
 | For its own good | 4.00% | ~13 |
 | Fashion victim | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 313 (Ranked 316)  
-Completed: 21 (6.71%) (Ranked 51)  
+Progressed: 314 (Ranked 315)  
+Completed: 21 (6.69%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,4 +124,4 @@ Completed: 21 (6.71%) (Ranked 51)
 | 2023-10-19 | 306 | 20 |
 | 2023-10-20 | 310 | 20 |
 | 2023-10-21 | 312 | 21 |
-| 2023-10-22 | 313 | 21 |
+| 2023-10-22 | 314 | 21 |

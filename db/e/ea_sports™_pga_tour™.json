@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -1345,6 +1345,11 @@
       "Time": "2023-10-22T09:06:07.7192018+00:00",
       "NumProgressed": 423,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-22T11:05:43.5244127+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1365,7 +1370,7 @@
       "Name": "Holey Moley",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "achievement_11",
@@ -1373,15 +1378,15 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_13",
@@ -1413,7 +1418,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_17",
@@ -1421,7 +1426,7 @@
       "Name": "Clean Sheet",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_18",
@@ -1467,9 +1472,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_7",
@@ -1477,7 +1482,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_8",
@@ -1485,7 +1490,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 62,
       "XP": 35,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_9",
@@ -1500,13 +1505,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:05:48.7929563+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:05:43.5244122+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.5119154+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:03:05.9118711+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:05:48.7929775+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:57:13.6074126+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:05:43.524438+00:00"
 }

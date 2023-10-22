@@ -7069,18 +7069,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11665,
       "NumberOfAwardsMax": 6710
+    },
+    {
+      "Time": "2023-10-22T10:59:47.8571835+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11676,
+      "NumberOfAwardsMax": 6720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11665,
-  "NumberOfAwardsMax": 6710,
+  "NumberOfAwards": 11676,
+  "NumberOfAwardsMax": 6720,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6710
+      "Count": 6720
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7098,7 +7104,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 570
+      "Count": 571
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23942,9 +23948,9 @@
       "ID": "49_Arena_GoldSurvival",
       "SetID": "14c2oii",
       "Name": "The best strikes are the ones we avoid",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 50
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -24051,9 +24057,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-22T01:47:07.6301646+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:06:16.0293211+00:00",
+  "LastChanged": "2023-10-22T10:59:47.8571834+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:06:09.4327549+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:59:53.0042943+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:06:16.0294735+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:59:47.857184+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:06:09.4329152+00:00"
 }

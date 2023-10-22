@@ -164,9 +164,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_BOSS_02",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:04:55.5624115+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:04:51.702292+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:59:03.8564557+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:04:55.5624443+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:58.4928155+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:04:51.7023238+00:00"
 }

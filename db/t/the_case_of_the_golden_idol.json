@@ -4,7 +4,7 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4,
+  "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -806,6 +806,11 @@
       "Time": "2023-10-14T17:05:58.4076319+00:00",
       "NumProgressed": 200,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-22T11:03:27.0313897+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -855,25 +860,25 @@
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "7",
@@ -887,17 +892,17 @@
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
@@ -927,9 +932,9 @@
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "15",
@@ -952,13 +957,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 109
     }
   ],
@@ -966,8 +971,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:03:33.4911596+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:03:27.0313892+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.3286286+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:00:03.0993407+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:03:33.491178+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:59:55.8235982+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:03:27.0314091+00:00"
 }

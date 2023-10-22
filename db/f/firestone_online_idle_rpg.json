@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2062,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6258,6 +6258,11 @@
       "Time": "2023-10-22T05:05:12.7277291+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T11:05:12.7676552+00:00",
+      "NumProgressed": 2062,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6477,7 +6482,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "gearenchanting",
@@ -6509,7 +6514,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "heroinspection",
@@ -6541,7 +6546,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "jewelenchanting",
@@ -6605,7 +6610,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "missionsdedication",
@@ -6789,7 +6794,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -6829,7 +6834,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "warmachinesarmy",
@@ -6861,14 +6866,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2062,
       "Completed": 2
     }
   ],
@@ -6876,8 +6881,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-22T09:58:52.0824136+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:05:17.0283022+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:05:12.7676547+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:58:52.0824146+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:05:17.028415+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:48.70815+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:05:12.7677834+00:00"
 }

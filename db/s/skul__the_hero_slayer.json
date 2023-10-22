@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1037,9 +1037,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 8240,
+  "EOS_Progressed": 8241,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5007,6 +5007,11 @@
       "Time": "2023-10-21T14:10:24.8453991+00:00",
       "NumProgressed": 8240,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-22T11:09:21.1724431+00:00",
+      "NumProgressed": 8241,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5042,7 +5047,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5066,7 +5071,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -5130,7 +5135,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "RookieWelcome",
@@ -5178,7 +5183,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7663
+      "UsersEstimate": 7664
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5209,15 +5214,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8240,
+      "Progressed": 8241,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-22T10:03:14.5662046+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:08:21.0250735+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:09:21.1724427+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:14.1215438+00:00",
-  "LastUpdate_Ratings": "2023-10-22T10:03:14.5662052+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:08:21.0251137+00:00"
+  "LastUpdate_Ratings": "2023-10-22T11:03:07.6514296+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:09:21.1724838+00:00"
 }

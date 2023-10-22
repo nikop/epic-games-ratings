@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 878,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 128,
@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19010,
+  "EOS_Progressed": 19011,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15066,6 +15066,11 @@
       "Time": "2023-10-22T10:03:21.0221006+00:00",
       "NumProgressed": 19010,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-22T11:03:14.747641+00:00",
+      "NumProgressed": 19011,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15077,7 +15082,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14828
+      "UsersEstimate": 14829
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -15133,7 +15138,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10075
+      "UsersEstimate": 10076
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -15181,22 +15186,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19010,
+      "Progressed": 19011,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-11T19:57:53.043932+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:03:21.0221002+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:03:14.7476406+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.6055871+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:57:54.1084235+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:03:21.0222098+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:57:52.3831552+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:03:14.7477707+00:00"
 }

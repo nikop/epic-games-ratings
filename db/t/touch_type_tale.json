@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3724,
+  "EOS_Progressed": 3725,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -4272,6 +4272,11 @@
       "Time": "2023-10-22T09:05:09.9076406+00:00",
       "NumProgressed": 3724,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-22T11:04:46.4275139+00:00",
+      "NumProgressed": 3725,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4299,7 +4304,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "bonus4",
@@ -4331,7 +4336,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "campaign10",
@@ -4419,7 +4424,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2831
     },
     {
       "ID": "campaign20",
@@ -4435,7 +4440,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "campaign4",
@@ -4443,7 +4448,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "campaign5",
@@ -4459,7 +4464,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "campaign7",
@@ -4491,7 +4496,7 @@
       "Name": "Do the Splits",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "scenario2",
@@ -4515,7 +4520,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "scenario5",
@@ -4546,7 +4551,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3724,
+      "Progressed": 3725,
       "Completed": 11
     }
   ],
@@ -4554,8 +4559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:04:50.0868585+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:04:46.4275135+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:58.9642707+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:58:30.0683481+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:04:50.0869099+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:28.0831472+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:04:46.4275651+00:00"
 }

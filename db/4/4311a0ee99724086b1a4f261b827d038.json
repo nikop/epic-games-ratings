@@ -399,18 +399,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-10-22T10:58:03.7867908+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 124,
+  "NumberOfAwards": 125,
   "NumberOfAwardsMax": 28,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
@@ -443,9 +449,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 227792,
+  "EOS_Progressed": 227811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10808,6 +10814,11 @@
       "Time": "2023-10-22T10:07:07.8668174+00:00",
       "NumProgressed": 227792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T11:08:18.7412183+00:00",
+      "NumProgressed": 227811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10876,7 +10887,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47836
+      "UsersEstimate": 47840
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10884,7 +10895,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20501
+      "UsersEstimate": 20503
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -10892,7 +10903,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11390
+      "UsersEstimate": 11391
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -11004,7 +11015,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29613
+      "UsersEstimate": 29615
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -11012,7 +11023,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15945
+      "UsersEstimate": 15947
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -11076,7 +11087,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56948
+      "UsersEstimate": 56953
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11091,16 +11102,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 227792,
+      "Progressed": 227811,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-20T13:03:09.4020943+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:07:07.866817+00:00",
+  "LastChanged": "2023-10-22T10:58:03.7867907+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:08:18.7412178+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:58:05.4328656+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:07:07.8669075+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:03.7867912+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:08:18.7413048+00:00"
 }

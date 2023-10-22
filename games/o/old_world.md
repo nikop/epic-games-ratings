@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 2.00% | ~297 |
 | Ishtar Gate | 2.00% | ~297 |
 | Oracle | 2.00% | ~297 |
+| Pyramids | 2.00% | ~297 |
 | Christianity | 2.00% | ~297 |
 | Judaism | 2.00% | ~297 |
 | Babylonian Paganism | 2.00% | ~297 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 1.00% | ~149 |
 | Musaeum | 1.00% | ~149 |
 | Necropolis | 1.00% | ~149 |
-| Pyramids | 1.00% | ~149 |
 | Learn to Play 1 | 1.00% | ~149 |
 | Learn to Play 2 | 1.00% | ~149 |
 | Manichaeism | 1.00% | ~149 |
@@ -96,9 +96,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.70% | ~104 |
 | Legalism | 0.70% | ~104 |
 | Redemption | 0.70% | ~104 |
+| Legionary | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
+| Hunters | 0.60% | ~89 |
 | Traders | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
 | Hagia Sophia | 0.60% | ~89 |
@@ -112,11 +114,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.60% | ~89 |
 | Revelation | 0.60% | ~89 |
 | Cimmerian Archer | 0.60% | ~89 |
-| Legionary | 0.60% | ~89 |
 | Phalangite | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~74 |
-| Hunters | 0.50% | ~74 |
 | Babylonia | 0.50% | ~74 |
 | Egypt | 0.50% | ~74 |
 | One True Faith | 0.50% | ~74 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Peacemaker | 0.30% | ~45 |
+| Glorious Difficulty | 0.30% | ~45 |
 | Old World Order | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
 | Cataphract Archer | 0.30% | ~45 |
@@ -157,11 +158,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Ancient | 0.20% | ~30 |
-| Glorious Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
 | Run, Pheidippides, Run! | 0.20% | ~30 |
+| Nenikekamen | 0.20% | ~30 |
 | Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
 | Persia | 0.20% | ~30 |
@@ -219,7 +220,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Battle of the Fertile Crescent | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
-| Nenikekamen | 0.10% | ~15 |
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
 | The Turning Point | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,868 (Ranked 139)  
+Progressed: 14,869 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,868 | 5 |
+| 2023-10-22 | 14,869 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 459)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,578 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,579 |
 | Mainframe Hacker | 23.00% | ~4,277 |
 | The Spy who eliminated me | 23.00% | ~4,277 |
 | Tomorrow Never Dyes | 22.00% | ~4,091 |
@@ -14,15 +14,15 @@ Rating: 4.57 (Ranked 459)
 | Tailor-Made | 18.00% | ~3,347 |
 | For your Eyes only | 18.00% | ~3,347 |
 | Assistant Accountant | 17.00% | ~3,161 |
-| You Only Live Twice | 16.00% | ~2,975 |
-| Fully Decked Out | 16.00% | ~2,975 |
-| A view to Win | 13.00% | ~2,417 |
-| Smells Like Trouble | 12.00% | ~2,231 |
-| The Living Portrait | 11.00% | ~2,045 |
-| My Motto, My Creed | 11.00% | ~2,045 |
-| Private Collection | 11.00% | ~2,045 |
-| Killer Looks | 11.00% | ~2,045 |
-| Hostile Takeover | 11.00% | ~2,045 |
+| You Only Live Twice | 16.00% | ~2,976 |
+| Fully Decked Out | 16.00% | ~2,976 |
+| A view to Win | 13.00% | ~2,418 |
+| Smells Like Trouble | 12.00% | ~2,232 |
+| The Living Portrait | 11.00% | ~2,046 |
+| My Motto, My Creed | 11.00% | ~2,046 |
+| Private Collection | 11.00% | ~2,046 |
+| Killer Looks | 11.00% | ~2,046 |
+| Hostile Takeover | 11.00% | ~2,046 |
 | Keycards Royale | 10.00% | ~1,860 |
 | Dr. No Kill | 10.00% | ~1,860 |
 | In It to Win It | 9.00% | ~1,674 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 459)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,595 (Ranked 130)  
+Progressed: 18,597 (Ranked 130)  
 Completed: 4 (0.02%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 4 (0.02%) (Ranked 291)
 | 2023-10-19 | 18,507 | 4 |
 | 2023-10-20 | 18,544 | 4 |
 | 2023-10-21 | 18,588 | 4 |
-| 2023-10-22 | 18,595 | 4 |
+| 2023-10-22 | 18,597 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

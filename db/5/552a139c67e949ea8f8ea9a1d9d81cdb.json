@@ -521,17 +521,17 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -728,8 +728,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-22T10:03:27.1932202+00:00",
+  "LastChanged_Achievements": "2023-10-22T11:03:20.8205893+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-22T09:59:00.0718696+00:00",
-  "LastUpdate_Achievements": "2023-10-22T10:03:27.1932623+00:00"
+  "LastUpdate_Ratings": "2023-10-22T10:58:55.513847+00:00",
+  "LastUpdate_Achievements": "2023-10-22T11:03:20.8206313+00:00"
 }

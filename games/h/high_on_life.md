@@ -20,10 +20,10 @@ Rating: 4.65 (Ranked 305)
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
 | Lezduit! | 0.90% | ~219 |
 | Self-Actualization | 0.90% | ~219 |
+| Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Spent 15 Hours At The Alien Strip Club | 0.90% | ~219 |
 | Bathe With A Giant Nude Alien | 0.90% | ~14 |
 | Legendary Bounty Hunter | 0.80% | ~194 |
-| Fallout Doesn't Let You Do This | 0.80% | ~194 |
 | Series Wrap on Suit-O | 0.80% | ~194 |
 | We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
 | Eatin' Good in the Neighborhood | 0.60% | ~146 |
