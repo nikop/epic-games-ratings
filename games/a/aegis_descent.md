@@ -12,7 +12,7 @@
 | What-A-Shot | 45.00% | ~185 |
 | Batteries Included | 39.00% | ~161 |
 | Death from Above | 35.00% | ~144 |
-| Hull King | 26.00% | ~107 |
+| Hull King | 27.00% | ~111 |
 | Boss Down | 20.00% | ~82 |
 | Extra Ammo | 20.00% | ~82 |
 | Splash Damage | 20.00% | ~82 |

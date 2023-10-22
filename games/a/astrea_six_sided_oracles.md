@@ -16,9 +16,9 @@
 | Sanctuary Guardian | 29.00% | ~18 |
 | Wild's Keeper | 29.00% | ~18 |
 | Mind Illuminator | 27.00% | ~17 |
+| Behenian Champion | 26.00% | ~16 |
 | Anomaly Destroyer | 24.00% | ~15 |
 | Stellar Dismantler | 24.00% | ~15 |
-| Behenian Champion | 24.00% | ~15 |
 | Loyal Partner | 23.00% | ~14 |
 | Aquarian Champion | 21.00% | ~13 |
 | Shard Spender | 19.00% | ~12 |

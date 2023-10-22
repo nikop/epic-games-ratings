@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 306)  
+Rating: 4.65 (Ranked 305)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 306)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,301 (Ranked 122)  
+Progressed: 24,302 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 13 (0.05%) (Ranked 276)
 | 2023-10-19 | 24,259 | 13 |
 | 2023-10-20 | 24,273 | 13 |
 | 2023-10-21 | 24,294 | 13 |
-| 2023-10-22 | 24,301 | 13 |
+| 2023-10-22 | 24,302 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,7 +15,7 @@
 | Collector | 29.00% | ~103 |
 | That’s What Friends Are For | 22.00% | ~78 |
 | Blow ‘Em Up | 22.00% | ~78 |
-| Poker-Man | 20.00% | ~71 |
+| Poker-Man | 21.00% | ~75 |
 | FOR THE GAUNTLET! | 20.00% | ~71 |
 | Untapped Potential | 17.00% | ~61 |
 | Played by Gramps | 14.00% | ~50 |
@@ -23,9 +23,9 @@
 | I Choo-Choo-Choose You | 12.00% | ~43 |
 | My Savior! | 12.00% | ~43 |
 | Totally Swamped | 11.00% | ~39 |
+| Is Anyone Out There? | 11.00% | ~39 |
 | Limitless | 10.00% | ~36 |
 | Hammer Time | 10.00% | ~36 |
-| Is Anyone Out There? | 10.00% | ~36 |
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |

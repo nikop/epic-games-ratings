@@ -13958,7 +13958,7 @@
       "Count": 11123
     }
   ],
-  "EOS_Progressed": 893217,
+  "EOS_Progressed": 893227,
   "EOS_Completed": 2695,
   "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 32,
@@ -34878,6 +34878,11 @@
       "Time": "2023-10-22T07:05:55.5245485+00:00",
       "NumProgressed": 893217,
       "NumCompleted": 2695
+    },
+    {
+      "Time": "2023-10-22T08:06:17.277176+00:00",
+      "NumProgressed": 893227,
+      "NumCompleted": 2695
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35072,9 +35077,9 @@
       "ID": "Specialist",
       "SetID": "47clieb",
       "Name": "Ten out of Ten",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2680
+      "UsersEstimate": 3573
     },
     {
       "ID": "Temperance",
@@ -35120,9 +35125,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1786
+      "UsersEstimate": 2680
     },
     {
       "ID": "TheLovers",
@@ -35208,9 +35213,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1786
     },
     {
       "ID": "VForVendetta",
@@ -35409,21 +35414,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893217,
+      "Progressed": 893227,
       "Completed": 2695
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 21840,
+      "Progressed": 21850,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T05:59:35.5103249+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:05:55.5245481+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:06:17.2771755+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:14.6545709+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:05:55.5247229+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:59:34.6426469+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:06:17.277385+00:00"
 }

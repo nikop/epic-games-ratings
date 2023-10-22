@@ -33,8 +33,8 @@ Rating: 3.98 (Ranked 978)
 | Shroudfane Explorer | 9.00% | ~9 |
 | Armaments Gules | 8.00% | ~8 |
 | Scholar | 7.00% | ~7 |
+| Best Dressed | 7.00% | ~7 |
 | Armaments Azure | 7.00% | ~7 |
-| Best Dressed | 6.00% | ~6 |
 | Veteran | 6.00% | ~6 |
 | Kitted Out | 5.00% | ~5 |
 | Armaments Vert | 5.00% | ~5 |
@@ -46,12 +46,12 @@ Rating: 3.98 (Ranked 978)
 | Backtracker | 3.00% | ~3 |
 | Grand Magnus | 2.00% | ~2 |
 | Tip of the Spear | 2.00% | ~2 |
+| Fowl Play | 2.00% | ~2 |
 | Family Business | 1.00% | ~1 |
 | Diplomat | 1.00% | ~1 |
 | Petite Bourgeoisie | 1.00% | ~1 |
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
-| Fowl Play | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 95 (Ranked 401)  
 Completed: 1 (1.05%) (Ranked 141)  

@@ -1189,9 +1189,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 153845,
+  "EOS_Progressed": 153861,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1554,
+  "EOS_NewPlayers": 1558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12574,6 +12574,11 @@
       "Time": "2023-10-22T07:07:20.6155591+00:00",
       "NumProgressed": 153845,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T08:07:52.4598383+00:00",
+      "NumProgressed": 153861,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12655,9 +12660,9 @@
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1538
+      "UsersEstimate": 3077
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -12785,7 +12790,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -12952,21 +12957,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153428,
+      "Progressed": 153444,
       "Completed": 1168
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 153845,
+      "Progressed": 153861,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T05:59:17.2520105+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:07:20.6155586+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:07:52.4598375+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:58:58.5470973+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:07:20.615663+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:59:15.2538632+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:07:52.4600266+00:00"
 }

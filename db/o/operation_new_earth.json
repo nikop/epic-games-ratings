@@ -5,9 +5,9 @@
   "Ranking_Rating": 1020,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
+  "EOS_Progressed": 1646,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6114,6 +6114,11 @@
       "Time": "2023-10-22T06:09:12.210087+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T08:09:11.8032328+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6205,7 +6210,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_headquarters_15",
@@ -6229,15 +6234,15 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 247
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6245,7 +6250,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6253,7 +6258,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6309,7 +6314,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6317,7 +6322,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6349,7 +6354,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6365,7 +6370,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6428,7 +6433,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1645,
+      "Progressed": 1646,
       "Completed": 1
     }
   ],
@@ -6436,8 +6441,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:09:11.3984462+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:09:11.8032323+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:58:30.4997669+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:09:11.3985091+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:58:42.2229116+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:09:11.8033026+00:00"
 }

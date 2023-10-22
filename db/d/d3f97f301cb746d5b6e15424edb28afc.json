@@ -1008,9 +1008,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -1359,8 +1359,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:06:40.4002613+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:07:06.5918758+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:01.0346306+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:58:38.6269155+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:06:40.4003557+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:58:51.7427192+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:07:06.5920273+00:00"
 }

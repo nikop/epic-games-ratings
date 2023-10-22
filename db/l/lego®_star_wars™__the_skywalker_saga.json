@@ -3479,9 +3479,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51869,
+  "EOS_Progressed": 51870,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -13144,6 +13144,11 @@
       "Time": "2023-10-22T04:04:39.8381654+00:00",
       "NumProgressed": 51869,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-22T08:06:09.1542797+00:00",
+      "NumProgressed": 51870,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 45,
@@ -13275,7 +13280,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24378
+      "UsersEstimate": 24379
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13291,7 +13296,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24897
+      "UsersEstimate": 24898
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -13299,7 +13304,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 19710
+      "UsersEstimate": 19711
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -13347,7 +13352,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29565
+      "UsersEstimate": 29566
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -13363,7 +13368,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -13411,7 +13416,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -13419,7 +13424,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50313
+      "UsersEstimate": 50314
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13459,7 +13464,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36827
+      "UsersEstimate": 36828
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -13491,7 +13496,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28009
+      "UsersEstimate": 28010
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13514,15 +13519,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51869,
+      "Progressed": 51870,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-20T22:57:35.0702987+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:05:48.7050401+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:06:09.1542792+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.1332855+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:57:57.2568498+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:05:48.7051331+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:58:03.9796257+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:06:09.1543955+00:00"
 }

@@ -161,10 +161,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97115,
+  "EOS_Progressed": 97116,
   "EOS_Completed": 4115,
-  "EOS_NewPlayers": 2691,
-  "EOS_NewCompleters": 331,
+  "EOS_NewPlayers": 2679,
+  "EOS_NewCompleters": 327,
   "EOS_Completed_Percentage": 4.24,
   "EosHistory": [
     {
@@ -4666,6 +4666,11 @@
       "Time": "2023-10-22T07:09:05.3927599+00:00",
       "NumProgressed": 97115,
       "NumCompleted": 4115
+    },
+    {
+      "Time": "2023-10-22T08:09:04.6632897+00:00",
+      "NumProgressed": 97116,
+      "NumCompleted": 4115
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -4678,7 +4683,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60211
+      "UsersEstimate": 60212
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -4710,7 +4715,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 52442
+      "UsersEstimate": 52443
     },
     {
       "ID": "ShipDip",
@@ -4726,7 +4731,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 72836
+      "UsersEstimate": 72837
     },
     {
       "ID": "TheGoldenRatio",
@@ -4773,7 +4778,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 97115,
+      "Progressed": 97116,
       "Completed": 4115
     }
   ],
@@ -4781,8 +4786,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-19T19:58:56.0723038+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:09:05.3927595+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:09:04.6632892+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.1265351+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:53.6582413+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:09:05.3927968+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:00:20.9020967+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:09:04.6633288+00:00"
 }

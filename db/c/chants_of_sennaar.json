@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.73,
+  "EOS_Completed_Percentage": 6.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1470,6 +1470,11 @@
       "Time": "2023-10-21T23:06:11.7189248+00:00",
       "NumProgressed": 312,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-22T08:07:54.045111+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 25,
@@ -1553,7 +1558,7 @@
       "Name": "A great audience",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1561,7 +1566,7 @@
       "Name": "For its own good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1601,7 +1606,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1657,7 +1662,7 @@
       "Name": "A new dawn",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PROGRESS_N4",
@@ -1680,14 +1685,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:07:21.9481633+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:07:54.0451105+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:00:47.1273051+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:07:21.9481887+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:01:25.241565+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:07:54.0451399+00:00"
 }

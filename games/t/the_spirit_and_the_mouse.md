@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 91.00% | ~69 |
-| Lightbulb Seeker | 88.00% | ~67 |
-| Grilled Mouse | 86.00% | ~65 |
-| Lightbulbs Collector | 78.00% | ~59 |
-| Energy Collector | 75.00% | ~57 |
+| Energy Seeker | 91.00% | ~70 |
+| Lightbulb Seeker | 88.00% | ~68 |
+| Grilled Mouse | 86.00% | ~66 |
+| Lightbulbs Collector | 78.00% | ~60 |
+| Energy Collector | 74.00% | ~57 |
 | East Street Energy | 51.00% | ~39 |
-| Lightbulbs Expert | 46.00% | ~35 |
-| Energy Expert | 45.00% | ~34 |
-| That's one way to travel | 45.00% | ~34 |
-| The Old Man and the Café | 41.00% | ~31 |
+| Lightbulbs Expert | 45.00% | ~35 |
+| Energy Expert | 44.00% | ~34 |
+| That's one way to travel | 44.00% | ~34 |
+| The Old Man and the Café | 40.00% | ~31 |
 | South Town Energy | 34.00% | ~26 |
-| Photogenic | 32.00% | ~24 |
+| Photogenic | 31.00% | ~24 |
 | North Town Energy | 29.00% | ~22 |
 | The Girl and the Homework | 29.00% | ~22 |
-| Lightbulb Detective | 28.00% | ~21 |
-| OK, I heard you!! | 28.00% | ~21 |
+| Lightbulb Detective | 27.00% | ~21 |
+| OK, I heard you!! | 27.00% | ~21 |
 | Unlimited Power!! | 25.00% | ~19 |
 | Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
-| South Square Lightbulbs | 20.00% | ~15 |
+| South Square Lightbulbs | 19.00% | ~15 |
 | The Ghost and the Lamps | 18.00% | ~14 |
 | The Woman and the Pizzeria | 18.00% | ~14 |
 | West Residence Energy | 17.00% | ~13 |
@@ -32,20 +32,20 @@
 | Riddle Master | 14.00% | ~11 |
 | At your service | 13.00% | ~10 |
 | East Street Lightbulbs | 12.00% | ~9 |
-| Out of service | 11.00% | ~8 |
+| Out of service | 10.00% | ~8 |
 | Lightbulb Master | 8.00% | ~6 |
 | North Town Lightbulbs | 8.00% | ~6 |
 | Deep Lore | 8.00% | ~6 |
 | The Garland and the Lightbulbs | 8.00% | ~6 |
-| The GA-DX | 7.00% | ~5 |
-| The Spirit and The Mouse | 7.00% | ~5 |
-| Fabulous! | 7.00% | ~5 |
-| Lightning fast | 7.00% | ~5 |
+| The GA-DX | 6.00% | ~5 |
+| The Spirit and The Mouse | 6.00% | ~5 |
+| Fabulous! | 6.00% | ~5 |
+| Lightning fast | 6.00% | ~5 |
 | The Woman and the Stars | 5.00% | ~4 |
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 419)  
+Progressed: 77 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,6 +56,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-07-15 | 73 | 0 |
 | 2023-07-24 | 75 | 0 |
 | 2023-09-15 | 76 | 0 |
+| 2023-10-22 | 77 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

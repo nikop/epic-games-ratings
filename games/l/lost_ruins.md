@@ -10,7 +10,7 @@
 | Boss Killer | 24.00% | ~109 |
 | The Fallen | 21.00% | ~95 |
 | Artifact Collector | 20.00% | ~91 |
-| Trap Master | 19.00% | ~86 |
+| Trap Master | 20.00% | ~91 |
 | Ghost Buster | 16.00% | ~72 |
 | Iconoclasm | 15.00% | ~68 |
 | Reincarnation | 15.00% | ~68 |

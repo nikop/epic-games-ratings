@@ -14,13 +14,13 @@ Rating: 4.53 (Ranked 527)
 | Chauffeur | 15.00% | ~1,598 |
 | Salutations My Little Friend | 11.00% | ~1,172 |
 | Iron-y | 10.00% | ~1,065 |
-| Gun for Hire | 9.00% | ~958 |
-| Mischief Managed | 9.00% | ~958 |
+| Gun for Hire | 9.00% | ~959 |
+| Mischief Managed | 9.00% | ~959 |
 | Vice City Mogul | 7.00% | ~746 |
 | Bloodstained Hands | 7.00% | ~746 |
 | Catch Me if You Can | 6.00% | ~639 |
-| Not my First Time | 5.00% | ~532 |
-| Grand Theft Auto | 5.00% | ~532 |
+| Not my First Time | 5.00% | ~533 |
+| Grand Theft Auto | 5.00% | ~533 |
 | High Quality H2O | 4.00% | ~426 |
 | Pie Guy | 4.00% | ~426 |
 | Running Rampant | 3.00% | ~320 |
@@ -33,14 +33,14 @@ Rating: 4.53 (Ranked 527)
 | One is Better Than Two | 2.00% | ~213 |
 | Take the Cannoli | 2.00% | ~213 |
 | Chopper’d Up | 2.00% | ~213 |
-| Born in the 80’s | 1.00% | ~106 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~106 |
-| I'm Famous! | 1.00% | ~106 |
-| Daredevil | 1.00% | ~106 |
+| Born in the 80’s | 1.00% | ~107 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~107 |
+| I'm Famous! | 1.00% | ~107 |
+| Daredevil | 1.00% | ~107 |
 | Done it All | 0.90% | ~96 |
 | Kingpin | 0.60% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,650 (Ranked 148)  
+Progressed: 10,651 (Ranked 148)  
 Completed: 61 (0.57%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 61 (0.57%) (Ranked 170)
 | 2023-10-19 | 10,634 | 60 |
 | 2023-10-20 | 10,643 | 60 |
 | 2023-10-21 | 10,650 | 60 |
-| 2023-10-22 | 10,650 | 61 |
+| 2023-10-22 | 10,651 | 61 |
 ## Awards
 Max (Great Boss Battles): 97  (Ranked 352)  
 Sum: 97 (Ranked 435)  

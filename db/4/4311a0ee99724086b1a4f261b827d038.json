@@ -443,7 +443,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 227760,
+  "EOS_Progressed": 227769,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 0,
@@ -10793,6 +10793,11 @@
       "Time": "2023-10-22T07:09:01.7320102+00:00",
       "NumProgressed": 227760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T08:08:50.5561913+00:00",
+      "NumProgressed": 227769,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10861,7 +10866,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47830
+      "UsersEstimate": 47831
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10869,7 +10874,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20498
+      "UsersEstimate": 20499
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -10885,7 +10890,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9110
+      "UsersEstimate": 9111
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -10989,7 +10994,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29609
+      "UsersEstimate": 29610
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -10997,7 +11002,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15943
+      "UsersEstimate": 15944
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -11061,7 +11066,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56940
+      "UsersEstimate": 56942
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11076,7 +11081,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 227760,
+      "Progressed": 227769,
       "Completed": 0
     }
   ],
@@ -11084,8 +11089,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-20T13:03:09.4020943+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:09:01.7320099+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:08:50.5561909+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:58:14.1820157+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:09:01.7320934+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:58:23.6763146+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:08:50.5562865+00:00"
 }

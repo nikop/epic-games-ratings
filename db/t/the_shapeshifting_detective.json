@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -280,6 +280,11 @@
       "Time": "2023-10-20T21:07:51.4833226+00:00",
       "NumProgressed": 205,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-22T08:08:13.1080429+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -291,7 +296,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "book_em_danny",
@@ -329,9 +334,9 @@
       "ID": "hashtag_winning",
       "SetID": "2db2j74",
       "Name": "Hashtag Winning",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "heavy_rayne",
@@ -371,7 +376,7 @@
       "Name": "Patient Listener",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "play_it_again_sam",
@@ -379,7 +384,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "play_me_by_the_hour",
@@ -387,7 +392,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "poetent",
@@ -403,7 +408,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "show_me_some_skin",
@@ -419,7 +424,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "the_big_sleep",
@@ -458,7 +463,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 2
     }
   ],
@@ -466,8 +471,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:07:38.5270806+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:08:13.1080422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.0977165+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:00:59.2374057+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:07:38.5270974+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:01:38.5671287+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:08:13.1080602+00:00"
 }

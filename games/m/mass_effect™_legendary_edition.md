@@ -24,7 +24,7 @@
 | Principled | 52.00% | ~401 |
 | Paramour I | 50.00% | ~386 |
 | Soldier Ally | 50.00% | ~386 |
-| Colonial Savior | 48.00% | ~371 |
+| Colonial Savior | 49.00% | ~378 |
 | Scientist | 48.00% | ~371 |
 | Merciless | 47.00% | ~363 |
 | Krogan Ally | 45.00% | ~347 |
@@ -33,8 +33,8 @@
 | Very Elusive | 44.00% | ~340 |
 | Head Hunter | 44.00% | ~340 |
 | Scholar | 43.00% | ~332 |
+| Veteran | 42.00% | ~324 |
 | Operative | 42.00% | ~324 |
-| Veteran | 41.00% | ~317 |
 | Power Full | 41.00% | ~317 |
 | The Professor | 40.00% | ~309 |
 | The Archangel | 39.00% | ~301 |
@@ -48,10 +48,10 @@
 | Ghost Ship | 34.00% | ~262 |
 | A Personal Touch | 33.00% | ~255 |
 | The Assassin | 33.00% | ~255 |
+| The Justicar | 33.00% | ~255 |
 | The Quarian | 33.00% | ~255 |
 | Ghost of the Father | 33.00% | ~255 |
 | The Prodigal | 33.00% | ~255 |
-| The Justicar | 32.00% | ~247 |
 | Battlemaster | 32.00% | ~247 |
 | The Cure | 32.00% | ~247 |
 | Big Game Hunter | 32.00% | ~247 |
@@ -81,9 +81,9 @@
 | World Shaker | 26.00% | ~201 |
 | Weapon Specialist | 25.00% | ~193 |
 | Liberator | 25.00% | ~193 |
+| Pathfinder | 24.00% | ~185 |
 | Tunnel Rat | 24.00% | ~185 |
 | Savior | 23.00% | ~178 |
-| Pathfinder | 23.00% | ~178 |
 | Arbiter | 23.00% | ~178 |
 | Lost and Found | 23.00% | ~178 |
 | Paramour II | 22.00% | ~170 |

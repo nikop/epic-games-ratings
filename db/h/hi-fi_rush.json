@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4161,
+  "EOS_Progressed": 4163,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7068,6 +7068,11 @@
       "Time": "2023-10-22T01:53:07.6788597+00:00",
       "NumProgressed": 4161,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-22T08:07:04.5458891+00:00",
+      "NumProgressed": 4163,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7191,7 +7196,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Ach016",
@@ -7215,7 +7220,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach019",
@@ -7253,9 +7258,9 @@
       "ID": "Ach023",
       "SetID": "12n4k20",
       "Name": "Feeling the beat!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 624
     },
     {
       "ID": "Ach024",
@@ -7263,7 +7268,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Ach025",
@@ -7271,7 +7276,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "Ach026",
@@ -7359,7 +7364,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach037",
@@ -7431,7 +7436,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Ach046",
@@ -7646,13 +7651,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4161,
+      "Progressed": 4163,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2682,
+      "Progressed": 2684,
       "Completed": 1930
     }
   ],
@@ -7660,8 +7665,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:06:38.0933545+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:07:04.5458886+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-22T07:00:07.7469928+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:06:38.0934709+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:00:37.6936762+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:07:04.5460165+00:00"
 }

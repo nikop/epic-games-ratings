@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 306)  
+Rating: 4.65 (Ranked 305)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.50% | ~74 |
 | Poetic Leader | 0.50% | ~74 |
 | Kmt Unified | 0.50% | ~74 |
+| Ishtar Gate in Babylon | 0.40% | ~59 |
 | Devout | 0.40% | ~59 |
 | Noble Difficulty | 0.40% | ~59 |
 | Clerics | 0.40% | ~59 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.40% | ~59 |
 | Beja Archer | 0.40% | ~59 |
 | Bad Heir Day | 0.30% | ~45 |
-| Ishtar Gate in Babylon | 0.30% | ~45 |
 | Carthage - Ox Hide | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Peacemaker | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,867 (Ranked 139)  
+Progressed: 14,868 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 5 (0.03%) (Ranked 286)
 | 2023-10-19 | 14,805 | 5 |
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
-| 2023-10-22 | 14,867 | 5 |
+| 2023-10-22 | 14,868 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,852 (Ranked 211)  

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 791,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -2174,6 +2174,11 @@
       "Time": "2023-10-22T07:09:08.4060266+00:00",
       "NumProgressed": 790,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-22T08:09:08.1156585+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2258,7 +2263,7 @@
       "Name": "The power of the Force",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_19",
@@ -2282,7 +2287,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_21",
@@ -2330,7 +2335,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_27",
@@ -2376,9 +2381,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_32",
@@ -2410,7 +2415,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_36",
@@ -2424,9 +2429,9 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_38",
@@ -2689,13 +2694,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 1
     }
   ],
@@ -2703,8 +2708,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:09:08.4060262+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:09:08.115658+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:49.4919635+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:09:08.4061054+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:00:16.6205191+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:09:08.1157601+00:00"
 }

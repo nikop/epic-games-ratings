@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 475,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "23",
@@ -454,8 +454,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:06:34.7359088+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:07:02.2433867+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:26.6798869+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:42.7634726+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:06:34.7359362+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:00:08.8558806+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:07:02.243411+00:00"
 }

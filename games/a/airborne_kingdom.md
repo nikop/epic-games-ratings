@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 306)  
+Rating: 4.65 (Ranked 305)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 74  (23.09.2022)
 | Daylight Found | 26.00% | ~1,919 |
 | Irons Scorched | 25.00% | ~1,846 |
 | Islands Connected | 25.00% | ~1,846 |
-| Harp Tuned | 23.00% | ~1,698 |
+| Harp Tuned | 24.00% | ~1,772 |
 | Pyre Ignited | 23.00% | ~1,698 |
 | Travelers Returned | 23.00% | ~1,698 |
 | Hopes Hoisted | 22.00% | ~1,624 |

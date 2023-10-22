@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 957,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -363,6 +363,12 @@
     {
       "Time": "2023-10-21T02:58:51.4211074+00:00",
       "Rating": 4.06,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-10-22T07:59:29.8559418+00:00",
+      "Rating": 4.08,
       "NumberOfAwards": 74,
       "NumberOfAwardsMax": 28
     }
@@ -6759,9 +6765,9 @@
       "ID": "theunstoppable",
       "SetID": "3nl4bcg",
       "Name": "The Unstoppable",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 309
     },
     {
       "ID": "titanpower",
@@ -6863,9 +6869,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-10-21T02:58:51.4211072+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:05:54.6478692+00:00",
+  "LastChanged": "2023-10-22T07:59:29.8559416+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:06:16.0843115+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:10.6083651+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:05:54.647984+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:59:29.8559422+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:06:16.0844332+00:00"
 }

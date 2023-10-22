@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.06 (Ranked 957)  
+Rating: 4.08 (Ranked 950)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,11 +22,11 @@ Rating: 4.06 (Ranked 957)
 | Enlightenment | 16.00% | ~330 |
 | Hero inspection | 15.00% | ~309 |
 | Lieutenant | 15.00% | ~309 |
+| The Unstoppable | 15.00% | ~309 |
 | Milestone collector | 14.00% | ~289 |
 | Mysterious Rock | 14.00% | ~289 |
 | Natural Talent | 14.00% | ~289 |
 | Superior | 14.00% | ~289 |
-| The Unstoppable | 14.00% | ~289 |
 | Scientist | 13.00% | ~268 |
 | Hunter | 12.00% | ~247 |
 | The power of Awakening | 12.00% | ~247 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 35
 | 2023-10-16 | 4.06 | 27 | 72 |
 | 2023-10-18 | 4.06 | 28 | 73 |
 | 2023-10-21 | 4.06 | 28 | 74 |
+| 2023-10-22 | 4.08 | 28 | 74 |

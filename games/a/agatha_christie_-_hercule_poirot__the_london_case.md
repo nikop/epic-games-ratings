@@ -25,30 +25,30 @@
 | Ms. Camilla B. Culsham | 18.00% | ~4 |
 | Irene Court-Smyth | 18.00% | ~4 |
 | The Apartment | 18.00% | ~4 |
+| Well-acquainted | 14.00% | ~3 |
+| Truth from within | 14.00% | ~3 |
 | A rude awakening | 14.00% | ~3 |
+| Anastasia Babanin | 14.00% | ~3 |
 | Nathaniel Dryden | 14.00% | ~3 |
-| Well-acquainted | 9.00% | ~2 |
-| Truth from within | 9.00% | ~2 |
-| Anastasia Babanin | 9.00% | ~2 |
-| Zakariya Demir | 9.00% | ~2 |
-| Bartholomew | 9.00% | ~2 |
-| The Scheme | 9.00% | ~2 |
-| A curious phrase | 5.00% | ~1 |
+| Zakariya Demir | 14.00% | ~3 |
+| Bartholomew | 14.00% | ~3 |
+| The Scheme | 14.00% | ~3 |
+| A curious phrase | 9.00% | ~2 |
+| Well-travelled | 5.00% | ~1 |
+| A peculiar fellow | 5.00% | ~1 |
+| Evelyn Lakshmi Warbeck | 5.00% | ~1 |
+| Horace Mountjoy | 5.00% | ~1 |
+| Johan Kristiansen | 5.00% | ~1 |
+| Mortimer Ailsworth | 5.00% | ~1 |
+| Perkins | 5.00% | ~1 |
+| The Suspects | 5.00% | ~1 |
+| The Secrets | 5.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
-| Well-travelled | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
 | A perilous journey | 0.00% | ~0 |
-| A peculiar fellow | 0.00% | ~0 |
 | The Penitent Magdalene | 0.00% | ~0 |
 | A true performance | 0.00% | ~0 |
-| Evelyn Lakshmi Warbeck | 0.00% | ~0 |
 | Florence Farquhar | 0.00% | ~0 |
-| Horace Mountjoy | 0.00% | ~0 |
-| Johan Kristiansen | 0.00% | ~0 |
-| Mortimer Ailsworth | 0.00% | ~0 |
-| Perkins | 0.00% | ~0 |
-| The Suspects | 0.00% | ~0 |
-| The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 492)  

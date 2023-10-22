@@ -5,12 +5,12 @@ Rating: 4.68 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,182 |
-| On the Top Step | 90.00% | ~3,015 |
-| Setting up for Success | 79.00% | ~2,646 |
+| Getting on the Step | 95.00% | ~3,183 |
+| On the Top Step | 90.00% | ~3,016 |
+| Setting up for Success | 79.00% | ~2,647 |
 | Team Orders | 77.00% | ~2,580 |
-| Engineer | 57.00% | ~1,909 |
-| Familiar Faces | 51.00% | ~1,708 |
+| Engineer | 57.00% | ~1,910 |
+| Familiar Faces | 51.00% | ~1,709 |
 | Going the Extra Mile | 45.00% | ~1,508 |
 | Sharing the Love | 44.00% | ~1,474 |
 | Hitting a Season | 41.00% | ~1,374 |
@@ -23,29 +23,29 @@ Rating: 4.68 (Ranked 241)
 | Reduce | 21.00% | ~704 |
 | Ups and Downs | 21.00% | ~704 |
 | Crucial Combo | 20.00% | ~670 |
-| One for the Book | 19.00% | ~636 |
+| One for the Book | 19.00% | ~637 |
 | Reuse | 18.00% | ~603 |
 | Gathering Dust | 17.00% | ~570 |
 | Proving Them Wrong | 17.00% | ~570 |
 | Oil and Water | 16.00% | ~536 |
-| Hitting a Bullseye | 15.00% | ~502 |
+| Hitting a Bullseye | 15.00% | ~503 |
 | Lightning Round the World | 14.00% | ~469 |
 | Eagle Eye | 13.00% | ~436 |
 | All in a Weekend's Work | 13.00% | ~436 |
 | Spinning Around | 13.00% | ~436 |
 | Recycle | 13.00% | ~436 |
 | Switcheroo | 12.00% | ~402 |
-| Friendly Competition | 11.00% | ~368 |
-| Tinkerer | 11.00% | ~368 |
+| Friendly Competition | 11.00% | ~369 |
+| Tinkerer | 11.00% | ~369 |
 | Undisputed Winner | 10.00% | ~335 |
 | For all Those Back at the Factory | 7.00% | ~235 |
 | Living up to Expectations | 7.00% | ~235 |
 | Smooth Operator | 7.00% | ~235 |
 | Loyal Bond | 5.00% | ~168 |
 | Peak Performance | 5.00% | ~168 |
-| Seasoned Rookie | 3.00% | ~100 |
-| Hitting a Century | 3.00% | ~100 |
-| Wait, I know you? | 3.00% | ~100 |
+| Seasoned Rookie | 3.00% | ~101 |
+| Hitting a Century | 3.00% | ~101 |
+| Wait, I know you? | 3.00% | ~101 |
 | Filling in the Gaps | 2.00% | ~67 |
 | Media Darling | 2.00% | ~67 |
 | Under the Microscope | 1.00% | ~34 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 241)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,350 (Ranked 190)  
+Progressed: 3,351 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 318)
 | 2023-10-19 | 3,325 | 0 |
 | 2023-10-20 | 3,333 | 0 |
 | 2023-10-21 | 3,349 | 0 |
-| 2023-10-22 | 3,350 | 0 |
+| 2023-10-22 | 3,351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,8 +10,9 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 0.30% | ~4 |
 | How Romantic! | 0.30% | ~4 |
 | The Cost of Heroism | 0.30% | ~4 |
+| Let Me Get My Chisel | 0.20% | ~3 |
+| Daybreak | 0.20% | ~3 |
 | Me and My Familiar | 0.10% | ~1 |
-| Let Me Get My Chisel | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
 | Completing the Look | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
@@ -24,7 +25,6 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 0.10% | ~1 |
 | Echoes Die | 0.10% | ~1 |
 | A Story of Heroes | 0.10% | ~1 |
-| Daybreak | 0.10% | ~1 |
 | Core Failure | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |

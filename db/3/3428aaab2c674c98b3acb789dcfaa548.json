@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -6521,9 +6521,9 @@
       "Count": 1000
     }
   ],
-  "EOS_Progressed": 821488,
+  "EOS_Progressed": 821512,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 5084,
+  "EOS_NewPlayers": 5087,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24061,6 +24061,11 @@
       "Time": "2023-10-22T07:04:05.603832+00:00",
       "NumProgressed": 821488,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2023-10-22T08:04:09.3839641+00:00",
+      "NumProgressed": 821512,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 75,
@@ -24072,7 +24077,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 197157
+      "UsersEstimate": 197163
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -24080,7 +24085,7 @@
       "Name": "All or Nothing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ACHIEVEMENT_ARIZONA_KILLER",
@@ -24096,7 +24101,7 @@
       "Name": "Artful Pocketer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_ASSEMBLE_YOUR_CREW",
@@ -24120,7 +24125,7 @@
       "Name": "Caravan Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_CARDIAC_ARREST",
@@ -24144,7 +24149,7 @@
       "Name": "Combat Veteran",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_COME_FLY_WITH_ME",
@@ -24152,7 +24157,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41074
+      "UsersEstimate": 41076
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -24168,7 +24173,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49289
+      "UsersEstimate": 49291
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -24208,7 +24213,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5750
+      "UsersEstimate": 5751
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -24216,7 +24221,7 @@
       "Name": "For the Republic",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5750
+      "UsersEstimate": 5751
     },
     {
       "ID": "ACHIEVEMENT_GI_BLUES",
@@ -24296,7 +24301,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41074
+      "UsersEstimate": 41076
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -24304,7 +24309,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -24352,7 +24357,7 @@
       "Name": "May my Hand Forget its Skill",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ACHIEVEMENT_MOD_MASTER",
@@ -24368,7 +24373,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49289
+      "UsersEstimate": 49291
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -24408,7 +24413,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49289
+      "UsersEstimate": 49291
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -24448,7 +24453,7 @@
       "Name": "Pros Only",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_RENDER_UNTO_CAESAR",
@@ -24480,7 +24485,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 41074
+      "UsersEstimate": 41076
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -24544,7 +24549,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 49289
+      "UsersEstimate": 49291
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -24568,7 +24573,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -24576,7 +24581,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -24600,7 +24605,7 @@
       "Name": "Up to the Challenge",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHIEVEMENT_VENI_VIDI_VICI",
@@ -24624,7 +24629,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41074
+      "UsersEstimate": 41076
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -24671,13 +24676,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 821488,
+      "Progressed": 821512,
       "Completed": 225
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 821488,
+      "Progressed": 821512,
       "Completed": 184
     }
   ],
@@ -24685,8 +24690,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-22T02:17:55.3705901+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:04:05.6038313+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:04:09.3839636+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:00.8031772+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:58:51.05016+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:04:05.6040124+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:59:06.9227917+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:04:09.3841849+00:00"
 }

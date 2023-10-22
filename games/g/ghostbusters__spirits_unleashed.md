@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 576)
 | Summoner | 1.00% | ~271 |
 | Terrifying | 1.00% | ~271 |
 | Welcome to the Crew | 1.00% | ~271 |
-| Pesky Jerks | 0.90% | ~243 |
+| Pesky Jerks | 0.90% | ~244 |
 | We have the best insurance | 0.80% | ~216 |
 | Seasoned | 0.80% | ~216 |
 | Collector | 0.70% | ~189 |
@@ -46,9 +46,9 @@ Rating: 4.50 (Ranked 576)
 | Surprise! | 0.50% | ~135 |
 | Fragile Panes | 0.40% | ~108 |
 | Liability | 0.40% | ~108 |
+| Therapeutic | 0.30% | ~81 |
 | Master Collector | 0.20% | ~54 |
 | Rift Seeker | 0.20% | ~54 |
-| Therapeutic | 0.20% | ~54 |
 | Catostrophic Destroyer | 0.10% | ~27 |
 | I don't need these | 0.10% | ~27 |
 | Ghost Expert | 0.10% | ~27 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,055 (Ranked 119)  
+Progressed: 27,058 (Ranked 119)  
 Completed: 60 (0.22%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 60 (0.22%) (Ranked 219)
 | 2023-10-19 | 26,668 | 59 |
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
-| 2023-10-22 | 27,055 | 60 |
+| 2023-10-22 | 27,058 | 60 |
 ## Awards
 Max (Great for Quick Sessions): 273  (Ranked 254)  
 Sum: 2,467 (Ranked 185)  

@@ -705,9 +705,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_4",
@@ -865,9 +865,9 @@
       "ID": "achievement_64",
       "SetID": "18al4io",
       "Name": "Fowl Play",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_66",
@@ -922,8 +922,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:04:19.642519+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:04:25.5058175+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.8442361+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:35.7754009+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:04:19.6425653+00:00"
+  "LastUpdate_Ratings": "2023-10-22T08:00:00.1763721+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:04:25.5058704+00:00"
 }

@@ -1569,9 +1569,9 @@
       "Count": 256
     }
   ],
-  "EOS_Progressed": 7928,
+  "EOS_Progressed": 7929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5284,6 +5284,11 @@
       "Time": "2023-10-22T07:04:15.8523424+00:00",
       "NumProgressed": 7928,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-22T08:04:21.258464+00:00",
+      "NumProgressed": 7929,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5304,7 +5309,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ach03",
@@ -5312,7 +5317,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "ach04",
@@ -5320,7 +5325,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "ach05",
@@ -5344,7 +5349,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "ach08",
@@ -5352,7 +5357,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ach09",
@@ -5392,7 +5397,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ach14",
@@ -5416,7 +5421,7 @@
       "Name": "Test Your Might",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ach17",
@@ -5480,7 +5485,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "ach25",
@@ -5512,7 +5517,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "ach29",
@@ -5520,7 +5525,7 @@
       "Name": "Unstoppable",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ach30",
@@ -5584,7 +5589,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4519
+      "UsersEstimate": 4520
     },
     {
       "ID": "ach38",
@@ -5608,7 +5613,7 @@
       "Name": "Found You",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ach41",
@@ -5616,7 +5621,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ach42",
@@ -5664,7 +5669,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "ach48",
@@ -5695,7 +5700,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7928,
+      "Progressed": 7929,
       "Completed": 0
     }
   ],
@@ -5703,8 +5708,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-22T05:57:38.5881918+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:04:15.8523419+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:04:21.2584635+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:57:32.4236172+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:04:15.852407+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:57:35.7475454+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:04:21.2585356+00:00"
 }

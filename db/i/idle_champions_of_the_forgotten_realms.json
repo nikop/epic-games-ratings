@@ -2,13 +2,13 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 957,
+  "Ranking_Rating": 958,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7519,9 +7519,9 @@
       "Count": 3477
     }
   ],
-  "EOS_Progressed": 232521,
+  "EOS_Progressed": 232522,
   "EOS_Completed": 2377,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28144,6 +28144,11 @@
       "Time": "2023-10-22T07:06:02.4284325+00:00",
       "NumProgressed": 232521,
       "NumCompleted": 2377
+    },
+    {
+      "Time": "2023-10-22T08:06:25.4795375+00:00",
+      "NumProgressed": 232522,
+      "NumCompleted": 2377
     }
   ],
   "TotalAchievements": 528,
@@ -32378,21 +32383,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198795,
+      "Progressed": 198796,
       "Completed": 3669
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232521,
+      "Progressed": 232522,
       "Completed": 2377
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-22T02:18:14.9533652+00:00",
-  "LastChanged_Achievements": "2023-10-22T07:06:02.4284322+00:00",
+  "LastChanged_Achievements": "2023-10-22T08:06:25.479537+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-22T06:59:11.9214771+00:00",
-  "LastUpdate_Achievements": "2023-10-22T07:06:02.4317535+00:00"
+  "LastUpdate_Ratings": "2023-10-22T07:59:31.3629474+00:00",
+  "LastUpdate_Achievements": "2023-10-22T08:06:25.48288+00:00"
 }

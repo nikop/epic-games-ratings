@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~28,739 |
-| It wakes | 3.00% | ~28,739 |
-| Skillful | 3.00% | ~28,739 |
-| The Grand Sacrifice | 2.00% | ~19,159 |
-| No one left behind | 2.00% | ~19,159 |
-| Medic | 2.00% | ~19,159 |
-| Handyman | 2.00% | ~19,159 |
-| Not half bad | 2.00% | ~19,159 |
-| Bloody Millionaire | 2.00% | ~19,159 |
-| Apt Survivor | 2.00% | ~19,159 |
-| Survival Treasures | 2.00% | ~19,159 |
-| I | 2.00% | ~19,159 |
-| Sorted | 2.00% | ~19,159 |
-| Healthy Obsession | 2.00% | ~19,159 |
-| Resurgence | 2.00% | ~19,159 |
-| Preemptive Strike | 2.00% | ~19,159 |
-| Humanitarian | 2.00% | ~19,159 |
-| Make Some Noise | 2.00% | ~19,159 |
+| Zealous | 3.00% | ~28,741 |
+| It wakes | 3.00% | ~28,741 |
+| Skillful | 3.00% | ~28,741 |
+| The Grand Sacrifice | 2.00% | ~19,161 |
+| No one left behind | 2.00% | ~19,161 |
+| Medic | 2.00% | ~19,161 |
+| Handyman | 2.00% | ~19,161 |
+| Perfect Escape | 2.00% | ~19,161 |
+| Not half bad | 2.00% | ~19,161 |
+| Bloody Millionaire | 2.00% | ~19,161 |
+| Apt Survivor | 2.00% | ~19,161 |
+| Survival Treasures | 2.00% | ~19,161 |
+| I | 2.00% | ~19,161 |
+| Sorted | 2.00% | ~19,161 |
+| Healthy Obsession | 2.00% | ~19,161 |
+| Resurgence | 2.00% | ~19,161 |
+| Preemptive Strike | 2.00% | ~19,161 |
+| Humanitarian | 2.00% | ~19,161 |
+| Make Some Noise | 2.00% | ~19,161 |
 | Agonizing Escape | 1.00% | ~9,580 |
 | Backdoor Escape | 1.00% | ~9,580 |
 | I've got your back | 1.00% | ~9,580 |
 | Nerves of steel | 1.00% | ~9,580 |
-| Perfect Escape | 1.00% | ~9,580 |
 | Perfect Killing | 1.00% | ~9,580 |
 | Apt Killer | 1.00% | ~9,580 |
 | Risk it all | 1.00% | ~9,580 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~958 |
 | Adept Ripley | 0.10% | ~958 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 957,961 (Ranked 14)  
+Progressed: 958,046 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 52 (0.01%) (Ranked 299)
 | 2023-10-19 | 950,730 | 51 |
 | 2023-10-20 | 953,522 | 52 |
 | 2023-10-21 | 957,026 | 52 |
-| 2023-10-22 | 957,961 | 52 |
+| 2023-10-22 | 958,046 | 52 |
 ## Awards
 Max (Diverse Characters): 34,415  (Ranked 15)  
 Sum: 265,344 (Ranked 13)  

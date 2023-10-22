@@ -6,8 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.30% | ~2,680 |
+| Ten out of Ten | 0.40% | ~3,573 |
 | Rough Landing | 0.30% | ~2,680 |
+| The High Priestess | 0.30% | ~2,680 |
 | Full Body Conversion | 0.20% | ~1,786 |
 | Right Back At Ya | 0.20% | ~1,786 |
 | Gunslinger | 0.20% | ~1,786 |
@@ -16,12 +17,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.20% | ~1,786 |
 | Stanislavski's Method | 0.20% | ~1,786 |
 | The Hermit | 0.20% | ~1,786 |
-| The High Priestess | 0.20% | ~1,786 |
 | The Wheel of Fortune | 0.20% | ~1,786 |
 | The Jungle | 0.20% | ~1,786 |
 | True Soldier | 0.20% | ~1,786 |
 | True Warrior | 0.20% | ~1,786 |
 | Two Heads, One Bullet | 0.20% | ~1,786 |
+| Judy vs Night City | 0.20% | ~1,786 |
 | V for Vendetta | 0.20% | ~1,786 |
 | Legend of The Afterlife | 0.20% | ~1,786 |
 | All the President's Men | 0.20% | ~44 |
@@ -50,7 +51,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~893 |
 | The World | 0.10% | ~893 |
 | Greetings from Pacifica! | 0.10% | ~893 |
-| Judy vs Night City | 0.10% | ~893 |
 | It's Elementary | 0.10% | ~893 |
 | The APB is Not Enough | 0.10% | ~22 |
 | Spin Doctor | 0.10% | ~22 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,217 (Ranked 15)  
+Progressed: 893,227 (Ranked 15)  
 Completed: 2,695 (0.30%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,695 (0.30%) (Ranked 208)
 | 2023-10-19 | 892,734 | 2,687 |
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
-| 2023-10-22 | 893,217 | 2,695 |
+| 2023-10-22 | 893,227 | 2,695 |
 ## Awards
 Max (Character Customization): 100,310  (Ranked 9)  
 Sum: 319,006 (Ranked 11)  
