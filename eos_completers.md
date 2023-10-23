@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.52% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.49% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -50,7 +50,7 @@
 | 48 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 50 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 51 | [Scorn](games/s/scorn.md) | 7.00% |
+| 51 | [Scorn](games/s/scorn.md) | 6.99% |
 | 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.65% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 54 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -72,7 +72,7 @@
 | 69 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 71 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 72 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
-| 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.25% |
+| 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.26% |
 | 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
 | 75 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 75 | [The Bunker](games/t/the_bunker.md) | 4.00% |
@@ -383,6 +383,7 @@
 | 321 | [Covid Carl](games/c/covid_carl.md) | 0.00% |
 | 321 | [Crayta](games/c/crayta.md) | 0.00% |
 | 321 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 0.00% |
+| 321 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 0.00% |
 | 321 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
 | 321 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
 | 321 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 0.00% |
@@ -551,6 +552,7 @@
 | 321 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
 | 321 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
 | 321 | [PERISH](games/p/perish.md) | 0.00% |
+| 321 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 0.00% |
 | 321 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
 | 321 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 0.00% |
 | 321 | [Planet Cube - Edge](games/p/planet_cube_-_edge.md) | 0.00% |
@@ -613,6 +615,7 @@
 | 321 | [Strawhart](games/s/strawhart.md) | 0.00% |
 | 321 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
 | 321 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 0.00% |
+| 321 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 0.00% |
 | 321 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 0.00% |
 | 321 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 0.00% |
 | 321 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 0.00% |

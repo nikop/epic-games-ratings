@@ -343,6 +343,7 @@
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](../games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 33 | 1,000 |
+| [Creepy Tale 3 - Ingrid Penance](../games/0/078713096df541f58f5fc4032efeeb2d.md) | 33 | 1,000 |
 | [Deliver Us Mars](../games/d/deliver_us_mars.md) | 33 | 1,000 |
 | [Gravity Oddity](../games/b/bd49e68e53fc4da0b14d054354575cea.md) | 33 | 1,000 |
 | [Horse Tales - Emerald Valley Ranch](../games/h/horse_tales_-_emerald_valley_ranch.md) | 33 | 1,000 |
@@ -372,6 +373,7 @@
 | [Mini Royale](../games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 31 | 1,000 |
 | [Oxide Room 104](../games/o/oxide_room_104.md) | 31 | 1,000 |
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
+| [StrikeForce Kitty](../games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 31 | 1,000 |
 | [Syberia: The World Before](../games/s/syberia__the_world_before.md) | 31 | 1,000 |
 | [The Outbound Ghost](../games/t/the_outbound_ghost.md) | 31 | 1,000 |
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
@@ -483,6 +485,7 @@
 | [Kainga: Seeds of Civilization](../games/k/kainga__seeds_of_civilization.md) | 24 | 1,000 |
 | [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
 | [Nickelodeon All-Star Brawl](../games/n/nickelodeon_all-star_brawl.md) | 24 | 1,000 |
+| [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |
 | [Q.U.B.E. 10th Anniversary](../games/q/q.u.b.e._10th_anniversary.md) | 24 | 1,000 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |

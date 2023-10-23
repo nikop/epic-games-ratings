@@ -170,6 +170,7 @@
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
 | [Creepy Tale](../games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 13 | 1,000 |
+| [Creepy Tale 3 - Ingrid Penance](../games/0/078713096df541f58f5fc4032efeeb2d.md) | 33 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
@@ -472,6 +473,7 @@
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
+| [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |
 | [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 30 | 1,000 |
@@ -597,6 +599,7 @@
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
 | [Stray Blade](../games/s/stray_blade.md) | 46 | 1,000 |
 | [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 |
+| [StrikeForce Kitty](../games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 31 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |
 | [Sunless Sea](../games/s/sunless_sea.md) | 54 | 1,000 |
 | [Sunlight Scream](../games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 23 | 1,000 |
