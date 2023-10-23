@@ -8184,9 +8184,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63772,
+  "EOS_Progressed": 63774,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27849,6 +27849,11 @@
       "Time": "2023-10-23T01:50:19.03148+00:00",
       "NumProgressed": 63772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T03:06:12.9067983+00:00",
+      "NumProgressed": 63774,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27988,7 +27993,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8290
+      "UsersEstimate": 8291
     },
     {
       "ID": "Great Granny",
@@ -28052,7 +28057,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10841
+      "UsersEstimate": 10842
     },
     {
       "ID": "Kingslayer",
@@ -28092,7 +28097,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24871
+      "UsersEstimate": 24872
     },
     {
       "ID": "Lawmaker",
@@ -28220,7 +28225,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8290
+      "UsersEstimate": 8291
     },
     {
       "ID": "This is Sparta",
@@ -28267,15 +28272,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63772,
+      "Progressed": 63774,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-22T21:00:26.61171+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:24:02.482578+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:06:12.9067979+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:17:10.6673261+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:24:02.4827343+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:59:28.6527366+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:06:12.9069569+00:00"
 }

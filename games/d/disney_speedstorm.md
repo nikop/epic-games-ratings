@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,422 |
-| IT MAKES BOOM! | 3.00% | ~7,453 |
-| EXTRA BOOST | 2.00% | ~4,969 |
-| PROTECTED | 2.00% | ~4,969 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,484 |
-| AGGRESSIVE RACER | 1.00% | ~2,484 |
-| PRO | 1.00% | ~2,484 |
-| A TIGER'S FEAR | 0.90% | ~2,236 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,242 |
-| ACE SPEEDSTER | 0.50% | ~1,242 |
+| ROOKIE | 5.00% | ~12,427 |
+| IT MAKES BOOM! | 3.00% | ~7,456 |
+| EXTRA BOOST | 2.00% | ~4,971 |
+| PROTECTED | 2.00% | ~4,971 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,485 |
+| AGGRESSIVE RACER | 1.00% | ~2,485 |
+| PRO | 1.00% | ~2,485 |
+| A TIGER'S FEAR | 0.90% | ~2,237 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,243 |
+| ACE SPEEDSTER | 0.50% | ~1,243 |
 | DEFEAT OUR CHAMPION | 0.40% | ~994 |
-| TRAINING HARD | 0.30% | ~745 |
-| RELEASE THE KRAKEN | 0.30% | ~745 |
-| BE OUR GUEST | 0.30% | ~745 |
-| ACE BRAWLER | 0.30% | ~745 |
-| ACE DEFENDER | 0.30% | ~745 |
-| THE EYE OF THE HUNTER | 0.30% | ~745 |
-| FRIENDLY | 0.30% | ~745 |
-| MASTER | 0.30% | ~745 |
-| LEGENDARY HERO | 0.30% | ~745 |
+| TRAINING HARD | 0.30% | ~746 |
+| RELEASE THE KRAKEN | 0.30% | ~746 |
+| BE OUR GUEST | 0.30% | ~746 |
+| ACE BRAWLER | 0.30% | ~746 |
+| ACE DEFENDER | 0.30% | ~746 |
+| THE EYE OF THE HUNTER | 0.30% | ~746 |
+| FRIENDLY | 0.30% | ~746 |
+| MASTER | 0.30% | ~746 |
+| LEGENDARY HERO | 0.30% | ~746 |
 | PERFECTLY POISED | 0.20% | ~497 |
 | EXPERIENCED CREW | 0.20% | ~497 |
 | ACE TRICKSTER | 0.20% | ~497 |
-| FRAMED! | 0.10% | ~248 |
+| FRAMED! | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,444 (Ranked 55)  
+Progressed: 248,537 (Ranked 55)  
 Completed: 239 (0.10%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 239 (0.10%) (Ranked 253)
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
-| 2023-10-23 | 248,444 | 239 |
+| 2023-10-23 | 248,537 | 239 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 458)  
 Sum: 180 (Ranked 400)  

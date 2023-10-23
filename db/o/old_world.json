@@ -1932,9 +1932,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14893,
+  "EOS_Progressed": 14895,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14517,6 +14517,11 @@
       "Time": "2023-10-23T01:46:44.7238919+00:00",
       "NumProgressed": 14893,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T03:03:08.3554005+00:00",
+      "NumProgressed": 14895,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15006,9 +15011,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
       "SetID": "9201eeb",
       "Name": "Intercessor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -15862,9 +15867,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -15886,9 +15891,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -16606,9 +16611,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -17263,21 +17268,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14893,
+      "Progressed": 14895,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14893,
+      "Progressed": 14895,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-22T09:59:37.3953785+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:21:09.3304311+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:03:08.3554001+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:17:18.089294+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:21:09.3319075+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:59:36.4777575+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:03:08.3565211+00:00"
 }

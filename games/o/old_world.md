@@ -73,15 +73,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~149 |
 | Beloved | 0.90% | ~134 |
 | Conqueror | 0.90% | ~134 |
+| Intercessor | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
-| Intercessor | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
 | Good Difficulty | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
+| Circus Maximus | 0.80% | ~119 |
 | Greece | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
@@ -91,7 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.70% | ~104 |
 | Statesmen | 0.70% | ~104 |
 | Traders | 0.70% | ~104 |
-| Circus Maximus | 0.70% | ~104 |
+| Hagia Sophia | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
 | Pantheon | 0.70% | ~104 |
 | Via Recta Souk | 0.70% | ~104 |
@@ -102,19 +103,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.70% | ~104 |
 | Revelation | 0.70% | ~104 |
 | Legionary | 0.70% | ~104 |
+| Phalangite | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
 | Hunters | 0.60% | ~89 |
 | Hittite Iron | 0.60% | ~89 |
-| Hagia Sophia | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
 | Carthage | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |
 | Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
 | Cimmerian Archer | 0.60% | ~89 |
-| Phalangite | 0.60% | ~89 |
 | Ambition Victory | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~74 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,893 (Ranked 139)  
+Progressed: 14,895 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 5 (0.03%) (Ranked 288)
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
-| 2023-10-23 | 14,893 | 5 |
+| 2023-10-23 | 14,895 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

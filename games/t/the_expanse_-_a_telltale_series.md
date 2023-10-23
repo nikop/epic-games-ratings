@@ -10,10 +10,10 @@ Rating: 4.59 (Ranked 421)
 | Bosmang | 7.00% | ~998 |
 | The Pit and the Pirates | 6.00% | ~855 |
 | Drone Dodger | 6.00% | ~855 |
-| Heal Thy Medic | 5.00% | ~712 |
-| Call it Even | 5.00% | ~712 |
-| Celebrations are in Order | 5.00% | ~712 |
-| Impossible Objects | 5.00% | ~712 |
+| Heal Thy Medic | 5.00% | ~713 |
+| Call it Even | 5.00% | ~713 |
+| Celebrations are in Order | 5.00% | ~713 |
+| Impossible Objects | 5.00% | ~713 |
 | Data Archivist | 4.00% | ~570 |
 | Stogie for Fogey | 4.00% | ~570 |
 | Spore Taste | 4.00% | ~570 |
@@ -24,19 +24,19 @@ Rating: 4.59 (Ranked 421)
 | Bottoms up! | 2.00% | ~285 |
 | Thorston Mayer | 2.00% | ~285 |
 | Miraculous Maya | 2.00% | ~285 |
-| Data Logger | 1.00% | ~142 |
-| Brother's Reaper | 1.00% | ~142 |
-| No Belter Left Behind | 1.00% | ~142 |
-| Data Master | 1.00% | ~142 |
+| Data Logger | 1.00% | ~143 |
+| Brother's Reaper | 1.00% | ~143 |
+| No Belter Left Behind | 1.00% | ~143 |
+| Data Master | 1.00% | ~143 |
 | Debris Spree | 0.80% | ~114 |
 | Data Recoverer | 0.80% | ~114 |
 | Urshanabi Hoarder | 0.50% | ~71 |
 | Grave Robber | 0.40% | ~57 |
 | Data Miner | 0.30% | ~43 |
-| Scavenger Star | 0.20% | ~28 |
+| Scavenger Star | 0.20% | ~29 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,250 (Ranked 140)  
+Progressed: 14,251 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 27 (0.19%) (Ranked 229)
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
 | 2023-10-22 | 14,248 | 27 |
-| 2023-10-23 | 14,250 | 27 |
+| 2023-10-23 | 14,251 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

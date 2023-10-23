@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4549,9 +4549,9 @@
       "Count": 311
     }
   ],
-  "EOS_Progressed": 248401,
+  "EOS_Progressed": 248402,
   "EOS_Completed": 862,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -24779,6 +24779,11 @@
       "Time": "2023-10-23T02:26:10.9717574+00:00",
       "NumProgressed": 248401,
       "NumCompleted": 862
+    },
+    {
+      "Time": "2023-10-23T03:08:40.8637599+00:00",
+      "NumProgressed": 248402,
+      "NumCompleted": 862
     }
   ],
   "TotalAchievements": 39,
@@ -24822,7 +24827,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67068
+      "UsersEstimate": 67069
     },
     {
       "ID": "AchievementBigFootID",
@@ -24838,7 +24843,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 74520
+      "UsersEstimate": 74521
     },
     {
       "ID": "AchievementBoulderID",
@@ -24846,7 +24851,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64584
+      "UsersEstimate": 64585
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -24854,7 +24859,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 226045
+      "UsersEstimate": 226046
     },
     {
       "ID": "AchievementClownID",
@@ -24878,7 +24883,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 69552
+      "UsersEstimate": 69553
     },
     {
       "ID": "AchievementEggID",
@@ -24902,7 +24907,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 81972
+      "UsersEstimate": 81973
     },
     {
       "ID": "AchievementGoatID",
@@ -24950,7 +24955,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 111780
+      "UsersEstimate": 111781
     },
     {
       "ID": "AchievementIntroID",
@@ -24990,7 +24995,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 94392
+      "UsersEstimate": 94393
     },
     {
       "ID": "AchievementRampID",
@@ -25038,7 +25043,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124200
+      "UsersEstimate": 124201
     },
     {
       "ID": "AchievementStreakingID",
@@ -25070,7 +25075,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 116748
+      "UsersEstimate": 116749
     },
     {
       "ID": "AchievementTrinketID",
@@ -25094,14 +25099,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67068
+      "UsersEstimate": 67069
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 248401,
+      "Progressed": 248402,
       "Completed": 862
     }
   ],
@@ -25109,8 +25114,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-22T21:58:28.7688385+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:26:10.971757+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:08:40.8637594+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:59.2731672+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:16:18.2233036+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:26:10.9719051+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:58:29.8720343+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:08:40.863889+00:00"
 }

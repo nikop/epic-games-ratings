@@ -6,9 +6,9 @@ Rating: 4.54 (Ranked 515)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 5.00% | ~35,097 |
-| Break A Leg | 4.00% | ~28,077 |
-| Hotel California | 4.00% | ~28,077 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,077 |
+| Break A Leg | 4.00% | ~28,078 |
+| Hotel California | 4.00% | ~28,078 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,078 |
 | Dr. Reed, I Presume? | 3.00% | ~21,058 |
 | Git Gutte! | 3.00% | ~21,058 |
 | Bookworm | 3.00% | ~21,058 |
@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 515)
 | Max Headroom | 1.00% | ~7,019 |
 | Go, Bobcats! | 1.00% | ~7,019 |
 | Rising Star | 1.00% | ~7,019 |
-| Internet Famous | 0.90% | ~6,317 |
-| On Safari | 0.80% | ~5,615 |
-| Not Even My Final Form | 0.80% | ~5,615 |
+| Internet Famous | 0.90% | ~6,318 |
+| On Safari | 0.80% | ~5,616 |
+| Not Even My Final Form | 0.80% | ~5,616 |
 | Make it So | 0.70% | ~4,914 |
 | Variety is the Spice of Death | 0.70% | ~4,914 |
 | LA Influential | 0.60% | ~4,212 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,404 |
 | Bucket List | 0.10% | ~702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 701,932 (Ranked 22)  
+Progressed: 701,948 (Ranked 22)  
 Completed: 2,247 (0.32%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 2,247 (0.32%) (Ranked 205)
 | 2023-10-20 | 699,491 | 2,239 |
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
-| 2023-10-23 | 701,932 | 2,247 |
+| 2023-10-23 | 701,948 | 2,247 |
 ## Awards
 Max (Great Boss Battles): 6,549  (Ranked 57)  
-Sum: 9,831 (Ranked 91)  
+Sum: 9,834 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -252,7 +252,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 392 |
 | This game is Highly Recommended | 378 |
 | This game is Extremely Fun | 372 |
-| This game has Amazing Characters | 359 |
+| This game has Amazing Characters | 362 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -441,3 +441,4 @@ Diff (max vs sum): -34
 | 2023-10-20 | 4.54 | 6,509 | 9,763 |
 | 2023-10-21 | 4.54 | 6,526 | 9,785 |
 | 2023-10-22 | 4.54 | 6,549 | 9,831 |
+| 2023-10-23 | 4.54 | 6,549 | 9,834 |

@@ -2557,10 +2557,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2484,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-10-23T02:57:16.6157859+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2487,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2484,
+  "NumberOfAwards": 2487,
   "NumberOfAwardsMax": 275,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2610,7 +2616,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 245
+      "Count": 248
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2637,9 +2643,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27214,
+  "EOS_Progressed": 27219,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15962,6 +15968,11 @@
       "Time": "2023-10-23T02:23:01.0216962+00:00",
       "NumProgressed": 27214,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T03:05:09.6411288+00:00",
+      "NumProgressed": 27219,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 51,
@@ -15973,7 +15984,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "Animated",
@@ -16029,7 +16040,7 @@
       "Name": "Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Cultured",
@@ -16053,7 +16064,7 @@
       "Name": "Diabolical",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Discovery",
@@ -16085,7 +16096,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "Escape_Artist",
@@ -16093,7 +16104,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Fragile_Panes",
@@ -16197,7 +16208,7 @@
       "Name": "Reckless",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Rift_Destroyer",
@@ -16341,7 +16352,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Ultimate_Defense",
@@ -16380,16 +16391,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27214,
+      "Progressed": 27219,
       "Completed": 62
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-23T01:40:47.3313552+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:23:01.0216956+00:00",
+  "LastChanged": "2023-10-23T02:57:16.6157858+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:05:09.6411283+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:15:01.3926848+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:23:01.0218088+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:57:16.6157864+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:05:09.6412509+00:00"
 }

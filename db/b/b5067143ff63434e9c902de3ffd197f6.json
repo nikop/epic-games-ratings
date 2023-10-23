@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4426,
+  "EOS_Progressed": 4430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1514,
+  "EOS_NewPlayers": 1517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2644,6 +2644,11 @@
       "Time": "2023-10-23T02:23:34.9636043+00:00",
       "NumProgressed": 4426,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T03:05:45.0739777+00:00",
+      "NumProgressed": 4430,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -2686,9 +2691,9 @@
       "ID": "ACH_LEVEL974",
       "SetID": "1lo1k0a",
       "Name": "KITTY",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_MEGLAB",
@@ -2752,7 +2757,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -2847,14 +2852,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 4426,
+      "Progressed": 4430,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:23:34.9636037+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:05:45.0739771+00:00",
   "LastUpdate_AppInfo": "2023-10-16T13:57:00.6358262+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:15:33.4594342+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:23:34.9636799+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:57:46.3042875+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:05:45.0740063+00:00"
 }

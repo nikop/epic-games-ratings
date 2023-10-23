@@ -5,35 +5,35 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,969 |
-| The Killing Jar | 8.00% | ~15,973 |
-| Expanding Horizons | 7.00% | ~13,976 |
-| Quest for Survival | 7.00% | ~13,976 |
-| Not Your Average Trait | 7.00% | ~13,976 |
+| First of Many | 9.00% | ~17,970 |
+| The Killing Jar | 8.00% | ~15,974 |
+| Expanding Horizons | 7.00% | ~13,977 |
+| Quest for Survival | 7.00% | ~13,977 |
+| Not Your Average Trait | 7.00% | ~13,977 |
 | Gleaming the Cube | 6.00% | ~11,980 |
 | Familiar Face | 6.00% | ~11,980 |
 | Duality | 6.00% | ~11,980 |
 | Boss'n Up | 6.00% | ~11,980 |
 | Trait Chaser | 6.00% | ~11,980 |
-| Not So Special Now | 5.00% | ~9,983 |
-| Not a Janitor | 5.00% | ~9,983 |
-| Equal Measures | 5.00% | ~9,983 |
-| Blue Goddess | 5.00% | ~9,983 |
-| Top Performer | 5.00% | ~9,983 |
-| Shhh...It's a Secret | 5.00% | ~9,983 |
-| Almost There | 5.00% | ~9,983 |
-| Make Some Room | 5.00% | ~9,983 |
-| Good, But Could Be Better! | 5.00% | ~9,983 |
-| Chaos | 4.00% | ~7,986 |
-| Traitor | 4.00% | ~7,986 |
-| Power Surge | 4.00% | ~7,986 |
-| The God Gambit | 4.00% | ~7,986 |
-| Dark Designs | 4.00% | ~7,986 |
-| Madman's Paradise | 4.00% | ~7,986 |
-| Was This Supposed To Happen? | 4.00% | ~7,986 |
-| The Web | 4.00% | ~7,986 |
-| Scrap Collector | 4.00% | ~7,986 |
-| All These Traits� | 4.00% | ~7,986 |
+| Not So Special Now | 5.00% | ~9,984 |
+| Not a Janitor | 5.00% | ~9,984 |
+| Equal Measures | 5.00% | ~9,984 |
+| Blue Goddess | 5.00% | ~9,984 |
+| Top Performer | 5.00% | ~9,984 |
+| Shhh...It's a Secret | 5.00% | ~9,984 |
+| Almost There | 5.00% | ~9,984 |
+| Make Some Room | 5.00% | ~9,984 |
+| Good, But Could Be Better! | 5.00% | ~9,984 |
+| Chaos | 4.00% | ~7,987 |
+| Traitor | 4.00% | ~7,987 |
+| Power Surge | 4.00% | ~7,987 |
+| The God Gambit | 4.00% | ~7,987 |
+| Dark Designs | 4.00% | ~7,987 |
+| Madman's Paradise | 4.00% | ~7,987 |
+| Was This Supposed To Happen? | 4.00% | ~7,987 |
+| The Web | 4.00% | ~7,987 |
+| Scrap Collector | 4.00% | ~7,987 |
+| All These Traits� | 4.00% | ~7,987 |
 | Am I Seeing This? | 3.00% | ~5,990 |
 | Forever is a Long Time Coming | 3.00% | ~5,990 |
 | The Agenda | 3.00% | ~5,990 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Cutting Edge | 1.00% | ~1,997 |
 | Proving Grounds | 1.00% | ~1,997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,660 (Ranked 68)  
+Progressed: 199,670 (Ranked 68)  
 Completed: 401 (0.20%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 401 (0.20%) (Ranked 228)
 | 2023-10-20 | 198,353 | 400 |
 | 2023-10-21 | 198,996 | 400 |
 | 2023-10-22 | 199,607 | 401 |
-| 2023-10-23 | 199,660 | 401 |
+| 2023-10-23 | 199,670 | 401 |
 ## Awards
 Max (Great Boss Battles): 1,885  (Ranked 114)  
 Sum: 4,114 (Ranked 147)  

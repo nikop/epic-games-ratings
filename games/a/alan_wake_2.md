@@ -9,30 +9,30 @@
 | Bring It | 50.00% | ~76 |
 | Grew Bigger | 50.00% | ~76 |
 | Coffee Thermos | 49.00% | ~74 |
-| Not the Last | 46.00% | ~69 |
+| Not the Last | 47.00% | ~71 |
 | Find the Light | 44.00% | ~66 |
 | Darkness Coiled | 43.00% | ~65 |
 | Chased the Source | 39.00% | ~59 |
 | Somebody's Home | 38.00% | ~57 |
 | Felt Good | 36.00% | ~54 |
 | Aimed Ahead | 34.00% | ~51 |
+| Carry his Words | 33.00% | ~50 |
 | Into the Overlap | 33.00% | ~50 |
 | Secret Stashes | 33.00% | ~50 |
-| Carry his Words | 32.00% | ~48 |
 | Lawman | 31.00% | ~47 |
 | Filling the Shape | 30.00% | ~45 |
 | The Other Side | 30.00% | ~45 |
+| Greatest Hits | 29.00% | ~44 |
 | Talk Show | 29.00% | ~44 |
-| Greatest Hits | 28.00% | ~42 |
 | Lights Shining | 26.00% | ~39 |
 | Yippee Ki-yay | 25.00% | ~38 |
 | Storm Cloud | 25.00% | ~38 |
 | New York City | 25.00% | ~38 |
-| Return | 24.00% | ~36 |
+| Return | 25.00% | ~38 |
 | Shining in the Night | 23.00% | ~35 |
+| Growing Stronger | 22.00% | ~33 |
 | Ready for a Fight | 21.00% | ~32 |
 | This is the Moment | 21.00% | ~32 |
-| Growing Stronger | 21.00% | ~32 |
 | Finding a Way | 21.00% | ~32 |
 | Stop the Monster | 20.00% | ~30 |
 | Bright Falls' Finest | 16.00% | ~24 |

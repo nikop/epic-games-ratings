@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 43,
@@ -696,7 +696,7 @@
   ],
   "EOS_Progressed": 348956,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22312,8 +22312,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-23T02:23:56.9584202+00:00",
+  "LastChanged_Achievements": "2023-10-23T03:06:07.3835356+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:16:56.9982962+00:00",
-  "LastUpdate_Achievements": "2023-10-23T02:23:56.9586349+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:59:12.2269273+00:00",
+  "LastUpdate_Achievements": "2023-10-23T03:06:07.383762+00:00"
 }
