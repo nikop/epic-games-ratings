@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~12,374 |
-| Safety in the Storm | 25.00% | ~3,256 |
-| A Better Idea | 25.00% | ~3,256 |
-| Begin the Ceremony | 21.00% | ~2,735 |
-| Mission Accomplished | 19.00% | ~2,475 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,954 |
-| A Starfighter of Your Own | 14.00% | ~1,824 |
-| Asset Secured | 13.00% | ~1,693 |
-| Unkillable | 8.00% | ~1,042 |
+| Fracture at Fostar Haven | 95.00% | ~12,381 |
+| Safety in the Storm | 25.00% | ~3,258 |
+| A Better Idea | 25.00% | ~3,258 |
+| Begin the Ceremony | 21.00% | ~2,737 |
+| Mission Accomplished | 19.00% | ~2,476 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,955 |
+| A Starfighter of Your Own | 14.00% | ~1,825 |
+| Asset Secured | 13.00% | ~1,694 |
+| Unkillable | 8.00% | ~1,043 |
 | The Galaxy's Finest (Pilot) | 7.00% | ~912 |
 | Together, Vanguard | 7.00% | ~912 |
 | Sound Strategy | 6.00% | ~782 |
-| Fearless | 5.00% | ~651 |
-| Flames Over Mon Cala | 5.00% | ~651 |
-| Stomped | 5.00% | ~651 |
-| A Promising Career | 5.00% | ~651 |
+| Fearless | 5.00% | ~652 |
+| Flames Over Mon Cala | 5.00% | ~652 |
+| Stomped | 5.00% | ~652 |
+| A Promising Career | 5.00% | ~652 |
 | Great Shot, Kid | 4.00% | ~521 |
 | Back From the Brink | 4.00% | ~521 |
 | Temporary Guardian | 4.00% | ~521 |
@@ -28,8 +28,8 @@
 | Squadron Hunter | 3.00% | ~391 |
 | Punch It | 3.00% | ~391 |
 | Combat Pilot | 3.00% | ~391 |
-| Stun 'Em | 2.00% | ~260 |
-| Dressed for the Job You Want | 2.00% | ~260 |
+| Stun 'Em | 2.00% | ~261 |
+| Dressed for the Job You Want | 2.00% | ~261 |
 | I Have You Now | 1.00% | ~130 |
 | Against the Current | 0.90% | ~117 |
 | Found Your Place | 0.80% | ~104 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~13 |
 | The Galaxy's Finest (Ace) | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,025 (Ranked 144)  
+Progressed: 13,033 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.01%) (Ranked 301)
 | 2023-10-20 | 12,320 | 1 |
 | 2023-10-21 | 12,629 | 1 |
 | 2023-10-22 | 12,968 | 1 |
-| 2023-10-23 | 13,025 | 1 |
+| 2023-10-23 | 13,033 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

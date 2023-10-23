@@ -265,9 +265,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231383,
+  "EOS_Progressed": 231385,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19430,6 +19430,11 @@
       "Time": "2023-10-23T10:08:49.9357846+00:00",
       "NumProgressed": 231383,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T11:06:51.642743+00:00",
+      "NumProgressed": 231385,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19505,7 +19510,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83298
+      "UsersEstimate": 83299
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19585,7 +19590,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78670
+      "UsersEstimate": 78671
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -19601,7 +19606,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50904
+      "UsersEstimate": 50905
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -19609,7 +19614,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6942
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -19664,7 +19669,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231383,
+      "Progressed": 231385,
       "Completed": 5
     }
   ],
@@ -19672,8 +19677,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:08:49.9357835+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:06:51.6427424+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:59:25.2377875+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:08:49.936027+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:58:33.6140821+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:06:51.6430656+00:00"
 }

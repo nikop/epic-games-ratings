@@ -5,7 +5,7 @@
   "Ranking_Rating": 915,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 290,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 111,
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7031,
+  "EOS_Progressed": 7032,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7510,6 +7510,11 @@
       "Time": "2023-10-23T10:05:10.931461+00:00",
       "NumProgressed": 7031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T11:04:25.476375+00:00",
+      "NumProgressed": 7032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7553,7 +7558,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7561,7 +7566,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "Control_All_Relics",
@@ -7625,7 +7630,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5484
+      "UsersEstimate": 5485
     },
     {
       "ID": "First_Race_Met",
@@ -7633,7 +7638,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "First_Ship_Designed",
@@ -7657,7 +7662,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7737,7 +7742,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "Play_1000_Hours",
@@ -7841,7 +7846,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4289
+      "UsersEstimate": 4290
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8009,7 +8014,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4640
+      "UsersEstimate": 4641
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8017,7 +8022,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "Win_Conquest",
@@ -8096,15 +8101,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7031,
+      "Progressed": 7032,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:05:10.9314603+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:04:25.4763744+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:01:43.3570749+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:05:10.9316622+00:00"
+  "LastUpdate_Ratings": "2023-10-23T11:00:08.2252946+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:04:25.4766072+00:00"
 }

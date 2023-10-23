@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 76.00% | ~23,641 |
-| Quick Understanding of Block Extrusion | 68.00% | ~21,153 |
-| Nature or Nurture | 50.00% | ~15,554 |
-| Power Glove | 48.00% | ~14,931 |
-| Forgotten Memories | 41.00% | ~12,754 |
-| Cogs in the Machine | 33.00% | ~10,265 |
-| Mission Success | 19.00% | ~5,910 |
-| There's No Place Like Home | 19.00% | ~5,910 |
-| Green Cube Killer | 16.00% | ~4,977 |
-| Infinity Loop | 12.00% | ~3,733 |
-| Path to Salvation | 12.00% | ~3,733 |
-| Descendants | 10.00% | ~3,111 |
-| The Flawed Teacher | 8.00% | ~2,489 |
-| To Infinity and Beyond | 4.00% | ~1,244 |
-| The Truthful Enemy | 3.00% | ~933 |
+| Lost in Space | 76.00% | ~23,655 |
+| Quick Understanding of Block Extrusion | 68.00% | ~21,165 |
+| Nature or Nurture | 50.00% | ~15,562 |
+| Power Glove | 48.00% | ~14,940 |
+| Forgotten Memories | 41.00% | ~12,761 |
+| Cogs in the Machine | 33.00% | ~10,271 |
+| Mission Success | 19.00% | ~5,914 |
+| There's No Place Like Home | 19.00% | ~5,914 |
+| Green Cube Killer | 16.00% | ~4,980 |
+| Path to Salvation | 13.00% | ~4,046 |
+| Infinity Loop | 12.00% | ~3,735 |
+| Descendants | 10.00% | ~3,112 |
+| The Flawed Teacher | 8.00% | ~2,490 |
+| To Infinity and Beyond | 5.00% | ~1,556 |
+| The Truthful Enemy | 3.00% | ~934 |
 | Laser Sharp | 1.00% | ~311 |
 | Home Stretch | 0.90% | ~280 |
 | Bronze collector | 0.80% | ~249 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Master Collector | 0.40% | ~124 |
 | QUBE Master | 0.40% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,107 (Ranked 117)  
+Progressed: 31,125 (Ranked 117)  
 Completed: 60 (0.19%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 60 (0.19%) (Ranked 229)
 | 2023-10-20 | 28,560 | 37 |
 | 2023-10-21 | 29,832 | 49 |
 | 2023-10-22 | 30,884 | 57 |
-| 2023-10-23 | 31,107 | 60 |
+| 2023-10-23 | 31,125 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

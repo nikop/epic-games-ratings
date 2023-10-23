@@ -1207,9 +1207,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154128,
+  "EOS_Progressed": 154140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12727,6 +12727,11 @@
       "Time": "2023-10-23T10:08:53.9267153+00:00",
       "NumProgressed": 154128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T11:06:54.3806332+00:00",
+      "NumProgressed": 154140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12760,9 +12765,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 617
+      "UsersEstimate": 771
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -13105,21 +13110,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153711,
+      "Progressed": 153723,
       "Completed": 1170
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154128,
+      "Progressed": 154140,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T07:59:06.4179042+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:08:53.9267146+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:06:54.3806327+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:00:22.2907475+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:08:53.9269074+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:59:09.1738167+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:06:54.3808451+00:00"
 }

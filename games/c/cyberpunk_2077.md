@@ -8,12 +8,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.50% | ~4,467 |
 | Rough Landing | 0.40% | ~3,574 |
+| The High Priestess | 0.40% | ~3,574 |
 | Full Body Conversion | 0.30% | ~2,680 |
 | Right Back At Ya | 0.30% | ~2,680 |
 | Gunslinger | 0.30% | ~2,680 |
 | Stanislavski's Method | 0.30% | ~2,680 |
 | The Hermit | 0.30% | ~2,680 |
-| The High Priestess | 0.30% | ~2,680 |
 | The Wheel of Fortune | 0.30% | ~2,680 |
 | True Soldier | 0.30% | ~2,680 |
 | Two Heads, One Bullet | 0.30% | ~2,680 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,439 (Ranked 15)  
+Progressed: 893,445 (Ranked 15)  
 Completed: 2,702 (0.30%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 2,702 (0.30%) (Ranked 211)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,439 | 2,702 |
+| 2023-10-23 | 893,445 | 2,702 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
-Sum: 321,567 (Ranked 11)  
+Sum: 321,739 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -271,7 +271,7 @@ Diff (max vs sum): -2
 | This game has Diverse Characters | 18,044 |
 | This game is Highly Recommended | 17,455 |
 | This game has Amazing Storytelling | 17,285 |
-| This game is Extremely Fun | 17,008 |
+| This game is Extremely Fun | 17,180 |
 | This game has Amazing Characters | 16,975 |
 | This game is Relaxing | 16,414 |
 | This game has Quickly Understood Controls | 16,361 |
@@ -556,4 +556,4 @@ Diff (max vs sum): -2
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
-| 2023-10-23 | 4.64 | - | 100,696 | 321,567 |
+| 2023-10-23 | 4.64 | - | 100,696 | 321,739 |

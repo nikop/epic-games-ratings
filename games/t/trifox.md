@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What is this? | 71.00% | ~71 |
-| Complete Level 1-1 | 62.00% | ~62 |
+| Complete Level 1-1 | 63.00% | ~63 |
 | Immortal | 54.00% | ~54 |
 | Complete Level 1-2 | 45.00% | ~45 |
 | Engineer-mage hybrid | 32.00% | ~32 |

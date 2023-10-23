@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -54,9 +54,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 100,
+      "Percentage": 120,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EV_ACH03",
@@ -102,49 +102,49 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH09",
       "SetID": "6jeac23",
       "Name": "You Get Used To It",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH14",
@@ -278,9 +278,9 @@
       "ID": "EV_ACH30",
       "SetID": "6jeac23",
       "Name": "Braum\u0027s Poro Ranch",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH31",
@@ -310,9 +310,9 @@
       "ID": "EV_ACH34",
       "SetID": "6jeac23",
       "Name": "One From The Heart",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH35",
@@ -350,17 +350,17 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EV_ACH40",
       "SetID": "6jeac23",
       "Name": "Rock Star",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EV_ACH41",
@@ -374,17 +374,17 @@
       "ID": "EV_ACH42",
       "SetID": "6jeac23",
       "Name": "Deadliest and Biggest Snowball Ever!",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EV_ACH43",
       "SetID": "6jeac23",
       "Name": "We Are Speed",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EV_ACH44",
@@ -404,8 +404,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:09:37.3444459+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:09:14.1417877+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:00:29.6692104+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:09:37.344511+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:59:14.526474+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:09:14.1418501+00:00"
 }

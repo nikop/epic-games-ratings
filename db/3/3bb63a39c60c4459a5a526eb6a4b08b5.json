@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 853,
+  "EOS_Progressed": 854,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3189,6 +3189,11 @@
       "Time": "2023-10-23T07:06:34.2629034+00:00",
       "NumProgressed": 853,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T11:06:52.8160457+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3214,9 +3219,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 478
     },
     {
       "ID": "BigPlane",
@@ -3224,7 +3229,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "BudgetFlight",
@@ -3296,7 +3301,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "FullCompletion",
@@ -3336,7 +3341,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LargeTerritories",
@@ -3384,7 +3389,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Millionaire",
@@ -3400,7 +3405,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "NoTimeForModernization",
@@ -3528,21 +3533,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 853,
+      "Progressed": 854,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:08:51.5708558+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:06:52.8160448+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:58:55.8230129+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:08:51.5709452+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:58:13.9412338+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:06:52.8161493+00:00"
 }

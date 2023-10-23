@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11719,
+  "EOS_Progressed": 11723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14144,6 +14144,11 @@
       "Time": "2023-10-23T09:09:06.3106019+00:00",
       "NumProgressed": 11719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T11:09:50.4562694+00:00",
+      "NumProgressed": 11723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14155,7 +14160,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "02_BurningCity",
@@ -14163,7 +14168,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14171,7 +14176,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "04_FithCrusade",
@@ -14267,7 +14272,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "16_PathOfLegend",
@@ -14355,7 +14360,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "28_GreatUpstart",
@@ -14459,7 +14464,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "41_PlayfulMood",
@@ -14523,7 +14528,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "49_Flame",
@@ -14563,7 +14568,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "54_DeathByColumn",
@@ -15082,21 +15087,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10501,
+      "Progressed": 10505,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11719,
+      "Progressed": 11723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:10:29.0005833+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:09:50.4562689+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:00:56.402454+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:10:29.0009936+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:59:33.9818464+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:09:50.4567347+00:00"
 }

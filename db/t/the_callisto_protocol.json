@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16208,
+  "EOS_Progressed": 16210,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -7992,6 +7992,11 @@
       "Time": "2023-10-23T10:06:57.297525+00:00",
       "NumProgressed": 16208,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T11:05:32.1086451+00:00",
+      "NumProgressed": 16210,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8035,7 +8040,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8153,9 +8158,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 486
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8163,7 +8168,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8378,13 +8383,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16208,
+      "Progressed": 16210,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4134,
+      "Progressed": 4136,
       "Completed": 29
     }
   ],
@@ -8392,8 +8397,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:06:57.2975243+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:05:32.1086445+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:59:49.5485449+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:06:57.2976646+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:58:46.9969608+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:05:32.1088169+00:00"
 }

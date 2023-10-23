@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under the Bridge | 90.00% | ~104 |
-| Treasure Hunter | 9.00% | ~10 |
+| Under the Bridge | 90.00% | ~105 |
+| Treasure Hunter | 9.00% | ~11 |
 | Budget Killer | 5.00% | ~6 |
 | Space Invader | 5.00% | ~6 |
 | Extra Life | 4.00% | ~5 |
 | One Man Army | 4.00% | ~5 |
-| What's my line again? | 3.00% | ~3 |
-| Secret of the Mines | 3.00% | ~3 |
-| Who's gonna pay for that? | 3.00% | ~3 |
-| Meet Your Makers | 3.00% | ~3 |
-| In the Can | 3.00% | ~3 |
+| What's my line again? | 3.00% | ~4 |
+| Secret of the Mines | 3.00% | ~4 |
+| Who's gonna pay for that? | 3.00% | ~4 |
+| Meet Your Makers | 3.00% | ~4 |
+| In the Can | 3.00% | ~4 |
 | O' Captain! My Captain! | 2.00% | ~2 |
 | Unboxing Video | 2.00% | ~2 |
 | Mise-en-scènester | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 383)  
-Completed: 2 (1.72%) (Ranked 122)  
+Progressed: 117 (Ranked 382)  
+Completed: 2 (1.71%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,3 +71,4 @@ Completed: 2 (1.72%) (Ranked 122)
 | 2023-10-20 | 113 | 2 |
 | 2023-10-21 | 115 | 2 |
 | 2023-10-22 | 116 | 2 |
+| 2023-10-23 | 117 | 2 |

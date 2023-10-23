@@ -22,32 +22,32 @@
 | No Bites | 140.00% | ~7 |
 | Boom Things | 140.00% | ~7 |
 | Moneyball | 140.00% | ~7 |
+| My Darkest Day | 120.00% | ~6 |
 | The Pied Piper Of Freljord | 120.00% | ~6 |
 | Vertical Power | 120.00% | ~6 |
-| My Darkest Day | 100.00% | ~5 |
 | Tear of Freedom | 100.00% | ~5 |
+| Family | 100.00% | ~5 |
+| Biggest Snowball Ever | 100.00% | ~5 |
 | Snowy Poro | 100.00% | ~5 |
 | Bullseye | 100.00% | ~5 |
 | Yummy | 100.00% | ~5 |
 | The Finisher | 100.00% | ~5 |
+| Boosted! | 100.00% | ~5 |
 | Handy Yeti | 100.00% | ~5 |
+| Deadliest and Biggest Snowball Ever! | 100.00% | ~5 |
 | A Tragic Reminder | 80.00% | ~4 |
-| Family | 80.00% | ~4 |
-| Biggest Snowball Ever | 80.00% | ~4 |
+| So Close | 80.00% | ~4 |
+| You Get Used To It | 80.00% | ~4 |
+| Freeze The Ice Witch | 80.00% | ~4 |
+| It Is Not Over | 80.00% | ~4 |
+| Braum's Poro Ranch | 80.00% | ~4 |
+| One From The Heart | 80.00% | ~4 |
 | The Relentless Storm | 80.00% | ~4 |
-| Boosted! | 80.00% | ~4 |
-| Deadliest and Biggest Snowball Ever! | 80.00% | ~4 |
+| We Are Speed | 80.00% | ~4 |
 | 3000 Year Blackout | 60.00% | ~3 |
-| So Close | 60.00% | ~3 |
-| You Get Used To It | 60.00% | ~3 |
-| Freeze The Ice Witch | 60.00% | ~3 |
-| It Is Not Over | 60.00% | ~3 |
-| Braum's Poro Ranch | 60.00% | ~3 |
 | It Was Him | 60.00% | ~3 |
-| One From The Heart | 60.00% | ~3 |
-| We Are Speed | 60.00% | ~3 |
+| Rock Star | 60.00% | ~3 |
 | Sneaky Notai | 40.00% | ~2 |
-| Rock Star | 40.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 572)  
 Completed: 0 (0.00%) (Ranked 320)  

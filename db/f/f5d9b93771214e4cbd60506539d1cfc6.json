@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149517,
+  "EOS_Progressed": 149519,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15458,6 +15458,11 @@
       "Time": "2023-10-23T10:05:36.8155677+00:00",
       "NumProgressed": 149517,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-10-23T11:04:43.29236+00:00",
+      "NumProgressed": 149519,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 31,
@@ -15477,7 +15482,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104662
+      "UsersEstimate": 104663
     },
     {
       "ID": "EAwards_10",
@@ -15485,7 +15490,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20932
+      "UsersEstimate": 20933
     },
     {
       "ID": "EAwards_11",
@@ -15493,7 +15498,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29903
+      "UsersEstimate": 29904
     },
     {
       "ID": "EAwards_12",
@@ -15573,7 +15578,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11961
+      "UsersEstimate": 11962
     },
     {
       "ID": "EAwards_21",
@@ -15653,7 +15658,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28408
+      "UsersEstimate": 28409
     },
     {
       "ID": "EAwards_30",
@@ -15685,7 +15690,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37379
+      "UsersEstimate": 37380
     },
     {
       "ID": "EAwards_7",
@@ -15701,7 +15706,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55321
+      "UsersEstimate": 55322
     },
     {
       "ID": "EAwards_9",
@@ -15716,7 +15721,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149517,
+      "Progressed": 149519,
       "Completed": 307
     }
   ],
@@ -15724,8 +15729,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-23T10:05:36.8155671+00:00",
+  "LastChanged_Achievements": "2023-10-23T11:04:43.2923594+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:00:40.9987919+00:00",
-  "LastUpdate_Achievements": "2023-10-23T10:05:36.8157134+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:59:21.6642077+00:00",
+  "LastUpdate_Achievements": "2023-10-23T11:04:43.2926456+00:00"
 }

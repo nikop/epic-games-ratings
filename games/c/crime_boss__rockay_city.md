@@ -10,7 +10,7 @@ Rating: 3.94 (Ranked 989)
 | First One’s Free | 1.00% | ~893 |
 | Downed but Not Outed | 1.00% | ~893 |
 | Too Old for This | 1.00% | ~893 |
-| Fancy Pants | 0.90% | ~803 |
+| Fancy Pants | 0.90% | ~804 |
 | Roid Ranger | 0.80% | ~714 |
 | King of the Hill | 0.80% | ~714 |
 | Off the Rocks | 0.80% | ~714 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 989)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,277 (Ranked 86)  
+Progressed: 89,279 (Ranked 86)  
 Completed: 50 (0.06%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 50 (0.06%) (Ranked 272)
 | 2023-10-20 | 89,206 | 50 |
 | 2023-10-21 | 89,231 | 50 |
 | 2023-10-22 | 89,265 | 50 |
-| 2023-10-23 | 89,277 | 50 |
+| 2023-10-23 | 89,279 | 50 |
 ## Awards
 Max (Diverse Characters): 509  (Ranked 204)  
 Sum: 2,873 (Ranked 175)  
