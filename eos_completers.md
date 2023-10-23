@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.29% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.33% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.28% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -92,7 +92,7 @@
 | 90 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
 | 91 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 92 | [HordeCore](games/h/hordecore.md) | 3.09% |
-| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.96% |
+| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.94% |
 | 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 95 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 95 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -162,7 +162,7 @@
 | 160 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 161 | [Eternights](games/e/eternights.md) | 0.73% |
 | 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 163 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.69% |
+| 163 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.68% |
 | 164 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
 | 166 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -218,11 +218,11 @@
 | 215 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 217 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 218 | [Filament](games/f/filament.md) | 0.25% |
-| 218 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.25% |
-| 220 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
-| 220 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 222 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 222 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
+| 219 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 219 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
+| 221 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 221 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
+| 221 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.23% |
 | 224 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 224 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
