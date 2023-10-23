@@ -18,18 +18,18 @@ Rating: 4.63 (Ranked 340)
 | Knives Out | 48.00% | ~343 |
 | Gaze Into The Abyss | 47.00% | ~336 |
 | Land, Ho! | 47.00% | ~336 |
+| No Man Is An Island | 47.00% | ~336 |
 | Lock, Stock, And Barrel | 46.00% | ~328 |
 | Back In The Saddle | 46.00% | ~328 |
-| No Man Is An Island | 46.00% | ~328 |
 | At Wits' End | 46.00% | ~328 |
+| Bookworm | 44.00% | ~314 |
 | Fhtagn! | 44.00% | ~314 |
-| Bookworm | 43.00% | ~307 |
 | Up In Flames | 43.00% | ~307 |
 | Going Once... | 39.00% | ~278 |
 | Let Me Be Frank | 37.00% | ~264 |
 | Brain Food | 36.00% | ~257 |
 | No Stone Unturned | 36.00% | ~257 |
-| Read It And Weep | 22.00% | ~157 |
+| Read It And Weep | 23.00% | ~164 |
 | Curiosity Killed The Cat | 19.00% | ~136 |
 | Big Breakthrough | 13.00% | ~93 |
 | Reawakened | 4.00% | ~29 |

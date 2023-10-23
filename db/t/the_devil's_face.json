@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2023-10-22T23:03:50.9207816+00:00",
       "NumProgressed": 441,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-23T00:03:49.0680631+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1989,7 +1994,7 @@
       "Name": "This looks really bad",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2021,7 +2026,7 @@
       "Name": "Holy Nails",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2036,14 +2041,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:03:50.920781+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:03:49.0680625+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:57:17.4145317+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:03:50.9208248+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:57:02.8525372+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:03:49.0680812+00:00"
 }

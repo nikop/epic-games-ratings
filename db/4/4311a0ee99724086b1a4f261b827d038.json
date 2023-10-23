@@ -461,9 +461,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 227981,
+  "EOS_Progressed": 227987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1467,
+  "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10891,6 +10891,11 @@
       "Time": "2023-10-22T23:09:06.8880932+00:00",
       "NumProgressed": 227981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T00:08:42.1520949+00:00",
+      "NumProgressed": 227987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10959,7 +10964,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47876
+      "UsersEstimate": 47877
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -10967,7 +10972,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20518
+      "UsersEstimate": 20519
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -10999,7 +11004,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -11007,7 +11012,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -11159,7 +11164,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 56995
+      "UsersEstimate": 56997
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11174,7 +11179,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 227981,
+      "Progressed": 227987,
       "Completed": 0
     }
   ],
@@ -11182,8 +11187,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-22T19:58:27.883614+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:09:06.8880926+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:08:42.1520941+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:58:48.1330712+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:09:06.8882036+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:58:24.7166042+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:08:42.1521631+00:00"
 }

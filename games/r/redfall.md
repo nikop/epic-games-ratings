@@ -40,6 +40,7 @@ Rating: 3.51 (Ranked 1,020)
 | Starve the Beast | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
+| Curious Finch | 0.30% | ~5 |
 | I Spit On Your Grave | 0.30% | ~5 |
 | Revelations | 0.20% | ~4 |
 | What Lies Below | 0.20% | ~4 |
@@ -48,7 +49,6 @@ Rating: 3.51 (Ranked 1,020)
 | Under a Bushel | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
-| Curious Finch | 0.20% | ~4 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |

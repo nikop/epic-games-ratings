@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 71.00% | ~105 |
-| Hunting Season | 58.00% | ~86 |
+| Nightmare Territory | 72.00% | ~107 |
+| Hunting Season | 59.00% | ~88 |
 | Grew Bigger | 50.00% | ~74 |
 | Bring It | 49.00% | ~73 |
 | Coffee Thermos | 49.00% | ~73 |
-| Not the Last | 45.00% | ~67 |
+| Not the Last | 46.00% | ~69 |
 | Darkness Coiled | 43.00% | ~64 |
-| Find the Light | 42.00% | ~62 |
+| Find the Light | 42.00% | ~63 |
 | Chased the Source | 39.00% | ~58 |
 | Somebody's Home | 37.00% | ~55 |
-| Felt Good | 36.00% | ~53 |
-| Aimed Ahead | 33.00% | ~49 |
-| Into the Overlap | 32.00% | ~47 |
-| Secret Stashes | 32.00% | ~47 |
-| Lawman | 30.00% | ~44 |
-| Carry his Words | 30.00% | ~44 |
-| Filling the Shape | 30.00% | ~44 |
-| Greatest Hits | 28.00% | ~41 |
-| The Other Side | 28.00% | ~41 |
-| Talk Show | 27.00% | ~40 |
-| Lights Shining | 26.00% | ~38 |
+| Felt Good | 36.00% | ~54 |
+| Aimed Ahead | 34.00% | ~51 |
+| Secret Stashes | 34.00% | ~51 |
+| Into the Overlap | 33.00% | ~49 |
+| Lawman | 31.00% | ~46 |
+| Carry his Words | 31.00% | ~46 |
+| Filling the Shape | 30.00% | ~45 |
+| The Other Side | 30.00% | ~45 |
+| Greatest Hits | 28.00% | ~42 |
+| Talk Show | 28.00% | ~42 |
+| Lights Shining | 26.00% | ~39 |
 | Yippee Ki-yay | 25.00% | ~37 |
-| This is the Moment | 22.00% | ~33 |
-| Storm Cloud | 22.00% | ~33 |
+| Storm Cloud | 23.00% | ~34 |
+| New York City | 23.00% | ~34 |
+| Return | 23.00% | ~34 |
 | Shining in the Night | 22.00% | ~33 |
-| New York City | 22.00% | ~33 |
-| Return | 22.00% | ~33 |
 | Ready for a Fight | 21.00% | ~31 |
-| Growing Stronger | 20.00% | ~30 |
+| This is the Moment | 21.00% | ~31 |
+| Growing Stronger | 21.00% | ~31 |
 | Finding a Way | 20.00% | ~30 |
 | Stop the Monster | 19.00% | ~28 |
-| Bright Falls' Finest | 16.00% | ~24 |
+| Bright Falls' Finest | 15.00% | ~22 |
 | All His Life | 15.00% | ~22 |
 | Escape its Gravity | 14.00% | ~21 |
-| Stop Right There | 14.00% | ~21 |
 | Back in Watery | 14.00% | ~21 |
 | In One Go | 14.00% | ~21 |
+| Stop Right There | 13.00% | ~19 |
 | All Accounted For | 12.00% | ~18 |
 | Stunning Vistas | 11.00% | ~16 |
 | We Watch in the Night | 11.00% | ~16 |
 | Girl in Love | 9.00% | ~13 |
+| The Old Gods | 9.00% | ~13 |
 | Seeing Double | 9.00% | ~13 |
 | In a Fancy Hotel | 9.00% | ~13 |
 | Gone for Good | 8.00% | ~12 |
-| The Old Gods | 8.00% | ~12 |
 | Behind the Masks | 8.00% | ~12 |
 | Strange Reality | 7.00% | ~10 |
 | The Trail of the Writer | 7.00% | ~10 |
@@ -71,7 +71,7 @@
 | Hidden by the Trees | 0.70% | ~1 |
 | Rustic Charm | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148 (Ranked 367)  
+Progressed: 149 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-20 | 100 | 0 |
 | 2023-10-21 | 129 | 0 |
 | 2023-10-22 | 148 | 0 |
+| 2023-10-23 | 149 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

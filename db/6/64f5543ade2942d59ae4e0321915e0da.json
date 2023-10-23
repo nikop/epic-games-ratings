@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -184,9 +184,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_BOSS_02",
@@ -272,9 +272,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 47,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -304,9 +304,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:06:07.1121891+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:05:52.3140564+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:00:13.5413929+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:06:07.1122623+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:59:43.0803301+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:05:52.3140838+00:00"
 }

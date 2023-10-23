@@ -7,9 +7,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~257,834 |
-| Cavalier | 25.00% | ~201,432 |
+| Cavalier | 25.00% | ~201,433 |
 | Fatso | 23.00% | ~185,318 |
-| Awakening | 21.00% | ~169,203 |
+| Awakening | 21.00% | ~169,204 |
 | Ranger | 20.00% | ~161,146 |
 | Scrooge | 20.00% | ~161,146 |
 | Anorectic | 16.00% | ~128,917 |
@@ -18,16 +18,16 @@ Number of Ratings: 9,133  (23.09.2022)
 | Insomniac | 13.00% | ~104,745 |
 | Buddy | 12.00% | ~96,688 |
 | Thief | 12.00% | ~96,688 |
-| Sinner | 11.00% | ~88,630 |
-| Traveller | 11.00% | ~88,630 |
+| Sinner | 11.00% | ~88,631 |
+| Traveller | 11.00% | ~88,631 |
 | Convict | 10.00% | ~80,573 |
 | Haggler | 9.00% | ~72,516 |
 | McLovin | 7.00% | ~56,401 |
 | Runt | 7.00% | ~56,401 |
 | Casanova | 6.00% | ~48,344 |
-| Bad Trip | 5.00% | ~40,286 |
-| Monk | 5.00% | ~40,286 |
-| Serial Killer | 5.00% | ~40,286 |
+| Bad Trip | 5.00% | ~40,287 |
+| Monk | 5.00% | ~40,287 |
+| Serial Killer | 5.00% | ~40,287 |
 | Bastard | 4.00% | ~32,229 |
 | Hunter | 4.00% | ~32,229 |
 | Plague Doctor | 4.00% | ~32,229 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~806 |
 | Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,730 (Ranked 17)  
+Progressed: 805,732 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,6 +275,7 @@ Completed: 51 (0.01%) (Ranked 300)
 | 2023-10-20 | 805,466 | 51 |
 | 2023-10-21 | 805,590 | 51 |
 | 2023-10-22 | 805,730 | 51 |
+| 2023-10-23 | 805,732 | 51 |
 ## Awards
 Max (Character Customization): 7,538  (Ranked 50)  
 Sum: 28,048 (Ranked 48)  

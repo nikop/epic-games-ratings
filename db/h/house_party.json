@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -371,7 +371,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6400,
+  "EOS_Progressed": 6401,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -5921,6 +5921,11 @@
       "Time": "2023-10-21T22:05:24.9485729+00:00",
       "NumProgressed": 6400,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-23T00:05:58.5645045+00:00",
+      "NumProgressed": 6401,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6074,9 +6079,9 @@
       "ID": "DoNotBurn",
       "SetID": "bmkn7o4",
       "Name": "Do Not Burn",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "DojaDinoliciousDanceapalooza",
@@ -6306,9 +6311,9 @@
       "ID": "SmellBlood",
       "SetID": "bmkn7o4",
       "Name": "Do You Smell Blood?",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 13
     },
     {
       "ID": "SocialButterfly",
@@ -6483,21 +6488,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3439,
+      "Progressed": 3440,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6400,
+      "Progressed": 6401,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:06:13.7792185+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:05:58.564504+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7841194+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:01:43.3906486+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:06:13.7793232+00:00"
+  "LastUpdate_Ratings": "2023-10-23T00:01:11.8276097+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:05:58.5645902+00:00"
 }

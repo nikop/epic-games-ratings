@@ -55,11 +55,11 @@
 | Battlemaster | 32.00% | ~251 |
 | Catharsis | 32.00% | ~251 |
 | The Cure | 32.00% | ~251 |
+| Big Game Hunter | 32.00% | ~251 |
 | Revenge! | 32.00% | ~251 |
 | Heart of Darkness | 32.00% | ~251 |
 | Shopaholic | 32.00% | ~251 |
 | Fade Away | 31.00% | ~243 |
-| Big Game Hunter | 31.00% | ~243 |
 | Agent | 31.00% | ~243 |
 | Driven | 31.00% | ~243 |
 | Focused | 30.00% | ~235 |
@@ -85,8 +85,8 @@
 | Savior | 23.00% | ~180 |
 | Pathfinder | 23.00% | ~180 |
 | Arbiter | 23.00% | ~180 |
+| Lost and Found | 23.00% | ~180 |
 | Paramour II | 22.00% | ~172 |
-| Lost and Found | 22.00% | ~172 |
 | Party Crasher | 21.00% | ~164 |
 | Pyromaniac | 20.00% | ~157 |
 | No One Left Behind | 20.00% | ~157 |

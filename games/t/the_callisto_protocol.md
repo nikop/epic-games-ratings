@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 899)
 | Terminated | 3.00% | ~486 |
 | In Striking Distance | 2.00% | ~324 |
 | The Commonality | 2.00% | ~324 |
-| One Last Job | 2.00% | ~82 |
+| One Last Job | 2.00% | ~83 |
 | This Isn't About Escape | 1.00% | ~41 |
 | Armed to the Teeth | 0.70% | ~29 |
 | Grim Reaper | 0.70% | ~113 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 899)
 | Parole Denied | 0.60% | ~25 |
 | Quick Pick | 0.60% | ~25 |
 | Mugshot | 0.50% | ~81 |
-| Instigator | 0.40% | ~16 |
+| Instigator | 0.40% | ~17 |
 | Subject Alpha | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
 | Hoard Mode | 0.20% | ~8 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,196 (Ranked 134)  
+Progressed: 16,200 (Ranked 134)  
 Completed: 77 (0.48%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 77 (0.48%) (Ranked 183)
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
+| 2023-10-23 | 16,200 | 77 |
 ## Awards
 Max (Amazing Storytelling): 77  (Ranked 379)  
 Sum: 451 (Ranked 323)  

@@ -39,19 +39,19 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.40% | ~14 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
-| Do Not Burn | 0.30% | ~19 |
 | First Impressions | 0.30% | ~19 |
 | Rule 34 | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
-| Do You Smell Blood? | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
 | Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
+| Do Not Burn | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | Good Riddance! | 0.20% | ~13 |
 | The Harder They Fall...Dood | 0.20% | ~13 |
 | Ronin | 0.20% | ~13 |
+| Do You Smell Blood? | 0.20% | ~13 |
 | A Striking Resemblance | 0.20% | ~13 |
 | Howz It Goin Dood | 0.20% | ~13 |
 | Derezzed | 0.20% | ~13 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,400 (Ranked 167)  
+Progressed: 6,401 (Ranked 167)  
 Completed: 3 (0.05%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,6 +256,7 @@ Completed: 3 (0.05%) (Ranked 277)
 | 2023-10-19 | 6,388 | 3 |
 | 2023-10-20 | 6,391 | 3 |
 | 2023-10-21 | 6,400 | 3 |
+| 2023-10-23 | 6,401 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

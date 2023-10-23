@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1613,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1600,
+  "EOS_NewPlayers": 1601,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -634,6 +634,11 @@
       "Time": "2023-10-22T23:07:47.4710574+00:00",
       "NumProgressed": 1613,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-23T00:07:27.8099324+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -646,7 +651,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -718,7 +723,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -742,7 +747,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -780,9 +785,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "7opfcp",
       "Name": "Love Actually",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 581
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -830,7 +835,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -852,9 +857,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "7opfcp",
       "Name": "What I Want Is You",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 775
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -910,7 +915,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -926,7 +931,7 @@
       "Name": "David",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -940,9 +945,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7opfcp",
       "Name": "You\u0027re Really Something Else",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 468
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -950,7 +955,7 @@
       "Name": "Worthless Speech",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -981,14 +986,14 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:07:47.4710569+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:07:27.8099319+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:03:05.046959+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:07:47.4710973+00:00"
+  "LastUpdate_Ratings": "2023-10-23T00:03:03.4099194+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:07:27.8099633+00:00"
 }

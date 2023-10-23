@@ -11079,9 +11079,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 437539,
+  "EOS_Progressed": 437555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5435,
+  "EOS_NewPlayers": 5428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32194,6 +32194,11 @@
       "Time": "2023-10-22T23:05:44.7464468+00:00",
       "NumProgressed": 437539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T00:05:31.4344574+00:00",
+      "NumProgressed": 437555,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32821,7 +32826,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -33413,7 +33418,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -33421,7 +33426,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -34141,7 +34146,7 @@
       "Name": "Respected",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -34485,7 +34490,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13126
+      "UsersEstimate": 13127
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34629,7 +34634,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -34797,7 +34802,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -34813,7 +34818,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "achievement_trustworthy",
@@ -35036,21 +35041,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 437539,
+      "Progressed": 437555,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 437539,
+      "Progressed": 437555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-22T23:00:32.8597838+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:05:44.7464463+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:05:31.4344568+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:00:32.8597847+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:05:44.7480059+00:00"
+  "LastUpdate_Ratings": "2023-10-23T00:00:02.8340424+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:05:31.4355892+00:00"
 }

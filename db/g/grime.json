@@ -1195,9 +1195,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154057,
+  "EOS_Progressed": 154069,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1566,
+  "EOS_NewPlayers": 1571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12660,6 +12660,11 @@
       "Time": "2023-10-22T23:08:13.4564717+00:00",
       "NumProgressed": 154057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T00:07:52.1563284+00:00",
+      "NumProgressed": 154069,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12775,7 +12780,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -12927,7 +12932,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -12935,7 +12940,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13038,21 +13043,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153640,
+      "Progressed": 153652,
       "Completed": 1170
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154057,
+      "Progressed": 154069,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-22T20:59:23.9349173+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:08:13.4564711+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:07:52.156328+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:59:42.8919963+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:08:13.4565977+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:59:17.177919+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:07:52.1564124+00:00"
 }

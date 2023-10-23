@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 849,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2023-10-22T19:07:01.2537138+00:00",
       "NumProgressed": 848,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T00:07:49.8201109+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3207,7 +3212,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Calculated",
@@ -3341,9 +3346,9 @@
       "ID": "LongDistance",
       "SetID": "1e89b4i",
       "Name": "Long Distances",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 153
     },
     {
       "ID": "ManagementMaster",
@@ -3375,7 +3380,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "NoTimeForModernization",
@@ -3389,9 +3394,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 365
     },
     {
       "ID": "NotPlanned",
@@ -3447,7 +3452,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Restructuring",
@@ -3510,14 +3515,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 849,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:08:10.9937234+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:07:49.8201102+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:58:21.3902822+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:08:10.9937787+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:57:59.758895+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:07:49.8201524+00:00"
 }

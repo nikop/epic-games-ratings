@@ -439,9 +439,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2758,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2023-10-22T23:09:03.7160168+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T00:08:39.1132754+00:00",
+      "NumProgressed": 2758,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3184,7 +3189,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_11",
@@ -3272,7 +3277,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "achievement_21",
@@ -3304,7 +3309,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "achievement_6",
@@ -3312,7 +3317,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "achievement_7",
@@ -3343,7 +3348,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2758,
       "Completed": 0
     }
   ],
@@ -3351,8 +3356,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-22T20:57:38.6802021+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:09:03.7160162+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:08:39.1132749+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:57:50.4586087+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:09:03.7160565+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:57:31.6835247+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:08:39.1133023+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -402,6 +402,11 @@
       "Time": "2023-10-22T23:04:05.4539431+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T00:03:53.1319482+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -412,7 +417,7 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 73
     },
@@ -430,7 +435,7 @@
       "Name": "Out of control",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -494,7 +499,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -540,9 +545,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -556,9 +561,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -572,9 +577,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -582,15 +587,15 @@
       "Name": "The Octopus",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -668,9 +673,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -694,7 +699,7 @@
       "Name": "Perfectionist",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -750,21 +755,21 @@
       "Name": "Mission complete",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:04:05.4539426+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:03:53.1319477+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:00:08.4849046+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:04:05.4539825+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:59:38.6037491+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:03:53.1319803+00:00"
 }

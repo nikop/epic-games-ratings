@@ -1207,10 +1207,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 715,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-10-22T23:58:12.4677085+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 716,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 715,
+  "NumberOfAwards": 716,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1260,7 +1266,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1283,7 +1289,7 @@
   ],
   "EOS_Progressed": 5647,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11982,9 +11988,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-21T14:57:55.9497777+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:09:35.8817519+00:00",
+  "LastChanged": "2023-10-22T23:58:12.4677084+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:09:19.4948936+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.8637871+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:58:34.9795364+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:09:35.8818723+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:58:12.4677089+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:09:19.4949693+00:00"
 }

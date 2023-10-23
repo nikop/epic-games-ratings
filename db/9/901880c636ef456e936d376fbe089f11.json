@@ -383,9 +383,9 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_25_DRINK_CHALLENGEMODE",
@@ -495,9 +495,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -814,8 +814,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:08:59.6893685+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:08:35.297336+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.4016767+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:58:42.9149201+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:08:59.6894082+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:58:19.7379343+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:08:35.2973747+00:00"
 }

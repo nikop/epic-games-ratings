@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,087 |
-| Advancement | 3.00% | ~815 |
-| Meticulously Efficient | 3.00% | ~815 |
+| Stylish | 4.00% | ~1,088 |
+| Advancement | 3.00% | ~816 |
+| Meticulously Efficient | 3.00% | ~816 |
 | Clutch Capture | 2.00% | ~544 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~544 |
 | Cultured | 2.00% | ~544 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 576)
 | Welcome to the Crew | 1.00% | ~272 |
 | We have the best insurance | 0.90% | ~245 |
 | Seasoned | 0.90% | ~245 |
-| Rift Destroyer | 0.80% | ~217 |
+| Rift Destroyer | 0.80% | ~218 |
 | Collector | 0.70% | ~190 |
 | Diabolical | 0.70% | ~190 |
 | Escape Artist | 0.70% | ~190 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,176 (Ranked 119)  
+Progressed: 27,189 (Ranked 119)  
 Completed: 62 (0.23%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 62 (0.23%) (Ranked 219)
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
+| 2023-10-23 | 27,189 | 62 |
 ## Awards
 Max (Great for Beginners): 275  (Ranked 253)  
 Sum: 2,482 (Ranked 184)  

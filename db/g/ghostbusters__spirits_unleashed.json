@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2631,9 +2631,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27176,
+  "EOS_Progressed": 27189,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -15941,6 +15941,11 @@
       "Time": "2023-10-22T23:06:29.3344598+00:00",
       "NumProgressed": 27176,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T00:06:13.5904201+00:00",
+      "NumProgressed": 27189,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 51,
@@ -15952,7 +15957,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Animated",
@@ -16064,7 +16069,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Escape_Artist",
@@ -16184,7 +16189,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Rift_Seeker",
@@ -16256,7 +16261,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "Summoner",
@@ -16359,7 +16364,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27176,
+      "Progressed": 27189,
       "Completed": 62
     }
   ],
@@ -16367,8 +16372,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-22T22:57:29.9835935+00:00",
-  "LastChanged_Achievements": "2023-10-22T23:06:29.3344589+00:00",
+  "LastChanged_Achievements": "2023-10-23T00:06:13.5904197+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-22T22:57:29.9835942+00:00",
-  "LastUpdate_Achievements": "2023-10-22T23:06:29.3346357+00:00"
+  "LastUpdate_Ratings": "2023-10-22T23:57:14.6479265+00:00",
+  "LastUpdate_Achievements": "2023-10-23T00:06:13.5905191+00:00"
 }
