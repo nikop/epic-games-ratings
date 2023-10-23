@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 0.40% | ~2,864 |
 | The Assault | 0.40% | ~2,864 |
 | The Hateful Pole Fighter | 0.40% | ~2,864 |
+| A Lady's Blood in the Snow | 0.40% | ~2,864 |
 | Life is your teacher | 0.40% | ~2,864 |
 | State of constant learning | 0.40% | ~2,864 |
 | Qi Gong: Breath | 0.40% | ~2,864 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.40% | ~2,864 |
 | Project Arena | 0.40% | ~101 |
 | Fight the way you practice | 0.40% | ~101 |
-| A Lady's Blood in the Snow | 0.30% | ~2,148 |
 | Lady Wing Chun | 0.30% | ~2,148 |
 | Furious Fists | 0.30% | ~2,148 |
 | Kill Nil | 0.30% | ~2,148 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,884 (Ranked 20)  
+Progressed: 715,885 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 12,925 (1.81%) (Ranked 119)
 | 2023-10-20 | 715,805 | 12,924 |
 | 2023-10-21 | 715,835 | 12,925 |
 | 2023-10-22 | 715,869 | 12,925 |
-| 2023-10-23 | 715,884 | 12,925 |
+| 2023-10-23 | 715,885 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,724  (Ranked 53)  
 Sum: 11,689 (Ranked 82)  

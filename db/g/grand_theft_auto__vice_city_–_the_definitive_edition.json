@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -787,11 +787,11 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10671,
-  "EOS_Completed": 62,
-  "EOS_NewPlayers": 57,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Progressed": 10672,
+  "EOS_Completed": 63,
+  "EOS_NewPlayers": 58,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -11752,6 +11752,11 @@
       "Time": "2023-10-23T15:06:10.3893781+00:00",
       "NumProgressed": 10671,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T19:05:53.773702+00:00",
+      "NumProgressed": 10672,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11939,7 +11944,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "ACH24",
@@ -11961,9 +11966,9 @@
       "ID": "ACH26",
       "SetID": "9llo822",
       "Name": "Tommy Two-Wheels",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1708
     },
     {
       "ID": "ACH27",
@@ -12034,16 +12039,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10671,
-      "Completed": 62
+      "Progressed": 10672,
+      "Completed": 63
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:07:23.7495236+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:05:53.7737016+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:01:53.4278156+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:07:23.7496168+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:00:32.6066483+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:05:53.7737905+00:00"
 }

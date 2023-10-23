@@ -2,10 +2,10 @@
   "ID": "d36ba9bed7b64c1caeebf444586a679d",
   "Name": "Wild West Undead",
   "ProductSlug": "wildwestundead-7378e0",
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-16T20:57:08.7005026+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:03:27.4415682+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:04:13.019255+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:03:03.3123102+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:03:28.0489129+00:00"
 }

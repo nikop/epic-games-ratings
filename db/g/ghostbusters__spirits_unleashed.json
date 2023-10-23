@@ -2581,10 +2581,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2499,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-10-23T18:57:54.1028046+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2504,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2499,
+  "NumberOfAwards": 2504,
   "NumberOfAwardsMax": 275,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2604,7 +2610,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 228
+      "Count": 231
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2646,7 +2652,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 248
+      "Count": 250
     },
     {
       "Text": "This game has Competitive Players",
@@ -2661,9 +2667,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27304,
+  "EOS_Progressed": 27321,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16066,6 +16072,11 @@
       "Time": "2023-10-23T18:07:05.3599265+00:00",
       "NumProgressed": 27304,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-23T19:05:40.5684229+00:00",
+      "NumProgressed": 27321,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16077,7 +16088,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Animated",
@@ -16189,7 +16200,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "Escape_Artist",
@@ -16235,9 +16246,9 @@
       "ID": "Icing_Cake",
       "SetID": "819popo",
       "Name": "Icing on the Cake",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 546
     },
     {
       "ID": "Legions",
@@ -16309,7 +16320,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Rift_Seeker",
@@ -16381,7 +16392,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "Summoner",
@@ -16445,7 +16456,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Ultimate_Defense",
@@ -16484,16 +16495,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27304,
+      "Progressed": 27321,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-23T16:57:59.0303764+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:07:05.3599259+00:00",
+  "LastChanged": "2023-10-23T18:57:54.1028044+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:05:40.5684225+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:58:13.7659325+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:07:05.3600521+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:54.1028054+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:05:40.5685466+00:00"
 }

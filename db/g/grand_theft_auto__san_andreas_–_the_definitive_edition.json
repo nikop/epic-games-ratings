@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1297,9 +1297,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13254,
+  "EOS_Progressed": 13255,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13132,6 +13132,11 @@
       "Time": "2023-10-23T13:09:54.8723631+00:00",
       "NumProgressed": 13254,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-23T19:04:32.0651915+00:00",
+      "NumProgressed": 13255,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13143,7 +13148,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10868
+      "UsersEstimate": 10869
     },
     {
       "ID": "ACH02",
@@ -13223,7 +13228,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ACH12",
@@ -13422,7 +13427,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13254,
+      "Progressed": 13255,
       "Completed": 50
     }
   ],
@@ -13430,8 +13435,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-23T14:57:16.8587249+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:05:29.5768631+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:04:32.065191+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.3200483+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:57:47.4654814+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:05:29.5769636+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:37.8952695+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:04:32.0652893+00:00"
 }

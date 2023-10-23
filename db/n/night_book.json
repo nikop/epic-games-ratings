@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.78,
+  "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -286,6 +286,11 @@
       "Time": "2023-10-23T18:03:44.3250367+00:00",
       "NumProgressed": 225,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T19:03:14.8533899+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -305,7 +310,7 @@
       "Name": "Career Woman",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "deal_or_no_deal",
@@ -337,7 +342,7 @@
       "Name": "Impress Theron",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "marriage_is_off",
@@ -345,7 +350,7 @@
       "Name": "The Marriage Is Off",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "no_one_is_safe",
@@ -353,7 +358,7 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "off_his_meds",
@@ -361,7 +366,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "on_your_bike",
@@ -385,7 +390,7 @@
       "Name": "Personal Life",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "save_dad",
@@ -425,14 +430,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 4
     }
   ],
@@ -440,8 +445,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:03:44.3250359+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:03:14.8533893+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:57:52.4691121+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:03:44.3250568+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:41.2175663+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:03:14.8534108+00:00"
 }

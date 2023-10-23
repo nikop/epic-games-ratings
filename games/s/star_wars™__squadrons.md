@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~12,445 |
-| Safety in the Storm | 25.00% | ~3,275 |
-| A Better Idea | 25.00% | ~3,275 |
-| Begin the Ceremony | 21.00% | ~2,751 |
-| Mission Accomplished | 20.00% | ~2,620 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,965 |
-| A Starfighter of Your Own | 14.00% | ~1,834 |
-| Asset Secured | 13.00% | ~1,703 |
-| Unkillable | 8.00% | ~1,048 |
-| The Galaxy's Finest (Pilot) | 7.00% | ~917 |
-| Sound Strategy | 7.00% | ~917 |
-| Together, Vanguard | 7.00% | ~917 |
-| Stomped | 6.00% | ~786 |
-| Fearless | 5.00% | ~655 |
-| Flames Over Mon Cala | 5.00% | ~655 |
-| A Promising Career | 5.00% | ~655 |
+| Fracture at Fostar Haven | 95.00% | ~12,454 |
+| Safety in the Storm | 25.00% | ~3,278 |
+| A Better Idea | 25.00% | ~3,278 |
+| Begin the Ceremony | 21.00% | ~2,753 |
+| Mission Accomplished | 20.00% | ~2,622 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,966 |
+| A Starfighter of Your Own | 14.00% | ~1,835 |
+| Asset Secured | 13.00% | ~1,704 |
+| Unkillable | 8.00% | ~1,049 |
+| The Galaxy's Finest (Pilot) | 7.00% | ~918 |
+| Sound Strategy | 7.00% | ~918 |
+| Together, Vanguard | 7.00% | ~918 |
+| Stomped | 6.00% | ~787 |
+| Fearless | 5.00% | ~656 |
+| Flames Over Mon Cala | 5.00% | ~656 |
+| A Promising Career | 5.00% | ~656 |
 | Great Shot, Kid | 4.00% | ~524 |
 | Back From the Brink | 4.00% | ~524 |
 | Temporary Guardian | 4.00% | ~524 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~13 |
 | The Galaxy's Finest (Ace) | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,100 (Ranked 144)  
+Progressed: 13,110 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.01%) (Ranked 303)
 | 2023-10-20 | 12,320 | 1 |
 | 2023-10-21 | 12,629 | 1 |
 | 2023-10-22 | 12,968 | 1 |
-| 2023-10-23 | 13,100 | 1 |
+| 2023-10-23 | 13,110 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72159,
+  "EOS_Progressed": 72162,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20792,6 +20792,11 @@
       "Time": "2023-10-23T18:07:31.879223+00:00",
       "NumProgressed": 72159,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-23T19:05:59.656738+00:00",
+      "NumProgressed": 72162,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20811,7 +20816,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15875
+      "UsersEstimate": 15876
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -20819,7 +20824,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49068
+      "UsersEstimate": 49070
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20827,7 +20832,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15875
+      "UsersEstimate": 15876
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -20835,7 +20840,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18761
+      "UsersEstimate": 18762
     },
     {
       "ID": "ERADICATE",
@@ -20843,7 +20848,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15153
+      "UsersEstimate": 15154
     },
     {
       "ID": "FETCH",
@@ -20859,7 +20864,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20926
+      "UsersEstimate": 20927
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -20883,7 +20888,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38244
+      "UsersEstimate": 38246
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20923,7 +20928,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6494
+      "UsersEstimate": 6495
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -20947,7 +20952,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15153
+      "UsersEstimate": 15154
     },
     {
       "ID": "SPIRIT_DASH",
@@ -20955,7 +20960,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7937
+      "UsersEstimate": 7938
     },
     {
       "ID": "SPIRIT_FORM",
@@ -20963,7 +20968,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12267
+      "UsersEstimate": 12268
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -20987,14 +20992,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11545
+      "UsersEstimate": 11546
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72159,
+      "Progressed": 72162,
       "Completed": 379
     }
   ],
@@ -21002,8 +21007,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:07:31.8792223+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:05:59.6567373+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:02:13.6553796+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:07:31.8794003+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:00:47.6720001+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:05:59.6568768+00:00"
 }

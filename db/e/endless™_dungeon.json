@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 640,
+  "EOS_Progressed": 641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -388,6 +388,11 @@
       "Time": "2023-10-23T18:07:36.7292253+00:00",
       "NumProgressed": 640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T19:06:03.3101275+00:00",
+      "NumProgressed": 641,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -430,9 +435,9 @@
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -462,9 +467,9 @@
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
       "SetID": "9991201",
       "Name": "Team Builder",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -480,15 +485,15 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -496,7 +501,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -600,7 +605,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -639,13 +644,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 640,
+      "Progressed": 641,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:07:36.7292242+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:06:03.3101271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:59:51.0561567+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:07:36.7292562+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:59:04.3976455+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:06:03.3101499+00:00"
 }

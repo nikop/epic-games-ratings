@@ -2,13 +2,13 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 267,
+  "Ranking_Rating": 268,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 42,
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12237,6 +12237,6 @@
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
   "LastChanged": "2023-10-23T17:59:09.7411216+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.2178458+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:59:09.7411223+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:10:01.7441319+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:58:33.7079948+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:09:07.0068124+00:00"
 }

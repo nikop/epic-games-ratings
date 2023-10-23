@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -202,9 +202,9 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_016",
@@ -226,9 +226,9 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_019",
@@ -266,9 +266,9 @@
       "ID": "ACH_022",
       "SetID": "7b646ck",
       "Name": "An expert mediator",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_023",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:08:19.4740804+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:06:33.736983+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:08.7110626+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:03:20.4511103+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:08:19.4741484+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:02:18.4032071+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:06:33.737023+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 4.00% | ~596 |
 | Explorer | 3.00% | ~447 |
+| Intrepid | 3.00% | ~447 |
 | Settler | 3.00% | ~447 |
 | Friendly Family | 3.00% | ~447 |
 | Able | 2.00% | ~298 |
@@ -16,7 +17,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~298 |
 | Glorious | 2.00% | ~298 |
 | Good | 2.00% | ~298 |
-| Intrepid | 2.00% | ~298 |
 | Just | 2.00% | ~298 |
 | Keystone | 2.00% | ~298 |
 | Learned | 2.00% | ~298 |
@@ -75,16 +75,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.90% | ~134 |
 | Intercessor | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
+| Good Difficulty | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Hanging Gardens in Babylon | 0.80% | ~119 |
 | Lion | 0.80% | ~119 |
-| Good Difficulty | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
 | Greece | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
+| Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
 | Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.70% | ~104 |
 | Via Recta Souk | 0.70% | ~104 |
 | Learn to Play 4 | 0.70% | ~104 |
-| Persian Paganism | 0.70% | ~104 |
 | Economic Reform | 0.70% | ~104 |
 | Legalism | 0.70% | ~104 |
 | Redemption | 0.70% | ~104 |
@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.60% | ~89 |
 | Gnosticism | 0.60% | ~89 |
 | Cimmerian Archer | 0.60% | ~89 |
+| Mounted Lancer | 0.60% | ~89 |
 | Ambition Victory | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~75 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.50% | ~75 |
 | Enlightenment | 0.50% | ~75 |
 | Veneration | 0.50% | ~75 |
-| Mounted Lancer | 0.50% | ~75 |
 | Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | The Great Mage | 0.50% | ~75 |
@@ -143,11 +143,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~60 |
 | Learn to Play 5 | 0.40% | ~60 |
 | Rome | 0.40% | ~60 |
+| Old World Order | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
-| Old World Order | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
 | Cataphract Archer | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,903 (Ranked 139)  
+Progressed: 14,905 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 5 (0.03%) (Ranked 290)
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
-| 2023-10-23 | 14,903 | 5 |
+| 2023-10-23 | 14,905 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

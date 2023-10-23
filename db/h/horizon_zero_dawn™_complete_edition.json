@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 72,
-  "Ranking_PopularitySum": 89,
-  "Ranking_EOS_Progress": 693,
+  "Ranking_PopularitySum": 88,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -6590,24 +6590,30 @@
       "Rating": 4.76,
       "NumberOfAwards": 10389,
       "NumberOfAwardsMax": 4835
+    },
+    {
+      "Time": "2023-10-23T18:59:05.7410774+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10409,
+      "NumberOfAwardsMax": 4847
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10389,
-  "NumberOfAwardsMax": 4835,
+  "NumberOfAwards": 10409,
+  "NumberOfAwardsMax": 4847,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4835
+      "Count": 4847
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2985
+      "Count": 2993
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6681,8 +6687,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-10-23T14:59:01.3977831+00:00",
+  "LastChanged": "2023-10-23T18:59:05.7410772+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.9580014+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:59:53.5709371+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:05:13.4666606+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:59:05.7410779+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:04:21.2844684+00:00"
 }

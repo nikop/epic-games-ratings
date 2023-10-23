@@ -2,10 +2,10 @@
   "ID": "73bbbc23c9b7476a95e040faced6ed7f",
   "Name": "Ungate",
   "ProductSlug": "ungate-df09c8",
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-11T21:00:00+00:00",
     "PcReleaseDate": "2023-05-11T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:27.186072+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:58:40.5140083+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:04:04.0715594+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:58:13.3227714+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:03:22.0207601+00:00"
 }

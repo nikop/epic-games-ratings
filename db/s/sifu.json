@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7191,7 +7191,7 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715884,
+  "EOS_Progressed": 715885,
   "EOS_Completed": 12925,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
@@ -23671,6 +23671,11 @@
       "Time": "2023-10-23T18:08:33.7953449+00:00",
       "NumProgressed": 715884,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-23T19:07:03.1379326+00:00",
+      "NumProgressed": 715885,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -23704,9 +23709,9 @@
       "ID": "04_Vengeance_H3",
       "SetID": "adcm20g",
       "Name": "A Lady\u0027s Blood in the Snow",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2864
     },
     {
       "ID": "05_Vengeance_H4",
@@ -24161,21 +24166,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25185,
+      "Progressed": 25186,
       "Completed": 10716
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715884,
+      "Progressed": 715885,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-23T18:02:06.8567057+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:08:33.7953444+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:07:03.1379322+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:02:06.8567431+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:08:33.7955003+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:00:40.573738+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:07:03.138086+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4235,9 +4235,9 @@
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
       "SetID": "l546gc",
       "Name": "Get your hands dirty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 185
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -4428,8 +4428,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:04:54.6020808+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:04:07.3912872+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:57:40.7556317+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:04:54.6021881+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:32.7256935+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:04:07.3913505+00:00"
 }

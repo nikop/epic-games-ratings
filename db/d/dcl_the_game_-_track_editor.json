@@ -2,10 +2,10 @@
   "ID": "ed85e819ef2f48588bdfad2fd270b70e",
   "Name": "DCL the Game - Track Editor",
   "ProductSlug": "dcl-the-game",
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.5092592+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:57:37.1016654+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:09:04.7325961+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:30.4187368+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:07:26.3122033+00:00"
 }

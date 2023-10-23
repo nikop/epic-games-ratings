@@ -2,10 +2,10 @@
   "ID": "adc42fab929d4fd5b975791a33cd4a6a",
   "Name": "Heroes of Rome 3 - The Brotherhood",
   "ProductSlug": "heroes-of-rome-3-the-brotherhood-a9f64a",
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-03T22:00:00+00:00",
     "PcReleaseDate": "2022-12-21T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-14T09:57:11.9353303+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:05.8280779+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:59:23.9336575+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:10:04.808183+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:58:43.2503499+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:09:09.1029159+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2cd5df1423f64854b554508ef7866766",
   "Name": "Halloween Trick or Treat 2",
   "ProductSlug": "halloween-trick-or-treat-2-2c170d",
-  "Ranking_EOS_Progress": 693,
+  "Ranking_EOS_Progress": 694,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-10T06:00:00+00:00",
     "PcReleaseDate": "2018-09-06T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-23T15:57:11.1163249+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:57:41.7265597+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:04:16.5140032+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:57:33.3458526+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:03:30.328195+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a24",
@@ -396,9 +396,9 @@
       "ID": "a7",
       "SetID": "cdg65ol",
       "Name": "Hands on the Helm",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a8",
@@ -429,8 +429,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:06:20.8819962+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:05:08.7676278+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8688161+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:59:30.9528596+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:06:20.8820266+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:58:47.6474004+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:05:08.7676533+00:00"
 }

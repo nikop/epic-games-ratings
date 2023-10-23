@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -453,9 +453,9 @@
       "ID": "Win1OnlineMatched",
       "SetID": "52ail55",
       "Name": "Bloodied Hammer",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Win50ConquestBattles",
@@ -483,8 +483,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-23T18:06:10.9594128+00:00",
+  "LastChanged_Achievements": "2023-10-23T19:05:01.7079732+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:01.1405668+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:00:25.8187899+00:00",
-  "LastUpdate_Achievements": "2023-10-23T18:06:10.9594429+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:59:26.5813923+00:00",
+  "LastUpdate_Achievements": "2023-10-23T19:05:01.7080014+00:00"
 }
