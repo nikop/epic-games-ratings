@@ -86,7 +86,7 @@
 | 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
 | 85 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 86 | [The Complex](games/t/the_complex.md) | 3.25% |
-| 87 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
+| 87 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 88 | [Monster Harvest](games/m/monster_harvest.md) | 3.15% |
 | 88 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [Without Escape](games/w/without_escape.md) | 3.12% |
