@@ -32,8 +32,8 @@
 | Very Elusive | 44.00% | ~345 |
 | Head Hunter | 44.00% | ~345 |
 | Sentinel Ally | 43.00% | ~338 |
+| Operative | 43.00% | ~338 |
 | Scholar | 43.00% | ~338 |
-| Operative | 42.00% | ~330 |
 | Veteran | 41.00% | ~322 |
 | The Professor | 41.00% | ~322 |
 | Power Full | 40.00% | ~314 |

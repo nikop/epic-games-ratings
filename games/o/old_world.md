@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 2.00% | ~298 |
 | Strong | 2.00% | ~298 |
 | Warrior | 2.00% | ~298 |
+| Wise | 2.00% | ~298 |
 | Developing Cities | 2.00% | ~298 |
 | Strong Cities | 2.00% | ~298 |
 | Hanging Gardens | 2.00% | ~298 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 1.00% | ~149 |
 | Mighty | 1.00% | ~149 |
 | Valiant | 1.00% | ~149 |
-| Wise | 1.00% | ~149 |
 | Legendary Cities | 1.00% | ~149 |
 | Able Difficulty | 1.00% | ~149 |
 | Just Difficulty | 1.00% | ~149 |

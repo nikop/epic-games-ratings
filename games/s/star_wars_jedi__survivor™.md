@@ -23,7 +23,7 @@ Rating: 4.49 (Ranked 596)
 | Kitted Out | 52.00% | ~3,044 |
 | Tanalorr Bound | 52.00% | ~3,044 |
 | Hey, Luke At Us | 51.00% | ~2,985 |
-| Tragedy | 49.00% | ~2,868 |
+| Tragedy | 50.00% | ~2,926 |
 | At the Precipice | 48.00% | ~2,809 |
 | Into the Abyss | 46.00% | ~2,692 |
 | Riposte | 46.00% | ~2,692 |

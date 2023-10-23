@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72113,
+  "EOS_Progressed": 72114,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20727,6 +20727,11 @@
       "Time": "2023-10-23T04:06:47.3877847+00:00",
       "NumProgressed": 72113,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-23T05:06:10.8920822+00:00",
+      "NumProgressed": 72114,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20754,7 +20759,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49037
+      "UsersEstimate": 49038
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20770,7 +20775,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18749
+      "UsersEstimate": 18750
     },
     {
       "ID": "ERADICATE",
@@ -20810,7 +20815,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12980
+      "UsersEstimate": 12981
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -20890,7 +20895,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7932
+      "UsersEstimate": 7933
     },
     {
       "ID": "SPIRIT_FORM",
@@ -20929,7 +20934,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72113,
+      "Progressed": 72114,
       "Completed": 379
     }
   ],
@@ -20937,8 +20942,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-23T04:06:47.3877844+00:00",
+  "LastChanged_Achievements": "2023-10-23T05:06:10.8920814+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:01:15.7478375+00:00",
-  "LastUpdate_Achievements": "2023-10-23T04:06:47.3878989+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:00:38.8691764+00:00",
+  "LastUpdate_Achievements": "2023-10-23T05:06:10.8922158+00:00"
 }

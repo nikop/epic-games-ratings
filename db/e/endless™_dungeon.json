@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -328,6 +328,11 @@
       "Time": "2023-10-23T04:06:52.0985495+00:00",
       "NumProgressed": 606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T05:06:14.5863749+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -362,17 +367,17 @@
       "ID": "ACHIEVEMENT_BIOGRAPHER",
       "SetID": "9991201",
       "Name": "Endless Biographer",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -380,7 +385,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -388,7 +393,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -396,7 +401,7 @@
       "Name": "Pest Control",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -418,9 +423,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -428,15 +433,15 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -444,15 +449,15 @@
       "Name": "Obsessively Thorough",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -548,7 +553,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -579,13 +584,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 609,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-23T04:06:52.0985491+00:00",
+  "LastChanged_Achievements": "2023-10-23T05:06:14.5863744+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T03:59:04.6519874+00:00",
-  "LastUpdate_Achievements": "2023-10-23T04:06:52.0985684+00:00"
+  "LastUpdate_Ratings": "2023-10-23T04:59:04.7752128+00:00",
+  "LastUpdate_Achievements": "2023-10-23T05:06:14.586398+00:00"
 }

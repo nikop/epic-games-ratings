@@ -5,7 +5,7 @@ Rating: 4.88 (Ranked 16)
 Number of Ratings: 29,401  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 12,150  (Ranked 33)  
-Sum: 99,531 (Ranked 15)  
+Sum: 99,541 (Ranked 15)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 18
 | This game has Easy Combat | 9,916 |
 | This game has a Creative Community | 8,833 |
 | This game has Amazing Storytelling | 7,823 |
-| This game has Amazing Characters | 7,792 |
+| This game has Amazing Characters | 7,802 |
 | This game has Obsessive Gameplay | 5,262 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -293,3 +293,4 @@ Diff (max vs sum): 18
 | 2023-10-20 | 4.88 | - | 12,108 | 99,223 |
 | 2023-10-21 | 4.88 | - | 12,125 | 99,357 |
 | 2023-10-22 | 4.88 | - | 12,150 | 99,531 |
+| 2023-10-23 | 4.88 | - | 12,150 | 99,541 |

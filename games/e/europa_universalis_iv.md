@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,504 |
-| Until death do us apart | 4.00% | ~17,504 |
-| Victorious! | 4.00% | ~17,504 |
-| That is mine! | 3.00% | ~13,128 |
+| That's a Grand Army | 4.00% | ~17,505 |
+| Until death do us apart | 4.00% | ~17,505 |
+| Victorious! | 4.00% | ~17,505 |
+| That is mine! | 3.00% | ~13,129 |
 | Brothers in Arms | 2.00% | ~8,752 |
 | Cold War | 2.00% | ~8,752 |
 | For the Glory | 2.00% | ~8,752 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,612 (Ranked 40)  
+Progressed: 437,622 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,10 +547,10 @@ Completed: 1 (0.00%) (Ranked 320)
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
-| 2023-10-23 | 437,612 | 1 |
+| 2023-10-23 | 437,622 | 1 |
 ## Awards
 Max (Educational): 6,632  (Ranked 55)  
-Sum: 54,547 (Ranked 24)  
+Sum: 54,577 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -558,8 +558,8 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,330 |
 | This game has Diverse Characters | 6,327 |
 | This game has Challenging Combat | 6,273 |
-| This game is Extremely Fun | 6,242 |
-| This game is Relaxing | 6,104 |
+| This game is Extremely Fun | 6,256 |
+| This game is Relaxing | 6,120 |
 | This game has Competitive Players | 5,953 |
 | This game has Amazing Storytelling | 5,555 |
 | This game has Amazing Characters | 5,131 |
@@ -846,3 +846,4 @@ Diff (max vs sum): 31
 | 2023-10-20 | 4.69 | - | 6,599 | 54,294 |
 | 2023-10-21 | 4.69 | - | 6,618 | 54,423 |
 | 2023-10-22 | 4.69 | - | 6,632 | 54,547 |
+| 2023-10-23 | 4.69 | - | 6,632 | 54,577 |

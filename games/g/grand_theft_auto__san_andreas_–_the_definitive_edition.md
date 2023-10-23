@@ -5,26 +5,26 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,864 |
-| Pay 'n' Spray | 51.00% | ~6,757 |
+| Getting Started | 82.00% | ~10,866 |
+| Pay 'n' Spray | 51.00% | ~6,758 |
 | All Dressed Up for San Fierro | 26.00% | ~3,445 |
 | The American Dream | 20.00% | ~2,650 |
-| School's Out | 19.00% | ~2,517 |
-| Smooth Moves | 17.00% | ~2,252 |
-| What happens in Las Venturas... | 15.00% | ~1,987 |
-| Today Was a Good Day | 15.00% | ~1,987 |
-| Horror of the Santa Maria | 11.00% | ~1,457 |
+| School's Out | 19.00% | ~2,518 |
+| Smooth Moves | 17.00% | ~2,253 |
+| What happens in Las Venturas... | 15.00% | ~1,988 |
+| Today Was a Good Day | 15.00% | ~1,988 |
+| Horror of the Santa Maria | 11.00% | ~1,458 |
 | Liberty City State of Mind | 10.00% | ~1,325 |
 | The End of the Line | 8.00% | ~1,060 |
 | Original Gangster | 8.00% | ~1,060 |
-| With Extra Dip | 7.00% | ~927 |
+| With Extra Dip | 7.00% | ~928 |
 | Saviour | 6.00% | ~795 |
-| They Can’t Stop All of Us | 5.00% | ~662 |
-| Rescue a Kitten Too? | 5.00% | ~662 |
+| They Can’t Stop All of Us | 5.00% | ~663 |
+| Rescue a Kitten Too? | 5.00% | ~663 |
 | What are the Odds | 4.00% | ~530 |
-| Bike or Biker | 3.00% | ~397 |
-| What the City Needs | 3.00% | ~397 |
-| Yes I Speak English | 3.00% | ~397 |
+| Bike or Biker | 3.00% | ~398 |
+| What the City Needs | 3.00% | ~398 |
+| Yes I Speak English | 3.00% | ~398 |
 | A Legitimate Business | 2.00% | ~265 |
 | I’ll Have Two Number 9s | 2.00% | ~265 |
 | Who Needs Directions? | 2.00% | ~265 |
@@ -33,15 +33,15 @@ Rating: 4.56 (Ranked 475)
 | Assassin | 2.00% | ~265 |
 | Public Enemy No. 1 | 2.00% | ~265 |
 | Ain’t Nothing But a G Thing | 2.00% | ~265 |
-| Hoopin' it Up | 1.00% | ~132 |
-| Lucky Spinner | 1.00% | ~132 |
-| Not a Player | 1.00% | ~132 |
-| Chick Magnet | 1.00% | ~132 |
+| Hoopin' it Up | 1.00% | ~133 |
+| Lucky Spinner | 1.00% | ~133 |
+| Not a Player | 1.00% | ~133 |
+| Chick Magnet | 1.00% | ~133 |
 | Remastered | 0.80% | ~106 |
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,249 (Ranked 143)  
+Progressed: 13,251 (Ranked 143)  
 Completed: 50 (0.38%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 50 (0.38%) (Ranked 199)
 | 2023-10-20 | 13,234 | 50 |
 | 2023-10-21 | 13,243 | 50 |
 | 2023-10-22 | 13,249 | 50 |
+| 2023-10-23 | 13,251 | 50 |
 ## Awards
 Max (Great Boss Battles): 357  (Ranked 232)  
 Sum: 573 (Ranked 305)  

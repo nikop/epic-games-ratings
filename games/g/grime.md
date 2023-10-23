@@ -23,7 +23,7 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.60% | ~925 |
 | Watcher | 0.60% | ~925 |
 | Glare | 0.50% | ~768 |
-| Predator | 0.50% | ~770 |
+| Predator | 0.50% | ~771 |
 | Assimilation | 0.40% | ~616 |
 | Hunt Down | 0.40% | ~616 |
 | Host | 0.40% | ~615 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,097 (Ranked 73)  
+Progressed: 154,101 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,11 +216,11 @@ Completed: 1 (0.00%) (Ranked 320)
 | 2023-10-20 | 153,466 | 1 |
 | 2023-10-21 | 153,746 | 1 |
 | 2023-10-22 | 154,057 | 1 |
-| 2023-10-23 | 154,097 | 1 |
+| 2023-10-23 | 154,101 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 431)  
-Sum: 309 (Ranked 349)  
-Diff (max vs sum): 82  
+Sum: 310 (Ranked 348)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 45 |
@@ -229,7 +229,7 @@ Diff (max vs sum): 82
 | This game has Challenging Combat | 41 |
 | This game is Extremely Fun | 40 |
 | This game has Amazing Storytelling | 35 |
-| This game has a Creative Community | 32 |
+| This game has a Creative Community | 33 |
 | This game has Amazing Characters | 29 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -356,3 +356,4 @@ Diff (max vs sum): 82
 | 2023-10-20 | 4.59 | - | 45 | 304 |
 | 2023-10-21 | 4.59 | - | 45 | 306 |
 | 2023-10-22 | 4.59 | - | 45 | 309 |
+| 2023-10-23 | 4.58 | - | 45 | 310 |

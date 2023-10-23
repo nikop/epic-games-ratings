@@ -6,12 +6,12 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,160 |
-| Comeback | 82.00% | ~110,709 |
-| Information is Key | 80.00% | ~108,009 |
+| Immovable Object | 89.00% | ~120,161 |
+| Comeback | 82.00% | ~110,710 |
+| Information is Key | 80.00% | ~108,010 |
 | Unlucky | 70.00% | ~94,508 |
-| Anarchist | 68.00% | ~91,807 |
-| Wallhack | 65.00% | ~87,757 |
+| Anarchist | 68.00% | ~91,808 |
+| Wallhack | 65.00% | ~87,758 |
 | Steady Supply | 60.00% | ~81,007 |
 | Lucky Shot | 53.00% | ~71,556 |
 | Forward Observer | 52.00% | ~70,206 |
@@ -21,25 +21,25 @@ Number of Ratings: 13,393  (23.09.2022)
 | Night Owl | 44.00% | ~59,405 |
 | Strength in Numbers | 44.00% | ~59,405 |
 | Fog of War | 41.00% | ~55,355 |
-| Rasputin | 39.00% | ~52,654 |
-| Stronghold Denied | 39.00% | ~52,654 |
-| Anyone Else? | 38.00% | ~51,304 |
+| Rasputin | 39.00% | ~52,655 |
+| Stronghold Denied | 39.00% | ~52,655 |
+| Anyone Else? | 38.00% | ~51,305 |
 | Hydra | 36.00% | ~48,604 |
 | This Belongs to Us Now | 36.00% | ~48,604 |
 | Stronghold | 35.00% | ~47,254 |
 | Leeroy | 33.00% | ~44,554 |
 | Lost Batallion | 33.00% | ~44,554 |
 | This is MY Machine Gun! | 32.00% | ~43,204 |
-| Together As One | 31.00% | ~41,853 |
+| Together As One | 31.00% | ~41,854 |
 | Gavrilo Princip | 27.00% | ~36,453 |
 | Lead Harvest | 25.00% | ~33,753 |
 | Skynet Confirmed | 23.00% | ~31,053 |
-| Kesselschlacht | 22.00% | ~29,702 |
+| Kesselschlacht | 22.00% | ~29,703 |
 | Democracy Works! | 20.00% | ~27,002 |
 | Switch, Please! | 19.00% | ~25,652 |
-| I've Seen It All | 18.00% | ~24,302 |
 | Tourist | 18.00% | ~24,302 |
 | At Least This Way I Can Win... | 17.00% | ~22,952 |
+| I've Seen It All | 17.00% | ~22,952 |
 | Oops! | 17.00% | ~22,952 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~21,602 |
 | Butcher | 12.00% | ~16,201 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,215 |
 | Road to Berlin | 0.60% | ~810 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,011 (Ranked 76)  
+Progressed: 135,012 (Ranked 76)  
 Completed: 30 (0.02%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 30 (0.02%) (Ranked 293)
 | 2023-10-20 | 134,671 | 30 |
 | 2023-10-21 | 134,846 | 30 |
 | 2023-10-22 | 135,002 | 30 |
-| 2023-10-23 | 135,011 | 30 |
+| 2023-10-23 | 135,012 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 237)  
 Sum: 3,253 (Ranked 166)  

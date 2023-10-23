@@ -18,19 +18,19 @@
 | The Hidden Secret | 16.00% | ~16 |
 | Phew! | 15.00% | ~15 |
 | The Abyss Conqueror | 12.00% | ~12 |
-| Space Warrior: Prologue | 11.00% | ~11 |
+| Space Warrior: Prologue | 12.00% | ~12 |
+| Grand Escape | 11.00% | ~11 |
 | The Fortress Conqueror | 10.00% | ~10 |
-| Grand Escape | 10.00% | ~10 |
 | Keep it Up, rookie! | 8.00% | ~8 |
 | The Hypergravitational Abyss Conqueror | 7.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~7 |
 | Antaeus | 7.00% | ~7 |
+| Hell of a Fight | 7.00% | ~7 |
 | Decapitation Strike | 7.00% | ~7 |
 | The Deep Frozen Conqueror | 6.00% | ~6 |
 | The Infinite Train Conqueror | 6.00% | ~6 |
 | The Paradox Coordinate Conqueror | 6.00% | ~6 |
 | The Inactivated Frozen Conqueror | 6.00% | ~6 |
-| Hell of a Fight | 6.00% | ~6 |
 | The Sunken City Conqueror | 5.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~5 |
 | Death Bringer Conqueror | 5.00% | ~5 |

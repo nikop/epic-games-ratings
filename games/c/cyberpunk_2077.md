@@ -22,6 +22,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.30% | ~66 |
 | To Bad Decisions! | 0.20% | ~1,787 |
 | Bushido and Chill | 0.20% | ~1,787 |
+| To Protect and Serve | 0.20% | ~1,787 |
 | Gun Fu | 0.20% | ~1,787 |
 | Master Crafter | 0.20% | ~1,787 |
 | I Am The Law | 0.20% | ~1,787 |
@@ -40,7 +41,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.20% | ~1,787 |
 | Spin Doctor | 0.20% | ~44 |
 | City Lights | 0.10% | ~893 |
-| To Protect and Serve | 0.10% | ~893 |
 | The Wandering Fool | 0.10% | ~893 |
 | Autojock | 0.10% | ~893 |
 | Frequent Flyer | 0.10% | ~893 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,412 (Ranked 15)  
+Progressed: 893,417 (Ranked 15)  
 Completed: 2,702 (0.30%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 2,702 (0.30%) (Ranked 211)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,412 | 2,702 |
+| 2023-10-23 | 893,417 | 2,702 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
-Sum: 321,199 (Ranked 11)  
+Sum: 321,373 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -273,8 +273,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 17,285 |
 | This game is Extremely Fun | 17,008 |
 | This game has Amazing Characters | 16,975 |
+| This game is Relaxing | 16,414 |
 | This game has Quickly Understood Controls | 16,361 |
-| This game is Relaxing | 16,240 |
 | This game has a Creative Community | 11,271 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -556,4 +556,4 @@ Diff (max vs sum): -2
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
-| 2023-10-23 | 4.64 | - | 100,696 | 321,199 |
+| 2023-10-23 | 4.64 | - | 100,696 | 321,373 |
