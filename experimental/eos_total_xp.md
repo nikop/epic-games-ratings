@@ -572,6 +572,7 @@
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Snowmen](../games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 18 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
+| [Song of Nunu: A League of Legends Story](../games/s/song_of_nunu__a_league_of_legends_story™.md) | 44 | 1,000 |
 | [Sonic Origins](../games/s/sonic_origins.md) | 35 | 1,000 |
 | [Souls Of Chronos](../games/f/fc740bd5bc244b50a36620a391980636.md) | 41 | 1,000 |
 | [Soulstice](../games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 40 | 1,000 |

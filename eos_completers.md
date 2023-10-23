@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.64% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.64% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.63% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -160,8 +160,8 @@
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
-| 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.72% |
-| 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.71% |
+| 161 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 163 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
 | 165 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -180,19 +180,19 @@
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 179 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 179 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 181 | [Dead Space](games/d/dead_space.md) | 0.52% |
-| 182 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 181 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 181 | [Dead Space](games/d/dead_space.md) | 0.51% |
 | 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 184 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 185 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 186 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
+| 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.46% |
 | 186 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 188 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 188 | [Tchia](games/t/tchia.md) | 0.45% |
-| 188 | [The Devil's Face](games/t/the_devil's_face.md) | 0.45% |
-| 191 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.44% |
-| 191 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
-| 191 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.44% |
+| 189 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 189 | [Tchia](games/t/tchia.md) | 0.45% |
+| 189 | [The Devil's Face](games/t/the_devil's_face.md) | 0.45% |
+| 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.44% |
+| 192 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 194 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 195 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 196 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
