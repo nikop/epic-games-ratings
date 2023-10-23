@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~70 |
-| Complete Level 1-1 | 63.00% | ~62 |
-| Immortal | 55.00% | ~54 |
+| What is this? | 71.00% | ~71 |
+| Complete Level 1-1 | 62.00% | ~62 |
+| Immortal | 54.00% | ~54 |
 | Complete Level 1-2 | 45.00% | ~45 |
 | Engineer-mage hybrid | 32.00% | ~32 |
 | Scraping by | 30.00% | ~30 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 398)  
-Completed: 1 (1.01%) (Ranked 146)  
+Progressed: 100 (Ranked 397)  
+Completed: 1 (1.00%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 1 (1.01%) (Ranked 146)
 | 2023-10-19 | 96 | 1 |
 | 2023-10-21 | 98 | 1 |
 | 2023-10-22 | 99 | 1 |
+| 2023-10-23 | 100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1399,17 +1399,17 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "brewery",
       "SetID": "ap7g2g4",
       "Name": "Brewery",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 351
     },
     {
       "ID": "church",
@@ -1431,9 +1431,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 231
     },
     {
       "ID": "fish_trade",
@@ -1511,9 +1511,9 @@
       "ID": "mill",
       "SetID": "ap7g2g4",
       "Name": "Mill",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "sawmill",
@@ -1582,8 +1582,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:06:39.6509324+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:09:09.5177175+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:02.3123727+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:58:56.4365112+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:06:39.650959+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:00:24.6896385+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:09:09.5177599+00:00"
 }

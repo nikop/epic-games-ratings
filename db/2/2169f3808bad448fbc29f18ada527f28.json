@@ -4,7 +4,7 @@
   "ProductSlug": "survival-bunker-b10b13",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T22:09:34.6636456+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:59:53.2363141+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:08:04.9469323+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:01:46.2393782+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:09:30.6269195+00:00"
 }

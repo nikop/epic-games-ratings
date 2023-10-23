@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,507 |
-| Until death do us apart | 4.00% | ~17,507 |
-| Victorious! | 4.00% | ~17,507 |
+| That's a Grand Army | 4.00% | ~17,508 |
+| Until death do us apart | 4.00% | ~17,508 |
+| Victorious! | 4.00% | ~17,508 |
 | That is mine! | 3.00% | ~13,131 |
 | Brothers in Arms | 2.00% | ~8,754 |
 | Cold War | 2.00% | ~8,754 |
@@ -23,15 +23,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,377 |
 | Truly Divine Ruler | 1.00% | ~4,377 |
 | Blockader | 0.90% | ~3,939 |
-| Double the Love | 0.80% | ~3,501 |
-| Royal Authority | 0.80% | ~3,501 |
-| Total Control | 0.80% | ~3,501 |
+| Double the Love | 0.80% | ~3,502 |
+| Royal Authority | 0.80% | ~3,502 |
+| Total Control | 0.80% | ~3,502 |
 | My armies are invincible! | 0.70% | ~3,064 |
-| Agressive Expander | 0.50% | ~2,188 |
-| Azur semé de lis or | 0.50% | ~2,188 |
-| City of Cities | 0.50% | ~2,188 |
-| Combined Arms | 0.50% | ~2,188 |
-| This navy can take it all | 0.50% | ~2,188 |
+| Agressive Expander | 0.50% | ~2,189 |
+| Azur semé de lis or | 0.50% | ~2,189 |
+| City of Cities | 0.50% | ~2,189 |
+| Combined Arms | 0.50% | ~2,189 |
+| This navy can take it all | 0.50% | ~2,189 |
 | Bright Spark | 0.40% | ~1,751 |
 | The Emperors new clothes | 0.40% | ~1,751 |
 | Factionalism | 0.40% | ~1,751 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,684 (Ranked 40)  
+Progressed: 437,706 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1 (0.00%) (Ranked 320)
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
-| 2023-10-23 | 437,684 | 1 |
+| 2023-10-23 | 437,706 | 1 |
 ## Awards
 Max (Educational): 6,632  (Ranked 55)  
 Sum: 54,577 (Ranked 24)  

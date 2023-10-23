@@ -230,9 +230,9 @@ Completed: 1 (0.03%) (Ranked 288)
 | 2023-10-21 | 3,027 | 1 |
 | 2023-10-22 | 3,031 | 1 |
 ## Awards
-Max (Highly Recommended): 56  (Ranked 405)  
+Max (Highly Recommended): 56  (Ranked 406)  
 Sum: 530 (Ranked 310)  
-Diff (max vs sum): 95  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |

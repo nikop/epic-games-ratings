@@ -7,8 +7,8 @@ Rating: 4.40 (Ranked 726)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~79,864 |
 | Predator I | 22.00% | ~56,678 |
-| Fixer I | 10.00% | ~25,762 |
-| A week in Century City | 10.00% | ~25,762 |
+| Fixer I | 10.00% | ~25,763 |
+| A week in Century City | 10.00% | ~25,763 |
 | The Wait | 7.00% | ~18,034 |
 | Green thumb I | 6.00% | ~15,458 |
 | Cleaning Company | 6.00% | ~15,458 |
@@ -20,13 +20,13 @@ Rating: 4.40 (Ranked 726)
 | Capitalist I | 4.00% | ~10,305 |
 | Fixer II | 3.00% | ~7,729 |
 | Adrenaline | 3.00% | ~7,729 |
-| By a hair | 2.00% | ~5,152 |
-| It took a while | 2.00% | ~5,152 |
-| Samurai | 2.00% | ~5,152 |
-| I Left You a Present | 2.00% | ~5,152 |
-| Predator II | 2.00% | ~5,152 |
-| Truffle Dog | 2.00% | ~5,152 |
-| A month in Century City | 2.00% | ~5,152 |
+| By a hair | 2.00% | ~5,153 |
+| It took a while | 2.00% | ~5,153 |
+| Samurai | 2.00% | ~5,153 |
+| I Left You a Present | 2.00% | ~5,153 |
+| Predator II | 2.00% | ~5,153 |
+| Truffle Dog | 2.00% | ~5,153 |
+| A month in Century City | 2.00% | ~5,153 |
 | The Strengthening | 1.00% | ~2,576 |
 | Saver II | 1.00% | ~2,576 |
 | It's the last one, I swear | 1.00% | ~2,576 |
@@ -41,9 +41,9 @@ Rating: 4.40 (Ranked 726)
 | The Gamble | 0.50% | ~1,288 |
 | The Descent | 0.50% | ~1,288 |
 | A major purchase | 0.50% | ~1,288 |
-| Expert Hunter | 0.40% | ~1,030 |
-| Fungi hunter | 0.40% | ~1,030 |
-| Predator III | 0.40% | ~1,030 |
+| Expert Hunter | 0.40% | ~1,031 |
+| Fungi hunter | 0.40% | ~1,031 |
+| Predator III | 0.40% | ~1,031 |
 | Arms dealer | 0.30% | ~773 |
 | Fixer III | 0.30% | ~773 |
 | AML questionnaire | 0.30% | ~773 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 726)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,625 (Ranked 52)  
+Progressed: 257,626 (Ranked 52)  
 Completed: 3 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,14 +248,14 @@ Completed: 3 (0.00%) (Ranked 320)
 | 2023-10-20 | 257,505 | 3 |
 | 2023-10-21 | 257,564 | 3 |
 | 2023-10-22 | 257,609 | 3 |
-| 2023-10-23 | 257,625 | 3 |
+| 2023-10-23 | 257,626 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 46  (Ranked 429)  
-Sum: 299 (Ranked 350)  
-Diff (max vs sum): 79  
+Max (Great for Quick Sessions): 47  (Ranked 428)  
+Sum: 300 (Ranked 350)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 46 |
+| This game is Great for Quick Sessions | 47 |
 | This game has Unique Visuals | 39 |
 | This game has Challenging Combat | 36 |
 | This game has Amazing Storytelling | 35 |
@@ -418,3 +418,4 @@ Diff (max vs sum): 79
 | 2023-10-17 | 4.40 | 45 | 295 |
 | 2023-10-19 | 4.40 | 45 | 296 |
 | 2023-10-21 | 4.40 | 46 | 299 |
+| 2023-10-23 | 4.40 | 47 | 300 |

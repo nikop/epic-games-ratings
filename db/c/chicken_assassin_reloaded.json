@@ -4,7 +4,7 @@
   "ProductSlug": "chicken-assassin-reloaded-279863",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-05T22:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.2049403+00:00",
   "LastChanged": "2023-03-31T05:58:37.2049404+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:08.991466+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:58:53.2874847+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:08:40.4181021+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:00:18.4161557+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:10:20.8191513+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 113,
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39278,
+  "EOS_Progressed": 39279,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19645,6 +19645,11 @@
       "Time": "2023-10-23T09:06:08.4154391+00:00",
       "NumProgressed": 39278,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T10:08:23.4849434+00:00",
+      "NumProgressed": 39279,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19856,7 +19861,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ach_legacyrival",
@@ -19872,7 +19877,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ach_legacyshipmate",
@@ -19888,7 +19893,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ach_portbell",
@@ -20000,7 +20005,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ach_sweetheart",
@@ -20087,15 +20092,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39278,
+      "Progressed": 39279,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:06:08.4154387+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:08:23.4849427+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:57:31.8671844+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:06:08.4156021+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:58:10.4259059+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:08:23.4852319+00:00"
 }

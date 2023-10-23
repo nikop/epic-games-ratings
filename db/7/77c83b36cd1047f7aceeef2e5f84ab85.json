@@ -4,7 +4,7 @@
   "ProductSlug": "oddsparks-58440c",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-20T20:57:20.8472693+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:57:32.8653782+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:06:26.0436748+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:58:12.5886613+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:08:49.5085888+00:00"
 }

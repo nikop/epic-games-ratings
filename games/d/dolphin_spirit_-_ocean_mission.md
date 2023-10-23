@@ -5,17 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Maupiroa | 42.00% | ~8 |
-| Recycling newbie | 26.00% | ~5 |
-| New recruit | 16.00% | ~3 |
+| Recycling newbie | 32.00% | ~6 |
+| New recruit | 21.00% | ~4 |
+| Interesting | 16.00% | ~3 |
 | Amateur photographer | 11.00% | ~2 |
-| Interesting | 11.00% | ~2 |
+| Power of the turtle | 11.00% | ~2 |
 | Animal reporter | 5.00% | ~1 |
+| Rescuer | 5.00% | ~1 |
 | Legend of the association | 5.00% | ~1 |
 | Picture of the bay | 5.00% | ~1 |
 | Picture of the atoll | 5.00% | ~1 |
 | Picture of the reef | 5.00% | ~1 |
 | Picture of the island | 5.00% | ~1 |
-| Power of the turtle | 5.00% | ~1 |
+| Power of the dolphin | 5.00% | ~1 |
 | Pro Photographer | 0.00% | ~0 |
 | Recycling expert | 0.00% | ~0 |
 | Recycling Legend | 0.00% | ~0 |
@@ -27,12 +29,10 @@
 | Let's get started | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
 | Island gardian angel | 0.00% | ~0 |
-| Rescuer | 0.00% | ~0 |
 | Heroic member | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | In search of knowledge | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
-| Power of the dolphin | 0.00% | ~0 |
 | Power of the ray | 0.00% | ~0 |
 | Power of the shark | 0.00% | ~0 |
 | The fifth one! | 0.00% | ~0 |

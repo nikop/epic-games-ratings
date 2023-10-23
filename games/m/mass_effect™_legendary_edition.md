@@ -47,11 +47,11 @@
 | Archivist | 34.00% | ~267 |
 | Ghost Ship | 34.00% | ~267 |
 | The Assassin | 33.00% | ~259 |
+| The Justicar | 33.00% | ~259 |
 | The Quarian | 33.00% | ~259 |
 | Ghost of the Father | 33.00% | ~259 |
 | The Prodigal | 33.00% | ~259 |
 | A Personal Touch | 32.00% | ~252 |
-| The Justicar | 32.00% | ~252 |
 | Battlemaster | 32.00% | ~252 |
 | Catharsis | 32.00% | ~252 |
 | The Cure | 32.00% | ~252 |

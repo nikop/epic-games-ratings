@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -5595,24 +5595,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 7000,
       "NumberOfAwardsMax": 825
+    },
+    {
+      "Time": "2023-10-23T10:03:30.7791395+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7004,
+      "NumberOfAwardsMax": 826
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7000,
-  "NumberOfAwardsMax": 825,
+  "NumberOfAwards": 7004,
+  "NumberOfAwardsMax": 826,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 795
+      "Count": 797
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 825
+      "Count": 826
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5666,7 +5672,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 671
+      "Count": 672
     }
   ],
   "EOS_Progressed": 0,
@@ -5688,9 +5694,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2023-10-22T19:02:10.9866671+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:04:02.336368+00:00",
+  "LastChanged": "2023-10-23T10:03:30.7791393+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:05:11.8977569+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:14.4593417+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:02:19.5124134+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:04:02.3363713+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:03:30.7791399+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:05:11.8977604+00:00"
 }

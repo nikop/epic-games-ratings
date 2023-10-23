@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348984,
+  "EOS_Progressed": 348988,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21684,6 +21684,11 @@
       "Time": "2023-10-23T09:06:13.1219002+00:00",
       "NumProgressed": 348984,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T10:08:30.8885005+00:00",
+      "NumProgressed": 348988,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21711,7 +21716,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41878
+      "UsersEstimate": 41879
     },
     {
       "ID": "ach004",
@@ -21751,7 +21756,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41878
+      "UsersEstimate": 41879
     },
     {
       "ID": "ach009",
@@ -21839,7 +21844,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "ach020",
@@ -21903,7 +21908,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160533
+      "UsersEstimate": 160534
     },
     {
       "ID": "ach028",
@@ -21911,7 +21916,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "ach029",
@@ -21919,7 +21924,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38388
+      "UsersEstimate": 38389
     },
     {
       "ID": "ach030",
@@ -21943,7 +21948,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "ach033",
@@ -21999,7 +22004,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34898
+      "UsersEstimate": 34899
     },
     {
       "ID": "ach040",
@@ -22039,7 +22044,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "ach045",
@@ -22095,7 +22100,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38388
+      "UsersEstimate": 38389
     },
     {
       "ID": "ach052",
@@ -22159,7 +22164,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34898
+      "UsersEstimate": 34899
     },
     {
       "ID": "ach060",
@@ -22223,7 +22228,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55837
+      "UsersEstimate": 55838
     },
     {
       "ID": "ach069",
@@ -22271,7 +22276,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13959
+      "UsersEstimate": 13960
     },
     {
       "ID": "ach075",
@@ -22334,7 +22339,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348984,
+      "Progressed": 348988,
       "Completed": 7
     }
   ],
@@ -22342,8 +22347,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:06:13.1218998+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:08:30.8884996+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:59:26.3568177+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:06:13.1221193+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:01:07.1360212+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:08:30.8888869+00:00"
 }

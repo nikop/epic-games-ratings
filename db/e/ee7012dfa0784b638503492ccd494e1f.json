@@ -4,7 +4,7 @@
   "ProductSlug": "the-22nd-is-serda-f0a178-e66baa",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T17:59:11.3385189+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:02:18.7936075+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:08:22.1744288+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:03:29.7104631+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:09:55.3058866+00:00"
 }

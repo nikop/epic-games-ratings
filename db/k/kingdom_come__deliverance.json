@@ -8055,9 +8055,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805755,
+  "EOS_Progressed": 805757,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28855,6 +28855,11 @@
       "Time": "2023-10-23T09:05:57.2757435+00:00",
       "NumProgressed": 805755,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-23T10:08:08.3913132+00:00",
+      "NumProgressed": 805757,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28954,7 +28959,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120863
+      "UsersEstimate": 120864
     },
     {
       "ID": "Buddy",
@@ -29082,7 +29087,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120863
+      "UsersEstimate": 120864
     },
     {
       "ID": "Freud",
@@ -29521,15 +29526,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805755,
+      "Progressed": 805757,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-23T08:59:58.6496579+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:05:57.2757431+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:08:08.3913125+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:59:58.6496584+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:05:57.2759682+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:01:52.3650193+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:08:08.3916329+00:00"
 }

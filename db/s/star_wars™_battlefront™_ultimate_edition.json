@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2239,6 +2239,11 @@
       "Time": "2023-10-23T09:08:12.5881502+00:00",
       "NumProgressed": 810,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T10:09:41.4725208+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2475,7 +2480,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_36",
@@ -2491,7 +2496,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_38",
@@ -2523,7 +2528,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "achievement_41",
@@ -2539,7 +2544,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_43",
@@ -2555,7 +2560,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_45",
@@ -2571,7 +2576,7 @@
       "Name": "Patience you must have",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_47",
@@ -2754,13 +2759,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 1
     }
   ],
@@ -2768,8 +2773,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:08:12.5881499+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:09:41.47252+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:59:39.3794565+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:08:12.5882314+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:01:28.0978229+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:09:41.4726624+00:00"
 }

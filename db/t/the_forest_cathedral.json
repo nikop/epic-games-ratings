@@ -4,7 +4,7 @@
   "ProductSlug": "the-forest-cathedral-54f32c",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-14T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-18T20:00:10.1250147+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:27.5051435+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:57:43.4361522+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:05:06.146136+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:58:29.3695883+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:06:55.1098467+00:00"
 }

@@ -20,8 +20,8 @@ Rating: 4.08 (Ranked 951)
 | Miner Clicker | 17.00% | ~351 |
 | Dragon Master | 16.00% | ~330 |
 | Enlightenment | 16.00% | ~330 |
+| Lieutenant | 16.00% | ~330 |
 | Hero inspection | 15.00% | ~310 |
-| Lieutenant | 15.00% | ~310 |
 | The Unstoppable | 15.00% | ~310 |
 | Milestone collector | 14.00% | ~289 |
 | Mysterious Rock | 14.00% | ~289 |
@@ -263,12 +263,12 @@ Completed: 2 (0.10%) (Ranked 253)
 | 2023-10-21 | 2,058 | 2 |
 | 2023-10-22 | 2,065 | 2 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 491)  
-Sum: 75 (Ranked 455)  
-Diff (max vs sum): 36  
+Max (Great for Beginners): 29  (Ranked 485)  
+Sum: 76 (Ranked 454)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 29 |
 | This game is Great for Quick Sessions | 26 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
@@ -324,3 +324,4 @@ Diff (max vs sum): 36
 | 2023-10-18 | 4.06 | 28 | 73 |
 | 2023-10-21 | 4.06 | 28 | 74 |
 | 2023-10-22 | 4.08 | 28 | 75 |
+| 2023-10-23 | 4.08 | 29 | 76 |

@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~45 |
 | Cataphract Archer | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
+| Siege Tower | 0.30% | ~45 |
 | No Undo | 0.30% | ~45 |
 | Rmt n Kmt Buhen | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
-| Siege Tower | 0.20% | ~30 |
 | Conquest Victory | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Prosperous Kmt | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,896 (Ranked 139)  
+Progressed: 14,897 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 5 (0.03%) (Ranked 288)
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
-| 2023-10-23 | 14,896 | 5 |
+| 2023-10-23 | 14,897 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

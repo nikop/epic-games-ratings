@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 620,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -348,6 +348,11 @@
       "Time": "2023-10-23T09:05:39.9494214+00:00",
       "NumProgressed": 618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T10:07:43.4264785+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -392,7 +397,7 @@
       "Name": "Blobmeister",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -400,7 +405,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -416,7 +421,7 @@
       "Name": "Pest Control",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -440,7 +445,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -456,7 +461,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -502,9 +507,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -558,9 +563,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -568,7 +573,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -599,13 +604,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 620,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:05:39.9494211+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:07:43.4264779+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:58:31.6356864+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:05:39.9494452+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:59:44.8174968+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:07:43.4265061+00:00"
 }

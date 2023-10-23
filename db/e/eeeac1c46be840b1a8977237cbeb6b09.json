@@ -4,7 +4,7 @@
   "ProductSlug": "sylvio-and-the-mountains-giants-e336bb",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-14T17:00:00+00:00",
@@ -122,8 +122,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-13T18:01:13.3280621+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:04:33.014893+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:06:06.4346449+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.0701808+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:58:23.5443931+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:04:33.0149001+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:59:29.9030071+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:06:06.4346578+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -429,9 +429,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3022,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -3939,6 +3939,11 @@
       "Time": "2023-10-23T07:04:15.1839358+00:00",
       "NumProgressed": 3022,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-23T10:05:21.3282656+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 14,
@@ -3958,7 +3963,7 @@
       "Name": "Case Closed",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3982,7 +3987,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -3990,7 +3995,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3998,7 +4003,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -4022,7 +4027,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ACH_REUNION",
@@ -4038,7 +4043,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -4054,14 +4059,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3022,
+      "Progressed": 3023,
       "Completed": 121
     }
   ],
@@ -4069,8 +4074,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:04:08.8794869+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:05:21.3282649+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:58:00.688868+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:04:08.8795187+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:58:55.0432793+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:05:21.3282977+00:00"
 }

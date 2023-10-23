@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -140,6 +140,11 @@
       "Time": "2023-10-22T13:09:50.1570399+00:00",
       "NumProgressed": 99,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T10:09:22.177763+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -239,7 +244,7 @@
       "Name": "What is this?",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -301,7 +306,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -429,7 +434,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 54
     },
@@ -518,7 +523,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 1
     }
   ],
@@ -526,8 +531,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:06:48.2872207+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:09:22.1777623+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:02:05.6820474+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:06:48.2872599+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:03:12.4571606+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:09:22.1778293+00:00"
 }

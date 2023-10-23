@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10666,
+  "EOS_Progressed": 10667,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -11727,6 +11727,11 @@
       "Time": "2023-10-23T09:05:30.2878479+00:00",
       "NumProgressed": 10666,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T10:07:29.6387912+00:00",
+      "NumProgressed": 10667,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 34,
@@ -11898,7 +11903,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4906
+      "UsersEstimate": 4907
     },
     {
       "ID": "ACH22",
@@ -12009,7 +12014,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10666,
+      "Progressed": 10667,
       "Completed": 62
     }
   ],
@@ -12017,8 +12022,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:05:30.2878476+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:07:29.6387905+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:59:58.214582+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:05:30.2879383+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:01:51.6777141+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:07:29.6389524+00:00"
 }

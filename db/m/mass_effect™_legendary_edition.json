@@ -2595,9 +2595,9 @@
       "ID": "achievement_47",
       "SetID": "d252ncf",
       "Name": "The Justicar",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_48",
@@ -3071,8 +3071,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:03:12.9561994+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:04:01.9681909+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-23T09:03:02.2488006+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:03:12.9564414+00:00"
+  "LastUpdate_Ratings": "2023-10-23T10:03:34.0310554+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:04:01.9685049+00:00"
 }

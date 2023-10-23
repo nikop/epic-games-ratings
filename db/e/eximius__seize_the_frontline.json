@@ -321,9 +321,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198881,
+  "EOS_Progressed": 198885,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20151,6 +20151,11 @@
       "Time": "2023-10-23T09:05:03.5556704+00:00",
       "NumProgressed": 198881,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T10:06:51.5599564+00:00",
+      "NumProgressed": 198885,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -20162,7 +20167,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15910
+      "UsersEstimate": 15911
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -20170,7 +20175,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141206
+      "UsersEstimate": 141208
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -20186,7 +20191,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     },
     {
       "ID": "ACH_INITIATION",
@@ -20289,7 +20294,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 198881,
+      "Progressed": 198885,
       "Completed": 4
     }
   ],
@@ -20297,8 +20302,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-09T18:00:39.8598773+00:00",
-  "LastChanged_Achievements": "2023-10-23T09:05:03.55567+00:00",
+  "LastChanged_Achievements": "2023-10-23T10:06:51.5599557+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.1360771+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:57:56.4907523+00:00",
-  "LastUpdate_Achievements": "2023-10-23T09:05:03.5558017+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:58:45.5667028+00:00",
+  "LastUpdate_Achievements": "2023-10-23T10:06:51.5601938+00:00"
 }
