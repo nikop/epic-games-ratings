@@ -3,11 +3,11 @@
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 555,
-  "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 386,
+  "Ranking_Popularity": 439,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -1092,10 +1092,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 204,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2023-10-23T22:59:49.3533156+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 204,
+  "NumberOfAwards": 226,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1151,7 +1157,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -1165,8 +1171,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-10-23T21:00:25.7582164+00:00",
+  "LastChanged": "2023-10-23T22:59:49.3533153+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:14.5269212+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:59:43.0617668+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:04:45.5231749+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:59:49.3533161+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:04:50.7006193+00:00"
 }

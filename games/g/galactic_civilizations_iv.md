@@ -1,27 +1,27 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 915)  
+Rating: 4.17 (Ranked 914)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 78.00% | ~5,494 |
-| Worker Specialization | 77.00% | ~5,423 |
-| First Contact | 72.00% | ~5,071 |
-| Win a Battle | 66.00% | ~4,648 |
-| Anomaly Researcher | 61.00% | ~4,296 |
-| Unleash My Power | 61.00% | ~4,296 |
-| Own 30 Planets | 33.00% | ~2,324 |
-| Xenocide | 31.00% | ~2,183 |
-| Design a Civilization | 31.00% | ~2,183 |
+| Worker Specialization | 77.00% | ~5,424 |
+| First Contact | 72.00% | ~5,072 |
+| Win a Battle | 66.00% | ~4,649 |
+| Anomaly Researcher | 61.00% | ~4,297 |
+| Unleash My Power | 61.00% | ~4,297 |
+| Own 30 Planets | 33.00% | ~2,325 |
+| Xenocide | 31.00% | ~2,184 |
+| Design a Civilization | 31.00% | ~2,184 |
 | Commodity Trader | 30.00% | ~2,113 |
 | Design a Ship | 28.00% | ~1,972 |
 | Commodity Seller | 25.00% | ~1,761 |
 | Prestige Victory! | 14.00% | ~986 |
 | Galactic War | 10.00% | ~704 |
 | Trading Partner | 9.00% | ~634 |
-| Fleet Victory | 8.00% | ~563 |
+| Fleet Victory | 8.00% | ~564 |
 | Win as Terrans | 7.00% | ~493 |
 | Gain an Ally | 6.00% | ~423 |
 | Win with a Custom Faction | 6.00% | ~423 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,043 (Ranked 165)  
+Progressed: 7,044 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 0 (0.00%) (Ranked 322)
 | 2023-10-20 | 6,927 | 0 |
 | 2023-10-21 | 6,978 | 0 |
 | 2023-10-22 | 7,013 | 0 |
-| 2023-10-23 | 7,043 | 0 |
+| 2023-10-23 | 7,044 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 360)  
 Sum: 681 (Ranked 290)  

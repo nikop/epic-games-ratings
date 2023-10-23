@@ -2,9 +2,9 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 915,
-  "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Rating": 914,
+  "Ranking_Popularity": 458,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 182,
@@ -829,9 +829,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6112,
+  "EOS_Progressed": 6113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8754,6 +8754,11 @@
       "Time": "2023-10-23T22:06:49.7753551+00:00",
       "NumProgressed": 6112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T23:06:59.6237917+00:00",
+      "NumProgressed": 6113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8765,7 +8770,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4828
+      "UsersEstimate": 4829
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8781,7 +8786,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8797,7 +8802,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -8805,7 +8810,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -8869,7 +8874,7 @@
       "Name": "Goldfish?",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -8925,7 +8930,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -9044,13 +9049,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6112,
+      "Progressed": 6113,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5484,
+      "Progressed": 5485,
       "Completed": 112
     }
   ],
@@ -9058,8 +9063,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-17T13:06:11.7747359+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:49.7753547+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:59.6237902+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.0484101+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:58:32.7297695+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:49.7754306+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:58:35.7777714+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:59.6238718+00:00"
 }

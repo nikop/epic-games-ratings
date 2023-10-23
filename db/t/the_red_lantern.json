@@ -2,12 +2,12 @@
   "ID": "65add98d18a64e2ead3b8f05c84cba94",
   "Name": "The Red Lantern",
   "ProductSlug": "the-red-lantern",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-10-22T13:00:00+00:00",
@@ -71,6 +71,6 @@
   "FirstSeenRating": "2022-11-27T15:57:53.4583182+00:00",
   "LastChanged": "2023-08-22T19:56:58.3171301+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:44.2557842+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:03:13.7922709+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:34.8807613+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:03:12.1619479+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:44.3579876+00:00"
 }

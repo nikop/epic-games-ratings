@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 863)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,674 |
+| Rigged And Ready | 80.00% | ~1,675 |
 | Don't I Know You...? | 77.00% | ~1,612 |
-| Jailbreak | 66.00% | ~1,381 |
-| Suited and Booted | 39.00% | ~816 |
-| HEADSHOT! | 38.00% | ~795 |
-| Sleeping With The Fishes | 36.00% | ~753 |
+| Jailbreak | 66.00% | ~1,382 |
+| Suited and Booted | 39.00% | ~817 |
+| HEADSHOT! | 38.00% | ~796 |
+| Sleeping With The Fishes | 36.00% | ~754 |
 | Overheated | 30.00% | ~628 |
 | High Performance | 30.00% | ~628 |
 | Powered Up | 28.00% | ~586 |
-| Studied The Blade | 25.00% | ~523 |
-| Home Invasion | 23.00% | ~481 |
-| Luminary | 23.00% | ~481 |
-| True Survivor | 22.00% | ~460 |
-| It's a Trap | 22.00% | ~460 |
+| Studied The Blade | 25.00% | ~524 |
+| Home Invasion | 23.00% | ~482 |
+| Luminary | 23.00% | ~482 |
+| True Survivor | 22.00% | ~461 |
+| It's a Trap | 22.00% | ~461 |
 | Offensive Defense | 20.00% | ~419 |
 | Shocking | 20.00% | ~419 |
 | Unforeseeable Consequences | 20.00% | ~419 |
@@ -39,8 +39,8 @@ Rating: 4.24 (Ranked 863)
 | Stimulating The Local Economy | 10.00% | ~209 |
 | Denying Prophecy | 9.00% | ~188 |
 | Defense in Depth | 9.00% | ~188 |
-| A Little Banged Up | 8.00% | ~167 |
-| Following In Their Footsteps | 8.00% | ~167 |
+| A Little Banged Up | 8.00% | ~168 |
+| Following In Their Footsteps | 8.00% | ~168 |
 | Reverse Engineering | 7.00% | ~147 |
 | Reborn | 6.00% | ~126 |
 | Remote Surgery | 6.00% | ~126 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 863)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,093 (Ranked 205)  
+Progressed: 2,094 (Ranked 205)  
 Completed: 12 (0.57%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 12 (0.57%) (Ranked 174)
 | 2023-10-15 | 2,089 | 12 |
 | 2023-10-16 | 2,091 | 12 |
 | 2023-10-20 | 2,093 | 12 |
+| 2023-10-23 | 2,094 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

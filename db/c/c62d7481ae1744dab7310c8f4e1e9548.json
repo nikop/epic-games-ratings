@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -535,9 +535,9 @@
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Dusici",
@@ -727,9 +727,9 @@
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Xicht",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:05:56.4957967+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:04.6159451+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.8768391+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:58:40.450666+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:05:56.4958193+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:58:43.7802825+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:04.6159713+00:00"
 }

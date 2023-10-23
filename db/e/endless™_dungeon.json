@@ -442,9 +442,9 @@
       "ID": "ACHIEVEMENT_BIOGRAPHER",
       "SetID": "9991201",
       "Name": "Endless Biographer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -664,8 +664,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:12.2743878+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:21.1076984+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:58:59.2497218+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:12.2744315+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:59:03.0869459+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:21.1077243+00:00"
 }

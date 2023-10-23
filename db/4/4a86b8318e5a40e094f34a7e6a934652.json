@@ -853,9 +853,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -949,9 +949,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -996,8 +996,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:03.2132725+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:11.5035193+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:57:57.4011273+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:03.2132924+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:57:58.7004977+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:11.5035381+00:00"
 }

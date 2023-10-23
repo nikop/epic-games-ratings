@@ -9,7 +9,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Immovable Object | 89.00% | ~120,236 |
 | Comeback | 82.00% | ~110,780 |
 | Information is Key | 80.00% | ~108,078 |
-| Unlucky | 70.00% | ~94,568 |
+| Unlucky | 71.00% | ~95,919 |
 | Anarchist | 68.00% | ~91,866 |
 | Wallhack | 65.00% | ~87,813 |
 | Steady Supply | 60.00% | ~81,058 |

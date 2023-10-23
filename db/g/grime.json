@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154237,
+  "EOS_Progressed": 154251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12794,6 +12794,11 @@
       "Time": "2023-10-23T21:08:02.7173713+00:00",
       "NumProgressed": 154237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T23:03:26.7860526+00:00",
+      "NumProgressed": 154251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12813,7 +12818,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -12901,7 +12906,7 @@
       "Name": "Shapely",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -12989,7 +12994,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -12997,7 +13002,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -13005,7 +13010,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13021,7 +13026,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13037,7 +13042,7 @@
       "Name": "Kinship",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -13085,7 +13090,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -13093,7 +13098,7 @@
       "Name": "Passage",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "QUEST_CHILD",
@@ -13133,7 +13138,7 @@
       "Name": "Proportions",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -13172,21 +13177,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153820,
+      "Progressed": 153834,
       "Completed": 1170
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154237,
+      "Progressed": 154251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:08:02.7173704+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:03:26.7860513+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:59:23.1050568+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:08:02.717575+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:59:28.5151752+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:03:26.788588+00:00"
 }

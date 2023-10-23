@@ -21,7 +21,7 @@
 | What's Behind Every Door? | 4.00% | ~26 |
 | No Stone Unturned | 2.00% | ~13 |
 | Turret Syndrome | 1.00% | ~7 |
-| Endless Biographer | 0.20% | ~1 |
+| Endless Biographer | 0.30% | ~2 |
 | Grab 'Em All | 0.00% | ~0 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |

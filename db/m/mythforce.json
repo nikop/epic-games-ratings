@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -8045,9 +8045,9 @@
       "ID": "MF_Ach_DebuffDogpile",
       "SetID": "9b9n573",
       "Name": "Debuff Dogpile",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 1013
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -8205,8 +8205,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:09:26.1370761+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:09:18.5284075+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:00:26.8071462+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:09:26.1371335+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:00:38.2554774+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:09:18.5284726+00:00"
 }

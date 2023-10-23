@@ -1209,9 +1209,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232730,
+  "EOS_Progressed": 232741,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1409,
+  "EOS_NewPlayers": 1411,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15834,6 +15834,11 @@
       "Time": "2023-10-23T22:04:32.6275394+00:00",
       "NumProgressed": 232730,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T23:04:37.2178312+00:00",
+      "NumProgressed": 232741,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -15893,7 +15898,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11636
+      "UsersEstimate": 11637
     },
     {
       "ID": "Chapter2",
@@ -16277,7 +16282,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9309
+      "UsersEstimate": 9310
     },
     {
       "ID": "ElfEpic",
@@ -16293,7 +16298,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79128
+      "UsersEstimate": 79132
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16341,7 +16346,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16291
+      "UsersEstimate": 16292
     },
     {
       "ID": "FollowBraztok",
@@ -16493,7 +16498,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9309
+      "UsersEstimate": 9310
     },
     {
       "ID": "SupportCount4",
@@ -16548,21 +16553,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232730,
+      "Progressed": 232741,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232730,
+      "Progressed": 232741,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-23T22:00:23.9469736+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:04:32.6275389+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:04:37.2178293+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:00:23.9469741+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:04:32.6277316+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:00:35.4185192+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:04:37.2180275+00:00"
 }

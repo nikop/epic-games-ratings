@@ -4,10 +4,10 @@
   "ProductSlug": "hitman/standard-edition",
   "Ranking_Rating": 327,
   "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": null,
@@ -2542,10 +2542,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1586,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2023-10-23T22:59:57.5831543+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1587,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1586,
+  "NumberOfAwards": 1587,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2559,7 +2565,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 188
+      "Count": 189
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2621,8 +2627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2023-10-21T19:59:37.5222347+00:00",
+  "LastChanged": "2023-10-23T22:59:57.583154+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:19.2993551+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:59:50.1901376+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:03:59.3748989+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:59:57.5831553+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:04:02.4495096+00:00"
 }

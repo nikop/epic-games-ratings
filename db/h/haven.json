@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1490,
+  "EOS_Progressed": 1491,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1963,6 +1963,11 @@
       "Time": "2023-10-23T17:07:12.5670646+00:00",
       "NumProgressed": 1490,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-23T23:06:48.6828484+00:00",
+      "NumProgressed": 1491,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1974,7 +1979,7 @@
       "Name": "Lovebirds",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "10",
@@ -2038,7 +2043,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "18",
@@ -2086,7 +2091,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "23",
@@ -2158,7 +2163,7 @@
       "Name": "Spring cleaning",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "4",
@@ -2174,7 +2179,7 @@
       "Name": "An eye for an eye",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "6",
@@ -2213,15 +2218,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1490,
+      "Progressed": 1491,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:39.1191264+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:48.6828479+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.2230355+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:03:12.8215482+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:39.1191597+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:03:11.1141295+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:48.6828842+00:00"
 }

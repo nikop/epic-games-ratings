@@ -421,7 +421,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42258,
+  "EOS_Progressed": 42259,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -11201,6 +11201,11 @@
       "Time": "2023-10-23T20:09:28.1571311+00:00",
       "NumProgressed": 42258,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-23T23:09:07.6147942+00:00",
+      "NumProgressed": 42259,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11404,7 +11409,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -11500,7 +11505,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -11524,7 +11529,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -11564,7 +11569,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "STAYING_AIR",
@@ -11635,22 +11640,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42258,
+      "Progressed": 42259,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7095,
-      "Completed": 7095
+      "Progressed": 7096,
+      "Completed": 7096
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:09:15.7450143+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:09:07.6147936+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4363915+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:00:20.9637765+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:09:15.7451242+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:00:32.4596166+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:09:07.6148974+00:00"
 }

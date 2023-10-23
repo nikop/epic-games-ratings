@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2023-10-23T02:23:25.3935421+00:00",
       "NumProgressed": 557,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-23T23:06:23.058446+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -713,9 +718,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "ANNOYING",
@@ -723,7 +728,7 @@
       "Name": "Annoying",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "BLADE_RUNNER",
@@ -745,9 +750,9 @@
       "ID": "CONCRETE_PAINTING",
       "SetID": "2iigf77",
       "Name": "Concrete painting",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 89
     },
     {
       "ID": "CURIOUS",
@@ -761,9 +766,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 195
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -771,7 +776,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "FOUND_IT",
@@ -803,7 +808,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -835,7 +840,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "LUCKY_DOG",
@@ -859,7 +864,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -875,7 +880,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "PERFECT_HEARING",
@@ -915,7 +920,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "SILENT",
@@ -963,14 +968,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 18
     }
   ],
@@ -978,8 +983,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:14.1388748+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:23.0584453+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.6002167+00:00",
   "LastUpdate_Ratings": "2023-10-23T22:03:03.0456913+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:14.1389376+00:00"
+  "LastUpdate_Achievements": "2023-10-23T23:06:23.0584745+00:00"
 }

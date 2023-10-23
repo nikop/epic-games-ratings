@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2243,9 +2243,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 564
+      "UsersEstimate": 573
     },
     {
       "ID": "AC09",
@@ -2556,8 +2556,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:09:07.2539007+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:08:19.5170379+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:58:53.4566046+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:09:07.2539463+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:58:57.7824678+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:08:19.517093+00:00"
 }

@@ -4,9 +4,9 @@
 Rating: 4.51 (Ranked 555)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 43  (Ranked 438)  
-Sum: 204 (Ranked 386)  
-Diff (max vs sum): 52  
+Max (Great for Beginners): 43  (Ranked 439)  
+Sum: 226 (Ranked 379)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 26 |
 | This game has Amazing Storytelling | 23 |
 | This game has Amazing Characters | 22 |
-| This game has Unique Visuals | 20 |
+| This game has Unique Visuals | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -149,4 +149,4 @@ Diff (max vs sum): 52
 | 2023-10-19 | 4.51 | - | 42 | 219 |
 | 2023-10-20 | 4.51 | - | 42 | 199 |
 | 2023-10-21 | 4.51 | - | 43 | 202 |
-| 2023-10-23 | 4.51 | - | 43 | 204 |
+| 2023-10-23 | 4.51 | - | 43 | 226 |

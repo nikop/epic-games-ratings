@@ -3535,7 +3535,7 @@
   ],
   "EOS_Progressed": 135097,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24981,9 +24981,9 @@
       "ID": "TANNENBERG_ACH_UNLUCKY",
       "SetID": "312pgde",
       "Name": "Unlucky",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 94568
+      "UsersEstimate": 95919
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -25021,8 +25021,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-10-23T17:58:29.7831936+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:06:32.682061+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:06:42.1066476+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:00.038044+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:58:06.6195705+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:06:32.6822477+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:58:08.6289395+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:06:42.1068481+00:00"
 }

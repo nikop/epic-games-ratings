@@ -5,30 +5,30 @@ Rating: 4.28 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,566 |
-| Copacetic Coordination | 16.00% | ~55,849 |
-| Fronting the Money | 15.00% | ~52,359 |
-| The Dawn of Automation | 14.00% | ~48,868 |
-| Extraordinary Logistics | 14.00% | ~48,868 |
-| Dirty Money | 13.00% | ~45,377 |
-| Family First | 13.00% | ~45,377 |
-| Cleaning House | 12.00% | ~41,887 |
-| Room in the Back | 12.00% | ~41,887 |
-| Beating the Heat | 11.00% | ~38,396 |
-| Booze Baron | 11.00% | ~38,396 |
-| Friends on the Force | 10.00% | ~34,906 |
-| Neighborhood Watch | 10.00% | ~34,906 |
+| Corner Clout | 46.00% | ~160,571 |
+| Copacetic Coordination | 16.00% | ~55,851 |
+| Fronting the Money | 15.00% | ~52,360 |
+| The Dawn of Automation | 14.00% | ~48,869 |
+| Extraordinary Logistics | 14.00% | ~48,869 |
+| Dirty Money | 13.00% | ~45,379 |
+| Family First | 13.00% | ~45,379 |
+| Cleaning House | 12.00% | ~41,888 |
+| Room in the Back | 12.00% | ~41,888 |
+| Beating the Heat | 11.00% | ~38,397 |
+| Booze Baron | 11.00% | ~38,397 |
+| Friends on the Force | 10.00% | ~34,907 |
+| Neighborhood Watch | 10.00% | ~34,907 |
 | Core Corps | 8.00% | ~27,925 |
 | Sizeable Stash | 8.00% | ~27,925 |
-| Street Fighter | 7.00% | ~24,434 |
-| Friendly Gestures | 7.00% | ~24,434 |
-| People Person | 7.00% | ~24,434 |
-| Liquor Lord | 6.00% | ~20,943 |
-| Safety in Numbers | 6.00% | ~20,943 |
-| Moving Experiences | 6.00% | ~20,943 |
-| Wise Head | 6.00% | ~20,943 |
-| Show ‘em the Sugar | 6.00% | ~20,943 |
-| Killing Them Softly | 6.00% | ~20,943 |
+| Street Fighter | 7.00% | ~24,435 |
+| Friendly Gestures | 7.00% | ~24,435 |
+| People Person | 7.00% | ~24,435 |
+| Liquor Lord | 6.00% | ~20,944 |
+| Safety in Numbers | 6.00% | ~20,944 |
+| Moving Experiences | 6.00% | ~20,944 |
+| Wise Head | 6.00% | ~20,944 |
+| Show ‘em the Sugar | 6.00% | ~20,944 |
+| Killing Them Softly | 6.00% | ~20,944 |
 | Street Knowledge | 5.00% | ~17,453 |
 | Oh Captain | 5.00% | ~17,453 |
 | Branching Out | 5.00% | ~17,453 |
@@ -36,11 +36,11 @@ Rating: 4.28 (Ranked 836)
 | Opportunity Knocked | 5.00% | ~17,453 |
 | City of Big Shoulders | 5.00% | ~17,453 |
 | Mission Mastery | 5.00% | ~17,453 |
-| Considerable Clams | 4.00% | ~13,962 |
-| Gin Joint | 4.00% | ~13,962 |
-| An Affront to the Enemy | 4.00% | ~13,962 |
-| Friends from Back Home | 4.00% | ~13,962 |
-| Half Century Mark | 4.00% | ~13,962 |
+| Considerable Clams | 4.00% | ~13,963 |
+| Gin Joint | 4.00% | ~13,963 |
+| An Affront to the Enemy | 4.00% | ~13,963 |
+| Friends from Back Home | 4.00% | ~13,963 |
+| Half Century Mark | 4.00% | ~13,963 |
 | Corner Opportunities | 3.00% | ~10,472 |
 | 2122 North Clark Street | 3.00% | ~10,472 |
 | Copious Cabbage | 3.00% | ~10,472 |
@@ -61,9 +61,9 @@ Rating: 4.28 (Ranked 836)
 | Cat’s Meow Clubs | 1.00% | ~3,491 |
 | Stepping It Up | 1.00% | ~3,491 |
 | Determined Deliveries | 0.90% | ~3,142 |
-| Boots in the Ground | 0.80% | ~2,792 |
-| Getting Fancy | 0.80% | ~2,792 |
-| Crossing Over | 0.80% | ~2,792 |
+| Boots in the Ground | 0.80% | ~2,793 |
+| Getting Fancy | 0.80% | ~2,793 |
+| Crossing Over | 0.80% | ~2,793 |
 | Still Dreaming | 0.50% | ~1,745 |
 | Working on the Railroad | 0.50% | ~1,745 |
 | Social Butterfly | 0.50% | ~1,745 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 836)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,057 (Ranked 44)  
+Progressed: 349,067 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,11 +272,11 @@ Completed: 7 (0.00%) (Ranked 322)
 | 2023-10-20 | 348,546 | 7 |
 | 2023-10-21 | 348,735 | 7 |
 | 2023-10-22 | 348,942 | 7 |
-| 2023-10-23 | 349,057 | 7 |
+| 2023-10-23 | 349,067 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 448)  
+Max (Great for Beginners): 38  (Ranked 450)  
 Sum: 179 (Ranked 402)  
-Diff (max vs sum): 46  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

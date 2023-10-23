@@ -625,9 +625,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469553,
+  "EOS_Progressed": 469554,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20115,6 +20115,11 @@
       "Time": "2023-10-23T22:09:36.1138144+00:00",
       "NumProgressed": 469553,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-23T23:09:29.1515454+00:00",
+      "NumProgressed": 469554,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20214,7 +20219,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309905
+      "UsersEstimate": 309906
     },
     {
       "ID": "achievement_story_landa",
@@ -20550,7 +20555,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206603
+      "UsersEstimate": 206604
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20757,21 +20762,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13487,
+      "Progressed": 13488,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469553,
+      "Progressed": 469554,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-23T22:09:36.1138139+00:00",
+  "LastChanged_Achievements": "2023-10-23T23:09:29.1515446+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:57:21.5895854+00:00",
-  "LastUpdate_Achievements": "2023-10-23T22:09:36.1140144+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:57:22.7739766+00:00",
+  "LastUpdate_Achievements": "2023-10-23T23:09:29.151739+00:00"
 }
