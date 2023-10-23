@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -2319,6 +2319,11 @@
       "Time": "2023-10-23T14:04:54.9119172+00:00",
       "NumProgressed": 940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T17:05:27.4009616+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2330,7 +2335,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2338,7 +2343,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2354,7 +2359,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2448,9 +2453,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 207
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2530,7 +2535,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2570,7 +2575,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2578,7 +2583,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2722,7 +2727,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2762,7 +2767,7 @@
       "Name": "The Last of Us",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2778,7 +2783,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2857,14 +2862,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:05:21.741056+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:05:27.4009611+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:59:57.9567855+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:05:21.7411215+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:59:57.6590998+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:05:27.4010374+00:00"
 }

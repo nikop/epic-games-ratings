@@ -6,19 +6,19 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.50% | ~4,467 |
+| Ten out of Ten | 0.50% | ~4,468 |
 | Rough Landing | 0.40% | ~3,574 |
 | The High Priestess | 0.40% | ~3,574 |
-| Full Body Conversion | 0.30% | ~2,680 |
-| Right Back At Ya | 0.30% | ~2,680 |
-| Gunslinger | 0.30% | ~2,680 |
-| Stanislavski's Method | 0.30% | ~2,680 |
-| The Hermit | 0.30% | ~2,680 |
-| The Wheel of Fortune | 0.30% | ~2,680 |
-| The Jungle | 0.30% | ~2,680 |
-| True Soldier | 0.30% | ~2,680 |
-| Two Heads, One Bullet | 0.30% | ~2,680 |
-| Legend of The Afterlife | 0.30% | ~2,680 |
+| Full Body Conversion | 0.30% | ~2,681 |
+| Right Back At Ya | 0.30% | ~2,681 |
+| Gunslinger | 0.30% | ~2,681 |
+| Stanislavski's Method | 0.30% | ~2,681 |
+| The Hermit | 0.30% | ~2,681 |
+| The Wheel of Fortune | 0.30% | ~2,681 |
+| The Jungle | 0.30% | ~2,681 |
+| True Soldier | 0.30% | ~2,681 |
+| Two Heads, One Bullet | 0.30% | ~2,681 |
+| Legend of The Afterlife | 0.30% | ~2,681 |
 | All the President's Men | 0.30% | ~66 |
 | Arachnophobia | 0.30% | ~66 |
 | To Bad Decisions! | 0.20% | ~1,787 |
@@ -41,19 +41,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.20% | ~1,787 |
 | Spin Doctor | 0.20% | ~44 |
 | King of Wands | 0.20% | ~44 |
-| City Lights | 0.10% | ~893 |
-| The Wandering Fool | 0.10% | ~893 |
-| Autojock | 0.10% | ~893 |
-| Frequent Flyer | 0.10% | ~893 |
-| Little Tokyo | 0.10% | ~893 |
-| Must Be Rats | 0.10% | ~893 |
-| The Wasteland | 0.10% | ~893 |
-| Daemon In The Shell | 0.10% | ~893 |
-| The Devil | 0.10% | ~893 |
-| The Star | 0.10% | ~893 |
-| The Sun | 0.10% | ~893 |
-| Greetings from Pacifica! | 0.10% | ~893 |
-| It's Elementary | 0.10% | ~893 |
+| City Lights | 0.10% | ~894 |
+| The Wandering Fool | 0.10% | ~894 |
+| Autojock | 0.10% | ~894 |
+| Frequent Flyer | 0.10% | ~894 |
+| Little Tokyo | 0.10% | ~894 |
+| Must Be Rats | 0.10% | ~894 |
+| The Wasteland | 0.10% | ~894 |
+| Daemon In The Shell | 0.10% | ~894 |
+| The Devil | 0.10% | ~894 |
+| The Star | 0.10% | ~894 |
+| The Sun | 0.10% | ~894 |
+| Greetings from Pacifica! | 0.10% | ~894 |
+| It's Elementary | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~22 |
 | Relic Ruler | 0.10% | ~22 |
 | Judgement Day | 0.10% | ~22 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,491 (Ranked 15)  
+Progressed: 893,501 (Ranked 15)  
 Completed: 2,705 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 2,705 (0.30%) (Ranked 212)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,491 | 2,705 |
+| 2023-10-23 | 893,501 | 2,705 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 322,134 (Ranked 11)  

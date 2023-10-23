@@ -10,9 +10,9 @@ Number of Ratings: 743  (23.09.2022)
 | Say goodbye, creep! | 66.00% | ~28,845 |
 | Blood splattered | 66.00% | ~28,845 |
 | Choo choo! | 63.00% | ~27,534 |
-| Groovy | 62.00% | ~27,096 |
-| Cleanup on aisle 4! | 57.00% | ~24,911 |
-| Gold | 51.00% | ~22,289 |
+| Groovy | 62.00% | ~27,097 |
+| Cleanup on aisle 4! | 57.00% | ~24,912 |
+| Gold | 50.00% | ~21,852 |
 | The boat can leave now...tell the crew | 49.00% | ~21,415 |
 | Give me something to shoot! | 47.00% | ~20,541 |
 | Stand back boy! | 47.00% | ~20,541 |
@@ -22,17 +22,17 @@ Number of Ratings: 743  (23.09.2022)
 | Look mummy! A shark! | 41.00% | ~17,919 |
 | In the dark dark woods... | 39.00% | ~17,045 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,608 |
-| Double tap | 37.00% | ~16,170 |
-| All of this has happened before… | 36.00% | ~15,733 |
-| Cranial blowout! | 36.00% | ~15,733 |
-| Zombie killin' machine | 36.00% | ~15,733 |
-| Every bullet counts | 36.00% | ~15,733 |
-| All roads lead to Rome | 34.00% | ~14,859 |
-| You've got red on you | 34.00% | ~14,859 |
-| You're all going to die down here | 32.00% | ~13,985 |
-| He did Nazi that coming | 32.00% | ~13,985 |
-| Kill of the week | 31.00% | ~13,548 |
-| I never liked them anyway | 30.00% | ~13,111 |
+| Double tap | 37.00% | ~16,171 |
+| All of this has happened before… | 36.00% | ~15,734 |
+| Cranial blowout! | 36.00% | ~15,734 |
+| Zombie killin' machine | 36.00% | ~15,734 |
+| Every bullet counts | 36.00% | ~15,734 |
+| All roads lead to Rome | 34.00% | ~14,860 |
+| You've got red on you | 34.00% | ~14,860 |
+| You're all going to die down here | 32.00% | ~13,986 |
+| He did Nazi that coming | 32.00% | ~13,986 |
+| Kill of the week | 31.00% | ~13,549 |
+| I never liked them anyway | 30.00% | ~13,112 |
 | Is it over? | 28.00% | ~12,237 |
 | Got your back | 27.00% | ~11,800 |
 | Gore soaked | 24.00% | ~10,489 |
@@ -45,7 +45,7 @@ Number of Ratings: 743  (23.09.2022)
 | The bigger they are... | 15.00% | ~6,556 |
 | I'm going deeper underground | 14.00% | ~6,119 |
 | Well equipped | 13.00% | ~5,682 |
-| Into the deep | 12.00% | ~5,244 |
+| Into the deep | 12.00% | ~5,245 |
 | Damnedbusters | 9.00% | ~3,933 |
 | Plane sailing | 8.00% | ~3,496 |
 | I can do anything I want. I got guns | 8.00% | ~3,496 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~437 |
 | None more hard | 0.50% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,704 (Ranked 107)  
+Progressed: 43,705 (Ranked 107)  
 Completed: 25 (0.06%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 25 (0.06%) (Ranked 273)
 | 2023-10-20 | 43,679 | 25 |
 | 2023-10-21 | 43,689 | 25 |
 | 2023-10-22 | 43,702 | 25 |
-| 2023-10-23 | 43,704 | 25 |
+| 2023-10-23 | 43,705 | 25 |
 ## Awards
 Max (Great Boss Battles): 842  (Ranked 160)  
 Sum: 2,529 (Ranked 183)  

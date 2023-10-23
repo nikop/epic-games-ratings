@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "TRIGGERED_THE_ONSLAUGHT_ACH",
       "SetID": "1go0aao",
       "Name": "Triggered the Onslaught",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WALK_IN_THE_PARK_ACH",
@@ -182,8 +182,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:08:09.8595675+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:08:17.0498769+00:00",
   "LastUpdate_AppInfo": "2023-10-18T18:57:29.0194141+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:57:45.9938079+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:08:09.8595774+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:57:43.4500305+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:08:17.0498903+00:00"
 }

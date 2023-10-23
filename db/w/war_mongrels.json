@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1780,6 +1780,11 @@
       "Time": "2023-10-23T16:05:48.6587465+00:00",
       "NumProgressed": 555,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T17:05:59.3059494+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1895,7 +1900,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_COLL_20",
@@ -1911,7 +1916,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -1919,7 +1924,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -2023,7 +2028,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2045,9 +2050,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2071,7 +2076,7 @@
       "Name": "The Difference",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2103,7 +2108,7 @@
       "Name": "Atonement",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_HARD_1",
@@ -2117,9 +2122,9 @@
       "ID": "ACH_HARD_ALL",
       "SetID": "1j25agn",
       "Name": "Piece of Cake",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_HEAL",
@@ -2135,7 +2140,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2175,7 +2180,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2205,9 +2210,9 @@
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2221,9 +2226,9 @@
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_NEST1",
@@ -2262,15 +2267,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:05:48.658746+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:05:59.3059484+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:16.7154426+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:00:42.4238591+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:05:48.6587964+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:00:40.4643277+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:05:59.3060147+00:00"
 }

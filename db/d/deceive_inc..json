@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18646,
+  "EOS_Progressed": 18649,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12170,6 +12170,11 @@
       "Time": "2023-10-23T16:05:35.3692338+00:00",
       "NumProgressed": 18646,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T17:05:43.7901265+00:00",
+      "NumProgressed": 18649,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12181,7 +12186,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5594
+      "UsersEstimate": 5595
     },
     {
       "ID": "0002",
@@ -12237,7 +12242,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "0009",
@@ -12269,7 +12274,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "0013",
@@ -12285,7 +12290,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "0015",
@@ -12365,7 +12370,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4102
+      "UsersEstimate": 4103
     },
     {
       "ID": "0025",
@@ -12373,7 +12378,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "0026",
@@ -12413,7 +12418,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "0031",
@@ -12468,7 +12473,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18646,
+      "Progressed": 18649,
       "Completed": 4
     }
   ],
@@ -12476,8 +12481,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:05:35.3692334+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:05:43.790126+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:58:33.3446503+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:05:35.369345+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:58:30.0059998+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:05:43.7902341+00:00"
 }

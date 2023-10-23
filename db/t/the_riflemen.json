@@ -53,11 +53,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26446,
+  "EOS_Progressed": 26454,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2279,
+  "EOS_NewPlayers": 2268,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 44.46,
+  "EOS_Completed_Percentage": 44.45,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6558,6 +6558,11 @@
       "Time": "2023-10-23T16:06:40.6120689+00:00",
       "NumProgressed": 26446,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-23T17:07:00.1651416+00:00",
+      "NumProgressed": 26454,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6578,7 +6583,7 @@
       "Name": "First blood",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 16925
+      "UsersEstimate": 16931
     },
     {
       "ID": "grenadeKills",
@@ -6634,7 +6639,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "revengeMedal",
@@ -6681,7 +6686,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 26446,
+      "Progressed": 26454,
       "Completed": 11759
     }
   ],
@@ -6689,8 +6694,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-10-21T14:02:04.7860782+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:06:40.6120685+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:07:00.165141+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.8560856+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:01:35.3347012+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:06:40.612107+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:01:34.6517174+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:07:00.1652005+00:00"
 }

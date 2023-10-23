@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feels Familiar | 189.00% | ~17 |
 | Better On Ice | 178.00% | ~16 |
 | I Broke It | 178.00% | ~16 |
-| Feels Familiar | 178.00% | ~16 |
 | Blue Dreams | 167.00% | ~15 |
 | He's Famous! | 167.00% | ~15 |
 | True Legends | 167.00% | ~15 |
@@ -22,26 +22,26 @@
 | Snowball Fightn't | 122.00% | ~11 |
 | My Darkest Day | 111.00% | ~10 |
 | Tear of Freedom | 111.00% | ~10 |
+| 3000 Year Blackout | 111.00% | ~10 |
 | Vertical Power | 111.00% | ~10 |
-| 3000 Year Blackout | 100.00% | ~9 |
+| A Tragic Reminder | 100.00% | ~9 |
+| Family | 100.00% | ~9 |
+| Biggest Snowball Ever | 100.00% | ~9 |
 | Snowy Poro | 100.00% | ~9 |
 | Bullseye | 100.00% | ~9 |
 | Rhythm Of Willump | 100.00% | ~9 |
 | Moneyball | 100.00% | ~9 |
 | The Relentless Storm | 100.00% | ~9 |
 | The Finisher | 100.00% | ~9 |
-| A Tragic Reminder | 89.00% | ~8 |
+| Boosted! | 100.00% | ~9 |
+| Deadliest and Biggest Snowball Ever! | 100.00% | ~9 |
 | So Close | 89.00% | ~8 |
 | You Get Used To It | 89.00% | ~8 |
-| Family | 89.00% | ~8 |
-| Biggest Snowball Ever | 89.00% | ~8 |
 | The Pied Piper Of Freljord | 89.00% | ~8 |
-| Boosted! | 89.00% | ~8 |
-| Deadliest and Biggest Snowball Ever! | 89.00% | ~8 |
+| We Are Speed | 89.00% | ~8 |
 | Freeze The Ice Witch | 78.00% | ~7 |
-| We Are Speed | 78.00% | ~7 |
-| It Is Not Over | 67.00% | ~6 |
-| Yummy | 67.00% | ~6 |
+| It Is Not Over | 78.00% | ~7 |
+| Yummy | 78.00% | ~7 |
 | Braum's Poro Ranch | 67.00% | ~6 |
 | Handy Yeti | 67.00% | ~6 |
 | Sneaky Notai | 56.00% | ~5 |
@@ -50,8 +50,8 @@
 | Rock Star | 56.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 548)  
-Completed: 1 (11.11%) (Ranked 30)  
+Completed: 2 (22.22%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-10-23 | 9 | 1 |
+| 2023-10-23 | 9 | 2 |

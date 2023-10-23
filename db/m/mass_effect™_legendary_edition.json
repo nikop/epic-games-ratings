@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3005,9 +3005,9 @@
       "ID": "achievement_92",
       "SetID": "d252ncf",
       "Name": "Fact Finder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 158
     },
     {
       "ID": "achievement_93",
@@ -3081,8 +3081,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:03:45.9764624+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:03:24.553038+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:03:32.1126861+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:03:45.9766538+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:03:09.5906775+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:03:24.5532793+00:00"
 }

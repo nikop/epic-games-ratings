@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.65,
+  "EOS_Completed_Percentage": 6.62,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1490,6 +1490,11 @@
       "Time": "2023-10-23T10:03:47.5541798+00:00",
       "NumProgressed": 316,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-23T17:03:30.0995079+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 25,
@@ -1499,9 +1504,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "END_GOOD",
@@ -1555,9 +1560,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1565,7 +1570,7 @@
       "Name": "Feels like springtime",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1597,7 +1602,7 @@
       "Name": "Alchemists Express",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1637,7 +1642,7 @@
       "Name": "Champollion",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1645,7 +1650,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1659,9 +1664,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 48
     },
     {
       "ID": "PROGRESS_N2",
@@ -1700,14 +1705,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:03:50.7562899+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:03:30.0995075+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:01:37.7306646+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:03:50.7563118+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:01:37.1539879+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:03:30.0995381+00:00"
 }

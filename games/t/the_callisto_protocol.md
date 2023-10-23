@@ -26,9 +26,9 @@ Rating: 4.19 (Ranked 899)
 | Full Circle | 4.00% | ~649 |
 | Power Up | 4.00% | ~649 |
 | It's Time | 4.00% | ~166 |
-| Giving Back | 3.00% | ~486 |
-| Terminated | 3.00% | ~486 |
-| The Commonality | 3.00% | ~486 |
+| Giving Back | 3.00% | ~487 |
+| Terminated | 3.00% | ~487 |
+| The Commonality | 3.00% | ~487 |
 | In Striking Distance | 2.00% | ~324 |
 | One Last Job | 2.00% | ~83 |
 | This Isn't About Escape | 1.00% | ~41 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,216 (Ranked 134)  
-Completed: 77 (0.47%) (Ranked 185)  
+Progressed: 16,218 (Ranked 134)  
+Completed: 77 (0.47%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 77 (0.47%) (Ranked 185)
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
-| 2023-10-23 | 16,216 | 77 |
+| 2023-10-23 | 16,218 | 77 |
 ## Awards
 Max (Highly Recommended): 77  (Ranked 379)  
 Sum: 452 (Ranked 323)  

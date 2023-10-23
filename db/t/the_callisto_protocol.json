@@ -6,7 +6,7 @@
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16216,
+  "EOS_Progressed": 16218,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8017,6 +8017,11 @@
       "Time": "2023-10-23T16:05:51.0346434+00:00",
       "NumProgressed": 16216,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T17:06:02.0251812+00:00",
+      "NumProgressed": 16218,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8044,7 +8049,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -8164,7 +8169,7 @@
       "Name": "Terminated",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -8180,7 +8185,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8403,13 +8408,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16216,
+      "Progressed": 16218,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4142,
+      "Progressed": 4144,
       "Completed": 29
     }
   ],
@@ -8417,8 +8422,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:05:51.0346431+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:06:02.0251806+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:59:21.7436588+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:05:51.0347067+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:59:25.5602524+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:06:02.0252674+00:00"
 }

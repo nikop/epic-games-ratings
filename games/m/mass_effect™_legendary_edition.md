@@ -92,12 +92,12 @@
 | No One Left Behind | 20.00% | ~158 |
 | Hard Target | 20.00% | ~158 |
 | Saboteur | 20.00% | ~158 |
+| Fact Finder | 20.00% | ~158 |
 | Problem Solver | 20.00% | ~158 |
 | Under Pressure | 19.00% | ~150 |
 | Last Resort | 19.00% | ~150 |
 | Last Witness | 19.00% | ~150 |
 | Well Connected | 19.00% | ~150 |
-| Fact Finder | 19.00% | ~150 |
 | Sabotage Specialist | 18.00% | ~142 |
 | Electronics Specialist | 17.00% | ~134 |
 | Executioner | 17.00% | ~134 |

@@ -4,7 +4,7 @@
   "ProductSlug": "roboquest-9ad17a",
   "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-11-07T14:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:04:17.3859811+00:00",
+  "LastChanged_Achievements": "2023-10-23T17:04:11.2497174+00:00",
   "LastUpdate_AppInfo": "2023-10-23T15:57:11.3964616+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:00:32.0374881+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:04:17.3859841+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:00:32.5503184+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:04:11.2497216+00:00"
 }

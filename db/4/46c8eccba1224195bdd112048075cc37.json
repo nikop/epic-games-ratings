@@ -4,7 +4,7 @@
   "ProductSlug": "one-more-dungeon-2-532228",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
@@ -915,8 +915,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-10-23T16:04:30.6947264+00:00",
-  "LastUpdate_AppInfo": "2023-10-16T16:57:10.4167055+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:58:37.7366497+00:00",
-  "LastUpdate_Achievements": "2023-10-23T16:04:30.6947426+00:00"
+  "LastChanged_Achievements": "2023-10-23T17:04:27.7653966+00:00",
+  "LastUpdate_AppInfo": "2023-10-23T16:57:13.9516618+00:00",
+  "LastUpdate_Ratings": "2023-10-23T16:58:33.7116105+00:00",
+  "LastUpdate_Achievements": "2023-10-23T17:04:27.7654207+00:00"
 }
