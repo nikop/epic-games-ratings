@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -624,6 +624,11 @@
       "Time": "2023-10-21T17:13:05.0905653+00:00",
       "NumProgressed": 280,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T12:08:24.9439872+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -649,9 +654,9 @@
       "ID": "ACH_FORAGER",
       "SetID": "ao59f0i",
       "Name": "Mushroom Forager",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FORAGER_BERRY",
@@ -665,9 +670,9 @@
       "ID": "ACH_GOOD_STEW",
       "SetID": "ao59f0i",
       "Name": "Good Stew",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_GREEN_THUMB",
@@ -697,9 +702,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -755,7 +760,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_SHARD_2",
@@ -769,9 +774,9 @@
       "ID": "ACH_SHARD_3",
       "SetID": "ao59f0i",
       "Name": "Third Shard",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SHARD_4",
@@ -818,7 +823,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 4
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:06:45.6424501+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:08:24.9439869+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.19647+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:57:34.4860474+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:06:45.6424778+00:00"
+  "LastUpdate_Ratings": "2023-10-23T11:58:01.2468314+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:08:24.9440082+00:00"
 }

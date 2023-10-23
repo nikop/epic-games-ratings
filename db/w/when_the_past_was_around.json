@@ -2,9 +2,9 @@
   "ID": "31bc7b39051c4be683cd7f742d00dd2f",
   "Name": "When the Past was Around",
   "ProductSlug": "when-the-past-was-around-3071e0",
-  "Ranking_EOS_Progress": 689,
+  "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-01-17T14:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.8360151+00:00",
   "LastChanged": "2023-03-31T05:58:21.8360153+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:10.3926821+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:59:13.3001311+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:03:51.687921+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:00:21.1927625+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:04:21.1446354+00:00"
 }

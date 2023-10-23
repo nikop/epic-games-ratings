@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -501,6 +501,11 @@
       "Time": "2023-10-20T13:15:23.7278268+00:00",
       "NumProgressed": 100,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T12:10:22.4882742+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -648,7 +653,7 @@
       "Name": "Gear Up",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achi_19",
@@ -664,7 +669,7 @@
       "Name": "Freshen Up",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Achi_21",
@@ -678,7 +683,7 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 20,
       "UsersEstimate": 78
     },
@@ -718,7 +723,7 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 55
     },
@@ -744,7 +749,7 @@
       "Name": "A Grand Show",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achi_31",
@@ -911,7 +916,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 1
     }
   ],
@@ -919,8 +924,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:09:49.8015493+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:10:22.4882733+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:58:09.0717918+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:09:49.8016268+00:00"
+  "LastUpdate_Ratings": "2023-10-23T11:58:51.2258043+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:10:22.4883187+00:00"
 }

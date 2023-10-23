@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~722,948 |
-| The Blues | 85.00% | ~620,712 |
-| Fast | 66.00% | ~481,965 |
-| Healthbar | 55.00% | ~401,638 |
-| Force Cube | 53.00% | ~387,032 |
-| Double Jump | 48.00% | ~350,520 |
-| Regeneration | 47.00% | ~343,218 |
-| Triple Jump | 43.00% | ~314,008 |
-| Climb the hill | 42.00% | ~306,705 |
-| Through the fire pipe | 39.00% | ~284,798 |
-| MacGuffin | 38.00% | ~277,495 |
-| Just once | 37.00% | ~270,192 |
-| Armor | 30.00% | ~219,075 |
-| True holy spirit | 28.00% | ~204,470 |
+| Out of bed | 99.00% | ~722,950 |
+| The Blues | 85.00% | ~620,715 |
+| Fast | 66.00% | ~481,967 |
+| Healthbar | 55.00% | ~401,639 |
+| Force Cube | 53.00% | ~387,034 |
+| Double Jump | 48.00% | ~350,521 |
+| Regeneration | 47.00% | ~343,219 |
+| Triple Jump | 43.00% | ~314,009 |
+| Climb the hill | 42.00% | ~306,706 |
+| Through the fire pipe | 39.00% | ~284,799 |
+| MacGuffin | 38.00% | ~277,496 |
+| Just once | 37.00% | ~270,194 |
+| Armor | 30.00% | ~219,076 |
+| True holy spirit | 28.00% | ~204,471 |
 | That's how electronics work obviously | 27.00% | ~197,168 |
-| Force Cube Catapult | 25.00% | ~182,562 |
+| Force Cube Catapult | 25.00% | ~182,563 |
 | Holy Sword | 23.00% | ~167,958 |
 | Telefrag | 23.00% | ~167,958 |
-| Freed from prison | 21.00% | ~153,352 |
-| Stomp | 21.00% | ~153,352 |
+| Freed from prison | 21.00% | ~153,353 |
+| Stomp | 21.00% | ~153,353 |
 | Double Health | 19.00% | ~138,748 |
 | Buckle | 17.00% | ~124,143 |
 | Green Keycard | 17.00% | ~124,143 |
 | Rattle Hag | 16.00% | ~116,840 |
 | All Shells | 15.00% | ~109,538 |
 | Beam | 14.00% | ~102,235 |
-| Health Drink | 13.00% | ~94,932 |
-| Helped a star | 13.00% | ~94,932 |
-| 9 | 13.00% | ~94,932 |
-| Purple Cube | 13.00% | ~94,932 |
-| Supraball Noob | 13.00% | ~94,932 |
+| Health Drink | 13.00% | ~94,933 |
+| Helped a star | 13.00% | ~94,933 |
+| 9 | 13.00% | ~94,933 |
+| Purple Cube | 13.00% | ~94,933 |
+| Supraball Noob | 13.00% | ~94,933 |
 | Strong | 12.00% | ~87,630 |
 | Blue King's lair | 11.00% | ~80,328 |
 | Payback | 11.00% | ~80,328 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,025 |
 | Translocator | 10.00% | ~73,025 |
 | Yellow Shot Button | 10.00% | ~73,025 |
-| Moon Door | 9.00% | ~65,722 |
-| Momentum | 9.00% | ~65,722 |
-| Through the tiny pipe | 9.00% | ~65,722 |
-| Win! | 9.00% | ~65,722 |
+| Moon Door | 9.00% | ~65,723 |
+| Momentum | 9.00% | ~65,723 |
+| Through the tiny pipe | 9.00% | ~65,723 |
+| Win! | 9.00% | ~65,723 |
 | The real real teleported man | 8.00% | ~58,420 |
 | Well deserved | 6.00% | ~43,815 |
 | Happiness | 3.00% | ~21,908 |
@@ -63,9 +63,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Poor ancestors | 2.00% | ~14,605 |
 | Shelf filled | 2.00% | ~14,605 |
 | Invisible Wall | 2.00% | ~14,605 |
-| Groupies | 1.00% | ~7,302 |
-| Jesus Christ Suprastar | 1.00% | ~7,302 |
-| Redstone Pickaxe | 1.00% | ~7,302 |
+| Groupies | 1.00% | ~7,303 |
+| Jesus Christ Suprastar | 1.00% | ~7,303 |
+| Redstone Pickaxe | 1.00% | ~7,303 |
 | DLC: Green Bird | 0.50% | ~3,651 |
 | DLC: Basement Robbery | 0.50% | ~3,651 |
 | DLC: Rooftop Chase | 0.50% | ~3,651 |
@@ -98,14 +98,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Birds | 0.30% | ~2,191 |
 | DLC: Horticultural | 0.30% | ~2,191 |
 | DLC: Non-NPC | 0.30% | ~2,191 |
-| DLC: The Giant's Workshop | 0.20% | ~1,460 |
-| DLC: Invisible Wall | 0.20% | ~1,460 |
-| DLC: A good cause! | 0.20% | ~1,460 |
-| DLC: Shady stick | 0.20% | ~1,460 |
+| DLC: The Giant's Workshop | 0.20% | ~1,461 |
+| DLC: Invisible Wall | 0.20% | ~1,461 |
+| DLC: A good cause! | 0.20% | ~1,461 |
+| DLC: Shady stick | 0.20% | ~1,461 |
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,250 (Ranked 19)  
+Progressed: 730,253 (Ranked 19)  
 Completed: 751 (0.10%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 751 (0.10%) (Ranked 253)
 | 2023-10-20 | 729,938 | 749 |
 | 2023-10-21 | 730,099 | 750 |
 | 2023-10-22 | 730,224 | 751 |
-| 2023-10-23 | 730,250 | 751 |
+| 2023-10-23 | 730,253 | 751 |
 ## Awards
 Max (Challenging Puzzles): 7,707  (Ranked 47)  
 Sum: 10,049 (Ranked 90)  

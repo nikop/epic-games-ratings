@@ -5,48 +5,48 @@ Rating: 4.49 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,804 |
-| For Saw Gerrera | 98.00% | ~5,746 |
-| Grab Some Seat | 92.00% | ~5,394 |
-| Can You Pet the Bogling? | 87.00% | ~5,101 |
-| The Past Made Present | 84.00% | ~4,925 |
-| Survivors, We Adapt | 80.00% | ~4,690 |
-| Among the Masters | 79.00% | ~4,632 |
-| They Never Saw It Coming | 78.00% | ~4,573 |
-| Who Gives a Puck | 74.00% | ~4,339 |
-| Now, This Isn't Podracing | 66.00% | ~3,870 |
-| For the Path | 66.00% | ~3,870 |
-| Mirror Match | 65.00% | ~3,811 |
-| Skywalker | 62.00% | ~3,635 |
-| Out of Bedlam | 61.00% | ~3,576 |
-| Cleaning Up | 55.00% | ~3,225 |
-| Kitted Out | 52.00% | ~3,049 |
-| Tanalorr Bound | 52.00% | ~3,049 |
-| Hey, Luke At Us | 51.00% | ~2,990 |
-| Tragedy | 50.00% | ~2,932 |
-| At the Precipice | 48.00% | ~2,814 |
-| Riposte | 47.00% | ~2,756 |
-| Into the Abyss | 46.00% | ~2,697 |
-| A Place You Could Call Home | 44.00% | ~2,580 |
-| Greezy Money | 44.00% | ~2,580 |
-| Catch! | 41.00% | ~2,404 |
-| They're Probably Fine | 40.00% | ~2,345 |
-| Han Slowlo | 38.00% | ~2,228 |
-| There Is No Try | 37.00% | ~2,169 |
-| The Jedi Path | 32.00% | ~1,876 |
-| This Is Canon | 29.00% | ~1,700 |
-| It's a Trap | 26.00% | ~1,524 |
-| You've Got A Friend | 23.00% | ~1,348 |
-| King of the World | 16.00% | ~938 |
-| Reconnaissance | 15.00% | ~879 |
+| Rooftop Duel | 99.00% | ~5,808 |
+| For Saw Gerrera | 98.00% | ~5,750 |
+| Grab Some Seat | 92.00% | ~5,398 |
+| Can You Pet the Bogling? | 87.00% | ~5,104 |
+| The Past Made Present | 84.00% | ~4,928 |
+| Survivors, We Adapt | 80.00% | ~4,694 |
+| Among the Masters | 79.00% | ~4,635 |
+| They Never Saw It Coming | 78.00% | ~4,576 |
+| Who Gives a Puck | 74.00% | ~4,342 |
+| Now, This Isn't Podracing | 66.00% | ~3,872 |
+| For the Path | 66.00% | ~3,872 |
+| Mirror Match | 65.00% | ~3,814 |
+| Skywalker | 62.00% | ~3,638 |
+| Out of Bedlam | 61.00% | ~3,579 |
+| Cleaning Up | 55.00% | ~3,227 |
+| Kitted Out | 52.00% | ~3,051 |
+| Tanalorr Bound | 52.00% | ~3,051 |
+| Tragedy | 50.00% | ~2,934 |
+| Hey, Luke At Us | 50.00% | ~2,934 |
+| At the Precipice | 48.00% | ~2,816 |
+| Riposte | 47.00% | ~2,757 |
+| Into the Abyss | 46.00% | ~2,699 |
+| A Place You Could Call Home | 44.00% | ~2,581 |
+| Greezy Money | 44.00% | ~2,581 |
+| Catch! | 41.00% | ~2,405 |
+| They're Probably Fine | 40.00% | ~2,347 |
+| Han Slowlo | 38.00% | ~2,229 |
+| There Is No Try | 37.00% | ~2,171 |
+| The Jedi Path | 32.00% | ~1,877 |
+| This Is Canon | 29.00% | ~1,701 |
+| It's a Trap | 26.00% | ~1,525 |
+| You've Got A Friend | 23.00% | ~1,349 |
+| King of the World | 16.00% | ~939 |
+| Reconnaissance | 15.00% | ~880 |
 | Max Capacity | 14.00% | ~821 |
 | A Presence I've Not Felt Since... | 14.00% | ~821 |
 | Slam Dunk | 12.00% | ~704 |
 | Star Tours | 11.00% | ~645 |
-| Caij Match | 10.00% | ~586 |
-| Gambler | 10.00% | ~586 |
+| Caij Match | 10.00% | ~587 |
+| Gambler | 10.00% | ~587 |
 | Growth Spurt | 9.00% | ~528 |
-| Perk of the Job | 7.00% | ~410 |
+| Perk of the Job | 7.00% | ~411 |
 | I'm a Living Legend | 6.00% | ~352 |
 | Road House | 6.00% | ~352 |
 | Skoova Diving | 6.00% | ~352 |
@@ -59,7 +59,7 @@ Rating: 4.49 (Ranked 596)
 | Blood, Sweat, and Tears | 3.00% | ~176 |
 | Pinpoint | 2.00% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,863 (Ranked 171)  
+Progressed: 5,867 (Ranked 171)  
 Completed: 27 (0.46%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,14 +96,14 @@ Completed: 27 (0.46%) (Ranked 186)
 | 2023-10-20 | 5,635 | 22 |
 | 2023-10-21 | 5,721 | 25 |
 | 2023-10-22 | 5,833 | 25 |
-| 2023-10-23 | 5,863 | 27 |
+| 2023-10-23 | 5,867 | 27 |
 ## Awards
-Max (Great Boss Battles): 3,041  (Ranked 95)  
-Sum: 4,545 (Ranked 143)  
+Max (Great Boss Battles): 3,048  (Ranked 95)  
+Sum: 4,552 (Ranked 143)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,041 |
+| This game has Great Boss Battles | 3,048 |
 | This game has Amazing Storytelling | 201 |
 | This game has Quickly Understood Controls | 186 |
 | This game has Diverse Characters | 176 |
@@ -292,3 +292,4 @@ Diff (max vs sum): -48
 | 2023-10-20 | 4.49 | 3,017 | 4,498 |
 | 2023-10-21 | 4.49 | 3,029 | 4,517 |
 | 2023-10-22 | 4.49 | 3,041 | 4,545 |
+| 2023-10-23 | 4.49 | 3,048 | 4,552 |

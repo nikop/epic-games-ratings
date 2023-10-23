@@ -33,6 +33,7 @@ Rating: 3.94 (Ranked 989)
 | Ding Dong | 0.30% | ~268 |
 | All that Glitters | 0.30% | ~53 |
 | Rockay Raider | 0.20% | ~179 |
+| Groundhog Days | 0.20% | ~179 |
 | Red Star | 0.20% | ~179 |
 | Classy Joint | 0.20% | ~179 |
 | All for One | 0.20% | ~35 |
@@ -40,7 +41,6 @@ Rating: 3.94 (Ranked 989)
 | Privateer | 0.10% | ~89 |
 | Talent Scout | 0.10% | ~89 |
 | Full House | 0.10% | ~89 |
-| Groundhog Days | 0.10% | ~89 |
 | Cracked the Jack | 0.10% | ~89 |
 | Geek Out | 0.10% | ~89 |
 | Impossible Dreamer | 0.10% | ~89 |

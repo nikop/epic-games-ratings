@@ -386,9 +386,9 @@
       "ID": "JUSTICE_IS_LOST",
       "SetID": "dademeo",
       "Name": "Justice Is Lost",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PERFECTIONIST",
@@ -425,8 +425,8 @@
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:04:53.296402+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:05:43.5771521+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:12.0454797+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:59:46.1109188+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:04:53.2964216+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:01:09.563948+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:05:43.5771665+00:00"
 }

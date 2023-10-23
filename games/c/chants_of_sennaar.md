@@ -19,9 +19,9 @@
 | In this together | 10.00% | ~32 |
 | A good beginning | 10.00% | ~32 |
 | Half the way | 10.00% | ~32 |
+| Feels like springtime | 9.00% | ~28 |
 | Alchemists Express | 9.00% | ~28 |
 | Champollion | 9.00% | ~28 |
-| Feels like springtime | 8.00% | ~25 |
 | Open door | 7.00% | ~22 |
 | Free at last | 6.00% | ~19 |
 | A Link to the Past | 6.00% | ~19 |

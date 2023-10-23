@@ -26,9 +26,9 @@ Number of Ratings: 836  (23.09.2022)
 | Finders, Keepers | 26.00% | ~2,551 |
 | Top Notch | 25.00% | ~2,452 |
 | Great Leader | 23.00% | ~2,256 |
+| Ice Lakes | 23.00% | ~2,256 |
 | Mentor | 23.00% | ~2,256 |
 | Merchant | 22.00% | ~2,158 |
-| Ice Lakes | 22.00% | ~2,158 |
 | Real Survivor | 22.00% | ~2,158 |
 | Rocket Surgeon | 20.00% | ~1,962 |
 | War Never Changes | 19.00% | ~1,864 |

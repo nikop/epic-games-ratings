@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | First Love | 43.00% | ~704 |
 | Eat My Dust | 42.00% | ~688 |
-| Clean Race | 41.00% | ~671 |
+| Clean Race | 41.00% | ~672 |
 | Hear That Roar! | 38.00% | ~622 |
 | Rivals to the End | 29.00% | ~475 |
 | Bitter Rivalry | 26.00% | ~426 |
@@ -23,7 +23,7 @@
 | Is It the Right Size? | 8.00% | ~131 |
 | Evangelist | 6.00% | ~98 |
 | Make It Your Own! | 5.00% | ~82 |
-| I Make the Rules! | 4.00% | ~65 |
+| I Make the Rules! | 4.00% | ~66 |
 | Spoilt for Choice | 3.00% | ~49 |
 | Cherry Blossom and Temples | 3.00% | ~49 |
 | La Dolce Vita | 3.00% | ~49 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,637 (Ranked 218)  
+Progressed: 1,638 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,4 +106,4 @@ Completed: 0 (0.00%) (Ranked 320)
 | 2023-10-20 | 1,580 | 0 |
 | 2023-10-21 | 1,602 | 0 |
 | 2023-10-22 | 1,632 | 0 |
-| 2023-10-23 | 1,637 | 0 |
+| 2023-10-23 | 1,638 | 0 |

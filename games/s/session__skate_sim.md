@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,849 |
+| You're free now! | 61.00% | ~1,850 |
 | Keeping it classy | 28.00% | ~849 |
 | Welcome to the family | 22.00% | ~667 |
 | The finer things in life | 19.00% | ~576 |
 | Backpacker | 14.00% | ~424 |
 | Go with the Flow | 14.00% | ~424 |
-| Keep the dream alive | 10.00% | ~303 |
 | Plastic Surgeon | 10.00% | ~303 |
 | The flip trick crown jewel | 10.00% | ~303 |
 | The hard way | 10.00% | ~303 |
-| Upfront shredder | 10.00% | ~303 |
 | Good vibes | 9.00% | ~273 |
+| Keep the dream alive | 9.00% | ~273 |
+| Upfront shredder | 9.00% | ~273 |
 | Bottom ply killer | 7.00% | ~212 |
 | Fashionista | 7.00% | ~212 |
 | Finally he zips it | 7.00% | ~212 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,031 (Ranked 194)  
+Progressed: 3,032 (Ranked 194)  
 Completed: 1 (0.03%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,16 +229,17 @@ Completed: 1 (0.03%) (Ranked 288)
 | 2023-10-20 | 3,025 | 1 |
 | 2023-10-21 | 3,027 | 1 |
 | 2023-10-22 | 3,031 | 1 |
+| 2023-10-23 | 3,032 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 406)  
-Sum: 530 (Ranked 310)  
+Sum: 531 (Ranked 310)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |
 | This game is Great for Quick Sessions | 52 |
 | This game has Amazing Characters | 49 |
-| This game has Realistic Visuals | 48 |
+| This game has Realistic Visuals | 49 |
 | This game has a Creative Community | 45 |
 | This game has Amazing Storytelling | 45 |
 | This game has Diverse Characters | 45 |
@@ -408,3 +409,4 @@ Diff (max vs sum): 96
 | 2023-10-20 | 4.70 | - | 56 | 526 |
 | 2023-10-21 | 4.70 | - | 56 | 529 |
 | 2023-10-22 | 4.70 | - | 56 | 530 |
+| 2023-10-23 | 4.70 | - | 56 | 531 |

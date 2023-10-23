@@ -9313,10 +9313,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46456,
       "NumberOfAwardsMax": 23743
+    },
+    {
+      "Time": "2023-10-23T12:01:12.7454421+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46476,
+      "NumberOfAwardsMax": 23743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46456,
+  "NumberOfAwards": 46476,
   "NumberOfAwardsMax": 23743,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9330,7 +9336,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11887
+      "Count": 11907
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -9393,7 +9399,7 @@
       "Count": 736
     }
   ],
-  "EOS_Progressed": 298719,
+  "EOS_Progressed": 298720,
   "EOS_Completed": 491,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 3,
@@ -29213,6 +29219,11 @@
       "Time": "2023-10-23T11:09:12.2383535+00:00",
       "NumProgressed": 298719,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-23T12:09:12.9571144+00:00",
+      "NumProgressed": 298720,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29560,7 +29571,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38833
+      "UsersEstimate": 38834
     },
     {
       "ID": "PFA_8",
@@ -29583,16 +29594,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298719,
+      "Progressed": 298720,
       "Completed": 491
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-23T10:59:48.7157933+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:09:12.238353+00:00",
+  "LastChanged": "2023-10-23T12:01:12.7454419+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:09:12.957114+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:59:48.7157946+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:09:12.2387267+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:01:12.7454426+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:09:12.9572573+00:00"
 }

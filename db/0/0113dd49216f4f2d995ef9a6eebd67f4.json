@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -448,9 +448,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -560,9 +560,9 @@
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_THEDEEPEND",
@@ -647,8 +647,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:04:23.0305417+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:05:02.997257+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:09.1592968+00:00",
-  "LastUpdate_Ratings": "2023-10-23T10:58:04.0852615+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:04:23.0305946+00:00"
+  "LastUpdate_Ratings": "2023-10-23T11:58:45.3845717+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:05:02.997288+00:00"
 }

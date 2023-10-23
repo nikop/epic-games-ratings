@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72127,
+  "EOS_Progressed": 72128,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20757,6 +20757,11 @@
       "Time": "2023-10-23T11:06:01.0376648+00:00",
       "NumProgressed": 72127,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-23T12:07:13.7490478+00:00",
+      "NumProgressed": 72128,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20784,7 +20789,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49046
+      "UsersEstimate": 49047
     },
     {
       "ID": "BEST_FRIENDS",
@@ -20848,7 +20853,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38227
+      "UsersEstimate": 38228
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -20888,7 +20893,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -20959,7 +20964,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72127,
+      "Progressed": 72128,
       "Completed": 379
     }
   ],
@@ -20967,8 +20972,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:06:01.0376643+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:07:13.7490474+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:00:32.4451999+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:06:01.0380076+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:02:06.3418375+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:07:13.749182+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6661,9 +6661,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138022,
+  "EOS_Progressed": 138025,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25696,6 +25696,11 @@
       "Time": "2023-10-23T11:06:31.3627129+00:00",
       "NumProgressed": 138022,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-23T12:08:05.170807+00:00",
+      "NumProgressed": 138025,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26217,9 +26222,9 @@
       "ID": "gold06",
       "SetID": "anfd17p",
       "Name": "Wealth Beyond Measure",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 966
     },
     {
       "ID": "help01",
@@ -26602,15 +26607,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138022,
+      "Progressed": 138025,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T08:00:25.5119482+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:06:31.3627125+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:08:05.1708067+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:00:36.2453923+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:06:31.3633148+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:02:11.4644798+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:08:05.1710621+00:00"
 }

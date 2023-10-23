@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18007,
+  "EOS_Progressed": 18008,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -14466,6 +14466,11 @@
       "Time": "2023-10-23T10:08:36.9433465+00:00",
       "NumProgressed": 18007,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-23T12:08:20.5055116+00:00",
+      "NumProgressed": 18008,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14525,7 +14530,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -14533,7 +14538,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "I_Am_The_Storm",
@@ -14597,22 +14602,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18007,
+      "Progressed": 18008,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-22T19:01:04.2680266+00:00",
-  "LastChanged_Achievements": "2023-10-23T11:06:42.3650961+00:00",
+  "LastChanged_Achievements": "2023-10-23T12:08:20.5055113+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:00:58.1689515+00:00",
-  "LastUpdate_Achievements": "2023-10-23T11:06:42.3652869+00:00"
+  "LastUpdate_Ratings": "2023-10-23T12:02:41.5630914+00:00",
+  "LastUpdate_Achievements": "2023-10-23T12:08:20.5056188+00:00"
 }
