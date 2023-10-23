@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.37% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.34% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -61,8 +61,8 @@
 | 59 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.56% |
 | 60 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 61 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.26% |
-| 62 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.00% |
-| 63 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
+| 62 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
+| 62 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.92% |
 | 64 | [JARS](games/j/jars.md) | 4.82% |
 | 65 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 66 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.76% |
@@ -141,7 +141,7 @@
 | 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 140 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.10% |
 | 140 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
-| 142 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.07% |
+| 142 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 143 | [Adios](games/a/adios.md) | 1.05% |
 | 143 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.05% |
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -203,20 +203,20 @@
 | 200 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 202 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 202 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 202 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.37% |
+| 204 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 205 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 206 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 207 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 207 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
 | 207 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 207 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
-| 207 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.31% |
 | 207 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 213 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 213 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 213 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 213 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
-| 217 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 212 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 212 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 212 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 215 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.29% |
+| 215 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 215 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 218 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 219 | [Filament](games/f/filament.md) | 0.25% |
 | 220 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
@@ -682,6 +682,7 @@
 | 322 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.00% |
 | 322 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 322 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
+| 322 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 0.00% |
 | 322 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 322 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
 | 322 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
