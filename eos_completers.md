@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.79% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.72% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.69% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -46,7 +46,7 @@
 | 43 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 45 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.63% |
-| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.52% |
+| 47 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.20% |
 | 50 | [Scorn](games/s/scorn.md) | 7.01% |
@@ -83,7 +83,7 @@
 | 81 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 82 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 83 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.32% |
+| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
 | 85 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 86 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 87 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.24% |
@@ -249,13 +249,13 @@
 | 244 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 244 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
 | 249 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 249 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 249 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 251 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 251 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
-| 251 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 251 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 251 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 251 | [Supraland](games/s/supraland.md) | 0.10% |
+| 252 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
+| 252 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 252 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 252 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 252 | [Supraland](games/s/supraland.md) | 0.10% |
 | 257 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 257 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 257 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |

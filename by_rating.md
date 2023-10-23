@@ -42,7 +42,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 524 | 201 |
 | 28 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 539 |
 | 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,964 | 46 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,595 | 67 |
+| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,596 | 67 |
 | 42 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 0 | 539 |
 | 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 268 |
 | 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 153 | 306 |
@@ -108,7 +108,7 @@
 | 100 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 539 |
 | 100 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 539 |
 | 100 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 42 | 439 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 956 | 154 |
+| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 956 | 155 |
 | 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 539 |
 | 100 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 490 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,560 | 56 |
@@ -280,7 +280,7 @@
 | 267 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 688 | 182 |
 | 267 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 539 |
 | 267 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 539 |
-| 267 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,731 | 87 |
+| 267 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,739 | 87 |
 | 267 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 22 | 521 |
 | 267 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 539 |
 | 284 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 375 |
@@ -505,7 +505,7 @@
 | 494 | [Observation](games/o/observation.md) | 4.55 | 0 | 539 |
 | 494 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 35 | 458 |
 | 494 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 539 |
-| 494 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 960 | 153 |
+| 494 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 960 | 154 |
 | 494 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 91 | 363 |
 | 494 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 93 | 361 |
 | 494 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.55 | 25 | 506 |
@@ -544,7 +544,7 @@
 | 540 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 539 |
 | 540 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 521 |
 | 540 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 539 |
-| 540 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 947 | 155 |
+| 540 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 972 | 152 |
 | 540 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.52 | 0 | 539 |
 | 540 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 105 | 342 |
 | 540 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 126 | 322 |
@@ -616,7 +616,7 @@
 | 612 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 138 | 314 |
 | 612 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 447 |
 | 612 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 539 |
-| 612 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 586,030 | 2 |
+| 612 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 587,915 | 2 |
 | 612 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 539 |
 | 612 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 0 | 539 |
 | 612 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 539 |
