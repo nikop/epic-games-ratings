@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.58% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.56% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -73,8 +73,8 @@
 | 71 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
 | 72 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.25% |
 | 73 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
-| 74 | [The Bunker](games/t/the_bunker.md) | 4.03% |
-| 75 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
+| 74 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
+| 74 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 76 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.98% |
 | 77 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 78 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
@@ -128,7 +128,7 @@
 | 126 | [Late Shift](games/l/late_shift.md) | 1.50% |
 | 127 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 127 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 129 | [Iron Danger](games/i/iron_danger.md) | 1.43% |
+| 129 | [Iron Danger](games/i/iron_danger.md) | 1.42% |
 | 130 | [Poosh XL](games/p/poosh_xl.md) | 1.38% |
 | 131 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
 | 131 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
@@ -146,8 +146,8 @@
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
-| 147 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
 | 147 | [Trifox](games/t/trifox.md) | 1.00% |
+| 148 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.99% |
 | 149 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
 | 150 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 150 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
@@ -189,10 +189,10 @@
 | 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.46% |
 | 186 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 189 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 189 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 189 | [Tchia](games/t/tchia.md) | 0.45% |
 | 189 | [The Devil's Face](games/t/the_devil's_face.md) | 0.45% |
-| 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.44% |
-| 192 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 193 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.44% |
 | 194 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 195 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 196 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -259,13 +259,13 @@
 | 253 | [Supraland](games/s/supraland.md) | 0.10% |
 | 258 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 258 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 258 | [Black Book](games/b/black_book.md) | 0.09% |
 | 258 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
 | 258 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 258 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 258 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 258 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 265 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
-| 265 | [Black Book](games/b/black_book.md) | 0.08% |
+| 266 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 267 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 267 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 267 | [Saints Row](games/s/saints_row.md) | 0.07% |
@@ -496,6 +496,7 @@
 | 320 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
 | 320 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 0.00% |
 | 320 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
+| 320 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.00% |
 | 320 | [Loretta](games/l/loretta.md) | 0.00% |
 | 320 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.00% |
 | 320 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |

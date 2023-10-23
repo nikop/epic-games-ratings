@@ -81,6 +81,7 @@
 | [Revans](../games/d/dc5c7673e02543d6b57e9579d970702f.md) | 64 | 1,000 |
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
 | [DEATH STRANDING DIRECTOR'S CUT](../games/d/death_stranding_director's_cut.md) | 63 | 1,000 |
+| [Lords of the Fallen](../games/t/the_lords_of_the_fallen.md) | 63 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 63 | 2,000 |
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 62 | 1,000 |

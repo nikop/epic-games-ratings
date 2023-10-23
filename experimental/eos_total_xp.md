@@ -388,6 +388,7 @@
 | [Lifespace Traveler](../games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 13 | 1,000 |
 | [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
+| [Lords of the Fallen](../games/t/the_lords_of_the_fallen.md) | 63 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |
 | [Lost Abroad Cafe - A Language Learning Management](../games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 8 | 1,000 |
 | [Lost Eidolons](../games/l/lost_eidolons.md) | 23 | 1,000 |
