@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.60% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.58% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -121,7 +121,7 @@
 | 119 | [Frogun](games/f/frogun.md) | 1.79% |
 | 119 | [Night Book](games/n/night_book.md) | 1.79% |
 | 121 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
-| 122 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.72% |
+| 122 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.71% |
 | 123 | [Somerville](games/s/somerville.md) | 1.70% |
 | 124 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.62% |
 | 125 | [Five Dates](games/f/five_dates.md) | 1.57% |
@@ -159,9 +159,9 @@
 | 157 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.75% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 159 | [Eternights](games/e/eternights.md) | 0.74% |
-| 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.71% |
+| 160 | [Eternights](games/e/eternights.md) | 0.73% |
 | 161 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 162 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.70% |
 | 163 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
 | 165 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
@@ -171,11 +171,11 @@
 | 169 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 169 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 169 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 169 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.58% |
-| 173 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
-| 173 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
-| 173 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 173 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 172 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
+| 172 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
+| 172 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
+| 172 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 172 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 177 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 179 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
