@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~370,880 |
-| Now You're Talking | 62.00% | ~328,494 |
-| Steel Yourself | 62.00% | ~328,494 |
-| Window Dressing | 50.00% | ~264,914 |
-| Trigger Happy | 46.00% | ~243,721 |
-| Riverborn | 45.00% | ~238,423 |
-| Starry Eyed | 34.00% | ~180,142 |
-| Poking Around | 34.00% | ~180,142 |
+| First Step | 70.00% | ~370,882 |
+| Now You're Talking | 62.00% | ~328,495 |
+| Steel Yourself | 62.00% | ~328,495 |
+| Window Dressing | 50.00% | ~264,916 |
+| Trigger Happy | 46.00% | ~243,722 |
+| Riverborn | 45.00% | ~238,424 |
+| Starry Eyed | 34.00% | ~180,143 |
+| Poking Around | 34.00% | ~180,143 |
 | Talk of the Town | 24.00% | ~127,159 |
 | AAARR! | 23.00% | ~121,861 |
 | Hello Darkness | 23.00% | ~121,861 |
-| Wind At Our Backs | 22.00% | ~116,562 |
+| Wind At Our Backs | 22.00% | ~116,563 |
 | To the Beat | 20.00% | ~105,966 |
 | Sunny Shores | 17.00% | ~90,071 |
 | Sunday Best | 16.00% | ~84,773 |
-| To Victory! | 15.00% | ~79,474 |
+| To Victory! | 15.00% | ~79,475 |
 | Two of a Kind | 14.00% | ~74,176 |
 | Keep On Trucking | 13.00% | ~68,878 |
 | Going on an Adventure | 11.00% | ~58,281 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~31,790 |
 | Dressed to Kill | 6.00% | ~31,790 |
 | Beast Mode | 6.00% | ~31,790 |
-| Noble Intentions | 5.00% | ~26,491 |
-| Rising Star | 5.00% | ~26,491 |
-| Slime Slayer | 5.00% | ~26,491 |
+| Noble Intentions | 5.00% | ~26,492 |
+| Rising Star | 5.00% | ~26,492 |
+| Slime Slayer | 5.00% | ~26,492 |
 | Privacy, Please! | 4.00% | ~21,193 |
 | Silky Smooth | 4.00% | ~21,193 |
 | Hash It Over | 4.00% | ~21,193 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,589 |
 | Point Taken | 0.20% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529,829 (Ranked 34)  
+Progressed: 529,831 (Ranked 34)  
 Completed: 489 (0.09%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 489 (0.09%) (Ranked 258)
 | 2023-10-20 | 529,643 | 487 |
 | 2023-10-21 | 529,717 | 487 |
 | 2023-10-22 | 529,819 | 488 |
-| 2023-10-23 | 529,829 | 489 |
+| 2023-10-23 | 529,831 | 489 |
 ## Awards
 Max (Relaxing): 20  (Ranked 532)  
 Sum: 20 (Ranked 533)  

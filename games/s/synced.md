@@ -5,16 +5,16 @@ Rating: 4.16 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,947 |
-| As Far Away As Possible | 17.00% | ~10,938 |
-| A Most Unstable Organism | 12.00% | ~7,721 |
-| No Time to Follow Protocol | 10.00% | ~6,434 |
-| Float Like a Butterfly... | 8.00% | ~5,148 |
+| Your Lucky Day | 31.00% | ~19,951 |
+| As Far Away As Possible | 17.00% | ~10,941 |
+| A Most Unstable Organism | 12.00% | ~7,723 |
+| No Time to Follow Protocol | 10.00% | ~6,436 |
+| Float Like a Butterfly... | 8.00% | ~5,149 |
 | Nano Connoisseur | 6.00% | ~3,861 |
 | In Two Places At Once | 6.00% | ~3,861 |
-| Pulling Your Weight | 3.00% | ~1,930 |
-| Reaping Rivals | 3.00% | ~1,930 |
-| fifteenth Time's the Charm | 1.00% | ~643 |
+| Pulling Your Weight | 3.00% | ~1,931 |
+| Reaping Rivals | 3.00% | ~1,931 |
+| fifteenth Time's the Charm | 1.00% | ~644 |
 | More Power to You | 0.90% | ~579 |
 | Memory Keeper | 0.30% | ~193 |
 | Gone Rogue | 0.30% | ~193 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 918)
 | Runs for Your Money | 0.20% | ~129 |
 | Past Master | 0.20% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,344 (Ranked 98)  
+Progressed: 64,357 (Ranked 98)  
 Completed: 21 (0.03%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,10 +79,10 @@ Completed: 21 (0.03%) (Ranked 288)
 | 2023-10-20 | 63,949 | 20 |
 | 2023-10-21 | 64,141 | 21 |
 | 2023-10-22 | 64,321 | 21 |
-| 2023-10-23 | 64,344 | 21 |
+| 2023-10-23 | 64,357 | 21 |
 ## Awards
 Max (Great for Beginners): 74  (Ranked 388)  
-Sum: 290 (Ranked 356)  
+Sum: 291 (Ranked 356)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -92,7 +92,7 @@ Diff (max vs sum): 32
 | This game has a Competitive Community | 38 |
 | This game is Extremely Fun | 33 |
 | This game has Amazing Storytelling | 30 |
-| This game has Quickly Understood Controls | 29 |
+| This game has Quickly Understood Controls | 30 |
 | This game is Relaxing | 24 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -142,3 +142,4 @@ Diff (max vs sum): 32
 | 2023-10-20 | 4.17 | 74 | 274 |
 | 2023-10-21 | 4.16 | 74 | 251 |
 | 2023-10-22 | 4.16 | 74 | 290 |
+| 2023-10-23 | 4.16 | 74 | 291 |

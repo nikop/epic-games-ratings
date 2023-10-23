@@ -715,10 +715,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-10-23T04:00:24.8360751+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 291,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -762,7 +768,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -777,9 +783,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64344,
+  "EOS_Progressed": 64357,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6267,6 +6273,11 @@
       "Time": "2023-10-23T03:09:06.7093986+00:00",
       "NumProgressed": 64344,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-23T04:09:37.1360654+00:00",
+      "NumProgressed": 64357,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6279,7 +6290,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19947
+      "UsersEstimate": 19951
     },
     {
       "ID": "10",
@@ -6287,7 +6298,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "11",
@@ -6295,7 +6306,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "12",
@@ -6303,7 +6314,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "13",
@@ -6343,7 +6354,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10938
+      "UsersEstimate": 10941
     },
     {
       "ID": "3",
@@ -6351,7 +6362,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7723
     },
     {
       "ID": "4",
@@ -6359,7 +6370,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6434
+      "UsersEstimate": 6436
     },
     {
       "ID": "5",
@@ -6367,7 +6378,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "6",
@@ -6406,16 +6417,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64344,
+      "Progressed": 64357,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-22T14:59:29.7267348+00:00",
-  "LastChanged_Achievements": "2023-10-23T03:09:06.7093977+00:00",
+  "LastChanged": "2023-10-23T04:00:24.8360749+00:00",
+  "LastChanged_Achievements": "2023-10-23T04:09:37.1360651+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:59:19.3640252+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:09:06.7094424+00:00"
+  "LastUpdate_Ratings": "2023-10-23T04:00:24.8360754+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:09:37.1360951+00:00"
 }

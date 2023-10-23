@@ -4,7 +4,7 @@
   "ProductSlug": "flipscapes-8d2cde",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:27.9198749+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:57:34.7956166+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:04:43.0637062+00:00"
+  "LastUpdate_Ratings": "2023-10-23T03:58:02.8614038+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:05:44.938329+00:00"
 }

@@ -48,12 +48,12 @@
 | Ghost Ship | 34.00% | ~267 |
 | The Assassin | 33.00% | ~259 |
 | The Quarian | 33.00% | ~259 |
+| Ghost of the Father | 33.00% | ~259 |
 | The Prodigal | 33.00% | ~259 |
 | A Personal Touch | 32.00% | ~251 |
 | The Justicar | 32.00% | ~251 |
 | Battlemaster | 32.00% | ~251 |
 | Catharsis | 32.00% | ~251 |
-| Ghost of the Father | 32.00% | ~251 |
 | The Cure | 32.00% | ~251 |
 | Revenge! | 32.00% | ~251 |
 | Heart of Darkness | 32.00% | ~251 |
@@ -63,9 +63,9 @@
 | Agent | 31.00% | ~243 |
 | Driven | 31.00% | ~243 |
 | Focused | 30.00% | ~236 |
+| Cat's in the Cradle | 30.00% | ~236 |
 | Treason | 30.00% | ~236 |
 | Bringer of War | 30.00% | ~236 |
-| Cat's in the Cradle | 29.00% | ~228 |
 | Doppelganger | 29.00% | ~228 |
 | Digital Exorcist | 29.00% | ~228 |
 | First Aid Specialist | 28.00% | ~220 |

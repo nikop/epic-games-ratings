@@ -25,9 +25,9 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~1,358 |
 | Written in stone | 6.00% | ~1,358 |
 | Talk to all the spirit animals | 6.00% | ~1,358 |
-| Hide and Seek | 4.00% | ~905 |
+| Hide and Seek | 5.00% | ~1,131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,628 (Ranked 124)  
+Progressed: 22,629 (Ranked 124)  
 Completed: 442 (1.95%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 442 (1.95%) (Ranked 115)
 | 2023-10-20 | 22,460 | 441 |
 | 2023-10-21 | 22,537 | 441 |
 | 2023-10-22 | 22,620 | 441 |
-| 2023-10-23 | 22,628 | 442 |
+| 2023-10-23 | 22,629 | 442 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

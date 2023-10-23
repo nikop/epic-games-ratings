@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 120)
 | Loom for Improvement | 11.00% | ~32,859 |
 | A Talent for Spending | 11.00% | ~32,859 |
 | Coasting Along | 11.00% | ~32,859 |
-| The Hero of Hogwarts | 10.00% | ~29,871 |
-| Challenge Accepted | 10.00% | ~29,871 |
-| Followed the Butterflies | 10.00% | ~29,871 |
+| The Hero of Hogwarts | 10.00% | ~29,872 |
+| Challenge Accepted | 10.00% | ~29,872 |
+| Followed the Butterflies | 10.00% | ~29,872 |
 | The Spell Master | 9.00% | ~26,884 |
 | Rising From the Ashes | 9.00% | ~26,884 |
 | The Avenging Gazelle | 8.00% | ~23,897 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,714 (Ranked 48)  
+Progressed: 298,715 (Ranked 48)  
 Completed: 491 (0.16%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 491 (0.16%) (Ranked 237)
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
 | 2023-10-22 | 298,711 | 491 |
-| 2023-10-23 | 298,714 | 491 |
+| 2023-10-23 | 298,715 | 491 |
 ## Awards
 Max (Character Customization): 23,719  (Ranked 17)  
 Sum: 46,418 (Ranked 30)  

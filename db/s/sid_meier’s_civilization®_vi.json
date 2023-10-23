@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -12329,10 +12329,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 323991,
       "NumberOfAwardsMax": 40213
+    },
+    {
+      "Time": "2023-10-23T04:00:37.8676295+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 324065,
+      "NumberOfAwardsMax": 40213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323991,
+  "NumberOfAwards": 324065,
   "NumberOfAwardsMax": 40213,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12352,7 +12358,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 36344
+      "Count": 36418
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12414,8 +12420,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-10-22T19:00:01.4696165+00:00",
+  "LastChanged": "2023-10-23T04:00:37.8676293+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.2111794+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:59:28.8079846+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:03:15.7674387+00:00"
+  "LastUpdate_Ratings": "2023-10-23T04:00:37.8676299+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:03:49.590593+00:00"
 }

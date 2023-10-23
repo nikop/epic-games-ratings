@@ -265,9 +265,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231374,
+  "EOS_Progressed": 231376,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19405,6 +19405,11 @@
       "Time": "2023-10-23T01:50:28.2521853+00:00",
       "NumProgressed": 231374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T04:07:54.9555898+00:00",
+      "NumProgressed": 231376,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19560,7 +19565,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78667
+      "UsersEstimate": 78668
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -19576,7 +19581,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50902
+      "UsersEstimate": 50903
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -19639,7 +19644,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231374,
+      "Progressed": 231376,
       "Completed": 5
     }
   ],
@@ -19647,8 +19652,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-23T03:06:20.6859182+00:00",
+  "LastChanged_Achievements": "2023-10-23T04:07:54.9555895+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:58:06.6211965+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:06:20.6860518+00:00"
+  "LastUpdate_Ratings": "2023-10-23T03:58:48.4006583+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:07:54.955694+00:00"
 }

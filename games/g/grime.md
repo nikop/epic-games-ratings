@@ -20,8 +20,8 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 0.70% | ~1,079 |
 | Jawstag | 0.70% | ~1,079 |
 | Feast | 0.70% | ~1,079 |
+| Shapely | 0.60% | ~925 |
 | Watcher | 0.60% | ~925 |
-| Shapely | 0.50% | ~770 |
 | Glare | 0.50% | ~768 |
 | Predator | 0.50% | ~770 |
 | Assimilation | 0.40% | ~616 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,090 (Ranked 73)  
+Progressed: 154,097 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 1 (0.00%) (Ranked 320)
 | 2023-10-20 | 153,466 | 1 |
 | 2023-10-21 | 153,746 | 1 |
 | 2023-10-22 | 154,057 | 1 |
-| 2023-10-23 | 154,090 | 1 |
+| 2023-10-23 | 154,097 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 431)  
 Sum: 309 (Ranked 349)  

@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 515)  
+Rating: 4.54 (Ranked 516)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | It's a steal! | 37.00% | ~29,598 |
 | Final touch | 36.00% | ~28,798 |
 | Prop-M Rover | 32.00% | ~25,598 |
-| Changing the Planet | 28.00% | ~22,398 |
-| Sojourner | 26.00% | ~20,798 |
+| Changing the Planet | 28.00% | ~22,399 |
+| Sojourner | 26.00% | ~20,799 |
 | Beagle 2 | 24.00% | ~19,199 |
 | New Home | 23.00% | ~18,399 |
 | Winner Winner Terraformer | 21.00% | ~16,799 |
@@ -28,16 +28,16 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 12.00% | ~9,599 |
 | Landlord | 11.00% | ~8,799 |
 | Most Achievements | 11.00% | ~8,799 |
-| Spirit | 10.00% | ~7,999 |
-| Ultimate success | 10.00% | ~7,999 |
-| Variety Expert | 9.00% | ~7,199 |
+| Spirit | 10.00% | ~8,000 |
+| Ultimate success | 10.00% | ~8,000 |
+| Variety Expert | 9.00% | ~7,200 |
 | Frequent tester | 8.00% | ~6,400 |
 | Determined | 8.00% | ~6,400 |
 | Terraformer | 4.00% | ~3,200 |
 | Team Effort | 3.00% | ~2,400 |
 | Opportunity | 3.00% | ~2,400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,994 (Ranked 89)  
+Progressed: 79,995 (Ranked 89)  
 Completed: 144 (0.18%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 144 (0.18%) (Ranked 233)
 | 2023-10-20 | 79,685 | 144 |
 | 2023-10-21 | 79,828 | 144 |
 | 2023-10-22 | 79,981 | 144 |
-| 2023-10-23 | 79,994 | 144 |
+| 2023-10-23 | 79,995 | 144 |
 ## Awards
 Max (Relaxing): 520  (Ranked 202)  
 Sum: 3,201 (Ranked 169)  

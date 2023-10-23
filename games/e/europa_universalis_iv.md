@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,376 |
 | True Catholic | 1.00% | ~4,376 |
 | Truly Divine Ruler | 1.00% | ~4,376 |
-| Blockader | 0.90% | ~3,938 |
+| Blockader | 0.90% | ~3,939 |
 | Double the Love | 0.80% | ~3,501 |
 | Royal Authority | 0.80% | ~3,501 |
 | Total Control | 0.80% | ~3,501 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,600 (Ranked 40)  
+Progressed: 437,612 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 1 (0.00%) (Ranked 320)
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
-| 2023-10-23 | 437,600 | 1 |
+| 2023-10-23 | 437,612 | 1 |
 ## Awards
 Max (Educational): 6,632  (Ranked 55)  
 Sum: 54,547 (Ranked 24)  

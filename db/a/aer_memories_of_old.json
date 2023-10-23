@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22628,
+  "EOS_Progressed": 22629,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 4,
@@ -20363,6 +20363,11 @@
       "Time": "2023-10-23T03:05:37.1582355+00:00",
       "NumProgressed": 22628,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-23T04:06:56.9381439+00:00",
+      "NumProgressed": 22629,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20444,9 +20449,9 @@
       "ID": "FOUND_ERIN",
       "SetID": "b6m2mm5",
       "Name": "Hide and Seek",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 905
+      "UsersEstimate": 1131
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20533,15 +20538,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22628,
+      "Progressed": 22629,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-23T03:05:37.158235+00:00",
+  "LastChanged_Achievements": "2023-10-23T04:06:56.9381436+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-23T03:00:09.7535292+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:05:37.1583492+00:00"
+  "LastUpdate_Ratings": "2023-10-23T04:01:34.0890983+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:06:56.9382467+00:00"
 }

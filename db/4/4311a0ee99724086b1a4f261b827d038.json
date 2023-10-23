@@ -461,9 +461,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 228003,
+  "EOS_Progressed": 228007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1461,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10911,6 +10911,11 @@
       "Time": "2023-10-23T03:08:28.3649198+00:00",
       "NumProgressed": 228003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T04:08:44.4801412+00:00",
+      "NumProgressed": 228007,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -10987,7 +10992,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20520
+      "UsersEstimate": 20521
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -11107,7 +11112,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29640
+      "UsersEstimate": 29641
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -11179,7 +11184,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57001
+      "UsersEstimate": 57002
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11194,7 +11199,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 228003,
+      "Progressed": 228007,
       "Completed": 0
     }
   ],
@@ -11202,8 +11207,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-22T19:58:27.883614+00:00",
-  "LastChanged_Achievements": "2023-10-23T03:08:28.3649193+00:00",
+  "LastChanged_Achievements": "2023-10-23T04:08:44.4801408+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:58:06.0002515+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:08:28.3650076+00:00"
+  "LastUpdate_Ratings": "2023-10-23T03:58:47.4711487+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:08:44.4802103+00:00"
 }

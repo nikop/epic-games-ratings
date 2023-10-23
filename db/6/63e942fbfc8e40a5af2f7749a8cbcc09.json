@@ -199,17 +199,17 @@
       "ID": "ClearE01",
       "SetID": "94lmepd",
       "Name": "The Fool",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ClearE01END",
       "SetID": "94lmepd",
       "Name": "The Sun",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ClearE02",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-23T03:09:04.6665721+00:00",
+  "LastChanged_Achievements": "2023-10-23T04:09:34.4348878+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:07.2775787+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:58:12.4492004+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:09:04.6665974+00:00"
+  "LastUpdate_Ratings": "2023-10-23T03:58:57.3244213+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:09:34.4349082+00:00"
 }

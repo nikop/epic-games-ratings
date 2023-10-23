@@ -4,7 +4,7 @@
   "ProductSlug": "jousting-heroes-ba4766",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:58:21.9823737+00:00",
-  "LastUpdate_Ratings": "2023-10-23T02:59:13.448081+00:00",
-  "LastUpdate_Achievements": "2023-10-23T03:06:21.2692987+00:00"
+  "LastUpdate_Ratings": "2023-10-23T04:00:17.8976339+00:00",
+  "LastUpdate_Achievements": "2023-10-23T04:07:55.7526147+00:00"
 }

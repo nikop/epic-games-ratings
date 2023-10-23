@@ -17,7 +17,7 @@ Rating: 4.20 (Ranked 888)
 | Blues Jam | 0.20% | ~3 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,646 (Ranked 216)  
+Progressed: 1,646 (Ranked 217)  
 Completed: 28 (1.70%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
