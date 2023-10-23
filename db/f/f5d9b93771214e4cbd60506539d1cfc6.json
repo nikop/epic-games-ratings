@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149504,
+  "EOS_Progressed": 149506,
   "EOS_Completed": 307,
   "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 6,
@@ -15433,6 +15433,11 @@
       "Time": "2023-10-23T05:04:54.8207214+00:00",
       "NumProgressed": 149504,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-10-23T06:04:58.6411666+00:00",
+      "NumProgressed": 149506,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 31,
@@ -15452,7 +15457,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104653
+      "UsersEstimate": 104654
     },
     {
       "ID": "EAwards_10",
@@ -15500,7 +15505,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     },
     {
       "ID": "EAwards_16",
@@ -15540,7 +15545,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41861
+      "UsersEstimate": 41862
     },
     {
       "ID": "EAwards_20",
@@ -15556,7 +15561,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16445
+      "UsersEstimate": 16446
     },
     {
       "ID": "EAwards_22",
@@ -15636,7 +15641,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13455
+      "UsersEstimate": 13456
     },
     {
       "ID": "EAwards_4",
@@ -15652,7 +15657,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16445
+      "UsersEstimate": 16446
     },
     {
       "ID": "EAwards_6",
@@ -15676,7 +15681,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55316
+      "UsersEstimate": 55317
     },
     {
       "ID": "EAwards_9",
@@ -15684,14 +15689,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17940
+      "UsersEstimate": 17941
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149504,
+      "Progressed": 149506,
       "Completed": 307
     }
   ],
@@ -15699,8 +15704,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:04:54.8207207+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:04:58.6411662+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:59:39.56183+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:04:54.8208579+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:59:28.9624876+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:04:58.6412821+00:00"
 }

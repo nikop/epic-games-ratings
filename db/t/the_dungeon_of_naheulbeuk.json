@@ -1203,9 +1203,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232581,
+  "EOS_Progressed": 232587,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15743,6 +15743,11 @@
       "Time": "2023-10-23T05:04:36.1101488+00:00",
       "NumProgressed": 232581,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T06:04:35.0980203+00:00",
+      "NumProgressed": 232587,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -15810,7 +15815,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "Chapter3",
@@ -16202,7 +16207,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79078
+      "UsersEstimate": 79080
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16218,7 +16223,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "EndCombatOneHp",
@@ -16226,7 +16231,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     },
     {
       "ID": "EndGameCursed",
@@ -16290,7 +16295,7 @@
       "Name": "We come in peace",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "MinistrelEpic",
@@ -16304,9 +16309,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 2093
     },
     {
       "ID": "Orktobearfest",
@@ -16362,7 +16367,7 @@
       "Name": "L\u00EBgal Legend",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "QuestPriestess",
@@ -16450,28 +16455,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232581,
+      "Progressed": 232587,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232581,
+      "Progressed": 232587,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-22T17:01:07.843184+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:04:36.1101479+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:04:35.0980194+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:29.7284682+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:04:36.1103383+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:37.8179263+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:04:35.0982186+00:00"
 }

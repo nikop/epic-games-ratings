@@ -32,8 +32,8 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 2.00% | ~122 |
 | Rod and Troll | 2.00% | ~110 |
 | Golden Ridge Ranger | 0.80% | ~49 |
+| Head for Heights | 0.70% | ~43 |
 | Fish upon a Star | 0.70% | ~38 |
-| Head for Heights | 0.60% | ~37 |
 | Lake Me up Before You Go Go | 0.50% | ~31 |
 | Trollsporet Tale Teller | 0.40% | ~22 |
 | Cache and Carry | 0.40% | ~22 |
@@ -230,9 +230,9 @@ Completed: 0 (0.00%) (Ranked 320)
 | 2023-10-22 | 6,108 | 0 |
 | 2023-10-23 | 6,109 | 0 |
 ## Awards
-Max (Relaxing): 36  (Ranked 455)  
+Max (Relaxing): 36  (Ranked 456)  
 Sum: 184 (Ranked 398)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

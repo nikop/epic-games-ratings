@@ -11,10 +11,10 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 0.30% | ~4 |
 | The Cost of Heroism | 0.30% | ~4 |
 | Cutthroat Competitors | 0.30% | ~4 |
+| Me and My Familiar | 0.20% | ~3 |
 | Let Me Get My Chisel | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
 | Daybreak | 0.20% | ~3 |
-| Me and My Familiar | 0.10% | ~1 |
 | Passing Shadow | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,433 (Ranked 225)  
+Progressed: 1,434 (Ranked 225)  
 Completed: 6 (0.42%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,11 @@ Completed: 6 (0.42%) (Ranked 194)
 | 2023-10-18 | 1,431 | 6 |
 | 2023-10-20 | 1,432 | 6 |
 | 2023-10-21 | 1,433 | 6 |
+| 2023-10-23 | 1,434 | 6 |
 ## Awards
-Max (Character Customization): 28  (Ranked 490)  
+Max (Character Customization): 28  (Ranked 491)  
 Sum: 28 (Ranked 504)  
-Diff (max vs sum): -14  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28 |

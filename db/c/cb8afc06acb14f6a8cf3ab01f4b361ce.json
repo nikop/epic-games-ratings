@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 14,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -245,9 +245,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 286951,
+  "EOS_Progressed": 286983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12068,
+  "EOS_NewPlayers": 12052,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3190,6 +3190,11 @@
       "Time": "2023-10-23T05:05:58.9406659+00:00",
       "NumProgressed": 286951,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T06:06:18.4644818+00:00",
+      "NumProgressed": 286983,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -3202,7 +3207,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 103302
+      "UsersEstimate": 103314
     },
     {
       "ID": "S02_BRDA",
@@ -3210,7 +3215,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 65999
+      "UsersEstimate": 66006
     },
     {
       "ID": "S03_OTWA",
@@ -3218,7 +3223,7 @@
       "Name": "Rumors are true",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "S04_BRDC",
@@ -3226,7 +3231,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11478
+      "UsersEstimate": 11479
     },
     {
       "ID": "S05_SWRA",
@@ -3242,7 +3247,7 @@
       "Name": "They tricked me",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "S07_INWA",
@@ -3250,7 +3255,7 @@
       "Name": "We need to talk",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "S08_MNSA",
@@ -3258,7 +3263,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "S09_MNSE",
@@ -3338,7 +3343,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 109041
+      "UsersEstimate": 109054
     },
     {
       "ID": "S19_CHALLENGES",
@@ -3370,7 +3375,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "S23_ETHEREAL",
@@ -3394,7 +3399,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "S26_CRTA",
@@ -3426,7 +3431,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17217
+      "UsersEstimate": 17219
     },
     {
       "ID": "S30_DIAMOND",
@@ -3434,7 +3439,7 @@
       "Name": "Bring it on!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14348
+      "UsersEstimate": 14349
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -3506,7 +3511,7 @@
       "Name": "I took a risk",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5739
+      "UsersEstimate": 5740
     },
     {
       "ID": "S40_BONUS",
@@ -3514,14 +3519,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 28695
+      "UsersEstimate": 28698
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 286951,
+      "Progressed": 286983,
       "Completed": 1
     }
   ],
@@ -3529,8 +3534,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-22T18:03:12.7675534+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:05:58.9406653+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:06:18.4644814+00:00",
   "LastUpdate_AppInfo": "2023-10-19T17:57:07.3700367+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:03:22.7087263+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:05:58.9407142+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:03:26.7718082+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:06:18.464533+00:00"
 }

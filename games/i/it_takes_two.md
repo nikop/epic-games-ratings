@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~13,658 |
-| Fried Friendship | 87.00% | ~13,503 |
-| Look At Him Go | 79.00% | ~12,262 |
-| On Rails Experience | 57.00% | ~8,847 |
-| A Daring Devil | 52.00% | ~8,071 |
-| Break the Bank | 43.00% | ~6,674 |
-| It Took Two | 42.00% | ~6,519 |
-| Bug Sized Relaxation | 21.00% | ~3,259 |
-| Plastic Prison Breakers | 17.00% | ~2,639 |
-| Terror Of The Seven Seas | 15.00% | ~2,328 |
-| Realize Your Art | 12.00% | ~1,863 |
-| Force Triangulated | 12.00% | ~1,863 |
-| Meditation Maestro | 12.00% | ~1,863 |
-| Something Fishy | 11.00% | ~1,707 |
-| Lost And Found | 10.00% | ~1,552 |
-| Platforming Prodigy | 9.00% | ~1,397 |
+| Struck A Pose | 88.00% | ~13,667 |
+| Fried Friendship | 87.00% | ~13,512 |
+| Look At Him Go | 79.00% | ~12,269 |
+| On Rails Experience | 57.00% | ~8,853 |
+| A Daring Devil | 52.00% | ~8,076 |
+| Break the Bank | 43.00% | ~6,678 |
+| It Took Two | 42.00% | ~6,523 |
+| Bug Sized Relaxation | 21.00% | ~3,262 |
+| Plastic Prison Breakers | 17.00% | ~2,640 |
+| Terror Of The Seven Seas | 16.00% | ~2,485 |
+| Realize Your Art | 12.00% | ~1,864 |
+| Force Triangulated | 12.00% | ~1,864 |
+| Meditation Maestro | 12.00% | ~1,864 |
+| Something Fishy | 11.00% | ~1,708 |
+| Lost And Found | 10.00% | ~1,553 |
+| Platforming Prodigy | 9.00% | ~1,398 |
 | Snackosaurus | 8.00% | ~1,242 |
-| Mood Swing | 7.00% | ~1,086 |
+| Mood Swing | 7.00% | ~1,087 |
 | Minigame Megalomania | 4.00% | ~621 |
 | Faraway Frequencies | 4.00% | ~621 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,521 (Ranked 137)  
-Completed: 68 (0.44%) (Ranked 191)  
+Progressed: 15,531 (Ranked 136)  
+Completed: 68 (0.44%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,4 +63,4 @@ Completed: 68 (0.44%) (Ranked 191)
 | 2023-10-20 | 14,888 | 65 |
 | 2023-10-21 | 15,220 | 66 |
 | 2023-10-22 | 15,497 | 68 |
-| 2023-10-23 | 15,521 | 68 |
+| 2023-10-23 | 15,531 | 68 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8184,9 +8184,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63777,
+  "EOS_Progressed": 63778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27859,6 +27859,11 @@
       "Time": "2023-10-23T04:07:44.5505567+00:00",
       "NumProgressed": 63777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T06:07:25.7540309+00:00",
+      "NumProgressed": 63778,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28094,7 +28099,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21046
+      "UsersEstimate": 21047
     },
     {
       "ID": "Lawbringer",
@@ -28277,15 +28282,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63777,
+      "Progressed": 63778,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-22T21:00:26.61171+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:53.3463956+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:07:25.7540305+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:13.0085788+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:53.3465512+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:11.5328968+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:07:25.7542005+00:00"
 }

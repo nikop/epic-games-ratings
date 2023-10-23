@@ -2,10 +2,10 @@
   "ID": "c4763f236d08423eb47b4c3008779c84",
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-10-27T04:00:00+00:00",
     "PcReleaseDate": "2023-10-27T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-10-23T05:10:04.8365055+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T06:10:05.1599273+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T15:08:41.0490704+00:00",
@@ -385,9 +390,9 @@
       "ID": "11",
       "SetID": "b5e4c1b",
       "Name": "The Koskela Brothers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "12",
@@ -403,7 +408,7 @@
       "Name": "Bring It",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "14",
@@ -411,15 +416,15 @@
       "Name": "Ready for a Fight",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "15",
       "SetID": "b5e4c1b",
       "Name": "Greatest Hits",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "16",
@@ -427,7 +432,7 @@
       "Name": "Stop Right There",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "17",
@@ -443,7 +448,7 @@
       "Name": "Lights Shining",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "19",
@@ -457,9 +462,9 @@
       "ID": "2",
       "SetID": "b5e4c1b",
       "Name": "This is the Moment",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "20",
@@ -473,25 +478,25 @@
       "ID": "21",
       "SetID": "b5e4c1b",
       "Name": "Coffee Thermos",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "22",
       "SetID": "b5e4c1b",
       "Name": "Felt Good",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "23",
       "SetID": "b5e4c1b",
       "Name": "Lawman",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "24",
@@ -505,9 +510,9 @@
       "ID": "25",
       "SetID": "b5e4c1b",
       "Name": "Girl in Love",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "26",
@@ -521,9 +526,9 @@
       "ID": "27",
       "SetID": "b5e4c1b",
       "Name": "Storm Cloud",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "28",
@@ -531,7 +536,7 @@
       "Name": "Stop the Monster",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "29",
@@ -547,7 +552,7 @@
       "Name": "Not the Last",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "30",
@@ -563,7 +568,7 @@
       "Name": "Carry his Words",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "32",
@@ -643,7 +648,7 @@
       "Name": "Into the Overlap",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "41",
@@ -673,9 +678,9 @@
       "ID": "44",
       "SetID": "b5e4c1b",
       "Name": "Seeing Double",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "45",
@@ -713,9 +718,9 @@
       "ID": "49",
       "SetID": "b5e4c1b",
       "Name": "New York City",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "5",
@@ -723,15 +728,15 @@
       "Name": "Secret Stashes",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "50",
       "SetID": "b5e4c1b",
       "Name": "Return",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "51",
@@ -857,9 +862,9 @@
       "ID": "65",
       "SetID": "b5e4c1b",
       "Name": "The Nice Things in Life",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "66",
@@ -898,7 +903,7 @@
     {
       "ID": "b5e4c1b",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
@@ -906,8 +911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:10:04.8365049+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:10:05.159926+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.0925269+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:26.9851241+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:10:04.8365766+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:31.2368454+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:10:05.1599989+00:00"
 }

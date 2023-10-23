@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "the_martyr",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:03.634376+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:06:24.1824244+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:58:38.3010858+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:03.6343972+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:58:17.1194356+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:06:24.1824658+00:00"
 }

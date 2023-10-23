@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1320,7 +1320,7 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 9807,
+  "EOS_Progressed": 9808,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -15380,6 +15380,11 @@
       "Time": "2023-10-23T04:05:27.852032+00:00",
       "NumProgressed": 9807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T06:05:21.6183547+00:00",
+      "NumProgressed": 9808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15391,7 +15396,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5884
+      "UsersEstimate": 5885
     },
     {
       "ID": "10",
@@ -15431,7 +15436,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "15",
@@ -15479,7 +15484,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "20",
@@ -15503,7 +15508,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7159
+      "UsersEstimate": 7160
     },
     {
       "ID": "23",
@@ -15511,7 +15516,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "24",
@@ -15543,7 +15548,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "28",
@@ -15615,7 +15620,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "36",
@@ -15639,7 +15644,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "39",
@@ -15647,7 +15652,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "4",
@@ -15671,7 +15676,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "42",
@@ -15719,7 +15724,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "48",
@@ -15815,7 +15820,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "59",
@@ -15839,7 +15844,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "8",
@@ -15862,15 +15867,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9807,
+      "Progressed": 9808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-22T19:57:11.6639361+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:05:13.2227893+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:05:21.6183543+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:57:50.2554998+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:05:13.2229278+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:57:19.1041494+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:05:21.6185189+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7066,
+  "EOS_Progressed": 7067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5010,6 +5010,11 @@
       "Time": "2023-10-23T01:51:11.6034096+00:00",
       "NumProgressed": 7066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T06:08:07.5076934+00:00",
+      "NumProgressed": 7067,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5022,7 +5027,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5030,7 +5035,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4946
+      "UsersEstimate": 4947
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5118,7 +5123,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -5182,7 +5187,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -5198,7 +5203,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5301,7 +5306,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7066,
+      "Progressed": 7067,
       "Completed": 0
     }
   ],
@@ -5309,8 +5314,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-22T14:01:27.1688192+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:07:19.0389344+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:08:07.5076921+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:03:08.1022087+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:07:19.03899+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:03:06.7002935+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:08:07.5077519+00:00"
 }

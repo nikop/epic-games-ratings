@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 529,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 435,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10662,
+  "EOS_Progressed": 10663,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -11712,6 +11712,11 @@
       "Time": "2023-10-23T05:06:05.1634728+00:00",
       "NumProgressed": 10662,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T06:06:26.1637638+00:00",
+      "NumProgressed": 10663,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 34,
@@ -11771,7 +11776,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH08",
@@ -11779,7 +11784,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH09",
@@ -11891,7 +11896,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "ACH23",
@@ -11994,7 +11999,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10662,
+      "Progressed": 10663,
       "Completed": 62
     }
   ],
@@ -12002,8 +12007,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:05.1634716+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:06:26.1637634+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:26.2018569+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:05.1636311+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:30.2257549+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:06:26.1638534+00:00"
 }

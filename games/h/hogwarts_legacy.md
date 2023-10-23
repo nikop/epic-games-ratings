@@ -43,10 +43,10 @@ Rating: 4.76 (Ranked 120)
 | The Good Samaritan | 2.00% | ~5,974 |
 | Rise to the Challenges | 2.00% | ~5,974 |
 | Finishing Touches | 2.00% | ~5,974 |
+| A Forte for Achievement | 2.00% | ~5,974 |
 | Savvy Spender | 1.00% | ~2,987 |
 | Merlin's Beard! | 1.00% | ~2,987 |
 | Demiguise Dread | 1.00% | ~2,987 |
-| A Forte for Achievement | 1.00% | ~2,987 |
 | Spilled Milk | 0.90% | ~2,688 |
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |

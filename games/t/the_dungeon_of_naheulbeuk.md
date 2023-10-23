@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,078 |
+| Sowwy! | 34.00% | ~79,080 |
 | Alt+F4 | 7.00% | ~16,281 |
 | Where's that freaking Dwarf? | 6.00% | ~13,955 |
 | Déjà vu | 5.00% | ~11,629 |
 | Sock! SOCK! | 4.00% | ~9,303 |
 | Speedrun | 4.00% | ~9,303 |
-| A beer, two curses, three companions | 3.00% | ~6,977 |
-| GG EZ | 3.00% | ~6,977 |
-| DM intervention | 3.00% | ~6,977 |
-| Fireproof Wizardess | 3.00% | ~6,977 |
+| A beer, two curses, three companions | 3.00% | ~6,978 |
+| GG EZ | 3.00% | ~6,978 |
+| DM intervention | 3.00% | ~6,978 |
+| Fireproof Wizardess | 3.00% | ~6,978 |
 | Livin' in a dwarven paradise | 2.00% | ~4,652 |
 | Shiny and Crôm | 2.00% | ~4,652 |
 | Way of the Wimp | 2.00% | ~4,652 |
@@ -42,11 +42,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,326 |
 | Thieves' Guild Accreditation | 1.00% | ~2,326 |
 | Dead for good | 0.90% | ~2,093 |
+| Gargantua | 0.90% | ~2,093 |
 | Material Girl | 0.90% | ~2,093 |
-| Gargantua | 0.80% | ~1,861 |
 | In Navalu's footsteps | 0.70% | ~1,628 |
-| We come in peace | 0.60% | ~1,395 |
-| Lëgal Legend | 0.60% | ~1,395 |
+| We come in peace | 0.60% | ~1,396 |
+| Lëgal Legend | 0.60% | ~1,396 |
 | Holistic Adventuring Party | 0.50% | ~1,163 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,163 |
 | Law and Order | 0.50% | ~1,163 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,581 (Ranked 61)  
+Progressed: 232,587 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.00%) (Ranked 320)
 | 2023-10-20 | 232,042 | 6 |
 | 2023-10-21 | 232,272 | 6 |
 | 2023-10-22 | 232,549 | 7 |
-| 2023-10-23 | 232,581 | 7 |
+| 2023-10-23 | 232,587 | 7 |
 ## Awards
 Max (Character Customization): 219  (Ranked 272)  
 Sum: 433 (Ranked 325)  

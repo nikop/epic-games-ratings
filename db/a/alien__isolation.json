@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2020-12-21T16:00:00+00:00",
     "PcReleaseDate": "2020-12-21T16:00:00+00:00",
@@ -2174,12 +2174,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 977,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-10-23T06:00:30.3857168+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 980,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 977,
+  "NumberOfAwards": 980,
   "NumberOfAwardsMax": 134,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -2197,19 +2203,19 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 132
+      "Count": 133
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2247,8 +2253,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2023-10-21T13:03:41.411902+00:00",
+  "LastChanged": "2023-10-23T06:00:30.3857167+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.9461031+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:26.3191836+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:05:40.5923323+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:30.3857173+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:05:55.5427175+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348971,
+  "EOS_Progressed": 348973,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21664,6 +21664,11 @@
       "Time": "2023-10-23T05:06:47.8418438+00:00",
       "NumProgressed": 348971,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T06:07:18.9219476+00:00",
+      "NumProgressed": 348973,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21883,7 +21888,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160527
+      "UsersEstimate": 160528
     },
     {
       "ID": "ach028",
@@ -22203,7 +22208,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55835
+      "UsersEstimate": 55836
     },
     {
       "ID": "ach069",
@@ -22314,7 +22319,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348971,
+      "Progressed": 348973,
       "Completed": 7
     }
   ],
@@ -22322,8 +22327,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:47.8418432+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:07:18.9219472+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:59:58.9830208+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:47.8420601+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:59:52.6216118+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:07:18.9221814+00:00"
 }

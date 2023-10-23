@@ -1,28 +1,28 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.50 (Ranked 576)  
+Rating: 4.50 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~152,338 |
-| FIRST BLOOD | 40.00% | ~135,412 |
-| KEVIN! | 30.00% | ~101,559 |
-| JACK OF ALL TRADES | 23.00% | ~77,862 |
-| CRIMINAL | 20.00% | ~67,706 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~37,238 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~30,468 |
-| HONORS STUDENT | 8.00% | ~27,082 |
-| BUTCHER | 5.00% | ~16,926 |
-| RAMBO | 5.00% | ~16,926 |
-| HELL'S KITCHEN | 4.00% | ~13,541 |
-| INDIVIDUAL APPROACH | 4.00% | ~13,541 |
-| CELEBRITY | 3.00% | ~10,156 |
-| MARTYR | 3.00% | ~10,156 |
-| GRATITUDE | 2.00% | ~6,771 |
-| GOURMET | 1.00% | ~3,385 |
-| PATTY-KILLER | 1.00% | ~3,385 |
-| PRUDENT | 1.00% | ~3,385 |
+| MASTER CHEF | 45.00% | ~152,370 |
+| FIRST BLOOD | 40.00% | ~135,440 |
+| KEVIN! | 30.00% | ~101,580 |
+| JACK OF ALL TRADES | 23.00% | ~77,878 |
+| CRIMINAL | 20.00% | ~67,720 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~37,246 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~30,474 |
+| HONORS STUDENT | 8.00% | ~27,088 |
+| BUTCHER | 5.00% | ~16,930 |
+| RAMBO | 5.00% | ~16,930 |
+| HELL'S KITCHEN | 4.00% | ~13,544 |
+| INDIVIDUAL APPROACH | 4.00% | ~13,544 |
+| CELEBRITY | 3.00% | ~10,158 |
+| MARTYR | 3.00% | ~10,158 |
+| GRATITUDE | 2.00% | ~6,772 |
+| GOURMET | 1.00% | ~3,386 |
+| PATTY-KILLER | 1.00% | ~3,386 |
+| PRUDENT | 1.00% | ~3,386 |
 | EXPERIMENTALIST | 0.90% | ~3,047 |
 | LAW-ABIDING CITIZEN | 0.90% | ~3,047 |
 | SCATTERBRAIN | 0.50% | ~1,693 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 576)
 | MISTER ALL THUMBS | 0.10% | ~339 |
 | TRAVELER | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,530 (Ranked 45)  
+Progressed: 338,601 (Ranked 45)  
 Completed: 20 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 20 (0.01%) (Ranked 301)
 | 2023-10-20 | 332,488 | 16 |
 | 2023-10-21 | 335,506 | 17 |
 | 2023-10-22 | 338,180 | 20 |
-| 2023-10-23 | 338,530 | 20 |
+| 2023-10-23 | 338,601 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

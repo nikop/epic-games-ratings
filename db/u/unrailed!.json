@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2735,7 +2735,7 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 656501,
+  "EOS_Progressed": 656504,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 1803,
   "EOS_NewCompleters": 0,
@@ -23775,6 +23775,11 @@
       "Time": "2023-10-23T05:06:30.1160431+00:00",
       "NumProgressed": 656501,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-23T06:06:57.3252302+00:00",
+      "NumProgressed": 656504,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -23786,7 +23791,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98475
+      "UsersEstimate": 98476
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -23826,7 +23831,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118170
+      "UsersEstimate": 118171
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -23834,7 +23839,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85345
+      "UsersEstimate": 85346
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -23906,7 +23911,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85345
+      "UsersEstimate": 85346
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -24034,7 +24039,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111605
+      "UsersEstimate": 111606
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -24106,7 +24111,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 105040
+      "UsersEstimate": 105041
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -24201,15 +24206,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 656501,
+      "Progressed": 656504,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-21T17:08:37.1437541+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:30.1160424+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:06:57.3252297+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:19.1590554+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:03:16.4099062+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:30.1162049+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:03:19.2471898+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:06:57.325408+00:00"
 }

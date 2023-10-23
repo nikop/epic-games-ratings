@@ -3,12 +3,12 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 490,
+  "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1660,6 +1660,11 @@
       "Time": "2023-10-21T23:05:49.0555472+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-23T06:07:12.8308111+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1685,9 +1690,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2118,15 +2123,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1434,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:06:42.8451379+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:07:12.8308103+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:01:02.956814+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:06:42.8451971+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:01:20.8966893+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:07:12.8308729+00:00"
 }

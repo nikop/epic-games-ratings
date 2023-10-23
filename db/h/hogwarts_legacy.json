@@ -9383,7 +9383,7 @@
   ],
   "EOS_Progressed": 298715,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29507,9 +29507,9 @@
       "ID": "PFA_45",
       "SetID": "1hf4dep",
       "Name": "A Forte for Achievement",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 2987
+      "UsersEstimate": 5974
     },
     {
       "ID": "PFA_5",
@@ -29564,8 +29564,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-23T05:00:05.0959371+00:00",
-  "LastChanged_Achievements": "2023-10-23T05:09:16.149811+00:00",
+  "LastChanged_Achievements": "2023-10-23T06:09:17.321208+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:00:05.0959378+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:09:16.1499593+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:00:00.9241664+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:09:17.3213738+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "worlds-war-1-9c607f",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-31T09:00:00+00:00",
     "PcReleaseDate": "2023-05-31T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-02T02:18:16.7500215+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.8843948+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:58:08.5491149+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:04:12.6420603+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:57:39.6976081+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:04:07.0650264+00:00"
 }

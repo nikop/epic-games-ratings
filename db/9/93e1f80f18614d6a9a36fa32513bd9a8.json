@@ -4,8 +4,8 @@
   "ProductSlug": "prince-of-persia-the-two-thrones",
   "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-05-11T15:00:00+00:00",
     "PcReleaseDate": "2005-06-15T12:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T22:09:38.1977736+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:33.077136+00:00",
-  "LastUpdate_Ratings": "2023-10-23T04:59:08.6372789+00:00",
-  "LastUpdate_Achievements": "2023-10-23T05:04:59.7819011+00:00"
+  "LastUpdate_Ratings": "2023-10-23T05:58:53.0160303+00:00",
+  "LastUpdate_Achievements": "2023-10-23T06:05:04.5161224+00:00"
 }
