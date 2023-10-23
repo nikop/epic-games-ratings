@@ -8,16 +8,16 @@ Rating: 4.28 (Ranked 835)
 | Corner Clout | 46.00% | ~160,528 |
 | Copacetic Coordination | 16.00% | ~55,836 |
 | Fronting the Money | 15.00% | ~52,346 |
-| The Dawn of Automation | 14.00% | ~48,856 |
-| Extraordinary Logistics | 14.00% | ~48,856 |
-| Dirty Money | 13.00% | ~45,366 |
-| Family First | 13.00% | ~45,366 |
+| The Dawn of Automation | 14.00% | ~48,857 |
+| Extraordinary Logistics | 14.00% | ~48,857 |
+| Dirty Money | 13.00% | ~45,367 |
+| Family First | 13.00% | ~45,367 |
 | Cleaning House | 12.00% | ~41,877 |
 | Room in the Back | 12.00% | ~41,877 |
 | Beating the Heat | 11.00% | ~38,387 |
 | Booze Baron | 11.00% | ~38,387 |
-| Friends on the Force | 10.00% | ~34,897 |
-| Neighborhood Watch | 10.00% | ~34,897 |
+| Friends on the Force | 10.00% | ~34,898 |
+| Neighborhood Watch | 10.00% | ~34,898 |
 | Core Corps | 8.00% | ~27,918 |
 | Sizeable Stash | 8.00% | ~27,918 |
 | Street Fighter | 7.00% | ~24,428 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 835)
 | Still Stalwart | 3.00% | ~10,469 |
 | Bees Knees Bootlegger | 3.00% | ~10,469 |
 | Tighten the Screws | 3.00% | ~10,469 |
-| One of Us | 2.00% | ~6,979 |
-| Baker’s Dozen | 2.00% | ~6,979 |
-| Dropping the Dime | 2.00% | ~6,979 |
-| Spiffy Speakeasies | 2.00% | ~6,979 |
-| Keeping Your Word | 2.00% | ~6,979 |
+| One of Us | 2.00% | ~6,980 |
+| Baker’s Dozen | 2.00% | ~6,980 |
+| Dropping the Dime | 2.00% | ~6,980 |
+| Spiffy Speakeasies | 2.00% | ~6,980 |
+| Keeping Your Word | 2.00% | ~6,980 |
 | Boxing Them In | 1.00% | ~3,490 |
 | Backroom Empire | 1.00% | ~3,490 |
 | Corner Control | 1.00% | ~3,490 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 835)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,973 (Ranked 43)  
+Progressed: 348,975 (Ranked 43)  
 Completed: 7 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,11 +272,11 @@ Completed: 7 (0.00%) (Ranked 320)
 | 2023-10-20 | 348,546 | 7 |
 | 2023-10-21 | 348,735 | 7 |
 | 2023-10-22 | 348,942 | 7 |
-| 2023-10-23 | 348,973 | 7 |
+| 2023-10-23 | 348,975 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 447)  
+Max (Great for Beginners): 38  (Ranked 448)  
 Sum: 179 (Ranked 401)  
-Diff (max vs sum): 46  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |

@@ -2,10 +2,10 @@
   "ID": "52b2abce9b65471dbedf72c90cf69b54",
   "Name": "Synergia",
   "ProductSlug": "synergia",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-10T16:00:00+00:00",
     "PcReleaseDate": "2019-07-27T15:55:52+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:07.0768645+00:00",
   "LastChanged": "2023-03-31T05:57:07.0768646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8440528+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:03:26.3995504+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:05:19.0131799+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:03:08.7094237+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:04:42.185724+00:00"
 }

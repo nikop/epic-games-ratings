@@ -4,47 +4,54 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blue Dreams | 0.00% | ~0 |
-| My Darkest Day | 0.00% | ~0 |
-| He's Famous! | 0.00% | ~0 |
-| No Bites | 0.00% | ~0 |
-| Tear of Freedom | 0.00% | ~0 |
-| A Tragic Reminder | 0.00% | ~0 |
-| 3000 Year Blackout | 0.00% | ~0 |
-| So Close | 0.00% | ~0 |
-| You Get Used To It | 0.00% | ~0 |
-| Family | 0.00% | ~0 |
-| Biggest Snowball Ever | 0.00% | ~0 |
-| Freeze The Ice Witch | 0.00% | ~0 |
-| It Is Not Over | 0.00% | ~0 |
-| Boom Things | 0.00% | ~0 |
-| Better On Ice | 0.00% | ~0 |
-| Krugmazing | 0.00% | ~0 |
-| Iceborn | 0.00% | ~0 |
-| Snowy Poro | 0.00% | ~0 |
-| On The Rocks | 0.00% | ~0 |
-| True Legends | 0.00% | ~0 |
-| Sneaky Notai | 0.00% | ~0 |
-| Bullseye | 0.00% | ~0 |
-| Yummy | 0.00% | ~0 |
-| Never Gets Old | 0.00% | ~0 |
-| Rhythm Of Willump | 0.00% | ~0 |
-| Moneyball | 0.00% | ~0 |
-| I Broke It | 0.00% | ~0 |
-| The Pied Piper Of Freljord | 0.00% | ~0 |
-| Cutie Poro | 0.00% | ~0 |
-| Braum's Poro Ranch | 0.00% | ~0 |
-| Feels Familiar | 0.00% | ~0 |
-| It Was Him | 0.00% | ~0 |
-| Notai Notes | 0.00% | ~0 |
-| One From The Heart | 0.00% | ~0 |
-| The Fire Below the Mountain | 0.00% | ~0 |
-| The Relentless Storm | 0.00% | ~0 |
-| The Finisher | 0.00% | ~0 |
-| Vertical Power | 0.00% | ~0 |
-| Boosted! | 0.00% | ~0 |
-| Rock Star | 0.00% | ~0 |
-| Handy Yeti | 0.00% | ~0 |
-| Deadliest and Biggest Snowball Ever! | 0.00% | ~0 |
-| We Are Speed | 0.00% | ~0 |
-| Snowball Fightn't | 0.00% | ~0 |
+| Feels Familiar | 650.00% | ~13 |
+| I Broke It | 500.00% | ~10 |
+| Cutie Poro | 500.00% | ~10 |
+| Blue Dreams | 450.00% | ~9 |
+| Better On Ice | 450.00% | ~9 |
+| He's Famous! | 400.00% | ~8 |
+| True Legends | 400.00% | ~8 |
+| Never Gets Old | 400.00% | ~8 |
+| Notai Notes | 400.00% | ~8 |
+| Krugmazing | 350.00% | ~7 |
+| The Fire Below the Mountain | 350.00% | ~7 |
+| No Bites | 300.00% | ~6 |
+| Iceborn | 300.00% | ~6 |
+| On The Rocks | 300.00% | ~6 |
+| Snowball Fightn't | 300.00% | ~6 |
+| Boom Things | 250.00% | ~5 |
+| Rhythm Of Willump | 250.00% | ~5 |
+| Moneyball | 250.00% | ~5 |
+| The Pied Piper Of Freljord | 250.00% | ~5 |
+| The Finisher | 250.00% | ~5 |
+| My Darkest Day | 200.00% | ~4 |
+| Tear of Freedom | 200.00% | ~4 |
+| Family | 200.00% | ~4 |
+| Biggest Snowball Ever | 200.00% | ~4 |
+| Snowy Poro | 200.00% | ~4 |
+| Bullseye | 200.00% | ~4 |
+| Vertical Power | 200.00% | ~4 |
+| Boosted! | 200.00% | ~4 |
+| Deadliest and Biggest Snowball Ever! | 200.00% | ~4 |
+| A Tragic Reminder | 150.00% | ~3 |
+| 3000 Year Blackout | 150.00% | ~3 |
+| So Close | 150.00% | ~3 |
+| You Get Used To It | 150.00% | ~3 |
+| Freeze The Ice Witch | 150.00% | ~3 |
+| It Is Not Over | 150.00% | ~3 |
+| Yummy | 150.00% | ~3 |
+| Braum's Poro Ranch | 150.00% | ~3 |
+| One From The Heart | 150.00% | ~3 |
+| The Relentless Storm | 150.00% | ~3 |
+| Handy Yeti | 150.00% | ~3 |
+| We Are Speed | 150.00% | ~3 |
+| Sneaky Notai | 100.00% | ~2 |
+| It Was Him | 100.00% | ~2 |
+| Rock Star | 100.00% | ~2 |
+## Popularity (Based on EOS Achievements)
+Progressed: 2 (Ranked 604)  
+Completed: 0 (0.00%) (Ranked 320)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-23 | 2 | 0 |

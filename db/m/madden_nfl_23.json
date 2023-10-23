@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 835,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 447,
+  "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -745,7 +745,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2914,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
@@ -3865,6 +3865,11 @@
       "Time": "2023-10-23T05:05:11.6631721+00:00",
       "NumProgressed": 2914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T07:04:42.783275+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3909,7 +3914,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "achievement_14",
@@ -3989,7 +3994,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_4",
@@ -4005,7 +4010,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_6",
@@ -4013,7 +4018,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_7",
@@ -4021,7 +4026,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_8",
@@ -4044,7 +4049,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 0
     }
   ],
@@ -4052,8 +4057,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T21:58:31.897995+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:05:19.695534+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:04:42.7832745+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:06.8512781+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:05:19.6955696+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:58:51.7819676+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:04:42.7833074+00:00"
 }

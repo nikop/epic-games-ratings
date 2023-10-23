@@ -2,10 +2,10 @@
   "ID": "de26966a9fa5448987529f7085fd5712",
   "Name": "Under The Waves",
   "ProductSlug": "under-the-waves",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.1543376+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:01.7638419+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:07:36.7856293+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:34.2493637+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:34.5257671+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "73ba6df3b5134164bd14c8674fd1f949",
   "Name": "Soul Cliff",
   "ProductSlug": "soul-cliff-c751a7",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-04T18:00:00+00:00",
     "PcReleaseDate": "2023-05-04T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-12T18:59:02.464115+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:18.5427734+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:48.6398307+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:03.5498609+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:23.1205101+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:55.1781703+00:00"
 }

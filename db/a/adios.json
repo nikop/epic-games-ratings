@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76503,
+  "EOS_Progressed": 76505,
   "EOS_Completed": 805,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -20847,6 +20847,11 @@
       "Time": "2023-10-23T06:08:05.4522608+00:00",
       "NumProgressed": 76503,
       "NumCompleted": 805
+    },
+    {
+      "Time": "2023-10-23T07:06:49.38459+00:00",
+      "NumProgressed": 76505,
+      "NumCompleted": 805
     }
   ],
   "TotalAchievements": 25,
@@ -20986,7 +20991,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12240
+      "UsersEstimate": 12241
     },
     {
       "ID": "Nothing Left to Say",
@@ -21002,7 +21007,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8415
+      "UsersEstimate": 8416
     },
     {
       "ID": "Right On Target",
@@ -21010,7 +21015,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9945
+      "UsersEstimate": 9946
     },
     {
       "ID": "Sniper",
@@ -21057,7 +21062,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76503,
+      "Progressed": 76505,
       "Completed": 805
     }
   ],
@@ -21065,8 +21070,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:08:05.4522599+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:06:49.3845889+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:58:29.344944+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:08:05.4524093+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:58:20.0209936+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:49.3847324+00:00"
 }

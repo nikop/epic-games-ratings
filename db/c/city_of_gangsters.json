@@ -3,12 +3,12 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 835,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -694,7 +694,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348973,
+  "EOS_Progressed": 348975,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 0,
@@ -21669,6 +21669,11 @@
       "Time": "2023-10-23T06:07:18.9219476+00:00",
       "NumProgressed": 348973,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T07:06:19.7380282+00:00",
+      "NumProgressed": 348975,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21704,7 +21709,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ach005",
@@ -21776,7 +21781,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ach014",
@@ -21808,7 +21813,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45366
+      "UsersEstimate": 45367
     },
     {
       "ID": "ach018",
@@ -21912,7 +21917,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ach031",
@@ -21984,7 +21989,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34897
+      "UsersEstimate": 34898
     },
     {
       "ID": "ach040",
@@ -22032,7 +22037,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45366
+      "UsersEstimate": 45367
     },
     {
       "ID": "ach046",
@@ -22112,7 +22117,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ach056",
@@ -22144,7 +22149,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34897
+      "UsersEstimate": 34898
     },
     {
       "ID": "ach060",
@@ -22160,7 +22165,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6979
+      "UsersEstimate": 6980
     },
     {
       "ID": "ach062",
@@ -22192,7 +22197,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48856
+      "UsersEstimate": 48857
     },
     {
       "ID": "ach067",
@@ -22216,7 +22221,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48856
+      "UsersEstimate": 48857
     },
     {
       "ID": "ach070",
@@ -22319,7 +22324,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348973,
+      "Progressed": 348975,
       "Completed": 7
     }
   ],
@@ -22327,8 +22332,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:07:18.9219472+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:06:19.7380277+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:52.6216118+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:07:18.9221814+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:25.9935354+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:19.7382507+00:00"
 }

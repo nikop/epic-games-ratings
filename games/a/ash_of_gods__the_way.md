@@ -13,6 +13,7 @@
 | A hidden snake | 40.00% | ~2 |
 | Blood and sand | 40.00% | ~2 |
 | Crimson rivers | 20.00% | ~1 |
+| Berkanan Borgia | 20.00% | ~1 |
 | Power of Inquisition | 20.00% | ~1 |
 | The champion of the arena | 20.00% | ~1 |
 | Surpass the teacher | 20.00% | ~1 |
@@ -32,7 +33,6 @@
 | Berserk | 0.00% | ~0 |
 | Overplay the rogue | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
-| Berkanan Borgia | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | The best apprentice | 0.00% | ~0 |
 | Stronger than Gellian steel | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 571)  
+Progressed: 5 (Ranked 572)  
 Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |

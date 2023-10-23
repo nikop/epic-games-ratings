@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3725,9 +3725,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 74470,
+  "EOS_Progressed": 74472,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -19720,6 +19720,11 @@
       "Time": "2023-10-23T06:04:27.1026954+00:00",
       "NumProgressed": 74470,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-23T07:04:00.6905143+00:00",
+      "NumProgressed": 74472,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 61,
@@ -19779,7 +19784,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17128
+      "UsersEstimate": 17129
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -19787,7 +19792,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -19811,7 +19816,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "APPLY_STATUS",
@@ -19819,7 +19824,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11170
+      "UsersEstimate": 11171
     },
     {
       "ID": "CHALLENGES_1",
@@ -19907,7 +19912,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -19971,7 +19976,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14149
+      "UsersEstimate": 14150
     },
     {
       "ID": "FREEZE_3",
@@ -19995,7 +20000,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -20035,7 +20040,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26064
+      "UsersEstimate": 26065
     },
     {
       "ID": "HARLEY_2",
@@ -20059,7 +20064,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11915
+      "UsersEstimate": 11916
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -20075,7 +20080,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 38724
+      "UsersEstimate": 38725
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -20139,7 +20144,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17128
+      "UsersEstimate": 17129
     },
     {
       "ID": "MYSTERY_04",
@@ -20163,7 +20168,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11170
+      "UsersEstimate": 11171
     },
     {
       "ID": "MYSTERY_07",
@@ -20179,7 +20184,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "SECRET_CACHE",
@@ -20203,7 +20208,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -20218,13 +20223,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 74470,
+      "Progressed": 74472,
       "Completed": 121
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 44750,
+      "Progressed": 44752,
       "Completed": 2669
     }
   ],
@@ -20232,8 +20237,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-23T03:02:07.7500997+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:04:27.1026946+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:04:00.6905137+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:37.1553796+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:03:07.573237+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:04:27.1028614+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:46.1449285+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:04:00.6906688+00:00"
 }

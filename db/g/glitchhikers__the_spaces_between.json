@@ -2,10 +2,10 @@
   "ID": "721c7f9b5f0b4c2f8258babc21e3bef8",
   "Name": "Glitchhikers: The Spaces Between",
   "ProductSlug": "glitchhikers-the-spaces-between-3d7a5d",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:56:59.1194075+00:00",
   "LastChanged": "2023-03-31T05:56:59.1194076+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:10.6777129+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:21.5206637+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:12.310916+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:03.6607612+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:07:02.1860692+00:00"
 }

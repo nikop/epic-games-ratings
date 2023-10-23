@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.80 (Ranked 1,010)  
 ## Awards
-Max (Extremely Fun): 56  (Ranked 404)  
+Max (Extremely Fun): 56  (Ranked 405)  
 Sum: 311 (Ranked 347)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 56 |

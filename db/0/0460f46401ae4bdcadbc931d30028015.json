@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -439,9 +439,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2770,
+  "EOS_Progressed": 2771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3199,6 +3199,11 @@
       "Time": "2023-10-23T06:09:14.8445738+00:00",
       "NumProgressed": 2770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T07:07:04.2709667+00:00",
+      "NumProgressed": 2771,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3251,7 +3256,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "achievement_15",
@@ -3315,7 +3320,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_3",
@@ -3347,7 +3352,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "achievement_7",
@@ -3378,7 +3383,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2770,
+      "Progressed": 2771,
       "Completed": 0
     }
   ],
@@ -3386,8 +3391,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-22T20:57:38.6802021+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:09:14.8445732+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:07:04.2709661+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:57:46.7862427+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:14.8446094+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:57:45.549503+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:07:04.2710004+00:00"
 }

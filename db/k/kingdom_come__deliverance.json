@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8049,9 +8049,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805746,
+  "EOS_Progressed": 805749,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28834,6 +28834,11 @@
       "Time": "2023-10-23T06:06:59.5009655+00:00",
       "NumProgressed": 805746,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-23T07:06:03.5112401+00:00",
+      "NumProgressed": 805749,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28869,7 +28874,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128919
+      "UsersEstimate": 128920
     },
     {
       "ID": "Awakening",
@@ -28925,7 +28930,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257839
+      "UsersEstimate": 257840
     },
     {
       "ID": "Bookworm",
@@ -28957,7 +28962,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201436
+      "UsersEstimate": 201437
     },
     {
       "ID": "Chivalrous",
@@ -29325,7 +29330,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161149
+      "UsersEstimate": 161150
     },
     {
       "ID": "RevenantOfLedechko",
@@ -29365,7 +29370,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161149
+      "UsersEstimate": 161150
     },
     {
       "ID": "SerialKiller",
@@ -29500,15 +29505,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805746,
+      "Progressed": 805749,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-23T01:43:43.3325747+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:06:59.5009642+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:06:03.5112396+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:30.7016905+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:06:59.5011665+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:56.8990653+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:03.5114576+00:00"
 }

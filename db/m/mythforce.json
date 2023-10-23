@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 596,
-  "Ranking_Popularity": 467,
+  "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 267,
@@ -758,9 +758,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4389,
+  "EOS_Progressed": 4390,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -7963,6 +7963,11 @@
       "Time": "2023-10-23T05:09:42.9426295+00:00",
       "NumProgressed": 4389,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-23T07:09:02.7642317+00:00",
+      "NumProgressed": 4390,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8015,7 +8020,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8023,7 +8028,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8063,7 +8068,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8143,7 +8148,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8158,15 +8163,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4389,
+      "Progressed": 4390,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-14T13:04:06.5278861+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:09:50.521061+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:09:02.7642313+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:41.3100973+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:50.5211238+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:03.1876572+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:09:02.764291+00:00"
 }

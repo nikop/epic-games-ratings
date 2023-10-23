@@ -13926,10 +13926,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 321373,
       "NumberOfAwardsMax": 100696
+    },
+    {
+      "Time": "2023-10-23T06:59:09.7450916+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 321567,
+      "NumberOfAwardsMax": 100696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321373,
+  "NumberOfAwards": 321567,
   "NumberOfAwardsMax": 100696,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13979,7 +13985,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 18145
+      "Count": 18339
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14006,9 +14012,9 @@
       "Count": 11271
     }
   ],
-  "EOS_Progressed": 893419,
+  "EOS_Progressed": 893421,
   "EOS_Completed": 2702,
-  "EOS_NewPlayers": 1273,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35041,6 +35047,11 @@
       "Time": "2023-10-23T06:06:17.5546057+00:00",
       "NumProgressed": 893419,
       "NumCompleted": 2702
+    },
+    {
+      "Time": "2023-10-23T07:05:29.627021+00:00",
+      "NumProgressed": 893421,
+      "NumCompleted": 2702
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35555,9 +35566,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "TheTower",
@@ -35572,21 +35583,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893419,
+      "Progressed": 893421,
       "Completed": 2702
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22042,
+      "Progressed": 22044,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-23T04:59:40.1819078+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:06:17.5546053+00:00",
+  "LastChanged": "2023-10-23T06:59:09.7450914+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:05:29.6270203+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:29.8158615+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:06:17.5547771+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:09.7450921+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:05:29.6272014+00:00"
 }

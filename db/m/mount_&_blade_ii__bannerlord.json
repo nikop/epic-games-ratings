@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8184,7 +8184,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63778,
+  "EOS_Progressed": 63780,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
@@ -27864,6 +27864,11 @@
       "Time": "2023-10-23T06:07:25.7540309+00:00",
       "NumProgressed": 63778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T07:06:25.3342621+00:00",
+      "NumProgressed": 63780,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27875,7 +27880,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7653
+      "UsersEstimate": 7654
     },
     {
       "ID": "Apple of my eye",
@@ -27883,7 +27888,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "Bannerlord",
@@ -28043,7 +28048,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10204
+      "UsersEstimate": 10205
     },
     {
       "ID": "I spit on your grave",
@@ -28067,7 +28072,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10842
+      "UsersEstimate": 10843
     },
     {
       "ID": "Kingslayer",
@@ -28083,7 +28088,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "Lance-a-lot",
@@ -28107,7 +28112,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24873
+      "UsersEstimate": 24874
     },
     {
       "ID": "Lawmaker",
@@ -28131,7 +28136,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "Minor Clan",
@@ -28282,15 +28287,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63778,
+      "Progressed": 63780,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-22T21:00:26.61171+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:07:25.7540305+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:06:25.3342615+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:11.5328968+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:07:25.7542005+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:41.5262854+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:25.3344502+00:00"
 }

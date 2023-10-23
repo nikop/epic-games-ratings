@@ -2,10 +2,10 @@
   "ID": "b9665613f2b94636bf4536a411002d22",
   "Name": "RAWMEN: Food Fighter Arena \uD83C\uDF5C",
   "ProductSlug": "rawmen-03f74e",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "LastChanged": "2023-03-31T05:58:41.7807933+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.4658598+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:01:20.7357545+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:04:36.8132389+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:33.0616855+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:04:08.4364912+00:00"
 }

@@ -40,10 +40,10 @@ Rating: 4.45 (Ranked 650)
 | Herr Today, Gone Tomorrow | 7.00% | ~260 |
 | Operation Foxley | 6.00% | ~223 |
 | The Long Game | 5.00% | ~188 |
+| Tinkerer | 5.00% | ~188 |
 | It'll Buff Right Out | 5.00% | ~188 |
 | Don't hold your breath | 5.00% | ~188 |
 | Strategist | 4.00% | ~151 |
-| Tinkerer | 4.00% | ~151 |
 | Locomotion Commotion | 4.00% | ~151 |
 | Road Rage | 4.00% | ~151 |
 | Last Resort | 4.00% | ~149 |

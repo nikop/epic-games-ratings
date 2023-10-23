@@ -2,13 +2,13 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 376,
-  "Ranking_Popularity": 442,
+  "Ranking_Rating": 356,
+  "Ranking_Popularity": 443,
   "Ranking_PopularitySum": 417,
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -691,10 +691,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 138,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-10-23T06:58:13.7546943+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 138,
+  "NumberOfAwards": 139,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -741,8 +747,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-10-22T04:57:52.8197946+00:00",
+  "LastChanged": "2023-10-23T06:58:13.7546941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:41.0392713+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:58:20.9724893+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:04:21.965026+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:58:13.7546947+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:03:56.4457983+00:00"
 }

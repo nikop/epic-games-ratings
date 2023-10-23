@@ -16,20 +16,20 @@
 | Somebody's Home | 37.00% | ~58 |
 | Felt Good | 35.00% | ~55 |
 | Aimed Ahead | 33.00% | ~52 |
+| Secret Stashes | 33.00% | ~52 |
 | Carry his Words | 32.00% | ~51 |
 | Into the Overlap | 32.00% | ~51 |
-| Secret Stashes | 32.00% | ~51 |
 | Lawman | 30.00% | ~47 |
 | Filling the Shape | 30.00% | ~47 |
-| The Other Side | 29.00% | ~46 |
+| The Other Side | 30.00% | ~47 |
 | Greatest Hits | 28.00% | ~44 |
 | Talk Show | 28.00% | ~44 |
 | Lights Shining | 25.00% | ~40 |
 | Yippee Ki-yay | 24.00% | ~38 |
-| Storm Cloud | 23.00% | ~36 |
+| Storm Cloud | 24.00% | ~38 |
+| New York City | 24.00% | ~38 |
+| Return | 24.00% | ~38 |
 | Shining in the Night | 23.00% | ~36 |
-| New York City | 23.00% | ~36 |
-| Return | 23.00% | ~36 |
 | This is the Moment | 22.00% | ~35 |
 | Growing Stronger | 22.00% | ~35 |
 | Finding a Way | 22.00% | ~35 |

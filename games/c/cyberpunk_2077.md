@@ -40,6 +40,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.20% | ~1,787 |
 | V for Vendetta | 0.20% | ~1,787 |
 | Spin Doctor | 0.20% | ~44 |
+| King of Wands | 0.20% | ~44 |
 | City Lights | 0.10% | ~893 |
 | The Wandering Fool | 0.10% | ~893 |
 | Autojock | 0.10% | ~893 |
@@ -59,7 +60,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~22 |
 | King of Pentacles | 0.10% | ~22 |
 | King of Swords | 0.10% | ~22 |
-| King of Wands | 0.10% | ~22 |
 | The Tower | 0.10% | ~22 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,419 (Ranked 15)  
+Progressed: 893,421 (Ranked 15)  
 Completed: 2,702 (0.30%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,16 +258,16 @@ Completed: 2,702 (0.30%) (Ranked 211)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,419 | 2,702 |
+| 2023-10-23 | 893,421 | 2,702 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
-Sum: 321,373 (Ranked 11)  
+Sum: 321,567 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 100,696 |
 | This game has Great Boss Battles | 71,719 |
-| This game is Great for Beginners | 18,145 |
+| This game is Great for Beginners | 18,339 |
 | This game has Diverse Characters | 18,044 |
 | This game is Highly Recommended | 17,455 |
 | This game has Amazing Storytelling | 17,285 |
@@ -556,4 +556,4 @@ Diff (max vs sum): -2
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
-| 2023-10-23 | 4.64 | - | 100,696 | 321,373 |
+| 2023-10-23 | 4.64 | - | 100,696 | 321,567 |

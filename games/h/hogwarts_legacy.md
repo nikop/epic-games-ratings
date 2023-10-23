@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,715 (Ranked 48)  
+Progressed: 298,716 (Ranked 48)  
 Completed: 491 (0.16%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 491 (0.16%) (Ranked 237)
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
 | 2023-10-22 | 298,711 | 491 |
-| 2023-10-23 | 298,715 | 491 |
+| 2023-10-23 | 298,716 | 491 |
 ## Awards
 Max (Character Customization): 23,719  (Ranked 17)  
 Sum: 46,420 (Ranked 30)  

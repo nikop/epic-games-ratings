@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11085,9 +11085,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 437639,
+  "EOS_Progressed": 437650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5423,
+  "EOS_NewPlayers": 5422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32235,6 +32235,11 @@
       "Time": "2023-10-23T06:05:34.279011+00:00",
       "NumProgressed": 437639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T07:04:54.8182925+00:00",
+      "NumProgressed": 437650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33814,7 +33819,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "achievement_my_true_friend",
@@ -34526,7 +34531,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13129
+      "UsersEstimate": 13130
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35077,21 +35082,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 437639,
+      "Progressed": 437650,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 437639,
+      "Progressed": 437650,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-23T05:00:02.5048283+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:05:34.2790102+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:04:54.8182918+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:59:57.4800857+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:05:34.2804758+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:29.3662086+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:04:54.8197352+00:00"
 }

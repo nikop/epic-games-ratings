@@ -3,12 +3,12 @@
   "Name": "TUNIC",
   "ProductSlug": "tunic",
   "Ranking_Rating": 56,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 488,
-  "Ranking_EOS_Progress": 688,
+  "Ranking_Popularity": 460,
+  "Ranking_PopularitySum": 489,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-03-16T17:00:00+00:00",
     "PcReleaseDate": "2022-03-16T17:00:00+00:00",
@@ -243,6 +243,6 @@
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
   "LastChanged": "2023-09-17T20:00:44.7211802+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:02.7009165+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:57:15.1391041+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:57.1846636+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:57:18.4799597+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:09:07.9971032+00:00"
 }

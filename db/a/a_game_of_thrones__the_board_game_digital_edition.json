@@ -1284,9 +1284,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26675,
+  "EOS_Progressed": 26677,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21204,6 +21204,11 @@
       "Time": "2023-10-23T06:08:01.7152706+00:00",
       "NumProgressed": 26675,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-23T07:06:46.3989481+00:00",
+      "NumProgressed": 26677,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 22,
@@ -21231,7 +21236,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "1018",
@@ -21263,7 +21268,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "1022",
@@ -21271,7 +21276,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "1023",
@@ -21351,7 +21356,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "1033",
@@ -21390,15 +21395,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26675,
+      "Progressed": 26677,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:08:01.7152699+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:06:46.3989475+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:03:26.270128+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:08:01.7154141+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:03:08.7106439+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:06:46.3990829+00:00"
 }

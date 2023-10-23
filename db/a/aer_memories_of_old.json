@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22631,
+  "EOS_Progressed": 22632,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -20373,6 +20373,11 @@
       "Time": "2023-10-23T06:06:42.561717+00:00",
       "NumProgressed": 22631,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-23T07:05:49.7024516+00:00",
+      "NumProgressed": 22632,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20416,7 +20421,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2489
+      "UsersEstimate": 2490
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20432,7 +20437,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -20504,7 +20509,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17426
+      "UsersEstimate": 17427
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20543,15 +20548,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22631,
+      "Progressed": 22632,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:06:42.5617164+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:05:49.7024511+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:01:07.2370214+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:06:42.5618554+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:22.3862934+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:05:49.7025883+00:00"
 }

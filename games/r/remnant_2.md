@@ -1,20 +1,20 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~17,975 |
 | The Killing Jar | 8.00% | ~15,978 |
-| Expanding Horizons | 7.00% | ~13,980 |
-| Quest for Survival | 7.00% | ~13,980 |
-| Not Your Average Trait | 7.00% | ~13,980 |
-| Gleaming the Cube | 6.00% | ~11,983 |
-| Familiar Face | 6.00% | ~11,983 |
-| Duality | 6.00% | ~11,983 |
-| Boss'n Up | 6.00% | ~11,983 |
-| Trait Chaser | 6.00% | ~11,983 |
+| Expanding Horizons | 7.00% | ~13,981 |
+| Quest for Survival | 7.00% | ~13,981 |
+| Not Your Average Trait | 7.00% | ~13,981 |
+| Gleaming the Cube | 6.00% | ~11,984 |
+| Familiar Face | 6.00% | ~11,984 |
+| Duality | 6.00% | ~11,984 |
+| Boss'n Up | 6.00% | ~11,984 |
+| Trait Chaser | 6.00% | ~11,984 |
 | Not So Special Now | 5.00% | ~9,986 |
 | Not a Janitor | 5.00% | ~9,986 |
 | Equal Measures | 5.00% | ~9,986 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Cutting Edge | 1.00% | ~1,997 |
 | Proving Grounds | 1.00% | ~1,997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,719 (Ranked 68)  
+Progressed: 199,725 (Ranked 68)  
 Completed: 402 (0.20%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 402 (0.20%) (Ranked 228)
 | 2023-10-20 | 198,353 | 400 |
 | 2023-10-21 | 198,996 | 400 |
 | 2023-10-22 | 199,607 | 401 |
-| 2023-10-23 | 199,719 | 402 |
+| 2023-10-23 | 199,725 | 402 |
 ## Awards
 Max (Great Boss Battles): 1,885  (Ranked 114)  
 Sum: 4,114 (Ranked 147)  

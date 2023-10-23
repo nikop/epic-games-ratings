@@ -5,24 +5,24 @@ Rating: 4.66 (Ranked 284)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,159 |
-| A Thorny Situation | 70.00% | ~4,947 |
-| ... And Spit Back Out | 60.00% | ~4,240 |
-| Break-Net Speed | 48.00% | ~3,392 |
-| Bramble Breaker | 46.00% | ~3,251 |
-| Miner 49er | 43.00% | ~3,039 |
-| Humble Collector | 42.00% | ~2,968 |
-| Calm Sailing | 36.00% | ~2,544 |
-| Open the Gate! | 33.00% | ~2,332 |
-| Mist Walker | 31.00% | ~2,191 |
-| Lumberjack | 26.00% | ~1,837 |
-| Oui, Chef! | 23.00% | ~1,625 |
-| Clear the Air | 18.00% | ~1,272 |
+| Azoria Beckons | 73.00% | ~5,161 |
+| A Thorny Situation | 70.00% | ~4,949 |
+| ... And Spit Back Out | 60.00% | ~4,242 |
+| Break-Net Speed | 48.00% | ~3,394 |
+| Bramble Breaker | 46.00% | ~3,252 |
+| Miner 49er | 43.00% | ~3,040 |
+| Humble Collector | 42.00% | ~2,969 |
+| Calm Sailing | 36.00% | ~2,545 |
+| Open the Gate! | 33.00% | ~2,333 |
+| Mist Walker | 31.00% | ~2,192 |
+| Lumberjack | 26.00% | ~1,838 |
+| Oui, Chef! | 23.00% | ~1,626 |
+| Clear the Air | 18.00% | ~1,273 |
 | Botanical Breakthrough | 16.00% | ~1,131 |
 | Search for the Hairy Grell | 13.00% | ~919 |
 | Beach Comber | 13.00% | ~919 |
 | Higher Tax Bracket | 13.00% | ~919 |
-| Skilled | 8.00% | ~565 |
+| Skilled | 8.00% | ~566 |
 | Flaming Hot Completos | 7.00% | ~495 |
 | Fae Farmer | 7.00% | ~495 |
 | Got to Catch Them All | 7.00% | ~495 |
@@ -41,7 +41,7 @@ Rating: 4.66 (Ranked 284)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,067 (Ranked 163)  
+Progressed: 7,070 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 320)
 | 2023-10-20 | 6,927 | 0 |
 | 2023-10-21 | 6,995 | 0 |
 | 2023-10-22 | 7,063 | 0 |
-| 2023-10-23 | 7,067 | 0 |
+| 2023-10-23 | 7,070 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

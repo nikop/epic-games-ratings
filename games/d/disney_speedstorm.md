@@ -5,10 +5,10 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,438 |
-| IT MAKES BOOM! | 3.00% | ~7,463 |
-| EXTRA BOOST | 2.00% | ~4,975 |
-| PROTECTED | 2.00% | ~4,975 |
+| ROOKIE | 5.00% | ~12,440 |
+| IT MAKES BOOM! | 3.00% | ~7,464 |
+| EXTRA BOOST | 2.00% | ~4,976 |
+| PROTECTED | 2.00% | ~4,976 |
 | HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,488 |
 | AGGRESSIVE RACER | 1.00% | ~2,488 |
 | PRO | 1.00% | ~2,488 |
@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 704)
 | ACE TRICKSTER | 0.20% | ~498 |
 | FRAMED! | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,756 (Ranked 55)  
-Completed: 239 (0.10%) (Ranked 253)  
+Progressed: 248,807 (Ranked 55)  
+Completed: 240 (0.10%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,11 +212,11 @@ Completed: 239 (0.10%) (Ranked 253)
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
-| 2023-10-23 | 248,756 | 239 |
+| 2023-10-23 | 248,807 | 240 |
 ## Awards
-Max (Great for Quick Sessions): 35  (Ranked 459)  
+Max (Great for Quick Sessions): 35  (Ranked 460)  
 Sum: 180 (Ranked 400)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |

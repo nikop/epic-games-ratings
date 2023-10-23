@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -567,7 +567,7 @@
   ],
   "EOS_Progressed": 3768,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7723,9 +7723,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8002,8 +8002,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:04:24.5550097+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:03:58.4527828+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:03:28.357036+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:04:24.5551391+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:03:10.3256182+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:03:58.4528969+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1971,9 +1971,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21140,
+  "EOS_Progressed": 21141,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9646,6 +9646,11 @@
       "Time": "2023-10-23T06:05:54.9323781+00:00",
       "NumProgressed": 21140,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-23T07:05:11.3553652+00:00",
+      "NumProgressed": 21141,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9705,7 +9710,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20083
+      "UsersEstimate": 20084
     },
     {
       "ID": "GameOver",
@@ -9817,7 +9822,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6553
+      "UsersEstimate": 6554
     },
     {
       "ID": "VeronicaLiptson",
@@ -9840,15 +9845,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21140,
+      "Progressed": 21141,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-23T02:59:21.9150369+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:05:54.9323776+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:05:11.3553646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:04.4123249+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:05:54.9324485+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:36.0439166+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:05:11.3554281+00:00"
 }

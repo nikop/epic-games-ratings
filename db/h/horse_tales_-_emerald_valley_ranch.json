@@ -2,10 +2,10 @@
   "ID": "d85b827464434f49b378c2cd47398b4c",
   "Name": "Horse Tales - Emerald Valley Ranch",
   "ProductSlug": "horse-tales-emerald-valley-ranch-240ae8",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-29T08:00:00+00:00",
     "PcReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -318,8 +318,8 @@
   "FirstSeenRating": "2023-04-02T23:56:42.32472+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.2070772+00:00",
   "LastChanged": "2023-04-02T23:56:42.32472+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:09:26.760298+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:08:03.6212638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:44.9112518+00:00",
-  "LastUpdate_Ratings": "2023-10-23T05:57:36.2113115+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:09:26.760324+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:57:36.0217305+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:08:03.621289+00:00"
 }

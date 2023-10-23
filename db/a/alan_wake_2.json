@@ -4,8 +4,8 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-10-27T04:00:00+00:00",
     "PcReleaseDate": "2023-10-27T04:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "27",
       "SetID": "b5e4c1b",
       "Name": "Storm Cloud",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "28",
@@ -718,25 +718,25 @@
       "ID": "49",
       "SetID": "b5e4c1b",
       "Name": "New York City",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "5",
       "SetID": "b5e4c1b",
       "Name": "Secret Stashes",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "50",
       "SetID": "b5e4c1b",
       "Name": "Return",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "51",
@@ -870,9 +870,9 @@
       "ID": "66",
       "SetID": "b5e4c1b",
       "Name": "The Other Side",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "7",
@@ -911,8 +911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:10:05.159926+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:09:14.6858282+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.0925269+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:00:31.2368454+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:10:05.1599989+00:00"
+  "LastUpdate_Ratings": "2023-10-23T06:59:57.3469459+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:09:14.6858965+00:00"
 }

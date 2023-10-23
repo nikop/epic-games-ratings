@@ -2,10 +2,10 @@
   "ID": "3a27a82bc5d04ff6a57ae77b34b09555",
   "Name": "Revive and Prosper",
   "ProductSlug": "revive-and-prosper-267559",
-  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-17T13:57:18.7616562+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:01:11.3817645+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:05:42.9778114+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:26.0420329+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:05:01.4818943+00:00"
 }

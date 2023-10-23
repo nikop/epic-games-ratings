@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 112,
+  "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3891,9 +3891,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 75893,
+  "EOS_Progressed": 75894,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24811,6 +24811,11 @@
       "Time": "2023-10-23T05:06:16.0962876+00:00",
       "NumProgressed": 75893,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-23T07:05:47.6532331+00:00",
+      "NumProgressed": 75894,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24870,7 +24875,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18973
+      "UsersEstimate": 18974
     },
     {
       "ID": "complet_epilogue_mission",
@@ -24950,7 +24955,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28080
+      "UsersEstimate": 28081
     },
     {
       "ID": "cutting_edge_materials",
@@ -24998,7 +25003,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18973
+      "UsersEstimate": 18974
     },
     {
       "ID": "empire_tier_3",
@@ -25038,7 +25043,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17455
+      "UsersEstimate": 17456
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25070,7 +25075,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27321
+      "UsersEstimate": 27322
     },
     {
       "ID": "hit_max_level",
@@ -25134,7 +25139,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "prank_coop_partner",
@@ -25238,20 +25243,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75893,
+      "Progressed": 75894,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47530,
+      "Progressed": 47531,
       "Completed": 4162
     }
   ],
@@ -25259,8 +25264,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-23T06:06:39.9325087+00:00",
+  "LastChanged_Achievements": "2023-10-23T07:05:47.6532325+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:01:10.4246918+00:00",
-  "LastUpdate_Achievements": "2023-10-23T06:06:39.9326718+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:00:25.2461267+00:00",
+  "LastUpdate_Achievements": "2023-10-23T07:05:47.6534054+00:00"
 }
