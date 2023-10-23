@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7080,
+  "EOS_Progressed": 7081,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
@@ -5045,6 +5045,11 @@
       "Time": "2023-10-23T14:07:29.7543393+00:00",
       "NumProgressed": 7080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T15:08:12.7423467+00:00",
+      "NumProgressed": 7081,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5057,7 +5062,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5065,7 +5070,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5081,7 +5086,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5089,7 +5094,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -5097,7 +5102,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -5153,7 +5158,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -5161,7 +5166,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3398
+      "UsersEstimate": 3399
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5169,7 +5174,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -5209,7 +5214,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5241,7 +5246,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -5273,7 +5278,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -5336,7 +5341,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7080,
+      "Progressed": 7081,
       "Completed": 0
     }
   ],
@@ -5344,8 +5349,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-22T14:01:27.1688192+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:07:29.7543387+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:08:12.7423461+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:02:09.7488479+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:07:29.7543933+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:02:26.1303939+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:08:12.7424054+00:00"
 }

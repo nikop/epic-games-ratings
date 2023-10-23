@@ -1,48 +1,48 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.62 (Ranked 357)  
+Rating: 4.62 (Ranked 358)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~1,112 |
-| Welcome Aboard | 87.00% | ~1,019 |
-| Lab Rat | 76.00% | ~890 |
+| Marksman | 95.00% | ~1,113 |
+| Welcome Aboard | 87.00% | ~1,020 |
+| Lab Rat | 76.00% | ~891 |
 | All Systems Go | 67.00% | ~785 |
 | Brute Force | 67.00% | ~785 |
-| Cannon Fodder | 62.00% | ~726 |
+| Cannon Fodder | 62.00% | ~727 |
 | Autofire | 60.00% | ~703 |
-| Story Teller | 58.00% | ~679 |
-| True Believer | 58.00% | ~679 |
-| Raise the Stakes | 57.00% | ~667 |
-| Surgeon | 54.00% | ~632 |
+| Story Teller | 58.00% | ~680 |
+| True Believer | 58.00% | ~680 |
+| Raise the Stakes | 57.00% | ~668 |
+| Surgeon | 54.00% | ~633 |
 | Exterminator | 53.00% | ~621 |
 | Greenhouse Effect | 53.00% | ~621 |
 | Freeze | 52.00% | ~609 |
-| Full Arsenal | 47.00% | ~550 |
-| S.O.S. | 47.00% | ~550 |
-| Get Off My Ship! | 44.00% | ~515 |
-| Strange Transmissions | 44.00% | ~515 |
+| Full Arsenal | 47.00% | ~551 |
+| S.O.S. | 47.00% | ~551 |
+| Get Off My Ship! | 44.00% | ~516 |
+| Strange Transmissions | 44.00% | ~516 |
 | Live with the Hot Ones | 42.00% | ~492 |
 | Wreckage | 42.00% | ~492 |
-| Keeper of the Faith | 41.00% | ~480 |
+| Keeper of the Faith | 41.00% | ~481 |
 | Betrayed | 39.00% | ~457 |
 | Legend Teller | 38.00% | ~445 |
 | There's Always Peng! | 38.00% | ~445 |
-| Exodus | 37.00% | ~433 |
-| Mindless Prey | 37.00% | ~433 |
+| Exodus | 37.00% | ~434 |
+| Mindless Prey | 37.00% | ~434 |
 | Front Toward Enemy | 34.00% | ~398 |
-| A Cut Above | 33.00% | ~386 |
+| A Cut Above | 33.00% | ~387 |
 | Whole Again | 29.00% | ~340 |
 | Set A Benchmark | 29.00% | ~340 |
 | Full Contact | 27.00% | ~316 |
 | Pack Rat | 27.00% | ~316 |
-| Final Regeneration | 26.00% | ~304 |
+| Final Regeneration | 26.00% | ~305 |
 | Full Clearance | 25.00% | ~293 |
 | Pusher | 24.00% | ~281 |
-| Z-Baller | 23.00% | ~269 |
+| Z-Baller | 23.00% | ~270 |
 | Marked | 22.00% | ~258 |
-| Eviscerator | 19.00% | ~222 |
+| Eviscerator | 19.00% | ~223 |
 | Backbreaker | 14.00% | ~164 |
 | Wishbone | 8.00% | ~94 |
 | Trusted Contractor | 7.00% | ~82 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 357)
 | Untouchable | 2.00% | ~23 |
 | One Gun | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,171 (Ranked 231)  
+Progressed: 1,172 (Ranked 231)  
 Completed: 6 (0.51%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 6 (0.51%) (Ranked 182)
 | 2023-10-20 | 1,128 | 6 |
 | 2023-10-21 | 1,142 | 6 |
 | 2023-10-22 | 1,161 | 6 |
-| 2023-10-23 | 1,171 | 6 |
+| 2023-10-23 | 1,172 | 6 |
 ## Awards
 Max (Great Boss Battles): 105  (Ranked 342)  
 Sum: 105 (Ranked 433)  

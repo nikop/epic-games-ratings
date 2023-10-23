@@ -2,9 +2,9 @@
   "ID": "eaab430db9f24d558c949b85906f1c79",
   "Name": "Hexxen: Hunters",
   "ProductSlug": "hexxen-hunters-e63cbb",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.09181+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:01:10.9857862+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:04:53.6806782+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:02:16.6065044+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:07.090414+00:00"
 }

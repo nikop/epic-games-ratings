@@ -4,7 +4,7 @@
   "ProductSlug": "parakacuk-22f4b2",
   "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-31T12:00:00+00:00",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00",
   "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:05:27.1003243+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:05:40.4956352+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:30.365498+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:57:10.8489038+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:05:27.1003429+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:57:12.5887712+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:40.4956541+00:00"
 }

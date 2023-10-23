@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No stone unturned | 33.00% | ~1 |
+| No stone unturned | 25.00% | ~1 |
 | I'd Buy That For a Dollar! | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Uphold the Law | 0.00% | ~0 |
@@ -32,10 +32,11 @@
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 595)  
+Progressed: 4 (Ranked 586)  
 Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-12 | 1 | 0 |
 | 2023-10-13 | 3 | 0 |
+| 2023-10-23 | 4 | 0 |

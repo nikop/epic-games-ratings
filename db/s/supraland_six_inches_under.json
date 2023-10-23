@@ -2293,9 +2293,9 @@
       "ID": "MagnetRepel",
       "SetID": "5lok9mm",
       "Name": "Magnet Repel",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2031
     },
     {
       "ID": "Map",
@@ -2493,8 +2493,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-10-03T15:58:07.9846198+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:04:50.4273475+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:05:03.9322486+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:01.2885561+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:57:32.2058972+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:04:50.4274033+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:57:36.3818231+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:03.9323018+00:00"
 }

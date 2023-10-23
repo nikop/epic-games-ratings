@@ -4,8 +4,8 @@
 Rating: 4.63 (Ranked 340)  
 ## Awards
 Max (Challenging Combat): 35  (Ranked 460)  
-Sum: 239 (Ranked 375)  
-Diff (max vs sum): 85  
+Sum: 210 (Ranked 384)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |

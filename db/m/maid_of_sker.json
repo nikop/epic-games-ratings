@@ -2,7 +2,7 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 111,
@@ -354,9 +354,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "axe_of_kindness",
@@ -394,9 +394,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "dodgy_geezer",
@@ -410,9 +410,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "easy_listening",
@@ -603,8 +603,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:05:20.1285191+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:05:33.8770335+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:58.8025951+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:00:43.9727354+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:05:20.1393243+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:00:59.2075386+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:33.8770577+00:00"
 }

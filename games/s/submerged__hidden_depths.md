@@ -4,8 +4,8 @@
 Rating: 4.24 (Ranked 863)  
 Number of Ratings: 2,582  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 46  (Ranked 430)  
-Sum: 330 (Ranked 346)  
+Max (Great for Beginners): 46  (Ranked 431)  
+Sum: 330 (Ranked 347)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |

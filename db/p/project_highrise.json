@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -943,9 +943,9 @@
       "ID": "ach_apartments_2",
       "SetID": "b8gh1fi",
       "Name": "Penthouse in the Sky",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_area",
@@ -975,17 +975,17 @@
       "ID": "ach_art_large",
       "SetID": "b8gh1fi",
       "Name": "Artistic Largesse",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_art_medium",
       "SetID": "b8gh1fi",
       "Name": "Curated Class",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_art_outside",
@@ -1247,9 +1247,9 @@
       "ID": "ach_fountains",
       "SetID": "b8gh1fi",
       "Name": "Water Features",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_grime",
@@ -1335,9 +1335,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_pop_1",
@@ -1607,9 +1607,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_visitors_1",
@@ -1632,8 +1632,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:03:37.677557+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:03:41.4541806+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:11.4803436+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:59:39.4615876+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:03:37.6776614+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:59:51.2679777+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:03:41.4542951+00:00"
 }

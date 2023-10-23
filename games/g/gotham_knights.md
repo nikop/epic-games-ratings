@@ -5,25 +5,25 @@ Rating: 4.18 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,742 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,076 |
-| Loose Ends | 34.00% | ~25,331 |
-| To the Victor Go the Spoils | 28.00% | ~20,861 |
-| Knighthood | 27.00% | ~20,116 |
-| Get ReQ'd | 25.00% | ~18,626 |
-| Whispered Words | 25.00% | ~18,626 |
-| The Batman Family | 23.00% | ~17,136 |
-| Lock and Key | 23.00% | ~17,136 |
-| Something in the Clay | 21.00% | ~15,646 |
-| Quartzer Life Crisis | 21.00% | ~15,646 |
-| Working Hard or Harley Working? | 20.00% | ~14,901 |
-| Unstoppable Force | 20.00% | ~14,901 |
-| Bad Apples in Every Orchard | 20.00% | ~14,901 |
-| Snow Problem | 19.00% | ~14,156 |
-| The Show Mud Go On | 18.00% | ~13,411 |
-| From Inside Gotham's Walls | 18.00% | ~13,411 |
-| Protector of Gotham | 17.00% | ~12,666 |
-| Universal Health Scare | 16.00% | ~11,921 |
+| First Step Into the Knight | 52.00% | ~38,745 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,078 |
+| Loose Ends | 34.00% | ~25,333 |
+| To the Victor Go the Spoils | 28.00% | ~20,863 |
+| Knighthood | 27.00% | ~20,118 |
+| Get ReQ'd | 25.00% | ~18,628 |
+| Whispered Words | 25.00% | ~18,628 |
+| The Batman Family | 23.00% | ~17,137 |
+| Lock and Key | 23.00% | ~17,137 |
+| Something in the Clay | 21.00% | ~15,647 |
+| Quartzer Life Crisis | 21.00% | ~15,647 |
+| Working Hard or Harley Working? | 20.00% | ~14,902 |
+| Unstoppable Force | 20.00% | ~14,902 |
+| Bad Apples in Every Orchard | 20.00% | ~14,902 |
+| Snow Problem | 19.00% | ~14,157 |
+| The Show Mud Go On | 18.00% | ~13,412 |
+| From Inside Gotham's Walls | 18.00% | ~13,412 |
+| Protector of Gotham | 17.00% | ~12,667 |
+| Universal Health Scare | 16.00% | ~11,922 |
 | In Your Element | 15.00% | ~11,176 |
 | Voiceless | 15.00% | ~11,176 |
 | Rock and a Hard Place | 14.00% | ~10,431 |
@@ -31,17 +31,17 @@ Rating: 4.18 (Ranked 907)
 | Seeking Asylum | 14.00% | ~10,431 |
 | Not On My Watch | 13.00% | ~9,686 |
 | Shock Til They Drop | 13.00% | ~9,686 |
-| End of an Era | 12.00% | ~8,940 |
-| Bulldozed | 12.00% | ~8,940 |
-| Gotham Knight | 12.00% | ~8,940 |
-| Gotham City Confidential | 11.00% | ~8,195 |
-| Drone You Out | 10.00% | ~7,450 |
-| Out of Their League | 9.00% | ~6,705 |
-| Solid Alibi | 9.00% | ~6,705 |
-| Fusion Expert | 7.00% | ~5,215 |
-| Expert Crime Fighter | 6.00% | ~4,470 |
-| Family Meeting | 6.00% | ~4,470 |
-| A Worthy Successor | 6.00% | ~4,470 |
+| End of an Era | 12.00% | ~8,941 |
+| Bulldozed | 12.00% | ~8,941 |
+| Gotham Knight | 12.00% | ~8,941 |
+| Gotham City Confidential | 11.00% | ~8,196 |
+| Drone You Out | 10.00% | ~7,451 |
+| Out of Their League | 9.00% | ~6,706 |
+| Solid Alibi | 9.00% | ~6,706 |
+| Fusion Expert | 7.00% | ~5,216 |
+| Expert Crime Fighter | 6.00% | ~4,471 |
+| Family Meeting | 6.00% | ~4,471 |
+| A Worthy Successor | 6.00% | ~4,471 |
 | Dressed to Impress | 4.00% | ~2,980 |
 | A Momentum Occasion | 3.00% | ~2,235 |
 | Bat Out of Hell | 3.00% | ~2,235 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 907)
 | Element of Surprise | 0.20% | ~90 |
 | It's Nice to Be Wanted | 0.20% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,504 (Ranked 93)  
+Progressed: 74,510 (Ranked 93)  
 Completed: 121 (0.16%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,17 +253,17 @@ Completed: 121 (0.16%) (Ranked 238)
 | 2023-10-20 | 73,935 | 121 |
 | 2023-10-21 | 74,180 | 121 |
 | 2023-10-22 | 74,409 | 121 |
-| 2023-10-23 | 74,504 | 121 |
+| 2023-10-23 | 74,510 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,854  (Ranked 98)  
-Sum: 4,818 (Ranked 138)  
+Sum: 4,819 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,854 |
 | This game is Relaxing | 250 |
 | This game is Great for Beginners | 248 |
-| This game is Extremely Fun | 247 |
+| This game is Extremely Fun | 248 |
 | This game has Diverse Characters | 247 |
 | This game has Quickly Understood Controls | 246 |
 | This game has Amazing Characters | 244 |
@@ -513,4 +513,4 @@ Diff (max vs sum): -40
 | 2023-10-20 | 4.18 | 2,846 | 4,792 |
 | 2023-10-21 | 4.18 | 2,850 | 4,806 |
 | 2023-10-22 | 4.18 | 2,854 | 4,817 |
-| 2023-10-23 | 4.18 | 2,854 | 4,818 |
+| 2023-10-23 | 4.18 | 2,854 | 4,819 |

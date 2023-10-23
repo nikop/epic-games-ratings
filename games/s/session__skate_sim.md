@@ -38,10 +38,10 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 5.00% | ~152 |
 | Tank commander | 5.00% | ~152 |
 | Trick shot marksman | 5.00% | ~152 |
+| We get it, you're good | 5.00% | ~152 |
 | Cops called! | 4.00% | ~121 |
 | G.O.A.T. status | 4.00% | ~121 |
 | Prince of Philly | 4.00% | ~121 |
-| We get it, you're good | 4.00% | ~121 |
 | Hoarder | 3.00% | ~91 |
 | Pew-Pew | 3.00% | ~91 |
 | Cross lock country | 2.00% | ~61 |

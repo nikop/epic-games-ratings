@@ -25,8 +25,8 @@
 | Shield Crusher | 7.00% | ~32 |
 | Treasure Hunter | 7.00% | ~32 |
 | Explorer | 6.00% | ~27 |
+| Trio | 6.00% | ~27 |
 | Pyromancer | 5.00% | ~23 |
-| Trio | 5.00% | ~23 |
 | Spell Master | 4.00% | ~18 |
 | Arrive Home | 3.00% | ~14 |
 | Holy Knight | 3.00% | ~14 |

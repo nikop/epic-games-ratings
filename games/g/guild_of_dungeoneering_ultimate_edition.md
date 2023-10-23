@@ -3,7 +3,7 @@
 [View Rawdata](../../db/g/guild_of_dungeoneering_ultimate_edition.json)  
 Rating: 4.61 (Ranked 377)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 595)  
+Progressed: 3 (Ranked 596)  
 Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |

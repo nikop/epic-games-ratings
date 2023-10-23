@@ -6,31 +6,31 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,437 |
-| He's Signed! | 50.00% | ~237,437 |
-| First Victory | 50.00% | ~237,437 |
+| Clean Sheet | 50.00% | ~237,438 |
+| He's Signed! | 50.00% | ~237,438 |
+| First Victory | 50.00% | ~237,438 |
 | He's Sold! | 48.00% | ~227,940 |
-| I'm The Boss! | 42.00% | ~199,447 |
-| Hat-trick | 41.00% | ~194,698 |
+| I'm The Boss! | 42.00% | ~199,448 |
+| Hat-trick | 41.00% | ~194,699 |
 | Scoring Streak | 38.00% | ~180,452 |
-| Unbeatable! | 37.00% | ~175,703 |
-| Thumping | 37.00% | ~175,703 |
+| Unbeatable! | 37.00% | ~175,704 |
+| Thumping | 37.00% | ~175,704 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,206 |
 | Total Support | 32.00% | ~151,960 |
 | Record Signing | 32.00% | ~151,960 |
 | He's a Natural | 31.00% | ~147,211 |
 | Millionaire's Club | 31.00% | ~147,211 |
 | Team Performance | 30.00% | ~142,462 |
-| Parked The Bus | 29.00% | ~137,713 |
-| Shrewd Spender | 29.00% | ~137,713 |
-| Star Man | 29.00% | ~137,713 |
+| Parked The Bus | 29.00% | ~137,714 |
+| Shrewd Spender | 29.00% | ~137,714 |
+| Star Man | 29.00% | ~137,714 |
 | Attack! | 28.00% | ~132,965 |
 | You're On Fire | 27.00% | ~128,216 |
 | Tremendous Trio | 27.00% | ~128,216 |
 | Record Sale | 27.00% | ~128,216 |
-| On A Roll | 26.00% | ~123,467 |
-| Unstoppable Force | 26.00% | ~123,467 |
-| Armchair Expert | 25.00% | ~118,718 |
+| On A Roll | 26.00% | ~123,468 |
+| Unstoppable Force | 26.00% | ~123,468 |
+| Armchair Expert | 25.00% | ~118,719 |
 | Fantastic Five | 24.00% | ~113,970 |
 | Full Faith | 24.00% | ~113,970 |
 | Iron Curtain | 24.00% | ~113,970 |
@@ -55,9 +55,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're Up! | 13.00% | ~61,734 |
 | Money, Money, Money | 12.00% | ~56,985 |
 | Invincible! | 11.00% | ~52,236 |
-| Superb Strike | 10.00% | ~47,487 |
-| International Superstar | 10.00% | ~47,487 |
-| Best In The World | 10.00% | ~47,487 |
+| Superb Strike | 10.00% | ~47,488 |
+| International Superstar | 10.00% | ~47,488 |
+| Best In The World | 10.00% | ~47,488 |
 | Best In Europe | 9.00% | ~42,739 |
 | National Service | 9.00% | ~42,739 |
 | Headhunted | 9.00% | ~42,739 |
@@ -75,12 +75,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Golden Boot | 3.00% | ~14,246 |
 | Freedom Of The Country | 3.00% | ~14,246 |
 | On Top Of The World | 3.00% | ~14,246 |
-| Icon | 2.00% | ~9,497 |
-| Part Of The Furniture | 2.00% | ~9,497 |
-| Childhood Dream | 2.00% | ~9,497 |
-| Invitational | 2.00% | ~9,497 |
-| Mr Delegator | 2.00% | ~9,497 |
-| Scout's Honour | 2.00% | ~9,497 |
+| Icon | 2.00% | ~9,498 |
+| Part Of The Furniture | 2.00% | ~9,498 |
+| Childhood Dream | 2.00% | ~9,498 |
+| Invitational | 2.00% | ~9,498 |
+| Mr Delegator | 2.00% | ~9,498 |
+| Scout's Honour | 2.00% | ~9,498 |
 | There Is Always Plan B | 1.00% | ~4,749 |
 | Living the Dream | 1.00% | ~4,749 |
 | The Greatest | 1.00% | ~4,749 |
@@ -91,9 +91,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Set Piece Specialist | 0.70% | ~3,324 |
 | Online Streak | 0.60% | ~2,849 |
 | Draft Rivalry | 0.50% | ~2,374 |
-| Outstanding Defence | 0.40% | ~1,899 |
-| Club Legend | 0.40% | ~1,899 |
-| Beat all the AI Managers | 0.40% | ~1,899 |
+| Outstanding Defence | 0.40% | ~1,900 |
+| Club Legend | 0.40% | ~1,900 |
+| Beat all the AI Managers | 0.40% | ~1,900 |
 | Immortality | 0.20% | ~950 |
 | Impervious | 0.20% | ~950 |
 | Draft Dominator | 0.20% | ~950 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~475 |
 | Shoestring Budget | 0.10% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,874 (Ranked 36)  
+Progressed: 474,875 (Ranked 36)  
 Completed: 22 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 22 (0.00%) (Ranked 321)
 | 2023-10-20 | 474,757 | 22 |
 | 2023-10-21 | 474,810 | 22 |
 | 2023-10-22 | 474,854 | 22 |
-| 2023-10-23 | 474,874 | 22 |
+| 2023-10-23 | 474,875 | 22 |
 ## Awards
 Max (Relaxing): 6,463  (Ranked 59)  
 Sum: 50,900 (Ranked 27)  

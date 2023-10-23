@@ -6667,7 +6667,7 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138031,
+  "EOS_Progressed": 138032,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 4,
@@ -25717,6 +25717,11 @@
       "Time": "2023-10-23T14:06:33.8023446+00:00",
       "NumProgressed": 138031,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-23T15:06:46.8744248+00:00",
+      "NumProgressed": 138032,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26246,9 +26251,9 @@
       "ID": "help01",
       "SetID": "anfd17p",
       "Name": "Helping Hand",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1380
     },
     {
       "ID": "help02",
@@ -26623,15 +26628,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138031,
+      "Progressed": 138032,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T13:06:20.3260311+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:06:33.8023441+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:06:46.8744239+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:00:46.6872935+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:06:33.8025968+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:01:03.5573557+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:06:46.874721+00:00"
 }

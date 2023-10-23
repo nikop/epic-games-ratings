@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 44.00% | ~84 |
-| Animal Lover | 34.00% | ~65 |
-| Don't Breathe | 31.00% | ~59 |
+| Choking Hazard | 45.00% | ~86 |
+| Animal Lover | 35.00% | ~66 |
+| Don't Breathe | 32.00% | ~61 |
 | Smooth Operator | 17.00% | ~32 |
 | Easy Listening | 16.00% | ~30 |
 | Rapturous Applause! | 15.00% | ~28 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 351)  
+Progressed: 190 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |

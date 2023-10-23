@@ -2,9 +2,9 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 193,
+  "EOS_Progressed": 194,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -750,6 +750,11 @@
       "Time": "2023-10-23T14:06:21.7274562+00:00",
       "NumProgressed": 193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T15:06:34.63297+00:00",
+      "NumProgressed": 194,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -762,7 +767,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achMaxCage",
@@ -816,9 +821,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "achScoutMaxStar",
@@ -842,7 +847,7 @@
       "Name": "Extra Funding",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achSponsor10",
@@ -985,14 +990,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 193,
+      "Progressed": 194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:06:21.7274557+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:06:34.6329693+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:00:05.6497757+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:06:21.7274797+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:00:19.2106296+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:06:34.6329958+00:00"
 }

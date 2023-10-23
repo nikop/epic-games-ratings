@@ -1,57 +1,57 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 514)  
+Rating: 4.54 (Ranked 515)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,112 |
-| Break A Leg | 4.00% | ~28,090 |
-| Hazardous Materials | 4.00% | ~28,090 |
-| Hotel California | 4.00% | ~28,090 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,090 |
-| Dr. Reed, I Presume? | 3.00% | ~21,067 |
-| Git Gutte! | 3.00% | ~21,067 |
-| Bookworm | 3.00% | ~21,067 |
-| But Doctor, I am Butcho | 3.00% | ~21,067 |
-| Slayer Squad | 3.00% | ~21,067 |
-| Can't Handle the Truth | 3.00% | ~21,067 |
-| Coup de Grâce | 3.00% | ~21,067 |
-| Like Riding a Bike | 3.00% | ~21,067 |
-| Friends Like These | 3.00% | ~21,067 |
-| Apex Predator | 3.00% | ~21,067 |
-| Zombologist | 3.00% | ~21,067 |
-| A Patton Emerges | 3.00% | ~21,067 |
-| Stacking the Deck | 3.00% | ~21,067 |
-| This is My Weapon | 3.00% | ~21,067 |
-| Making Your Mark | 2.00% | ~14,045 |
-| Anger Management | 2.00% | ~14,045 |
-| Perks of the Job | 2.00% | ~14,045 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,045 |
-| Ooh, Shiny! | 2.00% | ~14,045 |
-| Humanity Distilled | 2.00% | ~14,045 |
-| I Am the Resurrection | 2.00% | ~14,045 |
-| Down with the Sickness | 2.00% | ~14,045 |
-| Our True Nature | 2.00% | ~14,045 |
-| Smorgasbord | 1.00% | ~7,022 |
-| Jumbo Keyring | 1.00% | ~7,022 |
-| Max Headroom | 1.00% | ~7,022 |
-| Go, Bobcats! | 1.00% | ~7,022 |
-| Rising Star | 1.00% | ~7,022 |
-| Internet Famous | 0.90% | ~6,320 |
+| Welcome To Hell-A | 5.00% | ~35,114 |
+| Break A Leg | 4.00% | ~28,091 |
+| Coup de Grâce | 4.00% | ~28,091 |
+| Hazardous Materials | 4.00% | ~28,091 |
+| Hotel California | 4.00% | ~28,091 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,091 |
+| Dr. Reed, I Presume? | 3.00% | ~21,069 |
+| Git Gutte! | 3.00% | ~21,069 |
+| Bookworm | 3.00% | ~21,069 |
+| But Doctor, I am Butcho | 3.00% | ~21,069 |
+| Slayer Squad | 3.00% | ~21,069 |
+| Can't Handle the Truth | 3.00% | ~21,069 |
+| Like Riding a Bike | 3.00% | ~21,069 |
+| Friends Like These | 3.00% | ~21,069 |
+| Apex Predator | 3.00% | ~21,069 |
+| Zombologist | 3.00% | ~21,069 |
+| A Patton Emerges | 3.00% | ~21,069 |
+| Stacking the Deck | 3.00% | ~21,069 |
+| This is My Weapon | 3.00% | ~21,069 |
+| Making Your Mark | 2.00% | ~14,046 |
+| Anger Management | 2.00% | ~14,046 |
+| Perks of the Job | 2.00% | ~14,046 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,046 |
+| Ooh, Shiny! | 2.00% | ~14,046 |
+| Humanity Distilled | 2.00% | ~14,046 |
+| I Am the Resurrection | 2.00% | ~14,046 |
+| Down with the Sickness | 2.00% | ~14,046 |
+| Our True Nature | 2.00% | ~14,046 |
+| Smorgasbord | 1.00% | ~7,023 |
+| Jumbo Keyring | 1.00% | ~7,023 |
+| Max Headroom | 1.00% | ~7,023 |
+| Go, Bobcats! | 1.00% | ~7,023 |
+| Rising Star | 1.00% | ~7,023 |
+| Internet Famous | 0.90% | ~6,321 |
 | On Safari | 0.80% | ~5,618 |
 | Not Even My Final Form | 0.80% | ~5,618 |
 | Make it So | 0.70% | ~4,916 |
 | Variety is the Spice of Death | 0.70% | ~4,916 |
-| LA Influential | 0.60% | ~4,213 |
-| Gore Horse | 0.60% | ~4,213 |
+| LA Influential | 0.60% | ~4,214 |
+| Gore Horse | 0.60% | ~4,214 |
 | Sole Survivor | 0.50% | ~3,511 |
 | Sharpest Tool in the Box | 0.50% | ~3,511 |
 | Survival Skills | 0.40% | ~2,809 |
-| Donk! | 0.20% | ~1,404 |
+| Donk! | 0.20% | ~1,405 |
 | Bucket List | 0.10% | ~702 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,248 (Ranked 22)  
+Progressed: 702,286 (Ranked 22)  
 Completed: 2,249 (0.32%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 2,249 (0.32%) (Ranked 206)
 | 2023-10-20 | 699,491 | 2,239 |
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
-| 2023-10-23 | 702,248 | 2,249 |
+| 2023-10-23 | 702,286 | 2,249 |
 ## Awards
 Max (Great Boss Battles): 6,571  (Ranked 57)  
-Sum: 9,864 (Ranked 91)  
+Sum: 9,866 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -34
 | This game is Great for Beginners | 472 |
 | This game has Diverse Characters | 463 |
 | This game has Quickly Understood Controls | 434 |
-| This game is Relaxing | 417 |
+| This game is Relaxing | 419 |
 | This game has Amazing Storytelling | 393 |
 | This game is Highly Recommended | 380 |
 | This game is Extremely Fun | 372 |
@@ -441,4 +441,4 @@ Diff (max vs sum): -34
 | 2023-10-20 | 4.54 | 6,509 | 9,763 |
 | 2023-10-21 | 4.54 | 6,526 | 9,785 |
 | 2023-10-22 | 4.54 | 6,549 | 9,831 |
-| 2023-10-23 | 4.54 | 6,571 | 9,864 |
+| 2023-10-23 | 4.54 | 6,571 | 9,866 |

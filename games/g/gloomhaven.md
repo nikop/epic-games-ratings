@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,687 |
-| Overkill | 35.00% | ~5,443 |
-| A normal day in Gloomhaven | 34.00% | ~5,287 |
-| Vaccine Incoming | 33.00% | ~5,132 |
-| Spread the plague | 30.00% | ~4,665 |
-| Get over here! | 24.00% | ~3,732 |
-| Just when I thought I was out... | 19.00% | ~2,955 |
-| Mine... All Mine... | 17.00% | ~2,644 |
-| Precious! | 16.00% | ~2,488 |
-| Light of my life | 15.00% | ~2,333 |
-| Anatomy Lesson | 15.00% | ~2,333 |
-| Grizzled veteran | 14.00% | ~2,177 |
-| You activated my trap card! | 13.00% | ~2,022 |
-| Obstacle race | 13.00% | ~2,022 |
-| Augmented rat | 12.00% | ~1,866 |
-| Doom and gloom | 11.00% | ~1,711 |
+| I'm not dead yet | 43.00% | ~6,691 |
+| Overkill | 35.00% | ~5,446 |
+| A normal day in Gloomhaven | 34.00% | ~5,291 |
+| Vaccine Incoming | 33.00% | ~5,135 |
+| Spread the plague | 30.00% | ~4,668 |
+| Get over here! | 24.00% | ~3,735 |
+| Just when I thought I was out... | 19.00% | ~2,957 |
+| Mine... All Mine... | 17.00% | ~2,645 |
+| Precious! | 16.00% | ~2,490 |
+| Light of my life | 15.00% | ~2,334 |
+| Anatomy Lesson | 15.00% | ~2,334 |
+| Grizzled veteran | 14.00% | ~2,179 |
+| You activated my trap card! | 13.00% | ~2,023 |
+| Obstacle race | 13.00% | ~2,023 |
+| Augmented rat | 12.00% | ~1,867 |
+| Doom and gloom | 11.00% | ~1,712 |
 | Who's the Boss? | 9.00% | ~1,400 |
-| Dungeon Veteran | 8.00% | ~1,244 |
-| Pack leader | 8.00% | ~1,244 |
-| Pain is your friend | 8.00% | ~1,244 |
-| Black death | 8.00% | ~1,244 |
-| Play it again, Sam | 8.00% | ~1,244 |
-| Quad damage | 6.00% | ~933 |
+| Dungeon Veteran | 8.00% | ~1,245 |
+| Pack leader | 8.00% | ~1,245 |
+| Pain is your friend | 8.00% | ~1,245 |
+| Black death | 8.00% | ~1,245 |
+| Play it again, Sam | 8.00% | ~1,245 |
+| Quad damage | 6.00% | ~934 |
 | Power Up! | 5.00% | ~778 |
 | Pretty lights! | 5.00% | ~778 |
 | Now you see me... | 5.00% | ~778 |
@@ -60,15 +60,15 @@ Number of Ratings: 68  (23.09.2022)
 | The Cartographer | 0.20% | ~31 |
 | The Jaws of victory! | 0.20% | ~31 |
 | Crimson Tornado | 0.20% | ~31 |
+| Murder Death Kill | 0.20% | ~31 |
 | A cult following | 0.10% | ~16 |
 | Over your dead body | 0.10% | ~16 |
 | The Guildmaster | 0.10% | ~16 |
 | Lara Who? | 0.10% | ~16 |
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
-| Murder Death Kill | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,551 (Ranked 138)  
+Progressed: 15,561 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.01%) (Ranked 302)
 | 2023-10-20 | 14,770 | 1 |
 | 2023-10-21 | 15,077 | 1 |
 | 2023-10-22 | 15,407 | 1 |
-| 2023-10-23 | 15,551 | 1 |
+| 2023-10-23 | 15,561 | 1 |
 ## Awards
 Max (Character Customization): 3,558  (Ranked 90)  
 Sum: 8,310 (Ranked 98)  

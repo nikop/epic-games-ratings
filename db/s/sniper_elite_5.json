@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3768,
+  "EOS_Progressed": 3769,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7410,6 +7410,11 @@
       "Time": "2023-10-23T00:04:11.7075291+00:00",
       "NumProgressed": 3768,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-23T15:04:11.0219147+00:00",
+      "NumProgressed": 3769,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7629,7 +7634,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7645,7 +7650,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7669,7 +7674,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7829,7 +7834,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7988,13 +7993,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3719,
+      "Progressed": 3720,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3768,
+      "Progressed": 3769,
       "Completed": 11
     }
   ],
@@ -8002,8 +8007,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:04:07.9387749+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:04:11.021914+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:03:08.8870384+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:04:07.9388828+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:03:13.3479656+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:04:11.0220231+00:00"
 }

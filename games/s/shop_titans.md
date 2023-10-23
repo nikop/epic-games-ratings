@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 1.00% | ~1,380 |
 | Gem Expert | 1.00% | ~1,380 |
 | Gild-Gotten Goods | 1.00% | ~1,380 |
+| Helping Hand | 1.00% | ~1,380 |
 | One-Armed Bandit | 1.00% | ~1,380 |
 | Accomplished Merchant | 1.00% | ~1,380 |
 | Dungeon Imports | 1.00% | ~1,380 |
@@ -41,7 +42,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.90% | ~1,242 |
 | Power of Love | 0.90% | ~1,242 |
 | Flawless Fusion | 0.90% | ~1,242 |
-| Helping Hand | 0.90% | ~1,242 |
 | Natural 20 | 0.90% | ~1,242 |
 | Tax not Included | 0.80% | ~1,104 |
 | For the Hoard! | 0.80% | ~1,104 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,031 (Ranked 75)  
+Progressed: 138,032 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 172 (0.12%) (Ranked 246)
 | 2023-10-20 | 137,884 | 171 |
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
-| 2023-10-23 | 138,031 | 172 |
+| 2023-10-23 | 138,032 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,433 (Ranked 50)  

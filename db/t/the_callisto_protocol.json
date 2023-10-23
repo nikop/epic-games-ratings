@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16213,
+  "EOS_Progressed": 16215,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8007,6 +8007,11 @@
       "Time": "2023-10-23T14:05:24.0771527+00:00",
       "NumProgressed": 16213,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T15:05:37.5462271+00:00",
+      "NumProgressed": 16215,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8058,7 +8063,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -8393,13 +8398,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16213,
+      "Progressed": 16215,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4139,
+      "Progressed": 4141,
       "Completed": 29
     }
   ],
@@ -8407,8 +8412,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:05:24.077152+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:05:37.5462264+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:58:53.6736486+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:05:24.0772297+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:59:01.7589199+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:37.5463133+00:00"
 }

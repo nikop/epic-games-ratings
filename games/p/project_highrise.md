@@ -38,16 +38,16 @@
 | Smooth Operator | 14.00% | ~48 |
 | Boutique Benefits | 14.00% | ~48 |
 | Terrifically Trashed | 14.00% | ~48 |
-| Thrilled Tenants | 13.00% | ~44 |
+| Thrilled Tenants | 14.00% | ~48 |
 | Swimming in Surplus | 12.00% | ~41 |
 | Aestheticly Pleased | 11.00% | ~38 |
 | 28 Days Later | 11.00% | ~38 |
+| Plaza Plan | 10.00% | ~34 |
 | Master of Puppets | 10.00% | ~34 |
 | Refined Palates | 10.00% | ~34 |
 | First 100 Days | 9.00% | ~31 |
-| Plaza Plan | 9.00% | ~31 |
+| Water Features | 9.00% | ~31 |
 | Phoning It In | 9.00% | ~31 |
-| Water Features | 8.00% | ~27 |
 | Meet Me at HQ | 8.00% | ~27 |
 | Revenue Royalty | 8.00% | ~27 |
 | Golden Opportunity | 8.00% | ~27 |
@@ -55,12 +55,12 @@
 | Profound Proceeds | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
 | Pipe Up | 7.00% | ~24 |
+| Penthouse in the Sky | 6.00% | ~20 |
 | I'm Busy Ruling | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
 | Tuned In | 6.00% | ~20 |
 | It's a Gas | 6.00% | ~20 |
 | Meet ADA/360 | 5.00% | ~17 |
-| Penthouse in the Sky | 5.00% | ~17 |
 | Baron of Business | 5.00% | ~17 |
 | Decorator's Touch | 4.00% | ~14 |
 | Office Bigwigs | 4.00% | ~14 |
@@ -70,19 +70,19 @@
 | Luxury Boutiques | 3.00% | ~10 |
 | Four of a Kind | 3.00% | ~10 |
 | In the Money | 3.00% | ~10 |
+| Curated Class | 2.00% | ~7 |
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
 | Plebs Are Needed | 2.00% | ~7 |
 | Royal Flush | 2.00% | ~7 |
 | The King of Cool | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
-| Curated Class | 1.00% | ~3 |
 | Full House | 1.00% | ~3 |
 | Double Down | 1.00% | ~3 |
 | Such Great Heights | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
+| Artistic Largesse | 0.90% | ~3 |
 | Lofty Landlord | 0.90% | ~3 |
-| Artistic Largesse | 0.60% | ~2 |
 | High Hand | 0.60% | ~2 |
 | Poker Face | 0.60% | ~2 |
 | Scenario Master | 0.60% | ~2 |

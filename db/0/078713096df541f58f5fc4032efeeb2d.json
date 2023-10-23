@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -22,26 +22,298 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-23T15:05:23.4224522+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
+  "TotalAchievements": 33,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "creepytale3_ach_1",
+      "SetID": "7idcjbn",
+      "Name": "On the good path",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_10",
+      "SetID": "7idcjbn",
+      "Name": "Naughty girl",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_11",
+      "SetID": "7idcjbn",
+      "Name": "Dexterity",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_12",
+      "SetID": "7idcjbn",
+      "Name": "Exchange of pleasantries",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_14",
+      "SetID": "7idcjbn",
+      "Name": "Dinner is served!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_15",
+      "SetID": "7idcjbn",
+      "Name": "Bathing time!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_17",
+      "SetID": "7idcjbn",
+      "Name": "Pain lover",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_18",
+      "SetID": "7idcjbn",
+      "Name": "Imperceptible",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_19",
+      "SetID": "7idcjbn",
+      "Name": "A deal, there is a deal.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_2",
+      "SetID": "7idcjbn",
+      "Name": "Little evil",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_20",
+      "SetID": "7idcjbn",
+      "Name": "Voluntary sleep",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_21",
+      "SetID": "7idcjbn",
+      "Name": "Larva",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_22",
+      "SetID": "7idcjbn",
+      "Name": "Sadomasochist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_23",
+      "SetID": "7idcjbn",
+      "Name": "Who wrote this stuff?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_24",
+      "SetID": "7idcjbn",
+      "Name": "Boring book!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_26",
+      "SetID": "7idcjbn",
+      "Name": "Trap",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_27",
+      "SetID": "7idcjbn",
+      "Name": "Mimic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_3",
+      "SetID": "7idcjbn",
+      "Name": "Goodness",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_31",
+      "SetID": "7idcjbn",
+      "Name": "An insidious ritual",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_32",
+      "SetID": "7idcjbn",
+      "Name": "Classic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_33",
+      "SetID": "7idcjbn",
+      "Name": "To know everything",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_34",
+      "SetID": "7idcjbn",
+      "Name": "Harvest",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_35",
+      "SetID": "7idcjbn",
+      "Name": "Heartfelt conversations",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_36",
+      "SetID": "7idcjbn",
+      "Name": "Why are there so many keys here?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_37",
+      "SetID": "7idcjbn",
+      "Name": "Inspector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_38",
+      "SetID": "7idcjbn",
+      "Name": "Paranoia",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_39",
+      "SetID": "7idcjbn",
+      "Name": "Picklock style",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_4",
+      "SetID": "7idcjbn",
+      "Name": "Evil",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_5",
+      "SetID": "7idcjbn",
+      "Name": "Bloodthirsty",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_6",
+      "SetID": "7idcjbn",
+      "Name": "Let me sleep!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_7",
+      "SetID": "7idcjbn",
+      "Name": "Burn, little bird!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_8",
+      "SetID": "7idcjbn",
+      "Name": "Save mission",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creepytale3_ach_9",
+      "SetID": "7idcjbn",
+      "Name": "Curiosity",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:05:09.871166+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:05:23.4224516+00:00",
   "LastUpdate_AppInfo": "2023-10-18T02:14:21.9544369+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:03:07.9087832+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:05:09.8711695+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:03:09.4642428+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:05:23.4241236+00:00"
 }

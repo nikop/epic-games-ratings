@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 65.00% | ~15 |
-| Marc Allard | 65.00% | ~15 |
-| The Ship | 61.00% | ~14 |
-| Seeking the truth | 52.00% | ~12 |
-| An old friend | 48.00% | ~11 |
-| The Gala | 43.00% | ~10 |
-| A curious gathering | 43.00% | ~10 |
-| Little grey cells | 39.00% | ~9 |
-| Impossible is possible | 39.00% | ~9 |
-| The Missing Magdalene | 39.00% | ~9 |
-| Arthur Hastings | 39.00% | ~9 |
-| Everything matters | 30.00% | ~7 |
-| Order and method | 30.00% | ~7 |
-| An expert mediator | 26.00% | ~6 |
-| Betty Allen | 26.00% | ~6 |
-| DI Hardwicke | 26.00% | ~6 |
-| The Investigation Begins | 26.00% | ~6 |
+| Little ideas | 67.00% | ~16 |
+| Marc Allard | 67.00% | ~16 |
+| The Ship | 63.00% | ~15 |
+| Seeking the truth | 58.00% | ~14 |
+| An old friend | 54.00% | ~13 |
+| The Gala | 50.00% | ~12 |
+| A curious gathering | 50.00% | ~12 |
+| Arthur Hastings | 46.00% | ~11 |
+| Little grey cells | 42.00% | ~10 |
+| Impossible is possible | 42.00% | ~10 |
+| The Missing Magdalene | 38.00% | ~9 |
+| Everything matters | 29.00% | ~7 |
+| Order and method | 29.00% | ~7 |
+| An expert mediator | 25.00% | ~6 |
+| Betty Allen | 25.00% | ~6 |
+| DI Hardwicke | 25.00% | ~6 |
+| The Investigation Begins | 25.00% | ~6 |
 | An odd series of events | 17.00% | ~4 |
 | Ms. Camilla B. Culsham | 17.00% | ~4 |
 | Irene Court-Smyth | 17.00% | ~4 |
@@ -33,7 +33,7 @@
 | Zakariya Demir | 13.00% | ~3 |
 | Bartholomew | 13.00% | ~3 |
 | The Scheme | 13.00% | ~3 |
-| A curious phrase | 9.00% | ~2 |
+| A curious phrase | 8.00% | ~2 |
 | The Denouement | 4.00% | ~1 |
 | Well-travelled | 4.00% | ~1 |
 | A treasured heirloom | 4.00% | ~1 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 490)  
+Progressed: 24 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,3 +74,4 @@ Completed: 0 (0.00%) (Ranked 321)
 | 2023-10-19 | 21 | 0 |
 | 2023-10-20 | 22 | 0 |
 | 2023-10-22 | 23 | 0 |
+| 2023-10-23 | 24 | 0 |

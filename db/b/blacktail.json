@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2023-10-21T23:06:13.0488366+00:00",
       "NumProgressed": 712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T15:07:19.7865242+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2051,7 +2056,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "DevilDetail",
@@ -2091,7 +2096,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FisherKing",
@@ -2211,7 +2216,7 @@
       "Name": "Specialist",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SpringCleaning",
@@ -2282,7 +2287,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 1
     }
   ],
@@ -2290,8 +2295,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:07:16.9158837+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:07:19.7865234+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:40.2482169+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:57:26.0237319+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:07:16.9159142+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:57:27.4831632+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:07:19.7865603+00:00"
 }

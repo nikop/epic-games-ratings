@@ -254,9 +254,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -758,9 +758,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-23T14:06:21.8444193+00:00",
+  "LastChanged_Achievements": "2023-10-23T15:06:34.7513532+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:57:31.5889057+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:06:21.8444909+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:57:35.4046012+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:06:34.7514395+00:00"
 }

@@ -1,9 +1,9 @@
 {
   "ID": "973dc60bbab8494bafcc69fd0542364a",
   "Name": "Far Cry New Dawn - Ultimate",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:31.5546242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:58:12.3944294+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:05:49.1385033+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:58:22.8637439+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:06:12.3944107+00:00"
 }

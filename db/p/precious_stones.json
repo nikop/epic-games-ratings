@@ -2,9 +2,9 @@
   "ID": "692ca29a406d401da60eec91bc07ba37",
   "Name": "Precious Stones",
   "ProductSlug": "precious-stones-ab13c8",
-  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-07-23T03:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-23T14:58:01.0421796+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:27.9876888+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:57:54.210861+00:00",
-  "LastUpdate_Achievements": "2023-10-23T14:06:12.2031296+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:58:03.9653988+00:00",
+  "LastUpdate_Achievements": "2023-10-23T15:06:25.0631213+00:00"
 }
