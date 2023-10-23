@@ -8,7 +8,7 @@
 | Goblin Tales | 31.00% | ~141 |
 | Bug Hunter | 25.00% | ~114 |
 | Boss Killer | 24.00% | ~109 |
-| The Fallen | 21.00% | ~96 |
+| The Fallen | 22.00% | ~100 |
 | Artifact Collector | 20.00% | ~91 |
 | Trap Master | 20.00% | ~91 |
 | Ghost Buster | 16.00% | ~73 |
@@ -46,7 +46,7 @@
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 456 (Ranked 285)  
-Completed: 0 (0.00%) (Ranked 319)  
+Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

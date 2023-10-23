@@ -3,9 +3,9 @@
   "Name": "Redout: Solar Challenge Edition",
   "ProductSlug": "redout-solar-challenge-edition",
   "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:46.6616324+00:00",
   "LastChanged": "2023-03-31T05:58:46.6616325+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:25.015948+00:00",
-  "LastUpdate_Ratings": "2023-10-23T00:01:41.9225081+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:03:47.7748386+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:44:33.1083177+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:47:05.7832719+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Airoheart",
   "ProductSlug": "airoheart-247d10",
   "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-30T09:00:00+00:00",
     "PcReleaseDate": "2022-09-30T09:00:00+00:00",
@@ -284,8 +284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.3597233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:39.6384536+00:00",
   "LastChanged": "2023-03-31T05:58:43.3597234+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:09:47.256962+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:53:01.6514628+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.0843575+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:57:19.5790566+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:09:47.2569767+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:40:51.5539871+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:53:01.651478+00:00"
 }

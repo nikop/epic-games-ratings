@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-10-22T20:03:15.6837525+00:00",
       "NumProgressed": 454,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-23T01:46:40.7390287+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1345,7 +1350,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_eou7",
@@ -1383,9 +1388,9 @@
       "ID": "ACH_rogue",
       "SetID": "51of0eo",
       "Name": "Anti-Gravity",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_xatrix",
@@ -1400,14 +1405,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:03:30.1099939+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:46:40.7390282+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:58:06.1149344+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:03:30.1100127+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:41:30.8985569+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:46:40.7390484+00:00"
 }

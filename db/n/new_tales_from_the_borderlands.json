@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3677,
+  "EOS_Progressed": 3678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1687,6 +1687,11 @@
       "Time": "2023-10-20T12:04:11.6813538+00:00",
       "NumProgressed": 3677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T01:48:39.4636015+00:00",
+      "NumProgressed": 3678,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1698,7 +1703,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1736,9 +1741,9 @@
       "ID": "FIND_FIRST_VAULTLANDER",
       "SetID": "kakdpn",
       "Name": "Each Sold Separately",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1361
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1746,7 +1751,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1754,7 +1759,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1794,7 +1799,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1810,7 +1815,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1818,7 +1823,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1834,7 +1839,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1905,7 +1910,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3677,
+      "Progressed": 3678,
       "Completed": 0
     }
   ],
@@ -1913,8 +1918,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:05:40.9552559+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:48:39.4636009+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.4367282+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:58:34.487131+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:05:40.9552791+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:41:57.0591+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:48:39.4636218+00:00"
 }

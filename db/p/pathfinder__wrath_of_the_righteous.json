@@ -6,9 +6,9 @@
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3909,10 +3909,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6999,
       "NumberOfAwardsMax": 1728
+    },
+    {
+      "Time": "2023-10-23T01:42:55.5566122+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7000,
+      "NumberOfAwardsMax": 1728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6999,
+  "NumberOfAwards": 7000,
   "NumberOfAwardsMax": 1728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3980,12 +3986,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 389
+      "Count": 390
     }
   ],
-  "EOS_Progressed": 11710,
+  "EOS_Progressed": 11714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14108,6 +14114,11 @@
       "Time": "2023-10-23T00:09:47.9707431+00:00",
       "NumProgressed": 11710,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T01:53:02.2584994+00:00",
+      "NumProgressed": 11714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14135,7 +14146,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "04_FithCrusade",
@@ -14159,7 +14170,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "07_FinalThreshold",
@@ -14255,7 +14266,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "19_EqualToAroden",
@@ -14303,7 +14314,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14319,7 +14330,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "28_GreatUpstart",
@@ -14351,7 +14362,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14359,7 +14370,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "33_DefendersHeart",
@@ -14367,7 +14378,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14487,7 +14498,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2109
     },
     {
       "ID": "49_Flame",
@@ -14495,7 +14506,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14551,7 +14562,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "57_PathOfDevil",
@@ -15046,21 +15057,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10492,
+      "Progressed": 10496,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11710,
+      "Progressed": 11714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-22T19:59:43.1041116+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:09:47.9707425+00:00",
+  "LastChanged": "2023-10-23T01:42:55.556612+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:53:02.2584988+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:59:47.1375483+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:09:47.9709235+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:42:55.5566126+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:53:02.2586784+00:00"
 }

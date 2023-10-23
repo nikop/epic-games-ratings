@@ -10,13 +10,13 @@ Rating: 4.76 (Ranked 120)
 | Troll with the Punches | 13.00% | ~38,833 |
 | A Keen Sense of Spell | 12.00% | ~35,846 |
 | That's a Keeper | 12.00% | ~35,846 |
-| Grappling with a Graphorn | 11.00% | ~32,858 |
-| The One Who Mastered Memories | 11.00% | ~32,858 |
-| The Hallowed Hero | 11.00% | ~32,858 |
-| The Defender of Dragons | 11.00% | ~32,858 |
-| Loom for Improvement | 11.00% | ~32,858 |
-| A Talent for Spending | 11.00% | ~32,858 |
-| Coasting Along | 11.00% | ~32,858 |
+| Grappling with a Graphorn | 11.00% | ~32,859 |
+| The One Who Mastered Memories | 11.00% | ~32,859 |
+| The Hallowed Hero | 11.00% | ~32,859 |
+| The Defender of Dragons | 11.00% | ~32,859 |
+| Loom for Improvement | 11.00% | ~32,859 |
+| A Talent for Spending | 11.00% | ~32,859 |
+| Coasting Along | 11.00% | ~32,859 |
 | The Hero of Hogwarts | 10.00% | ~29,871 |
 | Challenge Accepted | 10.00% | ~29,871 |
 | Followed the Butterflies | 10.00% | ~29,871 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,713 (Ranked 48)  
-Completed: 491 (0.16%) (Ranked 236)  
+Progressed: 298,714 (Ranked 48)  
+Completed: 491 (0.16%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,10 +237,10 @@ Completed: 491 (0.16%) (Ranked 236)
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
 | 2023-10-22 | 298,711 | 491 |
-| 2023-10-23 | 298,713 | 491 |
+| 2023-10-23 | 298,714 | 491 |
 ## Awards
 Max (Character Customization): 23,719  (Ranked 17)  
-Sum: 46,414 (Ranked 30)  
+Sum: 46,418 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,154 |
 | This game has Amazing Characters | 1,125 |
 | This game is Highly Recommended | 1,091 |
-| This game has Quickly Understood Controls | 1,040 |
+| This game has Quickly Understood Controls | 1,044 |
 | This game has Beautiful Visuals | 960 |
 | This game has a Creative Community | 736 |
 ## Ratings History
@@ -472,3 +472,4 @@ Diff (max vs sum): -13
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
 | 2023-10-22 | 4.76 | 23,719 | 46,414 |
+| 2023-10-23 | 4.76 | 23,719 | 46,418 |

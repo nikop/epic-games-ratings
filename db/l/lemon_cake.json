@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "LC-05",
       "SetID": "ap2ljl4",
       "Name": "Apprentice Baker",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LC-06",
@@ -394,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:08:04.5436608+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:51:01.9843728+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:49.4632212+00:00",
-  "LastUpdate_Ratings": "2023-10-23T00:03:01.8809154+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:08:04.5436717+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:46:17.9359244+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:51:01.984386+00:00"
 }

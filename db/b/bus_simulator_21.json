@@ -3,9 +3,9 @@
   "Name": "Bus Simulator 21 Next Stop",
   "ProductSlug": "bus-simulator-21",
   "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-16T15:00:00+00:00",
     "PcReleaseDate": "2021-09-07T15:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-17T13:59:43.1546181+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:48.0925456+00:00",
-  "LastUpdate_Ratings": "2023-10-23T00:00:45.9703472+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:05:52.9519454+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:43:46.8628188+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:48:49.7123584+00:00"
 }

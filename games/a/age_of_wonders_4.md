@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 403)
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,235 (Ranked 175)  
-Completed: 6 (0.11%) (Ranked 249)  
+Completed: 6 (0.11%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

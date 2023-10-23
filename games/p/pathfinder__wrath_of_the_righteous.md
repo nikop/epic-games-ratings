@@ -7,12 +7,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,928 |
-| A Spark | 18.00% | ~2,108 |
+| A Spark | 18.00% | ~2,109 |
 | Burning City | 17.00% | ~1,991 |
-| Defender's Heart | 15.00% | ~1,756 |
-| Mythic Choices | 14.00% | ~1,639 |
-| Banner over the Citadel | 13.00% | ~1,522 |
-| Queen's Gratitude | 12.00% | ~1,405 |
+| Defender's Heart | 15.00% | ~1,757 |
+| Mythic Choices | 14.00% | ~1,640 |
+| Banner over the Citadel | 13.00% | ~1,523 |
+| Queen's Gratitude | 12.00% | ~1,406 |
 | Fifth Crusade | 8.00% | ~937 |
 | Embrace of the Abyss | 6.00% | ~703 |
 | Path of the Angel | 6.00% | ~703 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~586 |
 | All Paths Open | 5.00% | ~586 |
 | Next-Door Play | 5.00% | ~586 |
-| Heart of the Fallen Land | 4.00% | ~468 |
-| The Legacy | 4.00% | ~468 |
-| Divide and Rule | 4.00% | ~468 |
-| Mythic Reinforcements | 4.00% | ~468 |
-| A Flame | 4.00% | ~468 |
-| Get the Toad | 4.00% | ~468 |
+| Heart of the Fallen Land | 4.00% | ~469 |
+| The Legacy | 4.00% | ~469 |
+| Divide and Rule | 4.00% | ~469 |
+| Mythic Reinforcements | 4.00% | ~469 |
+| A Flame | 4.00% | ~469 |
+| Get the Toad | 4.00% | ~469 |
 | Path of the Trickster | 3.00% | ~351 |
 | Heroic Victory | 3.00% | ~351 |
 | Core of the Riddle | 3.00% | ~351 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,710 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 319)  
+Progressed: 11,714 (Ranked 146)  
+Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,10 +309,10 @@ Completed: 0 (0.00%) (Ranked 319)
 | 2023-10-20 | 11,639 | 0 |
 | 2023-10-21 | 11,674 | 0 |
 | 2023-10-22 | 11,709 | 0 |
-| 2023-10-23 | 11,710 | 0 |
+| 2023-10-23 | 11,714 | 0 |
 ## Awards
 Max (Character Customization): 1,728  (Ranked 120)  
-Sum: 6,999 (Ranked 117)  
+Sum: 7,000 (Ranked 117)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -325,7 +325,7 @@ Diff (max vs sum): 3
 | This game has Challenging Combat | 582 |
 | This game has Quickly Understood Controls | 574 |
 | This game is Relaxing | 551 |
-| This game has a Creative Community | 389 |
+| This game has a Creative Community | 390 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -572,3 +572,4 @@ Diff (max vs sum): 3
 | 2023-10-20 | 4.76 | - | 1,726 | 6,995 |
 | 2023-10-21 | 4.76 | - | 1,726 | 6,997 |
 | 2023-10-22 | 4.76 | - | 1,728 | 6,999 |
+| 2023-10-23 | 4.76 | - | 1,728 | 7,000 |

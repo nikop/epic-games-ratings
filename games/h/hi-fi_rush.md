@@ -50,8 +50,8 @@ Rating: 4.85 (Ranked 42)
 | You ever parry a volcano? | 1.00% | ~42 |
 | New bad guys? No problem! | 0.90% | ~24 |
 | OK, well THEY came after ME! | 0.70% | ~29 |
+| Easy Listening | 0.60% | ~25 |
 | Choose your own adventure | 0.60% | ~16 |
-| Easy Listening | 0.50% | ~21 |
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |
 | And the crowd goes wild! | 0.30% | ~12 |
@@ -78,7 +78,7 @@ Rating: 4.85 (Ranked 42)
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,164 (Ranked 181)  
-Completed: 8 (0.19%) (Ranked 228)  
+Completed: 8 (0.19%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

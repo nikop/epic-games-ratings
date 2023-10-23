@@ -34,7 +34,7 @@ Number of Ratings: 425  (23.09.2022)
 | Clothesline | 17.00% | ~4,844 |
 | Say Cheese! | 15.00% | ~4,274 |
 | Sundae Best | 14.00% | ~3,989 |
-| Live Laugh Hut | 8.00% | ~2,279 |
+| Live Laugh Hut | 9.00% | ~2,564 |
 | Dapper Capper | 7.00% | ~1,994 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28,492 (Ranked 118)  

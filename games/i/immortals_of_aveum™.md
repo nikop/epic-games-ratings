@@ -53,7 +53,7 @@ Rating: 3.98 (Ranked 979)
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 401)  
+Progressed: 95 (Ranked 402)  
 Completed: 1 (1.05%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |

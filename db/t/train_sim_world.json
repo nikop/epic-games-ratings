@@ -2,9 +2,9 @@
   "ID": "trainsimworld",
   "Name": "Train Sim World",
   "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:23.3958427+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:57:23.5814711+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:06:56.9578638+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:40:55.1077101+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:49:44.0487463+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12108,10 +12108,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 30849,
       "NumberOfAwardsMax": 3739
+    },
+    {
+      "Time": "2023-10-23T01:41:29.3276014+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 30854,
+      "NumberOfAwardsMax": 3739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30849,
+  "NumberOfAwards": 30854,
   "NumberOfAwardsMax": 3739,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12125,7 +12131,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3257
+      "Count": 3262
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -12199,8 +12205,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-10-22T23:58:04.5269802+00:00",
+  "LastChanged": "2023-10-23T01:41:29.3276012+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.2178458+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:58:04.5269807+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:09:37.1693747+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:41:29.3276018+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:52:43.0901699+00:00"
 }

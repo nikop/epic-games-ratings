@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -13988,9 +13988,9 @@
       "Count": 11271
     }
   ],
-  "EOS_Progressed": 893400,
-  "EOS_Completed": 2700,
-  "EOS_NewPlayers": 1286,
+  "EOS_Progressed": 893401,
+  "EOS_Completed": 2701,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -34993,6 +34993,11 @@
       "Time": "2023-10-23T00:06:22.0622104+00:00",
       "NumProgressed": 893400,
       "NumCompleted": 2700
+    },
+    {
+      "Time": "2023-10-23T01:49:14.3103968+00:00",
+      "NumProgressed": 893401,
+      "NumCompleted": 2701
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35035,9 +35040,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "FollowingTheRiver",
@@ -35083,9 +35088,9 @@
       "ID": "Gunslinger",
       "SetID": "47clieb",
       "Name": "Gunslinger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "HandyMan",
@@ -35219,9 +35224,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 893
+      "UsersEstimate": 1787
     },
     {
       "ID": "TheHermit",
@@ -35315,9 +35320,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "UnderPressure",
@@ -35524,21 +35529,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893400,
-      "Completed": 2700
+      "Progressed": 893401,
+      "Completed": 2701
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22023,
+      "Progressed": 22024,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-22T23:59:34.2366058+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:06:22.0622098+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:49:14.3103962+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:59:34.2366064+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:06:22.062354+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:42:44.0724221+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:49:14.3105372+00:00"
 }

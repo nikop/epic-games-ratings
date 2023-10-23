@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 85.00% | ~162 |
 | Caretaker | 84.00% | ~160 |
-| Feng Shui | 72.00% | ~137 |
+| Feng Shui | 73.00% | ~139 |
 | Who's A Good Boy | 71.00% | ~135 |
-| Power Up | 70.00% | ~133 |
+| Power Up | 71.00% | ~135 |
 | Thick Skin | 68.00% | ~129 |
 | Math Wizard | 66.00% | ~125 |
-| Destroy Erase Improve | 65.00% | ~124 |
-| Power Overload | 62.00% | ~118 |
-| Quite A Snack | 59.00% | ~112 |
+| Destroy Erase Improve | 66.00% | ~125 |
+| Power Overload | 63.00% | ~120 |
+| Quite A Snack | 60.00% | ~114 |
 | Impenetrable Skin | 57.00% | ~108 |
 | Overwhelming Power | 55.00% | ~105 |
 | Chomp Chomp! | 46.00% | ~87 |
@@ -59,7 +59,7 @@
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 190 (Ranked 351)  
-Completed: 1 (0.53%) (Ranked 178)  
+Completed: 1 (0.53%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

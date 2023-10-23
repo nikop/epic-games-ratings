@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-10-21T09:08:15.8944177+00:00",
       "NumProgressed": 445,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-23T01:52:21.8794651+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -531,7 +536,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "dep4_achievement_10",
@@ -587,7 +592,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "dep4_achievement_17",
@@ -603,7 +608,7 @@
       "Name": "Chunky",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "dep4_achievement_19",
@@ -617,9 +622,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 281
     },
     {
       "ID": "dep4_achievement_20",
@@ -691,7 +696,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_29",
@@ -707,15 +712,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 165
     },
     {
       "ID": "dep4_achievement_31",
@@ -755,7 +760,7 @@
       "Name": "Paradox!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "dep4_achievement_36",
@@ -763,7 +768,7 @@
       "Name": "Blast from the Past",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "dep4_achievement_4",
@@ -779,7 +784,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "dep4_achievement_6",
@@ -787,7 +792,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "dep4_achievement_7",
@@ -818,7 +823,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 6
     }
   ],
@@ -826,8 +831,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:09:12.7595284+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:52:21.8794642+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.3198354+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:58:22.2903721+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:09:12.7595537+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:41:46.7333958+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:52:21.8794893+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -787,7 +787,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10660,
+  "EOS_Progressed": 10661,
   "EOS_Completed": 61,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
@@ -11697,6 +11697,11 @@
       "Time": "2023-10-23T00:06:31.4843891+00:00",
       "NumProgressed": 10660,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2023-10-23T01:49:22.2698267+00:00",
+      "NumProgressed": 10661,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 34,
@@ -11812,7 +11817,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "ACH15",
@@ -11979,7 +11984,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10660,
+      "Progressed": 10661,
       "Completed": 61
     }
   ],
@@ -11987,8 +11992,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:06:31.4843886+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:49:22.2698261+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-23T00:00:39.5531192+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:06:31.4844594+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:43:42.8944266+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:49:22.2698949+00:00"
 }

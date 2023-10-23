@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12850,
+  "EOS_Progressed": 12852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12719,6 +12719,11 @@
       "Time": "2023-10-23T00:04:55.0375617+00:00",
       "NumProgressed": 12850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T01:48:00.0055621+00:00",
+      "NumProgressed": 12852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12754,7 +12759,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -12802,7 +12807,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -12929,14 +12934,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12850,
+      "Progressed": 12852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-23T00:04:55.037561+00:00",
+  "LastChanged_Achievements": "2023-10-23T01:48:00.0055617+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3039299+00:00",
-  "LastUpdate_Ratings": "2023-10-22T23:57:51.8515527+00:00",
-  "LastUpdate_Achievements": "2023-10-23T00:04:55.0376394+00:00"
+  "LastUpdate_Ratings": "2023-10-23T01:41:19.0780007+00:00",
+  "LastUpdate_Achievements": "2023-10-23T01:48:00.0056333+00:00"
 }
