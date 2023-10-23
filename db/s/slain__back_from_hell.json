@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39008,
+  "EOS_Progressed": 39010,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
@@ -20628,6 +20628,11 @@
       "Time": "2023-10-23T07:05:46.83344+00:00",
       "NumProgressed": 39008,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-23T09:05:40.504709+00:00",
+      "NumProgressed": 39010,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20639,7 +20644,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5851
+      "UsersEstimate": 5852
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20791,7 +20796,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -20799,7 +20804,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -20870,7 +20875,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39008,
+      "Progressed": 39010,
       "Completed": 26
     }
   ],
@@ -20878,8 +20883,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:06:00.7989498+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:05:40.5047085+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:57:27.2459877+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:06:00.7990997+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:57:16.1059291+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:05:40.504853+00:00"
 }

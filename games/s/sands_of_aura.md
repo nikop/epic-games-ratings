@@ -8,6 +8,7 @@
 | Leisis Bless You | 18.00% | ~2 |
 | Spirit Within | 18.00% | ~2 |
 | A Small Thirsty Thing | 9.00% | ~1 |
+| Smotherly Love | 9.00% | ~1 |
 | Let Me Solo Them | 9.00% | ~1 |
 | Dousing a Venerable Flame | 9.00% | ~1 |
 | The River Styx | 9.00% | ~1 |
@@ -37,7 +38,6 @@
 | A Supreme Kindness | 0.00% | ~0 |
 | Redeemer | 0.00% | ~0 |
 | Divine Guidance | 0.00% | ~0 |
-| Smotherly Love | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
 | Explorer | 0.00% | ~0 |
 | A Girl From Husker | 0.00% | ~0 |

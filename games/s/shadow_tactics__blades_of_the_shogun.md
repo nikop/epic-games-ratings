@@ -22,9 +22,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~12,571 |
 | Mugen Unchained | 6.00% | ~12,571 |
 | Warzone | 6.00% | ~12,571 |
-| Okkoto | 5.00% | ~10,475 |
-| Prisoners | 5.00% | ~10,475 |
-| Too Early | 5.00% | ~10,475 |
+| Okkoto | 5.00% | ~10,476 |
+| Prisoners | 5.00% | ~10,476 |
+| Too Early | 5.00% | ~10,476 |
 | Gear up | 4.00% | ~8,380 |
 | Happy little accidents | 4.00% | ~8,380 |
 | Still Rollin' | 4.00% | ~8,380 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~210 |
 | Release the Kraken | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,509 (Ranked 66)  
+Progressed: 209,511 (Ranked 66)  
 Completed: 91 (0.04%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 91 (0.04%) (Ranked 282)
 | 2023-10-20 | 208,934 | 91 |
 | 2023-10-21 | 209,182 | 91 |
 | 2023-10-22 | 209,442 | 91 |
-| 2023-10-23 | 209,509 | 91 |
+| 2023-10-23 | 209,511 | 91 |
 ## Awards
 Max (Great for Beginners): 568  (Ranked 197)  
 Sum: 4,803 (Ranked 139)  

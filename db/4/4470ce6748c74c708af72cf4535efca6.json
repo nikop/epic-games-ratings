@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:04:58.7558479+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:04:39.9579227+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3050525+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:58:46.9252631+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:04:58.7559205+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:58:34.9205962+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:04:39.9579936+00:00"
 }

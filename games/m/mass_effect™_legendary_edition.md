@@ -55,11 +55,11 @@
 | Battlemaster | 32.00% | ~252 |
 | Catharsis | 32.00% | ~252 |
 | The Cure | 32.00% | ~252 |
+| Big Game Hunter | 32.00% | ~252 |
 | Revenge! | 32.00% | ~252 |
 | Heart of Darkness | 32.00% | ~252 |
 | Shopaholic | 32.00% | ~252 |
 | Fade Away | 31.00% | ~244 |
-| Big Game Hunter | 31.00% | ~244 |
 | Agent | 31.00% | ~244 |
 | Driven | 31.00% | ~244 |
 | Focused | 30.00% | ~236 |

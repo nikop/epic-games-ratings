@@ -5575,18 +5575,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 9834,
       "NumberOfAwardsMax": 6549
+    },
+    {
+      "Time": "2023-10-23T09:03:05.4169189+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9856,
+      "NumberOfAwardsMax": 6571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9834,
-  "NumberOfAwardsMax": 6549,
+  "NumberOfAwards": 9856,
+  "NumberOfAwardsMax": 6571,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6549
+      "Count": 6571
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5637,10 +5643,10 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 702064,
-  "EOS_Completed": 2247,
-  "EOS_NewPlayers": 5504,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 702080,
+  "EOS_Completed": 2248,
+  "EOS_NewPlayers": 5510,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -26747,6 +26753,11 @@
       "Time": "2023-10-23T08:03:41.3903492+00:00",
       "NumProgressed": 702064,
       "NumCompleted": 2247
+    },
+    {
+      "Time": "2023-10-23T09:03:23.9791311+00:00",
+      "NumProgressed": 702080,
+      "NumCompleted": 2248
     }
   ],
   "TotalAchievements": 45,
@@ -26766,7 +26777,7 @@
       "Name": "Making Your Mark",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_ammo_ran",
@@ -26782,7 +26793,7 @@
       "Name": "Anger Management",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -26790,7 +26801,7 @@
       "Name": "Make it So",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "ach_big_name_in_town",
@@ -26806,7 +26817,7 @@
       "Name": "Perks of the Job",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_bookworm",
@@ -26838,7 +26849,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -26974,7 +26985,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_magnum_opus",
@@ -26998,7 +27009,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_revival_tour",
@@ -27006,7 +27017,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_salvation",
@@ -27014,7 +27025,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_secrets_of_la",
@@ -27070,7 +27081,7 @@
       "Name": "Our True Nature",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -27086,7 +27097,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -27094,7 +27105,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35103
+      "UsersEstimate": 35104
     },
     {
       "ID": "ach_well_known_survivor",
@@ -27117,22 +27128,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 702064,
-      "Completed": 2247
+      "Progressed": 702080,
+      "Completed": 2248
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 27606,
-      "Completed": 27606
+      "Progressed": 27622,
+      "Completed": 27622
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-23T03:02:26.483564+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:03:41.3903488+00:00",
+  "LastChanged": "2023-10-23T09:03:05.4169187+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:03:23.9791306+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-23T08:03:24.5673251+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:03:41.3904961+00:00"
+  "LastUpdate_Ratings": "2023-10-23T09:03:05.4169195+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:03:23.9792953+00:00"
 }

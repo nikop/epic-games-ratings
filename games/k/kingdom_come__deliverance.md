@@ -6,21 +6,21 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,841 |
-| Cavalier | 25.00% | ~201,438 |
-| Fatso | 23.00% | ~185,323 |
-| Awakening | 21.00% | ~169,208 |
+| Blacksmith's Son | 32.00% | ~257,842 |
+| Cavalier | 25.00% | ~201,439 |
+| Fatso | 23.00% | ~185,324 |
+| Awakening | 21.00% | ~169,209 |
 | Ranger | 20.00% | ~161,151 |
 | Scrooge | 20.00% | ~161,151 |
 | Anorectic | 16.00% | ~128,921 |
 | Bookworm | 15.00% | ~120,863 |
 | Firestarter | 15.00% | ~120,863 |
 | Insomniac | 13.00% | ~104,748 |
-| Buddy | 12.00% | ~96,690 |
-| Thief | 12.00% | ~96,690 |
+| Buddy | 12.00% | ~96,691 |
+| Thief | 12.00% | ~96,691 |
 | Sinner | 11.00% | ~88,633 |
 | Traveller | 11.00% | ~88,633 |
-| Convict | 10.00% | ~80,575 |
+| Convict | 10.00% | ~80,576 |
 | Haggler | 9.00% | ~72,518 |
 | McLovin | 7.00% | ~56,403 |
 | Runt | 7.00% | ~56,403 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~806 |
 | Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,754 (Ranked 17)  
+Progressed: 805,755 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,18 +275,18 @@ Completed: 51 (0.01%) (Ranked 301)
 | 2023-10-20 | 805,466 | 51 |
 | 2023-10-21 | 805,590 | 51 |
 | 2023-10-22 | 805,730 | 51 |
-| 2023-10-23 | 805,754 | 51 |
+| 2023-10-23 | 805,755 | 51 |
 ## Awards
 Max (Character Customization): 7,538  (Ranked 50)  
-Sum: 28,051 (Ranked 48)  
+Sum: 28,052 (Ranked 48)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,538 |
 | This game has Great Boss Battles | 5,535 |
 | This game has Challenging Combat | 1,760 |
+| This game has Diverse Characters | 1,710 |
 | This game has Amazing Storytelling | 1,710 |
-| This game has Diverse Characters | 1,709 |
 | This game is Highly Recommended | 1,683 |
 | This game is Extremely Fun | 1,678 |
 | This game has Realistic Visuals | 1,657 |
@@ -566,4 +566,4 @@ Diff (max vs sum): 2
 | 2023-10-20 | 4.71 | - | 7,531 | 28,027 |
 | 2023-10-21 | 4.71 | - | 7,534 | 28,037 |
 | 2023-10-22 | 4.71 | - | 7,538 | 28,048 |
-| 2023-10-23 | 4.71 | - | 7,538 | 28,051 |
+| 2023-10-23 | 4.71 | - | 7,538 | 28,052 |

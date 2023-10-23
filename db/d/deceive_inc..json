@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18639,
+  "EOS_Progressed": 18640,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12150,6 +12150,11 @@
       "Time": "2023-10-23T08:05:11.7082857+00:00",
       "NumProgressed": 18639,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T09:04:52.6031724+00:00",
+      "NumProgressed": 18640,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12231,9 +12236,9 @@
       "ID": "0010",
       "SetID": "2n2feee",
       "Name": "Social of Solace",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 559
+      "UsersEstimate": 746
     },
     {
       "ID": "0011",
@@ -12289,7 +12294,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "0018",
@@ -12448,7 +12453,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18639,
+      "Progressed": 18640,
       "Completed": 4
     }
   ],
@@ -12456,8 +12461,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:05:11.7082848+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:04:52.603172+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:58:00.4778135+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:05:11.7083939+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:57:49.2286271+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:04:52.6032745+00:00"
 }

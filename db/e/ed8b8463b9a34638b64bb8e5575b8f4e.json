@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "who_is_d",
@@ -444,8 +444,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:05:48.8196054+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:05:28.7736587+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:58:17.4632516+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:05:48.8196255+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:58:06.5730158+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:05:28.773678+00:00"
 }

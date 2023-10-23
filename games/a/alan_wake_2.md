@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 72.00% | ~117 |
+| Nightmare Territory | 73.00% | ~119 |
 | Hunting Season | 61.00% | ~99 |
-| Bring It | 47.00% | ~77 |
+| Bring It | 48.00% | ~78 |
+| Grew Bigger | 48.00% | ~78 |
 | Coffee Thermos | 47.00% | ~77 |
-| Grew Bigger | 47.00% | ~77 |
-| Not the Last | 45.00% | ~73 |
-| Find the Light | 40.00% | ~65 |
-| Darkness Coiled | 40.00% | ~65 |
+| Not the Last | 47.00% | ~77 |
+| Darkness Coiled | 42.00% | ~68 |
+| Find the Light | 41.00% | ~67 |
+| Chased the Source | 38.00% | ~62 |
 | Somebody's Home | 37.00% | ~60 |
-| Chased the Source | 37.00% | ~60 |
 | Felt Good | 35.00% | ~57 |
-| Secret Stashes | 33.00% | ~54 |
-| Aimed Ahead | 32.00% | ~52 |
+| Secret Stashes | 34.00% | ~55 |
+| Aimed Ahead | 33.00% | ~54 |
+| Into the Overlap | 32.00% | ~52 |
 | Carry his Words | 31.00% | ~51 |
-| Into the Overlap | 31.00% | ~51 |
-| Lawman | 29.00% | ~47 |
+| Lawman | 30.00% | ~49 |
 | Filling the Shape | 29.00% | ~47 |
 | The Other Side | 29.00% | ~47 |
 | Greatest Hits | 28.00% | ~46 |
-| Talk Show | 27.00% | ~44 |
+| Talk Show | 28.00% | ~46 |
 | Lights Shining | 25.00% | ~41 |
-| Yippee Ki-yay | 23.00% | ~37 |
+| Yippee Ki-yay | 24.00% | ~39 |
 | Storm Cloud | 23.00% | ~37 |
 | New York City | 23.00% | ~37 |
 | Return | 23.00% | ~37 |

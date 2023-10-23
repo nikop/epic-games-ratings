@@ -4,7 +4,7 @@
   "ProductSlug": "sugar-shack-6791f8",
   "Ranking_EOS_Progress": 689,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:35.6413427+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:58:09.3492159+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:03:57.3038108+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:57:58.8262966+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:03:40.0867959+00:00"
 }

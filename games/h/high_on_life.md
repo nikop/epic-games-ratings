@@ -16,12 +16,12 @@ Rating: 4.65 (Ranked 305)
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
 | Hardest Battle In The Game | 1.00% | ~243 |
+| Self-Actualization | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
 | Lezduit! | 0.90% | ~219 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
-| Self-Actualization | 0.90% | ~219 |
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Spent 15 Hours At The Alien Strip Club | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.80% | ~195 |

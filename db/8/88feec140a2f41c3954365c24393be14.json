@@ -161,9 +161,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97479,
+  "EOS_Progressed": 97481,
   "EOS_Completed": 4145,
-  "EOS_NewPlayers": 2435,
+  "EOS_NewPlayers": 2433,
   "EOS_NewCompleters": 278,
   "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
@@ -4786,6 +4786,11 @@
       "Time": "2023-10-23T08:09:04.4717907+00:00",
       "NumProgressed": 97479,
       "NumCompleted": 4145
+    },
+    {
+      "Time": "2023-10-23T09:08:10.5966247+00:00",
+      "NumProgressed": 97481,
+      "NumCompleted": 4145
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -4798,7 +4803,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60437
+      "UsersEstimate": 60438
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -4814,7 +4819,7 @@
       "Name": "Gold Pact",
       "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 16571
+      "UsersEstimate": 16572
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -4830,7 +4835,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 52639
+      "UsersEstimate": 52640
     },
     {
       "ID": "ShipDip",
@@ -4846,7 +4851,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 73109
+      "UsersEstimate": 73111
     },
     {
       "ID": "TheGoldenRatio",
@@ -4862,7 +4867,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 56538
+      "UsersEstimate": 56539
     },
     {
       "ID": "WeCanDoBetter",
@@ -4870,7 +4875,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 75059
+      "UsersEstimate": 75060
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -4878,7 +4883,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 76034
+      "UsersEstimate": 76035
     },
     {
       "ID": "WelcomeAboard",
@@ -4886,14 +4891,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 76034
+      "UsersEstimate": 76035
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 97479,
+      "Progressed": 97481,
       "Completed": 4145
     }
   ],
@@ -4901,8 +4906,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-19T19:58:56.0723038+00:00",
-  "LastChanged_Achievements": "2023-10-23T08:09:04.4717904+00:00",
+  "LastChanged_Achievements": "2023-10-23T09:08:10.5966242+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.1265351+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:59:51.4500455+00:00",
-  "LastUpdate_Achievements": "2023-10-23T08:09:04.4718262+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:59:41.176879+00:00",
+  "LastUpdate_Achievements": "2023-10-23T09:08:10.5966626+00:00"
 }
