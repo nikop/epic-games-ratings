@@ -3413,9 +3413,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 279
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3796,8 +3796,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:14:27.1015259+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:09:06.6519777+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:06:13.063834+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:14:27.1015924+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:00:40.9521404+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:09:06.6520387+00:00"
 }

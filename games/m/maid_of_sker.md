@@ -8,9 +8,9 @@
 | Animal Lover | 34.00% | ~65 |
 | Don't Breathe | 31.00% | ~59 |
 | Smooth Operator | 17.00% | ~32 |
-| Easy Listening | 15.00% | ~28 |
+| Easy Listening | 16.00% | ~30 |
+| Rapturous Applause! | 15.00% | ~28 |
 | Perfect Harmony! | 14.00% | ~27 |
-| Rapturous Applause! | 14.00% | ~27 |
 | Wales Interactive | 10.00% | ~19 |
 | Chief Butler | 8.00% | ~15 |
 | Bull in a China Shop | 6.00% | ~11 |

@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 826,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 54,
@@ -465,7 +465,7 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 249977,
+  "EOS_Progressed": 249979,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 0,
@@ -21250,6 +21250,11 @@
       "Time": "2023-10-23T13:09:10.4954821+00:00",
       "NumProgressed": 249977,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T14:03:41.6366603+00:00",
+      "NumProgressed": 249979,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21477,7 +21482,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 59994
+      "UsersEstimate": 59995
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -21533,7 +21538,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17498
+      "UsersEstimate": 17499
     },
     {
       "ID": "ACH_MEMESMART",
@@ -21581,7 +21586,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62494
+      "UsersEstimate": 62495
     },
     {
       "ID": "ACH_SOREAD",
@@ -21676,7 +21681,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 249977,
+      "Progressed": 249979,
       "Completed": 7
     }
   ],
@@ -21684,8 +21689,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:09:10.4954813+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:03:41.6366597+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:08:05.8472188+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:09:10.4956567+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:02:03.5956764+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:03:41.6368203+00:00"
 }

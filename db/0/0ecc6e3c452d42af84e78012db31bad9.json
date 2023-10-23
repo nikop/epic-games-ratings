@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3613,
+  "EOS_Progressed": 3614,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8479,6 +8479,11 @@
       "Time": "2023-10-23T08:03:56.0466734+00:00",
       "NumProgressed": 3613,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-23T14:03:53.5272255+00:00",
+      "NumProgressed": 3614,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -8506,7 +8511,7 @@
       "Name": "Artist in the making",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ach_animals_completed",
@@ -8522,7 +8527,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ach_architecture_completed",
@@ -8538,7 +8543,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ach_bomb",
@@ -8617,14 +8622,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3613,
+      "Progressed": 3614,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:09:22.1231793+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:03:53.5272249+00:00",
   "LastUpdate_AppInfo": "2023-10-20T17:57:00.7331575+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:04:10.5595752+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:09:22.1232507+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:58:40.1346957+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:03:53.527286+00:00"
 }

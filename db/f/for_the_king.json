@@ -4,10 +4,10 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 206,
   "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 174,
+  "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -3481,10 +3481,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2986,
       "NumberOfAwardsMax": 399
+    },
+    {
+      "Time": "2023-10-23T14:02:08.8579271+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2988,
+      "NumberOfAwardsMax": 399
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2986,
+  "NumberOfAwards": 2988,
   "NumberOfAwardsMax": 399,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3504,7 +3510,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 292
+      "Count": 293
     },
     {
       "Text": "This game is Relaxing",
@@ -3540,7 +3546,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 325
+      "Count": 326
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3560,8 +3566,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-10-22T08:02:00.9761431+00:00",
+  "LastChanged": "2023-10-23T14:02:08.857927+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:33.3676825+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:08:11.7954992+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:09:30.3951443+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:02:08.8579276+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:04:02.5241329+00:00"
 }

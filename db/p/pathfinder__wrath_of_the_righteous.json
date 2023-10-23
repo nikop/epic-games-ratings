@@ -3989,7 +3989,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11725,
+  "EOS_Progressed": 11726,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -14154,6 +14154,11 @@
       "Time": "2023-10-23T13:14:40.2830717+00:00",
       "NumProgressed": 11725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T14:09:19.6911433+00:00",
+      "NumProgressed": 11726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14165,7 +14170,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "02_BurningCity",
@@ -14229,7 +14234,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "10_PathOfAzata",
@@ -14245,7 +14250,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "12_PathOfTrickster",
@@ -14261,7 +14266,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "14_PathOfSwarm",
@@ -14421,7 +14426,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -14445,7 +14450,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -14533,7 +14538,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "49_Flame",
@@ -14565,7 +14570,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -15092,21 +15097,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10507,
+      "Progressed": 10508,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11725,
+      "Progressed": 11726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:14:40.2830711+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:09:19.6911427+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:05:16.4501448+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:14:40.2833108+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:59:44.0552964+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:09:19.691359+00:00"
 }

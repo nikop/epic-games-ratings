@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~851 |
 | Coral Forest | 5.00% | ~851 |
 | Homesick | 4.00% | ~681 |
+| Ruined Armory | 4.00% | ~681 |
 | Bandit Camp | 4.00% | ~681 |
 | Barren Lands | 4.00% | ~681 |
 | Ancient Battleground | 4.00% | ~681 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 4.00% | ~681 |
 | Serving Ale | 3.00% | ~511 |
 | Against All Odds | 3.00% | ~511 |
-| Ruined Armory | 3.00% | ~511 |
 | Dangerous Lands | 3.00% | ~511 |
 | Fishmen Ritual Site | 3.00% | ~511 |
 | Forbidden Lands | 3.00% | ~511 |

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 899)  
+Rating: 4.19 (Ranked 900)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,18 +14,18 @@ Rating: 4.19 (Ranked 899)
 | Reforged | 5.00% | ~811 |
 | The Outer Way | 5.00% | ~811 |
 | Keep Fighting | 5.00% | ~207 |
-| You Need a Gun | 4.00% | ~648 |
-| I Do Belong Here | 4.00% | ~648 |
-| Workplace Hazard | 4.00% | ~648 |
-| If the SHU Fits... | 4.00% | ~648 |
-| Without A Paddle | 4.00% | ~648 |
-| In the Pipe, Five by Five | 4.00% | ~648 |
-| What Lies Beneath | 4.00% | ~648 |
-| Desperate Times | 4.00% | ~648 |
-| Crash Site | 4.00% | ~648 |
-| Full Circle | 4.00% | ~648 |
-| Power Up | 4.00% | ~648 |
-| It's Time | 4.00% | ~165 |
+| You Need a Gun | 4.00% | ~649 |
+| I Do Belong Here | 4.00% | ~649 |
+| Workplace Hazard | 4.00% | ~649 |
+| If the SHU Fits... | 4.00% | ~649 |
+| Without A Paddle | 4.00% | ~649 |
+| In the Pipe, Five by Five | 4.00% | ~649 |
+| What Lies Beneath | 4.00% | ~649 |
+| Desperate Times | 4.00% | ~649 |
+| Crash Site | 4.00% | ~649 |
+| Full Circle | 4.00% | ~649 |
+| Power Up | 4.00% | ~649 |
+| It's Time | 4.00% | ~166 |
 | Giving Back | 3.00% | ~486 |
 | Terminated | 3.00% | ~486 |
 | The Commonality | 3.00% | ~486 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,211 (Ranked 134)  
+Progressed: 16,213 (Ranked 134)  
 Completed: 77 (0.47%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 77 (0.47%) (Ranked 185)
 | 2023-10-20 | 16,120 | 75 |
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
-| 2023-10-23 | 16,211 | 77 |
+| 2023-10-23 | 16,213 | 77 |
 ## Awards
 Max (Highly Recommended): 77  (Ranked 379)  
 Sum: 452 (Ranked 323)  

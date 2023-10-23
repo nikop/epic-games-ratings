@@ -8,6 +8,7 @@ Rating: 4.50 (Ranked 575)
 | Stylish | 4.00% | ~1,091 |
 | Advancement | 3.00% | ~818 |
 | Meticulously Efficient | 3.00% | ~818 |
+| Animated | 2.00% | ~545 |
 | Clutch Capture | 2.00% | ~545 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~545 |
 | Cultured | 2.00% | ~545 |
@@ -19,7 +20,6 @@ Rating: 4.50 (Ranked 575)
 | There you are! | 2.00% | ~545 |
 | Vaporous Expansion | 2.00% | ~545 |
 | Whoopsie | 2.00% | ~545 |
-| Animated | 1.00% | ~273 |
 | Back Off | 1.00% | ~273 |
 | Daily Dose | 1.00% | ~273 |
 | Ectoplasmic Entity | 1.00% | ~273 |
@@ -44,8 +44,8 @@ Rating: 4.50 (Ranked 575)
 | Reckless | 0.70% | ~191 |
 | Rivalry | 0.60% | ~164 |
 | Fragile Panes | 0.50% | ~136 |
+| Liability | 0.50% | ~136 |
 | Surprise! | 0.50% | ~136 |
-| Liability | 0.40% | ~109 |
 | Therapeutic | 0.30% | ~82 |
 | Master Collector | 0.20% | ~55 |
 | Rift Seeker | 0.20% | ~55 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,271 (Ranked 119)  
+Progressed: 27,274 (Ranked 119)  
 Completed: 63 (0.23%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,10 +243,10 @@ Completed: 63 (0.23%) (Ranked 221)
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
-| 2023-10-23 | 27,271 | 63 |
+| 2023-10-23 | 27,274 | 63 |
 ## Awards
 Max (Great for Quick Sessions): 275  (Ranked 253)  
-Sum: 2,492 (Ranked 184)  
+Sum: 2,495 (Ranked 184)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 69
 | This game is Relaxing | 248 |
 | This game has Competitive Players | 247 |
 | This game is Extremely Fun | 245 |
-| This game is Highly Recommended | 242 |
+| This game is Highly Recommended | 245 |
 | This game has Quickly Understood Controls | 236 |
 | This game has Amazing Characters | 228 |
 | This game has Playful Visuals | 94 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 69
 | 2023-10-20 | 4.50 | 273 | 2,442 |
 | 2023-10-21 | 4.50 | 273 | 2,464 |
 | 2023-10-22 | 4.50 | 275 | 2,482 |
-| 2023-10-23 | 4.50 | 275 | 2,492 |
+| 2023-10-23 | 4.50 | 275 | 2,495 |

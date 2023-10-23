@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Lost forever | 3.00% | ~4 |
 | Silver Button | 3.00% | ~4 |
 | Minimalist lifestyle | 2.00% | ~3 |
 | I deliver the presents! | 2.00% | ~3 |
 | A new HOME | 2.00% | ~3 |
-| Lost forever | 2.00% | ~3 |
 | Lesson learned | 2.00% | ~3 |
 | Good list | 2.00% | ~3 |
 | At least you tried | 2.00% | ~3 |
+| Golden Button | 2.00% | ~3 |
 | Golden Hat | 2.00% | ~3 |
 | Silver Carrot | 2.00% | ~3 |
 | Silver Hat | 2.00% | ~3 |
-| Golden Button | 0.80% | ~1 |
 | Golden Carrot | 0.80% | ~1 |
 | Golden Scarf | 0.80% | ~1 |
 | Naughty list | 0.80% | ~1 |

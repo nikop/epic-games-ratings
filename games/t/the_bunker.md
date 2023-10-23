@@ -8,8 +8,8 @@
 | The Routine | 80.00% | ~100 |
 | Mother | 78.00% | ~98 |
 | Failure | 76.00% | ~95 |
-| Replace Fuse | 66.00% | ~82 |
-| Alarm | 65.00% | ~81 |
+| Replace Fuse | 67.00% | ~84 |
+| Alarm | 66.00% | ~82 |
 | Air Filtration | 63.00% | ~79 |
 | Broken | 62.00% | ~78 |
 | Radiation | 60.00% | ~75 |
@@ -33,7 +33,7 @@
 | Friends | 6.00% | ~8 |
 | The Missing Piece | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 377)  
+Progressed: 125 (Ranked 378)  
 Completed: 5 (4.00%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |

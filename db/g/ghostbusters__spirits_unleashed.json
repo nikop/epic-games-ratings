@@ -2569,10 +2569,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2492,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2023-10-23T13:57:34.3424357+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2495,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2492,
+  "NumberOfAwards": 2495,
   "NumberOfAwardsMax": 275,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2628,7 +2634,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 242
+      "Count": 245
     },
     {
       "Text": "This game is Relaxing",
@@ -2649,9 +2655,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27271,
+  "EOS_Progressed": 27274,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 755,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16029,6 +16035,11 @@
       "Time": "2023-10-23T13:11:12.6167428+00:00",
       "NumProgressed": 27271,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-23T14:05:33.7980576+00:00",
+      "NumProgressed": 27274,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16046,9 +16057,9 @@
       "ID": "Animated",
       "SetID": "819popo",
       "Name": "Animated",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 545
     },
     {
       "ID": "Back_Off",
@@ -16214,9 +16225,9 @@
       "ID": "Liability",
       "SetID": "819popo",
       "Name": "Liability",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 136
     },
     {
       "ID": "Line_Em_Up",
@@ -16447,16 +16458,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27271,
+      "Progressed": 27274,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-23T11:58:08.1462811+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:11:12.6167422+00:00",
+  "LastChanged": "2023-10-23T13:57:34.3424355+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:05:33.7980567+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:03:08.3138283+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:11:12.6168932+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:57:34.3424361+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:05:33.798181+00:00"
 }

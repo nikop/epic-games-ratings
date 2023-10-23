@@ -29,14 +29,15 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.40% | ~617 |
 | Host | 0.40% | ~615 |
 | All-Seeing | 0.40% | ~617 |
+| Dream | 0.40% | ~615 |
 | Breath | 0.30% | ~462 |
 | Artisan | 0.30% | ~462 |
 | Hush | 0.30% | ~462 |
 | Inevitable | 0.30% | ~462 |
 | Breathsmith | 0.30% | ~462 |
-| Dream | 0.30% | ~461 |
 | Bloodhunter | 0.20% | ~308 |
 | Zygote | 0.20% | ~307 |
+| Kinship | 0.20% | ~308 |
 | Unwrap the Gift | 0.20% | ~308 |
 | Passage | 0.20% | ~308 |
 | Listen | 0.20% | ~307 |
@@ -44,7 +45,6 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~154 |
 | Skinmaker | 0.10% | ~154 |
 | Instruments | 0.10% | ~154 |
-| Kinship | 0.10% | ~154 |
 | Weakness | 0.10% | ~154 |
 | Generous | 0.10% | ~154 |
 | Kin | 0.10% | ~154 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,153 (Ranked 73)  
+Progressed: 154,166 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,10 +216,10 @@ Completed: 1 (0.00%) (Ranked 321)
 | 2023-10-20 | 153,466 | 1 |
 | 2023-10-21 | 153,746 | 1 |
 | 2023-10-22 | 154,057 | 1 |
-| 2023-10-23 | 154,153 | 1 |
+| 2023-10-23 | 154,166 | 1 |
 ## Awards
 Max (Highly Recommended): 45  (Ranked 432)  
-Sum: 310 (Ranked 348)  
+Sum: 311 (Ranked 348)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 84
 | This game has Unique Visuals | 43 |
 | This game has Challenging Combat | 41 |
 | This game is Extremely Fun | 40 |
-| This game has Amazing Storytelling | 35 |
+| This game has Amazing Storytelling | 36 |
 | This game has a Creative Community | 33 |
 | This game has Amazing Characters | 29 |
 | This game has Diverse Characters | 20 |
@@ -356,4 +356,4 @@ Diff (max vs sum): 84
 | 2023-10-20 | 4.59 | - | 45 | 304 |
 | 2023-10-21 | 4.59 | - | 45 | 306 |
 | 2023-10-22 | 4.59 | - | 45 | 309 |
-| 2023-10-23 | 4.59 | - | 45 | 310 |
+| 2023-10-23 | 4.59 | - | 45 | 311 |

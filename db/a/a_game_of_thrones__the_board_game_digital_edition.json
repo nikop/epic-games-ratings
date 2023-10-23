@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 882,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1284,10 +1284,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26684,
-  "EOS_Completed": 71,
-  "EOS_NewPlayers": 483,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 26688,
+  "EOS_Completed": 72,
+  "EOS_NewPlayers": 485,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -21234,6 +21234,11 @@
       "Time": "2023-10-23T12:08:49.6122656+00:00",
       "NumProgressed": 26684,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-23T14:07:25.399093+00:00",
+      "NumProgressed": 26688,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 22,
@@ -21349,7 +21354,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "1029",
@@ -21365,7 +21370,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5337
+      "UsersEstimate": 5338
     },
     {
       "ID": "1031",
@@ -21381,7 +21386,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "1033",
@@ -21420,15 +21425,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26684,
-      "Completed": 71
+      "Progressed": 26688,
+      "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:13:14.3686325+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:07:25.3990925+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:08:27.2080497+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:13:14.3687882+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:03:07.849238+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:07:25.3992222+00:00"
 }

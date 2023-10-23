@@ -4,7 +4,7 @@
   "ProductSlug": "we-are-not-alone-0afd5f",
   "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:35.0109753+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:03:39.8333856+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:08:49.5843063+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:58:07.7358392+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:03:30.7747408+00:00"
 }

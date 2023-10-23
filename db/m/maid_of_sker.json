@@ -418,9 +418,9 @@
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ending_on_a_high_note",
@@ -538,9 +538,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "scholar",
@@ -603,8 +603,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:10:48.8726034+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:05:20.1285191+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:58.8025951+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:06:18.0552383+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:10:48.8726295+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:00:43.9727354+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:05:20.1393243+00:00"
 }

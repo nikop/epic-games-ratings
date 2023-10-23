@@ -19,8 +19,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~465 |
 | Are Ya Chicken? | 0.20% | ~465 |
 | Mad Cow Disease | 0.20% | ~465 |
+| Dreamscape | 0.20% | ~398 |
 | The Path of Dreams | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
+| The Bleeding Citadel | 0.20% | ~398 |
 | The Battle of High Hall Tower | 0.20% | ~398 |
 | Elturel's Last Stand | 0.20% | ~398 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
@@ -370,7 +372,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Difficult Descent | 0.10% | ~199 |
 | The Devil Arrives | 0.10% | ~199 |
 | Hearts Aflame | 0.10% | ~199 |
-| Dreamscape | 0.10% | ~199 |
 | Dream Gauntlet | 0.10% | ~199 |
 | Zombie Dreams | 0.10% | ~199 |
 | Look Out! | 0.10% | ~199 |
@@ -445,7 +446,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fortress Assault | 0.10% | ~199 |
 | Hats off to you! | 0.10% | ~199 |
 | It's Cold Out There Every Day | 0.10% | ~199 |
-| The Bleeding Citadel | 0.10% | ~199 |
 | Don't Pick at the Scab | 0.10% | ~199 |
 | Going To Eleven | 0.10% | ~199 |
 | Idyllglen | 0.10% | ~199 |

@@ -2,12 +2,12 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 843,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1997,6 +1997,11 @@
       "Time": "2023-10-22T14:07:46.0090497+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T14:08:03.0423155+00:00",
+      "NumProgressed": 1135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2128,7 +2133,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2192,7 +2197,7 @@
       "Name": "The City",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "GOLDMASTER",
@@ -2232,7 +2237,7 @@
       "Name": "We made it",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2367,7 +2372,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1135,
       "Completed": 0
     }
   ],
@@ -2375,8 +2380,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:13:22.4082617+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:08:03.0423148+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:03.7064622+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:05:05.8580923+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:13:22.4083132+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:59:36.0529452+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:08:03.0423616+00:00"
 }

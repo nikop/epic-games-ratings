@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.70% | ~104 |
 | Statesmen | 0.70% | ~104 |
 | Traders | 0.70% | ~104 |
+| Hittite Iron | 0.70% | ~104 |
 | Hagia Sophia | 0.70% | ~104 |
 | Temple of Solomon | 0.70% | ~104 |
 | Pantheon | 0.70% | ~104 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
 | Hunters | 0.60% | ~89 |
-| Hittite Iron | 0.60% | ~89 |
 | Church of the Holy Sepulchre | 0.60% | ~89 |
 | Carthage | 0.60% | ~89 |
 | Military Prestige | 0.60% | ~89 |

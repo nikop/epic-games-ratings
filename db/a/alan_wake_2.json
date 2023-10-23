@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2023-10-23T13:14:39.4963653+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T14:09:18.9393216+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T15:08:41.0490704+00:00",
@@ -399,9 +404,9 @@
       "ID": "1",
       "SetID": "b5e4c1b",
       "Name": "Escape its Gravity",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "10",
@@ -433,7 +438,7 @@
       "Name": "Bring It",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "14",
@@ -441,7 +446,7 @@
       "Name": "Ready for a Fight",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "15",
@@ -449,7 +454,7 @@
       "Name": "Greatest Hits",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "16",
@@ -457,7 +462,7 @@
       "Name": "Stop Right There",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "17",
@@ -465,7 +470,7 @@
       "Name": "Find the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "18",
@@ -489,7 +494,7 @@
       "Name": "This is the Moment",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "20",
@@ -497,23 +502,23 @@
       "Name": "Aimed Ahead",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "21",
       "SetID": "b5e4c1b",
       "Name": "Coffee Thermos",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 88
     },
     {
       "ID": "22",
       "SetID": "b5e4c1b",
       "Name": "Felt Good",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "23",
@@ -561,7 +566,7 @@
       "Name": "Stop the Monster",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "29",
@@ -569,15 +574,15 @@
       "Name": "Growing Stronger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "3",
       "SetID": "b5e4c1b",
       "Name": "Not the Last",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "30",
@@ -599,17 +604,17 @@
       "ID": "32",
       "SetID": "b5e4c1b",
       "Name": "Nightmare Territory",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 140
     },
     {
       "ID": "33",
       "SetID": "b5e4c1b",
       "Name": "Grew Bigger",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "34",
@@ -649,15 +654,15 @@
       "Name": "Hunting Season",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "39",
       "SetID": "b5e4c1b",
       "Name": "Somebody\u0027s Home",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "4",
@@ -673,7 +678,7 @@
       "Name": "Into the Overlap",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "41",
@@ -689,7 +694,7 @@
       "Name": "We Watch in the Night",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "43",
@@ -703,9 +708,9 @@
       "ID": "44",
       "SetID": "b5e4c1b",
       "Name": "Seeing Double",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "45",
@@ -775,9 +780,9 @@
       "ID": "52",
       "SetID": "b5e4c1b",
       "Name": "In a Fancy Hotel",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "53",
@@ -817,15 +822,15 @@
       "Name": "All Accounted For",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "58",
       "SetID": "b5e4c1b",
       "Name": "In One Go",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "59",
@@ -841,7 +846,7 @@
       "Name": "Finding a Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "60",
@@ -865,7 +870,7 @@
       "Name": "Filling the Shape",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "63",
@@ -913,22 +918,22 @@
       "Name": "Chased the Source",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "9",
       "SetID": "b5e4c1b",
       "Name": "Darkness Coiled",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "b5e4c1b",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-03-31T05:57:50.7516472+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:14:39.4963649+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:09:18.9393211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.0925269+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:06:04.2424371+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:14:39.4964343+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:00:29.8819218+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:09:18.9393909+00:00"
 }

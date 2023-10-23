@@ -5,32 +5,32 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,456 |
-| IT MAKES BOOM! | 3.00% | ~7,474 |
-| EXTRA BOOST | 2.00% | ~4,982 |
-| PROTECTED | 2.00% | ~4,982 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,491 |
-| AGGRESSIVE RACER | 1.00% | ~2,491 |
-| PRO | 1.00% | ~2,491 |
-| A TIGER'S FEAR | 0.90% | ~2,242 |
+| ROOKIE | 5.00% | ~12,459 |
+| IT MAKES BOOM! | 3.00% | ~7,476 |
+| EXTRA BOOST | 2.00% | ~4,984 |
+| PROTECTED | 2.00% | ~4,984 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,492 |
+| AGGRESSIVE RACER | 1.00% | ~2,492 |
+| PRO | 1.00% | ~2,492 |
+| A TIGER'S FEAR | 0.90% | ~2,243 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,246 |
 | ACE SPEEDSTER | 0.50% | ~1,246 |
-| DEFEAT OUR CHAMPION | 0.40% | ~996 |
-| TRAINING HARD | 0.30% | ~747 |
-| RELEASE THE KRAKEN | 0.30% | ~747 |
-| BE OUR GUEST | 0.30% | ~747 |
-| ACE BRAWLER | 0.30% | ~747 |
-| ACE DEFENDER | 0.30% | ~747 |
-| THE EYE OF THE HUNTER | 0.30% | ~747 |
-| FRIENDLY | 0.30% | ~747 |
-| MASTER | 0.30% | ~747 |
-| LEGENDARY HERO | 0.30% | ~747 |
+| DEFEAT OUR CHAMPION | 0.40% | ~997 |
+| TRAINING HARD | 0.30% | ~748 |
+| RELEASE THE KRAKEN | 0.30% | ~748 |
+| BE OUR GUEST | 0.30% | ~748 |
+| ACE BRAWLER | 0.30% | ~748 |
+| ACE DEFENDER | 0.30% | ~748 |
+| THE EYE OF THE HUNTER | 0.30% | ~748 |
+| FRIENDLY | 0.30% | ~748 |
+| MASTER | 0.30% | ~748 |
+| LEGENDARY HERO | 0.30% | ~748 |
 | PERFECTLY POISED | 0.20% | ~498 |
 | EXPERIENCED CREW | 0.20% | ~498 |
 | ACE TRICKSTER | 0.20% | ~498 |
 | FRAMED! | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,118 (Ranked 55)  
+Progressed: 249,186 (Ranked 55)  
 Completed: 240 (0.10%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 240 (0.10%) (Ranked 254)
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
-| 2023-10-23 | 249,118 | 240 |
+| 2023-10-23 | 249,186 | 240 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 460)  
 Sum: 180 (Ranked 400)  

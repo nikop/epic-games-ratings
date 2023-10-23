@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7093,18 +7093,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11682,
       "NumberOfAwardsMax": 6720
+    },
+    {
+      "Time": "2023-10-23T14:00:36.9325435+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11686,
+      "NumberOfAwardsMax": 6724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11682,
-  "NumberOfAwardsMax": 6720,
+  "NumberOfAwards": 11686,
+  "NumberOfAwardsMax": 6724,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6720
+      "Count": 6724
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7173,9 +7179,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715873,
+  "EOS_Progressed": 715876,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23628,6 +23634,11 @@
       "Time": "2023-10-23T12:08:23.41308+00:00",
       "NumProgressed": 715873,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-23T14:07:06.8123123+00:00",
+      "NumProgressed": 715876,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -23639,7 +23650,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "02_Vengeance_H1",
@@ -23647,7 +23658,7 @@
       "Name": "The Assault",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "03_Vengeance_H2",
@@ -23655,7 +23666,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "04_Vengeance_H3",
@@ -23815,7 +23826,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -23823,7 +23834,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "25_ShrineMind",
@@ -23839,7 +23850,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "27_ShrineBody",
@@ -23903,7 +23914,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "35_WideStrike",
@@ -23927,7 +23938,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -24118,21 +24129,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25174,
+      "Progressed": 25177,
       "Completed": 10716
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715873,
+      "Progressed": 715876,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-23T04:01:08.6124481+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:12:15.2341681+00:00",
+  "LastChanged": "2023-10-23T14:00:36.9325434+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:07:06.8122927+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:06:10.9750857+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:12:15.2343265+00:00"
+  "LastUpdate_Ratings": "2023-10-23T14:00:36.9325443+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:07:06.8124571+00:00"
 }

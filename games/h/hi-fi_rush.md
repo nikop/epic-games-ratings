@@ -20,16 +20,16 @@ Rating: 4.85 (Ranked 42)
 | Uh, they were broken when I got here | 10.00% | ~416 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~375 |
 | Kissing the sky! | 9.00% | ~375 |
-| I look cool. But I can look COOLER. | 9.00% | ~375 |
 | The Negotiator | 8.00% | ~333 |
 | Headliner | 8.00% | ~333 |
 | Time to pay up! | 8.00% | ~333 |
 | Out in a puff of smoke | 8.00% | ~333 |
+| I look cool. But I can look COOLER. | 8.00% | ~333 |
 | NOW we got a kickass hideout! | 8.00% | ~215 |
-| Who's the boss now? | 7.00% | ~291 |
-| You must like calling me in, Chai | 7.00% | ~291 |
-| Perfecter Parry-er! | 7.00% | ~291 |
-| Does that say weakpoint? | 7.00% | ~291 |
+| Who's the boss now? | 7.00% | ~292 |
+| You must like calling me in, Chai | 7.00% | ~292 |
+| Perfecter Parry-er! | 7.00% | ~292 |
+| Does that say weakpoint? | 7.00% | ~292 |
 | I have to read these things? | 6.00% | ~250 |
 | Well that was a rush! | 5.00% | ~208 |
 | That's a lot of junk metal… | 5.00% | ~208 |
@@ -77,8 +77,8 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,164 (Ranked 181)  
-Completed: 8 (0.19%) (Ranked 230)  
+Progressed: 4,165 (Ranked 181)  
+Completed: 8 (0.19%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,6 +258,7 @@ Completed: 8 (0.19%) (Ranked 230)
 | 2023-10-20 | 4,156 | 8 |
 | 2023-10-21 | 4,160 | 8 |
 | 2023-10-22 | 4,164 | 8 |
+| 2023-10-23 | 4,165 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

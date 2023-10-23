@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7539,7 +7539,7 @@
   ],
   "EOS_Progressed": 232644,
   "EOS_Completed": 2379,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -31111,9 +31111,9 @@
       "ID": "objective_completed_635",
       "SetID": "415jc5c",
       "Name": "Dreamscape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_636",
@@ -31735,9 +31735,9 @@
       "ID": "objective_completed_837",
       "SetID": "415jc5c",
       "Name": "The Bleeding Citadel",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_838",
@@ -32549,8 +32549,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T05:59:27.1938183+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:11:36.8456271+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:06:08.3751744+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:05:01.5598383+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:11:36.848545+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:59:28.9784977+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:06:08.3779376+00:00"
 }

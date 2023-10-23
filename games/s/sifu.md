@@ -7,14 +7,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.60% | ~151 |
-| The Old Grandmaster | 0.40% | ~2,863 |
-| The Assault | 0.40% | ~2,863 |
-| The Hateful Pole Fighter | 0.40% | ~2,863 |
-| Life is your teacher | 0.40% | ~2,863 |
-| State of constant learning | 0.40% | ~2,863 |
-| Qi Gong: Breath | 0.40% | ~2,863 |
-| Lightning Hands | 0.40% | ~2,863 |
-| Rumble in the Hangar | 0.40% | ~2,863 |
+| The Old Grandmaster | 0.40% | ~2,864 |
+| The Assault | 0.40% | ~2,864 |
+| The Hateful Pole Fighter | 0.40% | ~2,864 |
+| Life is your teacher | 0.40% | ~2,864 |
+| State of constant learning | 0.40% | ~2,864 |
+| Qi Gong: Breath | 0.40% | ~2,864 |
+| Lightning Hands | 0.40% | ~2,864 |
+| Rumble in the Hangar | 0.40% | ~2,864 |
 | Project Arena | 0.40% | ~101 |
 | Fight the way you practice | 0.40% | ~101 |
 | A Lady's Blood in the Snow | 0.30% | ~2,148 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,873 (Ranked 20)  
+Progressed: 715,876 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,14 +253,14 @@ Completed: 12,925 (1.81%) (Ranked 119)
 | 2023-10-20 | 715,805 | 12,924 |
 | 2023-10-21 | 715,835 | 12,925 |
 | 2023-10-22 | 715,869 | 12,925 |
-| 2023-10-23 | 715,873 | 12,925 |
+| 2023-10-23 | 715,876 | 12,925 |
 ## Awards
-Max (Great Boss Battles): 6,720  (Ranked 53)  
-Sum: 11,682 (Ranked 82)  
+Max (Great Boss Battles): 6,724  (Ranked 53)  
+Sum: 11,686 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,720 |
+| This game has Great Boss Battles | 6,724 |
 | This game has Diverse Characters | 635 |
 | This game has Challenging Combat | 588 |
 | This game has Amazing Storytelling | 571 |
@@ -554,4 +554,4 @@ Diff (max vs sum): -29
 | 2023-10-20 | 4.82 | - | 6,710 | 11,656 |
 | 2023-10-21 | 4.82 | - | 6,710 | 11,662 |
 | 2023-10-22 | 4.82 | - | 6,720 | 11,679 |
-| 2023-10-23 | 4.82 | - | 6,720 | 11,682 |
+| 2023-10-23 | 4.82 | - | 6,724 | 11,686 |

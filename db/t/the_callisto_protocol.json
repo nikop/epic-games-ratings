@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16211,
+  "EOS_Progressed": 16213,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8002,6 +8002,11 @@
       "Time": "2023-10-23T13:11:02.7232858+00:00",
       "NumProgressed": 16211,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T14:05:24.0771527+00:00",
+      "NumProgressed": 16213,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8037,7 +8042,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "DISARM_ENEMY",
@@ -8077,7 +8082,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -8157,7 +8162,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8213,7 +8218,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_HABITAT",
@@ -8221,7 +8226,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_HANGAR",
@@ -8229,7 +8234,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_MINETOWN",
@@ -8237,7 +8242,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -8245,7 +8250,7 @@
       "Name": "Desperate Times",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8253,7 +8258,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_TOWER",
@@ -8261,7 +8266,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "STORY_TUNNELS",
@@ -8269,7 +8274,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "DISMEMBER_100",
@@ -8373,7 +8378,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -8388,13 +8393,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16211,
+      "Progressed": 16213,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4137,
+      "Progressed": 4139,
       "Completed": 29
     }
   ],
@@ -8402,8 +8407,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-23T13:11:02.7232853+00:00",
+  "LastChanged_Achievements": "2023-10-23T14:05:24.077152+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-23T13:04:24.126071+00:00",
-  "LastUpdate_Achievements": "2023-10-23T13:11:02.7233716+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:58:53.6736486+00:00",
+  "LastUpdate_Achievements": "2023-10-23T14:05:24.0772297+00:00"
 }
