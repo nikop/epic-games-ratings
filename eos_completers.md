@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.55% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.52% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -50,7 +50,7 @@
 | 48 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
 | 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 50 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 51 | [Scorn](games/s/scorn.md) | 7.01% |
+| 51 | [Scorn](games/s/scorn.md) | 7.00% |
 | 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.65% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 54 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -178,7 +178,7 @@
 | 173 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 177 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 177 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.55% |
+| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.54% |
 | 180 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 180 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 182 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
@@ -228,11 +228,11 @@
 | 226 | [Blanc](games/b/blanc.md) | 0.21% |
 | 226 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 226 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
+| 229 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.20% |
 | 229 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
-| 230 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 230 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.19% |
-| 230 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
-| 230 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 231 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 231 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
+| 231 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 234 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 234 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 236 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
@@ -688,4 +688,4 @@
 | 321 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 321 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 321 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,452 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,453 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
