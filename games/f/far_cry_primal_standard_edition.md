@@ -5,7 +5,7 @@ Rating: 4.70 (Ranked 206)
 Number of Ratings: 463  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 430  (Ranked 215)  
-Sum: 521 (Ranked 311)  
+Sum: 522 (Ranked 311)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -96
 | This game is Highly Recommended | 29 |
 | This game is Educational | 25 |
 | This game is Extremely Fun | 22 |
-| This game is Relaxing | 20 |
+| This game is Relaxing | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -192,3 +192,4 @@ Diff (max vs sum): -96
 | 2023-10-20 | 4.70 | - | 427 | 518 |
 | 2023-10-21 | 4.70 | - | 428 | 519 |
 | 2023-10-22 | 4.70 | - | 430 | 521 |
+| 2023-10-23 | 4.70 | - | 430 | 522 |

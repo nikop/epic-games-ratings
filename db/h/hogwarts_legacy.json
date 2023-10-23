@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 48,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -9331,10 +9331,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46485,
       "NumberOfAwardsMax": 23743
+    },
+    {
+      "Time": "2023-10-23T18:01:20.3604946+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46487,
+      "NumberOfAwardsMax": 23743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46485,
+  "NumberOfAwards": 46487,
   "NumberOfAwardsMax": 23743,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9384,7 +9390,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1154
+      "Count": 1156
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9411,9 +9417,9 @@
       "Count": 736
     }
   ],
-  "EOS_Progressed": 298732,
+  "EOS_Progressed": 298734,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29256,6 +29262,11 @@
       "Time": "2023-10-23T17:08:28.820787+00:00",
       "NumProgressed": 298732,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-23T18:09:21.7822992+00:00",
+      "NumProgressed": 298734,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29595,7 +29606,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41822
+      "UsersEstimate": 41823
     },
     {
       "ID": "PFA_7",
@@ -29626,16 +29637,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298732,
+      "Progressed": 298734,
       "Completed": 491
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-23T16:00:33.8192146+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:08:28.8207865+00:00",
+  "LastChanged": "2023-10-23T18:01:20.3604943+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:09:21.7822988+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:34.0065807+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:08:28.8209539+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:01:20.3604953+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:09:21.7824557+00:00"
 }

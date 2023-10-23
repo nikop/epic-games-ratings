@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-10-23T17:06:20.0968474+00:00",
       "NumProgressed": 534,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-23T18:07:12.5499871+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1016,7 +1021,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1062,9 +1067,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 241
     },
     {
       "ID": "ENDING_6",
@@ -1080,7 +1085,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1120,7 +1125,7 @@
       "Name": "Interrogation",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1152,15 +1157,15 @@
       "Name": "Sabotage",
       "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 225
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1175,7 +1180,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 8
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:06:20.0968469+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:07:12.5499866+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:57:15.06642+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:06:20.0968699+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:57:18.2634635+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:07:12.5500087+00:00"
 }

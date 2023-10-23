@@ -22,6 +22,7 @@ Rating: 4.60 (Ranked 402)
 | Intimidation Tactics | 6.00% | ~314 |
 | Mighty Hoard | 6.00% | ~314 |
 | Valley of Wonders | 5.00% | ~262 |
+| Digging for Treasure | 5.00% | ~262 |
 | Fiery Friend | 5.00% | ~262 |
 | Against the Odds | 5.00% | ~262 |
 | Impenetrable Fortress | 5.00% | ~262 |
@@ -29,7 +30,6 @@ Rating: 4.60 (Ranked 402)
 | Blood of the Dragon | 5.00% | ~262 |
 | Return of the Wizard King | 4.00% | ~209 |
 | Enchanted Archipelago | 4.00% | ~209 |
-| Digging for Treasure | 4.00% | ~209 |
 | Preparation Is Everything | 4.00% | ~209 |
 | God Emperor | 3.00% | ~157 |
 | Lord of Chaos | 3.00% | ~157 |
@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 402)
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,236 (Ranked 175)  
-Completed: 6 (0.11%) (Ranked 251)  
+Completed: 6 (0.11%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

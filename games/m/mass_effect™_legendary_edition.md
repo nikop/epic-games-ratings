@@ -32,8 +32,8 @@
 | Very Elusive | 44.00% | ~347 |
 | Head Hunter | 44.00% | ~347 |
 | Sentinel Ally | 43.00% | ~339 |
+| Operative | 43.00% | ~339 |
 | Scholar | 43.00% | ~339 |
-| Operative | 42.00% | ~331 |
 | Veteran | 41.00% | ~323 |
 | The Professor | 41.00% | ~323 |
 | The Archangel | 40.00% | ~315 |
@@ -55,19 +55,19 @@
 | Battlemaster | 32.00% | ~252 |
 | Catharsis | 32.00% | ~252 |
 | The Cure | 32.00% | ~252 |
+| Big Game Hunter | 32.00% | ~252 |
 | Revenge! | 32.00% | ~252 |
 | Heart of Darkness | 32.00% | ~252 |
 | Shopaholic | 32.00% | ~252 |
 | Fade Away | 31.00% | ~244 |
-| Big Game Hunter | 31.00% | ~244 |
 | Agent | 31.00% | ~244 |
 | Driven | 31.00% | ~244 |
 | Focused | 30.00% | ~236 |
 | Cat's in the Cradle | 30.00% | ~236 |
 | Treason | 30.00% | ~236 |
+| Digital Exorcist | 30.00% | ~236 |
 | Bringer of War | 30.00% | ~236 |
 | Doppelganger | 29.00% | ~229 |
-| Digital Exorcist | 29.00% | ~229 |
 | First Aid Specialist | 28.00% | ~221 |
 | Suicide Mission | 28.00% | ~221 |
 | Friend or Foe | 28.00% | ~221 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 788 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

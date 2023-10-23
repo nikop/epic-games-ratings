@@ -3,9 +3,9 @@
   "Name": "Forklift Extreme - Deluxe Edition",
   "ProductSlug": "forklift-extreme-deluxe-edition-50689a",
   "Ranking_EOS_Progress": 641,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-03-16T13:00:00+00:00",
     "PcReleaseDate": "2023-03-16T13:00:00+00:00",
@@ -163,8 +163,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.0232769+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.9927145+00:00",
   "LastChanged": "2023-03-31T05:58:12.023277+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:06:17.374275+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:07:09.6566767+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.6405203+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:58:07.5968285+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:06:17.3742894+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:58:23.6106794+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:07:09.6566885+00:00"
 }

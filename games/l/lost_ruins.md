@@ -12,8 +12,8 @@
 | Artifact Collector | 20.00% | ~91 |
 | Trap Master | 20.00% | ~91 |
 | Ghost Buster | 16.00% | ~73 |
+| Iconoclasm | 16.00% | ~73 |
 | Reincarnation | 16.00% | ~73 |
-| Iconoclasm | 15.00% | ~68 |
 | Librarian | 14.00% | ~64 |
 | Lumberjack | 13.00% | ~59 |
 | Orcs Must Die! | 13.00% | ~59 |
@@ -46,7 +46,7 @@
 | Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 456 (Ranked 285)  
-Completed: 0 (0.00%) (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Iron Dungeon",
   "ProductSlug": "iron-dungeon-4345a1",
   "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-10-03T18:00:00+00:00",
     "PcReleaseDate": "2023-10-03T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-14T01:42:12.183092+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:07.429898+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:50.5646665+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:51.4103688+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:01:40.7095029+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:06:38.3359517+00:00"
 }

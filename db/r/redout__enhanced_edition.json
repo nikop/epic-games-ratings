@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234227,
+  "EOS_Progressed": 234228,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19972,6 +19972,11 @@
       "Time": "2023-10-23T17:05:23.2915387+00:00",
       "NumProgressed": 234227,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-23T18:06:05.0554054+00:00",
+      "NumProgressed": 234228,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20071,7 +20076,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46845
+      "UsersEstimate": 46846
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -20143,7 +20148,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21080
+      "UsersEstimate": 21081
     },
     {
       "ID": "PHOTOFINISH",
@@ -20254,15 +20259,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234227,
+      "Progressed": 234228,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:05:23.2915382+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:06:05.0554047+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.9815645+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:01:11.5237071+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:23.2916906+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:02:05.6420812+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:06:05.0556601+00:00"
 }

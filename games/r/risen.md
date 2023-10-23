@@ -19,6 +19,7 @@ Rating: 4.57 (Ranked 459)
 | Death of a legend | 50.00% | ~3 |
 | Archaeologist | 50.00% | ~3 |
 | Little hero | 50.00% | ~3 |
+| Pandora's box | 50.00% | ~3 |
 | Ferocious wild boars | 50.00% | ~3 |
 | Beast slayer | 50.00% | ~3 |
 | Ogre friend | 50.00% | ~3 |
@@ -29,7 +30,6 @@ Rating: 4.57 (Ranked 459)
 | Family man | 33.00% | ~2 |
 | Freedom fighter | 33.00% | ~2 |
 | Defender | 33.00% | ~2 |
-| Pandora's box | 33.00% | ~2 |
 | Ghost hunter | 33.00% | ~2 |
 | Showdown | 33.00% | ~2 |
 | Titan Lord | 33.00% | ~2 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 459)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6 (Ranked 562)  
-Completed: 0 (0.00%) (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

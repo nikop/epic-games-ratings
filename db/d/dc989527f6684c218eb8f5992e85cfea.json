@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -12985,8 +12985,8 @@
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:05:04.7469151+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:05:42.9649745+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3039299+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:58:36.9753367+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:04.7470144+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:58:54.2219157+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:05:42.965136+00:00"
 }

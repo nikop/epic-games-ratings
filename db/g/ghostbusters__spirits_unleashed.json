@@ -6,8 +6,8 @@
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2661,9 +2661,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27292,
+  "EOS_Progressed": 27304,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16061,6 +16061,11 @@
       "Time": "2023-10-23T17:06:13.910546+00:00",
       "NumProgressed": 27292,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-23T18:07:05.3599265+00:00",
+      "NumProgressed": 27304,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16200,7 +16205,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Fully_Upgraded",
@@ -16248,7 +16253,7 @@
       "Name": "Liability",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Line_Em_Up",
@@ -16392,7 +16397,7 @@
       "Name": "Surprise!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Swift_Removers",
@@ -16479,7 +16484,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27292,
+      "Progressed": 27304,
       "Completed": 63
     }
   ],
@@ -16487,8 +16492,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-23T16:57:59.0303764+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:06:13.9105454+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:07:05.3599259+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:57:59.030377+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:06:13.9106803+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:58:13.7659325+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:07:05.3600521+00:00"
 }

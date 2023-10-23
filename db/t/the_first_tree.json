@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37048,
+  "EOS_Progressed": 37051,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16358,6 +16358,11 @@
       "Time": "2023-10-23T17:04:32.9004792+00:00",
       "NumProgressed": 37048,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-23T18:05:04.0533635+00:00",
+      "NumProgressed": 37051,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -16369,7 +16374,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "150stars",
@@ -16385,7 +16390,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     },
     {
       "ID": "allItems",
@@ -16417,7 +16422,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "completionist",
@@ -16449,7 +16454,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 9262
+      "UsersEstimate": 9263
     },
     {
       "ID": "firstItem",
@@ -16457,7 +16462,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28527
+      "UsersEstimate": 28529
     },
     {
       "ID": "roots",
@@ -16465,7 +16470,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "secretItem",
@@ -16473,22 +16478,22 @@
       "Name": "Well Hidden",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     }
   ],
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37048,
+      "Progressed": 37051,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:04:32.9004782+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:05:04.053363+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:32.7210571+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:57:32.0794232+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:04:32.9005858+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:57:37.7579765+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:05:04.0534754+00:00"
 }

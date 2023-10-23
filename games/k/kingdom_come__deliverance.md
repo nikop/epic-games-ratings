@@ -6,31 +6,31 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~257,852 |
-| Cavalier | 25.00% | ~201,447 |
-| Fatso | 23.00% | ~185,331 |
-| Awakening | 21.00% | ~169,215 |
-| Ranger | 20.00% | ~161,157 |
-| Scrooge | 20.00% | ~161,157 |
-| Anorectic | 16.00% | ~128,926 |
-| Bookworm | 15.00% | ~120,868 |
-| Firestarter | 15.00% | ~120,868 |
-| Insomniac | 13.00% | ~104,752 |
-| Buddy | 12.00% | ~96,694 |
-| Thief | 12.00% | ~96,694 |
+| Blacksmith's Son | 32.00% | ~257,853 |
+| Cavalier | 25.00% | ~201,448 |
+| Fatso | 23.00% | ~185,332 |
+| Awakening | 21.00% | ~169,216 |
+| Ranger | 20.00% | ~161,158 |
+| Scrooge | 20.00% | ~161,158 |
+| Anorectic | 16.00% | ~128,927 |
+| Bookworm | 15.00% | ~120,869 |
+| Firestarter | 15.00% | ~120,869 |
+| Insomniac | 13.00% | ~104,753 |
+| Buddy | 12.00% | ~96,695 |
+| Thief | 12.00% | ~96,695 |
 | Sinner | 11.00% | ~88,637 |
 | Traveller | 11.00% | ~88,637 |
 | Convict | 10.00% | ~80,579 |
 | Haggler | 9.00% | ~72,521 |
 | McLovin | 7.00% | ~56,405 |
 | Runt | 7.00% | ~56,405 |
-| Casanova | 6.00% | ~48,347 |
-| Bad Trip | 5.00% | ~40,289 |
-| Monk | 5.00% | ~40,289 |
-| Serial Killer | 5.00% | ~40,289 |
-| Bastard | 4.00% | ~32,231 |
-| Hunter | 4.00% | ~32,231 |
-| Plague Doctor | 4.00% | ~32,231 |
+| Casanova | 6.00% | ~48,348 |
+| Bad Trip | 5.00% | ~40,290 |
+| Monk | 5.00% | ~40,290 |
+| Serial Killer | 5.00% | ~40,290 |
+| Bastard | 4.00% | ~32,232 |
+| Hunter | 4.00% | ~32,232 |
+| Plague Doctor | 4.00% | ~32,232 |
 | Bard | 3.00% | ~24,174 |
 | Conqueror | 3.00% | ~24,174 |
 | Ginger in a Pickle | 3.00% | ~24,174 |
@@ -89,8 +89,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~806 |
 | Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,787 (Ranked 17)  
-Completed: 51 (0.01%) (Ranked 302)  
+Progressed: 805,792 (Ranked 17)  
+Completed: 51 (0.01%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 51 (0.01%) (Ranked 302)
 | 2023-10-20 | 805,466 | 51 |
 | 2023-10-21 | 805,590 | 51 |
 | 2023-10-22 | 805,730 | 51 |
-| 2023-10-23 | 805,787 | 51 |
+| 2023-10-23 | 805,792 | 51 |
 ## Awards
 Max (Character Customization): 7,538  (Ranked 50)  
 Sum: 28,054 (Ranked 48)  

@@ -8,9 +8,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~23,272 |
 | Wallbanger | 5.00% | ~23,272 |
-| Exploitative | 4.00% | ~18,617 |
-| High Speed Low Drag | 4.00% | ~18,617 |
-| Wet Feet | 4.00% | ~18,617 |
+| Exploitative | 4.00% | ~18,618 |
+| High Speed Low Drag | 4.00% | ~18,618 |
+| Wet Feet | 4.00% | ~18,618 |
 | Checkpoint Victory | 3.00% | ~13,963 |
 | Lucky | 3.00% | ~13,963 |
 | Stylin' | 3.00% | ~13,963 |
@@ -27,8 +27,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,189 |
 | Mount & Gun | 0.90% | ~4,189 |
 | Personal | 0.90% | ~4,189 |
-| Grounded | 0.80% | ~3,723 |
-| Play to Win | 0.80% | ~3,723 |
+| Grounded | 0.80% | ~3,724 |
+| Play to Win | 0.80% | ~3,724 |
 | #1 | 0.70% | ~3,258 |
 | Special Delivery | 0.70% | ~3,258 |
 | Firefight Victory | 0.60% | ~2,793 |
@@ -42,8 +42,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~465 |
 | Road Hazard | 0.10% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465,433 (Ranked 39)  
-Completed: 2 (0.00%) (Ranked 321)  
+Progressed: 465,446 (Ranked 39)  
+Completed: 2 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,10 +228,10 @@ Completed: 2 (0.00%) (Ranked 321)
 | 2023-10-20 | 464,276 | 2 |
 | 2023-10-21 | 464,687 | 2 |
 | 2023-10-22 | 465,196 | 2 |
-| 2023-10-23 | 465,433 | 2 |
+| 2023-10-23 | 465,446 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 393  (Ranked 224)  
-Sum: 3,091 (Ranked 172)  
+Sum: 3,092 (Ranked 172)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -241,7 +241,7 @@ Diff (max vs sum): 52
 | This game has Competitive Players | 355 |
 | This game is Highly Recommended | 339 |
 | This game has Realistic Visuals | 327 |
-| This game has Amazing Characters | 325 |
+| This game has Amazing Characters | 326 |
 | This game has Amazing Storytelling | 324 |
 | This game has a Competitive Community | 292 |
 | This game has Obsessive Gameplay | 156 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 52
 | 2023-10-19 | 4.62 | - | 392 | 3,083 |
 | 2023-10-21 | 4.62 | - | 393 | 3,086 |
 | 2023-10-22 | 4.62 | - | 393 | 3,091 |
+| 2023-10-23 | 4.62 | - | 393 | 3,092 |

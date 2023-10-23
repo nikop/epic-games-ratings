@@ -14,12 +14,12 @@
 | Little grey cells | 46.00% | ~11 |
 | Impossible is possible | 46.00% | ~11 |
 | Arthur Hastings | 46.00% | ~11 |
-| The Missing Magdalene | 38.00% | ~9 |
+| The Missing Magdalene | 42.00% | ~10 |
 | Everything matters | 29.00% | ~7 |
 | Order and method | 29.00% | ~7 |
+| DI Hardwicke | 29.00% | ~7 |
 | An expert mediator | 25.00% | ~6 |
 | Betty Allen | 25.00% | ~6 |
-| DI Hardwicke | 25.00% | ~6 |
 | The Investigation Begins | 25.00% | ~6 |
 | An odd series of events | 17.00% | ~4 |
 | Ms. Camilla B. Culsham | 17.00% | ~4 |
@@ -52,7 +52,7 @@
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 489)  
-Completed: 0 (0.00%) (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

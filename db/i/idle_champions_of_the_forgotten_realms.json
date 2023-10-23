@@ -7537,9 +7537,9 @@
       "Count": 3479
     }
   ],
-  "EOS_Progressed": 232651,
+  "EOS_Progressed": 232653,
   "EOS_Completed": 2380,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28317,6 +28317,11 @@
       "Time": "2023-10-23T17:06:44.0649156+00:00",
       "NumProgressed": 232651,
       "NumCompleted": 2380
+    },
+    {
+      "Time": "2023-10-23T18:07:41.6624678+00:00",
+      "NumProgressed": 232653,
+      "NumCompleted": 2380
     }
   ],
   "TotalAchievements": 528,
@@ -32470,9 +32475,9 @@
       "ID": "objective_completed_1370",
       "SetID": "415jc5c",
       "Name": "The End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_1371",
@@ -32551,21 +32556,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198925,
+      "Progressed": 198927,
       "Completed": 3673
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232651,
+      "Progressed": 232653,
       "Completed": 2380
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T05:59:27.1938183+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:06:44.0649148+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:07:41.662467+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:01.7582527+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:06:44.0678682+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:00:40.398505+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:07:41.6663192+00:00"
 }

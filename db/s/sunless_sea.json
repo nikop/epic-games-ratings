@@ -6,9 +6,9 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 113,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39300,
+  "EOS_Progressed": 39302,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19685,6 +19685,11 @@
       "Time": "2023-10-23T17:07:14.1955897+00:00",
       "NumProgressed": 39300,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T18:08:17.1423296+00:00",
+      "NumProgressed": 39302,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19816,7 +19821,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14148
+      "UsersEstimate": 14149
     },
     {
       "ID": "ach_die10",
@@ -20120,22 +20125,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39300,
+      "Progressed": 39302,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:07:14.1955889+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:08:17.1423291+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:58:06.0521481+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:07:14.1957401+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:58:21.5345663+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:08:17.1424911+00:00"
 }

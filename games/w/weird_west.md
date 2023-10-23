@@ -6,14 +6,14 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,686 |
+| Unforgiven | 88.00% | ~1,687 |
 | Self-Improvement | 72.00% | ~1,380 |
-| Perky | 65.00% | ~1,245 |
+| Perky | 65.00% | ~1,246 |
 | Let’s Ride | 60.00% | ~1,150 |
-| Welcome to the Weird West | 57.00% | ~1,092 |
-| Dead or Alive | 56.00% | ~1,073 |
+| Welcome to the Weird West | 57.00% | ~1,093 |
+| Dead or Alive | 56.00% | ~1,074 |
 | Full House | 37.00% | ~709 |
-| Off the Trail | 34.00% | ~651 |
+| Off the Trail | 34.00% | ~652 |
 | Justice Served | 29.00% | ~556 |
 | Chain Reaction | 26.00% | ~498 |
 | Through Their Eyes | 26.00% | ~498 |
@@ -25,7 +25,7 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~307 |
 | Here Comes Santa Claus | 16.00% | ~307 |
 | Winds of War | 16.00% | ~307 |
-| For Balance | 15.00% | ~287 |
+| For Balance | 15.00% | ~288 |
 | Dog Days | 13.00% | ~249 |
 | Out on the Ebb Tide | 13.00% | ~249 |
 | Workers' Rights | 13.00% | ~249 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 11.00% | ~211 |
 | There is Hope | 11.00% | ~211 |
 | The Philosopher’s Stone | 10.00% | ~192 |
-| Loyalty to the Pack | 9.00% | ~172 |
-| Eternity Can Wait | 9.00% | ~172 |
-| Mystery Machine | 9.00% | ~172 |
+| Loyalty to the Pack | 9.00% | ~173 |
+| Eternity Can Wait | 9.00% | ~173 |
+| Mystery Machine | 9.00% | ~173 |
 | Do Not Pass Go… | 8.00% | ~153 |
 | Gold Digger | 8.00% | ~153 |
 | Monster Hunter | 8.00% | ~153 |
@@ -47,20 +47,20 @@ Number of Ratings: 125  (23.09.2022)
 | Who You Gonna Call? | 6.00% | ~115 |
 | This Is Sparta | 5.00% | ~96 |
 | What’s in the Box? | 5.00% | ~96 |
-| Ghost Town | 3.00% | ~57 |
-| Lord Inut Sends His Regards | 3.00% | ~57 |
-| Moondrunk | 3.00% | ~57 |
+| Ghost Town | 3.00% | ~58 |
+| Lord Inut Sends His Regards | 3.00% | ~58 |
+| Moondrunk | 3.00% | ~58 |
 | 'Ma Barker | 2.00% | ~38 |
 | I Kicked a Bird and I Liked it | 1.00% | ~19 |
 | Hog Wild | 1.00% | ~19 |
 | End the world | 0.70% | ~13 |
-| Explorer | 0.60% | ~11 |
-| Moon Hunter | 0.60% | ~11 |
+| Explorer | 0.60% | ~12 |
+| Moon Hunter | 0.60% | ~12 |
 | Dirt and Blame | 0.50% | ~10 |
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,916 (Ranked 210)  
+Progressed: 1,917 (Ranked 210)  
 Completed: 7 (0.37%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 7 (0.37%) (Ranked 202)
 | 2023-10-20 | 1,887 | 7 |
 | 2023-10-21 | 1,902 | 7 |
 | 2023-10-22 | 1,916 | 7 |
+| 2023-10-23 | 1,917 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

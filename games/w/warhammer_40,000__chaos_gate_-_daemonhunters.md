@@ -37,8 +37,8 @@ Number of Ratings: 371  (23.09.2022)
 | Junk Banishment | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
 | Fleetmaster | 0.80% | ~26 |
+| For the Machine God | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
-| For the Machine God | 0.70% | ~23 |
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Death Comes For All | 0.70% | ~23 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,275 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

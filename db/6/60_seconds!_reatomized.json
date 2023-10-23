@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 295,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -6353,9 +6353,9 @@
       "ID": "ACH_ALL_ITEMS",
       "SetID": "5nj1ea3",
       "Name": "Gotta get \u0027em all",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1850
     },
     {
       "ID": "ACH_ATOMIC_DRILL",
@@ -6810,8 +6810,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:05:05.1681565+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:05:43.520102+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:07.6944115+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:57:43.8894337+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:05.1682428+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:57:53.90309+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:05:43.5201933+00:00"
 }

@@ -19,11 +19,11 @@ Rating: 4.65 (Ranked 305)
 | Self-Actualization | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
+| Spent 15 Hours At The Alien Strip Club | 1.00% | ~243 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
 | Lezduit! | 0.90% | ~219 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
-| Spent 15 Hours At The Alien Strip Club | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.80% | ~195 |
 | Eatin' Good in the Neighborhood | 0.70% | ~170 |
 | We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
@@ -51,7 +51,7 @@ Rating: 4.65 (Ranked 305)
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,324 (Ranked 122)  
-Completed: 13 (0.05%) (Ranked 279)  
+Completed: 13 (0.05%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

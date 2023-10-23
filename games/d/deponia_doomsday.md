@@ -15,8 +15,8 @@ Rating: 4.55 (Ranked 494)
 | Boat of love, boat of love | 49.00% | ~219 |
 | Shall we play a game? | 48.00% | ~214 |
 | School's out | 43.00% | ~192 |
+| Elysian Minigame-Master | 38.00% | ~169 |
 | Scaffolding Expert | 37.00% | ~165 |
-| Elysian Minigame-Master | 37.00% | ~165 |
 | Sole Music | 35.00% | ~156 |
 | No man left behind! | 30.00% | ~134 |
 | Portals come in packs | 29.00% | ~129 |
@@ -34,7 +34,7 @@ Rating: 4.55 (Ranked 494)
 | Paradox! | 10.00% | ~45 |
 | Weapons 101 | 8.00% | ~36 |
 | Sadist | 8.00% | ~36 |
-| The customer is always right | 6.00% | ~27 |
+| The customer is always right | 7.00% | ~31 |
 | Pacifist | 6.00% | ~27 |
 | Apoca...huh? | 6.00% | ~27 |
 | Against better judgement | 6.00% | ~27 |

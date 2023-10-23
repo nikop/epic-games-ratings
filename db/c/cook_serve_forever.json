@@ -3,9 +3,9 @@
   "Name": "Cook Serve Forever",
   "ProductSlug": "cook-serve-forever-abc556",
   "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:59:59.2241245+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:58:15.4318876+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:22.4131314+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:58:30.6517424+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:06:04.1591347+00:00"
 }

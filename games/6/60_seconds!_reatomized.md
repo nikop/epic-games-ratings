@@ -24,8 +24,8 @@ Rating: 4.60 (Ranked 402)
 | What goes around... | 44.00% | ~2,394 |
 | Be Prepared | 38.00% | ~2,068 |
 | Unbreakable | 37.00% | ~2,014 |
+| Gotta get 'em all | 34.00% | ~1,850 |
 | This is the end | 34.00% | ~1,850 |
-| Gotta get 'em all | 33.00% | ~1,796 |
 | Atomic drill | 32.00% | ~1,741 |
 | Disco Roach | 28.00% | ~1,524 |
 | Dawkins Residence | 22.00% | ~1,197 |
@@ -67,7 +67,7 @@ Rating: 4.60 (Ranked 402)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,442 (Ranked 174)  
-Completed: 1 (0.02%) (Ranked 294)  
+Completed: 1 (0.02%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

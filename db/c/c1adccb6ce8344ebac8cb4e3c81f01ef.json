@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -2062,9 +2062,9 @@
       "ID": "BlueSkeleton",
       "SetID": "a76l54k",
       "Name": "Blue Skeleton",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 69
+      "UsersEstimate": 75
     },
     {
       "ID": "GreenSkeleton",
@@ -2109,8 +2109,8 @@
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:08:10.6480863+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:09:00.5124613+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.3074367+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:59:06.3542423+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:08:10.6481098+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:59:33.5599499+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:09:00.5124927+00:00"
 }

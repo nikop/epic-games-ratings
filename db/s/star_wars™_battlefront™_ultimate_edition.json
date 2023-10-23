@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 815,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2259,6 +2259,11 @@
       "Time": "2023-10-23T17:09:03.8499301+00:00",
       "NumProgressed": 814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T18:09:27.0693173+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2447,7 +2452,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_30",
@@ -2495,7 +2500,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_36",
@@ -2543,7 +2548,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "achievement_41",
@@ -2623,7 +2628,7 @@
       "Name": "Shoot first",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_50",
@@ -2751,7 +2756,7 @@
       "Name": "A cunning warrior",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_8",
@@ -2774,13 +2779,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 815,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 814,
+      "Progressed": 815,
       "Completed": 1
     }
   ],
@@ -2788,8 +2793,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:09:03.8499298+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:09:27.0693167+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:40.9185949+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:09:03.8500045+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:01:28.9572602+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:09:27.0694013+00:00"
 }

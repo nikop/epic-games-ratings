@@ -3,9 +3,9 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 73
     },
     {
       "ID": "Inquisitor",
@@ -1217,8 +1217,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:09:38.6990742+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:10:08.0128103+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-23T16:57:39.4749691+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:09:38.6991178+00:00"
+  "LastUpdate_Ratings": "2023-10-23T17:57:48.0246778+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:10:08.012848+00:00"
 }

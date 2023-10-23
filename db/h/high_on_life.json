@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -6203,9 +6203,9 @@
       "ID": "ACH_NIPULON_JOKE",
       "SetID": "cdkbb11",
       "Name": "Spent 15 Hours At The Alien Strip Club",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -6346,8 +6346,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:04:47.9883158+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:05:22.0061189+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:00.0122765+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:04:47.9883905+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:00:38.0070387+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:05:22.0062169+00:00"
 }

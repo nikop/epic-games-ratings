@@ -6,9 +6,9 @@
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 111,
+  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 112,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1971,9 +1971,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21156,
+  "EOS_Progressed": 21158,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -9686,6 +9686,11 @@
       "Time": "2023-10-23T17:05:58.5577226+00:00",
       "NumProgressed": 21156,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-23T18:06:46.9600472+00:00",
+      "NumProgressed": 21158,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9697,7 +9702,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "CarMechanic",
@@ -9745,7 +9750,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20098
+      "UsersEstimate": 20100
     },
     {
       "ID": "GameOver",
@@ -9785,7 +9790,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "KnockKnock",
@@ -9833,7 +9838,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "SeniorEstateAgent",
@@ -9857,7 +9862,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6558
+      "UsersEstimate": 6559
     },
     {
       "ID": "VeronicaLiptson",
@@ -9880,15 +9885,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21156,
+      "Progressed": 21158,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-23T02:59:21.9150369+00:00",
-  "LastChanged_Achievements": "2023-10-23T17:05:58.5577219+00:00",
+  "LastChanged_Achievements": "2023-10-23T18:06:46.9600466+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-23T17:00:36.8030421+00:00",
-  "LastUpdate_Achievements": "2023-10-23T17:05:58.5577941+00:00"
+  "LastUpdate_Ratings": "2023-10-23T18:01:23.827621+00:00",
+  "LastUpdate_Achievements": "2023-10-23T18:06:46.9601117+00:00"
 }
