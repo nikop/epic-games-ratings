@@ -19,7 +19,7 @@ Number of Ratings: 36  (23.09.2022)
 | The Weight of the World | 29.00% | ~269 |
 | No Niños | 27.00% | ~251 |
 | I ain’t afraid of no Ghost | 25.00% | ~232 |
-| Act II Complete | 21.00% | ~195 |
+| Act II Complete | 22.00% | ~204 |
 | Bing Bang BOOM | 20.00% | ~186 |
 | A successful procedure! | 19.00% | ~176 |
 | Breaking the Ice | 18.00% | ~167 |

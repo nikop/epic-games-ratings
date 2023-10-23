@@ -1,7 +1,7 @@
 # Hell is other demons
 [Store](https://store.epicgames.com/en-US/p/hell-is-other-demons)  
 [View Rawdata](../../db/h/hell_is_other_demons.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.65 (Ranked 304)  
 Number of Ratings: 317  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -83,3 +83,4 @@ Number of Ratings: 317  (23.09.2022)
 | 2023-06-04 | 4.64 | - | 0 | 0 |
 | 2023-10-06 | 4.65 | - | 0 | 0 |
 | 2023-10-20 | 4.64 | - | 0 | 0 |
+| 2023-10-23 | 4.65 | - | 0 | 0 |

@@ -445,9 +445,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2775,
+  "EOS_Progressed": 2777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3230,6 +3230,11 @@
       "Time": "2023-10-23T20:09:14.4859838+00:00",
       "NumProgressed": 2775,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T21:08:28.9581812+00:00",
+      "NumProgressed": 2777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3258,7 +3263,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_12",
@@ -3274,7 +3279,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_14",
@@ -3282,7 +3287,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "achievement_15",
@@ -3338,7 +3343,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "achievement_21",
@@ -3394,7 +3399,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "achievement_9",
@@ -3409,7 +3414,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2775,
+      "Progressed": 2777,
       "Completed": 0
     }
   ],
@@ -3417,8 +3422,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-23T17:58:32.6419992+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:09:14.4859828+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:08:28.9581805+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-23T19:58:31.3714155+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:09:14.4860417+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:58:22.8384814+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:08:28.9582384+00:00"
 }

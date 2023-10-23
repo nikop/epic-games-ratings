@@ -5,15 +5,15 @@ Rating: 4.59 (Ranked 421)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~2,568 |
+| Oyedang, Kopengs | 18.00% | ~2,569 |
 | Drug Gifter | 7.00% | ~999 |
 | Bosmang | 7.00% | ~999 |
 | The Pit and the Pirates | 6.00% | ~856 |
 | Drone Dodger | 6.00% | ~856 |
-| Heal Thy Medic | 5.00% | ~713 |
-| Call it Even | 5.00% | ~713 |
-| Celebrations are in Order | 5.00% | ~713 |
-| Impossible Objects | 5.00% | ~713 |
+| Heal Thy Medic | 5.00% | ~714 |
+| Call it Even | 5.00% | ~714 |
+| Celebrations are in Order | 5.00% | ~714 |
+| Impossible Objects | 5.00% | ~714 |
 | Data Archivist | 4.00% | ~571 |
 | Stogie for Fogey | 4.00% | ~571 |
 | Spore Taste | 4.00% | ~571 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 421)
 | Scavenger Star | 0.20% | ~29 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,269 (Ranked 140)  
+Progressed: 14,270 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 27 (0.19%) (Ranked 232)
 | 2023-10-20 | 14,164 | 26 |
 | 2023-10-21 | 14,210 | 27 |
 | 2023-10-22 | 14,248 | 27 |
-| 2023-10-23 | 14,269 | 27 |
+| 2023-10-23 | 14,270 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

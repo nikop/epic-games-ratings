@@ -347,9 +347,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -363,17 +363,17 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -395,9 +395,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -451,9 +451,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -467,9 +467,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:09:20.4973515+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:08:36.5884612+00:00",
   "LastUpdate_AppInfo": "2023-10-17T18:57:05.9704526+00:00",
-  "LastUpdate_Ratings": "2023-10-23T19:58:45.5015452+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:09:20.4973692+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:58:44.1211406+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:08:36.5884855+00:00"
 }

@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 327)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,9 +9,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.50% | ~4,468 |
 | Rough Landing | 0.40% | ~3,574 |
 | The High Priestess | 0.40% | ~3,574 |
+| All the President's Men | 0.40% | ~89 |
+| Arachnophobia | 0.40% | ~89 |
 | Full Body Conversion | 0.30% | ~2,681 |
 | Right Back At Ya | 0.30% | ~2,681 |
 | Gunslinger | 0.30% | ~2,681 |
+| Breathtaking | 0.30% | ~2,681 |
 | Stanislavski's Method | 0.30% | ~2,681 |
 | The Hermit | 0.30% | ~2,681 |
 | The Wheel of Fortune | 0.30% | ~2,681 |
@@ -19,8 +22,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.30% | ~2,681 |
 | Two Heads, One Bullet | 0.30% | ~2,681 |
 | Legend of The Afterlife | 0.30% | ~2,681 |
-| All the President's Men | 0.30% | ~66 |
-| Arachnophobia | 0.30% | ~66 |
 | To Bad Decisions! | 0.20% | ~1,787 |
 | Bushido and Chill | 0.20% | ~1,787 |
 | To Protect and Serve | 0.20% | ~1,787 |
@@ -30,7 +31,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Mean Streets | 0.20% | ~1,787 |
 | Christmas Tree Attack | 0.20% | ~1,787 |
 | The Quick and the Dead | 0.20% | ~1,787 |
-| Breathtaking | 0.20% | ~1,787 |
 | Life of the Road | 0.20% | ~1,787 |
 | Temperance | 0.20% | ~1,787 |
 | The Fool | 0.20% | ~1,787 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,525 (Ranked 15)  
+Progressed: 893,531 (Ranked 15)  
 Completed: 2,707 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 2,707 (0.30%) (Ranked 212)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,525 | 2,707 |
+| 2023-10-23 | 893,531 | 2,707 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
-Sum: 322,236 (Ranked 11)  
+Sum: 322,388 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): -2
 | This game is Great for Beginners | 18,339 |
 | This game has Diverse Characters | 18,180 |
 | This game is Highly Recommended | 17,455 |
-| This game has Amazing Storytelling | 17,285 |
+| This game has Amazing Storytelling | 17,437 |
 | This game is Extremely Fun | 17,180 |
 | This game has Amazing Characters | 16,975 |
 | This game is Relaxing | 16,414 |
@@ -556,4 +556,4 @@ Diff (max vs sum): -2
 | 2023-10-20 | 4.64 | - | 99,962 | 315,422 |
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
-| 2023-10-23 | 4.64 | - | 100,955 | 322,236 |
+| 2023-10-23 | 4.64 | - | 100,955 | 322,388 |

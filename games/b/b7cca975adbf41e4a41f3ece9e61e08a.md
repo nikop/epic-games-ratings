@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~1,712 |
-| I Challenge You To Save More Money! | 83.00% | ~1,597 |
+| Last Night...Did We... | 89.00% | ~1,713 |
+| I Challenge You To Save More Money! | 83.00% | ~1,598 |
 | I Love How Tough You Are | 65.00% | ~1,251 |
-| Wanna Come To My Place For Dinner? | 55.00% | ~1,058 |
+| Wanna Come To My Place For Dinner? | 55.00% | ~1,059 |
 | What I Want Is You | 49.00% | ~943 |
-| To Be Or Not To Be | 45.00% | ~866 |
+| To Be Or Not To Be | 46.00% | ~886 |
 | Are You Alright? | 41.00% | ~789 |
 | Love Actually | 37.00% | ~712 |
 | Drama King | 33.00% | ~635 |
 | You're Really Something Else | 29.00% | ~558 |
 | Happy Family | 28.00% | ~539 |
-| Go Clean up In Your Own Way | 27.00% | ~519 |
+| Go Clean up In Your Own Way | 27.00% | ~520 |
 | ONE PUNCH | 26.00% | ~500 |
 | Worthless Speech | 26.00% | ~500 |
 | Absolutely Elegant | 25.00% | ~481 |
@@ -35,7 +35,7 @@
 | Love You Three Thousand | 9.00% | ~173 |
 | Can You Do This Or Not? | 9.00% | ~173 |
 | Doesn't Matter I'll Handle It | 7.00% | ~135 |
-| New Yoga Pose Unlocked | 6.00% | ~115 |
+| New Yoga Pose Unlocked | 6.00% | ~116 |
 | Life Is A Rollercoaster | 5.00% | ~96 |
 | Boys Need To Protect Themselves | 5.00% | ~96 |
 | The Flash | 5.00% | ~96 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.70% | ~13 |
 | Hurrah! | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,924 (Ranked 210)  
+Progressed: 1,925 (Ranked 210)  
 Completed: 10 (0.52%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,4 +63,4 @@ Completed: 10 (0.52%) (Ranked 181)
 | 2023-10-20 | 877 | 1 |
 | 2023-10-21 | 1,253 | 7 |
 | 2023-10-22 | 1,613 | 9 |
-| 2023-10-23 | 1,924 | 10 |
+| 2023-10-23 | 1,925 | 10 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6379,
+  "EOS_Progressed": 6380,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4073,6 +4073,11 @@
       "Time": "2023-10-23T20:09:34.1330174+00:00",
       "NumProgressed": 6379,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-23T21:09:13.7216134+00:00",
+      "NumProgressed": 6380,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4085,7 +4090,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5486
+      "UsersEstimate": 5487
     },
     {
       "ID": "achievement_01_02",
@@ -4109,7 +4114,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4593
+      "UsersEstimate": 4594
     },
     {
       "ID": "achievement_01_05",
@@ -4117,7 +4122,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "achievement_01_06",
@@ -4149,7 +4154,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "achievement_01_10",
@@ -4237,7 +4242,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_03_03",
@@ -4317,7 +4322,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_04_02",
@@ -4333,7 +4338,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3253
+      "UsersEstimate": 3254
     },
     {
       "ID": "achievement_04_04",
@@ -4341,7 +4346,7 @@
       "Name": "Flawless Racer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_04_05",
@@ -4349,7 +4354,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "achievement_04_06",
@@ -4373,7 +4378,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "achievement_04_09",
@@ -4388,7 +4393,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6379,
+      "Progressed": 6380,
       "Completed": 28
     }
   ],
@@ -4396,8 +4401,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-21T23:58:43.7664545+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:09:34.1330169+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:09:13.7216126+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:00:06.4167274+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:09:34.1330802+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:00:24.3711478+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:09:13.7216744+00:00"
 }

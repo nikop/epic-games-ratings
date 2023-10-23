@@ -23,8 +23,8 @@
 | Invincible | 28.00% | ~27 |
 | Unsalvageable | 25.00% | ~24 |
 | Best in Dragon City | 24.00% | ~23 |
+| Walking into a Trap | 24.00% | ~23 |
 | Neutralize | 24.00% | ~23 |
-| Walking into a Trap | 23.00% | ~22 |
 | Disdain | 22.00% | ~21 |
 | Brain in a Vat | 20.00% | ~19 |
 | Final Battle | 19.00% | ~18 |

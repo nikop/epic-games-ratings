@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14269,
+  "EOS_Progressed": 14270,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9431,6 +9431,11 @@
       "Time": "2023-10-23T20:06:13.2141532+00:00",
       "NumProgressed": 14269,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-23T21:06:25.9865979+00:00",
+      "NumProgressed": 14270,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9475,7 +9480,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "14",
@@ -9563,7 +9568,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "24",
@@ -9587,7 +9592,7 @@
       "Name": "Call it Even",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "27",
@@ -9651,7 +9656,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "7",
@@ -9675,29 +9680,29 @@
       "Name": "Impossible Objects",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14269,
+      "Progressed": 14270,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 223,
-      "Completed": 223
+      "Progressed": 224,
+      "Completed": 224
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:06:13.2141525+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:06:25.9865974+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:00:06.9035703+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:06:13.2142654+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:00:24.9997687+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:06:25.9866912+00:00"
 }

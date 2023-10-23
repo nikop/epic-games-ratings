@@ -786,9 +786,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225457,
+  "EOS_Progressed": 225459,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21131,6 +21131,11 @@
       "Time": "2023-10-23T20:09:20.7217912+00:00",
       "NumProgressed": 225457,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T21:08:36.8550718+00:00",
+      "NumProgressed": 225459,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21222,7 +21227,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13527
+      "UsersEstimate": 13528
     },
     {
       "ID": "ACH_BASE_20",
@@ -21413,7 +21418,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225457,
+      "Progressed": 225459,
       "Completed": 5
     }
   ],
@@ -21421,8 +21426,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:09:20.7217907+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:08:36.8550711+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-23T19:58:39.9258637+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:09:20.7219853+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:58:34.641802+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:08:36.8552575+00:00"
 }

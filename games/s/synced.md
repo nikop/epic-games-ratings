@@ -5,11 +5,11 @@ Rating: 4.16 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~19,972 |
-| As Far Away As Possible | 17.00% | ~10,952 |
-| A Most Unstable Organism | 12.00% | ~7,731 |
+| Your Lucky Day | 31.00% | ~19,975 |
+| As Far Away As Possible | 17.00% | ~10,954 |
+| A Most Unstable Organism | 12.00% | ~7,732 |
 | No Time to Follow Protocol | 10.00% | ~6,443 |
-| Float Like a Butterfly... | 8.00% | ~5,154 |
+| Float Like a Butterfly... | 8.00% | ~5,155 |
 | Nano Connoisseur | 6.00% | ~3,866 |
 | In Two Places At Once | 6.00% | ~3,866 |
 | Pulling Your Weight | 3.00% | ~1,933 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 918)
 | Runs for Your Money | 0.20% | ~129 |
 | Past Master | 0.20% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,426 (Ranked 98)  
+Progressed: 64,434 (Ranked 98)  
 Completed: 22 (0.03%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 22 (0.03%) (Ranked 290)
 | 2023-10-20 | 63,949 | 20 |
 | 2023-10-21 | 64,141 | 21 |
 | 2023-10-22 | 64,321 | 21 |
-| 2023-10-23 | 64,426 | 22 |
+| 2023-10-23 | 64,434 | 22 |
 ## Awards
 Max (Great for Beginners): 75  (Ranked 385)  
 Sum: 292 (Ranked 356)  

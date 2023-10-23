@@ -258,9 +258,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_DEATH_2",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:05:56.883892+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:06:05.6382985+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:00:04.837473+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:05:56.8839298+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:00:23.041659+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:06:05.6383573+00:00"
 }

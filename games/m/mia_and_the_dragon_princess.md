@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Relight my Cannon | 40.00% | ~33 |
 | Glass Act | 39.00% | ~32 |
-| Relight my Cannon | 39.00% | ~32 |
 | Tour Guide Extraordinaire | 38.00% | ~31 |
 | Snitch | 26.00% | ~21 |
 | Explosive End | 23.00% | ~19 |

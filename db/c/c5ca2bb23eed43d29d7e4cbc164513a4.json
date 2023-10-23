@@ -2,9 +2,9 @@
   "ID": "c5ca2bb23eed43d29d7e4cbc164513a4",
   "Name": "Outbreak Contagious Memories",
   "ProductSlug": "outbreak-contagious-memories-9e3c2a",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-16T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-10-21T18:07:07.4132309+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T21:05:37.1315812+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.572745+00:00",
@@ -54,7 +59,7 @@
       "ID": "ALL_OUT_WAR_ACH",
       "SetID": "1ln1olh",
       "Name": "All Out War",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -62,7 +67,7 @@
       "ID": "ALWAYS_RECYCLE_ACH",
       "SetID": "1ln1olh",
       "Name": "Always Recycle",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -70,7 +75,7 @@
       "ID": "AN_EVIL_RESIDES_ACH",
       "SetID": "1ln1olh",
       "Name": "An Evil Resides",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -78,7 +83,7 @@
       "ID": "BACKTRACKING_ACH",
       "SetID": "1ln1olh",
       "Name": "Backtracking",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -86,7 +91,7 @@
       "ID": "BOULDER_DASH_ACH",
       "SetID": "1ln1olh",
       "Name": "Boulder Dash",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -94,7 +99,7 @@
       "ID": "CASH_ON_DELIVERY_ACH",
       "SetID": "1ln1olh",
       "Name": "Cash on Delivery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "CHOP_TIL_YOU_DROP_ACH",
       "SetID": "1ln1olh",
       "Name": "Chop Til You Drop",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "CLASSIC_SAFE_ROOM_ACH",
       "SetID": "1ln1olh",
       "Name": "Classic Safe Room",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -126,7 +131,7 @@
       "ID": "DINE_AND_ASH_ACH",
       "SetID": "1ln1olh",
       "Name": "Dine and Ash",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -134,7 +139,7 @@
       "ID": "DIRECT_FEED_ACH",
       "SetID": "1ln1olh",
       "Name": "Direct Feed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -142,7 +147,7 @@
       "ID": "EMPLOYEE_PARKING_ACH",
       "SetID": "1ln1olh",
       "Name": "Employee Parking",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -150,7 +155,7 @@
       "ID": "ESCAPE_VECTOR_ACH",
       "SetID": "1ln1olh",
       "Name": "Escape Vector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -158,7 +163,7 @@
       "ID": "EXPERIENCE_THE_NIGHTLIFE_ACH",
       "SetID": "1ln1olh",
       "Name": "Experience the Nightlife",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -166,7 +171,7 @@
       "ID": "GETTING_STEAMY_ACH",
       "SetID": "1ln1olh",
       "Name": "Getting Steamy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -182,7 +187,7 @@
       "ID": "SILENT_HELL_ACH",
       "SetID": "1ln1olh",
       "Name": "Silent Hell",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -190,7 +195,7 @@
       "ID": "THAT_OLD_FAMILIAR_FEELING_ACH",
       "SetID": "1ln1olh",
       "Name": "That Old Familiar Feeling",
-      "Percentage": 113,
+      "Percentage": 106,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -206,7 +211,7 @@
       "ID": "THE_MERCENARIES_ACH",
       "SetID": "1ln1olh",
       "Name": "The Mercenaries",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -214,7 +219,7 @@
       "ID": "TIME_FOR_PAYBACK_ACH",
       "SetID": "1ln1olh",
       "Name": "Time for Payback",
-      "Percentage": 63,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -222,7 +227,7 @@
       "ID": "USE_THE_FACILITIES_ACH",
       "SetID": "1ln1olh",
       "Name": "Use the Facilities",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -230,7 +235,7 @@
       "ID": "WEAPONSMITH_ACH",
       "SetID": "1ln1olh",
       "Name": "Weaponsmith",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -238,7 +243,7 @@
       "ID": "WELCOME_BACK_ACH",
       "SetID": "1ln1olh",
       "Name": "Welcome Back",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -246,7 +251,7 @@
       "ID": "YOU_DIED_ACH",
       "SetID": "1ln1olh",
       "Name": "You Died",
-      "Percentage": 63,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 10
     }
@@ -255,14 +260,14 @@
     {
       "ID": "1ln1olh",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-18T22:09:37.4633891+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.5727447+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:05:33.9384356+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:05:37.1315805+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:32.3795655+00:00",
-  "LastUpdate_Ratings": "2023-10-23T19:59:30.3021465+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:05:33.9384686+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:59:37.2681394+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:05:37.1316008+00:00"
 }

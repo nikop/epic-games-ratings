@@ -28,16 +28,16 @@
 | Scientist | 48.00% | ~379 |
 | Merciless | 47.00% | ~371 |
 | Krogan Ally | 45.00% | ~355 |
+| Head Hunter | 45.00% | ~355 |
 | Missing in Action | 44.00% | ~347 |
 | Very Elusive | 44.00% | ~347 |
-| Head Hunter | 44.00% | ~347 |
+| Scholar | 44.00% | ~347 |
 | Sentinel Ally | 43.00% | ~339 |
 | Operative | 43.00% | ~339 |
-| Scholar | 43.00% | ~339 |
-| Veteran | 41.00% | ~323 |
+| Veteran | 42.00% | ~331 |
 | The Professor | 41.00% | ~323 |
+| Power Full | 41.00% | ~323 |
 | The Archangel | 40.00% | ~316 |
-| Power Full | 40.00% | ~316 |
 | Completionist | 37.00% | ~292 |
 | Colony Defense | 37.00% | ~292 |
 | The Convict | 37.00% | ~292 |
@@ -81,10 +81,10 @@
 | World Shaker | 26.00% | ~205 |
 | Eye of the Hurricane | 25.00% | ~197 |
 | Liberator | 25.00% | ~197 |
+| Pathfinder | 24.00% | ~189 |
 | Tunnel Rat | 24.00% | ~189 |
 | Savior | 23.00% | ~181 |
 | Paramour II | 23.00% | ~181 |
-| Pathfinder | 23.00% | ~181 |
 | Arbiter | 23.00% | ~181 |
 | Lost and Found | 23.00% | ~181 |
 | Party Crasher | 21.00% | ~166 |

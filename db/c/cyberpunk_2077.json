@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
@@ -13950,10 +13950,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 322236,
       "NumberOfAwardsMax": 100955
+    },
+    {
+      "Time": "2023-10-23T21:00:14.1781186+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 322388,
+      "NumberOfAwardsMax": 100955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 322236,
+  "NumberOfAwards": 322388,
   "NumberOfAwardsMax": 100955,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13985,7 +13991,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17285
+      "Count": 17437
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14030,9 +14036,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893525,
+  "EOS_Progressed": 893531,
   "EOS_Completed": 2707,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35135,6 +35141,11 @@
       "Time": "2023-10-23T20:06:18.1461996+00:00",
       "NumProgressed": 893525,
       "NumCompleted": 2707
+    },
+    {
+      "Time": "2023-10-23T21:06:32.364677+00:00",
+      "NumProgressed": 893531,
+      "NumCompleted": 2707
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35289,9 +35300,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2681
     },
     {
       "ID": "NoMansLand",
@@ -35601,9 +35612,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 89
     },
     {
       "ID": "HydraIsDead",
@@ -35617,9 +35628,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 89
     },
     {
       "ID": "KingOfTheCups",
@@ -35666,21 +35677,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893525,
+      "Progressed": 893531,
       "Completed": 2707
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22148,
+      "Progressed": 22154,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-23T18:59:40.8626688+00:00",
-  "LastChanged_Achievements": "2023-10-23T20:06:18.1461991+00:00",
+  "LastChanged": "2023-10-23T21:00:14.1781184+00:00",
+  "LastChanged_Achievements": "2023-10-23T21:06:32.3646766+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-23T19:59:58.5472424+00:00",
-  "LastUpdate_Achievements": "2023-10-23T20:06:18.1464647+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:00:14.1781193+00:00",
+  "LastUpdate_Achievements": "2023-10-23T21:06:32.3648827+00:00"
 }

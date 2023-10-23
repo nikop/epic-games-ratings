@@ -24,7 +24,7 @@ Rating: 4.65 (Ranked 304)
 | Lezduit! | 0.90% | ~219 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
-| Series Wrap on Suit-O | 0.80% | ~195 |
+| Series Wrap on Suit-O | 0.90% | ~219 |
 | Eatin' Good in the Neighborhood | 0.70% | ~170 |
 | We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
 | Eye Scream, You Scream | 0.60% | ~146 |

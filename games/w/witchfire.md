@@ -4,8 +4,8 @@
 Rating: 4.63 (Ranked 340)  
 ## Awards
 Max (Challenging Combat): 35  (Ranked 460)  
-Sum: 210 (Ranked 384)  
-Diff (max vs sum): 76  
+Sum: 211 (Ranked 383)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |
@@ -16,8 +16,8 @@ Diff (max vs sum): 76
 | This game has Quickly Understood Controls | 30 |
 | This game is Hard for Beginners | 29 |
 | This game has Amazing Storytelling | 27 |
+| This game has Amazing Characters | 22 |
 | This game has Competitive Players | 21 |
-| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
