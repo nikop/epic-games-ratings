@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -1105,9 +1105,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 170
     },
     {
       "ID": "INTERROGATION",
@@ -1178,8 +1178,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:05:28.9718827+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:05:42.3196035+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:00:26.9030767+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:05:28.9719014+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:00:39.3468043+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:05:42.3196256+00:00"
 }

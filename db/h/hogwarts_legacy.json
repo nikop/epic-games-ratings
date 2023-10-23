@@ -9381,9 +9381,9 @@
       "Count": 736
     }
   ],
-  "EOS_Progressed": 298716,
+  "EOS_Progressed": 298717,
   "EOS_Completed": 491,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29191,6 +29191,11 @@
       "Time": "2023-10-23T07:07:06.2063795+00:00",
       "NumProgressed": 298716,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-23T08:09:01.4369977+00:00",
+      "NumProgressed": 298717,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29202,7 +29207,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44807
+      "UsersEstimate": 44808
     },
     {
       "ID": "PFA_10",
@@ -29362,7 +29367,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "PFA_29",
@@ -29378,7 +29383,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "PFA_30",
@@ -29418,7 +29423,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "PFA_35",
@@ -29506,7 +29511,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26884
+      "UsersEstimate": 26885
     },
     {
       "ID": "PFA_45",
@@ -29554,14 +29559,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26884
+      "UsersEstimate": 26885
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298716,
+      "Progressed": 298717,
       "Completed": 491
     }
   ],
@@ -29569,8 +29574,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-23T05:00:05.0959371+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:07:06.2063788+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:09:01.4369973+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:59:33.2248513+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:07:06.2065366+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:59:43.0821511+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:09:01.4371692+00:00"
 }

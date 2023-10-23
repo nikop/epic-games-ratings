@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,10 +1337,10 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16206,
+  "EOS_Progressed": 16207,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 192,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 193,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
@@ -7982,6 +7982,11 @@
       "Time": "2023-10-23T06:05:58.0279003+00:00",
       "NumProgressed": 16206,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T08:05:26.9730938+00:00",
+      "NumProgressed": 16207,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8097,7 +8102,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8368,13 +8373,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16206,
+      "Progressed": 16207,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4132,
+      "Progressed": 4133,
       "Completed": 29
     }
   ],
@@ -8382,8 +8387,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:05:13.9743533+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:05:26.9730935+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:58:39.5500702+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:05:13.9744506+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:58:45.9579499+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:05:26.9731774+00:00"
 }

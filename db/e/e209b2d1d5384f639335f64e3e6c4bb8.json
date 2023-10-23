@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312766,
+  "EOS_Progressed": 312773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3543,
+  "EOS_NewPlayers": 3540,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7428,6 +7428,11 @@
       "Time": "2023-10-23T07:03:30.3363569+00:00",
       "NumProgressed": 312766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T08:03:40.5292578+00:00",
+      "NumProgressed": 312773,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -7464,7 +7469,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 137617
+      "UsersEstimate": 137620
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -7472,7 +7477,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 100085
+      "UsersEstimate": 100087
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -7480,7 +7485,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 65681
+      "UsersEstimate": 65682
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -7488,7 +7493,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 46915
+      "UsersEstimate": 46916
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -7496,7 +7501,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37532
+      "UsersEstimate": 37533
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -7512,7 +7517,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28149
+      "UsersEstimate": 28150
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -7520,7 +7525,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25021
+      "UsersEstimate": 25022
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -7528,7 +7533,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25021
+      "UsersEstimate": 25022
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -7816,20 +7821,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 159511
+      "UsersEstimate": 159514
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 312766,
+      "Progressed": 312773,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 312755,
+      "Progressed": 312762,
       "Completed": 0
     }
   ],
@@ -7837,8 +7842,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-13T07:59:04.9040591+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:03:30.3363563+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:03:40.5292574+00:00",
   "LastUpdate_AppInfo": "2023-10-19T20:57:12.4678185+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:58:20.3852823+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:03:30.3364796+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:58:27.3143801+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:03:40.529348+00:00"
 }

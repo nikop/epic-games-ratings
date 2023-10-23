@@ -5711,9 +5711,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1109
     },
     {
       "ID": "A39",
@@ -5856,8 +5856,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-20T16:00:20.5501075+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:05:20.7050455+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:05:34.0564499+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.6050448+00:00",
-  "LastUpdate_Ratings": "2023-10-23T07:00:02.5925671+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:05:20.7051229+00:00"
+  "LastUpdate_Ratings": "2023-10-23T08:00:15.2209179+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:05:34.0565249+00:00"
 }

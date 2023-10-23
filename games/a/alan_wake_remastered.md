@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 46.00% | ~32,977 |
-| Let There Be Light | 37.00% | ~26,525 |
-| Float Like a Butterfly | 36.00% | ~25,808 |
-| Nordic Walking | 29.00% | ~20,790 |
-| Bright Falls' Finest | 28.00% | ~20,073 |
-| Under a Thin Layer of Skin | 25.00% | ~17,922 |
-| Paging Mr. Wake | 21.00% | ~15,055 |
-| Park Ranger | 20.00% | ~14,338 |
-| Back! Back, I Say! | 19.00% | ~13,621 |
-| Finders Keepers | 19.00% | ~13,621 |
-| Damn Good Cup of Coffee | 18.00% | ~12,904 |
-| They're Heeeeeere! | 17.00% | ~12,187 |
-| Sound and Fury | 17.00% | ~12,187 |
-| Missed by a Mile | 17.00% | ~12,187 |
-| Wheels Within Wheels | 16.00% | ~11,470 |
-| The Six-Gun Scribe | 16.00% | ~11,470 |
+| Follow the Light | 46.00% | ~32,980 |
+| Let There Be Light | 37.00% | ~26,527 |
+| Float Like a Butterfly | 36.00% | ~25,810 |
+| Nordic Walking | 29.00% | ~20,792 |
+| Bright Falls' Finest | 28.00% | ~20,075 |
+| Under a Thin Layer of Skin | 25.00% | ~17,924 |
+| Paging Mr. Wake | 21.00% | ~15,056 |
+| Park Ranger | 20.00% | ~14,339 |
+| Back! Back, I Say! | 19.00% | ~13,622 |
+| Finders Keepers | 19.00% | ~13,622 |
+| Damn Good Cup of Coffee | 18.00% | ~12,905 |
+| They're Heeeeeere! | 17.00% | ~12,188 |
+| Sound and Fury | 17.00% | ~12,188 |
+| Missed by a Mile | 17.00% | ~12,188 |
+| Wheels Within Wheels | 16.00% | ~11,471 |
+| The Six-Gun Scribe | 16.00% | ~11,471 |
 | Heavy Metal | 15.00% | ~10,754 |
 | Iron Horse | 15.00% | ~10,754 |
 | Collateral Carnage | 15.00% | ~10,754 |
@@ -34,20 +34,20 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 12.00% | ~8,603 |
 | Energized! | 12.00% | ~8,603 |
 | Right of Way | 11.00% | ~7,886 |
-| What Light Through Yonder Window | 10.00% | ~7,169 |
-| Tornado Wrangler | 9.00% | ~6,452 |
-| Departure | 9.00% | ~6,452 |
-| A Friend in Need | 9.00% | ~3,164 |
-| Drink 'Em Both Up | 7.00% | ~5,018 |
-| Hardboiled Writer | 7.00% | ~5,018 |
+| What Light Through Yonder Window | 10.00% | ~7,170 |
+| Tornado Wrangler | 9.00% | ~6,453 |
+| Departure | 9.00% | ~6,453 |
+| A Friend in Need | 9.00% | ~3,165 |
+| Drink 'Em Both Up | 7.00% | ~5,019 |
+| Hardboiled Writer | 7.00% | ~5,019 |
 | A Friend Indeed | 7.00% | ~2,461 |
-| Children of the Elder God | 6.00% | ~4,301 |
-| Ding! | 6.00% | ~2,109 |
-| Boob Tube | 5.00% | ~3,584 |
-| If It Flies, It Burns | 5.00% | ~3,584 |
-| KBF-FM | 5.00% | ~3,584 |
-| Kill Your Darlings | 4.00% | ~1,406 |
-| Heartbreaker | 4.00% | ~1,406 |
+| Children of the Elder God | 6.00% | ~4,302 |
+| Ding! | 6.00% | ~2,110 |
+| Boob Tube | 5.00% | ~3,585 |
+| If It Flies, It Burns | 5.00% | ~3,585 |
+| KBF-FM | 5.00% | ~3,585 |
+| Kill Your Darlings | 4.00% | ~1,407 |
+| Heartbreaker | 4.00% | ~1,407 |
 | Carny | 3.00% | ~2,151 |
 | Medical Opinions | 2.00% | ~1,434 |
 | Taken Season | 2.00% | ~1,434 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~70 |
 | Licensed Properties | 0.20% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,690 (Ranked 95)  
+Progressed: 71,695 (Ranked 95)  
 Completed: 76 (0.11%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 76 (0.11%) (Ranked 250)
 | 2023-10-20 | 69,973 | 71 |
 | 2023-10-21 | 70,713 | 74 |
 | 2023-10-22 | 71,485 | 75 |
-| 2023-10-23 | 71,690 | 76 |
+| 2023-10-23 | 71,695 | 76 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

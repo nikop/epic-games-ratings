@@ -69,10 +69,10 @@
 | Doppelganger | 29.00% | ~228 |
 | Digital Exorcist | 29.00% | ~228 |
 | First Aid Specialist | 28.00% | ~220 |
+| Suicide Mission | 28.00% | ~220 |
 | Friend or Foe | 28.00% | ~220 |
 | Mobilizer | 28.00% | ~220 |
 | Mission Accomplished | 27.00% | ~212 |
-| Suicide Mission | 27.00% | ~212 |
 | Against All Odds | 27.00% | ~212 |
 | Untouchable | 26.00% | ~204 |
 | Giant Killer | 26.00% | ~204 |

@@ -6,16 +6,16 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~34,585 |
-| Initial Capital | 69.00% | ~29,462 |
-| Moneybags | 48.00% | ~20,495 |
-| Junior Supply Officer | 48.00% | ~20,495 |
-| Naval Warfare. Arson | 36.00% | ~15,371 |
-| Naval Warfare. Ramming | 35.00% | ~14,944 |
-| Naval Constructor | 34.00% | ~14,517 |
-| Amateur | 33.00% | ~14,090 |
-| Naval Warfare. Tactics | 33.00% | ~14,090 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,674 |
+| Junior Naval Designer | 81.00% | ~34,588 |
+| Initial Capital | 69.00% | ~29,464 |
+| Moneybags | 48.00% | ~20,496 |
+| Junior Supply Officer | 48.00% | ~20,496 |
+| Naval Warfare. Arson | 36.00% | ~15,372 |
+| Naval Warfare. Ramming | 35.00% | ~14,945 |
+| Naval Constructor | 34.00% | ~14,518 |
+| Amateur | 33.00% | ~14,091 |
+| Naval Warfare. Tactics | 33.00% | ~14,091 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,675 |
 | Naval Warfare. Lucky Shot | 22.00% | ~9,394 |
 | Naval Warfare. Flooding | 21.00% | ~8,967 |
 | Business Magnate | 19.00% | ~8,113 |
@@ -41,7 +41,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Secret Instructions | 0.80% | ~342 |
 | Raider | 0.80% | ~342 |
 | Experienced One | 0.70% | ~299 |
-| "Yamamoto Isoroku" | 0.50% | ~213 |
+| "Yamamoto Isoroku" | 0.50% | ~214 |
 | Ravager | 0.40% | ~171 |
 | "Yamamoto Isoroku" | 0.40% | ~171 |
 | "Honorable Service" | 0.30% | ~128 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~43 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,698 (Ranked 110)  
+Progressed: 42,701 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 0 (0.00%) (Ranked 320)
 | 2023-10-20 | 41,568 | 0 |
 | 2023-10-21 | 42,092 | 0 |
 | 2023-10-22 | 42,614 | 0 |
-| 2023-10-23 | 42,698 | 0 |
+| 2023-10-23 | 42,701 | 0 |
 ## Awards
 Max (Relaxing): 1,443  (Ranked 131)  
 Sum: 12,082 (Ranked 81)  

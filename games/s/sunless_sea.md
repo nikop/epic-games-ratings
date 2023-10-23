@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 438)  
+Rating: 4.58 (Ranked 439)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,138 |
-| Sweet Sorrow | 18.00% | ~7,069 |
-| Rules the Waves | 17.00% | ~6,676 |
+| Sink Beneath the Waves | 36.00% | ~14,139 |
+| Sweet Sorrow | 18.00% | ~7,070 |
+| Rules the Waves | 17.00% | ~6,677 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,891 |
-| Rival | 14.00% | ~5,498 |
+| Rival | 14.00% | ~5,499 |
 | Correspondent | 12.00% | ~4,713 |
 | Lose Your Mind | 12.00% | ~4,713 |
 | Sound Mind? | 12.00% | ~4,713 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~1,178 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,178 |
 | Come Closer | 3.00% | ~1,178 |
-| Roaring Rise | 2.00% | ~785 |
-| I am the Captain of my Soul | 2.00% | ~785 |
+| Roaring Rise | 2.00% | ~786 |
+| I am the Captain of my Soul | 2.00% | ~786 |
 | A buoyant escape | 1.00% | ~393 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~393 |
 | The Bell Tolls | 1.00% | ~393 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,273 (Ranked 113)  
+Progressed: 39,275 (Ranked 113)  
 Completed: 4 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 4 (0.01%) (Ranked 301)
 | 2023-10-20 | 39,129 | 4 |
 | 2023-10-21 | 39,190 | 4 |
 | 2023-10-22 | 39,263 | 4 |
-| 2023-10-23 | 39,273 | 4 |
+| 2023-10-23 | 39,275 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 275)  
 Sum: 288 (Ranked 358)  

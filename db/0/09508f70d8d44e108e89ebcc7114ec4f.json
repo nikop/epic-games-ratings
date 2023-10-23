@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1426,9 +1426,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 227
+      "UsersEstimate": 231
     },
     {
       "ID": "fish_trade",
@@ -1498,9 +1498,9 @@
       "ID": "match_9",
       "SetID": "ap7g2g4",
       "Name": "Match 9",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "mill",
@@ -1577,8 +1577,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:06:47.7006573+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:08:12.4503814+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:02.3123727+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:58:59.252458+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:06:47.7006828+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:59:07.1159787+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:08:12.4504067+00:00"
 }

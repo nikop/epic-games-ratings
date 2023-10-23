@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 348975,
+  "EOS_Progressed": 348978,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 997,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21674,6 +21674,11 @@
       "Time": "2023-10-23T07:06:19.7380282+00:00",
       "NumProgressed": 348975,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-23T08:06:34.3626319+00:00",
+      "NumProgressed": 348978,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21789,7 +21794,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52346
+      "UsersEstimate": 52347
     },
     {
       "ID": "ach015",
@@ -21893,7 +21898,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160528
+      "UsersEstimate": 160530
     },
     {
       "ID": "ach028",
@@ -21909,7 +21914,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38387
+      "UsersEstimate": 38388
     },
     {
       "ID": "ach030",
@@ -22085,7 +22090,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38387
+      "UsersEstimate": 38388
     },
     {
       "ID": "ach052",
@@ -22093,7 +22098,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach053",
@@ -22131,9 +22136,9 @@
       "ID": "ach057",
       "SetID": "1d2iaed",
       "Name": "Working on the Railroad",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1745
     },
     {
       "ID": "ach058",
@@ -22157,7 +22162,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach061",
@@ -22181,7 +22186,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach065",
@@ -22245,7 +22250,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach073",
@@ -22253,7 +22258,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach074",
@@ -22269,7 +22274,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20938
+      "UsersEstimate": 20939
     },
     {
       "ID": "ach076",
@@ -22324,7 +22329,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 348975,
+      "Progressed": 348978,
       "Completed": 7
     }
   ],
@@ -22332,8 +22337,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:06:19.7380277+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:06:34.3626315+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:59:25.9935354+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:06:19.7382507+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:59:36.5226693+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:06:34.3628525+00:00"
 }

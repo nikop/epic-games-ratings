@@ -2225,7 +2225,7 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 15492,
+  "EOS_Progressed": 15493,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1765,
   "EOS_NewCompleters": 0,
@@ -6400,6 +6400,11 @@
       "Time": "2023-10-23T07:05:54.6232747+00:00",
       "NumProgressed": 15492,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T08:06:08.9873867+00:00",
+      "NumProgressed": 15493,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -6594,9 +6599,9 @@
       "ID": "Achievement_Trophy24",
       "SetID": "724h0m0",
       "Name": "I\u0027m not dead yet",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6817
     },
     {
       "ID": "Achievement_Trophy25",
@@ -6612,7 +6617,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "Achievement_Trophy27",
@@ -6628,7 +6633,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "Achievement_Trophy29",
@@ -6652,7 +6657,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "Achievement_Trophy32",
@@ -6716,7 +6721,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "Achievement_Trophy40",
@@ -6899,7 +6904,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 15492,
+      "Progressed": 15493,
       "Completed": 1
     }
   ],
@@ -6907,8 +6912,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-22T21:57:59.9444784+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:05:54.6232742+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:06:08.9873864+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:58:18.9134338+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:05:54.623359+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:58:25.8265309+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:06:08.9874713+00:00"
 }

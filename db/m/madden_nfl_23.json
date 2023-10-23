@@ -745,9 +745,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2915,
+  "EOS_Progressed": 2916,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3870,6 +3870,11 @@
       "Time": "2023-10-23T07:04:42.783275+00:00",
       "NumProgressed": 2915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T08:04:55.1712107+00:00",
+      "NumProgressed": 2916,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3882,7 +3887,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_10",
@@ -3890,7 +3895,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "achievement_11",
@@ -3906,7 +3911,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "achievement_13",
@@ -3930,7 +3935,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "achievement_16",
@@ -4034,7 +4039,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_9",
@@ -4049,7 +4054,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2915,
+      "Progressed": 2916,
       "Completed": 0
     }
   ],
@@ -4057,8 +4062,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T21:58:31.897995+00:00",
-  "LastChanged_Achievements": "2023-10-23T07:04:42.7832745+00:00",
+  "LastChanged_Achievements": "2023-10-23T08:04:55.1712103+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-23T06:58:51.7819676+00:00",
-  "LastUpdate_Achievements": "2023-10-23T07:04:42.7833074+00:00"
+  "LastUpdate_Ratings": "2023-10-23T07:58:58.9668868+00:00",
+  "LastUpdate_Achievements": "2023-10-23T08:04:55.1712462+00:00"
 }
