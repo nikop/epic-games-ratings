@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.79% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.67% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.64% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.66% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -115,7 +115,7 @@
 | 113 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 114 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 115 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
-| 116 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.87% |
+| 116 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.86% |
 | 117 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 118 | [Sifu](games/s/sifu.md) | 1.81% |
 | 119 | [Frogun](games/f/frogun.md) | 1.79% |
@@ -160,7 +160,7 @@
 | 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
-| 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.73% |
+| 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.72% |
 | 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 163 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
@@ -169,11 +169,11 @@
 | 166 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
 | 168 | [Haven](games/h/haven.md) | 0.60% |
 | 169 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 169 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 169 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 171 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
-| 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.57% |
-| 171 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 171 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 172 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.57% |
+| 172 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 172 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 175 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
 | 176 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 176 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
@@ -208,12 +208,12 @@
 | 206 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 206 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
 | 206 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 206 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
 | 206 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 210 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 210 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.30% |
-| 210 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 210 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
+| 211 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 211 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 211 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 211 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.30% |
 | 215 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 216 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 217 | [Filament](games/f/filament.md) | 0.25% |
