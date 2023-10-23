@@ -1,13 +1,13 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 574)  
+Rating: 4.50 (Ranked 575)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 4.00% | ~1,094 |
-| Advancement | 3.00% | ~820 |
-| Meticulously Efficient | 3.00% | ~820 |
+| Advancement | 3.00% | ~821 |
+| Meticulously Efficient | 3.00% | ~821 |
 | Animated | 2.00% | ~547 |
 | Clutch Capture | 2.00% | ~547 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~547 |
@@ -21,26 +21,26 @@ Rating: 4.50 (Ranked 574)
 | There you are! | 2.00% | ~547 |
 | Vaporous Expansion | 2.00% | ~547 |
 | Whoopsie | 2.00% | ~547 |
-| Back Off | 1.00% | ~273 |
-| Daily Dose | 1.00% | ~273 |
-| Ectoplasmic Entity | 1.00% | ~273 |
-| Ghostbuster In Training | 1.00% | ~273 |
-| Legions | 1.00% | ~273 |
-| Pesky Jerks | 1.00% | ~273 |
-| Right back at ya | 1.00% | ~273 |
-| Side Hustle | 1.00% | ~273 |
-| Skilled | 1.00% | ~273 |
-| Stunner | 1.00% | ~273 |
-| Summoner | 1.00% | ~273 |
-| Terrifying | 1.00% | ~273 |
-| Welcome to the Crew | 1.00% | ~273 |
+| Back Off | 1.00% | ~274 |
+| Daily Dose | 1.00% | ~274 |
+| Ectoplasmic Entity | 1.00% | ~274 |
+| Ghostbuster In Training | 1.00% | ~274 |
+| Legions | 1.00% | ~274 |
+| Pesky Jerks | 1.00% | ~274 |
+| Right back at ya | 1.00% | ~274 |
+| Side Hustle | 1.00% | ~274 |
+| Skilled | 1.00% | ~274 |
+| Stunner | 1.00% | ~274 |
+| Summoner | 1.00% | ~274 |
+| Terrifying | 1.00% | ~274 |
+| Welcome to the Crew | 1.00% | ~274 |
 | We have the best insurance | 0.90% | ~246 |
 | Seasoned | 0.90% | ~246 |
+| Escape Artist | 0.80% | ~219 |
 | Rift Destroyer | 0.80% | ~219 |
 | Tobin's Prodigy | 0.80% | ~219 |
 | Collector | 0.70% | ~191 |
 | Diabolical | 0.70% | ~191 |
-| Escape Artist | 0.70% | ~191 |
 | Reckless | 0.70% | ~191 |
 | Rivalry | 0.70% | ~191 |
 | Fragile Panes | 0.50% | ~137 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 574)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,345 (Ranked 119)  
+Progressed: 27,356 (Ranked 119)  
 Completed: 63 (0.23%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 63 (0.23%) (Ranked 222)
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
-| 2023-10-23 | 27,345 | 63 |
+| 2023-10-23 | 27,356 | 63 |
 ## Awards
 Max (Great for Quick Sessions): 275  (Ranked 253)  
 Sum: 2,504 (Ranked 184)  

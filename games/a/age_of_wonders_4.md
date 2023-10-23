@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 402)
 | Walls Cannot Stop Us | 7.00% | ~367 |
 | From Friends to Family | 7.00% | ~367 |
 | Magical Synergy | 7.00% | ~367 |
+| Intimidation Tactics | 7.00% | ~367 |
 | Tipping the Scales | 7.00% | ~367 |
 | There Can Only Be One! | 6.00% | ~314 |
 | Full Ascension | 6.00% | ~314 |
@@ -19,7 +20,6 @@ Rating: 4.60 (Ranked 402)
 | My Final Form | 6.00% | ~314 |
 | Seat of Power | 6.00% | ~314 |
 | In a Liege of Your Own | 6.00% | ~314 |
-| Intimidation Tactics | 6.00% | ~314 |
 | Mighty Hoard | 6.00% | ~314 |
 | Valley of Wonders | 5.00% | ~262 |
 | Digging for Treasure | 5.00% | ~262 |
@@ -28,9 +28,9 @@ Rating: 4.60 (Ranked 402)
 | Impenetrable Fortress | 5.00% | ~262 |
 | Here be Dragons | 5.00% | ~262 |
 | Blood of the Dragon | 5.00% | ~262 |
-| Return of the Wizard King | 4.00% | ~209 |
-| Enchanted Archipelago | 4.00% | ~209 |
-| Preparation Is Everything | 4.00% | ~209 |
+| Return of the Wizard King | 4.00% | ~210 |
+| Enchanted Archipelago | 4.00% | ~210 |
+| Preparation Is Everything | 4.00% | ~210 |
 | God Emperor | 3.00% | ~157 |
 | Lord of Chaos | 3.00% | ~157 |
 | Arch Mage | 3.00% | ~157 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 402)
 | Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,237 (Ranked 175)  
+Progressed: 5,238 (Ranked 175)  
 Completed: 6 (0.11%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 6 (0.11%) (Ranked 252)
 | 2023-10-20 | 5,228 | 6 |
 | 2023-10-21 | 5,232 | 6 |
 | 2023-10-22 | 5,235 | 6 |
-| 2023-10-23 | 5,237 | 6 |
+| 2023-10-23 | 5,238 | 6 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 498)  
 Sum: 27 (Ranked 508)  

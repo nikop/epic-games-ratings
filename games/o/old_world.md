@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.70% | ~104 |
 | Phalangite | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
+| The Clergy | 0.70% | ~104 |
 | Capable | 0.60% | ~89 |
 | Strong Difficulty | 0.60% | ~89 |
 | Hunters | 0.60% | ~89 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~89 |
 | Mounted Lancer | 0.60% | ~89 |
 | Ambition Victory | 0.60% | ~89 |
-| The Clergy | 0.60% | ~89 |
 | Ready | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
 | Babylonia | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,908 (Ranked 139)  
+Progressed: 14,909 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 5 (0.03%) (Ranked 290)
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
-| 2023-10-23 | 14,908 | 5 |
+| 2023-10-23 | 14,909 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

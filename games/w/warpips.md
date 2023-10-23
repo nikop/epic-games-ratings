@@ -1,12 +1,12 @@
 # Warpips
 [Store](https://store.epicgames.com/en-US/p/warpips-57e2c4)  
 [View Rawdata](../../db/w/warpips.json)  
-Rating: 4.42 (Ranked 698)  
+Rating: 4.42 (Ranked 697)  
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 29  (Ranked 485)  
-Sum: 201 (Ranked 388)  
-Diff (max vs sum): 97  
+Sum: 201 (Ranked 389)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game has Playful Visuals | 29 |

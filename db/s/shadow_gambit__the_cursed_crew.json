@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2287,6 +2287,11 @@
       "Time": "2023-10-23T17:09:27.5132559+00:00",
       "NumProgressed": 758,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-23T22:09:25.6017718+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2299,7 +2304,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2307,15 +2312,15 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 395
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2355,7 +2360,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "_09_Completion_20",
@@ -2379,7 +2384,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_12_Completion_50",
@@ -2443,7 +2448,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2506,7 +2511,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 25
     }
   ],
@@ -2514,8 +2519,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:09:18.3468752+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:09:25.6017713+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:00:54.9553338+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:09:18.3469319+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:00:06.0729175+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:09:25.6018013+00:00"
 }

@@ -17,8 +17,8 @@ Rating: 3.94 (Ranked 989)
 | Raider’s Ruin | 0.80% | ~714 |
 | Dragonslayer | 0.80% | ~714 |
 | Rockay Rex | 0.80% | ~714 |
+| Hidden Sonata | 0.70% | ~625 |
 | Case Closed | 0.70% | ~625 |
-| Hidden Sonata | 0.60% | ~536 |
 | Track Star | 0.60% | ~536 |
 | True Player | 0.60% | ~536 |
 | Headhunter | 0.50% | ~446 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 989)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,287 (Ranked 86)  
+Progressed: 89,290 (Ranked 86)  
 Completed: 50 (0.06%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,14 +233,14 @@ Completed: 50 (0.06%) (Ranked 274)
 | 2023-10-20 | 89,206 | 50 |
 | 2023-10-21 | 89,231 | 50 |
 | 2023-10-22 | 89,265 | 50 |
-| 2023-10-23 | 89,287 | 50 |
+| 2023-10-23 | 89,290 | 50 |
 ## Awards
-Max (Diverse Characters): 509  (Ranked 204)  
-Sum: 2,873 (Ranked 175)  
+Max (Diverse Characters): 510  (Ranked 204)  
+Sum: 2,874 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 509 |
+| This game has Diverse Characters | 510 |
 | This game has Quickly Understood Controls | 481 |
 | This game is Highly Recommended | 480 |
 | This game has Challenging Combat | 473 |
@@ -456,4 +456,4 @@ Diff (max vs sum): 29
 | 2023-10-20 | 3.94 | 502 | 2,845 |
 | 2023-10-21 | 3.94 | 505 | 2,857 |
 | 2023-10-22 | 3.94 | 509 | 2,868 |
-| 2023-10-23 | 3.94 | 509 | 2,873 |
+| 2023-10-23 | 3.94 | 510 | 2,874 |

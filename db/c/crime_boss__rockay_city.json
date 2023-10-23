@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4159,11 +4159,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 2873,
       "NumberOfAwardsMax": 509
+    },
+    {
+      "Time": "2023-10-23T21:58:00.7467845+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2874,
+      "NumberOfAwardsMax": 510
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2873,
-  "NumberOfAwardsMax": 509,
+  "NumberOfAwards": 2874,
+  "NumberOfAwardsMax": 510,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4176,7 +4182,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 509
+      "Count": 510
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4221,9 +4227,9 @@
       "Count": 465
     }
   ],
-  "EOS_Progressed": 89287,
+  "EOS_Progressed": 89290,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22971,6 +22977,11 @@
       "Time": "2023-10-23T21:07:05.0520614+00:00",
       "NumProgressed": 89287,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-23T22:06:22.8066653+00:00",
+      "NumProgressed": 89290,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 41,
@@ -23004,9 +23015,9 @@
       "ID": "ACH_0013",
       "SetID": "3kam13l",
       "Name": "Hidden Sonata",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_0014",
@@ -23309,22 +23320,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89287,
+      "Progressed": 89290,
       "Completed": 50
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17634,
+      "Progressed": 17637,
       "Completed": 15554
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-23T07:57:41.3341143+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:07:05.0520607+00:00",
+  "LastChanged": "2023-10-23T21:58:00.7467844+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:06:22.8066648+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.0531076+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:12.0801461+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:07:05.0523557+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:00.7467849+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:06:22.8068155+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1561,10 +1561,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 3654,
       "NumberOfAwardsMax": 1290
+    },
+    {
+      "Time": "2023-10-23T21:58:13.6492941+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 3659,
+      "NumberOfAwardsMax": 1290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3654,
+  "NumberOfAwards": 3659,
   "NumberOfAwardsMax": 1290,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1608,7 +1614,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 227
+      "Count": 232
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1641,9 +1647,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 7991,
+  "EOS_Progressed": 7992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5491,6 +5497,11 @@
       "Time": "2023-10-23T21:04:53.9184242+00:00",
       "NumProgressed": 7991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T22:04:36.5404965+00:00",
+      "NumProgressed": 7992,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5543,7 +5554,7 @@
       "Name": "Titan",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 5913
+      "UsersEstimate": 5914
     },
     {
       "ID": "ach07",
@@ -5551,7 +5562,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "ach08",
@@ -5631,7 +5642,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4155
+      "UsersEstimate": 4156
     },
     {
       "ID": "ach18",
@@ -5671,7 +5682,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "ach23",
@@ -5711,7 +5722,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "ach28",
@@ -5743,7 +5754,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "ach32",
@@ -5775,7 +5786,7 @@
       "Name": "Kollector",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ach36",
@@ -5799,7 +5810,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "ach39",
@@ -5807,7 +5818,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "ach40",
@@ -5831,7 +5842,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "ach43",
@@ -5839,7 +5850,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "ach44",
@@ -5902,16 +5913,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 7991,
+      "Progressed": 7992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-23T17:58:39.4151967+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:04:53.9184234+00:00",
+  "LastChanged": "2023-10-23T21:58:13.649294+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:04:36.540496+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:29.1624357+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:04:53.9185683+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:13.6492945+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:04:36.5405634+00:00"
 }

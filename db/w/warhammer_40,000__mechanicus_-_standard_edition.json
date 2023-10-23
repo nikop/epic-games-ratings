@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -718,10 +718,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2169,
       "NumberOfAwardsMax": 287
+    },
+    {
+      "Time": "2023-10-23T21:58:17.4535436+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2170,
+      "NumberOfAwardsMax": 287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2169,
+  "NumberOfAwards": 2170,
   "NumberOfAwardsMax": 287,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -729,7 +735,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game is Relaxing",
@@ -786,7 +792,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225459,
+  "EOS_Progressed": 225462,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
@@ -21136,6 +21142,11 @@
       "Time": "2023-10-23T21:08:36.8550718+00:00",
       "NumProgressed": 225459,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T22:09:08.2580888+00:00",
+      "NumProgressed": 225462,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21147,7 +21158,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42837
+      "UsersEstimate": 42838
     },
     {
       "ID": "ACH_BASE_10",
@@ -21155,7 +21166,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58619
+      "UsersEstimate": 58620
     },
     {
       "ID": "ACH_BASE_11",
@@ -21187,7 +21198,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "ACH_BASE_16",
@@ -21203,7 +21214,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "ACH_BASE_18",
@@ -21211,7 +21222,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     },
     {
       "ID": "ACH_BASE_19",
@@ -21411,23 +21422,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20291
+      "UsersEstimate": 20292
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225459,
+      "Progressed": 225462,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-15T07:04:04.0148832+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:08:36.8550711+00:00",
+  "LastChanged": "2023-10-23T21:58:17.4535434+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:09:08.2580883+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:34.641802+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:08:36.8552575+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:17.4535441+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:09:08.2582331+00:00"
 }

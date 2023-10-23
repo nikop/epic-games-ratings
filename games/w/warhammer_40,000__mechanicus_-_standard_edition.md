@@ -5,14 +5,14 @@ Rating: 4.43 (Ranked 679)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,619 |
-| This is only the beginning | 19.00% | ~42,837 |
+| No aid from the Omnissiah | 26.00% | ~58,620 |
+| This is only the beginning | 19.00% | ~42,838 |
 | Knowledge is power | 12.00% | ~27,055 |
 | Galvanic Rifle | 10.00% | ~22,546 |
-| Power Ranger | 9.00% | ~20,291 |
-| Taser Goad | 9.00% | ~20,291 |
-| Radium Ready | 9.00% | ~20,291 |
-| Half a cog | 9.00% | ~20,291 |
+| Power Ranger | 9.00% | ~20,292 |
+| Taser Goad | 9.00% | ~20,292 |
+| Radium Ready | 9.00% | ~20,292 |
+| Half a cog | 9.00% | ~20,292 |
 | Watch them crumble | 6.00% | ~13,528 |
 | Competent Cohort | 4.00% | ~9,018 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,018 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 679)
 | Perma-live | 0.10% | ~225 |
 | Purge the Heretek | 0.10% | ~225 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,459 (Ranked 64)  
+Progressed: 225,462 (Ranked 64)  
 Completed: 5 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,10 +226,10 @@ Completed: 5 (0.00%) (Ranked 322)
 | 2023-10-20 | 225,209 | 5 |
 | 2023-10-21 | 225,295 | 5 |
 | 2023-10-22 | 225,388 | 5 |
-| 2023-10-23 | 225,459 | 5 |
+| 2023-10-23 | 225,462 | 5 |
 ## Awards
 Max (Highly Recommended): 287  (Ranked 248)  
-Sum: 2,169 (Ranked 199)  
+Sum: 2,170 (Ranked 199)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -238,7 +238,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 276 |
 | This game has Diverse Characters | 267 |
 | This game has Amazing Characters | 263 |
-| This game has Amazing Storytelling | 246 |
+| This game has Amazing Storytelling | 247 |
 | This game is Relaxing | 242 |
 | This game has Unique Visuals | 211 |
 | This game has a Creative Community | 98 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 49
 | 2023-10-13 | 4.43 | 286 | 2,166 |
 | 2023-10-14 | 4.43 | 286 | 2,167 |
 | 2023-10-15 | 4.43 | 287 | 2,169 |
+| 2023-10-23 | 4.43 | 287 | 2,170 |

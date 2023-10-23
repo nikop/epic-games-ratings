@@ -2,13 +2,13 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 679,
+  "Ranking_Rating": 697,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 1201,
   "RatingHistory": [
     {
@@ -2858,10 +2858,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2590,
       "NumberOfAwardsMax": 1236
+    },
+    {
+      "Time": "2023-10-23T21:58:33.2826238+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2591,
+      "NumberOfAwardsMax": 1236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2590,
+  "NumberOfAwards": 2591,
   "NumberOfAwardsMax": 1236,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2887,7 +2893,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game is Relaxing",
@@ -2943,8 +2949,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2023-10-23T11:59:05.411306+00:00",
+  "LastChanged": "2023-10-23T21:58:33.2826236+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.6759851+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:56.4415695+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:08:23.6754808+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:33.2826241+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:08:17.9892846+00:00"
 }

@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15671,
+  "EOS_Progressed": 15672,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1600,
+  "EOS_NewPlayers": 1599,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3918,6 +3918,11 @@
       "Time": "2023-10-23T21:06:45.8324205+00:00",
       "NumProgressed": 15671,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-23T22:06:07.1197187+00:00",
+      "NumProgressed": 15672,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -3954,7 +3959,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 8932
+      "UsersEstimate": 8933
     },
     {
       "ID": "achievement_13",
@@ -4002,7 +4007,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "achievement_19",
@@ -4034,7 +4039,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13634
+      "UsersEstimate": 13635
     },
     {
       "ID": "achievement_4",
@@ -4042,7 +4047,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13791
     },
     {
       "ID": "achievement_5",
@@ -4066,7 +4071,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12380
+      "UsersEstimate": 12381
     },
     {
       "ID": "achievement_8",
@@ -4089,13 +4094,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15671,
+      "Progressed": 15672,
       "Completed": 71
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:06:45.8324197+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:06:07.1197183+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:23.9431631+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:06:45.8324917+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:09.3491805+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:06:07.1197842+00:00"
 }

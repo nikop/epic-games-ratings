@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -1111,6 +1111,11 @@
       "Time": "2023-10-23T19:04:22.6073085+00:00",
       "NumProgressed": 259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T22:04:32.7905474+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1136,9 +1141,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1226,7 +1231,7 @@
       "Name": "Them and Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1282,7 +1287,7 @@
       "Name": "OUTRAGE",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ETUA_PTD",
@@ -1328,9 +1333,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "ETUA_StayDead",
@@ -1386,7 +1391,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1441,7 +1446,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 1
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:04:49.5476078+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:04:32.7905469+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:59:58.4756164+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:04:49.5477159+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:59:22.4633147+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:04:32.7905835+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,565 |
+| Corner Clout | 46.00% | ~160,566 |
 | Copacetic Coordination | 16.00% | ~55,849 |
-| Fronting the Money | 15.00% | ~52,358 |
+| Fronting the Money | 15.00% | ~52,359 |
 | The Dawn of Automation | 14.00% | ~48,868 |
 | Extraordinary Logistics | 14.00% | ~48,868 |
 | Dirty Money | 13.00% | ~45,377 |
 | Family First | 13.00% | ~45,377 |
-| Cleaning House | 12.00% | ~41,886 |
-| Room in the Back | 12.00% | ~41,886 |
+| Cleaning House | 12.00% | ~41,887 |
+| Room in the Back | 12.00% | ~41,887 |
 | Beating the Heat | 11.00% | ~38,396 |
 | Booze Baron | 11.00% | ~38,396 |
-| Friends on the Force | 10.00% | ~34,905 |
-| Neighborhood Watch | 10.00% | ~34,905 |
-| Core Corps | 8.00% | ~27,924 |
-| Sizeable Stash | 8.00% | ~27,924 |
+| Friends on the Force | 10.00% | ~34,906 |
+| Neighborhood Watch | 10.00% | ~34,906 |
+| Core Corps | 8.00% | ~27,925 |
+| Sizeable Stash | 8.00% | ~27,925 |
 | Street Fighter | 7.00% | ~24,434 |
 | Friendly Gestures | 7.00% | ~24,434 |
 | People Person | 7.00% | ~24,434 |
@@ -60,7 +60,7 @@ Rating: 4.28 (Ranked 836)
 | The Rubber Meets the Road | 1.00% | ~3,491 |
 | Cat’s Meow Clubs | 1.00% | ~3,491 |
 | Stepping It Up | 1.00% | ~3,491 |
-| Determined Deliveries | 0.90% | ~3,141 |
+| Determined Deliveries | 0.90% | ~3,142 |
 | Boots in the Ground | 0.80% | ~2,792 |
 | Getting Fancy | 0.80% | ~2,792 |
 | Crossing Over | 0.80% | ~2,792 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 836)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,054 (Ranked 44)  
+Progressed: 349,057 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 7 (0.00%) (Ranked 322)
 | 2023-10-20 | 348,546 | 7 |
 | 2023-10-21 | 348,735 | 7 |
 | 2023-10-22 | 348,942 | 7 |
-| 2023-10-23 | 349,054 | 7 |
+| 2023-10-23 | 349,057 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 448)  
 Sum: 179 (Ranked 402)  

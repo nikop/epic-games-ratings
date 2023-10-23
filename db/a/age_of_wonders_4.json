@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5237,
+  "EOS_Progressed": 5238,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6445,6 +6445,11 @@
       "Time": "2023-10-23T21:05:12.4215829+00:00",
       "NumProgressed": 5237,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-23T22:04:51.4734959+00:00",
+      "NumProgressed": 5238,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6504,7 +6509,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "16",
@@ -6544,7 +6549,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "20",
@@ -6640,7 +6645,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "31",
@@ -6726,9 +6731,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 367
     },
     {
       "ID": "41",
@@ -6855,13 +6860,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5237,
+      "Progressed": 5238,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5237,
+      "Progressed": 5238,
       "Completed": 6
     }
   ],
@@ -6869,8 +6874,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-23T10:57:20.7229711+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:05:12.4215821+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:04:51.4734954+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.066766+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:57:43.2059368+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:05:12.4217426+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:57:39.1484008+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:04:51.4735773+00:00"
 }

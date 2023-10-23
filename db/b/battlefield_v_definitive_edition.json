@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15618,
+  "EOS_Progressed": 15619,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 0,
@@ -3943,6 +3943,11 @@
       "Time": "2023-10-23T21:07:42.0087484+00:00",
       "NumProgressed": 15618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T22:06:52.5038044+00:00",
+      "NumProgressed": 15619,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -4011,7 +4016,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 11557
+      "UsersEstimate": 11558
     },
     {
       "ID": "achievement_17",
@@ -4027,7 +4032,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 7340
+      "UsersEstimate": 7341
     },
     {
       "ID": "achievement_19",
@@ -4051,7 +4056,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "achievement_21",
@@ -4083,7 +4088,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "achievement_6",
@@ -4107,7 +4112,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 11557
+      "UsersEstimate": 11558
     },
     {
       "ID": "achievement_9",
@@ -4122,13 +4127,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 15618,
+      "Progressed": 15619,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:07:42.0087473+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:06:52.5038038+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:37.6433942+00:00",
-  "LastUpdate_Ratings": "2023-10-23T20:58:52.0414409+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:07:42.0088191+00:00"
+  "LastUpdate_Ratings": "2023-10-23T21:58:29.9560034+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:06:52.5038428+00:00"
 }

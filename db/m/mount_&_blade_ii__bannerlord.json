@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8202,9 +8202,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63816,
+  "EOS_Progressed": 63817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27937,6 +27937,11 @@
       "Time": "2023-10-23T21:07:39.0723862+00:00",
       "NumProgressed": 63816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T22:06:50.0328603+00:00",
+      "NumProgressed": 63817,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -27988,7 +27993,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5743
+      "UsersEstimate": 5744
     },
     {
       "ID": "Catch",
@@ -28068,7 +28073,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "God of the Arena",
@@ -28172,7 +28177,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21059
+      "UsersEstimate": 21060
     },
     {
       "ID": "Lawbringer",
@@ -28180,7 +28185,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24888
+      "UsersEstimate": 24889
     },
     {
       "ID": "Lawmaker",
@@ -28196,7 +28201,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "Mastery",
@@ -28236,7 +28241,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "Ride it like you stole it",
@@ -28355,15 +28360,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63816,
+      "Progressed": 63817,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-23T16:00:46.1434134+00:00",
-  "LastChanged_Achievements": "2023-10-23T21:07:39.0723854+00:00",
+  "LastChanged_Achievements": "2023-10-23T22:06:50.0328599+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-23T21:00:55.8029213+00:00",
-  "LastUpdate_Achievements": "2023-10-23T21:07:39.0726942+00:00"
+  "LastUpdate_Ratings": "2023-10-23T22:00:06.5926774+00:00",
+  "LastUpdate_Achievements": "2023-10-23T22:06:50.0330184+00:00"
 }

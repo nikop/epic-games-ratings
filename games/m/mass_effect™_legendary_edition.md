@@ -38,9 +38,9 @@
 | The Professor | 41.00% | ~323 |
 | Power Full | 41.00% | ~323 |
 | The Archangel | 40.00% | ~316 |
+| The Convict | 38.00% | ~300 |
 | Completionist | 37.00% | ~292 |
 | Colony Defense | 37.00% | ~292 |
-| The Convict | 37.00% | ~292 |
 | The Krogan | 37.00% | ~292 |
 | Galactic Explorer | 36.00% | ~284 |
 | Broke, Blind, and Bedlam | 35.00% | ~276 |
@@ -75,11 +75,11 @@
 | Untouchable | 27.00% | ~213 |
 | Mission Accomplished | 27.00% | ~213 |
 | Against All Odds | 27.00% | ~213 |
+| Eye of the Hurricane | 26.00% | ~205 |
 | Giant Killer | 26.00% | ~205 |
 | A House Divided | 26.00% | ~205 |
 | Weapon Specialist | 26.00% | ~205 |
 | World Shaker | 26.00% | ~205 |
-| Eye of the Hurricane | 25.00% | ~197 |
 | Liberator | 25.00% | ~197 |
 | Pathfinder | 24.00% | ~189 |
 | Tunnel Rat | 24.00% | ~189 |
