@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1502,
+  "EOS_Progressed": 1503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3119,6 +3119,11 @@
       "Time": "2023-10-23T01:48:07.3901742+00:00",
       "NumProgressed": 1502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T13:10:11.4109528+00:00",
+      "NumProgressed": 1503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3178,7 +3183,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Defense_Common",
@@ -3344,9 +3349,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 616
+      "UsersEstimate": 631
     },
     {
       "ID": "We_were_not_here",
@@ -3369,15 +3374,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1502,
+      "Progressed": 1503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:05:40.5410924+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:11.4109521+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.410552+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:02:50.6465753+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:05:40.541129+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:08:13.2239476+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:11.4109943+00:00"
 }

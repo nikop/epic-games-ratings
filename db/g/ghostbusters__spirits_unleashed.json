@@ -6,9 +6,9 @@
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2649,9 +2649,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27264,
+  "EOS_Progressed": 27271,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16024,6 +16024,11 @@
       "Time": "2023-10-23T12:06:48.6758721+00:00",
       "NumProgressed": 27264,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-23T13:11:12.6167428+00:00",
+      "NumProgressed": 27271,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16401,9 +16406,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 218
     },
     {
       "ID": "Ultimate_Defense",
@@ -16442,7 +16447,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27264,
+      "Progressed": 27271,
       "Completed": 63
     }
   ],
@@ -16450,8 +16455,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-23T11:58:08.1462811+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:48.6758716+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:11:12.6167422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:08.1462818+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:48.6760031+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:08.3138283+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:11:12.6168932+00:00"
 }

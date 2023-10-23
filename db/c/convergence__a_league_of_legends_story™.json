@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-10-22T05:04:23.1228523+00:00",
       "NumProgressed": 909,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T13:10:17.8877861+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2431,7 +2436,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CosmeticCompletion1",
@@ -2445,9 +2450,9 @@
       "ID": "CosmeticProgress1",
       "SetID": "a9e499d",
       "Name": "Street Style",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 146
     },
     {
       "ID": "CultivairChests1",
@@ -2495,7 +2500,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2535,7 +2540,7 @@
       "Name": "Rail Rat",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "HexlockGift",
@@ -2543,7 +2548,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2597,7 +2602,7 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2695,7 +2700,7 @@
       "Name": "Rungs Was Right",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SkillProgress1",
@@ -2798,7 +2803,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 5
     }
   ],
@@ -2806,8 +2811,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:05:49.2939644+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:17.8877856+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.2319935+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:03:11.99199+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:05:49.294027+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:08:20.9687124+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:17.8878521+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~38,736 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,073 |
-| Loose Ends | 34.00% | ~25,328 |
-| To the Victor Go the Spoils | 28.00% | ~20,858 |
-| Knighthood | 27.00% | ~20,113 |
-| Get ReQ'd | 25.00% | ~18,623 |
-| Whispered Words | 25.00% | ~18,623 |
-| The Batman Family | 23.00% | ~17,133 |
-| Lock and Key | 23.00% | ~17,133 |
+| First Step Into the Knight | 52.00% | ~38,738 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,074 |
+| Loose Ends | 34.00% | ~25,329 |
+| To the Victor Go the Spoils | 28.00% | ~20,859 |
+| Knighthood | 27.00% | ~20,114 |
+| Get ReQ'd | 25.00% | ~18,624 |
+| Whispered Words | 25.00% | ~18,624 |
+| The Batman Family | 23.00% | ~17,134 |
+| Lock and Key | 23.00% | ~17,134 |
 | Something in the Clay | 21.00% | ~15,644 |
 | Quartzer Life Crisis | 21.00% | ~15,644 |
 | Working Hard or Harley Working? | 20.00% | ~14,899 |
@@ -31,13 +31,13 @@ Rating: 4.18 (Ranked 907)
 | Seeking Asylum | 14.00% | ~10,429 |
 | Not On My Watch | 13.00% | ~9,684 |
 | Shock Til They Drop | 13.00% | ~9,684 |
-| End of an Era | 12.00% | ~8,939 |
-| Bulldozed | 12.00% | ~8,939 |
-| Gotham Knight | 12.00% | ~8,939 |
-| Gotham City Confidential | 11.00% | ~8,194 |
-| Drone You Out | 10.00% | ~7,449 |
-| Out of Their League | 9.00% | ~6,704 |
-| Solid Alibi | 9.00% | ~6,704 |
+| End of an Era | 12.00% | ~8,940 |
+| Bulldozed | 12.00% | ~8,940 |
+| Gotham Knight | 12.00% | ~8,940 |
+| Gotham City Confidential | 11.00% | ~8,195 |
+| Drone You Out | 10.00% | ~7,450 |
+| Out of Their League | 9.00% | ~6,705 |
+| Solid Alibi | 9.00% | ~6,705 |
 | Fusion Expert | 7.00% | ~5,215 |
 | Expert Crime Fighter | 6.00% | ~4,470 |
 | Family Meeting | 6.00% | ~4,470 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 907)
 | Element of Surprise | 0.20% | ~90 |
 | It's Nice to Be Wanted | 0.20% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,493 (Ranked 93)  
-Completed: 121 (0.16%) (Ranked 237)  
+Progressed: 74,496 (Ranked 93)  
+Completed: 121 (0.16%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,7 +253,7 @@ Completed: 121 (0.16%) (Ranked 237)
 | 2023-10-20 | 73,935 | 121 |
 | 2023-10-21 | 74,180 | 121 |
 | 2023-10-22 | 74,409 | 121 |
-| 2023-10-23 | 74,493 | 121 |
+| 2023-10-23 | 74,496 | 121 |
 ## Awards
 Max (Great Boss Battles): 2,854  (Ranked 98)  
 Sum: 4,818 (Ranked 138)  

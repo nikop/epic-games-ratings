@@ -3,8 +3,8 @@
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
   "Ranking_EOS_Progress": 690,
-  "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-16T16:57:09.797933+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:02:45.2248695+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:28.7243645+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:08:10.1026567+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:47.347683+00:00"
 }

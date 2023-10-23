@@ -6,7 +6,7 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -329,9 +329,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112114,
+  "EOS_Progressed": 112122,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15379,6 +15379,11 @@
       "Time": "2023-10-23T10:05:03.5509906+00:00",
       "NumProgressed": 112114,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-23T13:09:40.3409981+00:00",
+      "NumProgressed": 112122,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15398,7 +15403,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86328
+      "UsersEstimate": 86334
     },
     {
       "ID": "EAwards_10",
@@ -15414,7 +15419,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29150
+      "UsersEstimate": 29152
     },
     {
       "ID": "EAwards_12",
@@ -15422,7 +15427,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16817
+      "UsersEstimate": 16818
     },
     {
       "ID": "EAwards_13",
@@ -15446,7 +15451,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "EAwards_16",
@@ -15454,7 +15459,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "EAwards_17",
@@ -15462,7 +15467,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40361
+      "UsersEstimate": 40364
     },
     {
       "ID": "EAwards_18",
@@ -15470,7 +15475,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "EAwards_19",
@@ -15486,7 +15491,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53815
+      "UsersEstimate": 53819
     },
     {
       "ID": "EAwards_20",
@@ -15494,7 +15499,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "EAwards_21",
@@ -15502,7 +15507,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "EAwards_22",
@@ -15518,7 +15523,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "EAwards_24",
@@ -15526,7 +15531,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "EAwards_25",
@@ -15534,7 +15539,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21302
+      "UsersEstimate": 21303
     },
     {
       "ID": "EAwards_26",
@@ -15550,7 +15555,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "EAwards_28",
@@ -15558,7 +15563,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "EAwards_29",
@@ -15566,7 +15571,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "EAwards_3",
@@ -15574,7 +15579,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21302
+      "UsersEstimate": 21303
     },
     {
       "ID": "EAwards_30",
@@ -15590,7 +15595,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     },
     {
       "ID": "EAwards_32",
@@ -15598,7 +15603,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "EAwards_33",
@@ -15622,7 +15627,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "EAwards_36",
@@ -15662,7 +15667,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13454
+      "UsersEstimate": 13455
     },
     {
       "ID": "EAwards_40",
@@ -15742,7 +15747,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10090
+      "UsersEstimate": 10091
     },
     {
       "ID": "EAwards_6",
@@ -15750,7 +15755,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8969
+      "UsersEstimate": 8970
     },
     {
       "ID": "EAwards_7",
@@ -15758,7 +15763,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13454
+      "UsersEstimate": 13455
     },
     {
       "ID": "EAwards_8",
@@ -15766,7 +15771,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13454
+      "UsersEstimate": 13455
     },
     {
       "ID": "EAwards_9",
@@ -15774,14 +15779,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11212
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112114,
+      "Progressed": 112122,
       "Completed": 47
     }
   ],
@@ -15789,8 +15794,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-25T16:00:07.3978241+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:04:59.1115184+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:09:40.3409971+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:43.2332598+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:04:59.1116614+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:33.3494041+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:09:40.3411361+00:00"
 }

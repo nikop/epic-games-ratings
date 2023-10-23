@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1971,
+  "EOS_Progressed": 1972,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2947,6 +2947,11 @@
       "Time": "2023-10-22T00:04:29.5674459+00:00",
       "NumProgressed": 1971,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-23T13:10:44.9893756+00:00",
+      "NumProgressed": 1972,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2958,7 +2963,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "Collect20Gold",
@@ -3014,7 +3019,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "CompleteChefsBook",
@@ -3078,7 +3083,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3110,7 +3115,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "Kill25Bugs",
@@ -3118,7 +3123,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "Kill25Frogs",
@@ -3134,7 +3139,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "MeetTheMoles",
@@ -3142,7 +3147,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "MysteryKingsChamber",
@@ -3158,7 +3163,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "RepairSmith",
@@ -3190,29 +3195,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1971,
+      "Progressed": 1972,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 612,
-      "Completed": 612
+      "Progressed": 613,
+      "Completed": 613
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:25.5075065+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:44.9893751+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4408339+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:01:46.8950478+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:25.5075438+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:06:04.1370771+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:44.9894165+00:00"
 }

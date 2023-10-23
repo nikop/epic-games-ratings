@@ -4,9 +4,9 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 436,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -417,10 +417,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2023-10-23T13:04:07.7383804+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 99,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
+  "NumberOfAwards": 99,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -434,7 +440,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Challenging Combat",
@@ -461,9 +467,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 228053,
+  "EOS_Progressed": 228063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10956,6 +10962,11 @@
       "Time": "2023-10-23T12:09:13.2070143+00:00",
       "NumProgressed": 228053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T13:14:01.8750337+00:00",
+      "NumProgressed": 228063,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11000,7 +11011,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -11024,7 +11035,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47891
+      "UsersEstimate": 47893
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11032,7 +11043,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20525
+      "UsersEstimate": 20526
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -11048,7 +11059,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -11152,7 +11163,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29647
+      "UsersEstimate": 29648
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -11192,7 +11203,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -11224,7 +11235,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57013
+      "UsersEstimate": 57016
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11239,16 +11250,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 228053,
+      "Progressed": 228063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-22T19:58:27.883614+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:09:13.2070138+00:00",
+  "LastChanged": "2023-10-23T13:04:07.7383802+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:14:01.8750331+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:59:24.0617591+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:09:13.2071085+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:07.7383808+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:14:01.875132+00:00"
 }

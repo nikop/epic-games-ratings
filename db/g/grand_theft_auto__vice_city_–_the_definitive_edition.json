@@ -6,8 +6,8 @@
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_Completed": 170,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10668,
+  "EOS_Progressed": 10669,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -11737,6 +11737,11 @@
       "Time": "2023-10-23T12:07:06.0820507+00:00",
       "NumProgressed": 10668,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-10-23T13:11:25.8985939+00:00",
+      "NumProgressed": 10669,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 34,
@@ -11828,7 +11833,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACH12",
@@ -11908,7 +11913,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "ACH22",
@@ -12019,7 +12024,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10668,
+      "Progressed": 10669,
       "Completed": 62
     }
   ],
@@ -12027,8 +12032,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:07:06.0820503+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:11:25.8985919+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:01:45.7363312+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:07:06.0821487+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:06:03.3958083+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:11:25.8986896+00:00"
 }

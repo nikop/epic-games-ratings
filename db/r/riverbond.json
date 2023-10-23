@@ -6,7 +6,7 @@
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529843,
+  "EOS_Progressed": 529844,
   "EOS_Completed": 489,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20302,6 +20302,11 @@
       "Time": "2023-10-23T12:07:47.6245236+00:00",
       "NumProgressed": 529843,
       "NumCompleted": 489
+    },
+    {
+      "Time": "2023-10-23T13:11:57.2335156+00:00",
+      "NumProgressed": 529844,
+      "NumCompleted": 489
     }
   ],
   "TotalAchievements": 57,
@@ -20321,7 +20326,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238429
+      "UsersEstimate": 238430
     },
     {
       "ID": "11",
@@ -20329,7 +20334,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370890
+      "UsersEstimate": 370891
     },
     {
       "ID": "12",
@@ -20337,7 +20342,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116565
+      "UsersEstimate": 116566
     },
     {
       "ID": "13",
@@ -20385,7 +20390,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79476
+      "UsersEstimate": 79477
     },
     {
       "ID": "19",
@@ -20409,7 +20414,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127162
+      "UsersEstimate": 127163
     },
     {
       "ID": "21",
@@ -20617,7 +20622,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42387
+      "UsersEstimate": 42388
     },
     {
       "ID": "45",
@@ -20768,15 +20773,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529843,
+      "Progressed": 529844,
       "Completed": 489
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:07:47.6245231+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:11:57.2335151+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:59:30.9548494+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:07:47.6247082+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:11.8571644+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:11:57.2337155+00:00"
 }

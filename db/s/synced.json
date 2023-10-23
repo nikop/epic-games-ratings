@@ -6,7 +6,7 @@
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
@@ -783,9 +783,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64380,
+  "EOS_Progressed": 64383,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -6318,6 +6318,11 @@
       "Time": "2023-10-23T12:10:21.703094+00:00",
       "NumProgressed": 64380,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-23T13:14:38.7842651+00:00",
+      "NumProgressed": 64383,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6330,7 +6335,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19958
+      "UsersEstimate": 19959
     },
     {
       "ID": "10",
@@ -6418,7 +6423,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5150
+      "UsersEstimate": 5151
     },
     {
       "ID": "6",
@@ -6457,7 +6462,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64380,
+      "Progressed": 64383,
       "Completed": 21
     }
   ],
@@ -6465,8 +6470,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-23T04:00:24.8360749+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:10:21.7030932+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:14:38.7842646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:01:12.7086572+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:10:21.703138+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:05:32.8047492+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:14:38.7843129+00:00"
 }

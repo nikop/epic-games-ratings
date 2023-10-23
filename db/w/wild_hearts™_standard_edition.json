@@ -3,8 +3,8 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -945,9 +945,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_28",
@@ -1183,8 +1183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:21.444028+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:41.9290516+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.9980076+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:00:00.108994+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:21.4440811+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:35.954048+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:41.9290989+00:00"
 }

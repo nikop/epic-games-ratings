@@ -3,8 +3,8 @@
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -330,9 +330,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_01",
@@ -531,8 +531,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:09:01.2154927+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:13:22.9781193+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:02:50.6332157+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:09:01.2155315+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:08:13.1483667+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:13:22.9781565+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -7969,10 +7969,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28052,
       "NumberOfAwardsMax": 7538
+    },
+    {
+      "Time": "2023-10-23T13:06:03.7791783+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28054,
+      "NumberOfAwardsMax": 7538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28052,
+  "NumberOfAwards": 28054,
   "NumberOfAwardsMax": 7538,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8010,7 +8016,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1760
+      "Count": 1762
     },
     {
       "Text": "This game is Educational",
@@ -8055,9 +8061,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805765,
+  "EOS_Progressed": 805767,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28870,6 +28876,11 @@
       "Time": "2023-10-23T12:07:42.7075462+00:00",
       "NumProgressed": 805765,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-23T13:11:53.6672548+00:00",
+      "NumProgressed": 805767,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -28905,7 +28916,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128922
+      "UsersEstimate": 128923
     },
     {
       "ID": "Awakening",
@@ -28993,7 +29004,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201441
+      "UsersEstimate": 201442
     },
     {
       "ID": "Chivalrous",
@@ -29041,7 +29052,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80576
+      "UsersEstimate": 80577
     },
     {
       "ID": "DavidHorak",
@@ -29201,7 +29212,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104749
+      "UsersEstimate": 104750
     },
     {
       "ID": "Judas",
@@ -29536,15 +29547,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805765,
+      "Progressed": 805767,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-23T08:59:58.6496579+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:07:42.7075457+00:00",
+  "LastChanged": "2023-10-23T13:06:03.7791778+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:11:53.6672541+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:01:46.3480327+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:07:42.7077439+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:06:03.7791789+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:11:53.6674773+00:00"
 }

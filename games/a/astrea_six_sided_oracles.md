@@ -30,7 +30,7 @@
 | The Goddes Avatar | 18.00% | ~11 |
 | Favored by the Cosmos | 15.00% | ~9 |
 | Unbeatable | 15.00% | ~9 |
-| Heavy Purger | 11.00% | ~7 |
+| Heavy Purger | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
 | Anomaly Control | 10.00% | ~6 |
 | Denying Destiny | 10.00% | ~6 |
@@ -51,8 +51,10 @@
 | Eridanian Hero | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
+| Noctuan Mastery | 5.00% | ~3 |
 | Astrarium of Holding | 3.00% | ~2 |
 | Critical Twist | 3.00% | ~2 |
+| Prestidigitation | 3.00% | ~2 |
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
@@ -60,14 +62,12 @@
 | Aquarian Hero | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
-| Noctuan Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |
 | Arch-Oracle | 2.00% | ~1 |
 | Astral Tinkerer | 2.00% | ~1 |
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
-| Prestidigitation | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Virtuous Warrior | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
@@ -103,8 +103,8 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 429)  
-Completed: 0 (0.00%) (Ranked 320)  
+Progressed: 62 (Ranked 430)  
+Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -14018,10 +14018,10 @@
       "Count": 11271
     }
   ],
-  "EOS_Progressed": 893452,
-  "EOS_Completed": 2702,
-  "EOS_NewPlayers": 1264,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 893462,
+  "EOS_Completed": 2703,
+  "EOS_NewPlayers": 1260,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35083,6 +35083,11 @@
       "Time": "2023-10-23T12:06:56.7234543+00:00",
       "NumProgressed": 893452,
       "NumCompleted": 2702
+    },
+    {
+      "Time": "2023-10-23T13:11:18.8712221+00:00",
+      "NumProgressed": 893462,
+      "NumCompleted": 2703
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35381,9 +35386,9 @@
       "ID": "TradeUnion",
       "SetID": "47clieb",
       "Name": "The Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2680
     },
     {
       "ID": "TrueSoldier",
@@ -35614,21 +35619,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893452,
-      "Completed": 2702
+      "Progressed": 893462,
+      "Completed": 2703
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22075,
+      "Progressed": 22085,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-23T10:59:22.2464538+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:56.723454+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:11:18.8712216+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:00:35.1267926+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:56.7236433+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:05:03.6316179+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:11:18.8714063+00:00"
 }

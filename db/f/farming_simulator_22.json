@@ -6,7 +6,7 @@
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -10418,7 +10418,7 @@
   ],
   "EOS_Progressed": 50385,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27477,8 +27477,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-23T06:57:39.3872058+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:09:38.6833762+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:14:21.4154411+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.5930356+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:19.4337375+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:09:38.6835149+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:14.9389844+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:14:21.4155829+00:00"
 }

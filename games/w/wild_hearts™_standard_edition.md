@@ -26,7 +26,7 @@
 | Fair Means or Foul | 43.00% | ~72 |
 | Single Minded | 42.00% | ~70 |
 | Snare Specialist | 42.00% | ~70 |
-| Mighty Marmelizer | 40.00% | ~67 |
+| Mighty Marmelizer | 41.00% | ~68 |
 | Karakuri Trail | 37.00% | ~62 |
 | Kemono at Heart | 36.00% | ~60 |
 | Team Hunter | 35.00% | ~58 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 8.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 360)  
-Completed: 5 (2.99%) (Ranked 92)  
+Completed: 5 (2.99%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,13 +1,13 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 356)  
+Rating: 4.62 (Ranked 357)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 31.00% | ~282 |
-| The Mysterious Stranger | 25.00% | ~227 |
-| Rail Rat | 25.00% | ~227 |
+| The Mysterious Stranger | 25.00% | ~228 |
+| Rail Rat | 25.00% | ~228 |
 | Immaculate Aim | 22.00% | ~200 |
 | The Steel Shadow | 21.00% | ~191 |
 | Make Up For Lost Time | 21.00% | ~191 |
@@ -28,8 +28,8 @@ Rating: 4.62 (Ranked 356)
 | The Loose Cannon | 18.00% | ~164 |
 | Check Your Pulse | 18.00% | ~164 |
 | The Family Fortune | 18.00% | ~164 |
-| Street Style | 17.00% | ~155 |
 | The Man Who Shattered Time | 17.00% | ~155 |
+| Street Style | 16.00% | ~146 |
 | Cartographer | 15.00% | ~136 |
 | Treasure Trove | 14.00% | ~127 |
 | Whiz Kid | 14.00% | ~127 |
@@ -47,9 +47,9 @@ Rating: 4.62 (Ranked 356)
 | Sartorialist | 8.00% | ~73 |
 | Entresol Explorer | 8.00% | ~73 |
 | Golem Hunter | 7.00% | ~64 |
-| Clovemary for Remembering | 5.00% | ~45 |
-| Hexlock for Protection | 5.00% | ~45 |
-| Rungs Was Right | 5.00% | ~45 |
+| Clovemary for Remembering | 5.00% | ~46 |
+| Hexlock for Protection | 5.00% | ~46 |
+| Rungs Was Right | 5.00% | ~46 |
 | Wunderkind | 3.00% | ~27 |
 | Fitting In | 2.00% | ~18 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
@@ -57,9 +57,9 @@ Rating: 4.62 (Ranked 356)
 | No Time to Waste | 1.00% | ~9 |
 | Wildlife Protection | 0.90% | ~8 |
 | Going to Live Forever | 0.70% | ~6 |
-| Raw Talent | 0.60% | ~5 |
+| Raw Talent | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 246)  
+Progressed: 910 (Ranked 246)  
 Completed: 5 (0.55%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 5 (0.55%) (Ranked 177)
 | 2023-10-19 | 907 | 5 |
 | 2023-10-20 | 908 | 5 |
 | 2023-10-22 | 909 | 5 |
+| 2023-10-23 | 910 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

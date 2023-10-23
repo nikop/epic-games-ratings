@@ -5,38 +5,38 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,067 |
-| Private Club | 74.00% | ~183,834 |
-| Rogue Guild | 65.00% | ~161,476 |
-| I Watched the Intro | 57.00% | ~141,602 |
-| Covert Consortium | 55.00% | ~136,634 |
-| Goat Queen | 53.00% | ~131,665 |
-| Reach the Stratosphere | 50.00% | ~124,212 |
-| Synchronization Complete | 47.00% | ~116,760 |
-| Secret Society | 45.00% | ~111,791 |
-| Shadow Syndicate | 38.00% | ~94,402 |
-| What a Waste of Money | 33.00% | ~81,980 |
-| New Goat Order | 30.00% | ~74,528 |
-| Don't touch the servers | 28.00% | ~69,559 |
-| San Angora: Become Human | 27.00% | ~67,075 |
-| Real Buoy | 27.00% | ~67,075 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,590 |
-| Welcome to Earth | 25.00% | ~62,106 |
-| Into the Matrix | 19.00% | ~47,201 |
-| Egg Simulator | 18.00% | ~44,716 |
-| Where is It? | 17.00% | ~42,232 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~37,264 |
-| Black Market | 14.00% | ~34,780 |
-| 401(K.O.) | 14.00% | ~34,780 |
-| Car Cave | 12.00% | ~29,811 |
-| Club Mohair | 8.00% | ~19,874 |
-| A Center for Ants? | 8.00% | ~19,874 |
-| French Fika | 7.00% | ~17,390 |
-| Nasty! | 5.00% | ~12,421 |
+| Forgotten Sorority | 91.00% | ~226,077 |
+| Private Club | 74.00% | ~183,843 |
+| Rogue Guild | 65.00% | ~161,483 |
+| I Watched the Intro | 57.00% | ~141,609 |
+| Covert Consortium | 55.00% | ~136,640 |
+| Goat Queen | 53.00% | ~131,671 |
+| Reach the Stratosphere | 50.00% | ~124,218 |
+| Synchronization Complete | 47.00% | ~116,765 |
+| Secret Society | 45.00% | ~111,796 |
+| Shadow Syndicate | 38.00% | ~94,406 |
+| What a Waste of Money | 33.00% | ~81,984 |
+| New Goat Order | 30.00% | ~74,531 |
+| Don't touch the servers | 28.00% | ~69,562 |
+| San Angora: Become Human | 27.00% | ~67,078 |
+| Real Buoy | 27.00% | ~67,078 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,593 |
+| Welcome to Earth | 25.00% | ~62,109 |
+| Into the Matrix | 19.00% | ~47,203 |
+| Egg Simulator | 18.00% | ~44,718 |
+| Where is It? | 17.00% | ~42,234 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~37,265 |
+| Black Market | 14.00% | ~34,781 |
+| 401(K.O.) | 14.00% | ~34,781 |
+| Car Cave | 12.00% | ~29,812 |
+| Club Mohair | 8.00% | ~19,875 |
+| A Center for Ants? | 8.00% | ~19,875 |
+| French Fika | 7.00% | ~17,391 |
+| Nasty! | 5.00% | ~12,422 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,937 |
 | [REDACTED] | 4.00% | ~9,937 |
-| Cannibanana | 2.00% | ~4,968 |
-| Daredevil | 2.00% | ~4,968 |
+| Cannibanana | 2.00% | ~4,969 |
+| Daredevil | 2.00% | ~4,969 |
 | Crocsquatch | 1.00% | ~2,484 |
 | You Trusted Your Instincts | 1.00% | ~2,484 |
 | Certified Fresh | 1.00% | ~2,484 |
@@ -45,8 +45,8 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,491 |
 | G.O.A.T | 0.30% | ~745 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,425 (Ranked 56)  
-Completed: 862 (0.35%) (Ranked 204)  
+Progressed: 248,436 (Ranked 56)  
+Completed: 862 (0.35%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,21 +231,21 @@ Completed: 862 (0.35%) (Ranked 204)
 | 2023-10-20 | 248,118 | 859 |
 | 2023-10-21 | 248,256 | 859 |
 | 2023-10-22 | 248,392 | 862 |
-| 2023-10-23 | 248,425 | 862 |
+| 2023-10-23 | 248,436 | 862 |
 ## Awards
-Max (Great for Beginners): 422  (Ranked 219)  
-Sum: 3,626 (Ranked 158)  
+Max (Great for Beginners): 423  (Ranked 219)  
+Sum: 3,629 (Ranked 158)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 422 |
+| This game is Great for Beginners | 423 |
 | This game has Diverse Characters | 419 |
 | This game is Highly Recommended | 381 |
 | This game has Amazing Characters | 360 |
 | This game is Extremely Fun | 356 |
 | This game has Amazing Storytelling | 349 |
 | This game is Relaxing | 346 |
-| This game has a Silly Community | 344 |
+| This game has a Silly Community | 346 |
 | This game has Quickly Understood Controls | 338 |
 | This game has Easy Combat | 311 |
 | This game is Educational | 263 |
@@ -461,4 +461,4 @@ Diff (max vs sum): 61
 | 2023-10-20 | 4.84 | 421 | 3,609 |
 | 2023-10-21 | 4.84 | 421 | 3,612 |
 | 2023-10-22 | 4.84 | 422 | 3,624 |
-| 2023-10-23 | 4.84 | 422 | 3,626 |
+| 2023-10-23 | 4.84 | 423 | 3,629 |

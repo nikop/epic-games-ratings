@@ -6,8 +6,8 @@
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17025,
+  "EOS_Progressed": 17026,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12401,6 +12401,11 @@
       "Time": "2023-10-23T10:06:44.9158866+00:00",
       "NumProgressed": 17025,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-23T13:10:43.8329645+00:00",
+      "NumProgressed": 17026,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12484,7 +12489,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Win5Years",
@@ -12756,7 +12761,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "WinWithRuins",
@@ -12811,15 +12816,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17025,
+      "Progressed": 17026,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:23.9729606+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:43.8329637+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:20.7092483+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:23.9730634+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:15.3483681+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:43.8330658+00:00"
 }

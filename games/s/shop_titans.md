@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,141 |
 | Tinkle of Coins | 3.00% | ~4,141 |
 | Titan's First Steps | 3.00% | ~4,141 |
-| One Easy Payment | 2.00% | ~2,760 |
-| Some Assembly Required | 2.00% | ~2,760 |
-| Disintermediation | 2.00% | ~2,760 |
-| Another Satisfied Customer | 2.00% | ~2,760 |
-| It's Free Real Estate | 2.00% | ~2,760 |
-| Pretty Penny | 2.00% | ~2,760 |
-| Budding Merchant | 2.00% | ~2,760 |
-| Capitalism Ho! | 2.00% | ~2,760 |
-| Own the Means of Production | 2.00% | ~2,760 |
+| One Easy Payment | 2.00% | ~2,761 |
+| Some Assembly Required | 2.00% | ~2,761 |
+| Disintermediation | 2.00% | ~2,761 |
+| Another Satisfied Customer | 2.00% | ~2,761 |
+| It's Free Real Estate | 2.00% | ~2,761 |
+| Pretty Penny | 2.00% | ~2,761 |
+| Budding Merchant | 2.00% | ~2,761 |
+| Capitalism Ho! | 2.00% | ~2,761 |
+| Own the Means of Production | 2.00% | ~2,761 |
 | The Daily Grind | 1.00% | ~1,380 |
 | On the Path to Greatness | 1.00% | ~1,380 |
 | Ascended | 1.00% | ~1,380 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,025 (Ranked 75)  
-Completed: 172 (0.12%) (Ranked 245)  
+Progressed: 138,030 (Ranked 75)  
+Completed: 172 (0.12%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,14 +305,14 @@ Completed: 172 (0.12%) (Ranked 245)
 | 2023-10-20 | 137,884 | 171 |
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
-| 2023-10-23 | 138,025 | 172 |
+| 2023-10-23 | 138,030 | 172 |
 ## Awards
-Max (Great for Beginners): 4,797  (Ranked 73)  
-Sum: 27,430 (Ranked 50)  
+Max (Great for Beginners): 4,800  (Ranked 73)  
+Sum: 27,433 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,797 |
+| This game is Great for Beginners | 4,800 |
 | This game is Relaxing | 4,029 |
 | This game has Quickly Understood Controls | 4,016 |
 | This game has Diverse Characters | 3,922 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 23
 | 2023-10-20 | 3.99 | - | 4,797 | 27,418 |
 | 2023-10-21 | 3.99 | - | 4,797 | 27,422 |
 | 2023-10-22 | 3.99 | - | 4,797 | 27,428 |
-| 2023-10-23 | 3.99 | - | 4,797 | 27,430 |
+| 2023-10-23 | 3.99 | - | 4,800 | 27,433 |

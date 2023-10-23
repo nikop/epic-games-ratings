@@ -3,8 +3,8 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -736,9 +736,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -782,8 +782,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:08:27.2722822+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:12:18.238704+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.9270849+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:59:34.7778528+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:08:27.2723011+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:14.2837202+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:12:18.238723+00:00"
 }

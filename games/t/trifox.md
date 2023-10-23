@@ -9,9 +9,9 @@
 | Immortal | 54.00% | ~54 |
 | Complete Level 1-2 | 45.00% | ~45 |
 | Engineer-mage hybrid | 32.00% | ~32 |
-| Scraping by | 30.00% | ~30 |
+| Scraping by | 31.00% | ~31 |
 | Complete Level 1-3 | 28.00% | ~28 |
-| Defeat the warrior boss | 21.00% | ~21 |
+| Defeat the warrior boss | 22.00% | ~22 |
 | Get out of my way | 20.00% | ~20 |
 | Redecorator | 19.00% | ~19 |
 | Just a sip | 18.00% | ~18 |
@@ -52,7 +52,7 @@
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 100 (Ranked 398)  
-Completed: 1 (1.00%) (Ranked 147)  
+Completed: 1 (1.00%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

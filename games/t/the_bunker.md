@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 90.00% | ~112 |
-| The Routine | 79.00% | ~99 |
+| The Routine | 80.00% | ~100 |
 | Mother | 78.00% | ~98 |
-| Failure | 75.00% | ~94 |
+| Failure | 76.00% | ~95 |
 | Replace Fuse | 66.00% | ~82 |
 | Alarm | 65.00% | ~81 |
 | Air Filtration | 63.00% | ~79 |
@@ -16,16 +16,16 @@
 | Descent | 59.00% | ~74 |
 | Awakenings | 58.00% | ~72 |
 | Cold Storage | 58.00% | ~72 |
-| Sam | 54.00% | ~68 |
-| Commissioner | 53.00% | ~66 |
+| Sam | 55.00% | ~69 |
+| Commissioner | 54.00% | ~68 |
 | Leave | 50.00% | ~62 |
 | Churchill | 50.00% | ~62 |
 | Engineer | 50.00% | ~62 |
 | Soldier | 49.00% | ~61 |
-| Doctor | 47.00% | ~59 |
+| Doctor | 48.00% | ~60 |
 | Press Play | 37.00% | ~46 |
 | General | 29.00% | ~36 |
-| Bookworm | 23.00% | ~29 |
+| Bookworm | 24.00% | ~30 |
 | Floppy Disk Finder | 15.00% | ~19 |
 | Stay | 15.00% | ~19 |
 | Nurse | 12.00% | ~15 |
@@ -34,7 +34,7 @@
 | The Missing Piece | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 125 (Ranked 377)  
-Completed: 5 (4.00%) (Ranked 74)  
+Completed: 5 (4.00%) (Ranked 75)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

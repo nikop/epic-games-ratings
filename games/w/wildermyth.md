@@ -13,9 +13,9 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 0.30% | ~4 |
 | Me and My Familiar | 0.20% | ~3 |
 | Let Me Get My Chisel | 0.20% | ~3 |
+| Passing Shadow | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
 | Daybreak | 0.20% | ~3 |
-| Passing Shadow | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,434 (Ranked 225)  
-Completed: 6 (0.42%) (Ranked 194)  
+Completed: 6 (0.42%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

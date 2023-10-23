@@ -3,8 +3,8 @@
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 537,
-  "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Chapter08_UntimelyAdversity",
@@ -387,9 +387,9 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SuperBestFriends",
@@ -458,8 +458,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:09:05.1456364+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:13:26.0084739+00:00",
   "LastUpdate_AppInfo": "2023-10-23T11:57:16.990147+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:01:13.6196356+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:09:05.1456702+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:05:35.0917441+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:13:26.00851+00:00"
 }

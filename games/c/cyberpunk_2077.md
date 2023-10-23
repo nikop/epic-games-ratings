@@ -15,6 +15,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.30% | ~2,680 |
 | The Hermit | 0.30% | ~2,680 |
 | The Wheel of Fortune | 0.30% | ~2,680 |
+| The Jungle | 0.30% | ~2,680 |
 | True Soldier | 0.30% | ~2,680 |
 | Two Heads, One Bullet | 0.30% | ~2,680 |
 | Legend of The Afterlife | 0.30% | ~2,680 |
@@ -35,7 +36,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~1,787 |
 | The Lovers | 0.20% | ~1,787 |
 | The World | 0.20% | ~1,787 |
-| The Jungle | 0.20% | ~1,787 |
 | True Warrior | 0.20% | ~1,787 |
 | Judy vs Night City | 0.20% | ~1,787 |
 | V for Vendetta | 0.20% | ~1,787 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,452 (Ranked 15)  
-Completed: 2,702 (0.30%) (Ranked 211)  
+Progressed: 893,462 (Ranked 15)  
+Completed: 2,703 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 2,702 (0.30%) (Ranked 211)
 | 2023-10-20 | 892,909 | 2,690 |
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
-| 2023-10-23 | 893,452 | 2,702 |
+| 2023-10-23 | 893,462 | 2,703 |
 ## Awards
 Max (Character Customization): 100,696  (Ranked 9)  
 Sum: 321,739 (Ranked 11)  

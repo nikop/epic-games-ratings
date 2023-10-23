@@ -3,7 +3,7 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 938,
+  "EOS_Progressed": 939,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2309,6 +2309,11 @@
       "Time": "2023-10-23T12:05:56.4048418+00:00",
       "NumProgressed": 938,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T13:10:23.3300506+00:00",
+      "NumProgressed": 939,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2328,7 +2333,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2390,9 +2395,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 488
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2438,9 +2443,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 207
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2528,7 +2533,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2574,9 +2579,9 @@
       "ID": "FREE_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Free Like Birds",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 94
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2592,7 +2597,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2616,7 +2621,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2678,9 +2683,9 @@
       "ID": "LEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Don\u0027t Turn Your Back",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 254
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2688,7 +2693,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2696,7 +2701,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2742,9 +2747,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 141
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2766,9 +2771,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 432
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2847,14 +2852,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 938,
+      "Progressed": 939,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:05:56.4048414+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:23.33005+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-23T12:00:25.9346981+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:05:56.4049282+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:58.1593967+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:23.3301471+00:00"
 }

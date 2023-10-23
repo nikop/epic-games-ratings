@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -617,9 +617,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "IfIHadFailed",
@@ -737,9 +737,9 @@
       "ID": "Prestidigitation",
       "SetID": "1jeo1g7",
       "Name": "Prestidigitation",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PurificationAvatar",
@@ -1105,9 +1105,9 @@
       "ID": "NoctuanMastery",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Mastery",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -1120,8 +1120,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:04:46.5709362+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:09:30.6551799+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:59:47.8656563+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:04:46.5710666+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:04:25.5974372+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:09:30.6552828+00:00"
 }

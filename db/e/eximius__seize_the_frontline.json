@@ -6,7 +6,7 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -321,7 +321,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198888,
+  "EOS_Progressed": 198891,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -20161,6 +20161,11 @@
       "Time": "2023-10-23T11:05:28.0338268+00:00",
       "NumProgressed": 198888,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T13:10:48.5122826+00:00",
+      "NumProgressed": 198891,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -20180,7 +20185,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141210
+      "UsersEstimate": 141213
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -20188,7 +20193,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -20252,7 +20257,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -20266,9 +20271,9 @@
       "ID": "ACH_WIN_90_MAP_CONTROL",
       "SetID": "1kj8hdc",
       "Name": "Mastermind",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 994
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -20292,14 +20297,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 198888,
+      "Progressed": 198891,
       "Completed": 4
     }
   ],
@@ -20307,8 +20312,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-09T18:00:39.8598773+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:06:30.1308655+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:10:48.512282+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.1360771+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:50.5366244+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:06:30.1310249+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:38.2929268+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:10:48.5124205+00:00"
 }

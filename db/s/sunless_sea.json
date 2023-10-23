@@ -6,7 +6,7 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 113,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
@@ -730,7 +730,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39283,
+  "EOS_Progressed": 39286,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
@@ -19660,6 +19660,11 @@
       "Time": "2023-10-23T12:08:06.8928833+00:00",
       "NumProgressed": 39283,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T13:12:03.87356+00:00",
+      "NumProgressed": 39286,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19687,7 +19692,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     },
     {
       "ID": "ach_antiquarian10",
@@ -19751,7 +19756,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ach_dawnmachine",
@@ -19791,7 +19796,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14142
+      "UsersEstimate": 14143
     },
     {
       "ID": "ach_die10",
@@ -19823,7 +19828,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ach_eye",
@@ -19855,7 +19860,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -20039,7 +20044,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "ach_undercurrent",
@@ -20102,15 +20107,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39283,
+      "Progressed": 39286,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-23T12:08:06.8928823+00:00",
+  "LastChanged_Achievements": "2023-10-23T13:12:03.8735595+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-23T11:58:16.8404641+00:00",
-  "LastUpdate_Achievements": "2023-10-23T12:08:06.8930525+00:00"
+  "LastUpdate_Ratings": "2023-10-23T13:03:13.5604378+00:00",
+  "LastUpdate_Achievements": "2023-10-23T13:12:03.8737298+00:00"
 }
