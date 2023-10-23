@@ -353,7 +353,7 @@
 | 340 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.63 | 0 | 539 |
 | 340 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 241 |
 | 340 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,795 | 116 |
-| 340 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,343 | 132 |
+| 340 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,351 | 132 |
 | 340 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 68 | 395 |
 | 340 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 539 |
 | 340 | [Witchfire](games/w/witchfire.md) | 4.63 | 35 | 460 |
@@ -515,7 +515,7 @@
 | 494 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 375 |
 | 494 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,317 | 134 |
 | 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 508 |
-| 515 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,511 | 126 |
+| 515 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,513 | 126 |
 | 515 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,571 | 57 |
 | 515 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 457 |
 | 515 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 539 |

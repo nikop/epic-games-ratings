@@ -125,13 +125,13 @@
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,588 | 4.55 | 494 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,565 | 4.62 | 358 |
 | 125 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,547 | 4.79 | 92 |
-| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,511 | 4.54 | 515 |
+| 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,513 | 4.54 | 515 |
 | 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,507 | 4.86 | 28 |
 | 128 | [Ring of Pain](games/r/ring_of_pain.md) | 1,498 | 4.58 | 438 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,485 | 4.53 | 529 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,470 | 4.87 | 23 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,443 | 4.41 | 704 |
-| 132 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,343 | 4.63 | 340 |
+| 132 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,351 | 4.63 | 340 |
 | 133 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,332 | 4.70 | 206 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,317 | 4.55 | 494 |
 | 135 | [DOOM 64](games/d/doom_64.md) | 1,297 | 4.66 | 284 |
