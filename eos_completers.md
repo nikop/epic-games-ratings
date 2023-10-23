@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.61% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.60% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.96% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -50,7 +50,7 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
 | 49 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 50 | [Scorn](games/s/scorn.md) | 7.01% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.67% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.65% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 53 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 54 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -146,8 +146,8 @@
 | 142 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 145 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 146 | [Sable](games/s/sable.md) | 1.01% |
-| 146 | [Trifox](games/t/trifox.md) | 1.01% |
-| 148 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
+| 147 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 1.00% |
+| 147 | [Trifox](games/t/trifox.md) | 1.00% |
 | 149 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
 | 150 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 150 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
@@ -156,8 +156,8 @@
 | 154 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 155 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 156 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.76% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
+| 157 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
+| 157 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.75% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Eternights](games/e/eternights.md) | 0.74% |
 | 161 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.71% |
