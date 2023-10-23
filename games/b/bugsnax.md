@@ -16,8 +16,8 @@ Number of Ratings: 425  (23.09.2022)
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,381 |
 | In the Arms of the Gramble | 59.00% | ~16,811 |
 | Know Thy Neighbor | 59.00% | ~16,811 |
+| Perf Dirt | 57.00% | ~16,242 |
 | Launch Party | 56.00% | ~15,957 |
-| Perf Dirt | 56.00% | ~15,957 |
 | Vacation's End | 53.00% | ~15,102 |
 | Bossy Bugs | 46.00% | ~13,107 |
 | Survivor | 45.00% | ~12,822 |

@@ -7,8 +7,8 @@
 | Start of a Journey | 89.00% | ~39 |
 | A thing of beauty | 86.00% | ~38 |
 | Escape the Maze | 55.00% | ~24 |
-| Brace the cold | 39.00% | ~17 |
-| A Long Walk | 36.00% | ~16 |
+| Brace the cold | 41.00% | ~18 |
+| A Long Walk | 39.00% | ~17 |
 | Dont mind the heat | 11.00% | ~5 |
 | A Dangerous Road | 7.00% | ~3 |
 | City of Puzzles | 7.00% | ~3 |

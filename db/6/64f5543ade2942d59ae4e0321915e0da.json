@@ -290,9 +290,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -370,9 +370,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:05:24.8625146+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:05:56.883892+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:59:50.6309387+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:05:24.8625494+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:00:04.837473+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:05:56.8839298+00:00"
 }

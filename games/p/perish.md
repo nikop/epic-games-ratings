@@ -16,12 +16,12 @@
 | Immolator | 4.00% | ~143 |
 | Go For the Head | 4.00% | ~143 |
 | Spartan Sandal | 4.00% | ~143 |
+| War Chest | 4.00% | ~143 |
 | Symbols of Heresy | 4.00% | ~143 |
 | The Sons of Minos | 4.00% | ~143 |
 | Eidola | 4.00% | ~143 |
 | Comedy and Tragedy | 3.00% | ~108 |
 | Pillars of Eternity | 3.00% | ~108 |
-| War Chest | 3.00% | ~108 |
 | Chthonic Investor | 3.00% | ~108 |
 | First Fragment | 3.00% | ~108 |
 | Sisters of the Pantheon | 3.00% | ~108 |

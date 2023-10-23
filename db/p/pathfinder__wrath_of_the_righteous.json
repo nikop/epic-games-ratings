@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11734,
+  "EOS_Progressed": 11738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14174,6 +14174,11 @@
       "Time": "2023-10-23T19:09:15.2092308+00:00",
       "NumProgressed": 11734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T20:09:50.6918942+00:00",
+      "NumProgressed": 11738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14201,7 +14206,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "04_FithCrusade",
@@ -14225,7 +14230,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "07_FinalThreshold",
@@ -14369,7 +14374,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14385,7 +14390,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "28_GreatUpstart",
@@ -14417,7 +14422,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14425,7 +14430,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "33_DefendersHeart",
@@ -14433,7 +14438,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14553,7 +14558,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "49_Flame",
@@ -14561,7 +14566,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14617,7 +14622,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "57_PathOfDevil",
@@ -15065,7 +15070,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -15097,7 +15102,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -15105,28 +15110,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10516,
+      "Progressed": 10520,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11734,
+      "Progressed": 11738,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:09:15.2092302+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:09:50.6918932+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:59:53.4626925+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:09:15.209456+00:00"
+  "LastUpdate_Ratings": "2023-10-23T20:00:07.995968+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:09:50.6922332+00:00"
 }

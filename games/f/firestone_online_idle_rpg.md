@@ -5,11 +5,11 @@ Rating: 4.08 (Ranked 950)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,920 |
-| World Map | 79.00% | ~1,631 |
-| Temple of Eternals | 57.00% | ~1,177 |
-| Prestigious | 54.00% | ~1,115 |
-| Fellowship Power | 42.00% | ~867 |
+| Victor | 93.00% | ~1,921 |
+| World Map | 79.00% | ~1,632 |
+| Temple of Eternals | 57.00% | ~1,178 |
+| Prestigious | 54.00% | ~1,116 |
+| Fellowship Power | 42.00% | ~868 |
 | Guild Power | 26.00% | ~537 |
 | Prestigious x10 | 23.00% | ~475 |
 | The game is on | 21.00% | ~434 |
@@ -18,16 +18,16 @@ Rating: 4.08 (Ranked 950)
 | Full Party | 17.00% | ~351 |
 | Inspection | 17.00% | ~351 |
 | Miner Clicker | 17.00% | ~351 |
-| Dragon Master | 16.00% | ~330 |
-| Enlightenment | 16.00% | ~330 |
-| Lieutenant | 16.00% | ~330 |
+| Dragon Master | 16.00% | ~331 |
+| Enlightenment | 16.00% | ~331 |
+| Lieutenant | 16.00% | ~331 |
 | Hero inspection | 15.00% | ~310 |
 | The Unstoppable | 15.00% | ~310 |
 | Milestone collector | 14.00% | ~289 |
 | Mysterious Rock | 14.00% | ~289 |
 | Natural Talent | 14.00% | ~289 |
 | Superior | 14.00% | ~289 |
-| Scientist | 13.00% | ~268 |
+| Scientist | 13.00% | ~269 |
 | Hunter | 12.00% | ~248 |
 | The power of Awakening | 12.00% | ~248 |
 | Challenger | 11.00% | ~227 |
@@ -39,8 +39,8 @@ Rating: 4.08 (Ranked 950)
 | Moving Up The Ladder | 11.00% | ~227 |
 | Relic Of The Past | 11.00% | ~227 |
 | Scroll Master | 11.00% | ~227 |
-| Master Enchanter | 10.00% | ~206 |
-| The father of Dragons | 10.00% | ~206 |
+| Master Enchanter | 10.00% | ~207 |
+| The father of Dragons | 10.00% | ~207 |
 | Here We Go Again | 9.00% | ~186 |
 | Trader | 9.00% | ~186 |
 | Blueprint Upgrades | 8.00% | ~165 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 950)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,065 (Ranked 206)  
+Progressed: 2,066 (Ranked 206)  
 Completed: 2 (0.10%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 2 (0.10%) (Ranked 255)
 | 2023-10-19 | 2,053 | 2 |
 | 2023-10-21 | 2,058 | 2 |
 | 2023-10-22 | 2,065 | 2 |
+| 2023-10-23 | 2,066 | 2 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 485)  
 Sum: 76 (Ranked 454)  

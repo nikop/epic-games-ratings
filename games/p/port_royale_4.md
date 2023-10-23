@@ -6,20 +6,20 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~791 |
-| My little farm | 64.00% | ~625 |
+| Cabin boy | 81.00% | ~792 |
+| My little farm | 64.00% | ~626 |
 | Every beginning is difficult | 63.00% | ~616 |
 | Gofer | 57.00% | ~557 |
-| 3, 2, 1, mine | 55.00% | ~537 |
+| 3, 2, 1, mine | 55.00% | ~538 |
 | O Captain! My Captain! | 54.00% | ~528 |
-| Seafarer | 52.00% | ~508 |
-| Greed for gold | 43.00% | ~420 |
-| Intangible | 42.00% | ~410 |
-| I'm out of here for a while | 42.00% | ~410 |
-| In a mint condition | 38.00% | ~371 |
-| Licence to Kill | 37.00% | ~361 |
-| Pirates! | 34.00% | ~332 |
-| Collectionitis | 29.00% | ~283 |
+| Seafarer | 52.00% | ~509 |
+| Greed for gold | 43.00% | ~421 |
+| Intangible | 42.00% | ~411 |
+| I'm out of here for a while | 42.00% | ~411 |
+| In a mint condition | 38.00% | ~372 |
+| Licence to Kill | 37.00% | ~362 |
+| Pirates! | 34.00% | ~333 |
+| Collectionitis | 29.00% | ~284 |
 | Christening | 28.00% | ~274 |
 | Megalomania | 28.00% | ~274 |
 | Groundskeeper | 26.00% | ~254 |
@@ -28,7 +28,7 @@ Number of Ratings: 53  (23.09.2022)
 | Pearly gates | 18.00% | ~176 |
 | My precious! | 17.00% | ~166 |
 | Conquistador | 14.00% | ~137 |
-| Panic buying | 11.00% | ~107 |
+| Panic buying | 11.00% | ~108 |
 | Just a scratch | 9.00% | ~88 |
 | Your vessel, my vessel | 9.00% | ~88 |
 | All mine! | 8.00% | ~78 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 977 (Ranked 241)  
+Progressed: 978 (Ranked 241)  
 Completed: 1 (0.10%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1 (0.10%) (Ranked 255)
 | 2023-10-20 | 971 | 1 |
 | 2023-10-21 | 974 | 1 |
 | 2023-10-22 | 976 | 1 |
-| 2023-10-23 | 977 | 1 |
+| 2023-10-23 | 978 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

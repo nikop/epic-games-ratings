@@ -6,8 +6,8 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3769,
+  "EOS_Progressed": 3770,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7415,6 +7415,11 @@
       "Time": "2023-10-23T15:04:11.0219147+00:00",
       "NumProgressed": 3769,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-23T20:04:46.7411455+00:00",
+      "NumProgressed": 3770,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7506,7 +7511,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7546,7 +7551,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7594,7 +7599,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7690,7 +7695,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7738,7 +7743,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7762,7 +7767,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7802,7 +7807,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7993,13 +7998,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3720,
+      "Progressed": 3721,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3769,
+      "Progressed": 3770,
       "Completed": 11
     }
   ],
@@ -8007,8 +8012,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:04:13.2767234+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:04:46.741145+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:03:24.9421542+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:04:13.2768363+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:57:43.1459044+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:04:46.7412643+00:00"
 }

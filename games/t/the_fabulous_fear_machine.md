@@ -12,17 +12,17 @@
 | Pulp! Where Monsters Dwell | 52.00% | ~16 |
 | A continent with chemistry | 52.00% | ~16 |
 | The happy farmer girl | 52.00% | ~16 |
+| Pulp! Out of this World | 48.00% | ~15 |
+| Pulp! Adventures into the Unknown | 48.00% | ~15 |
 | A rival with no options | 45.00% | ~14 |
 | Pulp! Terror Tales in the Night | 45.00% | ~14 |
-| Pulp! Out of this World | 45.00% | ~14 |
-| Pulp! Adventures into the Unknown | 45.00% | ~14 |
 | Kirlian's best disciple | 45.00% | ~14 |
-| Diagnosis: fear | 42.00% | ~13 |
-| Ambition is... blind | 42.00% | ~13 |
+| Diagnosis: fear | 45.00% | ~14 |
+| Ambition is... blind | 45.00% | ~14 |
 | You have two wishes left | 42.00% | ~13 |
+| The seer | 39.00% | ~12 |
 | Et in arcadia ego | 35.00% | ~11 |
 | The artist | 35.00% | ~11 |
-| The seer | 35.00% | ~11 |
 | Welcome to Hellville | 35.00% | ~11 |
 | You had one wish left | 32.00% | ~10 |
 | You've awakened the beast | 29.00% | ~9 |

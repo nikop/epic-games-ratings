@@ -36,10 +36,10 @@
 | Sling of David | 2.00% | ~9 |
 | Sword Master | 2.00% | ~9 |
 | Witch | 2.00% | ~9 |
+| Assassin | 1.00% | ~5 |
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
-| Assassin | 0.90% | ~4 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.20% | ~1 |
 | Hardboiled | 0.20% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -445,9 +445,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2774,
+  "EOS_Progressed": 2775,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3225,6 +3225,11 @@
       "Time": "2023-10-23T19:08:07.2236581+00:00",
       "NumProgressed": 2774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T20:09:14.4859838+00:00",
+      "NumProgressed": 2775,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3245,7 +3250,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "achievement_11",
@@ -3261,7 +3266,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_13",
@@ -3333,7 +3338,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "achievement_21",
@@ -3397,14 +3402,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2774,
+      "Progressed": 2775,
       "Completed": 0
     }
   ],
@@ -3412,8 +3417,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-23T17:58:32.6419992+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:08:07.2236578+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:09:14.4859828+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:58:07.5975897+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:08:07.2236895+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:58:31.3714155+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:09:14.4860417+00:00"
 }

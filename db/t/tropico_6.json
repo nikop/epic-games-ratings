@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 304,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 398,
   "RatingHistory": [
     {
@@ -1213,6 +1213,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 716,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-10-23T19:59:01.4519522+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 716,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
@@ -1287,7 +1293,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5655,
+  "EOS_Progressed": 5656,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -11682,6 +11688,11 @@
       "Time": "2023-10-23T19:08:26.9765418+00:00",
       "NumProgressed": 5655,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-23T20:09:33.2645863+00:00",
+      "NumProgressed": 5656,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11845,7 +11856,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -11853,7 +11864,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -11877,7 +11888,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -11965,7 +11976,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12012,15 +12023,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5655,
+      "Progressed": 5656,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-22T23:58:12.4677084+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:08:26.9765413+00:00",
+  "LastChanged": "2023-10-23T19:59:01.4519518+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:09:33.2645857+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.8637871+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:58:39.7899911+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:08:26.9766399+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:59:01.4519529+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:09:33.2647+00:00"
 }

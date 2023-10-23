@@ -27,7 +27,7 @@ Rating: 4.75 (Ranked 140)
 | Ça de Wizz! | 1.00% | ~76 |
 | Thing | 1.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,617 (Ranked 158)  
+Progressed: 7,617 (Ranked 159)  
 Completed: 34 (0.45%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |

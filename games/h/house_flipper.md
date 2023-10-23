@@ -22,9 +22,9 @@ Number of Ratings: 1,023  (23.09.2022)
 | I'm Belieber | 2.00% | ~423 |
 | Knock, knock | 1.00% | ~212 |
 | You do it wrong | 1.00% | ~212 |
+| Game Over | 0.90% | ~190 |
 | Wall Street Shark | 0.90% | ~190 |
 | Car Mechanic | 0.80% | ~169 |
-| Game Over | 0.80% | ~169 |
 | Negotiator | 0.80% | ~169 |
 | Nerd | 0.60% | ~127 |
 | Do it ASAP | 0.60% | ~127 |

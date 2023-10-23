@@ -1,26 +1,26 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 575)  
+Rating: 4.50 (Ranked 574)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 4.00% | ~1,093 |
 | Advancement | 3.00% | ~820 |
 | Meticulously Efficient | 3.00% | ~820 |
-| Animated | 2.00% | ~546 |
-| Clutch Capture | 2.00% | ~546 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~546 |
-| Cultured | 2.00% | ~546 |
-| Discovery | 2.00% | ~546 |
-| Fully Upgraded | 2.00% | ~546 |
-| Icing on the Cake | 2.00% | ~546 |
-| Solo Capture | 2.00% | ~546 |
-| Swift Rift Removers | 2.00% | ~546 |
-| Teamwork | 2.00% | ~546 |
-| There you are! | 2.00% | ~546 |
-| Vaporous Expansion | 2.00% | ~546 |
-| Whoopsie | 2.00% | ~546 |
+| Animated | 2.00% | ~547 |
+| Clutch Capture | 2.00% | ~547 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~547 |
+| Cultured | 2.00% | ~547 |
+| Discovery | 2.00% | ~547 |
+| Fully Upgraded | 2.00% | ~547 |
+| Icing on the Cake | 2.00% | ~547 |
+| Solo Capture | 2.00% | ~547 |
+| Swift Rift Removers | 2.00% | ~547 |
+| Teamwork | 2.00% | ~547 |
+| There you are! | 2.00% | ~547 |
+| Vaporous Expansion | 2.00% | ~547 |
+| Whoopsie | 2.00% | ~547 |
 | Back Off | 1.00% | ~273 |
 | Daily Dose | 1.00% | ~273 |
 | Ectoplasmic Entity | 1.00% | ~273 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,321 (Ranked 119)  
+Progressed: 27,333 (Ranked 119)  
 Completed: 63 (0.23%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 63 (0.23%) (Ranked 222)
 | 2023-10-20 | 26,825 | 60 |
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
-| 2023-10-23 | 27,321 | 63 |
+| 2023-10-23 | 27,333 | 63 |
 ## Awards
 Max (Great for Quick Sessions): 275  (Ranked 253)  
 Sum: 2,504 (Ranked 184)  

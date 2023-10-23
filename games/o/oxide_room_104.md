@@ -25,10 +25,10 @@
 | Good choice | 12.00% | ~25 |
 | Take the long way round | 12.00% | ~25 |
 | He who seeks, finds! | 12.00% | ~25 |
-| Nightmare in the kitchen | 10.00% | ~21 |
-| Born again | 7.00% | ~14 |
+| Nightmare in the kitchen | 11.00% | ~23 |
+| Born again | 8.00% | ~17 |
+| The experiment | 7.00% | ~14 |
 | 373 | 6.00% | ~12 |
-| The experiment | 6.00% | ~12 |
 | Matthew's revenge | 5.00% | ~10 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 1.00% | ~2 |

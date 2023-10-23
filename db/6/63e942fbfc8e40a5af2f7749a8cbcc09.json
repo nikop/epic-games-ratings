@@ -4,7 +4,7 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "ClearTE02",
       "SetID": "94lmepd",
       "Name": "Second Tale",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearTE03_01",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-10-23T19:09:12.1492182+00:00",
+  "LastChanged_Achievements": "2023-10-23T20:09:47.7754441+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:07.2775787+00:00",
-  "LastUpdate_Ratings": "2023-10-23T18:58:56.246693+00:00",
-  "LastUpdate_Achievements": "2023-10-23T19:09:12.1492453+00:00"
+  "LastUpdate_Ratings": "2023-10-23T19:59:16.9700017+00:00",
+  "LastUpdate_Achievements": "2023-10-23T20:09:47.7754715+00:00"
 }
