@@ -7537,7 +7537,7 @@
       "Count": 3479
     }
   ],
-  "EOS_Progressed": 232647,
+  "EOS_Progressed": 232649,
   "EOS_Completed": 2380,
   "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 15,
@@ -28307,6 +28307,11 @@
       "Time": "2023-10-23T15:06:21.6438776+00:00",
       "NumProgressed": 232647,
       "NumCompleted": 2380
+    },
+    {
+      "Time": "2023-10-23T16:06:26.5402154+00:00",
+      "NumProgressed": 232649,
+      "NumCompleted": 2380
     }
   ],
   "TotalAchievements": 528,
@@ -31764,9 +31769,9 @@
       "ID": "objective_completed_842",
       "SetID": "415jc5c",
       "Name": "Idyllglen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_843",
@@ -32541,21 +32546,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198921,
+      "Progressed": 198923,
       "Completed": 3673
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232647,
+      "Progressed": 232649,
       "Completed": 2380
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T05:59:27.1938183+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:21.6438769+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:26.540215+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:59:43.2620099+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:21.6467776+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:00:01.4445753+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:26.5428441+00:00"
 }

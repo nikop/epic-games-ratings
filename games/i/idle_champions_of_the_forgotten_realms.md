@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Dreams | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
 | The Bleeding Citadel | 0.20% | ~398 |
+| Idyllglen | 0.20% | ~398 |
 | The Battle of High Hall Tower | 0.20% | ~398 |
 | Elturel's Last Stand | 0.20% | ~398 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
@@ -448,7 +449,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.10% | ~199 |
 | Don't Pick at the Scab | 0.10% | ~199 |
 | Going To Eleven | 0.10% | ~199 |
-| Idyllglen | 0.10% | ~199 |
 | The Madness of Yeenoghu | 0.10% | ~199 |
 | Reya Reborn | 0.10% | ~199 |
 | The Radiant Nightmare | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,647 (Ranked 61)  
+Progressed: 232,649 (Ranked 61)  
 Completed: 2,380 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -721,7 +721,7 @@ Completed: 2,380 (1.02%) (Ranked 146)
 | 2023-10-20 | 232,392 | 2,374 |
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
-| 2023-10-23 | 232,647 | 2,380 |
+| 2023-10-23 | 232,649 | 2,380 |
 ## Awards
 Max (Great for Beginners): 5,437  (Ranked 69)  
 Sum: 32,172 (Ranked 41)  

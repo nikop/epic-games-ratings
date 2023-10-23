@@ -25,13 +25,13 @@ Rating: 4.55 (Ranked 494)
 | Masseltov | 20.00% | ~89 |
 | And everything comes full circle. | 20.00% | ~89 |
 | Quickdraw | 16.00% | ~71 |
-| Thuna...? | 14.00% | ~62 |
+| Thuna...? | 15.00% | ~67 |
 | Monstrous Harassment | 14.00% | ~62 |
 | Heading the inverter | 14.00% | ~62 |
 | Blast from the Past | 12.00% | ~54 |
 | Play it again, Ronny | 11.00% | ~49 |
+| Goat Team | 10.00% | ~45 |
 | Paradox! | 10.00% | ~45 |
-| Goat Team | 9.00% | ~40 |
 | Weapons 101 | 8.00% | ~36 |
 | Sadist | 8.00% | ~36 |
 | The customer is always right | 6.00% | ~27 |

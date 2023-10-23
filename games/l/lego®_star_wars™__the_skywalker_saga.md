@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,323 |
-| ''I don't like you either!'' | 79.00% | ~40,984 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,353 |
-| ''Impressive, most impressive'' | 71.00% | ~36,834 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,324 |
+| ''I don't like you either!'' | 79.00% | ~40,985 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,354 |
+| ''Impressive, most impressive'' | 71.00% | ~36,835 |
 | The Phantom Menace | 59.00% | ~30,609 |
 | ''Aggressive Negotiations'' | 59.00% | ~30,609 |
-| ''I can fly anything'' | 57.00% | ~29,571 |
+| ''I can fly anything'' | 57.00% | ~29,572 |
 | ''And who gave you permission...?'' | 54.00% | ~28,015 |
 | A New Hope | 48.00% | ~24,902 |
-| Attack of the Clones | 47.00% | ~24,383 |
+| Attack of the Clones | 47.00% | ~24,384 |
 | Revenge of the Sith | 40.00% | ~20,752 |
 | The Empire Strikes Back | 38.00% | ~19,714 |
-| ''A fine addition to my collection'' | 37.00% | ~19,195 |
-| Return of the Jedi | 32.00% | ~16,601 |
-| The Force Awakens | 27.00% | ~14,007 |
+| ''A fine addition to my collection'' | 37.00% | ~19,196 |
+| Return of the Jedi | 32.00% | ~16,602 |
+| The Force Awakens | 27.00% | ~14,008 |
 | The Last Jedi | 23.00% | ~11,932 |
 | The Rise of Skywalker | 20.00% | ~10,376 |
 | ''It's true... all of it'' | 19.00% | ~9,857 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~519 |
 | ''I've never seen a real one!'' | 1.00% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,879 (Ranked 102)  
+Progressed: 51,880 (Ranked 102)  
 Completed: 242 (0.47%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 242 (0.47%) (Ranked 185)
 | 2023-10-20 | 51,858 | 241 |
 | 2023-10-21 | 51,867 | 241 |
 | 2023-10-22 | 51,879 | 242 |
+| 2023-10-23 | 51,880 | 242 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 104)  
 Sum: 6,671 (Ranked 122)  

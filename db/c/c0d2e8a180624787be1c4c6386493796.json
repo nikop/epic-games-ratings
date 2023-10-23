@@ -278,9 +278,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 82,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -422,9 +422,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:34.7513532+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:39.4778918+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:35.4046012+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:34.7514395+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:58.0377678+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:39.4779597+00:00"
 }

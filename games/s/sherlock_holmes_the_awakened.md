@@ -8,7 +8,7 @@ Rating: 4.63 (Ranked 340)
 | Read Between The Lines | 66.00% | ~473 |
 | To Hell In A Handcart | 66.00% | ~473 |
 | High Profile | 59.00% | ~423 |
-| Whispers In The Dark | 56.00% | ~402 |
+| Whispers In The Dark | 57.00% | ~409 |
 | Fond Memories | 54.00% | ~387 |
 | A Method To His Madness | 53.00% | ~380 |
 | History Check | 52.00% | ~373 |
@@ -22,8 +22,8 @@ Rating: 4.63 (Ranked 340)
 | Lock, Stock, And Barrel | 46.00% | ~330 |
 | Back In The Saddle | 46.00% | ~330 |
 | At Wits' End | 46.00% | ~330 |
+| Bookworm | 44.00% | ~315 |
 | Fhtagn! | 44.00% | ~315 |
-| Bookworm | 43.00% | ~308 |
 | Up In Flames | 43.00% | ~308 |
 | Going Once... | 39.00% | ~280 |
 | Let Me Be Frank | 37.00% | ~265 |

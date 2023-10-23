@@ -6006,9 +6006,9 @@
       "ID": "ACH_APPLEBEES_BILL",
       "SetID": "cdkbb11",
       "Name": "Eatin\u0027 Good in the Neighborhood",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -6341,8 +6341,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:04:25.3799789+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:04:48.0069856+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:59:41.1792585+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:04:25.3800574+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:59:59.4199107+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:04:48.0070466+00:00"
 }

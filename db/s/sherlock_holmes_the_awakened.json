@@ -2713,9 +2713,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 409
     },
     {
       "ID": "MQ03_1",
@@ -2825,9 +2825,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 315
     },
     {
       "ID": "MQ06_3",
@@ -2906,8 +2906,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:04:23.674489+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:04:46.2499964+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:33.0559305+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:04:23.6745264+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:55.3762892+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:04:46.250032+00:00"
 }

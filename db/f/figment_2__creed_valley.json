@@ -180,9 +180,9 @@
       "ID": "fluff_cerebrum_cider_priciple_square",
       "SetID": "7e96e7l",
       "Name": "A heavy thinker",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "fluff_hit_by_coco_bulb",
@@ -212,9 +212,9 @@
       "ID": "fluff_score_goal",
       "SetID": "7e96e7l",
       "Name": "GOAAAAAAAAAL!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "shards_all_remembranes",
@@ -292,9 +292,9 @@
       "ID": "story_principle_square",
       "SetID": "7e96e7l",
       "Name": "Elementary, My Dear Dusty",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -309,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:09:23.9845015+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:09:30.7427405+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:26.8632123+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:02.3070934+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:09:23.9845165+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:26.1040915+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:09:30.7427517+00:00"
 }

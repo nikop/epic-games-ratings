@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250584,
+  "EOS_Progressed": 250585,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17207,6 +17207,11 @@
       "Time": "2023-10-23T15:06:40.3752708+00:00",
       "NumProgressed": 250584,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-23T16:06:45.4447929+00:00",
+      "NumProgressed": 250585,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17522,7 +17527,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55128
+      "UsersEstimate": 55129
     },
     {
       "ID": "thunderstruck",
@@ -17578,14 +17583,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40093
+      "UsersEstimate": 40094
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250584,
+      "Progressed": 250585,
       "Completed": 6
     }
   ],
@@ -17593,8 +17598,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:40.3752701+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:45.4447925+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:02:17.1373387+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:40.3754246+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:12.8104689+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:45.4449022+00:00"
 }

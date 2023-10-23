@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -695,9 +695,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Stonozka",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:03.7091892+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:07.1268706+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.8768391+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:36.3772712+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:03.7092118+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:59.303292+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:07.1268995+00:00"
 }

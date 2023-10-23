@@ -4,7 +4,7 @@
   "ProductSlug": "scary-and-dot-86b1ff",
   "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-06-30T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-02T17:57:11.7372875+00:00",
   "LastUpdate_AppInfo": "2023-10-16T20:57:07.5520256+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:03.5287015+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:08:21.5174307+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:27.6857389+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:08:16.7713294+00:00"
 }

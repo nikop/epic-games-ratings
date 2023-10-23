@@ -11,9 +11,9 @@
 | An old friend | 54.00% | ~13 |
 | The Gala | 50.00% | ~12 |
 | A curious gathering | 50.00% | ~12 |
+| Little grey cells | 46.00% | ~11 |
+| Impossible is possible | 46.00% | ~11 |
 | Arthur Hastings | 46.00% | ~11 |
-| Little grey cells | 42.00% | ~10 |
-| Impossible is possible | 42.00% | ~10 |
 | The Missing Magdalene | 38.00% | ~9 |
 | Everything matters | 29.00% | ~7 |
 | Order and method | 29.00% | ~7 |

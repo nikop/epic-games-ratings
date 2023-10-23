@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~739 |
-| Off to a good start | 69.00% | ~560 |
-| Do... or do not. There is no try | 52.00% | ~422 |
+| New Recruit | 91.00% | ~740 |
+| Off to a good start | 69.00% | ~561 |
+| Do... or do not. There is no try | 52.00% | ~423 |
 | A good blaster at your side | 34.00% | ~276 |
-| Scrap collector | 20.00% | ~162 |
+| Scrap collector | 20.00% | ~163 |
 | I suggest a new strategy | 19.00% | ~154 |
 | All right, I'll give it a try | 18.00% | ~146 |
 | Great shot, kid! | 18.00% | ~146 |
@@ -30,14 +30,14 @@
 | A tremor in the Force | 6.00% | ~49 |
 | Not bad for a little furball | 5.00% | ~41 |
 | Patience you must have | 5.00% | ~41 |
-| I've been waiting for you | 4.00% | ~32 |
-| When 900 years old you reach... | 4.00% | ~32 |
-| Determined | 4.00% | ~32 |
-| Your journey has only started | 4.00% | ~32 |
-| On the ball | 4.00% | ~32 |
-| Safety ain't the point of a joyride | 4.00% | ~32 |
-| That's no moon | 4.00% | ~32 |
-| Don't underestimate the Force | 4.00% | ~32 |
+| I've been waiting for you | 4.00% | ~33 |
+| When 900 years old you reach... | 4.00% | ~33 |
+| Determined | 4.00% | ~33 |
+| Your journey has only started | 4.00% | ~33 |
+| On the ball | 4.00% | ~33 |
+| Safety ain't the point of a joyride | 4.00% | ~33 |
+| That's no moon | 4.00% | ~33 |
+| Don't underestimate the Force | 4.00% | ~33 |
 | Precision shot | 3.00% | ~24 |
 | This is a new day, a new beginning | 3.00% | ~24 |
 | City in the Clouds | 3.00% | ~24 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 251)  
+Progressed: 813 (Ranked 251)  
 Completed: 1 (0.12%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.12%) (Ranked 246)
 | 2023-10-20 | 758 | 1 |
 | 2023-10-21 | 784 | 1 |
 | 2023-10-22 | 805 | 1 |
-| 2023-10-23 | 812 | 1 |
+| 2023-10-23 | 813 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

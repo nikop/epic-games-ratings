@@ -117,22 +117,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~89 |
 | Ambition Victory | 0.60% | ~89 |
 | The Clergy | 0.60% | ~89 |
-| Ready | 0.50% | ~74 |
-| Clerics | 0.50% | ~74 |
-| Babylonia | 0.50% | ~74 |
-| Egypt | 0.50% | ~74 |
-| One True Faith | 0.50% | ~74 |
-| Assyrian Paganism | 0.50% | ~74 |
-| Hittite Paganism | 0.50% | ~74 |
-| Industrial Progress | 0.50% | ~74 |
-| Enlightenment | 0.50% | ~74 |
-| Veneration | 0.50% | ~74 |
-| Mounted Lancer | 0.50% | ~74 |
-| Turreted Elephant | 0.50% | ~74 |
-| All Nations | 0.50% | ~74 |
-| The Great Mage | 0.50% | ~74 |
-| Poetic Leader | 0.50% | ~74 |
-| Kmt Unified | 0.50% | ~74 |
+| Ready | 0.50% | ~75 |
+| Clerics | 0.50% | ~75 |
+| Babylonia | 0.50% | ~75 |
+| Egypt | 0.50% | ~75 |
+| One True Faith | 0.50% | ~75 |
+| Assyrian Paganism | 0.50% | ~75 |
+| Hittite Paganism | 0.50% | ~75 |
+| Industrial Progress | 0.50% | ~75 |
+| Enlightenment | 0.50% | ~75 |
+| Veneration | 0.50% | ~75 |
+| Mounted Lancer | 0.50% | ~75 |
+| Turreted Elephant | 0.50% | ~75 |
+| All Nations | 0.50% | ~75 |
+| The Great Mage | 0.50% | ~75 |
+| Poetic Leader | 0.50% | ~75 |
+| Kmt Unified | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,900 (Ranked 139)  
+Progressed: 14,901 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 5 (0.03%) (Ranked 289)
 | 2023-10-20 | 14,824 | 5 |
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
-| 2023-10-23 | 14,900 | 5 |
+| 2023-10-23 | 14,901 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,853 (Ranked 211)  

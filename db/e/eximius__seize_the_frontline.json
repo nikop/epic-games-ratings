@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 69,
@@ -321,7 +321,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198896,
+  "EOS_Progressed": 198898,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
@@ -20176,6 +20176,11 @@
       "Time": "2023-10-23T15:05:33.5191781+00:00",
       "NumProgressed": 198896,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T16:05:46.8542231+00:00",
+      "NumProgressed": 198898,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -20195,7 +20200,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141216
+      "UsersEstimate": 141218
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -20219,7 +20224,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35801
+      "UsersEstimate": 35802
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -20314,7 +20319,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 198896,
+      "Progressed": 198898,
       "Completed": 4
     }
   ],
@@ -20322,8 +20327,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-09T18:00:39.8598773+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:05:33.5191774+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:05:46.8542228+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.1360771+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:14.3844121+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:05:33.5193267+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:39.6376675+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:05:46.8543237+00:00"
 }

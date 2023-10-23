@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7614,
+  "EOS_Progressed": 7615,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7543,6 +7543,11 @@
       "Time": "2023-10-23T13:09:31.917501+00:00",
       "NumProgressed": 7614,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-23T16:04:29.6996543+00:00",
+      "NumProgressed": 7615,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7554,7 +7559,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ARRR",
@@ -7602,7 +7607,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7721,7 +7726,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7614,
+      "Progressed": 7615,
       "Completed": 34
     }
   ],
@@ -7729,8 +7734,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:04:07.1365151+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:04:29.6996539+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.1147547+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:52.9621324+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:04:07.1365797+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:59:14.2179136+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:04:29.6997001+00:00"
 }

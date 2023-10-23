@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -194,9 +194,9 @@
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_015",
@@ -314,9 +314,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_029",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:49.7449097+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:07:04.908949+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:08.7110626+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:03:08.1301152+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:49.7449446+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:03:29.0695228+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:07:04.9089824+00:00"
 }

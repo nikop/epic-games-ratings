@@ -1,13 +1,13 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,809 |
 | First Class Student | 14.00% | ~41,822 |
-| Troll with the Punches | 13.00% | ~38,834 |
+| Troll with the Punches | 13.00% | ~38,835 |
 | A Keen Sense of Spell | 12.00% | ~35,847 |
 | That's a Keeper | 12.00% | ~35,847 |
 | Grappling with a Graphorn | 11.00% | ~32,860 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,726 (Ranked 48)  
+Progressed: 298,727 (Ranked 48)  
 Completed: 491 (0.16%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 491 (0.16%) (Ranked 238)
 | 2023-10-20 | 298,622 | 490 |
 | 2023-10-21 | 298,671 | 491 |
 | 2023-10-22 | 298,711 | 491 |
-| 2023-10-23 | 298,726 | 491 |
+| 2023-10-23 | 298,727 | 491 |
 ## Awards
 Max (Character Customization): 23,743  (Ranked 17)  
-Sum: 46,480 (Ranked 30)  
+Sum: 46,485 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 11,907 |
 | This game is Great for Beginners | 1,214 |
 | This game has Amazing Storytelling | 1,175 |
-| This game has Diverse Characters | 1,168 |
+| This game has Diverse Characters | 1,173 |
 | This game is Extremely Fun | 1,156 |
 | This game is Relaxing | 1,154 |
 | This game has Amazing Characters | 1,125 |
@@ -472,4 +472,4 @@ Diff (max vs sum): -13
 | 2023-10-20 | 4.76 | 23,665 | 46,267 |
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
 | 2023-10-22 | 4.76 | 23,719 | 46,414 |
-| 2023-10-23 | 4.76 | 23,743 | 46,480 |
+| 2023-10-23 | 4.76 | 23,743 | 46,485 |

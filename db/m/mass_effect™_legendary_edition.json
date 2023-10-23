@@ -2693,9 +2693,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_58",
@@ -3037,9 +3037,9 @@
       "ID": "achievement_96",
       "SetID": "d252ncf",
       "Name": "Legend",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_97",
@@ -3081,8 +3081,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:03:23.6645437+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:03:45.9764624+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:03:12.5377299+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:03:23.6648271+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:03:32.1126861+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:03:45.9766538+00:00"
 }

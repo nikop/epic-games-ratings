@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 630,
+  "EOS_Progressed": 634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -373,6 +373,11 @@
       "Time": "2023-10-23T15:06:19.3336193+00:00",
       "NumProgressed": 630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T16:06:23.7538085+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -399,7 +404,7 @@
       "ID": "ACHIEVEMENT_ALL_TURRETS",
       "SetID": "9991201",
       "Name": "Turret Syndrome",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -415,17 +420,17 @@
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -439,9 +444,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -449,7 +454,7 @@
       "Name": "Team Builder",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -463,9 +468,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -481,7 +486,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -497,7 +502,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -529,7 +534,7 @@
       "Name": "Hoarder",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -585,15 +590,15 @@
       "Name": "Effective Efficiency",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -624,13 +629,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 630,
+      "Progressed": 634,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:19.3336184+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:23.753808+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:59.7816054+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:19.3336404+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:59:19.6662734+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:23.7538272+00:00"
 }

@@ -1,52 +1,52 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.18 (Ranked 907)  
+Rating: 4.18 (Ranked 906)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~109,225 |
-| May the Torchbearer light our way | 36.00% | ~103,477 |
-| A powerful aura was here | 23.00% | ~66,110 |
-| Let's raise the stakes!! | 10.00% | ~28,744 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,246 |
-| Rumors are true | 5.00% | ~14,372 |
-| Pride is a sin, young Knight | 5.00% | ~14,372 |
-| Bring it on! | 5.00% | ~14,372 |
-| We'll be careful | 4.00% | ~11,497 |
-| Back to your senses | 3.00% | ~8,623 |
-| They tricked me | 2.00% | ~5,749 |
-| We need to talk | 2.00% | ~5,749 |
-| I feel drawn to it | 2.00% | ~5,749 |
-| They won't last long | 2.00% | ~5,749 |
-| I took a risk | 2.00% | ~5,749 |
-| Here to stay | 1.00% | ~2,874 |
-| Counting on you | 1.00% | ~2,874 |
-| This is the end | 1.00% | ~2,874 |
-| We can choose to fight | 1.00% | ~2,874 |
-| Their fate is sealed | 1.00% | ~2,874 |
+| The touch of Chaos | 38.00% | ~109,254 |
+| May the Torchbearer light our way | 36.00% | ~103,504 |
+| A powerful aura was here | 23.00% | ~66,128 |
+| Let's raise the stakes!! | 10.00% | ~28,751 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,251 |
+| Rumors are true | 5.00% | ~14,376 |
+| Pride is a sin, young Knight | 5.00% | ~14,376 |
+| Bring it on! | 5.00% | ~14,376 |
+| We'll be careful | 4.00% | ~11,500 |
+| Back to your senses | 3.00% | ~8,625 |
+| They tricked me | 2.00% | ~5,750 |
+| We need to talk | 2.00% | ~5,750 |
+| I feel drawn to it | 2.00% | ~5,750 |
+| They won't last long | 2.00% | ~5,750 |
+| I took a risk | 2.00% | ~5,750 |
+| Here to stay | 1.00% | ~2,875 |
+| Counting on you | 1.00% | ~2,875 |
+| This is the end | 1.00% | ~2,875 |
+| We can choose to fight | 1.00% | ~2,875 |
+| Their fate is sealed | 1.00% | ~2,875 |
 | Not even from this world | 0.60% | ~1,725 |
-| You want more? I've got more! | 0.50% | ~1,437 |
-| No damsels in distress | 0.30% | ~862 |
+| You want more? I've got more! | 0.50% | ~1,438 |
+| No damsels in distress | 0.30% | ~863 |
 | The Ashen Knight | 0.20% | ~575 |
 | The Shade | 0.20% | ~575 |
 | Through the Veil | 0.20% | ~575 |
-| The immortal is bound to reborn | 0.10% | ~287 |
-| A legend among Chimeras | 0.10% | ~287 |
-| It's only pain | 0.10% | ~287 |
-| I know how to handle it | 0.10% | ~287 |
-| Settle this once and for all | 0.10% | ~287 |
-| Call this the Judge's mercy | 0.10% | ~287 |
-| There's too many of them! | 0.10% | ~287 |
-| I've been waiting for this! | 0.10% | ~287 |
-| I'm just warming up | 0.10% | ~287 |
-| We learned it the hard way | 0.10% | ~287 |
-| They wanted yet another monster… | 0.10% | ~287 |
-| Something... unnatural | 0.10% | ~287 |
-| We strike as one | 0.10% | ~287 |
-| Chaos be damned! | 0.10% | ~287 |
+| The immortal is bound to reborn | 0.10% | ~288 |
+| A legend among Chimeras | 0.10% | ~288 |
+| It's only pain | 0.10% | ~288 |
+| I know how to handle it | 0.10% | ~288 |
+| Settle this once and for all | 0.10% | ~288 |
+| Call this the Judge's mercy | 0.10% | ~288 |
+| There's too many of them! | 0.10% | ~288 |
+| I've been waiting for this! | 0.10% | ~288 |
+| I'm just warming up | 0.10% | ~288 |
+| We learned it the hard way | 0.10% | ~288 |
+| They wanted yet another monster… | 0.10% | ~288 |
+| Something... unnatural | 0.10% | ~288 |
+| We strike as one | 0.10% | ~288 |
+| Chaos be damned! | 0.10% | ~288 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,435 (Ranked 50)  
+Progressed: 287,511 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 1 (0.00%) (Ranked 321)
 | 2023-10-20 | 282,646 | 1 |
 | 2023-10-21 | 284,702 | 1 |
 | 2023-10-22 | 286,649 | 1 |
-| 2023-10-23 | 287,435 | 1 |
+| 2023-10-23 | 287,511 | 1 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 448)  
 Sum: 38 (Ranked 486)  

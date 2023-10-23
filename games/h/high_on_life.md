@@ -25,8 +25,8 @@ Rating: 4.65 (Ranked 305)
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Spent 15 Hours At The Alien Strip Club | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.80% | ~195 |
+| Eatin' Good in the Neighborhood | 0.70% | ~170 |
 | We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
-| Eatin' Good in the Neighborhood | 0.60% | ~146 |
 | Eye Scream, You Scream | 0.60% | ~146 |
 | Mux Ado About Shipping | 0.50% | ~8 |
 | Sequel-Bait | 0.30% | ~73 |

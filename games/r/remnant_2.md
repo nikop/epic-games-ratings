@@ -1,39 +1,39 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~17,990 |
-| The Killing Jar | 8.00% | ~15,991 |
-| Expanding Horizons | 7.00% | ~13,992 |
-| Quest for Survival | 7.00% | ~13,992 |
-| Not Your Average Trait | 7.00% | ~13,992 |
-| Gleaming the Cube | 6.00% | ~11,993 |
-| Familiar Face | 6.00% | ~11,993 |
-| Duality | 6.00% | ~11,993 |
-| Boss'n Up | 6.00% | ~11,993 |
-| Trait Chaser | 6.00% | ~11,993 |
-| Not So Special Now | 5.00% | ~9,994 |
-| Not a Janitor | 5.00% | ~9,994 |
-| Equal Measures | 5.00% | ~9,994 |
-| Blue Goddess | 5.00% | ~9,994 |
-| Top Performer | 5.00% | ~9,994 |
-| Shhh...It's a Secret | 5.00% | ~9,994 |
-| Almost There | 5.00% | ~9,994 |
-| Make Some Room | 5.00% | ~9,994 |
-| Good, But Could Be Better! | 5.00% | ~9,994 |
-| Chaos | 4.00% | ~7,995 |
-| Traitor | 4.00% | ~7,995 |
-| Power Surge | 4.00% | ~7,995 |
-| The God Gambit | 4.00% | ~7,995 |
-| Dark Designs | 4.00% | ~7,995 |
-| Madman's Paradise | 4.00% | ~7,995 |
-| Was This Supposed To Happen? | 4.00% | ~7,995 |
-| The Web | 4.00% | ~7,995 |
-| Scrap Collector | 4.00% | ~7,995 |
-| All These Traits� | 4.00% | ~7,995 |
+| First of Many | 9.00% | ~17,992 |
+| The Killing Jar | 8.00% | ~15,993 |
+| Expanding Horizons | 7.00% | ~13,994 |
+| Quest for Survival | 7.00% | ~13,994 |
+| Not Your Average Trait | 7.00% | ~13,994 |
+| Gleaming the Cube | 6.00% | ~11,995 |
+| Familiar Face | 6.00% | ~11,995 |
+| Duality | 6.00% | ~11,995 |
+| Boss'n Up | 6.00% | ~11,995 |
+| Trait Chaser | 6.00% | ~11,995 |
+| Not So Special Now | 5.00% | ~9,996 |
+| Not a Janitor | 5.00% | ~9,996 |
+| Equal Measures | 5.00% | ~9,996 |
+| Blue Goddess | 5.00% | ~9,996 |
+| Top Performer | 5.00% | ~9,996 |
+| Shhh...It's a Secret | 5.00% | ~9,996 |
+| Almost There | 5.00% | ~9,996 |
+| Make Some Room | 5.00% | ~9,996 |
+| Good, But Could Be Better! | 5.00% | ~9,996 |
+| Chaos | 4.00% | ~7,997 |
+| Traitor | 4.00% | ~7,997 |
+| Power Surge | 4.00% | ~7,997 |
+| The God Gambit | 4.00% | ~7,997 |
+| Dark Designs | 4.00% | ~7,997 |
+| Madman's Paradise | 4.00% | ~7,997 |
+| Was This Supposed To Happen? | 4.00% | ~7,997 |
+| The Web | 4.00% | ~7,997 |
+| Scrap Collector | 4.00% | ~7,997 |
+| All These Traits� | 4.00% | ~7,997 |
 | Am I Seeing This? | 3.00% | ~5,997 |
 | Forever is a Long Time Coming | 3.00% | ~5,997 |
 | The Agenda | 3.00% | ~5,997 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~1,999 |
 | Proving Grounds | 1.00% | ~1,999 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,886 (Ranked 68)  
+Progressed: 199,916 (Ranked 68)  
 Completed: 402 (0.20%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,16 +155,16 @@ Completed: 402 (0.20%) (Ranked 229)
 | 2023-10-20 | 198,353 | 400 |
 | 2023-10-21 | 198,996 | 400 |
 | 2023-10-22 | 199,607 | 401 |
-| 2023-10-23 | 199,886 | 402 |
+| 2023-10-23 | 199,916 | 402 |
 ## Awards
 Max (Great Boss Battles): 1,885  (Ranked 114)  
-Sum: 4,115 (Ranked 147)  
+Sum: 4,119 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,885 |
 | This game has Challenging Combat | 252 |
-| This game has Diverse Characters | 247 |
+| This game has Diverse Characters | 250 |
 | This game is Relaxing | 242 |
 | This game is Extremely Fun | 241 |
 | This game is Highly Recommended | 233 |
@@ -172,7 +172,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 221 |
 | This game has Amazing Characters | 216 |
 | This game has Unique Visuals | 188 |
-| This game has a Creative Community | 167 |
+| This game has a Creative Community | 168 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -265,4 +265,4 @@ Diff (max vs sum): -33
 | 2023-10-20 | 4.76 | 1,862 | 4,049 |
 | 2023-10-21 | 4.76 | 1,870 | 3,894 |
 | 2023-10-22 | 4.76 | 1,885 | 4,113 |
-| 2023-10-23 | 4.76 | 1,885 | 4,115 |
+| 2023-10-23 | 4.76 | 1,885 | 4,119 |

@@ -5,17 +5,17 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,465 |
-| IT MAKES BOOM! | 3.00% | ~7,479 |
-| EXTRA BOOST | 2.00% | ~4,986 |
-| PROTECTED | 2.00% | ~4,986 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,493 |
-| AGGRESSIVE RACER | 1.00% | ~2,493 |
-| PRO | 1.00% | ~2,493 |
-| A TIGER'S FEAR | 0.90% | ~2,244 |
+| ROOKIE | 5.00% | ~12,471 |
+| IT MAKES BOOM! | 3.00% | ~7,483 |
+| EXTRA BOOST | 2.00% | ~4,988 |
+| PROTECTED | 2.00% | ~4,988 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,494 |
+| AGGRESSIVE RACER | 1.00% | ~2,494 |
+| PRO | 1.00% | ~2,494 |
+| A TIGER'S FEAR | 0.90% | ~2,245 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,247 |
 | ACE SPEEDSTER | 0.50% | ~1,247 |
-| DEFEAT OUR CHAMPION | 0.40% | ~997 |
+| DEFEAT OUR CHAMPION | 0.40% | ~998 |
 | TRAINING HARD | 0.30% | ~748 |
 | RELEASE THE KRAKEN | 0.30% | ~748 |
 | BE OUR GUEST | 0.30% | ~748 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 704)
 | ACE TRICKSTER | 0.20% | ~499 |
 | FRAMED! | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,302 (Ranked 55)  
+Progressed: 249,423 (Ranked 55)  
 Completed: 240 (0.10%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,17 +212,17 @@ Completed: 240 (0.10%) (Ranked 254)
 | 2023-10-20 | 240,782 | 236 |
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
-| 2023-10-23 | 249,302 | 240 |
+| 2023-10-23 | 249,423 | 240 |
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 460)  
-Sum: 180 (Ranked 400)  
-Diff (max vs sum): 60  
+Sum: 186 (Ranked 397)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
 | This game has Diverse Characters | 34 |
+| This game is Great for Beginners | 30 |
 | This game has Amazing Characters | 25 |
-| This game is Great for Beginners | 24 |
 | This game has Amazing Storytelling | 21 |
 | This game has Quickly Understood Controls | 21 |
 | This game is Highly Recommended | 20 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 60
 | 2023-10-20 | 4.41 | 32 | 131 |
 | 2023-10-21 | 4.40 | 33 | 136 |
 | 2023-10-22 | 4.41 | 35 | 180 |
+| 2023-10-23 | 4.41 | 35 | 186 |

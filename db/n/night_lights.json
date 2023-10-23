@@ -4,7 +4,7 @@
   "ProductSlug": "night-lights-4cd904",
   "Ranking_EOS_Progress": 693,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7906522+00:00",
   "LastChanged": "2023-03-31T05:58:10.7906523+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:28.7350799+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:05.0745514+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:07.1848132+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:29.5743848+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:10.6336187+00:00"
 }

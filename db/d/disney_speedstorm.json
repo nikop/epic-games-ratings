@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 704,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 400,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 5,
@@ -391,10 +391,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-10-23T15:57:32.8049257+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 180,
+  "NumberOfAwards": 186,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -408,7 +414,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 24
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -441,9 +447,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249302,
+  "EOS_Progressed": 249423,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 20729,
+  "EOS_NewPlayers": 20695,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8666,6 +8672,11 @@
       "Time": "2023-10-23T15:07:17.1744198+00:00",
       "NumProgressed": 249302,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-10-23T16:07:22.4917642+00:00",
+      "NumProgressed": 249423,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 24,
@@ -8685,7 +8696,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4988
     },
     {
       "ID": "11",
@@ -8717,7 +8728,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7479
+      "UsersEstimate": 7483
     },
     {
       "ID": "15",
@@ -8757,7 +8768,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.4,
       "XP": 85,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "2",
@@ -8773,7 +8784,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4988
     },
     {
       "ID": "21",
@@ -8797,7 +8808,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2245
     },
     {
       "ID": "24",
@@ -8805,7 +8816,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "3",
@@ -8821,7 +8832,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "5",
@@ -8829,7 +8840,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12471
     },
     {
       "ID": "6",
@@ -8837,7 +8848,7 @@
       "Name": "PRO",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "7",
@@ -8868,16 +8879,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 249302,
+      "Progressed": 249423,
       "Completed": 240
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-22T23:02:19.862442+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:07:17.1744191+00:00",
+  "LastChanged": "2023-10-23T15:57:32.8049256+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:07:22.4917638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:12.2272375+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:07:17.1744937+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:32.804926+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:07:22.4918164+00:00"
 }

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 82.00% | ~9 |
+| A Small Thirsty Thing | 18.00% | ~2 |
 | Leisis Bless You | 18.00% | ~2 |
 | Spirit Within | 18.00% | ~2 |
-| A Small Thirsty Thing | 9.00% | ~1 |
 | Smotherly Love | 9.00% | ~1 |
 | Let Me Solo Them | 9.00% | ~1 |
 | Dousing a Venerable Flame | 9.00% | ~1 |

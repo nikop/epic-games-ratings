@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,515 |
-| Until death do us apart | 4.00% | ~17,515 |
-| Victorious! | 4.00% | ~17,515 |
-| That is mine! | 3.00% | ~13,136 |
-| Brothers in Arms | 2.00% | ~8,757 |
-| Cold War | 2.00% | ~8,757 |
-| For the Glory | 2.00% | ~8,757 |
-| That's a Grand Navy | 2.00% | ~8,757 |
-| Seriously?! | 2.00% | ~8,757 |
+| That's a Grand Army | 4.00% | ~17,517 |
+| Until death do us apart | 4.00% | ~17,517 |
+| Victorious! | 4.00% | ~17,517 |
+| That is mine! | 3.00% | ~13,138 |
+| Brothers in Arms | 2.00% | ~8,758 |
+| Cold War | 2.00% | ~8,758 |
+| For the Glory | 2.00% | ~8,758 |
+| That's a Grand Navy | 2.00% | ~8,758 |
+| Seriously?! | 2.00% | ~8,758 |
 | Defender of the Faith | 1.00% | ~4,379 |
 | It's all about luck | 1.00% | ~4,379 |
 | It's all about the money | 1.00% | ~4,379 |
@@ -27,19 +27,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,503 |
 | Total Control | 0.80% | ~3,503 |
 | My armies are invincible! | 0.70% | ~3,065 |
-| Agressive Expander | 0.50% | ~2,189 |
-| Azur semé de lis or | 0.50% | ~2,189 |
-| City of Cities | 0.50% | ~2,189 |
-| Combined Arms | 0.50% | ~2,189 |
-| This navy can take it all | 0.50% | ~2,189 |
-| Bright Spark | 0.40% | ~1,751 |
-| The Emperors new clothes | 0.40% | ~1,751 |
-| Factionalism | 0.40% | ~1,751 |
-| Gentle Persuasion | 0.40% | ~1,751 |
-| Isn't this the way to India? | 0.40% | ~1,751 |
-| Queen of Conquest | 0.40% | ~1,751 |
-| The Five Colonies | 0.40% | ~1,751 |
-| Trustworthy | 0.40% | ~1,751 |
+| Agressive Expander | 0.50% | ~2,190 |
+| Azur semé de lis or | 0.50% | ~2,190 |
+| City of Cities | 0.50% | ~2,190 |
+| Combined Arms | 0.50% | ~2,190 |
+| This navy can take it all | 0.50% | ~2,190 |
+| Bright Spark | 0.40% | ~1,752 |
+| The Emperors new clothes | 0.40% | ~1,752 |
+| Factionalism | 0.40% | ~1,752 |
+| Gentle Persuasion | 0.40% | ~1,752 |
+| Isn't this the way to India? | 0.40% | ~1,752 |
+| Queen of Conquest | 0.40% | ~1,752 |
+| The Five Colonies | 0.40% | ~1,752 |
+| Trustworthy | 0.40% | ~1,752 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,314 |
 | Down Under | 0.30% | ~1,314 |
 | Electable! | 0.30% | ~1,314 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437,865 (Ranked 40)  
+Progressed: 437,917 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,17 +547,17 @@ Completed: 1 (0.00%) (Ranked 321)
 | 2023-10-20 | 435,486 | 1 |
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
-| 2023-10-23 | 437,865 | 1 |
+| 2023-10-23 | 437,917 | 1 |
 ## Awards
 Max (Educational): 6,653  (Ranked 55)  
-Sum: 54,625 (Ranked 24)  
+Sum: 54,636 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,653 |
 | This game is Highly Recommended | 6,342 |
 | This game has Diverse Characters | 6,327 |
-| This game has Challenging Combat | 6,273 |
+| This game has Challenging Combat | 6,284 |
 | This game is Extremely Fun | 6,256 |
 | This game is Relaxing | 6,120 |
 | This game has Competitive Players | 5,968 |
@@ -846,4 +846,4 @@ Diff (max vs sum): 31
 | 2023-10-20 | 4.69 | - | 6,599 | 54,294 |
 | 2023-10-21 | 4.69 | - | 6,618 | 54,423 |
 | 2023-10-22 | 4.69 | - | 6,632 | 54,547 |
-| 2023-10-23 | 4.69 | - | 6,653 | 54,625 |
+| 2023-10-23 | 4.69 | - | 6,653 | 54,636 |

@@ -24,9 +24,9 @@ Rating: 3.38 (Ranked 1,021)
 | Exterminator | 7.00% | ~116 |
 | Brothers in Arms | 6.00% | ~99 |
 | Know The Enemy | 5.00% | ~83 |
+| Player Betrayer | 5.00% | ~83 |
 | Silver Achiever | 5.00% | ~83 |
 | Moving On Up | 5.00% | ~83 |
-| Player Betrayer | 4.00% | ~66 |
 | Major | 4.00% | ~66 |
 | Gold Achiever | 3.00% | ~50 |
 | Resourceful | 3.00% | ~50 |

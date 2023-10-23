@@ -12,7 +12,7 @@ Number of Ratings: 743  (23.09.2022)
 | Choo choo! | 63.00% | ~27,534 |
 | Groovy | 62.00% | ~27,096 |
 | Cleanup on aisle 4! | 57.00% | ~24,911 |
-| Gold | 50.00% | ~21,852 |
+| Gold | 51.00% | ~22,289 |
 | The boat can leave now...tell the crew | 49.00% | ~21,415 |
 | Give me something to shoot! | 47.00% | ~20,541 |
 | Stand back boy! | 47.00% | ~20,541 |

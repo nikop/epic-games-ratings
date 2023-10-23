@@ -12,6 +12,7 @@
 | Power of the turtle | 11.00% | ~2 |
 | Animal reporter | 5.00% | ~1 |
 | Rescuer | 5.00% | ~1 |
+| Heroic member | 5.00% | ~1 |
 | Legend of the association | 5.00% | ~1 |
 | Picture of the bay | 5.00% | ~1 |
 | Picture of the atoll | 5.00% | ~1 |
@@ -29,7 +30,6 @@
 | Let's get started | 0.00% | ~0 |
 | Island protector | 0.00% | ~0 |
 | Island gardian angel | 0.00% | ~0 |
-| Heroic member | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
 | In search of knowledge | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |

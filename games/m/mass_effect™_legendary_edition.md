@@ -48,12 +48,12 @@
 | Ghost Ship | 34.00% | ~268 |
 | The Assassin | 33.00% | ~260 |
 | The Quarian | 33.00% | ~260 |
+| Ghost of the Father | 33.00% | ~260 |
 | The Prodigal | 33.00% | ~260 |
 | A Personal Touch | 32.00% | ~252 |
 | The Justicar | 32.00% | ~252 |
 | Battlemaster | 32.00% | ~252 |
 | Catharsis | 32.00% | ~252 |
-| Ghost of the Father | 32.00% | ~252 |
 | The Cure | 32.00% | ~252 |
 | Revenge! | 32.00% | ~252 |
 | Heart of Darkness | 32.00% | ~252 |
@@ -104,7 +104,7 @@
 | Master and Commander | 17.00% | ~134 |
 | Throw Mastery | 16.00% | ~126 |
 | Patriot | 16.00% | ~126 |
-| Legend | 15.00% | ~118 |
+| Legend | 16.00% | ~126 |
 | Mail Slot | 14.00% | ~110 |
 | Long Service Medal | 14.00% | ~110 |
 | Combined Arms | 13.00% | ~102 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22642,
+  "EOS_Progressed": 22643,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 3,
@@ -20408,6 +20408,11 @@
       "Time": "2023-10-23T15:06:23.2838753+00:00",
       "NumProgressed": 22642,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-23T16:06:27.7365854+00:00",
+      "NumProgressed": 22643,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20515,7 +20520,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -20539,7 +20544,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17434
+      "UsersEstimate": 17435
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20555,7 +20560,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -20578,15 +20583,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22642,
+      "Progressed": 22643,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:06:23.2838746+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:27.736585+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:02:05.2207733+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:06:23.2840223+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:01:35.8334768+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:27.7366896+00:00"
 }

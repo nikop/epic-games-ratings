@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2655,7 +2655,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27281,
+  "EOS_Progressed": 27286,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 5,
@@ -16045,6 +16045,11 @@
       "Time": "2023-10-23T15:05:47.3518991+00:00",
       "NumProgressed": 27281,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-23T16:06:01.0284481+00:00",
+      "NumProgressed": 27286,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16056,7 +16061,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "Animated",
@@ -16168,7 +16173,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "Escape_Artist",
@@ -16463,7 +16468,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27281,
+      "Progressed": 27286,
       "Completed": 63
     }
   ],
@@ -16471,8 +16476,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-23T13:57:34.3424355+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:05:47.3518985+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:06:01.0284476+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:38.6403089+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:05:47.3520349+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:01.9556301+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:06:01.0285447+00:00"
 }

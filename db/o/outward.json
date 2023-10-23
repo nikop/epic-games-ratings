@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3609,
+  "EOS_Progressed": 3610,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5307,6 +5307,11 @@
       "Time": "2023-10-23T05:05:20.8173704+00:00",
       "NumProgressed": 3609,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T16:05:28.6678824+00:00",
+      "NumProgressed": 3610,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5318,7 +5323,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "AceDetective_9",
@@ -5342,7 +5347,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "BloodAndJustice_50",
@@ -5526,7 +5531,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -5542,7 +5547,7 @@
       "Name": "Tapped!",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -5638,7 +5643,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5653,15 +5658,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3609,
+      "Progressed": 3610,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:05:15.2258521+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:05:28.667882+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.6172621+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:59:49.0696826+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:05:15.2259253+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:00:07.8099063+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:05:28.6679318+00:00"
 }

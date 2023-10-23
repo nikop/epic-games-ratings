@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18644,
+  "EOS_Progressed": 18646,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12165,6 +12165,11 @@
       "Time": "2023-10-23T14:05:08.4490037+00:00",
       "NumProgressed": 18644,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T16:05:35.3692338+00:00",
+      "NumProgressed": 18646,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12176,7 +12181,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "0002",
@@ -12192,7 +12197,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "0004",
@@ -12240,7 +12245,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "0010",
@@ -12272,7 +12277,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "0014",
@@ -12304,7 +12309,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "0018",
@@ -12328,7 +12333,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "0021",
@@ -12392,7 +12397,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "0029",
@@ -12440,7 +12445,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "0035",
@@ -12463,7 +12468,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18644,
+      "Progressed": 18646,
       "Completed": 4
     }
   ],
@@ -12471,8 +12476,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:05:21.9089061+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:05:35.3692334+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:58:07.8428692+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:05:21.9090146+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:58:33.3446503+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:05:35.369345+00:00"
 }

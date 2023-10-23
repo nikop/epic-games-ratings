@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1932,9 +1932,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14900,
+  "EOS_Progressed": 14901,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14547,6 +14547,11 @@
       "Time": "2023-10-23T15:03:46.8011054+00:00",
       "NumProgressed": 14900,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-23T16:04:09.4210748+00:00",
+      "NumProgressed": 14901,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15158,7 +15163,7 @@
       "Name": "Ready",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -15406,7 +15411,7 @@
       "Name": "Clerics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -16166,7 +16171,7 @@
       "Name": "Babylonia",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -16182,7 +16187,7 @@
       "Name": "Egypt",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -16230,7 +16235,7 @@
       "Name": "One True Faith",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -16358,7 +16363,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -16398,7 +16403,7 @@
       "Name": "Hittite Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -16502,7 +16507,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -16526,7 +16531,7 @@
       "Name": "Enlightenment",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -16574,7 +16579,7 @@
       "Name": "Veneration",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -16622,7 +16627,7 @@
       "Name": "Mounted Lancer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -16654,7 +16659,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -16670,7 +16675,7 @@
       "Name": "All Nations",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -16870,7 +16875,7 @@
       "Name": "The Great Mage",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -16894,7 +16899,7 @@
       "Name": "Poetic Leader",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -16958,7 +16963,7 @@
       "Name": "Kmt Unified",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_EGYPT1_PHARAOH_MAJOR_VICTORY",
@@ -17293,21 +17298,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14900,
+      "Progressed": 14901,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14900,
+      "Progressed": 14901,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-22T09:59:37.3953785+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:03:46.8011045+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:04:09.4210744+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-23T15:00:34.9300029+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:03:46.8024204+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:00:57.050303+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:04:09.4221465+00:00"
 }

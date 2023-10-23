@@ -30,7 +30,7 @@ Rating: 4.38 (Ranked 749)
 | Sector 7 | 0.00% | ~0 |
 | Did That Work? -- No! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,292 (Ranked 162)  
+Progressed: 7,367 (Ranked 162)  
 Completed: 0 (0.00%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -39,7 +39,7 @@ Completed: 0 (0.00%) (Ranked 321)
 | 2023-10-20 | 2,060 | 0 |
 | 2023-10-21 | 4,679 | 0 |
 | 2023-10-22 | 6,644 | 0 |
-| 2023-10-23 | 7,292 | 0 |
+| 2023-10-23 | 7,367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

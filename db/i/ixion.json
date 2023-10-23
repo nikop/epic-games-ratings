@@ -5845,9 +5845,9 @@
       "ID": "ACH_BASE_64",
       "SetID": "7a6m2da",
       "Name": "I Give You the Stars",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_BASE_7",
@@ -5878,8 +5878,8 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1434,
-      "Completed": 7
+      "Progressed": 1435,
+      "Completed": 8
     },
     {
       "ID": "92iocjf",
@@ -5892,8 +5892,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-09-17T17:59:23.8865698+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:05:36.5776595+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:05:50.0957679+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.455219+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:59:42.6205822+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:05:36.577741+00:00"
+  "LastUpdate_Ratings": "2023-10-23T16:00:00.6904462+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:05:50.0958387+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 111,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 223,
+  "EOS_Progressed": 224,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-10-22T15:07:14.8977445+00:00",
       "NumProgressed": 223,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-23T16:03:45.4003467+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -293,9 +298,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "deal_or_no_deal",
@@ -303,7 +308,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "hopeful",
@@ -343,7 +348,7 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "off_his_meds",
@@ -359,7 +364,7 @@
       "Name": "On Your Bike",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "pearce",
@@ -415,14 +420,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 223,
+      "Progressed": 224,
       "Completed": 4
     }
   ],
@@ -430,8 +435,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-23T15:03:23.2240095+00:00",
+  "LastChanged_Achievements": "2023-10-23T16:03:45.4003463+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-23T14:57:20.2298517+00:00",
-  "LastUpdate_Achievements": "2023-10-23T15:03:23.2240279+00:00"
+  "LastUpdate_Ratings": "2023-10-23T15:57:45.0769806+00:00",
+  "LastUpdate_Achievements": "2023-10-23T16:03:45.4003618+00:00"
 }
