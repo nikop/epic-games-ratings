@@ -16,18 +16,18 @@
 | Somebody's Home | 38.00% | ~57 |
 | Felt Good | 36.00% | ~54 |
 | Aimed Ahead | 34.00% | ~51 |
+| Into the Overlap | 33.00% | ~50 |
 | Secret Stashes | 33.00% | ~50 |
 | Carry his Words | 32.00% | ~48 |
-| Into the Overlap | 32.00% | ~48 |
-| Lawman | 30.00% | ~45 |
+| Lawman | 31.00% | ~47 |
 | Filling the Shape | 30.00% | ~45 |
 | The Other Side | 30.00% | ~45 |
 | Talk Show | 29.00% | ~44 |
 | Greatest Hits | 28.00% | ~42 |
 | Lights Shining | 26.00% | ~39 |
 | Yippee Ki-yay | 25.00% | ~38 |
-| Storm Cloud | 24.00% | ~36 |
-| New York City | 24.00% | ~36 |
+| Storm Cloud | 25.00% | ~38 |
+| New York City | 25.00% | ~38 |
 | Return | 24.00% | ~36 |
 | Shining in the Night | 23.00% | ~35 |
 | Ready for a Fight | 21.00% | ~32 |
@@ -39,7 +39,7 @@
 | Escape its Gravity | 15.00% | ~23 |
 | Back in Watery | 15.00% | ~23 |
 | All His Life | 15.00% | ~23 |
-| In One Go | 14.00% | ~21 |
+| In One Go | 15.00% | ~23 |
 | Stop Right There | 13.00% | ~20 |
 | We Watch in the Night | 12.00% | ~18 |
 | All Accounted For | 12.00% | ~18 |
@@ -53,17 +53,17 @@
 | The Cult of the Word | 8.00% | ~12 |
 | Strange Reality | 7.00% | ~11 |
 | The Trail of the Writer | 7.00% | ~11 |
+| The Final Deerfest | 7.00% | ~11 |
 | Told and Retold | 7.00% | ~11 |
 | Cut Short | 7.00% | ~11 |
-| The Final Deerfest | 6.00% | ~9 |
 | The Story Come True | 5.00% | ~8 |
+| Rock n' Roll, Baby | 5.00% | ~8 |
 | End of the Road | 5.00% | ~8 |
 | His Way Out | 5.00% | ~8 |
 | Coffee-Themed Fun | 5.00% | ~8 |
-| Rock n' Roll, Baby | 4.00% | ~6 |
+| Filled with Rage | 4.00% | ~6 |
 | Back to Life | 4.00% | ~6 |
 | The Koskela Brothers | 3.00% | ~5 |
-| Filled with Rage | 3.00% | ~5 |
 | All Smiles | 3.00% | ~5 |
 | Shift in Reality | 3.00% | ~5 |
 | I'll Find You | 1.00% | ~2 |

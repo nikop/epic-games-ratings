@@ -5,35 +5,35 @@ Rating: 4.40 (Ranked 726)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~182,358 |
-| Destroyer-In-Chief | 57.00% | ~164,990 |
-| There Is No Pancakes | 54.00% | ~156,307 |
-| First of Many | 42.00% | ~121,572 |
-| Woah. | 37.00% | ~107,099 |
-| Don't Look Down | 29.00% | ~83,943 |
-| Don't Panic | 28.00% | ~81,048 |
-| Ooo A Piece of Candy! | 23.00% | ~66,575 |
-| Ghost in the Machine | 18.00% | ~52,102 |
-| All Too Easy | 15.00% | ~43,419 |
-| Didn't Need to See Him Naked | 13.00% | ~37,629 |
-| Indomitable | 10.00% | ~28,946 |
-| Blast from the Past | 9.00% | ~26,051 |
-| Bow to the Boss! | 9.00% | ~26,051 |
-| Friend of the Raptors | 9.00% | ~26,051 |
-| About Time! | 8.00% | ~23,157 |
-| Actor-Turned-Politician | 7.00% | ~20,262 |
-| Betrayed | 7.00% | ~20,262 |
-| Maximum Stopping Power | 7.00% | ~20,262 |
-| Poodle Skirt | 7.00% | ~20,262 |
-| You Chose... Poorly | 7.00% | ~20,262 |
-| Double Team | 6.00% | ~17,367 |
-| Keymaster | 6.00% | ~17,367 |
-| Imperator | 5.00% | ~14,473 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~11,578 |
-| Half Way Home | 4.00% | ~11,578 |
-| How It Should Be | 4.00% | ~11,578 |
-| Machine Man | 4.00% | ~11,578 |
-| The Full Kinzie | 4.00% | ~11,578 |
+| Zero Saints Thirty | 63.00% | ~182,367 |
+| Destroyer-In-Chief | 57.00% | ~164,998 |
+| There Is No Pancakes | 54.00% | ~156,314 |
+| First of Many | 42.00% | ~121,578 |
+| Woah. | 37.00% | ~107,104 |
+| Don't Look Down | 29.00% | ~83,947 |
+| Don't Panic | 28.00% | ~81,052 |
+| Ooo A Piece of Candy! | 23.00% | ~66,578 |
+| Ghost in the Machine | 18.00% | ~52,105 |
+| All Too Easy | 15.00% | ~43,421 |
+| Didn't Need to See Him Naked | 13.00% | ~37,631 |
+| Indomitable | 10.00% | ~28,947 |
+| Blast from the Past | 9.00% | ~26,052 |
+| Bow to the Boss! | 9.00% | ~26,052 |
+| Friend of the Raptors | 9.00% | ~26,052 |
+| About Time! | 8.00% | ~23,158 |
+| Actor-Turned-Politician | 7.00% | ~20,263 |
+| Betrayed | 7.00% | ~20,263 |
+| Maximum Stopping Power | 7.00% | ~20,263 |
+| Poodle Skirt | 7.00% | ~20,263 |
+| You Chose... Poorly | 7.00% | ~20,263 |
+| Double Team | 6.00% | ~17,368 |
+| Keymaster | 6.00% | ~17,368 |
+| Imperator | 5.00% | ~14,474 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~11,579 |
+| Half Way Home | 4.00% | ~11,579 |
+| How It Should Be | 4.00% | ~11,579 |
+| Machine Man | 4.00% | ~11,579 |
+| The Full Kinzie | 4.00% | ~11,579 |
 | ...A Saint Gets a Gun | 3.00% | ~8,684 |
 | And I Ran... | 3.00% | ~8,684 |
 | Chill Out | 3.00% | ~8,684 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 726)
 | Super Power Team Up! | 0.10% | ~289 |
 | Ultimate Hot Potato | 0.10% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,457 (Ranked 49)  
+Progressed: 289,471 (Ranked 49)  
 Completed: 15 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 15 (0.01%) (Ranked 301)
 | 2023-10-20 | 287,875 | 15 |
 | 2023-10-21 | 288,664 | 15 |
 | 2023-10-22 | 289,404 | 15 |
-| 2023-10-23 | 289,457 | 15 |
+| 2023-10-23 | 289,471 | 15 |
 ## Awards
 Max (Great Boss Battles): 473  (Ranked 208)  
 Sum: 473 (Ranked 319)  

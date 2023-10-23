@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22625,
+  "EOS_Progressed": 22626,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 4,
@@ -20353,6 +20353,11 @@
       "Time": "2023-10-23T01:49:37.8388042+00:00",
       "NumProgressed": 22625,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-23T02:23:27.0643463+00:00",
+      "NumProgressed": 22626,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20404,7 +20409,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20484,7 +20489,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17421
+      "UsersEstimate": 17422
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20516,22 +20521,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22625,
+      "Progressed": 22626,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:49:37.8388036+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:23:27.0643459+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:44:14.8819175+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:49:37.8389059+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:54.573642+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:23:27.0644883+00:00"
 }

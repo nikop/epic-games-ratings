@@ -3885,9 +3885,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 75884,
+  "EOS_Progressed": 75885,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24785,6 +24785,11 @@
       "Time": "2023-10-23T01:49:35.373029+00:00",
       "NumProgressed": 75884,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-23T02:23:24.8793184+00:00",
+      "NumProgressed": 75885,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25012,7 +25017,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17454
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25044,7 +25049,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27318
+      "UsersEstimate": 27319
     },
     {
       "ID": "hit_max_level",
@@ -25052,7 +25057,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "infinite_boost_refill",
@@ -25092,7 +25097,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26559
+      "UsersEstimate": 26560
     },
     {
       "ID": "one_third_purple",
@@ -25180,7 +25185,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31871
+      "UsersEstimate": 31872
     },
     {
       "ID": "whole_map_purple",
@@ -25196,7 +25201,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -25219,13 +25224,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75884,
+      "Progressed": 75885,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47521,
+      "Progressed": 47522,
       "Completed": 4162
     }
   ],
@@ -25233,8 +25238,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-22T17:01:44.5459553+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:49:35.3730285+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:23:24.8793178+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:44:18.5681977+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:49:35.3731578+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:56.8463446+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:23:24.87949+00:00"
 }

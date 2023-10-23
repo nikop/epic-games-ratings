@@ -454,9 +454,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -734,9 +734,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -773,8 +773,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:47:10.2691111+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:21:22.0780565+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:42:48.3290471+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:47:10.2691444+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:16:43.7351083+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:21:22.0780948+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.39 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~100,864 |
-| 74 miles East of Otaheité | 56.00% | ~70,605 |
-| Interesting... | 42.00% | ~52,954 |
-| The Everhart Expedition | 39.00% | ~49,171 |
-| The Vanishing of the Lady Shannon | 30.00% | ~37,824 |
-| Seaside Serenade | 30.00% | ~37,824 |
-| Halfway there | 29.00% | ~36,563 |
-| A brigantine, a brig and a barque | 28.00% | ~35,302 |
-| 506 East Hampden Avenue | 28.00% | ~35,302 |
+| A Family Heirloom | 80.00% | ~100,866 |
+| 74 miles East of Otaheité | 56.00% | ~70,606 |
+| Interesting... | 42.00% | ~52,955 |
+| The Everhart Expedition | 39.00% | ~49,172 |
+| The Vanishing of the Lady Shannon | 30.00% | ~37,825 |
+| Seaside Serenade | 30.00% | ~37,825 |
+| Halfway there | 29.00% | ~36,564 |
+| A brigantine, a brig and a barque | 28.00% | ~35,303 |
+| 506 East Hampden Avenue | 28.00% | ~35,303 |
 | Weekend at Walakea's | 27.00% | ~34,042 |
 | Quite a Show | 27.00% | ~34,042 |
-| Dark Water Ride | 24.00% | ~30,259 |
-| Sunken | 24.00% | ~30,259 |
-| Deep Cut | 24.00% | ~30,259 |
-| FHALGOF'N' | 23.00% | ~28,998 |
+| Dark Water Ride | 24.00% | ~30,260 |
+| Sunken | 24.00% | ~30,260 |
+| Deep Cut | 24.00% | ~30,260 |
+| FHALGOF'N' | 23.00% | ~28,999 |
 | Marsh Cannery | 21.00% | ~26,477 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,434 |
 | The only thing I have now | 16.00% | ~20,173 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 734)
 | Gently down the stream... | 1.00% | ~1,261 |
 | Meta-reference | 1.00% | ~1,261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,080 (Ranked 78)  
+Progressed: 126,083 (Ranked 78)  
 Completed: 1,069 (0.85%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 1,069 (0.85%) (Ranked 154)
 | 2023-10-20 | 125,649 | 1,065 |
 | 2023-10-21 | 125,854 | 1,067 |
 | 2023-10-22 | 126,068 | 1,069 |
-| 2023-10-23 | 126,080 | 1,069 |
+| 2023-10-23 | 126,083 | 1,069 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3934,6 +3934,11 @@
       "Time": "2023-10-22T19:08:40.1636848+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-23T02:26:30.6543027+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3969,7 +3974,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "archmage_2",
@@ -3993,7 +3998,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "call_of_mana_2",
@@ -4041,7 +4046,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "collector_2",
@@ -4137,7 +4142,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "elite_deck_2",
@@ -4169,7 +4174,7 @@
       "Name": "From Day to Day 2",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "from_day_to_day_3",
@@ -4185,7 +4190,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "glitter_of_gold_2",
@@ -4209,7 +4214,7 @@
       "Name": "Good Host 1",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "good_host_2",
@@ -4361,7 +4366,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -4377,7 +4382,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "soul_shards_2",
@@ -4425,7 +4430,7 @@
       "Name": "Taste of Victory 1",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "taste_of_victory_2",
@@ -4472,14 +4477,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:52:43.337816+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:26:30.6543022+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.5371199+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:44:09.1396158+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:52:43.3378823+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:49.9708011+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:26:30.6543888+00:00"
 }

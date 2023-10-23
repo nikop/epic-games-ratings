@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~756,998 |
-| The ABCs | 43.00% | ~664,304 |
-| Home Run | 41.00% | ~633,406 |
-| Keeps Coming Off | 41.00% | ~633,406 |
-| Guts | 20.00% | ~308,979 |
-| Meat Grinder | 19.00% | ~293,530 |
-| Burning Man | 16.00% | ~247,183 |
-| Lived to Tell the Tale | 12.00% | ~185,387 |
-| Highlander | 10.00% | ~154,489 |
-| Unstoppable | 10.00% | ~154,489 |
-| Just a Scratch | 9.00% | ~139,040 |
+| Justice from the Grave | 49.00% | ~757,002 |
+| The ABCs | 43.00% | ~664,308 |
+| Home Run | 41.00% | ~633,410 |
+| Keeps Coming Off | 41.00% | ~633,410 |
+| Guts | 20.00% | ~308,980 |
+| Meat Grinder | 19.00% | ~293,531 |
+| Burning Man | 16.00% | ~247,184 |
+| Lived to Tell the Tale | 12.00% | ~185,388 |
+| Highlander | 10.00% | ~154,490 |
+| Unstoppable | 10.00% | ~154,490 |
+| Just a Scratch | 9.00% | ~139,041 |
 | Tough Nut to Crack | 6.00% | ~92,694 |
 | Yoink | 6.00% | ~92,694 |
 | Long List of Names | 4.00% | ~61,796 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 734)
 | That’s No Ordinary Cold | 0.10% | ~1,545 |
 | Stairway to Hell | 0.10% | ~1,545 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,544,893 (Ranked 8)  
+Progressed: 1,544,902 (Ranked 8)  
 Completed: 66 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,14 +230,14 @@ Completed: 66 (0.00%) (Ranked 320)
 | 2023-10-20 | 1,543,421 | 66 |
 | 2023-10-21 | 1,544,130 | 66 |
 | 2023-10-22 | 1,544,836 | 66 |
-| 2023-10-23 | 1,544,893 | 66 |
+| 2023-10-23 | 1,544,902 | 66 |
 ## Awards
-Max (Diverse Characters): 819  (Ranked 165)  
-Sum: 3,850 (Ranked 153)  
-Diff (max vs sum): 12  
+Max (Diverse Characters): 827  (Ranked 161)  
+Sum: 3,858 (Ranked 152)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 819 |
+| This game has Diverse Characters | 827 |
 | This game is Highly Recommended | 682 |
 | This game has Challenging Combat | 681 |
 | This game has Amazing Characters | 566 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 12
 | 2023-10-20 | 4.39 | 817 | 3,810 |
 | 2023-10-21 | 4.39 | 819 | 3,832 |
 | 2023-10-22 | 4.39 | 819 | 3,850 |
+| 2023-10-23 | 4.39 | 827 | 3,858 |

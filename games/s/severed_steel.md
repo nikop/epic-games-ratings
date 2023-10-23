@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 224)
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,418 |
 | PARTYHARD | 0.70% | ~4,741 |
 | NEW GAME PLUS | 0.60% | ~4,064 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,386 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,387 |
 | CHURCH | 0.40% | ~2,709 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~2,032 |
 | 5 RUNS | 0.30% | ~2,032 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 224)
 | THE GAMBLER | 0.10% | ~677 |
 | WARRIOR IN A GARDEN | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,299 (Ranked 23)  
+Progressed: 677,301 (Ranked 23)  
 Completed: 77 (0.01%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 77 (0.01%) (Ranked 301)
 | 2023-10-20 | 676,263 | 75 |
 | 2023-10-21 | 676,789 | 77 |
 | 2023-10-22 | 677,249 | 77 |
-| 2023-10-23 | 677,299 | 77 |
+| 2023-10-23 | 677,301 | 77 |
 ## Awards
 Max (Great Boss Battles): 355  (Ranked 233)  
 Sum: 355 (Ranked 339)  

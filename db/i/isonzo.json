@@ -6488,9 +6488,9 @@
       "ID": "ISONZO_ACH_SILVER_LINING",
       "SetID": "akchbl3",
       "Name": "Silver Lining",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2193
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6609,8 +6609,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:48:04.1530629+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:22:07.5169056+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:19.0866217+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:43:59.409354+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:48:04.1531152+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:39.9365941+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:22:07.5169847+00:00"
 }

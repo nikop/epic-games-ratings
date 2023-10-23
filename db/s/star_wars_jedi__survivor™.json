@@ -4515,9 +4515,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 5847,
+  "EOS_Progressed": 5848,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8150,6 +8150,11 @@
       "Time": "2023-10-23T01:47:09.834293+00:00",
       "NumProgressed": 5847,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-23T02:21:21.7197837+00:00",
+      "NumProgressed": 5848,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -8162,7 +8167,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "achievement_a10",
@@ -8170,7 +8175,7 @@
       "Name": "Tragedy",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "achievement_a11",
@@ -8226,7 +8231,7 @@
       "Name": "Catch!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "achievement_a18",
@@ -8250,7 +8255,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "achievement_a20",
@@ -8306,7 +8311,7 @@
       "Name": "Riposte",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2748
+      "UsersEstimate": 2749
     },
     {
       "ID": "achievement_a27",
@@ -8330,7 +8335,7 @@
       "Name": "There Is No Try",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "achievement_a3",
@@ -8338,7 +8343,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "achievement_a30",
@@ -8346,7 +8351,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "achievement_a31",
@@ -8370,7 +8375,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "achievement_a34",
@@ -8394,7 +8399,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "achievement_a37",
@@ -8410,7 +8415,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4328
     },
     {
       "ID": "achievement_a39",
@@ -8426,7 +8431,7 @@
       "Name": "The Past Made Present",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "achievement_a40",
@@ -8474,7 +8479,7 @@
       "Name": "Kitted Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "achievement_a46",
@@ -8554,7 +8559,7 @@
       "Name": "Among the Masters",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "achievement_a7",
@@ -8562,7 +8567,7 @@
       "Name": "For the Path",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "achievement_a8",
@@ -8578,14 +8583,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 5847,
+      "Progressed": 5848,
       "Completed": 26
     }
   ],
@@ -8593,8 +8598,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-22T21:59:58.471139+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:47:09.8342922+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:21:21.719783+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:44:06.2477314+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:47:09.8343535+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:47.5394663+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:21:21.7198616+00:00"
 }

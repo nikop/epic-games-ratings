@@ -659,9 +659,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 677299,
+  "EOS_Progressed": 677301,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 2637,
+  "EOS_NewPlayers": 2636,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21724,6 +21724,11 @@
       "Time": "2023-10-23T01:49:48.5800521+00:00",
       "NumProgressed": 677299,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-23T02:23:36.0549078+00:00",
+      "NumProgressed": 677301,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 52,
@@ -21895,7 +21900,7 @@
       "Name": "FIREFIGHT LEVEL 40",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "FIREFIGHT50 LEVEL (0-50)",
@@ -22150,7 +22155,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 677299,
+      "Progressed": 677301,
       "Completed": 77
     }
   ],
@@ -22158,8 +22163,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-21T05:59:19.9604392+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:49:48.5800514+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:23:36.0549068+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:48.6796504+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:43:47.9112553+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:49:48.5802005+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:17:31.460584+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:23:36.0553705+00:00"
 }

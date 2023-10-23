@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3174,6 +3174,11 @@
       "Time": "2023-10-23T01:50:29.2741969+00:00",
       "NumProgressed": 850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-23T02:24:11.3766109+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3193,7 +3198,7 @@
       "Name": "Active Pause",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "BasicControls",
@@ -3201,7 +3206,7 @@
       "Name": "Basic Controls",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "BigPlane",
@@ -3209,7 +3214,7 @@
       "Name": "Expensive Plane",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "BudgetFlight",
@@ -3233,7 +3238,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Creator",
@@ -3273,7 +3278,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "First",
@@ -3297,7 +3302,7 @@
       "Name": "One Hundred",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Incredible",
@@ -3345,7 +3350,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "LongDistance",
@@ -3520,14 +3525,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-23T01:50:29.2741964+00:00",
+  "LastChanged_Achievements": "2023-10-23T02:24:11.3766103+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-23T01:41:25.7030557+00:00",
-  "LastUpdate_Achievements": "2023-10-23T01:50:29.2742367+00:00"
+  "LastUpdate_Ratings": "2023-10-23T02:15:36.3938423+00:00",
+  "LastUpdate_Achievements": "2023-10-23T02:24:11.3766637+00:00"
 }

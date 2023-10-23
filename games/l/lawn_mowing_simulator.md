@@ -6,27 +6,27 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~539,938 |
-| Every story has a beginning | 36.00% | ~242,972 |
-| The first of many | 31.00% | ~209,226 |
-| Positive word of mouth | 18.00% | ~121,486 |
-| Lawn in the U.S.A. | 15.00% | ~101,238 |
+| The dream begins | 80.00% | ~539,941 |
+| Every story has a beginning | 36.00% | ~242,973 |
+| The first of many | 31.00% | ~209,227 |
+| Positive word of mouth | 18.00% | ~121,487 |
+| Lawn in the U.S.A. | 15.00% | ~101,239 |
 | Blade Runner | 9.00% | ~60,743 |
 | Credible | 7.00% | ~47,245 |
-| Teamwork makes the dream work | 6.00% | ~40,495 |
+| Teamwork makes the dream work | 6.00% | ~40,496 |
 | Where there's muck there's brass | 4.00% | ~26,997 |
 | Bigger and better | 4.00% | ~26,997 |
 | Aggressive expansion | 4.00% | ~26,997 |
 | Size isn't everything | 3.00% | ~20,248 |
 | Close shave | 3.00% | ~20,248 |
 | Established | 3.00% | ~20,248 |
-| Fighting on all fronts | 2.00% | ~13,498 |
-| Mighty Mowing Park Ranger | 2.00% | ~13,498 |
-| Every good deed… | 2.00% | ~13,498 |
-| Leaner and meaner | 2.00% | ~13,498 |
-| The top of the mountain | 2.00% | ~13,498 |
-| First step on the ladder | 2.00% | ~13,498 |
-| Trusted | 2.00% | ~13,498 |
+| Fighting on all fronts | 2.00% | ~13,499 |
+| Mighty Mowing Park Ranger | 2.00% | ~13,499 |
+| Every good deed… | 2.00% | ~13,499 |
+| Leaner and meaner | 2.00% | ~13,499 |
+| The top of the mountain | 2.00% | ~13,499 |
+| First step on the ladder | 2.00% | ~13,499 |
+| Trusted | 2.00% | ~13,499 |
 | Earn your stripes | 0.90% | ~6,074 |
 | Lawn & Order | 0.90% | ~6,074 |
 | Jack of all trades | 0.90% | ~6,074 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~675 |
 | Mo mowers, mo problems | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,923 (Ranked 24)  
+Progressed: 674,926 (Ranked 24)  
 Completed: 17 (0.00%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 17 (0.00%) (Ranked 320)
 | 2023-10-20 | 674,217 | 17 |
 | 2023-10-21 | 674,544 | 17 |
 | 2023-10-22 | 674,897 | 17 |
-| 2023-10-23 | 674,923 | 17 |
+| 2023-10-23 | 674,926 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 288)  
 Sum: 982 (Ranked 251)  

@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~12,413 |
+| Initiation | 27.00% | ~12,414 |
 | Student | 21.00% | ~9,655 |
-| Knower | 15.00% | ~6,896 |
-| Listener | 14.00% | ~6,436 |
+| Knower | 15.00% | ~6,897 |
+| Listener | 14.00% | ~6,437 |
 | Aspen Tree | 13.00% | ~5,977 |
 | Healer | 13.00% | ~5,977 |
 | Scientist | 11.00% | ~5,057 |
 | Soldier | 11.00% | ~5,057 |
-| Cow Level | 10.00% | ~4,597 |
+| Cow Level | 10.00% | ~4,598 |
 | Old Friend | 9.00% | ~4,138 |
 | Herbalist | 9.00% | ~4,138 |
 | New Spirits | 9.00% | ~4,138 |
@@ -33,13 +33,13 @@ Number of Ratings: 96  (23.09.2022)
 | Dead Friend | 7.00% | ~3,218 |
 | Researcher | 7.00% | ~3,218 |
 | Savvy | 7.00% | ~3,218 |
-| Black Sorcerer | 6.00% | ~2,758 |
-| Encyclopedist | 6.00% | ~2,758 |
-| Witch | 6.00% | ~2,758 |
-| Old Spirits | 6.00% | ~2,758 |
-| Sinner | 6.00% | ~2,758 |
-| Folklorist | 6.00% | ~2,758 |
-| Keeper of Knowledge | 6.00% | ~2,758 |
+| Black Sorcerer | 6.00% | ~2,759 |
+| Encyclopedist | 6.00% | ~2,759 |
+| Witch | 6.00% | ~2,759 |
+| Old Spirits | 6.00% | ~2,759 |
+| Sinner | 6.00% | ~2,759 |
+| Folklorist | 6.00% | ~2,759 |
+| Keeper of Knowledge | 6.00% | ~2,759 |
 | Vorsa | 5.00% | ~2,299 |
 | Susanin | 5.00% | ~2,299 |
 | Traveller | 5.00% | ~2,299 |
@@ -50,14 +50,14 @@ Number of Ratings: 96  (23.09.2022)
 | Righteous | 3.00% | ~1,379 |
 | White Head | 3.00% | ~1,379 |
 | Koldun | 3.00% | ~1,379 |
-| Revelation | 2.00% | ~919 |
-| Mistress of Hell | 2.00% | ~919 |
-| Detective | 2.00% | ~919 |
-| Great Sorceress | 2.00% | ~919 |
+| Revelation | 2.00% | ~920 |
+| Mistress of Hell | 2.00% | ~920 |
+| Detective | 2.00% | ~920 |
+| Great Sorceress | 2.00% | ~920 |
 | Own Way | 1.00% | ~460 |
 | Word Master | 0.20% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,974 (Ranked 106)  
+Progressed: 45,977 (Ranked 106)  
 Completed: 39 (0.08%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 39 (0.08%) (Ranked 265)
 | 2023-10-20 | 44,975 | 36 |
 | 2023-10-21 | 45,469 | 38 |
 | 2023-10-22 | 45,950 | 39 |
-| 2023-10-23 | 45,974 | 39 |
+| 2023-10-23 | 45,977 | 39 |
 ## Awards
 Max (Character Customization): 77  (Ranked 379)  
 Sum: 77 (Ranked 449)  

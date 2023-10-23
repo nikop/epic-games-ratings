@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Novice Mason | 57.00% | ~27 |
 | Constructor | 36.00% | ~17 |
-| Expert Mason | 23.00% | ~11 |
+| Expert Mason | 26.00% | ~12 |
 | Arch Mason | 15.00% | ~7 |
 | Grand Mason | 13.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
