@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.48% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.32% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.29% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -40,7 +40,7 @@
 | 38 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 38 | [Smelter](games/s/smelter.md) | 10.00% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
+| 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 42 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
@@ -84,7 +84,7 @@
 | 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 83 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 84 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.29% |
 | 86 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 87 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 88 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
@@ -92,7 +92,7 @@
 | 90 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
 | 91 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 92 | [HordeCore](games/h/hordecore.md) | 3.09% |
-| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.98% |
+| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.96% |
 | 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 95 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 95 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -197,10 +197,10 @@
 | 195 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 196 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 197 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 197 | [Them and Us](games/t/them_and_us.md) | 0.39% |
 | 197 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 200 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 200 | [The Surge](games/t/the_surge.md) | 0.38% |
+| 199 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 199 | [The Surge](games/t/the_surge.md) | 0.38% |
+| 199 | [Them and Us](games/t/them_and_us.md) | 0.38% |
 | 202 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 202 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 204 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
@@ -217,8 +217,8 @@
 | 215 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 215 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 217 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 217 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.27% |
-| 219 | [Filament](games/f/filament.md) | 0.25% |
+| 218 | [Filament](games/f/filament.md) | 0.25% |
+| 218 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.25% |
 | 220 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 220 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 222 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
