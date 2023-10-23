@@ -16,7 +16,7 @@
 | 10 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 539 |
 | 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,434 | 21 |
 | 16 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 80 |
-| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,033 | 147 |
+| 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,034 | 147 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 539 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 189,838 | 6 |
 | 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,150 | 33 |
@@ -159,14 +159,14 @@
 | 151 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,267 | 52 |
 | 151 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 539 |
 | 151 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.74 | 0 | 539 |
-| 151 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 40,213 | 13 |
+| 151 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 40,280 | 13 |
 | 151 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 539 |
 | 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 539 |
 | 151 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 823 | 163 |
 | 151 | [This Is The Police](games/t/this_is_the_police.md) | 4.74 | 0 | 539 |
 | 151 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 83 | 373 |
 | 151 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 539 |
-| 167 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 427 | 217 |
+| 167 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 427 | 218 |
 | 167 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 539 |
 | 167 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 45 | 432 |
 | 167 | [Fez](games/f/fez.md) | 4.73 | 23 | 518 |
@@ -422,7 +422,7 @@
 | 402 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 512 | 203 |
 | 421 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.59 | 176 | 292 |
 | 421 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 539 |
-| 421 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 424 | 218 |
+| 421 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 429 | 216 |
 | 421 | [DOOM 3](games/d/doom_3.md) | 4.59 | 69 | 393 |
 | 421 | [GRIME](games/g/grime.md) | 4.59 | 45 | 432 |
 | 421 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 62 | 403 |
@@ -466,7 +466,7 @@
 | 459 | [Hob](games/h/hob.md) | 4.57 | 0 | 539 |
 | 459 | [Minit](games/m/minit.md) | 4.57 | 0 | 539 |
 | 459 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,070 | 45 |
-| 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,325 | 93 |
+| 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,328 | 93 |
 | 459 | [Risen](games/r/risen.md) | 4.57 | 0 | 539 |
 | 459 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 539 |
 | 459 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,177 | 82 |
@@ -516,7 +516,7 @@
 | 494 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,317 | 134 |
 | 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 508 |
 | 515 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,511 | 126 |
-| 515 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,549 | 57 |
+| 515 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,571 | 57 |
 | 515 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 457 |
 | 515 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 539 |
 | 515 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 23 | 518 |
@@ -537,7 +537,7 @@
 | 529 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 539 |
 | 529 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 539 |
 | 529 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 539 |
-| 529 | [VALORANT](games/v/valorant.md) | 4.53 | 76,793 | 10 |
+| 529 | [VALORANT](games/v/valorant.md) | 4.53 | 76,951 | 10 |
 | 529 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 352 |
 | 540 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 0 | 539 |
 | 540 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 822 | 164 |
@@ -725,7 +725,7 @@
 | 704 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 117 | 334 |
 | 704 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 539 |
 | 704 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,443 | 131 |
-| 726 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,043 | 144 |
+| 726 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,044 | 144 |
 | 726 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 539 |
 | 726 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 46 | 429 |
 | 726 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.40 | 0 | 539 |
