@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.95% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.91% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 48 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 49 | [Sonic Origins](games/s/sonic_origins.md) | 7.48% |
-| 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.25% |
+| 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 51 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 52 | [Scorn](games/s/scorn.md) | 6.97% |
 | 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
@@ -94,7 +94,7 @@
 | 91 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 93 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 95 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.89% |
+| 95 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.87% |
 | 96 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 98 | [FORECLOSED](games/f/foreclosed.md) | 2.83% |
@@ -113,7 +113,7 @@
 | 111 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 113 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
-| 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
+| 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.23% |
 | 115 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 116 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 117 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
@@ -148,11 +148,11 @@
 | 146 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.04% |
 | 147 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 148 | [Sable](games/s/sable.md) | 1.01% |
-| 149 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.99% |
 | 149 | [Trifox](games/t/trifox.md) | 0.99% |
-| 151 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
-| 152 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
-| 152 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 150 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.98% |
+| 151 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
+| 151 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 151 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.96% |
 | 154 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
 | 154 | [Hades](games/h/hades.md) | 0.91% |
 | 156 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
@@ -161,7 +161,7 @@
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 161 | [Eternights](games/e/eternights.md) | 0.73% |
-| 161 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.73% |
+| 162 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.72% |
 | 163 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 164 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
@@ -407,6 +407,7 @@
 | 324 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 0.00% |
 | 324 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 0.00% |
 | 324 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 0.00% |
+| 324 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 0.00% |
 | 324 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 0.00% |
 | 324 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 0.00% |
 | 324 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 0.00% |
