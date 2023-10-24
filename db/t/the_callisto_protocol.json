@@ -3,11 +3,11 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 899,
-  "Ranking_Popularity": 381,
+  "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1287,18 +1287,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 452,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-10-24T21:01:27.0267463+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 453,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 452,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 453,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1337,9 +1343,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16240,
+  "EOS_Progressed": 16242,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8107,6 +8113,11 @@
       "Time": "2023-10-24T20:07:38.7315774+00:00",
       "NumProgressed": 16240,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T21:09:00.1155366+00:00",
+      "NumProgressed": 16242,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8150,7 +8161,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8278,7 +8289,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8422,7 +8433,7 @@
       "Name": "Subject Alpha",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SPEND_20000",
@@ -8438,7 +8449,7 @@
       "Name": "Don\u0027t Let It Mellow",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FIND_ALL_DATA_DRIVES",
@@ -8493,22 +8504,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16240,
+      "Progressed": 16242,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4166,
+      "Progressed": 4168,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:07:38.7315769+00:00",
+  "LastChanged": "2023-10-24T21:01:27.026746+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:00.1155353+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:00:57.8481042+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:07:38.7316736+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:01:27.0267469+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:00.1156884+00:00"
 }

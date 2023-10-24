@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -255,9 +255,9 @@
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 118,
+      "Percentage": 127,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EV_ACH25",
@@ -429,8 +429,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:09:45.8116704+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:10:59.5540058+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:01:43.0910347+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:09:45.8117072+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:02:18.7773171+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:10:59.5540519+00:00"
 }

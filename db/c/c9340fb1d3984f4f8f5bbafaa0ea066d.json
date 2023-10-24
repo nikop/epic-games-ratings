@@ -2,9 +2,9 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 1005,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2023-10-24T20:07:14.7914228+00:00",
       "NumProgressed": 844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T21:08:27.2991771+00:00",
+      "NumProgressed": 1005,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T14:04:58.0760511+00:00",
@@ -74,7 +79,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_10K",
       "SetID": "aom4nln",
       "Name": "10K",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "NR_CRASHES_1",
       "SetID": "aom4nln",
       "Name": "Crash",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -338,7 +343,7 @@
       "ID": "NR_KING_OF_THE_SEED",
       "SetID": "aom4nln",
       "Name": "The Flag Is Raised",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -378,7 +383,7 @@
       "ID": "NR_RINGOUT_1",
       "SetID": "aom4nln",
       "Name": "Crash Archipelago",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -450,7 +455,7 @@
       "ID": "NR_TOTAL_SECTORS_1",
       "SetID": "aom4nln",
       "Name": "Sector Clear",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -499,14 +504,14 @@
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 1005,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:07:14.7914223+00:00",
-  "LastUpdate_AppInfo": "2023-10-17T20:57:04.9322357+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:04:16.684116+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:07:14.7914696+00:00"
+  "LastChanged_Achievements": "2023-10-24T21:08:27.2991765+00:00",
+  "LastUpdate_AppInfo": "2023-10-24T20:57:17.118555+00:00",
+  "LastUpdate_Ratings": "2023-10-24T21:05:15.1803464+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:08:27.2992321+00:00"
 }

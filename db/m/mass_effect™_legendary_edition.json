@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2560,9 +2560,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 295
     },
     {
       "ID": "achievement_39",
@@ -2752,9 +2752,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_60",
@@ -2960,9 +2960,9 @@
       "ID": "achievement_83",
       "SetID": "d252ncf",
       "Name": "Pathfinder",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_84",
@@ -3016,9 +3016,9 @@
       "ID": "achievement_9",
       "SetID": "b9pe172",
       "Name": "Singularity Mastery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_90",
@@ -3116,8 +3116,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:04:57.3654423+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:06:13.7213041+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:58:01.80257+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:04:57.3656646+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:58:06.5632949+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:06:13.7215504+00:00"
 }

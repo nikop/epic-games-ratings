@@ -2,7 +2,7 @@
   "ID": "8ae7b3c0f490471b967ce26cc2f6e0e6",
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
-  "Ranking_EOS_Progress": 137,
+  "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 22,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15839,
+  "EOS_Progressed": 15840,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1572,
+  "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-10-24T20:08:23.8832299+00:00",
       "NumProgressed": 15839,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-24T21:09:34.5213127+00:00",
+      "NumProgressed": 15840,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4045,7 +4050,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 6652
+      "UsersEstimate": 6653
     },
     {
       "ID": "achievement_10",
@@ -4069,7 +4074,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "achievement_13",
@@ -4149,7 +4154,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13780
+      "UsersEstimate": 13781
     },
     {
       "ID": "achievement_4",
@@ -4157,7 +4162,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13938
+      "UsersEstimate": 13939
     },
     {
       "ID": "achievement_5",
@@ -4181,7 +4186,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12513
+      "UsersEstimate": 12514
     },
     {
       "ID": "achievement_8",
@@ -4204,13 +4209,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15839,
+      "Progressed": 15840,
       "Completed": 72
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:23.8832296+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:34.521312+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:59:31.5569698+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:23.8832699+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:59:42.4017773+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:34.5213646+00:00"
 }

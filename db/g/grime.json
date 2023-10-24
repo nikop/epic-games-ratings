@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154428,
+  "EOS_Progressed": 154439,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1576,
+  "EOS_NewPlayers": 1578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12904,6 +12904,11 @@
       "Time": "2023-10-24T20:04:42.8508005+00:00",
       "NumProgressed": 154428,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T21:05:53.2375711+00:00",
+      "NumProgressed": 154439,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13171,7 +13176,7 @@
       "Name": "Yank",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -13179,7 +13184,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13282,21 +13287,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154011,
+      "Progressed": 154022,
       "Completed": 1172
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154428,
+      "Progressed": 154439,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:04:42.8508+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:05:53.2375704+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:01:36.7485652+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:04:42.8509111+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:02:10.4177474+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:05:53.2377905+00:00"
 }

@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112231,
+  "EOS_Progressed": 112233,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15540,6 +15540,11 @@
       "Time": "2023-10-24T20:06:05.6010445+00:00",
       "NumProgressed": 112231,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-24T21:07:20.3016869+00:00",
+      "NumProgressed": 112233,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15559,7 +15564,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86418
+      "UsersEstimate": 86419
     },
     {
       "ID": "EAwards_10",
@@ -15567,7 +15572,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12345
+      "UsersEstimate": 12346
     },
     {
       "ID": "EAwards_11",
@@ -15575,7 +15580,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29180
+      "UsersEstimate": 29181
     },
     {
       "ID": "EAwards_12",
@@ -15623,7 +15628,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40403
+      "UsersEstimate": 40404
     },
     {
       "ID": "EAwards_18",
@@ -15647,7 +15652,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53871
+      "UsersEstimate": 53872
     },
     {
       "ID": "EAwards_20",
@@ -15679,7 +15684,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "EAwards_24",
@@ -15703,7 +15708,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12345
+      "UsersEstimate": 12346
     },
     {
       "ID": "EAwards_27",
@@ -15783,7 +15788,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "EAwards_36",
@@ -15911,7 +15916,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8978
+      "UsersEstimate": 8979
     },
     {
       "ID": "EAwards_7",
@@ -15942,7 +15947,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112231,
+      "Progressed": 112233,
       "Completed": 47
     }
   ],
@@ -15950,8 +15955,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-24T11:59:01.6372825+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:06:05.6010439+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:07:20.301686+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:59:50.2073527+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:06:05.6011778+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:00:00.7662543+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:07:20.3019435+00:00"
 }

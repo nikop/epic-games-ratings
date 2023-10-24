@@ -2,7 +2,7 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 116,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 716,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-10-24T20:08:30.3605604+00:00",
       "NumProgressed": 714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T21:09:43.2028889+00:00",
+      "NumProgressed": 716,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -554,7 +559,7 @@
       "Name": "Blobmeister",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -578,7 +583,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -586,7 +591,7 @@
       "Name": "Team Builder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -602,7 +607,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -610,7 +615,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -640,9 +645,9 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "No Stone Unturned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -761,14 +766,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 716,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:30.36056+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:43.2028884+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:00:54.9096267+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:30.3605844+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:01:21.4807082+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:43.2029193+00:00"
 }

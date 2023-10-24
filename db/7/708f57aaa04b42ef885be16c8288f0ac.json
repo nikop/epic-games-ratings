@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1489,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1481,
+  "EOS_NewPlayers": 1486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -685,6 +685,11 @@
       "Time": "2023-10-24T20:09:14.6476495+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T21:10:16.0664633+00:00",
+      "NumProgressed": 1489,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -735,9 +740,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "Eavesdropper",
@@ -751,9 +756,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FasterThanLight",
@@ -839,9 +844,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NoMoreTotems",
@@ -879,9 +884,9 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheOldSchoolWay",
@@ -927,9 +932,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -968,13 +973,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1489,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:09:14.6476487+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:10:16.0664626+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:59:19.0004067+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:09:14.6477003+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:59:33.3910879+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:10:16.0664998+00:00"
 }

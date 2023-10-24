@@ -7531,9 +7531,9 @@
       "Count": 620
     }
   ],
-  "EOS_Progressed": 538975,
+  "EOS_Progressed": 538976,
   "EOS_Completed": 2081,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -28771,6 +28771,11 @@
       "Time": "2023-10-24T20:05:10.5768848+00:00",
       "NumProgressed": 538975,
       "NumCompleted": 2081
+    },
+    {
+      "Time": "2023-10-24T21:06:31.7492332+00:00",
+      "NumProgressed": 538976,
+      "NumCompleted": 2081
     }
   ],
   "TotalAchievements": 63,
@@ -28790,7 +28795,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 495857
+      "UsersEstimate": 495858
     },
     {
       "ID": "10",
@@ -28846,7 +28851,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 280267
+      "UsersEstimate": 280268
     },
     {
       "ID": "17",
@@ -28878,7 +28883,7 @@
       "Name": "Rebuilding America",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 431180
+      "UsersEstimate": 431181
     },
     {
       "ID": "20",
@@ -28902,7 +28907,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 388062
+      "UsersEstimate": 388063
     },
     {
       "ID": "23",
@@ -28918,7 +28923,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 382672
+      "UsersEstimate": 382673
     },
     {
       "ID": "25",
@@ -28934,7 +28939,7 @@
       "Name": "Well Connected",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 334164
+      "UsersEstimate": 334165
     },
     {
       "ID": "27",
@@ -28950,7 +28955,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 415011
+      "UsersEstimate": 415012
     },
     {
       "ID": "29",
@@ -28990,7 +28995,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 210200
+      "UsersEstimate": 210201
     },
     {
       "ID": "33",
@@ -28998,7 +29003,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317995
+      "UsersEstimate": 317996
     },
     {
       "ID": "34",
@@ -29070,7 +29075,7 @@
       "Name": "Childminder",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75456
+      "UsersEstimate": 75457
     },
     {
       "ID": "42",
@@ -29118,7 +29123,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317995
+      "UsersEstimate": 317996
     },
     {
       "ID": "48",
@@ -29214,7 +29219,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 301826
+      "UsersEstimate": 301827
     },
     {
       "ID": "59",
@@ -29222,7 +29227,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 210200
+      "UsersEstimate": 210201
     },
     {
       "ID": "6",
@@ -29238,7 +29243,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 247928
+      "UsersEstimate": 247929
     },
     {
       "ID": "61",
@@ -29246,7 +29251,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344944
+      "UsersEstimate": 344945
     },
     {
       "ID": "62",
@@ -29278,22 +29283,22 @@
       "Name": "Sixty Deaths and Sixty Births in a Day",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 118574
+      "UsersEstimate": 118575
     }
   ],
   "AchievementSets": [
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 538975,
+      "Progressed": 538976,
       "Completed": 2081
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-10-24T19:01:58.0623264+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:05:10.5768843+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:06:31.7492325+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:57.0440129+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:01:11.2380488+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:05:10.5771211+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:01:47.7415027+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:06:31.7494779+00:00"
 }

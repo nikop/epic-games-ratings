@@ -9,6 +9,7 @@ Rating: 4.60 (Ranked 401)
 | Realm Estate | 7.00% | ~367 |
 | A Wonderful Discovery | 7.00% | ~367 |
 | Walls Cannot Stop Us | 7.00% | ~367 |
+| Bone Peddler | 7.00% | ~367 |
 | From Friends to Family | 7.00% | ~367 |
 | Magical Synergy | 7.00% | ~367 |
 | Seat of Power | 7.00% | ~367 |
@@ -16,7 +17,6 @@ Rating: 4.60 (Ranked 401)
 | Tipping the Scales | 7.00% | ~367 |
 | There Can Only Be One! | 6.00% | ~314 |
 | Full Ascension | 6.00% | ~314 |
-| Bone Peddler | 6.00% | ~314 |
 | Stronger Together | 6.00% | ~314 |
 | My Final Form | 6.00% | ~314 |
 | In a Liege of Your Own | 6.00% | ~314 |

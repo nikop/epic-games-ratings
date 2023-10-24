@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finished it | 42.00% | ~5 |
-| Something important | 42.00% | ~5 |
-| Wanderer | 33.00% | ~4 |
-| It's covered up for a reason | 25.00% | ~3 |
-| A piece of the story | 25.00% | ~3 |
-| Do what you have to | 17.00% | ~2 |
-| First steps | 17.00% | ~2 |
-| Sound Bite | 17.00% | ~2 |
-| Playtime | 17.00% | ~2 |
-| The tragedy unfolds | 17.00% | ~2 |
-| Tough conversation | 17.00% | ~2 |
+| Finished it | 46.00% | ~6 |
+| Something important | 38.00% | ~5 |
+| Wanderer | 31.00% | ~4 |
+| It's covered up for a reason | 23.00% | ~3 |
+| A piece of the story | 23.00% | ~3 |
+| Do what you have to | 15.00% | ~2 |
+| First steps | 15.00% | ~2 |
+| Sound Bite | 15.00% | ~2 |
+| Playtime | 15.00% | ~2 |
+| The tragedy unfolds | 15.00% | ~2 |
+| Tough conversation | 15.00% | ~2 |
 | Another perspective | 8.00% | ~1 |
 | Breaking free | 8.00% | ~1 |
 | Refuse to look | 8.00% | ~1 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 540)  
+Progressed: 13 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-08-03 | 2 | 0 |
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
-| 2023-10-24 | 12 | 0 |
+| 2023-10-24 | 13 | 0 |

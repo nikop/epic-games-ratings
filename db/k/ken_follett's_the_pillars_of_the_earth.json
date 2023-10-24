@@ -540,9 +540,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15942,
+  "EOS_Progressed": 15943,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12645,6 +12645,11 @@
       "Time": "2023-10-24T20:04:28.9778156+00:00",
       "NumProgressed": 15942,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-24T21:05:34.0517813+00:00",
+      "NumProgressed": 15943,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12768,7 +12773,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "tpote_achievement_23",
@@ -12800,7 +12805,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "tpote_achievement_27",
@@ -12832,7 +12837,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "tpote_achievement_30",
@@ -12976,22 +12981,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15942,
+      "Progressed": 15943,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-20T17:57:24.1431013+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:04:28.9778152+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:05:34.0517806+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:00:05.4394976+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:04:28.9779707+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:00:19.7200353+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:05:34.0519041+00:00"
 }

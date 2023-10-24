@@ -7,8 +7,8 @@ Rating: 4.19 (Ranked 899)
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,299 |
 | Paper Jams | 7.00% | ~1,137 |
-| Flesh Wound | 6.00% | ~974 |
-| Float Like A Butterfly | 6.00% | ~974 |
+| Flesh Wound | 6.00% | ~975 |
+| Float Like A Butterfly | 6.00% | ~975 |
 | Two Heads Are Better Than One | 5.00% | ~812 |
 | Chew 'Em Up | 5.00% | ~812 |
 | Reforged | 5.00% | ~812 |
@@ -40,8 +40,8 @@ Rating: 4.19 (Ranked 899)
 | Quick Pick | 0.60% | ~25 |
 | Mugshot | 0.50% | ~81 |
 | Instigator | 0.40% | ~17 |
-| Subject Alpha | 0.30% | ~12 |
-| Don't Let It Mellow | 0.30% | ~12 |
+| Subject Alpha | 0.30% | ~13 |
+| Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~32 |
 | Hoard Mode | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,240 (Ranked 135)  
+Progressed: 16,242 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,14 +233,14 @@ Completed: 77 (0.47%) (Ranked 187)
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
-| 2023-10-24 | 16,240 | 77 |
+| 2023-10-24 | 16,242 | 77 |
 ## Awards
-Max (Highly Recommended): 77  (Ranked 381)  
-Sum: 452 (Ranked 324)  
-Diff (max vs sum): 57  
+Max (Highly Recommended): 78  (Ranked 377)  
+Sum: 453 (Ranked 324)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 77 |
+| This game is Highly Recommended | 78 |
 | This game has Amazing Storytelling | 77 |
 | This game has Amazing Characters | 74 |
 | This game has Quickly Understood Controls | 73 |
@@ -392,3 +392,4 @@ Diff (max vs sum): 57
 | 2023-10-21 | 4.19 | 76 | 449 |
 | 2023-10-22 | 4.19 | 77 | 451 |
 | 2023-10-23 | 4.19 | 77 | 452 |
+| 2023-10-24 | 4.19 | 78 | 453 |

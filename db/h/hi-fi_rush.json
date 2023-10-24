@@ -7430,9 +7430,9 @@
       "ID": "Ach042",
       "SetID": "12n4k20",
       "Name": "I look cool. But I can look COOLER.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach043",
@@ -7685,8 +7685,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:04:26.7650009+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:05:30.9703618+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:03:07.7562743+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:04:26.7651253+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:04:01.5101628+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:05:30.970582+00:00"
 }

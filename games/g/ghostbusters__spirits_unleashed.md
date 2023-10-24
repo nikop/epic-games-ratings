@@ -7,17 +7,18 @@ Rating: 4.50 (Ranked 575)
 | ---- | ---------- | ----- |
 | Stylish | 4.00% | ~1,100 |
 | Advancement | 3.00% | ~825 |
+| Discovery | 3.00% | ~825 |
 | Meticulously Efficient | 3.00% | ~825 |
 | Animated | 2.00% | ~550 |
 | Back Off | 2.00% | ~550 |
 | Clutch Capture | 2.00% | ~550 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~550 |
 | Cultured | 2.00% | ~550 |
-| Discovery | 2.00% | ~550 |
 | Ectoplasmic Entity | 2.00% | ~550 |
 | Fully Upgraded | 2.00% | ~550 |
 | Ghostbuster In Training | 2.00% | ~550 |
 | Icing on the Cake | 2.00% | ~550 |
+| Right back at ya | 2.00% | ~550 |
 | Solo Capture | 2.00% | ~550 |
 | Swift Rift Removers | 2.00% | ~550 |
 | Teamwork | 2.00% | ~550 |
@@ -28,7 +29,6 @@ Rating: 4.50 (Ranked 575)
 | Daily Dose | 1.00% | ~275 |
 | Legions | 1.00% | ~275 |
 | Pesky Jerks | 1.00% | ~275 |
-| Right back at ya | 1.00% | ~275 |
 | Seasoned | 1.00% | ~275 |
 | Side Hustle | 1.00% | ~275 |
 | Skilled | 1.00% | ~275 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,490 (Ranked 120)  
+Progressed: 27,498 (Ranked 120)  
 Completed: 63 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 63 (0.23%) (Ranked 223)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,490 | 63 |
+| 2023-10-24 | 27,498 | 63 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,524 (Ranked 184)  

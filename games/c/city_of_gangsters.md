@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,621 |
-| Copacetic Coordination | 16.00% | ~55,868 |
-| Fronting the Money | 15.00% | ~52,376 |
-| The Dawn of Automation | 14.00% | ~48,885 |
-| Extraordinary Logistics | 14.00% | ~48,885 |
-| Dirty Money | 13.00% | ~45,393 |
-| Family First | 13.00% | ~45,393 |
-| Cleaning House | 12.00% | ~41,901 |
-| Room in the Back | 12.00% | ~41,901 |
-| Beating the Heat | 11.00% | ~38,409 |
-| Booze Baron | 11.00% | ~38,409 |
-| Friends on the Force | 10.00% | ~34,918 |
-| Neighborhood Watch | 10.00% | ~34,918 |
-| Core Corps | 8.00% | ~27,934 |
-| Sizeable Stash | 8.00% | ~27,934 |
-| Street Fighter | 7.00% | ~24,442 |
-| Friendly Gestures | 7.00% | ~24,442 |
-| People Person | 7.00% | ~24,442 |
+| Corner Clout | 46.00% | ~160,627 |
+| Copacetic Coordination | 16.00% | ~55,870 |
+| Fronting the Money | 15.00% | ~52,378 |
+| The Dawn of Automation | 14.00% | ~48,886 |
+| Extraordinary Logistics | 14.00% | ~48,886 |
+| Dirty Money | 13.00% | ~45,395 |
+| Family First | 13.00% | ~45,395 |
+| Cleaning House | 12.00% | ~41,903 |
+| Room in the Back | 12.00% | ~41,903 |
+| Beating the Heat | 11.00% | ~38,411 |
+| Booze Baron | 11.00% | ~38,411 |
+| Friends on the Force | 10.00% | ~34,919 |
+| Neighborhood Watch | 10.00% | ~34,919 |
+| Core Corps | 8.00% | ~27,935 |
+| Sizeable Stash | 8.00% | ~27,935 |
+| Street Fighter | 7.00% | ~24,443 |
+| Friendly Gestures | 7.00% | ~24,443 |
+| People Person | 7.00% | ~24,443 |
 | Liquor Lord | 6.00% | ~20,951 |
 | Safety in Numbers | 6.00% | ~20,951 |
 | Moving Experiences | 6.00% | ~20,951 |
@@ -36,18 +36,18 @@ Rating: 4.28 (Ranked 835)
 | Opportunity Knocked | 5.00% | ~17,459 |
 | City of Big Shoulders | 5.00% | ~17,459 |
 | Mission Mastery | 5.00% | ~17,459 |
-| Considerable Clams | 4.00% | ~13,967 |
-| Gin Joint | 4.00% | ~13,967 |
-| An Affront to the Enemy | 4.00% | ~13,967 |
-| Friends from Back Home | 4.00% | ~13,967 |
-| Half Century Mark | 4.00% | ~13,967 |
-| Corner Opportunities | 3.00% | ~10,475 |
-| 2122 North Clark Street | 3.00% | ~10,475 |
-| Copious Cabbage | 3.00% | ~10,475 |
-| Sockdolager | 3.00% | ~10,475 |
-| Still Stalwart | 3.00% | ~10,475 |
-| Bees Knees Bootlegger | 3.00% | ~10,475 |
-| Tighten the Screws | 3.00% | ~10,475 |
+| Considerable Clams | 4.00% | ~13,968 |
+| Gin Joint | 4.00% | ~13,968 |
+| An Affront to the Enemy | 4.00% | ~13,968 |
+| Friends from Back Home | 4.00% | ~13,968 |
+| Half Century Mark | 4.00% | ~13,968 |
+| Corner Opportunities | 3.00% | ~10,476 |
+| 2122 North Clark Street | 3.00% | ~10,476 |
+| Copious Cabbage | 3.00% | ~10,476 |
+| Sockdolager | 3.00% | ~10,476 |
+| Still Stalwart | 3.00% | ~10,476 |
+| Bees Knees Bootlegger | 3.00% | ~10,476 |
+| Tighten the Screws | 3.00% | ~10,476 |
 | One of Us | 2.00% | ~6,984 |
 | Baker’s Dozen | 2.00% | ~6,984 |
 | Dropping the Dime | 2.00% | ~6,984 |
@@ -61,9 +61,9 @@ Rating: 4.28 (Ranked 835)
 | Cat’s Meow Clubs | 1.00% | ~3,492 |
 | Stepping It Up | 1.00% | ~3,492 |
 | Determined Deliveries | 0.90% | ~3,143 |
-| Boots in the Ground | 0.80% | ~2,793 |
-| Getting Fancy | 0.80% | ~2,793 |
-| Crossing Over | 0.80% | ~2,793 |
+| Boots in the Ground | 0.80% | ~2,794 |
+| Getting Fancy | 0.80% | ~2,794 |
+| Crossing Over | 0.80% | ~2,794 |
 | Still Dreaming | 0.50% | ~1,746 |
 | Working on the Railroad | 0.50% | ~1,746 |
 | Social Butterfly | 0.50% | ~1,746 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 835)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,176 (Ranked 44)  
+Progressed: 349,189 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 7 (0.00%) (Ranked 324)
 | 2023-10-21 | 348,735 | 7 |
 | 2023-10-22 | 348,942 | 7 |
 | 2023-10-23 | 349,067 | 7 |
-| 2023-10-24 | 349,176 | 7 |
+| 2023-10-24 | 349,189 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 450)  
 Sum: 179 (Ranked 402)  

@@ -40,8 +40,8 @@
 | Power Full | 40.00% | ~319 |
 | The Convict | 38.00% | ~303 |
 | Completionist | 37.00% | ~295 |
+| Colony Defense | 37.00% | ~295 |
 | The Krogan | 37.00% | ~295 |
-| Colony Defense | 36.00% | ~287 |
 | Galactic Explorer | 36.00% | ~287 |
 | Broke, Blind, and Bedlam | 35.00% | ~279 |
 | Archivist | 34.00% | ~271 |
@@ -81,9 +81,9 @@
 | World Shaker | 26.00% | ~207 |
 | Weapon Specialist | 25.00% | ~199 |
 | Liberator | 25.00% | ~199 |
+| Pathfinder | 24.00% | ~191 |
 | Tunnel Rat | 24.00% | ~191 |
 | Savior | 23.00% | ~183 |
-| Pathfinder | 23.00% | ~183 |
 | Arbiter | 23.00% | ~183 |
 | Lost and Found | 23.00% | ~183 |
 | Paramour II | 22.00% | ~175 |
@@ -114,12 +114,12 @@
 | Overload Specialist | 11.00% | ~88 |
 | Barrier Mastery | 10.00% | ~80 |
 | Always Prepared | 10.00% | ~80 |
+| Lift Mastery | 10.00% | ~80 |
 | Hijacker | 9.00% | ~72 |
-| Lift Mastery | 9.00% | ~72 |
 | Sky High | 8.00% | ~64 |
+| Singularity Mastery | 8.00% | ~64 |
 | Insanity I | 7.00% | ~56 |
 | Damping Specialist | 7.00% | ~56 |
-| Singularity Mastery | 7.00% | ~56 |
 | Incineration Specialist | 6.00% | ~48 |
 | Shield Breaker | 5.00% | ~40 |
 | Insanity II | 4.00% | ~32 |

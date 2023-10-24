@@ -13,9 +13,9 @@
 | Notai Notes | 145.00% | ~16 |
 | True Legends | 136.00% | ~15 |
 | Krugmazing | 127.00% | ~14 |
+| Never Gets Old | 127.00% | ~14 |
 | The Fire Below the Mountain | 127.00% | ~14 |
 | On The Rocks | 118.00% | ~13 |
-| Never Gets Old | 118.00% | ~13 |
 | No Bites | 109.00% | ~12 |
 | Iceborn | 109.00% | ~12 |
 | Boom Things | 100.00% | ~11 |

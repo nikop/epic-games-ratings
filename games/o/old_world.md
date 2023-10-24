@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.70% | ~105 |
 | Phalangite | 0.70% | ~105 |
 | Double Victory | 0.70% | ~105 |
+| The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
 | Strong Difficulty | 0.60% | ~90 |
 | Hunters | 0.60% | ~90 |
@@ -120,7 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
-| The Clergy | 0.60% | ~90 |
+| The Great Mage | 0.60% | ~90 |
 | Devout | 0.50% | ~75 |
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.50% | ~75 |
 | Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
-| The Great Mage | 0.50% | ~75 |
 | Poetic Leader | 0.50% | ~75 |
 | Kmt Unified | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |

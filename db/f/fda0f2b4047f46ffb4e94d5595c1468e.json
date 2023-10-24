@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "Count": 269
     }
   ],
-  "EOS_Progressed": 8013,
+  "EOS_Progressed": 8014,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5599,6 +5599,11 @@
       "Time": "2023-10-24T10:05:45.3378841+00:00",
       "NumProgressed": 8013,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T21:07:33.0844004+00:00",
+      "NumProgressed": 8014,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5611,7 +5616,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "ach02",
@@ -5635,7 +5640,7 @@
       "Name": "What Just Happened??",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ach05",
@@ -5659,7 +5664,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "ach08",
@@ -5723,7 +5728,7 @@
       "Name": "Give A Koin",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ach16",
@@ -5779,7 +5784,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ach23",
@@ -5795,7 +5800,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "ach25",
@@ -5827,7 +5832,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "ach29",
@@ -5859,7 +5864,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ach33",
@@ -5899,7 +5904,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4567
+      "UsersEstimate": 4568
     },
     {
       "ID": "ach38",
@@ -5915,7 +5920,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "ach40",
@@ -6010,7 +6015,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8013,
+      "Progressed": 8014,
       "Completed": 0
     }
   ],
@@ -6018,8 +6023,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-24T19:59:38.3007534+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:06:14.9494786+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:07:33.0843996+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:59:38.300754+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:06:14.9495585+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:59:51.1916535+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:07:33.0845308+00:00"
 }

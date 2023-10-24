@@ -14010,10 +14010,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 323967,
       "NumberOfAwardsMax": 101212
+    },
+    {
+      "Time": "2023-10-24T21:02:36.9564383+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 324129,
+      "NumberOfAwardsMax": 101212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323967,
+  "NumberOfAwards": 324129,
   "NumberOfAwardsMax": 101212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14045,7 +14051,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17437
+      "Count": 17599
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14090,9 +14096,9 @@
       "Count": 11460
     }
   ],
-  "EOS_Progressed": 893675,
+  "EOS_Progressed": 893684,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35315,6 +35321,11 @@
       "Time": "2023-10-24T20:08:14.4166625+00:00",
       "NumProgressed": 893675,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T21:09:21.3837794+00:00",
+      "NumProgressed": 893684,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35669,9 +35680,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2681
+      "UsersEstimate": 3575
     },
     {
       "ID": "All the President\u0027s Men",
@@ -35846,21 +35857,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893675,
+      "Progressed": 893684,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22298,
+      "Progressed": 22307,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-24T19:02:48.572529+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:14.4166623+00:00",
+  "LastChanged": "2023-10-24T21:02:36.956438+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:21.3837787+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:01:55.3915919+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:14.4169992+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:02:36.956439+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:21.3840167+00:00"
 }

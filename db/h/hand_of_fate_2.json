@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663744,
+  "EOS_Progressed": 663745,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -18723,6 +18723,11 @@
       "Time": "2023-10-24T20:05:06.41687+00:00",
       "NumProgressed": 663744,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-24T21:06:25.9568321+00:00",
+      "NumProgressed": 663745,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18886,7 +18891,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112836
+      "UsersEstimate": 112837
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -19117,15 +19122,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663744,
+      "Progressed": 663745,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:05:06.4168696+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:06:25.9568313+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:02:41.2037224+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:05:06.4170376+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:03:35.915193+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:06:25.9571169+00:00"
 }

@@ -3891,9 +3891,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76063,
+  "EOS_Progressed": 76064,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25001,6 +25001,11 @@
       "Time": "2023-10-24T20:08:32.0132973+00:00",
       "NumProgressed": 76063,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T21:09:45.4136464+00:00",
+      "NumProgressed": 76064,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25028,7 +25033,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13691
+      "UsersEstimate": 13692
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -25130,9 +25135,9 @@
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 25101
+      "UsersEstimate": 25862
     },
     {
       "ID": "customize_a_weapon",
@@ -25140,7 +25145,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28143
+      "UsersEstimate": 28144
     },
     {
       "ID": "cutting_edge_materials",
@@ -25228,7 +25233,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17494
+      "UsersEstimate": 17495
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25396,7 +25401,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31946
+      "UsersEstimate": 31947
     },
     {
       "ID": "whole_map_purple",
@@ -25435,13 +25440,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76063,
+      "Progressed": 76064,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47700,
+      "Progressed": 47701,
       "Completed": 4178
     }
   ],
@@ -25449,8 +25454,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:32.0132968+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:45.4136456+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:03:42.0757618+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:32.0134732+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:04:37.6969178+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:45.4139697+00:00"
 }

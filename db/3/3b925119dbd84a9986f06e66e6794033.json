@@ -290,9 +290,9 @@
       "ID": "DODO_RE_MI_SAX_FAMILY",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: It\u0027s About Family",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
@@ -362,9 +362,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "TIME_JINX",
@@ -441,8 +441,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:38.4135447+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:53.987044+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:00:14.0202194+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:38.4135614+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:00:29.88968+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:53.987068+00:00"
 }

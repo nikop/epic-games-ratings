@@ -20,12 +20,12 @@ Rating: 4.85 (Ranked 42)
 | Uh, they were broken when I got here | 10.00% | ~417 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~375 |
 | Kissing the sky! | 9.00% | ~375 |
+| I look cool. But I can look COOLER. | 9.00% | ~375 |
 | The Negotiator | 8.00% | ~333 |
 | Headliner | 8.00% | ~333 |
 | Time to pay up! | 8.00% | ~333 |
 | You must like calling me in, Chai | 8.00% | ~333 |
 | Out in a puff of smoke | 8.00% | ~333 |
-| I look cool. But I can look COOLER. | 8.00% | ~333 |
 | NOW we got a kickass hideout! | 8.00% | ~215 |
 | Who's the boss now? | 7.00% | ~292 |
 | Perfecter Parry-er! | 7.00% | ~292 |

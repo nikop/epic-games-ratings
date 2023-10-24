@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2275,
+  "EOS_Progressed": 2276,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2023-10-21T17:11:49.583131+00:00",
       "NumProgressed": 2275,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-24T21:09:16.0472756+00:00",
+      "NumProgressed": 2276,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1787,9 +1792,9 @@
       "ID": "collect_dyes",
       "SetID": "236b9eg",
       "Name": "Nothing to Wear",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 705
+      "UsersEstimate": 683
     },
     {
       "ID": "complete_act_one",
@@ -1821,7 +1826,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "deal_damage",
@@ -1829,7 +1834,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "defeat_enemies",
@@ -1837,7 +1842,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1845,7 +1850,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "fail_planet",
@@ -1853,7 +1858,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "piercing_beam",
@@ -1885,7 +1890,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1932,7 +1937,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2275,
+      "Progressed": 2276,
       "Completed": 9
     }
   ],
@@ -1940,8 +1945,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:08:10.5834689+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:09:16.0472748+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:55.8146431+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:58:26.4124724+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:08:10.5835143+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:58:36.1034291+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:09:16.0473073+00:00"
 }

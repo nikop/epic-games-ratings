@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1666,
+  "EOS_Progressed": 1667,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -3467,6 +3467,11 @@
       "Time": "2023-10-24T20:10:16.2188177+00:00",
       "NumProgressed": 1666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T21:11:27.2052717+00:00",
+      "NumProgressed": 1667,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3479,7 +3484,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3501,9 +3506,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 117
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -3533,9 +3538,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 317
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3870,14 +3875,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1666,
+      "Progressed": 1667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-24T20:10:16.2188173+00:00",
+  "LastChanged_Achievements": "2023-10-24T21:11:27.205271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:03:28.1378361+00:00",
-  "LastUpdate_Achievements": "2023-10-24T20:10:16.2188827+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:04:20.447208+00:00",
+  "LastUpdate_Achievements": "2023-10-24T21:11:27.2053546+00:00"
 }
