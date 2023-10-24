@@ -19,7 +19,7 @@
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,034 | 147 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 539 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 190,165 | 6 |
-| 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,150 | 33 |
+| 16 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,182 | 33 |
 | 16 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 521 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 539 |
 | 23 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.87 | 23 | 518 |
@@ -51,7 +51,7 @@
 | 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 218 | 273 |
 | 48 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 423 | 219 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 539 |
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 433 | 214 |
+| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 434 | 214 |
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 270 | 256 |
 | 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 539 |
 | 48 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 0 | 539 |
@@ -235,7 +235,7 @@
 | 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 539 |
 | 224 | [Revita](games/r/revita.md) | 4.69 | 0 | 539 |
 | 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,539 | 37 |
-| 224 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 358 | 232 |
+| 224 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 358 | 233 |
 | 224 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 498 |
 | 224 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 539 |
 | 224 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 539 |
@@ -412,7 +412,7 @@
 | 402 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 76 | 383 |
 | 402 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,879 | 28 |
 | 402 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 123 | 326 |
-| 402 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 401 |
+| 402 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 402 |
 | 402 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 539 |
 | 402 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 77 | 379 |
 | 402 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 539 |
@@ -478,11 +478,11 @@
 | 475 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 425 |
 | 475 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 539 |
 | 475 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 51 | 416 |
-| 475 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 886 | 157 |
+| 475 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 886 | 158 |
 | 475 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.56 | 0 | 539 |
 | 475 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 498 |
 | 475 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 539 |
-| 475 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 357 | 233 |
+| 475 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 361 | 231 |
 | 475 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 299 | 242 |
 | 475 | [Hue](games/h/hue.md) | 4.56 | 0 | 539 |
 | 475 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 458 |
@@ -616,7 +616,7 @@
 | 612 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 138 | 314 |
 | 612 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 450 |
 | 612 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 539 |
-| 612 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 587,915 | 2 |
+| 612 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 589,363 | 2 |
 | 612 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 539 |
 | 612 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 0 | 539 |
 | 612 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 539 |
@@ -653,7 +653,7 @@
 | 650 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 254 | 261 |
 | 650 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 899 | 156 |
 | 650 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,004 | 34 |
-| 650 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 886 | 157 |
+| 650 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 888 | 157 |
 | 650 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.45 | 21 | 528 |
 | 650 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 120 | 330 |
 | 650 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 539 |
@@ -804,7 +804,7 @@
 | 796 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 521 |
 | 796 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 539 |
 | 804 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.32 | 0 | 539 |
-| 804 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 63 | 401 |
+| 804 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 64 | 400 |
 | 804 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.32 | 151 | 309 |
 | 804 | [House Party](games/h/house_party.md) | 4.32 | 0 | 539 |
 | 804 | [Parkitect](games/p/parkitect.md) | 4.32 | 0 | 539 |

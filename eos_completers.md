@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.33% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.28% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.18% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.26% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -80,7 +80,7 @@
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
 | 80 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
-| 81 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.61% |
+| 81 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.60% |
 | 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 83 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 84 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -91,9 +91,9 @@
 | 89 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
 | 90 | [Monster Harvest](games/m/monster_harvest.md) | 3.14% |
 | 91 | [Without Escape](games/w/without_escape.md) | 3.12% |
-| 92 | [HordeCore](games/h/hordecore.md) | 3.09% |
-| 93 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.94% |
-| 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 92 | [HordeCore](games/h/hordecore.md) | 3.08% |
+| 93 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 94 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.92% |
 | 95 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.86% |
 | 95 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
