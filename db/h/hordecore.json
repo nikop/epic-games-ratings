@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 357,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.09,
+  "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -189,6 +189,11 @@
       "Time": "2023-10-21T15:07:56.1065354+00:00",
       "NumProgressed": 356,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-24T00:06:11.8051315+00:00",
+      "NumProgressed": 357,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 28,
@@ -200,7 +205,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "10",
@@ -254,9 +259,9 @@
       "ID": "16",
       "SetID": "1530e6b",
       "Name": "Totally Swamped",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 39
     },
     {
       "ID": "17",
@@ -280,7 +285,7 @@
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "2",
@@ -288,7 +293,7 @@
       "Name": "Decision Maker",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "20",
@@ -310,9 +315,9 @@
       "ID": "22",
       "SetID": "1530e6b",
       "Name": "Poker-Man",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "23",
@@ -320,7 +325,7 @@
       "Name": "Collector",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "24",
@@ -376,7 +381,7 @@
       "Name": "Master of Cards",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "5",
@@ -400,7 +405,7 @@
       "Name": "Blow \u2018Em Up",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "8",
@@ -408,7 +413,7 @@
       "Name": "Master Chef",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "9",
@@ -423,7 +428,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 357,
       "Completed": 11
     }
   ],
@@ -431,8 +436,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:05:59.4436203+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:06:11.8051309+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:45.0040138+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:57:32.8344227+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:05:59.4436437+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:57:51.3132911+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:06:11.8051538+00:00"
 }

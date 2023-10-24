@@ -5,19 +5,19 @@ Rating: 4.82 (Ranked 62)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,502 |
+| For Demacia | 96.00% | ~2,503 |
 | No more cages! | 92.00% | ~2,398 |
-| Everfrost | 79.00% | ~2,059 |
+| Everfrost | 79.00% | ~2,060 |
 | Pentakill | 78.00% | ~2,033 |
 | Dark Forest | 78.00% | ~2,033 |
-| The use of petricite | 75.00% | ~1,954 |
+| The use of petricite | 75.00% | ~1,955 |
 | You can pet the dog | 62.00% | ~1,616 |
-| Big Helmet Bro | 38.00% | ~990 |
-| Thornbarrow | 38.00% | ~990 |
-| Clarion Cove | 38.00% | ~990 |
-| Elemental master | 36.00% | ~938 |
-| Past trauma | 36.00% | ~938 |
-| Ternmoat Headquarters | 36.00% | ~938 |
+| Big Helmet Bro | 38.00% | ~991 |
+| Thornbarrow | 38.00% | ~991 |
+| Clarion Cove | 38.00% | ~991 |
+| Elemental master | 36.00% | ~939 |
+| Past trauma | 36.00% | ~939 |
+| Ternmoat Headquarters | 36.00% | ~939 |
 | Cypress Glen Headquarters | 34.00% | ~886 |
 | Petricite Burst | 33.00% | ~860 |
 | Hijack | 30.00% | ~782 |
@@ -26,12 +26,12 @@ Rating: 4.82 (Ranked 62)
 | Whispers in the Woods I | 28.00% | ~730 |
 | I chose my shackles | 26.00% | ~678 |
 | Ancient power | 26.00% | ~678 |
-| Sacred Woods | 24.00% | ~625 |
-| Little light | 23.00% | ~599 |
-| Capelworth | 23.00% | ~599 |
-| Full equipped | 23.00% | ~599 |
-| Glyndemere | 22.00% | ~573 |
-| Iffighain Headquarters | 22.00% | ~573 |
+| Sacred Woods | 24.00% | ~626 |
+| Little light | 23.00% | ~600 |
+| Capelworth | 23.00% | ~600 |
+| Full equipped | 23.00% | ~600 |
+| Glyndemere | 22.00% | ~574 |
+| Iffighain Headquarters | 22.00% | ~574 |
 | Whispers in the Woods II | 19.00% | ~495 |
 | No more holding back | 18.00% | ~469 |
 | Terbisia | 18.00% | ~469 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 62)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,606 (Ranked 200)  
+Progressed: 2,607 (Ranked 200)  
 Completed: 13 (0.50%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 13 (0.50%) (Ranked 184)
 | 2023-10-11 | 2,602 | 12 |
 | 2023-10-15 | 2,605 | 12 |
 | 2023-10-21 | 2,606 | 13 |
+| 2023-10-24 | 2,607 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

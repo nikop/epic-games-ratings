@@ -5,18 +5,18 @@ Rating: 4.56 (Ranked 475)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,870 |
+| Getting Started | 82.00% | ~10,871 |
 | Pay 'n' Spray | 51.00% | ~6,761 |
 | All Dressed Up for San Fierro | 26.00% | ~3,447 |
 | The American Dream | 20.00% | ~2,651 |
 | School's Out | 19.00% | ~2,519 |
 | Smooth Moves | 17.00% | ~2,254 |
-| What happens in Las Venturas... | 15.00% | ~1,988 |
-| Today Was a Good Day | 15.00% | ~1,988 |
+| What happens in Las Venturas... | 15.00% | ~1,989 |
+| Today Was a Good Day | 15.00% | ~1,989 |
 | Horror of the Santa Maria | 11.00% | ~1,458 |
 | Liberty City State of Mind | 10.00% | ~1,326 |
-| The End of the Line | 8.00% | ~1,060 |
-| Original Gangster | 8.00% | ~1,060 |
+| The End of the Line | 8.00% | ~1,061 |
+| Original Gangster | 8.00% | ~1,061 |
 | With Extra Dip | 7.00% | ~928 |
 | Saviour | 6.00% | ~795 |
 | They Can’t Stop All of Us | 5.00% | ~663 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 475)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,256 (Ranked 143)  
+Progressed: 13,257 (Ranked 143)  
 Completed: 50 (0.38%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,13 +228,14 @@ Completed: 50 (0.38%) (Ranked 199)
 | 2023-10-21 | 13,243 | 50 |
 | 2023-10-22 | 13,249 | 50 |
 | 2023-10-23 | 13,256 | 50 |
+| 2023-10-24 | 13,257 | 50 |
 ## Awards
-Max (Great Boss Battles): 357  (Ranked 233)  
-Sum: 574 (Ranked 305)  
-Diff (max vs sum): -72  
+Max (Great Boss Battles): 361  (Ranked 231)  
+Sum: 578 (Ranked 304)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 357 |
+| This game has Great Boss Battles | 361 |
 | This game is Relaxing | 37 |
 | This game has Amazing Storytelling | 31 |
 | This game has Amazing Characters | 30 |
@@ -399,4 +400,4 @@ Diff (max vs sum): -72
 | 2023-10-19 | 4.56 | 354 | 568 |
 | 2023-10-20 | 4.56 | 356 | 570 |
 | 2023-10-22 | 4.56 | 357 | 573 |
-| 2023-10-23 | 4.56 | 357 | 574 |
+| 2023-10-23 | 4.56 | 361 | 578 |

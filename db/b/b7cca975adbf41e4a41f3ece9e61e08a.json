@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1929,
+  "EOS_Progressed": 1930,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1916,
+  "EOS_NewPlayers": 1917,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -754,6 +754,11 @@
       "Time": "2023-10-23T23:06:52.2748314+00:00",
       "NumProgressed": 1929,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-24T00:07:03.4776793+00:00",
+      "NumProgressed": 1930,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -766,7 +771,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -774,7 +779,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -798,7 +803,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -822,7 +827,7 @@
       "Name": "Lover In Dark Alley",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -868,9 +873,9 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "7opfcp",
       "Name": "Happy Family",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 540
+      "UsersEstimate": 560
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -950,7 +955,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -974,7 +979,7 @@
       "Name": "What I Want Is You",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -982,7 +987,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1062,7 +1067,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -1101,14 +1106,14 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 1929,
+      "Progressed": 1930,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:06:52.2748309+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:07:03.4776788+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:57:18.6724499+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:06:52.2748727+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:57:36.620067+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:07:03.477738+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-10-23T22:05:11.4576426+00:00",
       "NumProgressed": 942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T00:05:31.7625397+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2340,7 +2345,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2348,7 +2353,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2362,9 +2367,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 94
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2380,7 +2385,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2388,7 +2393,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2468,7 +2473,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2628,7 +2633,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2636,7 +2641,7 @@
       "Name": "Decakill!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2660,7 +2665,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2700,7 +2705,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2788,7 +2793,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2867,14 +2872,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:05:17.0685489+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:05:31.7625392+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:35.1726334+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:05:17.0686335+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:59:53.0723332+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:05:31.7626249+00:00"
 }

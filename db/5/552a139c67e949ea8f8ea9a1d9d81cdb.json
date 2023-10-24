@@ -462,9 +462,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "5k00jcd",
       "Name": "Rookie",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -813,8 +813,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:04:13.1241001+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:04:29.2305762+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:43.719965+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:04:13.1241415+00:00"
+  "LastUpdate_Ratings": "2023-10-24T00:00:02.9782789+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:04:29.2306198+00:00"
 }

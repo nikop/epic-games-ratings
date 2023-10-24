@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Novice Mason | 57.00% | ~27 |
-| Constructor | 36.00% | ~17 |
+| Constructor | 38.00% | ~18 |
 | Expert Mason | 26.00% | ~12 |
-| Arch Mason | 15.00% | ~7 |
+| Arch Mason | 17.00% | ~8 |
 | Grand Mason | 13.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 451)  

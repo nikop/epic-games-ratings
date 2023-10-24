@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "Count": 251
     }
   ],
-  "EOS_Progressed": 209618,
+  "EOS_Progressed": 209621,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1374,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23050,6 +23050,11 @@
       "Time": "2023-10-23T23:03:57.757945+00:00",
       "NumProgressed": 209618,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-24T00:04:14.190417+00:00",
+      "NumProgressed": 209621,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23133,7 +23138,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25154
+      "UsersEstimate": 25155
     },
     {
       "ID": "HappyLittleAccidents",
@@ -23277,7 +23282,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16769
+      "UsersEstimate": 16770
     },
     {
       "ID": "Rollin",
@@ -23309,7 +23314,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16769
+      "UsersEstimate": 16770
     },
     {
       "ID": "TanukiTime",
@@ -23412,15 +23417,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 209618,
+      "Progressed": 209621,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-23T21:59:36.9288188+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:03:57.7579443+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:04:14.1904154+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.8896219+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:42.9524772+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:03:57.7581198+00:00"
+  "LastUpdate_Ratings": "2023-10-24T00:00:02.0579021+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:04:14.1905845+00:00"
 }

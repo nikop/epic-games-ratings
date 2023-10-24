@@ -4,7 +4,7 @@
   "ProductSlug": "monster-harvest-75f018",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "SAVE_THE_SLIMES",
       "SetID": "ca3djk0",
       "Name": "Save the Slimes!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -468,8 +468,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:06:03.5057773+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:06:15.6374681+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.174877+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:58:20.3959006+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:06:03.5057908+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:58:38.8809714+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:06:15.6374809+00:00"
 }

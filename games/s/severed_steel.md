@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 224)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~203,275 |
-| 50 HEADSHOTS | 28.00% | ~189,724 |
-| SCIENCE AND INDUSTRY | 27.00% | ~182,948 |
-| FINISHED CHAPTER 1 | 26.00% | ~176,172 |
-| FINISHED CHAPTER 2 | 19.00% | ~128,741 |
-| 200 HEADSHOTS | 17.00% | ~115,189 |
-| FINISHED CHAPTER 3 | 16.00% | ~108,413 |
-| FINISHED CHAPTER 4 | 14.00% | ~94,862 |
-| FINISH CHAPTER 5 | 12.00% | ~81,310 |
-| FINISH CHAPTER 6 | 10.00% | ~67,758 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,758 |
-| 1000 KILLS | 8.00% | ~54,207 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,103 |
+| 100 KILLS | 30.00% | ~203,280 |
+| 50 HEADSHOTS | 28.00% | ~189,728 |
+| SCIENCE AND INDUSTRY | 27.00% | ~182,952 |
+| FINISHED CHAPTER 1 | 26.00% | ~176,176 |
+| FINISHED CHAPTER 2 | 19.00% | ~128,744 |
+| 200 HEADSHOTS | 17.00% | ~115,192 |
+| FINISHED CHAPTER 3 | 16.00% | ~108,416 |
+| FINISHED CHAPTER 4 | 14.00% | ~94,864 |
+| FINISH CHAPTER 5 | 12.00% | ~81,312 |
+| FINISH CHAPTER 6 | 10.00% | ~67,760 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,760 |
+| 1000 KILLS | 8.00% | ~54,208 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,104 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,552 |
 | FIRST BLOOD | 2.00% | ~13,552 |
 | PACEMAKER | 1.00% | ~6,776 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 224)
 | THE GAMBLER | 0.10% | ~678 |
 | WARRIOR IN A GARDEN | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,584 (Ranked 23)  
+Progressed: 677,599 (Ranked 23)  
 Completed: 77 (0.01%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,11 @@ Completed: 77 (0.01%) (Ranked 303)
 | 2023-10-21 | 676,789 | 77 |
 | 2023-10-22 | 677,249 | 77 |
 | 2023-10-23 | 677,584 | 77 |
+| 2023-10-24 | 677,599 | 77 |
 ## Awards
-Max (Great Boss Battles): 358  (Ranked 232)  
+Max (Great Boss Battles): 358  (Ranked 233)  
 Sum: 358 (Ranked 339)  
-Diff (max vs sum): -107  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 358 |

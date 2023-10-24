@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~6,913 |
-| Cool Whip | 90.00% | ~6,690 |
-| Fashion Killa | 89.00% | ~6,615 |
-| Drop the Beat | 86.00% | ~6,392 |
-| Hey Lakeshore | 85.00% | ~6,318 |
-| 100 Miles and Runnin' | 84.00% | ~6,244 |
-| Public Enemy | 83.00% | ~6,169 |
+| Throwing up Tags | 93.00% | ~6,914 |
+| Cool Whip | 90.00% | ~6,691 |
+| Fashion Killa | 89.00% | ~6,616 |
+| Drop the Beat | 86.00% | ~6,393 |
+| Hey Lakeshore | 85.00% | ~6,319 |
+| 100 Miles and Runnin' | 84.00% | ~6,245 |
+| Public Enemy | 83.00% | ~6,170 |
 | Rebel Without a Pause | 69.00% | ~5,129 |
 | Hey Speedie! | 69.00% | ~5,129 |
-| Most Wanted | 65.00% | ~4,831 |
-| New Crew | 64.00% | ~4,757 |
-| Escape Artist | 55.00% | ~4,088 |
+| Most Wanted | 65.00% | ~4,832 |
+| New Crew | 64.00% | ~4,758 |
+| Escape Artist | 55.00% | ~4,089 |
 | Serious Guap | 54.00% | ~4,014 |
 | Style it Out | 54.00% | ~4,014 |
 | Untouchable | 54.00% | ~4,014 |
 | Oh, It's On | 51.00% | ~3,791 |
-| Rydell's Rydes | 49.00% | ~3,642 |
+| Rydell's Rydes | 49.00% | ~3,643 |
 | Cash Money Millionaire | 47.00% | ~3,494 |
-| Lake Better Watch Out | 40.00% | ~2,973 |
+| Lake Better Watch Out | 40.00% | ~2,974 |
 | Access All Areas | 35.00% | ~2,602 |
 | #Blessed | 35.00% | ~2,602 |
 | Kick it | 32.00% | ~2,379 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 2.00% | ~149 |
 | Cleaning Up | 2.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,433 (Ranked 160)  
+Progressed: 7,434 (Ranked 160)  
 Completed: 43 (0.58%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,3 +85,4 @@ Completed: 43 (0.58%) (Ranked 171)
 | 2023-10-21 | 7,224 | 41 |
 | 2023-10-22 | 7,348 | 41 |
 | 2023-10-23 | 7,433 | 43 |
+| 2023-10-24 | 7,434 | 43 |

@@ -31,10 +31,10 @@
 | 373 | 6.00% | ~12 |
 | Matthew's revenge | 5.00% | ~10 |
 | Eva's diary | 2.00% | ~4 |
-| Horror book | 1.00% | ~2 |
-| A dark past | 1.00% | ~2 |
+| Horror book | 2.00% | ~4 |
+| A dark past | 2.00% | ~4 |
+| Sly as a fox | 0.50% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
-| Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 207 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 322)  

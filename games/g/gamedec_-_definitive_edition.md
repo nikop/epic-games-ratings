@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,501 |
 | I like to sniff around | 3.00% | ~7,501 |
 | Mind reader | 3.00% | ~7,501 |
-| Catnip | 2.00% | ~5,000 |
-| Gentleman's classic | 2.00% | ~5,000 |
-| Is that a rift? | 2.00% | ~5,000 |
-| It's alive! | 2.00% | ~5,000 |
-| Enjoy the beach | 2.00% | ~5,000 |
-| Rinse and repeat | 2.00% | ~5,000 |
-| Mama, I'm a criminal | 2.00% | ~5,000 |
-| Never gonna give you up | 2.00% | ~5,000 |
+| Catnip | 2.00% | ~5,001 |
+| Gentleman's classic | 2.00% | ~5,001 |
+| Is that a rift? | 2.00% | ~5,001 |
+| It's alive! | 2.00% | ~5,001 |
+| Enjoy the beach | 2.00% | ~5,001 |
+| Rinse and repeat | 2.00% | ~5,001 |
+| Mama, I'm a criminal | 2.00% | ~5,001 |
+| Never gonna give you up | 2.00% | ~5,001 |
 | A muscle to rely on | 1.00% | ~2,500 |
 | A true blacksmith | 1.00% | ~2,500 |
 | I am in great pain, please help me | 1.00% | ~2,500 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~500 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,025 (Ranked 55)  
+Progressed: 250,026 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 7 (0.00%) (Ranked 322)
 | 2023-10-21 | 249,803 | 7 |
 | 2023-10-22 | 249,928 | 7 |
 | 2023-10-23 | 250,025 | 7 |
+| 2023-10-24 | 250,026 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 368)  
 Sum: 86 (Ranked 444)  

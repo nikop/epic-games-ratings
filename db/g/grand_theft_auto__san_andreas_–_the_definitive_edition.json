@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 305,
+  "Ranking_Popularity": 231,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 176,
@@ -1235,18 +1235,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 574,
       "NumberOfAwardsMax": 357
+    },
+    {
+      "Time": "2023-10-23T23:57:59.6435693+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 361
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 574,
-  "NumberOfAwardsMax": 357,
+  "NumberOfAwards": 578,
+  "NumberOfAwardsMax": 361,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 357
+      "Count": 361
     },
     {
       "Text": "This game is Relaxing",
@@ -1297,9 +1303,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13256,
+  "EOS_Progressed": 13257,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13142,6 +13148,11 @@
       "Time": "2023-10-23T20:05:05.6134861+00:00",
       "NumProgressed": 13256,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-24T00:05:02.8282708+00:00",
+      "NumProgressed": 13257,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13153,7 +13164,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10870
+      "UsersEstimate": 10871
     },
     {
       "ID": "ACH02",
@@ -13169,7 +13180,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH04",
@@ -13321,7 +13332,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "ACH23",
@@ -13369,7 +13380,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "ACH29",
@@ -13377,7 +13388,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "ACH30",
@@ -13432,16 +13443,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13256,
+      "Progressed": 13257,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-23T14:57:16.8587249+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:04:47.5633165+00:00",
+  "LastChanged": "2023-10-23T23:57:59.6435691+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:05:02.8282702+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.3200483+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:57:41.408146+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:04:47.5634192+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:57:59.6435697+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:05:02.8283726+00:00"
 }

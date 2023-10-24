@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7433,
+  "EOS_Progressed": 7434,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-10-23T23:05:34.6450404+00:00",
       "NumProgressed": 7433,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-10-24T00:05:48.1656563+00:00",
+      "NumProgressed": 7434,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -4133,7 +4138,7 @@
       "Name": "Most Wanted",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4832
     },
     {
       "ID": "achievement_20",
@@ -4149,7 +4154,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "achievement_22",
@@ -4157,7 +4162,7 @@
       "Name": "Escape Artist",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "achievement_23",
@@ -4165,7 +4170,7 @@
       "Name": "Public Enemy",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 6169
+      "UsersEstimate": 6170
     },
     {
       "ID": "achievement_24",
@@ -4221,7 +4226,7 @@
       "Name": "New Crew",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "achievement_30",
@@ -4277,7 +4282,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "achievement_37",
@@ -4285,7 +4290,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6913
+      "UsersEstimate": 6914
     },
     {
       "ID": "achievement_38",
@@ -4293,7 +4298,7 @@
       "Name": "Fashion Killa",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 6615
+      "UsersEstimate": 6616
     },
     {
       "ID": "achievement_39",
@@ -4301,7 +4306,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "achievement_4",
@@ -4325,7 +4330,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "achievement_5",
@@ -4333,7 +4338,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "achievement_6",
@@ -4349,7 +4354,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6318
+      "UsersEstimate": 6319
     },
     {
       "ID": "achievement_8",
@@ -4372,13 +4377,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 7433,
+      "Progressed": 7434,
       "Completed": 43
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:05:34.6450397+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:05:48.1656557+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:01.0271507+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:14.1842145+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:05:34.6451013+00:00"
+  "LastUpdate_Ratings": "2023-10-23T23:59:31.9092811+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:05:48.1657405+00:00"
 }

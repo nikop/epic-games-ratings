@@ -330,17 +330,17 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 5,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -354,9 +354,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_FULL_MAP",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:05:41.7489937+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:05:54.8763155+00:00",
   "LastUpdate_AppInfo": "2023-10-17T14:57:07.2341362+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:47.0594785+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:05:41.7490304+00:00"
+  "LastUpdate_Ratings": "2023-10-24T00:00:05.8562842+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:05:54.87635+00:00"
 }

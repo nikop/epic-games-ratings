@@ -6,40 +6,40 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~24,540 |
-| The Evilest Evil | 58.00% | ~20,333 |
-| Twistram is devastated | 57.00% | ~19,982 |
-| The Gehenna Stones | 49.00% | ~17,178 |
-| No one has to die today! | 46.00% | ~16,126 |
-| Death and destruction! | 45.00% | ~15,776 |
-| The Swamplanders from the swamplands | 44.00% | ~15,425 |
-| The One-Huge-Army-Building Evil | 41.00% | ~14,373 |
-| Rusty Steel | 41.00% | ~14,373 |
-| The last burger | 37.00% | ~12,971 |
-| Braiiiiins! | 37.00% | ~12,971 |
-| Hands off the Dungeonheart! | 36.00% | ~12,621 |
-| A trip on sea, what fun it can be | 34.00% | ~11,919 |
-| Damned good | 33.00% | ~11,569 |
-| Stock Market Crash | 31.00% | ~10,868 |
-| Factory farming | 31.00% | ~10,868 |
-| Not-So-Overproud | 30.00% | ~10,517 |
+| The Shadow strikes | 70.00% | ~24,542 |
+| The Evilest Evil | 58.00% | ~20,335 |
+| Twistram is devastated | 57.00% | ~19,984 |
+| The Gehenna Stones | 49.00% | ~17,179 |
+| No one has to die today! | 46.00% | ~16,128 |
+| Death and destruction! | 45.00% | ~15,777 |
+| The Swamplanders from the swamplands | 44.00% | ~15,426 |
+| The One-Huge-Army-Building Evil | 41.00% | ~14,375 |
+| Rusty Steel | 41.00% | ~14,375 |
+| The last burger | 37.00% | ~12,972 |
+| Braiiiiins! | 37.00% | ~12,972 |
+| Hands off the Dungeonheart! | 36.00% | ~12,622 |
+| A trip on sea, what fun it can be | 34.00% | ~11,920 |
+| Damned good | 33.00% | ~11,570 |
+| Stock Market Crash | 31.00% | ~10,869 |
+| Factory farming | 31.00% | ~10,869 |
+| Not-So-Overproud | 30.00% | ~10,518 |
 | For a handfull of Catapults | 29.00% | ~10,167 |
 | Shadow hunter | 29.00% | ~10,167 |
-| Ogre Solo! | 28.00% | ~9,816 |
-| Thirst quencher | 27.00% | ~9,465 |
-| Destroy the thing | 26.00% | ~9,115 |
-| Tide Master | 26.00% | ~9,115 |
-| Difficult family relationships | 25.00% | ~8,764 |
+| Ogre Solo! | 28.00% | ~9,817 |
+| Thirst quencher | 27.00% | ~9,466 |
+| Destroy the thing | 26.00% | ~9,116 |
+| Tide Master | 26.00% | ~9,116 |
+| Difficult family relationships | 25.00% | ~8,765 |
 | MASS-O-BOT | 24.00% | ~8,414 |
 | Prepare the grave | 24.00% | ~8,414 |
 | Angel of Fire | 24.00% | ~8,414 |
-| Where there is Light, there is Shadow | 23.00% | ~8,063 |
+| Where there is Light, there is Shadow | 23.00% | ~8,064 |
 | At the foot of Mount Destiny | 22.00% | ~7,713 |
-| The Force disturbed | 21.00% | ~7,362 |
-| The Victorious Evil | 20.00% | ~7,011 |
+| The Force disturbed | 21.00% | ~7,363 |
+| The Victorious Evil | 20.00% | ~7,012 |
 | Chorus of damnation | 19.00% | ~6,661 |
 | We don’t have time! | 19.00% | ~6,661 |
-| The Stones’ Power | 18.00% | ~6,310 |
+| The Stones’ Power | 18.00% | ~6,311 |
 | Flat as a pancake | 17.00% | ~5,960 |
 | Lifeguard | 17.00% | ~5,960 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,259 |
@@ -55,9 +55,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,805 |
 | Lifesaver | 8.00% | ~2,805 |
 | Hearts are trump | 7.00% | ~2,454 |
-| Spawner Killer | 6.00% | ~2,103 |
-| A little something extra | 6.00% | ~2,103 |
-| The Benevolent Evil | 6.00% | ~2,103 |
+| Spawner Killer | 6.00% | ~2,104 |
+| A little something extra | 6.00% | ~2,104 |
+| The Benevolent Evil | 6.00% | ~2,104 |
 | Band of Brothers | 5.00% | ~1,753 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,402 |
 | I need a hero! | 4.00% | ~1,402 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~701 |
 | Sacrifices! | 2.00% | ~701 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,057 (Ranked 116)  
+Progressed: 35,060 (Ranked 116)  
 Completed: 282 (0.80%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 282 (0.80%) (Ranked 157)
 | 2023-10-21 | 34,767 | 279 |
 | 2023-10-22 | 34,947 | 281 |
 | 2023-10-23 | 35,057 | 282 |
+| 2023-10-24 | 35,060 | 282 |
 ## Awards
 Max (Great for Beginners): 362  (Ranked 230)  
 Sum: 2,699 (Ranked 178)  

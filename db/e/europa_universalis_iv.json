@@ -11115,9 +11115,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 438161,
+  "EOS_Progressed": 438180,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5393,
+  "EOS_NewPlayers": 5390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32350,6 +32350,11 @@
       "Time": "2023-10-23T23:05:30.7522774+00:00",
       "NumProgressed": 438161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T00:05:44.7362045+00:00",
+      "NumProgressed": 438180,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32521,7 +32526,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -32753,7 +32758,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -32801,7 +32806,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -32881,7 +32886,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "achievement_colonial_management",
@@ -33033,7 +33038,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -33073,7 +33078,7 @@
       "Name": "Electable!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -33193,7 +33198,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "achievement_forever_golden",
@@ -33321,7 +33326,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_golden_horn",
@@ -33361,7 +33366,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17527
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33385,7 +33390,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -33857,7 +33862,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_marshy_march",
@@ -34169,7 +34174,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_prester_john",
@@ -34361,7 +34366,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8763
+      "UsersEstimate": 8764
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -35025,7 +35030,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17527
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35057,7 +35062,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17526
+      "UsersEstimate": 17527
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35192,21 +35197,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 438161,
+      "Progressed": 438180,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 438161,
+      "Progressed": 438180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-23T18:01:16.2262497+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:05:30.7522769+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:05:44.7362036+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:00:01.1462943+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:05:30.753553+00:00"
+  "LastUpdate_Ratings": "2023-10-24T00:00:20.6298444+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:05:44.7374484+00:00"
 }

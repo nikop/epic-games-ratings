@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1036,9 +1036,9 @@
       "ID": "ACH_EVILDOCUMENTS",
       "SetID": "511e31d",
       "Name": "Horror book",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FORCE",
@@ -1076,9 +1076,9 @@
       "ID": "ACH_MATTDOCUMENTS",
       "SetID": "511e31d",
       "Name": "A dark past",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MUSICRADIO",
@@ -1092,9 +1092,9 @@
       "ID": "ACH_NOBULLETS",
       "SetID": "511e31d",
       "Name": "Sly as a fox",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_NOKNIFE",
@@ -1203,8 +1203,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-23T23:04:39.446415+00:00",
+  "LastChanged_Achievements": "2023-10-24T00:04:55.1153264+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.0821897+00:00",
-  "LastUpdate_Ratings": "2023-10-23T22:59:52.0125836+00:00",
-  "LastUpdate_Achievements": "2023-10-23T23:04:39.4464451+00:00"
+  "LastUpdate_Ratings": "2023-10-24T00:00:10.7465802+00:00",
+  "LastUpdate_Achievements": "2023-10-24T00:04:55.1153565+00:00"
 }

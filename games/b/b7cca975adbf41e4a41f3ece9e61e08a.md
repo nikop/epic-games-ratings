@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~1,717 |
-| I Challenge You To Save More Money! | 83.00% | ~1,601 |
+| Last Night...Did We... | 89.00% | ~1,718 |
+| I Challenge You To Save More Money! | 83.00% | ~1,602 |
 | I Love How Tough You Are | 65.00% | ~1,254 |
-| Wanna Come To My Place For Dinner? | 55.00% | ~1,061 |
-| What I Want Is You | 49.00% | ~945 |
-| To Be Or Not To Be | 46.00% | ~887 |
+| Wanna Come To My Place For Dinner? | 55.00% | ~1,062 |
+| What I Want Is You | 49.00% | ~946 |
+| To Be Or Not To Be | 46.00% | ~888 |
 | Are You Alright? | 41.00% | ~791 |
 | Love Actually | 37.00% | ~714 |
 | Drama King | 33.00% | ~637 |
-| You're Really Something Else | 29.00% | ~559 |
-| Happy Family | 28.00% | ~540 |
+| Happy Family | 29.00% | ~560 |
+| You're Really Something Else | 29.00% | ~560 |
 | Go Clean up In Your Own Way | 27.00% | ~521 |
 | ONE PUNCH | 26.00% | ~502 |
 | Worthless Speech | 26.00% | ~502 |
@@ -30,8 +30,8 @@
 | A Slap In The Face! | 16.00% | ~309 |
 | Let Me Be Your Toy Boy | 16.00% | ~309 |
 | That's So You | 16.00% | ~309 |
-| Lover In Dark Alley | 15.00% | ~289 |
-| Off We Sail Tonight | 12.00% | ~231 |
+| Lover In Dark Alley | 15.00% | ~290 |
+| Off We Sail Tonight | 12.00% | ~232 |
 | Love You Three Thousand | 9.00% | ~174 |
 | Can You Do This Or Not? | 9.00% | ~174 |
 | Doesn't Matter I'll Handle It | 7.00% | ~135 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.70% | ~14 |
 | Hurrah! | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,929 (Ranked 210)  
+Progressed: 1,930 (Ranked 210)  
 Completed: 10 (0.52%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,3 +64,4 @@ Completed: 10 (0.52%) (Ranked 181)
 | 2023-10-21 | 1,253 | 7 |
 | 2023-10-22 | 1,613 | 9 |
 | 2023-10-23 | 1,929 | 10 |
+| 2023-10-24 | 1,930 | 10 |

@@ -20,9 +20,9 @@
 | The Walking Robot Among Us | 20.00% | ~112 |
 | Hacker | 19.00% | ~106 |
 | He is just a child | 19.00% | ~106 |
+| Uncertain | 18.00% | ~100 |
 | Goody | 17.00% | ~95 |
 | Please oh pleeease! | 17.00% | ~95 |
-| Uncertain | 17.00% | ~95 |
 | Ace | 16.00% | ~89 |
 | Concrete painting | 16.00% | ~89 |
 | Found it! | 16.00% | ~89 |
