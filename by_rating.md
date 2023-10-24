@@ -159,7 +159,7 @@
 | 151 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,270 | 52 |
 | 151 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 539 |
 | 151 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.74 | 0 | 539 |
-| 151 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 40,280 | 13 |
+| 151 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 40,346 | 13 |
 | 151 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 539 |
 | 151 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 539 |
 | 151 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 823 | 164 |
@@ -234,7 +234,7 @@
 | 224 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 539 |
 | 224 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 539 |
 | 224 | [Revita](games/r/revita.md) | 4.69 | 0 | 539 |
-| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,539 | 37 |
+| 224 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,542 | 37 |
 | 224 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 359 | 233 |
 | 224 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 498 |
 | 224 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 539 |
@@ -408,7 +408,7 @@
 | 403 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 539 |
 | 403 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,786 | 74 |
 | 403 | [Control](games/c/control.md) | 4.60 | 8,614 | 42 |
-| 403 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 270 |
+| 403 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 271 |
 | 403 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 76 | 384 |
 | 403 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,879 | 28 |
 | 403 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 123 | 326 |
@@ -452,11 +452,11 @@
 | 439 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 539 |
 | 439 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 215 | 275 |
 | 439 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 539 |
-| 439 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 219 | 272 |
+| 439 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 221 | 269 |
 | 439 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 54 | 411 |
 | 439 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,472 | 58 |
 | 439 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 539 |
-| 439 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 270 |
+| 439 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 271 |
 | 439 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,554 | 26 |
 | 459 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 539 |
 | 459 | [Among Us](games/a/among_us.md) | 4.57 | 2,756 | 99 |
@@ -766,7 +766,7 @@
 | 757 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 476 |
 | 765 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 539 |
 | 765 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 539 |
-| 765 | [Core](games/c/core.md) | 4.36 | 759 | 171 |
+| 765 | [Core](games/c/core.md) | 4.36 | 760 | 171 |
 | 765 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 295 |
 | 765 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,725 | 32 |
 | 765 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 539 |

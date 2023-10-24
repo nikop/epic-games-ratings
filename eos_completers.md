@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.18% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.17% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.16% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -40,7 +40,7 @@
 | 38 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 38 | [Smelter](games/s/smelter.md) | 10.00% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
+| 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.90% |
 | 42 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
 | 43 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 43 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
@@ -111,7 +111,7 @@
 | 109 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 109 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.41% |
 | 111 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 111 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.38% |
+| 112 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 113 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.24% |
 | 114 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 115 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
@@ -157,9 +157,9 @@
 | 155 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 156 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 157 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
-| 158 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
 | 158 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.75% |
-| 160 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
+| 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
+| 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 161 | [Eternights](games/e/eternights.md) | 0.73% |
 | 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 163 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
@@ -178,8 +178,8 @@
 | 174 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 177 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.54% |
-| 180 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 179 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 179 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.53% |
 | 181 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 182 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 182 | [Dead Space](games/d/dead_space.md) | 0.51% |
