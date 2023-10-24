@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6231,9 +6231,9 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 186781,
+  "EOS_Progressed": 186796,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2447,
+  "EOS_NewPlayers": 2455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27386,6 +27386,11 @@
       "Time": "2023-10-24T11:08:16.6096705+00:00",
       "NumProgressed": 186781,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-24T12:08:34.1585052+00:00",
+      "NumProgressed": 186796,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27413,7 +27418,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "Achievement_11",
@@ -27421,7 +27426,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "Achievement_12",
@@ -27429,7 +27434,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29885
+      "UsersEstimate": 29887
     },
     {
       "ID": "Achievement_13",
@@ -27453,7 +27458,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5604
     },
     {
       "ID": "Achievement_2",
@@ -27477,7 +27482,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46695
+      "UsersEstimate": 46699
     },
     {
       "ID": "Achievement_5",
@@ -27509,7 +27514,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16810
+      "UsersEstimate": 16812
     },
     {
       "ID": "Achievement_9",
@@ -27517,22 +27522,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9339
+      "UsersEstimate": 9340
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 186781,
+      "Progressed": 186796,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-24T01:42:17.2383451+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:08:16.6096701+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:08:34.1585048+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:00:09.5526705+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:08:16.6097813+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:01:08.297376+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:08:34.158609+00:00"
 }

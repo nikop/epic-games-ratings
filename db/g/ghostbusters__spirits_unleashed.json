@@ -2599,10 +2599,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2513,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-10-24T11:58:29.5002209+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2516,
+      "NumberOfAwardsMax": 281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2513,
+  "NumberOfAwards": 2516,
   "NumberOfAwardsMax": 281,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2640,7 +2646,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 236
+      "Count": 239
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2679,9 +2685,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27432,
+  "EOS_Progressed": 27436,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16169,6 +16175,11 @@
       "Time": "2023-10-24T11:06:10.841663+00:00",
       "NumProgressed": 27432,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-24T12:07:07.3665904+00:00",
+      "NumProgressed": 27436,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16587,16 +16598,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27432,
+      "Progressed": 27436,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-24T01:40:29.1719878+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:06:10.8416626+00:00",
+  "LastChanged": "2023-10-24T11:58:29.5002207+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:07:07.3665899+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:58:09.6106372+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:06:10.8417625+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:58:29.5002213+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:07:07.3666883+00:00"
 }

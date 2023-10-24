@@ -16,7 +16,7 @@
 | Mr. Want It All | 18.00% | ~18 |
 | Toe to Toe | 17.00% | ~17 |
 | The Hidden Secret | 16.00% | ~16 |
-| Phew! | 15.00% | ~15 |
+| Phew! | 16.00% | ~16 |
 | The Abyss Conqueror | 12.00% | ~12 |
 | Space Warrior: Prologue | 12.00% | ~12 |
 | The Fortress Conqueror | 11.00% | ~11 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 1.00% | ~1 |
 | Super Alloy Ranger! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 398)  
+Progressed: 101 (Ranked 399)  
 Completed: 1 (0.99%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

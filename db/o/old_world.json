@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14916,
+  "EOS_Progressed": 14917,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14613,6 +14613,11 @@
       "Time": "2023-10-24T10:04:58.8356153+00:00",
       "NumProgressed": 14916,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-24T12:04:42.2593699+00:00",
+      "NumProgressed": 14917,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15016,7 +15021,7 @@
       "Name": "Capable",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -15056,7 +15061,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -15112,7 +15117,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -15158,9 +15163,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -15248,7 +15253,7 @@
       "Name": "Settler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -15416,7 +15421,7 @@
       "Name": "Strong Difficulty",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -15480,7 +15485,7 @@
       "Name": "Hunters",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -15536,7 +15541,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -16000,7 +16005,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -16240,7 +16245,7 @@
       "Name": "Carthage",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -16254,9 +16259,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -16576,7 +16581,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -16584,7 +16589,7 @@
       "Name": "Dualism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -16600,7 +16605,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -16672,7 +16677,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -16688,7 +16693,7 @@
       "Name": "Mounted Lancer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -16744,7 +16749,7 @@
       "Name": "Ambition Victory",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -17359,21 +17364,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14916,
+      "Progressed": 14917,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14916,
+      "Progressed": 14917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:04:21.4911605+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:04:42.2593694+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:00:46.6084378+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:04:21.4921826+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:02:00.4986558+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:04:42.2603468+00:00"
 }

@@ -7,6 +7,7 @@ Rating: 4.65 (Ranked 304)
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 2.00% | ~487 |
 | Sweezy Like Sunday Morning | 2.00% | ~487 |
+| First Bounty Down | 2.00% | ~487 |
 | G3 Graduation | 2.00% | ~487 |
 | Cold-Blooded Driller | 2.00% | ~487 |
 | Creature Feature | 1.00% | ~243 |
@@ -14,7 +15,6 @@ Rating: 4.65 (Ranked 304)
 | Bring A Knife to a Gun Fight | 1.00% | ~243 |
 | RIP Davey Glutes | 1.00% | ~243 |
 | We're All Very Impressed, Trust Me | 1.00% | ~243 |
-| First Bounty Down | 1.00% | ~243 |
 | Hardest Battle In The Game | 1.00% | ~243 |
 | Self-Actualization | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |

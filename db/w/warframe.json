@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -11228,10 +11228,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 48930,
       "NumberOfAwardsMax": 17891
+    },
+    {
+      "Time": "2023-10-24T12:01:55.9533077+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 48937,
+      "NumberOfAwardsMax": 17891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48930,
+  "NumberOfAwards": 48937,
   "NumberOfAwardsMax": 17891,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -11275,7 +11281,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3818
+      "Count": 3825
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11313,8 +11319,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-10-24T11:00:42.7646941+00:00",
+  "LastChanged": "2023-10-24T12:01:55.9533075+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:16.6704451+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:00:42.764695+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:05:27.6122032+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:01:55.9533082+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:06:09.9684857+00:00"
 }

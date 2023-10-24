@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1146,8 +1146,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:09:07.4602658+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:09:25.2073585+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:57:44.9437366+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:09:07.4602849+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:57:54.5199695+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:09:25.2073768+00:00"
 }

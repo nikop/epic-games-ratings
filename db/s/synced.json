@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -801,9 +801,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64478,
+  "EOS_Progressed": 64484,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6446,6 +6446,11 @@
       "Time": "2023-10-24T11:09:24.7264023+00:00",
       "NumProgressed": 64478,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-24T12:09:47.8357864+00:00",
+      "NumProgressed": 64484,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6458,7 +6463,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20635
     },
     {
       "ID": "10",
@@ -6474,7 +6479,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "12",
@@ -6482,7 +6487,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "13",
@@ -6522,7 +6527,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10961
+      "UsersEstimate": 10962
     },
     {
       "ID": "3",
@@ -6530,7 +6535,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "4",
@@ -6546,7 +6551,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5158
+      "UsersEstimate": 5159
     },
     {
       "ID": "6",
@@ -6585,7 +6590,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64478,
+      "Progressed": 64484,
       "Completed": 23
     }
   ],
@@ -6593,8 +6598,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-24T07:00:17.2132118+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:09:24.726402+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:09:47.8357859+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:00:28.6895944+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:09:24.7264393+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:01:34.8175953+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:09:47.8358222+00:00"
 }

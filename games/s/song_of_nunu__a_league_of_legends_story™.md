@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 170.00% | ~17 |
+| Feels Familiar | 180.00% | ~18 |
 | Blue Dreams | 160.00% | ~16 |
 | He's Famous! | 160.00% | ~16 |
 | Better On Ice | 160.00% | ~16 |
@@ -19,11 +19,11 @@
 | No Bites | 120.00% | ~12 |
 | Iceborn | 120.00% | ~12 |
 | Boom Things | 110.00% | ~11 |
+| Vertical Power | 110.00% | ~11 |
 | Snowball Fightn't | 110.00% | ~11 |
 | My Darkest Day | 100.00% | ~10 |
 | Tear of Freedom | 100.00% | ~10 |
 | 3000 Year Blackout | 100.00% | ~10 |
-| Vertical Power | 100.00% | ~10 |
 | A Tragic Reminder | 90.00% | ~9 |
 | Family | 90.00% | ~9 |
 | Biggest Snowball Ever | 90.00% | ~9 |
@@ -39,9 +39,9 @@
 | You Get Used To It | 80.00% | ~8 |
 | Freeze The Ice Witch | 80.00% | ~8 |
 | It Is Not Over | 80.00% | ~8 |
+| Yummy | 80.00% | ~8 |
 | The Pied Piper Of Freljord | 80.00% | ~8 |
 | We Are Speed | 80.00% | ~8 |
-| Yummy | 70.00% | ~7 |
 | Braum's Poro Ranch | 60.00% | ~6 |
 | Handy Yeti | 60.00% | ~6 |
 | Sneaky Notai | 50.00% | ~5 |

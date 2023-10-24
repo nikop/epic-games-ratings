@@ -7,10 +7,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 4.00% | ~597 |
-| Explorer | 3.00% | ~447 |
-| Intrepid | 3.00% | ~447 |
-| Settler | 3.00% | ~447 |
-| Friendly Family | 3.00% | ~447 |
+| Explorer | 3.00% | ~448 |
+| Intrepid | 3.00% | ~448 |
+| Settler | 3.00% | ~448 |
+| Friendly Family | 3.00% | ~448 |
 | Able | 2.00% | ~298 |
 | Ambitious | 2.00% | ~298 |
 | Architect | 2.00% | ~298 |
@@ -75,15 +75,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~134 |
 | Conqueror | 0.90% | ~134 |
 | Intercessor | 0.90% | ~134 |
+| Lion | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
 | Good Difficulty | 0.90% | ~134 |
 | Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
+| Greece | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
-| Lion | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
-| Greece | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
@@ -107,17 +107,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
 | The Clergy | 0.70% | ~104 |
-| Capable | 0.60% | ~89 |
-| Strong Difficulty | 0.60% | ~89 |
-| Hunters | 0.60% | ~89 |
-| Church of the Holy Sepulchre | 0.60% | ~89 |
-| Carthage | 0.60% | ~89 |
-| Military Prestige | 0.60% | ~89 |
-| Dualism | 0.60% | ~89 |
-| Gnosticism | 0.60% | ~89 |
-| Cimmerian Archer | 0.60% | ~89 |
-| Mounted Lancer | 0.60% | ~89 |
-| Ambition Victory | 0.60% | ~89 |
+| Capable | 0.60% | ~90 |
+| Strong Difficulty | 0.60% | ~90 |
+| Hunters | 0.60% | ~90 |
+| Church of the Holy Sepulchre | 0.60% | ~90 |
+| Carthage | 0.60% | ~90 |
+| Military Prestige | 0.60% | ~90 |
+| Dualism | 0.60% | ~90 |
+| Gnosticism | 0.60% | ~90 |
+| Cimmerian Archer | 0.60% | ~90 |
+| Mounted Lancer | 0.60% | ~90 |
+| Ambition Victory | 0.60% | ~90 |
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,916 (Ranked 139)  
+Progressed: 14,917 (Ranked 139)  
 Completed: 5 (0.03%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 292)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,916 | 5 |
+| 2023-10-24 | 14,917 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

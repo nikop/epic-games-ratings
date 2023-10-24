@@ -6,8 +6,8 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,523 |
-| Just The Two of Us | 32.00% | ~30,610 |
+| Simoon | 34.00% | ~32,524 |
+| Just The Two of Us | 32.00% | ~30,611 |
 | Up On High | 25.00% | ~23,914 |
 | Under The Hood | 25.00% | ~23,914 |
 | Got Your Nose | 24.00% | ~22,958 |
@@ -22,10 +22,10 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~15,305 |
 | Thread The Needle | 15.00% | ~14,349 |
 | Power to the People | 14.00% | ~13,392 |
-| Take That! | 13.00% | ~12,435 |
-| Nesting Giant | 13.00% | ~12,435 |
-| Treasure Tracker | 13.00% | ~12,435 |
-| Big Spender | 13.00% | ~12,435 |
+| Take That! | 13.00% | ~12,436 |
+| Nesting Giant | 13.00% | ~12,436 |
+| Treasure Tracker | 13.00% | ~12,436 |
+| Big Spender | 13.00% | ~12,436 |
 | Badge Collector | 12.00% | ~11,479 |
 | Quite The Catch | 12.00% | ~11,479 |
 | Rowleys Way | 11.00% | ~10,522 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,870 |
 | Vivacious Vivarium | 2.00% | ~1,913 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,657 (Ranked 84)  
+Progressed: 95,658 (Ranked 84)  
 Completed: 966 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 966 (1.01%) (Ranked 147)
 | 2023-10-21 | 95,227 | 959 |
 | 2023-10-22 | 95,449 | 963 |
 | 2023-10-23 | 95,594 | 965 |
-| 2023-10-24 | 95,657 | 966 |
+| 2023-10-24 | 95,658 | 966 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 508)  
 Sum: 91 (Ranked 441)  

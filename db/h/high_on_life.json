@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -6137,9 +6137,9 @@
       "ID": "ACH_KILL_9TORG",
       "SetID": "cdkbb11",
       "Name": "First Bounty Down",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -6376,8 +6376,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:04:57.6925514+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:05:29.6372646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:59:59.5748076+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:04:57.69261+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:00:54.2552379+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:05:29.6373221+00:00"
 }

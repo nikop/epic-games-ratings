@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.62,
+  "EOS_Completed_Percentage": 6.6,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1495,6 +1495,11 @@
       "Time": "2023-10-23T17:03:30.0995079+00:00",
       "NumProgressed": 317,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-24T12:04:13.3992205+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 25,
@@ -1648,9 +1653,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1674,7 +1679,7 @@
       "Name": "The great escape",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "PROGRESS_N3",
@@ -1705,14 +1710,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:03:49.9280673+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:04:13.39922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:02:15.4081954+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:03:49.9280896+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:02:38.2747472+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:04:13.3992485+00:00"
 }

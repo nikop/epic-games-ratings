@@ -14072,9 +14072,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893604,
+  "EOS_Progressed": 893611,
   "EOS_Completed": 2712,
-  "EOS_NewPlayers": 1258,
+  "EOS_NewPlayers": 1261,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35252,6 +35252,11 @@
       "Time": "2023-10-24T11:06:17.4252683+00:00",
       "NumProgressed": 893604,
       "NumCompleted": 2712
+    },
+    {
+      "Time": "2023-10-24T12:07:16.0102642+00:00",
+      "NumProgressed": 893611,
+      "NumCompleted": 2712
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35462,9 +35467,9 @@
       "ID": "ThatIsSoHardForTheKnees",
       "SetID": "47clieb",
       "Name": "Rough Landing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3574
+      "UsersEstimate": 4468
     },
     {
       "ID": "TheDevil",
@@ -35783,21 +35788,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893604,
+      "Progressed": 893611,
       "Completed": 2712
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22227,
+      "Progressed": 22234,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-24T11:00:03.3682475+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:06:17.425268+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:07:16.0102634+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:00:03.368248+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:06:17.4254169+00:00"
+  "LastUpdate_Ratings": "2023-10-24T12:01:00.6676162+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:07:16.0104015+00:00"
 }

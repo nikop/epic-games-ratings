@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T06:00:00+00:00",
@@ -57,9 +57,9 @@
       "ID": "Achievement_1",
       "SetID": "8556mdl",
       "Name": "Party Craze",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_2",
@@ -81,9 +81,9 @@
       "ID": "Achievement_4",
       "SetID": "8556mdl",
       "Name": "Social Monster",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -96,8 +96,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:03:45.4170106+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:04:07.4996225+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:57:20.6863257+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:57:53.7587315+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:03:45.4170242+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:58:08.0501968+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:04:07.4996305+00:00"
 }

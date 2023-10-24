@@ -43,11 +43,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.90% | ~1,243 |
 | Flawless Fusion | 0.90% | ~1,243 |
 | Natural 20 | 0.90% | ~1,243 |
-| Tax not Included | 0.80% | ~1,104 |
-| For the Hoard! | 0.80% | ~1,104 |
-| Trash to Treasure | 0.80% | ~1,104 |
-| Royal Ransom | 0.80% | ~1,104 |
-| Magical Harmony | 0.80% | ~1,104 |
+| Tax not Included | 0.80% | ~1,105 |
+| For the Hoard! | 0.80% | ~1,105 |
+| Trash to Treasure | 0.80% | ~1,105 |
+| Royal Ransom | 0.80% | ~1,105 |
+| Magical Harmony | 0.80% | ~1,105 |
 | A Notch Above the Rest | 0.70% | ~966 |
 | A Ronin Reborn | 0.70% | ~966 |
 | The King's Caprice | 0.70% | ~966 |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.70% | ~966 |
 | Expansion in Session | 0.70% | ~966 |
 | Cranked up to 11 | 0.70% | ~966 |
+| Fit for a King | 0.70% | ~966 |
 | Mammonite | 0.70% | ~966 |
 | Wealth Beyond Measure | 0.70% | ~966 |
 | Necromancer Queen | 0.70% | ~966 |
@@ -83,7 +84,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.60% | ~828 |
 | Supercharged | 0.60% | ~828 |
 | Ritualist | 0.60% | ~828 |
-| Fit for a King | 0.60% | ~828 |
 | By Your Powers Combined... | 0.60% | ~828 |
 | Fat Cat Tag Team | 0.60% | ~828 |
 | Item of Renown | 0.60% | ~828 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,061 (Ranked 75)  
+Progressed: 138,063 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 172 (0.12%) (Ranked 248)
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
-| 2023-10-24 | 138,061 | 172 |
+| 2023-10-24 | 138,063 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  

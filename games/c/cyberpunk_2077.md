@@ -7,8 +7,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.60% | ~5,362 |
+| Rough Landing | 0.50% | ~4,468 |
 | Full Body Conversion | 0.40% | ~3,574 |
-| Rough Landing | 0.40% | ~3,574 |
 | The High Priestess | 0.40% | ~3,574 |
 | True Soldier | 0.40% | ~3,574 |
 | All the President's Men | 0.40% | ~89 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,604 (Ranked 15)  
+Progressed: 893,611 (Ranked 15)  
 Completed: 2,712 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,712 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,604 | 2,712 |
+| 2023-10-24 | 893,611 | 2,712 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 323,462 (Ranked 11)  

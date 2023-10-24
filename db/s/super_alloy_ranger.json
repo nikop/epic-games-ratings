@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -883,9 +883,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_48",
@@ -924,8 +924,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:09:25.4903683+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:09:48.8343355+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:58:44.0724272+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:09:25.4904063+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:59:09.2340904+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:09:48.8343718+00:00"
 }

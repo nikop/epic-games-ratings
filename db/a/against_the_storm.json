@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17042,
+  "EOS_Progressed": 17043,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12471,6 +12471,11 @@
       "Time": "2023-10-24T10:07:00.3337511+00:00",
       "NumProgressed": 17042,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-24T12:06:42.8221617+00:00",
+      "NumProgressed": 17043,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12744,9 +12749,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 852
+      "UsersEstimate": 1023
     },
     {
       "ID": "WinOnCursed",
@@ -12881,15 +12886,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17042,
+      "Progressed": 17043,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:05:52.4523972+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:06:42.8221613+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:58:15.5994571+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:05:52.4524762+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:58:38.6599976+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:06:42.8222372+00:00"
 }

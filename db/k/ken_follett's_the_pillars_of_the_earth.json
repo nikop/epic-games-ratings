@@ -3,12 +3,12 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 554,
-  "Ranking_Popularity": 306,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -540,7 +540,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15933,
+  "EOS_Progressed": 15934,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -12620,6 +12620,11 @@
       "Time": "2023-10-24T10:03:39.2286017+00:00",
       "NumProgressed": 15933,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-24T12:03:32.3499881+00:00",
+      "NumProgressed": 15934,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12895,7 +12900,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "tpote_achievement_40",
@@ -12949,24 +12954,24 @@
       "ID": "tpote_achievement_9",
       "SetID": "3jcf6c3",
       "Name": "Man of politics",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5577
+      "UsersEstimate": 5418
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15933,
+      "Progressed": 15934,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-20T17:57:24.1431013+00:00",
-  "LastChanged_Achievements": "2023-10-24T11:03:19.0128448+00:00",
+  "LastChanged_Achievements": "2023-10-24T12:03:32.3499877+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:58:48.259245+00:00",
-  "LastUpdate_Achievements": "2023-10-24T11:03:19.0134433+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:59:14.8524888+00:00",
+  "LastUpdate_Achievements": "2023-10-24T12:03:32.3500745+00:00"
 }

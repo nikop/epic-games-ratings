@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meissa's Savior | 35.00% | ~22 |
 | Noctuan Champion | 35.00% | ~22 |
-| Meissa's Savior | 34.00% | ~21 |
 | Endless Tricks | 32.00% | ~20 |
 | Purification Pioneer | 32.00% | ~20 |
-| Dicesmithing Time! | 31.00% | ~19 |
-| Apian Champion | 31.00% | ~19 |
-| Eridanian Champion | 31.00% | ~19 |
-| Lacertian Champion | 31.00% | ~19 |
+| Dicesmithing Time! | 30.00% | ~19 |
+| Apian Champion | 30.00% | ~19 |
+| Eridanian Champion | 30.00% | ~19 |
+| Lacertian Champion | 30.00% | ~19 |
 | Mechanical Buddy | 29.00% | ~18 |
 | Sanctuary Guardian | 29.00% | ~18 |
 | Wild's Keeper | 29.00% | ~18 |
 | Mind Illuminator | 27.00% | ~17 |
-| Behenian Champion | 26.00% | ~16 |
+| Behenian Champion | 25.00% | ~16 |
 | Anomaly Destroyer | 24.00% | ~15 |
 | Stellar Dismantler | 24.00% | ~15 |
-| Loyal Partner | 23.00% | ~14 |
-| Aquarian Champion | 23.00% | ~14 |
+| Loyal Partner | 22.00% | ~14 |
+| Aquarian Champion | 22.00% | ~14 |
 | Heart Gate | 19.00% | ~12 |
 | Shard Spender | 19.00% | ~12 |
 | Star Killer | 19.00% | ~12 |
-| Astral Adventurer | 18.00% | ~11 |
-| Astral Seeker | 18.00% | ~11 |
-| The Corruption Goddess | 18.00% | ~11 |
-| The Goddes Avatar | 18.00% | ~11 |
-| Favored by the Cosmos | 15.00% | ~9 |
-| Unbeatable | 15.00% | ~9 |
+| Astral Adventurer | 17.00% | ~11 |
+| Astral Seeker | 17.00% | ~11 |
+| The Corruption Goddess | 17.00% | ~11 |
+| The Goddes Avatar | 17.00% | ~11 |
+| Favored by the Cosmos | 14.00% | ~9 |
+| Unbeatable | 14.00% | ~9 |
 | Heavy Purger | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
 | Anomaly Control | 10.00% | ~6 |
@@ -103,7 +103,7 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 431)  
+Progressed: 63 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,3 +130,4 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-16 | 58 | 0 |
 | 2023-10-19 | 61 | 0 |
 | 2023-10-20 | 62 | 0 |
+| 2023-10-24 | 63 | 0 |
