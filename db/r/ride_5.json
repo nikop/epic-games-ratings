@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1657,
+  "EOS_Progressed": 1659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3447,6 +3447,11 @@
       "Time": "2023-10-24T16:10:16.944451+00:00",
       "NumProgressed": 1657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T17:09:13.7135313+00:00",
+      "NumProgressed": 1659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3563,7 +3568,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3659,7 +3664,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3667,7 +3672,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3755,7 +3760,7 @@
       "Name": "Eat My Dust",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3850,14 +3855,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1657,
+      "Progressed": 1659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:10:16.9444506+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:09:13.7135309+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:03:12.4776515+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:10:16.9445214+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:02:10.9025404+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:09:13.7136054+00:00"
 }

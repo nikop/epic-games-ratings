@@ -13,12 +13,12 @@
 | Scholar | 12.00% | ~38 |
 | One last step | 12.00% | ~38 |
 | I did it | 11.00% | ~35 |
+| In this together | 11.00% | ~35 |
 | Peace walker | 11.00% | ~35 |
 | Cable guy | 11.00% | ~35 |
 | A good beginning | 11.00% | ~35 |
 | Half the way | 11.00% | ~35 |
 | The darkness | 11.00% | ~35 |
-| In this together | 10.00% | ~32 |
 | Champollion | 10.00% | ~32 |
 | Feels like springtime | 9.00% | ~29 |
 | Alchemists Express | 9.00% | ~29 |

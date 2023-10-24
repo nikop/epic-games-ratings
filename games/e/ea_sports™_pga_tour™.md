@@ -10,7 +10,7 @@
 | Clean Sheet | 65.00% | ~281 |
 | Winner's Circle | 61.00% | ~264 |
 | Holey Moley | 57.00% | ~247 |
-| Bomb's Away | 53.00% | ~229 |
+| Bomb's Away | 54.00% | ~234 |
 | Perfect Round | 50.00% | ~216 |
 | Competitor's Spirit | 42.00% | ~182 |
 | The Strongest Field in Golf | 35.00% | ~152 |

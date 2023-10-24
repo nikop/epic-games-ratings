@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Talk to all the spirit animals | 6.00% | ~1,362 |
 | Hide and Seek | 5.00% | ~1,135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,704 (Ranked 124)  
+Progressed: 22,704 (Ranked 125)  
 Completed: 442 (1.95%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |

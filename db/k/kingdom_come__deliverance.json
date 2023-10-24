@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -7993,10 +7993,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28058,
       "NumberOfAwardsMax": 7538
+    },
+    {
+      "Time": "2023-10-24T17:01:58.2037208+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28061,
+      "NumberOfAwardsMax": 7538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28058,
+  "NumberOfAwards": 28061,
   "NumberOfAwardsMax": 7538,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8016,7 +8022,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1683
+      "Count": 1684
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8028,7 +8034,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1710
+      "Count": 1712
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8079,9 +8085,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805879,
+  "EOS_Progressed": 805882,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 772,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29024,6 +29030,11 @@
       "Time": "2023-10-24T16:08:45.3833228+00:00",
       "NumProgressed": 805879,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T17:07:35.5145013+00:00",
+      "NumProgressed": 805882,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29115,7 +29126,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257881
+      "UsersEstimate": 257882
     },
     {
       "ID": "Bookworm",
@@ -29131,7 +29142,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96705
+      "UsersEstimate": 96706
     },
     {
       "ID": "Casanova",
@@ -29235,7 +29246,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185352
+      "UsersEstimate": 185353
     },
     {
       "ID": "Fighter",
@@ -29355,7 +29366,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104764
+      "UsersEstimate": 104765
     },
     {
       "ID": "Judas",
@@ -29611,7 +29622,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96705
+      "UsersEstimate": 96706
     },
     {
       "ID": "TisButAScratch",
@@ -29690,15 +29701,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805879,
+      "Progressed": 805882,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-24T16:03:00.7544441+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:08:45.3833223+00:00",
+  "LastChanged": "2023-10-24T17:01:58.2037205+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:07:35.5145005+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:03:00.7544455+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:08:45.3835634+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:01:58.2037219+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:07:35.5147492+00:00"
 }

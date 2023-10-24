@@ -16,7 +16,7 @@
 | Alone In The Dark | 13.00% | ~34 |
 | The Cultists | 13.00% | ~34 |
 | Parasite Exterminated | 12.00% | ~32 |
-| The Forgotten Tower | 11.00% | ~29 |
+| The Forgotten Tower | 12.00% | ~32 |
 | Lover of classics | 10.00% | ~26 |
 | Trapped | 10.00% | ~26 |
 | Modern Player | 9.00% | ~24 |
@@ -45,7 +45,7 @@
 | No Time To Relax | 0.40% | ~1 |
 | Survival Horror | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 334)  
+Progressed: 263 (Ranked 335)  
 Completed: 1 (0.38%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

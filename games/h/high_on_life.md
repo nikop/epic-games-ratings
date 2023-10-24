@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 303)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,333 (Ranked 122)  
+Progressed: 24,333 (Ranked 123)  
 Completed: 13 (0.05%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |

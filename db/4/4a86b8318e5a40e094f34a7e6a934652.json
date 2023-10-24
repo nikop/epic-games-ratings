@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.1,
+  "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -819,6 +819,11 @@
       "Time": "2023-10-22T19:05:52.848911+00:00",
       "NumProgressed": 182,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T17:07:07.235725+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -831,15 +836,15 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "BRING_MARY",
@@ -847,7 +852,7 @@
       "Name": "Retro Diva",
       "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BRING_PROSPERO",
@@ -855,7 +860,7 @@
       "Name": "Amusement Park",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -871,7 +876,7 @@
       "Name": "Fisherman",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -887,7 +892,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -943,7 +948,7 @@
       "Name": "Weed Warrior",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -951,7 +956,7 @@
       "Name": "Bridge Builder",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -965,9 +970,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "TAKE_LEECH",
@@ -975,7 +980,7 @@
       "Name": "Uppies!",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -990,14 +995,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:08:10.1475531+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:07:07.2357241+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:58:56.3282827+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:08:10.1475761+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:58:25.2002814+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:07:07.2357648+00:00"
 }

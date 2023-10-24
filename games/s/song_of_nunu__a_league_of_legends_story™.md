@@ -42,9 +42,9 @@
 | It Is Not Over | 80.00% | ~8 |
 | Yummy | 80.00% | ~8 |
 | We Are Speed | 80.00% | ~8 |
+| Handy Yeti | 70.00% | ~7 |
 | Braum's Poro Ranch | 60.00% | ~6 |
 | One From The Heart | 60.00% | ~6 |
-| Handy Yeti | 60.00% | ~6 |
 | Sneaky Notai | 50.00% | ~5 |
 | It Was Him | 50.00% | ~5 |
 | Rock Star | 50.00% | ~5 |

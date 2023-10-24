@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~12,606 |
-| Safety in the Storm | 25.00% | ~3,318 |
-| A Better Idea | 25.00% | ~3,318 |
-| Begin the Ceremony | 21.00% | ~2,787 |
-| Mission Accomplished | 20.00% | ~2,654 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,990 |
-| A Starfighter of Your Own | 14.00% | ~1,858 |
-| Asset Secured | 13.00% | ~1,725 |
+| Fracture at Fostar Haven | 95.00% | ~12,611 |
+| Safety in the Storm | 25.00% | ~3,319 |
+| A Better Idea | 25.00% | ~3,319 |
+| Begin the Ceremony | 21.00% | ~2,788 |
+| Mission Accomplished | 20.00% | ~2,655 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,991 |
+| A Starfighter of Your Own | 14.00% | ~1,859 |
+| Asset Secured | 13.00% | ~1,726 |
 | Unkillable | 8.00% | ~1,062 |
 | Sound Strategy | 7.00% | ~929 |
 | Together, Vanguard | 7.00% | ~929 |
@@ -28,15 +28,15 @@
 | Squadron Hunter | 3.00% | ~398 |
 | Punch It | 3.00% | ~398 |
 | Combat Pilot | 3.00% | ~398 |
-| Stun 'Em | 2.00% | ~265 |
-| Dressed for the Job You Want | 2.00% | ~265 |
+| Stun 'Em | 2.00% | ~266 |
+| Dressed for the Job You Want | 2.00% | ~266 |
 | I Have You Now | 1.00% | ~133 |
 | Against the Current | 0.90% | ~119 |
 | Found Your Place | 0.80% | ~106 |
 | Denied | 0.80% | ~106 |
 | Unstoppable Ace | 0.60% | ~80 |
-| Special Modifications | 0.60% | ~80 |
 | Seasoned Star Pilot | 0.50% | ~66 |
+| Special Modifications | 0.50% | ~66 |
 | Heavy Hitter | 0.40% | ~53 |
 | The Trap is Set | 0.40% | ~53 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~53 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~13 |
 | The Galaxy's Finest (Ace) | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,270 (Ranked 144)  
+Progressed: 13,275 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.01%) (Ranked 305)
 | 2023-10-21 | 12,629 | 1 |
 | 2023-10-22 | 12,968 | 1 |
 | 2023-10-23 | 13,152 | 1 |
-| 2023-10-24 | 13,270 | 1 |
+| 2023-10-24 | 13,275 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

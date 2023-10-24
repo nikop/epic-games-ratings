@@ -5,39 +5,39 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,156 |
-| Break A Leg | 4.00% | ~28,125 |
-| Coup de Grâce | 4.00% | ~28,125 |
-| Hazardous Materials | 4.00% | ~28,125 |
-| Hotel California | 4.00% | ~28,125 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,125 |
-| Dr. Reed, I Presume? | 3.00% | ~21,093 |
-| Git Gutte! | 3.00% | ~21,093 |
-| Bookworm | 3.00% | ~21,093 |
-| But Doctor, I am Butcho | 3.00% | ~21,093 |
-| Slayer Squad | 3.00% | ~21,093 |
-| Can't Handle the Truth | 3.00% | ~21,093 |
-| Like Riding a Bike | 3.00% | ~21,093 |
-| Friends Like These | 3.00% | ~21,093 |
-| Apex Predator | 3.00% | ~21,093 |
-| Zombologist | 3.00% | ~21,093 |
-| A Patton Emerges | 3.00% | ~21,093 |
-| Stacking the Deck | 3.00% | ~21,093 |
-| This is My Weapon | 3.00% | ~21,093 |
-| Making Your Mark | 2.00% | ~14,062 |
-| Anger Management | 2.00% | ~14,062 |
-| Perks of the Job | 2.00% | ~14,062 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,062 |
-| Ooh, Shiny! | 2.00% | ~14,062 |
-| Humanity Distilled | 2.00% | ~14,062 |
-| I Am the Resurrection | 2.00% | ~14,062 |
-| Down with the Sickness | 2.00% | ~14,062 |
-| Our True Nature | 2.00% | ~14,062 |
-| Smorgasbord | 1.00% | ~7,031 |
-| Jumbo Keyring | 1.00% | ~7,031 |
-| Max Headroom | 1.00% | ~7,031 |
-| Go, Bobcats! | 1.00% | ~7,031 |
-| Rising Star | 1.00% | ~7,031 |
+| Welcome To Hell-A | 5.00% | ~35,158 |
+| Git Gutte! | 4.00% | ~28,126 |
+| Break A Leg | 4.00% | ~28,126 |
+| Coup de Grâce | 4.00% | ~28,126 |
+| Hazardous Materials | 4.00% | ~28,126 |
+| Hotel California | 4.00% | ~28,126 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,126 |
+| Dr. Reed, I Presume? | 3.00% | ~21,095 |
+| Bookworm | 3.00% | ~21,095 |
+| But Doctor, I am Butcho | 3.00% | ~21,095 |
+| Slayer Squad | 3.00% | ~21,095 |
+| Can't Handle the Truth | 3.00% | ~21,095 |
+| Like Riding a Bike | 3.00% | ~21,095 |
+| Friends Like These | 3.00% | ~21,095 |
+| Apex Predator | 3.00% | ~21,095 |
+| Zombologist | 3.00% | ~21,095 |
+| A Patton Emerges | 3.00% | ~21,095 |
+| Stacking the Deck | 3.00% | ~21,095 |
+| This is My Weapon | 3.00% | ~21,095 |
+| Making Your Mark | 2.00% | ~14,063 |
+| Anger Management | 2.00% | ~14,063 |
+| Perks of the Job | 2.00% | ~14,063 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,063 |
+| Ooh, Shiny! | 2.00% | ~14,063 |
+| Humanity Distilled | 2.00% | ~14,063 |
+| I Am the Resurrection | 2.00% | ~14,063 |
+| Down with the Sickness | 2.00% | ~14,063 |
+| Our True Nature | 2.00% | ~14,063 |
+| Smorgasbord | 1.00% | ~7,032 |
+| Jumbo Keyring | 1.00% | ~7,032 |
+| Max Headroom | 1.00% | ~7,032 |
+| Go, Bobcats! | 1.00% | ~7,032 |
+| Rising Star | 1.00% | ~7,032 |
 | Not Even My Final Form | 0.90% | ~6,328 |
 | Internet Famous | 0.90% | ~6,328 |
 | On Safari | 0.80% | ~5,625 |
@@ -47,12 +47,12 @@ Rating: 4.54 (Ranked 514)
 | Gore Horse | 0.60% | ~4,219 |
 | Sole Survivor | 0.50% | ~3,516 |
 | Sharpest Tool in the Box | 0.50% | ~3,516 |
-| Survival Skills | 0.40% | ~2,812 |
+| Survival Skills | 0.40% | ~2,813 |
 | Donk! | 0.20% | ~1,406 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,113 (Ranked 22)  
-Completed: 2,255 (0.32%) (Ranked 208)  
+Progressed: 703,152 (Ranked 22)  
+Completed: 2,257 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,10 +238,10 @@ Completed: 2,255 (0.32%) (Ranked 208)
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
-| 2023-10-24 | 703,113 | 2,255 |
+| 2023-10-24 | 703,152 | 2,257 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
-Sum: 9,907 (Ranked 91)  
+Sum: 9,908 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): -34
 | This game is Great for Beginners | 472 |
 | This game has Diverse Characters | 467 |
 | This game has Quickly Understood Controls | 438 |
-| This game is Relaxing | 419 |
+| This game is Relaxing | 420 |
 | This game has Amazing Storytelling | 397 |
 | This game is Highly Recommended | 380 |
 | This game is Extremely Fun | 374 |
@@ -443,4 +443,4 @@ Diff (max vs sum): -34
 | 2023-10-21 | 4.54 | 6,526 | 9,785 |
 | 2023-10-22 | 4.54 | 6,549 | 9,831 |
 | 2023-10-23 | 4.54 | 6,571 | 9,870 |
-| 2023-10-24 | 4.54 | 6,597 | 9,907 |
+| 2023-10-24 | 4.54 | 6,597 | 9,908 |

@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3939,6 +3939,11 @@
       "Time": "2023-10-23T02:26:30.6543027+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T17:09:20.3577622+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3950,7 +3955,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "adventurous_2",
@@ -4078,7 +4083,7 @@
       "Name": "Conqueror 2",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "conqueror_3",
@@ -4094,7 +4099,7 @@
       "Name": "Diehard 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "diehard_2",
@@ -4126,7 +4131,7 @@
       "Name": "Elemental stones 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "elemental_stones_3",
@@ -4166,7 +4171,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "from_day_to_day_2",
@@ -4238,7 +4243,7 @@
       "Name": "Invincible 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "invincible_2",
@@ -4262,7 +4267,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -4454,7 +4459,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "tomb_raider_2",
@@ -4477,14 +4482,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:10:25.0969213+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:09:20.3577612+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.0122242+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:57:37.326197+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:10:25.0970407+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:57:27.407069+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:09:20.3579034+00:00"
 }

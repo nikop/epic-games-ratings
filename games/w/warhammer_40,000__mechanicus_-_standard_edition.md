@@ -5,10 +5,10 @@ Rating: 4.43 (Ranked 679)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,636 |
+| No aid from the Omnissiah | 26.00% | ~58,637 |
 | This is only the beginning | 19.00% | ~42,850 |
 | Knowledge is power | 12.00% | ~27,063 |
-| Galvanic Rifle | 10.00% | ~22,552 |
+| Galvanic Rifle | 10.00% | ~22,553 |
 | Power Ranger | 9.00% | ~20,297 |
 | Taser Goad | 9.00% | ~20,297 |
 | Radium Ready | 9.00% | ~20,297 |
@@ -19,11 +19,11 @@ Rating: 4.43 (Ranked 679)
 | One with the Machine | 4.00% | ~9,021 |
 | Legio Cybernetica | 3.00% | ~6,766 |
 | Fleshy Disposal | 3.00% | ~6,766 |
-| Battle Servitor | 2.00% | ~4,510 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,510 |
-| Impatient destruction | 2.00% | ~4,510 |
-| Vivisected Vizier | 2.00% | ~4,510 |
-| Architect Abortion | 2.00% | ~4,510 |
+| Battle Servitor | 2.00% | ~4,511 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,511 |
+| Impatient destruction | 2.00% | ~4,511 |
+| Vivisected Vizier | 2.00% | ~4,511 |
+| Architect Abortion | 2.00% | ~4,511 |
 | Cohortus Maximus | 0.80% | ~1,804 |
 | Mother of Xenarites | 0.40% | ~902 |
 | False God | 0.30% | ~677 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 679)
 | Perma-live | 0.10% | ~226 |
 | Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,525 (Ranked 64)  
+Progressed: 225,526 (Ranked 64)  
 Completed: 5 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 5 (0.00%) (Ranked 324)
 | 2023-10-21 | 225,295 | 5 |
 | 2023-10-22 | 225,388 | 5 |
 | 2023-10-23 | 225,464 | 5 |
-| 2023-10-24 | 225,525 | 5 |
+| 2023-10-24 | 225,526 | 5 |
 ## Awards
 Max (Highly Recommended): 287  (Ranked 248)  
 Sum: 2,172 (Ranked 199)  

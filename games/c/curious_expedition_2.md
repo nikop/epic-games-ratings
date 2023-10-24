@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.73 (Ranked 167)  
+Rating: 4.73 (Ranked 168)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,9 +20,9 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 30.00% | ~98 |
 | Taxonomist | 27.00% | ~88 |
 | Plunderer | 27.00% | ~88 |
+| Uncertain Loyalties | 25.00% | ~82 |
 | Traveller | 24.00% | ~78 |
 | Nahua Seeker | 24.00% | ~78 |
-| Uncertain Loyalties | 24.00% | ~78 |
 | Roll to Save | 22.00% | ~72 |
 | Veteran Explorer | 20.00% | ~65 |
 | Red Flag Pirate | 19.00% | ~62 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -3417,9 +3417,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 138
     },
     {
       "ID": "Millionaire",
@@ -3576,8 +3576,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:09:21.7817083+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:08:16.6963078+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:59:51.3189318+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:09:21.7817672+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:59:14.1058391+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:08:16.6963752+00:00"
 }

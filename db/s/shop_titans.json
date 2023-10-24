@@ -6675,7 +6675,7 @@
   ],
   "EOS_Progressed": 138066,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26355,9 +26355,9 @@
       "ID": "help02",
       "SetID": "anfd17p",
       "Name": "Fat Cat Tag Team",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 966
     },
     {
       "ID": "help03",
@@ -26731,8 +26731,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T20:01:04.190106+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:04:04.8896376+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:03:13.1046332+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:57:24.5127369+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:04:04.8899279+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:57:19.7725357+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:03:13.1049053+00:00"
 }

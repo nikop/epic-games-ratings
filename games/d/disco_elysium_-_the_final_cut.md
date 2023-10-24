@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,413 |
+| Goodest Of The Good Cops | 28.00% | ~36,414 |
 | Biggest Communism Builder | 24.00% | ~31,212 |
 | The World's Most Laughable Centrist | 21.00% | ~27,310 |
 | Il Coppo Del'Arte! | 18.00% | ~23,409 |
@@ -15,15 +15,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,207 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,207 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,906 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,305 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,306 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,005 |
 | Unbelievably Boring **** | 9.00% | ~11,704 |
 | Enemy Of The Physical Realm | 8.00% | ~10,404 |
 | Hardie's Heroes | 6.00% | ~7,803 |
 | The Lawbringer | 4.00% | ~5,202 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,202 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,901 |
-| Bother Kim After Hours | 3.00% | ~3,901 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,902 |
+| Bother Kim After Hours | 3.00% | ~3,902 |
 | Baddest Of the Bad Cops | 2.00% | ~2,601 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,601 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,601 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,048 (Ranked 77)  
+Progressed: 130,050 (Ranked 77)  
 Completed: 28 (0.02%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,17 +234,17 @@ Completed: 28 (0.02%) (Ranked 297)
 | 2023-10-21 | 129,952 | 28 |
 | 2023-10-22 | 130,002 | 28 |
 | 2023-10-23 | 130,031 | 28 |
-| 2023-10-24 | 130,048 | 28 |
+| 2023-10-24 | 130,050 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
-Sum: 1,108 (Ranked 242)  
+Sum: 1,109 (Ranked 242)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 734 |
 | This game has Amazing Storytelling | 49 |
 | This game is Educational | 45 |
-| This game is Highly Recommended | 43 |
+| This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Unique Visuals | 37 |
 | This game is Relaxing | 36 |
@@ -397,3 +397,4 @@ Diff (max vs sum): -68
 | 2023-10-18 | 4.87 | - | 733 | 1,105 |
 | 2023-10-19 | 4.87 | - | 734 | 1,107 |
 | 2023-10-20 | 4.87 | - | 734 | 1,108 |
+| 2023-10-24 | 4.87 | - | 734 | 1,109 |

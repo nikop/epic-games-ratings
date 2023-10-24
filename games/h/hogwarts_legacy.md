@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,813 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,814 |
 | First Class Student | 14.00% | ~41,826 |
-| Troll with the Punches | 13.00% | ~38,838 |
+| Troll with the Punches | 13.00% | ~38,839 |
 | A Keen Sense of Spell | 12.00% | ~35,851 |
 | That's a Keeper | 12.00% | ~35,851 |
 | Grappling with a Graphorn | 11.00% | ~32,863 |
@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 120)
 | Followed the Butterflies | 10.00% | ~29,876 |
 | The Spell Master | 9.00% | ~26,888 |
 | Rising From the Ashes | 9.00% | ~26,888 |
-| The Avenging Gazelle | 8.00% | ~23,900 |
-| Beast Friends | 8.00% | ~23,900 |
-| A Sallow Grave | 8.00% | ~23,900 |
-| Flight the Good Flight | 8.00% | ~23,900 |
+| The Avenging Gazelle | 8.00% | ~23,901 |
+| Beast Friends | 8.00% | ~23,901 |
+| A Sallow Grave | 8.00% | ~23,901 |
+| Flight the Good Flight | 8.00% | ~23,901 |
 | The Seeker of Knowledge | 6.00% | ~17,925 |
 | The Root of the Problem | 6.00% | ~17,925 |
 | Third Time's a Charm | 6.00% | ~17,925 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,755 (Ranked 48)  
-Completed: 491 (0.16%) (Ranked 241)  
+Progressed: 298,758 (Ranked 48)  
+Completed: 491 (0.16%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,10 +238,10 @@ Completed: 491 (0.16%) (Ranked 241)
 | 2023-10-21 | 298,671 | 491 |
 | 2023-10-22 | 298,711 | 491 |
 | 2023-10-23 | 298,741 | 491 |
-| 2023-10-24 | 298,755 | 491 |
+| 2023-10-24 | 298,758 | 491 |
 ## Awards
 Max (Character Customization): 23,763  (Ranked 17)  
-Sum: 46,555 (Ranked 30)  
+Sum: 46,558 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,163 |
 | This game is Relaxing | 1,156 |
 | This game has Amazing Characters | 1,131 |
-| This game is Highly Recommended | 1,094 |
+| This game is Highly Recommended | 1,097 |
 | This game has Quickly Understood Controls | 1,048 |
 | This game has Beautiful Visuals | 969 |
 | This game has a Creative Community | 738 |
@@ -474,4 +474,4 @@ Diff (max vs sum): -13
 | 2023-10-21 | 4.76 | 23,683 | 46,325 |
 | 2023-10-22 | 4.76 | 23,719 | 46,414 |
 | 2023-10-23 | 4.76 | 23,743 | 46,500 |
-| 2023-10-24 | 4.76 | 23,763 | 46,555 |
+| 2023-10-24 | 4.76 | 23,763 | 46,558 |

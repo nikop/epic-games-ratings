@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fit for a King | 0.70% | ~966 |
 | Mammonite | 0.70% | ~966 |
 | Wealth Beyond Measure | 0.70% | ~966 |
+| Fat Cat Tag Team | 0.70% | ~966 |
 | Necromancer Queen | 0.70% | ~966 |
 | Miracle Alchemist | 0.70% | ~966 |
 | Laden with Loot | 0.70% | ~966 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.60% | ~828 |
 | Ritualist | 0.60% | ~828 |
 | By Your Powers Combined... | 0.60% | ~828 |
-| Fat Cat Tag Team | 0.60% | ~828 |
 | Item of Renown | 0.60% | ~828 |
 | Master Merchant | 0.60% | ~828 |
 | Bountiful Harvest | 0.60% | ~828 |

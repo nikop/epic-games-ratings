@@ -14084,9 +14084,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893647,
+  "EOS_Progressed": 893653,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1260,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35289,6 +35289,11 @@
       "Time": "2023-10-24T16:08:02.5769426+00:00",
       "NumProgressed": 893647,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T17:06:41.094706+00:00",
+      "NumProgressed": 893653,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35315,9 +35320,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2681
     },
     {
       "ID": "Cyberjunkie",
@@ -35820,21 +35825,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893647,
+      "Progressed": 893653,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22270,
+      "Progressed": 22276,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-24T16:01:34.4910488+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:08:02.5769422+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:06:41.094705+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:01:34.4910494+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:08:02.5771827+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:00:46.7488563+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:06:41.0949311+00:00"
 }

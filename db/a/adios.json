@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76609,
+  "EOS_Progressed": 76614,
   "EOS_Completed": 805,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -21002,6 +21002,11 @@
       "Time": "2023-10-24T16:04:03.1375402+00:00",
       "NumProgressed": 76609,
       "NumCompleted": 805
+    },
+    {
+      "Time": "2023-10-24T17:03:11.4875415+00:00",
+      "NumProgressed": 76614,
+      "NumCompleted": 805
     }
   ],
   "TotalAchievements": 25,
@@ -21029,7 +21034,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13791
     },
     {
       "ID": "Audiophile",
@@ -21045,7 +21050,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16854
+      "UsersEstimate": 16855
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -21053,7 +21058,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13791
     },
     {
       "ID": "Butcher",
@@ -21061,7 +21066,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "Cut Call",
@@ -21085,7 +21090,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15322
+      "UsersEstimate": 15323
     },
     {
       "ID": "Hearty",
@@ -21109,7 +21114,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "Master, Commander",
@@ -21117,7 +21122,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16088
+      "UsersEstimate": 16089
     },
     {
       "ID": "Meaty",
@@ -21133,7 +21138,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14556
+      "UsersEstimate": 14557
     },
     {
       "ID": "Nice Try",
@@ -21141,7 +21146,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12257
+      "UsersEstimate": 12258
     },
     {
       "ID": "Nothing Left to Say",
@@ -21157,7 +21162,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8427
+      "UsersEstimate": 8428
     },
     {
       "ID": "Right On Target",
@@ -21165,7 +21170,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9959
+      "UsersEstimate": 9960
     },
     {
       "ID": "Sniper",
@@ -21181,7 +21186,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3064
+      "UsersEstimate": 3065
     },
     {
       "ID": "Taco Toto",
@@ -21212,7 +21217,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76609,
+      "Progressed": 76614,
       "Completed": 805
     }
   ],
@@ -21220,8 +21225,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-24T16:04:03.1375393+00:00",
+  "LastChanged_Achievements": "2023-10-24T17:03:11.487541+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:00:16.197332+00:00",
-  "LastUpdate_Achievements": "2023-10-24T16:04:03.1377054+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:59:30.820941+00:00",
+  "LastUpdate_Achievements": "2023-10-24T17:03:11.4877051+00:00"
 }

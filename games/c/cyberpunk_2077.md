@@ -14,6 +14,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.40% | ~3,575 |
 | All the President's Men | 0.40% | ~89 |
 | Arachnophobia | 0.40% | ~89 |
+| Bushido and Chill | 0.30% | ~2,681 |
 | Right Back At Ya | 0.30% | ~2,681 |
 | Gunslinger | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
@@ -31,7 +32,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.30% | ~2,681 |
 | Spin Doctor | 0.30% | ~67 |
 | To Bad Decisions! | 0.20% | ~1,787 |
-| Bushido and Chill | 0.20% | ~1,787 |
 | To Protect and Serve | 0.20% | ~1,787 |
 | The Wandering Fool | 0.20% | ~1,787 |
 | Gun Fu | 0.20% | ~1,787 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,647 (Ranked 15)  
+Progressed: 893,653 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,713 (0.30%) (Ranked 214)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,647 | 2,713 |
+| 2023-10-24 | 893,653 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
 Sum: 323,880 (Ranked 11)  
