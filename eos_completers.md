@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.18% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.19% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.17% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -74,8 +74,8 @@
 | 72 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.42% |
 | 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.27% |
 | 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
-| 75 | [The Bunker](games/t/the_bunker.md) | 4.00% |
-| 76 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
+| 75 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
+| 76 | [The Bunker](games/t/the_bunker.md) | 4.00% |
 | 77 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.98% |
 | 78 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 79 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.77% |
@@ -120,7 +120,7 @@
 | 117 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 119 | [Sifu](games/s/sifu.md) | 1.81% |
 | 120 | [Frogun](games/f/frogun.md) | 1.79% |
-| 121 | [Night Book](games/n/night_book.md) | 1.77% |
+| 121 | [Night Book](games/n/night_book.md) | 1.76% |
 | 122 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 123 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.71% |
 | 124 | [Somerville](games/s/somerville.md) | 1.70% |
@@ -191,10 +191,10 @@
 | 189 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 189 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 191 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 191 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.45% |
 | 191 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 191 | [Tchia](games/t/tchia.md) | 0.45% |
-| 194 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.44% |
-| 194 | [The Devil's Face](games/t/the_devil's_face.md) | 0.44% |
+| 195 | [The Devil's Face](games/t/the_devil's_face.md) | 0.44% |
 | 196 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 197 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 198 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -549,6 +549,7 @@
 | 323 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 0.00% |
 | 323 | [Panic Porcupine](games/p/panic_porcupine.md) | 0.00% |
 | 323 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 0.00% |
+| 323 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 0.00% |
 | 323 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 323 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 0.00% |
 | 323 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
