@@ -83,8 +83,8 @@
 | 81 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.59% |
 | 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 83 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 84 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.28% |
+| 84 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.41% |
+| 85 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 86 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 87 | [The Complex](games/t/the_complex.md) | 3.25% |
 | 88 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
