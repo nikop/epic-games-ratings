@@ -16,9 +16,9 @@
 | Medal of Honor | 58.00% | ~462 |
 | Meritorious Service Medal | 58.00% | ~462 |
 | Medal of Exploration II | 58.00% | ~462 |
+| Charismatic | 57.00% | ~454 |
 | Soldier | 56.00% | ~446 |
 | Turian Ally | 56.00% | ~446 |
-| Charismatic | 56.00% | ~446 |
 | Asari Ally | 53.00% | ~422 |
 | Principled | 52.00% | ~414 |
 | Medal of Exploration III | 51.00% | ~406 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~16 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797 (Ranked 253)  
+Progressed: 797 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |

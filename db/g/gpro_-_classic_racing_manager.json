@@ -2,10 +2,10 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2023-10-24T13:09:18.4193418+00:00",
       "NumProgressed": 429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T20:05:05.487737+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1054,7 +1059,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 326
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2108,9 +2113,9 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "76k7b7p",
       "Name": "Photo shoot",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2285,14 +2290,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:06:29.7884929+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:05:05.4877365+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.2997347+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:04:00.5154886+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:29.7888755+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:47.1010979+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:05:05.4880911+00:00"
 }

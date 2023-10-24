@@ -19,7 +19,7 @@ Rating: 3.98 (Ranked 980)
 | The Collector | 18.00% | ~302 |
 | Get your hands dirty | 11.00% | ~185 |
 | Space Forest | 9.00% | ~151 |
-| All Wheel Trouble | 7.00% | ~118 |
+| All Wheel Trouble | 8.00% | ~134 |
 | ITS crash site | 6.00% | ~101 |
 | DeDust | 5.00% | ~84 |
 | “Aliens” | 4.00% | ~67 |
@@ -33,7 +33,7 @@ Rating: 3.98 (Ranked 980)
 | Planetary Defence | 1.00% | ~17 |
 | Thunderstruck | 1.00% | ~17 |
 | 5G Network | 0.80% | ~13 |
-| One does not simply... | 0.70% | ~12 |
+| One does not simply... | 0.80% | ~13 |
 | Rover Mechanic | 0.50% | ~8 |
 | Bull’s eye | 0.40% | ~7 |
 | Korolev crater | 0.40% | ~7 |

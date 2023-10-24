@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 349174,
+  "EOS_Progressed": 349176,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21854,6 +21854,11 @@
       "Time": "2023-10-24T19:10:35.8476687+00:00",
       "NumProgressed": 349174,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-24T20:09:19.4214626+00:00",
+      "NumProgressed": 349176,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21889,7 +21894,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach005",
@@ -21961,7 +21966,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach014",
@@ -22073,7 +22078,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160620
+      "UsersEstimate": 160621
     },
     {
       "ID": "ach028",
@@ -22097,7 +22102,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach031",
@@ -22169,7 +22174,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34917
+      "UsersEstimate": 34918
     },
     {
       "ID": "ach040",
@@ -22273,7 +22278,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach053",
@@ -22297,7 +22302,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach056",
@@ -22329,7 +22334,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34917
+      "UsersEstimate": 34918
     },
     {
       "ID": "ach060",
@@ -22337,7 +22342,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach061",
@@ -22345,7 +22350,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6983
+      "UsersEstimate": 6984
     },
     {
       "ID": "ach062",
@@ -22361,7 +22366,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach065",
@@ -22377,7 +22382,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48884
+      "UsersEstimate": 48885
     },
     {
       "ID": "ach067",
@@ -22401,7 +22406,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48884
+      "UsersEstimate": 48885
     },
     {
       "ID": "ach070",
@@ -22425,7 +22430,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach073",
@@ -22433,7 +22438,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach074",
@@ -22449,7 +22454,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "ach076",
@@ -22504,7 +22509,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 349174,
+      "Progressed": 349176,
       "Completed": 7
     }
   ],
@@ -22512,8 +22517,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:10:35.847668+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:09:19.4214622+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:03:25.7278842+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:10:35.8479057+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:20.44314+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:09:19.4218275+00:00"
 }

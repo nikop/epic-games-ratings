@@ -88,24 +88,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
-| Subjugator | 0.70% | ~104 |
-| Landowners | 0.70% | ~104 |
-| Riders | 0.70% | ~104 |
-| Statesmen | 0.70% | ~104 |
-| Traders | 0.70% | ~104 |
-| Hittite Iron | 0.70% | ~104 |
-| Hagia Sophia | 0.70% | ~104 |
-| Temple of Solomon | 0.70% | ~104 |
-| Pantheon | 0.70% | ~104 |
-| Via Recta Souk | 0.70% | ~104 |
-| Learn to Play 4 | 0.70% | ~104 |
-| Economic Reform | 0.70% | ~104 |
-| Legalism | 0.70% | ~104 |
-| Redemption | 0.70% | ~104 |
-| Revelation | 0.70% | ~104 |
-| Legionary | 0.70% | ~104 |
-| Phalangite | 0.70% | ~104 |
-| Double Victory | 0.70% | ~104 |
+| Subjugator | 0.70% | ~105 |
+| Landowners | 0.70% | ~105 |
+| Riders | 0.70% | ~105 |
+| Statesmen | 0.70% | ~105 |
+| Traders | 0.70% | ~105 |
+| Hittite Iron | 0.70% | ~105 |
+| Hagia Sophia | 0.70% | ~105 |
+| Temple of Solomon | 0.70% | ~105 |
+| Pantheon | 0.70% | ~105 |
+| Via Recta Souk | 0.70% | ~105 |
+| Learn to Play 4 | 0.70% | ~105 |
+| Economic Reform | 0.70% | ~105 |
+| Legalism | 0.70% | ~105 |
+| Redemption | 0.70% | ~105 |
+| Revelation | 0.70% | ~105 |
+| Legionary | 0.70% | ~105 |
+| Phalangite | 0.70% | ~105 |
+| Double Victory | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
 | Strong Difficulty | 0.60% | ~90 |
 | Hunters | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,928 (Ranked 140)  
+Progressed: 14,929 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,928 | 5 |
+| 2023-10-24 | 14,929 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

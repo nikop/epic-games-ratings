@@ -4,8 +4,8 @@
   "ProductSlug": "warpath-fedcf7",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T05:57:17.6580709+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:58:04.5553164+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:07:08.8849426+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:57:58.310615+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:05:38.5541473+00:00"
 }

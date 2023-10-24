@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14928,
+  "EOS_Progressed": 14929,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14643,6 +14643,11 @@
       "Time": "2023-10-24T19:06:49.2439131+00:00",
       "NumProgressed": 14928,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-24T20:05:22.0985171+00:00",
+      "NumProgressed": 14929,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15294,7 +15299,7 @@
       "Name": "Subjugator",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -15518,7 +15523,7 @@
       "Name": "Landowners",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -15534,7 +15539,7 @@
       "Name": "Riders",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -15550,7 +15555,7 @@
       "Name": "Statesmen",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -15558,7 +15563,7 @@
       "Name": "Traders",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -15966,7 +15971,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -16014,7 +16019,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -16038,7 +16043,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -16110,7 +16115,7 @@
       "Name": "Pantheon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -16126,7 +16131,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -16198,7 +16203,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -16590,7 +16595,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -16638,7 +16643,7 @@
       "Name": "Legalism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -16654,7 +16659,7 @@
       "Name": "Redemption",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -16662,7 +16667,7 @@
       "Name": "Revelation",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -16726,7 +16731,7 @@
       "Name": "Legionary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -16734,7 +16739,7 @@
       "Name": "Phalangite",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -16790,7 +16795,7 @@
       "Name": "Double Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -17389,21 +17394,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14928,
+      "Progressed": 14929,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14928,
+      "Progressed": 14929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:06:49.2439124+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:05:22.0985166+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:04:14.1868353+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:49.2452284+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:56.6686103+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:05:22.0997465+00:00"
 }

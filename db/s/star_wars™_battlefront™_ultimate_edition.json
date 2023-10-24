@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 827,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -2309,6 +2309,11 @@
       "Time": "2023-10-24T19:11:21.3781684+00:00",
       "NumProgressed": 826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T20:09:49.7204417+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2367,9 +2372,9 @@
       "ID": "achievement_15",
       "SetID": "271ol84",
       "Name": "The Force is strong with this one",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_16",
@@ -2391,9 +2396,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_19",
@@ -2431,9 +2436,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_23",
@@ -2495,17 +2500,17 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_30",
       "SetID": "271ol84",
       "Name": "Precision shot",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_31",
@@ -2545,15 +2550,15 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_37",
@@ -2615,9 +2620,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_44",
@@ -2671,9 +2676,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_50",
@@ -2735,9 +2740,9 @@
       "ID": "achievement_57",
       "SetID": "cemm4l8",
       "Name": "Stay in attack formation",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_58",
@@ -2799,9 +2804,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_8",
@@ -2824,13 +2829,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 826,
+      "Progressed": 827,
       "Completed": 1
     }
   ],
@@ -2838,8 +2843,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:11:21.3781677+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:09:49.720441+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:03:54.3073035+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:11:21.3782488+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:41.7510326+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:09:49.7205326+00:00"
 }

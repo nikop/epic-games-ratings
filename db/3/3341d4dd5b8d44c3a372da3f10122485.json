@@ -889,9 +889,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Intro",
@@ -929,9 +929,9 @@
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "Majak",
@@ -945,17 +945,17 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 80,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "Poklop",
@@ -1000,8 +1000,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:05:52.8836243+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:04:33.6604642+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.962177+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:01:07.3757476+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:05:52.8836416+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:00:43.7601568+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:04:33.6604817+00:00"
 }

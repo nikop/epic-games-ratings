@@ -54,9 +54,9 @@ Rating: 4.85 (Ranked 42)
 | Choose your own adventure | 0.60% | ~16 |
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |
-| And the crowd goes wild! | 0.30% | ~12 |
-| I am a good person who likes to help | 0.30% | ~12 |
-| With our powers combined…and to the rhythm… | 0.30% | ~12 |
+| And the crowd goes wild! | 0.30% | ~13 |
+| I am a good person who likes to help | 0.30% | ~13 |
+| With our powers combined…and to the rhythm… | 0.30% | ~13 |
 | It'll do, CNMN | 0.30% | ~8 |
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | Fully Powered Up! | 0.20% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 42)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,166 (Ranked 182)  
+Progressed: 4,167 (Ranked 182)  
 Completed: 8 (0.19%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 8 (0.19%) (Ranked 233)
 | 2023-10-21 | 4,160 | 8 |
 | 2023-10-22 | 4,164 | 8 |
 | 2023-10-23 | 4,165 | 8 |
-| 2023-10-24 | 4,166 | 8 |
+| 2023-10-24 | 4,167 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

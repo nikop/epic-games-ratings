@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,548 |
-| Until death do us apart | 4.00% | ~17,548 |
-| Victorious! | 4.00% | ~17,548 |
-| That is mine! | 3.00% | ~13,161 |
-| Brothers in Arms | 2.00% | ~8,774 |
-| Cold War | 2.00% | ~8,774 |
-| For the Glory | 2.00% | ~8,774 |
-| That's a Grand Navy | 2.00% | ~8,774 |
-| Seriously?! | 2.00% | ~8,774 |
+| That's a Grand Army | 4.00% | ~17,549 |
+| Until death do us apart | 4.00% | ~17,549 |
+| Victorious! | 4.00% | ~17,549 |
+| That is mine! | 3.00% | ~13,162 |
+| Brothers in Arms | 2.00% | ~8,775 |
+| Cold War | 2.00% | ~8,775 |
+| For the Glory | 2.00% | ~8,775 |
+| That's a Grand Navy | 2.00% | ~8,775 |
+| Seriously?! | 2.00% | ~8,775 |
 | Defender of the Faith | 1.00% | ~4,387 |
 | It's all about luck | 1.00% | ~4,387 |
 | It's all about the money | 1.00% | ~4,387 |
@@ -22,16 +22,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,387 |
 | True Catholic | 1.00% | ~4,387 |
 | Truly Divine Ruler | 1.00% | ~4,387 |
-| Blockader | 0.90% | ~3,948 |
+| Blockader | 0.90% | ~3,949 |
 | Double the Love | 0.80% | ~3,510 |
 | Royal Authority | 0.80% | ~3,510 |
 | Total Control | 0.80% | ~3,510 |
 | My armies are invincible! | 0.70% | ~3,071 |
-| Agressive Expander | 0.50% | ~2,193 |
-| Azur semé de lis or | 0.50% | ~2,193 |
-| City of Cities | 0.50% | ~2,193 |
-| Combined Arms | 0.50% | ~2,193 |
-| This navy can take it all | 0.50% | ~2,193 |
+| Agressive Expander | 0.50% | ~2,194 |
+| Azur semé de lis or | 0.50% | ~2,194 |
+| City of Cities | 0.50% | ~2,194 |
+| Combined Arms | 0.50% | ~2,194 |
+| This navy can take it all | 0.50% | ~2,194 |
 | Bright Spark | 0.40% | ~1,755 |
 | The Emperors new clothes | 0.40% | ~1,755 |
 | Factionalism | 0.40% | ~1,755 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,694 (Ranked 40)  
+Progressed: 438,735 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 1 (0.00%) (Ranked 324)
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
 | 2023-10-23 | 438,161 | 1 |
-| 2023-10-24 | 438,694 | 1 |
+| 2023-10-24 | 438,735 | 1 |
 ## Awards
 Max (Educational): 6,667  (Ranked 55)  
 Sum: 54,737 (Ranked 24)  

@@ -8,10 +8,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.60% | ~5,362 |
 | Rough Landing | 0.50% | ~4,468 |
+| The High Priestess | 0.50% | ~4,468 |
 | Full Body Conversion | 0.40% | ~3,575 |
 | Stanislavski's Method | 0.40% | ~3,575 |
 | The Hermit | 0.40% | ~3,575 |
-| The High Priestess | 0.40% | ~3,575 |
+| The Wheel of Fortune | 0.40% | ~3,575 |
 | True Soldier | 0.40% | ~3,575 |
 | All the President's Men | 0.40% | ~89 |
 | Arachnophobia | 0.40% | ~89 |
@@ -23,7 +24,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.30% | ~2,681 |
 | Life of the Road | 0.30% | ~2,681 |
 | The Lovers | 0.30% | ~2,681 |
-| The Wheel of Fortune | 0.30% | ~2,681 |
 | The World | 0.30% | ~2,681 |
 | The Jungle | 0.30% | ~2,681 |
 | True Warrior | 0.30% | ~2,681 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,668 (Ranked 15)  
+Progressed: 893,675 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,668 | 2,713 |
+| 2023-10-24 | 893,675 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
 Sum: 323,967 (Ranked 11)  

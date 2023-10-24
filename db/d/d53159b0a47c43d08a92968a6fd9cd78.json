@@ -4,8 +4,8 @@
   "ProductSlug": "kiborg-demo-3e5369",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T18:57:25.0755248+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:04:30.8828189+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:49.5973301+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:03:16.0491927+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:05:22.2392873+00:00"
 }

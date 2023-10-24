@@ -14090,10 +14090,10 @@
       "Count": 11460
     }
   ],
-  "EOS_Progressed": 893668,
+  "EOS_Progressed": 893675,
   "EOS_Completed": 2713,
   "EOS_NewPlayers": 1249,
-  "EOS_NewCompleters": 36,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35310,6 +35310,11 @@
       "Time": "2023-10-24T19:09:12.4760932+00:00",
       "NumProgressed": 893668,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T20:08:14.4166625+00:00",
+      "NumProgressed": 893675,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35552,9 +35557,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3575
+      "UsersEstimate": 4468
     },
     {
       "ID": "TheLovers",
@@ -35584,9 +35589,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 3575
     },
     {
       "ID": "TheWorld",
@@ -35841,21 +35846,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893668,
+      "Progressed": 893675,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22291,
+      "Progressed": 22298,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-24T19:02:48.572529+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:09:12.4760922+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:08:14.4166623+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:02:48.5725297+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:09:12.4762738+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:01:55.3915919+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:08:14.4169992+00:00"
 }

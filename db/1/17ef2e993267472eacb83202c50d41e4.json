@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7426,
+  "EOS_Progressed": 7428,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4887,6 +4887,11 @@
       "Time": "2023-10-24T19:11:55.6076761+00:00",
       "NumProgressed": 7426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T20:10:28.5896368+00:00",
+      "NumProgressed": 7428,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5019,7 +5024,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "GamesPlayed10",
@@ -5331,7 +5336,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "PlayerKills100",
@@ -5490,7 +5495,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7426,
+      "Progressed": 7428,
       "Completed": 1
     }
   ],
@@ -5498,8 +5503,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:11:55.607675+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:10:28.5896363+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:02:02.5260157+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:11:55.6077948+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:01:18.2637051+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:10:28.5897987+00:00"
 }

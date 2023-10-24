@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1701,9 +1701,9 @@
       "ID": "ACH_UNSCREW",
       "SetID": "al4k4nh",
       "Name": "Unscrew you",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1724,8 +1724,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:06:23.2524689+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:04:59.9604101+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:33.8138445+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:01:46.1190403+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:23.2525066+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:01:06.1229594+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:04:59.9604405+00:00"
 }

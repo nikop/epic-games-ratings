@@ -5,9 +5,9 @@
   "Ranking_Rating": 151,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
@@ -2312,6 +2312,11 @@
       "Time": "2023-10-24T07:09:34.4314657+00:00",
       "NumProgressed": 762,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-24T20:10:15.6476103+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2332,7 +2337,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "_03_FinishAct1",
@@ -2340,7 +2345,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2388,7 +2393,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "_10_Completion_30",
@@ -2412,7 +2417,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "_13_Completion_60",
@@ -2436,7 +2441,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2452,7 +2457,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2516,7 +2521,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2524,14 +2529,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 26
     }
   ],
@@ -2539,8 +2544,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:11:40.73486+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:10:15.6476099+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:03:57.4300681+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:11:40.7348961+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:45.7661656+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:10:15.6476781+00:00"
 }

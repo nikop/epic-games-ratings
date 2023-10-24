@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~12,631 |
-| Safety in the Storm | 25.00% | ~3,324 |
-| A Better Idea | 25.00% | ~3,324 |
-| Begin the Ceremony | 21.00% | ~2,792 |
-| Mission Accomplished | 20.00% | ~2,659 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~1,994 |
-| A Starfighter of Your Own | 14.00% | ~1,861 |
-| Asset Secured | 13.00% | ~1,728 |
-| Unkillable | 8.00% | ~1,064 |
-| Sound Strategy | 7.00% | ~931 |
-| Together, Vanguard | 7.00% | ~931 |
+| Fracture at Fostar Haven | 95.00% | ~12,643 |
+| Safety in the Storm | 25.00% | ~3,327 |
+| A Better Idea | 25.00% | ~3,327 |
+| Begin the Ceremony | 21.00% | ~2,795 |
+| Mission Accomplished | 20.00% | ~2,662 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~1,996 |
+| A Starfighter of Your Own | 14.00% | ~1,863 |
+| Asset Secured | 13.00% | ~1,730 |
+| Unkillable | 8.00% | ~1,065 |
+| Together, Vanguard | 7.00% | ~932 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~798 |
+| Sound Strategy | 6.00% | ~798 |
 | Stomped | 6.00% | ~798 |
 | Fearless | 5.00% | ~665 |
 | Flames Over Mon Cala | 5.00% | ~665 |
@@ -35,8 +35,8 @@
 | Found Your Place | 0.80% | ~106 |
 | Denied | 0.80% | ~106 |
 | Unstoppable Ace | 0.60% | ~80 |
-| Seasoned Star Pilot | 0.50% | ~66 |
-| Special Modifications | 0.50% | ~66 |
+| Seasoned Star Pilot | 0.50% | ~67 |
+| Special Modifications | 0.50% | ~67 |
 | Heavy Hitter | 0.40% | ~53 |
 | The Trap is Set | 0.40% | ~53 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~53 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~13 |
 | The Galaxy's Finest (Ace) | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,296 (Ranked 144)  
+Progressed: 13,308 (Ranked 144)  
 Completed: 1 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.01%) (Ranked 305)
 | 2023-10-21 | 12,629 | 1 |
 | 2023-10-22 | 12,968 | 1 |
 | 2023-10-23 | 13,152 | 1 |
-| 2023-10-24 | 13,296 | 1 |
+| 2023-10-24 | 13,308 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

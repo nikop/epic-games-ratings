@@ -6,22 +6,22 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,694 |
+| Unforgiven | 88.00% | ~1,695 |
 | Self-Improvement | 71.00% | ~1,367 |
-| Perky | 65.00% | ~1,251 |
-| Let’s Ride | 60.00% | ~1,155 |
-| Welcome to the Weird West | 57.00% | ~1,097 |
-| Dead or Alive | 56.00% | ~1,078 |
-| Full House | 37.00% | ~712 |
-| Off the Trail | 34.00% | ~654 |
-| Justice Served | 29.00% | ~558 |
-| Chain Reaction | 26.00% | ~500 |
-| Through Their Eyes | 26.00% | ~500 |
-| Dishonored | 25.00% | ~481 |
-| Rain of Death | 25.00% | ~481 |
-| Scholar | 25.00% | ~481 |
+| Perky | 65.00% | ~1,252 |
+| Let’s Ride | 60.00% | ~1,156 |
+| Dead or Alive | 56.00% | ~1,079 |
+| Welcome to the Weird West | 56.00% | ~1,079 |
+| Full House | 37.00% | ~713 |
+| Off the Trail | 34.00% | ~655 |
+| Justice Served | 29.00% | ~559 |
+| Chain Reaction | 26.00% | ~501 |
+| Through Their Eyes | 26.00% | ~501 |
+| Dishonored | 25.00% | ~482 |
+| Rain of Death | 25.00% | ~482 |
+| Scholar | 25.00% | ~482 |
 | The Great Escape | 23.00% | ~443 |
-| That’s All, Folks | 18.00% | ~346 |
+| That’s All, Folks | 18.00% | ~347 |
 | Fallen Star | 16.00% | ~308 |
 | Here Comes Santa Claus | 16.00% | ~308 |
 | Winds of War | 16.00% | ~308 |
@@ -34,7 +34,7 @@ Number of Ratings: 125  (23.09.2022)
 | Turning the Tables | 12.00% | ~231 |
 | Something Wicked This Way Comes… | 11.00% | ~212 |
 | There is Hope | 11.00% | ~212 |
-| The Philosopher’s Stone | 10.00% | ~192 |
+| The Philosopher’s Stone | 10.00% | ~193 |
 | Loyalty to the Pack | 9.00% | ~173 |
 | Eternity Can Wait | 9.00% | ~173 |
 | Mystery Machine | 9.00% | ~173 |
@@ -50,7 +50,7 @@ Number of Ratings: 125  (23.09.2022)
 | Ghost Town | 3.00% | ~58 |
 | Lord Inut Sends His Regards | 3.00% | ~58 |
 | Moondrunk | 3.00% | ~58 |
-| 'Ma Barker | 2.00% | ~38 |
+| 'Ma Barker | 2.00% | ~39 |
 | I Kicked a Bird and I Liked it | 1.00% | ~19 |
 | Hog Wild | 1.00% | ~19 |
 | End the world | 0.70% | ~13 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,925 (Ranked 212)  
+Progressed: 1,926 (Ranked 212)  
 Completed: 7 (0.36%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 7 (0.36%) (Ranked 206)
 | 2023-10-21 | 1,902 | 7 |
 | 2023-10-22 | 1,916 | 7 |
 | 2023-10-23 | 1,919 | 7 |
-| 2023-10-24 | 1,925 | 7 |
+| 2023-10-24 | 1,926 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

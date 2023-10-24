@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -301,6 +301,11 @@
       "Time": "2023-10-24T18:04:14.5100706+00:00",
       "NumProgressed": 228,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T20:04:54.277246+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -312,7 +317,7 @@
       "Name": "A Little Extra",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "career_woman",
@@ -320,7 +325,7 @@
       "Name": "Career Woman",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "deal_or_no_deal",
@@ -328,7 +333,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "hopeful",
@@ -368,7 +373,7 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "off_his_meds",
@@ -382,9 +387,9 @@
       "ID": "on_your_bike",
       "SetID": "a3kkelb",
       "Name": "On Your Bike",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "pearce",
@@ -440,14 +445,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 4
     }
   ],
@@ -455,8 +460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:06:16.8157848+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:04:54.2772452+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:58:57.0946529+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:16.815801+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:58:36.6474114+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:04:54.2772635+00:00"
 }

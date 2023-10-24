@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -690,9 +690,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -738,9 +738,9 @@
       "ID": "ML_ACHIEVEMENT_28",
       "SetID": "5k00jcd",
       "Name": "Can you keep a secret?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_29",
@@ -850,9 +850,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "5k00jcd",
       "Name": "Magic trick",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -873,8 +873,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-24T19:06:55.4300899+00:00",
+  "LastChanged_Achievements": "2023-10-24T20:05:27.2989552+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-24T19:02:56.1537361+00:00",
-  "LastUpdate_Achievements": "2023-10-24T19:06:55.4301308+00:00"
+  "LastUpdate_Ratings": "2023-10-24T20:02:01.8859568+00:00",
+  "LastUpdate_Achievements": "2023-10-24T20:05:27.2990107+00:00"
 }

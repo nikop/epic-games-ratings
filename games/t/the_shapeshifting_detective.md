@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Play It Again Sam | 90.00% | ~187 |
 | Strong Silent Type | 90.00% | ~187 |
-| Play Me By The Hour | 68.00% | ~141 |
+| Play Me By The Hour | 69.00% | ~144 |
 | Patient Listener | 47.00% | ~98 |
+| Video Saved The Radio Star | 39.00% | ~81 |
 | Hashtag Winning | 38.00% | ~79 |
-| Video Saved The Radio Star | 38.00% | ~79 |
 | A Woman Scorned | 25.00% | ~52 |
 | Chameleon | 22.00% | ~46 |
 | Highlander | 20.00% | ~42 |
@@ -26,7 +26,7 @@
 | Show Me Some Skin | 5.00% | ~10 |
 | The Big Sleep | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 208 (Ranked 347)  
+Progressed: 208 (Ranked 348)  
 Completed: 2 (0.96%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
