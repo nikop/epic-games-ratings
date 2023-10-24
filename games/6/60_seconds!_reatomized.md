@@ -26,7 +26,7 @@ Rating: 4.60 (Ranked 403)
 | Unbreakable | 37.00% | ~2,015 |
 | Gotta get 'em all | 34.00% | ~1,851 |
 | This is the end | 34.00% | ~1,851 |
-| Atomic drill | 32.00% | ~1,742 |
+| Atomic drill | 33.00% | ~1,797 |
 | Disco Roach | 28.00% | ~1,525 |
 | Dawkins Residence | 22.00% | ~1,198 |
 | New order | 18.00% | ~980 |
@@ -40,9 +40,9 @@ Rating: 4.60 (Ranked 403)
 | Unplugged | 8.00% | ~436 |
 | Holidays! | 7.00% | ~381 |
 | Mad Hatter | 7.00% | ~381 |
+| Lumbersexual | 6.00% | ~327 |
 | Yes Man | 6.00% | ~327 |
 | Take that, Brundlefly! | 5.00% | ~272 |
-| Lumbersexual | 5.00% | ~272 |
 | Danger zone | 4.00% | ~218 |
 | Feline Domination | 4.00% | ~218 |
 | Friend in need | 4.00% | ~218 |

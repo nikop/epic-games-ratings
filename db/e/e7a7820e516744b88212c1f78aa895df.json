@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -770,6 +770,11 @@
       "Time": "2023-10-24T05:06:30.5506269+00:00",
       "NumProgressed": 197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T11:06:49.0060088+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -838,7 +843,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achScoutMaxStar",
@@ -1005,14 +1010,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:08:15.8354872+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:06:49.0060084+00:00",
   "LastUpdate_AppInfo": "2023-10-19T10:57:08.9129564+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:01:44.938556+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:08:15.8355065+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:00:32.480789+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:06:49.0060276+00:00"
 }

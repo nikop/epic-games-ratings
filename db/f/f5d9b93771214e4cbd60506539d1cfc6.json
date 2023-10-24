@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149645,
+  "EOS_Progressed": 149647,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1048,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -15578,6 +15578,11 @@
       "Time": "2023-10-24T10:06:04.7037115+00:00",
       "NumProgressed": 149645,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-10-24T11:05:11.2713431+00:00",
+      "NumProgressed": 149647,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 31,
@@ -15597,7 +15602,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104752
+      "UsersEstimate": 104753
     },
     {
       "ID": "EAwards_10",
@@ -15605,7 +15610,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20950
+      "UsersEstimate": 20951
     },
     {
       "ID": "EAwards_11",
@@ -15645,7 +15650,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17957
+      "UsersEstimate": 17958
     },
     {
       "ID": "EAwards_16",
@@ -15805,7 +15810,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37411
+      "UsersEstimate": 37412
     },
     {
       "ID": "EAwards_7",
@@ -15829,14 +15834,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17957
+      "UsersEstimate": 17958
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149645,
+      "Progressed": 149647,
       "Completed": 307
     }
   ],
@@ -15844,8 +15849,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:06:04.7037107+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:05:11.2713428+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:01:01.2649735+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:06:04.7037994+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:00:02.8316523+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:05:11.2714348+00:00"
 }

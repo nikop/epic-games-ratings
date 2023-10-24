@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | It's covered up for a reason | 33.00% | ~2 |
 | Something important | 33.00% | ~2 |
+| Wanderer | 33.00% | ~2 |
 | Another perspective | 17.00% | ~1 |
 | Refuse to look | 17.00% | ~1 |
 | Do what you have to | 17.00% | ~1 |
@@ -17,7 +18,6 @@
 | The Perfect Storm | 17.00% | ~1 |
 | A piece of the story | 17.00% | ~1 |
 | The art of movement | 17.00% | ~1 |
-| Wanderer | 17.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Breaking free | 0.00% | ~0 |

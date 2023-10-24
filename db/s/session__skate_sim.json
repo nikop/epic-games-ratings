@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1105,9 +1105,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3034,
+  "EOS_Progressed": 3035,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5490,6 +5490,11 @@
       "Time": "2023-10-24T00:06:33.4239989+00:00",
       "NumProgressed": 3034,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T11:06:34.2372914+00:00",
+      "NumProgressed": 3035,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5645,7 +5650,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -5717,7 +5722,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -5813,7 +5818,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -5821,7 +5826,7 @@
       "Name": "The hard way",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -5869,7 +5874,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5884,15 +5889,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3034,
+      "Progressed": 3035,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-23T11:57:29.4521989+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:07:56.3534333+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:06:34.237291+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.22373+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:57:53.2857883+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:07:56.3534864+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:57:44.0422762+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:06:34.2373442+00:00"
 }

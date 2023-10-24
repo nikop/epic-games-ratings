@@ -6,11 +6,11 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,815 |
+| Own use | 75.00% | ~37,816 |
 | I read Shakespeare and stuff | 64.00% | ~32,269 |
 | Just a sprinkle | 63.00% | ~31,765 |
-| I'm stumped | 61.00% | ~30,756 |
-| Plant get enough | 60.00% | ~30,252 |
+| I'm stumped | 61.00% | ~30,757 |
+| Plant get enough | 60.00% | ~30,253 |
 | It's just the beginning | 59.00% | ~29,748 |
 | This is just my weekend vehicle | 58.00% | ~29,244 |
 | Hard work pays off | 53.00% | ~26,723 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Help me to help you | 38.00% | ~19,160 |
 | Ultimutt Pawesomeness | 28.00% | ~14,118 |
 | Van Gogh | 26.00% | ~13,109 |
-| You wood not believe it | 22.00% | ~11,092 |
-| Vehicle fleet | 22.00% | ~11,092 |
+| You wood not believe it | 22.00% | ~11,093 |
+| Vehicle fleet | 22.00% | ~11,093 |
 | The plot thickens | 16.00% | ~8,067 |
 | Large-scale supplier | 16.00% | ~8,067 |
 | Well-Oiled Machine | 16.00% | ~8,067 |
@@ -30,7 +30,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,563 |
 | That's a wrap | 15.00% | ~7,563 |
 | Fix me up | 13.00% | ~6,555 |
-| Rock on | 12.00% | ~6,050 |
+| Rock on | 12.00% | ~6,051 |
 | Highly cultivated | 11.00% | ~5,546 |
 | It's sow easy | 11.00% | ~5,546 |
 | Giddy-up! | 10.00% | ~5,042 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~202 |
 | Raisin the stakes | 0.30% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,420 (Ranked 104)  
+Progressed: 50,421 (Ranked 104)  
 Completed: 6 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 6 (0.01%) (Ranked 304)
 | 2023-10-21 | 50,306 | 6 |
 | 2023-10-22 | 50,375 | 6 |
 | 2023-10-23 | 50,414 | 6 |
-| 2023-10-24 | 50,420 | 6 |
+| 2023-10-24 | 50,421 | 6 |
 ## Awards
 Max (Great for Beginners): 5,268  (Ranked 70)  
 Sum: 41,597 (Ranked 33)  

@@ -11047,11 +11047,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 54662,
       "NumberOfAwardsMax": 6653
+    },
+    {
+      "Time": "2023-10-24T11:00:25.7540472+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 54684,
+      "NumberOfAwardsMax": 6667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54662,
-  "NumberOfAwardsMax": 6653,
+  "NumberOfAwards": 54684,
+  "NumberOfAwardsMax": 6667,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -11082,7 +11088,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6653
+      "Count": 6667
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11100,7 +11106,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6120
+      "Count": 6128
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11121,9 +11127,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 438342,
+  "EOS_Progressed": 438363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5401,
+  "EOS_NewPlayers": 5394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32411,6 +32417,11 @@
       "Time": "2023-10-24T10:06:53.0175744+00:00",
       "NumProgressed": 438342,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T11:05:47.3115262+00:00",
+      "NumProgressed": 438363,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33038,7 +33049,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -33422,7 +33433,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17534
+      "UsersEstimate": 17535
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33630,7 +33641,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -33638,7 +33649,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -33990,7 +34001,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "achievement_my_true_friend",
@@ -34358,7 +34369,7 @@
       "Name": "Respected",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -34702,7 +34713,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13150
+      "UsersEstimate": 13151
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34846,7 +34857,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -35014,7 +35025,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -35030,7 +35041,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "achievement_trustworthy",
@@ -35086,7 +35097,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17534
+      "UsersEstimate": 17535
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35118,7 +35129,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17534
+      "UsersEstimate": 17535
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35253,21 +35264,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 438342,
+      "Progressed": 438363,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 438342,
+      "Progressed": 438363,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-24T07:00:13.9399999+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:06:53.0175737+00:00",
+  "LastChanged": "2023-10-24T11:00:25.7540469+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:05:47.3115257+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:01:34.7026182+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:06:53.0186723+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:00:25.7540476+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:05:47.3126178+00:00"
 }

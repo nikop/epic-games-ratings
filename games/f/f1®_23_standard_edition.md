@@ -6,20 +6,20 @@ Rating: 4.68 (Ranked 242)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 95.00% | ~3,202 |
-| On the Top Step | 90.00% | ~3,033 |
-| Setting up for Success | 79.00% | ~2,662 |
-| Team Orders | 77.00% | ~2,595 |
+| On the Top Step | 90.00% | ~3,034 |
+| Setting up for Success | 79.00% | ~2,663 |
+| Team Orders | 77.00% | ~2,596 |
 | Engineer | 57.00% | ~1,921 |
 | Familiar Faces | 51.00% | ~1,719 |
-| Going the Extra Mile | 45.00% | ~1,516 |
+| Going the Extra Mile | 45.00% | ~1,517 |
 | Sharing the Love | 44.00% | ~1,483 |
 | Hitting a Season | 41.00% | ~1,382 |
-| Challenge Yourself | 36.00% | ~1,213 |
+| Challenge Yourself | 36.00% | ~1,214 |
 | A Dozen Pieces | 34.00% | ~1,146 |
 | Making History | 34.00% | ~1,146 |
 | Network Success | 27.00% | ~910 |
 | Writing a new Chapter | 27.00% | ~910 |
-| Spring Cleaning | 25.00% | ~842 |
+| Spring Cleaning | 25.00% | ~843 |
 | Reduce | 21.00% | ~708 |
 | Ups and Downs | 21.00% | ~708 |
 | Crucial Combo | 20.00% | ~674 |
@@ -34,15 +34,15 @@ Rating: 4.68 (Ranked 242)
 | All in a Weekend's Work | 13.00% | ~438 |
 | Spinning Around | 13.00% | ~438 |
 | Recycle | 13.00% | ~438 |
-| Switcheroo | 12.00% | ~404 |
-| Tinkerer | 12.00% | ~404 |
+| Switcheroo | 12.00% | ~405 |
+| Tinkerer | 12.00% | ~405 |
 | Friendly Competition | 11.00% | ~371 |
 | Undisputed Winner | 10.00% | ~337 |
 | For all Those Back at the Factory | 7.00% | ~236 |
 | Living up to Expectations | 7.00% | ~236 |
 | Smooth Operator | 7.00% | ~236 |
-| Loyal Bond | 5.00% | ~168 |
-| Peak Performance | 5.00% | ~168 |
+| Loyal Bond | 5.00% | ~169 |
+| Peak Performance | 5.00% | ~169 |
 | Seasoned Rookie | 3.00% | ~101 |
 | Hitting a Century | 3.00% | ~101 |
 | Wait, I know you? | 3.00% | ~101 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 242)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,370 (Ranked 190)  
+Progressed: 3,371 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-21 | 3,349 | 0 |
 | 2023-10-22 | 3,362 | 0 |
 | 2023-10-23 | 3,368 | 0 |
-| 2023-10-24 | 3,370 | 0 |
+| 2023-10-24 | 3,371 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

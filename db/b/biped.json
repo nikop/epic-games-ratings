@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6643,
+  "EOS_Progressed": 6646,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11704,6 +11704,11 @@
       "Time": "2023-10-24T10:05:28.811503+00:00",
       "NumProgressed": 6643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T11:04:44.4904976+00:00",
+      "NumProgressed": 6646,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11715,7 +11720,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "10",
@@ -11771,7 +11776,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "3",
@@ -11779,7 +11784,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "4",
@@ -11787,7 +11792,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "5",
@@ -11795,7 +11800,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "6",
@@ -11834,7 +11839,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6643,
+      "Progressed": 6646,
       "Completed": 0
     }
   ],
@@ -11842,8 +11847,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:05:28.8115026+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:04:44.4904972+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.0129629+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:57:13.4210094+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:05:28.8115757+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:57:11.9865372+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:04:44.4905591+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.43 (Ranked 679)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,629 |
-| This is only the beginning | 19.00% | ~42,844 |
-| Knowledge is power | 12.00% | ~27,059 |
+| No aid from the Omnissiah | 26.00% | ~58,631 |
+| This is only the beginning | 19.00% | ~42,846 |
+| Knowledge is power | 12.00% | ~27,060 |
 | Galvanic Rifle | 10.00% | ~22,550 |
 | Power Ranger | 9.00% | ~20,295 |
 | Taser Goad | 9.00% | ~20,295 |
@@ -26,21 +26,21 @@ Rating: 4.43 (Ranked 679)
 | Architect Abortion | 2.00% | ~4,510 |
 | Cohortus Maximus | 0.80% | ~1,804 |
 | Mother of Xenarites | 0.40% | ~902 |
-| False God | 0.30% | ~676 |
+| False God | 0.30% | ~677 |
 | Hard | 0.20% | ~451 |
 | Sensory overload | 0.20% | ~451 |
 | Transonic Blur | 0.20% | ~451 |
-| Sterile Perfection | 0.10% | ~225 |
-| Impossible | 0.10% | ~225 |
-| Melee Machine | 0.10% | ~225 |
-| AoE-phobia | 0.10% | ~225 |
-| Zero to Hero | 0.10% | ~225 |
-| No Omnissian Guidance | 0.10% | ~225 |
-| Not the Men-of-Iron | 0.10% | ~225 |
-| Perma-live | 0.10% | ~225 |
-| Purge the Heretek | 0.10% | ~225 |
+| Sterile Perfection | 0.10% | ~226 |
+| Impossible | 0.10% | ~226 |
+| Melee Machine | 0.10% | ~226 |
+| AoE-phobia | 0.10% | ~226 |
+| Zero to Hero | 0.10% | ~226 |
+| No Omnissian Guidance | 0.10% | ~226 |
+| Not the Men-of-Iron | 0.10% | ~226 |
+| Perma-live | 0.10% | ~226 |
+| Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,495 (Ranked 64)  
+Progressed: 225,504 (Ranked 64)  
 Completed: 5 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 5 (0.00%) (Ranked 323)
 | 2023-10-21 | 225,295 | 5 |
 | 2023-10-22 | 225,388 | 5 |
 | 2023-10-23 | 225,464 | 5 |
-| 2023-10-24 | 225,495 | 5 |
+| 2023-10-24 | 225,504 | 5 |
 ## Awards
 Max (Highly Recommended): 287  (Ranked 248)  
 Sum: 2,172 (Ranked 199)  

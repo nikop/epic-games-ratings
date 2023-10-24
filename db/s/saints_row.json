@@ -3891,9 +3891,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76018,
+  "EOS_Progressed": 76020,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24951,6 +24951,11 @@
       "Time": "2023-10-24T10:07:57.7581682+00:00",
       "NumProgressed": 76018,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T11:06:35.3257269+00:00",
+      "NumProgressed": 76020,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24978,7 +24983,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13683
+      "UsersEstimate": 13684
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -25010,7 +25015,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 19004
+      "UsersEstimate": 19005
     },
     {
       "ID": "complet_epilogue_mission",
@@ -25074,7 +25079,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34968
+      "UsersEstimate": 34969
     },
     {
       "ID": "customize_a_vehicle",
@@ -25082,7 +25087,7 @@
       "Name": "Tune Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25086
+      "UsersEstimate": 25087
     },
     {
       "ID": "customize_a_weapon",
@@ -25138,7 +25143,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19004
+      "UsersEstimate": 19005
     },
     {
       "ID": "empire_tier_3",
@@ -25146,7 +25151,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14443
+      "UsersEstimate": 14444
     },
     {
       "ID": "empire_tier_4",
@@ -25178,7 +25183,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17484
+      "UsersEstimate": 17485
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25210,7 +25215,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27366
+      "UsersEstimate": 27367
     },
     {
       "ID": "hit_max_level",
@@ -25242,7 +25247,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21285
+      "UsersEstimate": 21286
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -25258,7 +25263,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26606
+      "UsersEstimate": 26607
     },
     {
       "ID": "one_third_purple",
@@ -25274,7 +25279,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "prank_coop_partner",
@@ -25385,13 +25390,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76018,
+      "Progressed": 76020,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47655,
+      "Progressed": 47657,
       "Completed": 4174
     }
   ],
@@ -25399,8 +25404,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:07:57.7581678+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:06:35.3257266+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:03:11.6048837+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:07:57.7583045+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:02:16.451752+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:06:35.3258619+00:00"
 }

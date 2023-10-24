@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,430 (Ranked 119)  
+Progressed: 27,432 (Ranked 119)  
 Completed: 63 (0.23%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 63 (0.23%) (Ranked 222)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,430 | 63 |
+| 2023-10-24 | 27,432 | 63 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,513 (Ranked 184)  

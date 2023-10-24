@@ -2,12 +2,12 @@
   "ID": "04467b70295342a79381467353f23955",
   "Name": "Layers of Fear: Masterpiece Edition",
   "ProductSlug": "layers-of-fear",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2016-02-15T15:00:00+00:00",
@@ -399,6 +399,6 @@
   "FirstSeen": "2022-07-22T20:26:29.1807297+00:00",
   "LastChanged": "2023-09-19T08:58:32.0322944+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:56.8933746+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:00:19.6587235+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:07:11.3658597+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:59:31.9383241+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:06:00.76339+00:00"
 }

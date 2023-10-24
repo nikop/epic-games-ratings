@@ -1,13 +1,13 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 632)  
+Rating: 4.46 (Ranked 633)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~132,820 |
-| My First Runbow | 50.00% | ~125,302 |
-| It's The Fall | 26.00% | ~65,157 |
+| In The Zone | 53.00% | ~132,821 |
+| My First Runbow | 50.00% | ~125,303 |
+| It's The Fall | 26.00% | ~65,158 |
 | The Stunner | 22.00% | ~55,133 |
 | Be Aggressive | 21.00% | ~52,627 |
 | Curator | 20.00% | ~50,121 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 632)
 | Talent Scout | 0.10% | ~251 |
 | True Completionist | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,604 (Ranked 54)  
+Progressed: 250,606 (Ranked 54)  
 Completed: 6 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 6 (0.00%) (Ranked 323)
 | 2023-10-21 | 250,526 | 6 |
 | 2023-10-22 | 250,568 | 6 |
 | 2023-10-23 | 250,594 | 6 |
-| 2023-10-24 | 250,604 | 6 |
+| 2023-10-24 | 250,606 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

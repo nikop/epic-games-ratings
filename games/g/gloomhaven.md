@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,759 |
-| Overkill | 35.00% | ~5,501 |
-| A normal day in Gloomhaven | 34.00% | ~5,344 |
-| Vaccine Incoming | 33.00% | ~5,187 |
-| Spread the plague | 30.00% | ~4,715 |
-| Get over here! | 24.00% | ~3,772 |
-| Just when I thought I was out... | 19.00% | ~2,986 |
-| Precious! | 17.00% | ~2,672 |
-| Mine... All Mine... | 17.00% | ~2,672 |
-| Light of my life | 15.00% | ~2,358 |
-| Anatomy Lesson | 15.00% | ~2,358 |
+| I'm not dead yet | 43.00% | ~6,761 |
+| Overkill | 35.00% | ~5,503 |
+| A normal day in Gloomhaven | 34.00% | ~5,346 |
+| Vaccine Incoming | 33.00% | ~5,189 |
+| Spread the plague | 30.00% | ~4,717 |
+| Get over here! | 24.00% | ~3,774 |
+| Just when I thought I was out... | 19.00% | ~2,988 |
+| Precious! | 17.00% | ~2,673 |
+| Mine... All Mine... | 17.00% | ~2,673 |
+| Light of my life | 15.00% | ~2,359 |
+| Anatomy Lesson | 15.00% | ~2,359 |
 | Grizzled veteran | 14.00% | ~2,201 |
-| You activated my trap card! | 13.00% | ~2,043 |
-| Obstacle race | 13.00% | ~2,043 |
-| Augmented rat | 12.00% | ~1,886 |
-| Doom and gloom | 11.00% | ~1,729 |
+| You activated my trap card! | 13.00% | ~2,044 |
+| Obstacle race | 13.00% | ~2,044 |
+| Augmented rat | 12.00% | ~1,887 |
+| Doom and gloom | 11.00% | ~1,730 |
 | Who's the Boss? | 9.00% | ~1,415 |
-| Dungeon Veteran | 8.00% | ~1,257 |
-| Pack leader | 8.00% | ~1,257 |
-| Pain is your friend | 8.00% | ~1,257 |
-| Black death | 8.00% | ~1,257 |
-| Play it again, Sam | 8.00% | ~1,257 |
+| Dungeon Veteran | 8.00% | ~1,258 |
+| Pack leader | 8.00% | ~1,258 |
+| Pain is your friend | 8.00% | ~1,258 |
+| Black death | 8.00% | ~1,258 |
+| Play it again, Sam | 8.00% | ~1,258 |
 | Quad damage | 6.00% | ~943 |
 | Power Up! | 5.00% | ~786 |
 | The Pro from Dover | 5.00% | ~786 |
@@ -47,7 +47,7 @@ Number of Ratings: 68  (23.09.2022)
 | An axe to grind | 2.00% | ~314 |
 | Add a bit of colour | 1.00% | ~157 |
 | How to train your Drake | 1.00% | ~157 |
-| New Blood | 0.90% | ~141 |
+| New Blood | 0.90% | ~142 |
 | Captain hooked | 0.80% | ~126 |
 | Betray this | 0.70% | ~110 |
 | Spoiler police! | 0.70% | ~110 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,718 (Ranked 137)  
+Progressed: 15,724 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,17 +109,17 @@ Completed: 1 (0.01%) (Ranked 304)
 | 2023-10-21 | 15,077 | 1 |
 | 2023-10-22 | 15,407 | 1 |
 | 2023-10-23 | 15,655 | 1 |
-| 2023-10-24 | 15,718 | 1 |
+| 2023-10-24 | 15,724 | 1 |
 ## Awards
 Max (Character Customization): 3,559  (Ranked 90)  
-Sum: 8,311 (Ranked 98)  
+Sum: 8,312 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,559 |
 | This game has Diverse Characters | 592 |
 | This game has Challenging Combat | 549 |
-| This game is Highly Recommended | 541 |
+| This game is Highly Recommended | 542 |
 | This game is Extremely Fun | 537 |
 | This game has Amazing Characters | 488 |
 | This game is Relaxing | 487 |
@@ -331,3 +331,4 @@ Diff (max vs sum): -8
 | 2023-10-21 | 4.47 | - | 3,557 | 8,306 |
 | 2023-10-22 | 4.47 | - | 3,558 | 8,309 |
 | 2023-10-23 | 4.47 | - | 3,559 | 8,311 |
+| 2023-10-24 | 4.47 | - | 3,559 | 8,312 |

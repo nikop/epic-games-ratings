@@ -6,18 +6,18 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~565,397 |
-| Error: Stack Overflow | 66.00% | ~401,250 |
-| We need more gold | 61.00% | ~370,852 |
-| The dawn of civilization | 53.00% | ~322,216 |
-| More FPS for the FPS god! | 50.00% | ~303,977 |
-| Beauty and harmony | 48.00% | ~291,818 |
-| One more! | 44.00% | ~267,500 |
-| Overmind | 24.00% | ~145,909 |
-| RNG is my best friend now | 18.00% | ~109,432 |
-| Cosplay | 13.00% | ~79,034 |
-| Evolution in progress... | 13.00% | ~79,034 |
-| Step by step | 8.00% | ~48,636 |
+| First.. Bit? | 93.00% | ~565,402 |
+| Error: Stack Overflow | 66.00% | ~401,253 |
+| We need more gold | 61.00% | ~370,855 |
+| The dawn of civilization | 53.00% | ~322,218 |
+| More FPS for the FPS god! | 50.00% | ~303,980 |
+| Beauty and harmony | 48.00% | ~291,820 |
+| One more! | 44.00% | ~267,502 |
+| Overmind | 24.00% | ~145,910 |
+| RNG is my best friend now | 18.00% | ~109,433 |
+| Cosplay | 13.00% | ~79,035 |
+| Evolution in progress... | 13.00% | ~79,035 |
+| Step by step | 8.00% | ~48,637 |
 | README reader | 3.00% | ~18,239 |
 | Data scientist | 3.00% | ~18,239 |
 | One small step for a man... | 3.00% | ~18,239 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,824 |
 | The Scrooge | 0.10% | ~608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607,954 (Ranked 29)  
+Progressed: 607,959 (Ranked 29)  
 Completed: 536 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,14 +222,14 @@ Completed: 536 (0.09%) (Ranked 262)
 | 2023-10-21 | 607,672 | 534 |
 | 2023-10-22 | 607,811 | 534 |
 | 2023-10-23 | 607,920 | 536 |
-| 2023-10-24 | 607,954 | 536 |
+| 2023-10-24 | 607,959 | 536 |
 ## Awards
-Max (Challenging Puzzles): 134  (Ranked 317)  
-Sum: 134 (Ranked 419)  
+Max (Challenging Puzzles): 135  (Ranked 317)  
+Sum: 135 (Ranked 419)  
 Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 134 |
+| This game features Challenging Puzzles | 135 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -311,3 +311,4 @@ Diff (max vs sum): -102
 | 2023-05-17 | 4.51 | - | 132 | 132 |
 | 2023-06-10 | 4.51 | - | 133 | 133 |
 | 2023-07-16 | 4.51 | - | 134 | 134 |
+| 2023-10-24 | 4.51 | - | 135 | 135 |

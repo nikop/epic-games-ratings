@@ -8202,9 +8202,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63826,
+  "EOS_Progressed": 63828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27972,6 +27972,11 @@
       "Time": "2023-10-24T09:08:08.010153+00:00",
       "NumProgressed": 63826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T11:08:10.1878194+00:00",
+      "NumProgressed": 63828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28023,7 +28028,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "Catch",
@@ -28111,7 +28116,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8297
+      "UsersEstimate": 8298
     },
     {
       "ID": "Great Granny",
@@ -28175,7 +28180,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10850
+      "UsersEstimate": 10851
     },
     {
       "ID": "Kingslayer",
@@ -28215,7 +28220,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24892
+      "UsersEstimate": 24893
     },
     {
       "ID": "Lawmaker",
@@ -28343,7 +28348,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8297
+      "UsersEstimate": 8298
     },
     {
       "ID": "This is Sparta",
@@ -28390,15 +28395,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63826,
+      "Progressed": 63828,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-23T16:00:46.1434134+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:08:44.0054227+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:08:10.187819+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-24T10:01:52.3844698+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:08:44.0055453+00:00"
+  "LastUpdate_Ratings": "2023-10-24T11:00:37.3858683+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:08:10.1879483+00:00"
 }

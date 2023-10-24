@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -391,7 +391,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3370,
+  "EOS_Progressed": 3371,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3331,6 +3331,11 @@
       "Time": "2023-10-24T08:06:51.29637+00:00",
       "NumProgressed": 3370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T11:06:03.1541118+00:00",
+      "NumProgressed": 3371,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3343,7 +3348,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "achievement_0002",
@@ -3383,7 +3388,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "achievement_0007",
@@ -3399,7 +3404,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "achievement_0009",
@@ -3503,7 +3508,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "achievement_0022",
@@ -3527,7 +3532,7 @@
       "Name": "Loyal Bond",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_0025",
@@ -3551,7 +3556,7 @@
       "Name": "Switcheroo",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_0028",
@@ -3591,7 +3596,7 @@
       "Name": "Tinkerer",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_0033",
@@ -3607,7 +3612,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "achievement_0035",
@@ -3687,7 +3692,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "achievement_0045",
@@ -3711,7 +3716,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_0048",
@@ -3734,7 +3739,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3370,
+      "Progressed": 3371,
       "Completed": 0
     }
   ],
@@ -3742,8 +3747,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:07:14.4767585+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:06:03.1541114+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:59:59.829461+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:07:14.4768583+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:59:16.2959856+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:06:03.1541582+00:00"
 }

@@ -8418,9 +8418,9 @@
       "Count": 953
     }
   ],
-  "EOS_Progressed": 121361,
+  "EOS_Progressed": 121362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27823,6 +27823,11 @@
       "Time": "2023-10-24T10:09:24.8531649+00:00",
       "NumProgressed": 121361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T11:08:33.623779+00:00",
+      "NumProgressed": 121362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -27834,7 +27839,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 86166
+      "UsersEstimate": 86167
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -27874,7 +27879,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82525
+      "UsersEstimate": 82526
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -27882,7 +27887,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 81312
+      "UsersEstimate": 81313
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -27890,7 +27895,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 80098
+      "UsersEstimate": 80099
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -27914,7 +27919,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 82525
+      "UsersEstimate": 82526
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -27930,7 +27935,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 46117
+      "UsersEstimate": 46118
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -27938,7 +27943,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 60680
+      "UsersEstimate": 60681
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -27970,7 +27975,7 @@
       "Name": "Dissector",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20631
+      "UsersEstimate": 20632
     },
     {
       "ID": "combat_kill_cosmic",
@@ -28018,7 +28023,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 46117
+      "UsersEstimate": 46118
     },
     {
       "ID": "combat_kill_gentry",
@@ -28106,7 +28111,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20631
+      "UsersEstimate": 20632
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -28122,7 +28127,7 @@
       "Name": "Spelunker",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 26699
+      "UsersEstimate": 26700
     },
     {
       "ID": "driving_biome_clear_city",
@@ -28202,7 +28207,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83739
+      "UsersEstimate": 83740
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -28226,7 +28231,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112866
+      "UsersEstimate": 112867
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -28242,7 +28247,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 36408
+      "UsersEstimate": 36409
     },
     {
       "ID": "inn_visit_all_variants",
@@ -28266,7 +28271,7 @@
       "Name": "Utopia",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -28290,7 +28295,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 81312
+      "UsersEstimate": 81313
     },
     {
       "ID": "run_victory_act02",
@@ -28346,22 +28351,22 @@
       "Name": "Road Trip",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 26699
+      "UsersEstimate": 26700
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 121361,
+      "Progressed": 121362,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-23T21:01:53.3303546+00:00",
-  "LastChanged_Achievements": "2023-10-24T10:09:24.8531646+00:00",
+  "LastChanged_Achievements": "2023-10-24T11:08:33.6237785+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:18.3277019+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:57:30.8578249+00:00",
-  "LastUpdate_Achievements": "2023-10-24T10:09:24.8532987+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:57:25.819877+00:00",
+  "LastUpdate_Achievements": "2023-10-24T11:08:33.6239663+00:00"
 }
