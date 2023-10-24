@@ -7215,9 +7215,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715906,
+  "EOS_Progressed": 715907,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23755,6 +23755,11 @@
       "Time": "2023-10-24T15:08:44.6269929+00:00",
       "NumProgressed": 715906,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-24T18:08:28.5794796+00:00",
+      "NumProgressed": 715907,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -24100,9 +24105,9 @@
       "ID": "43_Arena_UnlockPack",
       "SetID": "14c2oii",
       "Name": "Project Arena",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 126
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -24245,21 +24250,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25207,
+      "Progressed": 25208,
       "Completed": 10716
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715906,
+      "Progressed": 715907,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-24T14:02:39.9363547+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:08:12.9234517+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:08:28.5794789+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:02:09.9280192+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:08:12.92372+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:02:43.7440647+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:08:28.5796345+00:00"
 }

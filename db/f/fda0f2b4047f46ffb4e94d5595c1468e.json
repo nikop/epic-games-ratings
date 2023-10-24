@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1591,10 +1591,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3689,
       "NumberOfAwardsMax": 1305
+    },
+    {
+      "Time": "2023-10-24T17:59:17.4427737+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3708,
+      "NumberOfAwardsMax": 1305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3689,
+  "NumberOfAwards": 3708,
   "NumberOfAwardsMax": 1305,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1620,7 +1626,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 274
+      "Count": 284
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1656,7 +1662,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 218
+      "Count": 223
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1668,12 +1674,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 265
+      "Count": 269
     }
   ],
   "EOS_Progressed": 8013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5631,9 +5637,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 5930
+      "UsersEstimate": 6010
     },
     {
       "ID": "ach07",
@@ -5959,9 +5965,9 @@
       "ID": "ach47",
       "SetID": "47in8n6",
       "Name": "Big Spender",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1603
     },
     {
       "ID": "ach48",
@@ -5999,9 +6005,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-24T15:59:24.6348186+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:05:11.6000618+00:00",
+  "LastChanged": "2023-10-24T17:59:17.4427736+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:05:36.2695831+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:58:51.954323+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:05:11.6001694+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:59:17.4427742+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:05:36.2696737+00:00"
 }

@@ -27,18 +27,18 @@
 | Explorer | 6.00% | ~28 |
 | Trio | 6.00% | ~28 |
 | Pyromancer | 5.00% | ~23 |
+| Spell Master | 4.00% | ~18 |
 | Arrive Home | 3.00% | ~14 |
 | Holy Knight | 3.00% | ~14 |
+| Hoarder | 3.00% | ~14 |
 | Marksman | 3.00% | ~14 |
-| Spell Master | 3.00% | ~14 |
-| Hoarder | 2.00% | ~9 |
 | Meat Lover | 2.00% | ~9 |
+| Rune Master | 2.00% | ~9 |
 | Sling of David | 2.00% | ~9 |
 | Sword Master | 2.00% | ~9 |
 | Witch | 2.00% | ~9 |
 | Assassin | 1.00% | ~5 |
 | Roughneck | 1.00% | ~5 |
-| Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.20% | ~1 |

@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 2.00% | ~298 |
 | Architect | 2.00% | ~298 |
 | Enlightened | 2.00% | ~298 |
+| Fountainhead | 2.00% | ~298 |
 | Glorious | 2.00% | ~298 |
 | Good | 2.00% | ~298 |
 | Just | 2.00% | ~298 |
@@ -45,7 +46,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~149 |
 | Drillmaster | 1.00% | ~149 |
 | Brilliant | 1.00% | ~149 |
-| Fountainhead | 1.00% | ~149 |
+| Conqueror | 1.00% | ~149 |
 | Great | 1.00% | ~149 |
 | Mighty | 1.00% | ~149 |
 | Valiant | 1.00% | ~149 |
@@ -73,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~149 |
 | Hanging Gardens in Babylon | 0.90% | ~134 |
 | Beloved | 0.90% | ~134 |
-| Conqueror | 0.90% | ~134 |
 | Intercessor | 0.90% | ~134 |
 | Lion | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
@@ -106,30 +106,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.70% | ~104 |
 | Phalangite | 0.70% | ~104 |
 | Double Victory | 0.70% | ~104 |
-| The Clergy | 0.70% | ~104 |
 | Capable | 0.60% | ~90 |
 | Strong Difficulty | 0.60% | ~90 |
 | Hunters | 0.60% | ~90 |
 | Church of the Holy Sepulchre | 0.60% | ~90 |
+| Babylonia | 0.60% | ~90 |
 | Carthage | 0.60% | ~90 |
+| One True Faith | 0.60% | ~90 |
 | Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
 | Gnosticism | 0.60% | ~90 |
+| Veneration | 0.60% | ~90 |
 | Cimmerian Archer | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
+| The Clergy | 0.60% | ~90 |
 | Devout | 0.50% | ~75 |
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
-| Babylonia | 0.50% | ~75 |
 | Egypt | 0.50% | ~75 |
-| One True Faith | 0.50% | ~75 |
+| Rome | 0.50% | ~75 |
 | Assyrian Paganism | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
 | Industrial Progress | 0.50% | ~75 |
 | Enlightenment | 0.50% | ~75 |
-| Veneration | 0.50% | ~75 |
 | Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | The Great Mage | 0.50% | ~75 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~60 |
 | Adur Burzen-Mihr | 0.40% | ~60 |
 | Learn to Play 5 | 0.40% | ~60 |
-| Rome | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,923 (Ranked 140)  
+Progressed: 14,925 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,923 | 5 |
+| 2023-10-24 | 14,925 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

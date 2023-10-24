@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39355,
+  "EOS_Progressed": 39358,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19795,6 +19795,11 @@
       "Time": "2023-10-24T17:08:03.1463959+00:00",
       "NumProgressed": 39355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T18:08:18.5288038+00:00",
+      "NumProgressed": 39358,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19822,7 +19827,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6690
+      "UsersEstimate": 6691
     },
     {
       "ID": "ach_antiquarian10",
@@ -19846,7 +19851,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ach_contdrownie",
@@ -19878,7 +19883,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ach_cursestorm",
@@ -19926,7 +19931,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14168
+      "UsersEstimate": 14169
     },
     {
       "ID": "ach_die10",
@@ -20174,7 +20179,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5903
+      "UsersEstimate": 5904
     },
     {
       "ID": "ach_undercurrent",
@@ -20214,7 +20219,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ach_year10",
@@ -20237,15 +20242,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39355,
+      "Progressed": 39358,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:08:03.146395+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:08:18.5288032+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:58:34.5238278+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:08:03.1465598+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:58:59.9479875+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:08:18.5289629+00:00"
 }

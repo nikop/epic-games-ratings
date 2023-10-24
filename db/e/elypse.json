@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach_DeathXTime",
@@ -615,9 +615,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -631,9 +631,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -703,9 +703,9 @@
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach_LavaDeath",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:06:22.755627+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:07:08.4381348+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.7603509+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:59:59.0037879+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:06:22.7556542+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:00:24.8902107+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:07:08.4381628+00:00"
 }

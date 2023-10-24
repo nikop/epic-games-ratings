@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -14084,9 +14084,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893653,
+  "EOS_Progressed": 893660,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1256,
+  "EOS_NewPlayers": 1253,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35294,6 +35294,11 @@
       "Time": "2023-10-24T17:06:41.094706+00:00",
       "NumProgressed": 893653,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T18:07:26.6134405+00:00",
+      "NumProgressed": 893660,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35528,9 +35533,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 3575
     },
     {
       "ID": "TheHightPriestess",
@@ -35825,21 +35830,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893653,
+      "Progressed": 893660,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22276,
+      "Progressed": 22283,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-24T16:01:34.4910488+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:06:41.094705+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:07:26.6134398+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:00:46.7488563+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:06:41.0949311+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:01:20.2500755+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:07:26.6136511+00:00"
 }

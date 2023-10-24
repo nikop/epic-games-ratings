@@ -9,8 +9,8 @@ Rating: 4.57 (Ranked 459)
 | Philanthropist | 88.00% | ~7 |
 | Adventurer | 88.00% | ~7 |
 | Map reader | 88.00% | ~7 |
+| The brave little tailor | 75.00% | ~6 |
 | Archer | 75.00% | ~6 |
-| The brave little tailor | 63.00% | ~5 |
 | Samaritan | 63.00% | ~5 |
 | Well-to-do | 63.00% | ~5 |
 | Ladies' man | 63.00% | ~5 |
@@ -39,6 +39,7 @@ Rating: 4.57 (Ranked 459)
 | Master thief | 25.00% | ~2 |
 | Moneybags | 25.00% | ~2 |
 | King Midas | 25.00% | ~2 |
+| King of the handymen | 25.00% | ~2 |
 | Sidelined | 25.00% | ~2 |
 | Master detective | 25.00% | ~2 |
 | The traveler | 13.00% | ~1 |
@@ -47,7 +48,6 @@ Rating: 4.57 (Ranked 459)
 | Peacekeeper | 13.00% | ~1 |
 | Fervent swimmer | 13.00% | ~1 |
 | Jester | 13.00% | ~1 |
-| King of the handymen | 13.00% | ~1 |
 | Rune master | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
 | Mage | 0.00% | ~0 |

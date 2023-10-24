@@ -6,13 +6,13 @@ Rating: 4.60 (Ranked 401)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~2,573 |
+| Bosmang | 8.00% | ~1,143 |
 | Drug Gifter | 7.00% | ~1,001 |
-| Bosmang | 7.00% | ~1,001 |
 | The Pit and the Pirates | 6.00% | ~858 |
 | Drone Dodger | 6.00% | ~858 |
+| Call it Even | 6.00% | ~858 |
 | Data Archivist | 5.00% | ~715 |
 | Heal Thy Medic | 5.00% | ~715 |
-| Call it Even | 5.00% | ~715 |
 | Celebrations are in Order | 5.00% | ~715 |
 | Impossible Objects | 5.00% | ~715 |
 | Stogie for Fogey | 4.00% | ~572 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -159,9 +159,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2023-10-24T01:51:11.7847922+00:00",
       "NumProgressed": 925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T18:09:11.9803443+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -2194,7 +2199,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 92,
       "XP": 30,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC02",
@@ -2226,7 +2231,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AC06",
@@ -2248,9 +2253,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 574
+      "UsersEstimate": 565
     },
     {
       "ID": "AC09",
@@ -2282,15 +2287,15 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 370
     },
     {
       "ID": "AC14",
@@ -2330,7 +2335,7 @@
       "Name": "Acquired Taste",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "AC19",
@@ -2338,7 +2343,7 @@
       "Name": "Soledad",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "AC20",
@@ -2346,7 +2351,7 @@
       "Name": "Still Among Us",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AC21",
@@ -2394,7 +2399,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AC27",
@@ -2410,7 +2415,7 @@
       "Name": "The Punished One",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "AC29",
@@ -2426,7 +2431,7 @@
       "Name": "The Anointed One",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "AC31",
@@ -2474,7 +2479,7 @@
       "Name": "Blessed Incense",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "AC37",
@@ -2506,7 +2511,7 @@
       "Name": "Welcome Back!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "AC41",
@@ -2553,7 +2558,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 0
     }
   ],
@@ -2561,8 +2566,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:08:37.2339876+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:09:11.980344+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:59:48.7007338+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:08:37.2340329+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:00:13.4368439+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:09:11.9803905+00:00"
 }

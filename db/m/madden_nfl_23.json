@@ -745,7 +745,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2939,
+  "EOS_Progressed": 2940,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -3935,6 +3935,11 @@
       "Time": "2023-10-24T15:06:12.2509056+00:00",
       "NumProgressed": 2939,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T18:06:17.8610628+00:00",
+      "NumProgressed": 2940,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -3955,7 +3960,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "achievement_11",
@@ -3963,7 +3968,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_12",
@@ -3995,7 +4000,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "achievement_16",
@@ -4114,7 +4119,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2939,
+      "Progressed": 2940,
       "Completed": 0
     }
   ],
@@ -4122,8 +4127,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T21:58:31.897995+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:05:43.1779137+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:06:17.8610621+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:00:20.7677824+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:05:43.1779606+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:00:48.3664838+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:06:17.8610948+00:00"
 }

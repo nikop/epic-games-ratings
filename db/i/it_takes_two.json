@@ -4,7 +4,7 @@
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15835,
+  "EOS_Progressed": 15837,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1576,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4018,6 +4018,11 @@
       "Time": "2023-10-24T17:07:10.995314+00:00",
       "NumProgressed": 15835,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-24T18:07:36.3314974+00:00",
+      "NumProgressed": 15837,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4030,7 +4035,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 6651
+      "UsersEstimate": 6652
     },
     {
       "ID": "achievement_10",
@@ -4054,7 +4059,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 9026
+      "UsersEstimate": 9027
     },
     {
       "ID": "achievement_13",
@@ -4086,7 +4091,7 @@
       "Name": "Mood Swing",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "achievement_17",
@@ -4110,7 +4115,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "achievement_2",
@@ -4134,7 +4139,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13776
+      "UsersEstimate": 13778
     },
     {
       "ID": "achievement_4",
@@ -4142,7 +4147,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13935
+      "UsersEstimate": 13937
     },
     {
       "ID": "achievement_5",
@@ -4166,7 +4171,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12510
+      "UsersEstimate": 12511
     },
     {
       "ID": "achievement_8",
@@ -4174,7 +4179,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6810
     },
     {
       "ID": "achievement_9",
@@ -4182,20 +4187,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 8393
+      "UsersEstimate": 8394
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15835,
+      "Progressed": 15837,
       "Completed": 72
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:07:10.9953132+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:07:36.3314968+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:58:47.0594808+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:07:10.9953512+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:59:10.7108593+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:07:36.331541+00:00"
 }

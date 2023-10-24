@@ -6,7 +6,7 @@
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 53,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -495,9 +495,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252628,
+  "EOS_Progressed": 252788,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 21032,
+  "EOS_NewPlayers": 21029,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8845,6 +8845,11 @@
       "Time": "2023-10-24T17:03:21.2672758+00:00",
       "NumProgressed": 252628,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-24T18:03:35.2539272+00:00",
+      "NumProgressed": 252788,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 24,
@@ -8856,7 +8861,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "10",
@@ -8864,7 +8869,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5056
     },
     {
       "ID": "11",
@@ -8872,7 +8877,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "12",
@@ -8888,7 +8893,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "14",
@@ -8896,7 +8901,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7579
+      "UsersEstimate": 7584
     },
     {
       "ID": "15",
@@ -8944,7 +8949,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "20",
@@ -8952,7 +8957,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5053
+      "UsersEstimate": 5056
     },
     {
       "ID": "21",
@@ -8976,7 +8981,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "24",
@@ -8984,7 +8989,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2528
     },
     {
       "ID": "3",
@@ -9000,7 +9005,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2528
     },
     {
       "ID": "5",
@@ -9008,7 +9013,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12631
+      "UsersEstimate": 12639
     },
     {
       "ID": "6",
@@ -9016,7 +9021,7 @@
       "Name": "PRO",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2528
     },
     {
       "ID": "7",
@@ -9032,7 +9037,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "9",
@@ -9047,7 +9052,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 252628,
+      "Progressed": 252788,
       "Completed": 241
     }
   ],
@@ -9055,8 +9060,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-24T13:03:12.1400704+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:03:21.2672751+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:03:35.2539264+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:57:54.4605662+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:03:21.2673887+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:58:18.0613813+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:03:35.2540051+00:00"
 }

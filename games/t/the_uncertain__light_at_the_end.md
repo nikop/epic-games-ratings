@@ -5,7 +5,7 @@ Rating: 3.82 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 50.00% | ~272 |
+| Bundle of Joy | 51.00% | ~278 |
 | A Friend in Need... | 46.00% | ~251 |
 | Bosom Buddies | 30.00% | ~164 |
 | Beat the Heat | 24.00% | ~131 |

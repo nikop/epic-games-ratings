@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 168)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,514 |
+| Under a New Sun | 92.00% | ~12,515 |
 | Newcomers | 79.00% | ~10,746 |
-| A Burden of Blood | 74.00% | ~10,065 |
-| Protector's Duty | 71.00% | ~9,657 |
-| In our Wake | 69.00% | ~9,385 |
-| Alchemist | 69.00% | ~9,385 |
-| Leaving all Behind | 66.00% | ~8,977 |
-| Felons | 63.00% | ~8,569 |
-| A Sea of Promises | 61.00% | ~8,297 |
-| Tales and Revelations | 58.00% | ~7,889 |
-| Bloodline | 53.00% | ~7,209 |
+| A Burden of Blood | 74.00% | ~10,066 |
+| Protector's Duty | 71.00% | ~9,658 |
+| In our Wake | 69.00% | ~9,386 |
+| Alchemist | 69.00% | ~9,386 |
+| Leaving all Behind | 66.00% | ~8,978 |
+| Felons | 63.00% | ~8,570 |
+| A Sea of Promises | 61.00% | ~8,298 |
+| Tales and Revelations | 58.00% | ~7,890 |
+| Bloodline | 53.00% | ~7,210 |
 | The Cradle of Centuries | 49.00% | ~6,665 |
 | The Life We Deserve | 47.00% | ~6,393 |
 | Night guard | 44.00% | ~5,985 |
@@ -23,12 +23,12 @@ Rating: 4.73 (Ranked 168)
 | Healing our Wounds | 38.00% | ~5,169 |
 | Dying Sun | 34.00% | ~4,625 |
 | Improved crossbow | 27.00% | ~3,673 |
-| King Hugo | 25.00% | ~3,400 |
-| Mercy | 24.00% | ~3,264 |
-| Perfect shot | 23.00% | ~3,128 |
-| Effective instruments | 22.00% | ~2,992 |
-| Perfect throw | 22.00% | ~2,992 |
-| Knights! | 21.00% | ~2,856 |
+| King Hugo | 25.00% | ~3,401 |
+| Mercy | 24.00% | ~3,265 |
+| Perfect shot | 23.00% | ~3,129 |
+| Effective instruments | 22.00% | ~2,993 |
+| Perfect throw | 22.00% | ~2,993 |
+| Knights! | 21.00% | ~2,857 |
 | Handful of pockets | 13.00% | ~1,768 |
 | Not a toy anymore | 12.00% | ~1,632 |
 | Pocket laboratory | 12.00% | ~1,632 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 168)
 | Old protector | 2.00% | ~272 |
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,602 (Ranked 143)  
+Progressed: 13,603 (Ranked 143)  
 Completed: 50 (0.37%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 50 (0.37%) (Ranked 205)
 | 2023-10-21 | 13,588 | 49 |
 | 2023-10-22 | 13,596 | 50 |
 | 2023-10-23 | 13,599 | 50 |
-| 2023-10-24 | 13,602 | 50 |
+| 2023-10-24 | 13,603 | 50 |
 ## Awards
 Max (Great Boss Battles): 427  (Ranked 218)  
 Sum: 663 (Ranked 297)  

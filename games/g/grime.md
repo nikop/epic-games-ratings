@@ -35,11 +35,11 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 0.30% | ~463 |
 | Hush | 0.30% | ~463 |
 | Breathsmith | 0.30% | ~463 |
-| Unwrap the Gift | 0.30% | ~463 |
 | Passage | 0.30% | ~463 |
 | Bloodhunter | 0.20% | ~309 |
 | Zygote | 0.20% | ~308 |
 | Kinship | 0.20% | ~309 |
+| Unwrap the Gift | 0.20% | ~309 |
 | Kin | 0.20% | ~308 |
 | Listen | 0.20% | ~308 |
 | Proportions | 0.20% | ~309 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,394 (Ranked 73)  
+Progressed: 154,406 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 1 (0.00%) (Ranked 324)
 | 2023-10-21 | 153,746 | 1 |
 | 2023-10-22 | 154,057 | 1 |
 | 2023-10-23 | 154,251 | 1 |
-| 2023-10-24 | 154,394 | 1 |
+| 2023-10-24 | 154,406 | 1 |
 ## Awards
 Max (Highly Recommended): 47  (Ranked 430)  
 Sum: 313 (Ranked 348)  

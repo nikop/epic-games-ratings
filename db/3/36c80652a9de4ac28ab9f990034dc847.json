@@ -4,7 +4,7 @@
   "ProductSlug": "death-crown-b2f5cd",
   "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
@@ -284,8 +284,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:07:23.7726027+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:07:49.614868+00:00",
   "LastUpdate_AppInfo": "2023-10-18T17:59:10.952117+00:00",
-  "LastUpdate_Ratings": "2023-10-24T16:57:58.3132015+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:07:23.7726183+00:00"
+  "LastUpdate_Ratings": "2023-10-24T17:58:23.5138151+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:07:49.6149185+00:00"
 }

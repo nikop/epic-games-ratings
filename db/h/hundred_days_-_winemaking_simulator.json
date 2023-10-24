@@ -6,8 +6,8 @@
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1027,7 +1027,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 9395,
+  "EOS_Progressed": 9404,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 1,
@@ -7567,6 +7567,11 @@
       "Time": "2023-10-24T17:05:03.4698973+00:00",
       "NumProgressed": 9395,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-24T18:05:28.2134815+00:00",
+      "NumProgressed": 9404,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -7627,7 +7632,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3668
     },
     {
       "ID": "a_19",
@@ -7705,9 +7710,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 94
     },
     {
       "ID": "a_3",
@@ -7826,7 +7831,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 9395,
+      "Progressed": 9404,
       "Completed": 9
     }
   ],
@@ -7834,8 +7839,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-20T16:59:38.2228858+00:00",
-  "LastChanged_Achievements": "2023-10-24T17:05:03.4698966+00:00",
+  "LastChanged_Achievements": "2023-10-24T18:05:28.2134807+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:04.5096147+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:01:03.620817+00:00",
-  "LastUpdate_Achievements": "2023-10-24T17:05:03.4699741+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:01:35.232489+00:00",
+  "LastUpdate_Achievements": "2023-10-24T18:05:28.2135445+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 3.98 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~85 |
-| Battlefields Have Memories | 88.00% | ~84 |
-| Enlisted | 87.00% | ~83 |
-| Maybe Engage a Little | 83.00% | ~79 |
-| No More Names | 68.00% | ~65 |
-| Initiate | 60.00% | ~57 |
-| Thrada-Kul | 56.00% | ~53 |
-| Gravity-Challenged Rocks | 45.00% | ~43 |
-| Soldier | 39.00% | ~37 |
-| All the Major Food Groups | 39.00% | ~37 |
-| Socialite | 35.00% | ~33 |
-| Beggars Would Ride | 35.00% | ~33 |
-| Control is an Illusion | 33.00% | ~31 |
-| The Means to Save It | 26.00% | ~25 |
-| Resilience to Sin | 22.00% | ~21 |
-| A Familiar Nest | 21.00% | ~20 |
-| Periapt Alizarin | 21.00% | ~20 |
-| Geas Aristeya | 19.00% | ~18 |
-| Armsman | 19.00% | ~18 |
-| A Perfect Cycle | 16.00% | ~15 |
-| Recruit | 16.00% | ~15 |
-| Good Boy | 13.00% | ~12 |
-| Lights Army | 11.00% | ~10 |
-| Periapt Cerulean | 11.00% | ~10 |
-| Periapt Viridian | 11.00% | ~10 |
-| Shroudfane Explorer | 9.00% | ~9 |
+| Unforeseen | 90.00% | ~86 |
+| Battlefields Have Memories | 89.00% | ~85 |
+| Enlisted | 88.00% | ~84 |
+| Maybe Engage a Little | 83.00% | ~80 |
+| No More Names | 69.00% | ~66 |
+| Initiate | 60.00% | ~58 |
+| Thrada-Kul | 56.00% | ~54 |
+| Gravity-Challenged Rocks | 46.00% | ~44 |
+| Soldier | 40.00% | ~38 |
+| All the Major Food Groups | 40.00% | ~38 |
+| Beggars Would Ride | 35.00% | ~34 |
+| Socialite | 34.00% | ~33 |
+| Control is an Illusion | 33.00% | ~32 |
+| The Means to Save It | 27.00% | ~26 |
+| Resilience to Sin | 23.00% | ~22 |
+| A Familiar Nest | 22.00% | ~21 |
+| Periapt Alizarin | 22.00% | ~21 |
+| Geas Aristeya | 20.00% | ~19 |
+| Armsman | 20.00% | ~19 |
+| A Perfect Cycle | 17.00% | ~16 |
+| Recruit | 17.00% | ~16 |
+| Good Boy | 14.00% | ~13 |
+| Lights Army | 11.00% | ~11 |
+| Periapt Cerulean | 10.00% | ~10 |
+| Periapt Viridian | 10.00% | ~10 |
+| Shroudfane Explorer | 10.00% | ~10 |
+| Armaments Azure | 8.00% | ~8 |
 | Armaments Gules | 8.00% | ~8 |
 | Scholar | 7.00% | ~7 |
 | Best Dressed | 7.00% | ~7 |
-| Armaments Azure | 7.00% | ~7 |
 | Veteran | 6.00% | ~6 |
 | Kitted Out | 5.00% | ~5 |
 | Armaments Vert | 5.00% | ~5 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 980)
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 405)  
-Completed: 1 (1.05%) (Ranked 144)  
+Progressed: 96 (Ranked 404)  
+Completed: 1 (1.04%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 1 (1.05%) (Ranked 144)
 | 2023-10-18 | 93 | 1 |
 | 2023-10-20 | 94 | 1 |
 | 2023-10-21 | 95 | 1 |
+| 2023-10-24 | 96 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
