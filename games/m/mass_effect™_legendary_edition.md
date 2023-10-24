@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~743 |
-| Spectre Inductee | 84.00% | ~664 |
-| Medal of Exploration I | 75.00% | ~592 |
-| Recruit | 72.00% | ~569 |
-| Search and Rescue | 72.00% | ~569 |
-| Quarian Ally | 68.00% | ~537 |
-| Medal of Heroism | 66.00% | ~521 |
-| Honorarium of Corporate Service | 66.00% | ~521 |
-| Council Legion of Merit | 60.00% | ~474 |
-| Medal of Honor | 58.00% | ~458 |
-| Meritorious Service Medal | 58.00% | ~458 |
-| Medal of Exploration II | 58.00% | ~458 |
-| Turian Ally | 57.00% | ~450 |
-| Charismatic | 57.00% | ~450 |
-| Soldier | 56.00% | ~442 |
+| Distinguished Service Medal | 94.00% | ~744 |
+| Spectre Inductee | 83.00% | ~657 |
+| Medal of Exploration I | 75.00% | ~593 |
+| Recruit | 72.00% | ~570 |
+| Search and Rescue | 72.00% | ~570 |
+| Quarian Ally | 68.00% | ~538 |
+| Medal of Heroism | 66.00% | ~522 |
+| Honorarium of Corporate Service | 65.00% | ~514 |
+| Council Legion of Merit | 60.00% | ~475 |
+| Medal of Honor | 58.00% | ~459 |
+| Meritorious Service Medal | 58.00% | ~459 |
+| Medal of Exploration II | 58.00% | ~459 |
+| Turian Ally | 57.00% | ~451 |
+| Charismatic | 57.00% | ~451 |
+| Soldier | 56.00% | ~443 |
 | Asari Ally | 53.00% | ~419 |
 | Medal of Exploration III | 52.00% | ~411 |
 | Principled | 52.00% | ~411 |
-| Soldier Ally | 50.00% | ~395 |
-| Paramour I | 49.00% | ~387 |
-| Colonial Savior | 48.00% | ~379 |
-| Scientist | 48.00% | ~379 |
-| Merciless | 47.00% | ~371 |
+| Soldier Ally | 50.00% | ~396 |
+| Paramour I | 49.00% | ~388 |
+| Colonial Savior | 48.00% | ~380 |
+| Scientist | 48.00% | ~380 |
+| Merciless | 47.00% | ~372 |
 | Krogan Ally | 45.00% | ~356 |
 | Head Hunter | 45.00% | ~356 |
 | Missing in Action | 44.00% | ~348 |
@@ -36,14 +36,14 @@
 | Operative | 43.00% | ~340 |
 | Veteran | 42.00% | ~332 |
 | The Professor | 41.00% | ~324 |
-| Power Full | 41.00% | ~324 |
 | The Archangel | 40.00% | ~316 |
-| The Convict | 38.00% | ~300 |
-| Completionist | 37.00% | ~292 |
-| Colony Defense | 37.00% | ~292 |
-| The Krogan | 37.00% | ~292 |
-| Galactic Explorer | 36.00% | ~284 |
-| Broke, Blind, and Bedlam | 35.00% | ~276 |
+| Power Full | 40.00% | ~316 |
+| The Convict | 38.00% | ~301 |
+| Completionist | 37.00% | ~293 |
+| Colony Defense | 37.00% | ~293 |
+| The Krogan | 37.00% | ~293 |
+| Galactic Explorer | 36.00% | ~285 |
+| Broke, Blind, and Bedlam | 35.00% | ~277 |
 | Archivist | 34.00% | ~269 |
 | Ghost Ship | 34.00% | ~269 |
 | The Quarian | 34.00% | ~269 |
@@ -74,12 +74,12 @@
 | Suicide Mission | 28.00% | ~221 |
 | Against All Odds | 28.00% | ~221 |
 | Mobilizer | 28.00% | ~221 |
-| Untouchable | 27.00% | ~213 |
-| Eye of the Hurricane | 26.00% | ~205 |
-| Giant Killer | 26.00% | ~205 |
-| A House Divided | 26.00% | ~205 |
-| Weapon Specialist | 26.00% | ~205 |
-| World Shaker | 26.00% | ~205 |
+| Untouchable | 27.00% | ~214 |
+| Eye of the Hurricane | 26.00% | ~206 |
+| Giant Killer | 26.00% | ~206 |
+| A House Divided | 26.00% | ~206 |
+| Weapon Specialist | 26.00% | ~206 |
+| World Shaker | 26.00% | ~206 |
 | Liberator | 25.00% | ~198 |
 | Pathfinder | 24.00% | ~190 |
 | Tunnel Rat | 24.00% | ~190 |
@@ -102,9 +102,9 @@
 | Electronics Specialist | 17.00% | ~134 |
 | Executioner | 17.00% | ~134 |
 | Master and Commander | 17.00% | ~134 |
-| Throw Mastery | 16.00% | ~126 |
-| Patriot | 16.00% | ~126 |
-| Legend | 16.00% | ~126 |
+| Throw Mastery | 16.00% | ~127 |
+| Patriot | 16.00% | ~127 |
+| Legend | 16.00% | ~127 |
 | Mail Slot | 14.00% | ~111 |
 | Long Service Medal | 14.00% | ~111 |
 | Combined Arms | 13.00% | ~103 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~16 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 790 (Ranked 252)  
+Progressed: 791 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,4 +171,4 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-21 | 767 | 0 |
 | 2023-10-22 | 783 | 0 |
 | 2023-10-23 | 789 | 0 |
-| 2023-10-24 | 790 | 0 |
+| 2023-10-24 | 791 | 0 |

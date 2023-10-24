@@ -5685,10 +5685,10 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 702889,
+  "EOS_Progressed": 702912,
   "EOS_Completed": 2254,
-  "EOS_NewPlayers": 5906,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 5924,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -26920,6 +26920,11 @@
       "Time": "2023-10-24T09:04:30.0563118+00:00",
       "NumProgressed": 702889,
       "NumCompleted": 2254
+    },
+    {
+      "Time": "2023-10-24T10:04:48.5495835+00:00",
+      "NumProgressed": 702912,
+      "NumCompleted": 2254
     }
   ],
   "TotalAchievements": 45,
@@ -27115,7 +27120,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -27195,7 +27200,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "ach_skilled_up",
@@ -27267,7 +27272,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35144
+      "UsersEstimate": 35146
     },
     {
       "ID": "ach_well_known_survivor",
@@ -27290,22 +27295,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 702889,
+      "Progressed": 702912,
       "Completed": 2254
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 28431,
-      "Completed": 28431
+      "Progressed": 28454,
+      "Completed": 28454
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-24T09:03:30.7678639+00:00",
-  "LastChanged_Achievements": "2023-10-24T09:04:30.0563113+00:00",
+  "LastChanged_Achievements": "2023-10-24T10:04:48.549583+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:03:30.767865+00:00",
-  "LastUpdate_Achievements": "2023-10-24T09:04:30.0565066+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:03:34.5188253+00:00",
+  "LastUpdate_Achievements": "2023-10-24T10:04:48.549712+00:00"
 }

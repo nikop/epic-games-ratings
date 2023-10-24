@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.60% | ~828 |
 | Booty by the Boatload | 0.60% | ~828 |
 | Archivist | 0.60% | ~828 |
+| Industrial Evolution | 0.60% | ~828 |
 | Omae wa Mou Shindeiru | 0.60% | ~828 |
 | Supercharged | 0.60% | ~828 |
 | Ritualist | 0.60% | ~828 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.60% | ~828 |
 | Exotic Commodities | 0.60% | ~828 |
 | Fillin' the Bin | 0.50% | ~690 |
-| Industrial Evolution | 0.50% | ~690 |
 | A Legend is Born | 0.50% | ~690 |
 | Jackpot! | 0.50% | ~690 |
 | Economy of Scarce | 0.50% | ~690 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,060 (Ranked 75)  
+Progressed: 138,061 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 172 (0.12%) (Ranked 248)
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
-| 2023-10-24 | 138,060 | 172 |
+| 2023-10-24 | 138,061 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  

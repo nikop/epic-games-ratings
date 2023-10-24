@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 74.00% | ~45 |
-| Delving Onward | 64.00% | ~39 |
-| To the Mountain's Roots | 49.00% | ~30 |
-| Remains To Be Seen | 48.00% | ~29 |
-| Risk a Little Real Light | 41.00% | ~25 |
-| Caradhras The Cruel | 33.00% | ~20 |
-| Line of Azog, Ended | 28.00% | ~17 |
-| Darkness Is Passing | 28.00% | ~17 |
-| Miner's Helper | 25.00% | ~15 |
-| False King, Deposed | 25.00% | ~15 |
-| A Memory of this Place | 21.00% | ~13 |
-| Suit Up | 20.00% | ~12 |
-| Baruk Khazâd! | 15.00% | ~9 |
-| Covered Head to Toe | 13.00% | ~8 |
-| Decked Out | 7.00% | ~4 |
-| Battering Ram | 5.00% | ~3 |
+| Speak Friend | 58.00% | ~45 |
+| Delving Onward | 51.00% | ~39 |
+| To the Mountain's Roots | 39.00% | ~30 |
+| Remains To Be Seen | 38.00% | ~29 |
+| Risk a Little Real Light | 32.00% | ~25 |
+| Caradhras The Cruel | 26.00% | ~20 |
+| Line of Azog, Ended | 22.00% | ~17 |
+| Darkness Is Passing | 22.00% | ~17 |
+| Miner's Helper | 19.00% | ~15 |
+| False King, Deposed | 19.00% | ~15 |
+| A Memory of this Place | 17.00% | ~13 |
+| Suit Up | 16.00% | ~12 |
+| Baruk Khazâd! | 12.00% | ~9 |
+| Covered Head to Toe | 10.00% | ~8 |
+| Decked Out | 5.00% | ~4 |
+| Battering Ram | 4.00% | ~3 |
 | Guarded from Despair | 3.00% | ~2 |
 | Master of All Trades | 3.00% | ~2 |
 | True-silver | 3.00% | ~2 |
-| Dimrill Weaponcraft | 2.00% | ~1 |
+| Dimrill Weaponcraft | 1.00% | ~1 |
 | Shadow's Bane | 0.00% | ~0 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 | Hard-headed | 0.00% | ~0 |
 | Shielded | 0.00% | ~0 |
 | Westgate Weaponcraft | 0.00% | ~0 |
 | Deeps Weaponcraft | 0.00% | ~0 |
-| Eregion Weaponcraft | -1.60% | ~-1 |
+| Eregion Weaponcraft | -1.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 433)  
+Progressed: 77 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-10-24 | 61 | 0 |
+| 2023-10-24 | 77 | 0 |

@@ -9441,7 +9441,7 @@
       "Count": 738
     }
   ],
-  "EOS_Progressed": 298749,
+  "EOS_Progressed": 298750,
   "EOS_Completed": 491,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 3,
@@ -29336,6 +29336,11 @@
       "Time": "2023-10-24T09:09:06.2201163+00:00",
       "NumProgressed": 298749,
       "NumCompleted": 491
+    },
+    {
+      "Time": "2023-10-24T10:09:23.8182206+00:00",
+      "NumProgressed": 298750,
+      "NumCompleted": 491
     }
   ],
   "TotalAchievements": 45,
@@ -29435,7 +29440,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14937
+      "UsersEstimate": 14938
     },
     {
       "ID": "PFA_20",
@@ -29539,7 +29544,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "PFA_32",
@@ -29587,7 +29592,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "PFA_38",
@@ -29611,7 +29616,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14937
+      "UsersEstimate": 14938
     },
     {
       "ID": "PFA_40",
@@ -29619,7 +29624,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "PFA_41",
@@ -29627,7 +29632,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14937
+      "UsersEstimate": 14938
     },
     {
       "ID": "PFA_42",
@@ -29651,7 +29656,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "PFA_45",
@@ -29683,7 +29688,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38837
+      "UsersEstimate": 38838
     },
     {
       "ID": "PFA_8",
@@ -29699,14 +29704,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298749,
+      "Progressed": 298750,
       "Completed": 491
     }
   ],
@@ -29714,8 +29719,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-24T07:00:17.2625501+00:00",
-  "LastChanged_Achievements": "2023-10-24T09:09:06.2201156+00:00",
+  "LastChanged_Achievements": "2023-10-24T10:09:23.8182202+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:01:06.8201005+00:00",
-  "LastUpdate_Achievements": "2023-10-24T09:09:06.2203128+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:01:38.3729399+00:00",
+  "LastUpdate_Achievements": "2023-10-24T10:09:23.8183403+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "de6aa04dd4a44154bef6f80c561d2553",
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
-  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -94,6 +94,11 @@
       "Time": "2023-10-23T16:08:14.6973695+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T10:09:20.8028448+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:05:10.0052283+00:00",
@@ -104,15 +109,15 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AspirationOfYuanchu",
       "SetID": "c8fdd59",
       "Name": "Aspiration of Phoenix",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "BloodForBlood",
       "SetID": "c8fdd59",
       "Name": "Blood For Blood",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -128,7 +133,7 @@
       "ID": "BuyLowSellHigh",
       "SetID": "c8fdd59",
       "Name": "Buy Low Sell High",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -136,7 +141,7 @@
       "ID": "Catcha",
       "SetID": "c8fdd59",
       "Name": "Catcha",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -144,31 +149,31 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Chapter04_AJourneyBegins",
       "SetID": "c8fdd59",
       "Name": "A Journey Begins",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -176,7 +181,7 @@
       "ID": "Chapter05_Breakout",
       "SetID": "c8fdd59",
       "Name": "Breakout",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -184,7 +189,7 @@
       "ID": "Chapter06_NewExperience",
       "SetID": "c8fdd59",
       "Name": "New Experience",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -192,7 +197,7 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -200,7 +205,7 @@
       "ID": "Chapter08_UntimelyAdversity",
       "SetID": "c8fdd59",
       "Name": "Untimely Adversity",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "ID": "Chapter09_EmergedConcern",
       "SetID": "c8fdd59",
       "Name": "Emerged Concern",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "Chapter10_AThousandMiles",
       "SetID": "c8fdd59",
       "Name": "A Thousand Miles",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -224,7 +229,7 @@
       "ID": "Chapter11_BraveExploration",
       "SetID": "c8fdd59",
       "Name": "Brave Exploration",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "Chapter12_FirstEncounter",
       "SetID": "c8fdd59",
       "Name": "First Encounter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -240,7 +245,7 @@
       "ID": "Chapter13_AdventureInTheArroyo",
       "SetID": "c8fdd59",
       "Name": "Adventure in the Arroyo",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -248,7 +253,7 @@
       "ID": "Chapter14_MissedOpportunity",
       "SetID": "c8fdd59",
       "Name": "Missed Opportunity",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -256,7 +261,7 @@
       "ID": "Chapter15_TheComeback",
       "SetID": "c8fdd59",
       "Name": "The Comeback",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -264,7 +269,7 @@
       "ID": "Chapter16_ToEndItAll",
       "SetID": "c8fdd59",
       "Name": "To End It All",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -272,7 +277,7 @@
       "ID": "Chapter17_DustSettled",
       "SetID": "c8fdd59",
       "Name": "Dust Setteled",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -280,7 +285,7 @@
       "ID": "DroppedHard",
       "SetID": "c8fdd59",
       "Name": "Dropped Hard",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -288,15 +293,15 @@
       "ID": "EnemySlain",
       "SetID": "c8fdd59",
       "Name": "Enemy Slain",
-      "Percentage": 31,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FaithfulAudience",
       "SetID": "c8fdd59",
       "Name": "Seen It All",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -304,15 +309,15 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GoodCompany",
       "SetID": "c8fdd59",
       "Name": "Good Company",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -320,7 +325,7 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -328,7 +333,7 @@
       "ID": "Marker",
       "SetID": "c8fdd59",
       "Name": "Alchemist",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -336,7 +341,7 @@
       "ID": "PowerFromDiscipline",
       "SetID": "c8fdd59",
       "Name": "Power From Discipline",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -344,7 +349,7 @@
       "ID": "PowerUp",
       "SetID": "c8fdd59",
       "Name": "Power Up",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -352,15 +357,15 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RareFindings",
       "SetID": "c8fdd59",
       "Name": "Rare Findings",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -368,15 +373,15 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ScrollToWin",
       "SetID": "c8fdd59",
       "Name": "Scroll to Win",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -384,7 +389,7 @@
       "ID": "SecretBase",
       "SetID": "c8fdd59",
       "Name": "Secret Base",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -392,7 +397,7 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -400,7 +405,7 @@
       "ID": "SuperBestFriends",
       "SetID": "c8fdd59",
       "Name": "Super Best Friends",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -408,7 +413,7 @@
       "ID": "TheEnlightened",
       "SetID": "c8fdd59",
       "Name": "The Enlightened",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -416,7 +421,7 @@
       "ID": "ThousandMiles",
       "SetID": "c8fdd59",
       "Name": "Thousand Miles",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -424,7 +429,7 @@
       "ID": "UltimateWeapon",
       "SetID": "c8fdd59",
       "Name": "Ultimate Weapon",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -432,7 +437,7 @@
       "ID": "UnexpectedSurprise",
       "SetID": "c8fdd59",
       "Name": "Unexpected Surprise",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -440,7 +445,7 @@
       "ID": "WeWasHere",
       "SetID": "c8fdd59",
       "Name": "We Was Here",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -448,7 +453,7 @@
       "ID": "WithoutDiscrimination",
       "SetID": "c8fdd59",
       "Name": "Without Discrimination",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -457,14 +462,14 @@
     {
       "ID": "c8fdd59",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-10-24T09:09:03.516903+00:00",
+  "LastChanged_Achievements": "2023-10-24T10:09:20.8028444+00:00",
   "LastUpdate_AppInfo": "2023-10-23T11:57:16.990147+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:01:08.4822646+00:00",
-  "LastUpdate_Achievements": "2023-10-24T09:09:03.5169437+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:01:39.4387531+00:00",
+  "LastUpdate_Achievements": "2023-10-24T10:09:20.8028723+00:00"
 }

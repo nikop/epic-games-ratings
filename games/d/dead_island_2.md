@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,144 |
+| Welcome To Hell-A | 5.00% | ~35,146 |
 | Break A Leg | 4.00% | ~28,116 |
 | Coup de Grâce | 4.00% | ~28,116 |
 | Hazardous Materials | 4.00% | ~28,116 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 515)
 | Make it So | 0.70% | ~4,920 |
 | LA Influential | 0.60% | ~4,217 |
 | Gore Horse | 0.60% | ~4,217 |
-| Sole Survivor | 0.50% | ~3,514 |
-| Sharpest Tool in the Box | 0.50% | ~3,514 |
+| Sole Survivor | 0.50% | ~3,515 |
+| Sharpest Tool in the Box | 0.50% | ~3,515 |
 | Survival Skills | 0.40% | ~2,812 |
 | Donk! | 0.20% | ~1,406 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,889 (Ranked 22)  
+Progressed: 702,912 (Ranked 22)  
 Completed: 2,254 (0.32%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2,254 (0.32%) (Ranked 207)
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
-| 2023-10-24 | 702,889 | 2,254 |
+| 2023-10-24 | 702,912 | 2,254 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
 Sum: 9,898 (Ranked 91)  

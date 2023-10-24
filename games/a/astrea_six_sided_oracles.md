@@ -103,7 +103,7 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 430)  
+Progressed: 62 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |

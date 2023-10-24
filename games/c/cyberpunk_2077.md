@@ -24,6 +24,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.30% | ~2,681 |
 | True Warrior | 0.30% | ~2,681 |
 | Two Heads, One Bullet | 0.30% | ~2,681 |
+| Judy vs Night City | 0.30% | ~2,681 |
 | V for Vendetta | 0.30% | ~2,681 |
 | Legend of The Afterlife | 0.30% | ~2,681 |
 | To Bad Decisions! | 0.20% | ~1,787 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~1,787 |
 | The Lovers | 0.20% | ~1,787 |
 | The World | 0.20% | ~1,787 |
-| Judy vs Night City | 0.20% | ~1,787 |
 | Spin Doctor | 0.20% | ~44 |
 | King of Wands | 0.20% | ~44 |
 | City Lights | 0.10% | ~894 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,590 (Ranked 15)  
-Completed: 2,710 (0.30%) (Ranked 213)  
+Progressed: 893,599 (Ranked 15)  
+Completed: 2,711 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 2,710 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,590 | 2,710 |
+| 2023-10-24 | 893,599 | 2,711 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 323,314 (Ranked 11)  

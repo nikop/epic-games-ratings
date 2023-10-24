@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7505,10 +7505,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32183,
       "NumberOfAwardsMax": 5442
+    },
+    {
+      "Time": "2023-10-24T10:00:58.5084955+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32187,
+      "NumberOfAwardsMax": 5442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32183,
+  "NumberOfAwards": 32187,
   "NumberOfAwardsMax": 5442,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7522,7 +7528,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5433
+      "Count": 5437
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7555,9 +7561,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232699,
+  "EOS_Progressed": 232704,
   "EOS_Completed": 2383,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28415,6 +28421,11 @@
       "Time": "2023-10-24T09:07:33.7903852+00:00",
       "NumProgressed": 232699,
       "NumCompleted": 2383
+    },
+    {
+      "Time": "2023-10-24T10:08:07.7124006+00:00",
+      "NumProgressed": 232704,
+      "NumCompleted": 2383
     }
   ],
   "TotalAchievements": 528,
@@ -31728,9 +31739,9 @@
       "ID": "objective_completed_812",
       "SetID": "415jc5c",
       "Name": "The Sibriex",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_813",
@@ -32649,21 +32660,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198973,
-      "Completed": 3674
+      "Progressed": 198978,
+      "Completed": 3675
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232699,
+      "Progressed": 232704,
       "Completed": 2383
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-23T22:59:37.9489888+00:00",
-  "LastChanged_Achievements": "2023-10-24T09:07:33.7903847+00:00",
+  "LastChanged": "2023-10-24T10:00:58.5084953+00:00",
+  "LastChanged_Achievements": "2023-10-24T10:08:07.7124003+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-24T09:00:31.0018209+00:00",
-  "LastUpdate_Achievements": "2023-10-24T09:07:33.7939488+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:00:58.5084959+00:00",
+  "LastUpdate_Achievements": "2023-10-24T10:08:07.714997+00:00"
 }

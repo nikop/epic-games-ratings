@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 678,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -453,6 +453,11 @@
       "Time": "2023-10-24T09:07:22.802196+00:00",
       "NumProgressed": 676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T10:07:55.066595+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -497,7 +502,7 @@
       "Name": "Blobmeister",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -521,7 +526,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -545,7 +550,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -553,7 +558,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -561,7 +566,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -575,17 +580,17 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "No Stone Unturned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -704,13 +709,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 678,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T09:07:22.802195+00:00",
+  "LastChanged_Achievements": "2023-10-24T10:07:55.0665941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:59:49.1617439+00:00",
-  "LastUpdate_Achievements": "2023-10-24T09:07:22.8022245+00:00"
+  "LastUpdate_Ratings": "2023-10-24T10:00:10.4811872+00:00",
+  "LastUpdate_Achievements": "2023-10-24T10:07:55.0666137+00:00"
 }

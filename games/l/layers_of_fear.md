@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's covered up for a reason | 40.00% | ~2 |
-| Something important | 40.00% | ~2 |
-| Another perspective | 20.00% | ~1 |
-| Refuse to look | 20.00% | ~1 |
-| Do what you have to | 20.00% | ~1 |
-| Scraps of love | 20.00% | ~1 |
-| Debut | 20.00% | ~1 |
-| The artist’s impression | 20.00% | ~1 |
-| First steps | 20.00% | ~1 |
-| Lights! Camera! Action! | 20.00% | ~1 |
-| The Perfect Storm | 20.00% | ~1 |
-| A piece of the story | 20.00% | ~1 |
-| The art of movement | 20.00% | ~1 |
-| Wanderer | 20.00% | ~1 |
+| It's covered up for a reason | 33.00% | ~2 |
+| Something important | 33.00% | ~2 |
+| Another perspective | 17.00% | ~1 |
+| Refuse to look | 17.00% | ~1 |
+| Do what you have to | 17.00% | ~1 |
+| Scraps of love | 17.00% | ~1 |
+| Debut | 17.00% | ~1 |
+| The artist’s impression | 17.00% | ~1 |
+| First steps | 17.00% | ~1 |
+| Lights! Camera! Action! | 17.00% | ~1 |
+| The Perfect Storm | 17.00% | ~1 |
+| A piece of the story | 17.00% | ~1 |
+| The art of movement | 17.00% | ~1 |
+| Wanderer | 17.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Breaking free | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 576)  
+Progressed: 6 (Ranked 564)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-08-03 | 2 | 0 |
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
-| 2023-10-24 | 5 | 0 |
+| 2023-10-24 | 6 | 0 |

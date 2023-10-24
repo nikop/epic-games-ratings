@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 08 | 50.00% | ~1 |
+| Chapter 08 | 25.00% | ~1 |
 | Geek | 0.00% | ~0 |
 | The Brain | 0.00% | ~0 |
 | Redeemed | 0.00% | ~0 |
@@ -26,12 +26,13 @@
 | Welcome To Hell | 0.00% | ~0 |
 | Storyteller | 0.00% | ~0 |
 | First Try | 0.00% | ~0 |
-| Angel of Death | -50.00% | ~-1 |
+| Angel of Death | -25.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 609)  
+Progressed: 4 (Ranked 588)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-02 | 1 | 0 |
 | 2023-06-05 | 2 | 0 |
+| 2023-10-24 | 4 | 0 |

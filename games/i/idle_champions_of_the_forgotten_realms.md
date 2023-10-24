@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~398 |
 | Bel's Forge | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
+| The Sibriex | 0.20% | ~398 |
 | Wrecked Flying Fortress | 0.20% | ~398 |
 | The Bleeding Citadel | 0.20% | ~398 |
 | Idyllglen | 0.20% | ~398 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Taunting Lord | 0.10% | ~199 |
 | Durable Deep | 0.10% | ~233 |
 | Lone Wolf Party | 0.10% | ~199 |
-| The Sibriex | 0.10% | ~199 |
 | The Archduke's Blessing | 0.10% | ~199 |
 | A Neutral Party | 0.10% | ~199 |
 | Relentless Peril | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,699 (Ranked 61)  
+Progressed: 232,704 (Ranked 61)  
 Completed: 2,383 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -722,15 +722,15 @@ Completed: 2,383 (1.02%) (Ranked 146)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,699 | 2,383 |
+| 2023-10-24 | 232,704 | 2,383 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
-Sum: 32,183 (Ranked 41)  
+Sum: 32,187 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,442 |
-| This game has Diverse Characters | 5,433 |
+| This game has Diverse Characters | 5,437 |
 | This game has Quickly Understood Controls | 4,797 |
 | This game is Relaxing | 4,683 |
 | This game is Highly Recommended | 4,172 |
@@ -1010,3 +1010,4 @@ Diff (max vs sum): 28
 | 2023-10-21 | 4.06 | - | 5,432 | 32,152 |
 | 2023-10-22 | 4.06 | - | 5,437 | 32,168 |
 | 2023-10-23 | 4.06 | - | 5,442 | 32,183 |
+| 2023-10-24 | 4.06 | - | 5,442 | 32,187 |

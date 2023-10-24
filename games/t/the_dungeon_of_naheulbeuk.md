@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,145 |
+| Sowwy! | 34.00% | ~79,147 |
 | Alt+F4 | 7.00% | ~16,295 |
 | Where's that freaking Dwarf? | 6.00% | ~13,967 |
 | Déjà vu | 5.00% | ~11,639 |
 | Sock! SOCK! | 4.00% | ~9,311 |
 | Speedrun | 4.00% | ~9,311 |
-| A beer, two curses, three companions | 3.00% | ~6,983 |
-| GG EZ | 3.00% | ~6,983 |
-| DM intervention | 3.00% | ~6,983 |
-| Fireproof Wizardess | 3.00% | ~6,983 |
+| A beer, two curses, three companions | 3.00% | ~6,984 |
+| GG EZ | 3.00% | ~6,984 |
+| DM intervention | 3.00% | ~6,984 |
+| Fireproof Wizardess | 3.00% | ~6,984 |
 | Livin' in a dwarven paradise | 2.00% | ~4,656 |
 | Shiny and Crôm | 2.00% | ~4,656 |
 | Way of the Wimp | 2.00% | ~4,656 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.90% | ~2,095 |
 | Gargantua | 0.90% | ~2,095 |
 | Material Girl | 0.90% | ~2,095 |
-| In Navalu's footsteps | 0.70% | ~1,629 |
+| In Navalu's footsteps | 0.70% | ~1,630 |
 | We come in peace | 0.60% | ~1,397 |
 | Lëgal Legend | 0.60% | ~1,397 |
 | Holistic Adventuring Party | 0.50% | ~1,164 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,780 (Ranked 60)  
+Progressed: 232,786 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,20 +241,20 @@ Completed: 7 (0.00%) (Ranked 323)
 | 2023-10-21 | 232,272 | 6 |
 | 2023-10-22 | 232,549 | 7 |
 | 2023-10-23 | 232,741 | 7 |
-| 2023-10-24 | 232,780 | 7 |
+| 2023-10-24 | 232,786 | 7 |
 ## Awards
-Max (Character Customization): 219  (Ranked 272)  
-Sum: 434 (Ranked 325)  
-Diff (max vs sum): -53  
+Max (Character Customization): 221  (Ranked 269)  
+Sum: 437 (Ranked 325)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 219 |
+| This game has Inclusive Character Customization | 221 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Characters | 25 |
 | This game has Amazing Storytelling | 25 |
-| This game has Diverse Characters | 24 |
+| This game has Diverse Characters | 25 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 23 |
 ## Ratings History
@@ -422,3 +422,4 @@ Diff (max vs sum): -53
 | 2023-10-21 | 4.58 | - | 218 | 432 |
 | 2023-10-22 | 4.58 | - | 219 | 433 |
 | 2023-10-23 | 4.58 | - | 219 | 434 |
+| 2023-10-24 | 4.58 | - | 221 | 437 |

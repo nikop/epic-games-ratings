@@ -28,8 +28,8 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Coming | 28.00% | ~1,772 |
 | Winter Is Here | 24.00% | ~1,519 |
 | Disassembled | 22.00% | ~1,393 |
+| Oh Deer! | 22.00% | ~1,393 |
 | A Party Now | 21.00% | ~1,329 |
-| Oh Deer! | 21.00% | ~1,329 |
 | All Year Round | 21.00% | ~1,329 |
 | Nothing Wasted | 13.00% | ~823 |
 | Don't Cry Wolf | 13.00% | ~823 |

@@ -16,8 +16,8 @@
 | The Fire Below the Mountain | 140.00% | ~14 |
 | On The Rocks | 130.00% | ~13 |
 | Never Gets Old | 130.00% | ~13 |
+| No Bites | 120.00% | ~12 |
 | Iceborn | 120.00% | ~12 |
-| No Bites | 110.00% | ~11 |
 | Boom Things | 110.00% | ~11 |
 | Snowball Fightn't | 110.00% | ~11 |
 | My Darkest Day | 100.00% | ~10 |
