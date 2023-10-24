@@ -5,10 +5,10 @@
   "Ranking_Rating": 899,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 323,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16231,
+  "EOS_Progressed": 16233,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8082,6 +8082,11 @@
       "Time": "2023-10-24T15:07:11.3280014+00:00",
       "NumProgressed": 16231,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T16:07:33.0117898+00:00",
+      "NumProgressed": 16233,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8197,7 +8202,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8411,9 +8416,9 @@
       "ID": "DESTROY_FACTORY_CRATES",
       "SetID": "6j5ggkc",
       "Name": "Don\u0027t Let It Mellow",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "FIND_ALL_DATA_DRIVES",
@@ -8468,13 +8473,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16231,
+      "Progressed": 16233,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4157,
+      "Progressed": 4159,
       "Completed": 29
     }
   ],
@@ -8482,8 +8487,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:07:11.3280009+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:07:33.0117893+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:00:20.0503078+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:07:11.3280657+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:00:45.3618829+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:07:33.0118816+00:00"
 }

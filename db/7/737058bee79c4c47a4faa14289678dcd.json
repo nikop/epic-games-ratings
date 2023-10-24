@@ -122,9 +122,9 @@
       "ID": "MagmaAdmirer",
       "SetID": "4j06hlp",
       "Name": "Magma Admirer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MasterOfMazes",
@@ -178,9 +178,9 @@
       "ID": "ThinkLikeARabbit",
       "SetID": "4j06hlp",
       "Name": "Think Like a Rabbit",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VinkulaVanquisher",
@@ -208,8 +208,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:07:45.5397318+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:08:16.6738767+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:20.6721734+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:58:11.9356716+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:07:45.5817545+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:58:31.5298897+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:08:16.6738912+00:00"
 }

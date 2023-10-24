@@ -2,7 +2,7 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 480,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 699,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -271,6 +271,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-10-24T16:03:51.896245+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -305,9 +311,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2023-10-23T10:03:32.8847738+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:07:40.8439305+00:00",
+  "LastChanged": "2023-10-24T16:03:51.8962449+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:08:12.0554846+00:00",
   "LastUpdate_AppInfo": "2023-10-17T20:57:04.4645216+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:03:25.046832+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:07:40.8439322+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:03:51.8962454+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:08:12.0554861+00:00"
 }

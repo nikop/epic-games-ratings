@@ -14,7 +14,7 @@
 | So nineties it hurts... | 3.00% | ~1 |
 | Still trying to escape? | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 479)  
+Progressed: 32 (Ranked 480)  
 Completed: 1 (3.12%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

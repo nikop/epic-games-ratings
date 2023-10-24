@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~745 |
-| Spectre Inductee | 83.00% | ~658 |
+| Spectre Inductee | 84.00% | ~666 |
 | Medal of Exploration I | 76.00% | ~603 |
 | Recruit | 72.00% | ~571 |
 | Search and Rescue | 72.00% | ~571 |
@@ -29,10 +29,10 @@
 | Merciless | 47.00% | ~373 |
 | Krogan Ally | 45.00% | ~357 |
 | Head Hunter | 45.00% | ~357 |
+| Sentinel Ally | 44.00% | ~349 |
 | Missing in Action | 44.00% | ~349 |
 | Very Elusive | 44.00% | ~349 |
 | Scholar | 44.00% | ~349 |
-| Sentinel Ally | 43.00% | ~341 |
 | Operative | 43.00% | ~341 |
 | Veteran | 41.00% | ~325 |
 | The Professor | 41.00% | ~325 |

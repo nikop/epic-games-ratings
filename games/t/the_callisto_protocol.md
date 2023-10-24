@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 899)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 8.00% | ~1,298 |
+| Get a Grip | 8.00% | ~1,299 |
 | Paper Jams | 7.00% | ~1,136 |
 | Flesh Wound | 6.00% | ~974 |
 | Float Like A Butterfly | 6.00% | ~974 |
@@ -41,9 +41,9 @@ Rating: 4.19 (Ranked 899)
 | Mugshot | 0.50% | ~81 |
 | Instigator | 0.40% | ~17 |
 | Subject Alpha | 0.30% | ~12 |
+| Don't Let It Mellow | 0.30% | ~12 |
 | The Protocol is About Life | 0.20% | ~32 |
 | Hoard Mode | 0.20% | ~8 |
-| Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,231 (Ranked 134)  
+Progressed: 16,233 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 77 (0.47%) (Ranked 187)
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
-| 2023-10-24 | 16,231 | 77 |
+| 2023-10-24 | 16,233 | 77 |
 ## Awards
 Max (Highly Recommended): 77  (Ranked 381)  
 Sum: 452 (Ranked 323)  

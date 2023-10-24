@@ -6,37 +6,37 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~620,306 |
-| Death From Above | 45.00% | ~606,821 |
-| Master of the Household | 38.00% | ~512,427 |
-| Death of the Party | 36.00% | ~485,457 |
-| NEXUS-47 | 33.00% | ~445,002 |
-| The Last Tango | 31.00% | ~418,033 |
-| Nightmare Fuel | 30.00% | ~404,548 |
-| The Result of Previous Training | 28.00% | ~377,578 |
-| Tools of the Trade | 28.00% | ~377,578 |
-| Cleared for Field Duty | 27.00% | ~364,093 |
-| Seizing the Opportunity | 26.00% | ~350,608 |
-| Bullet Train | 21.00% | ~283,183 |
-| Stylish Assassin | 20.00% | ~269,698 |
-| Silent Assassin | 14.00% | ~188,789 |
-| Rise Up | 12.00% | ~161,819 |
-| Evil Wine Club | 11.00% | ~148,334 |
-| Console Cowboy | 10.00% | ~134,849 |
-| Last Stop | 10.00% | ~134,849 |
-| A New Profile | 9.00% | ~121,364 |
-| Full House | 9.00% | ~121,364 |
-| Dune Raider | 8.00% | ~107,879 |
-| No Stone Unturned | 8.00% | ~107,879 |
-| Train Surfing | 8.00% | ~107,879 |
-| Icebreaker | 7.00% | ~94,394 |
-| Family Feud | 6.00% | ~80,910 |
-| Rich Harvest | 6.00% | ~80,910 |
-| Shortcut Killer | 5.00% | ~67,425 |
-| Stair Master | 5.00% | ~67,425 |
-| Followed the Trails | 5.00% | ~67,425 |
-| Last Call | 5.00% | ~67,425 |
-| Count Down From 47 | 5.00% | ~67,425 |
+| Unseen Assassin | 46.00% | ~620,315 |
+| Death From Above | 45.00% | ~606,830 |
+| Master of the Household | 38.00% | ~512,434 |
+| Death of the Party | 36.00% | ~485,464 |
+| NEXUS-47 | 33.00% | ~445,008 |
+| The Last Tango | 31.00% | ~418,038 |
+| Nightmare Fuel | 30.00% | ~404,553 |
+| The Result of Previous Training | 28.00% | ~377,583 |
+| Tools of the Trade | 28.00% | ~377,583 |
+| Cleared for Field Duty | 27.00% | ~364,098 |
+| Seizing the Opportunity | 26.00% | ~350,613 |
+| Bullet Train | 21.00% | ~283,187 |
+| Stylish Assassin | 20.00% | ~269,702 |
+| Silent Assassin | 14.00% | ~188,791 |
+| Rise Up | 12.00% | ~161,821 |
+| Evil Wine Club | 11.00% | ~148,336 |
+| Console Cowboy | 10.00% | ~134,851 |
+| Last Stop | 10.00% | ~134,851 |
+| A New Profile | 9.00% | ~121,366 |
+| Full House | 9.00% | ~121,366 |
+| Dune Raider | 8.00% | ~107,881 |
+| No Stone Unturned | 8.00% | ~107,881 |
+| Train Surfing | 8.00% | ~107,881 |
+| Icebreaker | 7.00% | ~94,396 |
+| Family Feud | 6.00% | ~80,911 |
+| Rich Harvest | 6.00% | ~80,911 |
+| Shortcut Killer | 5.00% | ~67,426 |
+| Stair Master | 5.00% | ~67,426 |
+| Followed the Trails | 5.00% | ~67,426 |
+| Last Call | 5.00% | ~67,426 |
+| Count Down From 47 | 5.00% | ~67,426 |
 | Treacherous Architecture | 4.00% | ~53,940 |
 | Upstairs, Downstairs | 4.00% | ~53,940 |
 | The Great Outdoors | 4.00% | ~53,940 |
@@ -52,9 +52,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Bird Art | 2.00% | ~26,970 |
 | Top of the Class | 1.00% | ~13,485 |
 | Ripe for the Picking | 1.00% | ~13,485 |
-| The Creative Assassin | 0.70% | ~9,439 |
+| The Creative Assassin | 0.70% | ~9,440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348,492 (Ranked 9)  
+Progressed: 1,348,510 (Ranked 9)  
 Completed: 2,161 (0.16%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 2,161 (0.16%) (Ranked 241)
 | 2023-10-21 | 1,347,509 | 2,161 |
 | 2023-10-22 | 1,347,963 | 2,161 |
 | 2023-10-23 | 1,348,309 | 2,161 |
-| 2023-10-24 | 1,348,492 | 2,161 |
+| 2023-10-24 | 1,348,510 | 2,161 |
 ## Awards
 Max (Diverse Characters): 10,398  (Ranked 38)  
-Sum: 72,540 (Ranked 21)  
+Sum: 72,544 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -252,7 +252,7 @@ Diff (max vs sum): 17
 | This game is Highly Recommended | 9,536 |
 | This game is Extremely Fun | 9,233 |
 | This game has Amazing Storytelling | 9,099 |
-| This game has Amazing Characters | 8,940 |
+| This game has Amazing Characters | 8,944 |
 | This game has Quickly Understood Controls | 8,560 |
 | This game is Relaxing | 8,442 |
 | This game is Great for Beginners | 8,394 |
@@ -560,4 +560,4 @@ Diff (max vs sum): 17
 | 2023-10-21 | 4.78 | - | 10,378 | 72,420 |
 | 2023-10-22 | 4.78 | - | 10,388 | 72,475 |
 | 2023-10-23 | 4.78 | - | 10,398 | 72,523 |
-| 2023-10-24 | 4.78 | - | 10,398 | 72,540 |
+| 2023-10-24 | 4.78 | - | 10,398 | 72,544 |

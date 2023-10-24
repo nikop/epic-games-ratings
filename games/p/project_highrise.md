@@ -80,9 +80,9 @@
 | Full House | 1.00% | ~3 |
 | Double Down | 1.00% | ~3 |
 | Such Great Heights | 1.00% | ~3 |
+| Lofty Landlord | 1.00% | ~3 |
 | Scenario Success | 1.00% | ~3 |
 | Artistic Largesse | 0.90% | ~3 |
-| Lofty Landlord | 0.90% | ~3 |
 | High Hand | 0.60% | ~2 |
 | Poker Face | 0.60% | ~2 |
 | Scenario Master | 0.60% | ~2 |

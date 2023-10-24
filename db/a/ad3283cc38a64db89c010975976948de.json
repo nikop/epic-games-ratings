@@ -2,7 +2,7 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -36,6 +36,11 @@
     {
       "Time": "2023-09-30T03:06:05.8896879+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T16:04:02.2049193+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -55,15 +60,15 @@
       "ID": "LEVEL_060_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 60 pieces",
-      "Percentage": 200,
+      "Percentage": 125,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -296,13 +301,13 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:03:34.002924+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:04:02.2049186+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.7993988+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:59:38.0168766+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:03:34.0029464+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:00:05.3273185+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:04:02.2049536+00:00"
 }

@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.80% | ~1,105 |
 | Magical Harmony | 0.80% | ~1,105 |
 | A Notch Above the Rest | 0.70% | ~966 |
+| Above the Norm | 0.70% | ~966 |
 | A Ronin Reborn | 0.70% | ~966 |
 | The King's Caprice | 0.70% | ~966 |
 | Big Game Hunting | 0.70% | ~966 |
@@ -75,7 +76,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.60% | ~828 |
 | Top of the World | 0.60% | ~828 |
 | Proud Paladin | 0.60% | ~828 |
-| Above the Norm | 0.60% | ~828 |
 | Constellated | 0.60% | ~828 |
 | Thirst for Knowledge | 0.60% | ~828 |
 | Booty by the Boatload | 0.60% | ~828 |

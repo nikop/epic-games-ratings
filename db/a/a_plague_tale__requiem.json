@@ -5,10 +5,10 @@
   "Ranking_Rating": 167,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 297,
-  "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Progress": 143,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -557,9 +557,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13601,
+  "EOS_Progressed": 13602,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10232,6 +10232,11 @@
       "Time": "2023-10-24T07:03:46.5560968+00:00",
       "NumProgressed": 13601,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-24T16:04:35.1873063+00:00",
+      "NumProgressed": 13602,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -10243,7 +10248,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12513
+      "UsersEstimate": 12514
     },
     {
       "ID": "ACH_02",
@@ -10251,7 +10256,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "ACH_03",
@@ -10323,7 +10328,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6664
+      "UsersEstimate": 6665
     },
     {
       "ID": "ACH_12",
@@ -10331,7 +10336,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6392
+      "UsersEstimate": 6393
     },
     {
       "ID": "ACH_13",
@@ -10339,7 +10344,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "ACH_14",
@@ -10347,7 +10352,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "ACH_15",
@@ -10355,7 +10360,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4625
     },
     {
       "ID": "ACH_16",
@@ -10419,7 +10424,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3672
+      "UsersEstimate": 3673
     },
     {
       "ID": "ACH_24",
@@ -10451,7 +10456,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 5984
+      "UsersEstimate": 5985
     },
     {
       "ID": "ACH_28",
@@ -10522,7 +10527,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13601,
+      "Progressed": 13602,
       "Completed": 50
     }
   ],
@@ -10530,8 +10535,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-19T21:01:27.400524+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:04:06.692623+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:04:35.1873054+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.8379595+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:59:10.9858791+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:04:06.6927054+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:59:35.4959198+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:04:35.1874067+00:00"
 }

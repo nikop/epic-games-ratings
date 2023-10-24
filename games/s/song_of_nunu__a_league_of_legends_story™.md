@@ -10,8 +10,8 @@
 | Better On Ice | 160.00% | ~16 |
 | I Broke It | 160.00% | ~16 |
 | Cutie Poro | 160.00% | ~16 |
+| Notai Notes | 160.00% | ~16 |
 | True Legends | 150.00% | ~15 |
-| Notai Notes | 150.00% | ~15 |
 | Krugmazing | 140.00% | ~14 |
 | The Fire Below the Mountain | 140.00% | ~14 |
 | On The Rocks | 130.00% | ~13 |
@@ -25,13 +25,13 @@
 | My Darkest Day | 100.00% | ~10 |
 | Tear of Freedom | 100.00% | ~10 |
 | 3000 Year Blackout | 100.00% | ~10 |
+| Snowy Poro | 100.00% | ~10 |
+| Moneyball | 100.00% | ~10 |
 | The Finisher | 100.00% | ~10 |
 | A Tragic Reminder | 90.00% | ~9 |
 | Family | 90.00% | ~9 |
 | Biggest Snowball Ever | 90.00% | ~9 |
-| Snowy Poro | 90.00% | ~9 |
 | Bullseye | 90.00% | ~9 |
-| Moneyball | 90.00% | ~9 |
 | The Pied Piper Of Freljord | 90.00% | ~9 |
 | The Relentless Storm | 90.00% | ~9 |
 | Boosted! | 90.00% | ~9 |
@@ -49,7 +49,7 @@
 | It Was Him | 50.00% | ~5 |
 | Rock Star | 50.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 546)  
+Progressed: 10 (Ranked 547)  
 Completed: 2 (20.00%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |

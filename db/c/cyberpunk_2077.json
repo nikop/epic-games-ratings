@@ -13998,18 +13998,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 323623,
       "NumberOfAwardsMax": 100955
+    },
+    {
+      "Time": "2023-10-24T16:01:34.491049+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 323880,
+      "NumberOfAwardsMax": 101212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323623,
-  "NumberOfAwardsMax": 100955,
+  "NumberOfAwards": 323880,
+  "NumberOfAwardsMax": 101212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 100955
+      "Count": 101212
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14078,7 +14084,7 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893638,
+  "EOS_Progressed": 893647,
   "EOS_Completed": 2713,
   "EOS_NewPlayers": 1260,
   "EOS_NewCompleters": 37,
@@ -35278,6 +35284,11 @@
       "Time": "2023-10-24T15:07:31.5451899+00:00",
       "NumProgressed": 893638,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T16:08:02.5769426+00:00",
+      "NumProgressed": 893647,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35560,9 +35571,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2681
     },
     {
       "ID": "ThisIsPacifica",
@@ -35809,21 +35820,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893638,
+      "Progressed": 893647,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22261,
+      "Progressed": 22270,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-24T15:01:16.3095845+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:07:31.5451891+00:00",
+  "LastChanged": "2023-10-24T16:01:34.4910488+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:08:02.5769422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:01:16.3095851+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:07:31.545334+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:01:34.4910494+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:08:02.5771827+00:00"
 }

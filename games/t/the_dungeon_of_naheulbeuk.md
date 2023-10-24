@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,162 |
-| Alt+F4 | 7.00% | ~16,298 |
-| Where's that freaking Dwarf? | 6.00% | ~13,970 |
+| Sowwy! | 34.00% | ~79,168 |
+| Alt+F4 | 7.00% | ~16,299 |
+| Where's that freaking Dwarf? | 6.00% | ~13,971 |
 | Déjà vu | 5.00% | ~11,642 |
-| Sock! SOCK! | 4.00% | ~9,313 |
-| Speedrun | 4.00% | ~9,313 |
+| Sock! SOCK! | 4.00% | ~9,314 |
+| Speedrun | 4.00% | ~9,314 |
 | A beer, two curses, three companions | 3.00% | ~6,985 |
 | GG EZ | 3.00% | ~6,985 |
 | DM intervention | 3.00% | ~6,985 |
@@ -41,9 +41,9 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,328 |
 | Lust and Debauchery | 1.00% | ~2,328 |
 | Thieves' Guild Accreditation | 1.00% | ~2,328 |
-| Dead for good | 0.90% | ~2,095 |
-| Gargantua | 0.90% | ~2,095 |
-| Material Girl | 0.90% | ~2,095 |
+| Dead for good | 0.90% | ~2,096 |
+| Gargantua | 0.90% | ~2,096 |
+| Material Girl | 0.90% | ~2,096 |
 | In Navalu's footsteps | 0.70% | ~1,630 |
 | We come in peace | 0.60% | ~1,397 |
 | Lëgal Legend | 0.60% | ~1,397 |
@@ -52,9 +52,9 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.50% | ~1,164 |
 | Scholar of the Lands of Fangh | 0.40% | ~931 |
 | It's been a hard day's night | 0.40% | ~931 |
-| Friendly fire | 0.30% | ~698 |
-| I'd rather... Just... Sing! | 0.30% | ~698 |
-| Inception | 0.30% | ~698 |
+| Friendly fire | 0.30% | ~699 |
+| I'd rather... Just... Sing! | 0.30% | ~699 |
+| Inception | 0.30% | ~699 |
 | The number of the counting shalt be 7 | 0.20% | ~466 |
 | Kudos from your DM | 0.20% | ~466 |
 | 100% satisfaction guarantee | 0.20% | ~466 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,830 (Ranked 60)  
+Progressed: 232,846 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.00%) (Ranked 324)
 | 2023-10-21 | 232,272 | 6 |
 | 2023-10-22 | 232,549 | 7 |
 | 2023-10-23 | 232,741 | 7 |
-| 2023-10-24 | 232,830 | 7 |
+| 2023-10-24 | 232,846 | 7 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 438 (Ranked 325)  

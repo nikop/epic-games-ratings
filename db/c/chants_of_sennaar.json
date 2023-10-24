@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1586,9 +1586,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1721,8 +1721,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:04:16.061974+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:04:44.7713109+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:03:02.2308704+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:04:16.0619967+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:03:26.7836032+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:04:44.7713436+00:00"
 }

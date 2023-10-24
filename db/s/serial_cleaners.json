@@ -3,7 +3,7 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 250,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -509,6 +509,11 @@
       "Time": "2023-09-29T22:05:57.1079768+00:00",
       "NumProgressed": 249,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-24T16:06:36.5198735+00:00",
+      "NumProgressed": 250,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -560,7 +565,7 @@
       "Name": "Eyes Yet To Open",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -584,7 +589,7 @@
       "Name": "Small-time Finder",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "DIE_1_TIME",
@@ -711,13 +716,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 250,
       "Completed": 6
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-24T15:06:06.7188042+00:00",
+  "LastChanged_Achievements": "2023-10-24T16:06:36.5198731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.7588854+00:00",
-  "LastUpdate_Ratings": "2023-10-24T15:02:28.0051137+00:00",
-  "LastUpdate_Achievements": "2023-10-24T15:06:06.7188226+00:00"
+  "LastUpdate_Ratings": "2023-10-24T16:02:59.9670544+00:00",
+  "LastUpdate_Achievements": "2023-10-24T16:06:36.5198944+00:00"
 }
