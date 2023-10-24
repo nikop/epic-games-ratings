@@ -1,16 +1,17 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 327)  
+Rating: 4.64 (Ranked 326)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.60% | ~5,362 |
 | Rough Landing | 0.50% | ~4,468 |
-| Full Body Conversion | 0.40% | ~3,574 |
-| The High Priestess | 0.40% | ~3,574 |
-| True Soldier | 0.40% | ~3,574 |
+| Full Body Conversion | 0.40% | ~3,575 |
+| Stanislavski's Method | 0.40% | ~3,575 |
+| The High Priestess | 0.40% | ~3,575 |
+| True Soldier | 0.40% | ~3,575 |
 | All the President's Men | 0.40% | ~89 |
 | Arachnophobia | 0.40% | ~89 |
 | Right Back At Ya | 0.30% | ~2,681 |
@@ -18,8 +19,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
 | Life of the Road | 0.30% | ~2,681 |
-| Stanislavski's Method | 0.30% | ~2,681 |
 | The Hermit | 0.30% | ~2,681 |
+| The Lovers | 0.30% | ~2,681 |
 | The Wheel of Fortune | 0.30% | ~2,681 |
 | The Jungle | 0.30% | ~2,681 |
 | True Warrior | 0.30% | ~2,681 |
@@ -39,9 +40,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.20% | ~1,787 |
 | Temperance | 0.20% | ~1,787 |
 | The Fool | 0.20% | ~1,787 |
-| The Lovers | 0.20% | ~1,787 |
 | The World | 0.20% | ~1,787 |
-| King of Wands | 0.20% | ~44 |
+| King of Wands | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,623 (Ranked 15)  
+Progressed: 893,629 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,713 (0.30%) (Ranked 214)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,623 | 2,713 |
+| 2023-10-24 | 893,629 | 2,713 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 323,462 (Ranked 11)  

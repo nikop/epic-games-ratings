@@ -36,8 +36,8 @@
 | Operative | 43.00% | ~341 |
 | Veteran | 41.00% | ~325 |
 | The Professor | 41.00% | ~325 |
+| Power Full | 41.00% | ~325 |
 | The Archangel | 40.00% | ~317 |
-| Power Full | 40.00% | ~317 |
 | The Convict | 38.00% | ~301 |
 | Completionist | 37.00% | ~293 |
 | Colony Defense | 37.00% | ~293 |
@@ -75,11 +75,11 @@
 | Against All Odds | 28.00% | ~222 |
 | Mobilizer | 28.00% | ~222 |
 | Untouchable | 26.00% | ~206 |
+| Eye of the Hurricane | 26.00% | ~206 |
 | Giant Killer | 26.00% | ~206 |
 | A House Divided | 26.00% | ~206 |
 | Weapon Specialist | 26.00% | ~206 |
 | World Shaker | 26.00% | ~206 |
-| Eye of the Hurricane | 25.00% | ~198 |
 | Liberator | 25.00% | ~198 |
 | Pathfinder | 24.00% | ~190 |
 | Tunnel Rat | 24.00% | ~190 |

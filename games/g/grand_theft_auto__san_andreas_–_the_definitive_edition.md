@@ -18,7 +18,7 @@ Rating: 4.56 (Ranked 475)
 | The End of the Line | 8.00% | ~1,061 |
 | Original Gangster | 8.00% | ~1,061 |
 | With Extra Dip | 7.00% | ~928 |
-| Saviour | 6.00% | ~795 |
+| Saviour | 6.00% | ~796 |
 | They Can’t Stop All of Us | 5.00% | ~663 |
 | Rescue a Kitten Too? | 5.00% | ~663 |
 | What are the Odds | 4.00% | ~530 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 475)
 | ...Here we go again | 0.50% | ~66 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,258 (Ranked 143)  
+Progressed: 13,259 (Ranked 143)  
 Completed: 50 (0.38%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,17 +228,17 @@ Completed: 50 (0.38%) (Ranked 201)
 | 2023-10-21 | 13,243 | 50 |
 | 2023-10-22 | 13,249 | 50 |
 | 2023-10-23 | 13,256 | 50 |
-| 2023-10-24 | 13,258 | 50 |
+| 2023-10-24 | 13,259 | 50 |
 ## Awards
 Max (Great Boss Battles): 361  (Ranked 231)  
-Sum: 579 (Ranked 304)  
+Sum: 580 (Ranked 304)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 361 |
 | This game is Relaxing | 37 |
 | This game has Amazing Storytelling | 32 |
-| This game has Amazing Characters | 30 |
+| This game has Amazing Characters | 31 |
 | This game is Great for Beginners | 28 |
 | This game is Highly Recommended | 27 |
 | This game has a Creative Community | 22 |
@@ -401,4 +401,4 @@ Diff (max vs sum): -73
 | 2023-10-20 | 4.56 | 356 | 570 |
 | 2023-10-22 | 4.56 | 357 | 573 |
 | 2023-10-23 | 4.56 | 361 | 578 |
-| 2023-10-24 | 4.56 | 361 | 579 |
+| 2023-10-24 | 4.56 | 361 | 580 |

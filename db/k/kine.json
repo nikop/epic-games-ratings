@@ -2,7 +2,7 @@
   "ID": "rose",
   "Name": "Kine",
   "ProductSlug": "kine",
-  "Ranking_EOS_Progress": 697,
+  "Ranking_EOS_Progress": 698,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 116,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.649427+00:00",
   "LastChanged": "2023-03-31T05:57:14.6494271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.171424+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:03:04.1842268+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:11:43.7819013+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:58:01.0673725+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:07:31.2505913+00:00"
 }

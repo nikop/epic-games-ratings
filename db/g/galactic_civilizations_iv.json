@@ -5,7 +5,7 @@
   "Ranking_Rating": 914,
   "Ranking_Popularity": 360,
   "Ranking_PopularitySum": 291,
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 116,
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7056,
+  "EOS_Progressed": 7057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7595,6 +7595,11 @@
       "Time": "2023-10-24T13:10:04.7696362+00:00",
       "NumProgressed": 7056,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T14:05:32.9207707+00:00",
+      "NumProgressed": 7057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7646,7 +7651,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "Control_All_Relics",
@@ -7670,7 +7675,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7686,7 +7691,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "First_Major_Ally",
@@ -7718,7 +7723,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5080
+      "UsersEstimate": 5081
     },
     {
       "ID": "First_Ship_Designed",
@@ -7742,7 +7747,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7822,7 +7827,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "Play_1000_Hours",
@@ -7910,7 +7915,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -7926,7 +7931,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8094,7 +8099,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4657
+      "UsersEstimate": 4658
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8102,7 +8107,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Win_Conquest",
@@ -8181,15 +8186,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7056,
+      "Progressed": 7057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:10:04.7696192+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:05:32.9207701+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:06:22.4389475+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:10:04.7697741+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:02:22.9215169+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:05:32.9208953+00:00"
 }

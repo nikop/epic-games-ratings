@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,709 (Ranked 61)  
+Progressed: 232,712 (Ranked 61)  
 Completed: 2,383 (1.02%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -722,7 +722,7 @@ Completed: 2,383 (1.02%) (Ranked 147)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,709 | 2,383 |
+| 2023-10-24 | 232,712 | 2,383 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
 Sum: 32,192 (Ranked 41)  

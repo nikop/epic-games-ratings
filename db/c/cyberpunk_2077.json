@@ -2,12 +2,12 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14072,9 +14072,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893623,
+  "EOS_Progressed": 893629,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1266,
+  "EOS_NewPlayers": 1258,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35262,6 +35262,11 @@
       "Time": "2023-10-24T13:11:38.5532038+00:00",
       "NumProgressed": 893623,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-24T14:07:24.9146103+00:00",
+      "NumProgressed": 893629,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35298,7 +35303,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "Denied",
@@ -35448,9 +35453,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 3575
     },
     {
       "ID": "Specialist",
@@ -35506,15 +35511,15 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2681
     },
     {
       "ID": "TheStar",
@@ -35570,7 +35575,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "TrueWarrior",
@@ -35778,7 +35783,7 @@
       "Name": "King of Wands",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TheTower",
@@ -35793,21 +35798,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893623,
+      "Progressed": 893629,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22246,
+      "Progressed": 22252,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-24T11:00:03.3682475+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:11:38.5532031+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:07:24.9146098+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:05:33.3311504+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:11:38.5534105+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:01:17.0269268+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:07:24.9147958+00:00"
 }

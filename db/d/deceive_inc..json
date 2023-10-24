@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18667,
+  "EOS_Progressed": 18669,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12235,6 +12235,11 @@
       "Time": "2023-10-24T11:05:44.5980744+00:00",
       "NumProgressed": 18667,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T14:06:45.599455+00:00",
+      "NumProgressed": 18669,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12246,7 +12251,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "0002",
@@ -12262,7 +12267,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3173
+      "UsersEstimate": 3174
     },
     {
       "ID": "0004",
@@ -12310,7 +12315,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "0010",
@@ -12454,7 +12459,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "0028",
@@ -12462,7 +12467,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "0029",
@@ -12486,7 +12491,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "0032",
@@ -12494,7 +12499,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "0033",
@@ -12502,7 +12507,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "0034",
@@ -12533,7 +12538,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18667,
+      "Progressed": 18669,
       "Completed": 4
     }
   ],
@@ -12541,8 +12546,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:11:06.0733505+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:06:45.5994544+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:04:03.1080155+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:11:06.0734944+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:59:19.3704287+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:06:45.5995574+00:00"
 }

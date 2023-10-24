@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~747 |
-| Off to a good start | 68.00% | ~558 |
+| New Recruit | 91.00% | ~748 |
+| Off to a good start | 68.00% | ~559 |
 | Do... or do not. There is no try | 52.00% | ~427 |
 | A good blaster at your side | 34.00% | ~279 |
 | Scrap collector | 20.00% | ~164 |
-| I suggest a new strategy | 19.00% | ~156 |
+| I suggest a new strategy | 20.00% | ~164 |
 | All right, I'll give it a try | 18.00% | ~148 |
 | Great shot, kid! | 18.00% | ~148 |
 | Shoot first | 17.00% | ~140 |
-| Together we can rule the galaxy | 16.00% | ~131 |
-| The power of the Force | 15.00% | ~123 |
+| The power of the Force | 16.00% | ~132 |
+| Together we can rule the galaxy | 16.00% | ~132 |
 | Collector | 15.00% | ~123 |
 | Tell Jabba that I've got his money | 11.00% | ~90 |
 | Best star-pilot in the galaxy | 11.00% | ~90 |
 | Survivor | 11.00% | ~90 |
-| Never tell me the odds! | 10.00% | ~82 |
-| A cunning warrior | 10.00% | ~82 |
 | What's the cargo? | 9.00% | ~74 |
+| Never tell me the odds! | 9.00% | ~74 |
+| A cunning warrior | 9.00% | ~74 |
 | Impressive. Most impressive. | 8.00% | ~66 |
-| "Gonk? Gonk!" | 7.00% | ~57 |
-| Judge me by my size, do you? | 7.00% | ~57 |
-| Support the troops | 7.00% | ~57 |
+| "Gonk? Gonk!" | 7.00% | ~58 |
+| Judge me by my size, do you? | 7.00% | ~58 |
+| Support the troops | 7.00% | ~58 |
 | Distinguished | 6.00% | ~49 |
 | A tremor in the Force | 6.00% | ~49 |
 | Not bad for a little furball | 5.00% | ~41 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 821 (Ranked 252)  
+Progressed: 822 (Ranked 252)  
 Completed: 1 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.12%) (Ranked 249)
 | 2023-10-21 | 784 | 1 |
 | 2023-10-22 | 805 | 1 |
 | 2023-10-23 | 817 | 1 |
-| 2023-10-24 | 821 | 1 |
+| 2023-10-24 | 822 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

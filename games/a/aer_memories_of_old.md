@@ -6,10 +6,10 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~17,477 |
-| Mama? | 28.00% | ~6,355 |
-| People's Haven | 18.00% | ~4,085 |
-| Cartographer | 17.00% | ~3,858 |
+| Light at the end of the tunnel | 77.00% | ~17,478 |
+| Mama? | 28.00% | ~6,356 |
+| People's Haven | 18.00% | ~4,086 |
+| Cartographer | 17.00% | ~3,859 |
 | Antlers of Stone | 15.00% | ~3,405 |
 | Knowledge for Power | 14.00% | ~3,178 |
 | Gaze into the abyss | 13.00% | ~2,951 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Talk to all the spirit animals | 6.00% | ~1,362 |
 | Hide and Seek | 4.00% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,697 (Ranked 124)  
+Progressed: 22,699 (Ranked 124)  
 Completed: 442 (1.95%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 442 (1.95%) (Ranked 117)
 | 2023-10-21 | 22,537 | 441 |
 | 2023-10-22 | 22,620 | 441 |
 | 2023-10-23 | 22,665 | 442 |
-| 2023-10-24 | 22,697 | 442 |
+| 2023-10-24 | 22,699 | 442 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

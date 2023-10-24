@@ -5,7 +5,7 @@
   "Ranking_Rating": 995,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 116,
@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7413,
+  "EOS_Progressed": 7414,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -4857,6 +4857,11 @@
       "Time": "2023-10-24T09:09:47.8850124+00:00",
       "NumProgressed": 7413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T14:10:12.7951332+00:00",
+      "NumProgressed": 7414,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4981,7 +4986,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "GamesPlayed1",
@@ -5013,7 +5018,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "GamesWon10",
@@ -5061,7 +5066,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "HAUpgraded1",
@@ -5460,7 +5465,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7413,
+      "Progressed": 7414,
       "Completed": 1
     }
   ],
@@ -5468,8 +5473,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:14:45.3681777+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:10:12.7951323+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:05:05.8666919+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:14:45.3683102+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:00:38.1704165+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:10:12.7952456+00:00"
 }

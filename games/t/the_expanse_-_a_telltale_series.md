@@ -1,20 +1,20 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.60 (Ranked 402)  
+Rating: 4.60 (Ranked 401)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~2,572 |
+| Oyedang, Kopengs | 18.00% | ~2,573 |
 | Drug Gifter | 7.00% | ~1,000 |
 | Bosmang | 7.00% | ~1,000 |
-| The Pit and the Pirates | 6.00% | ~857 |
-| Drone Dodger | 6.00% | ~857 |
-| Data Archivist | 5.00% | ~714 |
-| Heal Thy Medic | 5.00% | ~714 |
-| Call it Even | 5.00% | ~714 |
-| Celebrations are in Order | 5.00% | ~714 |
-| Impossible Objects | 5.00% | ~714 |
+| The Pit and the Pirates | 6.00% | ~858 |
+| Drone Dodger | 6.00% | ~858 |
+| Data Archivist | 5.00% | ~715 |
+| Heal Thy Medic | 5.00% | ~715 |
+| Call it Even | 5.00% | ~715 |
+| Celebrations are in Order | 5.00% | ~715 |
+| Impossible Objects | 5.00% | ~715 |
 | Stogie for Fogey | 4.00% | ~572 |
 | Spore Taste | 4.00% | ~572 |
 | Martian Music | 4.00% | ~572 |
@@ -36,7 +36,7 @@ Rating: 4.60 (Ranked 402)
 | Scavenger Star | 0.20% | ~29 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,290 (Ranked 140)  
+Progressed: 14,292 (Ranked 140)  
 Completed: 27 (0.19%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 27 (0.19%) (Ranked 233)
 | 2023-10-21 | 14,210 | 27 |
 | 2023-10-22 | 14,248 | 27 |
 | 2023-10-23 | 14,276 | 27 |
-| 2023-10-24 | 14,290 | 27 |
+| 2023-10-24 | 14,292 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

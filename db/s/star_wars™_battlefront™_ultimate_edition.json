@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 821,
+  "EOS_Progressed": 822,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2289,6 +2289,11 @@
       "Time": "2023-10-24T11:08:35.9390727+00:00",
       "NumProgressed": 821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T14:09:26.9857685+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2365,15 +2370,15 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_19",
@@ -2445,7 +2450,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_27",
@@ -2475,9 +2480,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_30",
@@ -2525,7 +2530,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "achievement_36",
@@ -2541,7 +2546,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_38",
@@ -2563,9 +2568,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_40",
@@ -2581,7 +2586,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_42",
@@ -2709,7 +2714,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_57",
@@ -2779,9 +2784,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_8",
@@ -2804,13 +2809,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 821,
+      "Progressed": 822,
       "Completed": 1
     }
   ],
@@ -2818,8 +2823,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:14:15.2742041+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:09:26.9857678+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:06:08.1319014+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:14:15.2742931+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:02:02.7488422+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:09:26.9858541+00:00"
 }

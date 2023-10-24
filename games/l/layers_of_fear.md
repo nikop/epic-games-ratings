@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's covered up for a reason | 33.00% | ~2 |
-| Something important | 33.00% | ~2 |
-| Wanderer | 33.00% | ~2 |
+| It's covered up for a reason | 50.00% | ~3 |
+| Something important | 50.00% | ~3 |
+| Wanderer | 50.00% | ~3 |
 | Another perspective | 17.00% | ~1 |
 | Refuse to look | 17.00% | ~1 |
 | Do what you have to | 17.00% | ~1 |

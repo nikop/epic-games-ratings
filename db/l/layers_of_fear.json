@@ -149,9 +149,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "decrypt_one_myth",
@@ -405,9 +405,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "spy_one_item",
@@ -469,9 +469,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "whispers_long_forgotten",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:10:15.9945986+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:05:47.2369842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4018422+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:08:32.2402483+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:10:15.9946463+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:03:28.9228831+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:05:47.2370276+00:00"
 }

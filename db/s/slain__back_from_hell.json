@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 826,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 114,
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39089,
+  "EOS_Progressed": 39091,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20763,6 +20763,11 @@
       "Time": "2023-10-24T13:11:54.3519028+00:00",
       "NumProgressed": 39089,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-24T14:07:44.2532774+00:00",
+      "NumProgressed": 39091,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20774,7 +20779,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5863
+      "UsersEstimate": 5864
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20846,7 +20851,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -21005,7 +21010,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39089,
+      "Progressed": 39091,
       "Completed": 26
     }
   ],
@@ -21013,8 +21018,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-24T13:11:54.3519021+00:00",
+  "LastChanged_Achievements": "2023-10-24T14:07:44.2532769+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:03:23.9567847+00:00",
-  "LastUpdate_Achievements": "2023-10-24T13:11:54.3520802+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:58:25.8554312+00:00",
+  "LastUpdate_Achievements": "2023-10-24T14:07:44.253431+00:00"
 }
