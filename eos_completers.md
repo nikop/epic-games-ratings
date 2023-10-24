@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.18% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.21% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 44.20% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -14,7 +14,7 @@
 | 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22.22% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.38% |
+| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.25% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 16 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 20.00% |
 | 16 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
@@ -182,8 +182,8 @@
 | 179 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 181 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 181 | [Dead Space](games/d/dead_space.md) | 0.51% |
-| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.51% |
-| 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
+| 183 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.50% |
+| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 185 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.48% |
 | 186 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 186 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.47% |
