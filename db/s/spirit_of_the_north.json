@@ -327,7 +327,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72182,
+  "EOS_Progressed": 72183,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
@@ -20832,6 +20832,11 @@
       "Time": "2023-10-24T03:06:25.0209907+00:00",
       "NumProgressed": 72182,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-24T04:06:45.8488045+00:00",
+      "NumProgressed": 72183,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20875,7 +20880,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18767
+      "UsersEstimate": 18768
     },
     {
       "ID": "ERADICATE",
@@ -20923,7 +20928,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38256
+      "UsersEstimate": 38257
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21034,7 +21039,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72182,
+      "Progressed": 72183,
       "Completed": 379
     }
   ],
@@ -21042,8 +21047,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:25.0209899+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:06:45.8488038+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:00:55.3319308+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:25.021252+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:01:24.577728+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:06:45.8489725+00:00"
 }

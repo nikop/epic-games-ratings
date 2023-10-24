@@ -6,23 +6,23 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,326 |
-| ''I don't like you either!'' | 79.00% | ~40,987 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,355 |
-| ''Impressive, most impressive'' | 71.00% | ~36,836 |
-| The Phantom Menace | 59.00% | ~30,610 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,610 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,327 |
+| ''I don't like you either!'' | 79.00% | ~40,988 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,356 |
+| ''Impressive, most impressive'' | 71.00% | ~36,837 |
+| The Phantom Menace | 59.00% | ~30,611 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,611 |
 | ''I can fly anything'' | 57.00% | ~29,573 |
-| ''And who gave you permission...?'' | 54.00% | ~28,016 |
-| A New Hope | 48.00% | ~24,903 |
+| ''And who gave you permission...?'' | 54.00% | ~28,017 |
+| A New Hope | 48.00% | ~24,904 |
 | Attack of the Clones | 47.00% | ~24,385 |
 | Revenge of the Sith | 40.00% | ~20,753 |
-| The Empire Strikes Back | 38.00% | ~19,715 |
-| ''A fine addition to my collection'' | 37.00% | ~19,196 |
-| Return of the Jedi | 32.00% | ~16,602 |
+| The Empire Strikes Back | 38.00% | ~19,716 |
+| ''A fine addition to my collection'' | 37.00% | ~19,197 |
+| Return of the Jedi | 32.00% | ~16,603 |
 | The Force Awakens | 27.00% | ~14,008 |
 | The Last Jedi | 23.00% | ~11,933 |
-| The Rise of Skywalker | 20.00% | ~10,376 |
+| The Rise of Skywalker | 20.00% | ~10,377 |
 | ''It's true... all of it'' | 19.00% | ~9,858 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,858 |
 | ''Raw, untamed power'' | 8.00% | ~4,151 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~519 |
 | ''I've never seen a real one!'' | 1.00% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,882 (Ranked 102)  
+Progressed: 51,883 (Ranked 102)  
 Completed: 242 (0.47%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 242 (0.47%) (Ranked 186)
 | 2023-10-21 | 51,867 | 241 |
 | 2023-10-22 | 51,879 | 242 |
 | 2023-10-23 | 51,882 | 242 |
+| 2023-10-24 | 51,883 | 242 |
 ## Awards
 Max (Great Boss Battles): 2,431  (Ranked 104)  
 Sum: 6,671 (Ranked 122)  

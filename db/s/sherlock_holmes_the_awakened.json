@@ -79,11 +79,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 723,
+  "EOS_Progressed": 724,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.6,
+  "EOS_Completed_Percentage": 3.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2694,6 +2694,11 @@
       "Time": "2023-10-24T02:21:47.0783909+00:00",
       "NumProgressed": 723,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-24T04:04:58.0324308+00:00",
+      "NumProgressed": 724,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2705,7 +2710,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "MQ01_2",
@@ -2713,7 +2718,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "MQ02_1",
@@ -2737,7 +2742,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ02_4",
@@ -2751,9 +2756,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 390
+      "UsersEstimate": 384
     },
     {
       "ID": "MQ03_2",
@@ -2807,9 +2812,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 354
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ05_1",
@@ -2817,7 +2822,7 @@
       "Name": "Open Sesame",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ05_2",
@@ -2833,7 +2838,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ05_4",
@@ -2841,7 +2846,7 @@
       "Name": "Knives Out",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ06_1",
@@ -2849,7 +2854,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ06_2",
@@ -2897,7 +2902,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ08_2",
@@ -2913,7 +2918,7 @@
       "Name": "Fhtagn!",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PLTN",
@@ -2928,7 +2933,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 723,
+      "Progressed": 724,
       "Completed": 26
     }
   ],
@@ -2936,8 +2941,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:04:52.7176924+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:04:58.0324304+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:58:55.0240156+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:04:52.7177535+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:59:00.0624495+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:04:58.0324588+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -418,9 +418,9 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -441,8 +441,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:37.9144313+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:07:00.9239377+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:58:50.6896271+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:37.9144519+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:58:54.7166066+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:07:00.9239537+00:00"
 }

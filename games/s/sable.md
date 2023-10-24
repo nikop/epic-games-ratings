@@ -6,14 +6,14 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,508 |
+| Simoon | 34.00% | ~32,509 |
 | Just The Two of Us | 32.00% | ~30,596 |
-| Up On High | 25.00% | ~23,903 |
-| Under The Hood | 25.00% | ~23,903 |
+| Up On High | 25.00% | ~23,904 |
+| Under The Hood | 25.00% | ~23,904 |
 | Got Your Nose | 24.00% | ~22,947 |
 | The Gift of Gab | 24.00% | ~22,947 |
 | Wrapping Up | 22.00% | ~21,035 |
-| More Than A Box Of Sand | 18.00% | ~17,210 |
+| More Than A Box Of Sand | 18.00% | ~17,211 |
 | The Dunboyne | 17.00% | ~16,254 |
 | Badge Hobbyist | 17.00% | ~16,254 |
 | Chum Novice | 16.00% | ~15,298 |
@@ -26,9 +26,9 @@ Number of Ratings: 43  (23.09.2022)
 | Nesting Giant | 13.00% | ~12,430 |
 | Treasure Tracker | 13.00% | ~12,430 |
 | Big Spender | 13.00% | ~12,430 |
-| Badge Collector | 12.00% | ~11,473 |
-| Quite The Catch | 12.00% | ~11,473 |
-| Rowleys Way | 11.00% | ~10,517 |
+| Badge Collector | 12.00% | ~11,474 |
+| Quite The Catch | 12.00% | ~11,474 |
+| Rowleys Way | 11.00% | ~10,518 |
 | The Machinist Mask | 10.00% | ~9,561 |
 | The Cartographer Mask | 10.00% | ~9,561 |
 | Balfron Connection | 10.00% | ~9,561 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,737 |
 | The Gliding | 5.00% | ~4,781 |
 | The Entertainer Mask | 5.00% | ~4,781 |
-| The Quick and the Curious | 4.00% | ~3,824 |
-| Bike Aficionado | 4.00% | ~3,824 |
+| The Quick and the Curious | 4.00% | ~3,825 |
+| Bike Aficionado | 4.00% | ~3,825 |
 | Chum Expert | 3.00% | ~2,868 |
 | Gastric Bypass | 3.00% | ~2,868 |
 | The Angler Mask | 3.00% | ~2,868 |
 | Vivacious Vivarium | 2.00% | ~1,912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,612 (Ranked 84)  
+Progressed: 95,614 (Ranked 84)  
 Completed: 965 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 965 (1.01%) (Ranked 147)
 | 2023-10-21 | 95,227 | 959 |
 | 2023-10-22 | 95,449 | 963 |
 | 2023-10-23 | 95,594 | 965 |
-| 2023-10-24 | 95,612 | 965 |
+| 2023-10-24 | 95,614 | 965 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 508)  
 Sum: 91 (Ranked 441)  

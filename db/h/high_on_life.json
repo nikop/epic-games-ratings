@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24329,
+  "EOS_Progressed": 24330,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5985,6 +5985,11 @@
       "Time": "2023-10-24T00:04:57.8328355+00:00",
       "NumProgressed": 24329,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-24T04:05:00.1205438+00:00",
+      "NumProgressed": 24330,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6082,9 +6087,9 @@
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -6347,13 +6352,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24329,
+      "Progressed": 24330,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1622,
+      "Progressed": 1623,
       "Completed": 1374
     }
   ],
@@ -6361,8 +6366,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:04:54.6094062+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:05:00.1205434+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:59:47.2825904+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:04:54.6095306+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:00:08.9523765+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:05:00.1206147+00:00"
 }

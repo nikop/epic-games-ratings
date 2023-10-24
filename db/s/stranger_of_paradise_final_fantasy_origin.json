@@ -1735,9 +1735,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79836,
+  "EOS_Progressed": 79837,
   "EOS_Completed": 2182,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -9100,6 +9100,11 @@
       "Time": "2023-10-23T19:07:29.3947361+00:00",
       "NumProgressed": 79836,
       "NumCompleted": 2182
+    },
+    {
+      "Time": "2023-10-24T04:09:19.1496822+00:00",
+      "NumProgressed": 79837,
+      "NumCompleted": 2182
     }
   ],
   "TotalAchievements": 46,
@@ -9135,7 +9140,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54288
+      "UsersEstimate": 54289
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -9159,7 +9164,7 @@
       "Name": "The Wind\u0027s Light",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 43111
+      "UsersEstimate": 43112
     },
     {
       "ID": "007_TROPHY_MISSION_POISON_MEMORIES",
@@ -9191,7 +9196,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 35926
+      "UsersEstimate": 35927
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -9199,7 +9204,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33531
+      "UsersEstimate": 33532
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -9207,7 +9212,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31934
+      "UsersEstimate": 31935
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -9231,7 +9236,7 @@
       "Name": "Led by the Nose",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 27144
+      "UsersEstimate": 27145
     },
     {
       "ID": "016_TROPHY_MISSION_FRAUGHT_JOURNEY",
@@ -9279,7 +9284,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77441
+      "UsersEstimate": 77442
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -9295,7 +9300,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68659
+      "UsersEstimate": 68660
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -9303,7 +9308,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62272
+      "UsersEstimate": 62273
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -9359,7 +9364,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49498
+      "UsersEstimate": 49499
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -9399,7 +9404,7 @@
       "Name": "Path of the Dark Knight",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29539
+      "UsersEstimate": 29540
     },
     {
       "ID": "037_TROPHY_UNLOCKED_PALADIN",
@@ -9407,7 +9412,7 @@
       "Name": "Path of the Paladin",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29539
+      "UsersEstimate": 29540
     },
     {
       "ID": "038_TROPHY_UNLOCKED_NINJA",
@@ -9439,7 +9444,7 @@
       "Name": "Path of the Breaker",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29539
+      "UsersEstimate": 29540
     },
     {
       "ID": "042_TROPHY_UNLOCKED_VOID_KNIGHT",
@@ -9447,7 +9452,7 @@
       "Name": "Path of the Void Knight",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 27144
+      "UsersEstimate": 27145
     },
     {
       "ID": "043_TROPHY_UNLOCKED_TYRANT",
@@ -9463,7 +9468,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31934
+      "UsersEstimate": 31935
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -9478,15 +9483,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79836,
+      "Progressed": 79837,
       "Completed": 2182
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-10-20T13:06:28.5703656+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:08:19.1129921+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:09:19.149682+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:32.0947791+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:57:39.8961803+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:08:19.1131277+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:57:36.2442233+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:09:19.1497597+00:00"
 }

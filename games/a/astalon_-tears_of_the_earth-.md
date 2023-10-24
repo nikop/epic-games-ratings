@@ -19,8 +19,8 @@
 | Mercenary! | 30.00% | ~20 |
 | Beast Knight | 29.00% | ~19 |
 | Fly, you fool! | 29.00% | ~19 |
+| Relic Collector | 27.00% | ~18 |
 | God of the Tower! | 26.00% | ~17 |
-| Relic Collector | 26.00% | ~17 |
 | Cartographer | 26.00% | ~17 |
 | Wizard Mastery | 20.00% | ~13 |
 | Rogue Mastery | 17.00% | ~11 |

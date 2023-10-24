@@ -2,9 +2,9 @@
   "ID": "de5dba249c30453f86061fe2dcbd5e82",
   "Name": "Niche - a genetics survival game",
   "ProductSlug": "niche-a-genetics-survival-game",
-  "Ranking_EOS_Progress": 695,
+  "Ranking_EOS_Progress": 696,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-15T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.3183995+00:00",
   "LastChanged": "2023-03-31T05:58:28.3183996+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.5311408+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:59:55.5890172+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:04:31.5579734+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:00:19.9619966+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:04:33.5631784+00:00"
 }

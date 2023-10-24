@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17035,
+  "EOS_Progressed": 17036,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12446,6 +12446,11 @@
       "Time": "2023-10-24T01:48:11.0874725+00:00",
       "NumProgressed": 17035,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-24T04:06:03.2656501+00:00",
+      "NumProgressed": 17036,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12833,7 +12838,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "WinWithoutOrders",
@@ -12856,15 +12861,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17035,
+      "Progressed": 17036,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:05:48.545221+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:06:03.2656498+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:58:18.0782539+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:05:48.5453175+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:58:17.8987361+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:06:03.2657295+00:00"
 }

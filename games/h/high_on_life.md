@@ -6,12 +6,12 @@ Rating: 4.65 (Ranked 304)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 2.00% | ~487 |
+| Sweezy Like Sunday Morning | 2.00% | ~487 |
 | Cold-Blooded Driller | 2.00% | ~487 |
 | Creature Feature | 1.00% | ~243 |
 | Are You Packin'? | 1.00% | ~243 |
 | Bring A Knife to a Gun Fight | 1.00% | ~243 |
 | RIP Davey Glutes | 1.00% | ~243 |
-| Sweezy Like Sunday Morning | 1.00% | ~243 |
 | We're All Very Impressed, Trust Me | 1.00% | ~243 |
 | First Bounty Down | 1.00% | ~243 |
 | G3 Graduation | 1.00% | ~243 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 304)
 | Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,329 (Ranked 122)  
+Progressed: 24,330 (Ranked 122)  
 Completed: 13 (0.05%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 13 (0.05%) (Ranked 281)
 | 2023-10-21 | 24,294 | 13 |
 | 2023-10-22 | 24,316 | 13 |
 | 2023-10-23 | 24,326 | 13 |
-| 2023-10-24 | 24,329 | 13 |
+| 2023-10-24 | 24,330 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

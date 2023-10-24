@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1751,9 +1751,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 61565,
+  "EOS_Progressed": 61566,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22221,6 +22221,11 @@
       "Time": "2023-10-24T03:04:34.6161474+00:00",
       "NumProgressed": 61565,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T04:04:37.3650942+00:00",
+      "NumProgressed": 61566,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -22520,7 +22525,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38786
+      "UsersEstimate": 38787
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -22576,7 +22581,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15391
+      "UsersEstimate": 15392
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -22648,7 +22653,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -22703,15 +22708,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 61565,
+      "Progressed": 61566,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:04:34.6161467+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:04:37.3650932+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:28.1860565+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:57:47.8726305+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:04:34.6165025+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:57:45.143404+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:04:37.3652583+00:00"
 }

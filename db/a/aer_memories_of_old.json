@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22677,
+  "EOS_Progressed": 22680,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -20458,6 +20458,11 @@
       "Time": "2023-10-24T02:23:47.752491+00:00",
       "NumProgressed": 22677,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-24T04:06:53.9155227+00:00",
+      "NumProgressed": 22680,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20469,7 +20474,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -20501,7 +20506,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20525,7 +20530,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -20539,9 +20544,9 @@
       "ID": "FOUND_ERIN",
       "SetID": "b6m2mm5",
       "Name": "Hide and Seek",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 907
+      "UsersEstimate": 1134
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20581,7 +20586,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "INTRO_FINISHED",
@@ -20589,7 +20594,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17461
+      "UsersEstimate": 17464
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20628,15 +20633,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22677,
+      "Progressed": 22680,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:31.7847789+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:06:53.9155222+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:03:07.9975896+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:31.7849159+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:01:34.3213496+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:06:53.9157005+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Progress": 609,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -317,8 +317,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:05:42.8162707+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:05:56.5060738+00:00",
   "LastUpdate_AppInfo": "2023-10-18T02:14:21.9544369+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:03:28.7627946+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:05:42.8163011+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:03:17.3860135+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:05:56.506093+00:00"
 }

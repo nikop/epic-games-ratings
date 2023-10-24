@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Journal Beautifier | 83.00% | ~1,072 |
 | Home Leaver | 82.00% | ~1,059 |
-| Journal Beautifier | 82.00% | ~1,059 |
 | Outside World Seer | 66.00% | ~852 |
 | Stranger Encounterer | 41.00% | ~529 |
-| Grey Hands Praxis 101 | 31.00% | ~400 |
+| Grey Hands Praxis 101 | 32.00% | ~413 |
 | Deep Listener | 29.00% | ~374 |
 | Music for Cows | 21.00% | ~271 |
 | Emotional Baggage Handler | 20.00% | ~258 |

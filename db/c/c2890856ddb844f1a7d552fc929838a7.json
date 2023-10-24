@@ -2432,9 +2432,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 407
     },
     {
       "ID": "AC32",
@@ -2561,8 +2561,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:09:09.904399+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:09:30.8721823+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.3948519+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:59:11.664363+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:09:09.9044531+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:59:20.9338856+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:09:30.8722257+00:00"
 }

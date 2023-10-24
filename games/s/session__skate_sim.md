@@ -12,11 +12,11 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 20.00% | ~607 |
 | Backpacker | 14.00% | ~425 |
 | Go with the Flow | 14.00% | ~425 |
+| Keep the dream alive | 10.00% | ~303 |
 | Plastic Surgeon | 10.00% | ~303 |
 | The flip trick crown jewel | 10.00% | ~303 |
 | The hard way | 10.00% | ~303 |
 | Good vibes | 9.00% | ~273 |
-| Keep the dream alive | 9.00% | ~273 |
 | Upfront shredder | 9.00% | ~273 |
 | Bottom ply killer | 7.00% | ~212 |
 | Fashionista | 7.00% | ~212 |
@@ -56,7 +56,7 @@ Number of Ratings: 111  (23.09.2022)
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,034 (Ranked 194)  
-Completed: 1 (0.03%) (Ranked 291)  
+Completed: 1 (0.03%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

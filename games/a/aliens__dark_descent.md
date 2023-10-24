@@ -47,7 +47,7 @@ Rating: 4.48 (Ranked 612)
 | The True Experience | 6.00% | ~209 |
 | Fair And Square | 3.00% | ~105 |
 | Archivist | 2.00% | ~70 |
-| Perfect Organism | 0.90% | ~31 |
+| Perfect Organism | 1.00% | ~35 |
 | This Ain't No Picnic | 0.70% | ~24 |
 | Chalk It Up To Experience | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)

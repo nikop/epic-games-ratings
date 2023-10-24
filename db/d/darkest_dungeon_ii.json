@@ -8418,9 +8418,9 @@
       "Count": 953
     }
   ],
-  "EOS_Progressed": 121345,
+  "EOS_Progressed": 121346,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27793,6 +27793,11 @@
       "Time": "2023-10-24T03:09:06.6230431+00:00",
       "NumProgressed": 121345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T04:09:27.3470693+00:00",
+      "NumProgressed": 121346,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -27804,7 +27809,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 86155
+      "UsersEstimate": 86156
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -27812,7 +27817,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 65526
+      "UsersEstimate": 65527
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -27836,7 +27841,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 75234
+      "UsersEstimate": 75235
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -27852,7 +27857,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 81301
+      "UsersEstimate": 81302
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -27868,7 +27873,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 75234
+      "UsersEstimate": 75235
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -27876,7 +27881,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72807
+      "UsersEstimate": 72808
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -27908,7 +27913,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 60672
+      "UsersEstimate": 60673
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -28004,7 +28009,7 @@
       "Name": "Meat and Greet",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 27909
+      "UsersEstimate": 27910
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -28028,7 +28033,7 @@
       "Name": "Overdue Notice",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 38830
+      "UsersEstimate": 38831
     },
     {
       "ID": "combat_kill_pillagers",
@@ -28100,7 +28105,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72807
+      "UsersEstimate": 72808
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -28108,7 +28113,7 @@
       "Name": "Merry Time",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 43684
+      "UsersEstimate": 43685
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -28124,7 +28129,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 72807
+      "UsersEstimate": 72808
     },
     {
       "ID": "driving_distance_easy",
@@ -28132,7 +28137,7 @@
       "Name": "Ramble On",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 59459
+      "UsersEstimate": 59460
     },
     {
       "ID": "driving_distance_hard",
@@ -28164,7 +28169,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14561
+      "UsersEstimate": 14562
     },
     {
       "ID": "hero_story_complete_any",
@@ -28172,7 +28177,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 83728
+      "UsersEstimate": 83729
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -28180,7 +28185,7 @@
       "Name": "Whale",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 38830
+      "UsersEstimate": 38831
     },
     {
       "ID": "hospital_full_service",
@@ -28196,7 +28201,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 112851
+      "UsersEstimate": 112852
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -28252,7 +28257,7 @@
       "Name": "Nope",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 59459
+      "UsersEstimate": 59460
     },
     {
       "ID": "run_victory_act01",
@@ -28260,7 +28265,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 81301
+      "UsersEstimate": 81302
     },
     {
       "ID": "run_victory_act02",
@@ -28268,7 +28273,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 43684
+      "UsersEstimate": 43685
     },
     {
       "ID": "run_victory_act03",
@@ -28276,7 +28281,7 @@
       "Name": "Eyes Up",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 25482
+      "UsersEstimate": 25483
     },
     {
       "ID": "run_victory_act04",
@@ -28292,7 +28297,7 @@
       "Name": "Body of Work",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 12134
+      "UsersEstimate": 12135
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -28323,15 +28328,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 121345,
+      "Progressed": 121346,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-23T21:01:53.3303546+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:09:06.6230425+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:09:27.347069+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:18.3277019+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:57:28.0535617+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:09:06.6232122+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:57:19.1687446+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:09:27.347271+00:00"
 }

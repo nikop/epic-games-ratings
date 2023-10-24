@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 80.00% | ~218 |
+| Nightmare Territory | 81.00% | ~220 |
 | Hunting Season | 74.00% | ~201 |
-| Not the Last | 54.00% | ~147 |
-| Grew Bigger | 44.00% | ~120 |
-| Coffee Thermos | 43.00% | ~117 |
+| Not the Last | 57.00% | ~155 |
+| Grew Bigger | 45.00% | ~122 |
+| Coffee Thermos | 44.00% | ~120 |
+| Somebody's Home | 44.00% | ~120 |
 | Bring It | 42.00% | ~114 |
-| Somebody's Home | 42.00% | ~114 |
-| Darkness Coiled | 39.00% | ~106 |
-| Secret Stashes | 38.00% | ~103 |
-| Chased the Source | 37.00% | ~101 |
-| Felt Good | 36.00% | ~98 |
-| Find the Light | 34.00% | ~92 |
+| Darkness Coiled | 40.00% | ~109 |
+| Secret Stashes | 39.00% | ~106 |
+| Chased the Source | 38.00% | ~103 |
+| Felt Good | 37.00% | ~101 |
+| Find the Light | 35.00% | ~95 |
+| Lawman | 32.00% | ~87 |
 | Into the Overlap | 32.00% | ~87 |
-| Lawman | 31.00% | ~84 |
-| Aimed Ahead | 30.00% | ~82 |
+| Aimed Ahead | 31.00% | ~84 |
+| Carry his Words | 28.00% | ~76 |
 | Talk Show | 27.00% | ~73 |
-| Carry his Words | 26.00% | ~71 |
-| Filling the Shape | 23.00% | ~63 |
+| Filling the Shape | 24.00% | ~65 |
 | The Other Side | 23.00% | ~63 |
 | Storm Cloud | 21.00% | ~57 |
 | New York City | 21.00% | ~57 |
@@ -36,8 +36,8 @@
 | Stop the Monster | 15.00% | ~41 |
 | Ready for a Fight | 14.00% | ~38 |
 | Escape its Gravity | 13.00% | ~35 |
+| Bright Falls' Finest | 13.00% | ~35 |
 | All His Life | 13.00% | ~35 |
-| Bright Falls' Finest | 12.00% | ~33 |
 | In One Go | 12.00% | ~33 |
 | Back in Watery | 11.00% | ~30 |
 | We Watch in the Night | 11.00% | ~30 |
@@ -54,10 +54,10 @@
 | The Cult of the Word | 7.00% | ~19 |
 | Strange Reality | 6.00% | ~16 |
 | Gone for Good | 6.00% | ~16 |
+| The Story Come True | 6.00% | ~16 |
 | The Final Deerfest | 6.00% | ~16 |
+| End of the Road | 6.00% | ~16 |
 | The Trail of the Writer | 5.00% | ~14 |
-| The Story Come True | 5.00% | ~14 |
-| End of the Road | 5.00% | ~14 |
 | His Way Out | 5.00% | ~14 |
 | Filled with Rage | 4.00% | ~11 |
 | Rock n' Roll, Baby | 4.00% | ~11 |

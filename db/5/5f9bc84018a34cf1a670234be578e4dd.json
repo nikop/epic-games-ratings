@@ -3,9 +3,9 @@
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 294,
-  "EOS_Completed": 73,
+  "EOS_Completed": 74,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 24.83,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 25.17,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -1539,6 +1539,11 @@
       "Time": "2023-10-23T19:04:22.6896661+00:00",
       "NumProgressed": 294,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-24T04:04:54.2182364+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -1565,9 +1570,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "FallDeath",
@@ -1605,9 +1610,9 @@
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "GasDeath",
@@ -1653,9 +1658,9 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
@@ -1663,13 +1668,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 294,
-      "Completed": 73
+      "Completed": 74
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:04:49.3790063+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:04:54.218236+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:13.6968511+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:59:26.279874+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:04:49.3790276+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:59:40.7477062+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:04:54.2182565+00:00"
 }

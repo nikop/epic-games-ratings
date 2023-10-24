@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39326,
+  "EOS_Progressed": 39328,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19730,6 +19730,11 @@
       "Time": "2023-10-24T03:06:56.8899284+00:00",
       "NumProgressed": 39326,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T04:07:23.3069925+00:00",
+      "NumProgressed": 39328,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -19757,7 +19762,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6685
+      "UsersEstimate": 6686
     },
     {
       "ID": "ach_antiquarian10",
@@ -19861,7 +19866,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14157
+      "UsersEstimate": 14158
     },
     {
       "ID": "ach_die10",
@@ -20172,15 +20177,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39326,
+      "Progressed": 39328,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:56.8899278+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:07:23.3069922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:58:15.8527734+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:56.8900962+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:58:17.1205078+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:07:23.3072112+00:00"
 }

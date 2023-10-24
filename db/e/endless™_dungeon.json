@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -428,6 +428,11 @@
       "Time": "2023-10-24T03:06:28.7872206+00:00",
       "NumProgressed": 664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T04:06:50.3870441+00:00",
+      "NumProgressed": 668,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -472,7 +477,7 @@
       "Name": "Blobmeister",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -488,7 +493,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -496,7 +501,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -504,15 +509,15 @@
       "Name": "Team Builder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -520,7 +525,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 481
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -528,7 +533,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -536,7 +541,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 274
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -552,7 +557,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -582,9 +587,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -638,9 +643,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -679,13 +684,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 668,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:28.7872197+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:06:50.3870435+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:59:16.9334429+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:28.7872615+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:59:27.6521464+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:06:50.3870701+00:00"
 }

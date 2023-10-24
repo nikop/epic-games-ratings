@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -845,9 +845,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "BRING_PROSPERO",
@@ -885,9 +885,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -996,8 +996,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:06:19.4754887+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:06:39.2907498+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:58:10.1532206+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:06:19.475519+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:58:11.2469913+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:06:39.290768+00:00"
 }

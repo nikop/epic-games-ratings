@@ -4,11 +4,11 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 704,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -409,10 +409,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 210,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-10-24T03:57:46.0247922+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 215,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 210,
+  "NumberOfAwards": 215,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -438,13 +444,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 29
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8959,9 +8965,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-23T22:57:37.7584546+00:00",
+  "LastChanged": "2023-10-24T03:57:46.0247921+00:00",
   "LastChanged_Achievements": "2023-10-24T03:08:03.6570532+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:57:48.6292984+00:00",
+  "LastUpdate_Ratings": "2023-10-24T03:57:46.0247926+00:00",
   "LastUpdate_Achievements": "2023-10-24T03:08:03.6571216+00:00"
 }

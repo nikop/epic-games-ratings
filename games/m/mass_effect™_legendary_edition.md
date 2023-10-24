@@ -46,10 +46,10 @@
 | Broke, Blind, and Bedlam | 35.00% | ~276 |
 | Archivist | 34.00% | ~269 |
 | Ghost Ship | 34.00% | ~269 |
+| The Quarian | 34.00% | ~269 |
 | A Personal Touch | 33.00% | ~261 |
 | The Assassin | 33.00% | ~261 |
 | The Justicar | 33.00% | ~261 |
-| The Quarian | 33.00% | ~261 |
 | Ghost of the Father | 33.00% | ~261 |
 | The Cure | 33.00% | ~261 |
 | The Prodigal | 33.00% | ~261 |

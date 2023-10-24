@@ -2647,9 +2647,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_51",
@@ -3091,8 +3091,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-24T03:03:55.257114+00:00",
+  "LastChanged_Achievements": "2023-10-24T04:03:51.228155+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:57:31.5234942+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:03:55.2574633+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:57:22.7616846+00:00",
+  "LastUpdate_Achievements": "2023-10-24T04:03:51.2283709+00:00"
 }
