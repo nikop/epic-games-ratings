@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 135,
@@ -1343,9 +1343,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16243,
+  "EOS_Progressed": 16244,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8123,6 +8123,11 @@
       "Time": "2023-10-24T22:06:14.1684733+00:00",
       "NumProgressed": 16243,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T23:06:02.7432388+00:00",
+      "NumProgressed": 16244,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8238,7 +8243,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8509,13 +8514,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16243,
+      "Progressed": 16244,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4169,
+      "Progressed": 4170,
       "Completed": 29
     }
   ],
@@ -8523,8 +8528,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-24T21:01:27.026746+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:14.1684729+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:06:02.7432383+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:59:30.2846573+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:14.1685426+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:59:22.943567+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:02.7433207+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
   "ProductSlug": "evil-dead-the-game",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
     "PcReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -6977,6 +6977,6 @@
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
   "LastChanged": "2023-10-24T18:01:44.8502715+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:19.6445433+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:31.9158464+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:09:27.6964814+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:25.1037197+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:08:32.6426445+00:00"
 }

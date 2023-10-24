@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 439)  
+Rating: 4.58 (Ranked 440)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,189 |
+| Sowwy! | 34.00% | ~79,192 |
 | Alt+F4 | 7.00% | ~16,304 |
 | Where's that freaking Dwarf? | 6.00% | ~13,975 |
 | Déjà vu | 5.00% | ~11,646 |
-| Sock! SOCK! | 4.00% | ~9,316 |
-| Speedrun | 4.00% | ~9,316 |
-| A beer, two curses, three companions | 3.00% | ~6,987 |
-| GG EZ | 3.00% | ~6,987 |
-| DM intervention | 3.00% | ~6,987 |
-| Fireproof Wizardess | 3.00% | ~6,987 |
+| Sock! SOCK! | 4.00% | ~9,317 |
+| Speedrun | 4.00% | ~9,317 |
+| A beer, two curses, three companions | 3.00% | ~6,988 |
+| GG EZ | 3.00% | ~6,988 |
+| DM intervention | 3.00% | ~6,988 |
+| Fireproof Wizardess | 3.00% | ~6,988 |
 | Livin' in a dwarven paradise | 2.00% | ~4,658 |
 | Shiny and Crôm | 2.00% | ~4,658 |
 | Way of the Wimp | 2.00% | ~4,658 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.90% | ~2,096 |
 | In Navalu's footsteps | 0.70% | ~1,630 |
 | Lëgal Legend | 0.70% | ~1,630 |
-| We come in peace | 0.60% | ~1,397 |
+| We come in peace | 0.60% | ~1,398 |
 | Holistic Adventuring Party | 0.50% | ~1,165 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,165 |
 | Law and Order | 0.50% | ~1,165 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,910 (Ranked 60)  
+Progressed: 232,917 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.00%) (Ranked 324)
 | 2023-10-21 | 232,272 | 6 |
 | 2023-10-22 | 232,549 | 7 |
 | 2023-10-23 | 232,741 | 7 |
-| 2023-10-24 | 232,910 | 7 |
+| 2023-10-24 | 232,917 | 7 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 438 (Ranked 326)  

@@ -2,13 +2,13 @@
   "ID": "f27cd07f948348dfb27165510c56c569",
   "Name": "Duskers",
   "ProductSlug": "duskers-672fdc",
-  "Ranking_Rating": 554,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-23T16:00:00+00:00",
     "PcReleaseDate": "2016-05-18T17:00:00+00:00",
@@ -331,6 +331,6 @@
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
   "LastChanged": "2023-10-11T21:58:40.2345712+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.6063605+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:59:33.487256+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:07:02.6351435+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:59:24.9807852+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:40.0023568+00:00"
 }

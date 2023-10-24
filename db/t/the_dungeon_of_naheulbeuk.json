@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 60,
@@ -1221,9 +1221,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 232910,
+  "EOS_Progressed": 232917,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1409,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15966,6 +15966,11 @@
       "Time": "2023-10-24T22:04:57.0994887+00:00",
       "NumProgressed": 232910,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-24T23:04:36.3431318+00:00",
+      "NumProgressed": 232917,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16033,7 +16038,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "Chapter3",
@@ -16409,7 +16414,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9316
+      "UsersEstimate": 9317
     },
     {
       "ID": "ElfEpic",
@@ -16425,7 +16430,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79189
+      "UsersEstimate": 79192
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16441,7 +16446,7 @@
       "Name": "GG EZ",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "EndCombatOneHp",
@@ -16449,7 +16454,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     },
     {
       "ID": "EndGameCursed",
@@ -16513,7 +16518,7 @@
       "Name": "We come in peace",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "MinistrelEpic",
@@ -16625,7 +16630,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9316
+      "UsersEstimate": 9317
     },
     {
       "ID": "SupportCount4",
@@ -16673,28 +16678,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6987
+      "UsersEstimate": 6988
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 232910,
+      "Progressed": 232917,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 232910,
+      "Progressed": 232917,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-24T14:02:34.6884253+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:04:57.0994882+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:04:36.3431313+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:01:08.4979369+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:57.0996726+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:01:06.8278044+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:04:36.343323+00:00"
 }

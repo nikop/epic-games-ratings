@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 705)  
+Rating: 4.41 (Ranked 706)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,669 |
-| IT MAKES BOOM! | 3.00% | ~7,601 |
-| EXTRA BOOST | 2.00% | ~5,068 |
-| PROTECTED | 2.00% | ~5,068 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,534 |
-| AGGRESSIVE RACER | 1.00% | ~2,534 |
-| PRO | 1.00% | ~2,534 |
-| A TIGER'S FEAR | 0.90% | ~2,280 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,267 |
-| ACE SPEEDSTER | 0.50% | ~1,267 |
+| ROOKIE | 5.00% | ~12,675 |
+| IT MAKES BOOM! | 3.00% | ~7,605 |
+| EXTRA BOOST | 2.00% | ~5,070 |
+| PROTECTED | 2.00% | ~5,070 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,535 |
+| AGGRESSIVE RACER | 1.00% | ~2,535 |
+| PRO | 1.00% | ~2,535 |
+| A TIGER'S FEAR | 0.90% | ~2,282 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,268 |
+| ACE SPEEDSTER | 0.50% | ~1,268 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,014 |
-| TRAINING HARD | 0.30% | ~760 |
-| RELEASE THE KRAKEN | 0.30% | ~760 |
-| BE OUR GUEST | 0.30% | ~760 |
-| ACE BRAWLER | 0.30% | ~760 |
-| ACE DEFENDER | 0.30% | ~760 |
-| THE EYE OF THE HUNTER | 0.30% | ~760 |
-| FRIENDLY | 0.30% | ~760 |
-| MASTER | 0.30% | ~760 |
-| LEGENDARY HERO | 0.30% | ~760 |
+| TRAINING HARD | 0.30% | ~761 |
+| RELEASE THE KRAKEN | 0.30% | ~761 |
+| BE OUR GUEST | 0.30% | ~761 |
+| ACE BRAWLER | 0.30% | ~761 |
+| ACE DEFENDER | 0.30% | ~761 |
+| THE EYE OF THE HUNTER | 0.30% | ~761 |
+| FRIENDLY | 0.30% | ~761 |
+| MASTER | 0.30% | ~761 |
+| LEGENDARY HERO | 0.30% | ~761 |
 | PERFECTLY POISED | 0.20% | ~507 |
 | EXPERIENCED CREW | 0.20% | ~507 |
 | ACE TRICKSTER | 0.20% | ~507 |
-| FRAMED! | 0.10% | ~253 |
+| FRAMED! | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,379 (Ranked 53)  
+Progressed: 253,504 (Ranked 53)  
 Completed: 241 (0.10%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 241 (0.10%) (Ranked 257)
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
-| 2023-10-24 | 253,379 | 241 |
+| 2023-10-24 | 253,504 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 450)  
 Sum: 250 (Ranked 370)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -391,9 +391,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3377,
+  "EOS_Progressed": 3378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3361,6 +3361,11 @@
       "Time": "2023-10-24T22:06:15.8070132+00:00",
       "NumProgressed": 3377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T23:06:04.261227+00:00",
+      "NumProgressed": 3378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3405,7 +3410,7 @@
       "Name": "Crucial Combo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "achievement_0006",
@@ -3413,7 +3418,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "achievement_0007",
@@ -3421,7 +3426,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_0008",
@@ -3429,7 +3434,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "achievement_0009",
@@ -3533,7 +3538,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "achievement_0022",
@@ -3541,7 +3546,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "achievement_0023",
@@ -3573,7 +3578,7 @@
       "Name": "Friendly Competition",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_0027",
@@ -3621,7 +3626,7 @@
       "Name": "Tinkerer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_0033",
@@ -3709,7 +3714,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "achievement_0044",
@@ -3725,7 +3730,7 @@
       "Name": "Making History",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "achievement_0046",
@@ -3755,16 +3760,16 @@
       "ID": "achievement_0049",
       "SetID": "9123ogc",
       "Name": "Proving Them Wrong",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 574
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3377,
+      "Progressed": 3378,
       "Completed": 0
     }
   ],
@@ -3772,8 +3777,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:15.8070126+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:06:04.2612266+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:59:21.3050263+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:15.8070716+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:59:14.8222708+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:04.2612869+00:00"
 }

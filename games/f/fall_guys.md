@@ -1,48 +1,48 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.51 (Ranked 554)  
+Rating: 4.51 (Ranked 555)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 13.00% | ~4,691,132 |
-| Snowflake | 13.00% | ~4,691,132 |
-| Fall Throttle | 11.00% | ~3,969,420 |
-| Big Bully | 9.00% | ~3,247,707 |
-| Face First | 9.00% | ~3,247,707 |
-| One to Watch | 8.00% | ~2,886,851 |
-| Style Points | 8.00% | ~2,886,851 |
-| Troublemaker | 8.00% | ~2,886,851 |
-| Flawless Victory | 7.00% | ~2,525,994 |
-| Fall Bae | 7.00% | ~2,525,994 |
-| Ahead of the Pack | 7.00% | ~2,525,994 |
-| Stumble Chums | 7.00% | ~2,525,994 |
-| Victory! | 6.00% | ~2,165,138 |
-| Bargain Bucket | 5.00% | ~1,804,282 |
-| Catwalk Model | 3.00% | ~1,082,569 |
-| Household Name | 3.00% | ~1,082,569 |
-| Head Turner | 3.00% | ~1,082,569 |
-| One giant leap | 3.00% | ~1,082,569 |
-| Quite Dashing | 3.00% | ~1,082,569 |
-| Squad Goals | 3.00% | ~1,082,569 |
-| Big Air | 2.00% | ~721,713 |
-| Down to the Wire | 2.00% | ~721,713 |
-| Star of the Show | 2.00% | ~721,713 |
-| Shopping Spree | 2.00% | ~721,713 |
-| Top Tier | 2.00% | ~721,713 |
-| Low Baller | 1.00% | ~360,856 |
-| Mad Trendy | 1.00% | ~360,856 |
-| Veteran Status | 0.90% | ~324,771 |
-| Show Off | 0.80% | ~288,685 |
-| Golden Guy | 0.70% | ~252,599 |
-| Track Star | 0.60% | ~216,514 |
-| Big Tease | 0.40% | ~144,343 |
-| Fall Guy Fashionista | 0.40% | ~144,343 |
-| Infallible | 0.20% | ~72,171 |
+| One small trip | 13.00% | ~4,691,207 |
+| Snowflake | 13.00% | ~4,691,207 |
+| Fall Throttle | 11.00% | ~3,969,483 |
+| Big Bully | 9.00% | ~3,247,759 |
+| Face First | 9.00% | ~3,247,759 |
+| One to Watch | 8.00% | ~2,886,897 |
+| Style Points | 8.00% | ~2,886,897 |
+| Troublemaker | 8.00% | ~2,886,897 |
+| Flawless Victory | 7.00% | ~2,526,035 |
+| Fall Bae | 7.00% | ~2,526,035 |
+| Ahead of the Pack | 7.00% | ~2,526,035 |
+| Stumble Chums | 7.00% | ~2,526,035 |
+| Victory! | 6.00% | ~2,165,173 |
+| Bargain Bucket | 5.00% | ~1,804,310 |
+| Catwalk Model | 3.00% | ~1,082,586 |
+| Household Name | 3.00% | ~1,082,586 |
+| Head Turner | 3.00% | ~1,082,586 |
+| One giant leap | 3.00% | ~1,082,586 |
+| Quite Dashing | 3.00% | ~1,082,586 |
+| Squad Goals | 3.00% | ~1,082,586 |
+| Big Air | 2.00% | ~721,724 |
+| Down to the Wire | 2.00% | ~721,724 |
+| Star of the Show | 2.00% | ~721,724 |
+| Shopping Spree | 2.00% | ~721,724 |
+| Top Tier | 2.00% | ~721,724 |
+| Low Baller | 1.00% | ~360,862 |
+| Mad Trendy | 1.00% | ~360,862 |
+| Veteran Status | 0.90% | ~324,776 |
+| Show Off | 0.80% | ~288,690 |
+| Golden Guy | 0.70% | ~252,603 |
+| Track Star | 0.60% | ~216,517 |
+| Big Tease | 0.40% | ~144,345 |
+| Fall Guy Fashionista | 0.40% | ~144,345 |
+| Infallible | 0.20% | ~72,172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,085,632 (Ranked 1)  
-Completed: 44,648 (0.12%) (Ranked 249)  
+Progressed: 36,086,209 (Ranked 1)  
+Completed: 44,653 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,19 +228,19 @@ Completed: 44,648 (0.12%) (Ranked 249)
 | 2023-10-21 | 36,038,220 | 44,442 |
 | 2023-10-22 | 36,058,830 | 44,507 |
 | 2023-10-23 | 36,072,298 | 44,563 |
-| 2023-10-24 | 36,085,632 | 44,648 |
+| 2023-10-24 | 36,086,209 | 44,653 |
 ## Awards
-Max (Great for Beginners): 150,497  (Ranked 7)  
-Sum: 1,377,956 (Ranked 5)  
+Max (Great for Beginners): 150,551  (Ranked 7)  
+Sum: 1,378,045 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 150,497 |
+| This game is Great for Beginners | 150,551 |
 | This game is Relaxing | 136,304 |
-| This game has Competitive Players | 133,700 |
+| This game has Competitive Players | 133,705 |
 | This game has Quickly Understood Controls | 133,404 |
 | This game is Great for Quick Sessions | 132,940 |
-| This game has Diverse Characters | 129,180 |
+| This game has Diverse Characters | 129,210 |
 | This game is Extremely Fun | 122,129 |
 | This game is Highly Recommended | 116,133 |
 | This game has Amazing Characters | 112,807 |
@@ -521,4 +521,4 @@ Diff (max vs sum): 2
 | 2023-10-21 | 4.51 | - | 150,404 | 1,377,280 |
 | 2023-10-22 | 4.51 | - | 150,462 | 1,377,595 |
 | 2023-10-23 | 4.51 | - | 150,497 | 1,377,804 |
-| 2023-10-24 | 4.51 | - | 150,497 | 1,377,956 |
+| 2023-10-24 | 4.51 | - | 150,551 | 1,378,045 |

@@ -4,8 +4,8 @@
   "ProductSlug": "as-far-as-the-eye",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-09-10T16:00:00+00:00",
     "PcReleaseDate": "2020-09-10T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.7037688+00:00",
   "LastChanged": "2023-03-31T05:57:20.7037689+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:41.540386+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:01:02.0402691+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:36.992737+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:01:02.1712838+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:04:16.8764516+00:00"
 }

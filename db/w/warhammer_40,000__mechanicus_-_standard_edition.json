@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 679,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -798,7 +798,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225554,
+  "EOS_Progressed": 225557,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
@@ -21273,6 +21273,11 @@
       "Time": "2023-10-24T22:09:13.0171496+00:00",
       "NumProgressed": 225554,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-24T23:08:17.7530027+00:00",
+      "NumProgressed": 225557,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21284,7 +21289,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42855
+      "UsersEstimate": 42856
     },
     {
       "ID": "ACH_BASE_10",
@@ -21292,7 +21297,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58644
+      "UsersEstimate": 58645
     },
     {
       "ID": "ACH_BASE_11",
@@ -21332,7 +21337,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22555
+      "UsersEstimate": 22556
     },
     {
       "ID": "ACH_BASE_17",
@@ -21532,7 +21537,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27066
+      "UsersEstimate": 27067
     },
     {
       "ID": "ACH_BASE_8",
@@ -21555,7 +21560,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225554,
+      "Progressed": 225557,
       "Completed": 5
     }
   ],
@@ -21563,8 +21568,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-24T04:58:15.5442689+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:09:13.0171489+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:08:17.753002+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:42.9034442+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:09:13.0172915+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:32.0560248+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:08:17.7531461+00:00"
 }

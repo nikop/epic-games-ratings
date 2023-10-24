@@ -1,14 +1,14 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.40 (Ranked 726)  
+Rating: 4.40 (Ranked 727)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~79,879 |
 | Predator I | 22.00% | ~56,688 |
-| Fixer I | 10.00% | ~25,767 |
-| A week in Century City | 10.00% | ~25,767 |
+| Fixer I | 10.00% | ~25,768 |
+| A week in Century City | 10.00% | ~25,768 |
 | The Wait | 7.00% | ~18,037 |
 | Green thumb I | 6.00% | ~15,460 |
 | Cleaning Company | 6.00% | ~15,460 |
@@ -20,13 +20,13 @@ Rating: 4.40 (Ranked 726)
 | Capitalist I | 4.00% | ~10,307 |
 | Fixer II | 3.00% | ~7,730 |
 | Adrenaline | 3.00% | ~7,730 |
-| By a hair | 2.00% | ~5,153 |
-| It took a while | 2.00% | ~5,153 |
-| Samurai | 2.00% | ~5,153 |
-| I Left You a Present | 2.00% | ~5,153 |
-| Predator II | 2.00% | ~5,153 |
-| Truffle Dog | 2.00% | ~5,153 |
-| A month in Century City | 2.00% | ~5,153 |
+| By a hair | 2.00% | ~5,154 |
+| It took a while | 2.00% | ~5,154 |
+| Samurai | 2.00% | ~5,154 |
+| I Left You a Present | 2.00% | ~5,154 |
+| Predator II | 2.00% | ~5,154 |
+| Truffle Dog | 2.00% | ~5,154 |
+| A month in Century City | 2.00% | ~5,154 |
 | The Strengthening | 1.00% | ~2,577 |
 | Saver II | 1.00% | ~2,577 |
 | It's the last one, I swear | 1.00% | ~2,577 |
@@ -62,7 +62,7 @@ Rating: 4.40 (Ranked 726)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,673 (Ranked 52)  
+Progressed: 257,675 (Ranked 52)  
 Completed: 3 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 3 (0.00%) (Ranked 324)
 | 2023-10-21 | 257,564 | 3 |
 | 2023-10-22 | 257,609 | 3 |
 | 2023-10-23 | 257,649 | 3 |
-| 2023-10-24 | 257,673 | 3 |
+| 2023-10-24 | 257,675 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 430)  
 Sum: 301 (Ranked 351)  

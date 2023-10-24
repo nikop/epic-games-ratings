@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.49 (Ranked 596)  
+Rating: 4.49 (Ranked 597)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,7 +37,7 @@ Rating: 4.49 (Ranked 596)
 | This Is Canon | 29.00% | ~1,729 |
 | It's a Trap | 26.00% | ~1,550 |
 | You've Got A Friend | 23.00% | ~1,371 |
-| King of the World | 16.00% | ~954 |
+| King of the World | 17.00% | ~1,013 |
 | Reconnaissance | 15.00% | ~894 |
 | Max Capacity | 14.00% | ~835 |
 | A Presence I've Not Felt Since... | 14.00% | ~835 |

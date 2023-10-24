@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8214,9 +8214,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63860,
+  "EOS_Progressed": 63863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28044,6 +28044,11 @@
       "Time": "2023-10-24T22:08:19.0515913+00:00",
       "NumProgressed": 63860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T23:07:15.1317305+00:00",
+      "NumProgressed": 63863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28055,7 +28060,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7663
+      "UsersEstimate": 7664
     },
     {
       "ID": "Apple of my eye",
@@ -28095,7 +28100,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "Catch",
@@ -28247,7 +28252,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10856
+      "UsersEstimate": 10857
     },
     {
       "ID": "Kingslayer",
@@ -28279,7 +28284,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21075
     },
     {
       "ID": "Lawbringer",
@@ -28287,7 +28292,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24905
+      "UsersEstimate": 24907
     },
     {
       "ID": "Lawmaker",
@@ -28407,7 +28412,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12133
+      "UsersEstimate": 12134
     },
     {
       "ID": "This Is Our Land",
@@ -28447,7 +28452,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2554
+      "UsersEstimate": 2555
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -28462,15 +28467,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63860,
+      "Progressed": 63863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-24T16:02:30.6660664+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:08:19.0515908+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:07:15.1317301+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:49.602491+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:08:19.051746+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:46.4712903+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:07:15.1318896+00:00"
 }

@@ -1,11 +1,11 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 899)  
+Rating: 4.19 (Ranked 900)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 8.00% | ~1,299 |
+| Get a Grip | 8.00% | ~1,300 |
 | Paper Jams | 7.00% | ~1,137 |
 | Flesh Wound | 6.00% | ~975 |
 | Float Like A Butterfly | 6.00% | ~975 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,243 (Ranked 135)  
+Progressed: 16,244 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 77 (0.47%) (Ranked 187)
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
-| 2023-10-24 | 16,243 | 77 |
+| 2023-10-24 | 16,244 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 377)  
 Sum: 453 (Ranked 324)  

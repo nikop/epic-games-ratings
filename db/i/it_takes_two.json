@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15840,
+  "EOS_Progressed": 15841,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 1569,
   "EOS_NewCompleters": 8,
@@ -4038,6 +4038,11 @@
       "Time": "2023-10-24T21:09:34.5213127+00:00",
       "NumProgressed": 15840,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-24T23:06:26.382551+00:00",
+      "NumProgressed": 15841,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4098,7 +4103,7 @@
       "Name": "Lost And Found",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "achievement_16",
@@ -4114,7 +4119,7 @@
       "Name": "Something Fishy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "achievement_18",
@@ -4122,7 +4127,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "achievement_19",
@@ -4130,7 +4135,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3326
+      "UsersEstimate": 3327
     },
     {
       "ID": "achievement_2",
@@ -4154,7 +4159,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13781
+      "UsersEstimate": 13782
     },
     {
       "ID": "achievement_4",
@@ -4162,7 +4167,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13939
+      "UsersEstimate": 13940
     },
     {
       "ID": "achievement_5",
@@ -4194,7 +4199,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 6811
+      "UsersEstimate": 6812
     },
     {
       "ID": "achievement_9",
@@ -4202,20 +4207,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 8395
+      "UsersEstimate": 8396
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15840,
+      "Progressed": 15841,
       "Completed": 72
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:38.7483393+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:06:26.3825503+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:33.5332935+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:38.7483758+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:23.1066896+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:26.3825901+00:00"
 }

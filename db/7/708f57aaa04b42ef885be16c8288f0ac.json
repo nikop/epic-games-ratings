@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1503,
+  "EOS_Progressed": 1512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1500,
+  "EOS_NewPlayers": 1509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -695,6 +695,11 @@
       "Time": "2023-10-24T22:08:08.5870167+00:00",
       "NumProgressed": 1503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T23:07:05.0297194+00:00",
+      "NumProgressed": 1512,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -761,9 +766,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "FasterThanLight",
@@ -785,9 +790,9 @@
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "GarbageMan",
@@ -857,9 +862,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "NotLikeTheOthers",
@@ -873,9 +878,9 @@
       "ID": "OneStarMan",
       "SetID": "acc6ea0",
       "Name": "One-Star Man",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ScorchSquad",
@@ -913,17 +918,17 @@
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "UnResurrected",
@@ -937,9 +942,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -978,13 +983,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1503,
+      "Progressed": 1512,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:08:08.5870162+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:07:05.0297192+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:27.2622668+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:08:08.5870449+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:14.1754862+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:07:05.029746+00:00"
 }

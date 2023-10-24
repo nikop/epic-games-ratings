@@ -13,12 +13,12 @@
 | Let's play a game… | 74.00% | ~155 |
 | Soundtrack | 62.00% | ~130 |
 | First aid | 61.00% | ~128 |
-| Antidote | 54.00% | ~113 |
+| Antidote | 55.00% | ~116 |
 | Pick the right door | 26.00% | ~55 |
 | The third floor | 19.00% | ~40 |
 | One-way | 17.00% | ~36 |
 | On the right path | 16.00% | ~34 |
-| It can't be true | 15.00% | ~32 |
+| It can't be true | 16.00% | ~34 |
 | I'm close now | 12.00% | ~25 |
 | Failed attempt | 12.00% | ~25 |
 | The real escape | 12.00% | ~25 |
@@ -27,8 +27,8 @@
 | He who seeks, finds! | 12.00% | ~25 |
 | Nightmare in the kitchen | 10.00% | ~21 |
 | Born again | 8.00% | ~17 |
+| 373 | 7.00% | ~15 |
 | The experiment | 7.00% | ~15 |
-| 373 | 6.00% | ~13 |
 | Matthew's revenge | 5.00% | ~10 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |

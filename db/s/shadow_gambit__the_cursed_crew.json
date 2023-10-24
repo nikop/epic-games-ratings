@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2317,6 +2317,11 @@
       "Time": "2023-10-24T20:10:15.6476103+00:00",
       "NumProgressed": 763,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-24T23:08:33.7884902+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2361,7 +2366,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2369,7 +2374,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_07_FinishAct3",
@@ -2385,7 +2390,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_09_Completion_20",
@@ -2409,7 +2414,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_12_Completion_50",
@@ -2473,7 +2478,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2536,7 +2541,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 26
     }
   ],
@@ -2544,8 +2549,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:09:28.9389298+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:08:33.7884897+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:48.3684207+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:09:28.9389581+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:44.0386209+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:08:33.7885185+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15728,
+  "EOS_Progressed": 15729,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1147,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4063,6 +4063,11 @@
       "Time": "2023-10-24T22:08:19.3448902+00:00",
       "NumProgressed": 15728,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T23:07:15.3384682+00:00",
+      "NumProgressed": 15729,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -4099,7 +4104,7 @@
       "Name": "Fender Bender",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "achievement_13",
@@ -4107,7 +4112,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 11796
+      "UsersEstimate": 11797
     },
     {
       "ID": "achievement_14",
@@ -4147,7 +4152,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "achievement_19",
@@ -4155,7 +4160,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "achievement_2",
@@ -4171,7 +4176,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 14627
+      "UsersEstimate": 14628
     },
     {
       "ID": "achievement_21",
@@ -4179,7 +4184,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 11167
+      "UsersEstimate": 11168
     },
     {
       "ID": "achievement_3",
@@ -4211,7 +4216,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "achievement_7",
@@ -4242,13 +4247,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 15728,
+      "Progressed": 15729,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:08:19.3448897+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:07:15.3384678+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:37.6433942+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:54.8317293+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:08:19.344927+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:45.1506998+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:07:15.3385039+00:00"
 }

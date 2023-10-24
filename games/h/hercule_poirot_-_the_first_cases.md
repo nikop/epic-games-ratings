@@ -1,25 +1,25 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 778)  
+Rating: 4.35 (Ranked 779)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 89.00% | ~390 |
-| Luc Piette | 76.00% | ~333 |
+| It Wasn’t a Burglary | 89.00% | ~391 |
+| Luc Piette | 76.00% | ~334 |
 | Angeline Van den Bosch | 73.00% | ~320 |
-| Elizabeth Padget | 71.00% | ~311 |
-| Little Grey Cells | 69.00% | ~302 |
-| The Bracelet | 66.00% | ~289 |
+| Elizabeth Padget | 70.00% | ~307 |
+| Little Grey Cells | 69.00% | ~303 |
+| The Bracelet | 66.00% | ~290 |
 | The Blackmail | 55.00% | ~241 |
 | Florette Duval | 55.00% | ~241 |
 | Major Felix Hagen | 55.00% | ~241 |
 | Fine-toothed Comb | 54.00% | ~237 |
-| Order and Method | 53.00% | ~232 |
-| The Altercation | 50.00% | ~219 |
+| Order and Method | 52.00% | ~228 |
+| The Altercation | 50.00% | ~220 |
 | Truth from Within | 49.00% | ~215 |
 | The Major | 47.00% | ~206 |
-| Comtesse Margaux de Vos | 45.00% | ~197 |
+| Comtesse Margaux de Vos | 45.00% | ~198 |
 | Curious and Beautiful | 44.00% | ~193 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~193 |
 | The Interrogations | 44.00% | ~193 |
@@ -28,14 +28,14 @@ Rating: 4.35 (Ranked 778)
 | Well-read | 39.00% | ~171 |
 | Cassandra Van den Bosch | 37.00% | ~162 |
 | The Secret | 37.00% | ~162 |
-| Gedeon Demir | 35.00% | ~153 |
+| Gedeon Demir | 35.00% | ~154 |
 | Rehana Piette | 34.00% | ~149 |
 | Instinct is Marvellous | 32.00% | ~140 |
 | Ernesto da Silva | 32.00% | ~140 |
 | Inge Frank | 31.00% | ~136 |
-| The Search | 30.00% | ~131 |
+| The Search | 30.00% | ~132 |
 | Hugo Beckers | 29.00% | ~127 |
-| The Family | 27.00% | ~118 |
+| The Family | 27.00% | ~119 |
 | Well-travelled | 26.00% | ~114 |
 | Thinking of Everything | 26.00% | ~114 |
 | Exquisite Artwork | 26.00% | ~114 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 778)
 | Room with a View | 7.00% | ~31 |
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438 (Ranked 293)  
+Progressed: 439 (Ranked 293)  
 Completed: 6 (1.37%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 6 (1.37%) (Ranked 132)
 | 2023-10-09 | 435 | 6 |
 | 2023-10-17 | 437 | 6 |
 | 2023-10-20 | 438 | 6 |
+| 2023-10-24 | 439 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

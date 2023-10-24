@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14930,
+  "EOS_Progressed": 14931,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14653,6 +14653,11 @@
       "Time": "2023-10-24T22:04:28.6789561+00:00",
       "NumProgressed": 14930,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-24T23:04:09.3737496+00:00",
+      "NumProgressed": 14931,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15542,9 +15547,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -16086,9 +16091,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 149
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -16702,9 +16707,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -16790,9 +16795,9 @@
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -17399,21 +17404,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14930,
+      "Progressed": 14931,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14930,
+      "Progressed": 14931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:04:28.6789556+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:04:09.3737491+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:55.3119367+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:28.6802058+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:52.4485111+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:04:09.3750667+00:00"
 }

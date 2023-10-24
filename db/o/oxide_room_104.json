@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -976,17 +976,17 @@
       "ID": "ACH_ALLROOMS",
       "SetID": "511e31d",
       "Name": "373",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1128,9 +1128,9 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -1223,8 +1223,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:04:59.2884845+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:04:38.3517212+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.0821897+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:26.0702869+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:59.2885127+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:20.2117874+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:04:38.3517501+00:00"
 }

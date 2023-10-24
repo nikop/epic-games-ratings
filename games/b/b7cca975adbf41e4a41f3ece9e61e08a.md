@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~2,069 |
-| I Challenge You To Save More Money! | 82.00% | ~1,906 |
-| I Love How Tough You Are | 65.00% | ~1,511 |
-| Wanna Come To My Place For Dinner? | 56.00% | ~1,302 |
-| What I Want Is You | 49.00% | ~1,139 |
-| To Be Or Not To Be | 45.00% | ~1,046 |
+| Last Night...Did We... | 89.00% | ~2,070 |
+| I Challenge You To Save More Money! | 82.00% | ~1,907 |
+| I Love How Tough You Are | 65.00% | ~1,512 |
+| Wanna Come To My Place For Dinner? | 56.00% | ~1,303 |
+| What I Want Is You | 49.00% | ~1,140 |
+| To Be Or Not To Be | 45.00% | ~1,047 |
 | Are You Alright? | 40.00% | ~930 |
-| Love Actually | 37.00% | ~860 |
-| Drama King | 33.00% | ~767 |
-| You're Really Something Else | 29.00% | ~674 |
+| Love Actually | 37.00% | ~861 |
+| Drama King | 33.00% | ~768 |
+| You're Really Something Else | 29.00% | ~675 |
 | Happy Family | 28.00% | ~651 |
 | Go Clean up In Your Own Way | 28.00% | ~651 |
 | ONE PUNCH | 27.00% | ~628 |
-| FIRST LOVE | 26.00% | ~604 |
-| Drama CP: Reel to Real | 26.00% | ~604 |
-| Worthless Speech | 26.00% | ~604 |
-| Absolutely Elegant | 25.00% | ~581 |
+| FIRST LOVE | 26.00% | ~605 |
+| Drama CP: Reel to Real | 26.00% | ~605 |
+| Worthless Speech | 26.00% | ~605 |
+| Absolutely Elegant | 25.00% | ~582 |
 | Still Single | 24.00% | ~558 |
 | Go Get Some Fries On The Pier | 21.00% | ~488 |
 | David | 20.00% | ~465 |
-| All I Have Is Money | 18.00% | ~418 |
+| All I Have Is Money | 18.00% | ~419 |
 | Days Of Innocence | 17.00% | ~395 |
 | A Slap In The Face! | 17.00% | ~395 |
 | SALUTE | 17.00% | ~395 |
@@ -47,7 +47,7 @@
 | Tall; Grande; Venti | 0.70% | ~16 |
 | Hurrah! | 0.60% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,325 (Ranked 204)  
+Progressed: 2,326 (Ranked 204)  
 Completed: 13 (0.56%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 13 (0.56%) (Ranked 179)
 | 2023-10-21 | 1,253 | 7 |
 | 2023-10-22 | 1,613 | 9 |
 | 2023-10-23 | 1,929 | 10 |
-| 2023-10-24 | 2,325 | 13 |
+| 2023-10-24 | 2,326 | 13 |

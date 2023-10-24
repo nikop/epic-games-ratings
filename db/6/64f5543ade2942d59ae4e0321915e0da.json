@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -462,8 +462,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:07.9591001+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:05:46.6963123+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:18.4049813+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:07.9591332+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:13.3646879+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:05:46.6963457+00:00"
 }

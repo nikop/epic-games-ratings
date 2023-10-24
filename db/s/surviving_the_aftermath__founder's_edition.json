@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 613,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -15979,8 +15979,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-22T19:57:11.6639361+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:05:34.1325892+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:05:22.0925077+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:03.3312756+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:05:34.1327239+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:57:55.9794481+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:05:22.0926438+00:00"
 }

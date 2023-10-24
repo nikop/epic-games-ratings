@@ -2,13 +2,13 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 439,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2023-10-20T15:04:11.2151949+00:00",
       "NumProgressed": 438,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-24T23:05:16.7149331+00:00",
+      "NumProgressed": 439,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -586,7 +591,7 @@
       "Name": "The Bracelet",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_010",
@@ -618,15 +623,15 @@
       "Name": "Little Grey Cells",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_015",
@@ -746,7 +751,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_029",
@@ -762,7 +767,7 @@
       "Name": "The Altercation",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_030",
@@ -802,15 +807,15 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_035",
       "SetID": "72imik0",
       "Name": "Elizabeth Padget",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH_036",
@@ -834,7 +839,7 @@
       "Name": "Gedeon Demir",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_039",
@@ -874,7 +879,7 @@
       "Name": "Luc Piette",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_043",
@@ -930,7 +935,7 @@
       "Name": "The Search",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_08",
@@ -938,7 +943,7 @@
       "Name": "The Family",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_09",
@@ -953,7 +958,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 439,
       "Completed": 6
     }
   ],
@@ -961,8 +966,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:05:28.7992763+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:05:16.7149327+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.779807+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:11.0916534+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:05:28.7993167+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:09.280501+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:05:16.7149741+00:00"
 }

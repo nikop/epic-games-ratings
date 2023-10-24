@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2022-03-30T14:30:00+00:00",
@@ -7531,7 +7531,7 @@
       "Count": 620
     }
   ],
-  "EOS_Progressed": 538980,
+  "EOS_Progressed": 538981,
   "EOS_Completed": 2081,
   "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 17,
@@ -28781,6 +28781,11 @@
       "Time": "2023-10-24T22:04:16.9138094+00:00",
       "NumProgressed": 538980,
       "NumCompleted": 2081
+    },
+    {
+      "Time": "2023-10-24T23:03:57.9980085+00:00",
+      "NumProgressed": 538981,
+      "NumCompleted": 2081
     }
   ],
   "TotalAchievements": 63,
@@ -28800,7 +28805,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 495862
+      "UsersEstimate": 495863
     },
     {
       "ID": "10",
@@ -28888,7 +28893,7 @@
       "Name": "Rebuilding America",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 431184
+      "UsersEstimate": 431185
     },
     {
       "ID": "20",
@@ -28928,7 +28933,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 382676
+      "UsersEstimate": 382677
     },
     {
       "ID": "25",
@@ -28992,7 +28997,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 485082
+      "UsersEstimate": 485083
     },
     {
       "ID": "32",
@@ -29000,7 +29005,7 @@
       "Name": "Giver of Gifts",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 210202
+      "UsersEstimate": 210203
     },
     {
       "ID": "33",
@@ -29008,7 +29013,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317998
+      "UsersEstimate": 317999
     },
     {
       "ID": "34",
@@ -29016,7 +29021,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258710
+      "UsersEstimate": 258711
     },
     {
       "ID": "35",
@@ -29088,7 +29093,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 350337
+      "UsersEstimate": 350338
     },
     {
       "ID": "43",
@@ -29096,7 +29101,7 @@
       "Name": "Prominent Porter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 350337
+      "UsersEstimate": 350338
     },
     {
       "ID": "44",
@@ -29120,7 +29125,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258710
+      "UsersEstimate": 258711
     },
     {
       "ID": "47",
@@ -29128,7 +29133,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 317998
+      "UsersEstimate": 317999
     },
     {
       "ID": "48",
@@ -29144,7 +29149,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150914
+      "UsersEstimate": 150915
     },
     {
       "ID": "5",
@@ -29192,7 +29197,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 237151
+      "UsersEstimate": 237152
     },
     {
       "ID": "55",
@@ -29232,7 +29237,7 @@
       "Name": "All Roads Lead to the UCA",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 210202
+      "UsersEstimate": 210203
     },
     {
       "ID": "6",
@@ -29240,7 +29245,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150914
+      "UsersEstimate": 150915
     },
     {
       "ID": "60",
@@ -29256,7 +29261,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344947
+      "UsersEstimate": 344948
     },
     {
       "ID": "62",
@@ -29295,15 +29300,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 538980,
+      "Progressed": 538981,
       "Completed": 2081
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-10-24T19:01:58.0623264+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:04:16.9138089+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:03:57.998008+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:57.0440129+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:59:41.3263188+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:16.913988+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:59:33.1340319+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:03:57.9982062+00:00"
 }

@@ -1,26 +1,26 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 765)  
+Rating: 4.36 (Ranked 766)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~49,136 |
-| INFUSED WITH LIGHT | 53.00% | ~38,297 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~49,137 |
+| INFUSED WITH LIGHT | 53.00% | ~38,298 |
 | FOXIN' AROUND | 29.00% | ~20,955 |
 | FETCH | 28.00% | ~20,233 |
-| BLOOMS OF LIGHT | 26.00% | ~18,787 |
+| BLOOMS OF LIGHT | 26.00% | ~18,788 |
 | AWAKEN | 22.00% | ~15,897 |
 | BEST FRIENDS | 22.00% | ~15,897 |
-| ERADICATE | 21.00% | ~15,174 |
-| SPIRIT BARK | 21.00% | ~15,174 |
+| ERADICATE | 21.00% | ~15,175 |
+| SPIRIT BARK | 21.00% | ~15,175 |
 | GARDEN OF LIGHT | 18.00% | ~13,007 |
 | SPIRIT FORM | 17.00% | ~12,284 |
-| WRITTEN IN STONE | 16.00% | ~11,561 |
+| WRITTEN IN STONE | 16.00% | ~11,562 |
 | UPROOTING DARKNESS | 15.00% | ~10,839 |
 | WEIGHTLESS | 12.00% | ~8,671 |
-| SPIRIT DASH | 11.00% | ~7,948 |
+| SPIRIT DASH | 11.00% | ~7,949 |
 | OLD COMPANION | 9.00% | ~6,503 |
 | MATCH MAKER | 8.00% | ~5,781 |
 | PLAGUE DOCTOR | 8.00% | ~5,781 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,445 |
 | KINDRED SPIRITS | 0.60% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,259 (Ranked 95)  
+Progressed: 72,260 (Ranked 95)  
 Completed: 379 (0.52%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 379 (0.52%) (Ranked 183)
 | 2023-10-21 | 71,997 | 379 |
 | 2023-10-22 | 72,104 | 379 |
 | 2023-10-23 | 72,173 | 379 |
-| 2023-10-24 | 72,259 | 379 |
+| 2023-10-24 | 72,260 | 379 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 504)  
 Sum: 114 (Ranked 428)  

@@ -2,13 +2,13 @@
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
   "ProductSlug": "biomutant",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-05-25T17:00:00+00:00",
     "PcReleaseDate": "2021-05-25T17:00:00+00:00",
@@ -524,6 +524,6 @@
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "LastChanged": "2023-10-19T18:59:36.2680055+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:30.9719519+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:57:54.6119804+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:00.3367067+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:57:48.7414395+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:03:41.7834857+00:00"
 }

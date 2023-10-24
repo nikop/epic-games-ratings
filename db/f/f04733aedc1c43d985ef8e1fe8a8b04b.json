@@ -2,13 +2,13 @@
   "ID": "f04733aedc1c43d985ef8e1fe8a8b04b",
   "Name": "Book of Yog Idle RPG",
   "ProductSlug": "book-of-yog-idle-rpg-74cebc",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 936,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-22T10:00:00+00:00",
     "PcReleaseDate": "2023-05-19T07:00:00+00:00",
@@ -189,6 +189,6 @@
   "FirstSeenRating": "2023-07-14T13:12:36.4172007+00:00",
   "LastChanged": "2023-10-16T09:00:36.4265199+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:57:20.8948348+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:30.0220045+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:22.3320845+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:19.3980092+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:04:03.030302+00:00"
 }

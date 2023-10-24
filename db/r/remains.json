@@ -358,9 +358,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 200,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement_Welcome",
@@ -381,8 +381,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:32.8471573+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:06:20.6507728+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.7178693+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:20.4506284+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:32.8471674+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:14.7768065+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:20.6507798+00:00"
 }

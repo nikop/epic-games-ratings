@@ -7,7 +7,7 @@
 | Welcome | 100.00% | ~52 |
 | Garbage collector | 98.00% | ~51 |
 | Om nom nom | 73.00% | ~38 |
-| Repair master | 58.00% | ~30 |
+| Repair master | 60.00% | ~31 |
 | I am speed! | 48.00% | ~25 |
 | No one will hear you! | 44.00% | ~23 |
 | It's safe here! | 29.00% | ~15 |

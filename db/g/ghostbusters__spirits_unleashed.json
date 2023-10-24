@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 575,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 120,
@@ -2697,9 +2697,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27509,
+  "EOS_Progressed": 27517,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 958,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16237,6 +16237,11 @@
       "Time": "2023-10-24T22:06:22.9670413+00:00",
       "NumProgressed": 27509,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-24T23:06:11.2046646+00:00",
+      "NumProgressed": 27517,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 51,
@@ -16248,7 +16253,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Animated",
@@ -16326,9 +16331,9 @@
       "ID": "Diabolical",
       "SetID": "819popo",
       "Name": "Diabolical",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 220
     },
     {
       "ID": "Discovery",
@@ -16336,7 +16341,7 @@
       "Name": "Discovery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Dont_Need_These",
@@ -16360,7 +16365,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "Escape_Artist",
@@ -16552,7 +16557,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "Summoner",
@@ -16655,7 +16660,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27509,
+      "Progressed": 27517,
       "Completed": 64
     }
   ],
@@ -16663,8 +16668,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-24T18:59:19.4679752+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:06:22.9670409+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:06:11.2046641+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:17.8080627+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:22.9671626+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:58:07.0312451+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:11.2047883+00:00"
 }

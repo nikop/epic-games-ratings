@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11768,
+  "EOS_Progressed": 11771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14264,6 +14264,11 @@
       "Time": "2023-10-24T22:09:41.0261791+00:00",
       "NumProgressed": 11768,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T23:09:05.6388238+00:00",
+      "NumProgressed": 11771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14275,7 +14280,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "02_BurningCity",
@@ -14299,7 +14304,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14347,7 +14352,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "11_PathOfAeon",
@@ -14403,7 +14408,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "18_MythicChoices",
@@ -14475,7 +14480,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "28_GreatUpstart",
@@ -14483,7 +14488,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "29_StrategicVictory",
@@ -14523,7 +14528,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14619,7 +14624,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "46_AllPathsOpen",
@@ -14627,7 +14632,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -14643,7 +14648,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "49_Flame",
@@ -14699,7 +14704,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "56_GetToad",
@@ -15187,7 +15192,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -15195,28 +15200,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10550,
+      "Progressed": 10553,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11768,
+      "Progressed": 11771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:09:41.0261786+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:09:05.6388236+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:23.3678628+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:09:41.0264064+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:16.5228501+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:09:05.6390662+00:00"
 }

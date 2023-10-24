@@ -5,21 +5,21 @@ Rating: 4.82 (Ranked 62)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,503 |
-| No more cages! | 92.00% | ~2,398 |
+| For Demacia | 96.00% | ~2,504 |
+| No more cages! | 92.00% | ~2,399 |
 | Everfrost | 79.00% | ~2,060 |
-| Pentakill | 78.00% | ~2,033 |
-| Dark Forest | 78.00% | ~2,033 |
-| The use of petricite | 75.00% | ~1,955 |
-| You can pet the dog | 62.00% | ~1,616 |
+| Pentakill | 78.00% | ~2,034 |
+| Dark Forest | 78.00% | ~2,034 |
+| The use of petricite | 75.00% | ~1,956 |
+| You can pet the dog | 62.00% | ~1,617 |
 | Big Helmet Bro | 38.00% | ~991 |
 | Thornbarrow | 38.00% | ~991 |
 | Clarion Cove | 38.00% | ~991 |
 | Elemental master | 36.00% | ~939 |
 | Past trauma | 36.00% | ~939 |
 | Ternmoat Headquarters | 36.00% | ~939 |
-| Cypress Glen Headquarters | 34.00% | ~886 |
-| Petricite Burst | 33.00% | ~860 |
+| Cypress Glen Headquarters | 34.00% | ~887 |
+| Petricite Burst | 33.00% | ~861 |
 | Hijack | 30.00% | ~782 |
 | Old friend | 30.00% | ~782 |
 | Devineur | 30.00% | ~782 |
@@ -32,7 +32,7 @@ Rating: 4.82 (Ranked 62)
 | Full equipped | 23.00% | ~600 |
 | Glyndemere | 22.00% | ~574 |
 | Iffighain Headquarters | 22.00% | ~574 |
-| Whispers in the Woods II | 19.00% | ~495 |
+| Whispers in the Woods II | 19.00% | ~496 |
 | No more holding back | 18.00% | ~469 |
 | Terbisia | 18.00% | ~469 |
 | Quickmoore Headquarters | 18.00% | ~469 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 62)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,607 (Ranked 201)  
+Progressed: 2,608 (Ranked 201)  
 Completed: 13 (0.50%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 13 (0.50%) (Ranked 185)
 | 2023-10-11 | 2,602 | 12 |
 | 2023-10-15 | 2,605 | 12 |
 | 2023-10-21 | 2,606 | 13 |
-| 2023-10-24 | 2,607 | 13 |
+| 2023-10-24 | 2,608 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

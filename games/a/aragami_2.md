@@ -1,28 +1,28 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 494)  
+Rating: 4.55 (Ranked 495)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,620 |
+| Awakening | 93.00% | ~40,621 |
 | First Steps | 80.00% | ~34,942 |
 | Control the Shadows | 67.00% | ~29,264 |
 | Tools of the Trade | 63.00% | ~27,517 |
-| Apprentice | 60.00% | ~26,206 |
+| Apprentice | 60.00% | ~26,207 |
 | Secret Seeker | 57.00% | ~24,896 |
-| Forge of Assassins | 55.00% | ~24,022 |
-| Revenant | 52.00% | ~22,712 |
+| Forge of Assassins | 55.00% | ~24,023 |
+| Revenant | 52.00% | ~22,713 |
 | I don’t Care! | 45.00% | ~19,655 |
-| Bird of Prey | 37.00% | ~16,160 |
+| Bird of Prey | 37.00% | ~16,161 |
 | Engraved with Power | 32.00% | ~13,977 |
 | Lady | 31.00% | ~13,540 |
 | Fashionable Assassin | 27.00% | ~11,793 |
-| Apex Predator | 24.00% | ~10,482 |
+| Apex Predator | 24.00% | ~10,483 |
 | Soul Reaver | 22.00% | ~9,609 |
 | Embers | 21.00% | ~9,172 |
-| Wall Lizard | 20.00% | ~8,735 |
+| Wall Lizard | 20.00% | ~8,736 |
 | Clinging to Life | 18.00% | ~7,862 |
 | Burning | 17.00% | ~7,425 |
 | Look Behind You | 16.00% | ~6,988 |
@@ -30,8 +30,8 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,115 |
 | War Engines | 14.00% | ~6,115 |
 | Signature Move | 14.00% | ~6,115 |
-| Ruse | 11.00% | ~4,804 |
-| Master Ninja | 11.00% | ~4,804 |
+| Ruse | 11.00% | ~4,805 |
+| Master Ninja | 11.00% | ~4,805 |
 | Hatching | 10.00% | ~4,368 |
 | Bonds | 9.00% | ~3,931 |
 | Get Over Here | 9.00% | ~3,931 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~874 |
 | Anger Management | 1.00% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,677 (Ranked 110)  
+Progressed: 43,678 (Ranked 110)  
 Completed: 239 (0.55%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 239 (0.55%) (Ranked 180)
 | 2023-10-21 | 43,620 | 239 |
 | 2023-10-22 | 43,649 | 239 |
 | 2023-10-23 | 43,667 | 239 |
-| 2023-10-24 | 43,677 | 239 |
+| 2023-10-24 | 43,678 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

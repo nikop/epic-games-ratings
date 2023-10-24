@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -694,9 +694,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 349196,
+  "EOS_Progressed": 349199,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21869,6 +21869,11 @@
       "Time": "2023-10-24T22:08:13.1673837+00:00",
       "NumProgressed": 349196,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-24T23:07:09.5333883+00:00",
+      "NumProgressed": 349199,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -21984,7 +21989,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52379
+      "UsersEstimate": 52380
     },
     {
       "ID": "ach015",
@@ -22008,7 +22013,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45395
+      "UsersEstimate": 45396
     },
     {
       "ID": "ach018",
@@ -22088,7 +22093,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160630
+      "UsersEstimate": 160632
     },
     {
       "ID": "ach028",
@@ -22232,7 +22237,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45395
+      "UsersEstimate": 45396
     },
     {
       "ID": "ach046",
@@ -22392,7 +22397,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48887
+      "UsersEstimate": 48888
     },
     {
       "ID": "ach067",
@@ -22408,7 +22413,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55871
+      "UsersEstimate": 55872
     },
     {
       "ID": "ach069",
@@ -22416,7 +22421,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48887
+      "UsersEstimate": 48888
     },
     {
       "ID": "ach070",
@@ -22519,7 +22524,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 349196,
+      "Progressed": 349199,
       "Completed": 7
     }
   ],
@@ -22527,8 +22532,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-20T15:59:26.2838935+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:08:13.1673833+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:07:09.5333878+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:33.5796132+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:08:13.1675936+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:26.068469+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:07:09.5336091+00:00"
 }

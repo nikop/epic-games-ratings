@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 818,
+  "Ranking_Rating": 819,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 85,
@@ -482,7 +482,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90020,
+  "EOS_Progressed": 90023,
   "EOS_Completed": 405,
   "EOS_NewPlayers": 877,
   "EOS_NewCompleters": 1,
@@ -21252,6 +21252,11 @@
       "Time": "2023-10-24T22:04:06.6355863+00:00",
       "NumProgressed": 90020,
       "NumCompleted": 405
+    },
+    {
+      "Time": "2023-10-24T23:03:47.7196193+00:00",
+      "NumProgressed": 90023,
+      "NumCompleted": 405
     }
   ],
   "TotalAchievements": 10,
@@ -21327,7 +21332,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31507
+      "UsersEstimate": 31508
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -21335,22 +21340,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9902
+      "UsersEstimate": 9903
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 90020,
+      "Progressed": 90023,
       "Completed": 405
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-24T22:04:06.6355858+00:00",
+  "LastChanged_Achievements": "2023-10-24T23:03:47.7196189+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.8590443+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:58:07.2521519+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:04:06.6357123+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:57:59.3516916+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:03:47.7197442+00:00"
 }

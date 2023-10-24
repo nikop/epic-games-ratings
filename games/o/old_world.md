@@ -61,6 +61,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~149 |
 | Colossus | 1.00% | ~149 |
 | Great Ziggurat | 1.00% | ~149 |
+| Mausoleum | 1.00% | ~149 |
 | Musaeum | 1.00% | ~149 |
 | Necropolis | 1.00% | ~149 |
 | Learn to Play 2 | 1.00% | ~149 |
@@ -78,19 +79,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
 | Good Difficulty | 0.90% | ~134 |
-| Mausoleum | 0.90% | ~134 |
 | Learn to Play 3 | 0.90% | ~134 |
 | Greece | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Invincible | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
+| Riders | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
 | Subjugator | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
-| Riders | 0.70% | ~105 |
 | Statesmen | 0.70% | ~105 |
 | Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
@@ -144,15 +144,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~60 |
 | Learn to Play 5 | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
+| Cataphract Archer | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
-| Cataphract Archer | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
+| Conquest Victory | 0.30% | ~45 |
 | No Undo | 0.30% | ~45 |
 | Rmt n Kmt Buhen | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Capturing Cities | 0.20% | ~30 |
-| Conquest Victory | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Prosperous Kmt | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,930 (Ranked 140)  
+Progressed: 14,931 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,930 | 5 |
+| 2023-10-24 | 14,931 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

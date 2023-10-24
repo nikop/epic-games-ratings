@@ -2,13 +2,13 @@
   "ID": "0b595db2a0604a3c91d77847a59f5895",
   "Name": "Chimeraland",
   "ProductSlug": "chimeraland",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-22T08:00:00+00:00",
     "PcReleaseDate": "2022-07-14T12:11:00+00:00",
@@ -425,6 +425,6 @@
   "FirstSeenRating": "2023-01-08T08:57:11.5833974+00:00",
   "LastChanged": "2023-10-12T07:03:12.6862687+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:37.6569888+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:00:55.6244981+00:00",
-  "LastUpdate_Achievements": "2023-10-24T22:06:34.6211223+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:00:52.7591811+00:00",
+  "LastUpdate_Achievements": "2023-10-24T23:06:22.3389387+00:00"
 }

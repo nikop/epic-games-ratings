@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 514)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,168 |
-| Git Gutte! | 4.00% | ~28,134 |
-| Break A Leg | 4.00% | ~28,134 |
-| Coup de Grâce | 4.00% | ~28,134 |
-| Hazardous Materials | 4.00% | ~28,134 |
-| Hotel California | 4.00% | ~28,134 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,134 |
+| Welcome To Hell-A | 5.00% | ~35,169 |
+| Git Gutte! | 4.00% | ~28,135 |
+| Break A Leg | 4.00% | ~28,135 |
+| Coup de Grâce | 4.00% | ~28,135 |
+| Hazardous Materials | 4.00% | ~28,135 |
+| Hotel California | 4.00% | ~28,135 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,135 |
 | Dr. Reed, I Presume? | 3.00% | ~21,101 |
 | Bookworm | 3.00% | ~21,101 |
 | But Doctor, I am Butcho | 3.00% | ~21,101 |
@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 514)
 | A Patton Emerges | 3.00% | ~21,101 |
 | Stacking the Deck | 3.00% | ~21,101 |
 | This is My Weapon | 3.00% | ~21,101 |
-| Making Your Mark | 2.00% | ~14,067 |
-| Anger Management | 2.00% | ~14,067 |
-| Perks of the Job | 2.00% | ~14,067 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,067 |
-| Ooh, Shiny! | 2.00% | ~14,067 |
-| Humanity Distilled | 2.00% | ~14,067 |
-| I Am the Resurrection | 2.00% | ~14,067 |
-| Down with the Sickness | 2.00% | ~14,067 |
-| Our True Nature | 2.00% | ~14,067 |
+| Making Your Mark | 2.00% | ~14,068 |
+| Anger Management | 2.00% | ~14,068 |
+| Perks of the Job | 2.00% | ~14,068 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,068 |
+| Ooh, Shiny! | 2.00% | ~14,068 |
+| Humanity Distilled | 2.00% | ~14,068 |
+| I Am the Resurrection | 2.00% | ~14,068 |
+| Down with the Sickness | 2.00% | ~14,068 |
+| Our True Nature | 2.00% | ~14,068 |
 | Smorgasbord | 1.00% | ~7,034 |
 | Jumbo Keyring | 1.00% | ~7,034 |
 | Max Headroom | 1.00% | ~7,034 |
@@ -47,11 +47,11 @@ Rating: 4.54 (Ranked 514)
 | Gore Horse | 0.60% | ~4,220 |
 | Sole Survivor | 0.50% | ~3,517 |
 | Sharpest Tool in the Box | 0.50% | ~3,517 |
-| Survival Skills | 0.40% | ~2,813 |
+| Survival Skills | 0.40% | ~2,814 |
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,360 (Ranked 22)  
+Progressed: 703,382 (Ranked 22)  
 Completed: 2,258 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2,258 (0.32%) (Ranked 208)
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
-| 2023-10-24 | 703,360 | 2,258 |
+| 2023-10-24 | 703,382 | 2,258 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
 Sum: 9,910 (Ranked 91)  
