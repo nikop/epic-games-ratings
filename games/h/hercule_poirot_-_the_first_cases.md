@@ -38,7 +38,7 @@ Rating: 4.35 (Ranked 778)
 | The Family | 27.00% | ~118 |
 | Well-travelled | 26.00% | ~114 |
 | Thinking of Everything | 26.00% | ~114 |
-| Exquisite Artwork | 25.00% | ~110 |
+| Exquisite Artwork | 26.00% | ~114 |
 | Archibald Sterling | 25.00% | ~110 |
 | Viscount Edwin Van den Bosch | 25.00% | ~110 |
 | Well-prepared | 21.00% | ~92 |

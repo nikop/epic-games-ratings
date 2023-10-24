@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1954,6 +1954,11 @@
       "Time": "2023-10-24T01:46:46.3315123+00:00",
       "NumProgressed": 454,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T03:04:22.7790049+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1973,7 +1978,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2011,9 +2016,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2045,7 +2050,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2076,14 +2081,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:21:11.346846+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:04:22.7790043+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:14:44.4647746+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:21:11.3468701+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:57:59.7318128+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:04:22.7790326+00:00"
 }

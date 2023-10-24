@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31538,
+  "EOS_Progressed": 31547,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 10326,
+  "EOS_NewPlayers": 10291,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4386,6 +4386,11 @@
       "Time": "2023-10-24T02:24:23.7550386+00:00",
       "NumProgressed": 31538,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-24T03:07:02.3254636+00:00",
+      "NumProgressed": 31547,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -4396,9 +4401,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3470
     },
     {
       "ID": "ACH_BLUEEND",
@@ -4406,7 +4411,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -4414,7 +4419,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5048
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -4534,7 +4539,7 @@
       "Name": "Infinity Loop",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACH_HUB1",
@@ -4542,7 +4547,7 @@
       "Name": "Mission Success",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5994
     },
     {
       "ID": "ACH_HUB2",
@@ -4550,7 +4555,7 @@
       "Name": "Path to Salvation",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4100
+      "UsersEstimate": 4101
     },
     {
       "ID": "ACH_OASIS",
@@ -4558,7 +4563,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16089
     },
     {
       "ID": "ACH_PEAK",
@@ -4566,7 +4571,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5994
     },
     {
       "ID": "ACH_PROPELL",
@@ -4590,7 +4595,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 21446
+      "UsersEstimate": 21452
     },
     {
       "ID": "ACH_S4",
@@ -4598,7 +4603,7 @@
       "Name": "Power Glove",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 15138
+      "UsersEstimate": 15143
     },
     {
       "ID": "ACH_S5",
@@ -4606,7 +4611,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 10723
+      "UsersEstimate": 10726
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -4614,7 +4619,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 23654
+      "UsersEstimate": 23660
     },
     {
       "ID": "ACH_STATUE",
@@ -4622,22 +4627,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 12931
+      "UsersEstimate": 12934
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 31538,
+      "Progressed": 31547,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-10-23T04:59:43.8325067+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:24:23.7550379+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:07:02.3254629+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:12.8099854+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:17:06.8975376+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:24:23.7550889+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:59:54.2713073+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:07:02.3255416+00:00"
 }

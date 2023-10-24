@@ -23,8 +23,8 @@ Number of Ratings: 743  (23.09.2022)
 | In the dark dark woods... | 39.00% | ~17,046 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,609 |
 | Double tap | 37.00% | ~16,172 |
+| Cranial blowout! | 37.00% | ~16,172 |
 | All of this has happened before… | 36.00% | ~15,735 |
-| Cranial blowout! | 36.00% | ~15,735 |
 | Zombie killin' machine | 36.00% | ~15,735 |
 | Every bullet counts | 36.00% | ~15,735 |
 | All roads lead to Rome | 34.00% | ~14,861 |

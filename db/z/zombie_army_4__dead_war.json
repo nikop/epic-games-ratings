@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8279,9 +8279,9 @@
       "ID": "SE_GET_X_HEADSHOT_STREAK",
       "SetID": "49kdhbg",
       "Name": "Cranial blowout!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 15735
+      "UsersEstimate": 16172
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -8495,8 +8495,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-22T17:03:16.6116862+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:21:31.0240542+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:04:39.2197873+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.0687474+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:20:08.3197217+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:21:31.0241584+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:03:29.7844583+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:04:39.2199225+00:00"
 }

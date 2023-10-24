@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -289,10 +289,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126243,
+  "EOS_Progressed": 126244,
   "EOS_Completed": 1069,
-  "EOS_NewPlayers": 1125,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1122,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
@@ -21399,6 +21399,11 @@
       "Time": "2023-10-24T02:23:43.1199106+00:00",
       "NumProgressed": 126243,
       "NumCompleted": 1069
+    },
+    {
+      "Time": "2023-10-24T03:06:27.9268912+00:00",
+      "NumProgressed": 126244,
+      "NumCompleted": 1069
     }
   ],
   "TotalAchievements": 34,
@@ -21434,7 +21439,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 36610
+      "UsersEstimate": 36611
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -21466,7 +21471,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 100994
+      "UsersEstimate": 100995
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -21482,7 +21487,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 70696
+      "UsersEstimate": 70697
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -21562,7 +21567,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18936
+      "UsersEstimate": 18937
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -21610,7 +21615,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 18936
+      "UsersEstimate": 18937
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -21618,7 +21623,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30298
+      "UsersEstimate": 30299
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -21626,7 +21631,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30298
+      "UsersEstimate": 30299
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -21658,7 +21663,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30298
+      "UsersEstimate": 30299
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -21681,7 +21686,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 126243,
+      "Progressed": 126244,
       "Completed": 1069
     }
   ],
@@ -21689,8 +21694,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-23T12:02:41.9593939+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:23:43.1199094+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:06:27.9268906+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.8246066+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:13:56.2800978+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:23:43.1200718+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:57:24.1698586+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:06:27.9270532+00:00"
 }

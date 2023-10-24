@@ -7,12 +7,12 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,690 |
-| Self-Improvement | 71.00% | ~1,363 |
-| Perky | 65.00% | ~1,248 |
-| Let’s Ride | 60.00% | ~1,152 |
-| Welcome to the Weird West | 57.00% | ~1,094 |
-| Dead or Alive | 56.00% | ~1,075 |
-| Full House | 37.00% | ~710 |
+| Self-Improvement | 71.00% | ~1,364 |
+| Perky | 65.00% | ~1,249 |
+| Let’s Ride | 60.00% | ~1,153 |
+| Welcome to the Weird West | 57.00% | ~1,095 |
+| Dead or Alive | 56.00% | ~1,076 |
+| Full House | 37.00% | ~711 |
 | Off the Trail | 34.00% | ~653 |
 | Justice Served | 29.00% | ~557 |
 | Chain Reaction | 26.00% | ~499 |
@@ -29,9 +29,9 @@ Number of Ratings: 125  (23.09.2022)
 | Dog Days | 13.00% | ~250 |
 | Out on the Ebb Tide | 13.00% | ~250 |
 | Workers' Rights | 13.00% | ~250 |
-| Elusive Prey | 12.00% | ~230 |
-| Power Behind the Pulpit | 12.00% | ~230 |
-| Turning the Tables | 12.00% | ~230 |
+| Elusive Prey | 12.00% | ~231 |
+| Power Behind the Pulpit | 12.00% | ~231 |
+| Turning the Tables | 12.00% | ~231 |
 | Something Wicked This Way Comes… | 11.00% | ~211 |
 | There is Hope | 11.00% | ~211 |
 | The Philosopher’s Stone | 10.00% | ~192 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,920 (Ranked 211)  
+Progressed: 1,921 (Ranked 211)  
 Completed: 7 (0.36%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 7 (0.36%) (Ranked 205)
 | 2023-10-21 | 1,902 | 7 |
 | 2023-10-22 | 1,916 | 7 |
 | 2023-10-23 | 1,919 | 7 |
-| 2023-10-24 | 1,920 | 7 |
+| 2023-10-24 | 1,921 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

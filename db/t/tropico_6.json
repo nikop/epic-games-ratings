@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 304,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1293,7 +1293,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5658,
+  "EOS_Progressed": 5659,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -11703,6 +11703,11 @@
       "Time": "2023-10-24T00:09:19.1544075+00:00",
       "NumProgressed": 5658,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T03:09:22.4038472+00:00",
+      "NumProgressed": 5659,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11722,7 +11727,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -11802,7 +11807,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -11810,7 +11815,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -11970,7 +11975,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -11986,7 +11991,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12033,15 +12038,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5658,
+      "Progressed": 5659,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-23T19:59:01.4519518+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:26:14.4806893+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:09:22.4038465+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.8637871+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:15:49.7832067+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:26:14.4807967+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:58:55.886144+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:09:22.4039475+00:00"
 }

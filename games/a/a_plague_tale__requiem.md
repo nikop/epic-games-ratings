@@ -5,17 +5,17 @@ Rating: 4.73 (Ranked 167)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,511 |
-| Newcomers | 79.00% | ~10,743 |
-| A Burden of Blood | 74.00% | ~10,063 |
-| Protector's Duty | 71.00% | ~9,655 |
-| In our Wake | 69.00% | ~9,383 |
-| Alchemist | 69.00% | ~9,383 |
-| Leaving all Behind | 66.00% | ~8,975 |
-| Felons | 63.00% | ~8,567 |
-| A Sea of Promises | 61.00% | ~8,295 |
-| Tales and Revelations | 58.00% | ~7,887 |
-| Bloodline | 53.00% | ~7,207 |
+| Under a New Sun | 92.00% | ~12,512 |
+| Newcomers | 79.00% | ~10,744 |
+| A Burden of Blood | 74.00% | ~10,064 |
+| Protector's Duty | 71.00% | ~9,656 |
+| In our Wake | 69.00% | ~9,384 |
+| Alchemist | 69.00% | ~9,384 |
+| Leaving all Behind | 66.00% | ~8,976 |
+| Felons | 63.00% | ~8,568 |
+| A Sea of Promises | 61.00% | ~8,296 |
+| Tales and Revelations | 58.00% | ~7,888 |
+| Bloodline | 53.00% | ~7,208 |
 | The Cradle of Centuries | 49.00% | ~6,664 |
 | The Life We Deserve | 47.00% | ~6,392 |
 | Night guard | 44.00% | ~5,984 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 167)
 | Old protector | 2.00% | ~272 |
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,599 (Ranked 141)  
+Progressed: 13,600 (Ranked 141)  
 Completed: 50 (0.37%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 50 (0.37%) (Ranked 203)
 | 2023-10-21 | 13,588 | 49 |
 | 2023-10-22 | 13,596 | 50 |
 | 2023-10-23 | 13,599 | 50 |
+| 2023-10-24 | 13,600 | 50 |
 ## Awards
 Max (Great Boss Battles): 427  (Ranked 218)  
 Sum: 663 (Ranked 297)  

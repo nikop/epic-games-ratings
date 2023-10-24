@@ -12,8 +12,8 @@ Number of Ratings: 495  (23.09.2022)
 | Disguised | 9.00% | ~18,867 |
 | Rollin' | 9.00% | ~18,867 |
 | Tanuki Time | 9.00% | ~18,867 |
-| Rescue Takuma | 8.00% | ~16,770 |
-| Stoned Ox | 8.00% | ~16,770 |
+| Rescue Takuma | 8.00% | ~16,771 |
+| Stoned Ox | 8.00% | ~16,771 |
 | Happy Planning | 7.00% | ~14,674 |
 | Ice Ice Yuki | 7.00% | ~14,674 |
 | Jonin | 7.00% | ~14,674 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~210 |
 | Release the Kraken | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209,631 (Ranked 66)  
+Progressed: 209,633 (Ranked 66)  
 Completed: 92 (0.04%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 92 (0.04%) (Ranked 285)
 | 2023-10-21 | 209,182 | 91 |
 | 2023-10-22 | 209,442 | 91 |
 | 2023-10-23 | 209,618 | 92 |
-| 2023-10-24 | 209,631 | 92 |
+| 2023-10-24 | 209,633 | 92 |
 ## Awards
 Max (Great for Beginners): 568  (Ranked 197)  
-Sum: 4,805 (Ranked 139)  
+Sum: 4,806 (Ranked 139)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 513 |
 | This game has Amazing Characters | 494 |
 | This game is Highly Recommended | 489 |
-| This game is Relaxing | 488 |
+| This game is Relaxing | 489 |
 | This game has Challenging Combat | 483 |
 | This game has Quickly Understood Controls | 454 |
 | This game has a Creative Community | 251 |
@@ -452,3 +452,4 @@ Diff (max vs sum): 58
 | 2023-10-21 | 4.67 | - | 568 | 4,801 |
 | 2023-10-22 | 4.67 | - | 568 | 4,803 |
 | 2023-10-23 | 4.67 | - | 568 | 4,805 |
+| 2023-10-24 | 4.67 | - | 568 | 4,806 |

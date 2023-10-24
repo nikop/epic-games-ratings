@@ -19,25 +19,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,761 |
 | Capitalism Ho! | 2.00% | ~2,761 |
 | Own the Means of Production | 2.00% | ~2,761 |
-| The Daily Grind | 1.00% | ~1,380 |
-| On the Path to Greatness | 1.00% | ~1,380 |
-| Ascended | 1.00% | ~1,380 |
-| Vanity, Verily | 1.00% | ~1,380 |
-| Bounty Hunters | 1.00% | ~1,380 |
-| Blank Page Syndrome | 1.00% | ~1,380 |
-| Demand for Supplies | 1.00% | ~1,380 |
-| Flooding the Market | 1.00% | ~1,380 |
-| Where it Hurts | 1.00% | ~1,380 |
-| Efficient Floor Space | 1.00% | ~1,380 |
-| Gem Expert | 1.00% | ~1,380 |
-| Gild-Gotten Goods | 1.00% | ~1,380 |
-| Helping Hand | 1.00% | ~1,380 |
-| One-Armed Bandit | 1.00% | ~1,380 |
-| Accomplished Merchant | 1.00% | ~1,380 |
-| Dungeon Imports | 1.00% | ~1,380 |
-| Through Repetition, Perfection | 1.00% | ~1,380 |
-| Did we pack lunch? | 1.00% | ~1,380 |
-| Arcane Industries | 1.00% | ~1,380 |
+| The Daily Grind | 1.00% | ~1,381 |
+| On the Path to Greatness | 1.00% | ~1,381 |
+| Ascended | 1.00% | ~1,381 |
+| Vanity, Verily | 1.00% | ~1,381 |
+| Bounty Hunters | 1.00% | ~1,381 |
+| Blank Page Syndrome | 1.00% | ~1,381 |
+| Demand for Supplies | 1.00% | ~1,381 |
+| Flooding the Market | 1.00% | ~1,381 |
+| Where it Hurts | 1.00% | ~1,381 |
+| Efficient Floor Space | 1.00% | ~1,381 |
+| Gem Expert | 1.00% | ~1,381 |
+| Gild-Gotten Goods | 1.00% | ~1,381 |
+| Helping Hand | 1.00% | ~1,381 |
+| One-Armed Bandit | 1.00% | ~1,381 |
+| Accomplished Merchant | 1.00% | ~1,381 |
+| Dungeon Imports | 1.00% | ~1,381 |
+| Through Repetition, Perfection | 1.00% | ~1,381 |
+| Did we pack lunch? | 1.00% | ~1,381 |
+| Arcane Industries | 1.00% | ~1,381 |
 | Research & Development | 0.90% | ~1,242 |
 | Fated Encounters | 0.90% | ~1,242 |
 | Power of Love | 0.90% | ~1,242 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,050 (Ranked 75)  
+Progressed: 138,054 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 172 (0.12%) (Ranked 248)
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
-| 2023-10-24 | 138,050 | 172 |
+| 2023-10-24 | 138,054 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  

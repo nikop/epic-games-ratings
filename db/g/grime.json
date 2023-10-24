@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154276,
+  "EOS_Progressed": 154284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1557,
+  "EOS_NewPlayers": 1560,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12814,6 +12814,11 @@
       "Time": "2023-10-24T02:20:21.8896261+00:00",
       "NumProgressed": 154276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T03:03:41.2160452+00:00",
+      "NumProgressed": 154284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12889,7 +12894,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12961,7 +12966,7 @@
       "Name": "Harmless",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -13041,7 +13046,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13111,9 +13116,9 @@
       "ID": "MISC_UNLOCKNERVEPASSES",
       "SetID": "ccc0dlh",
       "Name": "Passage",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 463
     },
     {
       "ID": "QUEST_CHILD",
@@ -13192,21 +13197,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153859,
+      "Progressed": 153867,
       "Completed": 1171
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154276,
+      "Progressed": 154284,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:20:21.8896249+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:03:41.2160447+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:16:48.0700926+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:20:21.8897406+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:59:39.0930251+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:03:41.21618+00:00"
 }

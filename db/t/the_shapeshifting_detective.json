@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "voyeur",
@@ -476,8 +476,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:20:26.181849+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:03:44.9755717+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.0977165+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:13:57.8007301+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:20:26.1818686+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:57:24.6334345+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:03:44.9755939+00:00"
 }

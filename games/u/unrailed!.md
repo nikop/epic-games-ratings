@@ -6,21 +6,21 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,208 |
-| Incurious | 17.00% | ~111,641 |
-| Climate Change | 16.00% | ~105,074 |
-| Stroller | 15.00% | ~98,507 |
-| Advanced Hiker | 13.00% | ~85,372 |
-| Toy Train | 13.00% | ~85,372 |
-| Hiker | 12.00% | ~78,805 |
+| Advanced Stroller | 18.00% | ~118,209 |
+| Incurious | 17.00% | ~111,642 |
+| Climate Change | 16.00% | ~105,075 |
+| Stroller | 15.00% | ~98,508 |
+| Advanced Hiker | 13.00% | ~85,373 |
+| Toy Train | 13.00% | ~85,373 |
+| Hiker | 12.00% | ~78,806 |
 | Mojave Courier | 6.00% | ~39,403 |
 | Saved by Nausicaä | 5.00% | ~32,836 |
-| Advanced Voyager | 4.00% | ~26,268 |
-| Voyager | 3.00% | ~19,701 |
-| Expert Stroller | 3.00% | ~19,701 |
-| Orient Express | 3.00% | ~19,701 |
-| Marathon | 3.00% | ~19,701 |
-| Destructionist | 3.00% | ~19,701 |
+| Advanced Voyager | 4.00% | ~26,269 |
+| Voyager | 3.00% | ~19,702 |
+| Expert Stroller | 3.00% | ~19,702 |
+| Orient Express | 3.00% | ~19,702 |
+| Marathon | 3.00% | ~19,702 |
+| Destructionist | 3.00% | ~19,702 |
 | Expert Hiker | 2.00% | ~13,134 |
 | Lost | 2.00% | ~13,134 |
 | Rocketman | 0.80% | ~5,254 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~657 |
 | 20 Miles under the Sea | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,711 (Ranked 27)  
+Progressed: 656,717 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,15 +246,15 @@ Completed: 12 (0.00%) (Ranked 323)
 | 2023-10-21 | 656,085 | 12 |
 | 2023-10-22 | 656,456 | 12 |
 | 2023-10-23 | 656,691 | 12 |
-| 2023-10-24 | 656,711 | 12 |
+| 2023-10-24 | 656,717 | 12 |
 ## Awards
 Max (Great for Beginners): 199  (Ranked 279)  
-Sum: 1,584 (Ranked 224)  
+Sum: 1,585 (Ranked 224)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 199 |
-| This game has Diverse Characters | 196 |
+| This game has Diverse Characters | 197 |
 | This game has Quickly Understood Controls | 191 |
 | This game is Extremely Fun | 186 |
 | This game is Relaxing | 180 |
@@ -397,3 +397,4 @@ Diff (max vs sum): 55
 | 2023-10-15 | 4.64 | - | 198 | 1,581 |
 | 2023-10-17 | 4.64 | - | 198 | 1,582 |
 | 2023-10-21 | 4.64 | - | 199 | 1,584 |
+| 2023-10-24 | 4.64 | - | 199 | 1,585 |

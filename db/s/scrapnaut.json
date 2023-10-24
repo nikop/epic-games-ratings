@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1352,9 +1352,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1609,8 +1609,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:22:44.0097549+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:05:39.2851892+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.5303141+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:19:24.1268918+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:22:44.009788+00:00"
+  "LastUpdate_Ratings": "2023-10-24T03:03:18.2886528+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:05:39.2852329+00:00"
 }

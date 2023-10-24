@@ -2,10 +2,10 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
-  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.14,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -370,6 +370,11 @@
       "Time": "2023-10-23T19:05:46.0250076+00:00",
       "NumProgressed": 287,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-24T03:06:11.8840927+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 10,
@@ -387,9 +392,9 @@
       "ID": "FURNITURE_IN_THE_FOREST",
       "SetID": "ca3djk0",
       "Name": "Furniture in the Forest!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "GREEN_SLIME_SHEEN",
@@ -397,7 +402,7 @@
       "Name": "Green Sheen",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -413,7 +418,7 @@
       "Name": "My first Planimal!",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -421,7 +426,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -429,7 +434,7 @@
       "Name": "Save the Slimes!",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SO_LONG_SLIME_CO",
@@ -460,7 +465,7 @@
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 9
     }
   ],
@@ -468,8 +473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-10-24T02:23:23.3649706+00:00",
+  "LastChanged_Achievements": "2023-10-24T03:06:11.8840922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.174877+00:00",
-  "LastUpdate_Ratings": "2023-10-24T02:15:21.8226617+00:00",
-  "LastUpdate_Achievements": "2023-10-24T02:23:23.3649838+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:58:33.7027189+00:00",
+  "LastUpdate_Achievements": "2023-10-24T03:06:11.8841088+00:00"
 }
