@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7215,9 +7215,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715905,
+  "EOS_Progressed": 715906,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23750,6 +23750,11 @@
       "Time": "2023-10-24T14:08:37.512975+00:00",
       "NumProgressed": 715905,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-24T15:08:44.6269929+00:00",
+      "NumProgressed": 715906,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -23871,9 +23876,9 @@
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 716
+      "UsersEstimate": 1432
     },
     {
       "ID": "16_Detective_H2",
@@ -24240,21 +24245,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25206,
+      "Progressed": 25207,
       "Completed": 10716
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715905,
+      "Progressed": 715906,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-24T14:02:39.9363547+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:08:37.5129746+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:08:44.6269922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:02:39.9363552+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:08:37.5131297+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:02:37.6411742+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:08:44.6271136+00:00"
 }

@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154364,
+  "EOS_Progressed": 154374,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12874,6 +12874,11 @@
       "Time": "2023-10-24T14:04:08.7057725+00:00",
       "NumProgressed": 154364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T15:03:55.9587993+00:00",
+      "NumProgressed": 154374,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13163,9 +13168,9 @@
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 463
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -13252,21 +13257,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153947,
+      "Progressed": 153957,
       "Completed": 1171
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154364,
+      "Progressed": 154374,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:04:08.7057719+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:03:55.9587988+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:00:55.321653+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:04:08.7058837+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:00:57.1127865+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:03:55.9588851+00:00"
 }

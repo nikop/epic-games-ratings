@@ -2,9 +2,9 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_EOS_Progress": 644,
+  "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-10-20T22:05:28.2632437+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T15:06:22.2394483+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_10K",
       "SetID": "aom4nln",
       "Name": "10K",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -52,7 +57,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_1M",
       "SetID": "aom4nln",
       "Name": "1M",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_250K",
       "SetID": "aom4nln",
       "Name": "250k",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -68,7 +73,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_50K",
       "SetID": "aom4nln",
       "Name": "50K",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "ID": "NR_AVERAGE_10_RUN_10K",
       "SetID": "aom4nln",
       "Name": "10K in 10",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -100,7 +105,7 @@
       "ID": "NR_AVERAGE_10_RUN_50K",
       "SetID": "aom4nln",
       "Name": "50K in 10",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "NR_AVERAGE_SECTORS_TEN_RUN_1",
       "SetID": "aom4nln",
       "Name": "Skyscraper",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "NR_AVERAGE_SECTORS_TEN_RUN_HALF",
       "SetID": "aom4nln",
       "Name": "Free Game",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "NR_BIG_AIR_10_SECONDS",
       "SetID": "aom4nln",
       "Name": "Jet Lag",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "NR_BIG_AIR_1_SECOND",
       "SetID": "aom4nln",
       "Name": "One Missisippi",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -164,7 +169,7 @@
       "ID": "NR_CRASHES_1",
       "SetID": "aom4nln",
       "Name": "Crash",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -172,7 +177,7 @@
       "ID": "NR_CRASHES_10",
       "SetID": "aom4nln",
       "Name": "High Rise",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "NR_CRASHES_50",
       "SetID": "aom4nln",
       "Name": "Concrete Island",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "NR_DAILY_HIGH_SCORE_10K",
       "SetID": "aom4nln",
       "Name": "Fallen Angels",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "NR_DAILY_HIGH_SCORE_250K",
       "SetID": "aom4nln",
       "Name": "In The Mood For Love",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "NR_DAILY_HIGH_SCORE_50K",
       "SetID": "aom4nln",
       "Name": "Chungking Express",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -252,7 +257,7 @@
       "ID": "NR_ENTHUSIAST_20_SEEDS_VISITED",
       "SetID": "aom4nln",
       "Name": "Night Tourist",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "NR_FLANEUR_50_SEEDS_VISITED",
       "SetID": "aom4nln",
       "Name": "Grand Tour",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "NR_GODLIKE",
       "SetID": "aom4nln",
       "Name": "Become Godlike",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -284,7 +289,7 @@
       "ID": "NR_HERE_FOR_THE_ART",
       "SetID": "aom4nln",
       "Name": "Here For The Art",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -292,7 +297,7 @@
       "ID": "NR_HOLY_SHIZ",
       "SetID": "aom4nln",
       "Name": "Your Holiness",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "NR_KING_FOR_A_DAY",
       "SetID": "aom4nln",
       "Name": "King For A Day",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -308,7 +313,7 @@
       "ID": "NR_KING_OF_THE_SEED",
       "SetID": "aom4nln",
       "Name": "The Flag Is Raised",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -324,7 +329,7 @@
       "ID": "NR_MAX_SECTORS_3",
       "SetID": "aom4nln",
       "Name": "Cairodrome",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -332,7 +337,7 @@
       "ID": "NR_MAX_SECTORS_5",
       "SetID": "aom4nln",
       "Name": "Operatique",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -340,7 +345,7 @@
       "ID": "NR_OWNAGE",
       "SetID": "aom4nln",
       "Name": "Ownage",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -348,7 +353,7 @@
       "ID": "NR_RINGOUT_1",
       "SetID": "aom4nln",
       "Name": "Crash Archipelago",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -356,7 +361,7 @@
       "ID": "NR_RINGOUT_10",
       "SetID": "aom4nln",
       "Name": "Ringout AllStar",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -388,7 +393,7 @@
       "ID": "NR_SINGLE_RUN_10K",
       "SetID": "aom4nln",
       "Name": "Night Jog",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -396,7 +401,7 @@
       "ID": "NR_SINGLE_RUN_MARATHON",
       "SetID": "aom4nln",
       "Name": "Marathon",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -420,7 +425,7 @@
       "ID": "NR_TOTAL_SECTORS_1",
       "SetID": "aom4nln",
       "Name": "Sector Clear",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -428,7 +433,7 @@
       "ID": "NR_TOTAL_SECTORS_10",
       "SetID": "aom4nln",
       "Name": "Cruiser",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -436,7 +441,7 @@
       "ID": "NR_TOTAL_SECTORS_20",
       "SetID": "aom4nln",
       "Name": "Runner",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -444,7 +449,7 @@
       "ID": "NR_TOTAL_SECTORS_5",
       "SetID": "aom4nln",
       "Name": "Level 5",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -452,7 +457,7 @@
       "ID": "NR_TOTAL_SECTORS_50",
       "SetID": "aom4nln",
       "Name": "Tunnel Rat",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -460,7 +465,7 @@
       "ID": "NR_TOURIST_10_SEEDS_VISITED",
       "SetID": "aom4nln",
       "Name": "Passing Through",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -469,14 +474,14 @@
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:06:36.1215188+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:06:22.2394475+00:00",
   "LastUpdate_AppInfo": "2023-10-17T20:57:04.9322357+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:03:34.8424231+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:06:36.121565+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:03:31.205011+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:06:22.2394839+00:00"
 }

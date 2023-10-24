@@ -2,9 +2,9 @@
   "ID": "ca4e19c9ebc542e58a116a2271e326ae",
   "Name": "Vegas Make It Big",
   "ProductSlug": "vegas-make-it-big-7584d3",
-  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Progress": 699,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-09-11T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.2568526+00:00",
   "LastChanged": "2023-03-31T05:58:44.2568527+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.4085249+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:57:50.4529793+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:07:05.925311+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:57:39.1632973+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:07:11.5722315+00:00"
 }

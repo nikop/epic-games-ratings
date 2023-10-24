@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 704,
+  "Ranking_Rating": 705,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 53,
@@ -495,9 +495,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 252237,
+  "EOS_Progressed": 252369,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 20991,
+  "EOS_NewPlayers": 21035,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8830,6 +8830,11 @@
       "Time": "2023-10-24T14:03:49.3580745+00:00",
       "NumProgressed": 252237,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-24T15:03:47.0522028+00:00",
+      "NumProgressed": 252369,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 24,
@@ -8841,7 +8846,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "10",
@@ -8849,7 +8854,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5047
     },
     {
       "ID": "11",
@@ -8857,7 +8862,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "12",
@@ -8873,7 +8878,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "14",
@@ -8881,7 +8886,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7567
+      "UsersEstimate": 7571
     },
     {
       "ID": "15",
@@ -8929,7 +8934,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "20",
@@ -8937,7 +8942,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5047
     },
     {
       "ID": "21",
@@ -8961,7 +8966,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "24",
@@ -8969,7 +8974,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2524
     },
     {
       "ID": "3",
@@ -8985,7 +8990,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2524
     },
     {
       "ID": "5",
@@ -8993,7 +8998,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12612
+      "UsersEstimate": 12618
     },
     {
       "ID": "6",
@@ -9001,7 +9006,7 @@
       "Name": "PRO",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2524
     },
     {
       "ID": "7",
@@ -9017,7 +9022,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "9",
@@ -9032,7 +9037,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 252237,
+      "Progressed": 252369,
       "Completed": 241
     }
   ],
@@ -9040,8 +9045,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-24T13:03:12.1400704+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:03:49.3580739+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:03:47.0522022+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:58:11.3881513+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:03:49.3581448+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:58:04.6002123+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:03:47.0522557+00:00"
 }

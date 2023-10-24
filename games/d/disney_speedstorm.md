@@ -1,20 +1,20 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 704)  
+Rating: 4.41 (Ranked 705)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,612 |
-| IT MAKES BOOM! | 3.00% | ~7,567 |
-| EXTRA BOOST | 2.00% | ~5,045 |
-| PROTECTED | 2.00% | ~5,045 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,522 |
-| AGGRESSIVE RACER | 1.00% | ~2,522 |
-| PRO | 1.00% | ~2,522 |
-| A TIGER'S FEAR | 0.90% | ~2,270 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,261 |
-| ACE SPEEDSTER | 0.50% | ~1,261 |
+| ROOKIE | 5.00% | ~12,618 |
+| IT MAKES BOOM! | 3.00% | ~7,571 |
+| EXTRA BOOST | 2.00% | ~5,047 |
+| PROTECTED | 2.00% | ~5,047 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,524 |
+| AGGRESSIVE RACER | 1.00% | ~2,524 |
+| PRO | 1.00% | ~2,524 |
+| A TIGER'S FEAR | 0.90% | ~2,271 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,262 |
+| ACE SPEEDSTER | 0.50% | ~1,262 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,009 |
 | TRAINING HARD | 0.30% | ~757 |
 | RELEASE THE KRAKEN | 0.30% | ~757 |
@@ -25,12 +25,12 @@ Rating: 4.41 (Ranked 704)
 | FRIENDLY | 0.30% | ~757 |
 | MASTER | 0.30% | ~757 |
 | LEGENDARY HERO | 0.30% | ~757 |
-| PERFECTLY POISED | 0.20% | ~504 |
-| EXPERIENCED CREW | 0.20% | ~504 |
-| ACE TRICKSTER | 0.20% | ~504 |
+| PERFECTLY POISED | 0.20% | ~505 |
+| EXPERIENCED CREW | 0.20% | ~505 |
+| ACE TRICKSTER | 0.20% | ~505 |
 | FRAMED! | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252,237 (Ranked 53)  
+Progressed: 252,369 (Ranked 53)  
 Completed: 241 (0.10%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 241 (0.10%) (Ranked 256)
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
-| 2023-10-24 | 252,237 | 241 |
+| 2023-10-24 | 252,369 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 450)  
 Sum: 242 (Ranked 372)  

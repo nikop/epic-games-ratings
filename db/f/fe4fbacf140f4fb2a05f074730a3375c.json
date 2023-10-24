@@ -194,9 +194,9 @@
       "ID": "Highway2Hell",
       "SetID": "bl5ebnd",
       "Name": "Highway to Hell",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LikeDislike",
@@ -297,8 +297,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:09:50.4331948+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:09:46.5136664+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:06.2042254+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:00:00.3094092+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:09:50.4332063+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:59:56.8108223+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:09:46.5136777+00:00"
 }

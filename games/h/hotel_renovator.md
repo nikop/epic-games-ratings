@@ -14,7 +14,7 @@ Rating: 4.40 (Ranked 726)
 | Soulmate? | 54.00% | ~586 |
 | Excellent service | 50.00% | ~542 |
 | Roll with it | 47.00% | ~510 |
-| Humble beginnings | 44.00% | ~477 |
+| Humble beginnings | 45.00% | ~488 |
 | Love is in the air | 44.00% | ~477 |
 | Fine, I'll do it myself | 43.00% | ~467 |
 | Moving up | 42.00% | ~456 |

@@ -13,6 +13,7 @@ Rating: 4.65 (Ranked 303)
 | Creature Feature | 1.00% | ~243 |
 | Are You Packin'? | 1.00% | ~243 |
 | Bring A Knife to a Gun Fight | 1.00% | ~243 |
+| Lezduit! | 1.00% | ~243 |
 | RIP Davey Glutes | 1.00% | ~243 |
 | We're All Very Impressed, Trust Me | 1.00% | ~243 |
 | Hardest Battle In The Game | 1.00% | ~243 |
@@ -21,7 +22,6 @@ Rating: 4.65 (Ranked 303)
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~243 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
-| Lezduit! | 0.90% | ~219 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.90% | ~219 |

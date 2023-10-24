@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,7 +565,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3771,
+  "EOS_Progressed": 3772,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -7425,6 +7425,11 @@
       "Time": "2023-10-24T13:09:55.6561493+00:00",
       "NumProgressed": 3771,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-24T15:05:18.4601431+00:00",
+      "NumProgressed": 3772,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7436,7 +7441,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7444,7 +7449,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7500,7 +7505,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7516,7 +7521,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7604,7 +7609,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7636,7 +7641,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7644,7 +7649,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7668,7 +7673,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7676,7 +7681,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7684,7 +7689,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7692,7 +7697,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7828,7 +7833,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8003,13 +8008,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3722,
+      "Progressed": 3723,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3771,
+      "Progressed": 3772,
       "Completed": 11
     }
   ],
@@ -8017,8 +8022,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:05:21.560328+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:05:18.4601425+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:57:46.053584+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:05:21.5604509+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:57:35.8070248+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:05:18.4602368+00:00"
 }

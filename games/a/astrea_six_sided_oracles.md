@@ -44,10 +44,10 @@
 | The Chaos Artisan | 8.00% | ~5 |
 | The Distorted Sage | 8.00% | ~5 |
 | Artificer | 6.00% | ~4 |
+| Purification Avatar | 6.00% | ~4 |
+| Behenian Mastery | 6.00% | ~4 |
 | If I Had Failed... | 5.00% | ~3 |
-| Purification Avatar | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
-| Behenian Mastery | 5.00% | ~3 |
 | Eridanian Hero | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |

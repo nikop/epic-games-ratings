@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
       "SetID": "9eacipp",
       "Name": "Ten-Hut!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BEHINDBLINDERS",
@@ -2199,8 +2199,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:09:36.2299797+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:09:31.7837634+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.9129884+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:00:52.7895703+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:09:36.230121+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:00:51.6852752+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:09:31.7838803+00:00"
 }

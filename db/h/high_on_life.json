@@ -6086,9 +6086,9 @@
       "ID": "ACH_GET_LEZDUIT",
       "SetID": "cdkbb11",
       "Name": "Lezduit!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -6381,8 +6381,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-21T14:59:46.343106+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:05:37.8514046+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:05:34.8138543+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:01:10.11331+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:05:37.8514688+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:01:10.704592+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:05:34.8139116+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2465,9 +2465,9 @@
       "ID": "TownArena",
       "SetID": "5lok9mm",
       "Name": "Killed them all",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1759
     },
     {
       "ID": "TransShotForce",
@@ -2513,8 +2513,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-10-03T15:58:07.9846198+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:06:24.4591041+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:06:10.6914571+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:01.2885561+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:58:35.4784522+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:06:24.4591612+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:58:33.0491306+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:06:10.6915023+00:00"
 }

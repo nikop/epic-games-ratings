@@ -26,13 +26,13 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 6.00% | ~182 |
 | Fulfilled the dream | 6.00% | ~182 |
 | G'Day Mate! | 6.00% | ~182 |
+| Laid back | 6.00% | ~182 |
 | NAHELL! | 6.00% | ~182 |
 | Purple passion | 6.00% | ~182 |
 | Squad goals | 6.00% | ~182 |
 | Sup widdit big dog! | 6.00% | ~182 |
 | DIY Boss | 5.00% | ~152 |
 | Globetrotter | 5.00% | ~152 |
-| Laid back | 5.00% | ~152 |
 | Lines for days | 5.00% | ~152 |
 | Manny Destroys All | 5.00% | ~152 |
 | Renaissance man | 5.00% | ~152 |

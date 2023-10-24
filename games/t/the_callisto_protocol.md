@@ -9,11 +9,11 @@ Rating: 4.19 (Ranked 899)
 | Paper Jams | 7.00% | ~1,136 |
 | Flesh Wound | 6.00% | ~974 |
 | Float Like A Butterfly | 6.00% | ~974 |
-| Two Heads Are Better Than One | 5.00% | ~811 |
-| Chew 'Em Up | 5.00% | ~811 |
-| Reforged | 5.00% | ~811 |
-| The Outer Way | 5.00% | ~811 |
-| Desperate Times | 5.00% | ~811 |
+| Two Heads Are Better Than One | 5.00% | ~812 |
+| Chew 'Em Up | 5.00% | ~812 |
+| Reforged | 5.00% | ~812 |
+| The Outer Way | 5.00% | ~812 |
+| Desperate Times | 5.00% | ~812 |
 | Keep Fighting | 5.00% | ~208 |
 | You Need a Gun | 4.00% | ~649 |
 | I Do Belong Here | 4.00% | ~649 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,229 (Ranked 134)  
+Progressed: 16,231 (Ranked 134)  
 Completed: 77 (0.47%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 77 (0.47%) (Ranked 187)
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
-| 2023-10-24 | 16,229 | 77 |
+| 2023-10-24 | 16,231 | 77 |
 ## Awards
 Max (Highly Recommended): 77  (Ranked 381)  
 Sum: 452 (Ranked 323)  

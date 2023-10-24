@@ -30,6 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.30% | ~76 |
 | Muk Yan Master | 0.20% | ~1,432 |
 | Scareless | 0.20% | ~1,432 |
+| Detective Story | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
 | Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.10% | ~716 |
 | Legendary Talismans of Wuxing | 0.10% | ~716 |
 | Prodigal Child | 0.10% | ~716 |
-| Detective Story | 0.10% | ~716 |
 | Drunken Fighter | 0.10% | ~716 |
 | Martial Artist | 0.10% | ~716 |
 | Knowledge Greed | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,905 (Ranked 20)  
+Progressed: 715,906 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 12,925 (1.81%) (Ranked 120)
 | 2023-10-21 | 715,835 | 12,925 |
 | 2023-10-22 | 715,869 | 12,925 |
 | 2023-10-23 | 715,887 | 12,925 |
-| 2023-10-24 | 715,905 | 12,925 |
+| 2023-10-24 | 715,906 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,731  (Ranked 53)  
 Sum: 11,701 (Ranked 82)  

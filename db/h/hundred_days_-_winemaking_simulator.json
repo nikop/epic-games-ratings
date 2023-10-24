@@ -1027,9 +1027,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 9373,
+  "EOS_Progressed": 9380,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7552,6 +7552,11 @@
       "Time": "2023-10-24T14:05:26.9465126+00:00",
       "NumProgressed": 9373,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-24T15:05:23.8212304+00:00",
+      "NumProgressed": 9380,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -7572,7 +7577,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_11",
@@ -7580,7 +7585,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_12",
@@ -7588,7 +7593,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_15",
@@ -7604,7 +7609,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_18",
@@ -7612,7 +7617,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3658
     },
     {
       "ID": "a_19",
@@ -7620,7 +7625,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "a_2",
@@ -7636,7 +7641,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "a_21",
@@ -7644,7 +7649,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "a_22",
@@ -7660,7 +7665,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "a_25",
@@ -7676,7 +7681,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_27",
@@ -7692,7 +7697,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_3",
@@ -7748,7 +7753,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "a_36",
@@ -7804,14 +7809,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 9373,
+      "Progressed": 9380,
       "Completed": 9
     }
   ],
@@ -7819,8 +7824,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-20T16:59:38.2228858+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:05:26.946512+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:05:23.8212299+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:04.5096147+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:01:31.8663511+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:05:26.9465773+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:01:32.5799031+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:05:23.8212784+00:00"
 }

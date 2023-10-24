@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
@@ -1030,6 +1030,11 @@
       "Time": "2023-10-24T14:07:23.2122206+00:00",
       "NumProgressed": 539,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-24T15:07:30.0243102+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1039,9 +1044,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 513
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1129,7 +1134,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "GOOD_KARMA",
@@ -1153,7 +1158,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1185,7 +1190,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1193,14 +1198,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 8
     }
   ],
@@ -1208,8 +1213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:07:23.2122201+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:07:30.0243095+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:57:50.9318685+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:07:23.212253+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:57:40.5036449+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:07:30.0243272+00:00"
 }

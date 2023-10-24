@@ -1,29 +1,29 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 515)  
+Rating: 4.54 (Ranked 514)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,151 |
-| Break A Leg | 4.00% | ~28,121 |
-| Coup de Grâce | 4.00% | ~28,121 |
-| Hazardous Materials | 4.00% | ~28,121 |
-| Hotel California | 4.00% | ~28,121 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,121 |
-| Dr. Reed, I Presume? | 3.00% | ~21,091 |
-| Git Gutte! | 3.00% | ~21,091 |
-| Bookworm | 3.00% | ~21,091 |
-| But Doctor, I am Butcho | 3.00% | ~21,091 |
-| Slayer Squad | 3.00% | ~21,091 |
-| Can't Handle the Truth | 3.00% | ~21,091 |
-| Like Riding a Bike | 3.00% | ~21,091 |
-| Friends Like These | 3.00% | ~21,091 |
-| Apex Predator | 3.00% | ~21,091 |
-| Zombologist | 3.00% | ~21,091 |
-| A Patton Emerges | 3.00% | ~21,091 |
-| Stacking the Deck | 3.00% | ~21,091 |
-| This is My Weapon | 3.00% | ~21,091 |
+| Welcome To Hell-A | 5.00% | ~35,153 |
+| Break A Leg | 4.00% | ~28,123 |
+| Coup de Grâce | 4.00% | ~28,123 |
+| Hazardous Materials | 4.00% | ~28,123 |
+| Hotel California | 4.00% | ~28,123 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,123 |
+| Dr. Reed, I Presume? | 3.00% | ~21,092 |
+| Git Gutte! | 3.00% | ~21,092 |
+| Bookworm | 3.00% | ~21,092 |
+| But Doctor, I am Butcho | 3.00% | ~21,092 |
+| Slayer Squad | 3.00% | ~21,092 |
+| Can't Handle the Truth | 3.00% | ~21,092 |
+| Like Riding a Bike | 3.00% | ~21,092 |
+| Friends Like These | 3.00% | ~21,092 |
+| Apex Predator | 3.00% | ~21,092 |
+| Zombologist | 3.00% | ~21,092 |
+| A Patton Emerges | 3.00% | ~21,092 |
+| Stacking the Deck | 3.00% | ~21,092 |
+| This is My Weapon | 3.00% | ~21,092 |
 | Making Your Mark | 2.00% | ~14,061 |
 | Anger Management | 2.00% | ~14,061 |
 | Perks of the Job | 2.00% | ~14,061 |
@@ -33,15 +33,15 @@ Rating: 4.54 (Ranked 515)
 | I Am the Resurrection | 2.00% | ~14,061 |
 | Down with the Sickness | 2.00% | ~14,061 |
 | Our True Nature | 2.00% | ~14,061 |
-| Smorgasbord | 1.00% | ~7,030 |
-| Jumbo Keyring | 1.00% | ~7,030 |
-| Max Headroom | 1.00% | ~7,030 |
-| Go, Bobcats! | 1.00% | ~7,030 |
-| Rising Star | 1.00% | ~7,030 |
-| Not Even My Final Form | 0.90% | ~6,327 |
-| Internet Famous | 0.90% | ~6,327 |
-| On Safari | 0.80% | ~5,624 |
-| Variety is the Spice of Death | 0.80% | ~5,624 |
+| Smorgasbord | 1.00% | ~7,031 |
+| Jumbo Keyring | 1.00% | ~7,031 |
+| Max Headroom | 1.00% | ~7,031 |
+| Go, Bobcats! | 1.00% | ~7,031 |
+| Rising Star | 1.00% | ~7,031 |
+| Not Even My Final Form | 0.90% | ~6,328 |
+| Internet Famous | 0.90% | ~6,328 |
+| On Safari | 0.80% | ~5,625 |
+| Variety is the Spice of Death | 0.80% | ~5,625 |
 | Make it So | 0.70% | ~4,921 |
 | LA Influential | 0.60% | ~4,218 |
 | Gore Horse | 0.60% | ~4,218 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,406 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,028 (Ranked 22)  
+Progressed: 703,064 (Ranked 22)  
 Completed: 2,254 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,16 +238,16 @@ Completed: 2,254 (0.32%) (Ranked 208)
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
-| 2023-10-24 | 703,028 | 2,254 |
+| 2023-10-24 | 703,064 | 2,254 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
-Sum: 9,903 (Ranked 91)  
+Sum: 9,907 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,597 |
 | This game is Great for Beginners | 472 |
-| This game has Diverse Characters | 463 |
+| This game has Diverse Characters | 467 |
 | This game has Quickly Understood Controls | 438 |
 | This game is Relaxing | 419 |
 | This game has Amazing Storytelling | 397 |
@@ -443,4 +443,4 @@ Diff (max vs sum): -34
 | 2023-10-21 | 4.54 | 6,526 | 9,785 |
 | 2023-10-22 | 4.54 | 6,549 | 9,831 |
 | 2023-10-23 | 4.54 | 6,571 | 9,870 |
-| 2023-10-24 | 4.54 | 6,597 | 9,903 |
+| 2023-10-24 | 4.54 | 6,597 | 9,907 |

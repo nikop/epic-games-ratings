@@ -1,30 +1,30 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.45 (Ranked 650)  
+Rating: 4.45 (Ranked 649)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,772 |
-| Confirming Suspicions | 41.00% | ~1,546 |
-| The Kraken Wakes | 37.00% | ~1,395 |
+| Meeting Resistance | 47.00% | ~1,773 |
+| Confirming Suspicions | 41.00% | ~1,547 |
+| The Kraken Wakes | 37.00% | ~1,396 |
 | It's Starting to Crack | 34.00% | ~1,282 |
 | Change the Channel | 31.00% | ~1,169 |
-| Lord of War | 30.00% | ~1,131 |
+| Lord of War | 30.00% | ~1,132 |
 | Taking it back | 29.00% | ~1,094 |
 | Resourceful | 27.00% | ~1,018 |
-| Target America | 26.00% | ~980 |
+| Target America | 26.00% | ~981 |
 | The Kraken Sleeps | 24.00% | ~905 |
-| Liberté | 23.00% | ~867 |
-| Organ Grinder | 23.00% | ~867 |
-| As Quiet as a Mouse | 23.00% | ~867 |
+| Liberté | 23.00% | ~868 |
+| Organ Grinder | 23.00% | ~868 |
+| As Quiet as a Mouse | 23.00% | ~868 |
 | Sharpshooter | 22.00% | ~830 |
-| Explosive Efficiency | 19.00% | ~716 |
+| Explosive Efficiency | 19.00% | ~717 |
 | Gunslinger | 18.00% | ~679 |
 | Just a Flesh Wound | 17.00% | ~641 |
-| Climbing the Ladder | 16.00% | ~603 |
-| Der Geist | 16.00% | ~603 |
-| Close Quarters | 16.00% | ~603 |
+| Climbing the Ladder | 16.00% | ~604 |
+| Der Geist | 16.00% | ~604 |
+| Close Quarters | 16.00% | ~604 |
 | Snake in the Grass | 15.00% | ~566 |
 | Brains of the Operation | 15.00% | ~566 |
 | No Stone Unturned | 14.00% | ~528 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 650)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,771 (Ranked 183)  
+Progressed: 3,772 (Ranked 183)  
 Completed: 11 (0.29%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 11 (0.29%) (Ranked 217)
 | 2023-10-21 | 3,763 | 11 |
 | 2023-10-22 | 3,767 | 11 |
 | 2023-10-23 | 3,770 | 11 |
-| 2023-10-24 | 3,771 | 11 |
+| 2023-10-24 | 3,772 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 528)  
 Sum: 21 (Ranked 529)  

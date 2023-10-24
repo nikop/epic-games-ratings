@@ -6,19 +6,20 @@ Rating: 4.57 (Ranked 459)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 100.00% | ~8 |
-| Philanthropist | 75.00% | ~6 |
-| Adventurer | 75.00% | ~6 |
-| Map reader | 75.00% | ~6 |
+| Philanthropist | 88.00% | ~7 |
+| Adventurer | 88.00% | ~7 |
+| Map reader | 88.00% | ~7 |
+| Archer | 75.00% | ~6 |
 | The brave little tailor | 63.00% | ~5 |
 | Samaritan | 63.00% | ~5 |
-| Archer | 63.00% | ~5 |
+| Well-to-do | 63.00% | ~5 |
 | Ladies' man | 63.00% | ~5 |
 | The merciful one | 50.00% | ~4 |
 | Field hand | 50.00% | ~4 |
-| Well-to-do | 50.00% | ~4 |
 | Death of a legend | 38.00% | ~3 |
 | Archaeologist | 38.00% | ~3 |
 | Little hero | 38.00% | ~3 |
+| Freedom fighter | 38.00% | ~3 |
 | Pandora's box | 38.00% | ~3 |
 | Ferocious wild boars | 38.00% | ~3 |
 | Beast slayer | 38.00% | ~3 |
@@ -28,7 +29,6 @@ Rating: 4.57 (Ranked 459)
 | Fence | 38.00% | ~3 |
 | Wise man | 25.00% | ~2 |
 | Family man | 25.00% | ~2 |
-| Freedom fighter | 25.00% | ~2 |
 | Defender | 25.00% | ~2 |
 | Ghost hunter | 25.00% | ~2 |
 | Showdown | 25.00% | ~2 |
@@ -37,6 +37,8 @@ Rating: 4.57 (Ranked 459)
 | Hard worker | 25.00% | ~2 |
 | Safecracker | 25.00% | ~2 |
 | Master thief | 25.00% | ~2 |
+| Moneybags | 25.00% | ~2 |
+| King Midas | 25.00% | ~2 |
 | Sidelined | 25.00% | ~2 |
 | Master detective | 25.00% | ~2 |
 | The traveler | 13.00% | ~1 |
@@ -45,8 +47,6 @@ Rating: 4.57 (Ranked 459)
 | Peacekeeper | 13.00% | ~1 |
 | Fervent swimmer | 13.00% | ~1 |
 | Jester | 13.00% | ~1 |
-| Moneybags | 13.00% | ~1 |
-| King Midas | 13.00% | ~1 |
 | King of the handymen | 13.00% | ~1 |
 | Rune master | 0.00% | ~0 |
 | Expert | 0.00% | ~0 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 459)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 556)  
+Progressed: 8 (Ranked 557)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |

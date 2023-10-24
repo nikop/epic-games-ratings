@@ -2685,9 +2685,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27442,
+  "EOS_Progressed": 27453,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 888,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16185,6 +16185,11 @@
       "Time": "2023-10-24T13:11:32.1510237+00:00",
       "NumProgressed": 27442,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-24T15:07:23.9604514+00:00",
+      "NumProgressed": 27453,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16196,7 +16201,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "Animated",
@@ -16220,7 +16225,7 @@
       "Name": "We have the best insurance",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -16268,7 +16273,7 @@
       "Name": "Daily Dose",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Diabolical",
@@ -16308,7 +16313,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "Escape_Artist",
@@ -16338,9 +16343,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 549
     },
     {
       "ID": "Ghost_Expert",
@@ -16364,7 +16369,7 @@
       "Name": "Legions",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Liability",
@@ -16412,7 +16417,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Reckless",
@@ -16444,7 +16449,7 @@
       "Name": "Right back at ya",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Rivalry",
@@ -16460,7 +16465,7 @@
       "Name": "Seasoned",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Side_Hustle",
@@ -16468,7 +16473,7 @@
       "Name": "Side Hustle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Skilled",
@@ -16476,7 +16481,7 @@
       "Name": "Skilled",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Solo_Capture",
@@ -16492,7 +16497,7 @@
       "Name": "Stunner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Stylish",
@@ -16508,7 +16513,7 @@
       "Name": "Summoner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Surprise",
@@ -16540,7 +16545,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Therapeutic",
@@ -16588,7 +16593,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Whoopsie",
@@ -16603,7 +16608,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27442,
+      "Progressed": 27453,
       "Completed": 63
     }
   ],
@@ -16611,8 +16616,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-24T11:58:29.5002207+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:07:17.0154495+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:07:23.9604508+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:58:42.0363248+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:07:17.0155808+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:58:37.6477328+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:07:23.9605458+00:00"
 }

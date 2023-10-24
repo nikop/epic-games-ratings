@@ -3,7 +3,7 @@
   "Name": "Fort Solis",
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -2172,9 +2172,9 @@
       "ID": "DarkestBeforeTheDawn",
       "SetID": "3ai6ml8",
       "Name": "Darkest Before the Dawn",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 380
+      "UsersEstimate": 389
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -2291,8 +2291,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:08:35.9299209+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:08:43.087599+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.9146264+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:57:49.2218785+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:08:35.9299472+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:57:37.3928247+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:08:43.0876206+00:00"
 }

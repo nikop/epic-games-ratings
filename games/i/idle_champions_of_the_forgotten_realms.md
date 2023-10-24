@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.70% | ~1,629 |
+| A Brief Tour of the Realms | 0.80% | ~1,862 |
 | Foul Play | 0.40% | ~796 |
 | Beast Intentions | 0.30% | ~698 |
 | The Cursed Farmer | 0.30% | ~698 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,712 (Ranked 61)  
-Completed: 2,383 (1.02%) (Ranked 147)  
+Progressed: 232,715 (Ranked 61)  
+Completed: 2,384 (1.02%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -722,7 +722,7 @@ Completed: 2,383 (1.02%) (Ranked 147)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,712 | 2,383 |
+| 2023-10-24 | 232,715 | 2,384 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
 Sum: 32,192 (Ranked 41)  

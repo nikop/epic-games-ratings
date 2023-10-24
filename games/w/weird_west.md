@@ -1,17 +1,17 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 650)  
+Rating: 4.45 (Ranked 649)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,693 |
-| Self-Improvement | 71.00% | ~1,366 |
+| Unforgiven | 88.00% | ~1,694 |
+| Self-Improvement | 71.00% | ~1,367 |
 | Perky | 65.00% | ~1,251 |
-| Let’s Ride | 60.00% | ~1,154 |
+| Let’s Ride | 60.00% | ~1,155 |
 | Welcome to the Weird West | 57.00% | ~1,097 |
-| Dead or Alive | 56.00% | ~1,077 |
+| Dead or Alive | 56.00% | ~1,078 |
 | Full House | 37.00% | ~712 |
 | Off the Trail | 34.00% | ~654 |
 | Justice Served | 29.00% | ~558 |
@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~481 |
 | Scholar | 25.00% | ~481 |
 | The Great Escape | 23.00% | ~443 |
-| That’s All, Folks | 19.00% | ~366 |
+| That’s All, Folks | 18.00% | ~346 |
 | Fallen Star | 16.00% | ~308 |
 | Here Comes Santa Claus | 16.00% | ~308 |
 | Winds of War | 16.00% | ~308 |
@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~154 |
 | Knuckle Sandwich | 8.00% | ~154 |
 | Getting the Gang Back Together | 7.00% | ~135 |
-| Healing Old Wounds | 6.00% | ~115 |
-| Who You Gonna Call? | 6.00% | ~115 |
+| Healing Old Wounds | 6.00% | ~116 |
+| Who You Gonna Call? | 6.00% | ~116 |
 | This Is Sparta | 5.00% | ~96 |
 | What’s in the Box? | 5.00% | ~96 |
 | Ghost Town | 3.00% | ~58 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,924 (Ranked 212)  
+Progressed: 1,925 (Ranked 212)  
 Completed: 7 (0.36%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 7 (0.36%) (Ranked 206)
 | 2023-10-21 | 1,902 | 7 |
 | 2023-10-22 | 1,916 | 7 |
 | 2023-10-23 | 1,919 | 7 |
-| 2023-10-24 | 1,924 | 7 |
+| 2023-10-24 | 1,925 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

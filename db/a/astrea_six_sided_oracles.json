@@ -750,9 +750,9 @@
       "ID": "PurificationAvatar",
       "SetID": "1jeo1g7",
       "Name": "Purification Avatar",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PurificationPioneer",
@@ -1038,9 +1038,9 @@
       "ID": "BehenianMastery",
       "SetID": "1jeo1g7",
       "Name": "Behenian Mastery",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EridanianChampion",
@@ -1125,8 +1125,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:05:14.4870721+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:05:11.5241586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:00:27.5604361+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:05:14.4871887+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:00:29.3139634+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:05:11.5242524+00:00"
 }

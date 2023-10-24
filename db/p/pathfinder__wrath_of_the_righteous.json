@@ -5,7 +5,7 @@
   "Ranking_Rating": 120,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 118,
-  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 116,
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11750,
+  "EOS_Progressed": 11753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14224,6 +14224,11 @@
       "Time": "2023-10-24T13:14:45.0303096+00:00",
       "NumProgressed": 11750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T15:10:08.0522626+00:00",
+      "NumProgressed": 11753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14323,7 +14328,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "13_PathOfLich",
@@ -14459,7 +14464,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "31_DivideAndRule",
@@ -14483,7 +14488,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14507,7 +14512,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -14603,7 +14608,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "49_Flame",
@@ -14619,7 +14624,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -15162,21 +15167,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10532,
+      "Progressed": 10535,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11750,
+      "Progressed": 11753,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:10:12.4434672+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:10:08.0522621+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:01:30.9577753+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:10:12.4436977+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:01:31.9718332+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:10:08.052446+00:00"
 }

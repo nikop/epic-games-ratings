@@ -2,9 +2,9 @@
   "ID": "737058bee79c4c47a4faa14289678dcd",
   "Name": "Monsters of Mican",
   "ProductSlug": "monsters-of-mican-02e3ee",
-  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-27T00:00:00+00:00",
@@ -22,26 +22,194 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-24T15:07:45.5397324+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-10-24T15:07:45.5397345+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BlarghBuster",
+      "SetID": "4j06hlp",
+      "Name": "Blargh Buster",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BonebeardBanisher",
+      "SetID": "4j06hlp",
+      "Name": "Bonebeard Banisher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CaptainsLogger",
+      "SetID": "4j06hlp",
+      "Name": "Captain\u0027s Logger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CentralCoreCrusher",
+      "SetID": "4j06hlp",
+      "Name": "Central Core Crusher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DragonDestroyer",
+      "SetID": "4j06hlp",
+      "Name": "Dragon Destroyer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FiendFighter",
+      "SetID": "4j06hlp",
+      "Name": "Fiend Fighter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GolemGobbler",
+      "SetID": "4j06hlp",
+      "Name": "Golem Gobbler",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JollyJustice",
+      "SetID": "4j06hlp",
+      "Name": "Jolly Justice",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KrakenKiller",
+      "SetID": "4j06hlp",
+      "Name": "Kraken Killer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legendary Skill",
+      "SetID": "4j06hlp",
+      "Name": "Legendary Skill",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MagmaAdmirer",
+      "SetID": "4j06hlp",
+      "Name": "Magma Admirer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterOfMazes",
+      "SetID": "4j06hlp",
+      "Name": "Master of Mazes",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterOfMutonium",
+      "SetID": "4j06hlp",
+      "Name": "Master of Mutonium",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MistressMasher",
+      "SetID": "4j06hlp",
+      "Name": "Mistress Masher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PuzzleExpert",
+      "SetID": "4j06hlp",
+      "Name": "Puzzle Expert",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RobotRuiner",
+      "SetID": "4j06hlp",
+      "Name": "Robot Ruiner",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Swimmer",
+      "SetID": "4j06hlp",
+      "Name": "Swimmer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThinkLikeARabbit",
+      "SetID": "4j06hlp",
+      "Name": "Think Like a Rabbit",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VinkulaVanquisher",
+      "SetID": "4j06hlp",
+      "Name": "Vinkula Vanquisher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZesserToZero",
+      "SetID": "4j06hlp",
+      "Name": "Zesser To Zero",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4j06hlp",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:07:38.7910446+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:07:45.5397318+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:20.6721734+00:00",
-  "LastUpdate_Ratings": "2023-10-24T13:58:19.9977202+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:07:38.7910484+00:00"
+  "LastUpdate_Ratings": "2023-10-24T14:58:11.9356716+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:07:45.5817545+00:00"
 }

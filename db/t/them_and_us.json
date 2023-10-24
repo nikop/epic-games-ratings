@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1126,6 +1126,11 @@
       "Time": "2023-10-24T01:47:13.003896+00:00",
       "NumProgressed": 262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T15:05:28.9652038+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1151,9 +1156,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1231,9 +1236,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 179
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1313,7 +1318,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ETUA_Researcher",
@@ -1345,7 +1350,7 @@
       "Name": "Safe...For now?",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ETUA_StayDead",
@@ -1417,7 +1422,7 @@
       "Name": "This Mansion Is Clean",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
@@ -1456,7 +1461,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 1
     }
   ],
@@ -1464,8 +1469,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:05:31.9617099+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:05:28.9652031+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:00:54.3365074+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:05:31.9617482+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:00:55.9828466+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:05:28.9652334+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~745 |
 | Spectre Inductee | 83.00% | ~658 |
-| Medal of Exploration I | 75.00% | ~595 |
+| Medal of Exploration I | 76.00% | ~603 |
 | Recruit | 72.00% | ~571 |
 | Search and Rescue | 72.00% | ~571 |
 | Quarian Ally | 68.00% | ~539 |
@@ -89,12 +89,12 @@
 | Paramour II | 22.00% | ~174 |
 | Party Crasher | 21.00% | ~167 |
 | Pyromaniac | 20.00% | ~159 |
+| Under Pressure | 20.00% | ~159 |
 | No One Left Behind | 20.00% | ~159 |
 | Hard Target | 20.00% | ~159 |
 | Saboteur | 20.00% | ~159 |
 | Fact Finder | 20.00% | ~159 |
 | Problem Solver | 20.00% | ~159 |
-| Under Pressure | 19.00% | ~151 |
 | Last Resort | 19.00% | ~151 |
 | Last Witness | 19.00% | ~151 |
 | Well Connected | 19.00% | ~151 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 529,
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 437,
-  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -787,7 +787,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10676,
+  "EOS_Progressed": 10677,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 3,
@@ -11777,6 +11777,11 @@
       "Time": "2023-10-24T09:07:11.3462726+00:00",
       "NumProgressed": 10676,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-24T15:07:39.5869618+00:00",
+      "NumProgressed": 10677,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11972,7 +11977,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACH25",
@@ -11980,7 +11985,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACH26",
@@ -12059,7 +12064,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10676,
+      "Progressed": 10677,
       "Completed": 63
     }
   ],
@@ -12067,8 +12072,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-24T14:07:32.8763999+00:00",
+  "LastChanged_Achievements": "2023-10-24T15:07:39.5869614+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-24T14:02:31.8804643+00:00",
-  "LastUpdate_Achievements": "2023-10-24T14:07:32.8764941+00:00"
+  "LastUpdate_Ratings": "2023-10-24T15:02:28.2348135+00:00",
+  "LastUpdate_Achievements": "2023-10-24T15:07:39.5870329+00:00"
 }
