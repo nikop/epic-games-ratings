@@ -120,7 +120,7 @@
 | 112 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.77 | 50 | 418 |
 | 112 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 539 |
 | 120 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 32 | 476 |
-| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,666 | 25 |
+| 120 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,675 | 25 |
 | 120 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 539 |
 | 120 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,364 | 92 |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,025 | 148 |
@@ -739,7 +739,7 @@
 | 736 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 539 |
 | 736 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.39 | 0 | 539 |
 | 736 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 592 | 191 |
-| 736 | [MORDHAU](games/m/mordhau.md) | 4.39 | 827 | 161 |
+| 736 | [MORDHAU](games/m/mordhau.md) | 4.39 | 831 | 161 |
 | 736 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,774 | 35 |
 | 736 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 539 |
 | 736 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 389 |
@@ -969,7 +969,7 @@
 | 965 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.05 | 0 | 539 |
 | 968 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 539 |
 | 969 | [Lake](games/l/lake.md) | 4.03 | 0 | 539 |
-| 970 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.01 | 0 | 539 |
+| 970 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.02 | 0 | 539 |
 | 971 | [Astria Ascending](games/a/astria_ascending.md) | 4.00 | 0 | 539 |
 | 971 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.00 | 0 | 539 |
 | 971 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.00 | 0 | 539 |

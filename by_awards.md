@@ -24,7 +24,7 @@
 | 22 | [Warframe](games/w/warframe.md) | 17,891 | 4.60 | 403 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 16,962 | 4.21 | 882 |
 | 24 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 16,935 | 4.74 | 151 |
-| 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,666 | 4.76 | 120 |
+| 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,675 | 4.76 | 120 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,554 | 4.58 | 439 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,432 | 4.60 | 403 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,879 | 4.60 | 403 |
@@ -160,7 +160,7 @@
 | 158 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 886 | 4.56 | 475 |
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 852 | 4.49 | 595 |
 | 160 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 842 | 4.68 | 242 |
-| 161 | [MORDHAU](games/m/mordhau.md) | 827 | 4.39 | 736 |
+| 161 | [MORDHAU](games/m/mordhau.md) | 831 | 4.39 | 736 |
 | 162 | [Frostpunk](games/f/frostpunk.md) | 826 | 4.74 | 151 |
 | 163 | [Auto Chess](games/a/auto_chess.md) | 825 | 4.52 | 540 |
 | 164 | [The Long Dark](games/t/the_long_dark.md) | 823 | 4.74 | 151 |
