@@ -67,7 +67,7 @@
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,950 | 63 |
 | 62 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 539 |
 | 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 468 |
-| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 799 | 166 |
+| 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 802 | 166 |
 | 62 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 283 | 250 |
 | 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,724 | 53 |
 | 62 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 419 | 221 |
@@ -469,8 +469,8 @@
 | 459 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,328 | 93 |
 | 459 | [Risen](games/r/risen.md) | 4.57 | 0 | 539 |
 | 459 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 539 |
-| 459 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,177 | 82 |
-| 459 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,963 | 20 |
+| 459 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,185 | 82 |
+| 459 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,974 | 20 |
 | 459 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,788 | 118 |
 | 459 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 539 |
 | 459 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 75 | 385 |
@@ -584,7 +584,6 @@
 | 575 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 539 |
 | 575 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 539 |
 | 575 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 281 | 252 |
-| 575 | [Godlike Burger](games/g/godlike_burger.md) | 4.50 | 0 | 539 |
 | 575 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,901 | 97 |
 | 575 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 335 |
 | 575 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 539 |
@@ -595,22 +594,23 @@
 | 575 | [Solitairica](games/s/solitairica.md) | 4.50 | 85 | 372 |
 | 575 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 539 |
 | 575 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.50 | 0 | 539 |
-| 596 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 400 |
-| 596 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,008 | 110 |
-| 596 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,611 | 14 |
-| 596 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 539 |
-| 596 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 539 |
-| 596 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 539 |
-| 596 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 277 | 253 |
-| 596 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 539 |
-| 596 | [Maneater](games/m/maneater.md) | 4.49 | 13,753 | 29 |
-| 596 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 350 |
-| 596 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 468 |
-| 596 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 25 | 508 |
-| 596 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 539 |
-| 596 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 852 | 159 |
-| 596 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,048 | 95 |
-| 596 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 450 |
+| 595 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 400 |
+| 595 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,008 | 110 |
+| 595 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,611 | 14 |
+| 595 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 539 |
+| 595 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 539 |
+| 595 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 539 |
+| 595 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 277 | 253 |
+| 595 | [Godlike Burger](games/g/godlike_burger.md) | 4.49 | 0 | 539 |
+| 595 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 539 |
+| 595 | [Maneater](games/m/maneater.md) | 4.49 | 13,753 | 29 |
+| 595 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 350 |
+| 595 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 468 |
+| 595 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 25 | 508 |
+| 595 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 539 |
+| 595 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 852 | 159 |
+| 595 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,048 | 95 |
+| 595 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 450 |
 | 612 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 33 | 473 |
 | 612 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 539 |
 | 612 | [First Class Trouble](games/f/first_class_trouble.md) | 4.48 | 139 | 314 |
@@ -907,7 +907,7 @@
 | 899 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 539 |
 | 906 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 539 |
 | 906 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 539 |
-| 906 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,854 | 98 |
+| 906 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,859 | 98 |
 | 906 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 208,532 | 5 |
 | 906 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.18 | 0 | 539 |
 | 906 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 356 |
