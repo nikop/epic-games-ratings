@@ -4,12 +4,12 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.89% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.87% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.17% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.08% |
 | 11 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 25.00% |
@@ -52,7 +52,7 @@
 | 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 51 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 52 | [Scorn](games/s/scorn.md) | 6.97% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.90% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.88% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 55 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 56 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -72,7 +72,7 @@
 | 70 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 71 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 72 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
-| 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.27% |
+| 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.28% |
 | 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
 | 75 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.17% |
 | 76 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.05% |
@@ -157,7 +157,7 @@
 | 154 | [Hades](games/h/hades.md) | 0.91% |
 | 156 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 157 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 158 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
+| 158 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 161 | [Eternights](games/e/eternights.md) | 0.73% |
@@ -167,8 +167,8 @@
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.65% |
 | 166 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 167 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 167 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.62% |
 | 167 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
+| 169 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.61% |
 | 170 | [Haven](games/h/haven.md) | 0.60% |
 | 171 | [Dead Space](games/d/dead_space.md) | 0.59% |
 | 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
