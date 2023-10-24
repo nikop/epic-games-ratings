@@ -6,19 +6,19 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,642 |
-| Gone Home | 93.00% | ~26,502 |
-| Wonderfalls | 87.00% | ~24,792 |
+| Everybody Gets One | 97.00% | ~27,643 |
+| Gone Home | 93.00% | ~26,503 |
+| Wonderfalls | 87.00% | ~24,793 |
 | Got to Catch a Few | 77.00% | ~21,943 |
-| Double Trapper | 75.00% | ~21,373 |
-| I'm Stuffed | 69.00% | ~19,663 |
-| Got to Catch a Lot | 66.00% | ~18,808 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,383 |
-| In the Arms of the Gramble | 59.00% | ~16,813 |
-| Know Thy Neighbor | 59.00% | ~16,813 |
-| Perf Dirt | 57.00% | ~16,243 |
-| Launch Party | 56.00% | ~15,958 |
-| Vacation's End | 53.00% | ~15,103 |
+| Double Trapper | 75.00% | ~21,374 |
+| I'm Stuffed | 69.00% | ~19,664 |
+| Got to Catch a Lot | 66.00% | ~18,809 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,384 |
+| In the Arms of the Gramble | 59.00% | ~16,814 |
+| Know Thy Neighbor | 59.00% | ~16,814 |
+| Perf Dirt | 57.00% | ~16,244 |
+| Launch Party | 56.00% | ~15,959 |
+| Vacation's End | 53.00% | ~15,104 |
 | Bossy Bugs | 46.00% | ~13,109 |
 | Survivor | 45.00% | ~12,824 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,254 |
@@ -28,16 +28,16 @@ Number of Ratings: 425  (23.09.2022)
 | Midnight Snak | 36.00% | ~10,259 |
 | Candid Cryptid | 35.00% | ~9,974 |
 | Got to Catch Them All | 32.00% | ~9,119 |
-| Deep Impact | 23.00% | ~6,554 |
-| Grab Bag | 23.00% | ~6,554 |
-| Feeding Frenzy | 19.00% | ~5,414 |
-| Clothesline | 17.00% | ~4,844 |
+| Deep Impact | 23.00% | ~6,555 |
+| Grab Bag | 23.00% | ~6,555 |
+| Feeding Frenzy | 19.00% | ~5,415 |
+| Clothesline | 17.00% | ~4,845 |
 | Say Cheese! | 15.00% | ~4,275 |
 | Sundae Best | 14.00% | ~3,990 |
 | Live Laugh Hut | 9.00% | ~2,565 |
 | Dapper Capper | 7.00% | ~1,995 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,497 (Ranked 119)  
+Progressed: 28,498 (Ranked 119)  
 Completed: 1,362 (4.78%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1,362 (4.78%) (Ranked 66)
 | 2023-10-21 | 28,487 | 1,362 |
 | 2023-10-22 | 28,492 | 1,362 |
 | 2023-10-23 | 28,495 | 1,362 |
-| 2023-10-24 | 28,497 | 1,362 |
+| 2023-10-24 | 28,498 | 1,362 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 447)  
 Sum: 346 (Ranked 342)  

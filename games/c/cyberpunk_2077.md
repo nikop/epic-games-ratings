@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 325)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,6 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.40% | ~89 |
 | Bushido and Chill | 0.30% | ~2,681 |
 | Right Back At Ya | 0.30% | ~2,681 |
+| Gun Fu | 0.30% | ~2,681 |
 | Gunslinger | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
@@ -34,7 +35,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.20% | ~1,787 |
 | To Protect and Serve | 0.20% | ~1,787 |
 | The Wandering Fool | 0.20% | ~1,787 |
-| Gun Fu | 0.20% | ~1,787 |
 | Master Crafter | 0.20% | ~1,787 |
 | I Am The Law | 0.20% | ~1,787 |
 | Mean Streets | 0.20% | ~1,787 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,660 (Ranked 15)  
+Progressed: 893,668 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,660 | 2,713 |
+| 2023-10-24 | 893,668 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
-Sum: 323,880 (Ranked 11)  
+Sum: 323,967 (Ranked 11)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): -2
 | This game has Amazing Characters | 17,117 |
 | This game is Relaxing | 16,531 |
 | This game has Quickly Understood Controls | 16,489 |
-| This game has a Creative Community | 11,373 |
+| This game has a Creative Community | 11,460 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -558,4 +558,4 @@ Diff (max vs sum): -2
 | 2023-10-21 | 4.64 | - | 100,310 | 317,822 |
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
-| 2023-10-24 | 4.64 | - | 101,212 | 323,880 |
+| 2023-10-24 | 4.64 | - | 101,212 | 323,967 |

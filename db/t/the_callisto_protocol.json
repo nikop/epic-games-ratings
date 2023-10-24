@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16236,
+  "EOS_Progressed": 16239,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8097,6 +8097,11 @@
       "Time": "2023-10-24T18:07:10.4691295+00:00",
       "NumProgressed": 16236,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T19:08:43.3059987+00:00",
+      "NumProgressed": 16239,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8132,7 +8137,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "DISARM_ENEMY",
@@ -8172,7 +8177,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -8252,7 +8257,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8308,7 +8313,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_HABITAT",
@@ -8316,7 +8321,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_HANGAR",
@@ -8324,7 +8329,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_MINETOWN",
@@ -8332,7 +8337,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -8348,7 +8353,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_TOWER",
@@ -8356,7 +8361,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "STORY_TUNNELS",
@@ -8364,7 +8369,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "DISMEMBER_100",
@@ -8468,7 +8473,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -8483,13 +8488,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16236,
+      "Progressed": 16239,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4162,
+      "Progressed": 4165,
       "Completed": 29
     }
   ],
@@ -8497,8 +8502,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:07:10.4691284+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:08:43.305998+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:00:25.035713+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:10.4692727+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:01:30.7833376+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:08:43.3060887+00:00"
 }

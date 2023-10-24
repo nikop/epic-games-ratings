@@ -1,20 +1,20 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.17 (Ranked 914)  
+Rating: 4.16 (Ranked 916)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 79.00% | ~4,832 |
-| Hey Good Hookin | 69.00% | ~4,220 |
+| Hey Good Hookin | 69.00% | ~4,221 |
 | I'm on a Boat! | 60.00% | ~3,670 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,425 |
-| Scaling up | 56.00% | ~3,425 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,426 |
+| Scaling up | 56.00% | ~3,426 |
 | More Fish in the Sea | 50.00% | ~3,058 |
 | Ready to Rod and Roll | 47.00% | ~2,875 |
 | Fish Out of Water | 36.00% | ~2,202 |
-| License to Gill | 33.00% | ~2,018 |
+| License to Gill | 33.00% | ~2,019 |
 | Things that go Splash in the Night | 32.00% | ~1,957 |
 | Goldfish? | 29.00% | ~1,774 |
 | Going for Gold | 26.00% | ~1,590 |
@@ -26,8 +26,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~489 |
 | I'm the Captain Now | 6.00% | ~367 |
 | Big Fish Small Pond | 5.00% | ~306 |
-| The Beetles | 3.00% | ~183 |
-| Gonna Need a Bigger Boat | 3.00% | ~183 |
+| The Beetles | 3.00% | ~184 |
+| Gonna Need a Bigger Boat | 3.00% | ~184 |
 | No Fin left to give | 2.00% | ~122 |
 | Taylor Made | 2.00% | ~122 |
 | Rod and Troll | 2.00% | ~110 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,116 (Ranked 171)  
+Progressed: 6,117 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-21 | 6,101 | 0 |
 | 2023-10-22 | 6,108 | 0 |
 | 2023-10-23 | 6,113 | 0 |
-| 2023-10-24 | 6,116 | 0 |
+| 2023-10-24 | 6,117 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 459)  
 Sum: 184 (Ranked 400)  
@@ -326,3 +326,4 @@ Diff (max vs sum): 59
 | 2023-10-10 | 4.17 | - | 36 | 182 |
 | 2023-10-13 | 4.17 | - | 36 | 183 |
 | 2023-10-17 | 4.17 | - | 36 | 184 |
+| 2023-10-24 | 4.16 | - | 36 | 184 |

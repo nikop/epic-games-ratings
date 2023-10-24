@@ -8,22 +8,22 @@ Rating: 4.50 (Ranked 575)
 | Stylish | 4.00% | ~1,099 |
 | Advancement | 3.00% | ~824 |
 | Meticulously Efficient | 3.00% | ~824 |
-| Animated | 2.00% | ~549 |
-| Back Off | 2.00% | ~549 |
-| Clutch Capture | 2.00% | ~549 |
-| I collect Spores, Molds, and Fungi | 2.00% | ~549 |
-| Cultured | 2.00% | ~549 |
-| Discovery | 2.00% | ~549 |
-| Ectoplasmic Entity | 2.00% | ~549 |
-| Fully Upgraded | 2.00% | ~549 |
-| Ghostbuster In Training | 2.00% | ~549 |
-| Icing on the Cake | 2.00% | ~549 |
-| Solo Capture | 2.00% | ~549 |
-| Swift Rift Removers | 2.00% | ~549 |
-| Teamwork | 2.00% | ~549 |
-| There you are! | 2.00% | ~549 |
-| Vaporous Expansion | 2.00% | ~549 |
-| Whoopsie | 2.00% | ~549 |
+| Animated | 2.00% | ~550 |
+| Back Off | 2.00% | ~550 |
+| Clutch Capture | 2.00% | ~550 |
+| I collect Spores, Molds, and Fungi | 2.00% | ~550 |
+| Cultured | 2.00% | ~550 |
+| Discovery | 2.00% | ~550 |
+| Ectoplasmic Entity | 2.00% | ~550 |
+| Fully Upgraded | 2.00% | ~550 |
+| Ghostbuster In Training | 2.00% | ~550 |
+| Icing on the Cake | 2.00% | ~550 |
+| Solo Capture | 2.00% | ~550 |
+| Swift Rift Removers | 2.00% | ~550 |
+| Teamwork | 2.00% | ~550 |
+| There you are! | 2.00% | ~550 |
+| Vaporous Expansion | 2.00% | ~550 |
+| Whoopsie | 2.00% | ~550 |
 | We have the best insurance | 1.00% | ~275 |
 | Daily Dose | 1.00% | ~275 |
 | Legions | 1.00% | ~275 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,470 (Ranked 120)  
+Progressed: 27,482 (Ranked 120)  
 Completed: 63 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 63 (0.23%) (Ranked 223)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,470 | 63 |
+| 2023-10-24 | 27,482 | 63 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
-Sum: 2,522 (Ranked 184)  
+Sum: 2,524 (Ranked 184)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 68
 | This game has Amazing Storytelling | 248 |
 | This game is Highly Recommended | 245 |
 | This game has Quickly Understood Controls | 239 |
-| This game has Amazing Characters | 231 |
+| This game has Amazing Characters | 233 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -456,4 +456,4 @@ Diff (max vs sum): 68
 | 2023-10-21 | 4.50 | 273 | 2,464 |
 | 2023-10-22 | 4.50 | 275 | 2,482 |
 | 2023-10-23 | 4.50 | 275 | 2,507 |
-| 2023-10-24 | 4.50 | 281 | 2,522 |
+| 2023-10-24 | 4.50 | 281 | 2,524 |

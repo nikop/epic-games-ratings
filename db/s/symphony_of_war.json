@@ -2,12 +2,12 @@
   "ID": "02572b5d530d45bcbf19e69717638396",
   "Name": "Symphony of War",
   "ProductSlug": "symphony-of-war-60a76e",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 399,
   "Ranking_PopularitySum": 463,
-  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-10T20:00:00+00:00",
@@ -257,6 +257,6 @@
   "FirstSeen": "2022-07-22T20:27:23.9681849+00:00",
   "LastChanged": "2023-07-31T01:59:41.189267+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.4821187+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:58:02.1166562+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:40.1854961+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:58:23.6443412+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:09:28.5191991+00:00"
 }

@@ -421,9 +421,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42274,
+  "EOS_Progressed": 42276,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11251,6 +11251,11 @@
       "Time": "2023-10-24T18:03:34.6790172+00:00",
       "NumProgressed": 42274,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-24T19:05:53.9254575+00:00",
+      "NumProgressed": 42276,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11310,7 +11315,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -11334,7 +11339,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -11342,7 +11347,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -11350,7 +11355,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -11454,7 +11459,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -11462,7 +11467,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -11510,7 +11515,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -11534,7 +11539,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "MONUMENT_ALL",
@@ -11550,7 +11555,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -11574,7 +11579,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -11614,7 +11619,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "STAYING_AIR",
@@ -11685,22 +11690,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42274,
+      "Progressed": 42276,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7111,
-      "Completed": 7111
+      "Progressed": 7113,
+      "Completed": 7113
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:03:34.6790166+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:05:53.9254568+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4363915+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:02:31.786071+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:03:34.6791573+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:04:33.1251038+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:05:53.9255959+00:00"
 }

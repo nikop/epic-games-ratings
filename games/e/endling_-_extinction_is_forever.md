@@ -33,7 +33,7 @@
 | Easter Egg | 2.00% | ~10 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 281)  
+Progressed: 514 (Ranked 282)  
 Completed: 3 (0.58%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |

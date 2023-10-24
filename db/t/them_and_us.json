@@ -1324,9 +1324,9 @@
       "ID": "ETUA_Researcher",
       "SetID": "65jc0ap",
       "Name": "Researcher",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1356,9 +1356,9 @@
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1469,8 +1469,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:05:31.9477914+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:07:22.8042604+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:00:57.6837269+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:05:31.9478552+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:02:25.1792323+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:07:22.8043011+00:00"
 }

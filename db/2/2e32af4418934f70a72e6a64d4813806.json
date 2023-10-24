@@ -2,9 +2,9 @@
   "ID": "2e32af4418934f70a72e6a64d4813806",
   "Name": "Mars Colonization",
   "ProductSlug": "mars-colonization-b8958d",
-  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-22T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-25T06:57:10.887181+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:57:32.4256939+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:00:46.3744411+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:03:30.1019579+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:02:03.2828001+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:05:48.7306895+00:00"
 }

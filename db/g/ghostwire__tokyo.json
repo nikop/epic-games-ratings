@@ -4,10 +4,10 @@
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 540,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 234,
-  "Ranking_EOS_Progress": 699,
+  "Ranking_PopularitySum": 233,
+  "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -1294,10 +1294,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1289,
       "NumberOfAwardsMax": 993
+    },
+    {
+      "Time": "2023-10-24T19:03:32.8971446+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1292,
+      "NumberOfAwardsMax": 993
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1289,
+  "NumberOfAwards": 1292,
   "NumberOfAwardsMax": 993,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1311,7 +1317,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 38
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1367,8 +1373,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-10-24T18:01:53.5414949+00:00",
+  "LastChanged": "2023-10-24T19:03:32.8971445+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:23.1980922+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:01:53.5414955+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:15.0892446+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:03:32.8971451+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:08:48.801148+00:00"
 }

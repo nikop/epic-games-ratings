@@ -13,7 +13,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 6.00% | ~1,023 |
 | The Scarlet Orchard | 6.00% | ~1,023 |
 | Taking Action | 6.00% | ~1,023 |
-| Fertile Meadows | 5.00% | ~852 |
+| Fertile Meadows | 5.00% | ~853 |
+| Royal Outpost | 5.00% | ~853 |
 | Homesick | 4.00% | ~682 |
 | Ruined Armory | 4.00% | ~682 |
 | Bandit Camp | 4.00% | ~682 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 4.00% | ~682 |
 | Levitating Monument | 4.00% | ~682 |
 | Monastery of the Holy Flame | 4.00% | ~682 |
-| Royal Outpost | 4.00% | ~682 |
 | Lost Colonies | 4.00% | ~682 |
 | Statue of the Forefathers | 4.00% | ~682 |
 | Watchtower | 4.00% | ~682 |
@@ -43,10 +43,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 3.00% | ~512 |
 | Refinery | 2.00% | ~341 |
 | Victory through Prosperity | 2.00% | ~341 |
-| Feeding The People | 1.00% | ~170 |
-| Efficient Explorer | 1.00% | ~170 |
-| Prestigious Expedition | 1.00% | ~170 |
-| Blood Flower Farmer | 1.00% | ~170 |
+| Feeding The People | 1.00% | ~171 |
+| Efficient Explorer | 1.00% | ~171 |
+| Prestigious Expedition | 1.00% | ~171 |
+| Blood Flower Farmer | 1.00% | ~171 |
 | Lizard Utopia | 0.90% | ~153 |
 | Human Utopia | 0.80% | ~136 |
 | Beaver Utopia | 0.70% | ~119 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,050 (Ranked 133)  
+Progressed: 17,051 (Ranked 133)  
 Completed: 52 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 52 (0.30%) (Ranked 213)
 | 2023-10-21 | 16,999 | 52 |
 | 2023-10-22 | 17,020 | 52 |
 | 2023-10-23 | 17,032 | 52 |
-| 2023-10-24 | 17,050 | 52 |
+| 2023-10-24 | 17,051 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,196 (Ranked 170)  

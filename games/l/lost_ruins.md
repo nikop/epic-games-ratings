@@ -41,11 +41,11 @@
 | Roughneck | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
 | Art Collector | 0.40% | ~2 |
-| Cryomancer | 0.20% | ~1 |
+| Cryomancer | 0.40% | ~2 |
+| Necromancer | 0.40% | ~2 |
 | Hardboiled | 0.20% | ~1 |
-| Necromancer | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 287)  
+Progressed: 459 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |

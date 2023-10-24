@@ -3,11 +3,11 @@
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 288,
+  "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 228,
-  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -2238,10 +2238,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1456,
       "NumberOfAwardsMax": 182
+    },
+    {
+      "Time": "2023-10-24T19:04:10.9167339+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1458,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1456,
+  "NumberOfAwards": 1458,
   "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2273,7 +2279,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 140
+      "Count": 141
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2291,7 +2297,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 131
+      "Count": 132
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2323,8 +2329,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-10-24T06:00:11.3627443+00:00",
+  "LastChanged": "2023-10-24T19:04:10.9167338+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:35.1114585+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:02:16.4035234+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:29.3938908+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:04:10.9167343+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:09:15.4969158+00:00"
 }

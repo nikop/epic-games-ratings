@@ -8,18 +8,18 @@ Number of Ratings: 43  (23.09.2022)
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~32,541 |
 | Just The Two of Us | 32.00% | ~30,627 |
-| Up On High | 25.00% | ~23,927 |
-| Under The Hood | 25.00% | ~23,927 |
+| Up On High | 25.00% | ~23,928 |
+| Under The Hood | 25.00% | ~23,928 |
 | Got Your Nose | 24.00% | ~22,970 |
 | The Gift of Gab | 24.00% | ~22,970 |
 | Wrapping Up | 22.00% | ~21,056 |
 | More Than A Box Of Sand | 18.00% | ~17,228 |
 | The Dunboyne | 17.00% | ~16,271 |
 | Badge Hobbyist | 17.00% | ~16,271 |
-| Chum Novice | 16.00% | ~15,313 |
-| Silver-Tongued Sable | 16.00% | ~15,313 |
-| Sticky Paws | 16.00% | ~15,313 |
-| Bubble Up | 16.00% | ~15,313 |
+| Chum Novice | 16.00% | ~15,314 |
+| Silver-Tongued Sable | 16.00% | ~15,314 |
+| Sticky Paws | 16.00% | ~15,314 |
+| Bubble Up | 16.00% | ~15,314 |
 | Thread The Needle | 15.00% | ~14,356 |
 | Power to the People | 14.00% | ~13,399 |
 | Take That! | 13.00% | ~12,442 |
@@ -54,8 +54,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Merchant Mask | 6.00% | ~5,743 |
 | Honorary Chum | 6.00% | ~5,743 |
 | Bikes Don't Fly | 6.00% | ~5,743 |
-| The Gliding | 5.00% | ~4,785 |
-| The Entertainer Mask | 5.00% | ~4,785 |
+| The Gliding | 5.00% | ~4,786 |
+| The Entertainer Mask | 5.00% | ~4,786 |
 | The Quick and the Curious | 4.00% | ~3,828 |
 | Bike Aficionado | 4.00% | ~3,828 |
 | Chum Expert | 3.00% | ~2,871 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,871 |
 | Vivacious Vivarium | 2.00% | ~1,914 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,709 (Ranked 84)  
+Progressed: 95,710 (Ranked 84)  
 Completed: 966 (1.01%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 966 (1.01%) (Ranked 148)
 | 2023-10-21 | 95,227 | 959 |
 | 2023-10-22 | 95,449 | 963 |
 | 2023-10-23 | 95,594 | 965 |
-| 2023-10-24 | 95,709 | 966 |
+| 2023-10-24 | 95,710 | 966 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 508)  
 Sum: 91 (Ranked 441)  

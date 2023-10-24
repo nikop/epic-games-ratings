@@ -913,7 +913,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663740,
+  "EOS_Progressed": 663742,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
@@ -18713,6 +18713,11 @@
       "Time": "2023-10-24T18:04:26.4465715+00:00",
       "NumProgressed": 663740,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-24T19:06:30.8526163+00:00",
+      "NumProgressed": 663742,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18724,7 +18729,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477893
+      "UsersEstimate": 477894
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18732,7 +18737,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384969
+      "UsersEstimate": 384970
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -18740,7 +18745,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152660
+      "UsersEstimate": 152661
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -18748,7 +18753,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39824
+      "UsersEstimate": 39825
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -18860,7 +18865,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152660
+      "UsersEstimate": 152661
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -18884,7 +18889,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39824
+      "UsersEstimate": 39825
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -18988,7 +18993,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165935
+      "UsersEstimate": 165936
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -19107,15 +19112,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663740,
+      "Progressed": 663742,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:04:26.4465707+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:06:30.8526153+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:02:06.9742378+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:04:26.4467182+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:03:53.2099174+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:06:30.8527568+00:00"
 }

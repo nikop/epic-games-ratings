@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1458,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-10-24T18:08:17.2395193+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T19:10:30.0782972+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -725,9 +730,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "Eavesdropper",
@@ -797,9 +802,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "JackOfAllTrades",
@@ -829,9 +834,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "NoMoreTotems",
@@ -877,9 +882,9 @@
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "TheQuarterback",
@@ -887,15 +892,15 @@
       "Name": "The Quarterback",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -958,13 +963,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1477,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:08:17.2395187+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:10:30.0782965+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:59:02.2315534+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:08:17.2395493+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:59:31.0349047+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:10:30.0783302+00:00"
 }

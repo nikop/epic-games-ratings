@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,632 |
-| Imprint | 3.00% | ~4,632 |
+| Taste | 3.00% | ~4,633 |
+| Imprint | 3.00% | ~4,633 |
 | The Hunt | 2.00% | ~3,088 |
 | Weeper | 2.00% | ~3,088 |
 | Ravenous | 2.00% | ~3,088 |
+| Harmless | 1.00% | ~1,544 |
 | Silenced Whispers | 1.00% | ~1,544 |
 | Devourer | 1.00% | ~1,544 |
-| Harmless | 0.90% | ~1,390 |
 | Yank | 0.80% | ~1,235 |
 | Sharpened Vessel | 0.80% | ~1,235 |
 | Scion | 0.70% | ~1,078 |
 | Jawcrab | 0.70% | ~1,081 |
 | Jawstag | 0.70% | ~1,081 |
 | Feast | 0.70% | ~1,081 |
-| Shapely | 0.60% | ~926 |
+| Shapely | 0.60% | ~927 |
 | Glare | 0.60% | ~924 |
-| Watcher | 0.60% | ~926 |
+| Watcher | 0.60% | ~927 |
 | Assimilation | 0.50% | ~772 |
 | Host | 0.50% | ~770 |
 | Celebration | 0.50% | ~772 |
@@ -35,11 +35,11 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 0.30% | ~463 |
 | Hush | 0.30% | ~463 |
 | Breathsmith | 0.30% | ~463 |
+| Unwrap the Gift | 0.30% | ~463 |
 | Passage | 0.30% | ~463 |
 | Bloodhunter | 0.20% | ~309 |
 | Zygote | 0.20% | ~308 |
 | Kinship | 0.20% | ~309 |
-| Unwrap the Gift | 0.20% | ~309 |
 | Kin | 0.20% | ~308 |
 | Listen | 0.20% | ~308 |
 | Proportions | 0.20% | ~309 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,406 (Ranked 73)  
+Progressed: 154,418 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,11 +217,11 @@ Completed: 1 (0.00%) (Ranked 324)
 | 2023-10-21 | 153,746 | 1 |
 | 2023-10-22 | 154,057 | 1 |
 | 2023-10-23 | 154,251 | 1 |
-| 2023-10-24 | 154,406 | 1 |
+| 2023-10-24 | 154,418 | 1 |
 ## Awards
 Max (Highly Recommended): 47  (Ranked 430)  
-Sum: 313 (Ranked 348)  
-Diff (max vs sum): 82  
+Sum: 313 (Ranked 349)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 47 |

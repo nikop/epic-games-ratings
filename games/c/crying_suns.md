@@ -6,15 +6,15 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~309,931 |
+| The Shutdown | 66.00% | ~309,932 |
 | Jeef Skeejj | 44.00% | ~206,621 |
-| Careful planning | 39.00% | ~183,141 |
+| Careful planning | 39.00% | ~183,142 |
 | Second Coming | 34.00% | ~159,662 |
 | Jeef Skagg | 30.00% | ~140,878 |
 | Mother | 25.00% | ~117,398 |
-| In space, no one can hear you scream | 24.00% | ~112,702 |
-| Chapter I: Echoes | 22.00% | ~103,310 |
-| Excelsior Rule | 22.00% | ~103,310 |
+| In space, no one can hear you scream | 24.00% | ~112,703 |
+| Chapter I: Echoes | 22.00% | ~103,311 |
+| Excelsior Rule | 22.00% | ~103,311 |
 | Things persisted in not being what they seemed | 20.00% | ~93,919 |
 | Knightmare Frames | 15.00% | ~70,439 |
 | May His passing cleanse the world | 15.00% | ~70,439 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 11.00% | ~51,655 |
 | Plan for the worst | 11.00% | ~51,655 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,959 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,567 |
-| Through the mirror | 8.00% | ~37,567 |
-| General Vivar | 8.00% | ~37,567 |
-| Back to Ganyma | 8.00% | ~37,567 |
-| Kaos Rule | 8.00% | ~37,567 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,568 |
+| Through the mirror | 8.00% | ~37,568 |
+| General Vivar | 8.00% | ~37,568 |
+| Back to Ganyma | 8.00% | ~37,568 |
+| Kaos Rule | 8.00% | ~37,568 |
 | Admiral Okonkwo | 7.00% | ~32,872 |
 | The Survivalists | 7.00% | ~32,872 |
 | The Tech Specialist | 7.00% | ~32,872 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~14 |
 | Kronos Rule | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,593 (Ranked 38)  
+Progressed: 469,594 (Ranked 38)  
 Completed: 19 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,11 +273,11 @@ Completed: 19 (0.00%) (Ranked 324)
 | 2023-10-21 | 469,444 | 19 |
 | 2023-10-22 | 469,505 | 19 |
 | 2023-10-23 | 469,554 | 19 |
-| 2023-10-24 | 469,593 | 19 |
+| 2023-10-24 | 469,594 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
-Sum: 242 (Ranked 372)  
-Diff (max vs sum): -103  
+Sum: 242 (Ranked 373)  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 221 |

@@ -3131,7 +3131,7 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17050,
+  "EOS_Progressed": 17051,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -12496,6 +12496,11 @@
       "Time": "2023-10-24T18:07:01.5349107+00:00",
       "NumProgressed": 17050,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-24T19:08:32.9882118+00:00",
+      "NumProgressed": 17051,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12515,7 +12520,7 @@
       "Name": "Feeding The People",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AllNeeds",
@@ -12571,7 +12576,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "MetalChain",
@@ -12667,7 +12672,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "WinNearFishmen",
@@ -12721,9 +12726,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 853
     },
     {
       "ID": "WinNearRuins",
@@ -12803,7 +12808,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "WinPrestige20",
@@ -12835,7 +12840,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "WinWithEvents",
@@ -12906,15 +12911,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17050,
+      "Progressed": 17051,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:07:01.5349101+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:08:32.9882111+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:59:01.7531429+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:01.5350081+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:59:30.2387504+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:08:32.9883479+00:00"
 }

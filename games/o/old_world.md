@@ -11,38 +11,38 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 3.00% | ~448 |
 | Settler | 3.00% | ~448 |
 | Friendly Family | 3.00% | ~448 |
-| Able | 2.00% | ~298 |
-| Ambitious | 2.00% | ~298 |
-| Architect | 2.00% | ~298 |
-| Enlightened | 2.00% | ~298 |
-| Fountainhead | 2.00% | ~298 |
-| Glorious | 2.00% | ~298 |
-| Good | 2.00% | ~298 |
-| Just | 2.00% | ~298 |
-| Keystone | 2.00% | ~298 |
-| Learned | 2.00% | ~298 |
-| Magnificent | 2.00% | ~298 |
-| Mason | 2.00% | ~298 |
-| Noble | 2.00% | ~298 |
-| Pioneer | 2.00% | ~298 |
-| Strong | 2.00% | ~298 |
-| Warrior | 2.00% | ~298 |
-| Wise | 2.00% | ~298 |
-| Developing Cities | 2.00% | ~298 |
-| Strong Cities | 2.00% | ~298 |
-| Hanging Gardens | 2.00% | ~298 |
-| Ishtar Gate | 2.00% | ~298 |
-| Lighthouse | 2.00% | ~298 |
-| Oracle | 2.00% | ~298 |
-| Pyramids | 2.00% | ~298 |
-| Learn to Play 1 | 2.00% | ~298 |
-| Christianity | 2.00% | ~298 |
-| Judaism | 2.00% | ~298 |
-| Babylonian Paganism | 2.00% | ~298 |
-| Greek Paganism | 2.00% | ~298 |
-| Naming Landmarks | 2.00% | ~298 |
-| Trade Caravan | 2.00% | ~298 |
-| Kushite Paganism | 2.00% | ~298 |
+| Able | 2.00% | ~299 |
+| Ambitious | 2.00% | ~299 |
+| Architect | 2.00% | ~299 |
+| Enlightened | 2.00% | ~299 |
+| Fountainhead | 2.00% | ~299 |
+| Glorious | 2.00% | ~299 |
+| Good | 2.00% | ~299 |
+| Just | 2.00% | ~299 |
+| Keystone | 2.00% | ~299 |
+| Learned | 2.00% | ~299 |
+| Magnificent | 2.00% | ~299 |
+| Mason | 2.00% | ~299 |
+| Noble | 2.00% | ~299 |
+| Pioneer | 2.00% | ~299 |
+| Strong | 2.00% | ~299 |
+| Warrior | 2.00% | ~299 |
+| Wise | 2.00% | ~299 |
+| Developing Cities | 2.00% | ~299 |
+| Strong Cities | 2.00% | ~299 |
+| Hanging Gardens | 2.00% | ~299 |
+| Ishtar Gate | 2.00% | ~299 |
+| Lighthouse | 2.00% | ~299 |
+| Oracle | 2.00% | ~299 |
+| Pyramids | 2.00% | ~299 |
+| Learn to Play 1 | 2.00% | ~299 |
+| Christianity | 2.00% | ~299 |
+| Judaism | 2.00% | ~299 |
+| Babylonian Paganism | 2.00% | ~299 |
+| Greek Paganism | 2.00% | ~299 |
+| Naming Landmarks | 2.00% | ~299 |
+| Trade Caravan | 2.00% | ~299 |
+| Kushite Paganism | 2.00% | ~299 |
 | Regicide | 1.00% | ~149 |
 | Drillmaster | 1.00% | ~149 |
 | Brilliant | 1.00% | ~149 |
@@ -82,12 +82,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.90% | ~134 |
 | Greece | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
+| Invincible | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
-| Invincible | 0.70% | ~104 |
 | Subjugator | 0.70% | ~104 |
 | Landowners | 0.70% | ~104 |
 | Riders | 0.70% | ~104 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,925 (Ranked 140)  
+Progressed: 14,928 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,925 | 5 |
+| 2023-10-24 | 14,928 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -13,7 +13,7 @@
 | Armored | 29.00% | ~32 |
 | Amokuali Tower | 28.00% | ~31 |
 | Freedom | 26.00% | ~29 |
-| Winner | 24.00% | ~26 |
+| Winner | 25.00% | ~28 |
 | The Pride of Moozhaw | 22.00% | ~24 |
 | Omnia Vincit Amor | 22.00% | ~24 |
 | Stilt House | 17.00% | ~19 |

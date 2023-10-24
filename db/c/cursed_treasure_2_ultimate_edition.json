@@ -2,9 +2,9 @@
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 360,
+  "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -314,9 +314,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:07:35.1781561+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:09:22.5484589+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:07.2473417+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:57:19.5442222+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:35.1781982+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:57:38.6236142+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:09:22.5485032+00:00"
 }

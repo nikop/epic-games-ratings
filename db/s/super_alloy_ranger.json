@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -506,6 +506,11 @@
       "Time": "2023-10-23T12:10:22.4882742+00:00",
       "NumProgressed": 101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T19:11:54.4238756+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -531,9 +536,9 @@
       "ID": "Achi_03",
       "SetID": "51a97k7",
       "Name": "The Abyss Conqueror",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_04",
@@ -651,9 +656,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achi_19",
@@ -667,9 +672,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Achi_21",
@@ -685,7 +690,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Achi_23",
@@ -707,9 +712,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_26",
@@ -723,15 +728,15 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 34
     },
@@ -747,9 +752,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achi_31",
@@ -781,7 +786,7 @@
       "Name": "Hydrophobia",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Achi_35",
@@ -789,7 +794,7 @@
       "Name": "Stop Right There",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achi_36",
@@ -803,7 +808,7 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -916,7 +921,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 1
     }
   ],
@@ -924,8 +929,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:09:39.4927091+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:11:54.4238748+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:59:34.0600539+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:09:39.4927701+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:00:11.8841398+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:11:54.4239236+00:00"
 }

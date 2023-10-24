@@ -2,9 +2,9 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2023-10-24T18:06:25.9746543+00:00",
       "NumProgressed": 454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T19:08:15.0242674+00:00",
+      "NumProgressed": 638,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T14:04:58.0760511+00:00",
@@ -64,7 +69,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_10K",
       "SetID": "aom4nln",
       "Name": "10K",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -80,7 +85,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_250K",
       "SetID": "aom4nln",
       "Name": "250k",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -88,7 +93,7 @@
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_50K",
       "SetID": "aom4nln",
       "Name": "50K",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -96,7 +101,7 @@
       "ID": "NR_AVERAGE_10_RUN_10K",
       "SetID": "aom4nln",
       "Name": "10K in 10",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -120,7 +125,7 @@
       "ID": "NR_AVERAGE_10_RUN_50K",
       "SetID": "aom4nln",
       "Name": "50K in 10",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -168,7 +173,7 @@
       "ID": "NR_BIG_AIR_1_SECOND",
       "SetID": "aom4nln",
       "Name": "One Missisippi",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -184,7 +189,7 @@
       "ID": "NR_CRASHES_1",
       "SetID": "aom4nln",
       "Name": "Crash",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -296,7 +301,7 @@
       "ID": "NR_GODLIKE",
       "SetID": "aom4nln",
       "Name": "Become Godlike",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -312,7 +317,7 @@
       "ID": "NR_HOLY_SHIZ",
       "SetID": "aom4nln",
       "Name": "Your Holiness",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -328,7 +333,7 @@
       "ID": "NR_KING_OF_THE_SEED",
       "SetID": "aom4nln",
       "Name": "The Flag Is Raised",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -344,7 +349,7 @@
       "ID": "NR_MAX_SECTORS_3",
       "SetID": "aom4nln",
       "Name": "Cairodrome",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -360,7 +365,7 @@
       "ID": "NR_OWNAGE",
       "SetID": "aom4nln",
       "Name": "Ownage",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -368,7 +373,7 @@
       "ID": "NR_RINGOUT_1",
       "SetID": "aom4nln",
       "Name": "Crash Archipelago",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -408,7 +413,7 @@
       "ID": "NR_SINGLE_RUN_10K",
       "SetID": "aom4nln",
       "Name": "Night Jog",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -440,7 +445,7 @@
       "ID": "NR_TOTAL_SECTORS_1",
       "SetID": "aom4nln",
       "Name": "Sector Clear",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -448,7 +453,7 @@
       "ID": "NR_TOTAL_SECTORS_10",
       "SetID": "aom4nln",
       "Name": "Cruiser",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -464,7 +469,7 @@
       "ID": "NR_TOTAL_SECTORS_5",
       "SetID": "aom4nln",
       "Name": "Level 5",
-      "Percentage": 0.5,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -489,14 +494,14 @@
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 638,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:06:25.9746537+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:08:15.0242668+00:00",
   "LastUpdate_AppInfo": "2023-10-17T20:57:04.9322357+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:03:18.7164703+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:06:25.9747127+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:05:34.1410109+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:08:15.024313+00:00"
 }

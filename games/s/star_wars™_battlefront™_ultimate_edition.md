@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~751 |
-| Off to a good start | 68.00% | ~561 |
-| Do... or do not. There is no try | 52.00% | ~429 |
-| A good blaster at your side | 34.00% | ~280 |
+| New Recruit | 90.00% | ~743 |
+| Off to a good start | 68.00% | ~562 |
+| Do... or do not. There is no try | 52.00% | ~430 |
+| A good blaster at your side | 34.00% | ~281 |
 | Scrap collector | 20.00% | ~165 |
 | I suggest a new strategy | 20.00% | ~165 |
-| All right, I'll give it a try | 18.00% | ~148 |
-| Great shot, kid! | 18.00% | ~148 |
-| The power of the Force | 16.00% | ~132 |
+| All right, I'll give it a try | 18.00% | ~149 |
+| Great shot, kid! | 18.00% | ~149 |
 | Together we can rule the galaxy | 16.00% | ~132 |
 | Shoot first | 16.00% | ~132 |
+| The power of the Force | 15.00% | ~124 |
 | Collector | 15.00% | ~124 |
 | Tell Jabba that I've got his money | 11.00% | ~91 |
 | Best star-pilot in the galaxy | 11.00% | ~91 |
@@ -43,15 +43,15 @@
 | City in the Clouds | 3.00% | ~25 |
 | What will you become? | 3.00% | ~25 |
 | Disturbed tranquility | 3.00% | ~25 |
-| Hold the line! | 2.00% | ~16 |
-| Playing the objective | 2.00% | ~16 |
-| The Force is strong with this one | 2.00% | ~16 |
-| Ackbar's Elite | 2.00% | ~16 |
-| You have your moments | 2.00% | ~16 |
-| When surrounded by war... | 2.00% | ~16 |
-| Alternative solution | 2.00% | ~16 |
-| Onwards! | 2.00% | ~16 |
-| The circle is now complete | 2.00% | ~16 |
+| Hold the line! | 2.00% | ~17 |
+| Playing the objective | 2.00% | ~17 |
+| The Force is strong with this one | 2.00% | ~17 |
+| Ackbar's Elite | 2.00% | ~17 |
+| You have your moments | 2.00% | ~17 |
+| When surrounded by war... | 2.00% | ~17 |
+| Alternative solution | 2.00% | ~17 |
+| Onwards! | 2.00% | ~17 |
+| The circle is now complete | 2.00% | ~17 |
 | A New Hope | 1.00% | ~8 |
 | No such thing as luck | 1.00% | ~8 |
 | Do we take prisoners? | 1.00% | ~8 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 252)  
+Progressed: 826 (Ranked 251)  
 Completed: 1 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.12%) (Ranked 249)
 | 2023-10-21 | 784 | 1 |
 | 2023-10-22 | 805 | 1 |
 | 2023-10-23 | 817 | 1 |
-| 2023-10-24 | 825 | 1 |
+| 2023-10-24 | 826 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

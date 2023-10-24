@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -491,9 +491,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 95709,
+  "EOS_Progressed": 95710,
   "EOS_Completed": 966,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -21751,6 +21751,11 @@
       "Time": "2023-10-24T18:07:50.445544+00:00",
       "NumProgressed": 95709,
       "NumCompleted": 966
+    },
+    {
+      "Time": "2023-10-24T19:10:10.1960263+00:00",
+      "NumProgressed": 95710,
+      "NumCompleted": 966
     }
   ],
   "TotalAchievements": 56,
@@ -21770,7 +21775,7 @@
       "Name": "The Gliding",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "ach_002_complete_queendom",
@@ -21826,7 +21831,7 @@
       "Name": "The Entertainer Mask",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4785
+      "UsersEstimate": 4786
     },
     {
       "ID": "ach_009_guard_mask",
@@ -21874,7 +21879,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -21970,7 +21975,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23927
+      "UsersEstimate": 23928
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -22082,7 +22087,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 23927
+      "UsersEstimate": 23928
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -22098,7 +22103,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -22106,7 +22111,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -22146,7 +22151,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15314
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -22209,15 +22214,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 95709,
+      "Progressed": 95710,
       "Completed": 966
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-23T16:01:37.974777+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:07:50.445543+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:10:10.1960256+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:10.2102442+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:02:53.750907+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:07:50.4457557+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:04:59.1099053+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:10:10.1962022+00:00"
 }

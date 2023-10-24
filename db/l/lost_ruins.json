@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -951,9 +951,9 @@
       "ID": "Cryomancer",
       "SetID": "82505mn",
       "Name": "Cryomancer",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Explorer",
@@ -1071,9 +1071,9 @@
       "ID": "Necromancer",
       "SetID": "82505mn",
       "Name": "Necromancer",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Oops",
@@ -1232,8 +1232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:09:37.757416+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:11:52.5793367+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-24T17:58:23.7438495+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:09:37.7574552+00:00"
+  "LastUpdate_Ratings": "2023-10-24T18:58:49.9371779+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:11:52.5793733+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 421,
   "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 56,
@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154406,
+  "EOS_Progressed": 154418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1581,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12894,6 +12894,11 @@
       "Time": "2023-10-24T18:04:02.8555596+00:00",
       "NumProgressed": 154406,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T19:06:03.2481162+00:00",
+      "NumProgressed": 154418,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12969,7 +12974,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13001,7 +13006,7 @@
       "Name": "Shapely",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -13039,9 +13044,9 @@
       "ID": "DEFEAT_HARMLESSROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Harmless",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1544
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -13089,7 +13094,7 @@
       "Name": "Watcher",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -13121,7 +13126,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13183,9 +13188,9 @@
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 463
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -13272,21 +13277,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153989,
+      "Progressed": 154001,
       "Completed": 1172
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154406,
+      "Progressed": 154418,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:04:02.855559+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:06:03.2481155+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:00:57.8090505+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:04:02.8556679+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:02:25.3367379+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:06:03.2482497+00:00"
 }

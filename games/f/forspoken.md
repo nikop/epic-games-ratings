@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,227 |
+| Attachments | 10.00% | ~4,228 |
 | Unlocked Potential | 9.00% | ~3,805 |
 | Tinkerer | 7.00% | ~2,959 |
 | Knock 'Em Dead | 7.00% | ~2,959 |
-| Leapfrogger | 6.00% | ~2,536 |
-| Pilgrimage: Initiate | 6.00% | ~2,536 |
-| Hell of a Run | 6.00% | ~2,536 |
-| Call of the Fount: Baptized | 6.00% | ~2,536 |
+| Leapfrogger | 6.00% | ~2,537 |
+| Pilgrimage: Initiate | 6.00% | ~2,537 |
+| Hell of a Run | 6.00% | ~2,537 |
+| Call of the Fount: Baptized | 6.00% | ~2,537 |
 | No Mercy | 5.00% | ~2,114 |
 | Explorer: Seeker | 5.00% | ~2,114 |
 | Through the Eyes of Another: Empath | 4.00% | ~1,691 |
@@ -22,12 +22,12 @@ Rating: 4.15 (Ranked 923)
 | The Interloper | 3.00% | ~1,268 |
 | Hop, Step, Jump | 3.00% | ~1,268 |
 | Endless Runner | 3.00% | ~1,268 |
-| What Must Be Done | 2.00% | ~845 |
-| Might and Main | 2.00% | ~845 |
-| Damned If You Do... | 2.00% | ~845 |
-| Explorer: Pathfinder | 2.00% | ~845 |
-| Shocker | 2.00% | ~845 |
-| From Every Angle | 2.00% | ~845 |
+| What Must Be Done | 2.00% | ~846 |
+| Might and Main | 2.00% | ~846 |
+| Damned If You Do... | 2.00% | ~846 |
+| Explorer: Pathfinder | 2.00% | ~846 |
+| Shocker | 2.00% | ~846 |
+| From Every Angle | 2.00% | ~846 |
 | The Hue of Blue | 1.00% | ~423 |
 | The Truth Will Out | 1.00% | ~423 |
 | Breaking Point | 1.00% | ~423 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 923)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,274 (Ranked 112)  
+Progressed: 42,276 (Ranked 112)  
 Completed: 3 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 3 (0.01%) (Ranked 305)
 | 2023-10-21 | 42,230 | 3 |
 | 2023-10-22 | 42,251 | 3 |
 | 2023-10-23 | 42,259 | 3 |
-| 2023-10-24 | 42,274 | 3 |
+| 2023-10-24 | 42,276 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 485)  
 Sum: 29 (Ranked 499)  

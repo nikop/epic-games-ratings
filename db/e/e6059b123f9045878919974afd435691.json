@@ -2710,9 +2710,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 171
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2893,8 +2893,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-24T18:06:22.0378662+00:00",
+  "LastChanged_Achievements": "2023-10-24T19:08:10.3197851+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-24T18:01:12.8774904+00:00",
-  "LastUpdate_Achievements": "2023-10-24T18:06:22.0379505+00:00"
+  "LastUpdate_Ratings": "2023-10-24T19:02:40.0933713+00:00",
+  "LastUpdate_Achievements": "2023-10-24T19:08:10.3198721+00:00"
 }
