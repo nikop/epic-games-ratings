@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.85% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.83% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -84,7 +84,7 @@
 | 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 83 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.55% |
 | 84 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.41% |
+| 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.40% |
 | 86 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 87 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 88 | [The Complex](games/t/the_complex.md) | 3.24% |
@@ -95,9 +95,9 @@
 | 93 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 95 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 95 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.86% |
-| 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 98 | [FORECLOSED](games/f/foreclosed.md) | 2.83% |
+| 96 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
+| 96 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.84% |
+| 98 | [FORECLOSED](games/f/foreclosed.md) | 2.80% |
 | 99 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.78% |
 | 100 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 101 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.69% |
