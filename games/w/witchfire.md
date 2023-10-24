@@ -3,8 +3,8 @@
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.62 (Ranked 357)  
 ## Awards
-Max (Highly Recommended): 37  (Ranked 455)  
-Sum: 215 (Ranked 385)  
+Max (Highly Recommended): 37  (Ranked 456)  
+Sum: 215 (Ranked 386)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |

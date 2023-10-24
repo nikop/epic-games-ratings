@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,613 |
-| MVP | 54.00% | ~1,583 |
-| Big Spender | 53.00% | ~1,554 |
-| Stud Finder | 41.00% | ~1,202 |
-| Dealmaker | 40.00% | ~1,173 |
+| Bragging Rights | 55.00% | ~1,614 |
+| MVP | 54.00% | ~1,584 |
+| Big Spender | 53.00% | ~1,555 |
+| Stud Finder | 41.00% | ~1,203 |
+| Dealmaker | 40.00% | ~1,174 |
 | ROTY | 33.00% | ~968 |
-| Roster Reshuffle | 31.00% | ~909 |
+| Roster Reshuffle | 31.00% | ~910 |
 | Future of the Franchise | 19.00% | ~557 |
-| Throwin’ Dots | 17.00% | ~498 |
-| Already in Progress | 17.00% | ~498 |
-| Change of Scenery | 17.00% | ~498 |
+| Throwin’ Dots | 17.00% | ~499 |
+| Already in Progress | 17.00% | ~499 |
+| Change of Scenery | 17.00% | ~499 |
 | Primetime | 16.00% | ~469 |
 | Pro Bowler | 16.00% | ~469 |
 | Unblockable | 9.00% | ~264 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 836)
 | Lockdown Leader | 0.50% | ~15 |
 | The Fortress | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,932 (Ranked 196)  
+Progressed: 2,934 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-21 | 2,843 | 0 |
 | 2023-10-22 | 2,895 | 0 |
 | 2023-10-23 | 2,927 | 0 |
-| 2023-10-24 | 2,932 | 0 |
+| 2023-10-24 | 2,934 | 0 |
 ## Awards
 Max (Diverse Characters): 30  (Ranked 482)  
 Sum: 79 (Ranked 448)  

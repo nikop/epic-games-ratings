@@ -1846,9 +1846,9 @@
       "Count": 251
     }
   ],
-  "EOS_Progressed": 209646,
+  "EOS_Progressed": 209650,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1369,
+  "EOS_NewPlayers": 1371,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23086,6 +23086,11 @@
       "Time": "2023-10-24T05:03:48.2142533+00:00",
       "NumProgressed": 209646,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-24T06:03:56.6460849+00:00",
+      "NumProgressed": 209650,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23185,7 +23190,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "HighFiveTheMoon",
@@ -23201,7 +23206,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "ItsRainingMen",
@@ -23217,7 +23222,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "Mercyful",
@@ -23265,7 +23270,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "Okkoto",
@@ -23337,7 +23342,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "StonedOx",
@@ -23377,7 +23382,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "Thorough",
@@ -23441,22 +23446,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 209646,
+      "Progressed": 209650,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-24T02:59:53.8461271+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:03:48.2142529+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:03:56.6460842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.8896219+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:59:40.5545016+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:03:48.2143796+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:59:35.0965186+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:03:56.646272+00:00"
 }

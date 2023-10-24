@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 489)  
+Progressed: 24 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |

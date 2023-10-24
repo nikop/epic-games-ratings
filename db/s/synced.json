@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -727,10 +727,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-10-24T05:59:57.3737142+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 293,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 293,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -780,7 +786,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Relaxing",
@@ -789,10 +795,10 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64467,
+  "EOS_Progressed": 64469,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 999,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 994,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -6409,6 +6415,11 @@
       "Time": "2023-10-24T05:09:22.3535156+00:00",
       "NumProgressed": 64467,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-24T06:09:34.4264137+00:00",
+      "NumProgressed": 64469,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6421,7 +6432,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20629
+      "UsersEstimate": 20630
     },
     {
       "ID": "10",
@@ -6485,7 +6496,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10959
+      "UsersEstimate": 10960
     },
     {
       "ID": "3",
@@ -6509,7 +6520,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "6",
@@ -6548,16 +6559,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64467,
+      "Progressed": 64469,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-23T20:00:24.2717173+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:09:22.3535151+00:00",
+  "LastChanged": "2023-10-24T05:59:57.3737141+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:09:34.4264134+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:00:00.4117421+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:09:22.3535522+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:59:57.3737147+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:09:34.4264742+00:00"
 }

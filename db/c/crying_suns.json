@@ -4,7 +4,7 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 575,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 111,
@@ -625,7 +625,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469569,
+  "EOS_Progressed": 469571,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 1,
@@ -20145,6 +20145,11 @@
       "Time": "2023-10-24T05:09:21.6204434+00:00",
       "NumProgressed": 469569,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-24T06:09:33.749168+00:00",
+      "NumProgressed": 469571,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20156,7 +20161,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70435
+      "UsersEstimate": 70436
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -20164,7 +20169,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70435
+      "UsersEstimate": 70436
     },
     {
       "ID": "achievement_first_death",
@@ -20180,7 +20185,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103305
+      "UsersEstimate": 103306
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20188,7 +20193,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70435
+      "UsersEstimate": 70436
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -20244,7 +20249,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309916
+      "UsersEstimate": 309917
     },
     {
       "ID": "achievement_story_landa",
@@ -20252,7 +20257,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23478
+      "UsersEstimate": 23479
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -20260,7 +20265,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23478
+      "UsersEstimate": 23479
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -20276,7 +20281,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117392
+      "UsersEstimate": 117393
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20324,7 +20329,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70435
+      "UsersEstimate": 70436
     },
     {
       "ID": "achievement_story_neon_child",
@@ -20340,7 +20345,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159653
+      "UsersEstimate": 159654
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20356,7 +20361,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23478
+      "UsersEstimate": 23479
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -20580,7 +20585,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206610
+      "UsersEstimate": 206611
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20612,7 +20617,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183132
+      "UsersEstimate": 183133
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20636,7 +20641,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23478
+      "UsersEstimate": 23479
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -20668,7 +20673,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103305
+      "UsersEstimate": 103306
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -20787,21 +20792,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13503,
+      "Progressed": 13505,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469569,
+      "Progressed": 469571,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:09:21.620443+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:09:33.7491676+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:57:21.1143684+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:09:21.6205995+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:57:25.7908312+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:09:33.7494223+00:00"
 }

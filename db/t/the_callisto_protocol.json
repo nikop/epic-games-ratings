@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1337,7 +1337,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16225,
+  "EOS_Progressed": 16226,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 2,
@@ -8057,6 +8057,11 @@
       "Time": "2023-10-24T05:05:44.1785769+00:00",
       "NumProgressed": 16225,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T06:05:40.5408669+00:00",
+      "NumProgressed": 16226,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8180,7 +8185,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "KILL_2HEAD",
@@ -8443,13 +8448,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16225,
+      "Progressed": 16226,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4151,
+      "Progressed": 4152,
       "Completed": 29
     }
   ],
@@ -8457,8 +8462,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:05:44.1785766+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:05:40.5408665+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:59:01.3554495+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:05:44.17864+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:59:00.9032606+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:05:40.5409487+00:00"
 }

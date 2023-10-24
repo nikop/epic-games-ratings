@@ -21,7 +21,7 @@
 | Gladiator | 12.00% | ~55 |
 | Troubleshooter | 11.00% | ~50 |
 | Money Swag | 8.00% | ~37 |
-| Oops | 7.00% | ~32 |
+| Oops | 8.00% | ~37 |
 | Shield Crusher | 7.00% | ~32 |
 | Treasure Hunter | 7.00% | ~32 |
 | Explorer | 6.00% | ~27 |

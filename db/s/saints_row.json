@@ -3891,9 +3891,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76003,
+  "EOS_Progressed": 76004,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -24926,6 +24926,11 @@
       "Time": "2023-10-24T05:06:17.2148461+00:00",
       "NumProgressed": 76003,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T06:06:13.5049671+00:00",
+      "NumProgressed": 76004,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25049,7 +25054,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34961
+      "UsersEstimate": 34962
     },
     {
       "ID": "customize_a_vehicle",
@@ -25169,7 +25174,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10640
+      "UsersEstimate": 10641
     },
     {
       "ID": "get_betrayed",
@@ -25193,7 +25198,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12160
+      "UsersEstimate": 12161
     },
     {
       "ID": "infinite_boost_refill",
@@ -25321,7 +25326,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 31921
+      "UsersEstimate": 31922
     },
     {
       "ID": "whole_map_purple",
@@ -25360,13 +25365,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76003,
+      "Progressed": 76004,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47640,
+      "Progressed": 47641,
       "Completed": 4174
     }
   ],
@@ -25374,8 +25379,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:06:17.2148455+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:06:13.5049666+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:02:09.7723459+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:06:17.2152719+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:00:46.3478967+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:06:13.5051407+00:00"
 }

@@ -10452,9 +10452,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50418,
+  "EOS_Progressed": 50419,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27207,6 +27207,11 @@
       "Time": "2023-10-24T02:20:34.2835429+00:00",
       "NumProgressed": 50418,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-24T06:03:37.972731+00:00",
+      "NumProgressed": 50419,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -27314,7 +27319,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 30755
+      "UsersEstimate": 30756
     },
     {
       "ID": "DeliveryGrapes",
@@ -27402,7 +27407,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 25209
+      "UsersEstimate": 25210
     },
     {
       "ID": "Mission",
@@ -27442,7 +27447,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20167
+      "UsersEstimate": 20168
     },
     {
       "ID": "NumPlaceables",
@@ -27474,7 +27479,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29242
+      "UsersEstimate": 29243
     },
     {
       "ID": "PetDog",
@@ -27506,7 +27511,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31763
+      "UsersEstimate": 31764
     },
     {
       "ID": "Stones",
@@ -27561,15 +27566,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50418,
+      "Progressed": 50419,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-23T23:58:20.9396911+00:00",
-  "LastChanged_Achievements": "2023-10-24T05:03:29.1463536+00:00",
+  "LastChanged_Achievements": "2023-10-24T06:03:37.9727305+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.5930356+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:58:00.6074145+00:00",
-  "LastUpdate_Achievements": "2023-10-24T05:03:29.1464566+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:58:05.1852486+00:00",
+  "LastUpdate_Achievements": "2023-10-24T06:03:37.972928+00:00"
 }
