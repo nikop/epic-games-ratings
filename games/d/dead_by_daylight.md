@@ -6,12 +6,12 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,543 |
-| Zealous | 3.00% | ~28,907 |
-| Not half bad | 3.00% | ~28,907 |
-| Apt Survivor | 3.00% | ~28,907 |
-| Skillful | 3.00% | ~28,907 |
-| Make Some Noise | 3.00% | ~28,907 |
+| It wakes | 4.00% | ~38,545 |
+| Zealous | 3.00% | ~28,909 |
+| Not half bad | 3.00% | ~28,909 |
+| Apt Survivor | 3.00% | ~28,909 |
+| Skillful | 3.00% | ~28,909 |
+| Make Some Noise | 3.00% | ~28,909 |
 | The Grand Sacrifice | 2.00% | ~19,272 |
 | Agonizing Escape | 2.00% | ~19,272 |
 | Backdoor Escape | 2.00% | ~19,272 |
@@ -44,14 +44,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | With Scars to Show | 1.00% | ~9,636 |
 | A Fast Death | 1.00% | ~9,636 |
 | Second Act | 1.00% | ~9,636 |
-| Made it out alive! | 0.90% | ~8,672 |
-| III-50 | 0.90% | ~8,672 |
-| Cherish your Life | 0.90% | ~8,672 |
-| Raccoon City Recruit | 0.90% | ~8,672 |
-| Flight to Freedom | 0.90% | ~8,672 |
-| Rebuilding The Borgo | 0.90% | ~8,672 |
-| Chorus of Chaos | 0.90% | ~8,672 |
-| One More Step | 0.90% | ~8,672 |
+| Made it out alive! | 0.90% | ~8,673 |
+| III-50 | 0.90% | ~8,673 |
+| Cherish your Life | 0.90% | ~8,673 |
+| Raccoon City Recruit | 0.90% | ~8,673 |
+| Flight to Freedom | 0.90% | ~8,673 |
+| Rebuilding The Borgo | 0.90% | ~8,673 |
+| Chorus of Chaos | 0.90% | ~8,673 |
+| One More Step | 0.90% | ~8,673 |
 | Blood on your hands | 0.80% | ~7,709 |
 | All Aboard | 0.80% | ~7,709 |
 | Item of Obsession | 0.80% | ~7,709 |
@@ -73,17 +73,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.70% | ~6,745 |
 | Outrun Evil | 0.70% | ~6,745 |
 | Grim Pilgrimage | 0.70% | ~6,745 |
-| A bite for the Entity | 0.60% | ~5,781 |
-| Blood on your face | 0.60% | ~5,781 |
-| Hemophobia | 0.60% | ~5,781 |
-| Leapfrog | 0.60% | ~5,781 |
-| Serial Killer | 0.60% | ~5,781 |
-| Devoted Gatekeeping | 0.60% | ~5,781 |
-| Shrine Apparatus | 0.60% | ~5,781 |
-| Selfless Survival | 0.60% | ~5,781 |
-| End of Days | 0.60% | ~5,781 |
-| Outrun the Overlap | 0.60% | ~5,781 |
-| Extraterrestrial | 0.60% | ~5,781 |
+| A bite for the Entity | 0.60% | ~5,782 |
+| Blood on your face | 0.60% | ~5,782 |
+| Hemophobia | 0.60% | ~5,782 |
+| Leapfrog | 0.60% | ~5,782 |
+| Serial Killer | 0.60% | ~5,782 |
+| Devoted Gatekeeping | 0.60% | ~5,782 |
+| Shrine Apparatus | 0.60% | ~5,782 |
+| Selfless Survival | 0.60% | ~5,782 |
+| End of Days | 0.60% | ~5,782 |
+| Outrun the Overlap | 0.60% | ~5,782 |
+| Extraterrestrial | 0.60% | ~5,782 |
 | Jump Scares | 0.50% | ~4,818 |
 | Deep Cleansing | 0.50% | ~4,818 |
 | Texas BBQ | 0.50% | ~4,818 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~964 |
 | Adept Ripley | 0.10% | ~964 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,580 (Ranked 14)  
+Progressed: 963,621 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 52 (0.01%) (Ranked 304)
 | 2023-10-21 | 957,026 | 52 |
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
-| 2023-10-24 | 963,580 | 52 |
+| 2023-10-24 | 963,621 | 52 |
 ## Awards
 Max (Diverse Characters): 34,489  (Ranked 15)  
 Sum: 266,169 (Ranked 13)  

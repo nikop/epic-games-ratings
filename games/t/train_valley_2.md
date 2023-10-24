@@ -6,34 +6,34 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~298,820 |
-| Full garage | 60.00% | ~245,606 |
-| To the eyeballs! | 51.00% | ~208,765 |
-| Individual delivery | 46.00% | ~188,298 |
-| Non-Stop | 44.00% | ~180,111 |
-| Juggler | 36.00% | ~147,363 |
-| Forgot something | 35.00% | ~143,270 |
-| Close call! | 30.00% | ~122,803 |
-| Get out my way | 28.00% | ~114,616 |
-| Common cause | 26.00% | ~106,429 |
-| Critical care | 26.00% | ~106,429 |
-| Mega-railroad | 23.00% | ~94,149 |
-| Upgrade complete | 23.00% | ~94,149 |
-| Just in time! | 18.00% | ~73,682 |
-| Builder | 17.00% | ~69,588 |
-| Long Haul | 17.00% | ~69,476 |
-| Steam Age | 16.00% | ~65,495 |
-| Multilevel road | 15.00% | ~61,401 |
-| Bridgemania | 14.00% | ~57,308 |
-| Need to think | 14.00% | ~57,308 |
-| The Tortoise | 12.00% | ~49,121 |
+| Dealmaker | 73.00% | ~298,824 |
+| Full garage | 60.00% | ~245,609 |
+| To the eyeballs! | 51.00% | ~208,767 |
+| Individual delivery | 46.00% | ~188,300 |
+| Non-Stop | 44.00% | ~180,113 |
+| Juggler | 36.00% | ~147,365 |
+| Forgot something | 35.00% | ~143,272 |
+| Close call! | 30.00% | ~122,804 |
+| Get out my way | 28.00% | ~114,617 |
+| Common cause | 26.00% | ~106,430 |
+| Critical care | 26.00% | ~106,430 |
+| Mega-railroad | 23.00% | ~94,150 |
+| Upgrade complete | 23.00% | ~94,150 |
+| Just in time! | 18.00% | ~73,683 |
+| Builder | 17.00% | ~69,589 |
+| Long Haul | 17.00% | ~69,477 |
+| Steam Age | 16.00% | ~65,496 |
+| Multilevel road | 15.00% | ~61,402 |
+| Bridgemania | 14.00% | ~57,309 |
+| Need to think | 14.00% | ~57,309 |
+| The Tortoise | 12.00% | ~49,122 |
 | Without a lunch break | 11.00% | ~45,028 |
-| Beginner | 10.00% | ~40,934 |
-| One way | 10.00% | ~40,934 |
-| Relocation | 10.00% | ~40,934 |
+| Beginner | 10.00% | ~40,935 |
+| One way | 10.00% | ~40,935 |
+| Relocation | 10.00% | ~40,935 |
 | Industrial Age | 9.00% | ~36,841 |
 | Just One More Valley | 9.00% | ~36,782 |
-| Prick of conscience | 8.00% | ~32,747 |
+| Prick of conscience | 8.00% | ~32,748 |
 | Missed it! | 7.00% | ~28,654 |
 | At the last moment! | 6.00% | ~24,561 |
 | Overseer | 6.00% | ~24,561 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~409 |
 | World Zapper | 0.10% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,343 (Ranked 42)  
+Progressed: 409,348 (Ranked 42)  
 Completed: 19 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 19 (0.00%) (Ranked 323)
 | 2023-10-21 | 408,588 | 19 |
 | 2023-10-22 | 409,032 | 19 |
 | 2023-10-23 | 409,326 | 19 |
-| 2023-10-24 | 409,343 | 19 |
+| 2023-10-24 | 409,348 | 19 |
 ## Awards
 Max (Challenging Puzzles): 798  (Ranked 167)  
 Sum: 1,618 (Ranked 219)  

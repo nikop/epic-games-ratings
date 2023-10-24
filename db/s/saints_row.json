@@ -3891,7 +3891,7 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 75997,
+  "EOS_Progressed": 75998,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
@@ -24906,6 +24906,11 @@
       "Time": "2023-10-24T01:48:52.6828248+00:00",
       "NumProgressed": 75997,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T02:23:46.0059284+00:00",
+      "NumProgressed": 75998,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -24933,7 +24938,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13679
+      "UsersEstimate": 13680
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -24965,7 +24970,7 @@
       "Name": "Finders Keepers",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18999
+      "UsersEstimate": 19000
     },
     {
       "ID": "complet_epilogue_mission",
@@ -25005,7 +25010,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 12919
+      "UsersEstimate": 12920
     },
     {
       "ID": "complete_first_side_hustle",
@@ -25093,7 +25098,7 @@
       "Name": "A Young Empire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18999
+      "UsersEstimate": 19000
     },
     {
       "ID": "empire_tier_3",
@@ -25101,7 +25106,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14439
+      "UsersEstimate": 14440
     },
     {
       "ID": "empire_tier_4",
@@ -25133,7 +25138,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17479
+      "UsersEstimate": 17480
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25157,7 +25162,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12919
+      "UsersEstimate": 12920
     },
     {
       "ID": "get_fired",
@@ -25189,7 +25194,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15199
+      "UsersEstimate": 15200
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -25340,13 +25345,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 75997,
+      "Progressed": 75998,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47634,
+      "Progressed": 47635,
       "Completed": 4173
     }
   ],
@@ -25354,8 +25359,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:48:52.6828241+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:23:46.005927+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:45:07.8395944+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:48:52.6830568+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:19:17.0167618+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:23:46.0061125+00:00"
 }

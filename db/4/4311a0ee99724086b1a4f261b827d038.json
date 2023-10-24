@@ -467,7 +467,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 228182,
+  "EOS_Progressed": 228185,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1499,
   "EOS_NewCompleters": 0,
@@ -11027,6 +11027,11 @@
       "Time": "2023-10-24T01:51:07.5401151+00:00",
       "NumProgressed": 228182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T02:25:33.7191405+00:00",
+      "NumProgressed": 228185,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11095,7 +11100,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47918
+      "UsersEstimate": 47919
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11103,7 +11108,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20536
+      "UsersEstimate": 20537
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -11135,7 +11140,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -11143,7 +11148,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -11310,7 +11315,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 228182,
+      "Progressed": 228185,
       "Completed": 0
     }
   ],
@@ -11318,8 +11323,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-23T13:04:07.7383802+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:51:07.5401145+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:25:33.7191394+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:41:22.6973753+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:51:07.5402266+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:15:59.5813456+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:25:33.7192352+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~32,506 |
-| Just The Two of Us | 32.00% | ~30,594 |
+| Simoon | 34.00% | ~32,507 |
+| Just The Two of Us | 32.00% | ~30,595 |
 | Up On High | 25.00% | ~23,902 |
 | Under The Hood | 25.00% | ~23,902 |
 | Got Your Nose | 24.00% | ~22,946 |
@@ -45,11 +45,11 @@ Number of Ratings: 43  (23.09.2022)
 | Glider on the Storm | 8.00% | ~7,649 |
 | Squeeze One Out | 8.00% | ~7,649 |
 | Dune Rider | 8.00% | ~7,649 |
-| Amateur Historian | 7.00% | ~6,692 |
-| The Beetle Mask | 7.00% | ~6,692 |
-| The Guard Mask | 7.00% | ~6,692 |
-| Smoked Out | 7.00% | ~6,692 |
-| A Hard Place | 7.00% | ~6,692 |
+| Amateur Historian | 7.00% | ~6,693 |
+| The Beetle Mask | 7.00% | ~6,693 |
+| The Guard Mask | 7.00% | ~6,693 |
+| Smoked Out | 7.00% | ~6,693 |
+| A Hard Place | 7.00% | ~6,693 |
 | The Climber Mask | 6.00% | ~5,736 |
 | The Merchant Mask | 6.00% | ~5,736 |
 | Honorary Chum | 6.00% | ~5,736 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,868 |
 | Vivacious Vivarium | 2.00% | ~1,912 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,607 (Ranked 84)  
+Progressed: 95,608 (Ranked 84)  
 Completed: 965 (1.01%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 965 (1.01%) (Ranked 147)
 | 2023-10-21 | 95,227 | 959 |
 | 2023-10-22 | 95,449 | 963 |
 | 2023-10-23 | 95,594 | 965 |
-| 2023-10-24 | 95,607 | 965 |
+| 2023-10-24 | 95,608 | 965 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 508)  
 Sum: 91 (Ranked 441)  

@@ -7,9 +7,9 @@ Number of Ratings: 118  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sowwy! | 34.00% | ~79,135 |
-| Alt+F4 | 7.00% | ~16,292 |
+| Alt+F4 | 7.00% | ~16,293 |
 | Where's that freaking Dwarf? | 6.00% | ~13,965 |
-| Déjà vu | 5.00% | ~11,637 |
+| Déjà vu | 5.00% | ~11,638 |
 | Sock! SOCK! | 4.00% | ~9,310 |
 | Speedrun | 4.00% | ~9,310 |
 | A beer, two curses, three companions | 3.00% | ~6,982 |
@@ -33,14 +33,14 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,655 |
 | Team Building Exercise | 2.00% | ~4,655 |
 | Oh, when I'll be level 10... | 2.00% | ~4,655 |
-| Res Judicata | 1.00% | ~2,327 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,327 |
-| Dwarf Fortress | 1.00% | ~2,327 |
-| %#*!$*! | 1.00% | ~2,327 |
-| Look but don't touch | 1.00% | ~2,327 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,327 |
-| Lust and Debauchery | 1.00% | ~2,327 |
-| Thieves' Guild Accreditation | 1.00% | ~2,327 |
+| Res Judicata | 1.00% | ~2,328 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,328 |
+| Dwarf Fortress | 1.00% | ~2,328 |
+| %#*!$*! | 1.00% | ~2,328 |
+| Look but don't touch | 1.00% | ~2,328 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,328 |
+| Lust and Debauchery | 1.00% | ~2,328 |
+| Thieves' Guild Accreditation | 1.00% | ~2,328 |
 | Dead for good | 0.90% | ~2,095 |
 | Gargantua | 0.90% | ~2,095 |
 | Material Girl | 0.90% | ~2,095 |
@@ -55,10 +55,10 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.30% | ~698 |
 | I'd rather... Just... Sing! | 0.30% | ~698 |
 | Inception | 0.30% | ~698 |
-| The number of the counting shalt be 7 | 0.20% | ~465 |
-| Kudos from your DM | 0.20% | ~465 |
-| 100% satisfaction guarantee | 0.20% | ~465 |
-| Death is for wimps | 0.20% | ~465 |
+| The number of the counting shalt be 7 | 0.20% | ~466 |
+| Kudos from your DM | 0.20% | ~466 |
+| 100% satisfaction guarantee | 0.20% | ~466 |
+| Death is for wimps | 0.20% | ~466 |
 | Cursed die | 0.10% | ~233 |
 | Necrophilia | 0.10% | ~233 |
 | The Blood Countess | 0.10% | ~233 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,749 (Ranked 60)  
+Progressed: 232,750 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.00%) (Ranked 323)
 | 2023-10-21 | 232,272 | 6 |
 | 2023-10-22 | 232,549 | 7 |
 | 2023-10-23 | 232,741 | 7 |
-| 2023-10-24 | 232,749 | 7 |
+| 2023-10-24 | 232,750 | 7 |
 ## Awards
 Max (Character Customization): 219  (Ranked 272)  
 Sum: 434 (Ranked 325)  

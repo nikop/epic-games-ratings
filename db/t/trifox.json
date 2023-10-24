@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -145,6 +145,11 @@
       "Time": "2023-10-23T10:09:22.177763+00:00",
       "NumProgressed": 100,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T02:20:17.0773298+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -244,7 +249,7 @@
       "Name": "What is this?",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -306,7 +311,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 63
     },
@@ -434,7 +439,7 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
       "UsersEstimate": 54
     },
@@ -474,9 +479,9 @@
       "ID": "ACH_PARTYPOPPER",
       "SetID": "cfld5bl",
       "Name": "Party popper",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_SPEEDRUNCOMPLETIONTIME",
@@ -523,7 +528,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 1
     }
   ],
@@ -531,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:08:15.222407+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:20:17.0773288+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:45:13.337262+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:08:15.2224424+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:19:23.5162792+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:20:17.0773786+00:00"
 }

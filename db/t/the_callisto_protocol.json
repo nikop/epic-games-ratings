@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 899,
-  "Ranking_Popularity": 379,
+  "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 186,
@@ -1337,9 +1337,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16223,
+  "EOS_Progressed": 16224,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8047,6 +8047,11 @@
       "Time": "2023-10-24T01:48:19.4037686+00:00",
       "NumProgressed": 16223,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T02:23:05.4420642+00:00",
+      "NumProgressed": 16224,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8394,7 +8399,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FINISH_DLC4",
@@ -8410,7 +8415,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -8433,13 +8438,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16223,
+      "Progressed": 16224,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4149,
+      "Progressed": 4150,
       "Completed": 29
     }
   ],
@@ -8447,8 +8452,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-23T01:42:06.0487762+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:48:19.403768+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:23:05.4420631+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:41:38.3280183+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:48:19.4038988+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:16:21.563215+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:23:05.4422583+00:00"
 }

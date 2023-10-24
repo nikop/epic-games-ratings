@@ -11756,9 +11756,9 @@
       "Count": 25821
     }
   ],
-  "EOS_Progressed": 963580,
+  "EOS_Progressed": 963621,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 19050,
+  "EOS_NewPlayers": 19057,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33011,6 +33011,11 @@
       "Time": "2023-10-24T01:49:22.6527174+00:00",
       "NumProgressed": 963580,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-24T02:24:21.9495656+00:00",
+      "NumProgressed": 963621,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 229,
@@ -33030,7 +33035,7 @@
       "Name": "A bite for the Entity",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_003",
@@ -33054,7 +33059,7 @@
       "Name": "Blood on your face",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_006",
@@ -33102,7 +33107,7 @@
       "Name": "Made it out alive!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_012",
@@ -33190,7 +33195,7 @@
       "Name": "Zealous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28907
+      "UsersEstimate": 28909
     },
     {
       "ID": "ACH_023",
@@ -33198,7 +33203,7 @@
       "Name": "It wakes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 38543
+      "UsersEstimate": 38545
     },
     {
       "ID": "ACH_024",
@@ -33206,7 +33211,7 @@
       "Name": "Not half bad",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28907
+      "UsersEstimate": 28909
     },
     {
       "ID": "ACH_025",
@@ -33230,7 +33235,7 @@
       "Name": "Apt Survivor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28907
+      "UsersEstimate": 28909
     },
     {
       "ID": "ACH_028",
@@ -33326,7 +33331,7 @@
       "Name": "Skillful",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 28907
+      "UsersEstimate": 28909
     },
     {
       "ID": "ACH_040",
@@ -33358,7 +33363,7 @@
       "Name": "III-50",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_044",
@@ -33390,7 +33395,7 @@
       "Name": "Hemophobia",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_048",
@@ -33494,7 +33499,7 @@
       "Name": "Leapfrog",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_061",
@@ -33638,7 +33643,7 @@
       "Name": "Serial Killer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_079",
@@ -33734,7 +33739,7 @@
       "Name": "Cherish your Life",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_091",
@@ -33894,7 +33899,7 @@
       "Name": "Devoted Gatekeeping",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_111",
@@ -33926,7 +33931,7 @@
       "Name": "Shrine Apparatus",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_115",
@@ -34142,7 +34147,7 @@
       "Name": "Selfless Survival",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_145",
@@ -34262,7 +34267,7 @@
       "Name": "End of Days",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_160",
@@ -34374,7 +34379,7 @@
       "Name": "Raccoon City Recruit",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_174",
@@ -34478,7 +34483,7 @@
       "Name": "Flight to Freedom",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_187",
@@ -34566,7 +34571,7 @@
       "Name": "Outrun the Overlap",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_198",
@@ -34662,7 +34667,7 @@
       "Name": "Rebuilding The Borgo",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_210",
@@ -34694,7 +34699,7 @@
       "Name": "Chorus of Chaos",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_214",
@@ -34758,7 +34763,7 @@
       "Name": "Extraterrestrial",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "ACH_222",
@@ -34766,7 +34771,7 @@
       "Name": "One More Step",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8672
+      "UsersEstimate": 8673
     },
     {
       "ID": "ACH_223",
@@ -34790,7 +34795,7 @@
       "Name": "Make Some Noise",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 28907
+      "UsersEstimate": 28909
     },
     {
       "ID": "ACH_226",
@@ -34853,21 +34858,21 @@
     {
       "ID": "16jml5b",
       "IsBase": false,
-      "Progressed": 963580,
+      "Progressed": 963621,
       "Completed": 52
     },
     {
       "ID": "bdmlp8o",
       "IsBase": true,
-      "Progressed": 963580,
+      "Progressed": 963621,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
   "LastChanged": "2023-10-23T23:58:01.9780801+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:49:22.6527168+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:24:21.9495649+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:48.4060109+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:40:15.1720821+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:49:22.6535224+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:14:37.9823504+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:24:21.9503686+00:00"
 }

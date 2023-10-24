@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15681,
+  "EOS_Progressed": 15682,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 1601,
+  "EOS_NewPlayers": 1599,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -3938,6 +3938,11 @@
       "Time": "2023-10-24T01:48:45.7281278+00:00",
       "NumProgressed": 15681,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2023-10-24T02:23:37.3671806+00:00",
+      "NumProgressed": 15682,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -3958,7 +3963,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_11",
@@ -3974,7 +3979,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 8938
+      "UsersEstimate": 8939
     },
     {
       "ID": "achievement_13",
@@ -4054,7 +4059,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13642
+      "UsersEstimate": 13643
     },
     {
       "ID": "achievement_4",
@@ -4062,7 +4067,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13799
+      "UsersEstimate": 13800
     },
     {
       "ID": "achievement_5",
@@ -4086,7 +4091,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12388
+      "UsersEstimate": 12389
     },
     {
       "ID": "achievement_8",
@@ -4109,13 +4114,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15681,
+      "Progressed": 15682,
       "Completed": 71
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:48:45.7281272+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:23:37.36718+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:40:45.1081729+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:48:45.728172+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:15:12.0770598+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:23:37.3672247+00:00"
 }

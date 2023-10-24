@@ -989,9 +989,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_30",
@@ -1181,9 +1181,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_9",
@@ -1203,8 +1203,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:48:09.344764+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:22:52.7927043+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.9980076+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:41:47.5988323+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:48:09.3448158+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:16:32.1635426+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:22:52.792757+00:00"
 }

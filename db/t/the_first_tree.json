@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37067,
+  "EOS_Progressed": 37068,
   "EOS_Completed": 115,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16398,6 +16398,11 @@
       "Time": "2023-10-24T01:47:04.7634788+00:00",
       "NumProgressed": 37067,
       "NumCompleted": 115
+    },
+    {
+      "Time": "2023-10-24T02:21:33.3031306+00:00",
+      "NumProgressed": 37068,
+      "NumCompleted": 115
     }
   ],
   "TotalAchievements": 14,
@@ -16425,7 +16430,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9637
+      "UsersEstimate": 9638
     },
     {
       "ID": "allItems",
@@ -16505,7 +16510,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "secretItem",
@@ -16520,15 +16525,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37067,
+      "Progressed": 37068,
       "Completed": 115
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:47:04.7634779+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:21:33.3031299+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:32.7210571+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:40:07.4971748+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:47:04.7636219+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:14:27.0525822+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:21:33.303256+00:00"
 }

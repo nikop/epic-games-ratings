@@ -5,7 +5,7 @@
   "Ranking_Rating": 765,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 427,
-  "Ranking_EOS_Progress": 94,
+  "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 115,
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72179,
+  "EOS_Progressed": 72180,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -20822,6 +20822,11 @@
       "Time": "2023-10-24T01:48:47.4233367+00:00",
       "NumProgressed": 72179,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-24T02:23:39.616527+00:00",
+      "NumProgressed": 72180,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -20841,7 +20846,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15879
+      "UsersEstimate": 15880
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -20857,7 +20862,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15879
+      "UsersEstimate": 15880
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -20993,7 +20998,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12270
+      "UsersEstimate": 12271
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -21009,7 +21014,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -21024,7 +21029,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72179,
+      "Progressed": 72180,
       "Completed": 379
     }
   ],
@@ -21032,8 +21037,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:48:47.4233361+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:23:39.6165258+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:43:11.6059851+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:48:47.4235398+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:18:18.7540562+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:23:39.6166803+00:00"
 }

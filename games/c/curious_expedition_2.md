@@ -7,7 +7,7 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 61.00% | ~199 |
-| Cartographer | 54.00% | ~177 |
+| Cartographer | 55.00% | ~180 |
 | A Strange Artefact | 50.00% | ~164 |
 | Insomnia | 46.00% | ~150 |
 | From Whence we Came | 41.00% | ~134 |

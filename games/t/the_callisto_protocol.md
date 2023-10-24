@@ -13,7 +13,7 @@ Rating: 4.19 (Ranked 899)
 | Chew 'Em Up | 5.00% | ~811 |
 | Reforged | 5.00% | ~811 |
 | The Outer Way | 5.00% | ~811 |
-| Keep Fighting | 5.00% | ~207 |
+| Keep Fighting | 5.00% | ~208 |
 | You Need a Gun | 4.00% | ~649 |
 | I Do Belong Here | 4.00% | ~649 |
 | Workplace Hazard | 4.00% | ~649 |
@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 899)
 | The Commonality | 3.00% | ~487 |
 | In Striking Distance | 2.00% | ~324 |
 | One Last Job | 2.00% | ~83 |
-| This Isn't About Escape | 1.00% | ~41 |
+| This Isn't About Escape | 1.00% | ~42 |
 | Armed to the Teeth | 0.70% | ~29 |
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~29 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 899)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,223 (Ranked 134)  
+Progressed: 16,224 (Ranked 134)  
 Completed: 77 (0.47%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,11 +233,11 @@ Completed: 77 (0.47%) (Ranked 186)
 | 2023-10-21 | 16,156 | 75 |
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
-| 2023-10-24 | 16,223 | 77 |
+| 2023-10-24 | 16,224 | 77 |
 ## Awards
-Max (Highly Recommended): 77  (Ranked 379)  
+Max (Highly Recommended): 77  (Ranked 380)  
 Sum: 452 (Ranked 323)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 77 |

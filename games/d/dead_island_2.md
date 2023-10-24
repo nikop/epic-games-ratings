@@ -6,11 +6,11 @@ Rating: 4.54 (Ranked 515)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 5.00% | ~35,138 |
-| Break A Leg | 4.00% | ~28,110 |
-| Coup de Grâce | 4.00% | ~28,110 |
-| Hazardous Materials | 4.00% | ~28,110 |
-| Hotel California | 4.00% | ~28,110 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,110 |
+| Break A Leg | 4.00% | ~28,111 |
+| Coup de Grâce | 4.00% | ~28,111 |
+| Hazardous Materials | 4.00% | ~28,111 |
+| Hotel California | 4.00% | ~28,111 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,111 |
 | Dr. Reed, I Presume? | 3.00% | ~21,083 |
 | Git Gutte! | 3.00% | ~21,083 |
 | Bookworm | 3.00% | ~21,083 |
@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 515)
 | Max Headroom | 1.00% | ~7,028 |
 | Go, Bobcats! | 1.00% | ~7,028 |
 | Rising Star | 1.00% | ~7,028 |
+| Not Even My Final Form | 0.90% | ~6,325 |
 | Internet Famous | 0.90% | ~6,325 |
 | On Safari | 0.80% | ~5,622 |
-| Not Even My Final Form | 0.80% | ~5,622 |
 | Variety is the Spice of Death | 0.80% | ~5,622 |
 | Make it So | 0.70% | ~4,919 |
 | LA Influential | 0.60% | ~4,217 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,406 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,756 (Ranked 22)  
+Progressed: 702,768 (Ranked 22)  
 Completed: 2,252 (0.32%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2,252 (0.32%) (Ranked 207)
 | 2023-10-21 | 700,647 | 2,242 |
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
-| 2023-10-24 | 702,756 | 2,252 |
+| 2023-10-24 | 702,768 | 2,252 |
 ## Awards
 Max (Great Boss Battles): 6,571  (Ranked 57)  
 Sum: 9,870 (Ranked 91)  

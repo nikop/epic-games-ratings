@@ -17,14 +17,14 @@ Number of Ratings: 22,103  (23.09.2022)
 | The Side Job | 31.00% | ~23,559 |
 | Wrecking Ball | 28.00% | ~21,279 |
 | Food for Thought | 27.00% | ~20,519 |
-| Finders Keepers | 25.00% | ~18,999 |
-| A Young Empire | 25.00% | ~18,999 |
-| Work Ethic | 23.00% | ~17,479 |
-| Picking Fights | 20.00% | ~15,199 |
-| Power Players | 19.00% | ~14,439 |
-| Quality Time | 18.00% | ~13,679 |
-| Showdown | 17.00% | ~12,919 |
-| Et tu? | 17.00% | ~12,919 |
+| Finders Keepers | 25.00% | ~19,000 |
+| A Young Empire | 25.00% | ~19,000 |
+| Work Ethic | 23.00% | ~17,480 |
+| Picking Fights | 20.00% | ~15,200 |
+| Power Players | 19.00% | ~14,440 |
+| Quality Time | 18.00% | ~13,680 |
+| Showdown | 17.00% | ~12,920 |
+| Et tu? | 17.00% | ~12,920 |
 | Took It to The Limit | 16.00% | ~12,160 |
 | Kitted Out | 14.00% | ~10,640 |
 | Masters of Santo Ileso | 12.00% | ~9,120 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~152 |
 | Fiesta Time | 0.20% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,997 (Ranked 92)  
+Progressed: 75,998 (Ranked 92)  
 Completed: 51 (0.07%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 51 (0.07%) (Ranked 270)
 | 2023-10-21 | 75,744 | 51 |
 | 2023-10-22 | 75,871 | 51 |
 | 2023-10-23 | 75,981 | 51 |
-| 2023-10-24 | 75,997 | 51 |
+| 2023-10-24 | 75,998 | 51 |
 ## Awards
 Max (Extremely Fun): 1,071  (Ranked 143)  
 Sum: 8,695 (Ranked 97)  

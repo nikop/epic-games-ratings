@@ -15,12 +15,12 @@
 | Charmed by the Hunt | 64.00% | ~109 |
 | Subsistence Skills | 62.00% | ~106 |
 | Kemono Hunter | 59.00% | ~101 |
-| Expert Conjuror | 57.00% | ~97 |
+| Expert Conjuror | 58.00% | ~99 |
 | Distance Devourer | 54.00% | ~92 |
 | Master of the Skies | 53.00% | ~91 |
 | Helpful Heart | 53.00% | ~91 |
 | Flawless Crystal | 52.00% | ~89 |
-| Bonds of Enmity | 51.00% | ~87 |
+| Bonds of Enmity | 52.00% | ~89 |
 | Counter Specialist | 48.00% | ~82 |
 | Axer of Auspice | 43.00% | ~74 |
 | Fair Means or Foul | 42.00% | ~72 |

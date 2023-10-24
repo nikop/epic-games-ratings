@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1941,
+  "EOS_Progressed": 1942,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1928,
+  "EOS_NewPlayers": 1929,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -764,6 +764,11 @@
       "Time": "2023-10-24T01:49:21.1877012+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-24T02:24:20.4664926+00:00",
+      "NumProgressed": 1942,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -776,7 +781,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -784,7 +789,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -798,9 +803,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7opfcp",
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -856,7 +861,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -880,7 +885,7 @@
       "Name": "Happy Family",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -912,7 +917,7 @@
       "Name": "Love Actually",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -920,7 +925,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -942,9 +947,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "7opfcp",
       "Name": "The Flash",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -968,7 +973,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -984,7 +989,7 @@
       "Name": "What I Want Is You",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1024,7 +1029,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1048,7 +1053,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -1111,14 +1116,14 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 1941,
+      "Progressed": 1942,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:49:21.1877006+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:24:20.4664914+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:39:50.1081361+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:49:21.187764+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:14:03.3246579+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:24:20.4665339+00:00"
 }

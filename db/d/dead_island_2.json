@@ -5673,9 +5673,9 @@
       "Count": 393
     }
   ],
-  "EOS_Progressed": 702756,
+  "EOS_Progressed": 702768,
   "EOS_Completed": 2252,
-  "EOS_NewPlayers": 5840,
+  "EOS_NewPlayers": 5847,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -26868,6 +26868,11 @@
       "Time": "2023-10-24T01:46:35.1525638+00:00",
       "NumProgressed": 702756,
       "NumCompleted": 2252
+    },
+    {
+      "Time": "2023-10-24T02:20:58.0006897+00:00",
+      "NumProgressed": 702768,
+      "NumCompleted": 2252
     }
   ],
   "TotalAchievements": 45,
@@ -26943,7 +26948,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28110
+      "UsersEstimate": 28111
     },
     {
       "ID": "ach_contender",
@@ -26999,7 +27004,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28110
+      "UsersEstimate": 28111
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -27013,9 +27018,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5622
+      "UsersEstimate": 6325
     },
     {
       "ID": "ach_hazardous_materials",
@@ -27023,7 +27028,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28110
+      "UsersEstimate": 28111
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -27039,7 +27044,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28110
+      "UsersEstimate": 28111
     },
     {
       "ID": "ach_impressive_aim",
@@ -27159,7 +27164,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28110
+      "UsersEstimate": 28111
     },
     {
       "ID": "ach_survival_expert",
@@ -27238,22 +27243,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 702756,
+      "Progressed": 702768,
       "Completed": 2252
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 28298,
-      "Completed": 28298
+      "Progressed": 28310,
+      "Completed": 28310
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-23T20:03:18.2345818+00:00",
-  "LastChanged_Achievements": "2023-10-24T01:46:35.1525632+00:00",
+  "LastChanged_Achievements": "2023-10-24T02:20:58.0006891+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-24T01:45:28.4227968+00:00",
-  "LastUpdate_Achievements": "2023-10-24T01:46:35.1527776+00:00"
+  "LastUpdate_Ratings": "2023-10-24T02:20:12.6340363+00:00",
+  "LastUpdate_Achievements": "2023-10-24T02:20:58.0008503+00:00"
 }

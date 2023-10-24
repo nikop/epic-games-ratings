@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~71 |
-| Complete Level 1-1 | 63.00% | ~63 |
-| Immortal | 54.00% | ~54 |
+| What is this? | 71.00% | ~72 |
+| Complete Level 1-1 | 62.00% | ~63 |
+| Immortal | 53.00% | ~54 |
 | Complete Level 1-2 | 45.00% | ~45 |
 | Engineer-mage hybrid | 32.00% | ~32 |
 | Scraping by | 31.00% | ~31 |
@@ -24,9 +24,9 @@
 | Too many crates | 11.00% | ~11 |
 | Baby steps | 11.00% | ~11 |
 | Complete Level 3-1 | 11.00% | ~11 |
+| Party popper | 11.00% | ~11 |
 | Engineer-warrior hybrid | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
-| Party popper | 10.00% | ~10 |
 | Complete Level 3-2 | 9.00% | ~9 |
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 399)  
-Completed: 1 (1.00%) (Ranked 148)  
+Progressed: 101 (Ranked 398)  
+Completed: 1 (0.99%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 1 (1.00%) (Ranked 148)
 | 2023-10-21 | 98 | 1 |
 | 2023-10-22 | 99 | 1 |
 | 2023-10-23 | 100 | 1 |
+| 2023-10-24 | 101 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
