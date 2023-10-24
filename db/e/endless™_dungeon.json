@@ -3,9 +3,9 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -413,6 +413,11 @@
       "Time": "2023-10-24T00:06:32.6687623+00:00",
       "NumProgressed": 656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T01:48:51.0099845+00:00",
+      "NumProgressed": 659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -457,7 +462,7 @@
       "Name": "Blobmeister",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -481,7 +486,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -495,9 +500,9 @@
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -505,7 +510,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 474
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -513,7 +518,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -521,7 +526,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -529,15 +534,15 @@
       "Name": "Obsessively Thorough",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -567,9 +572,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -664,13 +669,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 659,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:06:32.6687617+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:48:51.009984+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:59:22.9350267+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:06:32.6687865+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:41:35.8389079+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:48:51.0100205+00:00"
 }

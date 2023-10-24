@@ -31,7 +31,7 @@
 | Undying Skin | 32.00% | ~61 |
 | Happy Little Home | 32.00% | ~61 |
 | Animal Lover | 31.00% | ~59 |
-| Fight Me! | 30.00% | ~57 |
+| Fight Me! | 31.00% | ~59 |
 | Mommy's Very Angry | 29.00% | ~55 |
 | Supremacy | 29.00% | ~55 |
 | Loyal Companion | 26.00% | ~49 |
@@ -39,7 +39,7 @@
 | Immortal Skin | 25.00% | ~48 |
 | Lunch Before The Lunch | 23.00% | ~44 |
 | Fire Beacon | 23.00% | ~44 |
-| From Here To Eternity | 20.00% | ~38 |
+| From Here To Eternity | 21.00% | ~40 |
 | Building Blocks | 20.00% | ~38 |
 | Octopostructure | 18.00% | ~34 |
 | Boss Hunter | 15.00% | ~28 |

@@ -7,26 +7,26 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 61.00% | ~199 |
-| Cartographer | 55.00% | ~179 |
-| A Strange Artefact | 50.00% | ~163 |
+| Cartographer | 54.00% | ~177 |
+| A Strange Artefact | 50.00% | ~164 |
 | Insomnia | 46.00% | ~150 |
 | From Whence we Came | 41.00% | ~134 |
-| Lost & Found & Lost Again | 40.00% | ~130 |
+| Lost & Found & Lost Again | 40.00% | ~131 |
 | Fire and Flood | 38.00% | ~124 |
-| Spooky! | 36.00% | ~117 |
+| Spooky! | 36.00% | ~118 |
 | Shennong Herbalist | 33.00% | ~108 |
-| Treasure Hunt | 33.00% | ~108 |
+| Treasure Hunt | 32.00% | ~105 |
 | Good Mama | 31.00% | ~101 |
 | O Captain My Captain | 30.00% | ~98 |
 | Taxonomist | 27.00% | ~88 |
 | Plunderer | 27.00% | ~88 |
-| Uncertain Loyalties | 25.00% | ~82 |
 | Traveller | 24.00% | ~78 |
 | Nahua Seeker | 24.00% | ~78 |
+| Uncertain Loyalties | 24.00% | ~78 |
 | Roll to Save | 22.00% | ~72 |
 | Veteran Explorer | 20.00% | ~65 |
 | Red Flag Pirate | 19.00% | ~62 |
-| Iron Man | 17.00% | ~55 |
+| Iron Man | 17.00% | ~56 |
 | Shortening of the Way | 16.00% | ~52 |
 | A Gentle Beast | 16.00% | ~52 |
 | Practical Palaeontology | 16.00% | ~52 |
@@ -34,17 +34,17 @@ Number of Ratings: 20  (23.09.2022)
 | Dapper | 15.00% | ~49 |
 | The New Director | 14.00% | ~46 |
 | Adventurer | 14.00% | ~46 |
-| The Director is Dead | 13.00% | ~42 |
-| And Here Is Your Statue | 13.00% | ~42 |
-| Discovery | 13.00% | ~42 |
-| Plays Well With Others | 13.00% | ~42 |
+| The Director is Dead | 13.00% | ~43 |
+| And Here Is Your Statue | 13.00% | ~43 |
+| Discovery | 13.00% | ~43 |
+| Plays Well With Others | 13.00% | ~43 |
 | Very Classy | 12.00% | ~39 |
 | Under the Table | 11.00% | ~36 |
 | It's Complicated | 10.00% | ~33 |
-| Errand Runner | 10.00% | ~33 |
 | SCHMETTERLING | 9.00% | ~29 |
 | No Laughing Matter | 9.00% | ~29 |
 | Cold Blood, Warm Heart | 9.00% | ~29 |
+| Errand Runner | 9.00% | ~29 |
 | The Great Library | 8.00% | ~26 |
 | Level Up | 8.00% | ~26 |
 | Zookeeper | 6.00% | ~20 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 313)  
-Completed: 1 (0.31%) (Ranked 207)  
+Progressed: 327 (Ranked 312)  
+Completed: 1 (0.31%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,6 +104,7 @@ Completed: 1 (0.31%) (Ranked 207)
 | 2023-09-30 | 324 | 1 |
 | 2023-10-08 | 325 | 1 |
 | 2023-10-11 | 326 | 1 |
+| 2023-10-24 | 327 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

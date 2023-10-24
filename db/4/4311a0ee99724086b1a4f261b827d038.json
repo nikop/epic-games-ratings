@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 435,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -467,9 +467,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 228169,
+  "EOS_Progressed": 228182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1492,
+  "EOS_NewPlayers": 1499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11022,6 +11022,11 @@
       "Time": "2023-10-24T00:09:02.0282076+00:00",
       "NumProgressed": 228169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T01:51:07.5401151+00:00",
+      "NumProgressed": 228182,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11090,7 +11095,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 47915
+      "UsersEstimate": 47918
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11098,7 +11103,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -11106,7 +11111,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11408
+      "UsersEstimate": 11409
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -11122,7 +11127,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -11146,7 +11151,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -11154,7 +11159,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -11218,7 +11223,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29662
+      "UsersEstimate": 29664
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -11226,7 +11231,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15972
+      "UsersEstimate": 15973
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -11234,7 +11239,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -11290,7 +11295,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57042
+      "UsersEstimate": 57046
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11305,7 +11310,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 228169,
+      "Progressed": 228182,
       "Completed": 0
     }
   ],
@@ -11313,8 +11318,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-23T13:04:07.7383802+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:09:02.0282065+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:51:07.5401145+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.7865039+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:59:09.5120407+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:09:02.0283005+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:41:22.6973753+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:51:07.5402266+00:00"
 }

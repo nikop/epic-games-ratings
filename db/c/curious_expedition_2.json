@@ -5,10 +5,10 @@
   "Ranking_Rating": 167,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -265,6 +265,11 @@
       "Time": "2023-10-11T13:10:26.4939308+00:00",
       "NumProgressed": 326,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T01:51:10.6258411+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -332,7 +337,7 @@
       "Name": "The Director is Dead",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-ascension-inspector-return",
@@ -364,7 +369,7 @@
       "Name": "And Here Is Your Statue",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -396,7 +401,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -412,7 +417,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ach-campaign-story2",
@@ -420,7 +425,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach-campaign-story3",
@@ -450,9 +455,9 @@
       "ID": "ach-discover-locations",
       "SetID": "17ih7ma",
       "Name": "Cartographer",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 177
     },
     {
       "ID": "ach-discover-locations-high",
@@ -460,7 +465,7 @@
       "Name": "Discovery",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-drinkingContest",
@@ -532,7 +537,7 @@
       "Name": "Plays Well With Others",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach-kill-animal-groups",
@@ -604,7 +609,7 @@
       "Name": "Spooky!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach-noEquipment",
@@ -642,9 +647,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-portal-return",
@@ -722,9 +727,9 @@
       "ID": "ach-treasureFameInExpedition",
       "SetID": "17ih7ma",
       "Name": "Treasure Hunt",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -738,9 +743,9 @@
       "ID": "ach-villageQuests",
       "SetID": "17ih7ma",
       "Name": "Errand Runner",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "ach-wearHat",
@@ -755,7 +760,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 1
     }
   ],
@@ -763,8 +768,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:09:05.261017+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:51:10.6258404+00:00",
   "LastUpdate_AppInfo": "2023-10-21T09:57:10.5893473+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:58:16.1207274+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:09:05.2610734+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:40:30.7734875+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:51:10.6259245+00:00"
 }

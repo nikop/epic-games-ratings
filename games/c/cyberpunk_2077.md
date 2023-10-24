@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.50% | ~4,468 |
+| Ten out of Ten | 0.60% | ~5,361 |
 | Rough Landing | 0.40% | ~3,574 |
 | The High Priestess | 0.40% | ~3,574 |
 | All the President's Men | 0.40% | ~89 |
@@ -14,6 +14,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.30% | ~2,681 |
 | Right Back At Ya | 0.30% | ~2,681 |
 | Gunslinger | 0.30% | ~2,681 |
+| The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
 | Stanislavski's Method | 0.30% | ~2,681 |
 | The Hermit | 0.30% | ~2,681 |
@@ -30,7 +31,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.20% | ~1,787 |
 | Mean Streets | 0.20% | ~1,787 |
 | Christmas Tree Attack | 0.20% | ~1,787 |
-| The Quick and the Dead | 0.20% | ~1,787 |
 | Life of the Road | 0.20% | ~1,787 |
 | Temperance | 0.20% | ~1,787 |
 | The Fool | 0.20% | ~1,787 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,547 (Ranked 15)  
-Completed: 2,709 (0.30%) (Ranked 212)  
+Progressed: 893,554 (Ranked 15)  
+Completed: 2,709 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 2,709 (0.30%) (Ranked 212)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,547 | 2,709 |
+| 2023-10-24 | 893,554 | 2,709 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 322,516 (Ranked 11)  

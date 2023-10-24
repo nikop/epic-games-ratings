@@ -33,11 +33,11 @@
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |
 | A dark past | 2.00% | ~4 |
+| Matthew's mistakes | 0.50% | ~1 |
 | Sly as a fox | 0.50% | ~1 |
-| Matthew's mistakes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 207 (Ranked 345)  
-Completed: 0 (0.00%) (Ranked 322)  
+Completed: 1 (0.48%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Completed: 0 (0.00%) (Ranked 322)
 | 2023-10-21 | 200 | 0 |
 | 2023-10-22 | 204 | 0 |
 | 2023-10-23 | 207 | 0 |
+| 2023-10-24 | 207 | 1 |

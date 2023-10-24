@@ -9,9 +9,9 @@
 | Space Colonization | 80.00% | ~614 |
 | Hello World | 75.00% | ~575 |
 | Space Engineer | 64.00% | ~491 |
-| Tinkerer | 62.00% | ~476 |
+| Tinkerer | 63.00% | ~483 |
 | Dust to Dust | 58.00% | ~445 |
-| Across The Stars | 48.00% | ~368 |
+| Across The Stars | 49.00% | ~376 |
 | Crafty | 48.00% | ~368 |
 | All Seats Taken | 39.00% | ~299 |
 | For Science! | 35.00% | ~268 |
@@ -50,7 +50,7 @@
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 767 (Ranked 253)  
-Completed: 1 (0.13%) (Ranked 244)  
+Completed: 1 (0.13%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

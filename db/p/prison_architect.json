@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6151,24 +6151,30 @@
       "Rating": 4.61,
       "NumberOfAwards": 4637,
       "NumberOfAwardsMax": 537
+    },
+    {
+      "Time": "2023-10-24T01:42:17.2383453+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4641,
+      "NumberOfAwardsMax": 538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4637,
-  "NumberOfAwardsMax": 537,
+  "NumberOfAwards": 4641,
+  "NumberOfAwardsMax": 538,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 453
+      "Count": 454
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 537
+      "Count": 538
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6222,12 +6228,12 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 435
+      "Count": 437
     }
   ],
-  "EOS_Progressed": 186689,
+  "EOS_Progressed": 186697,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2422,
+  "EOS_NewPlayers": 2420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27325,6 +27331,11 @@
       "Time": "2023-10-24T00:08:02.9074612+00:00",
       "NumProgressed": 186689,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-24T01:50:09.1160659+00:00",
+      "NumProgressed": 186697,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27368,7 +27379,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29870
+      "UsersEstimate": 29872
     },
     {
       "ID": "Achievement_13",
@@ -27416,7 +27427,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46672
+      "UsersEstimate": 46674
     },
     {
       "ID": "Achievement_5",
@@ -27448,7 +27459,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16802
+      "UsersEstimate": 16803
     },
     {
       "ID": "Achievement_9",
@@ -27456,22 +27467,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9334
+      "UsersEstimate": 9335
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 186689,
+      "Progressed": 186697,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-23T21:59:39.7446322+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:08:02.9074606+00:00",
+  "LastChanged": "2023-10-24T01:42:17.2383451+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:50:09.1160651+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-24T00:00:05.235011+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:08:02.9076042+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:42:17.2383462+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:50:09.1161973+00:00"
 }

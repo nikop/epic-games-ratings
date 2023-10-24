@@ -6,9 +6,9 @@
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17034,
+  "EOS_Progressed": 17035,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12441,6 +12441,11 @@
       "Time": "2023-10-24T00:05:52.2050579+00:00",
       "NumProgressed": 17034,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-24T01:48:11.0874725+00:00",
+      "NumProgressed": 17035,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12666,9 +12671,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 852
     },
     {
       "ID": "WinNearRuins",
@@ -12851,15 +12856,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17034,
+      "Progressed": 17035,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:05:52.2050569+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:48:11.0874719+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:58:21.4872229+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:05:52.2051599+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:40:36.5020127+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:48:11.0875812+00:00"
 }

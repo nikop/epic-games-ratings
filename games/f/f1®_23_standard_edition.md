@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,200 |
-| On the Top Step | 90.00% | ~3,031 |
-| Setting up for Success | 79.00% | ~2,661 |
-| Team Orders | 77.00% | ~2,593 |
+| Getting on the Step | 95.00% | ~3,201 |
+| On the Top Step | 90.00% | ~3,032 |
+| Setting up for Success | 79.00% | ~2,662 |
+| Team Orders | 77.00% | ~2,594 |
 | Engineer | 57.00% | ~1,920 |
 | Familiar Faces | 51.00% | ~1,718 |
 | Going the Extra Mile | 45.00% | ~1,516 |
 | Sharing the Love | 44.00% | ~1,482 |
 | Hitting a Season | 41.00% | ~1,381 |
-| Challenge Yourself | 36.00% | ~1,212 |
+| Challenge Yourself | 36.00% | ~1,213 |
 | A Dozen Pieces | 34.00% | ~1,145 |
 | Making History | 34.00% | ~1,145 |
-| Network Success | 27.00% | ~909 |
-| Writing a new Chapter | 27.00% | ~909 |
+| Network Success | 27.00% | ~910 |
+| Writing a new Chapter | 27.00% | ~910 |
 | Spring Cleaning | 25.00% | ~842 |
 | Reduce | 21.00% | ~707 |
 | Ups and Downs | 21.00% | ~707 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 242)
 | Recycle | 13.00% | ~438 |
 | Switcheroo | 12.00% | ~404 |
 | Tinkerer | 12.00% | ~404 |
-| Friendly Competition | 11.00% | ~370 |
+| Friendly Competition | 11.00% | ~371 |
 | Undisputed Winner | 10.00% | ~337 |
 | For all Those Back at the Factory | 7.00% | ~236 |
 | Living up to Expectations | 7.00% | ~236 |
@@ -55,8 +55,8 @@ Rating: 4.68 (Ranked 242)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,368 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 322)  
+Progressed: 3,369 (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 322)
 | 2023-10-21 | 3,349 | 0 |
 | 2023-10-22 | 3,362 | 0 |
 | 2023-10-23 | 3,368 | 0 |
+| 2023-10-24 | 3,369 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

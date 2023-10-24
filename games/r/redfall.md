@@ -29,11 +29,11 @@ Rating: 3.51 (Ranked 1,020)
 | Bell-ringer | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Helping Hand | 0.50% | ~9 |
+| Silence Is Golden | 0.40% | ~7 |
 | Good Morning | 0.40% | ~7 |
 | Harvest’s End | 0.40% | ~7 |
 | Contingency Plans | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
-| Silence Is Golden | 0.30% | ~5 |
 | You Clean It Up | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | Check, Please! | 0.30% | ~5 |
@@ -73,7 +73,7 @@ Rating: 3.51 (Ranked 1,020)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,761 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 322)  
+Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

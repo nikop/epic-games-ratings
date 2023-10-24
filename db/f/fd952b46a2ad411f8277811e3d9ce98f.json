@@ -3,9 +3,9 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 2,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 192733,
+  "EOS_Progressed": 193438,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124191,
+  "EOS_NewPlayers": 124833,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5902,6 +5902,11 @@
       "Time": "2023-10-24T00:03:39.9238111+00:00",
       "NumProgressed": 192733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T01:46:20.9278888+00:00",
+      "NumProgressed": 193438,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -6008,9 +6013,9 @@
       "ID": "kills_1",
       "SetID": "413a09o",
       "Name": "Rookie Rumble",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 119494
+      "UsersEstimate": 117997
     },
     {
       "ID": "kills_100",
@@ -6018,7 +6023,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1934
     },
     {
       "ID": "kills_1000",
@@ -6066,7 +6071,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 23128
+      "UsersEstimate": 23213
     },
     {
       "ID": "revives_25",
@@ -6161,13 +6166,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 192733,
+      "Progressed": 193438,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:03:39.9238101+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:46:20.9278881+00:00",
   "LastUpdate_AppInfo": "2023-10-18T13:57:20.2863023+00:00",
-  "LastUpdate_Ratings": "2023-10-24T00:00:25.4901451+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:03:39.9238721+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:42:37.3730617+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:46:20.9279602+00:00"
 }

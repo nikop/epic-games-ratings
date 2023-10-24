@@ -6,19 +6,19 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,109 |
-| Strongman | 31.00% | ~6,562 |
-| Alpha Male | 20.00% | ~4,233 |
+| First money | 95.00% | ~20,112 |
+| Strongman | 31.00% | ~6,563 |
+| Alpha Male | 20.00% | ~4,234 |
 | Just Enough | 19.00% | ~4,022 |
-| Pro-creative | 18.00% | ~3,810 |
-| Worth Every Penny | 14.00% | ~2,963 |
+| Pro-creative | 18.00% | ~3,811 |
+| Worth Every Penny | 14.00% | ~2,964 |
 | Family man | 13.00% | ~2,752 |
 | Junior Estate Agent | 13.00% | ~2,752 |
 | Mystery | 10.00% | ~2,117 |
 | Artistic soul | 10.00% | ~2,117 |
-| Estate Agent | 5.00% | ~1,058 |
-| Millionaire | 5.00% | ~1,058 |
-| Perfectionist | 5.00% | ~1,058 |
+| Estate Agent | 5.00% | ~1,059 |
+| Millionaire | 5.00% | ~1,059 |
+| Perfectionist | 5.00% | ~1,059 |
 | I'm Belieber | 2.00% | ~423 |
 | Knock, knock | 1.00% | ~212 |
 | You do it wrong | 1.00% | ~212 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~127 |
 | Senior Estate Agent | 0.60% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,167 (Ranked 125)  
-Completed: 21 (0.10%) (Ranked 255)  
+Progressed: 21,171 (Ranked 125)  
+Completed: 21 (0.10%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,9 +216,10 @@ Completed: 21 (0.10%) (Ranked 255)
 | 2023-10-21 | 21,090 | 21 |
 | 2023-10-22 | 21,133 | 21 |
 | 2023-10-23 | 21,167 | 21 |
+| 2023-10-24 | 21,171 | 21 |
 ## Awards
 Max (Great for Beginners): 316  (Ranked 239)  
-Sum: 2,231 (Ranked 196)  
+Sum: 2,232 (Ranked 196)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -227,8 +228,8 @@ Diff (max vs sum): 43
 | This game is Relaxing | 229 |
 | This game is Extremely Fun | 228 |
 | This game has Quickly Understood Controls | 221 |
+| This game is Highly Recommended | 217 |
 | This game has a Creative Community | 217 |
-| This game is Highly Recommended | 216 |
 | This game has Amazing Storytelling | 213 |
 | This game has Amazing Characters | 190 |
 | This game has Obsessive Gameplay | 173 |
@@ -399,3 +400,4 @@ Diff (max vs sum): 43
 | 2023-10-19 | 4.69 | - | 316 | 2,228 |
 | 2023-10-21 | 4.69 | - | 316 | 2,229 |
 | 2023-10-23 | 4.69 | - | 316 | 2,231 |
+| 2023-10-24 | 4.69 | - | 316 | 2,232 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -133,7 +133,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4165,
+  "EOS_Progressed": 4166,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -7083,6 +7083,11 @@
       "Time": "2023-10-23T14:06:23.4830283+00:00",
       "NumProgressed": 4165,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-24T01:49:08.2589806+00:00",
+      "NumProgressed": 4166,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7102,7 +7107,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Ach003",
@@ -7110,7 +7115,7 @@
       "Name": "This will cost you big time",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Ach004",
@@ -7222,7 +7227,7 @@
       "Name": "I play my own way!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Ach018",
@@ -7270,7 +7275,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Ach024",
@@ -7292,9 +7297,9 @@
       "ID": "Ach026",
       "SetID": "12n4k20",
       "Name": "You must like calling me in, Chai",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 333
     },
     {
       "ID": "Ach027",
@@ -7302,7 +7307,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Ach028",
@@ -7350,7 +7355,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "Ach034",
@@ -7462,7 +7467,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "Ach048",
@@ -7661,13 +7666,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4165,
+      "Progressed": 4166,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2686,
+      "Progressed": 2687,
       "Completed": 1930
     }
   ],
@@ -7675,8 +7680,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:06:50.3511056+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:49:08.25898+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-24T00:00:43.0309872+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:06:50.3512265+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:42:56.1548919+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:49:08.2591271+00:00"
 }

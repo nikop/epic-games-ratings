@@ -6,9 +6,9 @@
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1305,7 +1305,7 @@
   ],
   "EOS_Progressed": 13257,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13394,9 +13394,9 @@
       "ID": "ACH30",
       "SetID": "4ck5mbe",
       "Name": "Public Enemy No. 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH31",
@@ -13451,8 +13451,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-23T23:57:59.6435691+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:05:02.8282702+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:47:22.4825126+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.3200483+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:57:59.6435697+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:05:02.8283726+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:40:12.9359202+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:47:22.4826459+00:00"
 }

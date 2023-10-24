@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | First Blood | 85.00% | ~55 |
 | Killing Spree | 69.00% | ~45 |
+| Merchant Prince I | 54.00% | ~35 |
 | 5Gb HDD | 52.00% | ~34 |
-| Merchant Prince I | 52.00% | ~34 |
 | Dominating | 34.00% | ~22 |
 | Fighting Fit I | 32.00% | ~21 |
 | Rambo I | 29.00% | ~19 |
@@ -138,7 +138,7 @@
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 65 (Ranked 428)  
-Completed: 0 (0.00%) (Ranked 322)  
+Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

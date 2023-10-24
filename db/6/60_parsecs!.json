@@ -3,9 +3,9 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -973,9 +973,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 376
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1301,9 +1301,9 @@
       "ID": "Achievement_Tinkerer",
       "SetID": "c01p6e5",
       "Name": "Tinkerer",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 483
     },
     {
       "ID": "Achievement_Traitor",
@@ -1326,8 +1326,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:09:35.9954262+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:51:40.8930432+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:58:08.3463131+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:09:35.9954722+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:40:21.7078575+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:51:40.8930875+00:00"
 }

@@ -25,13 +25,13 @@ Rating: 4.56 (Ranked 475)
 | Bike or Biker | 3.00% | ~398 |
 | What the City Needs | 3.00% | ~398 |
 | Yes I Speak English | 3.00% | ~398 |
+| Public Enemy No. 1 | 3.00% | ~398 |
 | A Legitimate Business | 2.00% | ~265 |
 | I’ll Have Two Number 9s | 2.00% | ~265 |
 | Who Needs Directions? | 2.00% | ~265 |
 | Swiss Army Strife | 2.00% | ~265 |
 | Double or Nothin' | 2.00% | ~265 |
 | Assassin | 2.00% | ~265 |
-| Public Enemy No. 1 | 2.00% | ~265 |
 | Ain’t Nothing But a G Thing | 2.00% | ~265 |
 | Hoopin' it Up | 1.00% | ~133 |
 | Lucky Spinner | 1.00% | ~133 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 475)
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,257 (Ranked 143)  
-Completed: 50 (0.38%) (Ranked 199)  
+Completed: 50 (0.38%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

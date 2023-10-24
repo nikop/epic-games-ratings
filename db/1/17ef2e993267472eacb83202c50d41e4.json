@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7409,
+  "EOS_Progressed": 7410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4837,6 +4837,11 @@
       "Time": "2023-10-23T22:09:38.7844177+00:00",
       "NumProgressed": 7409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T01:52:01.9275948+00:00",
+      "NumProgressed": 7410,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5345,7 +5350,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "SEUpgraded1",
@@ -5440,7 +5445,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7409,
+      "Progressed": 7410,
       "Completed": 1
     }
   ],
@@ -5448,8 +5453,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-24T00:09:37.409364+00:00",
+  "LastChanged_Achievements": "2023-10-24T01:52:01.9275942+00:00",
   "LastUpdate_AppInfo": "2023-10-17T11:57:13.9193686+00:00",
-  "LastUpdate_Ratings": "2023-10-23T23:59:35.0828513+00:00",
-  "LastUpdate_Achievements": "2023-10-24T00:09:37.4094743+00:00"
+  "LastUpdate_Ratings": "2023-10-24T01:41:48.6502748+00:00",
+  "LastUpdate_Achievements": "2023-10-24T01:52:01.927726+00:00"
 }

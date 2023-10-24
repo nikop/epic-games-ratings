@@ -16,12 +16,12 @@
 | Slay that one too! | 15.00% | ~7 |
 | Massive slaughter | 10.00% | ~5 |
 | ... And that one! | 8.00% | ~4 |
-| You monster! | 6.00% | ~3 |
+| You monster! | 8.00% | ~4 |
 | Endurance test! | 4.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48 (Ranked 449)  
-Completed: 0 (0.00%) (Ranked 322)  
+Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

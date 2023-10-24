@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,095 |
-| Advancement | 3.00% | ~821 |
-| Meticulously Efficient | 3.00% | ~821 |
+| Stylish | 4.00% | ~1,096 |
+| Advancement | 3.00% | ~822 |
+| Meticulously Efficient | 3.00% | ~822 |
 | Animated | 2.00% | ~548 |
 | Clutch Capture | 2.00% | ~548 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~548 |
@@ -35,8 +35,8 @@ Rating: 4.50 (Ranked 575)
 | Summoner | 1.00% | ~274 |
 | Terrifying | 1.00% | ~274 |
 | Welcome to the Crew | 1.00% | ~274 |
-| We have the best insurance | 0.90% | ~246 |
-| Rift Destroyer | 0.90% | ~246 |
+| We have the best insurance | 0.90% | ~247 |
+| Rift Destroyer | 0.90% | ~247 |
 | Collector | 0.80% | ~219 |
 | Escape Artist | 0.80% | ~219 |
 | Tobin's Prodigy | 0.80% | ~219 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,376 (Ranked 119)  
-Completed: 63 (0.23%) (Ranked 221)  
+Progressed: 27,389 (Ranked 119)  
+Completed: 63 (0.23%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,14 +244,14 @@ Completed: 63 (0.23%) (Ranked 221)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,376 | 63 |
+| 2023-10-24 | 27,389 | 63 |
 ## Awards
-Max (Great for Quick Sessions): 275  (Ranked 253)  
-Sum: 2,507 (Ranked 184)  
-Diff (max vs sum): 69  
+Max (Great for Beginners): 281  (Ranked 252)  
+Sum: 2,513 (Ranked 184)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 275 |
+| This game is Great for Beginners | 281 |
 | This game is Great for Quick Sessions | 275 |
 | This game has Competitive Players | 251 |
 | This game is Relaxing | 250 |
@@ -456,3 +456,4 @@ Diff (max vs sum): 69
 | 2023-10-21 | 4.50 | 273 | 2,464 |
 | 2023-10-22 | 4.50 | 275 | 2,482 |
 | 2023-10-23 | 4.50 | 275 | 2,507 |
+| 2023-10-24 | 4.50 | 281 | 2,513 |

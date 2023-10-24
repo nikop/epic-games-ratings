@@ -6,30 +6,30 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,497 |
-| Worker Specialization | 77.00% | ~5,426 |
-| First Contact | 72.00% | ~5,074 |
-| Win a Battle | 66.00% | ~4,651 |
-| Anomaly Researcher | 61.00% | ~4,299 |
-| Unleash My Power | 61.00% | ~4,299 |
+| Colonize a Planet | 78.00% | ~5,499 |
+| Worker Specialization | 77.00% | ~5,428 |
+| First Contact | 72.00% | ~5,076 |
+| Win a Battle | 66.00% | ~4,653 |
+| Anomaly Researcher | 61.00% | ~4,300 |
+| Unleash My Power | 61.00% | ~4,300 |
 | Own 30 Planets | 33.00% | ~2,326 |
-| Xenocide | 31.00% | ~2,185 |
-| Design a Civilization | 31.00% | ~2,185 |
-| Commodity Trader | 30.00% | ~2,114 |
-| Design a Ship | 28.00% | ~1,973 |
+| Xenocide | 31.00% | ~2,186 |
+| Design a Civilization | 31.00% | ~2,186 |
+| Commodity Trader | 30.00% | ~2,115 |
+| Design a Ship | 28.00% | ~1,974 |
 | Commodity Seller | 25.00% | ~1,762 |
 | Prestige Victory! | 14.00% | ~987 |
 | Galactic War | 10.00% | ~705 |
 | Trading Partner | 9.00% | ~634 |
 | Fleet Victory | 8.00% | ~564 |
-| Win as Terrans | 7.00% | ~493 |
+| Win as Terrans | 7.00% | ~494 |
 | Gain an Ally | 6.00% | ~423 |
 | Win with a Custom Faction | 6.00% | ~423 |
 | War with the Unknown | 5.00% | ~352 |
 | Conquest Victory! | 4.00% | ~282 |
 | Win Quickly | 4.00% | ~282 |
-| Pirate Cleansing | 3.00% | ~211 |
-| Win an Immense Game | 3.00% | ~211 |
+| Pirate Cleansing | 3.00% | ~212 |
+| Win an Immense Game | 3.00% | ~212 |
 | Artifact Mastery | 2.00% | ~141 |
 | Win as Altarians | 2.00% | ~141 |
 | Win as the Yor | 2.00% | ~141 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,047 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 322)  
+Progressed: 7,050 (Ranked 165)  
+Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -266,11 +266,11 @@ Completed: 0 (0.00%) (Ranked 322)
 | 2023-10-21 | 6,978 | 0 |
 | 2023-10-22 | 7,013 | 0 |
 | 2023-10-23 | 7,044 | 0 |
-| 2023-10-24 | 7,047 | 0 |
+| 2023-10-24 | 7,050 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 360)  
-Sum: 681 (Ranked 290)  
-Diff (max vs sum): 70  
+Sum: 681 (Ranked 291)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |
