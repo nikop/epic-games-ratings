@@ -15,19 +15,19 @@ Rating: 4.26 (Ranked 850)
 | Fear Of The Dark | 1.00% | ~675 |
 | Detective of the occult | 1.00% | ~675 |
 | Depression | 1.00% | ~675 |
-| Bless me Father... | 0.90% | ~607 |
+| Bless me Father... | 0.90% | ~608 |
 | Power of Friendship | 0.70% | ~472 |
 | Phone Bill | 0.70% | ~472 |
 | Chain Breaker | 0.70% | ~472 |
-| Let there be light | 0.50% | ~337 |
-| Silent Advisor | 0.50% | ~337 |
+| Let there be light | 0.50% | ~338 |
+| Silent Advisor | 0.50% | ~338 |
 | Soda addiction | 0.40% | ~270 |
 | Paparazzi | 0.40% | ~270 |
 | Are you still there? | 0.40% | ~270 |
-| Ear Ringing | 0.10% | ~67 |
+| Ear Ringing | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,497 (Ranked 96)  
-Completed: 16 (0.02%) (Ranked 296)  
+Progressed: 67,500 (Ranked 96)  
+Completed: 16 (0.02%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 16 (0.02%) (Ranked 296)
 | 2023-10-21 | 67,420 | 16 |
 | 2023-10-22 | 67,466 | 16 |
 | 2023-10-23 | 67,486 | 16 |
-| 2023-10-24 | 67,497 | 16 |
+| 2023-10-24 | 67,500 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

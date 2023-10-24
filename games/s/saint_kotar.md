@@ -50,8 +50,8 @@
 | The Meaning of Life | 5.00% | ~1 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 495)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 22 (Ranked 496)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

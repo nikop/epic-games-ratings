@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14286,
+  "EOS_Progressed": 14290,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9482,6 +9482,11 @@
       "Time": "2023-10-24T09:06:55.3849748+00:00",
       "NumProgressed": 14286,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-24T13:11:32.7778357+00:00",
+      "NumProgressed": 14290,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9526,7 +9531,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "14",
@@ -9542,7 +9547,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "16",
@@ -9558,7 +9563,7 @@
       "Name": "Spore Taste",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "18",
@@ -9574,7 +9579,7 @@
       "Name": "Martian Music",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "2",
@@ -9630,7 +9635,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "26",
@@ -9670,7 +9675,7 @@
       "Name": "Captain Drummer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "30",
@@ -9733,22 +9738,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14286,
+      "Progressed": 14290,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 240,
-      "Completed": 240
+      "Progressed": 244,
+      "Completed": 244
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:07:08.1496915+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:11:32.777835+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:01:11.9030355+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:07:08.1497536+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:05:43.9301922+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:11:32.7779145+00:00"
 }

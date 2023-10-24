@@ -10,7 +10,7 @@
 | Floor Galore | 42.00% | ~144 |
 | Dinner Dash | 42.00% | ~144 |
 | Campaign Launch | 41.00% | ~140 |
-| Need a Consult | 38.00% | ~130 |
+| Need a Consult | 39.00% | ~133 |
 | It's Technical | 38.00% | ~130 |
 | Upgrade Unlock | 37.00% | ~127 |
 | Delegate Maintenance | 35.00% | ~120 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 308)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 342 (Ranked 309)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1107,9 +1107,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -1146,8 +1146,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:09:25.2073585+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:14:26.7745972+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:54.5199695+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:09:25.2073768+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:09.5337921+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:14:26.7746262+00:00"
 }

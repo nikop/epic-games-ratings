@@ -4,11 +4,11 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3704,10 +3704,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3095,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-10-24T13:02:40.0130662+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3096,
+      "NumberOfAwardsMax": 393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3095,
+  "NumberOfAwards": 3096,
   "NumberOfAwardsMax": 393,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3751,7 +3757,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 327
+      "Count": 328
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3778,9 +3784,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 465681,
+  "EOS_Progressed": 465694,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2449,
+  "EOS_NewPlayers": 2451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24993,6 +24999,11 @@
       "Time": "2023-10-24T12:07:46.8514027+00:00",
       "NumProgressed": 465681,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T13:12:01.3414898+00:00",
+      "NumProgressed": 465694,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -25028,7 +25039,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -25060,7 +25071,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18627
+      "UsersEstimate": 18628
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -25092,7 +25103,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -25108,7 +25119,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18627
+      "UsersEstimate": 18628
     },
     {
       "ID": "ACH_JR_50",
@@ -25132,7 +25143,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -25164,7 +25175,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3725
+      "UsersEstimate": 3726
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -25172,7 +25183,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23284
+      "UsersEstimate": 23285
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -25236,7 +25247,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -25260,7 +25271,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13970
+      "UsersEstimate": 13971
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -25268,7 +25279,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23284
+      "UsersEstimate": 23285
     },
     {
       "ID": "ACH_WET_FEET",
@@ -25276,22 +25287,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18627
+      "UsersEstimate": 18628
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 465681,
+      "Progressed": 465694,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-24T04:57:09.853692+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:07:46.8514014+00:00",
+  "LastChanged": "2023-10-24T13:02:40.0130661+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:12:01.3414736+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:01.5121861+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:21.2430959+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:07:46.8515187+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:02:40.013067+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:12:01.3417047+00:00"
 }

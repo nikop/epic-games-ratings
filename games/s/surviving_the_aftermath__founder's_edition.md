@@ -44,8 +44,8 @@ Number of Ratings: 836  (23.09.2022)
 | Sky Burial | 10.00% | ~983 |
 | Trader | 9.00% | ~885 |
 | Bread and Circuses | 8.00% | ~786 |
+| Tailored to fit | 8.00% | ~786 |
 | New Eden | 7.00% | ~688 |
-| Tailored to fit | 7.00% | ~688 |
 | Really Friendly | 6.00% | ~590 |
 | Amped Up | 6.00% | ~590 |
 | Look, no Hands! | 5.00% | ~491 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,829 (Ranked 150)  
-Completed: 0 (0.00%) (Ranked 323)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

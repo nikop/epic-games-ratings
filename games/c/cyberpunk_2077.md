@@ -27,6 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.30% | ~2,681 |
 | V for Vendetta | 0.30% | ~2,681 |
 | Legend of The Afterlife | 0.30% | ~2,681 |
+| Spin Doctor | 0.30% | ~67 |
 | To Bad Decisions! | 0.20% | ~1,787 |
 | Bushido and Chill | 0.20% | ~1,787 |
 | To Protect and Serve | 0.20% | ~1,787 |
@@ -40,7 +41,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~1,787 |
 | The Lovers | 0.20% | ~1,787 |
 | The World | 0.20% | ~1,787 |
-| Spin Doctor | 0.20% | ~44 |
 | King of Wands | 0.20% | ~44 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,611 (Ranked 15)  
-Completed: 2,712 (0.30%) (Ranked 213)  
+Progressed: 893,623 (Ranked 15)  
+Completed: 2,713 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 2,712 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,611 | 2,712 |
+| 2023-10-24 | 893,623 | 2,713 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 323,462 (Ranked 11)  

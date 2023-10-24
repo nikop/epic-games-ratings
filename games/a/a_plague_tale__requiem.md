@@ -11,7 +11,7 @@ Rating: 4.73 (Ranked 167)
 | Protector's Duty | 71.00% | ~9,657 |
 | In our Wake | 69.00% | ~9,385 |
 | Alchemist | 69.00% | ~9,385 |
-| Leaving all Behind | 65.00% | ~8,841 |
+| Leaving all Behind | 66.00% | ~8,977 |
 | Felons | 63.00% | ~8,569 |
 | A Sea of Promises | 61.00% | ~8,297 |
 | Tales and Revelations | 58.00% | ~7,889 |
@@ -42,7 +42,7 @@ Rating: 4.73 (Ranked 167)
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,601 (Ranked 141)  
-Completed: 50 (0.37%) (Ranked 203)  
+Completed: 50 (0.37%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

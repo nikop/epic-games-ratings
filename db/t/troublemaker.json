@@ -3,9 +3,9 @@
   "Name": "Troublemaker",
   "ProductSlug": "parakacuk-22f4b2",
   "Ranking_EOS_Progress": 643,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-31T12:00:00+00:00",
     "PcReleaseDate": "2023-03-31T12:00:00+00:00",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-04-02T06:59:01.0065194+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:18.1745052+00:00",
   "LastChanged": "2023-04-02T06:59:01.0065195+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:06:58.4603264+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:11:25.6841843+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:30.365498+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:59.5217186+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:06:58.4603427+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:12.6253264+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:11:25.6842042+00:00"
 }

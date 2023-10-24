@@ -6,9 +6,9 @@
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1355,7 +1355,7 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6330,
+  "EOS_Progressed": 6331,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -11375,6 +11375,11 @@
       "Time": "2023-10-23T22:06:06.9280773+00:00",
       "NumProgressed": 6330,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-24T13:11:48.5599953+00:00",
+      "NumProgressed": 6331,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11418,7 +11423,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -11442,7 +11447,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "HUNT_DEER_20",
@@ -11456,9 +11461,9 @@
       "ID": "HUNT_DEER_5",
       "SetID": "5349c2e",
       "Name": "Oh Deer!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1330
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -11482,7 +11487,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -11530,7 +11535,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -11538,7 +11543,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -11562,7 +11567,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -11578,7 +11583,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -11594,7 +11599,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -11602,7 +11607,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11610,7 +11615,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -11618,7 +11623,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11633,15 +11638,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6330,
+      "Progressed": 6331,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-20T01:42:23.0001276+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:07:29.7271064+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:11:48.559995+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.2385457+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:12.0603495+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:07:29.7271723+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:02:31.9864667+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:11:48.5601229+00:00"
 }

@@ -22,7 +22,7 @@
 | Champollion | 10.00% | ~32 |
 | Feels like springtime | 9.00% | ~29 |
 | Alchemists Express | 9.00% | ~29 |
-| Open door | 8.00% | ~25 |
+| Open door | 8.00% | ~26 |
 | Free at last | 7.00% | ~22 |
 | A Link to the Past | 7.00% | ~22 |
 | Rascal | 6.00% | ~19 |
@@ -30,8 +30,8 @@
 | A great audience | 4.00% | ~13 |
 | Fashion victim | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 316)  
-Completed: 21 (6.60%) (Ranked 52)  
+Progressed: 319 (Ranked 317)  
+Completed: 22 (6.90%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,4 +126,4 @@ Completed: 21 (6.60%) (Ranked 52)
 | 2023-10-21 | 312 | 21 |
 | 2023-10-22 | 315 | 21 |
 | 2023-10-23 | 317 | 21 |
-| 2023-10-24 | 318 | 21 |
+| 2023-10-24 | 319 | 22 |

@@ -8,9 +8,9 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 7.00% | ~229 |
 | Watch Where You Step... | 7.00% | ~229 |
-| Look Over There! | 6.00% | ~196 |
-| Not So Fast... | 6.00% | ~196 |
-| An Ill Omen | 6.00% | ~196 |
+| Look Over There! | 6.00% | ~197 |
+| Not So Fast... | 6.00% | ~197 |
+| An Ill Omen | 6.00% | ~197 |
 | Blood for the Blood God! | 5.00% | ~164 |
 | Purging Spree | 5.00% | ~164 |
 | Bloodless | 4.00% | ~131 |
@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,275 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 3,276 (Ranked 192)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,6 +245,7 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-20 | 3,272 | 0 |
 | 2023-10-21 | 3,274 | 0 |
 | 2023-10-22 | 3,275 | 0 |
+| 2023-10-24 | 3,276 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 271)  
 Sum: 474 (Ranked 319)  

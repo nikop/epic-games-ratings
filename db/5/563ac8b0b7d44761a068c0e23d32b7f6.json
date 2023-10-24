@@ -2,10 +2,10 @@
   "ID": "563ac8b0b7d44761a068c0e23d32b7f6",
   "Name": "Party Monsterzz",
   "ProductSlug": "party-monsterzz-f42535",
-  "Ranking_EOS_Progress": 564,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T06:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 8,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 7,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2023-10-24T09:04:07.3513375+00:00",
@@ -39,6 +39,11 @@
       "Time": "2023-10-24T11:03:45.4170112+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T13:09:08.2881998+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -51,13 +56,13 @@
       "Name": "One of Us! One of Us!",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_1",
       "SetID": "8556mdl",
       "Name": "Party Craze",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -65,9 +70,9 @@
       "ID": "Achievement_2",
       "SetID": "8556mdl",
       "Name": "Party Inferno!",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_3",
@@ -75,29 +80,29 @@
       "Name": "Welcome to the party!",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_4",
       "SetID": "8556mdl",
       "Name": "Social Monster",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 6,
-      "Completed": 0
+      "Progressed": 8,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:04:07.4996225+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:09:08.2881988+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:57:20.6863257+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:58:08.0501968+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:04:07.4996305+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:21.5009694+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:09:08.2882097+00:00"
 }

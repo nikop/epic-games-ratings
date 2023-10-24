@@ -6,23 +6,23 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,936 |
-| A Spark | 18.00% | ~2,114 |
-| Burning City | 17.00% | ~1,997 |
+| Devoured by Darkness | 25.00% | ~2,938 |
+| A Spark | 18.00% | ~2,115 |
+| Burning City | 17.00% | ~1,998 |
 | Defender's Heart | 15.00% | ~1,762 |
-| Mythic Choices | 14.00% | ~1,644 |
-| Banner over the Citadel | 13.00% | ~1,527 |
+| Mythic Choices | 14.00% | ~1,645 |
+| Banner over the Citadel | 13.00% | ~1,528 |
 | Queen's Gratitude | 12.00% | ~1,410 |
 | Fifth Crusade | 8.00% | ~940 |
 | Embrace of the Abyss | 6.00% | ~705 |
 | Path of the Angel | 6.00% | ~705 |
 | Demonic and Divine | 6.00% | ~705 |
-| Path of the Azata | 5.00% | ~587 |
-| Transformation | 5.00% | ~587 |
-| Great Upstart | 5.00% | ~587 |
-| Voice from Your Dreams | 5.00% | ~587 |
-| All Paths Open | 5.00% | ~587 |
-| Next-Door Play | 5.00% | ~587 |
+| Path of the Azata | 5.00% | ~588 |
+| Transformation | 5.00% | ~588 |
+| Great Upstart | 5.00% | ~588 |
+| Voice from Your Dreams | 5.00% | ~588 |
+| All Paths Open | 5.00% | ~588 |
+| Next-Door Play | 5.00% | ~588 |
 | Heart of the Fallen Land | 4.00% | ~470 |
 | The Legacy | 4.00% | ~470 |
 | Divide and Rule | 4.00% | ~470 |
@@ -44,10 +44,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 2.00% | ~235 |
 | Stay Underground | 2.00% | ~211 |
 | Sarkoris Will Be Green | 2.00% | ~211 |
-| The Final Threshold | 1.00% | ~117 |
-| Path of the Legend | 1.00% | ~117 |
-| Strategic Victory | 1.00% | ~117 |
-| Abyssal Conspiracy | 1.00% | ~117 |
+| The Final Threshold | 1.00% | ~118 |
+| Path of the Legend | 1.00% | ~118 |
+| Strategic Victory | 1.00% | ~118 |
+| Abyssal Conspiracy | 1.00% | ~118 |
 | This Wall Won't Fall | 1.00% | ~105 |
 | Not the Last Sarkorian | 1.00% | ~105 |
 | Path of the Dragon | 0.90% | ~106 |
@@ -60,7 +60,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Ashes to Ashes | 0.40% | ~47 |
 | Masterful Dispel | 0.30% | ~35 |
 | Just Pathetic | 0.30% | ~35 |
-| Path of the Swarm | 0.20% | ~23 |
+| Path of the Swarm | 0.20% | ~24 |
 | Equal to Aroden | 0.10% | ~12 |
 | Spirit of Adventure | 0.10% | ~12 |
 | Test of the Starstone | 0.10% | ~12 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,746 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 11,750 (Ranked 146)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,7 +310,7 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-10-21 | 11,674 | 0 |
 | 2023-10-22 | 11,709 | 0 |
 | 2023-10-23 | 11,739 | 0 |
-| 2023-10-24 | 11,746 | 0 |
+| 2023-10-24 | 11,750 | 0 |
 ## Awards
 Max (Character Customization): 1,728  (Ranked 120)  
 Sum: 7,000 (Ranked 118)  

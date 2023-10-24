@@ -3,9 +3,9 @@
   "Name": "SunnySide",
   "ProductSlug": "sunnyside-0f9ee4",
   "Ranking_EOS_Progress": 697,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.9778425+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:58:41.2290113+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:05:21.4100028+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:47.5077653+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:10:02.7567169+00:00"
 }

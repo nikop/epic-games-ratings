@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 316,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
-  "EOS_Completed": 21,
-  "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.6,
+  "EOS_Progressed": 319,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 18,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 6.9,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1500,6 +1500,11 @@
       "Time": "2023-10-24T12:04:13.3992205+00:00",
       "NumProgressed": 318,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-24T13:09:12.7648688+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1559,7 +1564,7 @@
       "Name": "Open door",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1710,14 +1715,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 318,
-      "Completed": 21
+      "Progressed": 319,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:04:13.39922+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:09:12.7648681+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:02:38.2747472+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:04:13.3992485+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:08:17.7049392+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:09:12.7648997+00:00"
 }

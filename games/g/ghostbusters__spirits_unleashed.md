@@ -5,14 +5,16 @@ Rating: 4.50 (Ranked 575)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,097 |
+| Stylish | 4.00% | ~1,098 |
 | Advancement | 3.00% | ~823 |
 | Meticulously Efficient | 3.00% | ~823 |
 | Animated | 2.00% | ~549 |
+| Back Off | 2.00% | ~549 |
 | Clutch Capture | 2.00% | ~549 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~549 |
 | Cultured | 2.00% | ~549 |
 | Discovery | 2.00% | ~549 |
+| Ectoplasmic Entity | 2.00% | ~549 |
 | Fully Upgraded | 2.00% | ~549 |
 | Icing on the Cake | 2.00% | ~549 |
 | Solo Capture | 2.00% | ~549 |
@@ -21,9 +23,8 @@ Rating: 4.50 (Ranked 575)
 | There you are! | 2.00% | ~549 |
 | Vaporous Expansion | 2.00% | ~549 |
 | Whoopsie | 2.00% | ~549 |
-| Back Off | 1.00% | ~274 |
+| We have the best insurance | 1.00% | ~274 |
 | Daily Dose | 1.00% | ~274 |
-| Ectoplasmic Entity | 1.00% | ~274 |
 | Ghostbuster In Training | 1.00% | ~274 |
 | Legions | 1.00% | ~274 |
 | Pesky Jerks | 1.00% | ~274 |
@@ -35,11 +36,10 @@ Rating: 4.50 (Ranked 575)
 | Summoner | 1.00% | ~274 |
 | Terrifying | 1.00% | ~274 |
 | Welcome to the Crew | 1.00% | ~274 |
-| We have the best insurance | 0.90% | ~247 |
 | Rift Destroyer | 0.90% | ~247 |
-| Collector | 0.80% | ~219 |
-| Escape Artist | 0.80% | ~219 |
-| Tobin's Prodigy | 0.80% | ~219 |
+| Collector | 0.80% | ~220 |
+| Escape Artist | 0.80% | ~220 |
+| Tobin's Prodigy | 0.80% | ~220 |
 | Diabolical | 0.70% | ~192 |
 | Reckless | 0.70% | ~192 |
 | Rivalry | 0.70% | ~192 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 575)
 | Mycophile | 0.10% | ~27 |
 | Ultimate Defense | 0.10% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,436 (Ranked 119)  
-Completed: 63 (0.23%) (Ranked 222)  
+Progressed: 27,442 (Ranked 119)  
+Completed: 63 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 63 (0.23%) (Ranked 222)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,436 | 63 |
+| 2023-10-24 | 27,442 | 63 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,516 (Ranked 184)  

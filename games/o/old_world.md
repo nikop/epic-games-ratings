@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
+| Devout | 0.50% | ~75 |
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |
-| Devout | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Cao'an | 0.40% | ~60 |
 | Adur Burzen-Mihr | 0.40% | ~60 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,917 (Ranked 139)  
-Completed: 5 (0.03%) (Ranked 292)  
+Progressed: 14,918 (Ranked 139)  
+Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -536,7 +536,7 @@ Completed: 5 (0.03%) (Ranked 292)
 | 2023-10-21 | 14,858 | 5 |
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
-| 2023-10-24 | 14,917 | 5 |
+| 2023-10-24 | 14,918 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -11,14 +11,14 @@ Rating: 4.45 (Ranked 650)
 | It's Starting to Crack | 34.00% | ~1,282 |
 | Change the Channel | 31.00% | ~1,169 |
 | Lord of War | 30.00% | ~1,131 |
-| Taking it back | 29.00% | ~1,093 |
+| Taking it back | 29.00% | ~1,094 |
 | Resourceful | 27.00% | ~1,018 |
 | Target America | 26.00% | ~980 |
 | The Kraken Sleeps | 24.00% | ~905 |
 | Liberté | 23.00% | ~867 |
 | Organ Grinder | 23.00% | ~867 |
 | As Quiet as a Mouse | 23.00% | ~867 |
-| Sharpshooter | 22.00% | ~829 |
+| Sharpshooter | 22.00% | ~830 |
 | Explosive Efficiency | 19.00% | ~716 |
 | Gunslinger | 18.00% | ~679 |
 | Just a Flesh Wound | 17.00% | ~641 |
@@ -37,12 +37,12 @@ Rating: 4.45 (Ranked 650)
 | Precision Is Key | 10.00% | ~377 |
 | My Little Friend | 10.00% | ~377 |
 | Rigged to Blow | 9.00% | ~339 |
-| Herr Today, Gone Tomorrow | 7.00% | ~260 |
+| Herr Today, Gone Tomorrow | 7.00% | ~261 |
 | Operation Foxley | 6.00% | ~223 |
-| The Long Game | 5.00% | ~188 |
-| Tinkerer | 5.00% | ~188 |
-| It'll Buff Right Out | 5.00% | ~188 |
-| Don't hold your breath | 5.00% | ~188 |
+| The Long Game | 5.00% | ~189 |
+| Tinkerer | 5.00% | ~189 |
+| It'll Buff Right Out | 5.00% | ~189 |
+| Don't hold your breath | 5.00% | ~189 |
 | Strategist | 4.00% | ~151 |
 | Locomotion Commotion | 4.00% | ~151 |
 | Road Rage | 4.00% | ~151 |
@@ -77,8 +77,8 @@ Rating: 4.45 (Ranked 650)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,770 (Ranked 182)  
-Completed: 11 (0.29%) (Ranked 216)  
+Progressed: 3,771 (Ranked 182)  
+Completed: 11 (0.29%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,6 +262,7 @@ Completed: 11 (0.29%) (Ranked 216)
 | 2023-10-21 | 3,763 | 11 |
 | 2023-10-22 | 3,767 | 11 |
 | 2023-10-23 | 3,770 | 11 |
+| 2023-10-24 | 3,771 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 528)  
 Sum: 21 (Ranked 529)  

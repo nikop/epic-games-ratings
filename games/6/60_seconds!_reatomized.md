@@ -5,27 +5,27 @@ Rating: 4.60 (Ranked 402)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,064 |
-| All thumbs | 92.00% | ~5,009 |
-| I will survive! | 92.00% | ~5,009 |
-| Home, sweet home | 91.00% | ~4,955 |
-| Survivalist | 89.00% | ~4,846 |
-| One way ticket | 85.00% | ~4,628 |
-| Last man standing | 80.00% | ~4,356 |
+| Prepper | 93.00% | ~5,065 |
+| All thumbs | 92.00% | ~5,010 |
+| I will survive! | 92.00% | ~5,010 |
+| Home, sweet home | 91.00% | ~4,956 |
+| Survivalist | 89.00% | ~4,847 |
+| One way ticket | 85.00% | ~4,629 |
+| Last man standing | 80.00% | ~4,357 |
 | Family guy | 77.00% | ~4,193 |
 | Out of the Bag | 75.00% | ~4,084 |
-| The Dark Side | 70.00% | ~3,811 |
-| Duck and cover! | 65.00% | ~3,539 |
+| The Dark Side | 70.00% | ~3,812 |
+| Duck and cover! | 65.00% | ~3,540 |
 | Souper! | 64.00% | ~3,485 |
 | Pacifist | 59.00% | ~3,213 |
-| 2-1-6 | 58.00% | ~3,158 |
-| A gift | 54.00% | ~2,940 |
+| 2-1-6 | 58.00% | ~3,159 |
+| A gift | 54.00% | ~2,941 |
 | Girl Power | 48.00% | ~2,614 |
 | What goes around... | 44.00% | ~2,396 |
 | Be Prepared | 38.00% | ~2,069 |
 | Unbreakable | 37.00% | ~2,015 |
-| Gotta get 'em all | 34.00% | ~1,851 |
-| This is the end | 34.00% | ~1,851 |
+| Gotta get 'em all | 34.00% | ~1,852 |
+| This is the end | 34.00% | ~1,852 |
 | Atomic drill | 33.00% | ~1,797 |
 | Disco Roach | 28.00% | ~1,525 |
 | Dawkins Residence | 22.00% | ~1,198 |
@@ -35,8 +35,8 @@ Rating: 4.60 (Ranked 402)
 | A New Hope | 16.00% | ~871 |
 | Enigma | 16.00% | ~871 |
 | Challenger | 13.00% | ~708 |
-| No stone unturned | 12.00% | ~653 |
-| Men in Black | 12.00% | ~653 |
+| No stone unturned | 12.00% | ~654 |
+| Men in Black | 12.00% | ~654 |
 | Unplugged | 8.00% | ~436 |
 | Holidays! | 7.00% | ~381 |
 | Mad Hatter | 7.00% | ~381 |
@@ -66,8 +66,8 @@ Rating: 4.60 (Ranked 402)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,445 (Ranked 174)  
-Completed: 1 (0.02%) (Ranked 296)  
+Progressed: 5,446 (Ranked 174)  
+Completed: 1 (0.02%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,6 +253,7 @@ Completed: 1 (0.02%) (Ranked 296)
 | 2023-10-21 | 5,434 | 1 |
 | 2023-10-22 | 5,440 | 1 |
 | 2023-10-23 | 5,445 | 1 |
+| 2023-10-24 | 5,446 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

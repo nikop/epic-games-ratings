@@ -34,8 +34,8 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 766 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 766 (Ranked 255)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

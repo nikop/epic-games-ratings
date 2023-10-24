@@ -6,8 +6,8 @@
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2685,9 +2685,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27436,
+  "EOS_Progressed": 27442,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16180,6 +16180,11 @@
       "Time": "2023-10-24T12:07:07.3665904+00:00",
       "NumProgressed": 27436,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-24T13:11:32.1510237+00:00",
+      "NumProgressed": 27442,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 51,
@@ -16205,17 +16210,17 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 549
     },
     {
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 274
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -16247,7 +16252,7 @@
       "Name": "Collector",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Cultured",
@@ -16293,9 +16298,9 @@
       "ID": "Ectoplasmic_Entity",
       "SetID": "819popo",
       "Name": "Ectoplasmic Entity",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 549
     },
     {
       "ID": "Efficient",
@@ -16311,7 +16316,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Fragile_Panes",
@@ -16495,7 +16500,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "Summoner",
@@ -16559,7 +16564,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Ultimate_Defense",
@@ -16598,7 +16603,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27436,
+      "Progressed": 27442,
       "Completed": 63
     }
   ],
@@ -16606,8 +16611,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-24T11:58:29.5002207+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:07:07.3665899+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:11:32.1510228+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:58:29.5002213+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:07:07.3666883+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:34.759152+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:11:32.151174+00:00"
 }

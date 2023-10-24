@@ -3,9 +3,9 @@
   "Name": "Outbreak Lost Hope Broken Faith",
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
   "Ranking_EOS_Progress": 555,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
     "PcReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -182,8 +182,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:08:48.0610158+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:14:05.3741851+00:00",
   "LastUpdate_AppInfo": "2023-10-18T18:57:29.0194141+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:58:08.9939448+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:08:48.0610238+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:03:21.8781922+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:14:05.3741972+00:00"
 }

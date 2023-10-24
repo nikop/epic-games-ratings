@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8122,10 +8122,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14980,
       "NumberOfAwardsMax": 7270
+    },
+    {
+      "Time": "2023-10-24T13:06:10.0935239+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14984,
+      "NumberOfAwardsMax": 7270
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14980,
+  "NumberOfAwards": 14984,
   "NumberOfAwardsMax": 7270,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8157,7 +8163,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1018
+      "Count": 1022
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8202,7 +8208,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63830,
+  "EOS_Progressed": 63832,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
@@ -27982,6 +27988,11 @@
       "Time": "2023-10-24T12:08:25.4375126+00:00",
       "NumProgressed": 63830,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T13:13:09.508583+00:00",
+      "NumProgressed": 63832,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28217,7 +28228,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21064
+      "UsersEstimate": 21065
     },
     {
       "ID": "Lawbringer",
@@ -28400,15 +28411,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63830,
+      "Progressed": 63832,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-23T16:00:46.1434134+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:08:25.437512+00:00",
+  "LastChanged": "2023-10-24T13:06:10.0935237+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:13:09.508582+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:01:48.3741139+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:08:25.437637+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:06:10.0935244+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:13:09.5087667+00:00"
 }

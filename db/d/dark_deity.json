@@ -4,11 +4,11 @@
   "ProductSlug": "dark-deity-0b08d1",
   "Ranking_Rating": 917,
   "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 697,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-12-17T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -317,10 +317,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 868,
       "NumberOfAwardsMax": 618
+    },
+    {
+      "Time": "2023-10-24T13:02:51.2977149+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 869,
+      "NumberOfAwardsMax": 618
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 868,
+  "NumberOfAwards": 869,
   "NumberOfAwardsMax": 618,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -370,7 +376,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -397,8 +403,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2023-10-24T11:57:36.0600354+00:00",
+  "LastChanged": "2023-10-24T13:02:51.2977147+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:56.1569161+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:36.0600359+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:09:11.64793+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:02:51.2977154+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:14:16.5192754+00:00"
 }

@@ -29,7 +29,7 @@
 | Angel of Death | -25.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 589)  
-Completed: 0 (0.00%) (Ranked 323)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

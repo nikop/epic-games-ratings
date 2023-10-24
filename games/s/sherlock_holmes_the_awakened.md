@@ -9,7 +9,7 @@ Rating: 4.63 (Ranked 340)
 | Read Between The Lines | 65.00% | ~473 |
 | High Profile | 59.00% | ~429 |
 | Whispers In The Dark | 56.00% | ~407 |
-| Fond Memories | 53.00% | ~385 |
+| Fond Memories | 54.00% | ~393 |
 | A Method To His Madness | 52.00% | ~378 |
 | History Check | 51.00% | ~371 |
 | The New World | 48.00% | ~349 |
@@ -34,8 +34,8 @@ Rating: 4.63 (Ranked 340)
 | Big Breakthrough | 13.00% | ~95 |
 | Reawakened | 4.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 258)  
-Completed: 26 (3.58%) (Ranked 81)  
+Progressed: 727 (Ranked 259)  
+Completed: 26 (3.58%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

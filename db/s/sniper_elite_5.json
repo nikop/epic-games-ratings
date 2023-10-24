@@ -6,9 +6,9 @@
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 217,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3770,
+  "EOS_Progressed": 3771,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7420,6 +7420,11 @@
       "Time": "2023-10-23T20:04:46.7411455+00:00",
       "NumProgressed": 3770,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-24T13:09:55.6561493+00:00",
+      "NumProgressed": 3771,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7567,7 +7572,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7575,7 +7580,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -7735,7 +7740,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -7751,7 +7756,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -7791,7 +7796,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -7799,7 +7804,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7895,7 +7900,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7998,13 +8003,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3721,
+      "Progressed": 3722,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3770,
+      "Progressed": 3771,
       "Completed": 11
     }
   ],
@@ -8012,8 +8017,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:05:11.5085745+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:09:55.6561485+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:57:35.5061287+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:05:11.508664+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:02:50.9262605+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:09:55.6563139+00:00"
 }

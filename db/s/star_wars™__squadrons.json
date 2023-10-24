@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122: Squadrons",
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13222,
+  "EOS_Progressed": 13229,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1682,
+  "EOS_NewPlayers": 1670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4049,6 +4049,11 @@
       "Time": "2023-10-24T12:09:45.0688727+00:00",
       "NumProgressed": 13222,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T13:14:41.6442088+00:00",
+      "NumProgressed": 13229,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -4061,7 +4066,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "achievement_10",
@@ -4109,7 +4114,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "achievement_16",
@@ -4157,7 +4162,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_21",
@@ -4269,7 +4274,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2646
     },
     {
       "ID": "achievement_34",
@@ -4285,7 +4290,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 12561
+      "UsersEstimate": 12568
     },
     {
       "ID": "achievement_36",
@@ -4301,7 +4306,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "achievement_38",
@@ -4317,7 +4322,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "achievement_4",
@@ -4389,7 +4394,7 @@
       "Name": "Stomped",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "achievement_5",
@@ -4397,7 +4402,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_6",
@@ -4405,7 +4410,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "achievement_7",
@@ -4421,7 +4426,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "achievement_9",
@@ -4436,7 +4441,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 13222,
+      "Progressed": 13229,
       "Completed": 1
     }
   ],
@@ -4444,8 +4449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:09:45.0688723+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:14:41.6442082+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:17.775198+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:03:05.5042162+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:09:45.068928+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:08:22.487957+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:14:41.6442713+00:00"
 }

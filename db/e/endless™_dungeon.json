@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2023-10-24T12:07:37.356221+00:00",
       "NumProgressed": 685,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T13:11:54.0394958+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -528,7 +533,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -536,7 +541,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -550,9 +555,9 @@
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -560,7 +565,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 488
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -576,7 +581,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -592,7 +597,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -624,7 +629,7 @@
       "Name": "Hoarder",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -656,7 +661,7 @@
       "Name": "Long Live Rock",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -680,7 +685,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -719,13 +724,13 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 688,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:07:37.3562205+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:11:54.0394955+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:00:04.2985481+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:07:37.3562393+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:04:51.0813115+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:11:54.0395193+00:00"
 }

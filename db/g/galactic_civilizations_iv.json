@@ -6,9 +6,9 @@
   "Ranking_Popularity": 360,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7054,
+  "EOS_Progressed": 7056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7590,6 +7590,11 @@
       "Time": "2023-10-24T12:05:24.0514403+00:00",
       "NumProgressed": 7054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T13:10:04.7696362+00:00",
+      "NumProgressed": 7056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7633,7 +7638,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7641,7 +7646,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "Control_All_Relics",
@@ -7705,7 +7710,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5504
     },
     {
       "ID": "First_Race_Met",
@@ -7713,7 +7718,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5079
+      "UsersEstimate": 5080
     },
     {
       "ID": "First_Ship_Designed",
@@ -7721,7 +7726,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1975
+      "UsersEstimate": 1976
     },
     {
       "ID": "First_Stream_Travel",
@@ -7737,7 +7742,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -7921,7 +7926,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -7937,7 +7942,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "War_Without_Translator",
@@ -7993,7 +7998,7 @@
       "Name": "Win as Festron",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Win_As_Iconian",
@@ -8041,7 +8046,7 @@
       "Name": "Win as the Navigators",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Win_As_Onyx",
@@ -8089,7 +8094,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4656
+      "UsersEstimate": 4657
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8176,15 +8181,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7054,
+      "Progressed": 7056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:05:24.0514398+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:10:04.7696192+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-24T12:02:04.6030442+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:05:24.0515256+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:06:22.4389475+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:10:04.7697741+00:00"
 }

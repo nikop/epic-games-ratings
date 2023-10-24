@@ -6,9 +6,9 @@
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 163,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -540,7 +540,7 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15934,
+  "EOS_Progressed": 15935,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -12625,6 +12625,11 @@
       "Time": "2023-10-24T12:03:32.3499881+00:00",
       "NumProgressed": 15934,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-24T13:08:41.8606099+00:00",
+      "NumProgressed": 15935,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12676,7 +12681,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "tpote_achievement_15",
@@ -12708,7 +12713,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "tpote_achievement_19",
@@ -12724,7 +12729,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "tpote_achievement_20",
@@ -12780,7 +12785,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "tpote_achievement_27",
@@ -12820,7 +12825,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "tpote_achievement_31",
@@ -12948,7 +12953,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "tpote_achievement_9",
@@ -12963,15 +12968,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15934,
+      "Progressed": 15935,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-20T17:57:24.1431013+00:00",
-  "LastChanged_Achievements": "2023-10-24T12:03:32.3499877+00:00",
+  "LastChanged_Achievements": "2023-10-24T13:08:41.860609+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-24T11:59:14.8524888+00:00",
-  "LastUpdate_Achievements": "2023-10-24T12:03:32.3500745+00:00"
+  "LastUpdate_Ratings": "2023-10-24T13:04:12.2637621+00:00",
+  "LastUpdate_Achievements": "2023-10-24T13:08:41.8607667+00:00"
 }

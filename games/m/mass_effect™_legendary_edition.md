@@ -40,8 +40,8 @@
 | Power Full | 40.00% | ~317 |
 | The Convict | 38.00% | ~301 |
 | Completionist | 37.00% | ~293 |
+| Colony Defense | 37.00% | ~293 |
 | The Krogan | 37.00% | ~293 |
-| Colony Defense | 36.00% | ~285 |
 | Galactic Explorer | 36.00% | ~285 |
 | Broke, Blind, and Bedlam | 35.00% | ~278 |
 | Archivist | 34.00% | ~270 |
@@ -132,8 +132,8 @@
 | Neural Shock Specialist | 2.00% | ~16 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 793 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 323)  
+Progressed: 793 (Ranked 253)  
+Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

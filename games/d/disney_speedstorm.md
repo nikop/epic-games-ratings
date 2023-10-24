@@ -5,16 +5,16 @@ Rating: 4.41 (Ranked 704)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,600 |
-| IT MAKES BOOM! | 3.00% | ~7,560 |
-| EXTRA BOOST | 2.00% | ~5,040 |
-| PROTECTED | 2.00% | ~5,040 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,520 |
-| AGGRESSIVE RACER | 1.00% | ~2,520 |
-| PRO | 1.00% | ~2,520 |
-| A TIGER'S FEAR | 0.90% | ~2,268 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,260 |
-| ACE SPEEDSTER | 0.50% | ~1,260 |
+| ROOKIE | 5.00% | ~12,606 |
+| IT MAKES BOOM! | 3.00% | ~7,564 |
+| EXTRA BOOST | 2.00% | ~5,042 |
+| PROTECTED | 2.00% | ~5,042 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,521 |
+| AGGRESSIVE RACER | 1.00% | ~2,521 |
+| PRO | 1.00% | ~2,521 |
+| A TIGER'S FEAR | 0.90% | ~2,269 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,261 |
+| ACE SPEEDSTER | 0.50% | ~1,261 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,008 |
 | TRAINING HARD | 0.30% | ~756 |
 | RELEASE THE KRAKEN | 0.30% | ~756 |
@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 704)
 | ACE TRICKSTER | 0.20% | ~504 |
 | FRAMED! | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,993 (Ranked 53)  
-Completed: 241 (0.10%) (Ranked 256)  
+Progressed: 252,124 (Ranked 53)  
+Completed: 241 (0.10%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,11 +213,11 @@ Completed: 241 (0.10%) (Ranked 256)
 | 2023-10-21 | 244,301 | 239 |
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
-| 2023-10-24 | 251,993 | 241 |
+| 2023-10-24 | 252,124 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 450)  
-Sum: 240 (Ranked 376)  
-Diff (max vs sum): 74  
+Sum: 242 (Ranked 372)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 38 |
@@ -226,9 +226,9 @@ Diff (max vs sum): 74
 | This game has Amazing Characters | 29 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Storytelling | 22 |
+| This game is Highly Recommended | 22 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 22 |
-| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -255,4 +255,4 @@ Diff (max vs sum): 74
 | 2023-10-21 | 4.40 | 33 | 136 |
 | 2023-10-22 | 4.41 | 35 | 180 |
 | 2023-10-23 | 4.41 | 35 | 210 |
-| 2023-10-24 | 4.41 | 38 | 240 |
+| 2023-10-24 | 4.41 | 38 | 242 |
