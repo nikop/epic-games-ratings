@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7579,9 +7579,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232748,
+  "EOS_Progressed": 232753,
   "EOS_Completed": 2384,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28494,6 +28494,11 @@
       "Time": "2023-10-24T21:10:00.5335983+00:00",
       "NumProgressed": 232748,
       "NumCompleted": 2384
+    },
+    {
+      "Time": "2023-10-24T22:07:08.0291245+00:00",
+      "NumProgressed": 232753,
+      "NumCompleted": 2384
     }
   ],
   "TotalAchievements": 528,
@@ -29369,7 +29374,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_1203",
@@ -30185,7 +30190,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_35",
@@ -30297,7 +30302,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_390",
@@ -30369,7 +30374,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_40",
@@ -30641,7 +30646,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_54",
@@ -31721,7 +31726,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_80",
@@ -32728,21 +32733,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199022,
+      "Progressed": 199027,
       "Completed": 3676
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232748,
+      "Progressed": 232753,
       "Completed": 2384
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-24T19:02:43.8513948+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:10:00.5335975+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:07:08.029124+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:02:31.6487778+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:00.5377782+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:00:03.4079646+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:07:08.0322865+00:00"
 }

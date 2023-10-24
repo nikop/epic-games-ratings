@@ -21,6 +21,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.30% | ~2,681 |
 | Gun Fu | 0.30% | ~2,681 |
 | Gunslinger | 0.30% | ~2,681 |
+| Mean Streets | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
 | Life of the Road | 0.30% | ~2,681 |
@@ -37,7 +38,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.20% | ~1,787 |
 | Master Crafter | 0.20% | ~1,787 |
 | I Am The Law | 0.20% | ~1,787 |
-| Mean Streets | 0.20% | ~1,787 |
 | Christmas Tree Attack | 0.20% | ~1,787 |
 | Temperance | 0.20% | ~1,787 |
 | The Fool | 0.20% | ~1,787 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,684 (Ranked 15)  
+Progressed: 893,687 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,684 | 2,713 |
+| 2023-10-24 | 893,687 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
 Sum: 324,129 (Ranked 11)  

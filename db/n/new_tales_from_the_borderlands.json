@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3678,
+  "EOS_Progressed": 3679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1692,6 +1692,11 @@
       "Time": "2023-10-23T01:48:39.4636015+00:00",
       "NumProgressed": 3678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T22:05:48.8137004+00:00",
+      "NumProgressed": 3679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1735,7 +1740,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1767,7 +1772,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1823,7 +1828,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1831,7 +1836,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1910,7 +1915,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3678,
+      "Progressed": 3679,
       "Completed": 0
     }
   ],
@@ -1918,8 +1923,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:08:39.1573793+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:05:48.8136999+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.4367282+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:01:07.6325726+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:08:39.1574129+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:59:20.7361063+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:05:48.813728+00:00"
 }

@@ -4,13 +4,13 @@
 Rating: 4.45 (Ranked 649)  
 ## Awards
 Max (Relaxing): 88  (Ranked 366)  
-Sum: 731 (Ranked 282)  
-Diff (max vs sum): 84  
+Sum: 733 (Ranked 281)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 88 |
+| This game is Great for Beginners | 88 |
 | This game has Quickly Understood Controls | 87 |
-| This game is Great for Beginners | 86 |
 | This game is Extremely Fun | 82 |
 | This game is Educational | 78 |
 | This game has Diverse Characters | 75 |
@@ -39,4 +39,4 @@ Diff (max vs sum): 84
 | 2023-10-21 | 4.45 | 80 | 671 |
 | 2023-10-22 | 4.45 | 86 | 675 |
 | 2023-10-23 | 4.45 | 88 | 705 |
-| 2023-10-24 | 4.45 | 88 | 731 |
+| 2023-10-24 | 4.45 | 88 | 733 |

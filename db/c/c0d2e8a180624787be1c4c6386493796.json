@@ -595,9 +595,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:10:04.260617+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:07:10.1030557+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:59:10.8122831+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:04.2607276+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:58:10.1198837+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:07:10.1031351+00:00"
 }

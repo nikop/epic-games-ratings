@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -151,9 +151,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7135,
+  "EOS_Progressed": 7136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5151,6 +5151,11 @@
       "Time": "2023-10-24T21:10:48.8352181+00:00",
       "NumProgressed": 7135,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T22:09:01.8688309+00:00",
+      "NumProgressed": 7136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5163,7 +5168,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5171,7 +5176,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5211,7 +5216,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -5219,7 +5224,7 @@
       "Name": "Fae Farmer",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -5235,7 +5240,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "COLLECT_FISH",
@@ -5315,7 +5320,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5331,7 +5336,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -5339,7 +5344,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5355,7 +5360,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "HAVE_WEDDING",
@@ -5442,7 +5447,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7135,
+      "Progressed": 7136,
       "Completed": 0
     }
   ],
@@ -5450,8 +5455,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-24T13:57:41.4958851+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:10:48.8352173+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:09:01.8688304+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:58:02.0436925+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:48.8353226+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:30.6432177+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:09:01.8688871+00:00"
 }

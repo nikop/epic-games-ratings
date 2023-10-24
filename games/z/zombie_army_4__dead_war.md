@@ -23,8 +23,8 @@ Number of Ratings: 743  (23.09.2022)
 | In the dark dark woods... | 39.00% | ~17,047 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,610 |
 | Double tap | 37.00% | ~16,173 |
+| Cranial blowout! | 37.00% | ~16,173 |
 | All of this has happened before… | 36.00% | ~15,736 |
-| Cranial blowout! | 36.00% | ~15,736 |
 | Zombie killin' machine | 36.00% | ~15,736 |
 | Every bullet counts | 36.00% | ~15,736 |
 | All roads lead to Rome | 34.00% | ~14,862 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~437 |
 | None more hard | 0.50% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,711 (Ranked 108)  
+Progressed: 43,711 (Ranked 109)  
 Completed: 25 (0.06%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,7 +2,7 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 116,
@@ -247,9 +247,9 @@
       "ID": "PortraitMadness",
       "SetID": "bl5ebnd",
       "Name": "Portrait of Madness",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PrivateVisit",
@@ -271,9 +271,9 @@
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 85,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TrueBlogger",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:11:30.2855993+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:09:31.6030573+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:06.2042254+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:00:58.9940923+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:11:30.2856334+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:59:16.1217814+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:09:31.6030717+00:00"
 }

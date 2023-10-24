@@ -2,12 +2,12 @@
   "ID": "62d6f15b1bb345f6a42585b4c8c847a0",
   "Name": "Hyper Light Drifter",
   "ProductSlug": "hyper-light-drifter",
-  "Ranking_Rating": 206,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2016-03-31T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 364,
   "RatingHistory": [
     {
@@ -491,6 +491,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-10-24T22:03:06.2467059+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
@@ -516,8 +522,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:03.848386+00:00",
-  "LastChanged": "2023-09-30T19:59:27.3635388+00:00",
+  "LastChanged": "2023-10-24T22:03:06.2467058+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.0536107+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:04:44.707427+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:06:39.9469203+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:03:06.2467063+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:04:22.7402967+00:00"
 }

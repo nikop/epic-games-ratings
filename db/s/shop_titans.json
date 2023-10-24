@@ -6673,9 +6673,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138070,
+  "EOS_Progressed": 138073,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25833,6 +25833,11 @@
       "Time": "2023-10-24T21:05:32.1067476+00:00",
       "NumProgressed": 138070,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-24T22:03:34.4591049+00:00",
+      "NumProgressed": 138073,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -25860,7 +25865,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "advlevel04",
@@ -25900,7 +25905,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ascend03",
@@ -25916,7 +25921,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "bigsale01",
@@ -25940,7 +25945,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "blueprint01",
@@ -25988,7 +25993,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "boss03",
@@ -26044,7 +26049,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "collection03",
@@ -26092,7 +26097,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "commonres04",
@@ -26124,7 +26129,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "craft04",
@@ -26156,7 +26161,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "damage03",
@@ -26172,7 +26177,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "enchant01",
@@ -26180,7 +26185,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "enchant02",
@@ -26228,7 +26233,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "expansion03",
@@ -26260,7 +26265,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "furniture03",
@@ -26268,7 +26273,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "fuseepic",
@@ -26348,7 +26353,7 @@
       "Name": "Mammonite",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "gold06",
@@ -26356,7 +26361,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "help01",
@@ -26372,7 +26377,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "help03",
@@ -26388,7 +26393,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "jackslot01",
@@ -26460,7 +26465,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "loot01",
@@ -26476,7 +26481,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "loot03",
@@ -26516,7 +26521,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "master04",
@@ -26548,7 +26553,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "quest01",
@@ -26628,7 +26633,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "sell03",
@@ -26684,7 +26689,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "uncommonres02",
@@ -26724,7 +26729,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "yami_a",
@@ -26732,22 +26737,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138070,
+      "Progressed": 138073,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T20:01:04.190106+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:05:32.1067472+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:03:34.4591042+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:57:33.0014922+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:05:32.1071011+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:15.3188168+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:03:34.459363+00:00"
 }

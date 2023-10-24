@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2697,10 +2697,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27498,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 940,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 27509,
+  "EOS_Completed": 64,
+  "EOS_NewPlayers": 951,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
@@ -16232,6 +16232,11 @@
       "Time": "2023-10-24T21:09:12.5196226+00:00",
       "NumProgressed": 27498,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-24T22:06:22.9670413+00:00",
+      "NumProgressed": 27509,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 51,
@@ -16275,7 +16280,7 @@
       "Name": "Catostrophic Destroyer",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Clutch_Capture",
@@ -16323,7 +16328,7 @@
       "Name": "Diabolical",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Discovery",
@@ -16339,7 +16344,7 @@
       "Name": "I don\u0027t need these",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ectoplasmic_Entity",
@@ -16371,7 +16376,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Fully_Upgraded",
@@ -16395,7 +16400,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Icing_Cake",
@@ -16419,7 +16424,7 @@
       "Name": "Liability",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Line_Em_Up",
@@ -16427,7 +16432,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Little_Help",
@@ -16435,7 +16440,7 @@
       "Name": "Little Help Here",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Master_Collector",
@@ -16451,7 +16456,7 @@
       "Name": "Mycophile",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Pesky_Jerks",
@@ -16467,7 +16472,7 @@
       "Name": "Reckless",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Rift_Destroyer",
@@ -16475,7 +16480,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Rift_Seeker",
@@ -16483,7 +16488,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Right_Back",
@@ -16499,7 +16504,7 @@
       "Name": "Rivalry",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Seasoned",
@@ -16563,7 +16568,7 @@
       "Name": "Surprise!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Swift_Removers",
@@ -16595,7 +16600,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "There_You_Are",
@@ -16619,7 +16624,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Vaporous_Expansion",
@@ -16650,16 +16655,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27498,
-      "Completed": 63
+      "Progressed": 27509,
+      "Completed": 64
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-24T18:59:19.4679752+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:09:12.5196218+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:06:22.9670409+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:59:18.5094866+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:09:12.519787+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:58:17.8080627+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:06:22.9671626+00:00"
 }

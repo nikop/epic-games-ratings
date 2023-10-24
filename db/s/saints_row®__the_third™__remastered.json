@@ -4,10 +4,10 @@
   "ProductSlug": "saints-row-the-third-remastered",
   "Ranking_Rating": 705,
   "Ranking_Popularity": 107,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2249,10 +2249,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3096,
       "NumberOfAwardsMax": 2218
+    },
+    {
+      "Time": "2023-10-24T21:57:41.0939767+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3097,
+      "NumberOfAwardsMax": 2218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3096,
+  "NumberOfAwards": 3097,
   "NumberOfAwardsMax": 2218,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2314,7 +2320,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has a Silly Community",
@@ -2340,8 +2346,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2023-10-24T11:57:47.184038+00:00",
+  "LastChanged": "2023-10-24T21:57:41.0939763+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.6283035+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:58:24.5020512+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:07:11.0728818+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:41.0939775+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:04:45.4810771+00:00"
 }

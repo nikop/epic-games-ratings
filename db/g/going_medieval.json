@@ -1355,9 +1355,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6337,
+  "EOS_Progressed": 6338,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11405,6 +11405,11 @@
       "Time": "2023-10-24T20:08:24.2086283+00:00",
       "NumProgressed": 6337,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-24T22:06:39.0910979+00:00",
+      "NumProgressed": 6338,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11416,7 +11421,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -11424,7 +11429,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -11456,7 +11461,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -11568,7 +11573,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -11592,7 +11597,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -11616,7 +11621,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -11640,7 +11645,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -11648,7 +11653,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3612
+      "UsersEstimate": 3613
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11656,22 +11661,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3295
+      "UsersEstimate": 3296
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6337,
+      "Progressed": 6338,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-20T01:42:23.0001276+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:09:34.968581+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:06:39.0910974+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.2385457+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:57:31.2610487+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:09:34.9686916+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:12.3000319+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:06:39.0911781+00:00"
 }

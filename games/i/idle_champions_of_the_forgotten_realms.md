@@ -14,16 +14,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.30% | ~597 |
 | The Arena of Blood | 0.30% | ~597 |
 | Spelljammers in Training | 0.30% | ~597 |
-| Were-verpowered | 0.20% | ~465 |
-| The Ring of Regeneration | 0.20% | ~465 |
-| Seeking Allies | 0.20% | ~465 |
-| Are Ya Chicken? | 0.20% | ~465 |
-| Mad Cow Disease | 0.20% | ~465 |
+| Were-verpowered | 0.20% | ~466 |
+| The Ring of Regeneration | 0.20% | ~466 |
+| Seeking Allies | 0.20% | ~466 |
+| Are Ya Chicken? | 0.20% | ~466 |
+| Mad Cow Disease | 0.20% | ~466 |
 | Dreamscape | 0.20% | ~398 |
 | The Path of Dreams | 0.20% | ~398 |
 | The Lost Hollyphant | 0.20% | ~398 |
 | Bel's Forge | 0.20% | ~398 |
-| Friendly Imps | 0.20% | ~465 |
+| Friendly Imps | 0.20% | ~466 |
 | The Sibriex | 0.20% | ~398 |
 | Wrecked Flying Fortress | 0.20% | ~398 |
 | The Bleeding Citadel | 0.20% | ~398 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,748 (Ranked 61)  
+Progressed: 232,753 (Ranked 61)  
 Completed: 2,384 (1.02%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -722,7 +722,7 @@ Completed: 2,384 (1.02%) (Ranked 147)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,748 | 2,384 |
+| 2023-10-24 | 232,753 | 2,384 |
 ## Awards
 Max (Great for Beginners): 5,444  (Ranked 69)  
 Sum: 32,194 (Ranked 41)  

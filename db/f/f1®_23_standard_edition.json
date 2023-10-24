@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -391,7 +391,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3376,
+  "EOS_Progressed": 3377,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -3356,6 +3356,11 @@
       "Time": "2023-10-24T20:07:40.4036695+00:00",
       "NumProgressed": 3376,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T22:06:15.8070132+00:00",
+      "NumProgressed": 3377,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3408,7 +3413,7 @@
       "Name": "Setting up for Success",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "achievement_0007",
@@ -3416,7 +3421,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "achievement_0008",
@@ -3424,7 +3429,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "achievement_0009",
@@ -3488,7 +3493,7 @@
       "Name": "Hitting a Season",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "achievement_0017",
@@ -3496,7 +3501,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_0018",
@@ -3544,7 +3549,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "achievement_0024",
@@ -3624,7 +3629,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "achievement_0034",
@@ -3632,7 +3637,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_0035",
@@ -3680,7 +3685,7 @@
       "Name": "One for the Book",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_0041",
@@ -3712,7 +3717,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "achievement_0045",
@@ -3750,16 +3755,16 @@
       "ID": "achievement_0049",
       "SetID": "9123ogc",
       "Name": "Proving Them Wrong",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 574
+      "UsersEstimate": 608
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3376,
+      "Progressed": 3377,
       "Completed": 0
     }
   ],
@@ -3767,8 +3772,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-19T14:57:14.4451199+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:09:02.5115889+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:06:15.8070126+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:01:09.3151506+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:09:02.5116995+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:59:21.3050263+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:06:15.8070716+00:00"
 }

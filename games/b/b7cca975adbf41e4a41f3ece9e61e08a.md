@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 89.00% | ~2,069 |
 | I Challenge You To Save More Money! | 82.00% | ~1,906 |
-| I Love How Tough You Are | 64.00% | ~1,488 |
+| I Love How Tough You Are | 65.00% | ~1,511 |
 | Wanna Come To My Place For Dinner? | 56.00% | ~1,302 |
 | What I Want Is You | 49.00% | ~1,139 |
 | To Be Or Not To Be | 45.00% | ~1,046 |

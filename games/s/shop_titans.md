@@ -48,32 +48,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.80% | ~1,105 |
 | Royal Ransom | 0.80% | ~1,105 |
 | Magical Harmony | 0.80% | ~1,105 |
-| A Notch Above the Rest | 0.70% | ~966 |
-| Above the Norm | 0.70% | ~966 |
-| A Ronin Reborn | 0.70% | ~966 |
-| The King's Caprice | 0.70% | ~966 |
-| Big Game Hunting | 0.70% | ~966 |
-| Scrapbooker | 0.70% | ~966 |
-| Locally Sourced | 0.70% | ~966 |
-| Flying off the Shelves | 0.70% | ~966 |
-| This Power Level...! | 0.70% | ~966 |
-| Master of Transmutation | 0.70% | ~966 |
-| Hidden Potential | 0.70% | ~966 |
-| Expansion in Session | 0.70% | ~966 |
-| Cranked up to 11 | 0.70% | ~966 |
-| Fit for a King | 0.70% | ~966 |
-| Mammonite | 0.70% | ~966 |
-| Wealth Beyond Measure | 0.70% | ~966 |
-| Fat Cat Tag Team | 0.70% | ~966 |
-| Necromancer Queen | 0.70% | ~966 |
-| Miracle Alchemist | 0.70% | ~966 |
-| Laden with Loot | 0.70% | ~966 |
-| Seasoned Journeyman | 0.70% | ~966 |
-| Scourge of the Seas | 0.70% | ~966 |
-| Black Friday Special | 0.70% | ~966 |
-| Special Ingredient | 0.70% | ~966 |
-| Complete Monopoly | 0.70% | ~966 |
-| King's Blade | 0.70% | ~966 |
+| A Notch Above the Rest | 0.70% | ~967 |
+| Above the Norm | 0.70% | ~967 |
+| A Ronin Reborn | 0.70% | ~967 |
+| The King's Caprice | 0.70% | ~967 |
+| Big Game Hunting | 0.70% | ~967 |
+| Scrapbooker | 0.70% | ~967 |
+| Locally Sourced | 0.70% | ~967 |
+| Flying off the Shelves | 0.70% | ~967 |
+| This Power Level...! | 0.70% | ~967 |
+| Master of Transmutation | 0.70% | ~967 |
+| Hidden Potential | 0.70% | ~967 |
+| Expansion in Session | 0.70% | ~967 |
+| Cranked up to 11 | 0.70% | ~967 |
+| Fit for a King | 0.70% | ~967 |
+| Mammonite | 0.70% | ~967 |
+| Wealth Beyond Measure | 0.70% | ~967 |
+| Fat Cat Tag Team | 0.70% | ~967 |
+| Necromancer Queen | 0.70% | ~967 |
+| Miracle Alchemist | 0.70% | ~967 |
+| Laden with Loot | 0.70% | ~967 |
+| Seasoned Journeyman | 0.70% | ~967 |
+| Scourge of the Seas | 0.70% | ~967 |
+| Black Friday Special | 0.70% | ~967 |
+| Special Ingredient | 0.70% | ~967 |
+| Complete Monopoly | 0.70% | ~967 |
+| King's Blade | 0.70% | ~967 |
 | Cream of the Crop | 0.60% | ~828 |
 | Top of the World | 0.60% | ~828 |
 | Proud Paladin | 0.60% | ~828 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,070 (Ranked 75)  
+Progressed: 138,073 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-21 | 137,935 | 171 |
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
-| 2023-10-24 | 138,070 | 172 |
+| 2023-10-24 | 138,073 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  

@@ -4,7 +4,7 @@
   "ProductSlug": "liberated-f13008",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-11T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.2817221+00:00",
   "LastChanged": "2023-03-31T05:58:19.2817221+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.0635789+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:57:42.3530824+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:45.9734594+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:21.1428945+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:08:29.9414363+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5524,
+  "EOS_Progressed": 5525,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4013,6 +4013,11 @@
       "Time": "2023-10-24T14:05:45.6604487+00:00",
       "NumProgressed": 5524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T22:05:08.3596632+00:00",
+      "NumProgressed": 5525,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4080,7 +4085,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4376,7 +4381,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ach_frp_many_modules",
@@ -4631,15 +4636,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5524,
+      "Progressed": 5525,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:07:43.168577+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:05:08.3596627+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.5188861+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:03:27.4581782+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:07:43.1687113+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:00:40.6480424+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:05:08.359767+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22713,
+  "EOS_Progressed": 22716,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -20543,6 +20543,11 @@
       "Time": "2023-10-24T21:09:46.3009867+00:00",
       "NumProgressed": 22713,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-24T22:06:47.0991419+00:00",
+      "NumProgressed": 22716,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20554,7 +20559,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -20586,7 +20591,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20594,7 +20599,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20674,7 +20679,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17489
+      "UsersEstimate": 17491
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20706,22 +20711,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22713,
+      "Progressed": 22716,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:09:46.3009861+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:06:47.0991414+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:04:32.8884184+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:09:46.3011724+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:01:20.9076114+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:06:47.0992699+00:00"
 }

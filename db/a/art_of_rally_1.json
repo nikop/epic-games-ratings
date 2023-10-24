@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10289,
+  "EOS_Progressed": 10290,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1729,6 +1729,11 @@
       "Time": "2023-10-24T19:11:10.5932792+00:00",
       "NumProgressed": 10289,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-24T22:09:03.1234684+00:00",
+      "NumProgressed": 10290,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1780,7 +1785,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1788,7 +1793,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1876,7 +1881,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -1964,7 +1969,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9877
+      "UsersEstimate": 9878
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1980,7 +1985,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6173
+      "UsersEstimate": 6174
     },
     {
       "ID": "ACH_NIGHT",
@@ -1988,7 +1993,7 @@
       "Name": "night ride",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1996,7 +2001,7 @@
       "Name": "the artist",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_RAIN",
@@ -2004,7 +2009,7 @@
       "Name": "snorkel",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_ROLL",
@@ -2028,7 +2033,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4424
+      "UsersEstimate": 4425
     },
     {
       "ID": "ACH_SNOW",
@@ -2076,22 +2081,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7408
+      "UsersEstimate": 7409
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10289,
+      "Progressed": 10290,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:10:50.6204682+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:09:03.1234679+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.5718252+00:00",
-  "LastUpdate_Ratings": "2023-10-24T21:03:45.2185382+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:50.6205152+00:00"
+  "LastUpdate_Ratings": "2023-10-24T22:00:52.0024861+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:09:03.1235092+00:00"
 }

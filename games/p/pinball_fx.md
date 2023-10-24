@@ -6,11 +6,11 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~224,645 |
-| I know the Rules | 35.00% | ~95,885 |
-| I Found it! | 11.00% | ~30,135 |
-| Contender | 10.00% | ~27,396 |
-| First but not Last | 4.00% | ~10,958 |
+| Ball Launched | 82.00% | ~224,658 |
+| I know the Rules | 35.00% | ~95,891 |
+| I Found it! | 11.00% | ~30,137 |
+| Contender | 10.00% | ~27,397 |
+| First but not Last | 4.00% | ~10,959 |
 | Ready Steady Score | 3.00% | ~8,219 |
 | Dress Code | 3.00% | ~8,219 |
 | Full Loot Madness | 2.00% | ~5,479 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 273,957 (Ranked 51)  
+Progressed: 273,973 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,21 +224,21 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-21 | 273,090 | 0 |
 | 2023-10-22 | 273,395 | 0 |
 | 2023-10-23 | 273,626 | 0 |
-| 2023-10-24 | 273,957 | 0 |
+| 2023-10-24 | 273,973 | 0 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 280)  
-Sum: 1,575 (Ranked 225)  
+Sum: 1,578 (Ranked 225)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 197 |
-| This game is Great for Quick Sessions | 184 |
+| This game is Great for Quick Sessions | 186 |
 | This game has Quickly Understood Controls | 164 |
 | This game is Relaxing | 163 |
 | This game is Highly Recommended | 157 |
 | This game is Extremely Fun | 156 |
 | This game has Competitive Players | 150 |
-| This game has Challenging Combat | 108 |
+| This game has Challenging Combat | 109 |
 | This game has a Competitive Community | 104 |
 | This game has Amazing Storytelling | 101 |
 | This game has Amazing Characters | 91 |
@@ -420,3 +420,4 @@ Diff (max vs sum): 55
 | 2023-10-19 | 4.06 | - | 197 | 1,573 |
 | 2023-10-21 | 4.06 | - | 197 | 1,574 |
 | 2023-10-22 | 4.06 | - | 197 | 1,575 |
+| 2023-10-24 | 4.06 | - | 197 | 1,578 |

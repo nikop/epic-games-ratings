@@ -36,29 +36,29 @@ Rating: 4.50 (Ranked 575)
 | Summoner | 1.00% | ~275 |
 | Terrifying | 1.00% | ~275 |
 | Welcome to the Crew | 1.00% | ~275 |
-| Rift Destroyer | 0.90% | ~247 |
+| Rift Destroyer | 0.90% | ~248 |
 | Collector | 0.80% | ~220 |
 | Escape Artist | 0.80% | ~220 |
 | Tobin's Prodigy | 0.80% | ~220 |
-| Diabolical | 0.70% | ~192 |
-| Reckless | 0.70% | ~192 |
-| Rivalry | 0.70% | ~192 |
-| Fragile Panes | 0.50% | ~137 |
-| Liability | 0.50% | ~137 |
-| Surprise! | 0.50% | ~137 |
-| Rift Seeker | 0.30% | ~82 |
-| Therapeutic | 0.30% | ~82 |
+| Diabolical | 0.70% | ~193 |
+| Reckless | 0.70% | ~193 |
+| Rivalry | 0.70% | ~193 |
+| Fragile Panes | 0.50% | ~138 |
+| Liability | 0.50% | ~138 |
+| Surprise! | 0.50% | ~138 |
+| Rift Seeker | 0.30% | ~83 |
+| Therapeutic | 0.30% | ~83 |
 | Master Collector | 0.20% | ~55 |
-| Catostrophic Destroyer | 0.10% | ~27 |
-| I don't need these | 0.10% | ~27 |
-| Ghost Expert | 0.10% | ~27 |
-| Line em' up | 0.10% | ~27 |
-| Little Help Here | 0.10% | ~27 |
-| Mycophile | 0.10% | ~27 |
-| Ultimate Defense | 0.10% | ~27 |
+| Catostrophic Destroyer | 0.10% | ~28 |
+| I don't need these | 0.10% | ~28 |
+| Ghost Expert | 0.10% | ~28 |
+| Line em' up | 0.10% | ~28 |
+| Little Help Here | 0.10% | ~28 |
+| Mycophile | 0.10% | ~28 |
+| Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,498 (Ranked 120)  
-Completed: 63 (0.23%) (Ranked 223)  
+Progressed: 27,509 (Ranked 120)  
+Completed: 64 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 63 (0.23%) (Ranked 223)
 | 2023-10-21 | 26,990 | 60 |
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
-| 2023-10-24 | 27,498 | 63 |
+| 2023-10-24 | 27,509 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,524 (Ranked 184)  

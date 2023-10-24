@@ -7,15 +7,16 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 0.40% | ~6 |
+| Let Me Get My Chisel | 0.30% | ~4 |
 | Gotta Ca... Must Collect All of Them | 0.30% | ~4 |
 | This Too Shall Pass | 0.30% | ~4 |
 | How Romantic! | 0.30% | ~4 |
 | Cutthroat Competitors | 0.30% | ~4 |
+| Daybreak | 0.30% | ~4 |
 | Me and My Familiar | 0.20% | ~3 |
-| Let Me Get My Chisel | 0.20% | ~3 |
 | Passing Shadow | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
-| Daybreak | 0.20% | ~3 |
+| A Lowly Crust of Beef | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
@@ -33,7 +34,6 @@ Number of Ratings: 45  (23.09.2022)
 | Storied Past | 0.00% | ~0 |
 | A Mythic Menagerie | 0.00% | ~0 |
 | Worldwalker | 0.00% | ~0 |
-| A Lowly Crust of Beef | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |

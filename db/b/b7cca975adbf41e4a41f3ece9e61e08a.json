@@ -970,9 +970,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7opfcp",
       "Name": "I Love How Tough You Are",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1511
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1217,8 +1217,8 @@
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-10-24T21:10:19.0228101+00:00",
+  "LastChanged_Achievements": "2023-10-24T22:08:10.629115+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-24T20:58:01.6735132+00:00",
-  "LastUpdate_Achievements": "2023-10-24T21:10:19.0228584+00:00"
+  "LastUpdate_Ratings": "2023-10-24T21:57:29.3066848+00:00",
+  "LastUpdate_Achievements": "2023-10-24T22:08:10.6291486+00:00"
 }
