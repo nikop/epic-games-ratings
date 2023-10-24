@@ -116,8 +116,8 @@
 | 114 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 115 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 116 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
-| 117 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.86% |
-| 118 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 117 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.85% |
+| 117 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 119 | [Sifu](games/s/sifu.md) | 1.81% |
 | 120 | [Frogun](games/f/frogun.md) | 1.79% |
 | 121 | [Night Book](games/n/night_book.md) | 1.77% |
@@ -147,8 +147,8 @@
 | 143 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 146 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.02% |
 | 147 | [Sable](games/s/sable.md) | 1.01% |
-| 148 | [Trifox](games/t/trifox.md) | 1.00% |
-| 149 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.99% |
+| 148 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.99% |
+| 148 | [Trifox](games/t/trifox.md) | 0.99% |
 | 150 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.97% |
 | 151 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 151 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
@@ -180,9 +180,9 @@
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 179 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 179 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.52% |
-| 182 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 182 | [Dead Space](games/d/dead_space.md) | 0.51% |
+| 181 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 181 | [Dead Space](games/d/dead_space.md) | 0.51% |
+| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.51% |
 | 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 185 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.48% |
 | 186 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
@@ -229,9 +229,9 @@
 | 227 | [Blanc](games/b/blanc.md) | 0.21% |
 | 227 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 227 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
-| 227 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.21% |
 | 227 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.21% |
-| 232 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 231 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.20% |
+| 231 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 233 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
 | 233 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
