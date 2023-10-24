@@ -10,6 +10,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.40% | ~3,574 |
 | Rough Landing | 0.40% | ~3,574 |
 | The High Priestess | 0.40% | ~3,574 |
+| True Soldier | 0.40% | ~3,574 |
 | All the President's Men | 0.40% | ~89 |
 | Arachnophobia | 0.40% | ~89 |
 | Right Back At Ya | 0.30% | ~2,681 |
@@ -21,7 +22,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.30% | ~2,681 |
 | The Wheel of Fortune | 0.30% | ~2,681 |
 | The Jungle | 0.30% | ~2,681 |
-| True Soldier | 0.30% | ~2,681 |
 | True Warrior | 0.30% | ~2,681 |
 | Two Heads, One Bullet | 0.30% | ~2,681 |
 | V for Vendetta | 0.30% | ~2,681 |
@@ -29,6 +29,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 0.20% | ~1,787 |
 | Bushido and Chill | 0.20% | ~1,787 |
 | To Protect and Serve | 0.20% | ~1,787 |
+| The Wandering Fool | 0.20% | ~1,787 |
 | Gun Fu | 0.20% | ~1,787 |
 | Master Crafter | 0.20% | ~1,787 |
 | I Am The Law | 0.20% | ~1,787 |
@@ -42,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.20% | ~44 |
 | King of Wands | 0.20% | ~44 |
 | City Lights | 0.10% | ~894 |
-| The Wandering Fool | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
 | Little Tokyo | 0.10% | ~894 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,585 (Ranked 15)  
+Progressed: 893,590 (Ranked 15)  
 Completed: 2,710 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,710 (0.30%) (Ranked 213)
 | 2023-10-21 | 893,167 | 2,695 |
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
-| 2023-10-24 | 893,585 | 2,710 |
+| 2023-10-24 | 893,590 | 2,710 |
 ## Awards
 Max (Character Customization): 100,955  (Ranked 9)  
 Sum: 323,314 (Ranked 11)  

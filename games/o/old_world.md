@@ -119,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.60% | ~89 |
 | Ambition Victory | 0.60% | ~89 |
 | Ready | 0.50% | ~75 |
+| Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
 | Babylonia | 0.50% | ~75 |
 | Egypt | 0.50% | ~75 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Devout | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
-| Noble Difficulty | 0.40% | ~60 |
 | Cao'an | 0.40% | ~60 |
 | Adur Burzen-Mihr | 0.40% | ~60 |
 | Learn to Play 5 | 0.40% | ~60 |

@@ -18,7 +18,9 @@
 | Picture of the atoll | 5.00% | ~1 |
 | Picture of the reef | 5.00% | ~1 |
 | Picture of the island | 5.00% | ~1 |
+| In search of knowledge | 5.00% | ~1 |
 | Power of the dolphin | 5.00% | ~1 |
+| Power of the ray | 5.00% | ~1 |
 | Pro Photographer | 0.00% | ~0 |
 | Recycling expert | 0.00% | ~0 |
 | Recycling Legend | 0.00% | ~0 |
@@ -31,9 +33,7 @@
 | Island protector | 0.00% | ~0 |
 | Island gardian angel | 0.00% | ~0 |
 | Picture of the creek | 0.00% | ~0 |
-| In search of knowledge | 0.00% | ~0 |
 | Well of science | 0.00% | ~0 |
-| Power of the ray | 0.00% | ~0 |
 | Power of the shark | 0.00% | ~0 |
 | The fifth one! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

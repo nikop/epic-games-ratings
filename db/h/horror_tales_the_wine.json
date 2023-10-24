@@ -2,10 +2,10 @@
   "ID": "a277815803c441fb8954b4caa7559920",
   "Name": "HORROR TALES The Wine",
   "ProductSlug": "horror-tales-the-wine-3ab2b2",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-07-29T22:00:00+00:00",
     "PcReleaseDate": "2021-07-29T22:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.187961+00:00",
   "LastChanged": "2023-03-31T05:58:35.1879611+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.1177578+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:01:27.8793593+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:07:09.0309277+00:00"
+  "LastUpdate_Ratings": "2023-10-24T09:01:25.3971967+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:07:03.0524218+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,560 |
-| Zealous | 3.00% | ~28,920 |
-| Not half bad | 3.00% | ~28,920 |
-| Apt Survivor | 3.00% | ~28,920 |
-| Skillful | 3.00% | ~28,920 |
-| Make Some Noise | 3.00% | ~28,920 |
-| The Grand Sacrifice | 2.00% | ~19,280 |
-| Agonizing Escape | 2.00% | ~19,280 |
-| Backdoor Escape | 2.00% | ~19,280 |
-| No one left behind | 2.00% | ~19,280 |
-| Medic | 2.00% | ~19,280 |
-| Handyman | 2.00% | ~19,280 |
-| Perfect Escape | 2.00% | ~19,280 |
-| Perfect Killing | 2.00% | ~19,280 |
-| Bloody Millionaire | 2.00% | ~19,280 |
-| Survival Treasures | 2.00% | ~19,280 |
-| I | 2.00% | ~19,280 |
-| Engineer | 2.00% | ~19,280 |
-| Sorted | 2.00% | ~19,280 |
-| Healthy Obsession | 2.00% | ~19,280 |
-| Resurgence | 2.00% | ~19,280 |
-| Preemptive Strike | 2.00% | ~19,280 |
-| Humanitarian | 2.00% | ~19,280 |
+| It wakes | 4.00% | ~38,561 |
+| Zealous | 3.00% | ~28,921 |
+| Not half bad | 3.00% | ~28,921 |
+| Apt Survivor | 3.00% | ~28,921 |
+| Skillful | 3.00% | ~28,921 |
+| Make Some Noise | 3.00% | ~28,921 |
+| The Grand Sacrifice | 2.00% | ~19,281 |
+| Agonizing Escape | 2.00% | ~19,281 |
+| Backdoor Escape | 2.00% | ~19,281 |
+| No one left behind | 2.00% | ~19,281 |
+| Medic | 2.00% | ~19,281 |
+| Handyman | 2.00% | ~19,281 |
+| Perfect Escape | 2.00% | ~19,281 |
+| Perfect Killing | 2.00% | ~19,281 |
+| Bloody Millionaire | 2.00% | ~19,281 |
+| Survival Treasures | 2.00% | ~19,281 |
+| I | 2.00% | ~19,281 |
+| Engineer | 2.00% | ~19,281 |
+| Sorted | 2.00% | ~19,281 |
+| Healthy Obsession | 2.00% | ~19,281 |
+| Resurgence | 2.00% | ~19,281 |
+| Preemptive Strike | 2.00% | ~19,281 |
+| Humanitarian | 2.00% | ~19,281 |
 | Escape Artist | 1.00% | ~9,640 |
 | I've got your back | 1.00% | ~9,640 |
 | Nerves of steel | 1.00% | ~9,640 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~964 |
 | Adept Ripley | 0.10% | ~964 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,989 (Ranked 14)  
+Progressed: 964,036 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,14 +423,14 @@ Completed: 52 (0.01%) (Ranked 304)
 | 2023-10-21 | 957,026 | 52 |
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
-| 2023-10-24 | 963,989 | 52 |
+| 2023-10-24 | 964,036 | 52 |
 ## Awards
-Max (Diverse Characters): 34,489  (Ranked 15)  
-Sum: 266,197 (Ranked 13)  
+Max (Diverse Characters): 34,544  (Ranked 15)  
+Sum: 266,252 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 34,489 |
+| This game has Diverse Characters | 34,544 |
 | This game is Highly Recommended | 30,422 |
 | This game has Amazing Characters | 30,075 |
 | This game has Competitive Players | 29,998 |
@@ -717,4 +717,4 @@ Diff (max vs sum): 2
 | 2023-10-21 | 4.51 | - | 34,341 | 265,226 |
 | 2023-10-22 | 4.51 | - | 34,415 | 265,759 |
 | 2023-10-23 | 4.51 | - | 34,489 | 266,169 |
-| 2023-10-24 | 4.51 | - | 34,489 | 266,197 |
+| 2023-10-24 | 4.51 | - | 34,544 | 266,252 |

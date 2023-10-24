@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -1143,9 +1143,9 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_AlonewithThem",
@@ -1407,9 +1407,9 @@
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1464,8 +1464,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:05:24.3065044+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:05:17.4448875+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:00:22.4384288+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:05:24.3065709+00:00"
+  "LastUpdate_Ratings": "2023-10-24T09:00:18.3501701+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:05:17.4449289+00:00"
 }

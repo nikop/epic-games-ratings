@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.77,
+  "EOS_Completed_Percentage": 1.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -291,6 +291,11 @@
       "Time": "2023-10-23T19:03:14.8533899+00:00",
       "NumProgressed": 226,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T09:04:06.995661+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -318,7 +323,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "hopeful",
@@ -340,9 +345,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "marriage_is_off",
@@ -358,7 +363,7 @@
       "Name": "No One Is Safe",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "off_his_meds",
@@ -374,7 +379,7 @@
       "Name": "On Your Bike",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "pearce",
@@ -390,7 +395,7 @@
       "Name": "Personal Life",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "save_dad",
@@ -414,7 +419,7 @@
       "Name": "Unhelpful",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "use_your_connections",
@@ -428,16 +433,16 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 4
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:04:14.7021122+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:04:06.9956601+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:58:12.8636698+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:04:14.7021298+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:58:06.8849832+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:04:06.9956792+00:00"
 }

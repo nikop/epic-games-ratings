@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -66,9 +66,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 150,
+      "Percentage": 160,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EV_ACH02",
@@ -82,9 +82,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 150,
+      "Percentage": 160,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EV_ACH04",
@@ -424,8 +424,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:09:34.1235993+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:09:07.8774651+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:00:29.7101348+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:09:34.1236674+00:00"
+  "LastUpdate_Ratings": "2023-10-24T09:00:24.3032284+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:09:07.8775036+00:00"
 }

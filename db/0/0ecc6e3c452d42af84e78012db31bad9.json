@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3624,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -8514,6 +8514,11 @@
       "Time": "2023-10-24T08:04:54.3604409+00:00",
       "NumProgressed": 3623,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-24T09:04:47.2834744+00:00",
+      "NumProgressed": 3624,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -8589,7 +8594,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ach_first_picture",
@@ -8613,7 +8618,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "ach_game_opened",
@@ -8621,7 +8626,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "ach_magic_wand",
@@ -8645,21 +8650,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3624,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:04:54.3604404+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:04:47.2834734+00:00",
   "LastUpdate_AppInfo": "2023-10-20T17:57:00.7331575+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:59:40.1965461+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:04:54.3605061+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:59:36.440353+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:04:47.2835385+00:00"
 }

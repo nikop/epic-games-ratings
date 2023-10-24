@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -6459,9 +6459,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 433
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6516,8 +6516,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:04:21.9115743+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:04:14.3800076+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:59:54.8281146+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:04:21.9116919+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:59:49.0274394+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:04:14.3801082+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3be9c58c47024ef6831863206833a1b1",
   "Name": "The Sorrowvirus",
   "ProductSlug": "the-sorrowvirus-bc8c82",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-05-30T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T09:57:09.9634366+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:58:08.8132782+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:08:02.1986918+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:58:02.3621687+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:07:46.3404395+00:00"
 }

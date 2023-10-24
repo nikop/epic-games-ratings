@@ -2,10 +2,10 @@
   "ID": "8d86c6965e66438d89f062a09a273782",
   "Name": "New Arc Line",
   "ProductSlug": "new-arc-line-730ca5",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-19T15:57:06.2054661+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:59:40.006161+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:10:05.4185724+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:59:36.2817489+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:09:28.9472918+00:00"
 }

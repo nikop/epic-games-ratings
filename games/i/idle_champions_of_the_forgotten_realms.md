@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Hollyphant | 0.20% | ~398 |
 | Bel's Forge | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
+| Wrecked Flying Fortress | 0.20% | ~398 |
 | The Bleeding Citadel | 0.20% | ~398 |
 | Idyllglen | 0.20% | ~398 |
 | The Battle of High Hall Tower | 0.20% | ~398 |
@@ -436,7 +437,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.10% | ~199 |
 | The Archduke's Blessing | 0.10% | ~199 |
 | A Neutral Party | 0.10% | ~199 |
-| Wrecked Flying Fortress | 0.10% | ~199 |
 | Relentless Peril | 0.10% | ~199 |
 | Rickety Rubble | 0.10% | ~199 |
 | Expert Opinion | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,695 (Ranked 61)  
-Completed: 2,382 (1.02%) (Ranked 146)  
+Progressed: 232,699 (Ranked 61)  
+Completed: 2,383 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -722,7 +722,7 @@ Completed: 2,382 (1.02%) (Ranked 146)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,695 | 2,382 |
+| 2023-10-24 | 232,699 | 2,383 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
 Sum: 32,183 (Ranked 41)  

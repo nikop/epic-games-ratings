@@ -17,8 +17,8 @@ Rating: 4.57 (Ranked 459)
 | You Only Live Twice | 16.00% | ~2,987 |
 | Fully Decked Out | 16.00% | ~2,987 |
 | A view to Win | 13.00% | ~2,427 |
+| The Living Portrait | 12.00% | ~2,240 |
 | Smells Like Trouble | 12.00% | ~2,240 |
-| The Living Portrait | 11.00% | ~2,053 |
 | My Motto, My Creed | 11.00% | ~2,053 |
 | Private Collection | 11.00% | ~2,053 |
 | Killer Looks | 11.00% | ~2,053 |

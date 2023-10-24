@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_Completed": 75,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -430,10 +430,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3033,
-  "EOS_Completed": 121,
+  "EOS_Completed": 122,
   "EOS_NewPlayers": 77,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.99,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -3979,6 +3979,11 @@
       "Time": "2023-10-24T05:04:43.680781+00:00",
       "NumProgressed": 3033,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2023-10-24T09:05:25.9767204+00:00",
+      "NumProgressed": 3033,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 14,
@@ -3996,9 +4001,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1122
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4102,15 +4107,15 @@
       "ID": "4kfb9pd",
       "IsBase": true,
       "Progressed": 3033,
-      "Completed": 121
+      "Completed": 122
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-19T19:00:24.4466804+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:05:32.7255868+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:05:25.9767198+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:59:11.8955371+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:05:32.7256421+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:59:06.3241858+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:05:25.9767569+00:00"
 }

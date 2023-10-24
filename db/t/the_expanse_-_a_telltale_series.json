@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 140,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -175,13 +175,19 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-24T09:00:46.4310694+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14285,
+  "EOS_Progressed": 14286,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
@@ -9471,6 +9477,11 @@
       "Time": "2023-10-24T07:06:02.288513+00:00",
       "NumProgressed": 14285,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-24T09:06:55.3849748+00:00",
+      "NumProgressed": 14286,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9722,22 +9733,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14285,
+      "Progressed": 14286,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 239,
-      "Completed": 239
+      "Progressed": 240,
+      "Completed": 240
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-10-21T08:59:07.5035136+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:07:01.8027976+00:00",
+  "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:06:55.3849743+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:00:49.8035585+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:07:01.802878+00:00"
+  "LastUpdate_Ratings": "2023-10-24T09:00:46.43107+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:06:55.3850581+00:00"
 }

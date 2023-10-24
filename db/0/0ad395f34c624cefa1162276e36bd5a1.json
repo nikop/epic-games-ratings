@@ -2,10 +2,10 @@
   "ID": "0ad395f34c624cefa1162276e36bd5a1",
   "Name": "Extreme Car Drift Simulator",
   "ProductSlug": "extreme-car-drift-simulator-cbd3c8",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-18T17:00:00+00:00",
     "PcReleaseDate": "2023-02-03T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-19T23:57:40.8350548+00:00",
   "LastUpdate_AppInfo": "2023-10-23T20:57:11.7893363+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:58:32.4204836+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:03:48.9275851+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:58:27.1660343+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:03:40.9773049+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ed2acb55f4484f2396c68fc270448ea9",
   "Name": "Tom Clancy\u0027s Rainbow Six Lockdown STANDARD EDITION",
   "ProductSlug": "rainbow-six-lockdown",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-17T00:00:00+00:00",
     "PcReleaseDate": "2023-08-17T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T02:15:35.5528182+00:00",
   "LastUpdate_AppInfo": "2023-10-19T06:57:17.4478541+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:58:18.6627331+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:10:13.4249629+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:58:13.0329323+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:09:36.9432936+00:00"
 }

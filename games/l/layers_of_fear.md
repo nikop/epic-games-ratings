@@ -4,19 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's covered up for a reason | 50.00% | ~2 |
-| Something important | 50.00% | ~2 |
-| Another perspective | 25.00% | ~1 |
-| Refuse to look | 25.00% | ~1 |
-| Scraps of love | 25.00% | ~1 |
-| Debut | 25.00% | ~1 |
-| The artist’s impression | 25.00% | ~1 |
-| First steps | 25.00% | ~1 |
-| Lights! Camera! Action! | 25.00% | ~1 |
-| The Perfect Storm | 25.00% | ~1 |
-| A piece of the story | 25.00% | ~1 |
-| The art of movement | 25.00% | ~1 |
-| Wanderer | 25.00% | ~1 |
+| It's covered up for a reason | 40.00% | ~2 |
+| Something important | 40.00% | ~2 |
+| Another perspective | 20.00% | ~1 |
+| Refuse to look | 20.00% | ~1 |
+| Do what you have to | 20.00% | ~1 |
+| Scraps of love | 20.00% | ~1 |
+| Debut | 20.00% | ~1 |
+| The artist’s impression | 20.00% | ~1 |
+| First steps | 20.00% | ~1 |
+| Lights! Camera! Action! | 20.00% | ~1 |
+| The Perfect Storm | 20.00% | ~1 |
+| A piece of the story | 20.00% | ~1 |
+| The art of movement | 20.00% | ~1 |
+| Wanderer | 20.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Breaking free | 0.00% | ~0 |
@@ -28,7 +29,6 @@
 | Dark correspondence | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
-| Do what you have to | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | Face your fears | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 587)  
+Progressed: 5 (Ranked 576)  
 Completed: 0 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 323)
 | 2023-08-03 | 2 | 0 |
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
+| 2023-10-24 | 5 | 0 |

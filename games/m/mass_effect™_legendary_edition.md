@@ -67,12 +67,12 @@
 | Treason | 30.00% | ~237 |
 | Digital Exorcist | 30.00% | ~237 |
 | Bringer of War | 30.00% | ~237 |
+| Friend or Foe | 29.00% | ~229 |
 | Doppelganger | 29.00% | ~229 |
 | First Aid Specialist | 28.00% | ~221 |
 | Mission Accomplished | 28.00% | ~221 |
 | Suicide Mission | 28.00% | ~221 |
 | Against All Odds | 28.00% | ~221 |
-| Friend or Foe | 28.00% | ~221 |
 | Mobilizer | 28.00% | ~221 |
 | Untouchable | 27.00% | ~213 |
 | Eye of the Hurricane | 26.00% | ~205 |

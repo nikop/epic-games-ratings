@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 170.00% | ~17 |
+| Blue Dreams | 160.00% | ~16 |
+| He's Famous! | 160.00% | ~16 |
 | Better On Ice | 160.00% | ~16 |
 | I Broke It | 160.00% | ~16 |
-| Blue Dreams | 150.00% | ~15 |
-| He's Famous! | 150.00% | ~15 |
 | True Legends | 150.00% | ~15 |
 | Krugmazing | 140.00% | ~14 |
 | Cutie Poro | 140.00% | ~14 |

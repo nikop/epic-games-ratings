@@ -2,10 +2,10 @@
   "ID": "028bcd49e55345a5bb0057115154dd6d",
   "Name": "Police Car SUV Simulator",
   "ProductSlug": "police-car-suv-simulator-092560",
-  "Ranking_EOS_Progress": 696,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-25T17:30:00+00:00",
     "PcReleaseDate": "2023-07-13T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-27T15:57:03.840308+00:00",
   "LastUpdate_AppInfo": "2023-10-17T21:57:12.6639854+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:58:29.2804644+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:07:15.6859291+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:58:22.8759624+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:07:09.6957091+00:00"
 }

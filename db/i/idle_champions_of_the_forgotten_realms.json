@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7555,10 +7555,10 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232695,
-  "EOS_Completed": 2382,
-  "EOS_NewPlayers": 647,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 232699,
+  "EOS_Completed": 2383,
+  "EOS_NewPlayers": 649,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -28410,6 +28410,11 @@
       "Time": "2023-10-24T08:07:39.5088875+00:00",
       "NumProgressed": 232695,
       "NumCompleted": 2382
+    },
+    {
+      "Time": "2023-10-24T09:07:33.7903852+00:00",
+      "NumProgressed": 232699,
+      "NumCompleted": 2383
     }
   ],
   "TotalAchievements": 528,
@@ -31747,9 +31752,9 @@
       "ID": "objective_completed_817",
       "SetID": "415jc5c",
       "Name": "Wrecked Flying Fortress",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_818",
@@ -32644,21 +32649,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198969,
+      "Progressed": 198973,
       "Completed": 3674
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232695,
-      "Completed": 2382
+      "Progressed": 232699,
+      "Completed": 2383
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T22:59:37.9489888+00:00",
-  "LastChanged_Achievements": "2023-10-24T08:07:39.5088869+00:00",
+  "LastChanged_Achievements": "2023-10-24T09:07:33.7903847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-24T08:00:35.8362953+00:00",
-  "LastUpdate_Achievements": "2023-10-24T08:07:39.5122756+00:00"
+  "LastUpdate_Ratings": "2023-10-24T09:00:31.0018209+00:00",
+  "LastUpdate_Achievements": "2023-10-24T09:07:33.7939488+00:00"
 }
