@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-10-04T08:05:55.5813903+00:00",
@@ -467,6 +467,11 @@
       "Time": "2023-10-24T04:04:27.5317465+00:00",
       "NumProgressed": 152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T05:04:13.4366993+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -479,7 +484,7 @@
       "Name": "Rookie",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -493,9 +498,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -621,9 +626,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -631,7 +636,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -639,7 +644,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -653,9 +658,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -735,15 +740,15 @@
       "Name": "Spin the wheel",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -751,7 +756,7 @@
       "Name": "Extra gear",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -759,7 +764,7 @@
       "Name": "Perfectionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -813,23 +818,23 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:04:27.531746+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:04:13.4366989+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:00:18.3254368+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:04:27.5317813+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:59:41.1520271+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:04:13.4367279+00:00"
 }

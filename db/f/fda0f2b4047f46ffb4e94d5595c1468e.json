@@ -5,10 +5,10 @@
   "Ranking_Rating": 633,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 158,
-  "Ranking_EOS_Progress": 157,
+  "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1659,9 +1659,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 8005,
+  "EOS_Progressed": 8006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5539,6 +5539,11 @@
       "Time": "2023-10-24T04:04:58.9540356+00:00",
       "NumProgressed": 8005,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T05:04:40.6554482+00:00",
+      "NumProgressed": 8006,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5567,7 +5572,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "ach04",
@@ -5663,7 +5668,7 @@
       "Name": "Give A Koin",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ach16",
@@ -5727,7 +5732,7 @@
       "Name": "Take And Deny",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ach24",
@@ -5735,7 +5740,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "ach25",
@@ -5799,7 +5804,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "ach33",
@@ -5847,7 +5852,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ach39",
@@ -5879,7 +5884,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ach43",
@@ -5887,7 +5892,7 @@
       "Name": "Working Overtime",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "ach44",
@@ -5903,7 +5908,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ach46",
@@ -5950,7 +5955,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8005,
+      "Progressed": 8006,
       "Completed": 0
     }
   ],
@@ -5958,8 +5963,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-24T02:58:29.8160034+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:04:58.9540352+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:04:40.6554477+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:58:30.857086+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:04:58.9541003+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:58:11.8011627+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:04:40.6554986+00:00"
 }

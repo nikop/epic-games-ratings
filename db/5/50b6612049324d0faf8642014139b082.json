@@ -4,8 +4,8 @@
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 696,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-17T18:57:06.1003105+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:59:10.3065651+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:09:45.1573205+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:58:46.0784541+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:09:05.7863513+00:00"
 }

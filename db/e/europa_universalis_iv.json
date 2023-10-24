@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11115,9 +11115,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 438245,
+  "EOS_Progressed": 438260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5397,
+  "EOS_NewPlayers": 5404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32375,6 +32375,11 @@
       "Time": "2023-10-24T04:05:55.3657157+00:00",
       "NumProgressed": 438245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T05:05:29.2533939+00:00",
+      "NumProgressed": 438260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -32474,7 +32479,7 @@
       "Name": "Absolutely",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -32530,7 +32535,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_all_blue",
@@ -32626,7 +32631,7 @@
       "Name": "At every continent",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -33002,7 +33007,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -33082,7 +33087,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -33394,7 +33399,7 @@
       "Name": "Grand Coalition",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_grand_duchy",
@@ -33538,7 +33543,7 @@
       "Name": "In the Name of the Father",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -33586,7 +33591,7 @@
       "Name": "Italian Ambition",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_its_all_about_luck",
@@ -33594,7 +33599,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -33602,7 +33607,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -33634,7 +33639,7 @@
       "Name": "Just a Little Patience",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_just_resting_in_my_account",
@@ -34098,7 +34103,7 @@
       "Name": "One Family to Rule them All",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -34322,7 +34327,7 @@
       "Name": "Respected",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -34354,7 +34359,7 @@
       "Name": "Ruina Imperii",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_sailor_mon",
@@ -34666,7 +34671,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13147
+      "UsersEstimate": 13148
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -34786,7 +34791,7 @@
       "Name": "The pen is mightier than the sword",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -34810,7 +34815,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -34874,7 +34879,7 @@
       "Name": "This is My Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_this_is_persia",
@@ -34922,7 +34927,7 @@
       "Name": "Time Bandit",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_to_the_bone",
@@ -34954,7 +34959,7 @@
       "Name": "Traditional Player",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_triple_rome",
@@ -34970,7 +34975,7 @@
       "Name": "Trophy Hunter",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_true_catholic",
@@ -34978,7 +34983,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -34994,7 +34999,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4382
+      "UsersEstimate": 4383
     },
     {
       "ID": "achievement_trustworthy",
@@ -35106,7 +35111,7 @@
       "Name": "Voting Streak",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 877
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -35217,21 +35222,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 438245,
+      "Progressed": 438260,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 438245,
+      "Progressed": 438260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-23T18:01:16.2262497+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:05:55.3657154+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:05:29.2533937+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:00:38.3346902+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:05:55.3668024+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:59:57.8935022+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:05:29.2545268+00:00"
 }

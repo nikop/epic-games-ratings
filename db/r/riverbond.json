@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,7 +497,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529890,
+  "EOS_Progressed": 529891,
   "EOS_Completed": 490,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 3,
@@ -20382,6 +20382,11 @@
       "Time": "2023-10-24T04:07:15.3901465+00:00",
       "NumProgressed": 529890,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-24T05:06:36.5086655+00:00",
+      "NumProgressed": 529891,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 57,
@@ -20401,7 +20406,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238450
+      "UsersEstimate": 238451
     },
     {
       "ID": "11",
@@ -20409,7 +20414,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370923
+      "UsersEstimate": 370924
     },
     {
       "ID": "12",
@@ -20601,7 +20606,7 @@
       "Name": "Noble Intentions",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26494
+      "UsersEstimate": 26495
     },
     {
       "ID": "34",
@@ -20617,7 +20622,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264945
+      "UsersEstimate": 264946
     },
     {
       "ID": "36",
@@ -20625,7 +20630,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84782
+      "UsersEstimate": 84783
     },
     {
       "ID": "37",
@@ -20665,7 +20670,7 @@
       "Name": "Rising Star",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26494
+      "UsersEstimate": 26495
     },
     {
       "ID": "41",
@@ -20769,7 +20774,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243749
+      "UsersEstimate": 243750
     },
     {
       "ID": "53",
@@ -20793,7 +20798,7 @@
       "Name": "Slime Slayer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26494
+      "UsersEstimate": 26495
     },
     {
       "ID": "56",
@@ -20848,15 +20853,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529890,
+      "Progressed": 529891,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:07:15.3901462+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:06:36.5086652+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:59:16.0512292+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:07:15.3903079+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:58:51.4948885+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:06:36.5087964+00:00"
 }

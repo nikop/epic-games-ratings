@@ -4,11 +4,11 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 224,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3698,10 +3698,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3093,
       "NumberOfAwardsMax": 393
+    },
+    {
+      "Time": "2023-10-24T04:57:09.8536921+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3095,
+      "NumberOfAwardsMax": 393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3093,
+  "NumberOfAwards": 3095,
   "NumberOfAwardsMax": 393,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3739,7 +3745,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 339
+      "Count": 341
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3772,9 +3778,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 465617,
+  "EOS_Progressed": 465634,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2445,
+  "EOS_NewPlayers": 2450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24947,6 +24953,11 @@
       "Time": "2023-10-24T04:06:58.8987243+00:00",
       "NumProgressed": 465617,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T05:06:22.2950718+00:00",
+      "NumProgressed": 465634,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -24958,7 +24969,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -25030,7 +25041,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -25038,7 +25049,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "ACH_GROUNDED",
@@ -25126,7 +25137,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23281
+      "UsersEstimate": 23282
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -25134,7 +25145,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "ACH_REFLEXES",
@@ -25166,7 +25177,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -25198,7 +25209,7 @@
       "Name": "Thanks Station!",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_THERE_FOR_YOU",
@@ -25222,7 +25233,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23281
+      "UsersEstimate": 23282
     },
     {
       "ID": "ACH_WET_FEET",
@@ -25237,15 +25248,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 465617,
+      "Progressed": 465634,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-10-24T03:57:09.9968842+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:06:58.8987238+00:00",
+  "LastChanged": "2023-10-24T04:57:09.853692+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:06:22.2950712+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:01.5121861+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:57:09.996885+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:06:58.8988632+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:57:09.8536926+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:06:22.2951898+00:00"
 }

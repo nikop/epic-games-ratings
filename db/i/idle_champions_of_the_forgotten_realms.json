@@ -7555,9 +7555,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232684,
+  "EOS_Progressed": 232686,
   "EOS_Completed": 2382,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28390,6 +28390,11 @@
       "Time": "2023-10-24T04:06:59.0346256+00:00",
       "NumProgressed": 232684,
       "NumCompleted": 2382
+    },
+    {
+      "Time": "2023-10-24T05:06:22.8178929+00:00",
+      "NumProgressed": 232686,
+      "NumCompleted": 2382
     }
   ],
   "TotalAchievements": 528,
@@ -31399,9 +31404,9 @@
       "ID": "objective_completed_675",
       "SetID": "415jc5c",
       "Name": "Bel\u0027s Forge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_676",
@@ -32543,9 +32548,9 @@
       "ID": "objective_completed_1370",
       "SetID": "415jc5c",
       "Name": "The End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_1371",
@@ -32624,21 +32629,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198958,
+      "Progressed": 198960,
       "Completed": 3674
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232684,
+      "Progressed": 232686,
       "Completed": 2382
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T22:59:37.9489888+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:06:59.0346251+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:06:22.8178925+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:00:10.5087074+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:06:59.0373238+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:59:33.5729227+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:06:22.8204473+00:00"
 }

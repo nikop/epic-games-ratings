@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -765,9 +765,9 @@
       "ID": "68",
       "SetID": "5e3maia",
       "Name": "Demigod",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "69",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:05:40.5745806+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:05:16.3189779+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3050525+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:59:30.8135586+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:05:40.5746491+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:59:02.3294803+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:05:16.3190384+00:00"
 }

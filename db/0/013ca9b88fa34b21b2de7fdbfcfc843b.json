@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7100,
+  "EOS_Progressed": 7101,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
@@ -5090,6 +5090,11 @@
       "Time": "2023-10-24T02:25:22.5893078+00:00",
       "NumProgressed": 7100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T05:08:31.0027291+00:00",
+      "NumProgressed": 7101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5102,7 +5107,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5110,7 +5115,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5254,7 +5259,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5381,7 +5386,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7100,
+      "Progressed": 7101,
       "Completed": 0
     }
   ],
@@ -5389,8 +5394,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-22T14:01:27.1688192+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:09:16.0198839+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:08:31.0027288+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:57:20.3740867+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:09:16.0199466+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:57:17.224233+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:08:31.0027724+00:00"
 }

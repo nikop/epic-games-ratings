@@ -4,11 +4,11 @@
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 515,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 696,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -7369,6 +7369,6 @@
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
   "LastChanged": "2023-10-24T01:41:17.04003+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:43.7313133+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:59:03.7449317+00:00",
-  "LastUpdate_Achievements": "2023-10-24T03:08:03.0495637+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:58:40.6996264+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:03:11.0952817+00:00"
 }

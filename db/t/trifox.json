@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -415,9 +415,9 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERMAGE",
       "SetID": "cfld5bl",
       "Name": "Engineer-mage hybrid",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
@@ -439,9 +439,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:03:30.513718+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:03:14.8135259+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-24T04:03:05.4017+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:03:30.5137552+00:00"
+  "LastUpdate_Ratings": "2023-10-24T05:02:14.544184+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:03:14.8135581+00:00"
 }

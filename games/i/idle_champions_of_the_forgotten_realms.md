@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~465 |
 | Dreamscape | 0.20% | ~398 |
 | The Path of Dreams | 0.20% | ~398 |
+| Bel's Forge | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
 | The Bleeding Citadel | 0.20% | ~398 |
 | Idyllglen | 0.20% | ~398 |
@@ -29,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.20% | ~398 |
 | To Infinity's and Beyond | 0.20% | ~398 |
 | Legends and Lore | 0.20% | ~398 |
+| The End | 0.20% | ~398 |
 | Fowl Play | 0.20% | ~398 |
 | Time Out | 0.20% | ~398 |
 | Maddening | 0.10% | ~233 |
@@ -396,7 +398,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.10% | ~199 |
 | Raggadragga's Crew | 0.10% | ~199 |
 | Just The Worst | 0.10% | ~199 |
-| Bel's Forge | 0.10% | ~199 |
 | Extreme Heat | 0.10% | ~199 |
 | Fire and Brimstone | 0.10% | ~199 |
 | Into the Unknown | 0.10% | ~199 |
@@ -530,12 +531,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Chaotic Hunt for The Last Breath | 0.10% | ~199 |
 | There's a Flying Snake in my Boot! | 0.10% | ~199 |
 | Unearthed Arcana | 0.10% | ~199 |
-| The End | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,684 (Ranked 61)  
+Progressed: 232,686 (Ranked 61)  
 Completed: 2,382 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -722,7 +722,7 @@ Completed: 2,382 (1.02%) (Ranked 146)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,684 | 2,382 |
+| 2023-10-24 | 232,686 | 2,382 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
 Sum: 32,183 (Ranked 41)  

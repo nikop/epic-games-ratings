@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -465,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 250038,
+  "EOS_Progressed": 250039,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21325,6 +21325,11 @@
       "Time": "2023-10-24T04:04:13.612964+00:00",
       "NumProgressed": 250038,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-24T05:04:01.72819+00:00",
+      "NumProgressed": 250039,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21336,7 +21341,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67510
+      "UsersEstimate": 67511
     },
     {
       "ID": "ACH_AON",
@@ -21416,7 +21421,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22503
+      "UsersEstimate": 22504
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -21751,7 +21756,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250038,
+      "Progressed": 250039,
       "Completed": 7
     }
   ],
@@ -21759,8 +21764,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-24T04:04:13.6129636+00:00",
+  "LastChanged_Achievements": "2023-10-24T05:04:01.7281896+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-24T03:57:14.007439+00:00",
-  "LastUpdate_Achievements": "2023-10-24T04:04:13.6131579+00:00"
+  "LastUpdate_Ratings": "2023-10-24T04:57:12.2334034+00:00",
+  "LastUpdate_Achievements": "2023-10-24T05:04:01.7283233+00:00"
 }
