@@ -2,7 +2,7 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 72,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1959,6 +1959,11 @@
       "Time": "2023-10-24T03:04:22.7790049+00:00",
       "NumProgressed": 455,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T08:04:50.7444514+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -1970,7 +1975,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2034,7 +2039,7 @@
       "Name": "This looks really bad",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2081,14 +2086,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:04:18.6294962+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:04:50.7444508+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:58:08.6346708+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:04:18.629536+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:58:18.5012836+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:04:50.7444781+00:00"
 }

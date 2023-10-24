@@ -625,7 +625,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469571,
+  "EOS_Progressed": 469572,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 1,
@@ -20150,6 +20150,11 @@
       "Time": "2023-10-24T06:09:33.749168+00:00",
       "NumProgressed": 469571,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-24T08:10:21.9879049+00:00",
+      "NumProgressed": 469572,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20249,7 +20254,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309917
+      "UsersEstimate": 309918
     },
     {
       "ID": "achievement_story_landa",
@@ -20585,7 +20590,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206611
+      "UsersEstimate": 206612
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20593,7 +20598,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140871
+      "UsersEstimate": 140872
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20792,21 +20797,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13505,
+      "Progressed": 13506,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469571,
+      "Progressed": 469572,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:09:45.0755979+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:10:21.9879041+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:57:42.8053132+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:09:45.0758756+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:57:45.0146041+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:10:21.9882676+00:00"
 }

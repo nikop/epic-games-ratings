@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~465 |
 | Dreamscape | 0.20% | ~398 |
 | The Path of Dreams | 0.20% | ~398 |
+| The Lost Hollyphant | 0.20% | ~398 |
 | Bel's Forge | 0.20% | ~398 |
 | Friendly Imps | 0.20% | ~465 |
 | The Bleeding Citadel | 0.20% | ~398 |
@@ -381,7 +382,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Path of Redcaps | 0.10% | ~199 |
 | The Path of Trials | 0.10% | ~199 |
 | Bad Odds in Avernus | 0.10% | ~199 |
-| The Lost Hollyphant | 0.10% | ~199 |
 | Zapper Overload | 0.10% | ~199 |
 | Best Friend Search Squad! | 0.10% | ~199 |
 | An Even Worse Time in Avernus | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,693 (Ranked 61)  
+Progressed: 232,695 (Ranked 61)  
 Completed: 2,382 (1.02%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -722,7 +722,7 @@ Completed: 2,382 (1.02%) (Ranked 146)
 | 2023-10-21 | 232,492 | 2,377 |
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
-| 2023-10-24 | 232,693 | 2,382 |
+| 2023-10-24 | 232,695 | 2,382 |
 ## Awards
 Max (Great for Beginners): 5,442  (Ranked 69)  
 Sum: 32,183 (Ranked 41)  

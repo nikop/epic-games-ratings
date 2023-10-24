@@ -8067,7 +8067,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805831,
+  "EOS_Progressed": 805832,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
@@ -28967,6 +28967,11 @@
       "Time": "2023-10-24T07:06:41.8790118+00:00",
       "NumProgressed": 805831,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-24T08:08:01.8279881+00:00",
+      "NumProgressed": 805832,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29514,7 +29519,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88641
+      "UsersEstimate": 88642
     },
     {
       "ID": "Sniper",
@@ -29586,7 +29591,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88641
+      "UsersEstimate": 88642
     },
     {
       "ID": "TrialAndError",
@@ -29633,15 +29638,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805831,
+      "Progressed": 805832,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-24T06:00:21.2478675+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:06:41.8790112+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:08:01.8279875+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:00:41.6058771+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:06:41.8792228+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:01:39.0597779+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:08:01.828294+00:00"
 }

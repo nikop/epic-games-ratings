@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745790,
+  "EOS_Progressed": 745792,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1957,
+  "EOS_NewPlayers": 1953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21542,6 +21542,11 @@
       "Time": "2023-10-24T07:06:53.535806+00:00",
       "NumProgressed": 745790,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T08:08:16.4702508+00:00",
+      "NumProgressed": 745792,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -21577,7 +21582,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44747
+      "UsersEstimate": 44748
     },
     {
       "ID": "ach_build_bridge",
@@ -21617,7 +21622,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275942
+      "UsersEstimate": 275943
     },
     {
       "ID": "ach_demolish_trees",
@@ -21625,7 +21630,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 126784
+      "UsersEstimate": 126785
     },
     {
       "ID": "ach_free_cam_mode",
@@ -21649,7 +21654,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 44747
+      "UsersEstimate": 44748
     },
     {
       "ID": "ach_max_truck_distance",
@@ -21681,7 +21686,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 357979
+      "UsersEstimate": 357980
     },
     {
       "ID": "ach_produced",
@@ -21697,7 +21702,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 119326
+      "UsersEstimate": 119327
     },
     {
       "ID": "ach_raise_money",
@@ -21768,7 +21773,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 745790,
+      "Progressed": 745792,
       "Completed": 4
     }
   ],
@@ -21776,8 +21781,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:06:53.5358053+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:08:16.4702503+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:15.5105055+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:57:45.5428602+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:06:53.5360724+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:57:48.4671494+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:08:16.4704021+00:00"
 }

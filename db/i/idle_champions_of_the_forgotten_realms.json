@@ -7555,9 +7555,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232693,
+  "EOS_Progressed": 232695,
   "EOS_Completed": 2382,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -28405,6 +28405,11 @@
       "Time": "2023-10-24T07:06:31.6824298+00:00",
       "NumProgressed": 232693,
       "NumCompleted": 2382
+    },
+    {
+      "Time": "2023-10-24T08:07:39.5088875+00:00",
+      "NumProgressed": 232695,
+      "NumCompleted": 2382
     }
   ],
   "TotalAchievements": 528,
@@ -31278,9 +31283,9 @@
       "ID": "objective_completed_645",
       "SetID": "415jc5c",
       "Name": "The Lost Hollyphant",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_646",
@@ -32639,21 +32644,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 198967,
+      "Progressed": 198969,
       "Completed": 3674
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232693,
+      "Progressed": 232695,
       "Completed": 2382
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-23T22:59:37.9489888+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:06:31.6824293+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:07:39.5088869+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:59:51.804136+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:06:31.6859734+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:00:35.8362953+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:07:39.5122756+00:00"
 }

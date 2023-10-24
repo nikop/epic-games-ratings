@@ -4,7 +4,7 @@
   "ProductSlug": "sheltered",
   "Ranking_Rating": 704,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 696,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 406,
@@ -763,6 +763,6 @@
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
   "LastChanged": "2023-10-02T07:57:43.6641974+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:58.0632943+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:57:45.0637128+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:03:46.1588556+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:57:47.8488777+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:04:10.2362605+00:00"
 }

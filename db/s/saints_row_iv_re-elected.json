@@ -559,9 +559,9 @@
       "Count": 475
     }
   ],
-  "EOS_Progressed": 290051,
+  "EOS_Progressed": 290058,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 4081,
+  "EOS_NewPlayers": 4073,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21844,6 +21844,11 @@
       "Time": "2023-10-24T07:05:41.6446996+00:00",
       "NumProgressed": 290051,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-10-24T08:06:35.5452717+00:00",
+      "NumProgressed": 290058,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 72,
@@ -21895,7 +21900,7 @@
       "Name": "About Time!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23204
+      "UsersEstimate": 23205
     },
     {
       "ID": "Actor-Turned-Politician",
@@ -21911,7 +21916,7 @@
       "Name": "All Too Easy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 43508
+      "UsersEstimate": 43509
     },
     {
       "ID": "And I Ran...",
@@ -22007,7 +22012,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 165329
+      "UsersEstimate": 165333
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -22015,7 +22020,7 @@
       "Name": "Didn\u0027t Need to See Him Naked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 37707
+      "UsersEstimate": 37708
     },
     {
       "ID": "Don\u0027t Look Down",
@@ -22023,7 +22028,7 @@
       "Name": "Don\u0027t Look Down",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 84115
+      "UsersEstimate": 84117
     },
     {
       "ID": "Don\u0027t Panic",
@@ -22031,7 +22036,7 @@
       "Name": "Don\u0027t Panic",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 81214
+      "UsersEstimate": 81216
     },
     {
       "ID": "Double Team",
@@ -22071,7 +22076,7 @@
       "Name": "First of Many",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 121821
+      "UsersEstimate": 121824
     },
     {
       "ID": "Fist Meet Ground",
@@ -22111,7 +22116,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 52209
+      "UsersEstimate": 52210
     },
     {
       "ID": "Half Way Home",
@@ -22183,7 +22188,7 @@
       "Name": "Indomitable",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 29005
+      "UsersEstimate": 29006
     },
     {
       "ID": "Keymaster",
@@ -22207,7 +22212,7 @@
       "Name": "Make a List, Check it Twice",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "Maximum Stopping Power",
@@ -22247,7 +22252,7 @@
       "Name": "Ooo A Piece of Candy!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 66712
+      "UsersEstimate": 66713
     },
     {
       "ID": "Our Gift to You",
@@ -22367,7 +22372,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 156628
+      "UsersEstimate": 156631
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -22399,7 +22404,7 @@
       "Name": "Woah.",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 107319
+      "UsersEstimate": 107321
     },
     {
       "ID": "You Chose... Poorly",
@@ -22415,7 +22420,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 182732
+      "UsersEstimate": 182737
     },
     {
       "ID": "Zoo Keeper",
@@ -22430,7 +22435,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 290051,
+      "Progressed": 290058,
       "Completed": 15
     }
   ],
@@ -22438,8 +22443,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2023-10-24T06:59:35.0989548+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:05:41.6446991+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:06:35.545271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:01.7029394+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:59:35.0989555+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:05:41.6449102+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:00:16.991281+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:06:35.5455327+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 860,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3214,6 +3214,11 @@
       "Time": "2023-10-23T21:07:50.7188618+00:00",
       "NumProgressed": 859,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T08:09:10.6082424+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3239,9 +3244,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 473
     },
     {
       "ID": "BigPlane",
@@ -3353,7 +3358,7 @@
       "Name": "Lack of Time",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LargeAirport",
@@ -3441,7 +3446,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "NotPlanned",
@@ -3553,21 +3558,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 860,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:07:05.0585815+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:09:10.6082419+00:00",
   "LastUpdate_AppInfo": "2023-10-17T13:57:19.6755888+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:58:48.8824337+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:07:05.0586548+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:59:12.744713+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:09:10.6082968+00:00"
 }

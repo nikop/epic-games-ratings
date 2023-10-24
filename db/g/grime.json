@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154315,
+  "EOS_Progressed": 154318,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12839,6 +12839,11 @@
       "Time": "2023-10-24T07:03:37.4384358+00:00",
       "NumProgressed": 154315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T08:03:59.7981258+00:00",
+      "NumProgressed": 154318,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12914,7 +12919,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -12970,7 +12975,7 @@
       "Name": "Host",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -13066,7 +13071,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13217,21 +13222,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 153898,
+      "Progressed": 153901,
       "Completed": 1171
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154315,
+      "Progressed": 154318,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:03:37.4384349+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:03:59.7981251+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:59:41.9164872+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:03:37.4385488+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:00:23.4320162+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:03:59.7983352+00:00"
 }

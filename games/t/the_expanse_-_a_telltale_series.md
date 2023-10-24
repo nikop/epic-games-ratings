@@ -10,11 +10,11 @@ Rating: 4.59 (Ranked 421)
 | Bosmang | 7.00% | ~1,000 |
 | The Pit and the Pirates | 6.00% | ~857 |
 | Drone Dodger | 6.00% | ~857 |
+| Data Archivist | 5.00% | ~714 |
 | Heal Thy Medic | 5.00% | ~714 |
 | Call it Even | 5.00% | ~714 |
 | Celebrations are in Order | 5.00% | ~714 |
 | Impossible Objects | 5.00% | ~714 |
-| Data Archivist | 4.00% | ~571 |
 | Stogie for Fogey | 4.00% | ~571 |
 | Spore Taste | 4.00% | ~571 |
 | Martian Music | 4.00% | ~571 |

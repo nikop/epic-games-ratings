@@ -2,7 +2,7 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 540,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 696,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 2249,
   "RatingHistory": [
     {
@@ -4537,10 +4537,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 6297,
       "NumberOfAwardsMax": 825
+    },
+    {
+      "Time": "2023-10-24T08:01:07.6020127+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6298,
+      "NumberOfAwardsMax": 825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6297,
+  "NumberOfAwards": 6298,
   "NumberOfAwardsMax": 825,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4566,7 +4572,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 737
+      "Count": 738
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4622,8 +4628,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-10-23T18:01:16.5289168+00:00",
+  "LastChanged": "2023-10-24T08:01:07.6020125+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:23.4666925+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:00:15.0041716+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:06:59.5556412+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:01:07.6020134+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:09:03.8368164+00:00"
 }

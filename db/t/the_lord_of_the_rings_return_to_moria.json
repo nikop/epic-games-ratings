@@ -2,9 +2,9 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46,6 +46,11 @@
       "Time": "2023-10-24T07:04:18.970844+00:00",
       "NumProgressed": 42,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T08:04:51.1167211+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -64,7 +69,7 @@
       "ID": "CraftedDurinsAxe",
       "SetID": "1cnmn8b",
       "Name": "Baruk Khaz\u00E2d!",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -72,7 +77,7 @@
       "ID": "CraftedFullSetBelegost",
       "SetID": "1cnmn8b",
       "Name": "Decked Out",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -88,7 +93,7 @@
       "ID": "CraftedFullSetDurin",
       "SetID": "1cnmn8b",
       "Name": "Guarded from Despair",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -96,7 +101,7 @@
       "ID": "CraftedFullSetErebor",
       "SetID": "1cnmn8b",
       "Name": "Covered Head to Toe",
-      "Percentage": 19,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -104,7 +109,7 @@
       "ID": "CraftedFullSetIronHills",
       "SetID": "1cnmn8b",
       "Name": "Suit Up",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -112,7 +117,7 @@
       "ID": "CraftedFullSetKhazad",
       "SetID": "1cnmn8b",
       "Name": "Battering Ram",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -120,7 +125,7 @@
       "ID": "CraftedFullSetMetaElven",
       "SetID": "1cnmn8b",
       "Name": "Eregion Weaponcraft",
-      "Percentage": -2.4,
+      "Percentage": -2,
       "XP": 20,
       "UsersEstimate": -1
     },
@@ -136,7 +141,7 @@
       "ID": "CraftedFullSetMetaMasterwork",
       "SetID": "1cnmn8b",
       "Name": "Master of All Trades",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -152,7 +157,7 @@
       "ID": "CraftedFullSetMithril",
       "SetID": "1cnmn8b",
       "Name": "True-silver",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -184,7 +189,7 @@
       "ID": "CraftedSteelPickaxe",
       "SetID": "1cnmn8b",
       "Name": "Miner\u0027s Helper",
-      "Percentage": 36,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -192,7 +197,7 @@
       "ID": "DefeatedBolgakh",
       "SetID": "1cnmn8b",
       "Name": "Line of Azog, Ended",
-      "Percentage": 40,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -200,7 +205,7 @@
       "ID": "DefeatedShadowDragon",
       "SetID": "1cnmn8b",
       "Name": "Darkness Is Passing",
-      "Percentage": 40,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -208,7 +213,7 @@
       "ID": "DefeatedTrollKing",
       "SetID": "1cnmn8b",
       "Name": "False King, Deposed",
-      "Percentage": 36,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -216,7 +221,7 @@
       "ID": "DiscoveredAngryCaverns",
       "SetID": "1cnmn8b",
       "Name": "Caradhras The Cruel",
-      "Percentage": 48,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -224,7 +229,7 @@
       "ID": "DiscoveredDwarrowdelf",
       "SetID": "1cnmn8b",
       "Name": "Risk a Little Real Light",
-      "Percentage": 60,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -232,7 +237,7 @@
       "ID": "DiscoveredElvenQuarter",
       "SetID": "1cnmn8b",
       "Name": "Speak Friend",
-      "Percentage": 105,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -240,7 +245,7 @@
       "ID": "DiscoveredHighway",
       "SetID": "1cnmn8b",
       "Name": "A Memory of this Place",
-      "Percentage": 31,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -248,7 +253,7 @@
       "ID": "DiscoveredLowerDeeps",
       "SetID": "1cnmn8b",
       "Name": "To the Mountain\u0027s Roots",
-      "Percentage": 71,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -256,7 +261,7 @@
       "ID": "DiscoveredMinesOfMoria",
       "SetID": "1cnmn8b",
       "Name": "Delving Onward",
-      "Percentage": 93,
+      "Percentage": 80,
       "XP": 50,
       "UsersEstimate": 39
     },
@@ -264,7 +269,7 @@
       "ID": "DiscoveredTomb",
       "SetID": "1cnmn8b",
       "Name": "Remains To Be Seen",
-      "Percentage": 69,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 29
     }
@@ -273,13 +278,13 @@
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:04:18.9708433+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:04:51.1167204+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:11.6467623+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:59:53.3899338+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:04:18.9708646+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:00:37.2827879+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:04:51.1167473+00:00"
 }

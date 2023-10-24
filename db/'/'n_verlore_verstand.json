@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -234,6 +234,11 @@
       "Time": "2023-10-23T17:03:23.5344968+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T08:04:14.8059192+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -245,7 +250,7 @@
       "Name": "Start of a Journey",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "10",
@@ -259,7 +264,7 @@
       "ID": "11",
       "SetID": "6m1k8ai",
       "Name": "Scorched Ruins",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "12",
       "SetID": "6m1k8ai",
       "Name": "City of Illusion",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -275,7 +280,7 @@
       "ID": "13",
       "SetID": "6m1k8ai",
       "Name": "Kill the Flames",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "14",
       "SetID": "6m1k8ai",
       "Name": "Find the Light",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -291,7 +296,7 @@
       "ID": "15",
       "SetID": "6m1k8ai",
       "Name": "Fight and Overcome",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -299,7 +304,7 @@
       "ID": "16",
       "SetID": "6m1k8ai",
       "Name": "A Walk to the End",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -307,7 +312,7 @@
       "ID": "17",
       "SetID": "6m1k8ai",
       "Name": "The Final Test",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -315,7 +320,7 @@
       "ID": "18",
       "SetID": "6m1k8ai",
       "Name": "A Journey\u0027s End",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -331,7 +336,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -395,7 +400,7 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 38
     },
@@ -419,7 +424,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -507,7 +512,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -619,7 +624,7 @@
       "ID": "9",
       "SetID": "6m1k8ai",
       "Name": "A Terrifying Blizzard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -628,14 +633,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:03:49.6989768+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:04:14.8059186+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.2028457+00:00",
-  "LastUpdate_Ratings": "2023-10-24T07:00:50.2181+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:03:49.6990353+00:00"
+  "LastUpdate_Ratings": "2023-10-24T08:01:49.9257186+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:04:14.8059884+00:00"
 }

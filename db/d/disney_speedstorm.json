@@ -477,9 +477,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 251580,
+  "EOS_Progressed": 251647,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 20734,
+  "EOS_NewPlayers": 20762,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8777,6 +8777,11 @@
       "Time": "2023-10-24T07:03:30.2246226+00:00",
       "NumProgressed": 251580,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-24T08:03:50.6439439+00:00",
+      "NumProgressed": 251647,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 24,
@@ -8796,7 +8801,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "11",
@@ -8828,7 +8833,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7547
+      "UsersEstimate": 7549
     },
     {
       "ID": "15",
@@ -8868,7 +8873,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.4,
       "XP": 85,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "2",
@@ -8884,7 +8889,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "21",
@@ -8908,7 +8913,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "24",
@@ -8940,7 +8945,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12579
+      "UsersEstimate": 12582
     },
     {
       "ID": "6",
@@ -8979,7 +8984,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 251580,
+      "Progressed": 251647,
       "Completed": 241
     }
   ],
@@ -8987,8 +8992,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-24T05:57:40.7778137+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:03:30.2246221+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:03:50.6439432+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:57:56.6582525+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:03:30.2247026+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:58:05.76916+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:03:50.6440815+00:00"
 }

@@ -451,9 +451,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2790,
+  "EOS_Progressed": 2791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3271,6 +3271,11 @@
       "Time": "2023-10-24T05:08:38.8126896+00:00",
       "NumProgressed": 2790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-24T08:03:47.1629273+00:00",
+      "NumProgressed": 2791,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3307,7 +3312,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_13",
@@ -3323,7 +3328,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_15",
@@ -3379,15 +3384,15 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "achievement_21",
       "SetID": "aiin7da",
       "Name": "Clean The Pile",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_3",
@@ -3450,7 +3455,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2790,
+      "Progressed": 2791,
       "Completed": 0
     }
   ],
@@ -3458,8 +3463,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-24T02:15:10.4822915+00:00",
-  "LastChanged_Achievements": "2023-10-24T07:03:27.3722632+00:00",
+  "LastChanged_Achievements": "2023-10-24T08:03:47.1629268+00:00",
   "LastUpdate_AppInfo": "2023-10-19T02:57:12.4417313+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:58:30.0439045+00:00",
-  "LastUpdate_Achievements": "2023-10-24T07:03:27.3723337+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:58:47.5116775+00:00",
+  "LastUpdate_Achievements": "2023-10-24T08:03:47.162968+00:00"
 }
