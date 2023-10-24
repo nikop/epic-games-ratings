@@ -294,12 +294,12 @@ Completed: 752 (0.10%) (Ranked 256)
 | 2023-10-23 | 730,308 | 752 |
 | 2023-10-24 | 730,321 | 752 |
 ## Awards
-Max (Challenging Puzzles): 7,707  (Ranked 47)  
-Sum: 10,049 (Ranked 90)  
+Max (Challenging Puzzles): 7,708  (Ranked 47)  
+Sum: 10,050 (Ranked 90)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,707 |
+| This game features Challenging Puzzles | 7,708 |
 | This game is Educational | 282 |
 | This game has Amazing Storytelling | 279 |
 | This game is Relaxing | 277 |
@@ -484,3 +484,4 @@ Diff (max vs sum): -43
 | 2023-10-19 | 4.61 | - | 7,702 | 10,043 |
 | 2023-10-20 | 4.61 | - | 7,705 | 10,047 |
 | 2023-10-23 | 4.61 | - | 7,707 | 10,049 |
+| 2023-10-24 | 4.61 | - | 7,708 | 10,050 |

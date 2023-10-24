@@ -3778,9 +3778,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 465639,
+  "EOS_Progressed": 465643,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2449,
+  "EOS_NewPlayers": 2441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24963,6 +24963,11 @@
       "Time": "2023-10-24T06:06:18.5062331+00:00",
       "NumProgressed": 465639,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-24T07:06:30.0987099+00:00",
+      "NumProgressed": 465643,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -25118,7 +25123,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "ACH_PERSONAL",
@@ -25198,7 +25203,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3259
+      "UsersEstimate": 3260
     },
     {
       "ID": "ACH_STYLING",
@@ -25253,15 +25258,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 465639,
+      "Progressed": 465643,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-24T04:57:09.853692+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:06:18.5062323+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:06:30.0987092+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:01.5121861+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:57:14.1666369+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:06:18.506424+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:57:29.3099502+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:06:30.0989148+00:00"
 }

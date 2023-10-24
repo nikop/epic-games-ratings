@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What could possibly go wrong? | 69.00% | ~9 |
-| Activist | 31.00% | ~4 |
+| Activist | 38.00% | ~5 |
 | Geneva Suggestion | 31.00% | ~4 |
 | The Archive is Incomplete | 23.00% | ~3 |
 | Cold Poultry | 23.00% | ~3 |

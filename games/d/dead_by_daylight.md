@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,555 |
-| Zealous | 3.00% | ~28,916 |
-| Not half bad | 3.00% | ~28,916 |
-| Apt Survivor | 3.00% | ~28,916 |
-| Skillful | 3.00% | ~28,916 |
-| Make Some Noise | 3.00% | ~28,916 |
-| The Grand Sacrifice | 2.00% | ~19,278 |
-| Agonizing Escape | 2.00% | ~19,278 |
-| Backdoor Escape | 2.00% | ~19,278 |
-| No one left behind | 2.00% | ~19,278 |
-| Medic | 2.00% | ~19,278 |
-| Handyman | 2.00% | ~19,278 |
-| Perfect Escape | 2.00% | ~19,278 |
-| Bloody Millionaire | 2.00% | ~19,278 |
-| Survival Treasures | 2.00% | ~19,278 |
-| I | 2.00% | ~19,278 |
-| Engineer | 2.00% | ~19,278 |
-| Sorted | 2.00% | ~19,278 |
-| Healthy Obsession | 2.00% | ~19,278 |
-| Resurgence | 2.00% | ~19,278 |
-| Preemptive Strike | 2.00% | ~19,278 |
-| Humanitarian | 2.00% | ~19,278 |
+| It wakes | 4.00% | ~38,557 |
+| Zealous | 3.00% | ~28,918 |
+| Not half bad | 3.00% | ~28,918 |
+| Apt Survivor | 3.00% | ~28,918 |
+| Skillful | 3.00% | ~28,918 |
+| Make Some Noise | 3.00% | ~28,918 |
+| The Grand Sacrifice | 2.00% | ~19,279 |
+| Agonizing Escape | 2.00% | ~19,279 |
+| Backdoor Escape | 2.00% | ~19,279 |
+| No one left behind | 2.00% | ~19,279 |
+| Medic | 2.00% | ~19,279 |
+| Handyman | 2.00% | ~19,279 |
+| Perfect Escape | 2.00% | ~19,279 |
+| Bloody Millionaire | 2.00% | ~19,279 |
+| Survival Treasures | 2.00% | ~19,279 |
+| I | 2.00% | ~19,279 |
+| Engineer | 2.00% | ~19,279 |
+| Sorted | 2.00% | ~19,279 |
+| Healthy Obsession | 2.00% | ~19,279 |
+| Resurgence | 2.00% | ~19,279 |
+| Preemptive Strike | 2.00% | ~19,279 |
+| Humanitarian | 2.00% | ~19,279 |
 | Escape Artist | 1.00% | ~9,639 |
 | I've got your back | 1.00% | ~9,639 |
 | Nerves of steel | 1.00% | ~9,639 |
@@ -49,6 +49,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 0.90% | ~8,675 |
 | Cherish your Life | 0.90% | ~8,675 |
 | Unforgettable Getaway | 0.90% | ~8,675 |
+| Operation: Survival | 0.90% | ~8,675 |
+| Old West Oasis | 0.90% | ~8,675 |
 | Raccoon City Recruit | 0.90% | ~8,675 |
 | Flight to Freedom | 0.90% | ~8,675 |
 | Rebuilding The Borgo | 0.90% | ~8,675 |
@@ -60,39 +62,37 @@ Number of Ratings: 70,340  (23.09.2022)
 | Holiday Get-Together | 0.80% | ~7,711 |
 | Near-Death Experience | 0.80% | ~7,711 |
 | Cutting Out | 0.80% | ~7,711 |
-| Operation: Survival | 0.80% | ~7,711 |
-| Old West Oasis | 0.80% | ~7,711 |
 | Classy Act | 0.80% | ~7,711 |
 | Lifting The Fog | 0.80% | ~7,711 |
 | MU/TH/UR Dearest | 0.80% | ~7,711 |
-| Gifts for the Fog | 0.70% | ~6,747 |
-| Shock Therapy | 0.70% | ~6,747 |
-| Leapfrog | 0.70% | ~6,747 |
-| Cottage Owner | 0.70% | ~6,747 |
-| Escaping the Nightmare | 0.70% | ~6,747 |
-| Campbell's Chapel Legacy | 0.70% | ~6,747 |
-| Ancestor's Rite | 0.70% | ~6,747 |
-| Outrun Evil | 0.70% | ~6,747 |
-| Grim Pilgrimage | 0.70% | ~6,747 |
-| A bite for the Entity | 0.60% | ~5,783 |
-| Blood on your face | 0.60% | ~5,783 |
-| Hemophobia | 0.60% | ~5,783 |
-| Serial Killer | 0.60% | ~5,783 |
-| Devoted Gatekeeping | 0.60% | ~5,783 |
-| Shrine Apparatus | 0.60% | ~5,783 |
-| Selfless Survival | 0.60% | ~5,783 |
-| End of Days | 0.60% | ~5,783 |
-| Outrun the Overlap | 0.60% | ~5,783 |
-| Extraterrestrial | 0.60% | ~5,783 |
-| Jump Scares | 0.50% | ~4,819 |
-| Deep Cleansing | 0.50% | ~4,819 |
-| Texas BBQ | 0.50% | ~4,819 |
-| Game Over | 0.50% | ~4,819 |
-| Party Crasher | 0.50% | ~4,819 |
-| Broken Bodies | 0.50% | ~4,819 |
-| Insult and Injury | 0.50% | ~4,819 |
-| Complete the Evolution | 0.50% | ~4,819 |
-| Kitted Out | 0.50% | ~4,819 |
+| Gifts for the Fog | 0.70% | ~6,748 |
+| Shock Therapy | 0.70% | ~6,748 |
+| Leapfrog | 0.70% | ~6,748 |
+| Cottage Owner | 0.70% | ~6,748 |
+| Escaping the Nightmare | 0.70% | ~6,748 |
+| Campbell's Chapel Legacy | 0.70% | ~6,748 |
+| Ancestor's Rite | 0.70% | ~6,748 |
+| Outrun Evil | 0.70% | ~6,748 |
+| Grim Pilgrimage | 0.70% | ~6,748 |
+| A bite for the Entity | 0.60% | ~5,784 |
+| Blood on your face | 0.60% | ~5,784 |
+| Hemophobia | 0.60% | ~5,784 |
+| Serial Killer | 0.60% | ~5,784 |
+| Devoted Gatekeeping | 0.60% | ~5,784 |
+| Shrine Apparatus | 0.60% | ~5,784 |
+| Selfless Survival | 0.60% | ~5,784 |
+| End of Days | 0.60% | ~5,784 |
+| Outrun the Overlap | 0.60% | ~5,784 |
+| Extraterrestrial | 0.60% | ~5,784 |
+| Jump Scares | 0.50% | ~4,820 |
+| Deep Cleansing | 0.50% | ~4,820 |
+| Texas BBQ | 0.50% | ~4,820 |
+| Game Over | 0.50% | ~4,820 |
+| Party Crasher | 0.50% | ~4,820 |
+| Broken Bodies | 0.50% | ~4,820 |
+| Insult and Injury | 0.50% | ~4,820 |
+| Complete the Evolution | 0.50% | ~4,820 |
+| Kitted Out | 0.50% | ~4,820 |
 | Happy Holidays | 0.40% | ~3,856 |
 | Whiffing to Success | 0.40% | ~3,856 |
 | Outrage | 0.40% | ~3,856 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~964 |
 | Adept Ripley | 0.10% | ~964 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 963,880 (Ranked 14)  
+Progressed: 963,931 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -423,7 +423,7 @@ Completed: 52 (0.01%) (Ranked 304)
 | 2023-10-21 | 957,026 | 52 |
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
-| 2023-10-24 | 963,880 | 52 |
+| 2023-10-24 | 963,931 | 52 |
 ## Awards
 Max (Diverse Characters): 34,489  (Ranked 15)  
 Sum: 266,197 (Ranked 13)  

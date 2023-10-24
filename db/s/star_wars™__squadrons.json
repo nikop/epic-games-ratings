@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13184,
+  "EOS_Progressed": 13187,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1690,
+  "EOS_NewPlayers": 1691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4019,6 +4019,11 @@
       "Time": "2023-10-24T06:09:31.9941598+00:00",
       "NumProgressed": 13184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-24T07:09:43.3507738+00:00",
+      "NumProgressed": 13187,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -4255,7 +4260,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 12525
+      "UsersEstimate": 12528
     },
     {
       "ID": "achievement_36",
@@ -4287,7 +4292,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "achievement_4",
@@ -4391,7 +4396,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "achievement_9",
@@ -4406,7 +4411,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 13184,
+      "Progressed": 13187,
       "Completed": 1
     }
   ],
@@ -4414,8 +4419,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:09:31.9941593+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:09:43.3507732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:17.775198+00:00",
-  "LastUpdate_Ratings": "2023-10-24T06:03:02.9843876+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:09:31.9942803+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:03:09.7073275+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:09:43.3508932+00:00"
 }

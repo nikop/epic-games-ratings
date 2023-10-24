@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13518,
+  "EOS_Progressed": 13519,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 1391,
+  "EOS_NewPlayers": 1390,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -6318,6 +6318,11 @@
       "Time": "2023-10-24T06:04:01.0229234+00:00",
       "NumProgressed": 13518,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-10-24T07:04:11.5079851+00:00",
+      "NumProgressed": 13519,
+      "NumCompleted": 147
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -6338,7 +6343,7 @@
       "Name": "Everything is Connected",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 8246
+      "UsersEstimate": 8247
     },
     {
       "ID": "achievement_11",
@@ -6346,7 +6351,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 6218
+      "UsersEstimate": 6219
     },
     {
       "ID": "achievement_12",
@@ -6362,7 +6367,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 7570
+      "UsersEstimate": 7571
     },
     {
       "ID": "achievement_14",
@@ -6378,7 +6383,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "achievement_16",
@@ -6394,7 +6399,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 6353
+      "UsersEstimate": 6354
     },
     {
       "ID": "achievement_18",
@@ -6402,7 +6407,7 @@
       "Name": "Back At You",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 10003
+      "UsersEstimate": 10004
     },
     {
       "ID": "achievement_19",
@@ -6474,7 +6479,7 @@
       "Name": "Look Out Below",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 6083
+      "UsersEstimate": 6084
     },
     {
       "ID": "achievement_27",
@@ -6522,7 +6527,7 @@
       "Name": "Medical Droid",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_32",
@@ -6562,7 +6567,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 6894
+      "UsersEstimate": 6895
     },
     {
       "ID": "achievement_37",
@@ -6570,7 +6575,7 @@
       "Name": "Data Collector",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_38",
@@ -6618,7 +6623,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 13518
+      "UsersEstimate": 13519
     },
     {
       "ID": "achievement_8",
@@ -6626,7 +6631,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 12572
+      "UsersEstimate": 12573
     },
     {
       "ID": "achievement_9",
@@ -6634,14 +6639,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 13518,
+      "Progressed": 13519,
       "Completed": 147
     }
   ],
@@ -6649,8 +6654,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-10-11T20:59:46.7825655+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:04:01.0229229+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:04:11.5079846+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:12.8834146+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:59:00.5109405+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:04:01.0230169+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:59:20.0582156+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:04:11.5080578+00:00"
 }

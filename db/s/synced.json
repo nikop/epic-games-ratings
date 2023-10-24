@@ -3,8 +3,8 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 917,
-  "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 356,
+  "Ranking_Popularity": 386,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 74,
@@ -733,10 +733,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 293,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2023-10-24T07:00:17.213212+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 294,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 293,
+  "NumberOfAwards": 294,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -756,7 +762,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Unique Visuals",
@@ -795,9 +801,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64469,
+  "EOS_Progressed": 64472,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6420,6 +6426,11 @@
       "Time": "2023-10-24T06:09:34.4264137+00:00",
       "NumProgressed": 64469,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-24T07:09:45.7293583+00:00",
+      "NumProgressed": 64472,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6432,7 +6443,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20630
+      "UsersEstimate": 20631
     },
     {
       "ID": "10",
@@ -6504,7 +6515,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "4",
@@ -6559,16 +6570,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64469,
+      "Progressed": 64472,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-24T05:59:57.3737141+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:09:34.4264134+00:00",
+  "LastChanged": "2023-10-24T07:00:17.2132118+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:09:45.7293579+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:59:57.3737147+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:09:34.4264742+00:00"
+  "LastUpdate_Ratings": "2023-10-24T07:00:17.2132124+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:09:45.7294304+00:00"
 }

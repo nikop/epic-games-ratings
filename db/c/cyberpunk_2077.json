@@ -13980,10 +13980,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 323152,
       "NumberOfAwardsMax": 100955
+    },
+    {
+      "Time": "2023-10-24T06:59:54.6621366+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 323314,
+      "NumberOfAwardsMax": 100955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323152,
+  "NumberOfAwards": 323314,
   "NumberOfAwardsMax": 100955,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14033,7 +14039,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 18339
+      "Count": 18501
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14060,9 +14066,9 @@
       "Count": 11373
     }
   ],
-  "EOS_Progressed": 893575,
+  "EOS_Progressed": 893577,
   "EOS_Completed": 2710,
-  "EOS_NewPlayers": 1253,
+  "EOS_NewPlayers": 1252,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35215,6 +35221,11 @@
       "Time": "2023-10-24T06:05:56.1185951+00:00",
       "NumProgressed": 893575,
       "NumCompleted": 2710
+    },
+    {
+      "Time": "2023-10-24T07:06:07.7021649+00:00",
+      "NumProgressed": 893577,
+      "NumCompleted": 2710
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35249,9 +35260,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 3574
     },
     {
       "ID": "Denied",
@@ -35529,9 +35540,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2681
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -35746,21 +35757,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893575,
+      "Progressed": 893577,
       "Completed": 2710
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22198,
+      "Progressed": 22200,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-24T05:59:32.3981566+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:05:56.1185946+00:00",
+  "LastChanged": "2023-10-24T06:59:54.6621364+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:06:07.7021642+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:59:32.3981573+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:05:56.1188072+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:59:54.6621372+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:06:07.7023583+00:00"
 }

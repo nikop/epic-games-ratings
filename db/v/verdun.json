@@ -1751,7 +1751,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 61571,
+  "EOS_Progressed": 61572,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
@@ -22236,6 +22236,11 @@
       "Time": "2023-10-24T06:04:19.6136105+00:00",
       "NumProgressed": 61571,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-24T07:04:30.8024322+00:00",
+      "NumProgressed": 61572,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -22247,7 +22252,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 33864
+      "UsersEstimate": 33865
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -22479,7 +22484,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16008
+      "UsersEstimate": 16009
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -22511,7 +22516,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24628
+      "UsersEstimate": 24629
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -22615,7 +22620,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48025
+      "UsersEstimate": 48026
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -22711,22 +22716,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22781
+      "UsersEstimate": 22782
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 61571,
+      "Progressed": 61572,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:04:19.61361+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:04:30.8024315+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:28.1860565+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:57:39.9275966+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:04:19.6138517+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:57:55.9181591+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:04:30.8026303+00:00"
 }

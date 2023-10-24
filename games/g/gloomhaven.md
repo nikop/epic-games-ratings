@@ -6,20 +6,20 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,749 |
-| Overkill | 35.00% | ~5,494 |
-| A normal day in Gloomhaven | 34.00% | ~5,337 |
-| Vaccine Incoming | 33.00% | ~5,180 |
-| Spread the plague | 30.00% | ~4,709 |
-| Get over here! | 24.00% | ~3,767 |
-| Just when I thought I was out... | 19.00% | ~2,982 |
-| Precious! | 17.00% | ~2,668 |
-| Mine... All Mine... | 17.00% | ~2,668 |
-| Light of my life | 15.00% | ~2,354 |
-| Anatomy Lesson | 15.00% | ~2,354 |
-| Grizzled veteran | 14.00% | ~2,197 |
-| You activated my trap card! | 13.00% | ~2,040 |
-| Obstacle race | 13.00% | ~2,040 |
+| I'm not dead yet | 43.00% | ~6,752 |
+| Overkill | 35.00% | ~5,496 |
+| A normal day in Gloomhaven | 34.00% | ~5,339 |
+| Vaccine Incoming | 33.00% | ~5,182 |
+| Spread the plague | 30.00% | ~4,711 |
+| Get over here! | 24.00% | ~3,768 |
+| Just when I thought I was out... | 19.00% | ~2,983 |
+| Precious! | 17.00% | ~2,669 |
+| Mine... All Mine... | 17.00% | ~2,669 |
+| Light of my life | 15.00% | ~2,355 |
+| Anatomy Lesson | 15.00% | ~2,355 |
+| Grizzled veteran | 14.00% | ~2,198 |
+| You activated my trap card! | 13.00% | ~2,041 |
+| Obstacle race | 13.00% | ~2,041 |
 | Augmented rat | 12.00% | ~1,884 |
 | Doom and gloom | 11.00% | ~1,727 |
 | Who's the Boss? | 9.00% | ~1,413 |
@@ -51,7 +51,7 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 0.80% | ~126 |
 | Betray this | 0.70% | ~110 |
 | Spoiler police! | 0.70% | ~110 |
-| The Pacifist | 0.50% | ~78 |
+| The Pacifist | 0.50% | ~79 |
 | A tough job | 0.40% | ~63 |
 | Born Support | 0.40% | ~63 |
 | The evil that men do | 0.30% | ~47 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,696 (Ranked 137)  
+Progressed: 15,702 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.01%) (Ranked 304)
 | 2023-10-21 | 15,077 | 1 |
 | 2023-10-22 | 15,407 | 1 |
 | 2023-10-23 | 15,655 | 1 |
-| 2023-10-24 | 15,696 | 1 |
+| 2023-10-24 | 15,702 | 1 |
 ## Awards
 Max (Character Customization): 3,559  (Ranked 90)  
 Sum: 8,311 (Ranked 98)  

@@ -1299,7 +1299,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 20707,
+  "EOS_Progressed": 20708,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 2,
@@ -21559,6 +21559,11 @@
       "Time": "2023-10-24T06:03:29.8505744+00:00",
       "NumProgressed": 20707,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-24T07:03:39.6854153+00:00",
+      "NumProgressed": 20708,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 45,
@@ -21658,7 +21663,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9318
+      "UsersEstimate": 9319
     },
     {
       "ID": "ICallItLuck",
@@ -21666,7 +21671,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9111
+      "UsersEstimate": 9112
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -21706,7 +21711,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 15737
+      "UsersEstimate": 15738
     },
     {
       "ID": "MoreThanHuman",
@@ -21746,7 +21751,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "OutOfOrder",
@@ -21754,7 +21759,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9111
+      "UsersEstimate": 9112
     },
     {
       "ID": "Perfection",
@@ -21762,7 +21767,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "PreempativeStrike",
@@ -21842,7 +21847,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 12631
+      "UsersEstimate": 12632
     },
     {
       "ID": "SwordToAGunfight",
@@ -21929,21 +21934,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 20707,
+      "Progressed": 20708,
       "Completed": 50
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 20707,
+      "Progressed": 20708,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-21T13:02:03.8444264+00:00",
-  "LastChanged_Achievements": "2023-10-24T06:03:29.850574+00:00",
+  "LastChanged_Achievements": "2023-10-24T07:03:39.6854146+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.0828205+00:00",
-  "LastUpdate_Ratings": "2023-10-24T05:59:26.7588802+00:00",
-  "LastUpdate_Achievements": "2023-10-24T06:03:29.8507328+00:00"
+  "LastUpdate_Ratings": "2023-10-24T06:59:47.9873827+00:00",
+  "LastUpdate_Achievements": "2023-10-24T07:03:39.6857042+00:00"
 }

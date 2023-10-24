@@ -5,22 +5,22 @@ Rating: 4.65 (Ranked 304)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~13,518 |
-| A Long Time Ago | 93.00% | ~12,572 |
+| The Mantis | 100.00% | ~13,519 |
+| A Long Time Ago | 93.00% | ~12,573 |
 | Sabersmith | 81.00% | ~10,950 |
-| The Obstacle is the Way | 79.00% | ~10,679 |
-| Back At You | 74.00% | ~10,003 |
+| The Obstacle is the Way | 79.00% | ~10,680 |
+| Back At You | 74.00% | ~10,004 |
 | Happy Go Wookiee | 71.00% | ~9,598 |
-| Everything is Connected | 61.00% | ~8,246 |
-| Her Name Was Masana Tide | 56.00% | ~7,570 |
+| Everything is Connected | 61.00% | ~8,247 |
+| Her Name Was Masana Tide | 56.00% | ~7,571 |
 | Bank Shot | 55.00% | ~7,435 |
 | Perfect Timing | 53.00% | ~7,165 |
-| Gorgara Falls | 51.00% | ~6,894 |
-| The Full Glow-Up | 51.00% | ~6,894 |
+| Gorgara Falls | 51.00% | ~6,895 |
+| The Full Glow-Up | 51.00% | ~6,895 |
 | For A More Civilized Age | 49.00% | ~6,624 |
-| I Knew He Was No Good | 47.00% | ~6,353 |
-| The Holocron Awaits | 46.00% | ~6,218 |
-| Look Out Below | 45.00% | ~6,083 |
+| I Knew He Was No Good | 47.00% | ~6,354 |
+| The Holocron Awaits | 46.00% | ~6,219 |
+| Look Out Below | 45.00% | ~6,084 |
 | Scum and Villainy | 44.00% | ~5,948 |
 | Trust Only In The Force | 44.00% | ~5,948 |
 | Don't Mess with BD-1 | 42.00% | ~5,678 |
@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 304)
 | Big Bang | 12.00% | ~1,622 |
 | Feel the Force | 10.00% | ~1,352 |
 | Can't Touch This | 9.00% | ~1,217 |
-| Medical Droid | 8.00% | ~1,081 |
-| Data Collector | 8.00% | ~1,081 |
+| Medical Droid | 8.00% | ~1,082 |
+| Data Collector | 8.00% | ~1,082 |
 | Collector | 6.00% | ~811 |
 | Data Disk | 6.00% | ~811 |
 | Kickoff | 4.00% | ~541 |
@@ -45,7 +45,7 @@ Rating: 4.65 (Ranked 304)
 | What Goes Around... | 3.00% | ~406 |
 | Not So Fast | 1.00% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,518 (Ranked 142)  
+Progressed: 13,519 (Ranked 142)  
 Completed: 147 (1.09%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 147 (1.09%) (Ranked 142)
 | 2023-10-21 | 13,003 | 138 |
 | 2023-10-22 | 13,290 | 142 |
 | 2023-10-23 | 13,470 | 146 |
-| 2023-10-24 | 13,518 | 147 |
+| 2023-10-24 | 13,519 | 147 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

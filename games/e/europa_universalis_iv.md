@@ -10,11 +10,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 4.00% | ~17,531 |
 | Victorious! | 4.00% | ~17,531 |
 | That is mine! | 3.00% | ~13,148 |
-| Brothers in Arms | 2.00% | ~8,765 |
-| Cold War | 2.00% | ~8,765 |
-| For the Glory | 2.00% | ~8,765 |
-| That's a Grand Navy | 2.00% | ~8,765 |
-| Seriously?! | 2.00% | ~8,765 |
+| Brothers in Arms | 2.00% | ~8,766 |
+| Cold War | 2.00% | ~8,766 |
+| For the Glory | 2.00% | ~8,766 |
+| That's a Grand Navy | 2.00% | ~8,766 |
+| Seriously?! | 2.00% | ~8,766 |
 | Defender of the Faith | 1.00% | ~4,383 |
 | It's all about luck | 1.00% | ~4,383 |
 | It's all about the money | 1.00% | ~4,383 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,383 |
 | True Catholic | 1.00% | ~4,383 |
 | Truly Divine Ruler | 1.00% | ~4,383 |
-| Blockader | 0.90% | ~3,944 |
+| Blockader | 0.90% | ~3,945 |
 | Double the Love | 0.80% | ~3,506 |
 | Royal Authority | 0.80% | ~3,506 |
 | Total Control | 0.80% | ~3,506 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,271 (Ranked 40)  
+Progressed: 438,282 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,10 +548,10 @@ Completed: 1 (0.00%) (Ranked 323)
 | 2023-10-21 | 436,571 | 1 |
 | 2023-10-22 | 437,539 | 1 |
 | 2023-10-23 | 438,161 | 1 |
-| 2023-10-24 | 438,271 | 1 |
+| 2023-10-24 | 438,282 | 1 |
 ## Awards
 Max (Educational): 6,653  (Ranked 55)  
-Sum: 54,651 (Ranked 24)  
+Sum: 54,662 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -559,7 +559,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,342 |
 | This game has Diverse Characters | 6,334 |
 | This game has Challenging Combat | 6,284 |
-| This game is Extremely Fun | 6,256 |
+| This game is Extremely Fun | 6,267 |
 | This game is Relaxing | 6,120 |
 | This game has Competitive Players | 5,968 |
 | This game has Amazing Storytelling | 5,563 |
@@ -848,3 +848,4 @@ Diff (max vs sum): 31
 | 2023-10-21 | 4.69 | - | 6,618 | 54,423 |
 | 2023-10-22 | 4.69 | - | 6,632 | 54,547 |
 | 2023-10-23 | 4.69 | - | 6,653 | 54,651 |
+| 2023-10-24 | 4.69 | - | 6,653 | 54,662 |
