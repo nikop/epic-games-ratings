@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.91% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.89% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -16,10 +16,10 @@
 | 14 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 21.88% |
 | 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 16 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 20.00% |
 | 16 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 20.00% |
 | 16 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
-| 20 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
+| 19 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
+| 20 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 18.18% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 22 | [Island Cities](games/i/island_cities.md) | 16.67% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
@@ -90,12 +90,12 @@
 | 88 | [The Complex](games/t/the_complex.md) | 3.24% |
 | 89 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.23% |
 | 90 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
-| 91 | [Monster Harvest](games/m/monster_harvest.md) | 3.12% |
 | 91 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 92 | [Monster Harvest](games/m/monster_harvest.md) | 3.11% |
 | 93 | [HordeCore](games/h/hordecore.md) | 3.08% |
 | 94 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 95 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.87% |
-| 96 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 95 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 95 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.86% |
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 98 | [FORECLOSED](games/f/foreclosed.md) | 2.83% |
 | 99 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.78% |
@@ -157,14 +157,14 @@
 | 154 | [Hades](games/h/hades.md) | 0.91% |
 | 156 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 157 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 158 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 158 | [Dungeons 3](games/d/dungeons_3.md) | 0.80% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 161 | [Eternights](games/e/eternights.md) | 0.73% |
 | 162 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.72% |
 | 163 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 164 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
-| 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.66% |
+| 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.65% |
 | 166 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 167 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 167 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.62% |
@@ -242,8 +242,8 @@
 | 240 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 240 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 240 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 240 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.16% |
-| 244 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 243 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.15% |
+| 243 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 245 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 246 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 246 | [Isonzo](games/i/isonzo.md) | 0.13% |
