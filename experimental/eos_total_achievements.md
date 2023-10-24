@@ -560,6 +560,7 @@
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Late Shift](../games/l/late_shift.md) | 20 | 1,000 |
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
+| [Monsters of Mican](../games/7/737058bee79c4c47a4faa14289678dcd.md) | 20 | 1,000 |
 | [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |
 | [Poosh XL](../games/p/poosh_xl.md) | 20 | 1,000 |
 | [Project Nightmares Case 36: Henrietta Kedward](../games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 20 | 1,000 |
