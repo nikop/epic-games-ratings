@@ -3131,9 +3131,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17053,
+  "EOS_Progressed": 17054,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12511,6 +12511,11 @@
       "Time": "2023-10-25T06:07:11.8553642+00:00",
       "NumProgressed": 17053,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-25T07:06:30.8212323+00:00",
+      "NumProgressed": 17054,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12832,9 +12837,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 853
     },
     {
       "ID": "WinWIthCaches",
@@ -12921,15 +12926,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17053,
+      "Progressed": 17054,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-22T01:43:52.0315437+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:07:11.8553636+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:06:30.8212319+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:59:06.5096601+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:07:11.8554716+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:58:37.9592387+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:06:30.8213338+00:00"
 }

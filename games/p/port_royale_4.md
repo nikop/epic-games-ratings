@@ -39,10 +39,10 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~59 |
 | Buccaneer | 5.00% | ~49 |
 | Flying Dutchman | 5.00% | ~49 |
+| A true pirate! | 4.00% | ~39 |
 | Overpopulation | 4.00% | ~39 |
 | Premier Maître | 3.00% | ~29 |
 | Supreme conqueror | 3.00% | ~29 |
-| A true pirate! | 3.00% | ~29 |
 | Strategist | 2.00% | ~20 |
 | The customer is always right | 2.00% | ~20 |
 | Master & Commander | 2.00% | ~20 |

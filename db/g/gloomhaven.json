@@ -2249,7 +2249,7 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 15920,
+  "EOS_Progressed": 15923,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1746,
   "EOS_NewCompleters": 0,
@@ -6659,6 +6659,11 @@
       "Time": "2023-10-25T06:08:18.8207225+00:00",
       "NumProgressed": 15920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T07:07:28.8644145+00:00",
+      "NumProgressed": 15923,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -6839,7 +6844,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "Achievement_Trophy23",
@@ -6853,9 +6858,9 @@
       "ID": "Achievement_Trophy24",
       "SetID": "724h0m0",
       "Name": "I\u0027m not dead yet",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7005
+      "UsersEstimate": 6847
     },
     {
       "ID": "Achievement_Trophy25",
@@ -6871,7 +6876,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "Achievement_Trophy27",
@@ -6887,7 +6892,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5254
+      "UsersEstimate": 5255
     },
     {
       "ID": "Achievement_Trophy29",
@@ -6903,7 +6908,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 4776
+      "UsersEstimate": 4777
     },
     {
       "ID": "Achievement_Trophy31",
@@ -6911,7 +6916,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "Achievement_Trophy32",
@@ -6935,7 +6940,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "Achievement_Trophy35",
@@ -6959,7 +6964,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "Achievement_Trophy38",
@@ -6967,7 +6972,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "Achievement_Trophy39",
@@ -7047,7 +7052,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     },
     {
       "ID": "Achievement_Trophy49",
@@ -7133,9 +7138,9 @@
       "ID": "Achievement_Trophy_JOTL_09",
       "SetID": "724h0m0",
       "Name": "Crimson Tornado",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement_Trophy_JOTL_10",
@@ -7158,7 +7163,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 15920,
+      "Progressed": 15923,
       "Completed": 1
     }
   ],
@@ -7166,8 +7171,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-24T14:59:49.7256019+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:08:18.820722+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:07:28.864414+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:00:04.7630468+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:08:18.8208142+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:59:27.5191385+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:07:28.8645015+00:00"
 }

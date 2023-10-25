@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 6.00% | ~1,023 |
 | Fertile Meadows | 5.00% | ~853 |
 | Royal Outpost | 5.00% | ~853 |
+| A Real Challenge | 5.00% | ~853 |
 | Homesick | 4.00% | ~682 |
 | Ruined Armory | 4.00% | ~682 |
 | Bandit Camp | 4.00% | ~682 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 4.00% | ~682 |
 | Watchtower | 4.00% | ~682 |
 | Cursed Lands | 4.00% | ~682 |
-| A Real Challenge | 4.00% | ~682 |
 | Trade Baron | 4.00% | ~682 |
 | Serving Ale | 3.00% | ~512 |
 | Against All Odds | 3.00% | ~512 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,053 (Ranked 133)  
+Progressed: 17,054 (Ranked 133)  
 Completed: 52 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 52 (0.30%) (Ranked 212)
 | 2023-10-22 | 17,020 | 52 |
 | 2023-10-23 | 17,032 | 52 |
 | 2023-10-24 | 17,051 | 52 |
-| 2023-10-25 | 17,053 | 52 |
+| 2023-10-25 | 17,054 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
 Sum: 3,196 (Ranked 170)  

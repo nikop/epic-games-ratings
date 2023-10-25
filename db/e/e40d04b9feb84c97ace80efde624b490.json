@@ -2,9 +2,9 @@
   "ID": "e40d04b9feb84c97ace80efde624b490",
   "Name": "Vacation Adventures Park Ranger 15",
   "ProductSlug": "vacation-adventures-park-ranger-15-9fdb64",
-  "Ranking_EOS_Progress": 700,
+  "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-16T04:01:12.0233331+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.3250888+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:57:50.7660338+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:09:38.5016276+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:57:31.7632956+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:09:28.779311+00:00"
 }

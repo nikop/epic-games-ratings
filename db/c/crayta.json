@@ -4,10 +4,10 @@
   "ProductSlug": "crayta",
   "Ranking_Rating": 901,
   "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109749,
+  "EOS_Progressed": 109750,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2877,6 +2877,11 @@
       "Time": "2023-10-25T03:07:41.7320551+00:00",
       "NumProgressed": 109749,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T07:07:00.3477403+00:00",
+      "NumProgressed": 109750,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2912,7 +2917,7 @@
       "Name": "Standing on the Shoulders of Giants - Silver",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "13",
@@ -2928,7 +2933,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "15",
@@ -2944,7 +2949,7 @@
       "Name": "Getting Creative - Silver",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "17",
@@ -2984,7 +2989,7 @@
       "Name": "Building Block - Gold",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "21",
@@ -2992,7 +2997,7 @@
       "Name": "Grouping Up - Bronze",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "22",
@@ -3016,7 +3021,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14267
+      "UsersEstimate": 14268
     },
     {
       "ID": "25",
@@ -3048,7 +3053,7 @@
       "Name": "Community Creativity",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "30",
@@ -3056,7 +3061,7 @@
       "Name": "Featured Gamer - Bronze",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "31",
@@ -3088,7 +3093,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "35",
@@ -3104,7 +3109,7 @@
       "Name": "Shared!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "39",
@@ -3128,7 +3133,7 @@
       "Name": "Express Yourself - Gold",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "6",
@@ -3136,7 +3141,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7682
+      "UsersEstimate": 7683
     },
     {
       "ID": "7",
@@ -3144,7 +3149,7 @@
       "Name": "These Are a Few of My Favorite Things - Silver",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "9",
@@ -3159,15 +3164,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109749,
+      "Progressed": 109750,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:07:46.17072+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:07:00.3477399+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:34.6873362+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:02:13.2629567+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:07:46.1707629+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:01:20.2101982+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:07:00.3477906+00:00"
 }

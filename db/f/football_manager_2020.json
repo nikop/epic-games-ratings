@@ -2,9 +2,9 @@
   "ID": "c1ccf2ba1bc1473abb6ca5168e1a670c",
   "Name": "Football Manager 2020",
   "ProductSlug": "football-manager-2020",
-  "Ranking_EOS_Progress": 700,
+  "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:59:53.9935766+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:58:41.5487073+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:04:34.7464232+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:58:15.0096001+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:04:13.7613842+00:00"
 }

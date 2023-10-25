@@ -2,9 +2,9 @@
   "ID": "f7ef145d00234c6fb880177fcb1f1a4a",
   "Name": "Hunter Girls",
   "ProductSlug": "hunter-girls-96020a",
-  "Ranking_EOS_Progress": 700,
+  "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-09T05:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.6920459+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:01:32.4521574+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:09:25.0141363+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:00:44.3246126+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:09:16.8936514+00:00"
 }

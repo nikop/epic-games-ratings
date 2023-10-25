@@ -7,19 +7,19 @@ Number of Ratings: 94  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Well Socialised! | 23.00% | ~25,242 |
-| Variety Player - Bronze | 13.00% | ~14,267 |
-| Express Yourself - Bronze | 7.00% | ~7,682 |
-| Getting Friendly | 5.00% | ~5,487 |
-| Challenge Apprentice | 5.00% | ~5,487 |
+| Variety Player - Bronze | 13.00% | ~14,268 |
+| Express Yourself - Bronze | 7.00% | ~7,683 |
+| Getting Friendly | 5.00% | ~5,488 |
+| Challenge Apprentice | 5.00% | ~5,488 |
 | Building Block - Bronze | 4.00% | ~4,390 |
 | Variety Player - Silver | 4.00% | ~4,390 |
 | Building Block - Silver | 2.00% | ~2,195 |
 | Challenge Veteran | 2.00% | ~2,195 |
 | Express Yourself - Silver | 2.00% | ~2,195 |
-| Building Block - Gold | 1.00% | ~1,097 |
-| Grouping Up - Bronze | 1.00% | ~1,097 |
-| Community Creativity | 1.00% | ~1,097 |
-| Shared! | 1.00% | ~1,097 |
+| Building Block - Gold | 1.00% | ~1,098 |
+| Grouping Up - Bronze | 1.00% | ~1,098 |
+| Community Creativity | 1.00% | ~1,098 |
+| Shared! | 1.00% | ~1,098 |
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~768 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~658 |
 | Going Public! | 0.60% | ~658 |
@@ -29,11 +29,11 @@ Number of Ratings: 94  (23.09.2022)
 | Getting Creative - Bronze | 0.30% | ~329 |
 | Reap the Rewards! | 0.30% | ~329 |
 | Grouping Up - Silver | 0.30% | ~329 |
-| Standing on the Shoulders of Giants - Silver | 0.20% | ~219 |
-| Getting Creative - Silver | 0.20% | ~219 |
-| Featured Gamer - Bronze | 0.20% | ~219 |
-| Express Yourself - Gold | 0.20% | ~219 |
-| These Are a Few of My Favorite Things - Silver | 0.20% | ~219 |
+| Standing on the Shoulders of Giants - Silver | 0.20% | ~220 |
+| Getting Creative - Silver | 0.20% | ~220 |
+| Featured Gamer - Bronze | 0.20% | ~220 |
+| Express Yourself - Gold | 0.20% | ~220 |
+| These Are a Few of My Favorite Things - Silver | 0.20% | ~220 |
 | These Are a Few of My Favorite Things - Gold | 0.10% | ~110 |
 | Standing on the Shoulders of Giants - Gold | 0.10% | ~110 |
 | Getting Creative - Gold | 0.10% | ~110 |
@@ -41,7 +41,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109,749 (Ranked 82)  
+Progressed: 109,750 (Ranked 82)  
 Completed: 5 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,11 +219,11 @@ Completed: 5 (0.00%) (Ranked 325)
 | 2023-10-21 | 109,742 | 5 |
 | 2023-10-22 | 109,746 | 5 |
 | 2023-10-23 | 109,748 | 5 |
-| 2023-10-25 | 109,749 | 5 |
+| 2023-10-25 | 109,750 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 419)  
-Sum: 370 (Ranked 335)  
-Diff (max vs sum): 84  
+Sum: 370 (Ranked 336)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 50 |

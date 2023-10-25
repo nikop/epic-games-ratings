@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 22,
@@ -5659,10 +5659,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9912,
       "NumberOfAwardsMax": 6597
+    },
+    {
+      "Time": "2023-10-25T06:57:11.2710246+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9917,
+      "NumberOfAwardsMax": 6597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9912,
+  "NumberOfAwards": 9917,
   "NumberOfAwardsMax": 6597,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5688,7 +5694,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 472
+      "Count": 477
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5721,9 +5727,9 @@
       "Count": 397
     }
   ],
-  "EOS_Progressed": 703531,
+  "EOS_Progressed": 703548,
   "EOS_Completed": 2259,
-  "EOS_NewPlayers": 6206,
+  "EOS_NewPlayers": 6217,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -27061,6 +27067,11 @@
       "Time": "2023-10-25T06:04:58.5588958+00:00",
       "NumProgressed": 703531,
       "NumCompleted": 2259
+    },
+    {
+      "Time": "2023-10-25T07:04:34.6095091+00:00",
+      "NumProgressed": 703548,
+      "NumCompleted": 2259
     }
   ],
   "TotalAchievements": 45,
@@ -27088,7 +27099,7 @@
       "Name": "Git Gutte!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_anger_management",
@@ -27136,7 +27147,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_contender",
@@ -27192,7 +27203,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -27216,7 +27227,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -27232,7 +27243,7 @@
       "Name": "Hotel California",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_impressive_aim",
@@ -27352,7 +27363,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28141
+      "UsersEstimate": 28142
     },
     {
       "ID": "ach_survival_expert",
@@ -27431,22 +27442,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 703531,
+      "Progressed": 703548,
       "Completed": 2259
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 29073,
-      "Completed": 29073
+      "Progressed": 29090,
+      "Completed": 29090
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-25T02:57:06.3709884+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:04:58.5588951+00:00",
+  "LastChanged": "2023-10-25T06:57:11.2710244+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:04:34.6095086+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:57:23.9460363+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:04:58.5590923+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:57:11.271025+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:04:34.6096784+00:00"
 }

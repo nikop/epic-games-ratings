@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5167,
+  "EOS_Progressed": 5168,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -838,6 +838,11 @@
       "Time": "2023-10-24T22:05:02.3751073+00:00",
       "NumProgressed": 5167,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-25T07:05:27.3066156+00:00",
+      "NumProgressed": 5168,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -873,7 +878,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -921,7 +926,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -937,7 +942,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -945,7 +950,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -953,7 +958,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -977,7 +982,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -985,7 +990,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -993,7 +998,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1041,7 +1046,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1057,7 +1062,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1073,7 +1078,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1137,7 +1142,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1145,7 +1150,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1193,7 +1198,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2790
+      "UsersEstimate": 2791
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1225,7 +1230,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1240,15 +1245,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5167,
+      "Progressed": 5168,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:05:58.4131343+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:05:27.3066149+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:59.3866548+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:59:09.4740061+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:05:58.4131844+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:58:41.0602704+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:05:27.3066615+00:00"
 }

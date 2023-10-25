@@ -2,9 +2,9 @@
   "ID": "aaa64a6e060d46ba8de15f19a0d6269e",
   "Name": "The Bornless",
   "ProductSlug": "the-bornless-6671a5",
-  "Ranking_EOS_Progress": 700,
+  "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.1540424+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:59:13.8682169+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:05:28.8960981+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:58:46.2369477+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:05:00.9611594+00:00"
 }

@@ -6,51 +6,51 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,649 |
-| Zealous | 3.00% | ~28,987 |
-| Not half bad | 3.00% | ~28,987 |
-| Apt Survivor | 3.00% | ~28,987 |
-| Survival Treasures | 3.00% | ~28,987 |
-| Skillful | 3.00% | ~28,987 |
-| Make Some Noise | 3.00% | ~28,987 |
-| The Grand Sacrifice | 2.00% | ~19,324 |
-| Agonizing Escape | 2.00% | ~19,324 |
-| Backdoor Escape | 2.00% | ~19,324 |
-| I've got your back | 2.00% | ~19,324 |
-| No one left behind | 2.00% | ~19,324 |
-| Medic | 2.00% | ~19,324 |
-| Handyman | 2.00% | ~19,324 |
-| Perfect Escape | 2.00% | ~19,324 |
-| Perfect Killing | 2.00% | ~19,324 |
-| Bloody Millionaire | 2.00% | ~19,324 |
-| I | 2.00% | ~19,324 |
-| Engineer | 2.00% | ~19,324 |
-| Sorted | 2.00% | ~19,324 |
-| Healthy Obsession | 2.00% | ~19,324 |
-| Resurgence | 2.00% | ~19,324 |
-| Close Shave | 2.00% | ~19,324 |
-| Preemptive Strike | 2.00% | ~19,324 |
-| Humanitarian | 2.00% | ~19,324 |
-| Escape Artist | 1.00% | ~9,662 |
-| Nerves of steel | 1.00% | ~9,662 |
-| Apt Killer | 1.00% | ~9,662 |
-| Risk it all | 1.00% | ~9,662 |
-| Vulture | 1.00% | ~9,662 |
-| II | 1.00% | ~9,662 |
-| III | 1.00% | ~9,662 |
-| Wounded Healer | 1.00% | ~9,662 |
-| First to the Punch | 1.00% | ~9,662 |
-| Every Last Drop | 1.00% | ~9,662 |
-| With Scars to Show | 1.00% | ~9,662 |
-| Flight to Freedom | 1.00% | ~9,662 |
-| A Fast Death | 1.00% | ~9,662 |
-| Second Act | 1.00% | ~9,662 |
+| It wakes | 4.00% | ~38,651 |
+| Zealous | 3.00% | ~28,988 |
+| Not half bad | 3.00% | ~28,988 |
+| Apt Survivor | 3.00% | ~28,988 |
+| Survival Treasures | 3.00% | ~28,988 |
+| Skillful | 3.00% | ~28,988 |
+| Make Some Noise | 3.00% | ~28,988 |
+| The Grand Sacrifice | 2.00% | ~19,325 |
+| Agonizing Escape | 2.00% | ~19,325 |
+| Backdoor Escape | 2.00% | ~19,325 |
+| I've got your back | 2.00% | ~19,325 |
+| No one left behind | 2.00% | ~19,325 |
+| Medic | 2.00% | ~19,325 |
+| Handyman | 2.00% | ~19,325 |
+| Perfect Escape | 2.00% | ~19,325 |
+| Perfect Killing | 2.00% | ~19,325 |
+| Bloody Millionaire | 2.00% | ~19,325 |
+| I | 2.00% | ~19,325 |
+| Engineer | 2.00% | ~19,325 |
+| Sorted | 2.00% | ~19,325 |
+| Healthy Obsession | 2.00% | ~19,325 |
+| Resurgence | 2.00% | ~19,325 |
+| Close Shave | 2.00% | ~19,325 |
+| Preemptive Strike | 2.00% | ~19,325 |
+| Humanitarian | 2.00% | ~19,325 |
+| Escape Artist | 1.00% | ~9,663 |
+| Nerves of steel | 1.00% | ~9,663 |
+| Apt Killer | 1.00% | ~9,663 |
+| Risk it all | 1.00% | ~9,663 |
+| Vulture | 1.00% | ~9,663 |
+| II | 1.00% | ~9,663 |
+| III | 1.00% | ~9,663 |
+| Cherish your Life | 1.00% | ~9,663 |
+| Wounded Healer | 1.00% | ~9,663 |
+| First to the Punch | 1.00% | ~9,663 |
+| Every Last Drop | 1.00% | ~9,663 |
+| With Scars to Show | 1.00% | ~9,663 |
+| Flight to Freedom | 1.00% | ~9,663 |
+| A Fast Death | 1.00% | ~9,663 |
+| Second Act | 1.00% | ~9,663 |
 | Blood on your hands | 0.90% | ~8,696 |
 | Made it out alive! | 0.90% | ~8,696 |
 | III-50 | 0.90% | ~8,696 |
 | Item of Obsession | 0.90% | ~8,696 |
 | Near-Death Experience | 0.90% | ~8,696 |
-| Cherish your Life | 0.90% | ~8,696 |
 | Unforgettable Getaway | 0.90% | ~8,696 |
 | Operation: Survival | 0.90% | ~8,696 |
 | Old West Oasis | 0.90% | ~8,696 |
@@ -75,19 +75,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Escaping the Nightmare | 0.70% | ~6,764 |
 | Ancestor's Rite | 0.70% | ~6,764 |
 | Grim Pilgrimage | 0.70% | ~6,764 |
-| Blood on your face | 0.60% | ~5,797 |
-| Hemophobia | 0.60% | ~5,797 |
-| Serial Killer | 0.60% | ~5,797 |
-| Game Over | 0.60% | ~5,797 |
-| Devoted Gatekeeping | 0.60% | ~5,797 |
-| Shrine Apparatus | 0.60% | ~5,797 |
-| Broken Bodies | 0.60% | ~5,797 |
-| Selfless Survival | 0.60% | ~5,797 |
-| End of Days | 0.60% | ~5,797 |
-| Insult and Injury | 0.60% | ~5,797 |
-| Outrun the Overlap | 0.60% | ~5,797 |
-| Complete the Evolution | 0.60% | ~5,797 |
-| Extraterrestrial | 0.60% | ~5,797 |
+| Blood on your face | 0.60% | ~5,798 |
+| Hemophobia | 0.60% | ~5,798 |
+| Serial Killer | 0.60% | ~5,798 |
+| Game Over | 0.60% | ~5,798 |
+| Devoted Gatekeeping | 0.60% | ~5,798 |
+| Shrine Apparatus | 0.60% | ~5,798 |
+| Broken Bodies | 0.60% | ~5,798 |
+| Selfless Survival | 0.60% | ~5,798 |
+| End of Days | 0.60% | ~5,798 |
+| Insult and Injury | 0.60% | ~5,798 |
+| Outrun the Overlap | 0.60% | ~5,798 |
+| Complete the Evolution | 0.60% | ~5,798 |
+| Extraterrestrial | 0.60% | ~5,798 |
 | Jump Scares | 0.50% | ~4,831 |
 | Deep Cleansing | 0.50% | ~4,831 |
 | Texas BBQ | 0.50% | ~4,831 |
@@ -109,19 +109,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Death of Ignorance | 0.30% | ~2,899 |
 | Hack the Mainframe | 0.30% | ~2,899 |
 | Disarm and Dismember | 0.30% | ~2,899 |
-| A feast for the Entity | 0.20% | ~1,932 |
-| In the void she walks | 0.20% | ~1,932 |
-| Mad House | 0.20% | ~1,932 |
-| Deranged Pursuit | 0.20% | ~1,932 |
-| Dismantle | 0.20% | ~1,932 |
-| Left For Dead | 0.20% | ~1,932 |
-| Bodyguard | 0.20% | ~1,932 |
-| Speed Kills | 0.20% | ~1,932 |
-| Rescue Mission | 0.20% | ~1,932 |
-| Viral Video | 0.20% | ~1,932 |
-| Ghost in the Machine | 0.20% | ~1,932 |
-| From the Deep | 0.20% | ~1,932 |
-| Terror of LV-426 | 0.20% | ~1,932 |
+| A feast for the Entity | 0.20% | ~1,933 |
+| In the void she walks | 0.20% | ~1,933 |
+| Mad House | 0.20% | ~1,933 |
+| Deranged Pursuit | 0.20% | ~1,933 |
+| Dismantle | 0.20% | ~1,933 |
+| Left For Dead | 0.20% | ~1,933 |
+| Bodyguard | 0.20% | ~1,933 |
+| Speed Kills | 0.20% | ~1,933 |
+| Rescue Mission | 0.20% | ~1,933 |
+| Viral Video | 0.20% | ~1,933 |
+| Ghost in the Machine | 0.20% | ~1,933 |
+| From the Deep | 0.20% | ~1,933 |
+| Terror of LV-426 | 0.20% | ~1,933 |
 | Cripple them all | 0.10% | ~966 |
 | The Grind | 0.10% | ~966 |
 | The Key to Escape | 0.10% | ~966 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~966 |
 | Adept Ripley | 0.10% | ~966 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,222 (Ranked 14)  
+Progressed: 966,269 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 52 (0.01%) (Ranked 305)
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
 | 2023-10-24 | 965,667 | 52 |
-| 2023-10-25 | 966,222 | 52 |
+| 2023-10-25 | 966,269 | 52 |
 ## Awards
 Max (Diverse Characters): 34,544  (Ranked 15)  
 Sum: 266,601 (Ranked 13)  

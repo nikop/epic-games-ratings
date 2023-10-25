@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9489,9 +9489,9 @@
       "Count": 738
     }
   ],
-  "EOS_Progressed": 298803,
+  "EOS_Progressed": 298804,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -29474,6 +29474,11 @@
       "Time": "2023-10-25T06:09:14.5264338+00:00",
       "NumProgressed": 298803,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-10-25T07:09:07.6346176+00:00",
+      "NumProgressed": 298804,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 45,
@@ -29485,7 +29490,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44820
+      "UsersEstimate": 44821
     },
     {
       "ID": "PFA_10",
@@ -29813,7 +29818,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41832
+      "UsersEstimate": 41833
     },
     {
       "ID": "PFA_7",
@@ -29821,7 +29826,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38844
+      "UsersEstimate": 38845
     },
     {
       "ID": "PFA_8",
@@ -29844,7 +29849,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298803,
+      "Progressed": 298804,
       "Completed": 492
     }
   ],
@@ -29852,8 +29857,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-25T01:43:15.8509502+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:09:14.5264333+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:09:07.6346172+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:01:56.0456622+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:09:14.5266019+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:01:04.2898564+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:09:07.6347795+00:00"
 }

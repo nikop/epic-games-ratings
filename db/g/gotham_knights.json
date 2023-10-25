@@ -3773,7 +3773,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 74756,
+  "EOS_Progressed": 74758,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 1,
@@ -20008,6 +20008,11 @@
       "Time": "2023-10-25T06:05:41.4394476+00:00",
       "NumProgressed": 74756,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-25T07:05:12.0776206+00:00",
+      "NumProgressed": 74758,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -20107,7 +20112,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11213
+      "UsersEstimate": 11214
     },
     {
       "ID": "CHALLENGES_1",
@@ -20179,7 +20184,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9718
+      "UsersEstimate": 9719
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -20227,7 +20232,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9718
+      "UsersEstimate": 9719
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -20331,7 +20336,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18689
+      "UsersEstimate": 18690
     },
     {
       "ID": "HARLEY_3",
@@ -20339,7 +20344,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "HARLEY_4",
@@ -20363,7 +20368,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38126
+      "UsersEstimate": 38127
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -20387,7 +20392,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -20395,7 +20400,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20184
+      "UsersEstimate": 20185
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -20411,7 +20416,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25417
+      "UsersEstimate": 25418
     },
     {
       "ID": "MYSTERY_02",
@@ -20419,7 +20424,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18689
+      "UsersEstimate": 18690
     },
     {
       "ID": "MYSTERY_03",
@@ -20435,7 +20440,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "MYSTERY_05",
@@ -20451,7 +20456,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11213
+      "UsersEstimate": 11214
     },
     {
       "ID": "MYSTERY_07",
@@ -20506,13 +20511,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 74756,
+      "Progressed": 74758,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45036,
+      "Progressed": 45038,
       "Completed": 2670
     }
   ],
@@ -20520,8 +20525,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-25T04:58:10.0122098+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:05:41.439447+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:05:12.0776197+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:37.1553796+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:58:01.9971067+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:05:41.4396071+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:57:40.7258915+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:05:12.0777984+00:00"
 }

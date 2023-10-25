@@ -64,9 +64,9 @@ Rating: 4.08 (Ranked 952)
 | Mythic Power | 4.00% | ~83 |
 | What lies behind the bush | 4.00% | ~83 |
 | Gear Enchanting | 3.00% | ~62 |
+| Guardian Master | 3.00% | ~62 |
 | Cauldron Liberator | 2.00% | ~41 |
 | Enchanting skill x5 | 2.00% | ~41 |
-| Guardian Master | 2.00% | ~41 |
 | Pokerface | 2.00% | ~41 |
 | Titan Power | 2.00% | ~41 |
 | Angel Power | 1.00% | ~21 |

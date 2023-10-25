@@ -1355,9 +1355,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6340,
+  "EOS_Progressed": 6341,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11415,6 +11415,11 @@
       "Time": "2023-10-25T05:07:56.5941244+00:00",
       "NumProgressed": 6340,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-25T07:07:11.7404888+00:00",
+      "NumProgressed": 6341,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11426,7 +11431,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4755
+      "UsersEstimate": 4756
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -11466,7 +11471,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4755
+      "UsersEstimate": 4756
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -11474,7 +11479,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4566
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -11482,7 +11487,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "HUNT_DEER_20",
@@ -11570,7 +11575,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 3233
+      "UsersEstimate": 3234
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -11602,7 +11607,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -11618,7 +11623,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -11626,7 +11631,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -11650,7 +11655,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1966
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -11673,15 +11678,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6340,
+      "Progressed": 6341,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-20T01:42:23.0001276+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:07:59.2845512+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:07:11.7404884+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.2385457+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:57:38.0170048+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:07:59.2846395+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:57:22.552875+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:07:11.7405736+00:00"
 }

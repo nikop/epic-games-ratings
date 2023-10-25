@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-10-21T11:09:14.1167752+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T07:09:38.6407279+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -513,7 +518,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 65
     },
@@ -537,7 +542,7 @@
       "ID": "ACH_DEFEAT_BOSS_USKOL",
       "SetID": "7i20me3",
       "Name": "Defeat Uskol",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -555,7 +560,7 @@
       "Name": "Self-Defence",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -585,9 +590,9 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -713,7 +718,7 @@
       "ID": "ACH_FIND_FLUX_BATTERY",
       "SetID": "7i20me3",
       "Name": "Finally!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -753,7 +758,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -761,7 +766,7 @@
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -842,22 +847,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 92,
-      "Completed": 92
+      "Progressed": 93,
+      "Completed": 93
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:09:49.6634482+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:09:38.6407274+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8254779+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:00:11.9338795+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:09:49.6634976+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:59:34.4501159+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:09:38.6407686+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1994,6 +1994,11 @@
       "Time": "2023-10-25T04:05:53.9375879+00:00",
       "NumProgressed": 462,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-25T07:04:46.8877572+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 14,
@@ -2011,9 +2016,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2116,14 +2121,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-25T06:05:12.4891362+00:00",
+  "LastChanged_Achievements": "2023-10-25T07:04:46.8877566+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:58:42.6803334+00:00",
-  "LastUpdate_Achievements": "2023-10-25T06:05:12.4891615+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:58:15.9657066+00:00",
+  "LastUpdate_Achievements": "2023-10-25T07:04:46.8877818+00:00"
 }

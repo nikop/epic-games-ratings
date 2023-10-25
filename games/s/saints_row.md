@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~152 |
 | Fiesta Time | 0.20% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,099 (Ranked 92)  
+Progressed: 76,101 (Ranked 92)  
 Completed: 51 (0.07%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 51 (0.07%) (Ranked 271)
 | 2023-10-22 | 75,871 | 51 |
 | 2023-10-23 | 75,981 | 51 |
 | 2023-10-24 | 76,070 | 51 |
-| 2023-10-25 | 76,099 | 51 |
+| 2023-10-25 | 76,101 | 51 |
 ## Awards
 Max (Extremely Fun): 1,071  (Ranked 143)  
 Sum: 8,697 (Ranked 97)  
