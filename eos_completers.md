@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.78% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.77% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -117,8 +117,8 @@
 | 115 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 116 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 117 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
-| 118 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.85% |
 | 118 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 119 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.84% |
 | 120 | [Sifu](games/s/sifu.md) | 1.81% |
 | 121 | [Frogun](games/f/frogun.md) | 1.79% |
 | 122 | [Night Book](games/n/night_book.md) | 1.75% |
@@ -173,15 +173,15 @@
 | 171 | [Dead Space](games/d/dead_space.md) | 0.58% |
 | 171 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 171 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 171 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.58% |
-| 175 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
-| 175 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 175 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
-| 178 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
-| 179 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 179 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 181 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.53% |
+| 174 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.57% |
+| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
+| 174 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
+| 174 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 174 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 179 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
+| 180 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 180 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
+| 182 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 183 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 184 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
