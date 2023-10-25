@@ -327,6 +327,7 @@
 | [Return to Grace](../games/c/c4061518e37f40119b54ce93456a8ecb.md) | 35 | 1,000 |
 | [Reverie - Sweet As Edition](../games/r/reverie_-_sweet_as_edition.md) | 35 | 1,000 |
 | [Sonic Origins](../games/s/sonic_origins.md) | 35 | 1,000 |
+| [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
 | [Time on Frog Island](../games/t/time_on_frog_island.md) | 35 | 1,000 |
 | [Airport CEO](../games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 34 | 1,000 |
@@ -401,7 +402,6 @@
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
-| [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 30 | 1,000 |
 | [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |
 | [World of Contraptions](../games/w/world_of_contraptions.md) | 30 | 1,000 |
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |

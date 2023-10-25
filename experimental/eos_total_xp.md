@@ -34,6 +34,7 @@
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 46 | 1,200 |
+| [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
@@ -658,7 +659,6 @@
 | [The Dragoness Command Of The Flame](../games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 37 | 1,000 |
 | [The Entropy Centre](../games/t/the_entropy_centre.md) | 27 | 1,000 |
 | [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
-| [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 30 | 1,000 |
 | [The Fabulous Fear Machine](../games/t/the_fabulous_fear_machine.md) | 47 | 1,000 |
 | [The First Tree](../games/t/the_first_tree.md) | 14 | 1,000 |
 | [The Forest Quartet](../games/a/a3100205e194489088c7625c8c5c1596.md) | 9 | 1,000 |
