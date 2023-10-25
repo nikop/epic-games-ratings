@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.30% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.45% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.42% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -83,7 +83,7 @@
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
 | 83 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.53% |
+| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.52% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.38% |
 | 87 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -161,8 +161,8 @@
 | 159 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 160 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 160 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
-| 162 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.72% |
-| 163 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 162 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.71% |
 | 164 | [Eternights](games/e/eternights.md) | 0.69% |
 | 165 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 166 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
@@ -199,13 +199,13 @@
 | 197 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 198 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 199 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 199 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.39% |
 | 199 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 202 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 202 | [The Surge](games/t/the_surge.md) | 0.38% |
-| 204 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
-| 204 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 204 | [Them and Us](games/t/them_and_us.md) | 0.37% |
+| 201 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 201 | [The Surge](games/t/the_surge.md) | 0.38% |
+| 203 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
+| 203 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 203 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.37% |
+| 203 | [Them and Us](games/t/them_and_us.md) | 0.37% |
 | 207 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 208 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
