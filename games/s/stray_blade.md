@@ -7,12 +7,12 @@
 | Self-Defence | 86.00% | ~82 |
 | Tinkerer | 68.00% | ~65 |
 | Welcome to the Club | 38.00% | ~36 |
-| Apprentice | 37.00% | ~35 |
+| Apprentice | 38.00% | ~36 |
 | A new World ahead | 31.00% | ~29 |
 | Can't touch this | 27.00% | ~26 |
 | Don't Cry Wolf | 24.00% | ~23 |
 | Freezing Cold | 19.00% | ~18 |
-| Expert | 18.00% | ~17 |
+| Expert | 19.00% | ~18 |
 | Searing Heat | 16.00% | ~15 |
 | Nothing but the Truth | 16.00% | ~15 |
 | The Power of the Mountains | 14.00% | ~13 |
@@ -21,11 +21,11 @@
 | Changing the World | 12.00% | ~11 |
 | Witch | 11.00% | ~10 |
 | The A-Team | 9.00% | ~9 |
+| Defeat Tezuth | 8.00% | ~8 |
 | Defeat Uskol | 8.00% | ~8 |
 | Finally! | 8.00% | ~8 |
 | Mirror, Mirror on the Wall | 7.00% | ~7 |
 | Craftsmen | 7.00% | ~7 |
-| Defeat Tezuth | 7.00% | ~7 |
 | Through Dangers Untold | 7.00% | ~7 |
 | A Deceiving Gift | 6.00% | ~6 |
 | Bringing guns to a sword fight | 5.00% | ~5 |

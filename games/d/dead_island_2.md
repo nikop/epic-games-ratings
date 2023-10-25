@@ -1,29 +1,29 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 515)  
+Rating: 4.54 (Ranked 516)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,177 |
+| Welcome To Hell-A | 5.00% | ~35,178 |
 | Git Gutte! | 4.00% | ~28,142 |
 | Break A Leg | 4.00% | ~28,142 |
 | Coup de Grâce | 4.00% | ~28,142 |
 | Hazardous Materials | 4.00% | ~28,142 |
 | Hotel California | 4.00% | ~28,142 |
 | Personal Assistant Personally Assisted | 4.00% | ~28,142 |
-| Dr. Reed, I Presume? | 3.00% | ~21,106 |
-| Bookworm | 3.00% | ~21,106 |
-| But Doctor, I am Butcho | 3.00% | ~21,106 |
-| Slayer Squad | 3.00% | ~21,106 |
-| Can't Handle the Truth | 3.00% | ~21,106 |
-| Like Riding a Bike | 3.00% | ~21,106 |
-| Friends Like These | 3.00% | ~21,106 |
-| Apex Predator | 3.00% | ~21,106 |
-| Zombologist | 3.00% | ~21,106 |
-| A Patton Emerges | 3.00% | ~21,106 |
-| Stacking the Deck | 3.00% | ~21,106 |
-| This is My Weapon | 3.00% | ~21,106 |
+| Dr. Reed, I Presume? | 3.00% | ~21,107 |
+| Bookworm | 3.00% | ~21,107 |
+| But Doctor, I am Butcho | 3.00% | ~21,107 |
+| Slayer Squad | 3.00% | ~21,107 |
+| Can't Handle the Truth | 3.00% | ~21,107 |
+| Like Riding a Bike | 3.00% | ~21,107 |
+| Friends Like These | 3.00% | ~21,107 |
+| Apex Predator | 3.00% | ~21,107 |
+| Zombologist | 3.00% | ~21,107 |
+| A Patton Emerges | 3.00% | ~21,107 |
+| Stacking the Deck | 3.00% | ~21,107 |
+| This is My Weapon | 3.00% | ~21,107 |
 | Making Your Mark | 2.00% | ~14,071 |
 | Anger Management | 2.00% | ~14,071 |
 | Perks of the Job | 2.00% | ~14,071 |
@@ -33,11 +33,11 @@ Rating: 4.54 (Ranked 515)
 | I Am the Resurrection | 2.00% | ~14,071 |
 | Down with the Sickness | 2.00% | ~14,071 |
 | Our True Nature | 2.00% | ~14,071 |
-| Smorgasbord | 1.00% | ~7,035 |
-| Jumbo Keyring | 1.00% | ~7,035 |
-| Max Headroom | 1.00% | ~7,035 |
-| Go, Bobcats! | 1.00% | ~7,035 |
-| Rising Star | 1.00% | ~7,035 |
+| Smorgasbord | 1.00% | ~7,036 |
+| Jumbo Keyring | 1.00% | ~7,036 |
+| Max Headroom | 1.00% | ~7,036 |
+| Go, Bobcats! | 1.00% | ~7,036 |
+| Rising Star | 1.00% | ~7,036 |
 | Not Even My Final Form | 0.90% | ~6,332 |
 | Internet Famous | 0.90% | ~6,332 |
 | On Safari | 0.80% | ~5,628 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,548 (Ranked 22)  
+Progressed: 703,562 (Ranked 22)  
 Completed: 2,259 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 2,259 (0.32%) (Ranked 208)
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
-| 2023-10-25 | 703,548 | 2,259 |
+| 2023-10-25 | 703,562 | 2,259 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
 Sum: 9,917 (Ranked 91)  

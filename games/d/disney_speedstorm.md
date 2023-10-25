@@ -1,20 +1,20 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 707)  
+Rating: 4.42 (Ranked 700)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,713 |
-| IT MAKES BOOM! | 3.00% | ~7,628 |
-| EXTRA BOOST | 2.00% | ~5,085 |
-| PROTECTED | 2.00% | ~5,085 |
+| ROOKIE | 5.00% | ~12,715 |
+| IT MAKES BOOM! | 3.00% | ~7,629 |
+| EXTRA BOOST | 2.00% | ~5,086 |
+| PROTECTED | 2.00% | ~5,086 |
 | HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,543 |
 | AGGRESSIVE RACER | 1.00% | ~2,543 |
 | PRO | 1.00% | ~2,543 |
-| A TIGER'S FEAR | 0.90% | ~2,288 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,271 |
-| ACE SPEEDSTER | 0.50% | ~1,271 |
+| A TIGER'S FEAR | 0.90% | ~2,289 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,272 |
+| ACE SPEEDSTER | 0.50% | ~1,272 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,017 |
 | TRAINING HARD | 0.30% | ~763 |
 | RELEASE THE KRAKEN | 0.30% | ~763 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 707)
 | ACE TRICKSTER | 0.20% | ~509 |
 | FRAMED! | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,258 (Ranked 53)  
+Progressed: 254,300 (Ranked 53)  
 Completed: 241 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 241 (0.09%) (Ranked 262)
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
 | 2023-10-24 | 253,504 | 241 |
-| 2023-10-25 | 254,258 | 241 |
+| 2023-10-25 | 254,300 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 450)  
-Sum: 250 (Ranked 370)  
+Sum: 251 (Ranked 370)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -225,8 +225,8 @@ Diff (max vs sum): 80
 | This game has Diverse Characters | 37 |
 | This game is Great for Beginners | 35 |
 | This game has Amazing Characters | 29 |
+| This game has Amazing Storytelling | 23 |
 | This game has Quickly Understood Controls | 23 |
-| This game has Amazing Storytelling | 22 |
 | This game is Highly Recommended | 22 |
 | This game has a Competitive Community | 22 |
 | This game has Competitive Players | 22 |
@@ -257,3 +257,4 @@ Diff (max vs sum): 80
 | 2023-10-22 | 4.41 | 35 | 180 |
 | 2023-10-23 | 4.41 | 35 | 210 |
 | 2023-10-24 | 4.41 | 38 | 250 |
+| 2023-10-25 | 4.42 | 38 | 251 |

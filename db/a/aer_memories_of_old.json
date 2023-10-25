@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22730,
+  "EOS_Progressed": 22731,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 2,
@@ -20583,6 +20583,11 @@
       "Time": "2023-10-25T06:08:10.5180941+00:00",
       "NumProgressed": 22730,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-25T08:07:25.6255862+00:00",
+      "NumProgressed": 22731,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20602,7 +20607,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "EAST_FINISHED",
@@ -20666,7 +20671,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20714,7 +20719,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17502
+      "UsersEstimate": 17503
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20722,7 +20727,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20746,22 +20751,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22730,
+      "Progressed": 22731,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:07:21.6019321+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:07:25.6255858+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:02:17.8304766+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:07:21.6020682+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:03:11.5326585+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:07:25.6256925+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1011,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 412,
@@ -435,10 +435,16 @@
       "Rating": 3.81,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2023-10-25T07:58:51.4709222+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 470,
+  "NumberOfAwards": 409,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -515,8 +521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-25T02:58:54.7894262+00:00",
+  "LastChanged": "2023-10-25T07:58:51.4709221+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.5469226+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:58:45.821871+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:07:32.3659614+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:58:51.4709228+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:07:35.6949144+00:00"
 }

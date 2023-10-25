@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2892,9 +2892,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_74",
@@ -3136,8 +3136,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:04:17.3552525+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:04:30.5853346+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:57:42.5151952+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:17.3554591+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:57:51.3957051+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:04:30.5855161+00:00"
 }

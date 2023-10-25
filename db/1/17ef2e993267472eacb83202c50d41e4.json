@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7437,
+  "EOS_Progressed": 7438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4922,6 +4922,11 @@
       "Time": "2023-10-25T07:09:47.2401235+00:00",
       "NumProgressed": 7437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T08:10:15.4131407+00:00",
+      "NumProgressed": 7438,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -4942,7 +4947,7 @@
       "Name": "Upgraded Accelerated Reload to Level 3",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ArachnidKills1",
@@ -4958,7 +4963,7 @@
       "Name": "Purchased Blink Dash",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "BIUpgraded1",
@@ -4998,7 +5003,7 @@
       "Name": "Upgraded Deflector Helmet to Level 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "EARUpgraded1",
@@ -5030,7 +5035,7 @@
       "Name": "Purchased Flameburst Grenade",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "FRUpgraded1",
@@ -5054,7 +5059,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "GamesPlayed10",
@@ -5270,7 +5275,7 @@
       "Name": "Destroyed 3 Inhibitors in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MaxMinionKills150",
@@ -5278,7 +5283,7 @@
       "Name": "Eliminated 150 Minions in a single match",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MaxNeutralKills150",
@@ -5414,7 +5419,7 @@
       "Name": "Purchased Rally Allies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "RFSPurchased1",
@@ -5438,7 +5443,7 @@
       "Name": "Upgraded Shield Enhancements to Level 3",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "SMGUpgraded1",
@@ -5502,7 +5507,7 @@
       "Name": "Purchased Team Shield Ultimate",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "TowerKills11",
@@ -5518,14 +5523,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7437,
+      "Progressed": 7438,
       "Completed": 1
     }
   ],
@@ -5533,8 +5538,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:09:47.2401224+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:10:15.4131403+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:00:07.2495413+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:09:47.2402332+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:00:09.0161178+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:10:15.4132422+00:00"
 }

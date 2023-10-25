@@ -51,7 +51,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Human Utopia | 0.80% | ~136 |
 | Beaver Utopia | 0.70% | ~119 |
 | The Queen's Chosen | 0.60% | ~102 |
-| Harpy Utopia | 0.40% | ~68 |
+| Harpy Utopia | 0.50% | ~85 |
 | Ruins | 0.40% | ~68 |
 | Treasure | 0.30% | ~51 |
 | Higher Needs | 0.20% | ~34 |

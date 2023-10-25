@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1431,8 +1431,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:04:31.5384104+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:04:44.7644562+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:59:15.4597802+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:31.5384289+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:59:22.0893405+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:04:44.7644703+00:00"
 }

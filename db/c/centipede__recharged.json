@@ -311,9 +311,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18042,
+  "EOS_Progressed": 18043,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -14586,6 +14586,11 @@
       "Time": "2023-10-25T07:03:42.5266348+00:00",
       "NumProgressed": 18042,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-10-25T08:03:57.3139899+00:00",
+      "NumProgressed": 18043,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 16,
@@ -14597,7 +14602,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4871
+      "UsersEstimate": 4872
     },
     {
       "ID": "Burning_For_You",
@@ -14629,7 +14634,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "Feel_The_Thunder",
@@ -14693,7 +14698,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "Sole_Survivor",
@@ -14724,15 +14729,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18042,
+      "Progressed": 18043,
       "Completed": 112
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-22T19:01:04.2680266+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:03:42.526634+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:03:57.3139896+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:57:34.3161793+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:03:42.5267364+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:57:43.9587144+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:03:57.3140647+00:00"
 }

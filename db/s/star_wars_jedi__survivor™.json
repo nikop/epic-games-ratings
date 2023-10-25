@@ -4571,7 +4571,7 @@
   ],
   "EOS_Progressed": 5976,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8676,9 +8676,9 @@
       "ID": "achievement_a36",
       "SetID": "3m4b0pk",
       "Name": "Can You Pet the Bogling?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5259
     },
     {
       "ID": "achievement_a37",
@@ -8877,8 +8877,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-25T02:13:36.3877675+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:04:52.8390468+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:05:05.0544423+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:57:28.543542+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:52.8391224+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:57:39.0753342+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:05:05.0544993+00:00"
 }

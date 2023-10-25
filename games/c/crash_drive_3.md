@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 31.00% | ~122 |
+| Brace for impact! | 31.00% | ~123 |
 | Baby's First Car | 29.00% | ~115 |
 | Pushover | 29.00% | ~115 |
 | A Forest Walk | 29.00% | ~115 |
 | Amateur Mechanic | 28.00% | ~111 |
 | C-C-C-Combo! | 26.00% | ~103 |
 | Multiply that! | 26.00% | ~103 |
-| Fore! | 24.00% | ~95 |
-| Insurance fraud | 24.00% | ~95 |
 | Snow Fun! | 24.00% | ~95 |
+| Fore! | 23.00% | ~91 |
 | The Collector | 23.00% | ~91 |
+| Insurance fraud | 23.00% | ~91 |
 | The Wild West | 23.00% | ~91 |
-| Bag of Tricks | 23.00% | ~91 |
 | You're it | 23.00% | ~91 |
 | To and Fro | 22.00% | ~87 |
 | Goodbye cruel world | 22.00% | ~87 |
+| Bag of Tricks | 22.00% | ~87 |
 | I see the light! | 22.00% | ~87 |
 | In the Bag! | 22.00% | ~87 |
 | First Come, First Serve | 21.00% | ~83 |
-| Disoriented | 21.00% | ~83 |
 | Take that Frosty! | 21.00% | ~83 |
 | Beach Party! | 21.00% | ~83 |
 | Car-Tapult | 20.00% | ~79 |
+| Disoriented | 20.00% | ~79 |
 | Anger Issues | 20.00% | ~79 |
 | Your Highness | 20.00% | ~79 |
 | Event Amateur | 19.00% | ~75 |
@@ -38,11 +38,11 @@
 | Speed of light | 17.00% | ~67 |
 | Out of this League | 14.00% | ~55 |
 | Special Forces | 13.00% | ~51 |
-| Toot Toot! | 12.00% | ~47 |
-| Blasting away! | 12.00% | ~47 |
-| High Roller | 11.00% | ~43 |
-| Earth Defense Force | 11.00% | ~43 |
-| Rocketman | 11.00% | ~43 |
+| Toot Toot! | 12.00% | ~48 |
+| Blasting away! | 12.00% | ~48 |
+| High Roller | 11.00% | ~44 |
+| Earth Defense Force | 11.00% | ~44 |
+| Rocketman | 11.00% | ~44 |
 | Event Pro | 10.00% | ~40 |
 | Space Crash | 7.00% | ~28 |
 | To war! | 6.00% | ~24 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395 (Ranked 305)  
+Progressed: 396 (Ranked 305)  
 Completed: 2 (0.51%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,6 +141,7 @@ Completed: 2 (0.51%) (Ranked 184)
 | 2023-10-15 | 393 | 2 |
 | 2023-10-16 | 394 | 2 |
 | 2023-10-17 | 395 | 2 |
+| 2023-10-25 | 396 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

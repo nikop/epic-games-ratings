@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 833,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2329,6 +2329,11 @@
       "Time": "2023-10-25T06:09:19.4581261+00:00",
       "NumProgressed": 831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T08:09:42.4521894+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2411,9 +2416,9 @@
       "ID": "achievement_18",
       "SetID": "271ol84",
       "Name": "The power of the Force",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_19",
@@ -2445,7 +2450,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_22",
@@ -2515,9 +2520,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_30",
@@ -2533,7 +2538,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_32",
@@ -2557,7 +2562,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_35",
@@ -2565,7 +2570,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 758
     },
     {
       "ID": "achievement_36",
@@ -2581,7 +2586,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_38",
@@ -2589,7 +2594,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_39",
@@ -2605,7 +2610,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_40",
@@ -2613,7 +2618,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_41",
@@ -2819,9 +2824,9 @@
       "ID": "achievement_7",
       "SetID": "271ol84",
       "Name": "A cunning warrior",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_8",
@@ -2844,13 +2849,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 833,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 831,
+      "Progressed": 833,
       "Completed": 1
     }
   ],
@@ -2858,8 +2863,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:09:11.8828561+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:09:42.452189+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:01:12.8728462+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:09:11.8829408+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:01:09.6479853+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:09:42.452251+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,556 |
-| Until death do us apart | 4.00% | ~17,556 |
-| Victorious! | 4.00% | ~17,556 |
+| That's a Grand Army | 4.00% | ~17,557 |
+| Until death do us apart | 4.00% | ~17,557 |
+| Victorious! | 4.00% | ~17,557 |
 | That is mine! | 3.00% | ~13,167 |
 | Brothers in Arms | 2.00% | ~8,778 |
 | Cold War | 2.00% | ~8,778 |
@@ -27,11 +27,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,511 |
 | Total Control | 0.80% | ~3,511 |
 | My armies are invincible! | 0.70% | ~3,072 |
-| Agressive Expander | 0.50% | ~2,194 |
-| Azur semé de lis or | 0.50% | ~2,194 |
-| City of Cities | 0.50% | ~2,194 |
-| Combined Arms | 0.50% | ~2,194 |
-| This navy can take it all | 0.50% | ~2,194 |
+| Agressive Expander | 0.50% | ~2,195 |
+| Azur semé de lis or | 0.50% | ~2,195 |
+| City of Cities | 0.50% | ~2,195 |
+| Combined Arms | 0.50% | ~2,195 |
+| This navy can take it all | 0.50% | ~2,195 |
 | Bright Spark | 0.40% | ~1,756 |
 | The Emperors new clothes | 0.40% | ~1,756 |
 | Factionalism | 0.40% | ~1,756 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,895 (Ranked 40)  
+Progressed: 438,915 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,10 +549,10 @@ Completed: 1 (0.00%) (Ranked 325)
 | 2023-10-22 | 437,539 | 1 |
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
-| 2023-10-25 | 438,895 | 1 |
+| 2023-10-25 | 438,915 | 1 |
 ## Awards
 Max (Educational): 6,667  (Ranked 55)  
-Sum: 54,745 (Ranked 24)  
+Sum: 54,760 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -560,7 +560,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,349 |
 | This game has Diverse Characters | 6,342 |
 | This game has Challenging Combat | 6,299 |
-| This game is Extremely Fun | 6,267 |
+| This game is Extremely Fun | 6,282 |
 | This game is Relaxing | 6,128 |
 | This game has Competitive Players | 5,976 |
 | This game has Amazing Storytelling | 5,576 |
@@ -850,3 +850,4 @@ Diff (max vs sum): 31
 | 2023-10-22 | 4.69 | - | 6,632 | 54,547 |
 | 2023-10-23 | 4.69 | - | 6,653 | 54,651 |
 | 2023-10-24 | 4.69 | - | 6,667 | 54,745 |
+| 2023-10-25 | 4.69 | - | 6,667 | 54,760 |

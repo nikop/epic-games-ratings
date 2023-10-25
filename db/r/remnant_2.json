@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 120,
   "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 68,
@@ -3307,10 +3307,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 4145,
       "NumberOfAwardsMax": 1894
+    },
+    {
+      "Time": "2023-10-25T08:03:27.0591402+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 4146,
+      "NumberOfAwardsMax": 1894
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4145,
+  "NumberOfAwards": 4146,
   "NumberOfAwardsMax": 1894,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3336,7 +3342,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 254
+      "Count": 255
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3381,9 +3387,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 200590,
+  "EOS_Progressed": 200599,
   "EOS_Completed": 405,
-  "EOS_NewPlayers": 3560,
+  "EOS_NewPlayers": 3559,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -14766,6 +14772,11 @@
       "Time": "2023-10-25T07:04:15.9997576+00:00",
       "NumProgressed": 200590,
       "NumCompleted": 405
+    },
+    {
+      "Time": "2023-10-25T08:04:29.3519247+00:00",
+      "NumProgressed": 200599,
+      "NumCompleted": 405
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -14778,7 +14789,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -14826,7 +14837,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -14858,7 +14869,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16047
+      "UsersEstimate": 16048
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -14898,7 +14909,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -14922,7 +14933,7 @@
       "Name": "Not a Janitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Meet_Flautist",
@@ -14930,7 +14941,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Meet_Meidra",
@@ -14962,7 +14973,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18053
+      "UsersEstimate": 18054
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -14970,7 +14981,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -15010,7 +15021,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Obtain_Guns_A",
@@ -15082,7 +15093,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14041
+      "UsersEstimate": 14042
     },
     {
       "ID": "Obtain_Traits_B",
@@ -15154,7 +15165,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -15177,16 +15188,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 200590,
+      "Progressed": 200599,
       "Completed": 405
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-10-25T00:03:08.5734514+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:04:15.9997568+00:00",
+  "LastChanged": "2023-10-25T08:03:27.0591401+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:04:29.3519241+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.4987911+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:03:12.8766576+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:15.9998832+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:03:27.0591406+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:04:29.3520114+00:00"
 }

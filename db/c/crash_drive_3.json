@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -539,6 +539,11 @@
       "Time": "2023-10-17T07:07:00.2158056+00:00",
       "NumProgressed": 395,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-25T08:03:50.8766806+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -550,7 +555,7 @@
       "Name": "Brace for impact!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -564,9 +569,9 @@
       "ID": "BALL_HEAVY_HIT",
       "SetID": "20koof9",
       "Name": "Fore!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "CATAPULT_THROW",
@@ -606,7 +611,7 @@
       "Name": "High Roller",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -676,9 +681,9 @@
       "ID": "FRONT_OR_BACKFLIP",
       "SetID": "20koof9",
       "Name": "Disoriented",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -742,7 +747,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -756,9 +761,9 @@
       "ID": "HIT_EXPLOSIVE_BARREL",
       "SetID": "20koof9",
       "Name": "Insurance fraud",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 91
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -774,7 +779,7 @@
       "Name": "Toot Toot!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -868,9 +873,9 @@
       "ID": "STUNT_EVENT",
       "SetID": "20koof9",
       "Name": "Bag of Tricks",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -902,7 +907,7 @@
       "Name": "Rocketman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "USE_TUNNEL",
@@ -982,14 +987,14 @@
       "Name": "Blasting away!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 2
     }
   ],
@@ -997,8 +1002,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:03:35.7036517+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:03:50.8766802+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:17.7735042+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:57:37.5543943+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:03:35.7037066+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:57:47.0018686+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:03:50.876721+00:00"
 }

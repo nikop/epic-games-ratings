@@ -4970,18 +4970,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 8097,
       "NumberOfAwardsMax": 3324
+    },
+    {
+      "Time": "2023-10-25T07:57:46.5584932+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 8099,
+      "NumberOfAwardsMax": 3326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8097,
-  "NumberOfAwardsMax": 3324,
+  "NumberOfAwards": 8099,
+  "NumberOfAwardsMax": 3326,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3324
+      "Count": 3326
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5068,9 +5074,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 708470,
+  "EOS_Progressed": 708471,
   "EOS_Completed": 6437,
-  "EOS_NewPlayers": 2944,
+  "EOS_NewPlayers": 2945,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -25178,6 +25184,11 @@
       "Time": "2023-10-25T07:07:29.9329448+00:00",
       "NumProgressed": 708470,
       "NumCompleted": 6437
+    },
+    {
+      "Time": "2023-10-25T08:07:33.4720927+00:00",
+      "NumProgressed": 708471,
+      "NumCompleted": 6437
     }
   ],
   "TotalAchievements": 49,
@@ -25197,7 +25208,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 106270
+      "UsersEstimate": 106271
     },
     {
       "ID": "AchBeatCharon",
@@ -25205,7 +25216,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 155863
+      "UsersEstimate": 155864
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -25237,7 +25248,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 226710
+      "UsersEstimate": 226711
     },
     {
       "ID": "AchClearAnyRun",
@@ -25245,7 +25256,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 368404
+      "UsersEstimate": 368405
     },
     {
       "ID": "AchClearAsphodel",
@@ -25253,7 +25264,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 566776
+      "UsersEstimate": 566777
     },
     {
       "ID": "AchClearElysium",
@@ -25261,7 +25272,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 467590
+      "UsersEstimate": 467591
     },
     {
       "ID": "AchClearElysiumEM",
@@ -25293,7 +25304,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 630538
+      "UsersEstimate": 630539
     },
     {
       "ID": "AchCrushedThanatos",
@@ -25309,7 +25320,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 85016
+      "UsersEstimate": 85017
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -25349,7 +25360,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 155863
+      "UsersEstimate": 155864
     },
     {
       "ID": "AchGreaterCall",
@@ -25405,7 +25416,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 247964
+      "UsersEstimate": 247965
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -25413,7 +25424,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 446336
+      "UsersEstimate": 446337
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -25461,7 +25472,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 255049
+      "UsersEstimate": 255050
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -25541,7 +25552,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 297557
+      "UsersEstimate": 297558
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -25549,7 +25560,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 495929
+      "UsersEstimate": 495930
     },
     {
       "ID": "AchWeaponClears",
@@ -25580,15 +25591,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 708470,
+      "Progressed": 708471,
       "Completed": 6437
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-10-24T15:57:44.8900295+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:07:29.9329443+00:00",
+  "LastChanged": "2023-10-25T07:57:46.558493+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:07:33.4720922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:15.3175535+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:57:37.0799308+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:07:29.9331075+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:57:46.5584936+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:07:33.4722133+00:00"
 }

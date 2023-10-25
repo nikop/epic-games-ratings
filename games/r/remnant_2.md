@@ -1,21 +1,21 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~18,053 |
-| The Killing Jar | 8.00% | ~16,047 |
-| Expanding Horizons | 7.00% | ~14,041 |
-| Quest for Survival | 7.00% | ~14,041 |
-| Not Your Average Trait | 7.00% | ~14,041 |
-| Gleaming the Cube | 6.00% | ~12,035 |
-| Not a Janitor | 6.00% | ~12,035 |
-| Familiar Face | 6.00% | ~12,035 |
-| Duality | 6.00% | ~12,035 |
-| Boss'n Up | 6.00% | ~12,035 |
-| Trait Chaser | 6.00% | ~12,035 |
+| First of Many | 9.00% | ~18,054 |
+| The Killing Jar | 8.00% | ~16,048 |
+| Expanding Horizons | 7.00% | ~14,042 |
+| Quest for Survival | 7.00% | ~14,042 |
+| Not Your Average Trait | 7.00% | ~14,042 |
+| Gleaming the Cube | 6.00% | ~12,036 |
+| Not a Janitor | 6.00% | ~12,036 |
+| Familiar Face | 6.00% | ~12,036 |
+| Duality | 6.00% | ~12,036 |
+| Boss'n Up | 6.00% | ~12,036 |
+| Trait Chaser | 6.00% | ~12,036 |
 | Not So Special Now | 5.00% | ~10,030 |
 | Equal Measures | 5.00% | ~10,030 |
 | Blue Goddess | 5.00% | ~10,030 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~2,006 |
 | Proving Grounds | 1.00% | ~2,006 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,590 (Ranked 68)  
+Progressed: 200,599 (Ranked 68)  
 Completed: 405 (0.20%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,15 +157,15 @@ Completed: 405 (0.20%) (Ranked 231)
 | 2023-10-22 | 199,607 | 401 |
 | 2023-10-23 | 200,060 | 403 |
 | 2023-10-24 | 200,493 | 405 |
-| 2023-10-25 | 200,590 | 405 |
+| 2023-10-25 | 200,599 | 405 |
 ## Awards
 Max (Great Boss Battles): 1,894  (Ranked 114)  
-Sum: 4,145 (Ranked 147)  
+Sum: 4,146 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,894 |
-| This game has Challenging Combat | 254 |
+| This game has Challenging Combat | 255 |
 | This game has Diverse Characters | 252 |
 | This game is Relaxing | 244 |
 | This game is Extremely Fun | 242 |
@@ -269,4 +269,4 @@ Diff (max vs sum): -33
 | 2023-10-22 | 4.76 | 1,885 | 4,113 |
 | 2023-10-23 | 4.76 | 1,885 | 4,124 |
 | 2023-10-24 | 4.76 | 1,894 | 4,144 |
-| 2023-10-25 | 4.76 | 1,894 | 4,145 |
+| 2023-10-25 | 4.76 | 1,894 | 4,146 |

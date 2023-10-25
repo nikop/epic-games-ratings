@@ -3,8 +3,8 @@
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 294,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 412,
@@ -1513,18 +1513,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 675,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2023-10-25T07:58:50.6953669+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 676,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 675,
-  "NumberOfAwardsMax": 83,
+  "NumberOfAwards": 676,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Educational",
@@ -1600,9 +1606,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-10-21T15:57:16.4155931+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:05:17.4447711+00:00",
+  "LastChanged": "2023-10-25T07:58:50.6953668+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:05:28.3263926+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.102686+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:58:44.6586125+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:05:17.444775+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:58:50.6953673+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:05:28.3263956+00:00"
 }

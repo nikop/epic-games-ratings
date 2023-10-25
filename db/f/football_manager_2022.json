@@ -8018,9 +8018,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474921,
+  "EOS_Progressed": 474922,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27288,6 +27288,11 @@
       "Time": "2023-10-25T02:22:25.9434464+00:00",
       "NumProgressed": 474921,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-25T08:06:59.6861444+00:00",
+      "NumProgressed": 474922,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -27355,7 +27360,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123479
+      "UsersEstimate": 123480
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -27411,7 +27416,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142476
+      "UsersEstimate": 142477
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -27483,7 +27488,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237460
+      "UsersEstimate": 237461
     },
     {
       "ID": "achievement_club_world_cup",
@@ -27691,7 +27696,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123479
+      "UsersEstimate": 123480
     },
     {
       "ID": "achievement_mr_delegator",
@@ -27715,7 +27720,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75987
+      "UsersEstimate": 75988
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -27723,7 +27728,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166222
+      "UsersEstimate": 166223
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -27811,7 +27816,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 75987
+      "UsersEstimate": 75988
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -27843,7 +27848,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227962
+      "UsersEstimate": 227963
     },
     {
       "ID": "achievement_signed_a_player",
@@ -27851,7 +27856,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237460
+      "UsersEstimate": 237461
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -27931,7 +27936,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237460
+      "UsersEstimate": 237461
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -28082,15 +28087,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474921,
+      "Progressed": 474922,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-24T20:00:09.5883448+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:06:54.0344365+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:06:59.6861439+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.2576418+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:59:13.421211+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:06:54.0346412+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:59:20.1162615+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:06:59.6863209+00:00"
 }

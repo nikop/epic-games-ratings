@@ -4,7 +4,7 @@
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 48,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 412,
@@ -639,10 +639,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 342,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-10-25T07:58:16.7035693+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342,
+  "NumberOfAwards": 306,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -724,8 +730,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
-  "LastChanged": "2023-10-23T10:57:23.5614985+00:00",
+  "LastChanged": "2023-10-25T07:58:16.7035692+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:17.9707983+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:58:08.736968+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:41.1857019+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:58:16.7035697+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:04:53.7748728+00:00"
 }

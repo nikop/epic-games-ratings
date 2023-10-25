@@ -2,7 +2,7 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 111,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 701,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -864,10 +864,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-10-25T08:03:18.568217+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
+  "NumberOfAwards": 258,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -917,7 +923,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Easy Combat",
@@ -943,8 +949,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-10-22T23:02:35.9452925+00:00",
+  "LastChanged": "2023-10-25T08:03:18.5682169+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.6521932+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:03:05.5593853+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:04:15.4016311+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:03:18.5682173+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:04:28.6536059+00:00"
 }

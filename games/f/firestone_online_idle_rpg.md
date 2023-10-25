@@ -5,11 +5,11 @@ Rating: 4.08 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,925 |
-| World Map | 79.00% | ~1,635 |
+| Victor | 93.00% | ~1,926 |
+| World Map | 79.00% | ~1,636 |
 | Temple of Eternals | 57.00% | ~1,180 |
 | Prestigious | 54.00% | ~1,118 |
-| Fellowship Power | 42.00% | ~869 |
+| Fellowship Power | 42.00% | ~870 |
 | Guild Power | 26.00% | ~538 |
 | Prestigious x10 | 23.00% | ~476 |
 | The game is on | 21.00% | ~435 |
@@ -21,15 +21,15 @@ Rating: 4.08 (Ranked 952)
 | Dragon Master | 16.00% | ~331 |
 | Enlightenment | 16.00% | ~331 |
 | Lieutenant | 16.00% | ~331 |
-| Hero inspection | 15.00% | ~310 |
-| The Unstoppable | 15.00% | ~310 |
+| Hero inspection | 15.00% | ~311 |
+| The Unstoppable | 15.00% | ~311 |
 | Milestone collector | 14.00% | ~290 |
 | Mysterious Rock | 14.00% | ~290 |
 | Natural Talent | 14.00% | ~290 |
 | Superior | 14.00% | ~290 |
 | Scientist | 13.00% | ~269 |
-| Hunter | 12.00% | ~248 |
-| The power of Awakening | 12.00% | ~248 |
+| Hunter | 12.00% | ~249 |
+| The power of Awakening | 12.00% | ~249 |
 | Challenger | 11.00% | ~228 |
 | Daily Quest Completionist | 11.00% | ~228 |
 | Doing My Part | 11.00% | ~228 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 952)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,070 (Ranked 208)  
+Progressed: 2,071 (Ranked 208)  
 Completed: 2 (0.10%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2 (0.10%) (Ranked 257)
 | 2023-10-22 | 2,065 | 2 |
 | 2023-10-23 | 2,066 | 2 |
 | 2023-10-24 | 2,069 | 2 |
-| 2023-10-25 | 2,070 | 2 |
+| 2023-10-25 | 2,071 | 2 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 485)  
 Sum: 76 (Ranked 454)  

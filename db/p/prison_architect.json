@@ -6255,9 +6255,9 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 187029,
+  "EOS_Progressed": 187034,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2508,
+  "EOS_NewPlayers": 2504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27510,6 +27510,11 @@
       "Time": "2023-10-25T07:08:22.2979809+00:00",
       "NumProgressed": 187029,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T08:09:24.1756634+00:00",
+      "NumProgressed": 187034,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27601,7 +27606,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46757
+      "UsersEstimate": 46758
     },
     {
       "ID": "Achievement_5",
@@ -27641,22 +27646,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9351
+      "UsersEstimate": 9352
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 187029,
+      "Progressed": 187034,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-25T00:00:57.8042652+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:08:22.2979804+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:09:24.175663+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:00:41.9483965+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:08:22.2981269+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:00:40.7188755+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:09:24.1757657+00:00"
 }

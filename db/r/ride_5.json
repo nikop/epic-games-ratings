@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 115,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3507,6 +3507,11 @@
       "Time": "2023-10-25T06:09:43.3820934+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T08:10:02.1690571+00:00",
+      "NumProgressed": 1679,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3533,9 +3538,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -3543,7 +3548,7 @@
       "Name": "Stamina Star",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -3695,7 +3700,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -3807,7 +3812,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -3910,14 +3915,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:09:33.0618693+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:10:02.1690567+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:02:11.1863144+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:09:33.0619383+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:03:05.0376243+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:10:02.1691043+00:00"
 }

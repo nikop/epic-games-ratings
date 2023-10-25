@@ -6,18 +6,18 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,847 |
-| Overkill | 35.00% | ~5,573 |
-| A normal day in Gloomhaven | 34.00% | ~5,414 |
-| Vaccine Incoming | 33.00% | ~5,255 |
-| Spread the plague | 30.00% | ~4,777 |
+| I'm not dead yet | 43.00% | ~6,848 |
+| Overkill | 35.00% | ~5,574 |
+| A normal day in Gloomhaven | 34.00% | ~5,415 |
+| Vaccine Incoming | 33.00% | ~5,256 |
+| Spread the plague | 30.00% | ~4,778 |
 | Get over here! | 24.00% | ~3,822 |
-| Just when I thought I was out... | 19.00% | ~3,025 |
+| Just when I thought I was out... | 19.00% | ~3,026 |
 | Precious! | 17.00% | ~2,707 |
 | Mine... All Mine... | 17.00% | ~2,707 |
-| Light of my life | 15.00% | ~2,388 |
-| Anatomy Lesson | 15.00% | ~2,388 |
-| Grizzled veteran | 14.00% | ~2,229 |
+| Light of my life | 15.00% | ~2,389 |
+| Anatomy Lesson | 15.00% | ~2,389 |
+| Grizzled veteran | 14.00% | ~2,230 |
 | You activated my trap card! | 13.00% | ~2,070 |
 | Obstacle race | 13.00% | ~2,070 |
 | Augmented rat | 12.00% | ~1,911 |
@@ -28,7 +28,7 @@ Number of Ratings: 68  (23.09.2022)
 | Pain is your friend | 8.00% | ~1,274 |
 | Black death | 8.00% | ~1,274 |
 | Play it again, Sam | 8.00% | ~1,274 |
-| Quad damage | 6.00% | ~955 |
+| Quad damage | 6.00% | ~956 |
 | Power Up! | 5.00% | ~796 |
 | The Pro from Dover | 5.00% | ~796 |
 | Pretty lights! | 5.00% | ~796 |
@@ -36,15 +36,15 @@ Number of Ratings: 68  (23.09.2022)
 | Caught off guard | 4.00% | ~637 |
 | Merchant of doom | 3.00% | ~478 |
 | Grin and bear it | 3.00% | ~478 |
-| I hate portals | 2.00% | ~318 |
-| From Gloom, only greed and death emerges | 2.00% | ~318 |
-| The Rat King | 2.00% | ~318 |
-| Down the hatch | 2.00% | ~318 |
-| An eye for an eye | 2.00% | ~318 |
-| The Cephalophore | 2.00% | ~318 |
-| Master Assassin | 2.00% | ~318 |
-| The Sniper | 2.00% | ~318 |
-| An axe to grind | 2.00% | ~318 |
+| I hate portals | 2.00% | ~319 |
+| From Gloom, only greed and death emerges | 2.00% | ~319 |
+| The Rat King | 2.00% | ~319 |
+| Down the hatch | 2.00% | ~319 |
+| An eye for an eye | 2.00% | ~319 |
+| The Cephalophore | 2.00% | ~319 |
+| Master Assassin | 2.00% | ~319 |
+| The Sniper | 2.00% | ~319 |
+| An axe to grind | 2.00% | ~319 |
 | Add a bit of colour | 1.00% | ~159 |
 | How to train your Drake | 1.00% | ~159 |
 | Captain hooked | 0.90% | ~143 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,923 (Ranked 137)  
+Progressed: 15,926 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,10 +110,10 @@ Completed: 1 (0.01%) (Ranked 305)
 | 2023-10-22 | 15,407 | 1 |
 | 2023-10-23 | 15,655 | 1 |
 | 2023-10-24 | 15,877 | 1 |
-| 2023-10-25 | 15,923 | 1 |
+| 2023-10-25 | 15,926 | 1 |
 ## Awards
 Max (Character Customization): 3,559  (Ranked 90)  
-Sum: 8,313 (Ranked 98)  
+Sum: 8,314 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -126,7 +126,7 @@ Diff (max vs sum): -8
 | This game is Relaxing | 487 |
 | This game has Quickly Understood Controls | 484 |
 | This game has Amazing Storytelling | 483 |
-| This game has Unique Visuals | 377 |
+| This game has Unique Visuals | 378 |
 | This game has a Creative Community | 214 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
@@ -333,3 +333,4 @@ Diff (max vs sum): -8
 | 2023-10-22 | 4.47 | - | 3,558 | 8,309 |
 | 2023-10-23 | 4.47 | - | 3,559 | 8,311 |
 | 2023-10-24 | 4.47 | - | 3,559 | 8,313 |
+| 2023-10-25 | 4.47 | - | 3,559 | 8,314 |

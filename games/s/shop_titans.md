@@ -44,11 +44,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.90% | ~1,243 |
 | Royal Ransom | 0.90% | ~1,243 |
 | Natural 20 | 0.90% | ~1,243 |
+| Magical Harmony | 0.90% | ~1,243 |
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
 | Trash to Treasure | 0.80% | ~1,105 |
 | Seasoned Journeyman | 0.80% | ~1,105 |
-| Magical Harmony | 0.80% | ~1,105 |
 | Special Ingredient | 0.80% | ~1,105 |
 | A Notch Above the Rest | 0.70% | ~967 |
 | Above the Norm | 0.70% | ~967 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,090 (Ranked 75)  
+Progressed: 138,091 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,090 | 172 |
+| 2023-10-25 | 138,091 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  

@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 2.00% | ~299 |
 | Developing Cities | 2.00% | ~299 |
 | Strong Cities | 2.00% | ~299 |
+| Able Difficulty | 2.00% | ~299 |
 | Hanging Gardens | 2.00% | ~299 |
 | Ishtar Gate | 2.00% | ~299 |
 | Lighthouse | 2.00% | ~299 |
@@ -52,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~149 |
 | Valiant | 1.00% | ~149 |
 | Legendary Cities | 1.00% | ~149 |
-| Able Difficulty | 1.00% | ~149 |
 | Just Difficulty | 1.00% | ~149 |
 | Artisans | 1.00% | ~149 |
 | Champions | 1.00% | ~149 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Riders | 0.80% | ~119 |
+| Statesmen | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~119 |
 | Subjugator | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
-| Statesmen | 0.70% | ~105 |
 | Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Hagia Sophia | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,935 (Ranked 140)  
+Progressed: 14,936 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,935 | 5 |
+| 2023-10-25 | 14,936 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

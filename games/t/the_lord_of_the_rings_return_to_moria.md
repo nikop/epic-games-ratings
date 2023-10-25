@@ -1,18 +1,19 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.46 (Ranked 634)  
+Rating: 4.45 (Ranked 650)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 57.00% | ~37,364 |
-| Suit Up | 32.00% | ~20,976 |
-| Delving Onward | 26.00% | ~17,043 |
-| Miner's Helper | 24.00% | ~15,732 |
-| Covered Head to Toe | 2.00% | ~1,311 |
-| Line of Azog, Ended | 2.00% | ~1,311 |
-| To the Mountain's Roots | 2.00% | ~1,311 |
-| Westgate Weaponcraft | 0.20% | ~131 |
+| Speak Friend | 57.00% | ~37,820 |
+| Suit Up | 33.00% | ~21,896 |
+| Delving Onward | 27.00% | ~17,915 |
+| Miner's Helper | 25.00% | ~16,588 |
+| Covered Head to Toe | 2.00% | ~1,327 |
+| Line of Azog, Ended | 2.00% | ~1,327 |
+| To the Mountain's Roots | 2.00% | ~1,327 |
+| Westgate Weaponcraft | 0.30% | ~199 |
+| Remains To Be Seen | 0.20% | ~133 |
 | Baruk Khazâd! | 0.10% | ~66 |
 | Decked Out | 0.10% | ~66 |
 | Guarded from Despair | 0.10% | ~66 |
@@ -27,19 +28,18 @@ Rating: 4.46 (Ranked 634)
 | Caradhras The Cruel | 0.10% | ~66 |
 | Risk a Little Real Light | 0.10% | ~66 |
 | A Memory of this Place | 0.10% | ~66 |
-| Remains To Be Seen | 0.10% | ~66 |
 | Shadow's Bane | 0.00% | ~0 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 | Hard-headed | 0.00% | ~0 |
 | Shielded | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,550 (Ranked 98)  
+Progressed: 66,351 (Ranked 98)  
 Completed: 0 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-24 | 49,394 | 0 |
-| 2023-10-25 | 65,550 | 0 |
+| 2023-10-25 | 66,351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

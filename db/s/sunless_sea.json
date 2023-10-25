@@ -730,7 +730,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39378,
+  "EOS_Progressed": 39379,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
@@ -19845,6 +19845,11 @@
       "Time": "2023-10-25T07:08:06.4345567+00:00",
       "NumProgressed": 39378,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-25T08:09:08.7670055+00:00",
+      "NumProgressed": 39379,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20056,7 +20061,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ach_legacyrival",
@@ -20072,7 +20077,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ach_legacyshipmate",
@@ -20088,7 +20093,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ach_portbell",
@@ -20200,7 +20205,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ach_sweetheart",
@@ -20287,15 +20292,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39378,
+      "Progressed": 39379,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-25T07:08:06.4345563+00:00",
+  "LastChanged_Achievements": "2023-10-25T08:09:08.7670051+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-25T06:58:35.8217862+00:00",
-  "LastUpdate_Achievements": "2023-10-25T07:08:06.434709+00:00"
+  "LastUpdate_Ratings": "2023-10-25T07:58:42.8193307+00:00",
+  "LastUpdate_Achievements": "2023-10-25T08:09:08.7671274+00:00"
 }
