@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
     "PcReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -4581,9 +4581,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 6002,
+  "EOS_Progressed": 6003,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8496,6 +8496,11 @@
       "Time": "2023-10-25T19:05:48.8194619+00:00",
       "NumProgressed": 6002,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-10-25T20:05:15.0678294+00:00",
+      "NumProgressed": 6003,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -8508,7 +8513,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 5942
+      "UsersEstimate": 5943
     },
     {
       "ID": "achievement_a10",
@@ -8516,7 +8521,7 @@
       "Name": "Tragedy",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "achievement_a11",
@@ -8564,7 +8569,7 @@
       "Name": "You\u0027ve Got A Friend",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "achievement_a17",
@@ -8596,7 +8601,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 5882
+      "UsersEstimate": 5883
     },
     {
       "ID": "achievement_a20",
@@ -8628,7 +8633,7 @@
       "Name": "Mirror Match",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "achievement_a24",
@@ -8668,7 +8673,7 @@
       "Name": "King of the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "achievement_a29",
@@ -8684,7 +8689,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5522
+      "UsersEstimate": 5523
     },
     {
       "ID": "achievement_a30",
@@ -8692,7 +8697,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "achievement_a31",
@@ -8700,7 +8705,7 @@
       "Name": "Cleaning Up",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "achievement_a32",
@@ -8716,7 +8721,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "achievement_a34",
@@ -8740,7 +8745,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5283
     },
     {
       "ID": "achievement_a37",
@@ -8772,7 +8777,7 @@
       "Name": "The Past Made Present",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 5042
+      "UsersEstimate": 5043
     },
     {
       "ID": "achievement_a40",
@@ -8804,7 +8809,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "achievement_a44",
@@ -8820,7 +8825,7 @@
       "Name": "Kitted Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "achievement_a46",
@@ -8908,7 +8913,7 @@
       "Name": "For the Path",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3962
     },
     {
       "ID": "achievement_a8",
@@ -8916,7 +8921,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "achievement_a9",
@@ -8924,14 +8929,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 6002,
+      "Progressed": 6003,
       "Completed": 29
     }
   ],
@@ -8939,8 +8944,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-25T18:58:00.3865089+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:05:48.8194613+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:05:15.0678287+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:58:00.3865098+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:05:48.8195935+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:57:47.540197+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:05:15.0679487+00:00"
 }

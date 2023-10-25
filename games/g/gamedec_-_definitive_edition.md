@@ -6,19 +6,19 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,048 |
-| Powergamer | 27.00% | ~67,547 |
-| Write that down | 25.00% | ~62,543 |
-| Barely scratched the surface | 25.00% | ~62,543 |
-| Guns, lots of guns | 13.00% | ~32,522 |
+| I will finish what you started | 28.00% | ~70,050 |
+| Powergamer | 27.00% | ~67,548 |
+| Write that down | 25.00% | ~62,545 |
+| Barely scratched the surface | 25.00% | ~62,545 |
+| Guns, lots of guns | 13.00% | ~32,523 |
 | Collector | 12.00% | ~30,021 |
 | Elementary! | 9.00% | ~22,516 |
 | Griever | 8.00% | ~20,014 |
 | Pumpkin Jack | 8.00% | ~20,014 |
 | Wake up! | 8.00% | ~20,014 |
-| It's honest work | 7.00% | ~17,512 |
-| Me smart | 6.00% | ~15,010 |
-| Trash compactor | 6.00% | ~15,010 |
+| It's honest work | 7.00% | ~17,513 |
+| Me smart | 6.00% | ~15,011 |
+| Trash compactor | 6.00% | ~15,011 |
 | Good listener | 5.00% | ~12,509 |
 | Valedictorian | 5.00% | ~12,509 |
 | BOY! | 4.00% | ~10,007 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,505 |
 | I like to sniff around | 3.00% | ~7,505 |
 | Mind reader | 3.00% | ~7,505 |
-| Catnip | 2.00% | ~5,003 |
-| Gentleman's classic | 2.00% | ~5,003 |
-| Is that a rift? | 2.00% | ~5,003 |
-| It's alive! | 2.00% | ~5,003 |
-| Enjoy the beach | 2.00% | ~5,003 |
-| Rinse and repeat | 2.00% | ~5,003 |
-| Mama, I'm a criminal | 2.00% | ~5,003 |
-| Never gonna give you up | 2.00% | ~5,003 |
+| Catnip | 2.00% | ~5,004 |
+| Gentleman's classic | 2.00% | ~5,004 |
+| Is that a rift? | 2.00% | ~5,004 |
+| It's alive! | 2.00% | ~5,004 |
+| Enjoy the beach | 2.00% | ~5,004 |
+| Rinse and repeat | 2.00% | ~5,004 |
+| Mama, I'm a criminal | 2.00% | ~5,004 |
+| Never gonna give you up | 2.00% | ~5,004 |
 | A muscle to rely on | 1.00% | ~2,502 |
 | A true blacksmith | 1.00% | ~2,502 |
 | I am in great pain, please help me | 1.00% | ~2,502 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~500 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,173 (Ranked 55)  
+Progressed: 250,179 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 7 (0.00%) (Ranked 326)
 | 2023-10-22 | 249,928 | 7 |
 | 2023-10-23 | 250,025 | 7 |
 | 2023-10-24 | 250,107 | 7 |
-| 2023-10-25 | 250,173 | 7 |
+| 2023-10-25 | 250,179 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 372)  
 Sum: 86 (Ranked 445)  

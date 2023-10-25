@@ -2,10 +2,10 @@
   "ID": "a0545919882b4072acb71d0270bdb939",
   "Name": "My Demon Wife",
   "ProductSlug": "my-demon-wife-0d2461",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-31T17:00:00+00:00",
     "PcReleaseDate": "2023-10-31T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:58:21.3305007+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:02:15.9983392+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:06:27.9994983+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:01:03.6090626+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:05:47.3821845+00:00"
 }

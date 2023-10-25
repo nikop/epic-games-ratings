@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1766,
+  "EOS_Progressed": 1777,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1762,
+  "EOS_NewPlayers": 1773,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2023-10-25T19:08:42.5845222+00:00",
       "NumProgressed": 1766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T20:09:11.1560818+00:00",
+      "NumProgressed": 1777,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -852,7 +857,7 @@
       "Name": "Connection Lost",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Eavesdropper",
@@ -884,15 +889,15 @@
       "Name": "First Time?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GarbageMan",
@@ -922,9 +927,9 @@
       "ID": "HeJustWantedToHelp",
       "SetID": "acc6ea0",
       "Name": "He Just Wanted To Help",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "JackOfAllTrades",
@@ -956,15 +961,15 @@
       "Name": "Nasty!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NotLikeTheOthers",
@@ -994,9 +999,9 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1004,7 +1009,7 @@
       "Name": "The Old-School Way",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TheQuarterback",
@@ -1018,9 +1023,9 @@
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1034,9 +1039,9 @@
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1083,13 +1088,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1766,
+      "Progressed": 1777,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:08:42.5845216+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:09:11.156081+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:59:18.9521847+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:08:42.584554+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:58:50.9971908+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:09:11.1561308+00:00"
 }

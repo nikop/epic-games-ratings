@@ -2,13 +2,13 @@
   "ID": "4d2a12aff0484d699b1806ab104d259b",
   "Name": "Alan Wake\u2019s American Nightmare",
   "ProductSlug": "alan-wake-american-nightmare",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2012-05-22T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.09,
+  "Rating": 4.08,
   "NumberOfRatings": 82,
   "RatingHistory": [
     {
@@ -340,6 +340,12 @@
       "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-25T20:03:18.339585+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -357,8 +363,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:26.4787464+00:00",
-  "LastChanged": "2023-10-15T19:57:31.8042996+00:00",
+  "LastChanged": "2023-10-25T20:03:18.3395847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.5540076+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:03:09.626017+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:53.2868901+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:03:18.3395855+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:29.1280725+00:00"
 }

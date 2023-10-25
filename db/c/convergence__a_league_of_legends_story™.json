@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -40,10 +40,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 911,
-  "EOS_Completed": 5,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2374,6 +2374,11 @@
       "Time": "2023-10-25T18:06:13.7240644+00:00",
       "NumProgressed": 911,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T20:06:10.1846413+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2607,9 +2612,9 @@
       "ID": "NoGadgetFutureEkko3",
       "SetID": "a9e499d",
       "Name": "Raw Talent",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NoRewindCamille",
@@ -2809,15 +2814,15 @@
       "ID": "a9e499d",
       "IsBase": true,
       "Progressed": 911,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:06:55.4532214+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:06:10.1846402+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.2319935+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:58:15.4635292+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:06:55.4533017+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:57:58.6329795+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:06:10.1847525+00:00"
 }

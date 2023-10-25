@@ -19,8 +19,8 @@
 | Running Boots | 19.00% | ~50 |
 | Archivist | 18.00% | ~47 |
 | Fashionista | 18.00% | ~47 |
+| Kaboom! | 16.00% | ~42 |
 | Looper | 16.00% | ~42 |
-| Kaboom! | 15.00% | ~39 |
 | Reunited | 14.00% | ~37 |
 | So Close | 13.00% | ~34 |
 | Transformers, cubes in disguise | 13.00% | ~34 |

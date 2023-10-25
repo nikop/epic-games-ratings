@@ -31,9 +31,9 @@
 | Head Hunter | 45.00% | ~362 |
 | Missing in Action | 44.00% | ~354 |
 | Very Elusive | 44.00% | ~354 |
+| Scholar | 44.00% | ~354 |
 | Sentinel Ally | 43.00% | ~346 |
 | Operative | 43.00% | ~346 |
-| Scholar | 43.00% | ~346 |
 | Veteran | 41.00% | ~330 |
 | The Professor | 41.00% | ~330 |
 | Power Full | 41.00% | ~330 |

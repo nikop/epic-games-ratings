@@ -11,16 +11,17 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 0.40% | ~6 |
 | Me and My Familiar | 0.30% | ~4 |
 | Let Me Get My Chisel | 0.30% | ~4 |
+| Passing Shadow | 0.30% | ~4 |
 | This Too Shall Pass | 0.30% | ~4 |
 | Cutthroat Competitors | 0.30% | ~4 |
 | Daybreak | 0.30% | ~4 |
-| Passing Shadow | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
 | Echoes Die | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Who's Counting? | 0.10% | ~1 |
+| Thematic Divergence | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
 | Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
@@ -42,7 +43,6 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.00% | ~0 |
 | Plague Doctor | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
-| Thematic Divergence | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
 | A Hunger, Sated | 0.00% | ~0 |

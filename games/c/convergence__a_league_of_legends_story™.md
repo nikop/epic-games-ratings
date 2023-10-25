@@ -57,10 +57,10 @@ Rating: 4.62 (Ranked 356)
 | No Time to Waste | 1.00% | ~9 |
 | Wildlife Protection | 0.90% | ~8 |
 | Going to Live Forever | 0.70% | ~6 |
-| Raw Talent | 0.50% | ~5 |
+| Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 911 (Ranked 248)  
-Completed: 5 (0.55%) (Ranked 181)  
+Completed: 6 (0.66%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 5 (0.55%) (Ranked 181)
 | 2023-10-20 | 908 | 5 |
 | 2023-10-22 | 909 | 5 |
 | 2023-10-23 | 910 | 5 |
-| 2023-10-25 | 911 | 5 |
+| 2023-10-25 | 911 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "6e7faac262f04035aeb848e660b2d18c",
   "Name": "Through the Darkest of Times",
   "ProductSlug": "through-the-darkest-of-times",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-10T18:00:00+00:00",
     "PcReleaseDate": "2020-12-10T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:21.28568+00:00",
   "LastChanged": "2023-03-31T05:57:21.2856801+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:12.2458161+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:00:07.6283821+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:08:05.4663001+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:59:30.0995581+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:07:11.2877615+00:00"
 }

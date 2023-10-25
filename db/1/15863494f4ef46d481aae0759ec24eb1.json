@@ -2,10 +2,10 @@
   "ID": "15863494f4ef46d481aae0759ec24eb1",
   "Name": "THE SILENT CITY CHAPTER TWO",
   "ProductSlug": "the-silent-city-chapter-2-cccb19",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-20T03:57:02.9860044+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:01:03.7910246+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:56.3895174+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:00:08.8553471+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:31.6484394+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7452,
+  "EOS_Progressed": 7454,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-10-25T19:10:17.8433822+00:00",
       "NumProgressed": 7452,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T20:10:04.1785323+00:00",
+      "NumProgressed": 7454,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5104,7 +5109,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "GamesPlayed10",
@@ -5182,9 +5187,9 @@
       "ID": "HAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Healing Amplifier to Level 3",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 149
     },
     {
       "ID": "HGPurchased1",
@@ -5350,9 +5355,9 @@
       "ID": "MaxTowersKilled3",
       "SetID": "12d07c7",
       "Name": "Destroyed 3 Towers in a single match",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 671
     },
     {
       "ID": "MaxTowersKilled6",
@@ -5392,7 +5397,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "NeutralKills200",
@@ -5575,7 +5580,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7452,
+      "Progressed": 7454,
       "Completed": 1
     }
   ],
@@ -5583,8 +5588,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:10:17.8433817+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:10:04.1785313+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:01:13.9689445+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:10:17.8435148+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:00:18.156258+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:10:04.1787228+00:00"
 }

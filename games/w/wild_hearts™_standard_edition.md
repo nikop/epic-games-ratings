@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 98.00% | ~175 |
-| Hidden History | 84.00% | ~150 |
-| Budding Conjuror | 80.00% | ~143 |
-| Commencing of Quests | 79.00% | ~141 |
+| Land of the Rising Sun | 98.00% | ~176 |
+| Hidden History | 84.00% | ~151 |
+| Budding Conjuror | 81.00% | ~146 |
+| Commencing of Quests | 80.00% | ~144 |
 | Man-Machine Master | 73.00% | ~131 |
-| Mountain Splitter | 70.00% | ~125 |
+| Mountain Splitter | 70.00% | ~126 |
 | Fusion Conjuror | 68.00% | ~122 |
 | Memory Rouser | 68.00% | ~122 |
-| Charmed by the Hunt | 66.00% | ~118 |
+| Charmed by the Hunt | 66.00% | ~119 |
 | Subsistence Skills | 64.00% | ~115 |
-| Kemono Hunter | 61.00% | ~109 |
-| Expert Conjuror | 60.00% | ~107 |
-| Distance Devourer | 56.00% | ~100 |
-| Master of the Skies | 55.00% | ~98 |
-| Helpful Heart | 55.00% | ~98 |
+| Kemono Hunter | 61.00% | ~110 |
+| Expert Conjuror | 59.00% | ~106 |
+| Distance Devourer | 56.00% | ~101 |
+| Master of the Skies | 56.00% | ~101 |
 | Flawless Crystal | 54.00% | ~97 |
 | Bonds of Enmity | 54.00% | ~97 |
-| Counter Specialist | 51.00% | ~91 |
-| Axer of Auspice | 46.00% | ~82 |
-| Fair Means or Foul | 44.00% | ~79 |
+| Helpful Heart | 54.00% | ~97 |
+| Counter Specialist | 51.00% | ~92 |
+| Axer of Auspice | 46.00% | ~83 |
 | Single Minded | 43.00% | ~77 |
+| Fair Means or Foul | 43.00% | ~77 |
 | Snare Specialist | 43.00% | ~77 |
-| Mighty Marmelizer | 42.00% | ~75 |
+| Mighty Marmelizer | 42.00% | ~76 |
 | Karakuri Trail | 40.00% | ~72 |
-| Kemono at Heart | 37.00% | ~66 |
-| Team Hunter | 36.00% | ~64 |
+| Kemono at Heart | 38.00% | ~68 |
+| Team Hunter | 36.00% | ~65 |
 | Reincarnation Cycle Stopper | 34.00% | ~61 |
 | Artful Assister | 33.00% | ~59 |
-| Karakuri Isle | 31.00% | ~55 |
+| Karakuri Isle | 31.00% | ~56 |
 | Left Arm Leverager | 29.00% | ~52 |
 | Human Believer | 28.00% | ~50 |
 | Karakuri Minato | 28.00% | ~50 |
-| Unrivaled in Arms | 27.00% | ~48 |
-| Canyon of Karakuri | 26.00% | ~47 |
+| Canyon of Karakuri | 27.00% | ~49 |
+| Unrivaled in Arms | 27.00% | ~49 |
 | Style Seeker | 26.00% | ~47 |
 | Threaded Harmony | 26.00% | ~47 |
-| Karakuri Fortress | 23.00% | ~41 |
+| Karakuri Fortress | 24.00% | ~43 |
 | Jack of All Trades | 23.00% | ~41 |
-| Quintessence of Form | 22.00% | ~39 |
+| Quintessence of Form | 22.00% | ~40 |
 | Volatile Vocation | 21.00% | ~38 |
+| Tender Touch | 21.00% | ~38 |
 | Haven Hunter | 21.00% | ~38 |
-| Tender Touch | 20.00% | ~36 |
-| Superlative View | 20.00% | ~36 |
+| Superlative View | 19.00% | ~34 |
 | Relentless Kemono Hunter | 16.00% | ~29 |
 | Vanquisher of the Volatile | 15.00% | ~27 |
 | Bewitched by Bathing | 13.00% | ~23 |
 | Big Spender | 11.00% | ~20 |
 | Tsukumo Whisperer | 8.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 360)  
-Completed: 5 (2.79%) (Ranked 99)  
+Progressed: 180 (Ranked 360)  
+Completed: 5 (2.78%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,4 +94,4 @@ Completed: 5 (2.79%) (Ranked 99)
 | 2023-10-22 | 167 | 5 |
 | 2023-10-23 | 170 | 5 |
 | 2023-10-24 | 176 | 5 |
-| 2023-10-25 | 179 | 5 |
+| 2023-10-25 | 180 | 5 |

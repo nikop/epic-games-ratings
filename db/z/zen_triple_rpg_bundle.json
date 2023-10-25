@@ -1,10 +1,10 @@
 {
   "ID": "be8e76b808f54c8fa4974e3f516f1960",
   "Name": "ZEN Triple RPG Bundle",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:38.347282+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:59:53.5421066+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:06:03.9434355+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:59:20.8103134+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:05:27.2880285+00:00"
 }

@@ -7,7 +7,7 @@
 | Good Start | 95.00% | ~233 |
 | Practice Makes Perfect | 84.00% | ~206 |
 | Creator of Life | 83.00% | ~203 |
-| Creator of Diversity | 71.00% | ~174 |
+| Creator of Diversity | 72.00% | ~176 |
 | Similar to Similar | 70.00% | ~172 |
 | Creator of Humanity | 65.00% | ~159 |
 | Creator of Civilization | 39.00% | ~96 |
@@ -27,7 +27,7 @@
 | Master of the Worlds | 6.00% | ~15 |
 | God of Patience | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 339)  
+Progressed: 245 (Ranked 340)  
 Completed: 8 (3.27%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |

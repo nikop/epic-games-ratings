@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3644,
+  "EOS_Progressed": 3645,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
@@ -8604,6 +8604,11 @@
       "Time": "2023-10-25T19:05:46.8372573+00:00",
       "NumProgressed": 3644,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-25T20:05:13.4962437+00:00",
+      "NumProgressed": 3645,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -8647,7 +8652,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "ach_architecture_completed",
@@ -8711,7 +8716,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ach_magic_wand",
@@ -8719,7 +8724,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ach_no_boosters",
@@ -8727,7 +8732,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "ach_tornado",
@@ -8735,21 +8740,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3644,
+      "Progressed": 3645,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:05:46.8372565+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:05:13.4962431+00:00",
   "LastUpdate_AppInfo": "2023-10-20T17:57:00.7331575+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:00:37.6727796+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:05:46.8373228+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:59:48.8764297+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:05:13.4963063+00:00"
 }

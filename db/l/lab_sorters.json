@@ -2,10 +2,10 @@
   "ID": "fa647a152c534914b0886d7056f80511",
   "Name": "LAB SORTERS",
   "ProductSlug": "lab-sorters-97b057",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-04-05T22:00:00+00:00",
     "PcReleaseDate": "2023-04-05T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.2446213+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:03:35.6727088+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:05:17.0725837+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:03:41.5928076+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:48.450563+00:00"
 }

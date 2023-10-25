@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2812,9 +2812,9 @@
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
       "SetID": "8j30i9k",
       "Name": "Welcome to the Weird West",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2860,8 +2860,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:04:26.1852882+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:04:07.237096+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:57:35.2121717+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:26.1853481+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:57:24.1251151+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:07.237236+00:00"
 }

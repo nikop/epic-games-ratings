@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "comedy_killer",
@@ -499,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:07:09.1756894+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:06:13.0163764+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.3790114+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:03:30.4980525+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:07:09.1757074+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:03:36.5592576+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:06:13.0163978+00:00"
 }

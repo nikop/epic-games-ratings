@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18052,
+  "EOS_Progressed": 18053,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
@@ -14627,6 +14627,11 @@
       "Time": "2023-10-25T19:04:38.528718+00:00",
       "NumProgressed": 18052,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-25T20:04:17.3981562+00:00",
+      "NumProgressed": 18053,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14702,7 +14707,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -14742,7 +14747,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6679
+      "UsersEstimate": 6680
     },
     {
       "ID": "Still_Burning",
@@ -14750,7 +14755,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "The_Reaper",
@@ -14765,15 +14770,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18052,
+      "Progressed": 18053,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:04:38.5287172+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:04:17.3981555+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:58:07.6387533+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:38.5288216+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:57:51.4671667+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:17.3983268+00:00"
 }

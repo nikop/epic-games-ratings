@@ -2,10 +2,10 @@
   "ID": "61d7e38e26ff4a698942dd37a363efb7",
   "Name": "Kawaii Deathu Desu",
   "ProductSlug": "kawaii-deathu-desu-bc669f",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-02-08T15:00:00+00:00",
     "PcReleaseDate": "2022-02-08T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.6531185+00:00",
   "LastChanged": "2023-03-31T05:58:34.6531186+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:06.1003069+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:57:48.1236803+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:07:19.0713964+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:57:32.8198864+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:06:21.418766+00:00"
 }

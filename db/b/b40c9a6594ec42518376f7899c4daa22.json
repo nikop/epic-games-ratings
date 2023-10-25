@@ -2,10 +2,10 @@
   "ID": "b40c9a6594ec42518376f7899c4daa22",
   "Name": "Tiki Tandems Full Game",
   "ProductSlug": "eos_tikitandemstest-f3dbe7",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T16:57:07.2341842+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:03:32.5121618+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:51.6804602+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:03:38.0335865+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:28.2457077+00:00"
 }

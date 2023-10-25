@@ -2,10 +2,10 @@
   "ID": "ebe9c4222dc7428b955c31dc8131616d",
   "Name": "Despelote",
   "ProductSlug": "despelote-1cba52",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-20T05:57:01.0892416+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:01:24.043733+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:29.1752421+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:00:27.3162594+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:08.9687766+00:00"
 }

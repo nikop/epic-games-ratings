@@ -14,9 +14,9 @@ Rating: 4.57 (Ranked 459)
 | The merciful one | 67.00% | ~8 |
 | Samaritan | 67.00% | ~8 |
 | Well-to-do | 67.00% | ~8 |
+| Ladies' man | 67.00% | ~8 |
 | Field hand | 58.00% | ~7 |
 | Ferocious wild boars | 58.00% | ~7 |
-| Ladies' man | 58.00% | ~7 |
 | Idiot | 42.00% | ~5 |
 | Death of a legend | 33.00% | ~4 |
 | Archaeologist | 33.00% | ~4 |

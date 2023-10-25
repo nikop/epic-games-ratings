@@ -2,10 +2,10 @@
   "ID": "0966e7804ea64608b0e47d841b1049b5",
   "Name": "Disciples II - Galleans Return",
   "ProductSlug": "disciples-ii-galleans-return-9ecd70",
-  "Ranking_EOS_Progress": 702,
+  "Ranking_EOS_Progress": 703,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-14T04:00:00+00:00",
     "PcReleaseDate": "2006-07-06T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.5290263+00:00",
   "LastChanged": "2023-03-31T05:57:50.5290264+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.0542015+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:58:33.968818+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:04:40.0261458+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:58:10.0146596+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:04:18.5927062+00:00"
 }

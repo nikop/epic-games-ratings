@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1633,10 +1633,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3779,
       "NumberOfAwardsMax": 1315
+    },
+    {
+      "Time": "2023-10-25T19:59:02.8414583+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3785,
+      "NumberOfAwardsMax": 1315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3779,
+  "NumberOfAwards": 3785,
   "NumberOfAwardsMax": 1315,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1686,7 +1692,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 242
+      "Count": 248
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1713,9 +1719,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 8042,
+  "EOS_Progressed": 8043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5698,6 +5704,11 @@
       "Time": "2023-10-25T19:06:21.1739588+00:00",
       "NumProgressed": 8042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T20:05:41.7870571+00:00",
+      "NumProgressed": 8043,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5710,7 +5721,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "ach02",
@@ -5734,7 +5745,7 @@
       "Name": "What Just Happened??",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ach05",
@@ -5758,7 +5769,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "ach08",
@@ -5822,7 +5833,7 @@
       "Name": "Give A Koin",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "ach16",
@@ -5886,7 +5897,7 @@
       "Name": "Take And Deny",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2172
     },
     {
       "ID": "ach24",
@@ -5974,7 +5985,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "ach35",
@@ -5998,7 +6009,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4585
     },
     {
       "ID": "ach38",
@@ -6046,7 +6057,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3539
     },
     {
       "ID": "ach44",
@@ -6078,7 +6089,7 @@
       "Name": "Big Spender",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ach48",
@@ -6086,7 +6097,7 @@
       "Name": "Total Disrespect",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ach49",
@@ -6109,16 +6120,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8042,
+      "Progressed": 8043,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-25T18:59:32.9777307+00:00",
-  "LastChanged_Achievements": "2023-10-25T19:06:21.1739582+00:00",
+  "LastChanged": "2023-10-25T19:59:02.841458+00:00",
+  "LastChanged_Achievements": "2023-10-25T20:05:41.7870561+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:59:32.9777313+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:06:21.1740441+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:59:02.8414588+00:00",
+  "LastUpdate_Achievements": "2023-10-25T20:05:41.7871747+00:00"
 }
