@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 515)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,173 |
+| Welcome To Hell-A | 5.00% | ~35,174 |
 | Git Gutte! | 4.00% | ~28,139 |
 | Break A Leg | 4.00% | ~28,139 |
 | Coup de Grâce | 4.00% | ~28,139 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 515)
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,463 (Ranked 22)  
+Progressed: 703,473 (Ranked 22)  
 Completed: 2,259 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,17 +239,17 @@ Completed: 2,259 (0.32%) (Ranked 208)
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
-| 2023-10-25 | 703,463 | 2,259 |
+| 2023-10-25 | 703,473 | 2,259 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
-Sum: 9,910 (Ranked 91)  
+Sum: 9,912 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,597 |
 | This game is Great for Beginners | 472 |
 | This game has Diverse Characters | 467 |
-| This game has Quickly Understood Controls | 438 |
+| This game has Quickly Understood Controls | 440 |
 | This game is Relaxing | 420 |
 | This game has Amazing Storytelling | 397 |
 | This game is Highly Recommended | 382 |
@@ -445,3 +445,4 @@ Diff (max vs sum): -34
 | 2023-10-22 | 4.54 | 6,549 | 9,831 |
 | 2023-10-23 | 4.54 | 6,571 | 9,870 |
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
+| 2023-10-25 | 4.54 | 6,597 | 9,912 |

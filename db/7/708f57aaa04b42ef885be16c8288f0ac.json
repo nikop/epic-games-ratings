@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -715,6 +715,11 @@
       "Time": "2023-10-25T02:23:08.3541434+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T03:08:32.7245105+00:00",
+      "NumProgressed": 1548,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -733,9 +738,9 @@
       "ID": "BabySteps",
       "SetID": "acc6ea0",
       "Name": "Baby Steps",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "BeLikeWater",
@@ -765,9 +770,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Eavesdropper",
@@ -941,9 +946,9 @@
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UnResurrected",
@@ -998,13 +1003,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1548,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:23:08.3541427+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:08:32.7245099+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:14:32.2484157+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:23:08.3541747+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:58:48.1866161+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:08:32.724545+00:00"
 }

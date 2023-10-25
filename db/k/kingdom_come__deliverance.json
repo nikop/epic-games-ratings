@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
@@ -8093,7 +8093,7 @@
   ],
   "EOS_Progressed": 805927,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29759,8 +29759,8 @@
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-24T18:02:32.1581798+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:23:03.1015128+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:08:25.5890738+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:17:00.8955103+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:23:03.101749+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:02:06.9645755+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:08:25.5892978+00:00"
 }

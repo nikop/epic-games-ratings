@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -555,9 +555,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -595,9 +595,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -898,8 +898,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:20:46.6693822+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:05:16.3530303+00:00",
   "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:16:11.0052988+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:20:46.6694216+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:01:03.2499385+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:05:16.3530876+00:00"
 }

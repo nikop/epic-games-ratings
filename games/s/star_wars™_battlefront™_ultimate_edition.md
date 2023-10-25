@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~747 |
+| New Recruit | 91.00% | ~755 |
 | Off to a good start | 68.00% | ~564 |
 | Do... or do not. There is no try | 52.00% | ~432 |
 | A good blaster at your side | 34.00% | ~282 |

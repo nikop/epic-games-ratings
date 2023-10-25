@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -239,9 +239,9 @@
       "ID": "check_and_no_mate",
       "SetID": "7i36ba9",
       "Name": "Check and No Mate",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "christ_the_saviour",
@@ -311,9 +311,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "lessons_never_learnt",
@@ -391,9 +391,9 @@
       "ID": "the_martyr",
       "SetID": "7i36ba9",
       "Name": "The Martyr",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 95,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "the_pageant",
@@ -423,9 +423,9 @@
       "ID": "the_swell_celebration",
       "SetID": "7i36ba9",
       "Name": "The Swell Celebration",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "time_waster",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:22:34.6747883+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:07:46.7270477+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:15:06.0702252+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:22:34.6748074+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:59:27.6230456+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:07:46.7270698+00:00"
 }

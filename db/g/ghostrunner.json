@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1307,7 +1307,7 @@
   ],
   "EOS_Progressed": 20781,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -21994,9 +21994,9 @@
       "ID": "Wallrunner",
       "SetID": "6ce5bmd",
       "Name": "Wallrunner",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 11014
+      "UsersEstimate": 11222
     },
     {
       "ID": "WaveOfMutilation",
@@ -22048,8 +22048,8 @@
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-24T15:01:07.7598679+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:20:04.5906943+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:04:19.3144641+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.0828205+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:16:01.255198+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:20:04.5908695+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:00:49.2683172+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:04:19.3146383+00:00"
 }

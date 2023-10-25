@@ -5653,10 +5653,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9910,
       "NumberOfAwardsMax": 6597
+    },
+    {
+      "Time": "2023-10-25T02:57:06.3709886+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9912,
+      "NumberOfAwardsMax": 6597
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9910,
+  "NumberOfAwards": 9912,
   "NumberOfAwardsMax": 6597,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5676,7 +5682,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 438
+      "Count": 440
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5715,9 +5721,9 @@
       "Count": 397
     }
   ],
-  "EOS_Progressed": 703463,
+  "EOS_Progressed": 703473,
   "EOS_Completed": 2259,
-  "EOS_NewPlayers": 6172,
+  "EOS_NewPlayers": 6175,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -27035,6 +27041,11 @@
       "Time": "2023-10-25T02:20:31.8916341+00:00",
       "NumProgressed": 703463,
       "NumCompleted": 2259
+    },
+    {
+      "Time": "2023-10-25T03:04:56.5448351+00:00",
+      "NumProgressed": 703473,
+      "NumCompleted": 2259
     }
   ],
   "TotalAchievements": 45,
@@ -27382,7 +27393,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35173
+      "UsersEstimate": 35174
     },
     {
       "ID": "ach_well_known_survivor",
@@ -27405,22 +27416,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 703463,
+      "Progressed": 703473,
       "Completed": 2259
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 29005,
-      "Completed": 29005
+      "Progressed": 29015,
+      "Completed": 29015
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-24T21:05:09.7239975+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:20:31.8916337+00:00",
+  "LastChanged": "2023-10-25T02:57:06.3709884+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:04:56.5448344+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:13:18.8173665+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:20:31.8917963+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:57:06.3709891+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:04:56.5450166+00:00"
 }

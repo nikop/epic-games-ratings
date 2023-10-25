@@ -5,30 +5,30 @@ Rating: 4.65 (Ranked 303)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~13,697 |
-| A Long Time Ago | 93.00% | ~12,738 |
-| Sabersmith | 81.00% | ~11,095 |
-| The Obstacle is the Way | 79.00% | ~10,821 |
-| Back At You | 74.00% | ~10,136 |
-| Happy Go Wookiee | 71.00% | ~9,725 |
-| Everything is Connected | 61.00% | ~8,355 |
-| Her Name Was Masana Tide | 56.00% | ~7,670 |
-| Bank Shot | 55.00% | ~7,533 |
-| Perfect Timing | 53.00% | ~7,259 |
-| Gorgara Falls | 51.00% | ~6,985 |
-| The Full Glow-Up | 51.00% | ~6,985 |
-| For A More Civilized Age | 49.00% | ~6,712 |
-| I Knew He Was No Good | 47.00% | ~6,438 |
-| The Holocron Awaits | 46.00% | ~6,301 |
-| Look Out Below | 45.00% | ~6,164 |
-| Scum and Villainy | 44.00% | ~6,027 |
-| Trust Only In The Force | 44.00% | ~6,027 |
-| Don't Mess with BD-1 | 42.00% | ~5,753 |
-| Blade Master | 39.00% | ~5,342 |
-| Full House | 37.00% | ~5,068 |
-| Legendary Beasts | 23.00% | ~3,150 |
-| Echo Location | 20.00% | ~2,739 |
-| Visiting Alderaan Places | 18.00% | ~2,465 |
+| The Mantis | 100.00% | ~13,702 |
+| A Long Time Ago | 93.00% | ~12,743 |
+| Sabersmith | 81.00% | ~11,099 |
+| The Obstacle is the Way | 79.00% | ~10,825 |
+| Back At You | 74.00% | ~10,139 |
+| Happy Go Wookiee | 71.00% | ~9,728 |
+| Everything is Connected | 61.00% | ~8,358 |
+| Her Name Was Masana Tide | 56.00% | ~7,673 |
+| Bank Shot | 55.00% | ~7,536 |
+| Perfect Timing | 53.00% | ~7,262 |
+| Gorgara Falls | 51.00% | ~6,988 |
+| The Full Glow-Up | 51.00% | ~6,988 |
+| For A More Civilized Age | 49.00% | ~6,714 |
+| I Knew He Was No Good | 47.00% | ~6,440 |
+| The Holocron Awaits | 46.00% | ~6,303 |
+| Look Out Below | 45.00% | ~6,166 |
+| Scum and Villainy | 44.00% | ~6,029 |
+| Trust Only In The Force | 44.00% | ~6,029 |
+| Don't Mess with BD-1 | 42.00% | ~5,755 |
+| Blade Master | 39.00% | ~5,344 |
+| Full House | 37.00% | ~5,070 |
+| Legendary Beasts | 23.00% | ~3,151 |
+| Echo Location | 20.00% | ~2,740 |
+| Visiting Alderaan Places | 18.00% | ~2,466 |
 | Cal Got Your Tongue? | 15.00% | ~2,055 |
 | Triple Take | 14.00% | ~1,918 |
 | Big Bang | 12.00% | ~1,644 |
@@ -45,7 +45,7 @@ Rating: 4.65 (Ranked 303)
 | What Goes Around... | 3.00% | ~411 |
 | Not So Fast | 1.00% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,697 (Ranked 142)  
+Progressed: 13,702 (Ranked 142)  
 Completed: 149 (1.09%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 149 (1.09%) (Ranked 142)
 | 2023-10-22 | 13,290 | 142 |
 | 2023-10-23 | 13,470 | 146 |
 | 2023-10-24 | 13,669 | 149 |
-| 2023-10-25 | 13,697 | 149 |
+| 2023-10-25 | 13,702 | 149 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

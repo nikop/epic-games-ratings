@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234299,
+  "EOS_Progressed": 234300,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20102,6 +20102,11 @@
       "Time": "2023-10-25T01:48:26.9206393+00:00",
       "NumProgressed": 234299,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-25T03:06:34.8830076+00:00",
+      "NumProgressed": 234300,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20209,7 +20214,7 @@
       "Name": "GTX COMPETIZIONE",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "HARDCORE",
@@ -20225,7 +20230,7 @@
       "Name": "HIDDEN POWER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "IINI",
@@ -20369,7 +20374,7 @@
       "Name": "TUNING MANIAC",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "VANGUARD",
@@ -20384,15 +20389,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234299,
+      "Progressed": 234300,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:21:43.053864+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:06:34.8830071+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.9815645+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:19:04.4478373+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:21:43.0540208+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:02:10.4771704+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:06:34.8832136+00:00"
 }

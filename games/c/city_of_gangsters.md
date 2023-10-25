@@ -5,9 +5,9 @@ Rating: 4.28 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,636 |
-| Copacetic Coordination | 16.00% | ~55,873 |
-| Fronting the Money | 15.00% | ~52,381 |
+| Corner Clout | 46.00% | ~160,637 |
+| Copacetic Coordination | 16.00% | ~55,874 |
+| Fronting the Money | 15.00% | ~52,382 |
 | The Dawn of Automation | 14.00% | ~48,889 |
 | Extraordinary Logistics | 14.00% | ~48,889 |
 | Dirty Money | 13.00% | ~45,397 |
@@ -23,12 +23,12 @@ Rating: 4.28 (Ranked 836)
 | Street Fighter | 7.00% | ~24,445 |
 | Friendly Gestures | 7.00% | ~24,445 |
 | People Person | 7.00% | ~24,445 |
-| Liquor Lord | 6.00% | ~20,952 |
-| Safety in Numbers | 6.00% | ~20,952 |
-| Moving Experiences | 6.00% | ~20,952 |
-| Wise Head | 6.00% | ~20,952 |
-| Show ‘em the Sugar | 6.00% | ~20,952 |
-| Killing Them Softly | 6.00% | ~20,952 |
+| Liquor Lord | 6.00% | ~20,953 |
+| Safety in Numbers | 6.00% | ~20,953 |
+| Moving Experiences | 6.00% | ~20,953 |
+| Wise Head | 6.00% | ~20,953 |
+| Show ‘em the Sugar | 6.00% | ~20,953 |
+| Killing Them Softly | 6.00% | ~20,953 |
 | Street Knowledge | 5.00% | ~17,460 |
 | Oh Captain | 5.00% | ~17,460 |
 | Branching Out | 5.00% | ~17,460 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 836)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,208 (Ranked 44)  
+Progressed: 349,210 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.00%) (Ranked 324)
 | 2023-10-22 | 348,942 | 7 |
 | 2023-10-23 | 349,067 | 7 |
 | 2023-10-24 | 349,199 | 7 |
-| 2023-10-25 | 349,208 | 7 |
+| 2023-10-25 | 349,210 | 7 |
 ## Awards
 Max (Great for Beginners): 38  (Ranked 450)  
 Sum: 179 (Ranked 402)  

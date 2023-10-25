@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76645,
+  "EOS_Progressed": 76647,
   "EOS_Completed": 805,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -21047,6 +21047,11 @@
       "Time": "2023-10-25T02:19:45.7730825+00:00",
       "NumProgressed": 76645,
       "NumCompleted": 805
+    },
+    {
+      "Time": "2023-10-25T03:03:52.9878666+00:00",
+      "NumProgressed": 76647,
+      "NumCompleted": 805
     }
   ],
   "TotalAchievements": 25,
@@ -21162,7 +21167,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16095
+      "UsersEstimate": 16096
     },
     {
       "ID": "Meaty",
@@ -21186,7 +21191,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12263
+      "UsersEstimate": 12264
     },
     {
       "ID": "Nothing Left to Say",
@@ -21257,7 +21262,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76645,
+      "Progressed": 76647,
       "Completed": 805
     }
   ],
@@ -21265,8 +21270,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:19:45.7730821+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:03:52.987866+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:15:16.6629157+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:19:45.7732382+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:59:42.469651+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:03:52.988081+00:00"
 }

@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14306,
+  "EOS_Progressed": 14307,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9532,6 +9532,11 @@
       "Time": "2023-10-25T02:22:24.910084+00:00",
       "NumProgressed": 14306,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-25T03:07:32.9130877+00:00",
+      "NumProgressed": 14307,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9550,9 +9555,9 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "11",
@@ -9600,7 +9605,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "17",
@@ -9696,7 +9701,7 @@
       "Name": "Bosmang",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "28",
@@ -9783,22 +9788,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14306,
+      "Progressed": 14307,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 260,
-      "Completed": 260
+      "Progressed": 261,
+      "Completed": 261
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-25T02:22:24.9100835+00:00",
+  "LastChanged_Achievements": "2023-10-25T03:07:32.9130872+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:16:15.2196312+00:00",
-  "LastUpdate_Achievements": "2023-10-25T02:22:24.9101713+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:01:10.2004212+00:00",
+  "LastUpdate_Achievements": "2023-10-25T03:07:32.9132038+00:00"
 }

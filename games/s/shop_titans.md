@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,142 |
-| Basic in Bulk | 3.00% | ~4,142 |
-| Tinkle of Coins | 3.00% | ~4,142 |
-| Titan's First Steps | 3.00% | ~4,142 |
+| Sponsored by Argon | 3.00% | ~4,143 |
+| Basic in Bulk | 3.00% | ~4,143 |
+| Tinkle of Coins | 3.00% | ~4,143 |
+| Titan's First Steps | 3.00% | ~4,143 |
 | One Easy Payment | 2.00% | ~2,762 |
 | Some Assembly Required | 2.00% | ~2,762 |
 | Disintermediation | 2.00% | ~2,762 |
@@ -74,29 +74,29 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.70% | ~967 |
 | Complete Monopoly | 0.70% | ~967 |
 | King's Blade | 0.70% | ~967 |
-| Cream of the Crop | 0.60% | ~828 |
-| Top of the World | 0.60% | ~828 |
-| Proud Paladin | 0.60% | ~828 |
-| Constellated | 0.60% | ~828 |
-| Thirst for Knowledge | 0.60% | ~828 |
-| Booty by the Boatload | 0.60% | ~828 |
-| Archivist | 0.60% | ~828 |
-| Industrial Evolution | 0.60% | ~828 |
-| Omae wa Mou Shindeiru | 0.60% | ~828 |
-| Supercharged | 0.60% | ~828 |
-| Ritualist | 0.60% | ~828 |
-| By Your Powers Combined... | 0.60% | ~828 |
-| Item of Renown | 0.60% | ~828 |
-| Master Merchant | 0.60% | ~828 |
-| Bountiful Harvest | 0.60% | ~828 |
-| Precision Engineering | 0.60% | ~828 |
-| Attrition Mission | 0.60% | ~828 |
-| Glittering Collection | 0.60% | ~828 |
-| Treasure Trove | 0.60% | ~828 |
-| Moment of Respite | 0.60% | ~828 |
-| King's Shadow | 0.60% | ~828 |
-| Master Recycler | 0.60% | ~828 |
-| Exotic Commodities | 0.60% | ~828 |
+| Cream of the Crop | 0.60% | ~829 |
+| Top of the World | 0.60% | ~829 |
+| Proud Paladin | 0.60% | ~829 |
+| Constellated | 0.60% | ~829 |
+| Thirst for Knowledge | 0.60% | ~829 |
+| Booty by the Boatload | 0.60% | ~829 |
+| Archivist | 0.60% | ~829 |
+| Industrial Evolution | 0.60% | ~829 |
+| Omae wa Mou Shindeiru | 0.60% | ~829 |
+| Supercharged | 0.60% | ~829 |
+| Ritualist | 0.60% | ~829 |
+| By Your Powers Combined... | 0.60% | ~829 |
+| Item of Renown | 0.60% | ~829 |
+| Master Merchant | 0.60% | ~829 |
+| Bountiful Harvest | 0.60% | ~829 |
+| Precision Engineering | 0.60% | ~829 |
+| Attrition Mission | 0.60% | ~829 |
+| Glittering Collection | 0.60% | ~829 |
+| Treasure Trove | 0.60% | ~829 |
+| Moment of Respite | 0.60% | ~829 |
+| King's Shadow | 0.60% | ~829 |
+| Master Recycler | 0.60% | ~829 |
+| Exotic Commodities | 0.60% | ~829 |
 | Fillin' the Bin | 0.50% | ~690 |
 | A Legend is Born | 0.50% | ~690 |
 | Jackpot! | 0.50% | ~690 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,083 (Ranked 75)  
+Progressed: 138,084 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,083 | 172 |
+| 2023-10-25 | 138,084 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,434 (Ranked 51)  
