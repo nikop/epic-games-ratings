@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 663)  
+Rating: 4.44 (Ranked 662)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 32  (23.09.2022)
 | Never Saw It Coming | 67.00% | ~159 |
 | Coup de Grace | 59.00% | ~140 |
 | Go-Home Club Activities START! | 49.00% | ~116 |
-| Philanthropist | 39.00% | ~92 |
+| Philanthropist | 40.00% | ~95 |
 | Test Your Luck | 34.00% | ~81 |
 | Behind the Curtain | 33.00% | ~78 |
 | Master of Surprise | 30.00% | ~71 |

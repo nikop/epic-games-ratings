@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8334,
+  "EOS_Progressed": 8335,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10216,6 +10216,11 @@
       "Time": "2023-10-25T01:49:30.9643363+00:00",
       "NumProgressed": 8334,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-25T12:06:23.0770869+00:00",
+      "NumProgressed": 8335,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10227,7 +10232,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "ACH02",
@@ -10291,7 +10296,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH10",
@@ -10363,7 +10368,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH19",
@@ -10411,7 +10416,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH25",
@@ -10419,7 +10424,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH26",
@@ -10458,7 +10463,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8334,
+      "Progressed": 8335,
       "Completed": 56
     }
   ],
@@ -10466,8 +10471,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:07:13.8035219+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:06:23.0770865+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:03.3427063+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:58:37.8182175+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:07:13.8035838+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:58:20.0233583+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:06:23.0771457+00:00"
 }

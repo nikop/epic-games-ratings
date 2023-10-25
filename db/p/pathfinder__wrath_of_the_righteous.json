@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 147,
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11783,
+  "EOS_Progressed": 11784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14309,6 +14309,11 @@
       "Time": "2023-10-25T11:03:25.5014012+00:00",
       "NumProgressed": 11783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T12:03:10.0159688+00:00",
+      "NumProgressed": 11784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14408,7 +14413,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "13_PathOfLich",
@@ -14544,7 +14549,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "31_DivideAndRule",
@@ -14568,7 +14573,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14592,7 +14597,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -14704,7 +14709,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -15247,21 +15252,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10565,
+      "Progressed": 10566,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11783,
+      "Progressed": 11784,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:03:25.5014007+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:03:10.0159685+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:01:01.7989367+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:03:25.5016047+00:00"
+  "LastUpdate_Ratings": "2023-10-25T12:00:21.4898852+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:03:10.0161447+00:00"
 }

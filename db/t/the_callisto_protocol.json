@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1343,9 +1343,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 16247,
+  "EOS_Progressed": 16249,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8138,6 +8138,11 @@
       "Time": "2023-10-25T04:08:03.5475211+00:00",
       "NumProgressed": 16247,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-25T12:06:03.4764031+00:00",
+      "NumProgressed": 16249,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8493,7 +8498,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "KILL_BIOBOT",
@@ -8524,13 +8529,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16247,
+      "Progressed": 16249,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4173,
+      "Progressed": 4175,
       "Completed": 29
     }
   ],
@@ -8538,8 +8543,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-24T21:01:27.026746+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:06:49.487669+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:06:03.4764027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:00:08.9876498+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:06:49.4877319+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:59:37.5193124+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:06:03.4764685+00:00"
 }

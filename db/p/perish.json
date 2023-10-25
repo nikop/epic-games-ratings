@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3587,
+  "EOS_Progressed": 3588,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3411,6 +3411,11 @@
       "Time": "2023-10-23T22:05:55.0243032+00:00",
       "NumProgressed": 3587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T12:06:16.8366271+00:00",
+      "NumProgressed": 3588,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3470,7 +3475,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_FH",
@@ -3502,7 +3507,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_K_A2",
@@ -3510,7 +3515,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_K_A3",
@@ -3566,7 +3571,7 @@
       "Name": "War Chest",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_M_D3",
@@ -3638,7 +3643,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_OB_BR",
@@ -3670,7 +3675,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_OB_CS",
@@ -3718,7 +3723,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_OB_LI",
@@ -3925,7 +3930,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3587,
+      "Progressed": 3588,
       "Completed": 0
     }
   ],
@@ -3933,8 +3938,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:07:06.4418224+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:06:16.8366267+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:02.0899041+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:58:35.6987141+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:07:06.441882+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:58:18.1557053+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:06:16.8366946+00:00"
 }

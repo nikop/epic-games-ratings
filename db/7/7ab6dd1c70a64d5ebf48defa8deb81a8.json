@@ -185,9 +185,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_03",
@@ -471,8 +471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:09:35.512482+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:09:09.102966+00:00",
   "LastUpdate_AppInfo": "2023-10-23T16:57:14.7260164+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:00:22.2764843+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:09:35.5125034+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:59:49.431062+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:09:09.1029902+00:00"
 }

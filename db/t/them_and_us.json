@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1141,6 +1141,11 @@
       "Time": "2023-10-24T22:04:56.8255944+00:00",
       "NumProgressed": 265,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T12:04:54.7463788+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1168,7 +1173,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1248,7 +1253,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1256,7 +1261,7 @@
       "Name": "Them and Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1312,7 +1317,7 @@
       "Name": "OUTRAGE",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_PTD",
@@ -1438,9 +1443,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "ETUA_Trapped",
@@ -1448,7 +1453,7 @@
       "Name": "Trapped",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1471,7 +1476,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 1
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:05:28.7980813+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:04:54.7463784+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:00:33.1803851+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:05:28.7981151+00:00"
+  "LastUpdate_Ratings": "2023-10-25T12:00:00.47098+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:04:54.7464099+00:00"
 }

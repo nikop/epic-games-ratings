@@ -787,7 +787,7 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10677,
+  "EOS_Progressed": 10678,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 3,
@@ -11782,6 +11782,11 @@
       "Time": "2023-10-24T15:07:39.5869618+00:00",
       "NumProgressed": 10677,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-25T12:06:24.6064834+00:00",
+      "NumProgressed": 10678,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11873,7 +11878,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH12",
@@ -11897,7 +11902,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "ACH15",
@@ -11953,7 +11958,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "ACH22",
@@ -11961,7 +11966,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2136
     },
     {
       "ID": "ACH23",
@@ -12064,7 +12069,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10677,
+      "Progressed": 10678,
       "Completed": 63
     }
   ],
@@ -12072,8 +12077,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:07:15.7175621+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:06:24.606483+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:02:08.7107791+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:07:15.7176333+00:00"
+  "LastUpdate_Ratings": "2023-10-25T12:01:00.1087269+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:06:24.6065532+00:00"
 }

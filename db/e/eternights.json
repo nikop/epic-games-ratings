@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -969,9 +969,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1105,9 +1105,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:09:26.5091518+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:09:02.2348917+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:58:12.8470865+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:09:26.5091699+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:58:01.505935+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:09:02.2349113+00:00"
 }

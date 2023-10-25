@@ -4,7 +4,7 @@
 Rating: 4.45 (Ranked 650)  
 ## Awards
 Max (Relaxing): 98  (Ranked 351)  
-Sum: 755 (Ranked 276)  
+Sum: 757 (Ranked 276)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 75
 | This game has Amazing Storytelling | 66 |
 | This game has Amazing Characters | 62 |
 | This game has Beautiful Visuals | 54 |
-| This game has a Creative Community | 40 |
+| This game has a Creative Community | 42 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -40,4 +40,4 @@ Diff (max vs sum): 75
 | 2023-10-22 | 4.45 | 86 | 675 |
 | 2023-10-23 | 4.45 | 88 | 705 |
 | 2023-10-24 | 4.45 | 88 | 733 |
-| 2023-10-25 | 4.45 | 98 | 755 |
+| 2023-10-25 | 4.45 | 98 | 757 |

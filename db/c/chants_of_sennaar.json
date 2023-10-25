@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.88,
+  "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1510,6 +1510,11 @@
       "Time": "2023-10-24T21:06:16.0605222+00:00",
       "NumProgressed": 320,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-25T12:04:03.3424832+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1521,7 +1526,7 @@
       "Name": "I did it",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "END_GOOD",
@@ -1537,7 +1542,7 @@
       "Name": "Peace walker",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1545,7 +1550,7 @@
       "Name": "Cable guy",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1633,7 +1638,7 @@
       "Name": "True G3M4R",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1673,7 +1678,7 @@
       "Name": "Scholar",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_N1",
@@ -1681,7 +1686,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PROGRESS_N2",
@@ -1705,7 +1710,7 @@
       "Name": "The darkness",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_N5",
@@ -1713,21 +1718,21 @@
       "Name": "One last step",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:04:28.6903416+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:04:03.3424828+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:57:23.1128394+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:04:28.6903656+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:57:16.9495133+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:04:03.3425056+00:00"
 }

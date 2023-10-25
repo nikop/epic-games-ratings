@@ -17,9 +17,9 @@ Rating: 4.60 (Ranked 401)
 | Captain Drummer | 5.00% | ~716 |
 | Celebrations are in Order | 5.00% | ~716 |
 | Impossible Objects | 5.00% | ~716 |
-| Stogie for Fogey | 4.00% | ~572 |
-| Spore Taste | 4.00% | ~572 |
-| Khan's Revenge | 4.00% | ~572 |
+| Stogie for Fogey | 4.00% | ~573 |
+| Spore Taste | 4.00% | ~573 |
+| Khan's Revenge | 4.00% | ~573 |
 | Thorston Mayer | 3.00% | ~429 |
 | Miraculous Maya | 3.00% | ~429 |
 | Doctor Approved | 2.00% | ~286 |
@@ -29,14 +29,14 @@ Rating: 4.60 (Ranked 401)
 | No Belter Left Behind | 1.00% | ~143 |
 | Data Master | 1.00% | ~143 |
 | Data Recoverer | 0.90% | ~129 |
-| Debris Spree | 0.80% | ~114 |
+| Debris Spree | 0.80% | ~115 |
 | Urshanabi Hoarder | 0.50% | ~72 |
 | Data Miner | 0.40% | ~57 |
 | Grave Robber | 0.40% | ~57 |
 | Scavenger Star | 0.20% | ~29 |
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,312 (Ranked 141)  
+Progressed: 14,313 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 27 (0.19%) (Ranked 234)
 | 2023-10-22 | 14,248 | 27 |
 | 2023-10-23 | 14,276 | 27 |
 | 2023-10-24 | 14,303 | 27 |
-| 2023-10-25 | 14,312 | 27 |
+| 2023-10-25 | 14,313 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

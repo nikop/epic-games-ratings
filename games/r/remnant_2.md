@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~18,058 |
-| The Killing Jar | 8.00% | ~16,051 |
-| Expanding Horizons | 7.00% | ~14,045 |
-| Quest for Survival | 7.00% | ~14,045 |
-| Not Your Average Trait | 7.00% | ~14,045 |
-| Gleaming the Cube | 6.00% | ~12,039 |
-| Not a Janitor | 6.00% | ~12,039 |
-| Familiar Face | 6.00% | ~12,039 |
-| Duality | 6.00% | ~12,039 |
-| Boss'n Up | 6.00% | ~12,039 |
-| Trait Chaser | 6.00% | ~12,039 |
-| Not So Special Now | 5.00% | ~10,032 |
-| Equal Measures | 5.00% | ~10,032 |
-| Blue Goddess | 5.00% | ~10,032 |
-| Top Performer | 5.00% | ~10,032 |
-| Shhh...It's a Secret | 5.00% | ~10,032 |
-| Almost There | 5.00% | ~10,032 |
-| Make Some Room | 5.00% | ~10,032 |
-| Good, But Could Be Better! | 5.00% | ~10,032 |
+| First of Many | 9.00% | ~18,060 |
+| The Killing Jar | 8.00% | ~16,053 |
+| Expanding Horizons | 7.00% | ~14,046 |
+| Quest for Survival | 7.00% | ~14,046 |
+| Not Your Average Trait | 7.00% | ~14,046 |
+| Gleaming the Cube | 6.00% | ~12,040 |
+| Not a Janitor | 6.00% | ~12,040 |
+| Familiar Face | 6.00% | ~12,040 |
+| Duality | 6.00% | ~12,040 |
+| Boss'n Up | 6.00% | ~12,040 |
+| Trait Chaser | 6.00% | ~12,040 |
+| Not So Special Now | 5.00% | ~10,033 |
+| Equal Measures | 5.00% | ~10,033 |
+| Blue Goddess | 5.00% | ~10,033 |
+| Top Performer | 5.00% | ~10,033 |
+| Shhh...It's a Secret | 5.00% | ~10,033 |
+| Almost There | 5.00% | ~10,033 |
+| Make Some Room | 5.00% | ~10,033 |
+| Good, But Could Be Better! | 5.00% | ~10,033 |
 | Chaos | 4.00% | ~8,026 |
 | Traitor | 4.00% | ~8,026 |
 | Power Surge | 4.00% | ~8,026 |
@@ -34,15 +34,15 @@ Rating: 4.76 (Ranked 120)
 | The Web | 4.00% | ~8,026 |
 | Scrap Collector | 4.00% | ~8,026 |
 | All These Traits� | 4.00% | ~8,026 |
-| Am I Seeing This? | 3.00% | ~6,019 |
-| Forever is a Long Time Coming | 3.00% | ~6,019 |
-| The Agenda | 3.00% | ~6,019 |
-| Tall Tales | 3.00% | ~6,019 |
-| Bad Moon Rising | 3.00% | ~6,019 |
-| Strapped | 3.00% | ~6,019 |
-| Edgelord | 3.00% | ~6,019 |
-| The Ultimate Weapon | 3.00% | ~6,019 |
-| No One Should Have All That Power | 3.00% | ~6,019 |
+| Am I Seeing This? | 3.00% | ~6,020 |
+| Forever is a Long Time Coming | 3.00% | ~6,020 |
+| The Agenda | 3.00% | ~6,020 |
+| Tall Tales | 3.00% | ~6,020 |
+| Bad Moon Rising | 3.00% | ~6,020 |
+| Strapped | 3.00% | ~6,020 |
+| Edgelord | 3.00% | ~6,020 |
+| The Ultimate Weapon | 3.00% | ~6,020 |
+| No One Should Have All That Power | 3.00% | ~6,020 |
 | Crafty | 2.00% | ~4,013 |
 | Only Human | 2.00% | ~4,013 |
 | Red Room | 2.00% | ~4,013 |
@@ -51,12 +51,12 @@ Rating: 4.76 (Ranked 120)
 | Carnage in C-Minor | 2.00% | ~4,013 |
 | Maxed Out! | 2.00% | ~4,013 |
 | Transmutate | 2.00% | ~4,013 |
-| Ghost in the Machine | 1.00% | ~2,006 |
-| The Trigger | 1.00% | ~2,006 |
-| Cutting Edge | 1.00% | ~2,006 |
-| Proving Grounds | 1.00% | ~2,006 |
+| Ghost in the Machine | 1.00% | ~2,007 |
+| The Trigger | 1.00% | ~2,007 |
+| Cutting Edge | 1.00% | ~2,007 |
+| Proving Grounds | 1.00% | ~2,007 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,643 (Ranked 68)  
+Progressed: 200,662 (Ranked 68)  
 Completed: 405 (0.20%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 405 (0.20%) (Ranked 232)
 | 2023-10-22 | 199,607 | 401 |
 | 2023-10-23 | 200,060 | 403 |
 | 2023-10-24 | 200,493 | 405 |
-| 2023-10-25 | 200,643 | 405 |
+| 2023-10-25 | 200,662 | 405 |
 ## Awards
 Max (Great Boss Battles): 1,894  (Ranked 114)  
 Sum: 4,148 (Ranked 147)  

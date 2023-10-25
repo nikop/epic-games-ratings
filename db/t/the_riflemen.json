@@ -59,11 +59,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26889,
+  "EOS_Progressed": 26901,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2267,
+  "EOS_NewPlayers": 2268,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 43.73,
+  "EOS_Completed_Percentage": 43.71,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -6779,6 +6779,11 @@
       "Time": "2023-10-25T11:08:04.500901+00:00",
       "NumProgressed": 26889,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-25T12:07:09.2091822+00:00",
+      "NumProgressed": 26901,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -6799,7 +6804,7 @@
       "Name": "First blood",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 17478
+      "UsersEstimate": 17486
     },
     {
       "ID": "grenadeKills",
@@ -6847,7 +6852,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "matchesWon",
@@ -6871,7 +6876,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "shotgunKills",
@@ -6902,7 +6907,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 26889,
+      "Progressed": 26901,
       "Completed": 11759
     }
   ],
@@ -6910,8 +6915,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-10-24T15:02:49.4064399+00:00",
-  "LastChanged_Achievements": "2023-10-25T11:08:04.5009006+00:00",
+  "LastChanged_Achievements": "2023-10-25T12:07:09.2091818+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.8560856+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:57:21.7059887+00:00",
-  "LastUpdate_Achievements": "2023-10-25T11:08:04.5009436+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:57:15.1182569+00:00",
+  "LastUpdate_Achievements": "2023-10-25T12:07:09.2092228+00:00"
 }

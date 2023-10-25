@@ -20,7 +20,7 @@ Rating: 4.68 (Ranked 243)
 | Network Success | 27.00% | ~914 |
 | Writing a new Chapter | 27.00% | ~914 |
 | Spring Cleaning | 25.00% | ~846 |
-| Reduce | 21.00% | ~711 |
+| Reduce | 22.00% | ~744 |
 | Ups and Downs | 21.00% | ~711 |
 | Crucial Combo | 20.00% | ~677 |
 | One for the Book | 19.00% | ~643 |

@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 19.00% | ~7 |
+| Find Allies | 14.00% | ~5 |
 | Adventurer | 14.00% | ~5 |
 | Essence Blow | 14.00% | ~5 |
 | Scholar | 14.00% | ~5 |
-| Find Allies | 11.00% | ~4 |
 | A Taste of Wrath | 11.00% | ~4 |
 | Trinity | 11.00% | ~4 |
 | Shatter Them All | 11.00% | ~4 |

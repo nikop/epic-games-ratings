@@ -10,6 +10,7 @@
 | A piece of the story | 25.00% | ~4 |
 | It's covered up for a reason | 19.00% | ~3 |
 | Do what you have to | 19.00% | ~3 |
+| Another perspective | 13.00% | ~2 |
 | Refuse to look | 13.00% | ~2 |
 | Scraps of love | 13.00% | ~2 |
 | Debut | 13.00% | ~2 |
@@ -18,14 +19,13 @@
 | Sound Bite | 13.00% | ~2 |
 | Lights! Camera! Action! | 13.00% | ~2 |
 | Playtime | 13.00% | ~2 |
+| The art of movement | 13.00% | ~2 |
 | The tragedy unfolds | 13.00% | ~2 |
 | Tough conversation | 13.00% | ~2 |
-| Another perspective | 6.00% | ~1 |
 | Breaking free | 6.00% | ~1 |
 | A Slice of Life | 6.00% | ~1 |
 | The Perfect Storm | 6.00% | ~1 |
 | Sign of weakness | 6.00% | ~1 |
-| The art of movement | 6.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |

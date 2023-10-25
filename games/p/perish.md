@@ -13,13 +13,13 @@
 | Persephone's Guidance | 5.00% | ~179 |
 | Strength of Herakles | 5.00% | ~179 |
 | Reign in Blood | 5.00% | ~179 |
-| Immolator | 4.00% | ~143 |
-| Go For the Head | 4.00% | ~143 |
-| Spartan Sandal | 4.00% | ~143 |
-| War Chest | 4.00% | ~143 |
-| Symbols of Heresy | 4.00% | ~143 |
-| The Sons of Minos | 4.00% | ~143 |
-| Eidola | 4.00% | ~143 |
+| Immolator | 4.00% | ~144 |
+| Go For the Head | 4.00% | ~144 |
+| Spartan Sandal | 4.00% | ~144 |
+| War Chest | 4.00% | ~144 |
+| Symbols of Heresy | 4.00% | ~144 |
+| The Sons of Minos | 4.00% | ~144 |
+| Eidola | 4.00% | ~144 |
 | Comedy and Tragedy | 3.00% | ~108 |
 | Pillars of Eternity | 3.00% | ~108 |
 | Chthonic Investor | 3.00% | ~108 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,587 (Ranked 188)  
+Progressed: 3,588 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-21 | 3,579 | 0 |
 | 2023-10-22 | 3,584 | 0 |
 | 2023-10-23 | 3,587 | 0 |
+| 2023-10-25 | 3,588 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
