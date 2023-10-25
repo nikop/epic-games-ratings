@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~366 |
+| Good start! | 85.00% | ~367 |
 | Vanquisher of Robots | 76.00% | ~328 |
-| Party | 49.00% | ~211 |
+| Party | 49.00% | ~212 |
 | Impossible Cube | 47.00% | ~203 |
 | Knowledge is Power | 45.00% | ~194 |
-| Through the Darkness | 43.00% | ~185 |
-| No Mercy | 42.00% | ~181 |
+| No Mercy | 43.00% | ~186 |
+| Through the Darkness | 43.00% | ~186 |
 | The Return of a Rat | 42.00% | ~181 |
-| Fat of the Earth | 36.00% | ~155 |
+| Fat of the Earth | 36.00% | ~156 |
 | Last Man Standing | 32.00% | ~138 |
 | He's Seen It All | 28.00% | ~121 |
 | Great Hero | 28.00% | ~121 |
-| Catch Jonathan_tostar | 27.00% | ~116 |
-| Rookie | 27.00% | ~116 |
+| Catch Jonathan_tostar | 27.00% | ~117 |
+| Rookie | 27.00% | ~117 |
 | Campaigning | 26.00% | ~112 |
 | Assemble a Meganewbie | 26.00% | ~112 |
 | Frugal | 22.00% | ~95 |
@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 576)
 | Honorary Cultist | 13.00% | ~56 |
 | Brain and Brawn | 12.00% | ~52 |
 | Strength and Sorcery | 10.00% | ~43 |
-| Omae Wa Mou Shindeiru | 8.00% | ~34 |
+| Omae Wa Mou Shindeiru | 8.00% | ~35 |
 | Experimentalist | 7.00% | ~30 |
 | Wide Selection | 6.00% | ~26 |
 | Soldier | 6.00% | ~26 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 576)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 298)  
+Progressed: 432 (Ranked 298)  
 Completed: 1 (0.23%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 1 (0.23%) (Ranked 224)
 | 2023-10-04 | 429 | 1 |
 | 2023-10-07 | 430 | 1 |
 | 2023-10-18 | 431 | 1 |
+| 2023-10-25 | 432 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

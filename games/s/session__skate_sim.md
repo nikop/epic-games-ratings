@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 61.00% | ~1,853 |
-| Keeping it classy | 28.00% | ~850 |
+| Keeping it classy | 28.00% | ~851 |
 | Welcome to the family | 22.00% | ~668 |
 | The finer things in life | 19.00% | ~577 |
 | Backpacker | 14.00% | ~425 |
@@ -39,9 +39,9 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~152 |
 | Trick shot marksman | 5.00% | ~152 |
 | We get it, you're good | 5.00% | ~152 |
-| Cops called! | 4.00% | ~121 |
-| G.O.A.T. status | 4.00% | ~121 |
-| Prince of Philly | 4.00% | ~121 |
+| Cops called! | 4.00% | ~122 |
+| G.O.A.T. status | 4.00% | ~122 |
+| Prince of Philly | 4.00% | ~122 |
 | Hoarder | 3.00% | ~91 |
 | Pew-Pew | 3.00% | ~91 |
 | Cross lock country | 2.00% | ~61 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,037 (Ranked 196)  
+Progressed: 3,038 (Ranked 196)  
 Completed: 1 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 1 (0.03%) (Ranked 294)
 | 2023-10-22 | 3,031 | 1 |
 | 2023-10-23 | 3,033 | 1 |
 | 2023-10-24 | 3,036 | 1 |
-| 2023-10-25 | 3,037 | 1 |
+| 2023-10-25 | 3,038 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 408)  
 Sum: 531 (Ranked 310)  

@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,770 |
-| IT MAKES BOOM! | 3.00% | ~7,662 |
-| EXTRA BOOST | 2.00% | ~5,108 |
-| PROTECTED | 2.00% | ~5,108 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,554 |
-| AGGRESSIVE RACER | 1.00% | ~2,554 |
-| PRO | 1.00% | ~2,554 |
+| ROOKIE | 5.00% | ~12,774 |
+| IT MAKES BOOM! | 3.00% | ~7,664 |
+| EXTRA BOOST | 2.00% | ~5,110 |
+| PROTECTED | 2.00% | ~5,110 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,555 |
+| AGGRESSIVE RACER | 1.00% | ~2,555 |
+| PRO | 1.00% | ~2,555 |
 | A TIGER'S FEAR | 0.90% | ~2,299 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,277 |
 | ACE SPEEDSTER | 0.50% | ~1,277 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 698)
 | ACE TRICKSTER | 0.20% | ~511 |
 | FRAMED! | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,391 (Ranked 53)  
+Progressed: 255,480 (Ranked 53)  
 Completed: 241 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,22 +214,22 @@ Completed: 241 (0.09%) (Ranked 262)
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
 | 2023-10-24 | 253,504 | 241 |
-| 2023-10-25 | 255,391 | 241 |
+| 2023-10-25 | 255,480 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 451)  
-Sum: 253 (Ranked 370)  
+Sum: 256 (Ranked 370)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 38 |
 | This game is Great for Quick Sessions | 38 |
-| This game has Diverse Characters | 37 |
 | This game is Great for Beginners | 35 |
 | This game has Amazing Characters | 29 |
 | This game has a Competitive Community | 24 |
+| This game has Competitive Players | 24 |
 | This game has Amazing Storytelling | 23 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Highly Recommended | 22 |
-| This game has Competitive Players | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -257,4 +257,4 @@ Diff (max vs sum): 81
 | 2023-10-22 | 4.41 | 35 | 180 |
 | 2023-10-23 | 4.41 | 35 | 210 |
 | 2023-10-24 | 4.41 | 38 | 250 |
-| 2023-10-25 | 4.42 | 38 | 253 |
+| 2023-10-25 | 4.42 | 38 | 256 |

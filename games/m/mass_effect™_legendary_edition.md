@@ -25,7 +25,7 @@
 | Soldier Ally | 50.00% | ~403 |
 | Paramour I | 49.00% | ~395 |
 | Colonial Savior | 49.00% | ~395 |
-| Scientist | 48.00% | ~387 |
+| Scientist | 49.00% | ~395 |
 | Merciless | 47.00% | ~379 |
 | Krogan Ally | 45.00% | ~363 |
 | Head Hunter | 45.00% | ~363 |
@@ -74,7 +74,7 @@
 | Suicide Mission | 28.00% | ~226 |
 | Against All Odds | 28.00% | ~226 |
 | Mobilizer | 28.00% | ~226 |
-| Untouchable | 26.00% | ~210 |
+| Untouchable | 27.00% | ~218 |
 | Giant Killer | 26.00% | ~210 |
 | A House Divided | 26.00% | ~210 |
 | World Shaker | 26.00% | ~210 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~8 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806 (Ranked 254)  
+Progressed: 806 (Ranked 255)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |

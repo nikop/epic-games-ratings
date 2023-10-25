@@ -81,6 +81,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.60% | ~829 |
 | Booty by the Boatload | 0.60% | ~829 |
 | Archivist | 0.60% | ~829 |
+| Fillin' the Bin | 0.60% | ~829 |
 | Industrial Evolution | 0.60% | ~829 |
 | Omae wa Mou Shindeiru | 0.60% | ~829 |
 | Supercharged | 0.60% | ~829 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.60% | ~829 |
 | Master Recycler | 0.60% | ~829 |
 | Exotic Commodities | 0.60% | ~829 |
-| Fillin' the Bin | 0.50% | ~691 |
 | A Legend is Born | 0.50% | ~691 |
 | Jackpot! | 0.50% | ~691 |
 | Economy of Scarce | 0.50% | ~691 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,127 (Ranked 75)  
+Progressed: 138,131 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,14 +307,14 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,127 | 172 |
+| 2023-10-25 | 138,131 | 172 |
 ## Awards
-Max (Great for Beginners): 4,800  (Ranked 73)  
-Sum: 27,445 (Ranked 51)  
+Max (Great for Beginners): 4,801  (Ranked 73)  
+Sum: 27,446 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,800 |
+| This game is Great for Beginners | 4,801 |
 | This game is Relaxing | 4,031 |
 | This game has Quickly Understood Controls | 4,019 |
 | This game has Diverse Characters | 3,924 |
@@ -593,4 +593,4 @@ Diff (max vs sum): 22
 | 2023-10-21 | 3.99 | - | 4,797 | 27,422 |
 | 2023-10-22 | 3.99 | - | 4,797 | 27,428 |
 | 2023-10-23 | 3.99 | - | 4,800 | 27,434 |
-| 2023-10-25 | 3.99 | - | 4,800 | 27,445 |
+| 2023-10-25 | 3.99 | - | 4,801 | 27,446 |

@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.80% | ~1,862 |
+| Beast Intentions | 0.40% | ~931 |
 | The Cursed Farmer | 0.40% | ~931 |
 | Foul Play | 0.40% | ~796 |
-| Beast Intentions | 0.30% | ~698 |
 | The Mad Wizard | 0.30% | ~698 |
 | The Jungles of Doomspace | 0.30% | ~597 |
 | The Arena of Blood | 0.30% | ~597 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,807 (Ranked 61)  
+Progressed: 232,812 (Ranked 61)  
 Completed: 2,387 (1.03%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -723,7 +723,7 @@ Completed: 2,387 (1.03%) (Ranked 148)
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
 | 2023-10-24 | 232,755 | 2,384 |
-| 2023-10-25 | 232,807 | 2,387 |
+| 2023-10-25 | 232,812 | 2,387 |
 ## Awards
 Max (Great for Beginners): 5,444  (Ranked 69)  
 Sum: 32,200 (Ranked 41)  

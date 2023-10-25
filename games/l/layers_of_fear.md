@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 39.00% | ~7 |
+| Something important | 44.00% | ~8 |
 | Finished it | 33.00% | ~6 |
 | Wanderer | 33.00% | ~6 |
+| A piece of the story | 28.00% | ~5 |
+| Refuse to look | 22.00% | ~4 |
 | Do what you have to | 22.00% | ~4 |
-| A piece of the story | 22.00% | ~4 |
 | It's covered up for a reason | 17.00% | ~3 |
-| Refuse to look | 17.00% | ~3 |
+| The artist’s impression | 17.00% | ~3 |
 | Another perspective | 11.00% | ~2 |
 | Scraps of love | 11.00% | ~2 |
 | A Slice of Life | 11.00% | ~2 |
 | Debut | 11.00% | ~2 |
-| The artist’s impression | 11.00% | ~2 |
 | First steps | 11.00% | ~2 |
 | Sound Bite | 11.00% | ~2 |
 | Lights! Camera! Action! | 11.00% | ~2 |
 | Playtime | 11.00% | ~2 |
+| Sign of weakness | 11.00% | ~2 |
 | The art of movement | 11.00% | ~2 |
 | The tragedy unfolds | 11.00% | ~2 |
 | Tough conversation | 11.00% | ~2 |
 | Breaking free | 6.00% | ~1 |
 | The Perfect Storm | 6.00% | ~1 |
-| Sign of weakness | 6.00% | ~1 |
 | Fisherman | 6.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |

@@ -2,12 +2,12 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 476,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 1166,
   "RatingHistory": [
     {
@@ -3874,6 +3874,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 1916,
       "NumberOfAwardsMax": 300
+    },
+    {
+      "Time": "2023-10-25T22:03:04.9908651+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1916,
+      "NumberOfAwardsMax": 300
     }
   ],
   "ReviewsDisabled": false,
@@ -3953,8 +3959,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-10-24T22:00:38.3399693+00:00",
+  "LastChanged": "2023-10-25T22:03:04.9908648+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:26.1530846+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:01:15.4082355+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:03:55.4717+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:03:04.9908654+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:05:02.4235942+00:00"
 }

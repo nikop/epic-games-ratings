@@ -8018,7 +8018,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474944,
+  "EOS_Progressed": 474945,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
@@ -27343,6 +27343,11 @@
       "Time": "2023-10-25T21:06:48.6450267+00:00",
       "NumProgressed": 474944,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-25T22:08:58.4449488+00:00",
+      "NumProgressed": 474945,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -27378,7 +27383,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175729
+      "UsersEstimate": 175730
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -27410,7 +27415,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123485
+      "UsersEstimate": 123486
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -27434,7 +27439,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 80740
+      "UsersEstimate": 80741
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -27466,7 +27471,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142483
+      "UsersEstimate": 142484
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -27506,7 +27511,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175729
+      "UsersEstimate": 175730
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -27554,7 +27559,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90239
+      "UsersEstimate": 90240
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -27586,7 +27591,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199476
+      "UsersEstimate": 199477
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -27642,7 +27647,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132984
+      "UsersEstimate": 132985
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -27746,7 +27751,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123485
+      "UsersEstimate": 123486
     },
     {
       "ID": "achievement_mr_delegator",
@@ -27778,7 +27783,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166230
+      "UsersEstimate": 166231
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -27890,7 +27895,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 80740
+      "UsersEstimate": 80741
     },
     {
       "ID": "achievement_sell_player",
@@ -27898,7 +27903,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 227973
+      "UsersEstimate": 227974
     },
     {
       "ID": "achievement_signed_a_player",
@@ -28137,15 +28142,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474944,
+      "Progressed": 474945,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-24T20:00:09.5883448+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:06:48.6450263+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:08:58.4449483+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.2576418+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:59:28.4111884+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:06:48.645239+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:00:39.1260959+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:08:58.4452329+00:00"
 }

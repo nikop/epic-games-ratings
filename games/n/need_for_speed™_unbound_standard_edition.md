@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~7,054 |
-| Cool Whip | 90.00% | ~6,826 |
-| Fashion Killa | 89.00% | ~6,751 |
-| Drop the Beat | 86.00% | ~6,523 |
-| Hey Lakeshore | 85.00% | ~6,447 |
-| 100 Miles and Runnin' | 84.00% | ~6,371 |
+| Throwing up Tags | 93.00% | ~7,055 |
+| Cool Whip | 90.00% | ~6,827 |
+| Fashion Killa | 89.00% | ~6,752 |
+| Drop the Beat | 86.00% | ~6,524 |
+| Hey Lakeshore | 85.00% | ~6,448 |
+| 100 Miles and Runnin' | 84.00% | ~6,372 |
 | Public Enemy | 83.00% | ~6,296 |
 | Rebel Without a Pause | 69.00% | ~5,234 |
 | Hey Speedie! | 69.00% | ~5,234 |
-| Most Wanted | 65.00% | ~4,930 |
-| New Crew | 64.00% | ~4,854 |
+| Most Wanted | 65.00% | ~4,931 |
+| New Crew | 64.00% | ~4,855 |
 | Escape Artist | 55.00% | ~4,172 |
 | Serious Guap | 54.00% | ~4,096 |
 | Style it Out | 54.00% | ~4,096 |
 | Untouchable | 54.00% | ~4,096 |
-| Oh, It's On | 51.00% | ~3,868 |
+| Oh, It's On | 51.00% | ~3,869 |
 | Rydell's Rydes | 49.00% | ~3,717 |
 | Cash Money Millionaire | 47.00% | ~3,565 |
 | Lake Better Watch Out | 40.00% | ~3,034 |
 | Access All Areas | 35.00% | ~2,655 |
 | #Blessed | 35.00% | ~2,655 |
-| Kick it | 32.00% | ~2,427 |
-| Found Family | 32.00% | ~2,427 |
+| Kick it | 32.00% | ~2,428 |
+| Found Family | 32.00% | ~2,428 |
 | The Collector | 30.00% | ~2,276 |
 | In the Flow | 29.00% | ~2,200 |
 | Top Billin' | 23.00% | ~1,745 |
@@ -35,7 +35,7 @@
 | Superstar | 20.00% | ~1,517 |
 | B for My Name | 19.00% | ~1,441 |
 | Mixtape | 19.00% | ~1,441 |
-| Bring Your A Game | 17.00% | ~1,289 |
+| Bring Your A Game | 17.00% | ~1,290 |
 | Flow Master | 12.00% | ~910 |
 | The Bear Champ | 5.00% | ~379 |
 | Adbusting | 5.00% | ~379 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 2.00% | ~152 |
 | Cleaning Up | 2.00% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,585 (Ranked 161)  
+Progressed: 7,586 (Ranked 161)  
 Completed: 43 (0.57%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,4 +86,4 @@ Completed: 43 (0.57%) (Ranked 177)
 | 2023-10-22 | 7,348 | 41 |
 | 2023-10-23 | 7,433 | 43 |
 | 2023-10-24 | 7,518 | 43 |
-| 2023-10-25 | 7,585 | 43 |
+| 2023-10-25 | 7,586 | 43 |

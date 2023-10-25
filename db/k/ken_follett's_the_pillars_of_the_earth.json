@@ -546,9 +546,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15958,
+  "EOS_Progressed": 15959,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12711,6 +12711,11 @@
       "Time": "2023-10-25T21:03:53.7970529+00:00",
       "NumProgressed": 15958,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-25T22:05:00.2507564+00:00",
+      "NumProgressed": 15959,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12730,7 +12735,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "tpote_achievement_11",
@@ -12738,7 +12743,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3670
+      "UsersEstimate": 3671
     },
     {
       "ID": "tpote_achievement_12",
@@ -12802,7 +12807,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "tpote_achievement_2",
@@ -12826,7 +12831,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4787
+      "UsersEstimate": 4788
     },
     {
       "ID": "tpote_achievement_22",
@@ -12874,7 +12879,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "tpote_achievement_28",
@@ -12914,7 +12919,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "tpote_achievement_32",
@@ -12986,7 +12991,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "tpote_achievement_40",
@@ -13049,15 +13054,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15958,
+      "Progressed": 15959,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-25T11:59:01.9427727+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:03:53.7970524+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:05:00.2507559+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:59:26.2683695+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:03:53.797134+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:00:34.9764283+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:05:00.2508961+00:00"
 }

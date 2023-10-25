@@ -3,7 +3,7 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 356,
-  "Ranking_Popularity": 508,
+  "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 326,
@@ -265,7 +265,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231465,
+  "EOS_Progressed": 231466,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -19650,6 +19650,11 @@
       "Time": "2023-10-25T21:04:09.3478506+00:00",
       "NumProgressed": 231465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T22:05:07.6754935+00:00",
+      "NumProgressed": 231466,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19725,7 +19730,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83327
+      "UsersEstimate": 83328
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19821,7 +19826,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50922
+      "UsersEstimate": 50923
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -19884,7 +19889,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231465,
+      "Progressed": 231466,
       "Completed": 5
     }
   ],
@@ -19892,8 +19897,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-13T17:59:14.424156+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:04:09.3478503+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:05:07.675493+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:59:50.6307178+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:04:09.3479576+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:01:05.9990458+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:05:07.675663+00:00"
 }

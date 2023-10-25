@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1105,7 +1105,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3037,
+  "EOS_Progressed": 3038,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -5505,6 +5505,11 @@
       "Time": "2023-10-25T10:07:56.0996297+00:00",
       "NumProgressed": 3037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T22:09:25.7610869+00:00",
+      "NumProgressed": 3038,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5548,7 +5553,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -5628,7 +5633,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_GOLDEN",
@@ -5668,7 +5673,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5740,7 +5745,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -5899,15 +5904,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3037,
+      "Progressed": 3038,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-23T11:57:29.4521989+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:07:18.3183451+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:09:25.7610864+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.22373+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:58:16.4361077+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:07:18.3183982+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:58:59.813328+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:09:25.7611618+00:00"
 }

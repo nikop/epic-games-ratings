@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 468,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
@@ -2019,6 +2019,11 @@
       "Time": "2023-10-25T21:04:57.2248517+00:00",
       "NumProgressed": 466,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-25T22:06:25.3273135+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2038,7 +2043,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2108,9 +2113,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2141,14 +2146,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 468,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:04:57.2248513+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:06:25.327313+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:58:35.3547475+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:04:57.2248684+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:59:24.5428095+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:06:25.3273388+00:00"
 }

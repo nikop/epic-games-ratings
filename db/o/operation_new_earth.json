@@ -6392,9 +6392,9 @@
       "ID": "objective_hero_level_up_5",
       "SetID": "bm61c2p",
       "Name": "Major",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -6561,8 +6561,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:04:35.344778+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:05:44.7458166+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:00:05.0909695+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:04:35.3448285+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:01:26.7341538+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:05:44.7458922+00:00"
 }

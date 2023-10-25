@@ -52,6 +52,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 1.00% | ~150 |
 | Conqueror | 1.00% | ~150 |
 | Great | 1.00% | ~150 |
+| Intercessor | 1.00% | ~150 |
 | Mighty | 1.00% | ~150 |
 | Valiant | 1.00% | ~150 |
 | Legendary Cities | 1.00% | ~150 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~150 |
 | Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
-| Intercessor | 0.90% | ~135 |
 | Lion | 0.90% | ~135 |
 | Victorious | 0.90% | ~135 |
 | Good Difficulty | 0.90% | ~135 |

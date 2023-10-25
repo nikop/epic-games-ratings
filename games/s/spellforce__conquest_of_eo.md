@@ -15,6 +15,7 @@
 | Harvest Time | 100.00% | ~1 |
 | Friend of Alluvyan | 100.00% | ~1 |
 | Friend of Lyraine | 100.00% | ~1 |
+| Friend of Windholme | 100.00% | ~1 |
 | Mine! | 100.00% | ~1 |
 | Get out of here! | 100.00% | ~1 |
 | Fly the friendly Sky | 100.00% | ~1 |
@@ -66,7 +67,6 @@
 | Friend of Connach | 0.00% | ~0 |
 | Friend of Uram Gor | 0.00% | ~0 |
 | Friend of Bastion | 0.00% | ~0 |
-| Friend of Windholme | 0.00% | ~0 |
 | Magic Academy | 0.00% | ~0 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |

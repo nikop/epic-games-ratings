@@ -27,7 +27,7 @@ Rating: 3.38 (Ranked 1,023)
 | Player Betrayer | 5.00% | ~84 |
 | Silver Achiever | 5.00% | ~84 |
 | Moving On Up | 5.00% | ~84 |
-| Major | 4.00% | ~67 |
+| Major | 5.00% | ~84 |
 | Gold Achiever | 3.00% | ~50 |
 | Resourceful | 3.00% | ~50 |
 | Control the Skies | 3.00% | ~50 |

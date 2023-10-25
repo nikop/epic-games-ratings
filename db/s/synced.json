@@ -757,10 +757,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 325,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-10-25T22:03:08.568305+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 326,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 325,
+  "NumberOfAwards": 326,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -798,7 +804,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -819,7 +825,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 64642,
+  "EOS_Progressed": 64648,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 6,
@@ -6624,6 +6630,11 @@
       "Time": "2023-10-25T21:09:26.5959208+00:00",
       "NumProgressed": 64642,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-10-25T22:10:58.8252859+00:00",
+      "NumProgressed": 64648,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6636,7 +6647,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20685
+      "UsersEstimate": 20687
     },
     {
       "ID": "10",
@@ -6700,7 +6711,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10989
+      "UsersEstimate": 10990
     },
     {
       "ID": "3",
@@ -6708,7 +6719,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8403
+      "UsersEstimate": 8404
     },
     {
       "ID": "4",
@@ -6716,7 +6727,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6465
     },
     {
       "ID": "5",
@@ -6724,7 +6735,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5171
+      "UsersEstimate": 5172
     },
     {
       "ID": "6",
@@ -6763,16 +6774,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64642,
+      "Progressed": 64648,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-25T21:01:19.0035908+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:09:26.5959203+00:00",
+  "LastChanged": "2023-10-25T22:03:08.5683047+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:10:58.8252853+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:01:19.0035913+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:09:26.595958+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:03:08.5683053+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:10:58.8253335+00:00"
 }

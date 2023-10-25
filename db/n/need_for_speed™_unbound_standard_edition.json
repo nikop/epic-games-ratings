@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7585,
+  "EOS_Progressed": 7586,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2023-10-25T21:06:24.6122041+00:00",
       "NumProgressed": 7585,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-10-25T22:08:21.6175073+00:00",
+      "NumProgressed": 7586,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -4343,7 +4348,7 @@
       "Name": "Most Wanted",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "achievement_20",
@@ -4415,7 +4420,7 @@
       "Name": "Bring Your A Game",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "achievement_29",
@@ -4431,7 +4436,7 @@
       "Name": "New Crew",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 4854
+      "UsersEstimate": 4855
     },
     {
       "ID": "achievement_30",
@@ -4487,7 +4492,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 6371
+      "UsersEstimate": 6372
     },
     {
       "ID": "achievement_37",
@@ -4495,7 +4500,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "achievement_38",
@@ -4503,7 +4508,7 @@
       "Name": "Fashion Killa",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 6751
+      "UsersEstimate": 6752
     },
     {
       "ID": "achievement_39",
@@ -4511,7 +4516,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 6826
+      "UsersEstimate": 6827
     },
     {
       "ID": "achievement_4",
@@ -4519,7 +4524,7 @@
       "Name": "Oh, It\u0027s On",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "achievement_40",
@@ -4527,7 +4532,7 @@
       "Name": "Kick it",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_41",
@@ -4535,7 +4540,7 @@
       "Name": "Drop the Beat",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 6523
+      "UsersEstimate": 6524
     },
     {
       "ID": "achievement_5",
@@ -4551,7 +4556,7 @@
       "Name": "Found Family",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_7",
@@ -4559,7 +4564,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 6447
+      "UsersEstimate": 6448
     },
     {
       "ID": "achievement_8",
@@ -4582,13 +4587,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 7585,
+      "Progressed": 7586,
       "Completed": 43
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:06:24.6122032+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:08:21.6175067+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:01.0271507+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:00:19.5700485+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:06:24.6122509+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:01:41.594752+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:08:21.6175679+00:00"
 }

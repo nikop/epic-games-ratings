@@ -7,13 +7,14 @@
 | Setting Sail | 83.00% | ~10 |
 | Spirit Within | 25.00% | ~3 |
 | A Small Thirsty Thing | 17.00% | ~2 |
+| Dousing a Venerable Flame | 17.00% | ~2 |
 | Leisis Bless You | 17.00% | ~2 |
 | Smotherly Love | 8.00% | ~1 |
 | Let Me Solo Them | 8.00% | ~1 |
-| Dousing a Venerable Flame | 8.00% | ~1 |
 | The River Styx | 8.00% | ~1 |
 | The Guardian of Fire | 8.00% | ~1 |
 | Sovereignty of Irons | 8.00% | ~1 |
+| Advanced Armaments | 8.00% | ~1 |
 | Transformative Nature | 8.00% | ~1 |
 | Champion of Starspire | 8.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
@@ -56,7 +57,6 @@
 | Melgom Mastered | 0.00% | ~0 |
 | Nurture Over Nature | 0.00% | ~0 |
 | Nature Over Nurture | 0.00% | ~0 |
-| Advanced Armaments | 0.00% | ~0 |
 | Artisan Armaments | 0.00% | ~0 |
 | Reaching Vines | 0.00% | ~0 |
 | Holding Out | 0.00% | ~0 |

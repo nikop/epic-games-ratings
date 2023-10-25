@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18682,
+  "EOS_Progressed": 18684,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12280,6 +12280,11 @@
       "Time": "2023-10-25T19:07:25.5973661+00:00",
       "NumProgressed": 18682,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-25T22:08:16.6031302+00:00",
+      "NumProgressed": 18684,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12411,7 +12416,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "0017",
@@ -12427,7 +12432,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "0019",
@@ -12467,7 +12472,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "0024",
@@ -12578,7 +12583,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18682,
+      "Progressed": 18684,
       "Completed": 4
     }
   ],
@@ -12586,8 +12591,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:06:17.5139685+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:08:16.6031296+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:59:15.4727821+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:06:17.5140467+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:00:17.4211671+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:08:16.6032475+00:00"
 }

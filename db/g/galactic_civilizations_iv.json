@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7081,
+  "EOS_Progressed": 7082,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -7685,6 +7685,11 @@
       "Time": "2023-10-25T20:05:38.5249443+00:00",
       "NumProgressed": 7081,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T22:07:06.6594074+00:00",
+      "NumProgressed": 7082,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7728,7 +7733,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7736,7 +7741,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "Control_All_Relics",
@@ -7800,7 +7805,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5523
+      "UsersEstimate": 5524
     },
     {
       "ID": "First_Race_Met",
@@ -7808,7 +7813,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     },
     {
       "ID": "First_Ship_Designed",
@@ -7832,7 +7837,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5452
+      "UsersEstimate": 5453
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8000,7 +8005,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8016,7 +8021,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4319
+      "UsersEstimate": 4320
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8192,7 +8197,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Win_Conquest",
@@ -8271,15 +8276,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7081,
+      "Progressed": 7082,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:05:26.9113663+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:07:06.659407+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:01:37.9277142+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:05:26.9114558+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:03:31.220487+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:07:06.6595366+00:00"
 }

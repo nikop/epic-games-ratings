@@ -2,7 +2,7 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 119,
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 806,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2173,9 +2173,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_104",
@@ -2901,9 +2901,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 395
     },
     {
       "ID": "achievement_72",
@@ -3161,8 +3161,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-25T21:04:34.106881+00:00",
+  "LastChanged_Achievements": "2023-10-25T22:05:43.2742361+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:58:01.6594865+00:00",
-  "LastUpdate_Achievements": "2023-10-25T21:04:34.1070644+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:58:38.3825609+00:00",
+  "LastUpdate_Achievements": "2023-10-25T22:05:43.2745293+00:00"
 }
