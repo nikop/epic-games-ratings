@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -335,7 +335,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112249,
+  "EOS_Progressed": 112250,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
@@ -15570,6 +15570,11 @@
       "Time": "2023-10-25T03:05:41.6539387+00:00",
       "NumProgressed": 112249,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-25T04:06:25.1329975+00:00",
+      "NumProgressed": 112250,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15597,7 +15602,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12347
+      "UsersEstimate": 12348
     },
     {
       "ID": "EAwards_11",
@@ -15613,7 +15618,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16837
+      "UsersEstimate": 16838
     },
     {
       "ID": "EAwards_13",
@@ -15645,7 +15650,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "EAwards_17",
@@ -15693,7 +15698,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "EAwards_22",
@@ -15717,7 +15722,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "EAwards_25",
@@ -15725,7 +15730,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21327
+      "UsersEstimate": 21328
     },
     {
       "ID": "EAwards_26",
@@ -15733,7 +15738,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12347
+      "UsersEstimate": 12348
     },
     {
       "ID": "EAwards_27",
@@ -15749,7 +15754,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "EAwards_29",
@@ -15757,7 +15762,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "EAwards_3",
@@ -15765,7 +15770,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21327
+      "UsersEstimate": 21328
     },
     {
       "ID": "EAwards_30",
@@ -15789,7 +15794,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "EAwards_33",
@@ -15972,7 +15977,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112249,
+      "Progressed": 112250,
       "Completed": 47
     }
   ],
@@ -15980,8 +15985,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-24T11:59:01.6372825+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:05:41.6539381+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:06:25.1329968+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:59:09.1150317+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:05:41.6540815+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:59:48.0194609+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:06:25.1331512+00:00"
 }

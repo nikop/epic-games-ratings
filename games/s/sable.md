@@ -14,8 +14,8 @@ Number of Ratings: 43  (23.09.2022)
 | The Gift of Gab | 24.00% | ~22,981 |
 | Wrapping Up | 22.00% | ~21,066 |
 | More Than A Box Of Sand | 18.00% | ~17,236 |
-| The Dunboyne | 17.00% | ~16,278 |
-| Badge Hobbyist | 17.00% | ~16,278 |
+| The Dunboyne | 17.00% | ~16,279 |
+| Badge Hobbyist | 17.00% | ~16,279 |
 | Chum Novice | 16.00% | ~15,321 |
 | Silver-Tongued Sable | 16.00% | ~15,321 |
 | Sticky Paws | 16.00% | ~15,321 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,873 |
 | Vivacious Vivarium | 2.00% | ~1,915 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,755 (Ranked 84)  
+Progressed: 95,756 (Ranked 84)  
 Completed: 966 (1.01%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 966 (1.01%) (Ranked 148)
 | 2023-10-22 | 95,449 | 963 |
 | 2023-10-23 | 95,594 | 965 |
 | 2023-10-24 | 95,739 | 966 |
-| 2023-10-25 | 95,755 | 966 |
+| 2023-10-25 | 95,756 | 966 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 508)  
 Sum: 91 (Ranked 441)  

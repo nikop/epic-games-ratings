@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1536,9 +1536,9 @@
       "ID": "ACH_METEORITE_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelting Master",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -1609,8 +1609,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:06:56.1022909+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:07:39.8180386+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.5303141+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:03:11.0938037+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:06:56.1023202+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:03:29.413741+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:07:39.8180858+00:00"
 }

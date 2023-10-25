@@ -3,9 +3,9 @@
   "Name": "Prince of Persia: Warrior Within Standard Edition",
   "ProductSlug": "prince-of-persia-warrior-within",
   "Ranking_EOS_Progress": 700,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-22T15:00:00+00:00",
     "PcReleaseDate": "2004-11-30T10:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T16:58:25.4707754+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.3507432+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:00:47.8102418+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:03:47.0272938+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:01:27.720134+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:04:29.0256079+00:00"
 }

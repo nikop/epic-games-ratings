@@ -491,9 +491,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 95755,
+  "EOS_Progressed": 95756,
   "EOS_Completed": 966,
-  "EOS_NewPlayers": 1176,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -21796,6 +21796,11 @@
       "Time": "2023-10-25T03:08:12.8982693+00:00",
       "NumProgressed": 95755,
       "NumCompleted": 966
+    },
+    {
+      "Time": "2023-10-25T04:08:56.5665194+00:00",
+      "NumProgressed": 95756,
+      "NumCompleted": 966
     }
   ],
   "TotalAchievements": 56,
@@ -21935,7 +21940,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -22103,7 +22108,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16278
+      "UsersEstimate": 16279
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -22254,15 +22259,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 95755,
+      "Progressed": 95756,
       "Completed": 966
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-23T16:01:37.974777+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:08:12.8982687+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:08:56.5665186+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:10.2102442+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:57:05.2704638+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:08:12.8984338+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:57:43.6888487+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:08:56.5668846+00:00"
 }

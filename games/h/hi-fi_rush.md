@@ -36,11 +36,11 @@ Rating: 4.86 (Ranked 28)
 | Beat-hit mania | 4.00% | ~167 |
 | There's such a thing as TOO helpful | 4.00% | ~167 |
 | Chip-tuned | 3.00% | ~125 |
+| Wanna hear my playlist? | 3.00% | ~125 |
 | I think I deserve some praise, here! | 2.00% | ~83 |
 | I think I found your calling, Macaron | 2.00% | ~83 |
 | We're Jammin' | 2.00% | ~83 |
 | I hit things with a guitar really well. | 2.00% | ~83 |
-| Wanna hear my playlist? | 2.00% | ~83 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~83 |
 | Check out my moves! | 2.00% | ~83 |
 | Call me Turbo Chai | 2.00% | ~54 |

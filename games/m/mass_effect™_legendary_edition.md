@@ -53,12 +53,12 @@
 | Ghost of the Father | 33.00% | ~264 |
 | The Cure | 33.00% | ~264 |
 | The Prodigal | 33.00% | ~264 |
+| Shopaholic | 33.00% | ~264 |
 | Battlemaster | 32.00% | ~256 |
 | Catharsis | 32.00% | ~256 |
 | Big Game Hunter | 32.00% | ~256 |
 | Revenge! | 32.00% | ~256 |
 | Heart of Darkness | 32.00% | ~256 |
-| Shopaholic | 32.00% | ~256 |
 | Fade Away | 31.00% | ~248 |
 | Agent | 31.00% | ~248 |
 | Driven | 31.00% | ~248 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 800 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 324)  
+Completed: 0 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

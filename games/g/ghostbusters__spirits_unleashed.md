@@ -6,9 +6,9 @@ Rating: 4.50 (Ranked 576)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 4.00% | ~1,102 |
-| Advancement | 3.00% | ~826 |
-| Discovery | 3.00% | ~826 |
-| Meticulously Efficient | 3.00% | ~826 |
+| Advancement | 3.00% | ~827 |
+| Discovery | 3.00% | ~827 |
+| Meticulously Efficient | 3.00% | ~827 |
 | Animated | 2.00% | ~551 |
 | Back Off | 2.00% | ~551 |
 | Clutch Capture | 2.00% | ~551 |
@@ -25,22 +25,22 @@ Rating: 4.50 (Ranked 576)
 | There you are! | 2.00% | ~551 |
 | Vaporous Expansion | 2.00% | ~551 |
 | Whoopsie | 2.00% | ~551 |
-| We have the best insurance | 1.00% | ~275 |
-| Daily Dose | 1.00% | ~275 |
-| Legions | 1.00% | ~275 |
-| Pesky Jerks | 1.00% | ~275 |
-| Rift Destroyer | 1.00% | ~275 |
-| Seasoned | 1.00% | ~275 |
-| Side Hustle | 1.00% | ~275 |
-| Skilled | 1.00% | ~275 |
-| Stunner | 1.00% | ~275 |
-| Summoner | 1.00% | ~275 |
-| Terrifying | 1.00% | ~275 |
-| Welcome to the Crew | 1.00% | ~275 |
+| We have the best insurance | 1.00% | ~276 |
+| Daily Dose | 1.00% | ~276 |
+| Legions | 1.00% | ~276 |
+| Pesky Jerks | 1.00% | ~276 |
+| Rift Destroyer | 1.00% | ~276 |
+| Seasoned | 1.00% | ~276 |
+| Side Hustle | 1.00% | ~276 |
+| Skilled | 1.00% | ~276 |
+| Stunner | 1.00% | ~276 |
+| Summoner | 1.00% | ~276 |
+| Terrifying | 1.00% | ~276 |
+| Welcome to the Crew | 1.00% | ~276 |
+| Tobin's Prodigy | 0.90% | ~248 |
 | Collector | 0.80% | ~220 |
 | Diabolical | 0.80% | ~220 |
 | Escape Artist | 0.80% | ~220 |
-| Tobin's Prodigy | 0.80% | ~220 |
 | Reckless | 0.70% | ~193 |
 | Rivalry | 0.70% | ~193 |
 | Fragile Panes | 0.50% | ~138 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,544 (Ranked 120)  
+Progressed: 27,555 (Ranked 120)  
 Completed: 64 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 64 (0.23%) (Ranked 223)
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
-| 2023-10-25 | 27,544 | 64 |
+| 2023-10-25 | 27,555 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
-Sum: 2,532 (Ranked 183)  
+Sum: 2,534 (Ranked 183)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -259,7 +259,7 @@ Diff (max vs sum): 69
 | This game is Relaxing | 251 |
 | This game has Competitive Players | 251 |
 | This game is Extremely Fun | 248 |
-| This game is Highly Recommended | 245 |
+| This game is Highly Recommended | 247 |
 | This game has Quickly Understood Controls | 239 |
 | This game has Amazing Characters | 233 |
 | This game has Playful Visuals | 94 |
@@ -458,4 +458,4 @@ Diff (max vs sum): 69
 | 2023-10-22 | 4.50 | 275 | 2,482 |
 | 2023-10-23 | 4.50 | 275 | 2,507 |
 | 2023-10-24 | 4.50 | 281 | 2,525 |
-| 2023-10-25 | 4.50 | 281 | 2,532 |
+| 2023-10-25 | 4.50 | 281 | 2,534 |

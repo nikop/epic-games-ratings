@@ -6673,9 +6673,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138084,
+  "EOS_Progressed": 138086,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25863,6 +25863,11 @@
       "Time": "2023-10-25T03:03:57.021757+00:00",
       "NumProgressed": 138084,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-25T04:04:39.1305577+00:00",
+      "NumProgressed": 138086,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26544,9 +26549,9 @@
       "ID": "master03",
       "SetID": "anfd17p",
       "Name": "Seasoned Journeyman",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "master04",
@@ -26769,15 +26774,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138084,
+      "Progressed": 138086,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T20:01:04.190106+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:03:57.0217564+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:04:39.1305569+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:57:22.1909395+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:03:57.0219854+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:58:01.165486+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:04:39.131053+00:00"
 }

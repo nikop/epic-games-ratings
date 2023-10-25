@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7521,9 +7521,9 @@
       "ID": "Ach052",
       "SetID": "12n4k20",
       "Name": "Wanna hear my playlist?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 125
     },
     {
       "ID": "Ach053",
@@ -7696,8 +7696,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:03:55.2916698+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:04:37.3554892+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:02:03.3859257+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:03:55.2917749+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:03:04.4848881+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:04:37.3556989+00:00"
 }

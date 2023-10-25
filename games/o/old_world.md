@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~299 |
 | Kushite Paganism | 2.00% | ~299 |
 | Regicide | 1.00% | ~149 |
+| Beloved | 1.00% | ~149 |
 | Drillmaster | 1.00% | ~149 |
 | Brilliant | 1.00% | ~149 |
 | Conqueror | 1.00% | ~149 |
@@ -74,7 +75,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~149 |
 | Kushite Pyramids | 1.00% | ~149 |
 | Hanging Gardens in Babylon | 0.90% | ~134 |
-| Beloved | 0.90% | ~134 |
 | Intercessor | 0.90% | ~134 |
 | Lion | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |

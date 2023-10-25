@@ -12,17 +12,17 @@
 | Do what you have to | 20.00% | ~3 |
 | Refuse to look | 13.00% | ~2 |
 | Scraps of love | 13.00% | ~2 |
+| Debut | 13.00% | ~2 |
 | The artist’s impression | 13.00% | ~2 |
 | First steps | 13.00% | ~2 |
 | Sound Bite | 13.00% | ~2 |
+| Lights! Camera! Action! | 13.00% | ~2 |
 | Playtime | 13.00% | ~2 |
 | The tragedy unfolds | 13.00% | ~2 |
 | Tough conversation | 13.00% | ~2 |
 | Another perspective | 7.00% | ~1 |
 | Breaking free | 7.00% | ~1 |
 | A Slice of Life | 7.00% | ~1 |
-| Debut | 7.00% | ~1 |
-| Lights! Camera! Action! | 7.00% | ~1 |
 | The Perfect Storm | 7.00% | ~1 |
 | Sign of weakness | 7.00% | ~1 |
 | The art of movement | 7.00% | ~1 |
@@ -58,7 +58,7 @@
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 324)  
+Completed: 0 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

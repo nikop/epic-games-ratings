@@ -6,19 +6,19 @@
 | ---- | ---------- | ----- |
 | What is this? | 71.00% | ~72 |
 | Complete Level 1-1 | 63.00% | ~64 |
-| Immortal | 54.00% | ~55 |
-| Complete Level 1-2 | 46.00% | ~46 |
-| Engineer-mage hybrid | 33.00% | ~33 |
-| Scraping by | 31.00% | ~31 |
-| Complete Level 1-3 | 28.00% | ~28 |
-| Defeat the warrior boss | 22.00% | ~22 |
-| Get out of my way | 20.00% | ~20 |
-| Redecorator | 19.00% | ~19 |
-| Just a sip | 18.00% | ~18 |
-| Complete Level 2-1 | 16.00% | ~16 |
-| Complete Level 2-2 | 16.00% | ~16 |
+| Immortal | 55.00% | ~56 |
+| Complete Level 1-2 | 47.00% | ~47 |
+| Engineer-mage hybrid | 34.00% | ~34 |
+| Scraping by | 32.00% | ~32 |
+| Complete Level 1-3 | 29.00% | ~29 |
+| Defeat the warrior boss | 23.00% | ~23 |
+| Get out of my way | 21.00% | ~21 |
+| Redecorator | 20.00% | ~20 |
+| Just a sip | 19.00% | ~19 |
+| Complete Level 2-1 | 17.00% | ~17 |
+| Complete Level 2-2 | 17.00% | ~17 |
 | Versatile | 16.00% | ~16 |
-| Complete Level 2-3 | 13.00% | ~13 |
+| Complete Level 2-3 | 14.00% | ~14 |
 | Well-off | 12.00% | ~12 |
 | Defeat the engineer boss | 12.00% | ~12 |
 | Too many crates | 11.00% | ~11 |
@@ -31,7 +31,7 @@
 | Should have left me alone | 8.00% | ~8 |
 | Drink up | 8.00% | ~8 |
 | Complete Level 3-3 | 7.00% | ~7 |
-| Mage specialist | 6.00% | ~6 |
+| Mage specialist | 7.00% | ~7 |
 | Way of the mage | 6.00% | ~6 |
 | Defeat the mage boss | 5.00% | ~5 |
 | Remote retrieved | 5.00% | ~5 |

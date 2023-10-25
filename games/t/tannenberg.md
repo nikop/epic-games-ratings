@@ -6,16 +6,16 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,327 |
-| Comeback | 82.00% | ~110,863 |
-| Information is Key | 80.00% | ~108,159 |
-| Unlucky | 71.00% | ~95,991 |
-| Anarchist | 68.00% | ~91,935 |
-| Wallhack | 65.00% | ~87,879 |
-| Steady Supply | 60.00% | ~81,119 |
-| Lucky Shot | 53.00% | ~71,655 |
-| Forward Observer | 52.00% | ~70,303 |
-| Ring Ring! | 52.00% | ~70,303 |
+| Immovable Object | 89.00% | ~120,328 |
+| Comeback | 82.00% | ~110,864 |
+| Information is Key | 80.00% | ~108,160 |
+| Unlucky | 71.00% | ~95,992 |
+| Anarchist | 68.00% | ~91,936 |
+| Wallhack | 65.00% | ~87,880 |
+| Steady Supply | 60.00% | ~81,120 |
+| Lucky Shot | 53.00% | ~71,656 |
+| Forward Observer | 52.00% | ~70,304 |
+| Ring Ring! | 52.00% | ~70,304 |
 | Bossing Around | 45.00% | ~60,840 |
 | Frostbite | 45.00% | ~60,840 |
 | Night Owl | 44.00% | ~59,488 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,217 |
 | Road to Berlin | 0.60% | ~811 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,199 (Ranked 76)  
+Progressed: 135,200 (Ranked 76)  
 Completed: 30 (0.02%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 30 (0.02%) (Ranked 297)
 | 2023-10-22 | 135,002 | 30 |
 | 2023-10-23 | 135,097 | 30 |
 | 2023-10-24 | 135,189 | 30 |
-| 2023-10-25 | 135,199 | 30 |
+| 2023-10-25 | 135,200 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 237)  
 Sum: 3,258 (Ranked 166)  

@@ -3,8 +3,8 @@
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15851,
+  "EOS_Progressed": 15858,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1574,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4063,6 +4063,11 @@
       "Time": "2023-10-25T03:07:54.0773723+00:00",
       "NumProgressed": 15851,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-25T04:08:37.6244323+00:00",
+      "NumProgressed": 15858,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4075,7 +4080,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6660
     },
     {
       "ID": "achievement_10",
@@ -4083,7 +4088,7 @@
       "Name": "Snackosaurus",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "achievement_11",
@@ -4091,7 +4096,7 @@
       "Name": "Realize Your Art",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "achievement_12",
@@ -4099,7 +4104,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9039
     },
     {
       "ID": "achievement_13",
@@ -4115,7 +4120,7 @@
       "Name": "Force Triangulated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "achievement_15",
@@ -4147,7 +4152,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "achievement_19",
@@ -4155,7 +4160,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3329
+      "UsersEstimate": 3330
     },
     {
       "ID": "achievement_2",
@@ -4171,7 +4176,7 @@
       "Name": "Meditation Maestro",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "achievement_3",
@@ -4179,7 +4184,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 13790
+      "UsersEstimate": 13796
     },
     {
       "ID": "achievement_4",
@@ -4187,7 +4192,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 13949
+      "UsersEstimate": 13955
     },
     {
       "ID": "achievement_5",
@@ -4195,7 +4200,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "achievement_6",
@@ -4211,7 +4216,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12522
+      "UsersEstimate": 12528
     },
     {
       "ID": "achievement_8",
@@ -4219,7 +4224,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 6816
+      "UsersEstimate": 6819
     },
     {
       "ID": "achievement_9",
@@ -4227,20 +4232,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 8243
+      "UsersEstimate": 8246
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15851,
+      "Progressed": 15858,
       "Completed": 72
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:07:54.0773716+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:08:37.6244312+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:58:55.2664754+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:07:54.0774202+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:59:33.1951339+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:08:37.6244993+00:00"
 }

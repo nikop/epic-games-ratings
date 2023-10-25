@@ -16,6 +16,7 @@ Number of Ratings: 45  (23.09.2022)
 | Me and My Familiar | 0.20% | ~3 |
 | Passing Shadow | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
+| Echoes Die | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
@@ -24,7 +25,6 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | War Endured | 0.10% | ~1 |
-| Echoes Die | 0.10% | ~1 |
 | A Story of Heroes | 0.10% | ~1 |
 | Core Failure | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |

@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 827,
-  "Ranking_Popularity": 369,
+  "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -465,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 250117,
+  "EOS_Progressed": 250118,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21440,6 +21440,11 @@
       "Time": "2023-10-25T03:05:00.1201772+00:00",
       "NumProgressed": 250117,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-25T04:05:43.3426766+00:00",
+      "NumProgressed": 250118,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21667,7 +21672,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62529
+      "UsersEstimate": 62530
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -21771,7 +21776,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62529
+      "UsersEstimate": 62530
     },
     {
       "ID": "ACH_SOREAD",
@@ -21866,7 +21871,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250117,
+      "Progressed": 250118,
       "Completed": 7
     }
   ],
@@ -21874,8 +21879,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:05:00.1201764+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:05:43.3426758+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:57:32.5705818+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:05:00.1205073+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:58:11.2255853+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:05:43.3429839+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1114,9 +1114,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1161,8 +1161,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:09:40.1090694+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:10:23.2942048+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:58:04.8775444+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:09:40.109108+00:00"
+  "LastUpdate_Ratings": "2023-10-25T03:58:42.7643799+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:10:23.2942359+00:00"
 }

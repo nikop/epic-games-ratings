@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76647,
+  "EOS_Progressed": 76648,
   "EOS_Completed": 805,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 6,
@@ -21052,6 +21052,11 @@
       "Time": "2023-10-25T03:03:52.9878666+00:00",
       "NumProgressed": 76647,
       "NumCompleted": 805
+    },
+    {
+      "Time": "2023-10-25T04:04:35.1381514+00:00",
+      "NumProgressed": 76648,
+      "NumCompleted": 805
     }
   ],
   "TotalAchievements": 25,
@@ -21079,7 +21084,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13796
+      "UsersEstimate": 13797
     },
     {
       "ID": "Audiophile",
@@ -21095,7 +21100,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16862
+      "UsersEstimate": 16863
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -21103,7 +21108,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13796
+      "UsersEstimate": 13797
     },
     {
       "ID": "Butcher",
@@ -21135,7 +21140,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15329
+      "UsersEstimate": 15330
     },
     {
       "ID": "Hearty",
@@ -21262,7 +21267,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76647,
+      "Progressed": 76648,
       "Completed": 805
     }
   ],
@@ -21270,8 +21275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:03:52.987866+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:04:35.1381506+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-25T02:59:42.469651+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:03:52.988081+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:00:25.0969054+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:04:35.1383778+00:00"
 }

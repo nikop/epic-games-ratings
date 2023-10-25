@@ -6,9 +6,9 @@
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 113,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154487,
+  "EOS_Progressed": 154494,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1587,
+  "EOS_NewPlayers": 1590,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12939,6 +12939,11 @@
       "Time": "2023-10-25T03:04:16.1301017+00:00",
       "NumProgressed": 154487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T04:04:58.4521814+00:00",
+      "NumProgressed": 154494,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13054,7 +13059,7 @@
       "Name": "Scion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -13317,21 +13322,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154070,
+      "Progressed": 154077,
       "Completed": 1172
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154487,
+      "Progressed": 154494,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-25T03:04:16.130101+00:00",
+  "LastChanged_Achievements": "2023-10-25T04:04:58.4521803+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:00:40.6940348+00:00",
-  "LastUpdate_Achievements": "2023-10-25T03:04:16.1301864+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:01:20.3901525+00:00",
+  "LastUpdate_Achievements": "2023-10-25T04:04:58.4523726+00:00"
 }
