@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.81% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.80% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -116,7 +116,7 @@
 | 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.23% |
 | 115 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.13% |
 | 116 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 117 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
+| 117 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
 | 118 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.85% |
 | 118 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 120 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -160,8 +160,8 @@
 | 158 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 159 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 159 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
-| 161 | [Eternights](games/e/eternights.md) | 0.73% |
-| 162 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.72% |
+| 161 | [Eternights](games/e/eternights.md) | 0.72% |
+| 161 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.72% |
 | 163 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 164 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 165 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.65% |
