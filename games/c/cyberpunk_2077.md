@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.70% | ~6,256 |
-| Rough Landing | 0.50% | ~4,469 |
+| Rough Landing | 0.60% | ~5,363 |
 | The High Priestess | 0.50% | ~4,469 |
 | All the President's Men | 0.50% | ~112 |
 | Arachnophobia | 0.50% | ~112 |
@@ -27,6 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.30% | ~2,681 |
 | I Am The Law | 0.30% | ~2,681 |
 | Mean Streets | 0.30% | ~2,681 |
+| Christmas Tree Attack | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
 | Life of the Road | 0.30% | ~2,681 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.30% | ~67 |
 | To Protect and Serve | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
-| Christmas Tree Attack | 0.20% | ~1,788 |
 | The Fool | 0.20% | ~1,788 |
 | Judgement Day | 0.20% | ~45 |
 | King of Wands | 0.20% | ~45 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,782 (Ranked 15)  
+Progressed: 893,785 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,782 | 2,713 |
+| 2023-10-25 | 893,785 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
 Sum: 325,656 (Ranked 10)  

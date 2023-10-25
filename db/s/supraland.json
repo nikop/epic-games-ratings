@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 19,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -3061,9 +3061,9 @@
       "Count": 195
     }
   ],
-  "EOS_Progressed": 730481,
+  "EOS_Progressed": 730482,
   "EOS_Completed": 753,
-  "EOS_NewPlayers": 806,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -24151,6 +24151,11 @@
       "Time": "2023-10-25T18:06:03.4394463+00:00",
       "NumProgressed": 730481,
       "NumCompleted": 753
+    },
+    {
+      "Time": "2023-10-25T19:06:43.277791+00:00",
+      "NumProgressed": 730482,
+      "NumCompleted": 753
     }
   ],
   "TotalAchievements": 98,
@@ -24194,7 +24199,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 219144
+      "UsersEstimate": 219145
     },
     {
       "ID": "BallShooter",
@@ -24370,7 +24375,7 @@
       "Name": "Double Health",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 138791
+      "UsersEstimate": 138792
     },
     {
       "ID": "Doublejump",
@@ -24530,7 +24535,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 343326
+      "UsersEstimate": 343327
     },
     {
       "ID": "HelpedAStar",
@@ -24618,7 +24623,7 @@
       "Name": "The real real teleported man",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58438
+      "UsersEstimate": 58439
     },
     {
       "ID": "Mime",
@@ -24674,7 +24679,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 723176
+      "UsersEstimate": 723177
     },
     {
       "ID": "PanicLights",
@@ -24794,7 +24799,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 482117
+      "UsersEstimate": 482118
     },
     {
       "ID": "Strong",
@@ -24808,9 +24813,9 @@
       "ID": "SuperSword",
       "SetID": "3m49pn8",
       "Name": "Super Sword",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21914
+      "UsersEstimate": 29219
     },
     {
       "ID": "SupraNoob",
@@ -24834,7 +24839,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 620909
+      "UsersEstimate": 620910
     },
     {
       "ID": "ThroughPipe",
@@ -24945,15 +24950,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 730481,
+      "Progressed": 730482,
       "Completed": 753
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-10-25T12:00:12.0145819+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:06:03.4394457+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:06:43.2777904+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.8985424+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:00:49.0195767+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:06:03.4397028+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:01:43.7264278+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:06:43.2780823+00:00"
 }

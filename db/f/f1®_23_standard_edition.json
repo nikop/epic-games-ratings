@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -397,9 +397,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3387,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3407,6 +3407,11 @@
       "Time": "2023-10-25T17:08:25.3510583+00:00",
       "NumProgressed": 3387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T19:07:47.2187039+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3425,9 +3430,9 @@
       "ID": "achievement_0002",
       "SetID": "9123ogc",
       "Name": "Gathering Dust",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_0003",
@@ -3451,15 +3456,15 @@
       "Name": "Crucial Combo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_0006",
       "SetID": "9123ogc",
       "Name": "Setting up for Success",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2677
     },
     {
       "ID": "achievement_0007",
@@ -3467,7 +3472,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "achievement_0008",
@@ -3475,7 +3480,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3048
+      "UsersEstimate": 3049
     },
     {
       "ID": "achievement_0009",
@@ -3491,7 +3496,7 @@
       "Name": "Network Success",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "achievement_0011",
@@ -3579,7 +3584,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "achievement_0022",
@@ -3595,7 +3600,7 @@
       "Name": "Sharing the Love",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "achievement_0024",
@@ -3627,7 +3632,7 @@
       "Name": "Switcheroo",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_0028",
@@ -3665,9 +3670,9 @@
       "ID": "achievement_0032",
       "SetID": "9123ogc",
       "Name": "Tinkerer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_0033",
@@ -3683,7 +3688,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "achievement_0035",
@@ -3755,7 +3760,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "achievement_0044",
@@ -3763,7 +3768,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "achievement_0045",
@@ -3779,7 +3784,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_0047",
@@ -3810,7 +3815,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3387,
+      "Progressed": 3388,
       "Completed": 0
     }
   ],
@@ -3818,8 +3823,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-25T15:59:44.2858616+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:06:49.7193115+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:07:47.2187034+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:59:58.5569231+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:06:49.719372+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:00:43.4765055+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:07:47.2187604+00:00"
 }

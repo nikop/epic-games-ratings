@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~187 |
-| Brute force | 82.00% | ~174 |
-| Nimble fingers | 79.00% | ~167 |
-| Room 104 | 79.00% | ~167 |
-| Face to face | 78.00% | ~165 |
-| Now or never | 75.00% | ~159 |
-| Let's play a game… | 74.00% | ~157 |
-| Soundtrack | 62.00% | ~131 |
-| First aid | 61.00% | ~129 |
-| Antidote | 55.00% | ~117 |
-| Pick the right door | 26.00% | ~55 |
-| The third floor | 19.00% | ~40 |
+| What's going on here? | 88.00% | ~188 |
+| Brute force | 82.00% | ~175 |
+| Nimble fingers | 79.00% | ~169 |
+| Room 104 | 79.00% | ~169 |
+| Face to face | 78.00% | ~167 |
+| Let's play a game… | 74.00% | ~158 |
+| Now or never | 74.00% | ~158 |
+| Soundtrack | 62.00% | ~133 |
+| First aid | 61.00% | ~131 |
+| Antidote | 55.00% | ~118 |
+| Pick the right door | 26.00% | ~56 |
+| The third floor | 19.00% | ~41 |
 | One-way | 17.00% | ~36 |
 | On the right path | 16.00% | ~34 |
-| It can't be true | 16.00% | ~34 |
-| I'm close now | 12.00% | ~25 |
-| Failed attempt | 12.00% | ~25 |
-| The real escape | 12.00% | ~25 |
-| Good choice | 12.00% | ~25 |
-| Take the long way round | 12.00% | ~25 |
-| He who seeks, finds! | 12.00% | ~25 |
+| It can't be true | 15.00% | ~32 |
+| I'm close now | 12.00% | ~26 |
+| Failed attempt | 12.00% | ~26 |
+| The real escape | 12.00% | ~26 |
+| Good choice | 12.00% | ~26 |
+| Take the long way round | 12.00% | ~26 |
+| He who seeks, finds! | 12.00% | ~26 |
 | Nightmare in the kitchen | 10.00% | ~21 |
-| Born again | 8.00% | ~17 |
 | 373 | 7.00% | ~15 |
 | The experiment | 7.00% | ~15 |
+| Born again | 7.00% | ~15 |
 | Matthew's revenge | 5.00% | ~11 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.50% | ~1 |
 | Sly as a fox | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 348)  
+Progressed: 214 (Ranked 347)  
 Completed: 1 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,4 +113,4 @@ Completed: 1 (0.47%) (Ranked 188)
 | 2023-10-22 | 204 | 0 |
 | 2023-10-23 | 207 | 0 |
 | 2023-10-24 | 210 | 1 |
-| 2023-10-25 | 212 | 1 |
+| 2023-10-25 | 214 | 1 |

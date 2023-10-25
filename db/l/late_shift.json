@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1069,9 +1069,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 519
+      "UsersEstimate": 524
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:04:02.2646139+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:04:31.5236455+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:58:03.4482445+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:04:02.2646418+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:58:18.3163018+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:04:31.5236697+00:00"
 }

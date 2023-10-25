@@ -20,7 +20,7 @@
 | Locked and Loaded | 11.00% | ~11 |
 | Changing the World | 11.00% | ~11 |
 | Witch | 10.00% | ~10 |
-| The A-Team | 9.00% | ~9 |
+| The A-Team | 10.00% | ~10 |
 | Defeat Tezuth | 8.00% | ~8 |
 | Defeat Uskol | 8.00% | ~8 |
 | Finally! | 8.00% | ~8 |

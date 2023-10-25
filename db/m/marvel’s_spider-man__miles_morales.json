@@ -4,11 +4,11 @@
   "ProductSlug": "marvels-spider-man-miles-morales",
   "Ranking_Rating": 101,
   "Ranking_Popularity": 122,
-  "Ranking_PopularitySum": 197,
+  "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 702,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
     "PcReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -2585,10 +2585,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 2229,
       "NumberOfAwardsMax": 1632
+    },
+    {
+      "Time": "2023-10-25T18:57:47.8111572+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2232,
+      "NumberOfAwardsMax": 1632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2229,
+  "NumberOfAwards": 2232,
   "NumberOfAwardsMax": 1632,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2620,7 +2626,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 74
+      "Count": 77
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2683,8 +2689,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-10-25T05:57:33.706236+00:00",
+  "LastChanged": "2023-10-25T18:57:47.8111569+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:51.0764307+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:57:39.0948961+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:04:03.0128738+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:57:47.8111577+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:04:32.3084701+00:00"
 }

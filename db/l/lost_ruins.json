@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -909,6 +909,11 @@
       "Time": "2023-10-25T17:10:43.2285332+00:00",
       "NumProgressed": 462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T19:10:15.2017841+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -936,7 +941,7 @@
       "Name": "Artifact Collector",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Assassin",
@@ -1000,7 +1005,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Hardboiled",
@@ -1160,7 +1165,7 @@
       "Name": "Spell Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "SwordMaster",
@@ -1200,7 +1205,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "TreasureHunter",
@@ -1239,7 +1244,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 0
     }
   ],
@@ -1247,8 +1252,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:09:48.4727708+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:10:15.2017835+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:58:25.3571573+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:09:48.4728097+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:58:45.2083581+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:10:15.2018369+00:00"
 }

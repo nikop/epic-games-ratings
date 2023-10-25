@@ -7,28 +7,28 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,382 |
-| Man of politics | 34.00% | ~5,424 |
+| Man of politics | 34.00% | ~5,425 |
 | Friends of sorts | 33.00% | ~5,265 |
 | Yet another secret | 33.00% | ~5,265 |
-| Let there be darkness | 32.00% | ~5,105 |
-| End of Book One | 30.00% | ~4,786 |
+| Let there be darkness | 32.00% | ~5,106 |
+| End of Book One | 30.00% | ~4,787 |
 | Garden of Eden | 24.00% | ~3,829 |
 | Full house | 24.00% | ~3,829 |
-| Wannabe knight | 23.00% | ~3,669 |
+| Wannabe knight | 23.00% | ~3,670 |
 | Help an old friend | 22.00% | ~3,510 |
 | Two of us | 20.00% | ~3,191 |
 | Negotiation skills | 18.00% | ~2,872 |
 | Workers' union | 18.00% | ~2,872 |
 | End of Book Two | 18.00% | ~2,872 |
-| Everything's in order | 17.00% | ~2,712 |
+| Everything's in order | 17.00% | ~2,713 |
 | Twist of Fate | 14.00% | ~2,234 |
 | Jack was here! | 14.00% | ~2,234 |
 | Exterminator | 13.00% | ~2,074 |
-| Whodunnit | 12.00% | ~1,914 |
+| Whodunnit | 12.00% | ~1,915 |
 | Good midwife | 11.00% | ~1,755 |
 | First profit | 11.00% | ~1,755 |
-| Friar Tuck | 10.00% | ~1,595 |
-| Team player | 10.00% | ~1,595 |
+| Friar Tuck | 10.00% | ~1,596 |
+| Team player | 10.00% | ~1,596 |
 | Skilled merchant | 9.00% | ~1,436 |
 | Nothing but make-believe | 9.00% | ~1,436 |
 | Brother Marcus | 9.00% | ~1,436 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~479 |
 | Boy of mystery | 2.00% | ~319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,954 (Ranked 138)  
+Progressed: 15,956 (Ranked 138)  
 Completed: 113 (0.71%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 113 (0.71%) (Ranked 163)
 | 2023-10-22 | 15,911 | 113 |
 | 2023-10-23 | 15,927 | 113 |
 | 2023-10-24 | 15,943 | 113 |
-| 2023-10-25 | 15,954 | 113 |
+| 2023-10-25 | 15,956 | 113 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 307)  
 Sum: 196 (Ranked 393)  

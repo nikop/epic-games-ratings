@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_135_002",
@@ -354,8 +354,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:04:04.8395381+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:04:34.4312836+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.7993988+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:59:36.4273971+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:04:04.8395929+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:00:09.1279606+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:04:34.4313076+00:00"
 }

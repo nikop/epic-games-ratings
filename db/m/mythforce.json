@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4452,
+  "EOS_Progressed": 4453,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8119,6 +8119,11 @@
       "Time": "2023-10-25T17:10:29.0556426+00:00",
       "NumProgressed": 4452,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-25T19:09:42.0769062+00:00",
+      "NumProgressed": 4453,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8179,7 +8184,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8187,7 +8192,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8265,9 +8270,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 979
+      "UsersEstimate": 1024
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8283,7 +8288,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8314,15 +8319,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4452,
+      "Progressed": 4453,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:09:38.5224707+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:09:42.0769057+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:57:23.5354274+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:09:38.522535+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:57:27.1667759+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:09:42.0769778+00:00"
 }

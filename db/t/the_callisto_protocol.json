@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1349,9 +1349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16258,
+  "EOS_Progressed": 16259,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8174,6 +8174,11 @@
       "Time": "2023-10-25T18:06:47.7882787+00:00",
       "NumProgressed": 16258,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-25T19:07:45.3505198+00:00",
+      "NumProgressed": 16259,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8217,7 +8222,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8345,7 +8350,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8560,13 +8565,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16258,
+      "Progressed": 16259,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4184,
+      "Progressed": 4185,
       "Completed": 29
     }
   ],
@@ -8574,8 +8579,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-25T18:00:07.3120219+00:00",
-  "LastChanged_Achievements": "2023-10-25T18:06:47.7882781+00:00",
+  "LastChanged_Achievements": "2023-10-25T19:07:45.3505191+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-25T18:00:07.3120224+00:00",
-  "LastUpdate_Achievements": "2023-10-25T18:06:47.788353+00:00"
+  "LastUpdate_Ratings": "2023-10-25T19:00:55.7513914+00:00",
+  "LastUpdate_Achievements": "2023-10-25T19:07:45.3506103+00:00"
 }

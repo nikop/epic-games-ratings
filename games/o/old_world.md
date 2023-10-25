@@ -41,40 +41,40 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 2.00% | ~299 |
 | Judaism | 2.00% | ~299 |
 | Babylonian Paganism | 2.00% | ~299 |
+| Carthaginian Paganism | 2.00% | ~299 |
 | Greek Paganism | 2.00% | ~299 |
 | Roman Paganism | 2.00% | ~299 |
 | Naming Landmarks | 2.00% | ~299 |
 | Trade Caravan | 2.00% | ~299 |
 | Kushite Paganism | 2.00% | ~299 |
-| Regicide | 1.00% | ~149 |
-| Beloved | 1.00% | ~149 |
-| Drillmaster | 1.00% | ~149 |
-| Conqueror | 1.00% | ~149 |
-| Great | 1.00% | ~149 |
-| Mighty | 1.00% | ~149 |
-| Valiant | 1.00% | ~149 |
-| Legendary Cities | 1.00% | ~149 |
-| Just Difficulty | 1.00% | ~149 |
-| Artisans | 1.00% | ~149 |
-| Champions | 1.00% | ~149 |
-| Sages | 1.00% | ~149 |
-| Furious Family | 1.00% | ~149 |
-| Acropolis | 1.00% | ~149 |
-| Apadana | 1.00% | ~149 |
-| Colossus | 1.00% | ~149 |
-| Great Ziggurat | 1.00% | ~149 |
-| Mausoleum | 1.00% | ~149 |
-| Musaeum | 1.00% | ~149 |
-| Necropolis | 1.00% | ~149 |
-| Learn to Play 2 | 1.00% | ~149 |
-| Learn to Play 3 | 1.00% | ~149 |
-| Manichaeism | 1.00% | ~149 |
-| Carthaginian Paganism | 1.00% | ~149 |
-| Egyptian Paganism | 1.00% | ~149 |
-| Zoroastrianism | 1.00% | ~149 |
-| Mythology | 1.00% | ~149 |
-| Win a Single Player Game | 1.00% | ~149 |
-| Kushite Pyramids | 1.00% | ~149 |
+| Regicide | 1.00% | ~150 |
+| Beloved | 1.00% | ~150 |
+| Drillmaster | 1.00% | ~150 |
+| Conqueror | 1.00% | ~150 |
+| Great | 1.00% | ~150 |
+| Mighty | 1.00% | ~150 |
+| Valiant | 1.00% | ~150 |
+| Legendary Cities | 1.00% | ~150 |
+| Just Difficulty | 1.00% | ~150 |
+| Artisans | 1.00% | ~150 |
+| Champions | 1.00% | ~150 |
+| Sages | 1.00% | ~150 |
+| Furious Family | 1.00% | ~150 |
+| Acropolis | 1.00% | ~150 |
+| Apadana | 1.00% | ~150 |
+| Colossus | 1.00% | ~150 |
+| Great Ziggurat | 1.00% | ~150 |
+| Mausoleum | 1.00% | ~150 |
+| Musaeum | 1.00% | ~150 |
+| Necropolis | 1.00% | ~150 |
+| Learn to Play 2 | 1.00% | ~150 |
+| Learn to Play 3 | 1.00% | ~150 |
+| Manichaeism | 1.00% | ~150 |
+| Egyptian Paganism | 1.00% | ~150 |
+| Zoroastrianism | 1.00% | ~150 |
+| Mythology | 1.00% | ~150 |
+| Win a Single Player Game | 1.00% | ~150 |
+| Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
 | Intercessor | 0.90% | ~135 |
 | Lion | 0.90% | ~135 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~120 |
 | Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
+| Economic Reform | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
-| Economic Reform | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
 | Legalism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
@@ -207,6 +207,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 3) | 0.10% | ~15 |
 | Carthage - Seizing Destiny | 0.10% | ~15 |
 | Bronze Victory (Carthage 4) | 0.10% | ~15 |
+| Epic Victory (Carthage 4) | 0.10% | ~15 |
 | Gold Victory (Carthage 4) | 0.10% | ~15 |
 | Silver Victory (Carthage 4) | 0.10% | ~15 |
 | Carthage Campaign | 0.10% | ~15 |
@@ -337,7 +338,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Alexander the Great | 0.00% | ~0 |
-| Epic Victory (Carthage 4) | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,945 (Ranked 140)  
+Progressed: 14,950 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,945 | 5 |
+| 2023-10-25 | 14,950 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -16,9 +16,9 @@
 | 3rd Grade | 1.00% | ~4 |
 | Full House | 0.80% | ~3 |
 | "A" Student | 0.50% | ~2 |
+| Self-Sufficient | 0.50% | ~2 |
 | 4th Grade | 0.30% | ~1 |
 | Prodigy of all Trades | 0.30% | ~1 |
-| Self-Sufficient | 0.30% | ~1 |
 | "A+" Student | 0.00% | ~0 |
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
