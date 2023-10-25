@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 84.00% | ~333 |
-| Hunting Season | 80.00% | ~318 |
-| Not the Last | 65.00% | ~258 |
-| Somebody's Home | 52.00% | ~206 |
-| Coffee Thermos | 49.00% | ~195 |
-| Grew Bigger | 48.00% | ~191 |
-| Darkness Coiled | 45.00% | ~179 |
-| Bring It | 43.00% | ~171 |
-| Felt Good | 43.00% | ~171 |
-| Secret Stashes | 43.00% | ~171 |
-| Chased the Source | 43.00% | ~171 |
-| Into the Overlap | 39.00% | ~155 |
-| Find the Light | 38.00% | ~151 |
-| Lawman | 38.00% | ~151 |
-| Aimed Ahead | 34.00% | ~135 |
-| Talk Show | 33.00% | ~131 |
-| Carry his Words | 31.00% | ~123 |
-| The Other Side | 27.00% | ~107 |
-| Storm Cloud | 26.00% | ~103 |
-| New York City | 26.00% | ~103 |
-| Return | 24.00% | ~95 |
-| Filling the Shape | 23.00% | ~91 |
-| Greatest Hits | 21.00% | ~83 |
-| Lights Shining | 20.00% | ~79 |
-| Yippee Ki-yay | 20.00% | ~79 |
-| Growing Stronger | 20.00% | ~79 |
-| Shining in the Night | 20.00% | ~79 |
-| This is the Moment | 18.00% | ~71 |
-| Finding a Way | 18.00% | ~71 |
-| Stop the Monster | 17.00% | ~67 |
+| Nightmare Territory | 83.00% | ~331 |
+| Hunting Season | 79.00% | ~315 |
+| Not the Last | 65.00% | ~259 |
+| Somebody's Home | 53.00% | ~211 |
+| Coffee Thermos | 49.00% | ~196 |
+| Grew Bigger | 48.00% | ~192 |
+| Darkness Coiled | 46.00% | ~184 |
+| Secret Stashes | 44.00% | ~176 |
+| Chased the Source | 44.00% | ~176 |
+| Bring It | 43.00% | ~172 |
+| Felt Good | 43.00% | ~172 |
+| Lawman | 39.00% | ~156 |
+| Into the Overlap | 39.00% | ~156 |
+| Find the Light | 37.00% | ~148 |
+| Aimed Ahead | 34.00% | ~136 |
+| Talk Show | 33.00% | ~132 |
+| Carry his Words | 31.00% | ~124 |
+| The Other Side | 27.00% | ~108 |
+| Storm Cloud | 26.00% | ~104 |
+| New York City | 26.00% | ~104 |
+| Return | 24.00% | ~96 |
+| Filling the Shape | 23.00% | ~92 |
+| Greatest Hits | 21.00% | ~84 |
+| Lights Shining | 20.00% | ~80 |
+| Yippee Ki-yay | 20.00% | ~80 |
+| Growing Stronger | 20.00% | ~80 |
+| Shining in the Night | 20.00% | ~80 |
+| This is the Moment | 19.00% | ~76 |
+| Finding a Way | 18.00% | ~72 |
+| Stop the Monster | 17.00% | ~68 |
 | Bright Falls' Finest | 15.00% | ~60 |
 | All His Life | 15.00% | ~60 |
 | Back in Watery | 14.00% | ~56 |
@@ -71,7 +71,7 @@
 | Hidden by the Trees | 0.80% | ~3 |
 | Rustic Charm | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 304)  
+Progressed: 399 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-22 | 148 | 0 |
 | 2023-10-23 | 247 | 0 |
 | 2023-10-24 | 383 | 0 |
-| 2023-10-25 | 397 | 0 |
+| 2023-10-25 | 399 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

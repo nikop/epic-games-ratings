@@ -2709,7 +2709,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27534,
+  "EOS_Progressed": 27535,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 6,
@@ -16264,6 +16264,11 @@
       "Time": "2023-10-25T01:49:17.7997896+00:00",
       "NumProgressed": 27534,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-25T02:22:24.1468002+00:00",
+      "NumProgressed": 27535,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 51,
@@ -16505,9 +16510,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 275
     },
     {
       "ID": "Rift_Seeker",
@@ -16682,7 +16687,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27534,
+      "Progressed": 27535,
       "Completed": 64
     }
   ],
@@ -16690,8 +16695,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-25T01:40:40.0227954+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:49:17.7997892+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:22:24.1467996+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:40:40.0227964+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:49:17.7999311+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:14:24.7414307+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:22:24.1469406+00:00"
 }

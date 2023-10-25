@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Terror Rising | 72.00% | ~56 |
-| Jalopy Poppy | 68.00% | ~53 |
-| Green-Bodied Monster | 59.00% | ~46 |
+| Jalopy Poppy | 69.00% | ~54 |
+| Green-Bodied Monster | 60.00% | ~47 |
 | Chopper Stopper | 47.00% | ~37 |
 | Aerosolized | 42.00% | ~33 |
 | Monstrosity Atrocity | 37.00% | ~29 |

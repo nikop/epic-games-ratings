@@ -3891,9 +3891,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76083,
+  "EOS_Progressed": 76084,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25026,6 +25026,11 @@
       "Time": "2023-10-25T01:49:47.1694951+00:00",
       "NumProgressed": 76083,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-25T02:22:48.7663994+00:00",
+      "NumProgressed": 76084,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25061,7 +25066,7 @@
       "Name": "Shopping Spree",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -25109,7 +25114,7 @@
       "Name": "Always Be Hustling",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "complete_challenge_packs",
@@ -25149,7 +25154,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34998
+      "UsersEstimate": 34999
     },
     {
       "ID": "customize_a_vehicle",
@@ -25157,7 +25162,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 25868
+      "UsersEstimate": 25869
     },
     {
       "ID": "customize_a_weapon",
@@ -25317,7 +25322,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21303
+      "UsersEstimate": 21304
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -25389,7 +25394,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20542
+      "UsersEstimate": 20543
     },
     {
       "ID": "two_thirds_purple",
@@ -25397,7 +25402,7 @@
       "Name": "Community Outreach",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -25460,13 +25465,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76083,
+      "Progressed": 76084,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47720,
+      "Progressed": 47721,
       "Completed": 4180
     }
   ],
@@ -25474,8 +25479,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-23T05:00:54.9128589+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:49:47.1694945+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:22:48.7663987+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:45:25.068502+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:49:47.1696912+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:19:15.6358656+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:22:48.766588+00:00"
 }

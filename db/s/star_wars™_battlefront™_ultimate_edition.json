@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2319,6 +2319,11 @@
       "Time": "2023-10-25T00:09:11.508445+00:00",
       "NumProgressed": 829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T02:24:29.7940171+00:00",
+      "NumProgressed": 830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2555,7 +2560,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achievement_36",
@@ -2603,7 +2608,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_41",
@@ -2619,7 +2624,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_43",
@@ -2651,7 +2656,7 @@
       "Name": "Patience you must have",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_47",
@@ -2834,13 +2839,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 829,
+      "Progressed": 830,
       "Completed": 1
     }
   ],
@@ -2848,8 +2853,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:51:30.9151681+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:24:29.7940167+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:43:23.7180023+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:51:30.9152439+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:16:41.2775722+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:24:29.794098+00:00"
 }

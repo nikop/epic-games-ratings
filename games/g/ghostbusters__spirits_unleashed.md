@@ -29,6 +29,7 @@ Rating: 4.50 (Ranked 576)
 | Daily Dose | 1.00% | ~275 |
 | Legions | 1.00% | ~275 |
 | Pesky Jerks | 1.00% | ~275 |
+| Rift Destroyer | 1.00% | ~275 |
 | Seasoned | 1.00% | ~275 |
 | Side Hustle | 1.00% | ~275 |
 | Skilled | 1.00% | ~275 |
@@ -36,7 +37,6 @@ Rating: 4.50 (Ranked 576)
 | Summoner | 1.00% | ~275 |
 | Terrifying | 1.00% | ~275 |
 | Welcome to the Crew | 1.00% | ~275 |
-| Rift Destroyer | 0.90% | ~248 |
 | Collector | 0.80% | ~220 |
 | Diabolical | 0.80% | ~220 |
 | Escape Artist | 0.80% | ~220 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,534 (Ranked 120)  
+Progressed: 27,535 (Ranked 120)  
 Completed: 64 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 64 (0.23%) (Ranked 223)
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
-| 2023-10-25 | 27,534 | 64 |
+| 2023-10-25 | 27,535 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,532 (Ranked 183)  

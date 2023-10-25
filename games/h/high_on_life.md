@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 324)
 | Legendary Bounty Hunter | 0.90% | ~219 |
 | Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.90% | ~219 |
+| We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
 | Eatin' Good in the Neighborhood | 0.70% | ~170 |
-| We Came, We Chainsaw, We Conquered | 0.70% | ~11 |
 | Eye Scream, You Scream | 0.60% | ~146 |
 | Mux Ado About Shipping | 0.60% | ~10 |
 | Sequel-Bait | 0.30% | ~73 |

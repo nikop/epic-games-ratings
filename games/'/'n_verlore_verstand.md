@@ -14,6 +14,7 @@
 | This field of danger | 9.00% | ~4 |
 | Labyrinths of the Mind | 9.00% | ~4 |
 | A Dangerous Road | 6.00% | ~3 |
+| A Terrifying Blizzard | 6.00% | ~3 |
 | Scorched Ruins | 4.00% | ~2 |
 | City of Illusion | 4.00% | ~2 |
 | Kill the Flames | 4.00% | ~2 |
@@ -22,7 +23,6 @@
 | A Walk to the End | 4.00% | ~2 |
 | The Final Test | 4.00% | ~2 |
 | A Journey's End | 4.00% | ~2 |
-| A Terrifying Blizzard | 4.00% | ~2 |
 | A Stone Left Unturned | 2.00% | ~1 |
 | Celibacy/Delicacy | 2.00% | ~1 |
 | No End is Eternal | 0.00% | ~0 |

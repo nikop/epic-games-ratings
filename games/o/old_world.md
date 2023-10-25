@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 4.00% | ~597 |
 | Play a Single Player Game | 4.00% | ~597 |
 | Explorer | 3.00% | ~448 |
 | Intrepid | 3.00% | ~448 |
-| Settler | 3.00% | ~448 |
 | Friendly Family | 3.00% | ~448 |
 | Able | 2.00% | ~299 |
 | Ambitious | 2.00% | ~299 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.70% | ~105 |
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
+| Carthage | 0.70% | ~105 |
 | Economic Reform | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
 | Legalism | 0.70% | ~105 |
@@ -113,8 +114,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.60% | ~90 |
 | Church of the Holy Sepulchre | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
-| Carthage | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
+| Assyrian Paganism | 0.60% | ~90 |
 | Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.50% | ~75 |
 | Egypt | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
-| Assyrian Paganism | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
 | Industrial Progress | 0.50% | ~75 |
 | Enlightenment | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,932 (Ranked 140)  
+Progressed: 14,934 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,932 | 5 |
+| 2023-10-25 | 14,934 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9384,
+  "EOS_Progressed": 9385,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10640,6 +10640,11 @@
       "Time": "2023-10-25T01:45:53.0195205+00:00",
       "NumProgressed": 9384,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T02:19:38.2090875+00:00",
+      "NumProgressed": 9385,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -10715,7 +10720,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -10763,7 +10768,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -10795,7 +10800,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8352
+      "UsersEstimate": 8353
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -10819,7 +10824,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -10851,7 +10856,7 @@
       "Name": "Photogenic",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7976
+      "UsersEstimate": 7977
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -10859,7 +10864,7 @@
       "Name": "Playing With Power",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -10867,7 +10872,7 @@
       "Name": "Plug It In",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7695
+      "UsersEstimate": 7696
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -10947,7 +10952,7 @@
       "Name": "Surge Ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -10955,7 +10960,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7695
+      "UsersEstimate": 7696
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -10995,7 +11000,7 @@
       "Name": "The Full Monty",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2816
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -11019,7 +11024,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -11043,22 +11048,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5256
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9384,
+      "Progressed": 9385,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:45:53.01952+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:19:38.2090868+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:49.1107056+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:39:23.2920989+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:45:53.0196503+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:13:24.5110587+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:19:38.2092045+00:00"
 }

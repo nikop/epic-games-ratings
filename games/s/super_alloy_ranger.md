@@ -12,7 +12,7 @@
 | Hydrophobia | 43.00% | ~44 |
 | Ka-Ching! | 33.00% | ~34 |
 | Stop Right There | 30.00% | ~31 |
-| Get to the Point | 27.00% | ~28 |
+| Get to the Point | 28.00% | ~29 |
 | Mr. Want It All | 19.00% | ~19 |
 | Toe to Toe | 17.00% | ~17 |
 | The Hidden Secret | 16.00% | ~16 |

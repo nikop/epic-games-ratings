@@ -9,7 +9,8 @@
 | Wanderer | 33.00% | ~5 |
 | A piece of the story | 27.00% | ~4 |
 | It's covered up for a reason | 20.00% | ~3 |
-| Do what you have to | 13.00% | ~2 |
+| Do what you have to | 20.00% | ~3 |
+| Refuse to look | 13.00% | ~2 |
 | Scraps of love | 13.00% | ~2 |
 | The artist’s impression | 13.00% | ~2 |
 | First steps | 13.00% | ~2 |
@@ -19,11 +20,11 @@
 | Tough conversation | 13.00% | ~2 |
 | Another perspective | 7.00% | ~1 |
 | Breaking free | 7.00% | ~1 |
-| Refuse to look | 7.00% | ~1 |
 | A Slice of Life | 7.00% | ~1 |
 | Debut | 7.00% | ~1 |
 | Lights! Camera! Action! | 7.00% | ~1 |
 | The Perfect Storm | 7.00% | ~1 |
+| Sign of weakness | 7.00% | ~1 |
 | The art of movement | 7.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | Se7en Seas | 0.00% | ~0 |
 | The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
-| Sign of weakness | 0.00% | ~0 |
 | Fisherman | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 | True Reflection | 0.00% | ~0 |

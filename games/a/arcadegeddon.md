@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,352 |
-| Photogenic | 85.00% | ~7,976 |
-| Plug It In | 82.00% | ~7,695 |
-| Surge Gauntlet Jockey | 82.00% | ~7,695 |
+| Let's Get This Party Started | 89.00% | ~8,353 |
+| Photogenic | 85.00% | ~7,977 |
+| Plug It In | 82.00% | ~7,696 |
+| Surge Gauntlet Jockey | 82.00% | ~7,696 |
 | Adventure Time | 78.00% | ~7,320 |
-| Playing With Power | 75.00% | ~7,038 |
+| Playing With Power | 75.00% | ~7,039 |
 | Coup d'Etat | 58.00% | ~5,443 |
-| You're Fired | 56.00% | ~5,255 |
-| Get Furious | 55.00% | ~5,161 |
-| Hacks In Stacks | 54.00% | ~5,067 |
+| You're Fired | 56.00% | ~5,256 |
+| Get Furious | 55.00% | ~5,162 |
+| Hacks In Stacks | 54.00% | ~5,068 |
 | Gunplay And Cosplay | 53.00% | ~4,974 |
-| Meching Enemies | 48.00% | ~4,504 |
-| Ticket Toddler | 43.00% | ~4,035 |
+| Meching Enemies | 48.00% | ~4,505 |
+| Ticket Toddler | 43.00% | ~4,036 |
 | Booty Bashing | 38.00% | ~3,566 |
 | Field Medic | 37.00% | ~3,472 |
 | Here Comes a New Challenger | 37.00% | ~3,472 |
 | Rapid Response | 33.00% | ~3,097 |
-| Surge Ahead | 30.00% | ~2,815 |
-| The Full Monty | 30.00% | ~2,815 |
+| Surge Ahead | 30.00% | ~2,816 |
+| The Full Monty | 30.00% | ~2,816 |
 | Guardian Angel | 27.00% | ~2,534 |
 | Poppin Noggins | 24.00% | ~2,252 |
 | Clips and Crits | 19.00% | ~1,783 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,384 (Ranked 154)  
+Progressed: 9,385 (Ranked 154)  
 Completed: 1 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1 (0.01%) (Ranked 305)
 | 2023-10-22 | 9,373 | 1 |
 | 2023-10-23 | 9,376 | 1 |
 | 2023-10-24 | 9,381 | 1 |
-| 2023-10-25 | 9,384 | 1 |
+| 2023-10-25 | 9,385 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 401)  
 Sum: 463 (Ranked 322)  

@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14932,
+  "EOS_Progressed": 14934,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14663,6 +14663,11 @@
       "Time": "2023-10-25T01:47:12.5321003+00:00",
       "NumProgressed": 14932,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T02:20:42.676068+00:00",
+      "NumProgressed": 14934,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15296,9 +15301,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -16288,9 +16293,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -16472,9 +16477,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -17409,21 +17414,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14932,
+      "Progressed": 14934,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14932,
+      "Progressed": 14934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:47:12.5320998+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:20:42.6760675+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:43:35.1305108+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:47:12.5334135+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:16:51.3801803+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:20:42.6772507+00:00"
 }

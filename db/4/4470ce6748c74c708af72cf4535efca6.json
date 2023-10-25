@@ -805,9 +805,9 @@
       "ID": "9",
       "SetID": "5e3maia",
       "Name": "Strategist",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:48:33.4807004+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:21:48.4395458+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3050525+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:42:02.3221964+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:48:33.4807658+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:15:34.9904333+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:21:48.4396185+00:00"
 }

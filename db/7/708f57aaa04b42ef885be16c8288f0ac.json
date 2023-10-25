@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 113,
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1532,
+  "EOS_NewPlayers": 1535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -710,6 +710,11 @@
       "Time": "2023-10-25T01:50:21.7268077+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T02:23:08.3541434+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -794,7 +799,7 @@
       "Name": "First Time?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FuneralForTheDeath",
@@ -864,9 +869,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 31
     },
     {
       "ID": "NoMoreTotems",
@@ -960,9 +965,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -993,13 +998,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1539,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T01:50:21.7268069+00:00",
+  "LastChanged_Achievements": "2023-10-25T02:23:08.3541427+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T01:40:49.08309+00:00",
-  "LastUpdate_Achievements": "2023-10-25T01:50:21.7268369+00:00"
+  "LastUpdate_Ratings": "2023-10-25T02:14:32.2484157+00:00",
+  "LastUpdate_Achievements": "2023-10-25T02:23:08.3541747+00:00"
 }
