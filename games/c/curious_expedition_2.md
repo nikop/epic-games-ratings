@@ -6,25 +6,25 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 61.00% | ~199 |
+| The Adventure Begins | 62.00% | ~203 |
 | Cartographer | 55.00% | ~180 |
 | A Strange Artefact | 50.00% | ~164 |
-| Insomnia | 46.00% | ~150 |
+| Insomnia | 46.00% | ~151 |
 | From Whence we Came | 41.00% | ~134 |
 | Lost & Found & Lost Again | 40.00% | ~131 |
-| Fire and Flood | 38.00% | ~124 |
+| Fire and Flood | 38.00% | ~125 |
 | Spooky! | 36.00% | ~118 |
 | Shennong Herbalist | 33.00% | ~108 |
 | Treasure Hunt | 32.00% | ~105 |
-| Good Mama | 31.00% | ~101 |
+| Good Mama | 31.00% | ~102 |
 | O Captain My Captain | 30.00% | ~98 |
-| Taxonomist | 27.00% | ~88 |
-| Plunderer | 27.00% | ~88 |
+| Taxonomist | 27.00% | ~89 |
+| Plunderer | 27.00% | ~89 |
 | Uncertain Loyalties | 25.00% | ~82 |
-| Traveller | 24.00% | ~78 |
-| Nahua Seeker | 24.00% | ~78 |
+| Traveller | 24.00% | ~79 |
+| Nahua Seeker | 23.00% | ~75 |
 | Roll to Save | 22.00% | ~72 |
-| Veteran Explorer | 20.00% | ~65 |
+| Veteran Explorer | 20.00% | ~66 |
 | Red Flag Pirate | 19.00% | ~62 |
 | Iron Man | 17.00% | ~56 |
 | Shortening of the Way | 16.00% | ~52 |
@@ -41,16 +41,16 @@ Number of Ratings: 20  (23.09.2022)
 | Very Classy | 12.00% | ~39 |
 | Under the Table | 11.00% | ~36 |
 | It's Complicated | 10.00% | ~33 |
-| SCHMETTERLING | 9.00% | ~29 |
-| No Laughing Matter | 9.00% | ~29 |
-| Cold Blood, Warm Heart | 9.00% | ~29 |
-| Errand Runner | 9.00% | ~29 |
+| SCHMETTERLING | 9.00% | ~30 |
+| No Laughing Matter | 9.00% | ~30 |
+| Cold Blood, Warm Heart | 9.00% | ~30 |
+| Errand Runner | 9.00% | ~30 |
 | The Great Library | 8.00% | ~26 |
 | Level Up | 8.00% | ~26 |
 | Zookeeper | 6.00% | ~20 |
-| A Paris Sunset | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
 | Islander Understanding | 5.00% | ~16 |
+| A Paris Sunset | 5.00% | ~16 |
 | The Director Perseveres | 5.00% | ~16 |
 | The Round Table | 5.00% | ~16 |
 | A Familiar Figure | 4.00% | ~13 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 315)  
-Completed: 1 (0.31%) (Ranked 209)  
+Progressed: 328 (Ranked 314)  
+Completed: 1 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 1 (0.31%) (Ranked 209)
 | 2023-10-08 | 325 | 1 |
 | 2023-10-11 | 326 | 1 |
 | 2023-10-24 | 327 | 1 |
+| 2023-10-25 | 328 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

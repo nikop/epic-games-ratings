@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 47.00% | ~7 |
-| Finished it | 40.00% | ~6 |
-| Wanderer | 33.00% | ~5 |
-| A piece of the story | 27.00% | ~4 |
-| It's covered up for a reason | 20.00% | ~3 |
-| Do what you have to | 20.00% | ~3 |
+| Something important | 44.00% | ~7 |
+| Finished it | 38.00% | ~6 |
+| Wanderer | 31.00% | ~5 |
+| A piece of the story | 25.00% | ~4 |
+| It's covered up for a reason | 19.00% | ~3 |
+| Do what you have to | 19.00% | ~3 |
 | Refuse to look | 13.00% | ~2 |
 | Scraps of love | 13.00% | ~2 |
 | Debut | 13.00% | ~2 |
@@ -20,12 +20,12 @@
 | Playtime | 13.00% | ~2 |
 | The tragedy unfolds | 13.00% | ~2 |
 | Tough conversation | 13.00% | ~2 |
-| Another perspective | 7.00% | ~1 |
-| Breaking free | 7.00% | ~1 |
-| A Slice of Life | 7.00% | ~1 |
-| The Perfect Storm | 7.00% | ~1 |
-| Sign of weakness | 7.00% | ~1 |
-| The art of movement | 7.00% | ~1 |
+| Another perspective | 6.00% | ~1 |
+| Breaking free | 6.00% | ~1 |
+| A Slice of Life | 6.00% | ~1 |
+| The Perfect Storm | 6.00% | ~1 |
+| Sign of weakness | 6.00% | ~1 |
+| The art of movement | 6.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 520)  
+Progressed: 16 (Ranked 519)  
 Completed: 0 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 325)
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
 | 2023-10-24 | 13 | 0 |
-| 2023-10-25 | 15 | 0 |
+| 2023-10-25 | 16 | 0 |

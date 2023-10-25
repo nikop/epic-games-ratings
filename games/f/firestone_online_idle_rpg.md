@@ -5,16 +5,16 @@ Rating: 4.08 (Ranked 951)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,924 |
+| Victor | 93.00% | ~1,925 |
 | World Map | 79.00% | ~1,635 |
-| Temple of Eternals | 57.00% | ~1,179 |
-| Prestigious | 54.00% | ~1,117 |
+| Temple of Eternals | 57.00% | ~1,180 |
+| Prestigious | 54.00% | ~1,118 |
 | Fellowship Power | 42.00% | ~869 |
 | Guild Power | 26.00% | ~538 |
 | Prestigious x10 | 23.00% | ~476 |
-| The game is on | 21.00% | ~434 |
+| The game is on | 21.00% | ~435 |
 | Exotic Merchant | 20.00% | ~414 |
-| Dragon Clicker | 18.00% | ~372 |
+| Dragon Clicker | 18.00% | ~373 |
 | Full Party | 17.00% | ~352 |
 | Inspection | 17.00% | ~352 |
 | Miner Clicker | 17.00% | ~352 |
@@ -59,8 +59,8 @@ Rating: 4.08 (Ranked 951)
 | Ancient Knowledge | 6.00% | ~124 |
 | Background Story | 6.00% | ~124 |
 | Legendary | 6.00% | ~124 |
-| Arena Challenger | 5.00% | ~103 |
-| Ebony Jungle Liberator | 5.00% | ~103 |
+| Arena Challenger | 5.00% | ~104 |
+| Ebony Jungle Liberator | 5.00% | ~104 |
 | Mythic Power | 4.00% | ~83 |
 | What lies behind the bush | 4.00% | ~83 |
 | Gear Enchanting | 3.00% | ~62 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 951)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,069 (Ranked 208)  
+Progressed: 2,070 (Ranked 208)  
 Completed: 2 (0.10%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 2 (0.10%) (Ranked 257)
 | 2023-10-22 | 2,065 | 2 |
 | 2023-10-23 | 2,066 | 2 |
 | 2023-10-24 | 2,069 | 2 |
+| 2023-10-25 | 2,070 | 2 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 485)  
 Sum: 76 (Ranked 454)  

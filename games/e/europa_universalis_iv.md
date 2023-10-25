@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438,863 (Ranked 40)  
+Progressed: 438,872 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 1 (0.00%) (Ranked 325)
 | 2023-10-22 | 437,539 | 1 |
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
-| 2023-10-25 | 438,863 | 1 |
+| 2023-10-25 | 438,872 | 1 |
 ## Awards
 Max (Educational): 6,667  (Ranked 55)  
 Sum: 54,745 (Ranked 24)  

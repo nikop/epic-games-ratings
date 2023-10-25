@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 977)  
+Rating: 3.99 (Ranked 976)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,11 +42,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.90% | ~1,243 |
 | Power of Love | 0.90% | ~1,243 |
 | Flawless Fusion | 0.90% | ~1,243 |
+| Royal Ransom | 0.90% | ~1,243 |
 | Natural 20 | 0.90% | ~1,243 |
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
 | Trash to Treasure | 0.80% | ~1,105 |
-| Royal Ransom | 0.80% | ~1,105 |
 | Seasoned Journeyman | 0.80% | ~1,105 |
 | Magical Harmony | 0.80% | ~1,105 |
 | A Notch Above the Rest | 0.70% | ~967 |

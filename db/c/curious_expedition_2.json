@@ -5,9 +5,9 @@
   "Ranking_Rating": 168,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,11 +70,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -270,6 +270,11 @@
       "Time": "2023-10-24T01:51:10.6258411+00:00",
       "NumProgressed": 327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T05:09:25.334528+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -311,9 +316,9 @@
       "ID": "ach-ascension-complete",
       "SetID": "17ih7ma",
       "Name": "A Paris Sunset",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -353,7 +358,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -377,7 +382,7 @@
       "Name": "Traveller",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -481,7 +486,7 @@
       "Name": "Fire and Flood",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach-find-treasure",
@@ -503,9 +508,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "ach-hardExpeditions",
@@ -545,7 +550,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-kill-hyenas",
@@ -553,7 +558,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-kill-sandworm",
@@ -601,7 +606,7 @@
       "Name": "Veteran Explorer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-meetGhost",
@@ -625,15 +630,15 @@
       "Name": "Insomnia",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "ach-paleMask-cure",
@@ -673,7 +678,7 @@
       "Name": "Good Mama",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach-redElk",
@@ -697,7 +702,7 @@
       "Name": "Plunderer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-salamanderPrince",
@@ -705,7 +710,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-spendNoMoney",
@@ -745,7 +750,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach-wearHat",
@@ -760,7 +765,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 1
     }
   ],
@@ -768,8 +773,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:10:07.4205238+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:09:25.3345274+00:00",
   "LastUpdate_AppInfo": "2023-10-21T09:57:10.5893473+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:59:15.3808059+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:10:07.4206013+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:59:08.2059184+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:09:25.3346062+00:00"
 }

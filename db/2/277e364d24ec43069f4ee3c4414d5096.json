@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112250,
+  "EOS_Progressed": 112253,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15575,6 +15575,11 @@
       "Time": "2023-10-25T04:06:25.1329975+00:00",
       "NumProgressed": 112250,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-25T05:05:43.2952036+00:00",
+      "NumProgressed": 112253,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -15594,7 +15599,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86432
+      "UsersEstimate": 86435
     },
     {
       "ID": "EAwards_10",
@@ -15610,7 +15615,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29185
+      "UsersEstimate": 29186
     },
     {
       "ID": "EAwards_12",
@@ -15634,7 +15639,7 @@
       "Name": "6-Piece Combo",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "EAwards_15",
@@ -15658,7 +15663,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40410
+      "UsersEstimate": 40411
     },
     {
       "ID": "EAwards_18",
@@ -15666,7 +15671,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10102
+      "UsersEstimate": 10103
     },
     {
       "ID": "EAwards_19",
@@ -15682,7 +15687,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 53880
+      "UsersEstimate": 53881
     },
     {
       "ID": "EAwards_20",
@@ -15914,7 +15919,7 @@
       "Name": "Bronze Champion",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EAwards_47",
@@ -15922,7 +15927,7 @@
       "Name": "Silver Champion",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EAwards_48",
@@ -15930,7 +15935,7 @@
       "Name": "Let Sleeping Gods Lie",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EAwards_5",
@@ -15938,7 +15943,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10102
+      "UsersEstimate": 10103
     },
     {
       "ID": "EAwards_6",
@@ -15977,7 +15982,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112250,
+      "Progressed": 112253,
       "Completed": 47
     }
   ],
@@ -15985,8 +15990,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-24T11:59:01.6372825+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:06:25.1329968+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:05:43.2952031+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:27.0030355+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:59:48.0194609+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:06:25.1331512+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:59:40.6429224+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:05:43.2953579+00:00"
 }

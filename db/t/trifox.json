@@ -175,9 +175,9 @@
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Well-off",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
@@ -207,9 +207,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
@@ -367,17 +367,17 @@
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-1",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_02",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:04:53.5484374+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:04:12.7456427+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:58:00.5634752+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:04:53.5485039+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:57:49.8782948+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:04:12.7456811+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -715,10 +715,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 140,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-10-25T05:00:04.4195168+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 142,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 140,
+  "NumberOfAwards": 142,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -756,7 +762,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -771,8 +777,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-10-24T11:59:29.4173735+00:00",
+  "LastChanged": "2023-10-25T05:00:04.4195167+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:41.0392713+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:00:13.7026712+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:06:13.3222411+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:00:04.4195175+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:05:31.4804805+00:00"
 }

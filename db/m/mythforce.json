@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,7 +764,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4443,
+  "EOS_Progressed": 4444,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -8084,6 +8084,11 @@
       "Time": "2023-10-25T00:09:33.3020877+00:00",
       "NumProgressed": 4443,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-25T05:09:49.2914349+00:00",
+      "NumProgressed": 4444,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8120,7 +8125,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -8144,7 +8149,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8232,7 +8237,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8256,7 +8261,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -8279,15 +8284,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4443,
+      "Progressed": 4444,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:10:31.3928773+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:09:49.2914344+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:03:12.6928408+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:10:31.3929807+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:02:43.6641877+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:09:49.2914935+00:00"
 }

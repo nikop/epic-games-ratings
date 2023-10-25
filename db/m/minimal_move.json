@@ -4,7 +4,7 @@
   "ProductSlug": "minimal-move-7a012a",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-13T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T13:57:19.8953153+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:04:07.3876508+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:10:33.6488702+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:03:16.3336777+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:09:51.6261481+00:00"
 }

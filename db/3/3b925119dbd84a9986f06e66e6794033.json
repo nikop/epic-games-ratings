@@ -316,25 +316,25 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -380,9 +380,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TIME_ORWELL",
@@ -396,25 +396,25 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TKO2_DOMINO",
@@ -451,8 +451,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:08:56.8546915+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:08:15.0708867+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:00:09.629582+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:08:56.8547654+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:00:00.2883177+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:08:15.0709056+00:00"
 }

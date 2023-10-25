@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 2.00% | ~299 |
 | Ambitious | 2.00% | ~299 |
 | Architect | 2.00% | ~299 |
+| Brilliant | 2.00% | ~299 |
 | Enlightened | 2.00% | ~299 |
 | Fountainhead | 2.00% | ~299 |
 | Glorious | 2.00% | ~299 |
@@ -46,7 +47,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~149 |
 | Beloved | 1.00% | ~149 |
 | Drillmaster | 1.00% | ~149 |
-| Brilliant | 1.00% | ~149 |
 | Conqueror | 1.00% | ~149 |
 | Great | 1.00% | ~149 |
 | Mighty | 1.00% | ~149 |
@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 1.00% | ~149 |
 | Necropolis | 1.00% | ~149 |
 | Learn to Play 2 | 1.00% | ~149 |
+| Learn to Play 3 | 1.00% | ~149 |
 | Manichaeism | 1.00% | ~149 |
 | Carthaginian Paganism | 1.00% | ~149 |
 | Egyptian Paganism | 1.00% | ~149 |
@@ -79,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.90% | ~134 |
 | Victorious | 0.90% | ~134 |
 | Good Difficulty | 0.90% | ~134 |
-| Learn to Play 3 | 0.90% | ~134 |
 | Greece | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Invincible | 0.80% | ~119 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
+| Industrial Progress | 0.60% | ~90 |
 | Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
-| Industrial Progress | 0.50% | ~75 |
 | Enlightenment | 0.50% | ~75 |
 | Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,934 (Ranked 140)  
+Progressed: 14,935 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,934 | 5 |
+| 2023-10-25 | 14,935 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

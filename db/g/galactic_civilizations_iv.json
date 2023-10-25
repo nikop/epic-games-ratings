@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7070,
+  "EOS_Progressed": 7071,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -7650,6 +7650,11 @@
       "Time": "2023-10-25T04:06:33.3130707+00:00",
       "NumProgressed": 7070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T05:05:51.4730556+00:00",
+      "NumProgressed": 7071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7773,7 +7778,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "First_Ship_Designed",
@@ -7797,7 +7802,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8149,7 +8154,7 @@
       "Name": "Win a Battle",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4666
+      "UsersEstimate": 4667
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8236,15 +8241,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7070,
+      "Progressed": 7071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:06:33.31307+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:05:51.4730551+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:03:01.6777407+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:06:33.3132322+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:02:33.0836123+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:05:51.4732479+00:00"
 }

@@ -6255,9 +6255,9 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 187018,
+  "EOS_Progressed": 187022,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2507,
+  "EOS_NewPlayers": 2509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27495,6 +27495,11 @@
       "Time": "2023-10-25T04:09:36.0268644+00:00",
       "NumProgressed": 187018,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T05:09:04.0574217+00:00",
+      "NumProgressed": 187022,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27538,7 +27543,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 29923
+      "UsersEstimate": 29924
     },
     {
       "ID": "Achievement_13",
@@ -27586,7 +27591,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46754
+      "UsersEstimate": 46756
     },
     {
       "ID": "Achievement_5",
@@ -27633,15 +27638,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 187018,
+      "Progressed": 187022,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-25T00:00:57.8042652+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:09:36.0268637+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:09:04.0574211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:01:47.1188586+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:09:36.0270125+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:01:41.6341516+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:09:04.0576128+00:00"
 }

@@ -2727,9 +2727,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_56",
@@ -3131,8 +3131,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-25T04:05:19.6441893+00:00",
+  "LastChanged_Achievements": "2023-10-25T05:04:38.4454287+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-25T03:58:22.374081+00:00",
-  "LastUpdate_Achievements": "2023-10-25T04:05:19.6444348+00:00"
+  "LastUpdate_Ratings": "2023-10-25T04:58:12.2716602+00:00",
+  "LastUpdate_Achievements": "2023-10-25T05:04:38.445671+00:00"
 }

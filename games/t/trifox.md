@@ -19,11 +19,11 @@
 | Complete Level 2-2 | 17.00% | ~17 |
 | Versatile | 16.00% | ~16 |
 | Complete Level 2-3 | 14.00% | ~14 |
-| Well-off | 12.00% | ~12 |
-| Defeat the engineer boss | 12.00% | ~12 |
-| Too many crates | 11.00% | ~11 |
+| Well-off | 13.00% | ~13 |
+| Defeat the engineer boss | 13.00% | ~13 |
+| Too many crates | 12.00% | ~12 |
+| Complete Level 3-1 | 12.00% | ~12 |
 | Baby steps | 11.00% | ~11 |
-| Complete Level 3-1 | 11.00% | ~11 |
 | Party popper | 11.00% | ~11 |
 | Engineer-warrior hybrid | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
