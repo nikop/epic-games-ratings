@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.59% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.59% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.44% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.56% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -52,7 +52,7 @@
 | 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.45% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 53 | [Scorn](games/s/scorn.md) | 6.99% |
+| 53 | [Scorn](games/s/scorn.md) | 6.98% |
 | 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.85% |
 | 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 56 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -83,17 +83,17 @@
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
 | 83 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.54% |
+| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.53% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.39% |
 | 87 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 88 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 89 | [The Complex](games/t/the_complex.md) | 3.24% |
 | 90 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.22% |
-| 91 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.15% |
+| 91 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.14% |
 | 92 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 93 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
-| 94 | [HordeCore](games/h/hordecore.md) | 3.08% |
+| 94 | [HordeCore](games/h/hordecore.md) | 3.07% |
 | 95 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 96 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
@@ -194,9 +194,9 @@
 | 192 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 192 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 194 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 194 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.45% |
 | 194 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 194 | [Tchia](games/t/tchia.md) | 0.45% |
+| 197 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.44% |
 | 198 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 199 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 200 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -226,9 +226,9 @@
 | 224 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 224 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.23% |
-| 227 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
-| 227 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 227 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
+| 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.23% |
+| 228 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
+| 228 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 230 | [Blanc](games/b/blanc.md) | 0.21% |
 | 230 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 230 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
