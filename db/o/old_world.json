@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14941,
+  "EOS_Progressed": 14945,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14698,6 +14698,11 @@
       "Time": "2023-10-25T16:05:07.5667118+00:00",
       "NumProgressed": 14941,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T18:05:14.7865647+00:00",
+      "NumProgressed": 14945,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14789,7 +14794,7 @@
       "Name": "Hanging Gardens in Babylon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -15189,7 +15194,7 @@
       "Name": "Intercessor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -15245,7 +15250,7 @@
       "Name": "Lion",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -15365,7 +15370,7 @@
       "Name": "Victorious",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -15461,7 +15466,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -15499,9 +15504,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -16091,9 +16096,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -16341,7 +16346,7 @@
       "Name": "Greece",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -16469,7 +16474,7 @@
       "Name": "Power to the People",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -16563,9 +16568,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
       "SetID": "7l38kb8",
       "Name": "Roman Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
@@ -16707,9 +16712,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -16755,9 +16760,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -16877,7 +16882,7 @@
       "Name": "Points Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -17444,21 +17449,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14941,
+      "Progressed": 14945,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14941,
+      "Progressed": 14945,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:06:14.2640998+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:05:14.7865642+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:03:26.5726775+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:06:14.2658326+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:02:22.2772918+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:05:14.7876925+00:00"
 }

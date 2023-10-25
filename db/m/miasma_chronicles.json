@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1493,
+  "EOS_Progressed": 1494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3442,6 +3442,11 @@
       "Time": "2023-10-25T17:09:55.1466256+00:00",
       "NumProgressed": 1493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T18:09:13.9276018+00:00",
+      "NumProgressed": 1494,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3461,7 +3466,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3501,7 +3506,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "CHAIN_REACTION",
@@ -3549,7 +3554,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "DEAD_DD",
@@ -3573,7 +3578,7 @@
       "Name": "Jarhead",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -3685,7 +3690,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3717,7 +3722,7 @@
       "Name": "Lumberjack",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3765,7 +3770,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "RUTHLESS",
@@ -3813,7 +3818,7 @@
       "Name": "Silent but Violent",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "TECHNOPHOBE",
@@ -3821,7 +3826,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3845,7 +3850,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "WIPE_OUT",
@@ -3860,7 +3865,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1493,
+      "Progressed": 1494,
       "Completed": 0
     }
   ],
@@ -3868,8 +3873,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:09:55.1466248+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:09:13.9276013+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.0007152+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:03:39.4570848+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:09:55.1467324+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:03:15.7059467+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:09:13.9276661+00:00"
 }

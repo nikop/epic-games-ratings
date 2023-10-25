@@ -7,7 +7,7 @@ Rating: 4.69 (Ranked 224)
 | ---- | ---------- | ----- |
 | Getting on the Step | 95.00% | ~3,218 |
 | On the Top Step | 90.00% | ~3,048 |
-| Setting up for Success | 79.00% | ~2,676 |
+| Setting up for Success | 80.00% | ~2,710 |
 | Team Orders | 77.00% | ~2,608 |
 | Engineer | 57.00% | ~1,931 |
 | Familiar Faces | 51.00% | ~1,727 |
@@ -23,8 +23,8 @@ Rating: 4.69 (Ranked 224)
 | Reduce | 22.00% | ~745 |
 | Ups and Downs | 21.00% | ~711 |
 | Crucial Combo | 20.00% | ~677 |
+| Reuse | 19.00% | ~644 |
 | One for the Book | 19.00% | ~644 |
-| Reuse | 18.00% | ~610 |
 | Proving Them Wrong | 18.00% | ~610 |
 | Gathering Dust | 17.00% | ~576 |
 | Oil and Water | 16.00% | ~542 |

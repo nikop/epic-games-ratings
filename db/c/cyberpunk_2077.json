@@ -14144,9 +14144,9 @@
       "Count": 11460
     }
   ],
-  "EOS_Progressed": 893779,
+  "EOS_Progressed": 893782,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35474,6 +35474,11 @@
       "Time": "2023-10-25T17:08:44.625701+00:00",
       "NumProgressed": 893779,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-25T18:07:13.9536613+00:00",
+      "NumProgressed": 893782,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35492,9 +35497,9 @@
       "ID": "BornToBeWild",
       "SetID": "47clieb",
       "Name": "To Bad Decisions!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1788
+      "UsersEstimate": 2681
     },
     {
       "ID": "BushidoAndChill",
@@ -35956,9 +35961,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 90
+      "UsersEstimate": 112
     },
     {
       "ID": "KingOfTheCups",
@@ -36005,21 +36010,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893779,
+      "Progressed": 893782,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22402,
+      "Progressed": 22405,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-25T16:00:31.029685+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:08:44.6256998+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:07:13.9536608+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:02:20.2956112+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:08:44.6260199+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:00:48.9608606+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:07:13.953848+00:00"
 }

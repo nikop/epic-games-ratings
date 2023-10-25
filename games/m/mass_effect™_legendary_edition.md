@@ -42,7 +42,7 @@
 | Completionist | 37.00% | ~298 |
 | Colony Defense | 37.00% | ~298 |
 | The Krogan | 37.00% | ~298 |
-| Galactic Explorer | 36.00% | ~290 |
+| Galactic Explorer | 37.00% | ~298 |
 | Broke, Blind, and Bedlam | 35.00% | ~282 |
 | Ghost Ship | 34.00% | ~274 |
 | The Quarian | 34.00% | ~274 |
@@ -84,9 +84,9 @@
 | Pathfinder | 24.00% | ~193 |
 | Tunnel Rat | 24.00% | ~193 |
 | Savior | 23.00% | ~185 |
+| Paramour II | 23.00% | ~185 |
 | Arbiter | 23.00% | ~185 |
 | Lost and Found | 23.00% | ~185 |
-| Paramour II | 22.00% | ~177 |
 | Party Crasher | 21.00% | ~169 |
 | Pyromaniac | 20.00% | ~161 |
 | No One Left Behind | 20.00% | ~161 |

@@ -7,13 +7,13 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 0.60% | ~9 |
+| Gotta Ca... Must Collect All of Them | 0.40% | ~6 |
+| Me and My Familiar | 0.30% | ~4 |
 | Let Me Get My Chisel | 0.30% | ~4 |
-| Gotta Ca... Must Collect All of Them | 0.30% | ~4 |
 | This Too Shall Pass | 0.30% | ~4 |
 | How Romantic! | 0.30% | ~4 |
 | Cutthroat Competitors | 0.30% | ~4 |
 | Daybreak | 0.30% | ~4 |
-| Me and My Familiar | 0.20% | ~3 |
 | Passing Shadow | 0.20% | ~3 |
 | Completing the Look | 0.20% | ~3 |
 | Echoes Die | 0.20% | ~3 |

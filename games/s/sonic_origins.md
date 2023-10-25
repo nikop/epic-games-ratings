@@ -35,7 +35,7 @@ Number of Ratings: 154  (23.09.2022)
 | To the Mirror World | 27.00% | ~156 |
 | Movie Maniac | 19.00% | ~110 |
 | Sound Savant | 19.00% | ~110 |
-| Sonic the Hedgehog Mission Master | 16.00% | ~92 |
+| Sonic the Hedgehog Mission Master | 17.00% | ~98 |
 | Beware Rhinobots! | 15.00% | ~87 |
 | Art Appreciator | 15.00% | ~87 |
 | Sonic CD Mission Master | 14.00% | ~81 |

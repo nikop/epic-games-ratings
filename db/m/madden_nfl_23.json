@@ -745,7 +745,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2961,
+  "EOS_Progressed": 2962,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
@@ -3990,6 +3990,11 @@
       "Time": "2023-10-25T16:06:05.7731229+00:00",
       "NumProgressed": 2961,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T18:06:15.1847518+00:00",
+      "NumProgressed": 2962,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4034,7 +4039,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "achievement_14",
@@ -4042,7 +4047,7 @@
       "Name": "Dealmaker",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "achievement_15",
@@ -4090,7 +4095,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_20",
@@ -4114,7 +4119,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_4",
@@ -4130,7 +4135,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_6",
@@ -4138,7 +4143,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_7",
@@ -4169,7 +4174,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2961,
+      "Progressed": 2962,
       "Completed": 0
     }
   ],
@@ -4177,8 +4182,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T21:58:31.897995+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:07:37.936919+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:06:15.1847512+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:01:49.2257494+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:07:37.9369643+00:00"
+  "LastUpdate_Ratings": "2023-10-25T18:00:26.7007989+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:06:15.184788+00:00"
 }

@@ -245,17 +245,17 @@
       "ID": "ACH_13_WINNER",
       "SetID": "9loam6m",
       "Name": "Winner",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_14_FRIENDS_FOREVER",
       "SetID": "9loam6m",
       "Name": "Friends forever",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_15_SOMETHING_TO_DO",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:09:02.8155943+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:07:26.7490189+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:36.591353+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:01:00.1402907+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:09:02.8156306+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:59:50.834539+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:07:26.7490535+00:00"
 }

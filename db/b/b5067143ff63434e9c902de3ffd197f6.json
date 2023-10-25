@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4915,
+  "EOS_Progressed": 4926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1591,
+  "EOS_NewPlayers": 1587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2959,6 +2959,11 @@
       "Time": "2023-10-25T17:09:17.2901443+00:00",
       "NumProgressed": 4915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T18:07:37.1584912+00:00",
+      "NumProgressed": 4926,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -3019,7 +3024,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -3067,7 +3072,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -3075,7 +3080,7 @@
       "Name": "Level 1",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -3083,7 +3088,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -3091,7 +3096,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -3107,7 +3112,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -3123,7 +3128,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -3131,7 +3136,7 @@
       "Name": "Motion",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -3139,7 +3144,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -3147,7 +3152,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -3155,21 +3160,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 4915,
+      "Progressed": 4926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:09:17.2901436+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:07:37.1584907+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:52.6577652+00:00",
-  "LastUpdate_Ratings": "2023-10-25T17:00:25.8854571+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:09:17.2901935+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:59:23.4229398+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:07:37.158528+00:00"
 }

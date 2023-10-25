@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 44.00% | ~7 |
-| Finished it | 38.00% | ~6 |
-| Wanderer | 31.00% | ~5 |
-| A piece of the story | 25.00% | ~4 |
-| It's covered up for a reason | 19.00% | ~3 |
-| Refuse to look | 19.00% | ~3 |
-| Do what you have to | 19.00% | ~3 |
-| Another perspective | 13.00% | ~2 |
-| Scraps of love | 13.00% | ~2 |
-| A Slice of Life | 13.00% | ~2 |
-| Debut | 13.00% | ~2 |
-| The artist’s impression | 13.00% | ~2 |
-| First steps | 13.00% | ~2 |
-| Sound Bite | 13.00% | ~2 |
-| Lights! Camera! Action! | 13.00% | ~2 |
-| Playtime | 13.00% | ~2 |
-| The art of movement | 13.00% | ~2 |
-| The tragedy unfolds | 13.00% | ~2 |
-| Tough conversation | 13.00% | ~2 |
+| Something important | 41.00% | ~7 |
+| Finished it | 35.00% | ~6 |
+| Wanderer | 29.00% | ~5 |
+| A piece of the story | 24.00% | ~4 |
+| It's covered up for a reason | 18.00% | ~3 |
+| Refuse to look | 18.00% | ~3 |
+| Do what you have to | 18.00% | ~3 |
+| Another perspective | 12.00% | ~2 |
+| Scraps of love | 12.00% | ~2 |
+| A Slice of Life | 12.00% | ~2 |
+| Debut | 12.00% | ~2 |
+| The artist’s impression | 12.00% | ~2 |
+| First steps | 12.00% | ~2 |
+| Sound Bite | 12.00% | ~2 |
+| Lights! Camera! Action! | 12.00% | ~2 |
+| Playtime | 12.00% | ~2 |
+| The art of movement | 12.00% | ~2 |
+| The tragedy unfolds | 12.00% | ~2 |
+| Tough conversation | 12.00% | ~2 |
 | Breaking free | 6.00% | ~1 |
 | The Perfect Storm | 6.00% | ~1 |
 | Sign of weakness | 6.00% | ~1 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 520)  
+Progressed: 17 (Ranked 514)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
 | 2023-10-24 | 13 | 0 |
-| 2023-10-25 | 16 | 0 |
+| 2023-10-25 | 17 | 0 |

@@ -1,11 +1,11 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 901)  
+Rating: 4.19 (Ranked 902)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 8.00% | ~1,300 |
+| Get a Grip | 8.00% | ~1,301 |
 | Paper Jams | 7.00% | ~1,138 |
 | Flesh Wound | 6.00% | ~975 |
 | Float Like A Butterfly | 6.00% | ~975 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 901)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,255 (Ranked 135)  
+Progressed: 16,258 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,10 +234,10 @@ Completed: 77 (0.47%) (Ranked 188)
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
-| 2023-10-25 | 16,255 | 77 |
+| 2023-10-25 | 16,258 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
-Sum: 453 (Ranked 323)  
+Sum: 454 (Ranked 323)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 56
 | This game has Quickly Understood Controls | 73 |
 | This game is Extremely Fun | 68 |
 | This game has Challenging Combat | 57 |
-| This game has a Creative Community | 26 |
+| This game has a Creative Community | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -394,3 +394,4 @@ Diff (max vs sum): 56
 | 2023-10-22 | 4.19 | 77 | 451 |
 | 2023-10-23 | 4.19 | 77 | 452 |
 | 2023-10-24 | 4.19 | 78 | 453 |
+| 2023-10-25 | 4.19 | 78 | 454 |

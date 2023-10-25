@@ -6629,10 +6629,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27443,
       "NumberOfAwardsMax": 4800
+    },
+    {
+      "Time": "2023-10-25T17:57:44.8027567+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27445,
+      "NumberOfAwardsMax": 4800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27443,
+  "NumberOfAwards": 27445,
   "NumberOfAwardsMax": 4800,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6664,7 +6670,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4017
+      "Count": 4019
     },
     {
       "Text": "This game is Relaxing",
@@ -6685,9 +6691,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138116,
+  "EOS_Progressed": 138119,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25940,6 +25946,11 @@
       "Time": "2023-10-25T17:04:56.9817881+00:00",
       "NumProgressed": 138116,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-25T18:04:09.24283+00:00",
+      "NumProgressed": 138119,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26119,7 +26130,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "chest02",
@@ -26183,7 +26194,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "commonres02",
@@ -26423,7 +26434,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "gold02",
@@ -26501,9 +26512,9 @@
       "ID": "jackslot01",
       "SetID": "anfd17p",
       "Name": "One-Armed Bandit",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1381
+      "UsersEstimate": 2762
     },
     {
       "ID": "jackslot02",
@@ -26767,7 +26778,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "twinenchant01",
@@ -26846,15 +26857,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138116,
+      "Progressed": 138119,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-25T16:58:09.12182+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:04:56.9817873+00:00",
+  "LastChanged": "2023-10-25T17:57:44.8027566+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:04:09.2428294+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:58:09.121821+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:04:56.98228+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:57:44.8027575+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:04:09.2430992+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,104 |
+| Stylish | 4.00% | ~1,105 |
 | Advancement | 3.00% | ~828 |
 | Discovery | 3.00% | ~828 |
 | Meticulously Efficient | 3.00% | ~828 |
@@ -37,7 +37,7 @@ Rating: 4.50 (Ranked 576)
 | Summoner | 1.00% | ~276 |
 | Terrifying | 1.00% | ~276 |
 | Welcome to the Crew | 1.00% | ~276 |
-| Tobin's Prodigy | 0.90% | ~248 |
+| Tobin's Prodigy | 0.90% | ~249 |
 | Collector | 0.80% | ~221 |
 | Diabolical | 0.80% | ~221 |
 | Escape Artist | 0.80% | ~221 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,604 (Ranked 120)  
+Progressed: 27,615 (Ranked 120)  
 Completed: 64 (0.23%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 64 (0.23%) (Ranked 224)
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
-| 2023-10-25 | 27,604 | 64 |
+| 2023-10-25 | 27,615 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,538 (Ranked 183)  

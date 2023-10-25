@@ -4,7 +4,7 @@
 Rating: 3.81 (Ranked 1,011)  
 ## Awards
 Max (Extremely Fun): 72  (Ranked 393)  
-Sum: 419 (Ranked 328)  
+Sum: 424 (Ranked 328)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 65
 | This game has Amazing Characters | 61 |
 | This game has Playful Visuals | 52 |
 | This game has Amazing Storytelling | 51 |
+| This game has a Competitive Community | 47 |
 | This game is Great for Beginners | 44 |
-| This game has a Competitive Community | 42 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |

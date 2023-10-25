@@ -13,6 +13,7 @@
 | First to the post | 100.00% | ~1 |
 | Connected | 100.00% | ~1 |
 | Harvest Time | 100.00% | ~1 |
+| Friend of Alluvyan | 100.00% | ~1 |
 | Friend of Lyraine | 100.00% | ~1 |
 | Mine! | 100.00% | ~1 |
 | Get out of here! | 100.00% | ~1 |
@@ -57,7 +58,6 @@
 | Balanced | 0.00% | ~0 |
 | Master Necromancer | 0.00% | ~0 |
 | Impossible Mission | 0.00% | ~0 |
-| Friend of Alluvyan | 0.00% | ~0 |
 | Friend of Grey Dusk Vale | 0.00% | ~0 |
 | Friend of Gillyshire | 0.00% | ~0 |
 | Friend of Orgash | 0.00% | ~0 |

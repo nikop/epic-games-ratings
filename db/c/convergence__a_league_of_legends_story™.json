@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 910,
+  "EOS_Progressed": 911,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2369,6 +2369,11 @@
       "Time": "2023-10-23T13:10:17.8877861+00:00",
       "NumProgressed": 910,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T18:06:13.7240644+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2404,7 +2409,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2532,7 +2537,7 @@
       "Name": "Whiz Kid",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "GrindingTime1",
@@ -2580,7 +2585,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "NoCritterSump",
@@ -2803,7 +2808,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 910,
+      "Progressed": 911,
       "Completed": 5
     }
   ],
@@ -2811,8 +2816,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:07:35.7858157+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:06:13.7240639+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.2319935+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:58:33.4172009+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:07:35.7858787+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:58:00.9271285+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:06:13.7241265+00:00"
 }

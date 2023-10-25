@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 2.00% | ~299 |
 | Babylonian Paganism | 2.00% | ~299 |
 | Greek Paganism | 2.00% | ~299 |
+| Roman Paganism | 2.00% | ~299 |
 | Naming Landmarks | 2.00% | ~299 |
 | Trade Caravan | 2.00% | ~299 |
 | Kushite Paganism | 2.00% | ~299 |
@@ -70,33 +71,34 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 1.00% | ~149 |
 | Carthaginian Paganism | 1.00% | ~149 |
 | Egyptian Paganism | 1.00% | ~149 |
-| Roman Paganism | 1.00% | ~149 |
 | Zoroastrianism | 1.00% | ~149 |
 | Mythology | 1.00% | ~149 |
 | Win a Single Player Game | 1.00% | ~149 |
 | Kushite Pyramids | 1.00% | ~149 |
-| Hanging Gardens in Babylon | 0.90% | ~134 |
-| Intercessor | 0.90% | ~134 |
-| Lion | 0.90% | ~134 |
-| Victorious | 0.90% | ~134 |
-| Good Difficulty | 0.90% | ~134 |
-| Greece | 0.90% | ~134 |
-| Power to the People | 0.90% | ~134 |
-| Points Victory | 0.90% | ~134 |
+| Hanging Gardens in Babylon | 0.90% | ~135 |
+| Intercessor | 0.90% | ~135 |
+| Lion | 0.90% | ~135 |
+| Victorious | 0.90% | ~135 |
+| Good Difficulty | 0.90% | ~135 |
+| Greece | 0.90% | ~135 |
+| Power to the People | 0.90% | ~135 |
+| Points Victory | 0.90% | ~135 |
 | Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
 | Patrons | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
 | Circus Maximus | 0.80% | ~120 |
+| Temple of Solomon | 0.80% | ~120 |
 | Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
+| Redemption | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
+| Strong Difficulty | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
 | Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Hagia Sophia | 0.70% | ~105 |
-| Temple of Solomon | 0.70% | ~105 |
 | Pantheon | 0.70% | ~105 |
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
@@ -104,13 +106,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
 | Legalism | 0.70% | ~105 |
-| Redemption | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
+| Cimmerian Archer | 0.70% | ~105 |
 | Legionary | 0.70% | ~105 |
 | Phalangite | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
-| Strong Difficulty | 0.60% | ~90 |
 | Hunters | 0.60% | ~90 |
 | Church of the Holy Sepulchre | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
-| Cimmerian Archer | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,941 (Ranked 140)  
+Progressed: 14,945 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,941 | 5 |
+| 2023-10-25 | 14,945 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

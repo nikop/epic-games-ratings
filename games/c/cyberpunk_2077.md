@@ -10,6 +10,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.50% | ~4,469 |
 | The High Priestess | 0.50% | ~4,469 |
 | All the President's Men | 0.50% | ~112 |
+| Arachnophobia | 0.50% | ~112 |
 | Full Body Conversion | 0.40% | ~3,575 |
 | Right Back At Ya | 0.40% | ~3,575 |
 | Gunslinger | 0.40% | ~3,575 |
@@ -20,7 +21,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.40% | ~3,575 |
 | Two Heads, One Bullet | 0.40% | ~3,575 |
 | Legend of The Afterlife | 0.40% | ~3,575 |
-| Arachnophobia | 0.40% | ~90 |
+| To Bad Decisions! | 0.30% | ~2,681 |
 | Bushido and Chill | 0.30% | ~2,681 |
 | Gun Fu | 0.30% | ~2,681 |
 | Master Crafter | 0.30% | ~2,681 |
@@ -36,7 +37,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.30% | ~2,681 |
 | V for Vendetta | 0.30% | ~2,681 |
 | Spin Doctor | 0.30% | ~67 |
-| To Bad Decisions! | 0.20% | ~1,788 |
 | To Protect and Serve | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | Christmas Tree Attack | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,779 (Ranked 15)  
+Progressed: 893,782 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,779 | 2,713 |
+| 2023-10-25 | 893,782 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
 Sum: 325,656 (Ranked 10)  

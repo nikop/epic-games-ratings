@@ -2328,9 +2328,9 @@
       "ID": "achievement_121",
       "SetID": "d252ncf",
       "Name": "Paramour II",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_122",
@@ -2872,9 +2872,9 @@
       "ID": "achievement_69",
       "SetID": "d252ncf",
       "Name": "Galactic Explorer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 290
+      "UsersEstimate": 298
     },
     {
       "ID": "achievement_7",
@@ -3156,8 +3156,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-25T17:05:37.4118402+00:00",
+  "LastChanged_Achievements": "2023-10-25T18:04:38.4024421+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:58:33.2322283+00:00",
-  "LastUpdate_Achievements": "2023-10-25T17:05:37.4120795+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:58:00.68368+00:00",
+  "LastUpdate_Achievements": "2023-10-25T18:04:38.4026441+00:00"
 }

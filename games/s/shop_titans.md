@@ -6,16 +6,17 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,143 |
-| Basic in Bulk | 3.00% | ~4,143 |
-| Tinkle of Coins | 3.00% | ~4,143 |
-| Titan's First Steps | 3.00% | ~4,143 |
+| Sponsored by Argon | 3.00% | ~4,144 |
+| Basic in Bulk | 3.00% | ~4,144 |
+| Tinkle of Coins | 3.00% | ~4,144 |
+| Titan's First Steps | 3.00% | ~4,144 |
 | One Easy Payment | 2.00% | ~2,762 |
 | Some Assembly Required | 2.00% | ~2,762 |
 | Disintermediation | 2.00% | ~2,762 |
 | Another Satisfied Customer | 2.00% | ~2,762 |
 | It's Free Real Estate | 2.00% | ~2,762 |
 | Pretty Penny | 2.00% | ~2,762 |
+| One-Armed Bandit | 2.00% | ~2,762 |
 | Budding Merchant | 2.00% | ~2,762 |
 | Capitalism Ho! | 2.00% | ~2,762 |
 | Own the Means of Production | 2.00% | ~2,762 |
@@ -32,7 +33,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 1.00% | ~1,381 |
 | Gild-Gotten Goods | 1.00% | ~1,381 |
 | Helping Hand | 1.00% | ~1,381 |
-| One-Armed Bandit | 1.00% | ~1,381 |
 | Accomplished Merchant | 1.00% | ~1,381 |
 | Dungeon Imports | 1.00% | ~1,381 |
 | Through Repetition, Perfection | 1.00% | ~1,381 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,116 (Ranked 75)  
+Progressed: 138,119 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,16 +307,16 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,116 | 172 |
+| 2023-10-25 | 138,119 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
-Sum: 27,443 (Ranked 51)  
+Sum: 27,445 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,800 |
 | This game is Relaxing | 4,031 |
-| This game has Quickly Understood Controls | 4,017 |
+| This game has Quickly Understood Controls | 4,019 |
 | This game has Diverse Characters | 3,924 |
 | This game is Highly Recommended | 3,766 |
 | This game has Easy Combat | 3,714 |
@@ -593,4 +593,4 @@ Diff (max vs sum): 22
 | 2023-10-21 | 3.99 | - | 4,797 | 27,422 |
 | 2023-10-22 | 3.99 | - | 4,797 | 27,428 |
 | 2023-10-23 | 3.99 | - | 4,800 | 27,434 |
-| 2023-10-25 | 3.99 | - | 4,800 | 27,443 |
+| 2023-10-25 | 3.99 | - | 4,800 | 27,445 |

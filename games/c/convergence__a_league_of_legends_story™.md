@@ -30,9 +30,9 @@ Rating: 4.62 (Ranked 356)
 | The Family Fortune | 18.00% | ~164 |
 | The Man Who Shattered Time | 17.00% | ~155 |
 | Street Style | 16.00% | ~146 |
-| Cartographer | 15.00% | ~136 |
-| Treasure Trove | 14.00% | ~127 |
-| Whiz Kid | 14.00% | ~127 |
+| Cartographer | 15.00% | ~137 |
+| Treasure Trove | 14.00% | ~128 |
+| Whiz Kid | 14.00% | ~128 |
 | Good Neighbor | 13.00% | ~118 |
 | Chaincrawler Explorer | 12.00% | ~109 |
 | Family Memories | 12.00% | ~109 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 356)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 910 (Ranked 248)  
+Progressed: 911 (Ranked 248)  
 Completed: 5 (0.55%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 5 (0.55%) (Ranked 181)
 | 2023-10-20 | 908 | 5 |
 | 2023-10-22 | 909 | 5 |
 | 2023-10-23 | 910 | 5 |
+| 2023-10-25 | 911 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
