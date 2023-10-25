@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -8939,10 +8939,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1909627,
       "NumberOfAwardsMax": 248239
+    },
+    {
+      "Time": "2023-10-25T14:01:42.9306924+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1911248,
+      "NumberOfAwardsMax": 248239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1909627,
+  "NumberOfAwards": 1911248,
   "NumberOfAwardsMax": 248239,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8950,7 +8956,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 216593
+      "Count": 216931
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8968,13 +8974,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 201457
+      "Count": 201797
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 203542
+      "Count": 203832
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8986,7 +8992,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208823
+      "Count": 209164
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8998,7 +9004,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 204196
+      "Count": 204508
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9018,8 +9024,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-10-25T13:05:52.4240842+00:00",
+  "LastChanged": "2023-10-25T14:01:42.9306922+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.711449+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:05:52.4240848+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:09:20.7101616+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:01:42.9306933+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:05:14.4132434+00:00"
 }

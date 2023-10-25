@@ -17,6 +17,7 @@ Rating: 4.19 (Ranked 901)
 | Keep Fighting | 5.00% | ~209 |
 | You Need a Gun | 4.00% | ~650 |
 | I Do Belong Here | 4.00% | ~650 |
+| Terminated | 4.00% | ~650 |
 | Workplace Hazard | 4.00% | ~650 |
 | If the SHU Fits... | 4.00% | ~650 |
 | Without A Paddle | 4.00% | ~650 |
@@ -27,7 +28,6 @@ Rating: 4.19 (Ranked 901)
 | Power Up | 4.00% | ~650 |
 | It's Time | 4.00% | ~167 |
 | Giving Back | 3.00% | ~488 |
-| Terminated | 3.00% | ~488 |
 | The Commonality | 3.00% | ~488 |
 | In Striking Distance | 2.00% | ~325 |
 | One Last Job | 2.00% | ~84 |

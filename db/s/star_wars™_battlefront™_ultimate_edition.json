@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 834,
+  "EOS_Progressed": 836,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -2339,6 +2339,11 @@
       "Time": "2023-10-25T10:09:06.3262668+00:00",
       "NumProgressed": 834,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T14:09:50.7997177+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2415,7 +2420,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_18",
@@ -2495,7 +2500,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_27",
@@ -2575,7 +2580,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 761
     },
     {
       "ID": "achievement_36",
@@ -2583,7 +2588,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_37",
@@ -2591,7 +2596,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_38",
@@ -2613,9 +2618,9 @@
       "ID": "achievement_4",
       "SetID": "271ol84",
       "Name": "I suggest a new strategy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_40",
@@ -2623,7 +2628,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "achievement_41",
@@ -2631,7 +2636,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_42",
@@ -2703,7 +2708,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_50",
@@ -2759,7 +2764,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_57",
@@ -2854,13 +2859,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 834,
+      "Progressed": 836,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 834,
+      "Progressed": 836,
       "Completed": 1
     }
   ],
@@ -2868,8 +2873,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:14:02.8291676+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:09:50.7997173+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:06:44.4152185+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:14:02.8292299+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:02:44.1388973+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:09:50.7997796+00:00"
 }

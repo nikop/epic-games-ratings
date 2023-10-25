@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,563 |
-| Until death do us apart | 4.00% | ~17,563 |
-| Victorious! | 4.00% | ~17,563 |
-| That is mine! | 3.00% | ~13,172 |
-| Brothers in Arms | 2.00% | ~8,781 |
-| Cold War | 2.00% | ~8,781 |
-| For the Glory | 2.00% | ~8,781 |
-| That's a Grand Navy | 2.00% | ~8,781 |
-| Seriously?! | 2.00% | ~8,781 |
+| That's a Grand Army | 4.00% | ~17,564 |
+| Until death do us apart | 4.00% | ~17,564 |
+| Victorious! | 4.00% | ~17,564 |
+| That is mine! | 3.00% | ~13,173 |
+| Brothers in Arms | 2.00% | ~8,782 |
+| Cold War | 2.00% | ~8,782 |
+| For the Glory | 2.00% | ~8,782 |
+| That's a Grand Navy | 2.00% | ~8,782 |
+| Seriously?! | 2.00% | ~8,782 |
 | Defender of the Faith | 1.00% | ~4,391 |
 | It's all about luck | 1.00% | ~4,391 |
 | It's all about the money | 1.00% | ~4,391 |
@@ -26,12 +26,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,513 |
 | Royal Authority | 0.80% | ~3,513 |
 | Total Control | 0.80% | ~3,513 |
-| My armies are invincible! | 0.70% | ~3,073 |
-| Agressive Expander | 0.60% | ~2,634 |
-| Azur semé de lis or | 0.50% | ~2,195 |
-| City of Cities | 0.50% | ~2,195 |
-| Combined Arms | 0.50% | ~2,195 |
-| This navy can take it all | 0.50% | ~2,195 |
+| My armies are invincible! | 0.70% | ~3,074 |
+| Agressive Expander | 0.50% | ~2,196 |
+| Azur semé de lis or | 0.50% | ~2,196 |
+| City of Cities | 0.50% | ~2,196 |
+| Combined Arms | 0.50% | ~2,196 |
+| This navy can take it all | 0.50% | ~2,196 |
 | Bright Spark | 0.40% | ~1,756 |
 | The Emperors new clothes | 0.40% | ~1,756 |
 | Factionalism | 0.40% | ~1,756 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439,064 (Ranked 40)  
+Progressed: 439,105 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,10 +549,10 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-22 | 437,539 | 1 |
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
-| 2023-10-25 | 439,064 | 1 |
+| 2023-10-25 | 439,105 | 1 |
 ## Awards
 Max (Educational): 6,676  (Ranked 56)  
-Sum: 54,789 (Ranked 24)  
+Sum: 54,800 (Ranked 24)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -562,7 +562,7 @@ Diff (max vs sum): 32
 | This game has Challenging Combat | 6,299 |
 | This game is Extremely Fun | 6,282 |
 | This game is Relaxing | 6,140 |
-| This game has Competitive Players | 5,976 |
+| This game has Competitive Players | 5,987 |
 | This game has Amazing Storytelling | 5,576 |
 | This game has Amazing Characters | 5,149 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -850,4 +850,4 @@ Diff (max vs sum): 32
 | 2023-10-22 | 4.69 | - | 6,632 | 54,547 |
 | 2023-10-23 | 4.69 | - | 6,653 | 54,651 |
 | 2023-10-24 | 4.69 | - | 6,667 | 54,745 |
-| 2023-10-25 | 4.69 | - | 6,676 | 54,789 |
+| 2023-10-25 | 4.69 | - | 6,676 | 54,800 |

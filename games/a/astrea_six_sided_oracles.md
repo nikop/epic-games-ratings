@@ -32,12 +32,12 @@
 | Unbeatable | 14.00% | ~9 |
 | Heavy Purger | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
+| Behenian Hero | 11.00% | ~7 |
 | Anomaly Control | 10.00% | ~6 |
 | Denying Destiny | 10.00% | ~6 |
 | Stellar Haste | 10.00% | ~6 |
 | The Dark Moon | 10.00% | ~6 |
 | Apian Hero | 10.00% | ~6 |
-| Behenian Hero | 10.00% | ~6 |
 | Lacertian Hero | 10.00% | ~6 |
 | Can't touch this | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |
@@ -48,6 +48,7 @@
 | Behenian Mastery | 6.00% | ~4 |
 | If I Had Failed... | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
+| The Raging Skies | 5.00% | ~3 |
 | Eridanian Hero | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
@@ -58,7 +59,6 @@
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
-| The Raging Skies | 3.00% | ~2 |
 | Aquarian Hero | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |

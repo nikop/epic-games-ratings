@@ -19,8 +19,8 @@
 | Stilt House | 17.00% | ~19 |
 | Corwid Hill | 15.00% | ~16 |
 | Armor Collector | 14.00% | ~15 |
+| Total Eclipse | 11.00% | ~12 |
 | Dreamwalker | 11.00% | ~12 |
-| Total Eclipse | 10.00% | ~11 |
 | Your Training Is Complete | 6.00% | ~7 |
 | Red in Tooth and Claw | 5.00% | ~6 |
 | Vivid Dreams | 3.00% | ~3 |

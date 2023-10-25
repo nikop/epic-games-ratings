@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Breaking Through | 70.00% | ~75 |
 | Silent Overload | 63.00% | ~67 |
-| Symbiotic Weapon | 56.00% | ~60 |
-| A.I. Training | 50.00% | ~54 |
+| Symbiotic Weapon | 57.00% | ~61 |
+| A.I. Training | 51.00% | ~55 |
 | Sniper | 38.00% | ~41 |
 | The Red Herring | 34.00% | ~36 |
 | Telekinesis | 29.00% | ~31 |

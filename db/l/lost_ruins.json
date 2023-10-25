@@ -2,10 +2,10 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2023-10-24T21:11:40.5754803+00:00",
       "NumProgressed": 460,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T14:10:25.673538+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -942,7 +947,7 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "BugHunter",
@@ -1038,7 +1043,7 @@
       "Name": "Librarian",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Lumberjack",
@@ -1229,7 +1234,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 0
     }
   ],
@@ -1237,8 +1242,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:14:37.8272893+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:10:25.6735375+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:03:10.3593285+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:14:37.8273198+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:58:49.0802937+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:10:25.6735666+00:00"
 }

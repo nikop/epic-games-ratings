@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14132,10 +14132,10 @@
       "Count": 11460
     }
   ],
-  "EOS_Progressed": 893744,
+  "EOS_Progressed": 893754,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1216,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 1211,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35442,6 +35442,11 @@
       "Time": "2023-10-25T13:12:18.5703021+00:00",
       "NumProgressed": 893744,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-25T14:08:24.867347+00:00",
+      "NumProgressed": 893754,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35462,7 +35467,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "BushidoAndChill",
@@ -35494,7 +35499,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "Fortuneteller",
@@ -35502,7 +35507,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "Gearhead",
@@ -35542,7 +35547,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "IAmMaxTac",
@@ -35550,7 +35555,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -35574,7 +35579,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "MaxPain",
@@ -35646,7 +35651,7 @@
       "Name": "Temperance",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -35670,7 +35675,7 @@
       "Name": "The Fool",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "TheHermit",
@@ -35910,7 +35915,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "HydraIsDead",
@@ -35926,7 +35931,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "KingOfTheCups",
@@ -35973,21 +35978,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893744,
+      "Progressed": 893754,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22367,
+      "Progressed": 22377,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-25T11:00:50.1930404+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:12:18.5703016+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:08:24.8673465+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:06:00.0260955+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:12:18.5704402+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:01:55.1422692+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:08:24.8674832+00:00"
 }

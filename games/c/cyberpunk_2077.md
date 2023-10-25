@@ -18,8 +18,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.40% | ~3,575 |
 | Two Heads, One Bullet | 0.40% | ~3,575 |
 | Legend of The Afterlife | 0.40% | ~3,575 |
-| All the President's Men | 0.40% | ~89 |
-| Arachnophobia | 0.40% | ~89 |
+| All the President's Men | 0.40% | ~90 |
+| Arachnophobia | 0.40% | ~90 |
 | Bushido and Chill | 0.30% | ~2,681 |
 | Gun Fu | 0.30% | ~2,681 |
 | Mean Streets | 0.30% | ~2,681 |
@@ -33,14 +33,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.30% | ~2,681 |
 | V for Vendetta | 0.30% | ~2,681 |
 | Spin Doctor | 0.30% | ~67 |
-| To Bad Decisions! | 0.20% | ~1,787 |
-| To Protect and Serve | 0.20% | ~1,787 |
-| The Wandering Fool | 0.20% | ~1,787 |
-| Master Crafter | 0.20% | ~1,787 |
-| I Am The Law | 0.20% | ~1,787 |
-| Christmas Tree Attack | 0.20% | ~1,787 |
-| Temperance | 0.20% | ~1,787 |
-| The Fool | 0.20% | ~1,787 |
+| To Bad Decisions! | 0.20% | ~1,788 |
+| To Protect and Serve | 0.20% | ~1,788 |
+| The Wandering Fool | 0.20% | ~1,788 |
+| Master Crafter | 0.20% | ~1,788 |
+| I Am The Law | 0.20% | ~1,788 |
+| Christmas Tree Attack | 0.20% | ~1,788 |
+| Temperance | 0.20% | ~1,788 |
+| The Fool | 0.20% | ~1,788 |
 | King of Wands | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,744 (Ranked 15)  
+Progressed: 893,754 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,744 | 2,713 |
+| 2023-10-25 | 893,754 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
 Sum: 325,239 (Ranked 10)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10679,
+  "EOS_Progressed": 10680,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -11792,6 +11792,11 @@
       "Time": "2023-10-25T13:12:25.7767956+00:00",
       "NumProgressed": 10679,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-25T14:08:32.948816+00:00",
+      "NumProgressed": 10680,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11907,7 +11912,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "ACH15",
@@ -11963,7 +11968,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "ACH22",
@@ -12074,7 +12079,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10679,
+      "Progressed": 10680,
       "Completed": 63
     }
   ],
@@ -12082,8 +12087,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:12:25.7767946+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:08:32.9488155+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:07:07.3550923+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:12:25.7768675+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:03:06.0163317+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:08:32.9488844+00:00"
 }

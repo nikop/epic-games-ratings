@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -910,9 +910,9 @@
       "ID": "TheRagingSkies",
       "SetID": "1jeo1g7",
       "Name": "The Raging Skies",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Theworldgoesround",
@@ -1030,9 +1030,9 @@
       "ID": "BehenianHero",
       "SetID": "1jeo1g7",
       "Name": "Behenian Hero",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BehenianMastery",
@@ -1125,8 +1125,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:10:12.606642+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:06:10.6580735+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:05:18.9402609+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:10:12.6067342+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:01:07.598047+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:06:10.6581619+00:00"
 }

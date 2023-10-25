@@ -21,6 +21,7 @@ Rating: 4.57 (Ranked 459)
 | Archaeologist | 44.00% | ~4 |
 | Little hero | 44.00% | ~4 |
 | Freedom fighter | 44.00% | ~4 |
+| Defender | 44.00% | ~4 |
 | Pandora's box | 44.00% | ~4 |
 | Beast slayer | 44.00% | ~4 |
 | Ogre friend | 44.00% | ~4 |
@@ -28,7 +29,6 @@ Rating: 4.57 (Ranked 459)
 | Idiot | 44.00% | ~4 |
 | Fence | 44.00% | ~4 |
 | Family man | 33.00% | ~3 |
-| Defender | 33.00% | ~3 |
 | Ghost hunter | 33.00% | ~3 |
 | Showdown | 33.00% | ~3 |
 | Titan Lord | 33.00% | ~3 |

@@ -3,9 +3,9 @@
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 127,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 183,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -824,6 +824,11 @@
       "Time": "2023-10-24T17:07:07.235725+00:00",
       "NumProgressed": 183,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-25T14:08:32.5750052+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -882,9 +887,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -996,13 +1001,13 @@
       "ID": "aniflfk",
       "IsBase": true,
       "Progressed": 183,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:12:25.511074+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:08:32.5750046+00:00",
   "LastUpdate_AppInfo": "2023-10-18T15:57:15.7411865+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:03:35.1506885+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:12:25.5110892+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:59:18.1278463+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:08:32.5750211+00:00"
 }

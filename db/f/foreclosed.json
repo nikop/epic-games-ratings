@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -297,17 +297,17 @@
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Headshots_0",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:13:24.4148104+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:09:33.310839+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:14.9114942+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:06:16.985132+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:13:24.4148262+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:02:09.9554428+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:09:33.3108549+00:00"
 }

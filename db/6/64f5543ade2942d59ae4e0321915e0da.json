@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -196,9 +196,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_BOSS_01",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:11:50.0240015+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:07:54.712917+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:06:13.3516992+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:11:50.0240287+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:02:05.9606735+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:07:54.7129438+00:00"
 }

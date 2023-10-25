@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 517)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,185 |
-| Git Gutte! | 4.00% | ~28,148 |
-| Break A Leg | 4.00% | ~28,148 |
-| Coup de Grâce | 4.00% | ~28,148 |
-| Hazardous Materials | 4.00% | ~28,148 |
-| Hotel California | 4.00% | ~28,148 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,148 |
-| Dr. Reed, I Presume? | 3.00% | ~21,111 |
-| Bookworm | 3.00% | ~21,111 |
-| But Doctor, I am Butcho | 3.00% | ~21,111 |
-| Slayer Squad | 3.00% | ~21,111 |
-| Can't Handle the Truth | 3.00% | ~21,111 |
-| Like Riding a Bike | 3.00% | ~21,111 |
-| Friends Like These | 3.00% | ~21,111 |
-| Apex Predator | 3.00% | ~21,111 |
-| Zombologist | 3.00% | ~21,111 |
-| A Patton Emerges | 3.00% | ~21,111 |
-| Stacking the Deck | 3.00% | ~21,111 |
-| This is My Weapon | 3.00% | ~21,111 |
+| Welcome To Hell-A | 5.00% | ~35,186 |
+| Git Gutte! | 4.00% | ~28,149 |
+| Break A Leg | 4.00% | ~28,149 |
+| Coup de Grâce | 4.00% | ~28,149 |
+| Hazardous Materials | 4.00% | ~28,149 |
+| Hotel California | 4.00% | ~28,149 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,149 |
+| Dr. Reed, I Presume? | 3.00% | ~21,112 |
+| Bookworm | 3.00% | ~21,112 |
+| But Doctor, I am Butcho | 3.00% | ~21,112 |
+| Slayer Squad | 3.00% | ~21,112 |
+| Can't Handle the Truth | 3.00% | ~21,112 |
+| Like Riding a Bike | 3.00% | ~21,112 |
+| Friends Like These | 3.00% | ~21,112 |
+| Apex Predator | 3.00% | ~21,112 |
+| Zombologist | 3.00% | ~21,112 |
+| A Patton Emerges | 3.00% | ~21,112 |
+| Stacking the Deck | 3.00% | ~21,112 |
+| This is My Weapon | 3.00% | ~21,112 |
 | Making Your Mark | 2.00% | ~14,074 |
 | Anger Management | 2.00% | ~14,074 |
 | Perks of the Job | 2.00% | ~14,074 |
@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 517)
 | Make it So | 0.70% | ~4,926 |
 | LA Influential | 0.60% | ~4,222 |
 | Gore Horse | 0.60% | ~4,222 |
-| Sole Survivor | 0.50% | ~3,518 |
-| Sharpest Tool in the Box | 0.50% | ~3,518 |
+| Sole Survivor | 0.50% | ~3,519 |
+| Sharpest Tool in the Box | 0.50% | ~3,519 |
 | Survival Skills | 0.40% | ~2,815 |
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,695 (Ranked 22)  
+Progressed: 703,719 (Ranked 22)  
 Completed: 2,261 (0.32%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 2,261 (0.32%) (Ranked 209)
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
-| 2023-10-25 | 703,695 | 2,261 |
+| 2023-10-25 | 703,719 | 2,261 |
 ## Awards
 Max (Great Boss Battles): 6,625  (Ranked 57)  
 Sum: 9,945 (Ranked 91)  

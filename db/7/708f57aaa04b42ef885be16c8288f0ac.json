@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1658,
+  "EOS_Progressed": 1671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1654,
+  "EOS_NewPlayers": 1667,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -770,6 +770,11 @@
       "Time": "2023-10-25T13:13:04.971786+00:00",
       "NumProgressed": 1658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T14:09:12.7323904+00:00",
+      "NumProgressed": 1671,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -836,9 +841,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FasterThanLight",
@@ -854,7 +859,7 @@
       "Name": "First Time?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FuneralForTheDeath",
@@ -884,9 +889,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -964,9 +969,9 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "TheOldSchoolWay",
@@ -988,9 +993,9 @@
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1012,9 +1017,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -1053,13 +1058,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1658,
+      "Progressed": 1671,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:13:04.9717855+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:09:12.7323893+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:03:45.2824611+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:13:04.9718086+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:59:28.3473728+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:09:12.7324139+00:00"
 }

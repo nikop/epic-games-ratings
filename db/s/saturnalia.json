@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 852,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67537,
+  "EOS_Progressed": 67539,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13291,6 +13291,11 @@
       "Time": "2023-10-25T12:03:14.9600268+00:00",
       "NumProgressed": 67537,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-25T14:04:12.603843+00:00",
+      "NumProgressed": 67539,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -13438,7 +13443,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -13461,7 +13466,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67537,
+      "Progressed": 67539,
       "Completed": 16
     }
   ],
@@ -13469,8 +13474,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:08:23.2929779+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:04:12.6038425+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:13.9522225+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:06:19.0164453+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:08:23.2930559+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:02:12.041595+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:04:12.6039209+00:00"
 }

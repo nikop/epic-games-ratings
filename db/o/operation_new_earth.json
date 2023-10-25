@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1672,
+  "EOS_Progressed": 1675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6229,6 +6229,11 @@
       "Time": "2023-10-25T13:09:26.3880461+00:00",
       "NumProgressed": 1672,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T14:05:20.776781+00:00",
+      "NumProgressed": 1675,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6318,9 +6323,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 151
     },
     {
       "ID": "objective_headquarters_15",
@@ -6336,7 +6341,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_headquarters_5",
@@ -6344,7 +6349,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6368,7 +6373,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6392,7 +6397,7 @@
       "Name": "Colonel",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -6416,7 +6421,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6432,7 +6437,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6440,7 +6445,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -6448,7 +6453,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6464,7 +6469,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6472,7 +6477,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -6480,7 +6485,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6496,7 +6501,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6543,7 +6548,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1672,
+      "Progressed": 1675,
       "Completed": 1
     }
   ],
@@ -6551,8 +6556,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:09:26.3880456+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:05:20.7767807+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:05:10.8500178+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:09:26.3880966+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:00:59.0196068+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:05:20.7768315+00:00"
 }

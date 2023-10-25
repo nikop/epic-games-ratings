@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1206,9 +1206,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1262,9 +1262,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1302,9 +1302,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 95,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1318,9 +1318,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     }
   ],
   "AchievementSets": [
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-10-25T13:12:37.2070998+00:00",
+  "LastChanged_Achievements": "2023-10-25T14:08:44.3857101+00:00",
   "LastUpdate_AppInfo": "2023-10-21T22:57:10.4983128+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:01:46.688386+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:12:37.2071164+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:57:19.9399352+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:08:44.3857243+00:00"
 }

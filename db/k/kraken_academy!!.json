@@ -4,8 +4,8 @@
   "ProductSlug": "kraken-academy",
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-03T16:00:00+00:00",
     "PcReleaseDate": "2021-09-10T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.3464325+00:00",
   "LastChanged": "2023-03-31T05:57:19.3464326+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.731402+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:05:37.0728438+00:00",
-  "LastUpdate_Achievements": "2023-10-25T13:09:31.0810573+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:01:28.9535676+00:00",
+  "LastUpdate_Achievements": "2023-10-25T14:05:25.8731617+00:00"
 }
