@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 135,
@@ -1349,9 +1349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16260,
+  "EOS_Progressed": 16262,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8184,6 +8184,11 @@
       "Time": "2023-10-25T20:06:44.4806676+00:00",
       "NumProgressed": 16260,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-25T23:06:41.8680471+00:00",
+      "NumProgressed": 16262,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8507,7 +8512,7 @@
       "Name": "Big Spender",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -8555,7 +8560,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -8570,13 +8575,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16260,
+      "Progressed": 16262,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4186,
+      "Progressed": 4188,
       "Completed": 29
     }
   ],
@@ -8584,8 +8589,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-25T18:00:07.3120219+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:08:43.0883534+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:06:41.8680463+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:01:29.0669612+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:08:43.088448+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:00:01.8589319+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:06:41.8681276+00:00"
 }

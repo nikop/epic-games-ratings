@@ -3,12 +3,12 @@
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18057,
+  "EOS_Progressed": 18058,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -14642,6 +14642,11 @@
       "Time": "2023-10-25T22:04:59.157639+00:00",
       "NumProgressed": 18057,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-25T23:04:17.0303216+00:00",
+      "NumProgressed": 18058,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14653,7 +14658,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "Burning_For_You",
@@ -14685,7 +14690,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "Feel_The_Thunder",
@@ -14749,7 +14754,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9028
+      "UsersEstimate": 9029
     },
     {
       "ID": "Sole_Survivor",
@@ -14780,15 +14785,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18057,
+      "Progressed": 18058,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:04:59.1576386+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:04:17.0303207+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:58:27.4807065+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:04:59.157769+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:57:56.7730977+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:04:17.0304172+00:00"
 }

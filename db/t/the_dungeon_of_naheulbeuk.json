@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1221,9 +1221,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 233093,
+  "EOS_Progressed": 233101,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1443,
+  "EOS_NewPlayers": 1448,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16086,6 +16086,11 @@
       "Time": "2023-10-25T22:07:06.1476374+00:00",
       "NumProgressed": 233093,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-25T23:05:36.9865148+00:00",
+      "NumProgressed": 233101,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16113,7 +16118,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "BarbarianEpic",
@@ -16545,7 +16550,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79252
+      "UsersEstimate": 79254
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16609,7 +16614,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "InsultLoose",
@@ -16665,7 +16670,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "Poster",
@@ -16800,21 +16805,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233093,
+      "Progressed": 233101,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233093,
+      "Progressed": 233101,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-24T14:02:34.6884253+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:07:06.147637+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:05:36.9865142+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:57:49.7706258+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:07:06.1478775+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:57:35.2532182+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:05:36.9867147+00:00"
 }

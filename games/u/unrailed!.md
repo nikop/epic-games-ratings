@@ -6,26 +6,26 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,272 |
-| Incurious | 17.00% | ~111,701 |
-| Climate Change | 16.00% | ~105,131 |
-| Stroller | 15.00% | ~98,560 |
-| Advanced Hiker | 13.00% | ~85,419 |
-| Toy Train | 13.00% | ~85,419 |
-| Hiker | 12.00% | ~78,848 |
-| Mojave Courier | 6.00% | ~39,424 |
-| Saved by Nausicaä | 5.00% | ~32,853 |
+| Advanced Stroller | 18.00% | ~118,274 |
+| Incurious | 17.00% | ~111,703 |
+| Climate Change | 16.00% | ~105,132 |
+| Stroller | 15.00% | ~98,561 |
+| Advanced Hiker | 13.00% | ~85,420 |
+| Toy Train | 13.00% | ~85,420 |
+| Hiker | 12.00% | ~78,849 |
+| Mojave Courier | 6.00% | ~39,425 |
+| Saved by Nausicaä | 5.00% | ~32,854 |
 | Advanced Voyager | 4.00% | ~26,283 |
 | Voyager | 3.00% | ~19,712 |
 | Expert Stroller | 3.00% | ~19,712 |
 | Orient Express | 3.00% | ~19,712 |
 | Marathon | 3.00% | ~19,712 |
 | Destructionist | 3.00% | ~19,712 |
-| Expert Hiker | 2.00% | ~13,141 |
-| Lost | 2.00% | ~13,141 |
+| Expert Hiker | 2.00% | ~13,142 |
+| Lost | 2.00% | ~13,142 |
 | Rocketman | 0.80% | ~5,257 |
-| Expert Voyager | 0.70% | ~4,599 |
-| Shopaholic | 0.70% | ~4,599 |
+| Expert Voyager | 0.70% | ~4,600 |
+| Shopaholic | 0.70% | ~4,600 |
 | Nanuk | 0.60% | ~3,942 |
 | Dynamite Fishing | 0.60% | ~3,942 |
 | Scrooge | 0.50% | ~3,285 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~657 |
 | 20 Miles under the Sea | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,067 (Ranked 27)  
+Progressed: 657,076 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 12 (0.00%) (Ranked 326)
 | 2023-10-22 | 656,456 | 12 |
 | 2023-10-23 | 656,691 | 12 |
 | 2023-10-24 | 656,891 | 12 |
-| 2023-10-25 | 657,067 | 12 |
+| 2023-10-25 | 657,076 | 12 |
 ## Awards
 Max (Great for Beginners): 199  (Ranked 279)  
 Sum: 1,586 (Ranked 224)  

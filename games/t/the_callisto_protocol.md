@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 902)  
+Rating: 4.19 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,13 +26,13 @@ Rating: 4.19 (Ranked 902)
 | Crash Site | 4.00% | ~650 |
 | Full Circle | 4.00% | ~650 |
 | Power Up | 4.00% | ~650 |
-| It's Time | 4.00% | ~167 |
+| It's Time | 4.00% | ~168 |
 | Giving Back | 3.00% | ~488 |
 | The Commonality | 3.00% | ~488 |
 | In Striking Distance | 2.00% | ~325 |
 | One Last Job | 2.00% | ~84 |
 | This Isn't About Escape | 1.00% | ~42 |
-| Big Spender | 0.80% | ~33 |
+| Big Spender | 0.80% | ~34 |
 | Armed to the Teeth | 0.70% | ~29 |
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~29 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 902)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,260 (Ranked 135)  
+Progressed: 16,262 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 77 (0.47%) (Ranked 188)
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
-| 2023-10-25 | 16,260 | 77 |
+| 2023-10-25 | 16,262 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
 Sum: 454 (Ranked 324)  

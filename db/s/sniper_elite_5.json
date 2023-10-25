@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 650,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3776,
+  "EOS_Progressed": 3777,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7450,6 +7450,11 @@
       "Time": "2023-10-25T17:06:37.509499+00:00",
       "NumProgressed": 3776,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-25T23:05:27.9301793+00:00",
+      "NumProgressed": 3777,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7469,7 +7474,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7525,7 +7530,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7539,9 +7544,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1737
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7629,7 +7634,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7661,7 +7666,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7701,7 +7706,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7725,7 +7730,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7837,7 +7842,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8028,13 +8033,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3727,
+      "Progressed": 3728,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3776,
+      "Progressed": 3777,
       "Completed": 11
     }
   ],
@@ -8042,8 +8047,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:06:53.2286933+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:05:27.9301787+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:58:38.1842565+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:06:53.2288076+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:58:03.3137249+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:05:27.9302936+00:00"
 }

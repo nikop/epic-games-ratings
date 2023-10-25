@@ -5,17 +5,17 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~18,081 |
-| The Killing Jar | 8.00% | ~16,072 |
-| Not Your Average Trait | 8.00% | ~16,072 |
-| Expanding Horizons | 7.00% | ~14,063 |
-| Quest for Survival | 7.00% | ~14,063 |
-| Gleaming the Cube | 6.00% | ~12,054 |
-| Not a Janitor | 6.00% | ~12,054 |
-| Familiar Face | 6.00% | ~12,054 |
-| Duality | 6.00% | ~12,054 |
-| Boss'n Up | 6.00% | ~12,054 |
-| Trait Chaser | 6.00% | ~12,054 |
+| First of Many | 9.00% | ~18,082 |
+| The Killing Jar | 8.00% | ~16,073 |
+| Not Your Average Trait | 8.00% | ~16,073 |
+| Expanding Horizons | 7.00% | ~14,064 |
+| Quest for Survival | 7.00% | ~14,064 |
+| Gleaming the Cube | 6.00% | ~12,055 |
+| Not a Janitor | 6.00% | ~12,055 |
+| Familiar Face | 6.00% | ~12,055 |
+| Duality | 6.00% | ~12,055 |
+| Boss'n Up | 6.00% | ~12,055 |
+| Trait Chaser | 6.00% | ~12,055 |
 | Not So Special Now | 5.00% | ~10,045 |
 | Equal Measures | 5.00% | ~10,045 |
 | Blue Goddess | 5.00% | ~10,045 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 119)
 | Cutting Edge | 1.00% | ~2,009 |
 | Proving Grounds | 1.00% | ~2,009 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,896 (Ranked 69)  
+Progressed: 200,909 (Ranked 69)  
 Completed: 406 (0.20%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 406 (0.20%) (Ranked 233)
 | 2023-10-22 | 199,607 | 401 |
 | 2023-10-23 | 200,060 | 403 |
 | 2023-10-24 | 200,493 | 405 |
-| 2023-10-25 | 200,896 | 406 |
+| 2023-10-25 | 200,909 | 406 |
 ## Awards
 Max (Great Boss Battles): 1,902  (Ranked 114)  
 Sum: 4,163 (Ranked 147)  

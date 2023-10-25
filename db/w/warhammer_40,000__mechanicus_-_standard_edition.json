@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -804,9 +804,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225628,
+  "EOS_Progressed": 225634,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21389,6 +21389,11 @@
       "Time": "2023-10-25T22:10:26.9573644+00:00",
       "NumProgressed": 225628,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T23:09:33.0152162+00:00",
+      "NumProgressed": 225634,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21400,7 +21405,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42869
+      "UsersEstimate": 42870
     },
     {
       "ID": "ACH_BASE_10",
@@ -21408,7 +21413,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58663
+      "UsersEstimate": 58665
     },
     {
       "ID": "ACH_BASE_11",
@@ -21648,7 +21653,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27075
+      "UsersEstimate": 27076
     },
     {
       "ID": "ACH_BASE_8",
@@ -21671,7 +21676,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225628,
+      "Progressed": 225634,
       "Completed": 5
     }
   ],
@@ -21679,8 +21684,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-25T20:59:12.845387+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:10:26.9573639+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:09:33.0152152+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:00:15.494426+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:10:26.9575545+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:59:09.8729547+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:09:33.0153628+00:00"
 }

@@ -7547,10 +7547,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32200,
       "NumberOfAwardsMax": 5444
+    },
+    {
+      "Time": "2023-10-25T23:00:36.0484728+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32204,
+      "NumberOfAwardsMax": 5444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32200,
+  "NumberOfAwards": 32204,
   "NumberOfAwardsMax": 5444,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7564,7 +7570,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5437
+      "Count": 5441
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7597,9 +7603,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232812,
+  "EOS_Progressed": 232814,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28622,6 +28628,11 @@
       "Time": "2023-10-25T22:04:49.5607676+00:00",
       "NumProgressed": 232812,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-10-25T23:04:11.1295421+00:00",
+      "NumProgressed": 232814,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 528,
@@ -28633,7 +28644,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "objective_completed_10",
@@ -32375,9 +32386,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_902",
@@ -32856,21 +32867,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199086,
+      "Progressed": 199088,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232812,
+      "Progressed": 232814,
       "Completed": 2387
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-25T19:01:41.3869209+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:04:49.5607671+00:00",
+  "LastChanged": "2023-10-25T23:00:36.0484726+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:04:11.1295415+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:02:24.1573101+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:04:49.5641644+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:00:36.0484736+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:04:11.132453+00:00"
 }

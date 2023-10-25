@@ -6,7 +6,9 @@ Rating: 4.60 (Ranked 401)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Urshanabi Hoarder | 0.10% | ~14 |
+| Oyedang, Kopengs | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
+| Drug Gifter | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Heal Thy Medic | 0.10% | ~14 |
 | Captain Drummer | 0.10% | ~14 |
@@ -14,9 +16,7 @@ Rating: 4.60 (Ranked 401)
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
-| Oyedang, Kopengs | 0.00% | ~0 |
 | Stogie for Fogey | 0.00% | ~0 |
-| Drug Gifter | 0.00% | ~0 |
 | Spore Taste | 0.00% | ~0 |
 | Bottoms up! | 0.00% | ~0 |
 | Martian Music | 0.00% | ~0 |

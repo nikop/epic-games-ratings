@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 422,
-  "Ranking_Popularity": 215,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -7737,11 +7737,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 3855,
       "NumberOfAwardsMax": 433
+    },
+    {
+      "Time": "2023-10-25T22:59:03.3856323+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 3863,
+      "NumberOfAwardsMax": 438
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3855,
-  "NumberOfAwardsMax": 433,
+  "NumberOfAwards": 3863,
+  "NumberOfAwardsMax": 438,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -7766,7 +7772,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 433
+      "Count": 438
     },
     {
       "Text": "This game is Relaxing",
@@ -7778,7 +7784,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 319
+      "Count": 322
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7829,8 +7835,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-10-25T17:00:02.1365813+00:00",
+  "LastChanged": "2023-10-25T22:59:03.385632+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:26.8124462+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:00:06.7905681+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:10:36.883995+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:59:03.3856329+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:09:39.8601486+00:00"
 }

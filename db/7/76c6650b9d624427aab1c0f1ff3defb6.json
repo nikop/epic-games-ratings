@@ -4,8 +4,8 @@
   "ProductSlug": "the-repair-house-349cf9",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-18T09:00:00+00:00",
     "PcReleaseDate": "2023-07-19T13:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T12:01:01.0703502+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:07:32.1081563+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:05:54.7677253+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:57.7112253+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:57:32.4113866+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:07:32.1081609+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:57:24.6683677+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:05:54.7677286+00:00"
 }

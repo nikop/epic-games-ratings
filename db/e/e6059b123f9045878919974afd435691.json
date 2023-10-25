@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 953,
+  "EOS_Progressed": 954,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2369,6 +2369,11 @@
       "Time": "2023-10-25T13:11:23.0850233+00:00",
       "NumProgressed": 953,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T23:06:15.2569716+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2380,7 +2385,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2388,15 +2393,15 @@
       "Name": "How Many Do You Need?",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "FULLCLIP",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 181
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2508,7 +2513,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2580,7 +2585,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2596,7 +2601,7 @@
       "Name": "Fire Alarm",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2620,7 +2625,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2628,7 +2633,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2666,9 +2671,9 @@
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 324
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2740,7 +2745,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2828,7 +2833,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2907,14 +2912,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 953,
+      "Progressed": 954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:08:01.7988268+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:06:15.2569709+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:02:18.8269741+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:08:01.7989214+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:00:33.2173569+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:06:15.2570543+00:00"
 }

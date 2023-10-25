@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.80% | ~1,862 |
+| A Brief Tour of the Realms | 0.80% | ~1,863 |
 | Beast Intentions | 0.40% | ~931 |
 | The Cursed Farmer | 0.40% | ~931 |
 | Foul Play | 0.40% | ~796 |
@@ -30,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Idyllglen | 0.20% | ~398 |
 | The Battle of High Hall Tower | 0.20% | ~398 |
 | Elturel's Last Stand | 0.20% | ~398 |
+| Pure Energy | 0.20% | ~466 |
 | The Hunt for The Last Breath | 0.20% | ~398 |
 | To Infinity's and Beyond | 0.20% | ~398 |
 | Legends and Lore | 0.20% | ~398 |
@@ -484,7 +485,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~199 |
 | Mysteries Unlocked | 0.10% | ~199 |
 | Male Pattern Boldness | 0.10% | ~199 |
-| Pure Energy | 0.10% | ~233 |
 | Tekeli-li's Hunt | 0.10% | ~199 |
 | Cackling Horror | 0.10% | ~199 |
 | Working for the Weak End | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,812 (Ranked 61)  
+Progressed: 232,814 (Ranked 61)  
 Completed: 2,387 (1.03%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -723,15 +723,15 @@ Completed: 2,387 (1.03%) (Ranked 148)
 | 2023-10-22 | 232,589 | 2,379 |
 | 2023-10-23 | 232,670 | 2,380 |
 | 2023-10-24 | 232,755 | 2,384 |
-| 2023-10-25 | 232,812 | 2,387 |
+| 2023-10-25 | 232,814 | 2,387 |
 ## Awards
 Max (Great for Beginners): 5,444  (Ranked 69)  
-Sum: 32,200 (Ranked 41)  
+Sum: 32,204 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,444 |
-| This game has Diverse Characters | 5,437 |
+| This game has Diverse Characters | 5,441 |
 | This game has Quickly Understood Controls | 4,799 |
 | This game is Relaxing | 4,688 |
 | This game has Amazing Characters | 4,175 |
@@ -1012,4 +1012,4 @@ Diff (max vs sum): 28
 | 2023-10-22 | 4.06 | - | 5,437 | 32,168 |
 | 2023-10-23 | 4.06 | - | 5,442 | 32,183 |
 | 2023-10-24 | 4.06 | - | 5,444 | 32,194 |
-| 2023-10-25 | 4.06 | - | 5,444 | 32,200 |
+| 2023-10-25 | 4.06 | - | 5,444 | 32,204 |

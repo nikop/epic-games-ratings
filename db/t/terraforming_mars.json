@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2941,9 +2941,9 @@
       "Count": 246
     }
   ],
-  "EOS_Progressed": 80266,
+  "EOS_Progressed": 80267,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -23826,6 +23826,11 @@
       "Time": "2023-10-25T22:06:52.4464112+00:00",
       "NumProgressed": 80266,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-10-25T23:05:27.3480616+00:00",
+      "NumProgressed": 80267,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 30,
@@ -23917,7 +23922,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29698
+      "UsersEstimate": 29699
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -23925,7 +23930,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22474
+      "UsersEstimate": 22475
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -24076,15 +24081,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80266,
+      "Progressed": 80267,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-25T21:59:32.226501+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:06:52.4464107+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:05:27.3480608+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.8498885+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:59:32.2265021+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:06:52.4465688+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:58:39.2631066+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:05:27.3482081+00:00"
 }

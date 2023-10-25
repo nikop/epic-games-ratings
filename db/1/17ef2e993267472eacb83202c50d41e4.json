@@ -3,12 +3,12 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 997,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 539,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -5593,8 +5593,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:11:02.5132705+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:09:58.1406266+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:01:47.5089489+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:11:02.5133771+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:00:13.7788819+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:09:58.1407375+00:00"
 }

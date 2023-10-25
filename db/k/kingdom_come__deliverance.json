@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8035,10 +8035,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28077,
       "NumberOfAwardsMax": 7547
+    },
+    {
+      "Time": "2023-10-25T23:03:14.9854741+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28081,
+      "NumberOfAwardsMax": 7547
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28077,
+  "NumberOfAwards": 28081,
   "NumberOfAwardsMax": 7547,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8076,13 +8082,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1762
+      "Count": 1764
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1600
+      "Count": 1602
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8121,9 +8127,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806005,
+  "EOS_Progressed": 806007,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29196,6 +29202,11 @@
       "Time": "2023-10-25T22:04:32.8979917+00:00",
       "NumProgressed": 806005,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-25T23:03:58.9660724+00:00",
+      "NumProgressed": 806007,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29319,7 +29330,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201501
+      "UsersEstimate": 201502
     },
     {
       "ID": "Chivalrous",
@@ -29367,7 +29378,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80600
+      "UsersEstimate": 80601
     },
     {
       "ID": "DavidHorak",
@@ -29407,7 +29418,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185381
+      "UsersEstimate": 185382
     },
     {
       "ID": "Fighter",
@@ -29487,7 +29498,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72540
+      "UsersEstimate": 72541
     },
     {
       "ID": "HardcoreHenry",
@@ -29862,15 +29873,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806005,
+      "Progressed": 806007,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-25T21:02:11.3282709+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:04:32.897991+00:00",
+  "LastChanged": "2023-10-25T23:03:14.9854739+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:03:58.9660716+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:03:36.1243994+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:04:32.8982258+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:03:14.9854746+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:03:58.9662913+00:00"
 }

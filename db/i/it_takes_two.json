@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15996,
+  "EOS_Progressed": 15997,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1543,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -4158,6 +4158,11 @@
       "Time": "2023-10-25T22:09:15.0869062+00:00",
       "NumProgressed": 15996,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-25T23:07:13.9746516+00:00",
+      "NumProgressed": 15997,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4170,7 +4175,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 6718
+      "UsersEstimate": 6719
     },
     {
       "ID": "achievement_10",
@@ -4242,7 +4247,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "achievement_19",
@@ -4282,7 +4287,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 14076
+      "UsersEstimate": 14077
     },
     {
       "ID": "achievement_5",
@@ -4306,7 +4311,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 12637
+      "UsersEstimate": 12638
     },
     {
       "ID": "achievement_8",
@@ -4314,7 +4319,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "achievement_9",
@@ -4329,13 +4334,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 15996,
+      "Progressed": 15997,
       "Completed": 72
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:09:15.0869057+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:07:13.9746511+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.5861256+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:00:03.5729991+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:09:15.086962+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:59:01.2510733+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:07:13.9746949+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1798,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1792,
+  "EOS_NewPlayers": 1785,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -815,6 +815,11 @@
       "Time": "2023-10-25T22:09:48.2872744+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T23:08:26.5621238+00:00",
+      "NumProgressed": 1798,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -905,9 +910,9 @@
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "GarbageMan",
@@ -977,9 +982,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1009,9 +1014,9 @@
       "ID": "TheFloorIsLava",
       "SetID": "acc6ea0",
       "Name": "The Floor Is Lava",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1098,13 +1103,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1798,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T22:09:48.2872737+00:00",
+  "LastChanged_Achievements": "2023-10-25T23:08:26.5621218+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T21:59:53.9863023+00:00",
-  "LastUpdate_Achievements": "2023-10-25T22:09:48.2873054+00:00"
+  "LastUpdate_Ratings": "2023-10-25T22:58:55.9505376+00:00",
+  "LastUpdate_Achievements": "2023-10-25T23:08:26.5621526+00:00"
 }

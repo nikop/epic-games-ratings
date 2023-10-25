@@ -12,7 +12,7 @@
 | Your Training Continues | 31.00% | ~34 |
 | Armored | 29.00% | ~32 |
 | Amokuali Tower | 28.00% | ~31 |
-| Freedom | 26.00% | ~29 |
+| Freedom | 27.00% | ~30 |
 | Winner | 25.00% | ~28 |
 | The Pride of Moozhaw | 22.00% | ~24 |
 | Omnia Vincit Amor | 22.00% | ~24 |
