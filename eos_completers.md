@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.88% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.68% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.66% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 46 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.48% |
+| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.47% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 53 | [Scorn](games/s/scorn.md) | 6.99% |
@@ -111,7 +111,7 @@
 | 109 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 110 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
 | 111 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
-| 111 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
+| 112 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.39% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 114 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 115 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.23% |
@@ -126,23 +126,23 @@
 | 124 | [Night Book](games/n/night_book.md) | 1.74% |
 | 125 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.71% |
 | 126 | [Somerville](games/s/somerville.md) | 1.70% |
-| 127 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.62% |
-| 128 | [Five Dates](games/f/five_dates.md) | 1.57% |
-| 129 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 130 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 130 | [Late Shift](games/l/late_shift.md) | 1.47% |
-| 132 | [Iron Danger](games/i/iron_danger.md) | 1.42% |
-| 133 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
-| 133 | [Poosh XL](games/p/poosh_xl.md) | 1.37% |
-| 133 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
-| 136 | [Chorus](games/c/chorus.md) | 1.36% |
-| 137 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
-| 138 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
-| 139 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
-| 140 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
-| 141 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 142 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
-| 143 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.09% |
+| 127 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.64% |
+| 128 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.62% |
+| 129 | [Five Dates](games/f/five_dates.md) | 1.57% |
+| 130 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 131 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
+| 131 | [Late Shift](games/l/late_shift.md) | 1.47% |
+| 133 | [Iron Danger](games/i/iron_danger.md) | 1.42% |
+| 134 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.37% |
+| 134 | [Poosh XL](games/p/poosh_xl.md) | 1.37% |
+| 134 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
+| 137 | [Chorus](games/c/chorus.md) | 1.36% |
+| 138 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
+| 139 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
+| 140 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
+| 141 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
+| 142 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
+| 143 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
 | 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 145 | [Adios](games/a/adios.md) | 1.05% |
 | 145 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -181,12 +181,12 @@
 | 179 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 180 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 180 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 182 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.54% |
-| 183 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 184 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.52% |
+| 182 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 182 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.53% |
 | 184 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 186 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
+| 185 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
+| 186 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.50% |
+| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.47% |
 | 188 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 188 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.47% |
