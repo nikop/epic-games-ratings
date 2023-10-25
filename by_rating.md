@@ -14,7 +14,7 @@
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 539 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 443 | 211 |
 | 10 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 539 |
-| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,458 | 21 |
+| 10 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 19,479 | 21 |
 | 16 | [God of War](games/g/god_of_war.md) | 4.88 | 4,276 | 81 |
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,034 | 147 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 539 |
@@ -212,7 +212,7 @@
 | 207 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 442 | 212 |
 | 207 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,668 | 48 |
 | 207 | [For The King](games/f/for_the_king.md) | 4.70 | 399 | 222 |
-| 207 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,332 | 133 |
+| 207 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,333 | 133 |
 | 207 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 138 | 315 |
 | 207 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,912 | 113 |
 | 207 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.70 | 56 | 408 |
@@ -518,7 +518,7 @@
 | 495 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,321 | 134 |
 | 517 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 508 |
 | 517 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,514 | 126 |
-| 517 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,597 | 57 |
+| 517 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,625 | 57 |
 | 517 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 459 |
 | 517 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 539 |
 | 517 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 23 | 518 |
@@ -538,7 +538,7 @@
 | 530 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 539 |
 | 530 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 539 |
 | 530 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 539 |
-| 530 | [VALORANT](games/v/valorant.md) | 4.53 | 77,080 | 10 |
+| 530 | [VALORANT](games/v/valorant.md) | 4.53 | 77,210 | 10 |
 | 530 | [Verdun](games/v/verdun.md) | 4.53 | 97 | 353 |
 | 541 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 0 | 539 |
 | 541 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 539 |
@@ -677,7 +677,7 @@
 | 663 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 539 |
 | 663 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 351 |
 | 663 | [The Surge](games/t/the_surge.md) | 4.44 | 29 | 485 |
-| 663 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 804 | 166 |
+| 663 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 805 | 166 |
 | 663 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 406 |
 | 663 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 24 | 513 |
 | 681 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.43 | 0 | 539 |
@@ -726,7 +726,7 @@
 | 708 | [Sheltered](games/s/sheltered.md) | 4.41 | 274 | 254 |
 | 708 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 117 | 334 |
 | 708 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 539 |
-| 708 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,446 | 131 |
+| 708 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,448 | 131 |
 | 728 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,044 | 145 |
 | 728 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 539 |
 | 728 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 47 | 430 |
@@ -799,7 +799,7 @@
 | 797 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 539 |
 | 797 | [Filament](games/f/filament.md) | 4.33 | 566 | 198 |
 | 797 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 539 |
-| 797 | [Paladins](games/p/paladins.md) | 4.33 | 3,745 | 87 |
+| 797 | [Paladins](games/p/paladins.md) | 4.33 | 3,749 | 87 |
 | 797 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 539 |
 | 797 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 539 |
 | 797 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 521 |

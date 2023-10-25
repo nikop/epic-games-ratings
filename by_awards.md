@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,551 | 4.51 | 555 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,309 | 4.69 | 224 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 101,212 | 4.64 | 324 |
-| 10 | [VALORANT](games/v/valorant.md) | 77,080 | 4.53 | 530 |
+| 10 | [VALORANT](games/v/valorant.md) | 77,210 | 4.53 | 530 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,577 | 4.58 | 439 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,533 | 4.61 | 377 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,346 | 4.74 | 150 |
@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 23,095 | 4.53 | 530 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,492 | 4.26 | 851 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,987 | 4.57 | 459 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,458 | 4.89 | 10 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,479 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,927 | 4.60 | 401 |
 | 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 17,175 | 4.74 | 150 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 16,990 | 4.21 | 884 |
@@ -56,7 +56,7 @@
 | 54 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 700 |
 | 55 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,683 | 4.77 | 111 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,667 | 4.69 | 224 |
-| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,597 | 4.54 | 517 |
+| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,625 | 4.54 | 517 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,472 | 4.58 | 439 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,463 | 4.80 | 82 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,321 | 4.75 | 139 |
@@ -86,7 +86,7 @@
 | 84 | [Days Gone](games/d/days_gone.md) | 3,997 | 4.68 | 243 |
 | 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,825 | 4.27 | 844 |
 | 86 | [Trackmania](games/t/trackmania.md) | 3,752 | 4.67 | 268 |
-| 87 | [Paladins](games/p/paladins.md) | 3,745 | 4.33 | 797 |
+| 87 | [Paladins](games/p/paladins.md) | 3,749 | 4.33 | 797 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,732 | 4.68 | 243 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,650 | 4.46 | 634 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,559 | 4.47 | 626 |
@@ -130,9 +130,9 @@
 | 128 | [Ring of Pain](games/r/ring_of_pain.md) | 1,498 | 4.58 | 439 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,485 | 4.53 | 530 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,472 | 4.87 | 23 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,446 | 4.41 | 708 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,448 | 4.41 | 708 |
 | 132 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,359 | 4.63 | 339 |
-| 133 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,332 | 4.70 | 207 |
+| 133 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,333 | 4.70 | 207 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,321 | 4.55 | 495 |
 | 135 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,315 | 4.47 | 626 |
 | 136 | [DOOM 64](games/d/doom_64.md) | 1,297 | 4.66 | 284 |
@@ -165,7 +165,7 @@
 | 163 | [Frostpunk](games/f/frostpunk.md) | 826 | 4.74 | 150 |
 | 164 | [The Long Dark](games/t/the_long_dark.md) | 825 | 4.74 | 150 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 822 | 4.61 | 377 |
-| 166 | [Train Valley 2](games/t/train_valley_2.md) | 804 | 4.44 | 663 |
+| 166 | [Train Valley 2](games/t/train_valley_2.md) | 805 | 4.44 | 663 |
 | 167 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 802 | 4.82 | 62 |
 | 168 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 783 | 4.79 | 92 |
 | 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 781 | 4.75 | 139 |
