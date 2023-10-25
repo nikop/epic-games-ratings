@@ -38,7 +38,7 @@
 | 36 | [SnowRunner](games/s/snowrunner.md) | 11,598 | 4.76 | 119 |
 | 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,542 | 4.69 | 224 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,408 | 4.78 | 101 |
-| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,293 | 4.61 | 377 |
+| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,297 | 4.61 | 377 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,633 | 4.57 | 459 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,045 | 4.58 | 439 |
 | 42 | [Control](games/c/control.md) | 8,617 | 4.60 | 401 |
@@ -55,12 +55,12 @@
 | 53 | [Sifu](games/s/sifu.md) | 6,731 | 4.82 | 62 |
 | 54 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 700 |
 | 55 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,683 | 4.77 | 111 |
-| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,667 | 4.69 | 224 |
+| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,676 | 4.69 | 224 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,625 | 4.54 | 517 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,472 | 4.58 | 439 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,463 | 4.80 | 82 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,330 | 4.75 | 139 |
-| 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,064 | 4.79 | 92 |
+| 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,065 | 4.79 | 92 |
 | 62 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,984 | 4.64 | 324 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,954 | 4.82 | 62 |
 | 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,931 | 4.66 | 284 |
@@ -198,7 +198,7 @@
 | 196 | [Vampyr](games/v/vampyr.md) | 570 | 4.32 | 805 |
 | 197 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 568 | 4.67 | 268 |
 | 198 | [Filament](games/f/filament.md) | 566 | 4.33 | 797 |
-| 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 552 | 4.07 | 959 |
+| 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 555 | 4.07 | 959 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 539 | 4.61 | 377 |
 | 201 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 526 | 4.86 | 28 |
 | 202 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 517 |
@@ -257,9 +257,9 @@
 | 255 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 272 | 4.61 | 377 |
 | 256 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 271 | 4.84 | 48 |
 | 257 | [MudRunner](games/m/mudrunner.md) | 269 | 4.61 | 377 |
-| 258 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 439 |
-| 259 | [Roller Champions™](games/r/roller_champions™.md) | 260 | 4.34 | 788 |
-| 259 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 260 | 4.37 | 760 |
+| 258 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 263 | 4.37 | 760 |
+| 259 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 439 |
+| 260 | [Roller Champions™](games/r/roller_champions™.md) | 260 | 4.34 | 788 |
 | 261 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 254 | 4.45 | 650 |
 | 262 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 252 | 4.83 | 56 |
 | 263 | [Crysis Remastered](games/c/crysis_remastered.md) | 250 | 4.41 | 708 |
@@ -366,7 +366,7 @@
 | 364 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 495 |
 | 365 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 576 |
 | 366 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 89 | 4.62 | 356 |
-| 366 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 89 | 4.14 | 932 |
+| 366 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 89 | 4.15 | 925 |
 | 368 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 88 | 3.81 | 1,011 |
 | 369 | [Barony](games/b/barony.md) | 87 | 4.72 | 179 |
 | 369 | [Returnal™](games/r/returnal™.md) | 87 | 4.61 | 377 |
@@ -501,7 +501,7 @@
 | 498 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 788 |
 | 498 | [DOOM II](games/d/doom_ii.md) | 27 | 4.65 | 303 |
 | 498 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 476 |
-| 498 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 932 |
+| 498 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 933 |
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 495 |
 | 498 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 224 |
 | 505 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 767 |
