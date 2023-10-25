@@ -6,14 +6,14 @@ Rating: 4.19 (Ranked 901)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,300 |
-| Paper Jams | 7.00% | ~1,137 |
+| Paper Jams | 7.00% | ~1,138 |
 | Flesh Wound | 6.00% | ~975 |
 | Float Like A Butterfly | 6.00% | ~975 |
-| Two Heads Are Better Than One | 5.00% | ~812 |
-| Chew 'Em Up | 5.00% | ~812 |
-| Reforged | 5.00% | ~812 |
-| The Outer Way | 5.00% | ~812 |
-| Desperate Times | 5.00% | ~812 |
+| Two Heads Are Better Than One | 5.00% | ~813 |
+| Chew 'Em Up | 5.00% | ~813 |
+| Reforged | 5.00% | ~813 |
+| The Outer Way | 5.00% | ~813 |
+| Desperate Times | 5.00% | ~813 |
 | Keep Fighting | 5.00% | ~209 |
 | You Need a Gun | 4.00% | ~650 |
 | I Do Belong Here | 4.00% | ~650 |
@@ -26,9 +26,9 @@ Rating: 4.19 (Ranked 901)
 | Full Circle | 4.00% | ~650 |
 | Power Up | 4.00% | ~650 |
 | It's Time | 4.00% | ~167 |
-| Giving Back | 3.00% | ~487 |
-| Terminated | 3.00% | ~487 |
-| The Commonality | 3.00% | ~487 |
+| Giving Back | 3.00% | ~488 |
+| Terminated | 3.00% | ~488 |
+| The Commonality | 3.00% | ~488 |
 | In Striking Distance | 2.00% | ~325 |
 | One Last Job | 2.00% | ~84 |
 | This Isn't About Escape | 1.00% | ~42 |
@@ -42,7 +42,7 @@ Rating: 4.19 (Ranked 901)
 | Instigator | 0.40% | ~17 |
 | Subject Alpha | 0.30% | ~13 |
 | Don't Let It Mellow | 0.30% | ~13 |
-| The Protocol is About Life | 0.20% | ~32 |
+| The Protocol is About Life | 0.20% | ~33 |
 | Hoard Mode | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 901)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,249 (Ranked 135)  
-Completed: 77 (0.47%) (Ranked 187)  
+Progressed: 16,251 (Ranked 135)  
+Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 77 (0.47%) (Ranked 187)
 | 2023-10-22 | 16,196 | 77 |
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
-| 2023-10-25 | 16,249 | 77 |
+| 2023-10-25 | 16,251 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
 Sum: 453 (Ranked 323)  

@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.9604666+00:00",
-  "LastUpdate_Ratings": "2023-10-25T12:00:30.1625655+00:00",
-  "LastUpdate_Achievements": "2023-10-25T12:06:39.9418712+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:06:28.3280171+00:00",
+  "LastUpdate_Achievements": "2023-10-25T13:12:45.6941953+00:00"
 }

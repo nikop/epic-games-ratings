@@ -10,7 +10,7 @@
 | Our efforts are finally yielding progress | 21.00% | ~97 |
 | This looks really bad | 19.00% | ~88 |
 | Unholy lands | 16.00% | ~74 |
-| Unveiling the Magnitude of Sin | 10.00% | ~46 |
+| Unveiling the Magnitude of Sin | 11.00% | ~51 |
 | The court | 8.00% | ~37 |
 | Holy Nails | 6.00% | ~28 |
 | The crucifixion | 5.00% | ~23 |
@@ -20,7 +20,7 @@
 | Humility | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 464 (Ranked 287)  
-Completed: 2 (0.43%) (Ranked 197)  
+Completed: 3 (0.65%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,4 +119,4 @@ Completed: 2 (0.43%) (Ranked 197)
 | 2023-10-22 | 441 | 2 |
 | 2023-10-23 | 453 | 2 |
 | 2023-10-24 | 459 | 2 |
-| 2023-10-25 | 464 | 2 |
+| 2023-10-25 | 464 | 3 |

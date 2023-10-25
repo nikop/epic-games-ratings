@@ -16,12 +16,12 @@ Rating: 4.57 (Ranked 459)
 | Ladies' man | 67.00% | ~6 |
 | The merciful one | 56.00% | ~5 |
 | Field hand | 56.00% | ~5 |
+| Ferocious wild boars | 56.00% | ~5 |
 | Death of a legend | 44.00% | ~4 |
 | Archaeologist | 44.00% | ~4 |
 | Little hero | 44.00% | ~4 |
 | Freedom fighter | 44.00% | ~4 |
 | Pandora's box | 44.00% | ~4 |
-| Ferocious wild boars | 44.00% | ~4 |
 | Beast slayer | 44.00% | ~4 |
 | Ogre friend | 44.00% | ~4 |
 | The fourth triplet | 44.00% | ~4 |

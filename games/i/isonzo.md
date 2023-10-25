@@ -6,20 +6,20 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,892 |
-| Peak Performance | 54.00% | ~3,822 |
-| You Shall Not Pass | 54.00% | ~3,822 |
-| Avanti Savoia! | 48.00% | ~3,397 |
-| Mamma Mia! | 38.00% | ~2,689 |
+| Tutti Eroi! | 55.00% | ~3,893 |
+| Peak Performance | 54.00% | ~3,823 |
+| You Shall Not Pass | 54.00% | ~3,823 |
+| Avanti Savoia! | 48.00% | ~3,398 |
+| Mamma Mia! | 38.00% | ~2,690 |
 | Conrad von Hotzensocks | 36.00% | ~2,548 |
-| Gabriele D'Annunzio | 34.00% | ~2,406 |
+| Gabriele D'Annunzio | 34.00% | ~2,407 |
 | Silver Lining | 31.00% | ~2,194 |
-| Aurelio Baruzzi | 24.00% | ~1,698 |
+| Aurelio Baruzzi | 24.00% | ~1,699 |
 | Decimation | 22.00% | ~1,557 |
 | Donatello | 22.00% | ~1,557 |
 | The Italian Job | 22.00% | ~1,557 |
 | Veni Vidi Vici | 22.00% | ~1,557 |
-| Insubordination | 20.00% | ~1,415 |
+| Insubordination | 20.00% | ~1,416 |
 | Ragazzi del '99 | 19.00% | ~1,345 |
 | The Lion of the Isonzo | 18.00% | ~1,274 |
 | Luigi Cadorna | 15.00% | ~1,062 |
@@ -30,12 +30,12 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~920 |
 | Thus With A Kiss | 13.00% | ~920 |
 | The Devil's Paintbrush | 12.00% | ~849 |
-| Dante's Inferno | 11.00% | ~778 |
-| Millenial | 11.00% | ~778 |
+| Dante's Inferno | 11.00% | ~779 |
+| Millenial | 11.00% | ~779 |
 | I Have the High Ground | 10.00% | ~708 |
 | The Show Must Go On | 9.00% | ~637 |
 | Tosca | 9.00% | ~637 |
-| 12th Bottle of the Isonzo | 7.00% | ~495 |
+| 12th Bottle of the Isonzo | 7.00% | ~496 |
 | Cercatore d'Oro | 6.00% | ~425 |
 | The Enlightment | 6.00% | ~425 |
 | Generalissimo | 5.00% | ~354 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,077 (Ranked 165)  
+Progressed: 7,079 (Ranked 165)  
 Completed: 9 (0.13%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 9 (0.13%) (Ranked 246)
 | 2023-10-22 | 7,073 | 9 |
 | 2023-10-23 | 7,075 | 9 |
 | 2023-10-24 | 7,077 | 9 |
+| 2023-10-25 | 7,079 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 459)  
 Sum: 274 (Ranked 365)  

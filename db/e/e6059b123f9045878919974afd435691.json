@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-10-25T11:06:16.8341652+00:00",
       "NumProgressed": 952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T13:11:23.0850233+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2397,9 +2402,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 95
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2415,7 +2420,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2447,7 +2452,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2495,7 +2500,7 @@
       "Name": "Burnt Smell",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2655,23 +2660,23 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 334
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 257
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2727,7 +2732,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2902,14 +2907,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-25T12:05:36.1729011+00:00",
+  "LastChanged_Achievements": "2023-10-25T13:11:23.0850228+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-25T12:00:06.4342357+00:00",
-  "LastUpdate_Achievements": "2023-10-25T12:05:36.1729645+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:05:52.6509573+00:00",
+  "LastUpdate_Achievements": "2023-10-25T13:11:23.085088+00:00"
 }

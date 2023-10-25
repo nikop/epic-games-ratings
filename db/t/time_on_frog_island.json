@@ -2,9 +2,9 @@
   "ID": "ab4dbb7ed03c4ee49d810b7c018cd894",
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -130,6 +130,11 @@
       "Time": "2023-10-18T18:05:26.7576965+00:00",
       "NumProgressed": 19,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T13:11:29.3342224+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -140,7 +145,7 @@
       "ID": "a1",
       "SetID": "cdg65ol",
       "Name": "Frogs Legs",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -156,7 +161,7 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -164,7 +169,7 @@
       "ID": "a12",
       "SetID": "cdg65ol",
       "Name": "Who Even Needs Keys",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "a15",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Townlife",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -196,7 +201,7 @@
       "ID": "a16",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Ruins of old",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -204,7 +209,7 @@
       "ID": "a17",
       "SetID": "cdg65ol",
       "Name": "Shrub-Seeing: Silly Birbs",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -228,7 +233,7 @@
       "ID": "a2",
       "SetID": "cdg65ol",
       "Name": "Yeet!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -236,7 +241,7 @@
       "ID": "a20",
       "SetID": "cdg65ol",
       "Name": "Couch-surfing",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -244,7 +249,7 @@
       "ID": "a21",
       "SetID": "cdg65ol",
       "Name": "Sailor Swift",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -260,7 +265,7 @@
       "ID": "a23",
       "SetID": "cdg65ol",
       "Name": "Mad Scientist",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -268,7 +273,7 @@
       "ID": "a24",
       "SetID": "cdg65ol",
       "Name": "Caught Ya!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -276,7 +281,7 @@
       "ID": "a25",
       "SetID": "cdg65ol",
       "Name": "Safe Investment",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -284,7 +289,7 @@
       "ID": "a26",
       "SetID": "cdg65ol",
       "Name": "Bank of Me",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -300,7 +305,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -316,7 +321,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 79,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -372,7 +377,7 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 84,
+      "Percentage": 80,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -380,7 +385,7 @@
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -388,7 +393,7 @@
       "ID": "a6",
       "SetID": "cdg65ol",
       "Name": "Secure the Sheets",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -396,7 +401,7 @@
       "ID": "a7",
       "SetID": "cdg65ol",
       "Name": "Hands on the Helm",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -404,7 +409,7 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -412,7 +417,7 @@
       "ID": "a9",
       "SetID": "cdg65ol",
       "Name": "The Journey Continues",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
       "UsersEstimate": 2
     }
@@ -421,7 +426,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 1
     }
   ],
@@ -429,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-25T12:05:40.8407689+00:00",
+  "LastChanged_Achievements": "2023-10-25T13:11:29.3342218+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8688161+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:59:20.0131327+00:00",
-  "LastUpdate_Achievements": "2023-10-25T12:05:40.8407934+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:04:50.1599022+00:00",
+  "LastUpdate_Achievements": "2023-10-25T13:11:29.3342456+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,636 |
-| Imprint | 3.00% | ~4,636 |
+| Taste | 3.00% | ~4,637 |
+| Imprint | 3.00% | ~4,637 |
 | The Hunt | 2.00% | ~3,091 |
 | Weeper | 2.00% | ~3,091 |
 | Ravenous | 2.00% | ~3,091 |
-| Harmless | 1.00% | ~1,545 |
-| Silenced Whispers | 1.00% | ~1,545 |
-| Devourer | 1.00% | ~1,545 |
+| Harmless | 1.00% | ~1,546 |
+| Silenced Whispers | 1.00% | ~1,546 |
+| Devourer | 1.00% | ~1,546 |
 | Yank | 0.90% | ~1,391 |
 | Feast | 0.80% | ~1,236 |
 | Sharpened Vessel | 0.80% | ~1,236 |
@@ -31,7 +31,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.40% | ~618 |
 | Inevitable | 0.40% | ~618 |
 | All-Seeing | 0.40% | ~618 |
-| Dream | 0.40% | ~616 |
+| Dream | 0.40% | ~617 |
 | Breath | 0.30% | ~464 |
 | Artisan | 0.30% | ~464 |
 | Breathsmith | 0.30% | ~464 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,541 (Ranked 73)  
+Progressed: 154,552 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-22 | 154,057 | 1 |
 | 2023-10-23 | 154,251 | 1 |
 | 2023-10-24 | 154,456 | 1 |
-| 2023-10-25 | 154,541 | 1 |
+| 2023-10-25 | 154,552 | 1 |
 ## Awards
 Max (Highly Recommended): 47  (Ranked 430)  
 Sum: 316 (Ranked 348)  

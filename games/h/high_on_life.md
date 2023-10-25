@@ -34,6 +34,7 @@ Rating: 4.64 (Ranked 324)
 | We Paid For The Rights To Put A Whole Movie In Here | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Fall In Love With A Parasite | 0.30% | ~5 |
+| Give Away All Your Money | 0.20% | ~3 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
@@ -47,7 +48,6 @@ Rating: 4.64 (Ranked 324)
 | See Salt | 0.10% | ~2 |
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
-| Give Away All Your Money | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,339 (Ranked 123)  

@@ -9,9 +9,9 @@
 | Wanderer | 31.00% | ~5 |
 | A piece of the story | 25.00% | ~4 |
 | It's covered up for a reason | 19.00% | ~3 |
+| Refuse to look | 19.00% | ~3 |
 | Do what you have to | 19.00% | ~3 |
 | Another perspective | 13.00% | ~2 |
-| Refuse to look | 13.00% | ~2 |
 | Scraps of love | 13.00% | ~2 |
 | Debut | 13.00% | ~2 |
 | The artist’s impression | 13.00% | ~2 |
@@ -26,6 +26,7 @@
 | A Slice of Life | 6.00% | ~1 |
 | The Perfect Storm | 6.00% | ~1 |
 | Sign of weakness | 6.00% | ~1 |
+| Fisherman | 6.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
@@ -51,13 +52,12 @@
 | Se7en Seas | 0.00% | ~0 |
 | The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
-| Fisherman | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 | True Reflection | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 519)  
+Progressed: 16 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 84.00% | ~16 |
-| Sea Legs | 79.00% | ~15 |
-| What?! | 53.00% | ~10 |
-| Frogs Legs | 37.00% | ~7 |
-| Mad Scientist | 32.00% | ~6 |
-| Hoist the Sails | 26.00% | ~5 |
-| Secure the Sheets | 26.00% | ~5 |
-| Socialite | 21.00% | ~4 |
-| Couch-surfing | 21.00% | ~4 |
-| Hands on the Helm | 21.00% | ~4 |
-| Who Even Needs Keys | 16.00% | ~3 |
-| Shrub-Seeing: Silly Birbs | 16.00% | ~3 |
-| Replace the Rudder | 16.00% | ~3 |
-| Shrub-Seeing: Townlife | 11.00% | ~2 |
-| Shrub-Seeing: Ruins of old | 11.00% | ~2 |
-| Yeet! | 11.00% | ~2 |
-| Sailor Swift | 11.00% | ~2 |
-| No Evil | 11.00% | ~2 |
-| Caught Ya! | 11.00% | ~2 |
-| Safe Investment | 11.00% | ~2 |
-| Bank of Me | 11.00% | ~2 |
-| The Journey Continues | 11.00% | ~2 |
+| Shipwrecked! | 80.00% | ~16 |
+| Sea Legs | 75.00% | ~15 |
+| What?! | 50.00% | ~10 |
+| Frogs Legs | 35.00% | ~7 |
+| Mad Scientist | 30.00% | ~6 |
+| Hoist the Sails | 25.00% | ~5 |
+| Secure the Sheets | 25.00% | ~5 |
+| Socialite | 20.00% | ~4 |
+| Couch-surfing | 20.00% | ~4 |
+| Hands on the Helm | 20.00% | ~4 |
+| Who Even Needs Keys | 15.00% | ~3 |
+| Shrub-Seeing: Silly Birbs | 15.00% | ~3 |
+| Replace the Rudder | 15.00% | ~3 |
+| Shrub-Seeing: Townlife | 10.00% | ~2 |
+| Shrub-Seeing: Ruins of old | 10.00% | ~2 |
+| Yeet! | 10.00% | ~2 |
+| Sailor Swift | 10.00% | ~2 |
+| No Evil | 10.00% | ~2 |
+| Caught Ya! | 10.00% | ~2 |
+| Safe Investment | 10.00% | ~2 |
+| Bank of Me | 10.00% | ~2 |
+| The Journey Continues | 10.00% | ~2 |
 | Crunch Time | 5.00% | ~1 |
 | One with the frogs | 5.00% | ~1 |
 | Shrub-Seeing: Lights in the sky | 5.00% | ~1 |
@@ -40,8 +40,8 @@
 | Falling with Style | 5.00% | ~1 |
 | Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 508)  
-Completed: 1 (5.26%) (Ranked 63)  
+Progressed: 20 (Ranked 503)  
+Completed: 1 (5.00%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 1 (5.26%) (Ranked 63)
 | 2023-10-12 | 17 | 1 |
 | 2023-10-15 | 18 | 1 |
 | 2023-10-18 | 19 | 1 |
+| 2023-10-25 | 20 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

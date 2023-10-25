@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Caged tiger | 63.00% | ~176 |
 | Gorilla warfare | 59.00% | ~165 |
-| Isenburg's fall | 48.00% | ~134 |
+| Isenburg's fall | 49.00% | ~137 |
 | Pieces of eight! | 42.00% | ~117 |
 | Elephant in the room | 32.00% | ~89 |
 | Aboard the Sea Bird | 31.00% | ~86 |

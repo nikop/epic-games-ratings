@@ -6679,9 +6679,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138100,
+  "EOS_Progressed": 138104,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25909,6 +25909,11 @@
       "Time": "2023-10-25T12:03:33.0657795+00:00",
       "NumProgressed": 138100,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-25T13:08:46.2478364+00:00",
+      "NumProgressed": 138104,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26176,7 +26181,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "craft01",
@@ -26368,7 +26373,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "fuseuncommon",
@@ -26480,7 +26485,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "jackslot03",
@@ -26776,7 +26781,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "workers01",
@@ -26815,15 +26820,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138100,
+      "Progressed": 138104,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-25T10:57:34.0212355+00:00",
-  "LastChanged_Achievements": "2023-10-25T12:03:33.0657789+00:00",
+  "LastChanged_Achievements": "2023-10-25T13:08:46.2478354+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T11:57:28.4686529+00:00",
-  "LastUpdate_Achievements": "2023-10-25T12:03:33.0659876+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:02:17.0505261+00:00",
+  "LastUpdate_Achievements": "2023-10-25T13:08:46.2480442+00:00"
 }

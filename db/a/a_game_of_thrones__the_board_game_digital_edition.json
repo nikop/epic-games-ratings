@@ -1284,7 +1284,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26828,
+  "EOS_Progressed": 26831,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 2,
@@ -21454,6 +21454,11 @@
       "Time": "2023-10-25T12:08:11.5344502+00:00",
       "NumProgressed": 26828,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-25T13:13:26.4903163+00:00",
+      "NumProgressed": 26831,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 22,
@@ -21489,7 +21494,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "1019",
@@ -21505,7 +21510,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "1021",
@@ -21569,7 +21574,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4829
+      "UsersEstimate": 4830
     },
     {
       "ID": "1029",
@@ -21601,7 +21606,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "1033",
@@ -21640,15 +21645,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26828,
+      "Progressed": 26831,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-25T12:08:11.5344498+00:00",
+  "LastChanged_Achievements": "2023-10-25T13:13:26.4903157+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-25T12:03:02.4888543+00:00",
-  "LastUpdate_Achievements": "2023-10-25T12:08:11.5345561+00:00"
+  "LastUpdate_Ratings": "2023-10-25T13:08:03.3301776+00:00",
+  "LastUpdate_Achievements": "2023-10-25T13:13:26.4904225+00:00"
 }

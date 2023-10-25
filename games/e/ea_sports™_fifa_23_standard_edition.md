@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~128,695 |
-| Dead-ball specialist | 63.00% | ~106,682 |
-| Multitasking | 52.00% | ~88,055 |
-| European Legend | 52.00% | ~88,055 |
-| Let the Games Begin | 49.00% | ~82,975 |
-| Balanced Path | 49.00% | ~82,975 |
-| High Grades | 49.00% | ~82,975 |
-| A Moment of Your Time | 47.00% | ~79,588 |
-| Aiming High | 46.00% | ~77,895 |
-| Tactical Tinkerer | 42.00% | ~71,121 |
-| Squad Building Connoisseur | 40.00% | ~67,734 |
-| Intuition and Execution | 40.00% | ~67,734 |
-| The Winning Formula | 38.00% | ~64,348 |
-| Parking the Bus | 29.00% | ~49,107 |
-| Safe House | 28.00% | ~47,414 |
-| Best of Five | 25.00% | ~42,334 |
-| Football is Everything | 24.00% | ~40,641 |
-| The Chosen One | 23.00% | ~38,947 |
-| Fresh Fit | 21.00% | ~35,561 |
-| Bring it on | 17.00% | ~28,787 |
-| Life-Like | 14.00% | ~23,707 |
-| Make the Grade | 13.00% | ~22,014 |
-| I Played Them All | 11.00% | ~18,627 |
-| Specialist | 11.00% | ~18,627 |
-| Teamwork works | 9.00% | ~15,240 |
-| First of Many | 9.00% | ~15,240 |
-| Momentous Achievement | 6.00% | ~10,160 |
-| Shop till you drop | 6.00% | ~10,160 |
-| On the way up | 6.00% | ~10,160 |
-| Volta's best | 5.00% | ~8,467 |
-| In Cahoots | 5.00% | ~8,467 |
-| Tune Your Club | 5.00% | ~8,467 |
-| Becoming Unplayable | 5.00% | ~8,467 |
-| Full-House | 4.00% | ~6,773 |
-| Sharing is Caring | 4.00% | ~6,773 |
+| Power Shot | 76.00% | ~128,733 |
+| Dead-ball specialist | 63.00% | ~106,713 |
+| Multitasking | 52.00% | ~88,081 |
+| European Legend | 52.00% | ~88,081 |
+| Let the Games Begin | 49.00% | ~82,999 |
+| Balanced Path | 49.00% | ~82,999 |
+| High Grades | 49.00% | ~82,999 |
+| A Moment of Your Time | 47.00% | ~79,611 |
+| Aiming High | 46.00% | ~77,918 |
+| Tactical Tinkerer | 42.00% | ~71,142 |
+| Squad Building Connoisseur | 40.00% | ~67,754 |
+| Intuition and Execution | 40.00% | ~67,754 |
+| The Winning Formula | 38.00% | ~64,367 |
+| Parking the Bus | 29.00% | ~49,122 |
+| Safe House | 28.00% | ~47,428 |
+| Best of Five | 25.00% | ~42,346 |
+| Football is Everything | 24.00% | ~40,653 |
+| The Chosen One | 23.00% | ~38,959 |
+| Fresh Fit | 21.00% | ~35,571 |
+| Bring it on | 17.00% | ~28,796 |
+| Life-Like | 14.00% | ~23,714 |
+| Make the Grade | 13.00% | ~22,020 |
+| I Played Them All | 11.00% | ~18,632 |
+| Specialist | 11.00% | ~18,632 |
+| Teamwork works | 9.00% | ~15,245 |
+| First of Many | 9.00% | ~15,245 |
+| Momentous Achievement | 6.00% | ~10,163 |
+| Shop till you drop | 6.00% | ~10,163 |
+| On the way up | 6.00% | ~10,163 |
+| Volta's best | 5.00% | ~8,469 |
+| In Cahoots | 5.00% | ~8,469 |
+| Tune Your Club | 5.00% | ~8,469 |
+| Becoming Unplayable | 5.00% | ~8,469 |
+| Full-House | 4.00% | ~6,775 |
+| Sharing is Caring | 4.00% | ~6,775 |
 | Full wardrobe | 0.60% | ~1,016 |
-| Girl Power | 0.40% | ~677 |
+| Girl Power | 0.40% | ~678 |
 | Training Addict | 0.10% | ~169 |
 | Dazzling Personality | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,336 (Ranked 72)  
+Progressed: 169,386 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-22 | 167,327 | 0 |
 | 2023-10-23 | 168,269 | 0 |
 | 2023-10-24 | 169,046 | 0 |
-| 2023-10-25 | 169,336 | 0 |
+| 2023-10-25 | 169,386 | 0 |
 ## Awards
 Max (Diverse Characters): 20,492  (Ranked 19)  
 Sum: 103,532 (Ranked 14)  

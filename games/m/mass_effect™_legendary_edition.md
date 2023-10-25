@@ -24,7 +24,7 @@
 | Medal of Exploration III | 51.00% | ~410 |
 | Soldier Ally | 50.00% | ~402 |
 | Paramour I | 49.00% | ~393 |
-| Colonial Savior | 48.00% | ~385 |
+| Colonial Savior | 49.00% | ~393 |
 | Scientist | 48.00% | ~385 |
 | Merciless | 47.00% | ~377 |
 | Krogan Ally | 45.00% | ~361 |
