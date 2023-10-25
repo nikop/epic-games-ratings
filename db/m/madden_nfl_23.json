@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -745,9 +745,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2960,
+  "EOS_Progressed": 2961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3985,6 +3985,11 @@
       "Time": "2023-10-25T15:06:47.0102902+00:00",
       "NumProgressed": 2960,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T16:06:05.7731229+00:00",
+      "NumProgressed": 2961,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4005,7 +4010,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "achievement_11",
@@ -4013,7 +4018,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_12",
@@ -4045,7 +4050,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "achievement_16",
@@ -4164,7 +4169,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2960,
+      "Progressed": 2961,
       "Completed": 0
     }
   ],
@@ -4172,8 +4177,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-22T21:58:31.897995+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:06:47.0102895+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:06:05.7731222+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:00:59.331216+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:06:47.0103282+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:00:08.3963748+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:05.7731632+00:00"
 }

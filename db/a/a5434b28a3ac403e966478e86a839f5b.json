@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -1320,6 +1320,11 @@
       "Time": "2023-10-25T15:05:13.4731102+00:00",
       "NumProgressed": 463,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-25T16:04:52.1248649+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1340,7 +1345,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_eou2",
@@ -1364,7 +1369,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_eou5",
@@ -1380,7 +1385,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_eou7",
@@ -1435,14 +1440,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:13.4731097+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:04:52.124864+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:56.9232843+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:13.4731301+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:59:22.3431271+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:04:52.124895+00:00"
 }

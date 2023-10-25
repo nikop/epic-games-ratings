@@ -1,16 +1,16 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 680)  
+Rating: 4.43 (Ranked 681)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,372 |
-| Ranidaphobia | 77.00% | ~1,148 |
-| Aspiring Editor | 75.00% | ~1,118 |
+| First Blood | 92.00% | ~1,373 |
+| Ranidaphobia | 77.00% | ~1,149 |
+| Aspiring Editor | 75.00% | ~1,119 |
 | Gun for Hire | 70.00% | ~1,044 |
-| I am the law! | 64.00% | ~954 |
-| Lumberjack | 54.00% | ~805 |
+| I am the law! | 64.00% | ~955 |
+| Lumberjack | 54.00% | ~806 |
 | Croaked | 49.00% | ~731 |
 | Limp Richard | 49.00% | ~731 |
 | Exorcist | 48.00% | ~716 |
@@ -18,10 +18,10 @@ Rating: 4.43 (Ranked 680)
 | Editor Adept | 47.00% | ~701 |
 | Giant Killer | 46.00% | ~686 |
 | Sensei | 44.00% | ~656 |
-| Firestarter | 42.00% | ~626 |
-| The meaning of Kain | 42.00% | ~626 |
-| Technophobe | 41.00% | ~611 |
-| Recycler | 40.00% | ~596 |
+| Firestarter | 42.00% | ~627 |
+| The meaning of Kain | 42.00% | ~627 |
+| Technophobe | 41.00% | ~612 |
+| Recycler | 40.00% | ~597 |
 | Are you not entertained? | 36.00% | ~537 |
 | Jarhead | 36.00% | ~537 |
 | Ganglord | 35.00% | ~522 |
@@ -35,8 +35,8 @@ Rating: 4.43 (Ranked 680)
 | Silent but Violent | 23.00% | ~343 |
 | Chain Killer | 22.00% | ~328 |
 | The Watchers | 22.00% | ~328 |
-| Commando | 17.00% | ~253 |
-| Dr Jones | 17.00% | ~253 |
+| Commando | 17.00% | ~254 |
+| Dr Jones | 17.00% | ~254 |
 | Chaos Theory | 16.00% | ~239 |
 | Newtonian Knockout | 16.00% | ~239 |
 | Ruthless | 14.00% | ~209 |
@@ -46,7 +46,7 @@ Rating: 4.43 (Ranked 680)
 | Curveball | 8.00% | ~119 |
 | Dressed To Kill | 7.00% | ~104 |
 | Wipe Out | 7.00% | ~104 |
-| Master Editor | 6.00% | ~89 |
+| Master Editor | 6.00% | ~90 |
 | Attenborough | 5.00% | ~75 |
 | Bookworm | 3.00% | ~45 |
 | Cruelty | 3.00% | ~45 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 680)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,491 (Ranked 227)  
+Progressed: 1,492 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-17 | 1,479 | 0 |
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
-| 2023-10-25 | 1,491 | 0 |
+| 2023-10-25 | 1,492 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

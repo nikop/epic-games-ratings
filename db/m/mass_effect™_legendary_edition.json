@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2323,9 +2323,9 @@
       "ID": "achievement_121",
       "SetID": "d252ncf",
       "Name": "Paramour II",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_122",
@@ -2571,9 +2571,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 125,
-      "UsersEstimate": 217
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_36",
@@ -2627,9 +2627,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_42",
@@ -2891,9 +2891,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_72",
@@ -3115,9 +3115,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_98",
@@ -3151,8 +3151,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:00.1685676+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:04:41.571294+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:58:11.0254943+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:00.1687792+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:51.8125442+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:04:41.5718039+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
     "PcReleaseDate": "2018-01-26T15:00:00+00:00",
@@ -3279,10 +3279,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 2357,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2023-10-25T15:59:40.5601026+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2358,
+      "NumberOfAwardsMax": 315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2357,
+  "NumberOfAwards": 2358,
   "NumberOfAwardsMax": 315,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3344,7 +3350,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 241
+      "Count": 242
     }
   ],
   "EOS_Progressed": 0,
@@ -3366,9 +3372,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2023-10-22T15:58:29.7786027+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:14.4416582+00:00",
+  "LastChanged": "2023-10-25T15:59:40.5601023+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:04:52.9319567+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:00.2221616+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:00:23.2352786+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:14.4416622+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:59:40.5601031+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:04:52.9319668+00:00"
 }

@@ -10,8 +10,8 @@
 | Brace the cold | 43.00% | ~20 |
 | A Long Walk | 40.00% | ~19 |
 | Dont mind the heat | 15.00% | ~7 |
-| City of Puzzles | 9.00% | ~4 |
-| This field of danger | 9.00% | ~4 |
+| City of Puzzles | 11.00% | ~5 |
+| This field of danger | 11.00% | ~5 |
 | Labyrinths of the Mind | 9.00% | ~4 |
 | A Dangerous Road | 6.00% | ~3 |
 | A Terrifying Blizzard | 6.00% | ~3 |

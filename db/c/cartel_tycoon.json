@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2122,9 +2122,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 298
     },
     {
       "ID": "female-conqueror",
@@ -2258,8 +2258,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:08:18.6684246+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:08:21.6526039+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.5174847+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:11.5299419+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:08:18.6684523+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:58:41.7681375+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:08:21.6526311+00:00"
 }

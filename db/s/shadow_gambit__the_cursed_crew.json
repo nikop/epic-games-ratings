@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.4,
+  "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2327,6 +2327,11 @@
       "Time": "2023-10-25T10:09:26.7680359+00:00",
       "NumProgressed": 765,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-25T16:09:38.0785968+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2347,7 +2352,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "_03_FinishAct1",
@@ -2355,15 +2360,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 283
     },
     {
       "ID": "_05_FinishAct2",
@@ -2395,7 +2400,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "_09_Completion_20",
@@ -2491,7 +2496,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2507,7 +2512,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2523,7 +2528,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2546,7 +2551,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 26
     }
   ],
@@ -2554,8 +2559,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:09:38.9856597+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:09:38.0785959+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:02:08.6428943+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:09:38.9857053+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:02:11.5742342+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:09:38.0786543+00:00"
 }

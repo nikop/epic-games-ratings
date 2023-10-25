@@ -2,13 +2,13 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "ProductSlug": "galactic-civilizations-iii",
-  "Ranking_Rating": 874,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-01-21T16:00:00+00:00",
     "PcReleaseDate": "2015-05-14T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 1085,
   "RatingHistory": [
     {
@@ -1898,10 +1898,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1211,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-10-25T15:59:18.1583502+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1212,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1211,
+  "NumberOfAwards": 1212,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1939,7 +1945,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 167
+      "Count": 168
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1971,8 +1977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2023-10-24T17:59:45.4625068+00:00",
+  "LastChanged": "2023-10-25T15:59:18.1583499+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.4401489+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:54.4766719+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:07:49.7270141+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:59:18.1583507+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:57.0664013+00:00"
 }

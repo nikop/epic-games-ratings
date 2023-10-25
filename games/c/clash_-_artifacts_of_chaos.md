@@ -22,7 +22,7 @@
 | Total Eclipse | 11.00% | ~12 |
 | Dreamwalker | 11.00% | ~12 |
 | Your Training Is Complete | 6.00% | ~7 |
-| Red in Tooth and Claw | 5.00% | ~6 |
+| Red in Tooth and Claw | 6.00% | ~7 |
 | Vivid Dreams | 3.00% | ~3 |
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

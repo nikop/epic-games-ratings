@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 35.00% | ~22 |
-| Noctuan Champion | 35.00% | ~22 |
-| Purification Pioneer | 33.00% | ~21 |
-| Endless Tricks | 32.00% | ~20 |
-| Dicesmithing Time! | 30.00% | ~19 |
-| Mechanical Buddy | 30.00% | ~19 |
+| Meissa's Savior | 36.00% | ~23 |
+| Purification Pioneer | 34.00% | ~22 |
+| Noctuan Champion | 34.00% | ~22 |
+| Endless Tricks | 33.00% | ~21 |
+| Dicesmithing Time! | 31.00% | ~20 |
+| Mechanical Buddy | 31.00% | ~20 |
+| Sanctuary Guardian | 30.00% | ~19 |
+| Wild's Keeper | 30.00% | ~19 |
 | Apian Champion | 30.00% | ~19 |
 | Eridanian Champion | 30.00% | ~19 |
 | Lacertian Champion | 30.00% | ~19 |
-| Sanctuary Guardian | 29.00% | ~18 |
-| Wild's Keeper | 29.00% | ~18 |
-| Mind Illuminator | 27.00% | ~17 |
+| Mind Illuminator | 28.00% | ~18 |
 | Behenian Champion | 25.00% | ~16 |
-| Anomaly Destroyer | 24.00% | ~15 |
-| Stellar Dismantler | 24.00% | ~15 |
+| Anomaly Destroyer | 23.00% | ~15 |
+| Stellar Dismantler | 23.00% | ~15 |
 | Loyal Partner | 22.00% | ~14 |
 | Aquarian Champion | 22.00% | ~14 |
 | Heart Gate | 19.00% | ~12 |
@@ -33,20 +33,20 @@
 | Heavy Purger | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
 | Behenian Hero | 11.00% | ~7 |
-| Anomaly Control | 10.00% | ~6 |
-| Denying Destiny | 10.00% | ~6 |
-| Stellar Haste | 10.00% | ~6 |
-| The Dark Moon | 10.00% | ~6 |
-| Apian Hero | 10.00% | ~6 |
-| Lacertian Hero | 10.00% | ~6 |
+| Anomaly Control | 9.00% | ~6 |
+| Denying Destiny | 9.00% | ~6 |
+| Stellar Haste | 9.00% | ~6 |
+| The Dark Moon | 9.00% | ~6 |
+| Apian Hero | 9.00% | ~6 |
+| Lacertian Hero | 9.00% | ~6 |
 | Can't touch this | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |
 | The Chaos Artisan | 8.00% | ~5 |
 | The Distorted Sage | 8.00% | ~5 |
 | Artificer | 6.00% | ~4 |
+| If I Had Failed... | 6.00% | ~4 |
 | Purification Avatar | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
-| If I Had Failed... | 5.00% | ~3 |
 | The Abyssal Terror | 5.00% | ~3 |
 | The Raging Skies | 5.00% | ~3 |
 | Eridanian Hero | 5.00% | ~3 |
@@ -103,7 +103,7 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 432)  
+Progressed: 64 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,3 +131,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-19 | 61 | 0 |
 | 2023-10-20 | 62 | 0 |
 | 2023-10-24 | 63 | 0 |
+| 2023-10-25 | 64 | 0 |

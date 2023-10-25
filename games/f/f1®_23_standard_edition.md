@@ -1,18 +1,18 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 243)  
+Rating: 4.69 (Ranked 224)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,216 |
-| On the Top Step | 90.00% | ~3,046 |
-| Setting up for Success | 79.00% | ~2,674 |
-| Team Orders | 77.00% | ~2,606 |
-| Engineer | 57.00% | ~1,929 |
-| Familiar Faces | 51.00% | ~1,726 |
-| Going the Extra Mile | 45.00% | ~1,523 |
-| Sharing the Love | 44.00% | ~1,489 |
+| Getting on the Step | 95.00% | ~3,217 |
+| On the Top Step | 90.00% | ~3,047 |
+| Setting up for Success | 79.00% | ~2,675 |
+| Team Orders | 77.00% | ~2,607 |
+| Engineer | 57.00% | ~1,930 |
+| Familiar Faces | 51.00% | ~1,727 |
+| Going the Extra Mile | 45.00% | ~1,524 |
+| Sharing the Love | 44.00% | ~1,490 |
 | Hitting a Season | 42.00% | ~1,422 |
 | Challenge Yourself | 36.00% | ~1,219 |
 | A Dozen Pieces | 34.00% | ~1,151 |
@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 243)
 | One for the Book | 19.00% | ~643 |
 | Reuse | 18.00% | ~609 |
 | Proving Them Wrong | 18.00% | ~609 |
-| Gathering Dust | 17.00% | ~575 |
+| Gathering Dust | 17.00% | ~576 |
 | Oil and Water | 16.00% | ~542 |
 | Hitting a Bullseye | 16.00% | ~542 |
 | Lightning Round the World | 15.00% | ~508 |
@@ -37,7 +37,7 @@ Rating: 4.68 (Ranked 243)
 | Switcheroo | 12.00% | ~406 |
 | Friendly Competition | 11.00% | ~372 |
 | Tinkerer | 11.00% | ~372 |
-| Undisputed Winner | 10.00% | ~338 |
+| Undisputed Winner | 10.00% | ~339 |
 | For all Those Back at the Factory | 7.00% | ~237 |
 | Living up to Expectations | 7.00% | ~237 |
 | Smooth Operator | 7.00% | ~237 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 243)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,385 (Ranked 191)  
+Progressed: 3,386 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-22 | 3,362 | 0 |
 | 2023-10-23 | 3,368 | 0 |
 | 2023-10-24 | 3,378 | 0 |
-| 2023-10-25 | 3,385 | 0 |
+| 2023-10-25 | 3,386 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -155,3 +155,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-12 | 4.66 | 0 | 0 |
 | 2023-10-14 | 4.67 | 0 | 0 |
 | 2023-10-19 | 4.68 | 0 | 0 |
+| 2023-10-25 | 4.69 | 0 | 0 |

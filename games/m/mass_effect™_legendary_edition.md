@@ -25,7 +25,7 @@
 | Soldier Ally | 50.00% | ~402 |
 | Paramour I | 49.00% | ~394 |
 | Colonial Savior | 49.00% | ~394 |
-| Scientist | 48.00% | ~386 |
+| Scientist | 49.00% | ~394 |
 | Merciless | 47.00% | ~378 |
 | Krogan Ally | 45.00% | ~362 |
 | Head Hunter | 45.00% | ~362 |
@@ -53,12 +53,12 @@
 | Ghost of the Father | 33.00% | ~265 |
 | The Cure | 33.00% | ~265 |
 | The Prodigal | 33.00% | ~265 |
+| Shopaholic | 33.00% | ~265 |
 | Battlemaster | 32.00% | ~257 |
 | Catharsis | 32.00% | ~257 |
 | Big Game Hunter | 32.00% | ~257 |
 | Revenge! | 32.00% | ~257 |
 | Heart of Darkness | 32.00% | ~257 |
-| Shopaholic | 32.00% | ~257 |
 | Fade Away | 31.00% | ~249 |
 | Agent | 31.00% | ~249 |
 | Driven | 31.00% | ~249 |
@@ -70,10 +70,10 @@
 | Friend or Foe | 29.00% | ~233 |
 | Doppelganger | 29.00% | ~233 |
 | First Aid Specialist | 28.00% | ~225 |
+| Mission Accomplished | 28.00% | ~225 |
 | Suicide Mission | 28.00% | ~225 |
+| Against All Odds | 28.00% | ~225 |
 | Mobilizer | 28.00% | ~225 |
-| Mission Accomplished | 27.00% | ~217 |
-| Against All Odds | 27.00% | ~217 |
 | Untouchable | 26.00% | ~209 |
 | Giant Killer | 26.00% | ~209 |
 | A House Divided | 26.00% | ~209 |
@@ -84,9 +84,9 @@
 | Pathfinder | 24.00% | ~193 |
 | Tunnel Rat | 24.00% | ~193 |
 | Savior | 23.00% | ~185 |
+| Paramour II | 23.00% | ~185 |
 | Arbiter | 23.00% | ~185 |
 | Lost and Found | 23.00% | ~185 |
-| Paramour II | 22.00% | ~177 |
 | Party Crasher | 21.00% | ~169 |
 | Pyromaniac | 20.00% | ~161 |
 | No One Left Behind | 20.00% | ~161 |

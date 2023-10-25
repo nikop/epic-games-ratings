@@ -14,6 +14,7 @@ Rating: 4.50 (Ranked 576)
 | Clutch Capture | 2.00% | ~552 |
 | I collect Spores, Molds, and Fungi | 2.00% | ~552 |
 | Cultured | 2.00% | ~552 |
+| Daily Dose | 2.00% | ~552 |
 | Ectoplasmic Entity | 2.00% | ~552 |
 | Fully Upgraded | 2.00% | ~552 |
 | Ghostbuster In Training | 2.00% | ~552 |
@@ -26,7 +27,6 @@ Rating: 4.50 (Ranked 576)
 | Vaporous Expansion | 2.00% | ~552 |
 | Whoopsie | 2.00% | ~552 |
 | We have the best insurance | 1.00% | ~276 |
-| Daily Dose | 1.00% | ~276 |
 | Legions | 1.00% | ~276 |
 | Pesky Jerks | 1.00% | ~276 |
 | Rift Destroyer | 1.00% | ~276 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,593 (Ranked 120)  
+Progressed: 27,602 (Ranked 120)  
 Completed: 64 (0.23%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 64 (0.23%) (Ranked 224)
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
-| 2023-10-25 | 27,593 | 64 |
+| 2023-10-25 | 27,602 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
 Sum: 2,537 (Ranked 183)  

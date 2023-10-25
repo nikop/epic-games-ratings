@@ -44,8 +44,8 @@
 | Hovering around | 24.00% | ~26 |
 | Kleptomaniac | 24.00% | ~26 |
 | You're not so Big anymore, Boi! | 22.00% | ~24 |
+| Your daily dose of Vitamin C. | 22.00% | ~24 |
 | I cant stand still! | 22.00% | ~24 |
-| Your daily dose of Vitamin C. | 21.00% | ~22 |
 | Slimy... yet satisfying | 18.00% | ~19 |
 | Master Butcher | 17.00% | ~18 |
 | Deal with it | 17.00% | ~18 |

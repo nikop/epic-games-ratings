@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "Achievement5",
       "SetID": "jf6ho5",
       "Name": "Red in Tooth and Claw",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement6",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:09:40.8294888+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:09:39.5370883+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.8866605+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:57:34.3918051+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:09:40.8295209+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:24.7810962+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:09:39.5371194+00:00"
 }

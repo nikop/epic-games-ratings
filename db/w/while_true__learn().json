@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 608095,
+  "EOS_Progressed": 608096,
   "EOS_Completed": 536,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -21509,6 +21509,11 @@
       "Time": "2023-10-25T15:08:32.4171302+00:00",
       "NumProgressed": 608095,
       "NumCompleted": 536
+    },
+    {
+      "Time": "2023-10-25T16:08:32.6455654+00:00",
+      "NumProgressed": 608096,
+      "NumCompleted": 536
     }
   ],
   "TotalAchievements": 28,
@@ -21584,7 +21589,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 370938
+      "UsersEstimate": 370939
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -21648,7 +21653,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 565528
+      "UsersEstimate": 565529
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -21696,7 +21701,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 322290
+      "UsersEstimate": 322291
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -21743,15 +21748,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 608095,
+      "Progressed": 608096,
       "Completed": 536
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:08:32.4171295+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:08:32.6455647+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.6253349+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:57:24.5489294+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:08:32.4172962+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:18.7037369+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:08:32.6457146+00:00"
 }

@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Invincible | 0.80% | ~120 |
+| Subjugator | 0.80% | ~120 |
 | Patrons | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
@@ -91,7 +92,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
-| Subjugator | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
 | Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
@@ -170,6 +170,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.20% | ~30 |
 | Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |
+| A Good Start | 0.20% | ~30 |
+| Tell the Spartans | 0.20% | ~30 |
 | Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
@@ -225,12 +227,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
 | The Turning Point | 0.10% | ~15 |
-| A Good Start | 0.10% | ~15 |
 | Like a Lion | 0.10% | ~15 |
 | Still Fighting | 0.10% | ~15 |
 | They Shall Not Pass | 0.10% | ~15 |
 | THIS IS SPARTA!! | 0.10% | ~15 |
-| Tell the Spartans | 0.10% | ~15 |
 | Shape of Things to Come | 0.10% | ~15 |
 | I am the Archon Now | 0.10% | ~15 |
 | Not a Scratch | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,940 (Ranked 140)  
+Progressed: 14,941 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,940 | 5 |
+| 2023-10-25 | 14,941 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

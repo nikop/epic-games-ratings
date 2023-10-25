@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2689,9 +2689,9 @@
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
       "SetID": "7o8nc5m",
       "Name": "Boss Rush Attempt",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 294
     },
     {
       "ID": "ID_21_SONIC1_CLEAR_S_RANK_MISSION",
@@ -2825,8 +2825,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-04T20:01:39.9838728+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:09:50.0094035+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:09:46.4306393+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.7346524+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:02:11.5446216+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:09:50.0094666+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:02:14.049538+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:09:46.430681+00:00"
 }

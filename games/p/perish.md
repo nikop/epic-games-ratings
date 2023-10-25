@@ -7,12 +7,12 @@
 | To Suffer is to Learn | 6.00% | ~215 |
 | Lochos | 6.00% | ~215 |
 | Initiate's Resolve | 6.00% | ~215 |
-| Missilis | 5.00% | ~179 |
-| Modest Earnings | 5.00% | ~179 |
-| Armaments of the Pantheon | 5.00% | ~179 |
-| Persephone's Guidance | 5.00% | ~179 |
-| Strength of Herakles | 5.00% | ~179 |
-| Reign in Blood | 5.00% | ~179 |
+| Missilis | 5.00% | ~180 |
+| Modest Earnings | 5.00% | ~180 |
+| Armaments of the Pantheon | 5.00% | ~180 |
+| Persephone's Guidance | 5.00% | ~180 |
+| Strength of Herakles | 5.00% | ~180 |
+| Reign in Blood | 5.00% | ~180 |
 | Immolator | 4.00% | ~144 |
 | Go For the Head | 4.00% | ~144 |
 | Spartan Sandal | 4.00% | ~144 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,589 (Ranked 188)  
+Progressed: 3,590 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-21 | 3,579 | 0 |
 | 2023-10-22 | 3,584 | 0 |
 | 2023-10-23 | 3,587 | 0 |
-| 2023-10-25 | 3,589 | 0 |
+| 2023-10-25 | 3,590 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

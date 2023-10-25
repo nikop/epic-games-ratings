@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2642,9 +2642,9 @@
       "ID": "FREE_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Fly Free",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -2913,8 +2913,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:06:53.196165+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:06:11.4946317+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:01:20.5445841+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:06:53.196252+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:00:24.967438+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:11.4947232+00:00"
 }

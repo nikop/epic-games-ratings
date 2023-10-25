@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 195,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -335,6 +335,11 @@
       "Time": "2023-10-22T17:05:32.6374878+00:00",
       "NumProgressed": 194,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T16:06:08.2376939+00:00",
+      "NumProgressed": 195,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -352,9 +357,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -362,7 +367,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "deathlooper",
@@ -432,9 +437,9 @@
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "thats_my_boy",
@@ -448,9 +453,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "tried_to_warn_you",
@@ -466,7 +471,7 @@
       "Name": "Um, ok...",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -481,7 +486,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 195,
       "Completed": 5
     }
   ],
@@ -489,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:06:49.3400428+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:06:08.237693+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:43.3790114+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:03:17.369221+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:06:49.340061+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:03:25.3886948+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:08.237711+00:00"
 }

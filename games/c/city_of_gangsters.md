@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,670 |
-| Copacetic Coordination | 16.00% | ~55,885 |
-| Fronting the Money | 15.00% | ~52,392 |
-| The Dawn of Automation | 14.00% | ~48,900 |
-| Extraordinary Logistics | 14.00% | ~48,900 |
-| Dirty Money | 13.00% | ~45,407 |
-| Family First | 13.00% | ~45,407 |
-| Cleaning House | 12.00% | ~41,914 |
-| Room in the Back | 12.00% | ~41,914 |
-| Beating the Heat | 11.00% | ~38,421 |
-| Booze Baron | 11.00% | ~38,421 |
-| Friends on the Force | 10.00% | ~34,928 |
-| Neighborhood Watch | 10.00% | ~34,928 |
+| Corner Clout | 46.00% | ~160,674 |
+| Copacetic Coordination | 16.00% | ~55,887 |
+| Fronting the Money | 15.00% | ~52,394 |
+| The Dawn of Automation | 14.00% | ~48,901 |
+| Extraordinary Logistics | 14.00% | ~48,901 |
+| Dirty Money | 13.00% | ~45,408 |
+| Family First | 13.00% | ~45,408 |
+| Cleaning House | 12.00% | ~41,915 |
+| Room in the Back | 12.00% | ~41,915 |
+| Beating the Heat | 11.00% | ~38,422 |
+| Booze Baron | 11.00% | ~38,422 |
+| Friends on the Force | 10.00% | ~34,929 |
+| Neighborhood Watch | 10.00% | ~34,929 |
 | Core Corps | 8.00% | ~27,943 |
 | Sizeable Stash | 8.00% | ~27,943 |
 | Street Fighter | 7.00% | ~24,450 |
@@ -29,25 +29,25 @@ Rating: 4.28 (Ranked 838)
 | Wise Head | 6.00% | ~20,957 |
 | Show ‘em the Sugar | 6.00% | ~20,957 |
 | Killing Them Softly | 6.00% | ~20,957 |
-| Street Knowledge | 5.00% | ~17,464 |
-| Oh Captain | 5.00% | ~17,464 |
-| Branching Out | 5.00% | ~17,464 |
-| Improvement Missions | 5.00% | ~17,464 |
-| Opportunity Knocked | 5.00% | ~17,464 |
-| City of Big Shoulders | 5.00% | ~17,464 |
-| Mission Mastery | 5.00% | ~17,464 |
-| Considerable Clams | 4.00% | ~13,971 |
-| Gin Joint | 4.00% | ~13,971 |
-| An Affront to the Enemy | 4.00% | ~13,971 |
-| Friends from Back Home | 4.00% | ~13,971 |
-| Half Century Mark | 4.00% | ~13,971 |
-| Corner Opportunities | 3.00% | ~10,478 |
-| 2122 North Clark Street | 3.00% | ~10,478 |
-| Copious Cabbage | 3.00% | ~10,478 |
-| Sockdolager | 3.00% | ~10,478 |
-| Still Stalwart | 3.00% | ~10,478 |
-| Bees Knees Bootlegger | 3.00% | ~10,478 |
-| Tighten the Screws | 3.00% | ~10,478 |
+| Street Knowledge | 5.00% | ~17,465 |
+| Oh Captain | 5.00% | ~17,465 |
+| Branching Out | 5.00% | ~17,465 |
+| Improvement Missions | 5.00% | ~17,465 |
+| Opportunity Knocked | 5.00% | ~17,465 |
+| City of Big Shoulders | 5.00% | ~17,465 |
+| Mission Mastery | 5.00% | ~17,465 |
+| Considerable Clams | 4.00% | ~13,972 |
+| Gin Joint | 4.00% | ~13,972 |
+| An Affront to the Enemy | 4.00% | ~13,972 |
+| Friends from Back Home | 4.00% | ~13,972 |
+| Half Century Mark | 4.00% | ~13,972 |
+| Corner Opportunities | 3.00% | ~10,479 |
+| 2122 North Clark Street | 3.00% | ~10,479 |
+| Copious Cabbage | 3.00% | ~10,479 |
+| Sockdolager | 3.00% | ~10,479 |
+| Still Stalwart | 3.00% | ~10,479 |
+| Bees Knees Bootlegger | 3.00% | ~10,479 |
+| Tighten the Screws | 3.00% | ~10,479 |
 | One of Us | 2.00% | ~6,986 |
 | Baker’s Dozen | 2.00% | ~6,986 |
 | Dropping the Dime | 2.00% | ~6,986 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 838)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,283 (Ranked 44)  
+Progressed: 349,291 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,14 +274,14 @@ Completed: 7 (0.00%) (Ranked 326)
 | 2023-10-22 | 348,942 | 7 |
 | 2023-10-23 | 349,067 | 7 |
 | 2023-10-24 | 349,199 | 7 |
-| 2023-10-25 | 349,283 | 7 |
+| 2023-10-25 | 349,291 | 7 |
 ## Awards
-Max (Great for Beginners): 38  (Ranked 450)  
-Sum: 179 (Ranked 402)  
-Diff (max vs sum): 48  
+Max (Great for Beginners): 39  (Ranked 447)  
+Sum: 180 (Ranked 402)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 38 |
+| This game is Great for Beginners | 39 |
 | This game is Highly Recommended | 34 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 27 |
@@ -379,3 +379,4 @@ Diff (max vs sum): 48
 | 2023-10-13 | 4.28 | 38 | 177 |
 | 2023-10-19 | 4.28 | 38 | 178 |
 | 2023-10-20 | 4.28 | 38 | 179 |
+| 2023-10-25 | 4.28 | 39 | 180 |

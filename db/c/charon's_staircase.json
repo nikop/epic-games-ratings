@@ -2,10 +2,10 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -278,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:50.8742649+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:05:21.9309309+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:10.9970752+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:03:11.1120481+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:50.8742854+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:03:19.020658+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:05:21.93095+00:00"
 }

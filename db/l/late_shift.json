@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -1050,6 +1050,11 @@
       "Time": "2023-10-25T10:04:02.5094396+00:00",
       "NumProgressed": 543,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T16:03:56.6178134+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1061,7 +1066,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1069,7 +1074,7 @@
       "Name": "Choices Matter",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ENDING_1",
@@ -1093,7 +1098,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ENDING_4",
@@ -1109,7 +1114,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ENDING_6",
@@ -1125,7 +1130,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1133,7 +1138,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1147,9 +1152,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 375
     },
     {
       "ID": "GOOD_KARMA",
@@ -1157,7 +1162,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "INTERROGATION",
@@ -1173,7 +1178,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1213,14 +1218,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 8
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:04:15.4450583+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:03:56.6178125+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:58:14.472566+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:04:15.4450806+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:54.9681718+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:03:56.6178344+00:00"
 }

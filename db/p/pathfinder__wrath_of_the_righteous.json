@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3915,10 +3915,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7000,
       "NumberOfAwardsMax": 1728
+    },
+    {
+      "Time": "2023-10-25T16:00:42.1622742+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7001,
+      "NumberOfAwardsMax": 1728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7000,
+  "NumberOfAwards": 7001,
   "NumberOfAwardsMax": 1728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3950,7 +3956,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 630
+      "Count": 631
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3989,9 +3995,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11785,
+  "EOS_Progressed": 11787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14319,6 +14325,11 @@
       "Time": "2023-10-25T14:04:06.2715377+00:00",
       "NumProgressed": 11785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T16:03:41.4875104+00:00",
+      "NumProgressed": 11787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14330,7 +14341,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "02_BurningCity",
@@ -14338,7 +14349,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14506,7 +14517,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "24_Legacy",
@@ -14642,7 +14653,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "42_JustPathetic",
@@ -14658,7 +14669,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "44_AshesToAshes",
@@ -14698,7 +14709,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "49_Flame",
@@ -15257,21 +15268,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10567,
+      "Progressed": 10569,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11785,
+      "Progressed": 11787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:03:35.8614315+00:00",
+  "LastChanged": "2023-10-25T16:00:42.162274+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:03:41.4875096+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:01:39.5378708+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:03:35.8616526+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:00:42.1622748+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:03:41.4878171+00:00"
 }

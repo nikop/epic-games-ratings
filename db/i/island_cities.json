@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 16.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3201,6 +3201,11 @@
       "Time": "2023-10-24T15:04:16.721636+00:00",
       "NumProgressed": 750,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-10-25T16:04:42.069485+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 22,
@@ -3212,7 +3217,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "LEVEL_002",
@@ -3220,7 +3225,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "LEVEL_003",
@@ -3228,7 +3233,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "LEVEL_004",
@@ -3236,7 +3241,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "LEVEL_005",
@@ -3244,7 +3249,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "LEVEL_006",
@@ -3252,7 +3257,7 @@
       "Name": "Found an oasis",
       "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "LEVEL_007",
@@ -3332,7 +3337,7 @@
       "Name": "The beach is right there",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_017",
@@ -3387,7 +3392,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 125
     }
   ],
@@ -3395,8 +3400,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:00.9268646+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:04:42.0694842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.8244205+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:53.7879384+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:00.9269051+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:59:17.6376469+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:04:42.0695283+00:00"
 }

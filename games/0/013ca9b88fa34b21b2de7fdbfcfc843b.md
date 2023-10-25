@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,154 |
-| A Thorny Situation | 70.00% | ~5,011 |
-| ... And Spit Back Out | 60.00% | ~4,295 |
-| Break-Net Speed | 48.00% | ~3,436 |
-| Bramble Breaker | 46.00% | ~3,293 |
-| Miner 49er | 43.00% | ~3,078 |
-| Humble Collector | 42.00% | ~3,006 |
-| Calm Sailing | 36.00% | ~2,577 |
-| Open the Gate! | 33.00% | ~2,362 |
-| Mist Walker | 31.00% | ~2,219 |
-| Lumberjack | 26.00% | ~1,861 |
-| Oui, Chef! | 23.00% | ~1,646 |
-| Clear the Air | 18.00% | ~1,288 |
-| Botanical Breakthrough | 16.00% | ~1,145 |
+| Azoria Beckons | 72.00% | ~5,155 |
+| A Thorny Situation | 70.00% | ~5,012 |
+| ... And Spit Back Out | 60.00% | ~4,296 |
+| Break-Net Speed | 48.00% | ~3,437 |
+| Bramble Breaker | 46.00% | ~3,294 |
+| Miner 49er | 43.00% | ~3,079 |
+| Humble Collector | 42.00% | ~3,007 |
+| Calm Sailing | 36.00% | ~2,578 |
+| Open the Gate! | 33.00% | ~2,363 |
+| Mist Walker | 31.00% | ~2,220 |
+| Lumberjack | 26.00% | ~1,862 |
+| Oui, Chef! | 23.00% | ~1,647 |
+| Clear the Air | 18.00% | ~1,289 |
+| Botanical Breakthrough | 17.00% | ~1,217 |
 | Search for the Hairy Grell | 13.00% | ~931 |
 | Beach Comber | 13.00% | ~931 |
 | Higher Tax Bracket | 13.00% | ~931 |
@@ -28,8 +28,8 @@ Rating: 4.60 (Ranked 401)
 | Fae Farmer | 7.00% | ~501 |
 | Got to Catch Them All | 7.00% | ~501 |
 | Fanatical Farmer | 7.00% | ~501 |
-| Scattered Scroll Scrounger | 6.00% | ~429 |
-| Azorian Anniversary | 6.00% | ~429 |
+| Scattered Scroll Scrounger | 6.00% | ~430 |
+| Azorian Anniversary | 6.00% | ~430 |
 | I Now Pronounce You... | 5.00% | ~358 |
 | Chatty Neighbor | 4.00% | ~286 |
 | Right Tool For the Job | 3.00% | ~215 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 401)
 | Workaholic | 0.10% | ~7 |
 | Giving the People What They Want | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,158 (Ranked 164)  
+Progressed: 7,160 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-22 | 7,063 | 0 |
 | 2023-10-23 | 7,096 | 0 |
 | 2023-10-24 | 7,139 | 0 |
-| 2023-10-25 | 7,158 | 0 |
+| 2023-10-25 | 7,160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

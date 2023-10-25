@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14940,
+  "EOS_Progressed": 14941,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14693,6 +14693,11 @@
       "Time": "2023-10-25T15:05:32.4900553+00:00",
       "NumProgressed": 14940,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T16:05:07.5667118+00:00",
+      "NumProgressed": 14941,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15342,9 +15347,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -15718,9 +15723,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
       "SetID": "9201eeb",
       "Name": "A Good Start",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
@@ -15758,9 +15763,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
       "SetID": "9201eeb",
       "Name": "Tell the Spartans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
@@ -17439,21 +17444,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14940,
+      "Progressed": 14941,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14940,
+      "Progressed": 14941,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:05:32.4900548+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:05:07.566711+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:02:19.7617521+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:05:32.4912005+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:02:21.1908204+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:05:07.5680924+00:00"
 }

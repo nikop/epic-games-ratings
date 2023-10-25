@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1929,
+  "EOS_Progressed": 1930,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2023-10-25T15:04:10.9355279+00:00",
       "NumProgressed": 1929,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-25T16:03:52.9504698+00:00",
+      "NumProgressed": 1930,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2433,7 +2438,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2473,7 +2478,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2497,7 +2502,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2569,7 +2574,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2577,7 +2582,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2689,7 +2694,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2793,7 +2798,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2809,7 +2814,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2848,15 +2853,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1929,
+      "Progressed": 1930,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:04:10.9355273+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:03:52.9504688+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:57:27.1086619+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:04:10.9356008+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:19.8771061+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:03:52.9505318+00:00"
 }

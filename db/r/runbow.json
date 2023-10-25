@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250629,
+  "EOS_Progressed": 250632,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17362,6 +17362,11 @@
       "Time": "2023-10-25T15:08:33.2317556+00:00",
       "NumProgressed": 250629,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-25T16:08:33.2875508+00:00",
+      "NumProgressed": 250632,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17397,7 +17402,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52632
+      "UsersEstimate": 52633
     },
     {
       "ID": "blotbuster",
@@ -17445,7 +17450,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37594
+      "UsersEstimate": 37595
     },
     {
       "ID": "clearCut",
@@ -17469,7 +17474,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45113
+      "UsersEstimate": 45114
     },
     {
       "ID": "curator",
@@ -17549,7 +17554,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132833
+      "UsersEstimate": 132835
     },
     {
       "ID": "indegestible",
@@ -17589,7 +17594,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20050
+      "UsersEstimate": 20051
     },
     {
       "ID": "lockupLockdown",
@@ -17613,7 +17618,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125314
+      "UsersEstimate": 125316
     },
     {
       "ID": "notScared",
@@ -17677,7 +17682,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55138
+      "UsersEstimate": 55139
     },
     {
       "ID": "thunderstruck",
@@ -17740,7 +17745,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250629,
+      "Progressed": 250632,
       "Completed": 6
     }
   ],
@@ -17748,8 +17753,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:08:33.2317551+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:08:33.2875499+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:58:15.1427585+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:08:33.2319085+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:57:55.4497291+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:08:33.2877012+00:00"
 }

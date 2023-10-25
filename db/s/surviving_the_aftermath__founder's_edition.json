@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1326,7 +1326,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9850,
+  "EOS_Progressed": 9851,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -15536,6 +15536,11 @@
       "Time": "2023-10-25T15:06:49.3573661+00:00",
       "NumProgressed": 9850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T16:06:08.2532443+00:00",
+      "NumProgressed": 9851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15545,9 +15550,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 5910
+      "UsersEstimate": 6009
     },
     {
       "ID": "10",
@@ -15579,7 +15584,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "14",
@@ -15601,9 +15606,9 @@
       "ID": "16",
       "SetID": "8idi9ml",
       "Name": "Adventurer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4039
     },
     {
       "ID": "17",
@@ -15627,7 +15632,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5123
     },
     {
       "ID": "2",
@@ -15659,7 +15664,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "23",
@@ -15699,7 +15704,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "28",
@@ -15715,7 +15720,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "3",
@@ -15747,7 +15752,7 @@
       "Name": "Slimy yet Satisfying",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "33",
@@ -15859,7 +15864,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "46",
@@ -15875,7 +15880,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "48",
@@ -15883,7 +15888,7 @@
       "Name": "Feng Shui",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "49",
@@ -15899,7 +15904,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "50",
@@ -15923,7 +15928,7 @@
       "Name": "A Closer Look",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "53",
@@ -15939,7 +15944,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "55",
@@ -16018,15 +16023,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9850,
+      "Progressed": 9851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-25T03:58:58.9826596+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:06:49.3573657+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:06:08.2532435+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:58:49.7898121+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:06:49.3575213+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:58:24.8460539+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:08.2533896+00:00"
 }

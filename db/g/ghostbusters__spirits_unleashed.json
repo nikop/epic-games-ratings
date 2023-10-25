@@ -2721,9 +2721,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27593,
+  "EOS_Progressed": 27602,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16341,6 +16341,11 @@
       "Time": "2023-10-25T15:07:36.720912+00:00",
       "NumProgressed": 27593,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-25T16:06:45.9945237+00:00",
+      "NumProgressed": 27602,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 51,
@@ -16422,9 +16427,9 @@
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 552
     },
     {
       "ID": "Diabolical",
@@ -16759,7 +16764,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27593,
+      "Progressed": 27602,
       "Completed": 64
     }
   ],
@@ -16767,8 +16772,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-25T05:58:56.670681+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:07:36.7209113+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:06:45.9945226+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:06.5060095+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:07:36.7210993+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:58:36.3921388+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:06:45.9947023+00:00"
 }

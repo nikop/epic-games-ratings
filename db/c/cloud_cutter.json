@@ -4,8 +4,8 @@
   "ProductSlug": "cloud-cutter-46f961",
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-05-04T22:00:00+00:00",
@@ -34,8 +34,9 @@
       "NumCompleted": 0
     }
   ],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
+  "AchievementsAdded": "2023-10-25T16:08:15.4490686+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "achvAir",
@@ -308,6 +309,254 @@
       "Percentage": 0,
       "XP": 5,
       "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AIR",
+      "SetID": "85daogm",
+      "Name": "King of the Sky",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ALLOBJECTIVES",
+      "SetID": "85daogm",
+      "Name": "Skiller",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_BARREL",
+      "SetID": "85daogm",
+      "Name": "Fuel Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_BUILDING",
+      "SetID": "85daogm",
+      "Name": "Builder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_CARRIER",
+      "SetID": "85daogm",
+      "Name": "Carrier",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ENEMY_FIFTY",
+      "SetID": "85daogm",
+      "Name": "Anihilation",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ENEMY_TEN",
+      "SetID": "85daogm",
+      "Name": "Killing Machine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ENEMY_THOUSAND",
+      "SetID": "85daogm",
+      "Name": "Killing Spree",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FACTORY",
+      "SetID": "85daogm",
+      "Name": "Factory",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_GAME_EASY",
+      "SetID": "85daogm",
+      "Name": "Easy Game Beaten",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_GAME_HARD",
+      "SetID": "85daogm",
+      "Name": "Hard Game Beaten",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_GAME_NORMAL",
+      "SetID": "85daogm",
+      "Name": "Normal Game Beaten",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_GROUND",
+      "SetID": "85daogm",
+      "Name": "Traffic Jam",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HELI",
+      "SetID": "85daogm",
+      "Name": "Take\u0027em down",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HOVER",
+      "SetID": "85daogm",
+      "Name": "Hovercraft",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HUNDRED_DEATHS",
+      "SetID": "85daogm",
+      "Name": "Zen Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_IMMORTAL",
+      "SetID": "85daogm",
+      "Name": "Immortal",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_KING",
+      "SetID": "85daogm",
+      "Name": "King of Cloud Cutter",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MISSILE_LAUNCH",
+      "SetID": "85daogm",
+      "Name": "A Second More",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_MP",
+      "SetID": "85daogm",
+      "Name": "Double Cutter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_NOHIT",
+      "SetID": "85daogm",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_NOHUD",
+      "SetID": "85daogm",
+      "Name": "No HUD no Problem",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_OBJECTIVES_MASTER",
+      "SetID": "85daogm",
+      "Name": "Objectives Master",
+      "Percentage": 0,
+      "XP": 130,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SHIP",
+      "SetID": "85daogm",
+      "Name": "Captain of the Seas",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SNIPER",
+      "SetID": "85daogm",
+      "Name": "Sniper",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_SPIDER",
+      "SetID": "85daogm",
+      "Name": "Spider",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_TANK",
+      "SetID": "85daogm",
+      "Name": "Tank Destroyer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_TG660",
+      "SetID": "85daogm",
+      "Name": "TG660",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_TOWER",
+      "SetID": "85daogm",
+      "Name": "Anti-defender",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_TURRET",
+      "SetID": "85daogm",
+      "Name": "Air to Ground",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_UNDERWATER",
+      "SetID": "85daogm",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -319,8 +568,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
-  "LastChanged_Achievements": "2023-10-25T15:08:10.8423139+00:00",
+  "LastChanged_Achievements": "2023-10-25T16:08:15.4490654+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:35.2359346+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:59:45.8682123+00:00",
-  "LastUpdate_Achievements": "2023-10-25T15:08:10.8423183+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:59:10.8928624+00:00",
+  "LastUpdate_Achievements": "2023-10-25T16:08:15.4506409+00:00"
 }
