@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.79% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.78% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -21,7 +21,7 @@
 | 19 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 21 | [Island Cities](games/i/island_cities.md) | 16.67% |
-| 21 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 16.67% |
+| 22 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 15.38% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
 | 24 | [Remains](games/r/remains.md) | 13.46% |
 | 25 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
@@ -105,12 +105,12 @@
 | 103 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.63% |
 | 104 | [Bloodshore](games/b/bloodshore.md) | 2.58% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 106 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.53% |
+| 106 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 107 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 108 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 109 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
-| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
-| 111 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
+| 110 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
+| 110 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.40% |
 | 112 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 113 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.23% |
@@ -180,8 +180,8 @@
 | 178 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 179 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 179 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
-| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.54% |
-| 182 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 181 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.53% |
 | 183 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 184 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
 | 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
@@ -209,13 +209,13 @@
 | 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 208 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 209 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
-| 209 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 209 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
 | 209 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 213 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
-| 213 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 213 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 213 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 212 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
+| 212 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 212 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
+| 212 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 212 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 217 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 217 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 219 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
