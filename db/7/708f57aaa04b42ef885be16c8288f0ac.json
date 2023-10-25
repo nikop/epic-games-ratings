@@ -3,7 +3,7 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1609,
+  "EOS_Progressed": 1621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1605,
+  "EOS_NewPlayers": 1617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-10-25T09:06:40.3678766+00:00",
       "NumProgressed": 1609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T10:08:20.1429619+00:00",
+      "NumProgressed": 1621,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -770,7 +775,7 @@
       "Name": "Baby Steps",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BeLikeWater",
@@ -834,7 +839,7 @@
       "Name": "First Time?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FuneralForTheDeath",
@@ -962,7 +967,7 @@
       "Name": "The Quarterback",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ThisIsDharma",
@@ -976,9 +981,9 @@
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "UnResurrected",
@@ -1033,13 +1038,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1609,
+      "Progressed": 1621,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:06:40.3678759+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:08:20.1429612+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:58:26.6281418+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:06:40.3679097+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:59:09.6566492+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:08:20.142991+00:00"
 }

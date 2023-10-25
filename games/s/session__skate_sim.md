@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,852 |
+| You're free now! | 61.00% | ~1,853 |
 | Keeping it classy | 28.00% | ~850 |
 | Welcome to the family | 22.00% | ~668 |
 | The finer things in life | 19.00% | ~577 |
@@ -26,13 +26,13 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 6.00% | ~182 |
 | Fulfilled the dream | 6.00% | ~182 |
 | G'Day Mate! | 6.00% | ~182 |
-| Laid back | 6.00% | ~182 |
 | NAHELL! | 6.00% | ~182 |
 | Purple passion | 6.00% | ~182 |
 | Squad goals | 6.00% | ~182 |
 | Sup widdit big dog! | 6.00% | ~182 |
 | DIY Boss | 5.00% | ~152 |
 | Globetrotter | 5.00% | ~152 |
+| Laid back | 5.00% | ~152 |
 | Lines for days | 5.00% | ~152 |
 | Manny Destroys All | 5.00% | ~152 |
 | Renaissance man | 5.00% | ~152 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,036 (Ranked 196)  
-Completed: 1 (0.03%) (Ranked 293)  
+Progressed: 3,037 (Ranked 196)  
+Completed: 1 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,6 +231,7 @@ Completed: 1 (0.03%) (Ranked 293)
 | 2023-10-22 | 3,031 | 1 |
 | 2023-10-23 | 3,033 | 1 |
 | 2023-10-24 | 3,036 | 1 |
+| 2023-10-25 | 3,037 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 408)  
 Sum: 531 (Ranked 310)  

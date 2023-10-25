@@ -3,8 +3,8 @@
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "ACH_ENEMYKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Should have left me alone",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENEMYKILLS_SMALL",
@@ -263,9 +263,9 @@
       "ID": "ACH_GEMSCOLLECTED_25PERCENT",
       "SetID": "cfld5bl",
       "Name": "Baby steps",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GEMSCOLLECTED_50PERCENT",
@@ -287,17 +287,17 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_LARGE",
       "SetID": "cfld5bl",
       "Name": "Delicious",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Drink up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
@@ -383,17 +383,17 @@
       "ID": "ACH_LEVELCOMPLETION_03_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-2",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 3-3",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_04",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:03:25.965034+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:04:23.0566731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:57:25.8912552+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:03:25.9650732+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:57:47.8086555+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:04:23.056705+00:00"
 }

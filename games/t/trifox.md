@@ -22,15 +22,15 @@
 | Well-off | 13.00% | ~13 |
 | Defeat the engineer boss | 13.00% | ~13 |
 | Too many crates | 12.00% | ~12 |
+| Baby steps | 12.00% | ~12 |
 | Complete Level 3-1 | 12.00% | ~12 |
-| Baby steps | 11.00% | ~11 |
 | Party popper | 11.00% | ~11 |
+| Complete Level 3-2 | 10.00% | ~10 |
 | Engineer-warrior hybrid | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
-| Complete Level 3-2 | 9.00% | ~9 |
-| Should have left me alone | 8.00% | ~8 |
-| Drink up | 8.00% | ~8 |
-| Complete Level 3-3 | 7.00% | ~7 |
+| Should have left me alone | 9.00% | ~9 |
+| Drink up | 9.00% | ~9 |
+| Complete Level 3-3 | 8.00% | ~8 |
 | Mage specialist | 7.00% | ~7 |
 | Way of the mage | 6.00% | ~6 |
 | Defeat the mage boss | 5.00% | ~5 |
@@ -38,11 +38,11 @@
 | Engineer specialist | 5.00% | ~5 |
 | Way of the engineer | 5.00% | ~5 |
 | Rich | 4.00% | ~4 |
+| Delicious | 4.00% | ~4 |
 | Warrior specialist | 4.00% | ~4 |
 | The True Trifox | 4.00% | ~4 |
 | Way of the warrior | 4.00% | ~4 |
 | Halfway | 3.00% | ~3 |
-| Delicious | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |
 | Master of destruction | 2.00% | ~2 |
 | Completionist | 1.00% | ~1 |
@@ -52,7 +52,7 @@
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 401)  
-Completed: 1 (0.99%) (Ranked 149)  
+Completed: 1 (0.99%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

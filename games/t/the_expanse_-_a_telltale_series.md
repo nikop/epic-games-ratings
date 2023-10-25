@@ -21,9 +21,9 @@ Rating: 4.60 (Ranked 401)
 | Spore Taste | 4.00% | ~572 |
 | Khan's Revenge | 4.00% | ~572 |
 | Thorston Mayer | 3.00% | ~429 |
+| Miraculous Maya | 3.00% | ~429 |
 | Doctor Approved | 2.00% | ~286 |
 | Bottoms up! | 2.00% | ~286 |
-| Miraculous Maya | 2.00% | ~286 |
 | Data Logger | 1.00% | ~143 |
 | Brother's Reaper | 1.00% | ~143 |
 | No Belter Left Behind | 1.00% | ~143 |
@@ -37,7 +37,7 @@ Rating: 4.60 (Ranked 401)
 | Data Collector | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,312 (Ranked 141)  
-Completed: 27 (0.19%) (Ranked 233)  
+Completed: 27 (0.19%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

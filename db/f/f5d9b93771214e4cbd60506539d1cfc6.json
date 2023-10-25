@@ -6,7 +6,7 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 74,
-  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149773,
+  "EOS_Progressed": 149775,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -15693,6 +15693,11 @@
       "Time": "2023-10-25T09:05:03.2553444+00:00",
       "NumProgressed": 149773,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-10-25T10:06:14.1989012+00:00",
+      "NumProgressed": 149775,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 31,
@@ -15712,7 +15717,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104841
+      "UsersEstimate": 104842
     },
     {
       "ID": "EAwards_10",
@@ -15720,7 +15725,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 20968
+      "UsersEstimate": 20969
     },
     {
       "ID": "EAwards_11",
@@ -15736,7 +15741,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25461
+      "UsersEstimate": 25462
     },
     {
       "ID": "EAwards_13",
@@ -15752,7 +15757,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58411
+      "UsersEstimate": 58412
     },
     {
       "ID": "EAwards_15",
@@ -15768,7 +15773,7 @@
       "Name": "Cock of the Walk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "EAwards_17",
@@ -15792,7 +15797,7 @@
       "Name": "Lore Master",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "EAwards_2",
@@ -15800,7 +15805,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 41936
+      "UsersEstimate": 41937
     },
     {
       "ID": "EAwards_20",
@@ -15832,7 +15837,7 @@
       "Name": "Heavyweight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "EAwards_24",
@@ -15920,7 +15925,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37443
+      "UsersEstimate": 37444
     },
     {
       "ID": "EAwards_7",
@@ -15928,7 +15933,7 @@
       "Name": "I swat you",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "EAwards_8",
@@ -15936,7 +15941,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55416
+      "UsersEstimate": 55417
     },
     {
       "ID": "EAwards_9",
@@ -15951,7 +15956,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149773,
+      "Progressed": 149775,
       "Completed": 307
     }
   ],
@@ -15959,8 +15964,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:05:03.2553437+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:06:14.1989008+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:00:00.2005744+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:05:03.2555708+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:01:14.3850822+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:06:14.1990059+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 532,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529955,
+  "EOS_Progressed": 529956,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20502,6 +20502,11 @@
       "Time": "2023-10-25T08:09:03.0450384+00:00",
       "NumProgressed": 529955,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-25T10:08:15.8484401+00:00",
+      "NumProgressed": 529956,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 57,
@@ -20529,7 +20534,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370968
+      "UsersEstimate": 370969
     },
     {
       "ID": "12",
@@ -20593,7 +20598,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328572
+      "UsersEstimate": 328573
     },
     {
       "ID": "2",
@@ -20809,7 +20814,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90092
+      "UsersEstimate": 90093
     },
     {
       "ID": "44",
@@ -20841,7 +20846,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328572
+      "UsersEstimate": 328573
     },
     {
       "ID": "48",
@@ -20889,7 +20894,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243779
+      "UsersEstimate": 243780
     },
     {
       "ID": "53",
@@ -20968,15 +20973,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529955,
+      "Progressed": 529956,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:06:36.8203757+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:08:15.8484396+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:59:14.599238+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:06:36.820606+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:00:18.4433965+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:08:15.8486115+00:00"
 }

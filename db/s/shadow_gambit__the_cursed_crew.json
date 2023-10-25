@@ -6,8 +6,8 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -2322,6 +2322,11 @@
       "Time": "2023-10-24T23:08:33.7884902+00:00",
       "NumProgressed": 764,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-25T10:09:26.7680359+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2334,7 +2339,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2342,7 +2347,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "_03_FinishAct1",
@@ -2358,7 +2363,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "_05_FinishAct2",
@@ -2382,7 +2387,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "_08_Completion_10",
@@ -2406,7 +2411,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "_11_Completion_40",
@@ -2430,7 +2435,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "_14_Completion_70",
@@ -2454,7 +2459,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2462,7 +2467,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2470,7 +2475,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2541,7 +2546,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 26
     }
   ],
@@ -2549,8 +2554,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:08:25.6002033+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:09:26.7680354+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:00:33.2327901+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:08:25.6002381+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:02:05.3280624+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:09:26.7680682+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 233,
+  "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -9685,9 +9685,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 429
     },
     {
       "ID": "25",
@@ -9812,8 +9812,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:05:59.8456473+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:07:28.1620682+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:00:10.3971645+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:05:59.8457635+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:01:30.5623593+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:07:28.1621598+00:00"
 }

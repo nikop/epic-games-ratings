@@ -5,36 +5,36 @@ Rating: 4.49 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~5,917 |
-| For Saw Gerrera | 98.00% | ~5,857 |
-| Grab Some Seat | 92.00% | ~5,499 |
-| Can You Pet the Bogling? | 87.00% | ~5,200 |
-| The Past Made Present | 84.00% | ~5,021 |
+| Rooftop Duel | 99.00% | ~5,918 |
+| For Saw Gerrera | 98.00% | ~5,858 |
+| Grab Some Seat | 92.00% | ~5,500 |
+| Can You Pet the Bogling? | 87.00% | ~5,201 |
+| The Past Made Present | 84.00% | ~5,022 |
 | Survivors, We Adapt | 80.00% | ~4,782 |
-| Among the Masters | 79.00% | ~4,722 |
-| They Never Saw It Coming | 78.00% | ~4,662 |
-| Who Gives a Puck | 74.00% | ~4,423 |
+| Among the Masters | 79.00% | ~4,723 |
+| They Never Saw It Coming | 78.00% | ~4,663 |
+| Who Gives a Puck | 74.00% | ~4,424 |
 | Now, This Isn't Podracing | 66.00% | ~3,945 |
 | For the Path | 66.00% | ~3,945 |
-| Mirror Match | 65.00% | ~3,885 |
+| Mirror Match | 65.00% | ~3,886 |
 | Skywalker | 62.00% | ~3,706 |
-| Out of Bedlam | 61.00% | ~3,646 |
-| Cleaning Up | 55.00% | ~3,287 |
-| Kitted Out | 52.00% | ~3,108 |
-| Tanalorr Bound | 52.00% | ~3,108 |
-| Tragedy | 50.00% | ~2,988 |
-| Hey, Luke At Us | 50.00% | ~2,988 |
+| Out of Bedlam | 61.00% | ~3,647 |
+| Cleaning Up | 55.00% | ~3,288 |
+| Tanalorr Bound | 53.00% | ~3,168 |
+| Kitted Out | 52.00% | ~3,109 |
+| Tragedy | 50.00% | ~2,989 |
+| Hey, Luke At Us | 50.00% | ~2,989 |
 | At the Precipice | 48.00% | ~2,869 |
-| Riposte | 47.00% | ~2,809 |
-| Into the Abyss | 46.00% | ~2,749 |
+| Into the Abyss | 47.00% | ~2,810 |
+| Riposte | 47.00% | ~2,810 |
 | A Place You Could Call Home | 44.00% | ~2,630 |
 | Greezy Money | 44.00% | ~2,630 |
 | Catch! | 41.00% | ~2,451 |
 | They're Probably Fine | 40.00% | ~2,391 |
-| Han Slowlo | 38.00% | ~2,271 |
-| There Is No Try | 38.00% | ~2,271 |
+| Han Slowlo | 38.00% | ~2,272 |
+| There Is No Try | 38.00% | ~2,272 |
 | The Jedi Path | 32.00% | ~1,913 |
-| This Is Canon | 29.00% | ~1,733 |
+| This Is Canon | 29.00% | ~1,734 |
 | It's a Trap | 26.00% | ~1,554 |
 | You've Got A Friend | 23.00% | ~1,375 |
 | King of the World | 17.00% | ~1,016 |
@@ -42,7 +42,7 @@ Rating: 4.49 (Ranked 597)
 | Max Capacity | 14.00% | ~837 |
 | A Presence I've Not Felt Since... | 14.00% | ~837 |
 | Slam Dunk | 12.00% | ~717 |
-| Star Tours | 11.00% | ~657 |
+| Star Tours | 11.00% | ~658 |
 | Caij Match | 10.00% | ~598 |
 | Gambler | 10.00% | ~598 |
 | Growth Spurt | 9.00% | ~538 |
@@ -59,8 +59,8 @@ Rating: 4.49 (Ranked 597)
 | Blood, Sweat, and Tears | 3.00% | ~179 |
 | Pinpoint | 2.00% | ~120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,977 (Ranked 172)  
-Completed: 28 (0.47%) (Ranked 186)  
+Progressed: 5,978 (Ranked 172)  
+Completed: 28 (0.47%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 28 (0.47%) (Ranked 186)
 | 2023-10-22 | 5,833 | 25 |
 | 2023-10-23 | 5,907 | 28 |
 | 2023-10-24 | 5,961 | 28 |
-| 2023-10-25 | 5,977 | 28 |
+| 2023-10-25 | 5,978 | 28 |
 ## Awards
 Max (Great Boss Battles): 3,055  (Ranked 95)  
 Sum: 4,583 (Ranked 143)  

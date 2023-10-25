@@ -3,8 +3,8 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -570,6 +570,11 @@
       "Time": "2023-10-25T09:06:20.4609021+00:00",
       "NumProgressed": 744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T10:07:54.6204638+00:00",
+      "NumProgressed": 746,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -630,7 +635,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -662,7 +667,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -678,7 +683,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -694,7 +699,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -724,9 +729,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -821,14 +826,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:06:20.4609017+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:07:54.6204633+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:59:24.1984106+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:06:20.4609624+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:00:28.1128535+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:07:54.6204861+00:00"
 }

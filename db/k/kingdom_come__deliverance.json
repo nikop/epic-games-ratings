@@ -6,7 +6,7 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -8091,9 +8091,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 805935,
+  "EOS_Progressed": 805937,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 757,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29101,6 +29101,11 @@
       "Time": "2023-10-25T09:02:15.9497128+00:00",
       "NumProgressed": 805935,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-25T10:03:25.3468604+00:00",
+      "NumProgressed": 805937,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29144,7 +29149,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169246
+      "UsersEstimate": 169247
     },
     {
       "ID": "BadGirl",
@@ -29192,7 +29197,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257899
+      "UsersEstimate": 257900
     },
     {
       "ID": "Bookworm",
@@ -29200,7 +29205,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120890
+      "UsersEstimate": 120891
     },
     {
       "ID": "Buddy",
@@ -29312,7 +29317,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185365
+      "UsersEstimate": 185366
     },
     {
       "ID": "Fighter",
@@ -29328,7 +29333,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120890
+      "UsersEstimate": 120891
     },
     {
       "ID": "Freud",
@@ -29512,7 +29517,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56415
+      "UsersEstimate": 56416
     },
     {
       "ID": "MercenarysHonor",
@@ -29616,7 +29621,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56415
+      "UsersEstimate": 56416
     },
     {
       "ID": "Saviour",
@@ -29767,15 +29772,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 805935,
+      "Progressed": 805937,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-24T18:02:32.1581798+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:02:15.9496946+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:03:25.3468594+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:00:47.069978+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:02:15.9510449+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:02:25.4161338+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:03:25.3471003+00:00"
 }

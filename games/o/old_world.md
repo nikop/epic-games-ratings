@@ -81,13 +81,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.90% | ~134 |
 | Good Difficulty | 0.90% | ~134 |
 | Greece | 0.90% | ~134 |
+| Power to the People | 0.90% | ~134 |
 | Points Victory | 0.90% | ~134 |
 | Invincible | 0.80% | ~119 |
 | Patrons | 0.80% | ~119 |
 | Riders | 0.80% | ~119 |
 | Statesmen | 0.80% | ~119 |
 | Circus Maximus | 0.80% | ~119 |
-| Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
 | Double Victory | 0.80% | ~119 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,936 (Ranked 140)  
-Completed: 5 (0.03%) (Ranked 293)  
+Progressed: 14,937 (Ranked 140)  
+Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,936 | 5 |
+| 2023-10-25 | 14,937 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -3,7 +3,7 @@
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -1328,6 +1328,6 @@
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
   "LastChanged_Achievements": "2023-10-25T09:08:37.0202638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:58:11.6344285+00:00",
+  "LastUpdate_Ratings": "2023-10-25T09:58:47.6760153+00:00",
   "LastUpdate_Achievements": "2023-10-25T09:08:37.0203099+00:00"
 }

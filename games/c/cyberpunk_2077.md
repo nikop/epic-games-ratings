@@ -10,6 +10,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.50% | ~4,469 |
 | The High Priestess | 0.50% | ~4,469 |
 | Full Body Conversion | 0.40% | ~3,575 |
+| Right Back At Ya | 0.40% | ~3,575 |
 | Gunslinger | 0.40% | ~3,575 |
 | Stanislavski's Method | 0.40% | ~3,575 |
 | The Hermit | 0.40% | ~3,575 |
@@ -20,7 +21,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.40% | ~89 |
 | Arachnophobia | 0.40% | ~89 |
 | Bushido and Chill | 0.30% | ~2,681 |
-| Right Back At Ya | 0.30% | ~2,681 |
 | Gun Fu | 0.30% | ~2,681 |
 | Mean Streets | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,721 (Ranked 15)  
-Completed: 2,713 (0.30%) (Ranked 212)  
+Progressed: 893,724 (Ranked 15)  
+Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,7 +260,7 @@ Completed: 2,713 (0.30%) (Ranked 212)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,721 | 2,713 |
+| 2023-10-25 | 893,724 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
 Sum: 325,093 (Ranked 10)  

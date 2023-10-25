@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 83.00% | ~10 |
+| Spirit Within | 25.00% | ~3 |
 | A Small Thirsty Thing | 17.00% | ~2 |
 | Leisis Bless You | 17.00% | ~2 |
-| Spirit Within | 17.00% | ~2 |
 | Smotherly Love | 8.00% | ~1 |
 | Let Me Solo Them | 8.00% | ~1 |
 | Dousing a Venerable Flame | 8.00% | ~1 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12 (Ranked 543)  
-Completed: 0 (0.00%) (Ranked 325)  
+Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

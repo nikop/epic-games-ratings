@@ -6,7 +6,7 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 32,
-  "Ranking_EOS_Completed": 212,
+  "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -2718,7 +2718,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 536290,
+  "EOS_Progressed": 536291,
   "EOS_Completed": 1591,
   "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 10,
@@ -23288,6 +23288,11 @@
       "Time": "2023-10-25T09:08:08.1558322+00:00",
       "NumProgressed": 536290,
       "NumCompleted": 1591
+    },
+    {
+      "Time": "2023-10-25T10:09:04.8257263+00:00",
+      "NumProgressed": 536291,
+      "NumCompleted": 1591
     }
   ],
   "TotalAchievements": 37,
@@ -23355,7 +23360,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 445121
+      "UsersEstimate": 445122
     },
     {
       "ID": "HONED",
@@ -23403,7 +23408,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26814
+      "UsersEstimate": 26815
     },
     {
       "ID": "THE_BANQUET",
@@ -23515,7 +23520,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26814
+      "UsersEstimate": 26815
     },
     {
       "ID": "THE_RED_HALL",
@@ -23594,15 +23599,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 536290,
+      "Progressed": 536291,
       "Completed": 1591
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-21T15:03:18.373464+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:08:08.1558317+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:09:04.8257258+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:26.2349991+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:57:54.0040725+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:08:08.1560478+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:58:20.9978449+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:09:04.8258722+00:00"
 }

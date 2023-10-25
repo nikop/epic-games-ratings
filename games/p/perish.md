@@ -69,7 +69,7 @@
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,587 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 325)  
+Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

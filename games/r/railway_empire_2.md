@@ -24,12 +24,12 @@ Rating: 4.44 (Ranked 663)
 | Bridge Builder | 41.00% | ~844 |
 | Access granted | 35.00% | ~720 |
 | Going once, going twice, sold | 35.00% | ~720 |
+| Bull and bear | 34.00% | ~700 |
 | Stoker | 33.00% | ~679 |
-| Bull and bear | 33.00% | ~679 |
 | Full Steam ahead | 32.00% | ~659 |
+| Financial Shark | 31.00% | ~638 |
 | All mine | 30.00% | ~617 |
 | Mole | 30.00% | ~617 |
-| Financial Shark | 30.00% | ~617 |
 | Socializer | 30.00% | ~617 |
 | Country Life | 28.00% | ~576 |
 | General Manager | 27.00% | ~556 |
@@ -62,7 +62,7 @@ Rating: 4.44 (Ranked 663)
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,058 (Ranked 209)  
-Completed: 0 (0.00%) (Ranked 325)  
+Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

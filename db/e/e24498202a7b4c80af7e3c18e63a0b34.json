@@ -6,9 +6,9 @@
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6412,
+  "EOS_Progressed": 6413,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4189,6 +4189,11 @@
       "Time": "2023-10-25T08:09:57.9270587+00:00",
       "NumProgressed": 6412,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-25T10:09:21.9631124+00:00",
+      "NumProgressed": 6413,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4201,7 +4206,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "achievement_01_02",
@@ -4241,7 +4246,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "achievement_01_07",
@@ -4273,7 +4278,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "achievement_02_01",
@@ -4345,7 +4350,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "achievement_03_02",
@@ -4377,7 +4382,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_03_06",
@@ -4433,7 +4438,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "achievement_04_02",
@@ -4441,7 +4446,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "achievement_04_03",
@@ -4449,7 +4454,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "achievement_04_04",
@@ -4489,7 +4494,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5450
+      "UsersEstimate": 5451
     },
     {
       "ID": "achievement_04_09",
@@ -4504,7 +4509,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6412,
+      "Progressed": 6413,
       "Completed": 30
     }
   ],
@@ -4512,8 +4517,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-25T09:08:22.1318172+00:00",
+  "LastChanged_Achievements": "2023-10-25T10:09:21.9631119+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:00:10.1822585+00:00",
-  "LastUpdate_Achievements": "2023-10-25T09:08:22.1319121+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:01:30.4047854+00:00",
+  "LastUpdate_Achievements": "2023-10-25T10:09:21.9631668+00:00"
 }
