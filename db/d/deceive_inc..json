@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 460,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18673,
+  "EOS_Progressed": 18675,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12250,6 +12250,11 @@
       "Time": "2023-10-24T21:08:37.8569499+00:00",
       "NumProgressed": 18673,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-25T01:48:47.3710037+00:00",
+      "NumProgressed": 18675,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12277,7 +12282,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "0004",
@@ -12293,7 +12298,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "0006",
@@ -12317,7 +12322,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "0009",
@@ -12357,7 +12362,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "0014",
@@ -12413,7 +12418,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "0021",
@@ -12421,7 +12426,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "0022",
@@ -12429,7 +12434,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "0023",
@@ -12453,7 +12458,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "0026",
@@ -12485,7 +12490,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "0030",
@@ -12493,7 +12498,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "0031",
@@ -12548,7 +12553,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18673,
+      "Progressed": 18675,
       "Completed": 4
     }
   ],
@@ -12556,8 +12561,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-22T09:57:36.2748349+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:06:26.9969386+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:48:47.3710031+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:59:07.2828029+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:06:26.997062+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:41:06.1059702+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:48:47.371148+00:00"
 }

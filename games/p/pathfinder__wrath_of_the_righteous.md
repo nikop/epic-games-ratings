@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,943 |
-| A Spark | 18.00% | ~2,119 |
-| Burning City | 17.00% | ~2,001 |
+| Devoured by Darkness | 25.00% | ~2,944 |
+| A Spark | 18.00% | ~2,120 |
+| Burning City | 17.00% | ~2,002 |
 | Defender's Heart | 15.00% | ~1,766 |
-| Mythic Choices | 14.00% | ~1,648 |
-| Banner over the Citadel | 13.00% | ~1,530 |
+| Mythic Choices | 14.00% | ~1,649 |
+| Banner over the Citadel | 13.00% | ~1,531 |
 | Queen's Gratitude | 12.00% | ~1,413 |
 | Fifth Crusade | 8.00% | ~942 |
-| Embrace of the Abyss | 6.00% | ~706 |
-| Path of the Angel | 6.00% | ~706 |
-| Demonic and Divine | 6.00% | ~706 |
+| Embrace of the Abyss | 6.00% | ~707 |
+| Path of the Angel | 6.00% | ~707 |
+| Demonic and Divine | 6.00% | ~707 |
 | Path of the Azata | 5.00% | ~589 |
 | Transformation | 5.00% | ~589 |
 | Great Upstart | 5.00% | ~589 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~353 |
 | The Lady of the Forest | 3.00% | ~317 |
 | Beware Still Water | 3.00% | ~317 |
-| Path of the Demon | 2.00% | ~235 |
-| Path of the Aeon | 2.00% | ~235 |
-| Path of the Lich | 2.00% | ~235 |
-| Capitulation Is Now Moot | 2.00% | ~235 |
-| Your First Big Enemy | 2.00% | ~235 |
-| Truly Important Deed | 2.00% | ~235 |
+| Path of the Demon | 2.00% | ~236 |
+| Path of the Aeon | 2.00% | ~236 |
+| Path of the Lich | 2.00% | ~236 |
+| Capitulation Is Now Moot | 2.00% | ~236 |
+| Your First Big Enemy | 2.00% | ~236 |
+| Truly Important Deed | 2.00% | ~236 |
 | Stay Underground | 2.00% | ~211 |
 | Hanged Man's Notes | 2.00% | ~211 |
 | Sarkoris Will Be Green | 2.00% | ~211 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,773 (Ranked 147)  
+Progressed: 11,776 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-22 | 11,709 | 0 |
 | 2023-10-23 | 11,739 | 0 |
 | 2023-10-24 | 11,771 | 0 |
-| 2023-10-25 | 11,773 | 0 |
+| 2023-10-25 | 11,776 | 0 |
 ## Awards
 Max (Character Customization): 1,728  (Ranked 120)  
 Sum: 7,000 (Ranked 118)  

@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,831 |
-| Finding Your Footing | 26.00% | ~11,393 |
-| Nomad | 17.00% | ~7,449 |
-| Picking Up Speed | 16.00% | ~7,011 |
-| Welcome Maya | 15.00% | ~6,573 |
-| Scout | 11.00% | ~4,820 |
-| Sightseer | 11.00% | ~4,820 |
-| Amateur | 10.00% | ~4,382 |
-| Unlock Maya | 8.00% | ~3,505 |
-| Wanderer | 8.00% | ~3,505 |
-| Enter Paz | 7.00% | ~3,067 |
-| Aviator | 6.00% | ~2,629 |
-| My Little Friend | 5.00% | ~2,191 |
-| One With The Board | 5.00% | ~2,191 |
-| Voyager | 5.00% | ~2,191 |
+| Rookie | 27.00% | ~11,834 |
+| Finding Your Footing | 26.00% | ~11,396 |
+| Nomad | 17.00% | ~7,451 |
+| Picking Up Speed | 16.00% | ~7,013 |
+| Welcome Maya | 15.00% | ~6,575 |
+| Scout | 11.00% | ~4,821 |
+| Sightseer | 11.00% | ~4,821 |
+| Amateur | 10.00% | ~4,383 |
+| Unlock Maya | 8.00% | ~3,506 |
+| Wanderer | 8.00% | ~3,506 |
+| Enter Paz | 7.00% | ~3,068 |
+| Aviator | 6.00% | ~2,630 |
+| My Little Friend | 5.00% | ~2,192 |
+| One With The Board | 5.00% | ~2,192 |
+| Voyager | 5.00% | ~2,192 |
 | Izel Has Arrived | 4.00% | ~1,753 |
 | Junkie | 3.00% | ~1,315 |
 | Traveler | 3.00% | ~1,315 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,315 |
 | Human Flight | 3.00% | ~1,315 |
 | Sandboarder | 3.00% | ~1,315 |
-| Explorer | 2.00% | ~876 |
-| Pro | 2.00% | ~876 |
-| Unlock Izel | 2.00% | ~876 |
-| Here Comes Felipe | 2.00% | ~876 |
+| Explorer | 2.00% | ~877 |
+| Pro | 2.00% | ~877 |
+| Unlock Izel | 2.00% | ~877 |
+| Here Comes Felipe | 2.00% | ~877 |
 | Hoist the Mainsail | 1.00% | ~438 |
 | Daredevil | 1.00% | ~438 |
 | Introducing Sumara | 1.00% | ~438 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~44 |
 | Windswept | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,818 (Ranked 108)  
+Progressed: 43,831 (Ranked 108)  
 Completed: 5 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 5 (0.01%) (Ranked 305)
 | 2023-10-22 | 43,586 | 5 |
 | 2023-10-23 | 43,698 | 5 |
 | 2023-10-24 | 43,815 | 5 |
-| 2023-10-25 | 43,818 | 5 |
+| 2023-10-25 | 43,831 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 426)  
 Sum: 369 (Ranked 336)  

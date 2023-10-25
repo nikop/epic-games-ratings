@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 0.80% | ~119 |
 | Persian Paganism | 0.80% | ~119 |
 | Building Wonders | 0.80% | ~119 |
+| Double Victory | 0.80% | ~119 |
 | Subjugator | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
 | Statesmen | 0.70% | ~105 |
@@ -100,12 +101,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Economic Reform | 0.70% | ~105 |
+| Gnosticism | 0.70% | ~105 |
 | Legalism | 0.70% | ~105 |
 | Redemption | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Legionary | 0.70% | ~105 |
 | Phalangite | 0.70% | ~105 |
-| Double Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
 | Strong Difficulty | 0.60% | ~90 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~90 |
 | Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
-| Gnosticism | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
 | Cimmerian Archer | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
+| Capturing Cities | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Play a Network Game | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
-| Capturing Cities | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Prosperous Kmt | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
@@ -214,6 +214,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~15 |
 | Council of Madness | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
+| Elephant in Elephantine | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
 | Et tu Brutus? | 0.10% | ~15 |
 | Event Level High | 0.10% | ~15 |
@@ -341,7 +342,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
-| Elephant in Elephantine | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,931 (Ranked 140)  
+Progressed: 14,932 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,6 +537,7 @@ Completed: 5 (0.03%) (Ranked 293)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
+| 2023-10-25 | 14,932 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

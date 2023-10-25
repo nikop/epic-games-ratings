@@ -2,13 +2,13 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -6337,10 +6337,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 14845,
       "NumberOfAwardsMax": 6472
+    },
+    {
+      "Time": "2023-10-25T01:41:01.466339+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14849,
+      "NumberOfAwardsMax": 6472
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14845,
+  "NumberOfAwards": 14849,
   "NumberOfAwardsMax": 6472,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6360,7 +6366,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 970
+      "Count": 972
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6396,7 +6402,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 862
+      "Count": 864
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6434,8 +6440,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-10-24T21:58:40.5052922+00:00",
+  "LastChanged": "2023-10-25T01:41:01.4663388+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.3937139+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:59:03.4739993+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:06:10.2827108+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:41:01.4663397+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:48:31.2602169+00:00"
 }

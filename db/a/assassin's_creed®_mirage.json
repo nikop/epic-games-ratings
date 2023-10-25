@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 650,
-  "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 281,
+  "Ranking_Popularity": 351,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -667,18 +667,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-10-25T01:39:20.53564+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
-  "NumberOfAwardsMax": 88,
+  "NumberOfAwards": 747,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 88
+      "Count": 98
     },
     {
       "Text": "This game is Great for Beginners",
@@ -702,7 +708,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 75
+      "Count": 79
     },
     {
       "Text": "This game is Highly Recommended",
@@ -753,8 +759,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-24T21:57:03.5557061+00:00",
+  "LastChanged": "2023-10-25T01:39:20.5356398+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.7760268+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:57:20.0796857+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:08:38.7621645+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:39:20.5356406+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:51:18.5868558+00:00"
 }

@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Start of a Journey | 89.00% | ~42 |
 | A thing of beauty | 85.00% | ~40 |
-| Escape the Maze | 53.00% | ~25 |
-| Brace the cold | 40.00% | ~19 |
-| A Long Walk | 38.00% | ~18 |
-| Dont mind the heat | 11.00% | ~5 |
+| Escape the Maze | 55.00% | ~26 |
+| Brace the cold | 43.00% | ~20 |
+| A Long Walk | 40.00% | ~19 |
+| Dont mind the heat | 13.00% | ~6 |
+| City of Puzzles | 9.00% | ~4 |
+| This field of danger | 9.00% | ~4 |
+| Labyrinths of the Mind | 9.00% | ~4 |
 | A Dangerous Road | 6.00% | ~3 |
-| City of Puzzles | 6.00% | ~3 |
-| This field of danger | 6.00% | ~3 |
-| Labyrinths of the Mind | 6.00% | ~3 |
 | Scorched Ruins | 4.00% | ~2 |
 | City of Illusion | 4.00% | ~2 |
 | Kill the Flames | 4.00% | ~2 |

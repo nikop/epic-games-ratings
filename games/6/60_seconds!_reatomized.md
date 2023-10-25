@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.60 (Ranked 402)  
+Rating: 4.60 (Ranked 401)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.60 (Ranked 402)
 | Family guy | 77.00% | ~4,198 |
 | Out of the Bag | 75.00% | ~4,089 |
 | The Dark Side | 70.00% | ~3,816 |
+| Souper! | 65.00% | ~3,544 |
 | Duck and cover! | 65.00% | ~3,544 |
-| Souper! | 64.00% | ~3,489 |
 | Pacifist | 59.00% | ~3,217 |
 | 2-1-6 | 58.00% | ~3,162 |
 | A gift | 54.00% | ~2,944 |

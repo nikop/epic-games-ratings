@@ -6,33 +6,33 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~6,832 |
-| Overkill | 35.00% | ~5,561 |
-| A normal day in Gloomhaven | 34.00% | ~5,402 |
-| Vaccine Incoming | 33.00% | ~5,243 |
-| Spread the plague | 30.00% | ~4,767 |
-| Get over here! | 24.00% | ~3,813 |
-| Just when I thought I was out... | 19.00% | ~3,019 |
-| Mine... All Mine... | 17.00% | ~2,701 |
-| Precious! | 16.00% | ~2,542 |
-| Light of my life | 15.00% | ~2,383 |
-| Anatomy Lesson | 15.00% | ~2,383 |
-| Grizzled veteran | 14.00% | ~2,224 |
-| You activated my trap card! | 13.00% | ~2,066 |
-| Obstacle race | 13.00% | ~2,066 |
-| Augmented rat | 12.00% | ~1,907 |
-| Doom and gloom | 11.00% | ~1,748 |
-| Who's the Boss? | 9.00% | ~1,430 |
-| Dungeon Veteran | 8.00% | ~1,271 |
-| Pack leader | 8.00% | ~1,271 |
-| Pain is your friend | 8.00% | ~1,271 |
-| Black death | 8.00% | ~1,271 |
-| Play it again, Sam | 8.00% | ~1,271 |
-| Quad damage | 6.00% | ~953 |
-| Power Up! | 5.00% | ~794 |
-| The Pro from Dover | 5.00% | ~794 |
-| Pretty lights! | 5.00% | ~794 |
-| Now you see me... | 5.00% | ~794 |
+| I'm not dead yet | 43.00% | ~6,837 |
+| Overkill | 35.00% | ~5,565 |
+| A normal day in Gloomhaven | 34.00% | ~5,406 |
+| Vaccine Incoming | 33.00% | ~5,247 |
+| Spread the plague | 30.00% | ~4,770 |
+| Get over here! | 24.00% | ~3,816 |
+| Just when I thought I was out... | 19.00% | ~3,021 |
+| Precious! | 17.00% | ~2,703 |
+| Mine... All Mine... | 17.00% | ~2,703 |
+| Light of my life | 15.00% | ~2,385 |
+| Anatomy Lesson | 15.00% | ~2,385 |
+| Grizzled veteran | 14.00% | ~2,226 |
+| You activated my trap card! | 13.00% | ~2,067 |
+| Obstacle race | 13.00% | ~2,067 |
+| Augmented rat | 12.00% | ~1,908 |
+| Doom and gloom | 11.00% | ~1,749 |
+| Who's the Boss? | 9.00% | ~1,431 |
+| Dungeon Veteran | 8.00% | ~1,272 |
+| Pack leader | 8.00% | ~1,272 |
+| Pain is your friend | 8.00% | ~1,272 |
+| Black death | 8.00% | ~1,272 |
+| Play it again, Sam | 8.00% | ~1,272 |
+| Quad damage | 6.00% | ~954 |
+| Power Up! | 5.00% | ~795 |
+| The Pro from Dover | 5.00% | ~795 |
+| Pretty lights! | 5.00% | ~795 |
+| Now you see me... | 5.00% | ~795 |
 | Caught off guard | 4.00% | ~636 |
 | Merchant of doom | 3.00% | ~477 |
 | Grin and bear it | 3.00% | ~477 |
@@ -51,7 +51,7 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 0.90% | ~143 |
 | Betray this | 0.80% | ~127 |
 | Spoiler police! | 0.70% | ~111 |
-| The Pacifist | 0.50% | ~79 |
+| The Pacifist | 0.50% | ~80 |
 | A tough job | 0.40% | ~64 |
 | Born Support | 0.40% | ~64 |
 | The evil that men do | 0.30% | ~48 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,889 (Ranked 137)  
+Progressed: 15,901 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 1 (0.01%) (Ranked 305)
 | 2023-10-22 | 15,407 | 1 |
 | 2023-10-23 | 15,655 | 1 |
 | 2023-10-24 | 15,877 | 1 |
-| 2023-10-25 | 15,889 | 1 |
+| 2023-10-25 | 15,901 | 1 |
 ## Awards
 Max (Character Customization): 3,559  (Ranked 90)  
 Sum: 8,313 (Ranked 98)  

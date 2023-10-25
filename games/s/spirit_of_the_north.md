@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~49,137 |
-| INFUSED WITH LIGHT | 53.00% | ~38,298 |
-| FOXIN' AROUND | 29.00% | ~20,955 |
-| FETCH | 28.00% | ~20,233 |
-| BLOOMS OF LIGHT | 26.00% | ~18,788 |
-| AWAKEN | 22.00% | ~15,897 |
-| BEST FRIENDS | 22.00% | ~15,897 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~49,140 |
+| INFUSED WITH LIGHT | 53.00% | ~38,300 |
+| FOXIN' AROUND | 29.00% | ~20,957 |
+| FETCH | 28.00% | ~20,234 |
+| BLOOMS OF LIGHT | 26.00% | ~18,789 |
+| AWAKEN | 22.00% | ~15,898 |
+| BEST FRIENDS | 22.00% | ~15,898 |
 | ERADICATE | 21.00% | ~15,175 |
 | SPIRIT BARK | 21.00% | ~15,175 |
-| GARDEN OF LIGHT | 18.00% | ~13,007 |
-| SPIRIT FORM | 17.00% | ~12,284 |
+| GARDEN OF LIGHT | 18.00% | ~13,008 |
+| SPIRIT FORM | 17.00% | ~12,285 |
 | WRITTEN IN STONE | 16.00% | ~11,562 |
-| UPROOTING DARKNESS | 15.00% | ~10,839 |
-| WEIGHTLESS | 12.00% | ~8,671 |
+| UPROOTING DARKNESS | 15.00% | ~10,840 |
+| WEIGHTLESS | 12.00% | ~8,672 |
 | SPIRIT DASH | 11.00% | ~7,949 |
-| OLD COMPANION | 9.00% | ~6,503 |
+| OLD COMPANION | 9.00% | ~6,504 |
 | MATCH MAKER | 8.00% | ~5,781 |
 | PLAGUE DOCTOR | 8.00% | ~5,781 |
 | SPIRITED AWAY | 8.00% | ~5,781 |
 | NORTHERN LIGHTS | 7.00% | ~5,058 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,890 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,891 |
 | ANCIENT HISTORY | 3.00% | ~2,168 |
 | NONE FORGOTTEN | 2.00% | ~1,445 |
 | KINDRED SPIRITS | 0.60% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,260 (Ranked 95)  
+Progressed: 72,264 (Ranked 95)  
 Completed: 379 (0.52%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,10 +219,11 @@ Completed: 379 (0.52%) (Ranked 183)
 | 2023-10-22 | 72,104 | 379 |
 | 2023-10-23 | 72,173 | 379 |
 | 2023-10-24 | 72,260 | 379 |
+| 2023-10-25 | 72,264 | 379 |
 ## Awards
-Max (Extremely Fun): 26  (Ranked 504)  
+Max (Extremely Fun): 26  (Ranked 505)  
 Sum: 114 (Ranked 428)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 26 |

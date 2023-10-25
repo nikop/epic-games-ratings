@@ -2,13 +2,13 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 42,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-02-17T04:58:03.9003744+00:00",
@@ -127,15 +127,21 @@
       "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-25T01:43:40.9251125+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4167,
+  "EOS_Progressed": 4168,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7093,6 +7099,11 @@
       "Time": "2023-10-24T20:04:26.7650013+00:00",
       "NumProgressed": 4167,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T01:46:04.6797075+00:00",
+      "NumProgressed": 4168,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7504,7 +7515,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Ach052",
@@ -7671,22 +7682,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4167,
+      "Progressed": 4168,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2688,
+      "Progressed": 2689,
       "Completed": 1930
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2023-09-20T21:58:46.0382146+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:03:32.8426695+00:00",
+  "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:46:04.679707+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-25T00:01:49.0530164+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:03:32.8427976+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:43:40.9251129+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:46:04.6798229+00:00"
 }

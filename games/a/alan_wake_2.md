@@ -4,58 +4,58 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 83.00% | ~324 |
-| Hunting Season | 79.00% | ~308 |
-| Not the Last | 65.00% | ~254 |
-| Somebody's Home | 51.00% | ~199 |
-| Coffee Thermos | 47.00% | ~183 |
-| Grew Bigger | 46.00% | ~179 |
-| Darkness Coiled | 44.00% | ~172 |
-| Secret Stashes | 43.00% | ~168 |
-| Bring It | 42.00% | ~164 |
-| Chased the Source | 42.00% | ~164 |
-| Felt Good | 41.00% | ~160 |
-| Into the Overlap | 38.00% | ~148 |
-| Find the Light | 37.00% | ~144 |
-| Lawman | 37.00% | ~144 |
-| Aimed Ahead | 34.00% | ~133 |
-| Talk Show | 33.00% | ~129 |
-| Carry his Words | 31.00% | ~121 |
-| The Other Side | 27.00% | ~105 |
-| Storm Cloud | 26.00% | ~101 |
-| New York City | 26.00% | ~101 |
-| Return | 24.00% | ~94 |
-| Filling the Shape | 23.00% | ~90 |
-| Greatest Hits | 22.00% | ~86 |
-| Yippee Ki-yay | 21.00% | ~82 |
-| Lights Shining | 20.00% | ~78 |
-| Growing Stronger | 20.00% | ~78 |
-| Shining in the Night | 20.00% | ~78 |
-| This is the Moment | 18.00% | ~70 |
-| Stop the Monster | 17.00% | ~66 |
-| Finding a Way | 17.00% | ~66 |
-| Bright Falls' Finest | 15.00% | ~58 |
-| All His Life | 15.00% | ~58 |
-| Escape its Gravity | 14.00% | ~55 |
-| Back in Watery | 14.00% | ~55 |
-| We Watch in the Night | 13.00% | ~51 |
-| In One Go | 13.00% | ~51 |
-| Ready for a Fight | 12.00% | ~47 |
-| In a Fancy Hotel | 11.00% | ~43 |
-| Stop Right There | 9.00% | ~35 |
-| Girl in Love | 9.00% | ~35 |
-| Stunning Vistas | 9.00% | ~35 |
-| The Old Gods | 9.00% | ~35 |
-| Told and Retold | 9.00% | ~35 |
-| Strange Reality | 8.00% | ~31 |
-| Seeing Double | 8.00% | ~31 |
-| Behind the Masks | 8.00% | ~31 |
-| Cut Short | 8.00% | ~31 |
-| Gone for Good | 7.00% | ~27 |
-| The Story Come True | 6.00% | ~23 |
-| The Final Deerfest | 6.00% | ~23 |
-| End of the Road | 6.00% | ~23 |
-| The Cult of the Word | 6.00% | ~23 |
+| Nightmare Territory | 84.00% | ~333 |
+| Hunting Season | 80.00% | ~318 |
+| Not the Last | 65.00% | ~258 |
+| Somebody's Home | 52.00% | ~206 |
+| Coffee Thermos | 49.00% | ~195 |
+| Grew Bigger | 48.00% | ~191 |
+| Darkness Coiled | 45.00% | ~179 |
+| Bring It | 43.00% | ~171 |
+| Felt Good | 43.00% | ~171 |
+| Secret Stashes | 43.00% | ~171 |
+| Chased the Source | 43.00% | ~171 |
+| Into the Overlap | 39.00% | ~155 |
+| Find the Light | 38.00% | ~151 |
+| Lawman | 38.00% | ~151 |
+| Aimed Ahead | 34.00% | ~135 |
+| Talk Show | 33.00% | ~131 |
+| Carry his Words | 31.00% | ~123 |
+| The Other Side | 27.00% | ~107 |
+| Storm Cloud | 26.00% | ~103 |
+| New York City | 26.00% | ~103 |
+| Return | 24.00% | ~95 |
+| Filling the Shape | 23.00% | ~91 |
+| Greatest Hits | 21.00% | ~83 |
+| Lights Shining | 20.00% | ~79 |
+| Yippee Ki-yay | 20.00% | ~79 |
+| Growing Stronger | 20.00% | ~79 |
+| Shining in the Night | 20.00% | ~79 |
+| This is the Moment | 18.00% | ~71 |
+| Finding a Way | 18.00% | ~71 |
+| Stop the Monster | 17.00% | ~67 |
+| Bright Falls' Finest | 15.00% | ~60 |
+| All His Life | 15.00% | ~60 |
+| Back in Watery | 14.00% | ~56 |
+| We Watch in the Night | 14.00% | ~56 |
+| Escape its Gravity | 13.00% | ~52 |
+| In One Go | 13.00% | ~52 |
+| Ready for a Fight | 12.00% | ~48 |
+| In a Fancy Hotel | 11.00% | ~44 |
+| Stop Right There | 9.00% | ~36 |
+| Girl in Love | 9.00% | ~36 |
+| Stunning Vistas | 9.00% | ~36 |
+| The Old Gods | 9.00% | ~36 |
+| Told and Retold | 9.00% | ~36 |
+| Behind the Masks | 9.00% | ~36 |
+| Strange Reality | 8.00% | ~32 |
+| Seeing Double | 8.00% | ~32 |
+| Cut Short | 8.00% | ~32 |
+| Gone for Good | 7.00% | ~28 |
+| The Story Come True | 6.00% | ~24 |
+| The Final Deerfest | 6.00% | ~24 |
+| End of the Road | 6.00% | ~24 |
+| The Cult of the Word | 6.00% | ~24 |
 | Rock n' Roll, Baby | 5.00% | ~20 |
 | His Way Out | 5.00% | ~20 |
 | All Accounted For | 5.00% | ~20 |
@@ -71,7 +71,7 @@
 | Hidden by the Trees | 0.80% | ~3 |
 | Rustic Charm | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390 (Ranked 305)  
+Progressed: 397 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-22 | 148 | 0 |
 | 2023-10-23 | 247 | 0 |
 | 2023-10-24 | 383 | 0 |
-| 2023-10-25 | 390 | 0 |
+| 2023-10-25 | 397 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

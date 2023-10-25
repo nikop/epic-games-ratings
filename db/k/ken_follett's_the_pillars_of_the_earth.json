@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -540,9 +540,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15943,
+  "EOS_Progressed": 15944,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12650,6 +12650,11 @@
       "Time": "2023-10-24T21:05:34.0517813+00:00",
       "NumProgressed": 15943,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-25T01:46:07.4416686+00:00",
+      "NumProgressed": 15944,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12701,7 +12706,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5262
     },
     {
       "ID": "tpote_achievement_15",
@@ -12749,7 +12754,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5262
     },
     {
       "ID": "tpote_achievement_20",
@@ -12877,7 +12882,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "tpote_achievement_35",
@@ -12925,7 +12930,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "tpote_achievement_40",
@@ -12949,7 +12954,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "tpote_achievement_6",
@@ -12957,7 +12962,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "tpote_achievement_7",
@@ -12973,7 +12978,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "tpote_achievement_9",
@@ -12988,15 +12993,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15943,
+      "Progressed": 15944,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-20T17:57:24.1431013+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:03:35.3482996+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:46:07.441668+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:59:20.7793579+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:03:35.3484123+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:41:19.6732994+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:46:07.4417927+00:00"
 }

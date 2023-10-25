@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 498,
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6800,9 +6800,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "9",
@@ -6879,8 +6879,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-23T10:57:20.7229711+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:03:22.6806505+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:45:55.1717641+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.066766+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:58:12.8357439+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:03:22.6807437+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:40:15.5651852+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:45:55.1721652+00:00"
 }

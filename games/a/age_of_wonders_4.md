@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 402)  
+Rating: 4.60 (Ranked 401)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -48,7 +48,7 @@ Rating: 4.60 (Ranked 402)
 | Duality | 2.00% | ~105 |
 | Manufactured War | 1.00% | ~52 |
 | Snap Out of It! | 0.90% | ~47 |
-| Betrayal Most Foul | 0.60% | ~31 |
+| Betrayal Most Foul | 0.70% | ~37 |
 | I Want to Break Free | 0.30% | ~16 |
 | The Grey Wizard | 0.20% | ~10 |
 | Returning Circle | 0.20% | ~10 |

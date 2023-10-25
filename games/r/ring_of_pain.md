@@ -1,23 +1,23 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 440)  
+Rating: 4.58 (Ranked 439)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~228,959 |
-| Uncharted Territory | 89.00% | ~212,264 |
-| Getting A Glimpse | 73.00% | ~174,104 |
-| A Quick Escape | 65.00% | ~155,024 |
-| Explorer | 62.00% | ~147,869 |
-| An Offering | 62.00% | ~147,869 |
-| Defeat The Dark | 61.00% | ~145,484 |
-| Colorful Corpse | 58.00% | ~138,329 |
-| That Was Quick | 57.00% | ~135,944 |
-| A Donation | 57.00% | ~135,944 |
-| Goodbye, Frog Friend | 54.00% | ~128,789 |
-| Heavy Hitter | 53.00% | ~126,404 |
+| First Steps | 96.00% | ~228,961 |
+| Uncharted Territory | 89.00% | ~212,266 |
+| Getting A Glimpse | 73.00% | ~174,106 |
+| A Quick Escape | 65.00% | ~155,026 |
+| Explorer | 62.00% | ~147,871 |
+| An Offering | 62.00% | ~147,871 |
+| Defeat The Dark | 61.00% | ~145,486 |
+| Colorful Corpse | 58.00% | ~138,331 |
+| That Was Quick | 57.00% | ~135,946 |
+| A Donation | 57.00% | ~135,946 |
+| Goodbye, Frog Friend | 54.00% | ~128,791 |
+| Heavy Hitter | 53.00% | ~126,406 |
 | Heartless | 46.00% | ~109,710 |
 | Spine Breaker | 46.00% | ~109,710 |
 | Deflection | 45.00% | ~107,325 |
@@ -116,20 +116,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,385 |
 | Martial Master | 1.00% | ~2,385 |
 | You Call That A Knife? | 1.00% | ~2,385 |
-| Disposal | 0.90% | ~2,146 |
-| Blizzard | 0.90% | ~2,146 |
-| No Swapsies | 0.90% | ~2,146 |
+| Disposal | 0.90% | ~2,147 |
+| Blizzard | 0.90% | ~2,147 |
+| No Swapsies | 0.90% | ~2,147 |
 | Need An Antidote? | 0.80% | ~1,908 |
-| A Hard Carry | 0.70% | ~1,669 |
-| Only The Best | 0.70% | ~1,669 |
-| Mastermind | 0.70% | ~1,669 |
-| Ignoring Midgame | 0.70% | ~1,669 |
-| Nudie Run | 0.70% | ~1,669 |
-| Never Too Many Hats | 0.50% | ~1,192 |
-| Down Under | 0.50% | ~1,192 |
-| Near Death Experience | 0.30% | ~715 |
+| A Hard Carry | 0.70% | ~1,670 |
+| Only The Best | 0.70% | ~1,670 |
+| Mastermind | 0.70% | ~1,670 |
+| Ignoring Midgame | 0.70% | ~1,670 |
+| Nudie Run | 0.70% | ~1,670 |
+| Never Too Many Hats | 0.50% | ~1,193 |
+| Down Under | 0.50% | ~1,193 |
+| Near Death Experience | 0.30% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,499 (Ranked 58)  
+Progressed: 238,501 (Ranked 58)  
 Completed: 284 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,6 +317,7 @@ Completed: 284 (0.12%) (Ranked 249)
 | 2023-10-22 | 238,387 | 282 |
 | 2023-10-23 | 238,440 | 282 |
 | 2023-10-24 | 238,499 | 284 |
+| 2023-10-25 | 238,501 | 284 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 128)  
 Sum: 11,623 (Ranked 83)  

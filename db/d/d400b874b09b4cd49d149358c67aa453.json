@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 460,
+  "EOS_Progressed": 461,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1499,6 +1499,11 @@
       "Time": "2023-10-22T14:08:12.6021583+00:00",
       "NumProgressed": 460,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T01:46:43.938492+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1559,15 +1564,15 @@
       "Name": "I love customers",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1575,7 +1580,7 @@
       "Name": "I can fix that",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1655,7 +1660,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1679,7 +1684,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1718,14 +1723,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 460,
+      "Progressed": 461,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:04:22.3788937+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:46:43.9384916+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:33.8138445+00:00",
-  "LastUpdate_Ratings": "2023-10-25T00:00:08.1354044+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:04:22.3789264+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:42:05.7537825+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:46:43.9385204+00:00"
 }

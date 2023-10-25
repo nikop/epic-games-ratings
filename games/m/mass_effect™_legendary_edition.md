@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~751 |
-| Spectre Inductee | 83.00% | ~663 |
-| Medal of Exploration I | 75.00% | ~599 |
-| Recruit | 72.00% | ~575 |
-| Search and Rescue | 72.00% | ~575 |
-| Quarian Ally | 68.00% | ~543 |
-| Medal of Heroism | 65.00% | ~519 |
-| Honorarium of Corporate Service | 65.00% | ~519 |
-| Council Legion of Merit | 60.00% | ~479 |
-| Medal of Honor | 58.00% | ~463 |
-| Meritorious Service Medal | 58.00% | ~463 |
-| Medal of Exploration II | 58.00% | ~463 |
-| Charismatic | 57.00% | ~455 |
-| Soldier | 56.00% | ~447 |
-| Turian Ally | 56.00% | ~447 |
-| Asari Ally | 53.00% | ~423 |
-| Principled | 52.00% | ~415 |
-| Medal of Exploration III | 51.00% | ~407 |
+| Distinguished Service Medal | 94.00% | ~752 |
+| Spectre Inductee | 83.00% | ~664 |
+| Medal of Exploration I | 75.00% | ~600 |
+| Recruit | 72.00% | ~576 |
+| Search and Rescue | 72.00% | ~576 |
+| Quarian Ally | 68.00% | ~544 |
+| Medal of Heroism | 66.00% | ~528 |
+| Honorarium of Corporate Service | 66.00% | ~528 |
+| Council Legion of Merit | 60.00% | ~480 |
+| Medal of Honor | 58.00% | ~464 |
+| Meritorious Service Medal | 58.00% | ~464 |
+| Medal of Exploration II | 58.00% | ~464 |
+| Charismatic | 57.00% | ~456 |
+| Soldier | 56.00% | ~448 |
+| Turian Ally | 56.00% | ~448 |
+| Asari Ally | 53.00% | ~424 |
+| Principled | 52.00% | ~416 |
+| Medal of Exploration III | 51.00% | ~408 |
 | Soldier Ally | 50.00% | ~400 |
 | Paramour I | 49.00% | ~392 |
 | Colonial Savior | 48.00% | ~384 |
@@ -36,8 +36,8 @@
 | Operative | 43.00% | ~344 |
 | Veteran | 41.00% | ~328 |
 | The Professor | 41.00% | ~328 |
+| Power Full | 41.00% | ~328 |
 | The Archangel | 40.00% | ~320 |
-| Power Full | 40.00% | ~320 |
 | The Convict | 38.00% | ~304 |
 | Completionist | 37.00% | ~296 |
 | Colony Defense | 37.00% | ~296 |
@@ -115,16 +115,16 @@
 | Barrier Mastery | 10.00% | ~80 |
 | Always Prepared | 10.00% | ~80 |
 | Lift Mastery | 10.00% | ~80 |
+| Sky High | 9.00% | ~72 |
 | Hijacker | 9.00% | ~72 |
-| Sky High | 8.00% | ~64 |
 | Singularity Mastery | 8.00% | ~64 |
 | Insanity I | 7.00% | ~56 |
 | Damping Specialist | 7.00% | ~56 |
 | Incineration Specialist | 6.00% | ~48 |
 | Shield Breaker | 5.00% | ~40 |
 | Insanity II | 4.00% | ~32 |
+| Tactician | 4.00% | ~32 |
 | Warp Specialist | 4.00% | ~32 |
-| Tactician | 3.00% | ~24 |
 | Stasis Mastery | 2.00% | ~16 |
 | Gunsmith | 2.00% | ~16 |
 | Insanity III | 2.00% | ~16 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 2.00% | ~16 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 254)  
+Progressed: 800 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,4 +172,4 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-22 | 783 | 0 |
 | 2023-10-23 | 789 | 0 |
 | 2023-10-24 | 798 | 0 |
-| 2023-10-25 | 799 | 0 |
+| 2023-10-25 | 800 | 0 |

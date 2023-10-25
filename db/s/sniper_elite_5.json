@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7529,9 +7529,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1774
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8032,8 +8032,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:05:14.1473361+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:47:35.9174599+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:57:49.7463361+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:05:14.1474555+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:39:51.6052289+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:47:35.9176107+00:00"
 }

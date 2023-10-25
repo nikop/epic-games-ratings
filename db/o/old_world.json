@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 114,
+  "Ranking_EOS_NewCompleters": 113,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,7 +1938,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14931,
+  "EOS_Progressed": 14932,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -14658,6 +14658,11 @@
       "Time": "2023-10-24T23:04:09.3737496+00:00",
       "NumProgressed": 14931,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T01:47:12.5321003+00:00",
+      "NumProgressed": 14932,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15467,9 +15472,9 @@
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Elephant in Elephantine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ETHNIC_DIVERSITY",
@@ -16579,9 +16584,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -16643,9 +16648,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -16803,9 +16808,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -17404,21 +17409,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14931,
+      "Progressed": 14932,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14931,
+      "Progressed": 14932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:04:50.0618829+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:47:12.5320998+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-25T00:01:42.0551975+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:04:50.0632789+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:43:35.1305108+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:47:12.5334135+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 125,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22722,
+  "EOS_Progressed": 22723,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -20558,6 +20558,11 @@
       "Time": "2023-10-25T00:07:27.7883144+00:00",
       "NumProgressed": 22722,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-25T01:49:47.7724804+00:00",
+      "NumProgressed": 22723,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20601,7 +20606,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20689,7 +20694,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20728,15 +20733,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22722,
+      "Progressed": 22723,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:07:27.7883139+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:49:47.7724799+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-25T00:02:11.8094871+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:07:27.7884598+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:45:24.4058617+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:49:47.7727187+00:00"
 }

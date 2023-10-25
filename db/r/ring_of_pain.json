@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 58,
@@ -3172,9 +3172,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238499,
+  "EOS_Progressed": 238501,
   "EOS_Completed": 284,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -22642,6 +22642,11 @@
       "Time": "2023-10-24T23:09:02.0826772+00:00",
       "NumProgressed": 238499,
       "NumCompleted": 284
+    },
+    {
+      "Time": "2023-10-25T01:52:11.8758276+00:00",
+      "NumProgressed": 238501,
+      "NumCompleted": 284
     }
   ],
   "TotalAchievements": 122,
@@ -22685,7 +22690,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228959
+      "UsersEstimate": 228961
     },
     {
       "ID": "CURSE1HP",
@@ -22733,7 +22738,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 126404
+      "UsersEstimate": 126406
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -22773,7 +22778,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174104
+      "UsersEstimate": 174106
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -22789,7 +22794,7 @@
       "Name": "Disposal",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "DIE250TIMES",
@@ -22829,7 +22834,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135944
+      "UsersEstimate": 135946
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -22837,7 +22842,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138329
+      "UsersEstimate": 138331
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -22933,7 +22938,7 @@
       "Name": "A Hard Carry",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "GRAVEDIGGING",
@@ -23053,7 +23058,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145484
+      "UsersEstimate": 145486
     },
     {
       "ID": "KILL1000",
@@ -23093,7 +23098,7 @@
       "Name": "Blizzard",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "KILLALLWITHROCK",
@@ -23141,7 +23146,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 128789
+      "UsersEstimate": 128791
     },
     {
       "ID": "KILLNICEDOG",
@@ -23229,7 +23234,7 @@
       "Name": "Never Too Many Hats",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "MAKEAWISH",
@@ -23237,7 +23242,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135944
+      "UsersEstimate": 135946
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -23301,7 +23306,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 155024
+      "UsersEstimate": 155026
     },
     {
       "ID": "PETRIFY50",
@@ -23397,7 +23402,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 212264
+      "UsersEstimate": 212266
     },
     {
       "ID": "SPECIALROOMS10",
@@ -23405,7 +23410,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 147869
+      "UsersEstimate": 147871
     },
     {
       "ID": "SPEEDRUN10",
@@ -23469,7 +23474,7 @@
       "Name": "An Offering",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 147869
+      "UsersEstimate": 147871
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -23517,7 +23522,7 @@
       "Name": "Near Death Experience",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "WINDAILY",
@@ -23533,7 +23538,7 @@
       "Name": "Down Under",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "WINNEVEREQUIPCOMMON",
@@ -23541,7 +23546,7 @@
       "Name": "Only The Best",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "WINNOEPICLEGENDARY",
@@ -23549,7 +23554,7 @@
       "Name": "Mastermind",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "WINNOEQUIPREPLACEMENTS",
@@ -23557,7 +23562,7 @@
       "Name": "No Swapsies",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "WINNORAREEPIC",
@@ -23565,7 +23570,7 @@
       "Name": "Ignoring Midgame",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "WINNOREROLLS",
@@ -23605,7 +23610,7 @@
       "Name": "Nudie Run",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "WINWITHOUTDISCARD",
@@ -23628,7 +23633,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238499,
+      "Progressed": 238501,
       "Completed": 284
     }
   ],
@@ -23636,8 +23641,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-23T13:08:18.7933661+00:00",
-  "LastChanged_Achievements": "2023-10-25T00:09:43.2404244+00:00",
+  "LastChanged_Achievements": "2023-10-25T01:52:11.875827+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.7378131+00:00",
-  "LastUpdate_Ratings": "2023-10-25T00:02:20.5308734+00:00",
-  "LastUpdate_Achievements": "2023-10-25T00:09:43.2407543+00:00"
+  "LastUpdate_Ratings": "2023-10-25T01:45:32.3466611+00:00",
+  "LastUpdate_Achievements": "2023-10-25T01:52:11.8761867+00:00"
 }

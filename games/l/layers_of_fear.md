@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finished it | 43.00% | ~6 |
-| Something important | 43.00% | ~6 |
-| Wanderer | 36.00% | ~5 |
-| A piece of the story | 29.00% | ~4 |
-| It's covered up for a reason | 21.00% | ~3 |
-| Do what you have to | 14.00% | ~2 |
-| Scraps of love | 14.00% | ~2 |
-| The artist’s impression | 14.00% | ~2 |
-| First steps | 14.00% | ~2 |
-| Sound Bite | 14.00% | ~2 |
-| Playtime | 14.00% | ~2 |
-| The tragedy unfolds | 14.00% | ~2 |
-| Tough conversation | 14.00% | ~2 |
+| Something important | 47.00% | ~7 |
+| Finished it | 40.00% | ~6 |
+| Wanderer | 33.00% | ~5 |
+| A piece of the story | 27.00% | ~4 |
+| It's covered up for a reason | 20.00% | ~3 |
+| Do what you have to | 13.00% | ~2 |
+| Scraps of love | 13.00% | ~2 |
+| The artist’s impression | 13.00% | ~2 |
+| First steps | 13.00% | ~2 |
+| Sound Bite | 13.00% | ~2 |
+| Playtime | 13.00% | ~2 |
+| The tragedy unfolds | 13.00% | ~2 |
+| Tough conversation | 13.00% | ~2 |
 | Another perspective | 7.00% | ~1 |
 | Breaking free | 7.00% | ~1 |
 | Refuse to look | 7.00% | ~1 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 525)  
+Progressed: 15 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,4 +67,4 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
 | 2023-10-24 | 13 | 0 |
-| 2023-10-25 | 14 | 0 |
+| 2023-10-25 | 15 | 0 |

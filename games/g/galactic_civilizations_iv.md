@@ -6,23 +6,23 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,510 |
-| Worker Specialization | 77.00% | ~5,439 |
-| First Contact | 72.00% | ~5,086 |
-| Win a Battle | 66.00% | ~4,662 |
-| Anomaly Researcher | 61.00% | ~4,309 |
-| Unleash My Power | 61.00% | ~4,309 |
-| Own 30 Planets | 33.00% | ~2,331 |
+| Colonize a Planet | 78.00% | ~5,511 |
+| Worker Specialization | 77.00% | ~5,441 |
+| First Contact | 72.00% | ~5,088 |
+| Win a Battle | 66.00% | ~4,664 |
+| Anomaly Researcher | 61.00% | ~4,310 |
+| Unleash My Power | 61.00% | ~4,310 |
+| Own 30 Planets | 33.00% | ~2,332 |
 | Xenocide | 31.00% | ~2,190 |
 | Design a Civilization | 31.00% | ~2,190 |
-| Commodity Trader | 30.00% | ~2,119 |
+| Commodity Trader | 30.00% | ~2,120 |
 | Design a Ship | 28.00% | ~1,978 |
-| Commodity Seller | 25.00% | ~1,766 |
+| Commodity Seller | 24.00% | ~1,696 |
 | Prestige Victory! | 14.00% | ~989 |
-| Galactic War | 10.00% | ~706 |
+| Galactic War | 10.00% | ~707 |
 | Trading Partner | 9.00% | ~636 |
 | Fleet Victory | 8.00% | ~565 |
-| Win as Terrans | 7.00% | ~494 |
+| Win as Terrans | 7.00% | ~495 |
 | Gain an Ally | 6.00% | ~424 |
 | Win with a Custom Faction | 6.00% | ~424 |
 | War with the Unknown | 5.00% | ~353 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,064 (Ranked 166)  
+Progressed: 7,066 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,10 +267,11 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-22 | 7,013 | 0 |
 | 2023-10-23 | 7,044 | 0 |
 | 2023-10-24 | 7,064 | 0 |
+| 2023-10-25 | 7,066 | 0 |
 ## Awards
-Max (Diverse Characters): 94  (Ranked 360)  
+Max (Diverse Characters): 94  (Ranked 361)  
 Sum: 681 (Ranked 291)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

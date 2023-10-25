@@ -6,29 +6,29 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,841 |
-| I read Shakespeare and stuff | 64.00% | ~32,291 |
-| Just a sprinkle | 63.00% | ~31,787 |
-| I'm stumped | 61.00% | ~30,778 |
-| Plant get enough | 60.00% | ~30,273 |
-| It's just the beginning | 59.00% | ~29,768 |
-| This is just my weekend vehicle | 58.00% | ~29,264 |
-| Hard work pays off | 53.00% | ~26,741 |
+| Own use | 75.00% | ~37,843 |
+| I read Shakespeare and stuff | 64.00% | ~32,292 |
+| Just a sprinkle | 63.00% | ~31,788 |
+| I'm stumped | 61.00% | ~30,779 |
+| Plant get enough | 60.00% | ~30,274 |
+| It's just the beginning | 59.00% | ~29,770 |
+| This is just my weekend vehicle | 58.00% | ~29,265 |
+| Hard work pays off | 53.00% | ~26,742 |
 | It's never too late to farm | 50.00% | ~25,228 |
-| All out of Land | 44.00% | ~22,200 |
-| Field Trip | 44.00% | ~22,200 |
-| I like to switch it up | 40.00% | ~20,182 |
-| Help me to help you | 38.00% | ~19,173 |
-| Ultimutt Pawesomeness | 28.00% | ~14,127 |
-| Van Gogh | 26.00% | ~13,118 |
-| You wood not believe it | 22.00% | ~11,100 |
-| Vehicle fleet | 22.00% | ~11,100 |
+| All out of Land | 44.00% | ~22,201 |
+| Field Trip | 44.00% | ~22,201 |
+| I like to switch it up | 40.00% | ~20,183 |
+| Help me to help you | 38.00% | ~19,174 |
+| Ultimutt Pawesomeness | 28.00% | ~14,128 |
+| Van Gogh | 26.00% | ~13,119 |
+| You wood not believe it | 22.00% | ~11,101 |
+| Vehicle fleet | 22.00% | ~11,101 |
 | The plot thickens | 16.00% | ~8,073 |
 | Large-scale supplier | 16.00% | ~8,073 |
 | Well-Oiled Machine | 16.00% | ~8,073 |
 | Long haul | 16.00% | ~8,073 |
-| Clucky Streak | 15.00% | ~7,568 |
-| That's a wrap | 15.00% | ~7,568 |
+| Clucky Streak | 15.00% | ~7,569 |
+| That's a wrap | 15.00% | ~7,569 |
 | Fix me up | 13.00% | ~6,559 |
 | Rock on | 12.00% | ~6,055 |
 | Highly cultivated | 11.00% | ~5,550 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~202 |
 | Raisin the stakes | 0.30% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,455 (Ranked 105)  
+Progressed: 50,457 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 6 (0.01%) (Ranked 305)
 | 2023-10-22 | 50,375 | 6 |
 | 2023-10-23 | 50,414 | 6 |
 | 2023-10-24 | 50,454 | 6 |
-| 2023-10-25 | 50,455 | 6 |
+| 2023-10-25 | 50,457 | 6 |
 ## Awards
 Max (Great for Beginners): 5,272  (Ranked 70)  
 Sum: 41,626 (Ranked 33)  

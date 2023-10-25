@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,030 |
-| Powergamer | 27.00% | ~67,529 |
-| Write that down | 25.00% | ~62,527 |
-| Barely scratched the surface | 25.00% | ~62,527 |
-| Guns, lots of guns | 13.00% | ~32,514 |
-| Collector | 12.00% | ~30,013 |
+| I will finish what you started | 28.00% | ~70,032 |
+| Powergamer | 27.00% | ~67,531 |
+| Write that down | 25.00% | ~62,528 |
+| Barely scratched the surface | 25.00% | ~62,528 |
+| Guns, lots of guns | 13.00% | ~32,515 |
+| Collector | 12.00% | ~30,014 |
 | Elementary! | 9.00% | ~22,510 |
 | Griever | 8.00% | ~20,009 |
 | Pumpkin Jack | 8.00% | ~20,009 |
 | Wake up! | 8.00% | ~20,009 |
 | It's honest work | 7.00% | ~17,508 |
-| Me smart | 6.00% | ~15,006 |
-| Trash compactor | 6.00% | ~15,006 |
-| Good listener | 5.00% | ~12,505 |
-| Valedictorian | 5.00% | ~12,505 |
-| BOY! | 4.00% | ~10,004 |
-| Ka-ching! | 4.00% | ~10,004 |
-| So you like to read? | 4.00% | ~10,004 |
+| Me smart | 6.00% | ~15,007 |
+| Trash compactor | 6.00% | ~15,007 |
+| Good listener | 5.00% | ~12,506 |
+| Valedictorian | 5.00% | ~12,506 |
+| BOY! | 4.00% | ~10,005 |
+| Ka-ching! | 4.00% | ~10,005 |
+| So you like to read? | 4.00% | ~10,005 |
 | Hoarder | 3.00% | ~7,503 |
 | I like to sniff around | 3.00% | ~7,503 |
 | Mind reader | 3.00% | ~7,503 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~500 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,108 (Ranked 55)  
+Progressed: 250,114 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 7 (0.00%) (Ranked 324)
 | 2023-10-22 | 249,928 | 7 |
 | 2023-10-23 | 250,025 | 7 |
 | 2023-10-24 | 250,107 | 7 |
-| 2023-10-25 | 250,108 | 7 |
+| 2023-10-25 | 250,114 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 369)  
 Sum: 86 (Ranked 445)  
