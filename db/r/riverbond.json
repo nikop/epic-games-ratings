@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 529969,
+  "EOS_Progressed": 529970,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20537,6 +20537,11 @@
       "Time": "2023-10-25T16:08:33.8501613+00:00",
       "NumProgressed": 529969,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-25T17:09:26.2705525+00:00",
+      "NumProgressed": 529970,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 57,
@@ -20564,7 +20569,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 370978
+      "UsersEstimate": 370979
     },
     {
       "ID": "12",
@@ -20620,7 +20625,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79495
+      "UsersEstimate": 79496
     },
     {
       "ID": "19",
@@ -20772,7 +20777,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 264984
+      "UsersEstimate": 264985
     },
     {
       "ID": "36",
@@ -20804,7 +20809,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180189
+      "UsersEstimate": 180190
     },
     {
       "ID": "4",
@@ -20892,7 +20897,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180189
+      "UsersEstimate": 180190
     },
     {
       "ID": "5",
@@ -21003,15 +21008,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 529969,
+      "Progressed": 529970,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:08:33.8501602+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:09:26.2705516+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:59:42.6907775+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:08:33.8503994+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:01:10.4210307+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:09:26.2708557+00:00"
 }

@@ -1152,9 +1152,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 381
     },
     {
       "ID": "GOOD_KARMA",
@@ -1200,9 +1200,9 @@
       "ID": "SABOTAGE",
       "SetID": "8eejhlh",
       "Name": "Sabotage",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "SHILL_BIDDER",
@@ -1233,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:03:56.6178125+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:04:47.1467629+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:57:54.9681718+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:03:56.6178344+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:58:39.6778896+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:04:47.1467897+00:00"
 }

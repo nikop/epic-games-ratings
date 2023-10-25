@@ -46,8 +46,8 @@
 | You're not so Big anymore, Boi! | 22.00% | ~24 |
 | Your daily dose of Vitamin C. | 22.00% | ~24 |
 | I cant stand still! | 22.00% | ~24 |
+| Master Butcher | 18.00% | ~19 |
 | Slimy... yet satisfying | 18.00% | ~19 |
-| Master Butcher | 17.00% | ~18 |
 | Deal with it | 17.00% | ~18 |
 | Just wing it! | 16.00% | ~17 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~14 |

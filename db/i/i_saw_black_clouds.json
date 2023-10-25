@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -406,6 +406,11 @@
       "Time": "2023-10-25T02:20:39.4145088+00:00",
       "NumProgressed": 309,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-25T17:06:06.2431923+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -423,9 +428,9 @@
       "ID": "believer",
       "SetID": "8b5dfcp",
       "Name": "Believer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "clear",
@@ -433,7 +438,7 @@
       "Name": "Clear",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "denial",
@@ -447,9 +452,9 @@
       "ID": "end",
       "SetID": "8b5dfcp",
       "Name": "End",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "escape",
@@ -481,7 +486,7 @@
       "Name": "Jack",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "nonconsensual",
@@ -495,9 +500,9 @@
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 149
     },
     {
       "ID": "realist",
@@ -536,7 +541,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 5
     }
   ],
@@ -544,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:05:02.0496219+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:06:06.2431912+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:48.0319354+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:58:20.1284652+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:05:02.0496439+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:59:08.9494541+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:06:06.2432121+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~517 |
-| Fair Share | 69.00% | ~375 |
+| Fair Share | 70.00% | ~381 |
 | Even Tempered | 58.00% | ~316 |
 | Star-Crossed Lovers | 47.00% | ~256 |
 | The Delivery | 45.00% | ~245 |
@@ -17,7 +17,7 @@
 | Protector | 28.00% | ~152 |
 | Interrogation | 16.00% | ~87 |
 | The Ploy | 15.00% | ~82 |
-| Sabotage | 12.00% | ~65 |
+| Sabotage | 13.00% | ~71 |
 | Choices Matter | 8.00% | ~44 |
 | The Fool | 6.00% | ~33 |
 | The Lion's Den | 5.00% | ~27 |

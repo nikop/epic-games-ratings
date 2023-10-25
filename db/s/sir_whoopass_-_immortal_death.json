@@ -752,9 +752,9 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ENEMIES_3",
@@ -1151,8 +1151,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:04:32.6914476+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:05:24.6195739+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:05.5775878+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:59:24.2452753+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:04:32.6915561+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:00:39.5520855+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:05:24.6197442+00:00"
 }

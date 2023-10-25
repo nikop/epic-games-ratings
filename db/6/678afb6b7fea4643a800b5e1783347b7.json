@@ -2,7 +2,7 @@
   "ID": "678afb6b7fea4643a800b5e1783347b7",
   "Name": "Saloon Simulator",
   "ProductSlug": "saloon-simulator-90cc2c",
-  "Ranking_EOS_Progress": 701,
+  "Ranking_EOS_Progress": 702,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 117,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.5267427+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:59:00.2573516+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:05:23.3741943+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:00:12.5637269+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:06:36.9097819+00:00"
 }

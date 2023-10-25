@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,113 (Ranked 75)  
+Progressed: 138,116 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,20 +307,20 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,113 | 172 |
+| 2023-10-25 | 138,116 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
-Sum: 27,436 (Ranked 51)  
+Sum: 27,443 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,800 |
-| This game is Relaxing | 4,029 |
+| This game is Relaxing | 4,031 |
 | This game has Quickly Understood Controls | 4,017 |
 | This game has Diverse Characters | 3,924 |
 | This game is Highly Recommended | 3,766 |
-| This game has Easy Combat | 3,712 |
-| This game has Playful Visuals | 3,188 |
+| This game has Easy Combat | 3,714 |
+| This game has Playful Visuals | 3,191 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -593,4 +593,4 @@ Diff (max vs sum): 22
 | 2023-10-21 | 3.99 | - | 4,797 | 27,422 |
 | 2023-10-22 | 3.99 | - | 4,797 | 27,428 |
 | 2023-10-23 | 3.99 | - | 4,800 | 27,434 |
-| 2023-10-25 | 3.99 | - | 4,800 | 27,436 |
+| 2023-10-25 | 3.99 | - | 4,800 | 27,443 |

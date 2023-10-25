@@ -3995,7 +3995,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11787,
+  "EOS_Progressed": 11788,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -14330,6 +14330,11 @@
       "Time": "2023-10-25T16:03:41.4875104+00:00",
       "NumProgressed": 11787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T17:04:25.7550524+00:00",
+      "NumProgressed": 11788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14381,7 +14386,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "07_FinalThreshold",
@@ -14525,7 +14530,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14541,7 +14546,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "28_GreatUpstart",
@@ -14573,7 +14578,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14581,7 +14586,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "33_DefendersHeart",
@@ -14717,7 +14722,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14773,7 +14778,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "57_PathOfDevil",
@@ -15268,21 +15273,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10569,
+      "Progressed": 10570,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11787,
+      "Progressed": 11788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-25T16:00:42.162274+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:03:41.4875096+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:04:25.7550517+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:00:42.1622748+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:03:41.4878171+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:02:39.7527445+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:04:25.7554514+00:00"
 }

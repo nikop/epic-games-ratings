@@ -1400,9 +1400,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130082,
+  "EOS_Progressed": 130084,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20050,6 +20050,11 @@
       "Time": "2023-10-25T16:06:27.0643802+00:00",
       "NumProgressed": 130082,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-25T17:08:07.0976104+00:00",
+      "NumProgressed": 130084,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20085,7 +20090,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "ACH_COP_ART",
@@ -20109,7 +20114,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11707
+      "UsersEstimate": 11708
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -20141,7 +20146,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36423
+      "UsersEstimate": 36424
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20173,7 +20178,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27317
+      "UsersEstimate": 27318
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -20277,7 +20282,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18211
+      "UsersEstimate": 18212
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -20285,7 +20290,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -20301,7 +20306,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_MEDAL",
@@ -20341,7 +20346,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18211
+      "UsersEstimate": 18212
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -20380,15 +20385,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130082,
+      "Progressed": 130084,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-24T16:59:30.6969107+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:06:27.0643795+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:08:07.0976093+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:59:34.4481919+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:06:27.0645271+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:00:55.1823641+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:08:07.0981038+00:00"
 }

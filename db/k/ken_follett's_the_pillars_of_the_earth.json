@@ -546,9 +546,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15953,
+  "EOS_Progressed": 15954,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12691,6 +12691,11 @@
       "Time": "2023-10-25T16:04:13.2699706+00:00",
       "NumProgressed": 15953,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-25T17:04:56.351739+00:00",
+      "NumProgressed": 15954,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12742,7 +12747,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "tpote_achievement_15",
@@ -12758,7 +12763,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "tpote_achievement_17",
@@ -12790,7 +12795,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "tpote_achievement_20",
@@ -12902,7 +12907,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "tpote_achievement_33",
@@ -12966,7 +12971,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6381
+      "UsersEstimate": 6382
     },
     {
       "ID": "tpote_achievement_40",
@@ -13029,15 +13034,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15953,
+      "Progressed": 15954,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-25T11:59:01.9427727+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:04:13.2699697+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:04:56.3517382+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:59:16.1742796+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:04:13.2701691+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:00:30.4555147+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:04:56.3519252+00:00"
 }

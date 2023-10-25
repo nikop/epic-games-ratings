@@ -160,7 +160,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1436,
+  "EOS_Progressed": 1437,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -1675,6 +1675,11 @@
       "Time": "2023-10-25T13:13:07.5954662+00:00",
       "NumProgressed": 1436,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-25T17:09:33.8721787+00:00",
+      "NumProgressed": 1437,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1860,9 +1865,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_mythwalker",
@@ -2133,15 +2138,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1436,
+      "Progressed": 1437,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:08:39.0038544+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:09:33.8721779+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:57:17.2132968+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:08:39.0039161+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:57:41.543267+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:09:33.8722416+00:00"
 }

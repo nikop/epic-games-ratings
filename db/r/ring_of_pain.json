@@ -3178,7 +3178,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238527,
+  "EOS_Progressed": 238528,
   "EOS_Completed": 284,
   "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 3,
@@ -22713,6 +22713,11 @@
       "Time": "2023-10-25T16:09:48.2409902+00:00",
       "NumProgressed": 238527,
       "NumCompleted": 284
+    },
+    {
+      "Time": "2023-10-25T17:10:43.3419651+00:00",
+      "NumProgressed": 238528,
+      "NumCompleted": 284
     }
   ],
   "TotalAchievements": 122,
@@ -22740,7 +22745,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100181
+      "UsersEstimate": 100182
     },
     {
       "ID": "BOSSPIT",
@@ -22756,7 +22761,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 228986
+      "UsersEstimate": 228987
     },
     {
       "ID": "CURSE1HP",
@@ -22772,7 +22777,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 64402
+      "UsersEstimate": 64403
     },
     {
       "ID": "DAILY7",
@@ -22804,7 +22809,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 126419
+      "UsersEstimate": 126420
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -22820,7 +22825,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100181
+      "UsersEstimate": 100182
     },
     {
       "ID": "DEPTH12HARD",
@@ -22884,7 +22889,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47705
+      "UsersEstimate": 47706
     },
     {
       "ID": "DIEHARD",
@@ -22900,7 +22905,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135960
+      "UsersEstimate": 135961
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -22932,7 +22937,7 @@
       "Name": "Well Prepared",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47705
+      "UsersEstimate": 47706
     },
     {
       "ID": "ENDINGCHOICE",
@@ -22980,7 +22985,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47705
+      "UsersEstimate": 47706
     },
     {
       "ID": "FREEZE20TIMES",
@@ -22988,7 +22993,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 81099
+      "UsersEstimate": 81100
     },
     {
       "ID": "FULLINVENTORY",
@@ -22996,7 +23001,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83484
+      "UsersEstimate": 83485
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -23124,7 +23129,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145501
+      "UsersEstimate": 145502
     },
     {
       "ID": "KILL1000",
@@ -23132,7 +23137,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 64402
+      "UsersEstimate": 64403
     },
     {
       "ID": "KILL10000",
@@ -23220,7 +23225,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109722
+      "UsersEstimate": 109723
     },
     {
       "ID": "KILLPARANOIA",
@@ -23252,7 +23257,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109722
+      "UsersEstimate": 109723
     },
     {
       "ID": "KILLSPITTER",
@@ -23308,7 +23313,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 135960
+      "UsersEstimate": 135961
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -23324,7 +23329,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100181
+      "UsersEstimate": 100182
     },
     {
       "ID": "NOEPIC",
@@ -23356,7 +23361,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 107337
+      "UsersEstimate": 107338
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -23412,7 +23417,7 @@
       "Name": "Acid Bath",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 64402
+      "UsersEstimate": 64403
     },
     {
       "ID": "POISONSELF20",
@@ -23452,7 +23457,7 @@
       "Name": "New Perspectives",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 64402
+      "UsersEstimate": 64403
     },
     {
       "ID": "SNAKESTEALTH",
@@ -23468,7 +23473,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 212289
+      "UsersEstimate": 212290
     },
     {
       "ID": "SPECIALROOMS10",
@@ -23524,7 +23529,7 @@
       "Name": "Shapeshifting",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 64402
+      "UsersEstimate": 64403
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -23684,7 +23689,7 @@
       "Name": "Precious",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21467
+      "UsersEstimate": 21468
     },
     {
       "ID": "WINWITHSPOON",
@@ -23699,22 +23704,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238527,
+      "Progressed": 238528,
       "Completed": 284
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 7,
-      "Completed": 7
+      "Progressed": 8,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-25T08:03:19.0746764+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:09:48.2409895+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:10:43.3419644+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.7378131+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:03:24.993893+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:09:48.2413128+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:03:59.7575714+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:10:43.3424959+00:00"
 }

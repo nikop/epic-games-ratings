@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22752,
+  "EOS_Progressed": 22754,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20623,6 +20623,11 @@
       "Time": "2023-10-25T16:08:20.2619507+00:00",
       "NumProgressed": 22752,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-25T17:09:06.6890858+00:00",
+      "NumProgressed": 22754,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20650,7 +20655,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20754,7 +20759,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17519
+      "UsersEstimate": 17521
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20786,22 +20791,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22752,
+      "Progressed": 22754,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:08:20.26195+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:09:06.6890851+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-25T16:03:18.7853408+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:08:20.2621501+00:00"
+  "LastUpdate_Ratings": "2023-10-25T17:03:49.6472269+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:09:06.6893248+00:00"
 }

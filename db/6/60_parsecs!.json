@@ -2,9 +2,9 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -1331,8 +1331,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:03:40.5998117+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:04:24.5745443+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:58:28.1132184+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:03:40.59989+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:59:22.3014362+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:04:24.5746181+00:00"
 }

@@ -2641,10 +2641,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2537,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-10-25T16:59:36.9580945+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2538,
+      "NumberOfAwardsMax": 281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2537,
+  "NumberOfAwards": 2538,
   "NumberOfAwardsMax": 281,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2676,7 +2682,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2721,7 +2727,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27602,
+  "EOS_Progressed": 27604,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 5,
@@ -16346,6 +16352,11 @@
       "Time": "2023-10-25T16:06:45.9945237+00:00",
       "NumProgressed": 27602,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-10-25T17:08:34.3609649+00:00",
+      "NumProgressed": 27604,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 51,
@@ -16764,16 +16775,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27602,
+      "Progressed": 27604,
       "Completed": 64
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-25T05:58:56.670681+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:06:45.9945226+00:00",
+  "LastChanged": "2023-10-25T16:59:36.9580944+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:08:34.3609643+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:58:36.3921388+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:06:45.9947023+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:59:36.9580949+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:08:34.3612437+00:00"
 }

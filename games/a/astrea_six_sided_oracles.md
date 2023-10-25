@@ -49,6 +49,7 @@
 | Behenian Mastery | 6.00% | ~4 |
 | The Abyssal Terror | 5.00% | ~3 |
 | The Raging Skies | 5.00% | ~3 |
+| Aquarian Hero | 5.00% | ~3 |
 | Eridanian Hero | 5.00% | ~3 |
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
@@ -59,7 +60,6 @@
 | Reflexive Mind | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |
-| Aquarian Hero | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Anomaly Master | 2.00% | ~1 |

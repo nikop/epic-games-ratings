@@ -38,8 +38,8 @@
 | Karakuri Minato | 28.00% | ~50 |
 | Unrivaled in Arms | 27.00% | ~48 |
 | Canyon of Karakuri | 26.00% | ~47 |
+| Style Seeker | 26.00% | ~47 |
 | Threaded Harmony | 26.00% | ~47 |
-| Style Seeker | 25.00% | ~45 |
 | Karakuri Fortress | 23.00% | ~41 |
 | Jack of All Trades | 23.00% | ~41 |
 | Quintessence of Form | 22.00% | ~39 |
@@ -47,7 +47,7 @@
 | Haven Hunter | 21.00% | ~38 |
 | Tender Touch | 20.00% | ~36 |
 | Superlative View | 20.00% | ~36 |
-| Relentless Kemono Hunter | 15.00% | ~27 |
+| Relentless Kemono Hunter | 16.00% | ~29 |
 | Vanquisher of the Volatile | 15.00% | ~27 |
 | Bewitched by Bathing | 13.00% | ~23 |
 | Big Spender | 11.00% | ~20 |

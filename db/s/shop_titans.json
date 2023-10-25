@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6623,10 +6623,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27436,
       "NumberOfAwardsMax": 4800
+    },
+    {
+      "Time": "2023-10-25T16:58:09.1218203+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27443,
+      "NumberOfAwardsMax": 4800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27436,
+  "NumberOfAwards": 27443,
   "NumberOfAwardsMax": 4800,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6652,7 +6658,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3712
+      "Count": 3714
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6664,13 +6670,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4029
+      "Count": 4031
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3188
+      "Count": 3191
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6679,10 +6685,10 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138113,
+  "EOS_Progressed": 138116,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 332,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 335,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -25929,6 +25935,11 @@
       "Time": "2023-10-25T16:04:13.6254718+00:00",
       "NumProgressed": 138113,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-25T17:04:56.9817881+00:00",
+      "NumProgressed": 138116,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26835,15 +26846,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138113,
+      "Progressed": 138116,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-25T10:57:34.0212355+00:00",
-  "LastChanged_Achievements": "2023-10-25T16:04:13.6254709+00:00",
+  "LastChanged": "2023-10-25T16:58:09.12182+00:00",
+  "LastChanged_Achievements": "2023-10-25T17:04:56.9817873+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T15:57:36.0393667+00:00",
-  "LastUpdate_Achievements": "2023-10-25T16:04:13.6257605+00:00"
+  "LastUpdate_Ratings": "2023-10-25T16:58:09.121821+00:00",
+  "LastUpdate_Achievements": "2023-10-25T17:04:56.98228+00:00"
 }

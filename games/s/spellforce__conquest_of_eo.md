@@ -4,14 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Expansion | 100.00% | ~1 |
+| Enough rooms to swing a cat | 100.00% | ~1 |
+| Redecorating | 100.00% | ~1 |
+| Home Sweet Home | 100.00% | ~1 |
+| A kind of Magic | 100.00% | ~1 |
+| Artificer's Apprentice | 100.00% | ~1 |
+| First to the post | 100.00% | ~1 |
+| Connected | 100.00% | ~1 |
+| Harvest Time | 100.00% | ~1 |
+| Friend of Lyraine | 100.00% | ~1 |
+| Mine! | 100.00% | ~1 |
+| Get out of here! | 100.00% | ~1 |
+| Fly the friendly Sky | 100.00% | ~1 |
 | Get to the Airship! | 0.00% | ~0 |
-| Expansion | 0.00% | ~0 |
-| Enough rooms to swing a cat | 0.00% | ~0 |
-| Redecorating | 0.00% | ~0 |
-| Home Sweet Home | 0.00% | ~0 |
-| A kind of Magic | 0.00% | ~0 |
 | The Circle | 0.00% | ~0 |
-| Artificer's Apprentice | 0.00% | ~0 |
 | Alchemist's Apprentice | 0.00% | ~0 |
 | Necromancer's Apprentice | 0.00% | ~0 |
 | Defeat Gor | 0.00% | ~0 |
@@ -24,9 +31,6 @@
 | Defeat Uram | 0.00% | ~0 |
 | Defeat Yria | 0.00% | ~0 |
 | Slave to the rhythm | 0.00% | ~0 |
-| First to the post | 0.00% | ~0 |
-| Connected | 0.00% | ~0 |
-| Harvest Time | 0.00% | ~0 |
 | Elynn's Tale | 0.00% | ~0 |
 | Lore's Tale | 0.00% | ~0 |
 | Lytra's Tale | 0.00% | ~0 |
@@ -56,7 +60,6 @@
 | Friend of Alluvyan | 0.00% | ~0 |
 | Friend of Grey Dusk Vale | 0.00% | ~0 |
 | Friend of Gillyshire | 0.00% | ~0 |
-| Friend of Lyraine | 0.00% | ~0 |
 | Friend of Orgash | 0.00% | ~0 |
 | Friend of Sevenkeeps | 0.00% | ~0 |
 | Friend of Silver Drift Hollow | 0.00% | ~0 |
@@ -65,15 +68,19 @@
 | Friend of Bastion | 0.00% | ~0 |
 | Friend of Windholme | 0.00% | ~0 |
 | Magic Academy | 0.00% | ~0 |
-| Mine! | 0.00% | ~0 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 | Break Free | 0.00% | ~0 |
-| Get out of here! | 0.00% | ~0 |
 | A Joke | 0.00% | ~0 |
-| Fly the friendly Sky | 0.00% | ~0 |
 | Bad JuJu | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 646)  
+Completed: 0 (0.00%) (Ranked 326)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-25 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

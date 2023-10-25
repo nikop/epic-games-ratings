@@ -13,7 +13,7 @@ Rating: 3.98 (Ranked 982)
 | I am the greatest botanist on this planet. | 29.00% | ~487 |
 | Occupy Mars! | 28.00% | ~470 |
 | Gardener | 26.00% | ~437 |
-| Miner | 25.00% | ~420 |
+| Miner | 26.00% | ~437 |
 | Houston we have a problem | 22.00% | ~370 |
 | Detective | 19.00% | ~319 |
 | The Collector | 18.00% | ~302 |

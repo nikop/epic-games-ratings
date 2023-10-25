@@ -1,7 +1,7 @@
 # Wall World
 [Store](https://store.epicgames.com/en-US/p/wall-world-02e132)  
 [View Rawdata](../../db/w/wall_world.json)  
-Rating: 4.43 (Ranked 681)  
+Rating: 4.42 (Ranked 698)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.43 (Ranked 681)
 | 2023-10-09 | 4.43 | 0 | 0 |
 | 2023-10-11 | 4.42 | 0 | 0 |
 | 2023-10-16 | 4.43 | 0 | 0 |
+| 2023-10-25 | 4.42 | 0 | 0 |
