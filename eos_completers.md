@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.88% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.76% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.75% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -82,7 +82,7 @@
 | 80 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 80 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
 | 82 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 83 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.55% |
+| 83 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.54% |
 | 84 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 85 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.40% |
 | 86 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -173,12 +173,12 @@
 | 171 | [Dead Space](games/d/dead_space.md) | 0.58% |
 | 171 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 171 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
 | 174 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
 | 174 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 174 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
-| 178 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
-| 178 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.56% |
+| 177 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
+| 177 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.56% |
+| 177 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.56% |
 | 180 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 180 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.55% |
 | 182 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -200,11 +200,11 @@
 | 198 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 199 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 199 | [Train Valley](games/t/train_valley.md) | 0.39% |
-| 201 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 201 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 201 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 201 | [Them and Us](games/t/them_and_us.md) | 0.38% |
-| 205 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
+| 204 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
+| 204 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 208 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
@@ -244,10 +244,10 @@
 | 240 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 243 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 244 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
-| 244 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.14% |
-| 246 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
-| 246 | [Isonzo](games/i/isonzo.md) | 0.13% |
-| 246 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 245 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 245 | [Isonzo](games/i/isonzo.md) | 0.13% |
+| 245 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
+| 245 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.13% |
 | 249 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 249 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
 | 249 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
