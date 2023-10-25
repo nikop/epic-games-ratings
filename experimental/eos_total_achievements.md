@@ -362,6 +362,7 @@
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
 | [Amigo Kebab Simulator](../games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 31 | 1,000 |
+| [Aron's Adventure: Magic Reborn](../games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 31 | 1,000 |
 | [Buddy and Friends in Halloween](../games/a/ad3283cc38a64db89c010975976948de.md) | 31 | 1,000 |
 | [Cloud Cutter](../games/c/cloud_cutter.md) | 31 | 1,000 |
 | [DESTRUCTURE: Among Debris](../games/d/destructure__among_debris.md) | 31 | 1,000 |
