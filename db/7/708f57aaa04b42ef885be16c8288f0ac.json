@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 115,
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1617,
+  "EOS_NewPlayers": 1628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -755,6 +755,11 @@
       "Time": "2023-10-25T10:08:20.1429619+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T11:08:10.9627543+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -839,7 +844,7 @@
       "Name": "First Time?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FuneralForTheDeath",
@@ -911,7 +916,7 @@
       "Name": "Nasty!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NoMoreTotems",
@@ -959,7 +964,7 @@
       "Name": "The Old-School Way",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TheQuarterback",
@@ -973,9 +978,9 @@
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1005,9 +1010,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1021,9 +1026,9 @@
       "ID": "YouveReachedTheRightNumber",
       "SetID": "acc6ea0",
       "Name": "You\u0027ve Reached The Right Number",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "k01101110",
@@ -1038,13 +1043,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1632,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:08:20.1429612+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:08:10.9627539+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:59:09.6566492+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:08:20.142991+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:58:52.2245334+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:08:10.9627783+00:00"
 }

@@ -19,11 +19,11 @@ Rating: 4.64 (Ranked 324)
 | Hardest Battle In The Game | 1.00% | ~243 |
 | Self-Actualization | 1.00% | ~243 |
 | Who's The Boss? | 1.00% | ~243 |
+| Fallout Doesn't Let You Do This | 1.00% | ~243 |
 | Don't Knife The Hand That Feeds | 1.00% | ~243 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~243 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
-| Fallout Doesn't Let You Do This | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.90% | ~219 |
 | We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
 | Eatin' Good in the Neighborhood | 0.70% | ~170 |

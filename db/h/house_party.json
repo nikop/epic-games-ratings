@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -6109,9 +6109,9 @@
       "ID": "DoNotBurn",
       "SetID": "bmkn7o4",
       "Name": "Do Not Burn",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "DojaDinoliciousDanceapalooza",
@@ -6531,8 +6531,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:03:31.9702447+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:03:35.3331282+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7841194+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:58:12.4221837+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:03:31.9703586+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:57:59.213887+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:03:35.3334059+00:00"
 }

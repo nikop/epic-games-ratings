@@ -7,22 +7,22 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~37,846 |
-| I read Shakespeare and stuff | 64.00% | ~32,295 |
-| Just a sprinkle | 63.00% | ~31,790 |
-| I'm stumped | 61.00% | ~30,781 |
+| I read Shakespeare and stuff | 64.00% | ~32,296 |
+| Just a sprinkle | 63.00% | ~31,791 |
+| I'm stumped | 61.00% | ~30,782 |
 | Plant get enough | 60.00% | ~30,277 |
-| It's just the beginning | 59.00% | ~29,772 |
-| This is just my weekend vehicle | 58.00% | ~29,267 |
-| Hard work pays off | 53.00% | ~26,744 |
-| It's never too late to farm | 50.00% | ~25,230 |
+| It's just the beginning | 59.00% | ~29,773 |
+| This is just my weekend vehicle | 58.00% | ~29,268 |
+| Hard work pays off | 53.00% | ~26,745 |
+| It's never too late to farm | 50.00% | ~25,231 |
 | All out of Land | 44.00% | ~22,203 |
 | Field Trip | 44.00% | ~22,203 |
-| I like to switch it up | 40.00% | ~20,184 |
-| Help me to help you | 38.00% | ~19,175 |
+| I like to switch it up | 40.00% | ~20,185 |
+| Help me to help you | 38.00% | ~19,176 |
 | Ultimutt Pawesomeness | 28.00% | ~14,129 |
 | Van Gogh | 26.00% | ~13,120 |
-| You wood not believe it | 22.00% | ~11,101 |
-| Vehicle fleet | 22.00% | ~11,101 |
+| You wood not believe it | 22.00% | ~11,102 |
+| Vehicle fleet | 22.00% | ~11,102 |
 | The plot thickens | 16.00% | ~8,074 |
 | Large-scale supplier | 16.00% | ~8,074 |
 | Well-Oiled Machine | 16.00% | ~8,074 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~202 |
 | Raisin the stakes | 0.30% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,461 (Ranked 105)  
+Progressed: 50,462 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 6 (0.01%) (Ranked 306)
 | 2023-10-22 | 50,375 | 6 |
 | 2023-10-23 | 50,414 | 6 |
 | 2023-10-24 | 50,454 | 6 |
-| 2023-10-25 | 50,461 | 6 |
+| 2023-10-25 | 50,462 | 6 |
 ## Awards
 Max (Great for Beginners): 5,272  (Ranked 70)  
 Sum: 41,626 (Ranked 33)  

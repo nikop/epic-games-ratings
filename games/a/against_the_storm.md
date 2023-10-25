@@ -47,7 +47,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Efficient Explorer | 1.00% | ~171 |
 | Prestigious Expedition | 1.00% | ~171 |
 | Blood Flower Farmer | 1.00% | ~171 |
-| Lizard Utopia | 0.90% | ~153 |
+| Lizard Utopia | 0.90% | ~154 |
 | Human Utopia | 0.80% | ~136 |
 | Beaver Utopia | 0.70% | ~119 |
 | The Queen's Chosen | 0.60% | ~102 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,055 (Ranked 133)  
+Progressed: 17,056 (Ranked 133)  
 Completed: 52 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,17 +245,17 @@ Completed: 52 (0.30%) (Ranked 213)
 | 2023-10-22 | 17,020 | 52 |
 | 2023-10-23 | 17,032 | 52 |
 | 2023-10-24 | 17,051 | 52 |
-| 2023-10-25 | 17,055 | 52 |
+| 2023-10-25 | 17,056 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 436  (Ranked 213)  
-Sum: 3,196 (Ranked 170)  
+Sum: 3,197 (Ranked 170)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 436 |
 | This game is Relaxing | 428 |
 | This game is Great for Beginners | 410 |
-| This game is Extremely Fun | 404 |
+| This game is Extremely Fun | 405 |
 | This game is Highly Recommended | 388 |
 | This game has Unique Visuals | 322 |
 | This game has Amazing Storytelling | 316 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 43
 | 2023-10-19 | 4.82 | - | 436 | 3,193 |
 | 2023-10-20 | 4.82 | - | 436 | 3,194 |
 | 2023-10-22 | 4.82 | - | 436 | 3,196 |
+| 2023-10-25 | 4.82 | - | 436 | 3,197 |

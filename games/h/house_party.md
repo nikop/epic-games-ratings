@@ -39,6 +39,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.40% | ~26 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
+| Do Not Burn | 0.30% | ~19 |
 | First Impressions | 0.30% | ~19 |
 | Rule 34 | 0.30% | ~19 |
 | Rachael | 0.30% | ~19 |
@@ -46,7 +47,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Elder Brahs | 0.30% | ~19 |
 | Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
-| Do Not Burn | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | Good Riddance! | 0.20% | ~13 |
 | The Harder They Fall...Dood | 0.20% | ~13 |

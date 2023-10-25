@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -360,6 +360,11 @@
       "Time": "2023-10-22T19:05:13.5004448+00:00",
       "NumProgressed": 413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T11:06:38.6499786+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -411,7 +416,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -483,7 +488,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Award_HalfwayThere",
@@ -547,7 +552,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -587,7 +592,7 @@
       "Name": "Perk King",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_Perky",
@@ -611,7 +616,7 @@
       "Name": "Salvage",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_Scavenger",
@@ -667,7 +672,7 @@
       "Name": "Shocking",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_SwissCheese",
@@ -713,16 +718,16 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 1
     }
   ],
@@ -730,8 +735,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:07:05.2788153+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:06:38.6499779+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:22.8117809+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:01:47.0020137+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:07:05.2788539+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:01:14.9729532+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:06:38.6500089+00:00"
 }

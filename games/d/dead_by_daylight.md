@@ -6,46 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,657 |
-| Zealous | 3.00% | ~28,993 |
-| Not half bad | 3.00% | ~28,993 |
-| Apt Survivor | 3.00% | ~28,993 |
-| Survival Treasures | 3.00% | ~28,993 |
-| Skillful | 3.00% | ~28,993 |
-| Make Some Noise | 3.00% | ~28,993 |
-| The Grand Sacrifice | 2.00% | ~19,329 |
-| Agonizing Escape | 2.00% | ~19,329 |
-| Backdoor Escape | 2.00% | ~19,329 |
-| I've got your back | 2.00% | ~19,329 |
-| No one left behind | 2.00% | ~19,329 |
-| Medic | 2.00% | ~19,329 |
-| Handyman | 2.00% | ~19,329 |
-| Perfect Escape | 2.00% | ~19,329 |
-| Perfect Killing | 2.00% | ~19,329 |
-| Bloody Millionaire | 2.00% | ~19,329 |
-| I | 2.00% | ~19,329 |
-| Engineer | 2.00% | ~19,329 |
-| Sorted | 2.00% | ~19,329 |
-| Healthy Obsession | 2.00% | ~19,329 |
-| Resurgence | 2.00% | ~19,329 |
-| Close Shave | 2.00% | ~19,329 |
-| Preemptive Strike | 2.00% | ~19,329 |
-| Humanitarian | 2.00% | ~19,329 |
-| Escape Artist | 1.00% | ~9,664 |
-| Nerves of steel | 1.00% | ~9,664 |
-| Apt Killer | 1.00% | ~9,664 |
-| Risk it all | 1.00% | ~9,664 |
-| Vulture | 1.00% | ~9,664 |
-| II | 1.00% | ~9,664 |
-| III | 1.00% | ~9,664 |
-| Cherish your Life | 1.00% | ~9,664 |
-| Wounded Healer | 1.00% | ~9,664 |
-| First to the Punch | 1.00% | ~9,664 |
-| Every Last Drop | 1.00% | ~9,664 |
-| With Scars to Show | 1.00% | ~9,664 |
-| Flight to Freedom | 1.00% | ~9,664 |
-| A Fast Death | 1.00% | ~9,664 |
-| Second Act | 1.00% | ~9,664 |
+| It wakes | 4.00% | ~38,660 |
+| Zealous | 3.00% | ~28,995 |
+| Not half bad | 3.00% | ~28,995 |
+| Apt Survivor | 3.00% | ~28,995 |
+| Survival Treasures | 3.00% | ~28,995 |
+| Skillful | 3.00% | ~28,995 |
+| Make Some Noise | 3.00% | ~28,995 |
+| The Grand Sacrifice | 2.00% | ~19,330 |
+| Agonizing Escape | 2.00% | ~19,330 |
+| Backdoor Escape | 2.00% | ~19,330 |
+| I've got your back | 2.00% | ~19,330 |
+| No one left behind | 2.00% | ~19,330 |
+| Medic | 2.00% | ~19,330 |
+| Handyman | 2.00% | ~19,330 |
+| Perfect Escape | 2.00% | ~19,330 |
+| Perfect Killing | 2.00% | ~19,330 |
+| Bloody Millionaire | 2.00% | ~19,330 |
+| I | 2.00% | ~19,330 |
+| Engineer | 2.00% | ~19,330 |
+| Sorted | 2.00% | ~19,330 |
+| Healthy Obsession | 2.00% | ~19,330 |
+| Resurgence | 2.00% | ~19,330 |
+| Close Shave | 2.00% | ~19,330 |
+| Preemptive Strike | 2.00% | ~19,330 |
+| Humanitarian | 2.00% | ~19,330 |
+| Escape Artist | 1.00% | ~9,665 |
+| Nerves of steel | 1.00% | ~9,665 |
+| Apt Killer | 1.00% | ~9,665 |
+| Risk it all | 1.00% | ~9,665 |
+| Vulture | 1.00% | ~9,665 |
+| II | 1.00% | ~9,665 |
+| III | 1.00% | ~9,665 |
+| Cherish your Life | 1.00% | ~9,665 |
+| Wounded Healer | 1.00% | ~9,665 |
+| First to the Punch | 1.00% | ~9,665 |
+| Every Last Drop | 1.00% | ~9,665 |
+| With Scars to Show | 1.00% | ~9,665 |
+| Flight to Freedom | 1.00% | ~9,665 |
+| A Fast Death | 1.00% | ~9,665 |
+| Second Act | 1.00% | ~9,665 |
 | Blood on your hands | 0.90% | ~8,698 |
 | Made it out alive! | 0.90% | ~8,698 |
 | III-50 | 0.90% | ~8,698 |
@@ -59,22 +59,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | Rebuilding The Borgo | 0.90% | ~8,698 |
 | Chorus of Chaos | 0.90% | ~8,698 |
 | One More Step | 0.90% | ~8,698 |
-| Gifts for the Fog | 0.80% | ~7,731 |
-| Shock Therapy | 0.80% | ~7,731 |
-| All Aboard | 0.80% | ~7,731 |
-| House of Pain | 0.80% | ~7,731 |
-| Holiday Get-Together | 0.80% | ~7,731 |
-| Campbell's Chapel Legacy | 0.80% | ~7,731 |
-| Cutting Out | 0.80% | ~7,731 |
-| Outrun Evil | 0.80% | ~7,731 |
-| Lifting The Fog | 0.80% | ~7,731 |
-| MU/TH/UR Dearest | 0.80% | ~7,731 |
+| Gifts for the Fog | 0.80% | ~7,732 |
+| Shock Therapy | 0.80% | ~7,732 |
+| All Aboard | 0.80% | ~7,732 |
+| House of Pain | 0.80% | ~7,732 |
+| Holiday Get-Together | 0.80% | ~7,732 |
+| Campbell's Chapel Legacy | 0.80% | ~7,732 |
+| Cutting Out | 0.80% | ~7,732 |
+| Outrun Evil | 0.80% | ~7,732 |
+| Lifting The Fog | 0.80% | ~7,732 |
+| MU/TH/UR Dearest | 0.80% | ~7,732 |
 | A bite for the Entity | 0.70% | ~6,765 |
 | Leapfrog | 0.70% | ~6,765 |
 | Cottage Owner | 0.70% | ~6,765 |
 | Escaping the Nightmare | 0.70% | ~6,765 |
 | Ancestor's Rite | 0.70% | ~6,765 |
 | Grim Pilgrimage | 0.70% | ~6,765 |
+| Extraterrestrial | 0.70% | ~6,765 |
 | Blood on your face | 0.60% | ~5,799 |
 | Hemophobia | 0.60% | ~5,799 |
 | Serial Killer | 0.60% | ~5,799 |
@@ -87,7 +88,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.60% | ~5,799 |
 | Outrun the Overlap | 0.60% | ~5,799 |
 | Complete the Evolution | 0.60% | ~5,799 |
-| Extraterrestrial | 0.60% | ~5,799 |
 | Jump Scares | 0.50% | ~4,832 |
 | Deep Cleansing | 0.50% | ~4,832 |
 | Texas BBQ | 0.50% | ~4,832 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~966 |
 | Adept Ripley | 0.10% | ~966 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,430 (Ranked 14)  
+Progressed: 966,492 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,7 +424,7 @@ Completed: 52 (0.01%) (Ranked 306)
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
 | 2023-10-24 | 965,667 | 52 |
-| 2023-10-25 | 966,430 | 52 |
+| 2023-10-25 | 966,492 | 52 |
 ## Awards
 Max (Diverse Characters): 34,622  (Ranked 15)  
 Sum: 266,679 (Ranked 13)  

@@ -25,6 +25,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.30% | ~2,148 |
 | Qi Gong: Essence | 0.30% | ~2,148 |
 | Old Child | 0.30% | ~2,148 |
+| Kung-Fu Tussle | 0.30% | ~2,148 |
 | Path of the Prospect | 0.30% | ~2,148 |
 | Take damage to save time | 0.30% | ~2,148 |
 | Martial Hub | 0.30% | ~76 |
@@ -34,7 +35,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
 | Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
-| Kung-Fu Tussle | 0.20% | ~1,432 |
 | Bloody Sport | 0.20% | ~50 |
 | The best strikes are the ones we avoid | 0.20% | ~50 |
 | Tiger on Fire | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,922 (Ranked 20)  
+Progressed: 715,925 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 12,925 (1.81%) (Ranked 121)
 | 2023-10-22 | 715,869 | 12,925 |
 | 2023-10-23 | 715,887 | 12,925 |
 | 2023-10-24 | 715,911 | 12,925 |
-| 2023-10-25 | 715,922 | 12,925 |
+| 2023-10-25 | 715,925 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,731  (Ranked 53)  
 Sum: 11,702 (Ranked 82)  

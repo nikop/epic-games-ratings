@@ -14,7 +14,7 @@ Rating: 4.48 (Ranked 613)
 | It's like an haircut | 18.00% | ~208 |
 | Suit up | 17.00% | ~197 |
 | Ride in the rising sun | 16.00% | ~185 |
-| Walked like an Egyptian | 15.00% | ~173 |
+| Walked like an Egyptian | 15.00% | ~174 |
 | Running at the speed of sound | 14.00% | ~162 |
 | Rookie No-No More | 13.00% | ~150 |
 | Martian explorer | 11.00% | ~127 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 613)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,156 (Ranked 234)  
+Progressed: 1,157 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-12 | 1,154 | 0 |
 | 2023-10-17 | 1,155 | 0 |
 | 2023-10-18 | 1,156 | 0 |
+| 2023-10-25 | 1,157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

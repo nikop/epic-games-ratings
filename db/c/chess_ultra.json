@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214371,
+  "EOS_Progressed": 214372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21689,6 +21689,11 @@
       "Time": "2023-10-25T10:04:33.3427335+00:00",
       "NumProgressed": 214371,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-25T11:04:14.3239569+00:00",
+      "NumProgressed": 214372,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -21700,7 +21705,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 100754
+      "UsersEstimate": 100755
     },
     {
       "ID": "AlekhinesGun",
@@ -21748,7 +21753,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 117904
+      "UsersEstimate": 117905
     },
     {
       "ID": "Checkmate",
@@ -21756,7 +21761,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 64311
+      "UsersEstimate": 64312
     },
     {
       "ID": "ChessChampion",
@@ -21788,7 +21793,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 122191
+      "UsersEstimate": 122192
     },
     {
       "ID": "Elo",
@@ -22003,7 +22008,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 214371,
+      "Progressed": 214372,
       "Completed": 2
     }
   ],
@@ -22011,8 +22016,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-10-19T14:59:15.6505649+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:04:33.3427329+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:04:14.3239564+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.6486849+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:02:24.734301+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:04:33.3428965+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:02:08.5441058+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:04:14.3240748+00:00"
 }

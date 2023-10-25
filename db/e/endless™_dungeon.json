@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2023-10-25T10:07:54.6204638+00:00",
       "NumProgressed": 746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T11:07:26.958675+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -643,7 +648,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -651,7 +656,7 @@
       "Name": "Team Builder",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -731,7 +736,7 @@
       "Name": "Hoarder",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -785,9 +790,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -826,14 +831,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:07:54.6204633+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:07:26.9586747+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-25T10:00:28.1128535+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:07:54.6204861+00:00"
+  "LastUpdate_Ratings": "2023-10-25T11:00:05.6845492+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:07:26.9586929+00:00"
 }

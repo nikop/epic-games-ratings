@@ -5,48 +5,48 @@ Rating: 4.18 (Ranked 908)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~110,010 |
-| May the Torchbearer light our way | 36.00% | ~104,220 |
-| A powerful aura was here | 23.00% | ~66,585 |
-| Let's raise the stakes!! | 10.00% | ~28,950 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,370 |
-| Rumors are true | 5.00% | ~14,475 |
-| Pride is a sin, young Knight | 5.00% | ~14,475 |
-| Bring it on! | 5.00% | ~14,475 |
-| We'll be careful | 4.00% | ~11,580 |
-| Back to your senses | 3.00% | ~8,685 |
-| They tricked me | 2.00% | ~5,790 |
-| We need to talk | 2.00% | ~5,790 |
-| I feel drawn to it | 2.00% | ~5,790 |
-| They won't last long | 2.00% | ~5,790 |
-| I took a risk | 2.00% | ~5,790 |
+| The touch of Chaos | 38.00% | ~110,025 |
+| May the Torchbearer light our way | 36.00% | ~104,234 |
+| A powerful aura was here | 23.00% | ~66,594 |
+| Let's raise the stakes!! | 10.00% | ~28,954 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,372 |
+| Rumors are true | 5.00% | ~14,477 |
+| Pride is a sin, young Knight | 5.00% | ~14,477 |
+| Bring it on! | 5.00% | ~14,477 |
+| We'll be careful | 4.00% | ~11,582 |
+| Back to your senses | 3.00% | ~8,686 |
+| They tricked me | 2.00% | ~5,791 |
+| We need to talk | 2.00% | ~5,791 |
+| I feel drawn to it | 2.00% | ~5,791 |
+| They won't last long | 2.00% | ~5,791 |
+| I took a risk | 2.00% | ~5,791 |
 | Here to stay | 1.00% | ~2,895 |
 | Counting on you | 1.00% | ~2,895 |
 | This is the end | 1.00% | ~2,895 |
 | We can choose to fight | 1.00% | ~2,895 |
 | Their fate is sealed | 1.00% | ~2,895 |
-| Not even from this world | 0.70% | ~2,026 |
-| You want more? I've got more! | 0.50% | ~1,447 |
-| No damsels in distress | 0.30% | ~868 |
+| Not even from this world | 0.70% | ~2,027 |
+| You want more? I've got more! | 0.50% | ~1,448 |
+| No damsels in distress | 0.30% | ~869 |
 | The Ashen Knight | 0.20% | ~579 |
 | The Shade | 0.20% | ~579 |
 | Through the Veil | 0.20% | ~579 |
-| The immortal is bound to reborn | 0.10% | ~289 |
-| A legend among Chimeras | 0.10% | ~289 |
-| It's only pain | 0.10% | ~289 |
-| I know how to handle it | 0.10% | ~289 |
-| Settle this once and for all | 0.10% | ~289 |
-| Call this the Judge's mercy | 0.10% | ~289 |
-| There's too many of them! | 0.10% | ~289 |
-| I've been waiting for this! | 0.10% | ~289 |
-| I'm just warming up | 0.10% | ~289 |
-| We learned it the hard way | 0.10% | ~289 |
-| They wanted yet another monster… | 0.10% | ~289 |
-| Something... unnatural | 0.10% | ~289 |
-| We strike as one | 0.10% | ~289 |
-| Chaos be damned! | 0.10% | ~289 |
+| The immortal is bound to reborn | 0.10% | ~290 |
+| A legend among Chimeras | 0.10% | ~290 |
+| It's only pain | 0.10% | ~290 |
+| I know how to handle it | 0.10% | ~290 |
+| Settle this once and for all | 0.10% | ~290 |
+| Call this the Judge's mercy | 0.10% | ~290 |
+| There's too many of them! | 0.10% | ~290 |
+| I've been waiting for this! | 0.10% | ~290 |
+| I'm just warming up | 0.10% | ~290 |
+| We learned it the hard way | 0.10% | ~290 |
+| They wanted yet another monster… | 0.10% | ~290 |
+| Something... unnatural | 0.10% | ~290 |
+| We strike as one | 0.10% | ~290 |
+| Chaos be damned! | 0.10% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 289,499 (Ranked 50)  
+Progressed: 289,540 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-22 | 286,649 | 1 |
 | 2023-10-23 | 287,922 | 1 |
 | 2023-10-24 | 289,112 | 1 |
-| 2023-10-25 | 289,499 | 1 |
+| 2023-10-25 | 289,540 | 1 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 439)  
 Sum: 43 (Ranked 479)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1679,
+  "EOS_Progressed": 1680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4031,6 +4031,11 @@
       "Time": "2023-10-24T14:05:13.7782998+00:00",
       "NumProgressed": 1679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T11:05:11.9922318+00:00",
+      "NumProgressed": 1680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4162,7 +4167,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4266,7 +4271,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4296,9 +4301,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 705
+      "UsersEstimate": 689
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4425,7 +4430,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1679,
+      "Progressed": 1680,
       "Completed": 0
     }
   ],
@@ -4433,8 +4438,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:05:34.1863841+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:05:11.9922313+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:58:29.7173826+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:05:34.1864399+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:58:14.3997875+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:05:11.9922808+00:00"
 }

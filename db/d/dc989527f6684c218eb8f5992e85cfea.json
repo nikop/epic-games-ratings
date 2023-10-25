@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12915,
+  "EOS_Progressed": 12917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12879,6 +12879,11 @@
       "Time": "2023-10-25T09:05:04.0431522+00:00",
       "NumProgressed": 12915,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T11:05:51.1067058+00:00",
+      "NumProgressed": 12917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -12930,7 +12935,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -12970,7 +12975,7 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -13089,14 +13094,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 12915,
+      "Progressed": 12917,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-25T10:06:15.3425637+00:00",
+  "LastChanged_Achievements": "2023-10-25T11:05:51.1067054+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3039299+00:00",
-  "LastUpdate_Ratings": "2023-10-25T09:59:35.3329457+00:00",
-  "LastUpdate_Achievements": "2023-10-25T10:06:15.3426578+00:00"
+  "LastUpdate_Ratings": "2023-10-25T10:59:19.7781234+00:00",
+  "LastUpdate_Achievements": "2023-10-25T11:05:51.1067791+00:00"
 }

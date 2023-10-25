@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,075 |
-| Worth it | 63.00% | ~38,830 |
-| Eagle Eye | 55.00% | ~33,899 |
-| Corpseman I | 40.00% | ~24,654 |
-| Blast fishing | 37.00% | ~22,805 |
-| Not alone | 32.00% | ~19,723 |
-| Headhunter I | 26.00% | ~16,025 |
+| Setting an example | 78.00% | ~48,077 |
+| Worth it | 63.00% | ~38,831 |
+| Eagle Eye | 55.00% | ~33,900 |
+| Corpseman I | 40.00% | ~24,655 |
+| Blast fishing | 37.00% | ~22,806 |
+| Not alone | 32.00% | ~19,724 |
+| Headhunter I | 26.00% | ~16,026 |
 | Manual Labour I | 25.00% | ~15,409 |
-| Developers, Developers, Developers | 24.00% | ~14,792 |
-| Basic Training | 24.00% | ~14,792 |
+| Developers, Developers, Developers | 24.00% | ~14,793 |
+| Basic Training | 24.00% | ~14,793 |
 | Furchtlos und Treu | 13.00% | ~8,013 |
 | Gott Mit Uns | 12.00% | ~7,396 |
 | This We'll Defend! | 9.00% | ~5,547 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,547 |
 | For King and Country | 9.00% | ~5,547 |
 | Battle hardened | 8.00% | ~4,931 |
-| Semper Fidelis! | 7.00% | ~4,314 |
-| Honneur et Patrie | 7.00% | ~4,314 |
+| Semper Fidelis! | 7.00% | ~4,315 |
+| Honneur et Patrie | 7.00% | ~4,315 |
 | In Treue Fest | 5.00% | ~3,082 |
 | Voor De Koning | 5.00% | ~3,082 |
 | Extreme Headhunter | 5.00% | ~3,082 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,635 (Ranked 101)  
+Progressed: 61,637 (Ranked 101)  
 Completed: 4 (0.01%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 4 (0.01%) (Ranked 306)
 | 2023-10-22 | 61,466 | 4 |
 | 2023-10-23 | 61,563 | 4 |
 | 2023-10-24 | 61,624 | 4 |
-| 2023-10-25 | 61,635 | 4 |
+| 2023-10-25 | 61,637 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 353)  
 Sum: 777 (Ranked 275)  

@@ -127,13 +127,13 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-25 | 43,439 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,448  (Ranked 131)  
-Sum: 12,129 (Ranked 81)  
+Sum: 12,133 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,448 |
 | This game is Relaxing | 1,446 |
-| This game has Challenging Combat | 1,426 |
+| This game has Challenging Combat | 1,430 |
 | This game has Competitive Players | 1,413 |
 | This game is Highly Recommended | 1,411 |
 | This game is Extremely Fun | 1,391 |
@@ -430,4 +430,4 @@ Diff (max vs sum): 50
 | 2023-10-22 | 4.41 | - | 1,443 | 12,068 |
 | 2023-10-23 | 4.41 | - | 1,446 | 12,096 |
 | 2023-10-24 | 4.41 | - | 1,446 | 12,117 |
-| 2023-10-25 | 4.41 | - | 1,448 | 12,129 |
+| 2023-10-25 | 4.41 | - | 1,448 | 12,133 |
