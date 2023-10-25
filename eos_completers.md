@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.88% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.73% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.71% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -52,8 +52,8 @@
 | 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.48% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 53 | [Scorn](games/s/scorn.md) | 7.00% |
-| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.88% |
+| 53 | [Scorn](games/s/scorn.md) | 6.99% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.85% |
 | 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 56 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 57 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -259,17 +259,17 @@
 | 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 258 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 258 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 258 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.10% |
 | 258 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
 | 258 | [Supraland](games/s/supraland.md) | 0.10% |
-| 263 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 263 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 263 | [Black Book](games/b/black_book.md) | 0.09% |
-| 263 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.09% |
-| 263 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 263 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 263 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 263 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 262 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 262 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 262 | [Black Book](games/b/black_book.md) | 0.09% |
+| 262 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.09% |
+| 262 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
+| 262 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 262 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 262 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 262 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 271 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 272 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 272 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
@@ -699,4 +699,4 @@
 | 326 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 326 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 326 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,454 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,455 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

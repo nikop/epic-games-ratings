@@ -452,6 +452,7 @@
 | [One Military Camp](../games/o/one_military_camp.md) | 44 | 1,000 |
 | [One More Dungeon 2](../games/4/46c8eccba1224195bdd112048075cc37.md) | 20 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
+| [Orten Was The Case](../games/4/40257023d2d44231ac722108f30ab717.md) | 16 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Outbreak Contagious Memories](../games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 25 | 1,000 |
 | [Outbreak Devious Beginnings](../games/d/dbbce4993a554bbba3032476bca1673a.md) | 12 | 1,000 |
