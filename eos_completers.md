@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.83% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.82% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -73,7 +73,7 @@
 | 71 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 72 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
 | 73 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.28% |
-| 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.20% |
+| 74 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.19% |
 | 75 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.17% |
 | 76 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.05% |
 | 77 | [The Bunker](games/t/the_bunker.md) | 4.00% |
@@ -168,8 +168,8 @@
 | 166 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 167 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 167 | [Potion Permit](games/p/potion_permit.md) | 0.62% |
-| 169 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.61% |
-| 170 | [Haven](games/h/haven.md) | 0.60% |
+| 169 | [Haven](games/h/haven.md) | 0.60% |
+| 169 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.60% |
 | 171 | [Dead Space](games/d/dead_space.md) | 0.59% |
 | 171 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 173 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
@@ -195,7 +195,7 @@
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.45% |
 | 192 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 192 | [Tchia](games/t/tchia.md) | 0.45% |
-| 196 | [The Devil's Face](games/t/the_devil's_face.md) | 0.44% |
+| 196 | [The Devil's Face](games/t/the_devil's_face.md) | 0.43% |
 | 197 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 198 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 199 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -226,11 +226,11 @@
 | 223 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
 | 225 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 225 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 225 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.22% |
 | 225 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
-| 228 | [Blanc](games/b/blanc.md) | 0.21% |
-| 228 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 228 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
-| 228 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.21% |
+| 229 | [Blanc](games/b/blanc.md) | 0.21% |
+| 229 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 229 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
 | 232 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 233 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
@@ -242,9 +242,9 @@
 | 240 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 240 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 240 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 243 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.15% |
 | 243 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 245 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 244 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 244 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.14% |
 | 246 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 246 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 246 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
