@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "LEVEL_135_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 135 pieces",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_135_005",
@@ -326,8 +326,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:03:14.2684601+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:03:29.839483+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.7993988+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:58:51.4594516+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:03:14.2684848+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:59:29.2533098+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:03:29.8395127+00:00"
 }

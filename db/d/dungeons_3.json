@@ -2931,7 +2931,7 @@
   ],
   "EOS_Progressed": 35171,
   "EOS_Completed": 284,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -23793,9 +23793,9 @@
       "ID": "ACH_D3_Campaign_Hungry_1",
       "SetID": "cda475f",
       "Name": "Thirst quencher",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 9496
+      "UsersEstimate": 9848
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -24041,8 +24041,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-24T19:04:55.7743869+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:04:25.9811452+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:05:11.1688576+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.3840039+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:01:20.3500804+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:04:25.98132+00:00"
+  "LastUpdate_Ratings": "2023-10-25T00:02:11.6456956+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:05:11.1690456+00:00"
 }

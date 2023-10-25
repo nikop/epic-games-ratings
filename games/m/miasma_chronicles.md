@@ -5,19 +5,19 @@ Rating: 4.43 (Ranked 680)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,366 |
-| Ranidaphobia | 78.00% | ~1,158 |
+| First Blood | 92.00% | ~1,367 |
+| Ranidaphobia | 78.00% | ~1,159 |
 | Aspiring Editor | 75.00% | ~1,114 |
 | Gun for Hire | 70.00% | ~1,040 |
-| I am the law! | 64.00% | ~950 |
+| I am the law! | 64.00% | ~951 |
 | Lumberjack | 54.00% | ~802 |
 | Croaked | 49.00% | ~728 |
 | Limp Richard | 49.00% | ~728 |
 | Editor Adept | 48.00% | ~713 |
 | Exorcist | 48.00% | ~713 |
 | From Darkness to Light | 48.00% | ~713 |
-| Giant Killer | 46.00% | ~683 |
-| Sensei | 44.00% | ~653 |
+| Giant Killer | 46.00% | ~684 |
+| Sensei | 44.00% | ~654 |
 | Firestarter | 42.00% | ~624 |
 | The meaning of Kain | 42.00% | ~624 |
 | Technophobe | 41.00% | ~609 |
@@ -28,16 +28,16 @@ Rating: 4.43 (Ranked 680)
 | Infiltrator | 35.00% | ~520 |
 | Experienced | 33.00% | ~490 |
 | Pushing Daisy | 33.00% | ~490 |
-| Hold The Line | 32.00% | ~475 |
+| Hold The Line | 32.00% | ~476 |
 | Endgame | 28.00% | ~416 |
 | Savior | 27.00% | ~401 |
 | There Can Be Only One! | 26.00% | ~386 |
 | Chain Killer | 23.00% | ~342 |
 | Silent but Violent | 23.00% | ~342 |
 | The Watchers | 22.00% | ~327 |
-| Commando | 17.00% | ~252 |
-| Dr Jones | 17.00% | ~252 |
-| Newtonian Knockout | 17.00% | ~252 |
+| Commando | 17.00% | ~253 |
+| Dr Jones | 17.00% | ~253 |
+| Newtonian Knockout | 17.00% | ~253 |
 | Chaos Theory | 16.00% | ~238 |
 | Ruthless | 14.00% | ~208 |
 | Side Order | 11.00% | ~163 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 680)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,485 (Ranked 226)  
+Progressed: 1,486 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-10-17 | 1,479 | 0 |
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
+| 2023-10-25 | 1,486 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

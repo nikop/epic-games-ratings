@@ -7,21 +7,21 @@ Number of Ratings: 21,082  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unseen Assassin | 46.00% | ~620,362 |
-| Death From Above | 45.00% | ~606,875 |
+| Death From Above | 45.00% | ~606,876 |
 | Master of the Household | 38.00% | ~512,473 |
-| Death of the Party | 36.00% | ~485,500 |
-| NEXUS-47 | 33.00% | ~445,042 |
+| Death of the Party | 36.00% | ~485,501 |
+| NEXUS-47 | 33.00% | ~445,043 |
 | The Last Tango | 31.00% | ~418,070 |
 | Nightmare Fuel | 30.00% | ~404,584 |
-| The Result of Previous Training | 28.00% | ~377,611 |
-| Tools of the Trade | 28.00% | ~377,611 |
-| Cleared for Field Duty | 27.00% | ~364,125 |
-| Seizing the Opportunity | 26.00% | ~350,639 |
+| The Result of Previous Training | 28.00% | ~377,612 |
+| Tools of the Trade | 28.00% | ~377,612 |
+| Cleared for Field Duty | 27.00% | ~364,126 |
+| Seizing the Opportunity | 26.00% | ~350,640 |
 | Bullet Train | 21.00% | ~283,209 |
-| Stylish Assassin | 20.00% | ~269,722 |
+| Stylish Assassin | 20.00% | ~269,723 |
 | Silent Assassin | 14.00% | ~188,806 |
-| Rise Up | 12.00% | ~161,833 |
-| Evil Wine Club | 11.00% | ~148,347 |
+| Rise Up | 12.00% | ~161,834 |
+| Evil Wine Club | 11.00% | ~148,348 |
 | Console Cowboy | 10.00% | ~134,861 |
 | Last Stop | 10.00% | ~134,861 |
 | A New Profile | 9.00% | ~121,375 |
@@ -37,11 +37,11 @@ Number of Ratings: 21,082  (23.09.2022)
 | Followed the Trails | 5.00% | ~67,431 |
 | Last Call | 5.00% | ~67,431 |
 | Count Down From 47 | 5.00% | ~67,431 |
-| Treacherous Architecture | 4.00% | ~53,944 |
-| Upstairs, Downstairs | 4.00% | ~53,944 |
-| The Great Outdoors | 4.00% | ~53,944 |
-| Partied Out | 4.00% | ~53,944 |
-| Surveillance Master | 4.00% | ~53,944 |
+| Treacherous Architecture | 4.00% | ~53,945 |
+| Upstairs, Downstairs | 4.00% | ~53,945 |
+| The Great Outdoors | 4.00% | ~53,945 |
+| Partied Out | 4.00% | ~53,945 |
+| Surveillance Master | 4.00% | ~53,945 |
 | Training Escalated | 3.00% | ~40,458 |
 | Keep Your Eyes Peeled | 3.00% | ~40,458 |
 | Warehouse Veteran | 3.00% | ~40,458 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,486 |
 | The Creative Assassin | 0.70% | ~9,440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,348,612 (Ranked 9)  
+Progressed: 1,348,614 (Ranked 9)  
 Completed: 2,161 (0.16%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 2,161 (0.16%) (Ranked 240)
 | 2023-10-22 | 1,347,963 | 2,161 |
 | 2023-10-23 | 1,348,309 | 2,161 |
 | 2023-10-24 | 1,348,612 | 2,161 |
+| 2023-10-25 | 1,348,614 | 2,161 |
 ## Awards
 Max (Diverse Characters): 10,408  (Ranked 38)  
 Sum: 72,568 (Ranked 21)  

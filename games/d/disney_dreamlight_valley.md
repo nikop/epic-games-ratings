@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goofy's Investor | 70.00% | ~7,729 |
-| Photographer | 69.00% | ~7,618 |
-| Valley's Helper | 62.00% | ~6,845 |
-| Renovator | 52.00% | ~5,741 |
+| Photographer | 69.00% | ~7,619 |
+| Valley's Helper | 62.00% | ~6,846 |
+| Renovator | 52.00% | ~5,742 |
 | Constructor | 51.00% | ~5,631 |
-| Bestest Friend | 47.00% | ~5,189 |
+| Bestest Friend | 47.00% | ~5,190 |
 | Banker | 39.00% | ~4,306 |
 | Gardener | 31.00% | ~3,423 |
 | Generous | 25.00% | ~2,760 |
-| Chef Cook | 18.00% | ~1,987 |
+| Chef Cook | 18.00% | ~1,988 |
 | Miner | 10.00% | ~1,104 |
 | Duty Bound | 7.00% | ~773 |
 | Angler | 5.00% | ~552 |
 | Thorn Cleaner | 5.00% | ~552 |
 | Chit Chatter | 3.00% | ~331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,041 (Ranked 148)  
+Progressed: 11,042 (Ranked 148)  
 Completed: 262 (2.37%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,13 +161,14 @@ Completed: 262 (2.37%) (Ranked 112)
 | 2023-10-22 | 10,988 | 263 |
 | 2023-10-23 | 11,014 | 263 |
 | 2023-10-24 | 11,041 | 262 |
+| 2023-10-25 | 11,042 | 262 |
 ## Awards
-Max (Great for Beginners): 1,025  (Ranked 148)  
-Sum: 7,764 (Ranked 106)  
+Max (Great for Beginners): 1,026  (Ranked 148)  
+Sum: 7,765 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,025 |
+| This game is Great for Beginners | 1,026 |
 | This game has Diverse Characters | 866 |
 | This game is Highly Recommended | 814 |
 | This game has Amazing Characters | 812 |
@@ -407,3 +408,4 @@ Diff (max vs sum): 42
 | 2023-10-22 | 4.76 | - | 1,025 | 7,756 |
 | 2023-10-23 | 4.76 | - | 1,025 | 7,761 |
 | 2023-10-24 | 4.76 | - | 1,025 | 7,764 |
+| 2023-10-25 | 4.76 | - | 1,026 | 7,765 |

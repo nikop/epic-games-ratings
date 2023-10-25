@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -13065,10 +13065,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1414532,
       "NumberOfAwardsMax": 311117
+    },
+    {
+      "Time": "2023-10-25T00:00:39.3599727+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1414631,
+      "NumberOfAwardsMax": 311117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1414532,
+  "NumberOfAwards": 1414631,
   "NumberOfAwardsMax": 311117,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13088,7 +13094,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 139025
+      "Count": 139087
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13100,7 +13106,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116490
+      "Count": 116504
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13124,7 +13130,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 112617
+      "Count": 112640
     },
     {
       "Text": "This game is Relaxing",
@@ -13150,8 +13156,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-10-24T22:59:54.5910881+00:00",
+  "LastChanged": "2023-10-25T00:00:39.3599725+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.1230905+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:59:54.591089+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:05:19.5252538+00:00"
+  "LastUpdate_Ratings": "2023-10-25T00:00:39.3599733+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:06:06.0286239+00:00"
 }

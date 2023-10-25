@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3773,
+  "EOS_Progressed": 3774,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7435,6 +7435,11 @@
       "Time": "2023-10-24T19:07:13.2072607+00:00",
       "NumProgressed": 3773,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-25T00:05:14.1473366+00:00",
+      "NumProgressed": 3774,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7502,7 +7507,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7598,7 +7603,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7918,7 +7923,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8013,13 +8018,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3724,
+      "Progressed": 3725,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3773,
+      "Progressed": 3774,
       "Completed": 11
     }
   ],
@@ -8027,8 +8032,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:04:28.3941995+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:05:14.1473361+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:57:27.5139117+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:04:28.3943553+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:57:49.7463361+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:05:14.1474555+00:00"
 }

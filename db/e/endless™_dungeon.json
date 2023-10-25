@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
+  "EOS_Progressed": 723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-10-24T23:06:32.49217+00:00",
       "NumProgressed": 722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T00:07:25.0594842+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -585,7 +590,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -593,7 +598,7 @@
       "Name": "Pest Control",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -615,9 +620,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 521
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -625,7 +630,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -649,7 +654,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -737,7 +742,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -776,14 +781,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 722,
+      "Progressed": 723,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:06:32.4921696+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:07:25.0594836+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:59:20.6906203+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:06:32.4921915+00:00"
+  "LastUpdate_Ratings": "2023-10-25T00:00:00.6488687+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:07:25.0595093+00:00"
 }

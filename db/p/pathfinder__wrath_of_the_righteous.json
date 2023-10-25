@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3989,9 +3989,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11771,
+  "EOS_Progressed": 11773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14269,6 +14269,11 @@
       "Time": "2023-10-24T23:09:05.6388238+00:00",
       "NumProgressed": 11771,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T00:09:47.9358145+00:00",
+      "NumProgressed": 11773,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15207,21 +15212,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10553,
+      "Progressed": 10555,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11771,
+      "Progressed": 11773,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-23T01:42:55.556612+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:09:05.6388236+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:09:47.9358139+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:00:16.5228501+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:09:05.6390662+00:00"
+  "LastUpdate_Ratings": "2023-10-25T00:01:03.2717987+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:09:47.9361292+00:00"
 }

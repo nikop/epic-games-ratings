@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~15,787 |
+| Longrunner | 76.00% | ~15,788 |
 | Sword Runner | 61.00% | ~12,672 |
-| Running out of breath | 54.00% | ~11,217 |
+| Running out of breath | 54.00% | ~11,218 |
 | Wallrunner | 53.00% | ~11,010 |
 | Homerunner | 45.00% | ~9,348 |
-| I call it luck | 44.00% | ~9,140 |
-| Out of order | 44.00% | ~9,140 |
-| Where are my Keys? | 40.00% | ~8,309 |
+| I call it luck | 44.00% | ~9,141 |
+| Out of order | 44.00% | ~9,141 |
+| Where are my Keys? | 40.00% | ~8,310 |
 | Back to hell | 37.00% | ~7,686 |
-| Perfection | 32.00% | ~6,647 |
+| Perfection | 32.00% | ~6,648 |
 | Why not both | 30.00% | ~6,232 |
 | Sword to a gunfight | 29.00% | ~6,024 |
 | Upgrades not mandatory | 29.00% | ~6,024 |
-| Artificial selection | 28.00% | ~5,816 |
+| Artificial selection | 28.00% | ~5,817 |
 | Control freak | 27.00% | ~5,609 |
 | Running Wild | 27.00% | ~5,609 |
 | Finish line | 26.00% | ~5,401 |
@@ -28,7 +28,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Can't Run Can't Hide | 16.00% | ~3,324 |
 | R is for Running | 16.00% | ~3,324 |
 | Dead in the air | 15.00% | ~3,116 |
-| Improvise, adapt, overrun | 13.00% | ~2,700 |
+| Improvise, adapt, overrun | 13.00% | ~2,701 |
 | Pre-empative strike | 12.00% | ~2,493 |
 | Strike | 12.00% | ~2,493 |
 | More than human | 11.00% | ~2,285 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~83 |
 | Up Close And Personal | 0.40% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,773 (Ranked 127)  
+Progressed: 20,774 (Ranked 127)  
 Completed: 78 (0.38%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 78 (0.38%) (Ranked 201)
 | 2023-10-22 | 20,613 | 77 |
 | 2023-10-23 | 20,692 | 77 |
 | 2023-10-24 | 20,773 | 78 |
+| 2023-10-25 | 20,774 | 78 |
 ## Awards
 Max (Great Boss Battles): 510  (Ranked 204)  
 Sum: 732 (Ranked 282)  

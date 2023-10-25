@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1326,8 +1326,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:09:05.2979201+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:09:47.2884164+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.3280769+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:57:58.4016205+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:09:05.297961+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:58:27.609076+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:09:47.2884675+00:00"
 }

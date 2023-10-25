@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1512,
+  "EOS_Progressed": 1520,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1509,
+  "EOS_NewPlayers": 1517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-10-24T23:07:05.0297194+00:00",
       "NumProgressed": 1512,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T00:08:12.153603+00:00",
+      "NumProgressed": 1520,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -782,9 +787,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 61
     },
     {
       "ID": "FuneralForTheDeath",
@@ -814,9 +819,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -983,13 +988,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1512,
+      "Progressed": 1520,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:07:05.0297192+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:08:12.1536021+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:58:14.1754862+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:07:05.029746+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:58:49.1744118+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:08:12.1536379+00:00"
 }

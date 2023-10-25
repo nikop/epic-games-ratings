@@ -6,11 +6,11 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~477,900 |
-| Apprentice | 58.00% | ~384,975 |
+| The Fool | 72.00% | ~477,901 |
+| Apprentice | 58.00% | ~384,976 |
 | Close Shave | 25.00% | ~165,938 |
-| Mercenary | 23.00% | ~152,662 |
-| Ninja | 23.00% | ~152,662 |
+| Mercenary | 23.00% | ~152,663 |
+| Ninja | 23.00% | ~152,663 |
 | Northern Scourge | 17.00% | ~112,838 |
 | Thief Bane | 14.00% | ~92,925 |
 | Master of Arms | 12.00% | ~79,650 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,825 |
 | Jack of all Trades | 5.00% | ~33,188 |
 | Smithy | 5.00% | ~33,188 |
-| Leap of Faith | 3.00% | ~19,912 |
-| Combat Ready | 3.00% | ~19,912 |
-| Stuffed Potato | 3.00% | ~19,912 |
+| Leap of Faith | 3.00% | ~19,913 |
+| Combat Ready | 3.00% | ~19,913 |
+| Stuffed Potato | 3.00% | ~19,913 |
 | Card Sharp | 2.00% | ~13,275 |
 | Magician | 2.00% | ~13,275 |
 | Draknar's Bane | 2.00% | ~13,275 |
@@ -42,8 +42,8 @@ Number of Ratings: 780  (23.09.2022)
 | Thomas' Bane | 0.90% | ~5,974 |
 | Ally | 0.80% | ~5,310 |
 | Gamester | 0.70% | ~4,646 |
-| Hero | 0.60% | ~3,982 |
-| Rebel | 0.60% | ~3,982 |
+| Hero | 0.60% | ~3,983 |
+| Rebel | 0.60% | ~3,983 |
 | Dungeon Master | 0.50% | ~3,319 |
 | Pilgrim | 0.40% | ~2,655 |
 | Smiths Honour | 0.40% | ~2,655 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,750 (Ranked 26)  
+Progressed: 663,751 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 171 (0.03%) (Ranked 293)
 | 2023-10-22 | 663,673 | 171 |
 | 2023-10-23 | 663,711 | 171 |
 | 2023-10-24 | 663,750 | 171 |
+| 2023-10-25 | 663,751 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 462)  
 Sum: 188 (Ranked 397)  

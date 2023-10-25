@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126385,
+  "EOS_Progressed": 126386,
   "EOS_Completed": 1072,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -21505,6 +21505,11 @@
       "Time": "2023-10-24T23:06:32.1631375+00:00",
       "NumProgressed": 126385,
       "NumCompleted": 1072
+    },
+    {
+      "Time": "2023-10-25T00:07:24.6436639+00:00",
+      "NumProgressed": 126386,
+      "NumCompleted": 1072
     }
   ],
   "TotalAchievements": 34,
@@ -21572,7 +21577,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 101108
+      "UsersEstimate": 101109
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -21604,7 +21609,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 49290
+      "UsersEstimate": 49291
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -21700,7 +21705,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 21485
+      "UsersEstimate": 21486
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -21724,7 +21729,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30332
+      "UsersEstimate": 30333
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -21732,7 +21737,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30332
+      "UsersEstimate": 30333
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -21764,7 +21769,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30332
+      "UsersEstimate": 30333
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -21787,7 +21792,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 126385,
+      "Progressed": 126386,
       "Completed": 1072
     }
   ],
@@ -21795,8 +21800,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:06:32.1631371+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:07:24.6436632+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.8246066+00:00",
-  "LastUpdate_Ratings": "2023-10-24T22:57:21.1121164+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:06:32.1632964+00:00"
+  "LastUpdate_Ratings": "2023-10-24T23:57:41.6900341+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:07:24.6438582+00:00"
 }

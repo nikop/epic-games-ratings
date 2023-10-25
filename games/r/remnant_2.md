@@ -1,12 +1,12 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~18,044 |
-| The Killing Jar | 8.00% | ~16,039 |
+| First of Many | 9.00% | ~18,045 |
+| The Killing Jar | 8.00% | ~16,040 |
 | Expanding Horizons | 7.00% | ~14,035 |
 | Quest for Survival | 7.00% | ~14,035 |
 | Not Your Average Trait | 7.00% | ~14,035 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 120)
 | Cutting Edge | 1.00% | ~2,005 |
 | Proving Grounds | 1.00% | ~2,005 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,493 (Ranked 68)  
+Progressed: 200,505 (Ranked 68)  
 Completed: 405 (0.20%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,9 +157,10 @@ Completed: 405 (0.20%) (Ranked 232)
 | 2023-10-22 | 199,607 | 401 |
 | 2023-10-23 | 200,060 | 403 |
 | 2023-10-24 | 200,493 | 405 |
+| 2023-10-25 | 200,505 | 405 |
 ## Awards
 Max (Great Boss Battles): 1,894  (Ranked 114)  
-Sum: 4,144 (Ranked 147)  
+Sum: 4,145 (Ranked 147)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -173,7 +174,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 223 |
 | This game has Amazing Characters | 218 |
 | This game has Unique Visuals | 191 |
-| This game has a Creative Community | 168 |
+| This game has a Creative Community | 169 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -268,3 +269,4 @@ Diff (max vs sum): -33
 | 2023-10-22 | 4.76 | 1,885 | 4,113 |
 | 2023-10-23 | 4.76 | 1,885 | 4,124 |
 | 2023-10-24 | 4.76 | 1,894 | 4,144 |
+| 2023-10-25 | 4.76 | 1,894 | 4,145 |

@@ -25,8 +25,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not-So-Overproud | 30.00% | ~10,551 |
 | For a handfull of Catapults | 29.00% | ~10,200 |
 | Shadow hunter | 29.00% | ~10,200 |
+| Thirst quencher | 28.00% | ~9,848 |
 | Ogre Solo! | 28.00% | ~9,848 |
-| Thirst quencher | 27.00% | ~9,496 |
 | Destroy the thing | 26.00% | ~9,144 |
 | Tide Master | 26.00% | ~9,144 |
 | Difficult family relationships | 25.00% | ~8,793 |

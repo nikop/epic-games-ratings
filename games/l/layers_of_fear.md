@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finished it | 46.00% | ~6 |
-| Something important | 38.00% | ~5 |
-| Wanderer | 31.00% | ~4 |
-| It's covered up for a reason | 23.00% | ~3 |
-| A piece of the story | 23.00% | ~3 |
-| Do what you have to | 15.00% | ~2 |
-| First steps | 15.00% | ~2 |
-| Sound Bite | 15.00% | ~2 |
-| Playtime | 15.00% | ~2 |
-| The tragedy unfolds | 15.00% | ~2 |
-| Tough conversation | 15.00% | ~2 |
-| Another perspective | 8.00% | ~1 |
-| Breaking free | 8.00% | ~1 |
-| Refuse to look | 8.00% | ~1 |
-| Scraps of love | 8.00% | ~1 |
-| A Slice of Life | 8.00% | ~1 |
-| Debut | 8.00% | ~1 |
-| The artist’s impression | 8.00% | ~1 |
-| Lights! Camera! Action! | 8.00% | ~1 |
-| The Perfect Storm | 8.00% | ~1 |
-| The art of movement | 8.00% | ~1 |
+| Finished it | 43.00% | ~6 |
+| Something important | 43.00% | ~6 |
+| Wanderer | 36.00% | ~5 |
+| A piece of the story | 29.00% | ~4 |
+| It's covered up for a reason | 21.00% | ~3 |
+| Do what you have to | 14.00% | ~2 |
+| Scraps of love | 14.00% | ~2 |
+| The artist’s impression | 14.00% | ~2 |
+| First steps | 14.00% | ~2 |
+| Sound Bite | 14.00% | ~2 |
+| Playtime | 14.00% | ~2 |
+| The tragedy unfolds | 14.00% | ~2 |
+| Tough conversation | 14.00% | ~2 |
+| Another perspective | 7.00% | ~1 |
+| Breaking free | 7.00% | ~1 |
+| Refuse to look | 7.00% | ~1 |
+| A Slice of Life | 7.00% | ~1 |
+| Debut | 7.00% | ~1 |
+| Lights! Camera! Action! | 7.00% | ~1 |
+| The Perfect Storm | 7.00% | ~1 |
+| The art of movement | 7.00% | ~1 |
 | A new way | 0.00% | ~0 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 529)  
+Progressed: 14 (Ranked 525)  
 Completed: 0 (0.00%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,3 +67,4 @@ Completed: 0 (0.00%) (Ranked 324)
 | 2023-08-11 | 3 | 0 |
 | 2023-08-24 | 4 | 0 |
 | 2023-10-24 | 13 | 0 |
+| 2023-10-25 | 14 | 0 |

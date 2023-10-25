@@ -1,13 +1,13 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,817 |
-| First Class Student | 14.00% | ~41,829 |
-| Troll with the Punches | 13.00% | ~38,841 |
+| First Class Student | 14.00% | ~41,830 |
+| Troll with the Punches | 13.00% | ~38,842 |
 | A Keen Sense of Spell | 12.00% | ~35,854 |
 | That's a Keeper | 12.00% | ~35,854 |
 | Grappling with a Graphorn | 11.00% | ~32,866 |
@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 120)
 | Followed the Butterflies | 10.00% | ~29,878 |
 | The Spell Master | 9.00% | ~26,890 |
 | Rising From the Ashes | 9.00% | ~26,890 |
-| The Avenging Gazelle | 8.00% | ~23,902 |
-| Beast Friends | 8.00% | ~23,902 |
-| A Sallow Grave | 8.00% | ~23,902 |
-| Flight the Good Flight | 8.00% | ~23,902 |
+| The Avenging Gazelle | 8.00% | ~23,903 |
+| Beast Friends | 8.00% | ~23,903 |
+| A Sallow Grave | 8.00% | ~23,903 |
+| Flight the Good Flight | 8.00% | ~23,903 |
 | The Seeker of Knowledge | 6.00% | ~17,927 |
 | The Root of the Problem | 6.00% | ~17,927 |
 | Third Time's a Charm | 6.00% | ~17,927 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,091 |
 | Collector's Edition | 0.30% | ~896 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,780 (Ranked 48)  
+Progressed: 298,783 (Ranked 48)  
 Completed: 492 (0.16%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,9 +239,10 @@ Completed: 492 (0.16%) (Ranked 240)
 | 2023-10-22 | 298,711 | 491 |
 | 2023-10-23 | 298,741 | 491 |
 | 2023-10-24 | 298,780 | 492 |
+| 2023-10-25 | 298,783 | 492 |
 ## Awards
 Max (Character Customization): 23,763  (Ranked 17)  
-Sum: 46,567 (Ranked 30)  
+Sum: 46,570 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -250,7 +251,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,219 |
 | This game has Amazing Storytelling | 1,180 |
 | This game has Diverse Characters | 1,178 |
-| This game is Extremely Fun | 1,163 |
+| This game is Extremely Fun | 1,166 |
 | This game is Relaxing | 1,160 |
 | This game has Amazing Characters | 1,131 |
 | This game is Highly Recommended | 1,097 |
@@ -475,3 +476,4 @@ Diff (max vs sum): -13
 | 2023-10-22 | 4.76 | 23,719 | 46,414 |
 | 2023-10-23 | 4.76 | 23,743 | 46,500 |
 | 2023-10-24 | 4.76 | 23,763 | 46,567 |
+| 2023-10-25 | 4.76 | 23,763 | 46,570 |

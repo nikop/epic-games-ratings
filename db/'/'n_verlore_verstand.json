@@ -2,10 +2,10 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 114,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-10-24T15:04:10.4813955+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T00:04:17.0323735+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -255,13 +260,13 @@
       "Name": "Start of a Journey",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "10",
       "SetID": "6m1k8ai",
       "Name": "A Dangerous Road",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -341,7 +346,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -407,7 +412,7 @@
       "Name": "A thing of beauty",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "28",
@@ -429,7 +434,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -517,7 +522,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -605,7 +610,7 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -613,7 +618,7 @@
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -621,7 +626,7 @@
       "ID": "8",
       "SetID": "6m1k8ai",
       "Name": "Labyrinths of the Mind",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -638,14 +643,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-24T23:03:43.2044751+00:00",
+  "LastChanged_Achievements": "2023-10-25T00:04:17.0323726+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.2028457+00:00",
-  "LastUpdate_Ratings": "2023-10-24T23:01:09.6933145+00:00",
-  "LastUpdate_Achievements": "2023-10-24T23:03:43.2045156+00:00"
+  "LastUpdate_Ratings": "2023-10-25T00:02:00.4453296+00:00",
+  "LastUpdate_Achievements": "2023-10-25T00:04:17.0324246+00:00"
 }
