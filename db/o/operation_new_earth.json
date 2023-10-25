@@ -5,9 +5,9 @@
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1675,
+  "EOS_Progressed": 1676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6234,6 +6234,11 @@
       "Time": "2023-10-25T14:05:20.776781+00:00",
       "NumProgressed": 1675,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T15:05:02.2311331+00:00",
+      "NumProgressed": 1676,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6267,9 +6272,9 @@
       "ID": "ach_defeat_players_100",
       "SetID": "bm61c2p",
       "Name": "Player Betrayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6323,9 +6328,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 168
     },
     {
       "ID": "objective_headquarters_15",
@@ -6413,7 +6418,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6548,7 +6553,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1675,
+      "Progressed": 1676,
       "Completed": 1
     }
   ],
@@ -6556,8 +6561,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:05:20.7767807+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:05:02.2311324+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:00:59.0196068+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:05:20.7768315+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:00:36.5182144+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:05:02.2312104+00:00"
 }

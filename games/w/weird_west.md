@@ -6,25 +6,25 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,697 |
-| Self-Improvement | 71.00% | ~1,369 |
-| Perky | 65.00% | ~1,253 |
+| Unforgiven | 88.00% | ~1,698 |
+| Self-Improvement | 71.00% | ~1,370 |
+| Perky | 65.00% | ~1,254 |
 | Let’s Ride | 60.00% | ~1,157 |
 | Dead or Alive | 56.00% | ~1,080 |
 | Welcome to the Weird West | 56.00% | ~1,080 |
-| Full House | 37.00% | ~713 |
+| Full House | 37.00% | ~714 |
 | Off the Trail | 34.00% | ~656 |
 | Justice Served | 29.00% | ~559 |
-| Chain Reaction | 26.00% | ~501 |
-| Through Their Eyes | 26.00% | ~501 |
+| Chain Reaction | 26.00% | ~502 |
+| Through Their Eyes | 26.00% | ~502 |
 | Dishonored | 25.00% | ~482 |
 | Rain of Death | 25.00% | ~482 |
 | Scholar | 25.00% | ~482 |
-| The Great Escape | 23.00% | ~443 |
+| The Great Escape | 23.00% | ~444 |
 | That’s All, Folks | 18.00% | ~347 |
-| Fallen Star | 16.00% | ~308 |
-| Here Comes Santa Claus | 16.00% | ~308 |
-| Winds of War | 16.00% | ~308 |
+| Fallen Star | 16.00% | ~309 |
+| Here Comes Santa Claus | 16.00% | ~309 |
+| Winds of War | 16.00% | ~309 |
 | For Balance | 15.00% | ~289 |
 | Dog Days | 13.00% | ~251 |
 | Out on the Ebb Tide | 13.00% | ~251 |
@@ -53,14 +53,14 @@ Number of Ratings: 125  (23.09.2022)
 | 'Ma Barker | 2.00% | ~39 |
 | I Kicked a Bird and I Liked it | 1.00% | ~19 |
 | Hog Wild | 1.00% | ~19 |
-| End the world | 0.70% | ~13 |
+| End the world | 0.70% | ~14 |
 | Explorer | 0.60% | ~12 |
 | Moon Hunter | 0.60% | ~12 |
 | Dirt and Blame | 0.50% | ~10 |
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,928 (Ranked 213)  
+Progressed: 1,929 (Ranked 213)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-22 | 1,916 | 7 |
 | 2023-10-23 | 1,919 | 7 |
 | 2023-10-24 | 1,926 | 7 |
-| 2023-10-25 | 1,928 | 7 |
+| 2023-10-25 | 1,929 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

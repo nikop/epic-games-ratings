@@ -22,6 +22,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.40% | ~90 |
 | Bushido and Chill | 0.30% | ~2,681 |
 | Gun Fu | 0.30% | ~2,681 |
+| I Am The Law | 0.30% | ~2,681 |
 | Mean Streets | 0.30% | ~2,681 |
 | The Quick and the Dead | 0.30% | ~2,681 |
 | Breathtaking | 0.30% | ~2,681 |
@@ -37,10 +38,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | Master Crafter | 0.20% | ~1,788 |
-| I Am The Law | 0.20% | ~1,788 |
 | Christmas Tree Attack | 0.20% | ~1,788 |
 | Temperance | 0.20% | ~1,788 |
 | The Fool | 0.20% | ~1,788 |
+| Judgement Day | 0.20% | ~45 |
 | King of Wands | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
@@ -56,7 +57,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~22 |
 | Relic Ruler | 0.10% | ~22 |
-| Judgement Day | 0.10% | ~22 |
 | King of Cups | 0.10% | ~22 |
 | King of Pentacles | 0.10% | ~22 |
 | King of Swords | 0.10% | ~22 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,754 (Ranked 15)  
+Progressed: 893,763 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,17 +260,17 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,754 | 2,713 |
+| 2023-10-25 | 893,763 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
-Sum: 325,239 (Ranked 10)  
+Sum: 325,410 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 101,212 |
 | This game has Great Boss Battles | 72,224 |
 | This game is Great for Beginners | 18,688 |
-| This game has Diverse Characters | 18,341 |
+| This game has Diverse Characters | 18,512 |
 | This game is Highly Recommended | 17,719 |
 | This game has Amazing Storytelling | 17,599 |
 | This game is Extremely Fun | 17,474 |
@@ -560,4 +560,4 @@ Diff (max vs sum): -1
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
-| 2023-10-25 | 4.64 | - | 101,212 | 325,239 |
+| 2023-10-25 | 4.64 | - | 101,212 | 325,410 |

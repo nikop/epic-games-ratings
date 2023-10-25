@@ -615,9 +615,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -799,9 +799,9 @@
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Epic_Times_100",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:10:04.1245834+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:09:33.1381833+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:09.5421135+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:59:08.0777261+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:10:04.1246192+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:58:55.6776593+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:09:33.1382383+00:00"
 }

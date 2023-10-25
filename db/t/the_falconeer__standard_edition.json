@@ -4,7 +4,7 @@
   "ProductSlug": "the-falconeer",
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-05T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.476237+00:00",
   "LastChanged": "2023-03-31T05:57:27.4762371+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:33.6948394+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:03:23.6657936+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:05:23.0497974+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:03:16.1359511+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:05:04.1967414+00:00"
 }

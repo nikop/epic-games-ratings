@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1928,
+  "EOS_Progressed": 1929,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2409,6 +2409,11 @@
       "Time": "2023-10-25T10:03:37.3535644+00:00",
       "NumProgressed": 1928,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-25T15:04:10.9355279+00:00",
+      "NumProgressed": 1929,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2420,7 +2425,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2484,7 +2489,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2500,7 +2505,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2540,7 +2545,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2548,7 +2553,7 @@
       "Name": "End the world",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_I_KICKED_A_BIRD_AND_I_LIKED_IT",
@@ -2668,7 +2673,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2716,7 +2721,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2748,7 +2753,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2780,7 +2785,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2796,7 +2801,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2828,7 +2833,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -2843,15 +2848,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1928,
+      "Progressed": 1929,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:22.7808769+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:10.9355273+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:57:32.1294073+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:22.7809219+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:57:27.1086619+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:10.9356008+00:00"
 }

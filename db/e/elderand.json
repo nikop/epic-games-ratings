@@ -4,7 +4,7 @@
   "ProductSlug": "elderand-09e6bc",
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-16T18:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.5288338+00:00",
   "LastChanged": "2023-03-31T05:57:20.5288339+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.6544553+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:58:05.8976165+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:07:29.13731+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:58:01.0889412+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:06:56.2348217+00:00"
 }

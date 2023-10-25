@@ -3,7 +3,7 @@
   "Name": "The House of Da Vinci",
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_Completed": 36,
   "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.21,
+  "EOS_Completed_Percentage": 10.18,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1564,6 +1564,11 @@
       "Time": "2023-10-20T11:05:39.4320922+00:00",
       "NumProgressed": 333,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-25T15:04:20.4276209+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 6,
@@ -1589,9 +1594,9 @@
       "ID": "CgkIgaGB2J0LEAIQAg",
       "SetID": "4ocea6d",
       "Name": "Viola Organista",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 165,
-      "UsersEstimate": 173
+      "UsersEstimate": 170
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1599,7 +1604,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1622,14 +1627,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 34
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:33.612922+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:20.4276203+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.4578447+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:00:58.1065936+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:33.6129362+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:00:35.3748595+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:20.4276404+00:00"
 }

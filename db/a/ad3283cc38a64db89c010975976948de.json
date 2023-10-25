@@ -118,9 +118,9 @@
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_060_004",
@@ -166,9 +166,9 @@
       "ID": "LEVEL_135_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 135 pieces",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_135_004",
@@ -206,9 +206,9 @@
       "ID": "LEVEL_240_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 240 pieces",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_240_003",
@@ -294,9 +294,9 @@
       "ID": "LEVEL_540_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 540 pieces",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_540_002",
@@ -349,8 +349,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:31.4604464+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:18.5642805+00:00",
   "LastUpdate_AppInfo": "2023-10-18T22:09:35.7993988+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:00:21.9134636+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:31.4604837+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:00:00.796634+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:18.5643029+00:00"
 }

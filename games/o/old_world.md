@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.40% | ~60 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
+| Persia | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Capturing Cities | 0.30% | ~45 |
 | Ten Crowns | 0.30% | ~45 |
@@ -171,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.20% | ~30 |
 | Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
-| Persia | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Play a Network Game | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,938 (Ranked 140)  
+Progressed: 14,940 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -537,7 +537,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-22 | 14,889 | 5 |
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
-| 2023-10-25 | 14,938 | 5 |
+| 2023-10-25 | 14,940 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

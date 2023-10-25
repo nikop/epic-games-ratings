@@ -602,9 +602,9 @@
       "ID": "5",
       "SetID": "6m1k8ai",
       "Name": "Dont mind the heat",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "6",
@@ -649,8 +649,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:05:13.8521918+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:56.3936221+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.2028457+00:00",
-  "LastUpdate_Ratings": "2023-10-25T13:57:23.9509162+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:05:13.852225+00:00"
+  "LastUpdate_Ratings": "2023-10-25T14:57:19.3862643+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:56.3936691+00:00"
 }

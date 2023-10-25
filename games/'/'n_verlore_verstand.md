@@ -9,7 +9,7 @@
 | Escape the Maze | 55.00% | ~26 |
 | Brace the cold | 43.00% | ~20 |
 | A Long Walk | 40.00% | ~19 |
-| Dont mind the heat | 13.00% | ~6 |
+| Dont mind the heat | 15.00% | ~7 |
 | City of Puzzles | 9.00% | ~4 |
 | This field of danger | 9.00% | ~4 |
 | Labyrinths of the Mind | 9.00% | ~4 |

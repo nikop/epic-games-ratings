@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8152,10 +8152,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14999,
       "NumberOfAwardsMax": 7276
+    },
+    {
+      "Time": "2023-10-25T15:02:10.5822367+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15001,
+      "NumberOfAwardsMax": 7276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14999,
+  "NumberOfAwards": 15001,
   "NumberOfAwardsMax": 7276,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8211,7 +8217,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 972
+      "Count": 974
     },
     {
       "Text": "This game is Relaxing",
@@ -8232,9 +8238,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63898,
+  "EOS_Progressed": 63901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28117,6 +28123,11 @@
       "Time": "2023-10-25T14:09:24.1003051+00:00",
       "NumProgressed": 63898,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T15:08:48.0246471+00:00",
+      "NumProgressed": 63901,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28352,7 +28363,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21086
+      "UsersEstimate": 21087
     },
     {
       "ID": "Lawbringer",
@@ -28360,7 +28371,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24920
+      "UsersEstimate": 24921
     },
     {
       "ID": "Lawmaker",
@@ -28448,7 +28459,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Strike",
@@ -28535,15 +28546,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63898,
+      "Progressed": 63901,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-25T14:02:49.006636+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:09:24.1003046+00:00",
+  "LastChanged": "2023-10-25T15:02:10.5822366+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:08:48.0246463+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:02:49.0066368+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:09:24.1004291+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:02:10.5822377+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:08:48.0248364+00:00"
 }

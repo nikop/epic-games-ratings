@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
@@ -2064,6 +2064,11 @@
       "Time": "2023-10-25T01:46:26.5167407+00:00",
       "NumProgressed": 583,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-25T15:04:42.7355741+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2076,7 +2081,7 @@
       "Name": "Black Skeleton",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BlueSkeleton",
@@ -2123,14 +2128,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:58.7939545+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:42.7355732+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.3074367+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:00:40.047033+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:58.7939699+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:00:19.9775953+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:42.7356019+00:00"
 }

@@ -14052,10 +14052,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 325239,
       "NumberOfAwardsMax": 101212
+    },
+    {
+      "Time": "2023-10-25T15:01:26.3805363+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 325410,
+      "NumberOfAwardsMax": 101212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 325239,
+  "NumberOfAwards": 325410,
   "NumberOfAwardsMax": 101212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14075,7 +14081,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 18341
+      "Count": 18512
     },
     {
       "Text": "This game is Relaxing",
@@ -14132,10 +14138,10 @@
       "Count": 11460
     }
   ],
-  "EOS_Progressed": 893754,
+  "EOS_Progressed": 893763,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1211,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 1205,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35447,6 +35453,11 @@
       "Time": "2023-10-25T14:08:24.867347+00:00",
       "NumProgressed": 893754,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-25T15:07:45.6308081+00:00",
+      "NumProgressed": 893763,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35553,9 +35564,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1788
+      "UsersEstimate": 2681
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -35921,9 +35932,9 @@
       "ID": "HydraIsDead",
       "SetID": "23nboa5",
       "Name": "Judgement Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     },
     {
       "ID": "IHateSpider",
@@ -35978,21 +35989,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893754,
+      "Progressed": 893763,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22377,
+      "Progressed": 22386,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-25T11:00:50.1930404+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:08:24.8673465+00:00",
+  "LastChanged": "2023-10-25T15:01:26.3805361+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:07:45.6308074+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:01:55.1422692+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:08:24.8674832+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:01:26.3805367+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:07:45.6310592+00:00"
 }

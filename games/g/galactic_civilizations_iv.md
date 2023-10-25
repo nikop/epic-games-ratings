@@ -6,25 +6,25 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,518 |
-| Worker Specialization | 77.00% | ~5,448 |
-| First Contact | 72.00% | ~5,094 |
-| Win a Battle | 66.00% | ~4,670 |
-| Anomaly Researcher | 61.00% | ~4,316 |
-| Unleash My Power | 61.00% | ~4,316 |
+| Colonize a Planet | 78.00% | ~5,520 |
+| Worker Specialization | 77.00% | ~5,449 |
+| First Contact | 72.00% | ~5,095 |
+| Win a Battle | 65.00% | ~4,600 |
+| Anomaly Researcher | 61.00% | ~4,317 |
+| Unleash My Power | 61.00% | ~4,317 |
 | Own 30 Planets | 33.00% | ~2,335 |
-| Xenocide | 31.00% | ~2,193 |
-| Design a Civilization | 31.00% | ~2,193 |
-| Commodity Trader | 30.00% | ~2,122 |
-| Design a Ship | 28.00% | ~1,981 |
+| Xenocide | 31.00% | ~2,194 |
+| Design a Civilization | 31.00% | ~2,194 |
+| Commodity Trader | 30.00% | ~2,123 |
+| Design a Ship | 27.00% | ~1,911 |
 | Commodity Seller | 24.00% | ~1,698 |
 | Prestige Victory! | 14.00% | ~991 |
 | Galactic War | 10.00% | ~708 |
 | Trading Partner | 9.00% | ~637 |
 | Fleet Victory | 8.00% | ~566 |
 | Win as Terrans | 7.00% | ~495 |
-| Gain an Ally | 6.00% | ~424 |
-| Win with a Custom Faction | 6.00% | ~424 |
+| Gain an Ally | 6.00% | ~425 |
+| Win with a Custom Faction | 6.00% | ~425 |
 | War with the Unknown | 5.00% | ~354 |
 | Conquest Victory! | 4.00% | ~283 |
 | Win Quickly | 4.00% | ~283 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,075 (Ranked 166)  
+Progressed: 7,077 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-22 | 7,013 | 0 |
 | 2023-10-23 | 7,044 | 0 |
 | 2023-10-24 | 7,064 | 0 |
-| 2023-10-25 | 7,075 | 0 |
+| 2023-10-25 | 7,077 | 0 |
 ## Awards
 Max (Diverse Characters): 94  (Ranked 361)  
 Sum: 681 (Ranked 291)  

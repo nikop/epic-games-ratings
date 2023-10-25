@@ -180,9 +180,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -292,9 +292,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -324,25 +324,25 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -428,9 +428,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 43,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -467,8 +467,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:07:54.712917+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:07:18.7156994+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:02:05.9606735+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:07:54.7129438+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:01:35.6714224+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:07:18.7157406+00:00"
 }

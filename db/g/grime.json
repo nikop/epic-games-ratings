@@ -1225,9 +1225,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154555,
+  "EOS_Progressed": 154564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1599,
+  "EOS_NewPlayers": 1598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13000,6 +13000,11 @@
       "Time": "2023-10-25T14:04:56.1356863+00:00",
       "NumProgressed": 154555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T15:04:40.2942211+00:00",
+      "NumProgressed": 154564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13187,7 +13192,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -13275,7 +13280,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13378,21 +13383,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154138,
+      "Progressed": 154147,
       "Completed": 1174
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154555,
+      "Progressed": 154564,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-25T11:00:32.7080394+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:56.1356857+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:40.2942205+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:01:33.1839077+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:56.1357735+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:01:11.1739227+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:40.2943604+00:00"
 }

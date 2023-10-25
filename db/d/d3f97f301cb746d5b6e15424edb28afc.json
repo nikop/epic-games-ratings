@@ -806,9 +806,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -830,9 +830,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -990,9 +990,9 @@
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -1006,9 +1006,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -1062,17 +1062,17 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1110,25 +1110,25 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -1142,9 +1142,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -1206,9 +1206,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -1262,9 +1262,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-25T14:04:18.9710111+00:00",
+  "LastChanged_Achievements": "2023-10-25T15:04:07.575975+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-25T14:01:07.2283685+00:00",
-  "LastUpdate_Achievements": "2023-10-25T14:04:18.9713869+00:00"
+  "LastUpdate_Ratings": "2023-10-25T15:00:43.3233155+00:00",
+  "LastUpdate_Achievements": "2023-10-25T15:04:07.5760952+00:00"
 }
