@@ -2,10 +2,10 @@
   "ID": "45afbaa716ec4c8c8cc218fe9037c86a",
   "Name": "Oli One: Sneak In",
   "ProductSlug": "oli-one-sneak-in-98322c",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-16T22:00:00+00:00",
     "PcReleaseDate": "2023-03-09T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.5646573+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:58:30.4328618+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:24.1614371+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:58:34.7381082+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:18.0616287+00:00"
 }

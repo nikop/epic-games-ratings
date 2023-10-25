@@ -2,10 +2,10 @@
   "ID": "4057468aee2a495ab81771b1c4d61a5c",
   "Name": "Harvest Island",
   "ProductSlug": "harvest-island-1598e2",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-10T17:00:00+00:00",
     "PcReleaseDate": "2023-10-10T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T04:57:04.299354+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:59:10.3341164+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:23.7405033+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:59:16.1239639+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:17.6069224+00:00"
 }

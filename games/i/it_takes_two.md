@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~14,072 |
-| Fried Friendship | 87.00% | ~13,912 |
-| Look At Him Go | 79.00% | ~12,633 |
-| On Rails Experience | 57.00% | ~9,115 |
-| A Daring Devil | 53.00% | ~8,475 |
-| Break the Bank | 43.00% | ~6,876 |
-| It Took Two | 42.00% | ~6,716 |
-| Bug Sized Relaxation | 21.00% | ~3,358 |
-| Plastic Prison Breakers | 17.00% | ~2,718 |
+| Struck A Pose | 88.00% | ~14,074 |
+| Fried Friendship | 87.00% | ~13,914 |
+| Look At Him Go | 79.00% | ~12,634 |
+| On Rails Experience | 57.00% | ~9,116 |
+| A Daring Devil | 53.00% | ~8,476 |
+| Break the Bank | 43.00% | ~6,877 |
+| It Took Two | 42.00% | ~6,717 |
+| Bug Sized Relaxation | 21.00% | ~3,359 |
+| Plastic Prison Breakers | 17.00% | ~2,719 |
 | Terror Of The Seven Seas | 16.00% | ~2,559 |
 | Realize Your Art | 12.00% | ~1,919 |
 | Force Triangulated | 12.00% | ~1,919 |
@@ -21,11 +21,11 @@
 | Something Fishy | 11.00% | ~1,759 |
 | Platforming Prodigy | 9.00% | ~1,439 |
 | Snackosaurus | 8.00% | ~1,279 |
-| Mood Swing | 7.00% | ~1,119 |
+| Mood Swing | 7.00% | ~1,120 |
 | Minigame Megalomania | 4.00% | ~640 |
 | Faraway Frequencies | 4.00% | ~640 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,991 (Ranked 137)  
+Progressed: 15,993 (Ranked 137)  
 Completed: 72 (0.45%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 72 (0.45%) (Ranked 194)
 | 2023-10-22 | 15,497 | 68 |
 | 2023-10-23 | 15,675 | 71 |
 | 2023-10-24 | 15,841 | 72 |
-| 2023-10-25 | 15,991 | 72 |
+| 2023-10-25 | 15,993 | 72 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -465,9 +465,9 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 55,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -514,8 +514,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:05:40.7281549+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:05:29.2284346+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:41.3964489+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:57:19.643074+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:05:40.7281687+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:57:24.8634278+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:05:29.2284467+00:00"
 }

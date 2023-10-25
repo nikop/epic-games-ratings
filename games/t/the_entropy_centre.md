@@ -21,10 +21,10 @@
 | Fashionista | 18.00% | ~47 |
 | Kaboom! | 16.00% | ~42 |
 | Looper | 16.00% | ~42 |
+| All Alone | 14.00% | ~37 |
 | Reunited | 14.00% | ~37 |
 | So Close | 13.00% | ~34 |
 | Transformers, cubes in disguise | 13.00% | ~34 |
-| All Alone | 13.00% | ~34 |
 | Cataclysm | 13.00% | ~34 |
 | Final Charge | 12.00% | ~31 |
 | Summer Luvin' | 5.00% | ~13 |

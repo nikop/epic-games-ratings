@@ -11,7 +11,7 @@
 | Runes collector | 46.00% | ~54 |
 | Kind heart | 45.00% | ~53 |
 | Skilled rider | 43.00% | ~50 |
-| Devil's dozen | 26.00% | ~30 |
+| Devil's dozen | 27.00% | ~32 |
 | It doesn't work like that | 22.00% | ~26 |
 | Unstoppable Curiosity | 19.00% | ~22 |
 | This is just the beginning... | 18.00% | ~21 |

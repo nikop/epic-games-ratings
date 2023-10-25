@@ -5,24 +5,24 @@ Rating: 4.56 (Ranked 476)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 89.00% | ~2,401 |
-| I Challenge You To Save More Money! | 84.00% | ~2,266 |
-| I Love How Tough You Are | 67.00% | ~1,808 |
-| Wanna Come To My Place For Dinner? | 57.00% | ~1,538 |
-| What I Want Is You | 52.00% | ~1,403 |
-| To Be Or Not To Be | 48.00% | ~1,295 |
-| Are You Alright? | 42.00% | ~1,133 |
-| Love Actually | 40.00% | ~1,079 |
-| Drama King | 35.00% | ~944 |
-| You're Really Something Else | 30.00% | ~809 |
-| Happy Family | 29.00% | ~782 |
-| ONE PUNCH | 29.00% | ~782 |
-| Go Clean up In Your Own Way | 29.00% | ~782 |
-| Absolutely Elegant | 27.00% | ~728 |
-| FIRST LOVE | 27.00% | ~728 |
-| Drama CP: Reel to Real | 27.00% | ~728 |
-| Worthless Speech | 27.00% | ~728 |
-| Still Single | 26.00% | ~701 |
+| Last Night...Did We... | 89.00% | ~2,405 |
+| I Challenge You To Save More Money! | 84.00% | ~2,270 |
+| I Love How Tough You Are | 67.00% | ~1,810 |
+| Wanna Come To My Place For Dinner? | 57.00% | ~1,540 |
+| What I Want Is You | 52.00% | ~1,405 |
+| To Be Or Not To Be | 48.00% | ~1,297 |
+| Are You Alright? | 42.00% | ~1,135 |
+| Love Actually | 40.00% | ~1,081 |
+| Drama King | 35.00% | ~946 |
+| You're Really Something Else | 30.00% | ~811 |
+| Happy Family | 29.00% | ~784 |
+| ONE PUNCH | 29.00% | ~784 |
+| Go Clean up In Your Own Way | 29.00% | ~784 |
+| Absolutely Elegant | 27.00% | ~730 |
+| FIRST LOVE | 27.00% | ~730 |
+| Drama CP: Reel to Real | 27.00% | ~730 |
+| Worthless Speech | 27.00% | ~730 |
+| Still Single | 26.00% | ~703 |
 | Go Get Some Fries On The Pier | 23.00% | ~621 |
 | David | 21.00% | ~567 |
 | All I Have Is Money | 19.00% | ~513 |
@@ -48,7 +48,7 @@ Rating: 4.56 (Ranked 476)
 | Tall; Grande; Venti | 0.80% | ~22 |
 | Hurrah! | 0.60% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,698 (Ranked 202)  
+Progressed: 2,702 (Ranked 202)  
 Completed: 15 (0.56%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 15 (0.56%) (Ranked 180)
 | 2023-10-22 | 1,613 | 9 |
 | 2023-10-23 | 1,929 | 10 |
 | 2023-10-24 | 2,326 | 13 |
-| 2023-10-25 | 2,698 | 15 |
+| 2023-10-25 | 2,702 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -751,10 +751,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 297,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-10-25T21:01:19.003591+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 297,
+  "NumberOfAwards": 325,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -810,13 +816,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 28
     }
   ],
-  "EOS_Progressed": 64636,
-  "EOS_Completed": 23,
-  "EOS_NewPlayers": 968,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 64642,
+  "EOS_Completed": 24,
+  "EOS_NewPlayers": 962,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -6613,6 +6619,11 @@
       "Time": "2023-10-25T20:10:02.4211089+00:00",
       "NumProgressed": 64636,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-25T21:09:26.5959208+00:00",
+      "NumProgressed": 64642,
+      "NumCompleted": 24
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6625,7 +6636,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20684
+      "UsersEstimate": 20685
     },
     {
       "ID": "10",
@@ -6665,7 +6676,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "15",
@@ -6689,7 +6700,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10988
+      "UsersEstimate": 10989
     },
     {
       "ID": "3",
@@ -6721,7 +6732,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "7",
@@ -6752,16 +6763,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64636,
-      "Completed": 23
+      "Progressed": 64642,
+      "Completed": 24
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-25T12:00:36.9585272+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:10:02.421108+00:00",
+  "LastChanged": "2023-10-25T21:01:19.0035908+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:09:26.5959203+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:01:09.9809196+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:10:02.4212134+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:01:19.0035913+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:09:26.595958+00:00"
 }

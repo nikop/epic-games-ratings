@@ -2,10 +2,10 @@
   "ID": "e03870d88a6f42c5944fc7280f7c4a63",
   "Name": "Toonstruck",
   "ProductSlug": "toonstruck-8c8f1e",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-05T16:00:00+00:00",
     "PcReleaseDate": "2022-08-05T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:37.2066962+00:00",
   "LastChanged": "2023-03-31T05:58:37.2066963+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.9032339+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:03:31.8639937+00:00",
-  "LastUpdate_Achievements": "2023-10-25T19:08:26.0342254+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:02:25.0167472+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:03:20.5251685+00:00"
 }

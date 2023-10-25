@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1101,9 +1101,9 @@
       "ID": "ENDING_3",
       "SetID": "8eejhlh",
       "Name": "The Ploy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "ENDING_4",
@@ -1238,8 +1238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:04:11.5865573+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:03:47.1646455+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:58:00.8220763+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:04:11.5865892+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:58:04.5529895+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:03:47.1646615+00:00"
 }

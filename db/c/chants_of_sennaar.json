@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 321,
+  "EOS_Progressed": 322,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.85,
+  "EOS_Completed_Percentage": 6.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1515,6 +1515,11 @@
       "Time": "2023-10-25T12:04:03.3424832+00:00",
       "NumProgressed": 321,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-25T21:04:34.4407784+00:00",
+      "NumProgressed": 322,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1524,9 +1529,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "END_GOOD",
@@ -1540,9 +1545,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1582,7 +1587,7 @@
       "Name": "Free at last",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1614,7 +1619,7 @@
       "Name": "A Link to the Past",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1630,7 +1635,7 @@
       "Name": "Rascal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1694,7 +1699,7 @@
       "Name": "The great escape",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PROGRESS_N3",
@@ -1725,14 +1730,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 321,
+      "Progressed": 322,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:04:47.3799183+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:04:34.4407779+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:57:28.3136123+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:04:47.3799671+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:57:34.5412771+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:04:34.4407988+00:00"
 }

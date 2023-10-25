@@ -10,16 +10,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,144 |
 | Tinkle of Coins | 3.00% | ~4,144 |
 | Titan's First Steps | 3.00% | ~4,144 |
-| One Easy Payment | 2.00% | ~2,762 |
-| Some Assembly Required | 2.00% | ~2,762 |
-| Disintermediation | 2.00% | ~2,762 |
-| Another Satisfied Customer | 2.00% | ~2,762 |
-| It's Free Real Estate | 2.00% | ~2,762 |
-| Pretty Penny | 2.00% | ~2,762 |
-| One-Armed Bandit | 2.00% | ~2,762 |
-| Budding Merchant | 2.00% | ~2,762 |
-| Capitalism Ho! | 2.00% | ~2,762 |
-| Own the Means of Production | 2.00% | ~2,762 |
+| One Easy Payment | 2.00% | ~2,763 |
+| Some Assembly Required | 2.00% | ~2,763 |
+| Disintermediation | 2.00% | ~2,763 |
+| Another Satisfied Customer | 2.00% | ~2,763 |
+| It's Free Real Estate | 2.00% | ~2,763 |
+| Pretty Penny | 2.00% | ~2,763 |
+| One-Armed Bandit | 2.00% | ~2,763 |
+| Budding Merchant | 2.00% | ~2,763 |
+| Through Repetition, Perfection | 2.00% | ~2,763 |
+| Capitalism Ho! | 2.00% | ~2,763 |
+| Own the Means of Production | 2.00% | ~2,763 |
 | The Daily Grind | 1.00% | ~1,381 |
 | On the Path to Greatness | 1.00% | ~1,381 |
 | Ascended | 1.00% | ~1,381 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 1.00% | ~1,381 |
 | Accomplished Merchant | 1.00% | ~1,381 |
 | Dungeon Imports | 1.00% | ~1,381 |
-| Through Repetition, Perfection | 1.00% | ~1,381 |
 | Did we pack lunch? | 1.00% | ~1,381 |
 | Arcane Industries | 1.00% | ~1,381 |
 | Research & Development | 0.90% | ~1,243 |
@@ -101,10 +101,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.50% | ~691 |
 | Jackpot! | 0.50% | ~691 |
 | Economy of Scarce | 0.50% | ~691 |
-| The Free Encyclopedia | 0.40% | ~552 |
-| Thank You Tom Nook | 0.40% | ~552 |
-| Eternal Crusade | 0.40% | ~552 |
-| All Accounted For | 0.40% | ~552 |
+| The Free Encyclopedia | 0.40% | ~553 |
+| Thank You Tom Nook | 0.40% | ~553 |
+| Eternal Crusade | 0.40% | ~553 |
+| All Accounted For | 0.40% | ~553 |
 | The Greatest Grind | 0.30% | ~414 |
 | All or Nothing! | 0.30% | ~414 |
 | Marvels from the World Over | 0.30% | ~414 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,125 (Ranked 75)  
-Completed: 172 (0.12%) (Ranked 250)  
+Progressed: 138,127 (Ranked 75)  
+Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,7 +307,7 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-22 | 138,004 | 171 |
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
-| 2023-10-25 | 138,125 | 172 |
+| 2023-10-25 | 138,127 | 172 |
 ## Awards
 Max (Great for Beginners): 4,800  (Ranked 73)  
 Sum: 27,445 (Ranked 51)  

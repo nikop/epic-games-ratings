@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2354,6 +2354,11 @@
       "Time": "2023-10-25T19:09:24.8305872+00:00",
       "NumProgressed": 839,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T21:08:31.6923204+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2590,7 +2595,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_36",
@@ -2638,7 +2643,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_41",
@@ -2670,7 +2675,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_45",
@@ -2869,13 +2874,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 1
     }
   ],
@@ -2883,8 +2888,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:09:37.5102051+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:08:31.6923199+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:01:13.6800391+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:37.5103099+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:01:25.8230518+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:31.6923828+00:00"
 }

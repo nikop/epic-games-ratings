@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -167,10 +167,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97916,
-  "EOS_Completed": 4201,
-  "EOS_NewPlayers": 2012,
-  "EOS_NewCompleters": 240,
+  "EOS_Progressed": 97930,
+  "EOS_Completed": 4202,
+  "EOS_NewPlayers": 2005,
+  "EOS_NewCompleters": 237,
   "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
     {
@@ -5082,6 +5082,11 @@
       "Time": "2023-10-25T20:09:34.7216945+00:00",
       "NumProgressed": 97916,
       "NumCompleted": 4201
+    },
+    {
+      "Time": "2023-10-25T21:08:28.7432333+00:00",
+      "NumProgressed": 97930,
+      "NumCompleted": 4202
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -5094,7 +5099,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60708
+      "UsersEstimate": 60717
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -5102,7 +5107,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 14687
+      "UsersEstimate": 14690
     },
     {
       "ID": "GoldPact",
@@ -5110,7 +5115,7 @@
       "Name": "Gold Pact",
       "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 16646
+      "UsersEstimate": 16648
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -5126,7 +5131,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 52875
+      "UsersEstimate": 52882
     },
     {
       "ID": "ShipDip",
@@ -5134,7 +5139,7 @@
       "Name": "Ship Dip!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 48958
+      "UsersEstimate": 48965
     },
     {
       "ID": "TheArtOfParley",
@@ -5142,7 +5147,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 73437
+      "UsersEstimate": 73448
     },
     {
       "ID": "TheGoldenRatio",
@@ -5150,7 +5155,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 10771
+      "UsersEstimate": 10772
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -5158,7 +5163,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 56791
+      "UsersEstimate": 56799
     },
     {
       "ID": "WeCanDoBetter",
@@ -5166,7 +5171,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 75395
+      "UsersEstimate": 75406
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -5174,7 +5179,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 76374
+      "UsersEstimate": 76385
     },
     {
       "ID": "WelcomeAboard",
@@ -5182,23 +5187,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 76374
+      "UsersEstimate": 76385
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 97916,
-      "Completed": 4201
+      "Progressed": 97930,
+      "Completed": 4202
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-23T20:00:33.1378953+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:09:34.7216939+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:08:28.743233+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.1265351+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:01:15.2732795+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:34.7217346+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:01:28.9195971+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:28.743266+00:00"
 }

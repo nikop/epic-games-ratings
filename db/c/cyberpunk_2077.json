@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14070,10 +14070,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 325746,
       "NumberOfAwardsMax": 101458
+    },
+    {
+      "Time": "2023-10-25T21:00:47.6984254+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 325873,
+      "NumberOfAwardsMax": 101458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 325746,
+  "NumberOfAwards": 325873,
   "NumberOfAwardsMax": 101458,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14105,7 +14111,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17599
+      "Count": 17720
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14147,12 +14153,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11550
+      "Count": 11556
     }
   ],
-  "EOS_Progressed": 893794,
+  "EOS_Progressed": 893801,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1203,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35495,6 +35501,11 @@
       "Time": "2023-10-25T20:07:09.7158611+00:00",
       "NumProgressed": 893794,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-25T21:06:53.2033561+00:00",
+      "NumProgressed": 893801,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36017,30 +36028,30 @@
       "ID": "TheTower",
       "SetID": "23nboa5",
       "Name": "The Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893794,
+      "Progressed": 893801,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22417,
+      "Progressed": 22424,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-25T20:00:39.5774946+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:07:09.7158605+00:00",
+  "LastChanged": "2023-10-25T21:00:47.6984253+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:06:53.2033556+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:00:39.5774956+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:07:09.7160771+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:00:47.6984258+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:06:53.2034955+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "6583533b1cb942238a213a29a2b80624",
   "Name": "Through the Woods",
   "ProductSlug": "through-the-woods-4dad49",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-28T17:00:00+00:00",
     "PcReleaseDate": "2016-10-26T22:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.4818801+00:00",
   "LastChanged": "2023-03-31T05:57:48.4818802+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.4365608+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:58:20.4867929+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:06:51.4556978+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:58:23.2050425+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:06:44.9546565+00:00"
 }

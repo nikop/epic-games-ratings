@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1639,10 +1639,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3785,
       "NumberOfAwardsMax": 1315
+    },
+    {
+      "Time": "2023-10-25T20:59:10.061151+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3801,
+      "NumberOfAwardsMax": 1315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3785,
+  "NumberOfAwards": 3801,
   "NumberOfAwardsMax": 1315,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1662,7 +1668,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 225
+      "Count": 236
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1704,7 +1710,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 223
+      "Count": 228
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1719,9 +1725,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 8043,
+  "EOS_Progressed": 8044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5709,6 +5715,11 @@
       "Time": "2023-10-25T20:05:41.7870571+00:00",
       "NumProgressed": 8043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-25T21:05:30.2051889+00:00",
+      "NumProgressed": 8044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5729,7 +5740,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ach03",
@@ -5737,7 +5748,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "ach04",
@@ -5761,7 +5772,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "ach07",
@@ -5785,7 +5796,7 @@
       "Name": "Kontender",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "ach10",
@@ -5801,7 +5812,7 @@
       "Name": "Karnage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ach12",
@@ -5849,7 +5860,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "ach18",
@@ -5857,7 +5868,7 @@
       "Name": "Adventure Time",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2895
+      "UsersEstimate": 2896
     },
     {
       "ID": "ach19",
@@ -5905,7 +5916,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3780
+      "UsersEstimate": 3781
     },
     {
       "ID": "ach25",
@@ -5913,7 +5924,7 @@
       "Name": "Talis-Mania",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "ach26",
@@ -5921,7 +5932,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ach27",
@@ -5929,7 +5940,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ach28",
@@ -5937,7 +5948,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ach29",
@@ -5961,7 +5972,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "ach32",
@@ -6017,7 +6028,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "ach39",
@@ -6025,7 +6036,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "ach40",
@@ -6033,7 +6044,7 @@
       "Name": "Found You",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ach41",
@@ -6049,7 +6060,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "ach43",
@@ -6113,23 +6124,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8043,
+      "Progressed": 8044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-25T19:59:02.841458+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:05:41.7870561+00:00",
+  "LastChanged": "2023-10-25T20:59:10.0611509+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:05:30.2051885+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:59:02.8414588+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:05:41.7871747+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:59:10.0611513+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:05:30.20524+00:00"
 }

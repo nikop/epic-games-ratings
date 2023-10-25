@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7239,9 +7239,9 @@
       "Count": 406
     }
   ],
-  "EOS_Progressed": 715939,
+  "EOS_Progressed": 715940,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23884,6 +23884,11 @@
       "Time": "2023-10-25T20:09:20.5097137+00:00",
       "NumProgressed": 715939,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-25T21:08:14.1231473+00:00",
+      "NumProgressed": 715940,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -24253,9 +24258,9 @@
       "ID": "46_Arena_45Challenges",
       "SetID": "14c2oii",
       "Name": "Martial Hub",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 101
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -24374,21 +24379,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25240,
+      "Progressed": 25241,
       "Completed": 10717
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715939,
+      "Progressed": 715940,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-25T17:57:24.1641959+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:09:20.5097128+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:08:14.1231469+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:57:19.4762273+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:20.5099838+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:57:24.4650378+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:14.1232695+00:00"
 }

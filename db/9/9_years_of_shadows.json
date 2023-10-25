@@ -2,10 +2,10 @@
   "ID": "f7756e99b1344b818d77751e76a1f78b",
   "Name": "9 Years of Shadows",
   "ProductSlug": "9-years-of-shadows-a40c92",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-27T16:00:00+00:00",
     "PcReleaseDate": "2023-03-27T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.8810887+00:00",
   "LastChanged": "2023-03-31T05:58:12.8810888+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.2153491+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:57:14.8746011+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:07:22.4037692+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:57:17.8950987+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:07:16.0954147+00:00"
 }

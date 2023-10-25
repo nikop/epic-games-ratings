@@ -43,6 +43,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~1,788 |
 | Judgement Day | 0.20% | ~45 |
 | King of Wands | 0.20% | ~45 |
+| The Tower | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
@@ -60,7 +61,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~22 |
 | King of Pentacles | 0.10% | ~22 |
 | King of Swords | 0.10% | ~22 |
-| The Tower | 0.10% | ~22 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,794 (Ranked 15)  
+Progressed: 893,801 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,10 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,794 | 2,713 |
+| 2023-10-25 | 893,801 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
-Sum: 325,746 (Ranked 10)  
+Sum: 325,873 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -271,13 +271,13 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 72,224 |
 | This game is Great for Beginners | 18,688 |
 | This game has Diverse Characters | 18,512 |
+| This game has Amazing Storytelling | 17,720 |
 | This game is Highly Recommended | 17,719 |
-| This game has Amazing Storytelling | 17,599 |
 | This game is Extremely Fun | 17,474 |
 | This game has Amazing Characters | 17,249 |
 | This game is Relaxing | 16,642 |
 | This game has Quickly Understood Controls | 16,631 |
-| This game has a Creative Community | 11,550 |
+| This game has a Creative Community | 11,556 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -560,4 +560,4 @@ Diff (max vs sum): -1
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
-| 2023-10-25 | 4.64 | - | 101,458 | 325,746 |
+| 2023-10-25 | 4.64 | - | 101,458 | 325,873 |

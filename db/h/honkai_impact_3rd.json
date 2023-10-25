@@ -5,10 +5,10 @@
   "Ranking_Rating": 576,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 86,
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -7667,10 +7667,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 10677,
       "NumberOfAwardsMax": 2910
+    },
+    {
+      "Time": "2023-10-25T21:01:31.4023975+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 10682,
+      "NumberOfAwardsMax": 2910
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10677,
+  "NumberOfAwards": 10682,
   "NumberOfAwardsMax": 2910,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7756,7 +7762,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 672
+      "Count": 677
     }
   ],
   "EOS_Progressed": 0,
@@ -7771,8 +7777,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-10-25T20:01:17.9247023+00:00",
+  "LastChanged": "2023-10-25T21:01:31.4023974+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:33.3717057+00:00",
-  "LastUpdate_Ratings": "2023-10-25T20:01:17.9247035+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:06:56.986464+00:00"
+  "LastUpdate_Ratings": "2023-10-25T21:01:31.4023979+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:06:50.6015156+00:00"
 }

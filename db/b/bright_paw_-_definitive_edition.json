@@ -2,10 +2,10 @@
   "ID": "340ef732a47e42188463bb7de54f1424",
   "Name": "Bright Paw - Definitive Edition",
   "ProductSlug": "bright-paw-definitive-edition-cbe813",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-07-28T07:00:00+00:00",
@@ -51,8 +51,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.0087147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.6163216+00:00",
   "LastChanged": "2023-03-31T05:58:31.0087148+00:00",
-  "LastChanged_Achievements": "2023-10-25T20:09:24.6495431+00:00",
+  "LastChanged_Achievements": "2023-10-25T21:08:18.5204251+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:33.5277059+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:57:38.3149642+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:09:24.6495463+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:57:42.4761874+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:08:18.5204263+00:00"
 }

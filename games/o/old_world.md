@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 304)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
+| Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
@@ -104,8 +105,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
+| Military Prestige | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
-| Legalism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
 | Legionary | 0.70% | ~105 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
-| Military Prestige | 0.60% | ~90 |
 | Dualism | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |

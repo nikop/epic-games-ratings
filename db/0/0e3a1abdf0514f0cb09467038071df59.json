@@ -2,10 +2,10 @@
   "ID": "0e3a1abdf0514f0cb09467038071df59",
   "Name": "Apeiron",
   "ProductSlug": "apeiron-b83793",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-27T10:00:00+00:00",
     "PcReleaseDate": "2023-06-27T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-27T15:57:08.6160015+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:55.5286588+00:00",
-  "LastUpdate_Ratings": "2023-10-25T19:58:55.832224+00:00",
-  "LastUpdate_Achievements": "2023-10-25T20:05:26.4116087+00:00"
+  "LastUpdate_Ratings": "2023-10-25T20:59:00.9731623+00:00",
+  "LastUpdate_Achievements": "2023-10-25T21:05:14.8412413+00:00"
 }
