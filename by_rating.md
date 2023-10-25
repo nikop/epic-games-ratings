@@ -123,7 +123,7 @@
 | 119 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 539 |
 | 119 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,367 | 92 |
 | 119 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,026 | 148 |
-| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 995 | 151 |
+| 119 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 995 | 152 |
 | 119 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,763 | 17 |
 | 119 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,863 | 72 |
 | 119 | [Journey](games/j/journey.md) | 4.76 | 0 | 539 |
@@ -182,6 +182,7 @@
 | 179 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 510 | 204 |
 | 179 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 145 | 312 |
 | 179 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 447 |
+| 179 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 539 |
 | 179 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 247 | 264 |
 | 179 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 77 | 382 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.72 | 130 | 319 |
@@ -189,23 +190,22 @@
 | 179 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 339 | 235 |
 | 179 | [The Red Lantern](games/t/the_red_lantern.md) | 4.72 | 0 | 539 |
 | 179 | [Timberborn](games/t/timberborn.md) | 4.72 | 141 | 313 |
-| 190 | [Cave Story+](games/c/cave_story+.md) | 4.71 | 111 | 337 |
-| 190 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 462 |
-| 190 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 539 |
-| 190 | [GoNNER](games/g/gonner.md) | 4.71 | 0 | 539 |
-| 190 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 52 | 414 |
-| 190 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,543 | 50 |
-| 190 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 482 |
-| 190 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 539 |
-| 190 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 539 |
-| 190 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 539 |
-| 190 | [shapez](games/s/shapez.md) | 4.71 | 0 | 539 |
-| 190 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 83 | 373 |
-| 190 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 539 |
-| 190 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 539 |
-| 190 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,031 | 109 |
-| 190 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 539 |
-| 190 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 539 |
+| 191 | [Cave Story+](games/c/cave_story+.md) | 4.71 | 111 | 337 |
+| 191 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 462 |
+| 191 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 539 |
+| 191 | [GoNNER](games/g/gonner.md) | 4.71 | 0 | 539 |
+| 191 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 52 | 414 |
+| 191 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,543 | 50 |
+| 191 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 482 |
+| 191 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 539 |
+| 191 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 539 |
+| 191 | [shapez](games/s/shapez.md) | 4.71 | 0 | 539 |
+| 191 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 83 | 373 |
+| 191 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 539 |
+| 191 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 539 |
+| 191 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,031 | 109 |
+| 191 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 539 |
+| 191 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 539 |
 | 207 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,594 | 78 |
 | 207 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 106 | 342 |
 | 207 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 432 | 216 |
@@ -240,7 +240,7 @@
 | 224 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 539 |
 | 224 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 539 |
 | 224 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 442 |
-| 224 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,009 | 150 |
+| 224 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,009 | 151 |
 | 242 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,373 | 91 |
 | 242 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,732 | 88 |
 | 242 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 539 |
@@ -248,7 +248,7 @@
 | 242 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 539 |
 | 242 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 539 |
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,471 | 51 |
-| 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,993 | 84 |
+| 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,997 | 84 |
 | 242 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 0 | 539 |
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,996 | 71 |
 | 242 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 695 | 181 |
@@ -544,7 +544,7 @@
 | 541 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 539 |
 | 541 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 22 | 521 |
 | 541 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 539 |
-| 541 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 993 | 152 |
+| 541 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 1,020 | 149 |
 | 541 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.52 | 0 | 539 |
 | 541 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 105 | 343 |
 | 541 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 126 | 323 |
@@ -874,7 +874,7 @@
 | 865 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 539 |
 | 873 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 539 |
 | 873 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 185 | 286 |
-| 873 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 149 |
+| 873 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 150 |
 | 873 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 539 |
 | 873 | [Out of Line](games/o/out_of_line.md) | 4.23 | 0 | 539 |
 | 873 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 539 |
@@ -939,10 +939,10 @@
 | 936 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 21 | 528 |
 | 936 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 539 |
 | 939 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 532 |
-| 939 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.12 | 0 | 539 |
 | 939 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.12 | 0 | 539 |
-| 942 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 539 |
-| 942 | [Model Builder](games/m/model_builder.md) | 4.11 | 0 | 539 |
+| 941 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 539 |
+| 941 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.11 | 0 | 539 |
+| 941 | [Model Builder](games/m/model_builder.md) | 4.11 | 0 | 539 |
 | 944 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 93 | 362 |
 | 944 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 0 | 539 |
 | 944 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |

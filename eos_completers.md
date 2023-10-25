@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.20% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.03% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.80% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.79% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -51,7 +51,7 @@
 | 49 | [Sonic Origins](games/s/sonic_origins.md) | 7.48% |
 | 50 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.22% |
 | 51 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 52 | [Scorn](games/s/scorn.md) | 6.97% |
+| 52 | [Scorn](games/s/scorn.md) | 7.01% |
 | 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.88% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 55 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -230,8 +230,8 @@
 | 225 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.22% |
 | 229 | [Blanc](games/b/blanc.md) | 0.21% |
 | 229 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 229 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
-| 232 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 231 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.20% |
+| 231 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 233 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 233 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
 | 233 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
