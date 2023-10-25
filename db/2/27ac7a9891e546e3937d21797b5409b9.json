@@ -4,7 +4,7 @@
   "ProductSlug": "remore-infested-kingdom-d1a6b5",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,123 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-25T06:07:02.4173021+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH01_Clear_Monastery",
+      "SetID": "8cb5h5l",
+      "Name": "For Whom the Bell Tolls",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH02_Clear_ManorHouse",
+      "SetID": "8cb5h5l",
+      "Name": "Vengeance for the Stag Lord",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH03_Kill_Blister_Collision",
+      "SetID": "8cb5h5l",
+      "Name": "KABOOM!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH04_Kill_FullHP_OneShot",
+      "SetID": "8cb5h5l",
+      "Name": "EAAAAAAAAAZY",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH05_Kill_Skulker_WithStun",
+      "SetID": "8cb5h5l",
+      "Name": "Don\u0027t Move!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH06_Clear_ManorHouse_NoDamage",
+      "SetID": "8cb5h5l",
+      "Name": "Nature Born Strategist",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH07_Clear_ManorHouse_IronWill",
+      "SetID": "8cb5h5l",
+      "Name": "Succeeding the Stag Lord",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH08_Max_Collision_Damage",
+      "SetID": "8cb5h5l",
+      "Name": "Let the Pain Speak to Me...",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH09_Max_Bleed_SyncKillCount",
+      "SetID": "8cb5h5l",
+      "Name": "You\u0027re Already Dead.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH10_Max_ExecuteCount_Cultist_OneStage",
+      "SetID": "8cb5h5l",
+      "Name": "Crime and Punishment",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH11_MultiAttack_OneCharectorOneTurn",
+      "SetID": "8cb5h5l",
+      "Name": "You Didn\u0027t See That Coming?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH12_Trader_Buy_AllStuff",
+      "SetID": "8cb5h5l",
+      "Name": "Good Trade, Great Trade",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH13_Dead_On_Tutorial",
+      "SetID": "8cb5h5l",
+      "Name": "You are Not Prepared!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH14_Clear_Stage_WithComa",
+      "SetID": "8cb5h5l",
+      "Name": "I am Immortal!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8cb5h5l",
@@ -40,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T08:05:36.9140718+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:07:00.3967693+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:07:02.4172998+00:00",
   "LastUpdate_AppInfo": "2023-10-20T09:57:15.4579107+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:01:32.0132668+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:07:00.3967732+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:01:19.2413903+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:07:02.4659222+00:00"
 }

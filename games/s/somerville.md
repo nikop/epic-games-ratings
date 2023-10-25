@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 889)  
+Rating: 4.20 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,7 +17,7 @@ Rating: 4.20 (Ranked 889)
 | Blues Jam | 0.20% | ~3 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,646 (Ranked 219)  
+Progressed: 1,646 (Ranked 220)  
 Completed: 28 (1.70%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |

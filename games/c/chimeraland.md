@@ -1,7 +1,7 @@
 # Chimeraland
 [Store](https://store.epicgames.com/en-US/p/chimeraland)  
 [View Rawdata](../../db/c/chimeraland.json)  
-Rating: 3.90 (Ranked 999)  
+Rating: 3.90 (Ranked 1,000)  
 ## Awards
 Max (Character Customization): 28  (Ranked 492)  
 Sum: 28 (Ranked 504)  

@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.60% | ~5,362 |
+| Ten out of Ten | 0.70% | ~6,256 |
 | Rough Landing | 0.50% | ~4,469 |
 | The High Priestess | 0.50% | ~4,469 |
 | Full Body Conversion | 0.40% | ~3,575 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,710 (Ranked 15)  
+Progressed: 893,712 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,11 +260,11 @@ Completed: 2,713 (0.30%) (Ranked 212)
 | 2023-10-22 | 893,395 | 2,700 |
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
-| 2023-10-25 | 893,710 | 2,713 |
+| 2023-10-25 | 893,712 | 2,713 |
 ## Awards
 Max (Character Customization): 101,212  (Ranked 9)  
-Sum: 324,795 (Ranked 11)  
-Diff (max vs sum): -2  
+Sum: 324,906 (Ranked 10)  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 101,212 |
@@ -275,8 +275,8 @@ Diff (max vs sum): -2
 | This game has Amazing Storytelling | 17,599 |
 | This game is Extremely Fun | 17,328 |
 | This game has Amazing Characters | 17,249 |
+| This game is Relaxing | 16,642 |
 | This game has Quickly Understood Controls | 16,631 |
-| This game is Relaxing | 16,531 |
 | This game has a Creative Community | 11,460 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -560,4 +560,4 @@ Diff (max vs sum): -2
 | 2023-10-22 | 4.64 | - | 100,696 | 320,377 |
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
-| 2023-10-25 | 4.64 | - | 101,212 | 324,795 |
+| 2023-10-25 | 4.64 | - | 101,212 | 324,906 |

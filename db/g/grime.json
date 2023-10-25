@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154500,
+  "EOS_Progressed": 154503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1590,
+  "EOS_NewPlayers": 1589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12949,6 +12949,11 @@
       "Time": "2023-10-25T05:04:17.5436611+00:00",
       "NumProgressed": 154500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T06:04:17.4200091+00:00",
+      "NumProgressed": 154503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -12960,7 +12965,7 @@
       "Name": "Spiral Heart",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACQUIRE_ALLHUNTPOINTS",
@@ -12976,7 +12981,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -12984,7 +12989,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -12992,7 +12997,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -13072,7 +13077,7 @@
       "Name": "Glare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -13120,7 +13125,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -13184,7 +13189,7 @@
       "Name": "Predator",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -13200,7 +13205,7 @@
       "Name": "Weakness",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -13264,7 +13269,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "QUEST_KIN",
@@ -13327,21 +13332,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154083,
+      "Progressed": 154086,
       "Completed": 1172
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154500,
+      "Progressed": 154503,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:04:17.5436605+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:04:17.4200085+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:01:14.6713676+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:04:17.5437929+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:01:04.1059351+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:04:17.4201239+00:00"
 }

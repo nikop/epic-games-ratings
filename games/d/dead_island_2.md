@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,176 |
+| Welcome To Hell-A | 5.00% | ~35,177 |
 | Git Gutte! | 4.00% | ~28,141 |
 | Break A Leg | 4.00% | ~28,141 |
 | Coup de Grâce | 4.00% | ~28,141 |
@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 516)
 | A Patton Emerges | 3.00% | ~21,106 |
 | Stacking the Deck | 3.00% | ~21,106 |
 | This is My Weapon | 3.00% | ~21,106 |
-| Making Your Mark | 2.00% | ~14,070 |
-| Anger Management | 2.00% | ~14,070 |
-| Perks of the Job | 2.00% | ~14,070 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,070 |
-| Ooh, Shiny! | 2.00% | ~14,070 |
-| Humanity Distilled | 2.00% | ~14,070 |
-| I Am the Resurrection | 2.00% | ~14,070 |
-| Down with the Sickness | 2.00% | ~14,070 |
-| Our True Nature | 2.00% | ~14,070 |
+| Making Your Mark | 2.00% | ~14,071 |
+| Anger Management | 2.00% | ~14,071 |
+| Perks of the Job | 2.00% | ~14,071 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,071 |
+| Ooh, Shiny! | 2.00% | ~14,071 |
+| Humanity Distilled | 2.00% | ~14,071 |
+| I Am the Resurrection | 2.00% | ~14,071 |
+| Down with the Sickness | 2.00% | ~14,071 |
+| Our True Nature | 2.00% | ~14,071 |
 | Smorgasbord | 1.00% | ~7,035 |
 | Jumbo Keyring | 1.00% | ~7,035 |
 | Max Headroom | 1.00% | ~7,035 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,518 (Ranked 22)  
+Progressed: 703,531 (Ranked 22)  
 Completed: 2,259 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 2,259 (0.32%) (Ranked 208)
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
-| 2023-10-25 | 703,518 | 2,259 |
+| 2023-10-25 | 703,531 | 2,259 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
 Sum: 9,912 (Ranked 91)  

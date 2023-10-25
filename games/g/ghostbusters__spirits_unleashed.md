@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,102 |
+| Stylish | 4.00% | ~1,103 |
 | Advancement | 3.00% | ~827 |
 | Discovery | 3.00% | ~827 |
 | Meticulously Efficient | 3.00% | ~827 |
@@ -38,10 +38,10 @@ Rating: 4.50 (Ranked 576)
 | Terrifying | 1.00% | ~276 |
 | Welcome to the Crew | 1.00% | ~276 |
 | Tobin's Prodigy | 0.90% | ~248 |
-| Collector | 0.80% | ~220 |
-| Diabolical | 0.80% | ~220 |
-| Escape Artist | 0.80% | ~220 |
-| Reckless | 0.70% | ~193 |
+| Collector | 0.80% | ~221 |
+| Diabolical | 0.80% | ~221 |
+| Escape Artist | 0.80% | ~221 |
+| Reckless | 0.80% | ~221 |
 | Rivalry | 0.70% | ~193 |
 | Fragile Panes | 0.50% | ~138 |
 | Liability | 0.50% | ~138 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,559 (Ranked 120)  
+Progressed: 27,564 (Ranked 120)  
 Completed: 64 (0.23%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,15 +245,15 @@ Completed: 64 (0.23%) (Ranked 223)
 | 2023-10-22 | 27,176 | 62 |
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
-| 2023-10-25 | 27,559 | 64 |
+| 2023-10-25 | 27,564 | 64 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
-Sum: 2,534 (Ranked 183)  
+Sum: 2,537 (Ranked 183)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 281 |
-| This game is Great for Quick Sessions | 275 |
+| This game is Great for Quick Sessions | 278 |
 | This game has Amazing Storytelling | 255 |
 | This game has Diverse Characters | 254 |
 | This game is Relaxing | 251 |
@@ -458,4 +458,4 @@ Diff (max vs sum): 69
 | 2023-10-22 | 4.50 | 275 | 2,482 |
 | 2023-10-23 | 4.50 | 275 | 2,507 |
 | 2023-10-24 | 4.50 | 281 | 2,525 |
-| 2023-10-25 | 4.50 | 281 | 2,534 |
+| 2023-10-25 | 4.50 | 281 | 2,537 |

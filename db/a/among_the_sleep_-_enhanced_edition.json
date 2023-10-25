@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 819,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 85,
@@ -484,7 +484,7 @@
   "Tags": [],
   "EOS_Progressed": 90044,
   "EOS_Completed": 405,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -21374,8 +21374,8 @@
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:04:40.8749684+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:04:40.9837867+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.8590443+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:58:58.4226058+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:04:40.8751316+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:58:46.8804318+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:04:40.983938+00:00"
 }

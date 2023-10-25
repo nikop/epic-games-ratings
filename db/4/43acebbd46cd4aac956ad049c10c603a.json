@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:07:01.3016533+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:07:03.323648+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.5453683+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:00:10.6566232+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:07:01.3016581+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:59:59.0917137+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:07:03.3236515+00:00"
 }

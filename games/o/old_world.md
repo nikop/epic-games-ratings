@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
+| Kmt Unified | 0.60% | ~90 |
 | Devout | 0.50% | ~75 |
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Poetic Leader | 0.50% | ~75 |
-| Kmt Unified | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |

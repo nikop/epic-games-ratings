@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 830,
+  "EOS_Progressed": 831,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2324,6 +2324,11 @@
       "Time": "2023-10-25T02:24:29.7940171+00:00",
       "NumProgressed": 830,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T06:09:19.4581261+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2432,7 +2437,7 @@
       "Name": "Collector",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_21",
@@ -2446,9 +2451,9 @@
       "ID": "achievement_22",
       "SetID": "271ol84",
       "Name": "Distinguished",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_23",
@@ -2536,7 +2541,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_33",
@@ -2560,7 +2565,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "achievement_36",
@@ -2576,7 +2581,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "achievement_38",
@@ -2640,7 +2645,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_45",
@@ -2686,9 +2691,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 141
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_50",
@@ -2776,7 +2781,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_60",
@@ -2839,13 +2844,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 830,
+      "Progressed": 831,
       "Completed": 1
     }
   ],
@@ -2853,8 +2858,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:09:26.2229753+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:09:19.4581255+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:02:16.1926818+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:09:26.2230646+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:02:06.1647969+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:09:19.4582287+00:00"
 }

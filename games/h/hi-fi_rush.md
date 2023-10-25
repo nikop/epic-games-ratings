@@ -12,8 +12,8 @@ Rating: 4.86 (Ranked 28)
 | Who put gears in there? | 13.00% | ~542 |
 | Thanks for the free chip, Peppermint! | 12.00% | ~500 |
 | You got this, Peppermint? | 12.00% | ~500 |
-| Perfect Parry | 11.00% | ~458 |
-| Alright, that felt AWESOME! | 11.00% | ~458 |
+| Perfect Parry | 11.00% | ~459 |
+| Alright, that felt AWESOME! | 11.00% | ~459 |
 | This will cost you big time | 10.00% | ~417 |
 | I play my own way! | 10.00% | ~417 |
 | Z-shielding's got nothing on us! | 10.00% | ~417 |
@@ -21,11 +21,11 @@ Rating: 4.86 (Ranked 28)
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~375 |
 | Kissing the sky! | 9.00% | ~375 |
 | I look cool. But I can look COOLER. | 9.00% | ~375 |
-| The Negotiator | 8.00% | ~333 |
-| Headliner | 8.00% | ~333 |
-| Time to pay up! | 8.00% | ~333 |
-| You must like calling me in, Chai | 8.00% | ~333 |
-| Out in a puff of smoke | 8.00% | ~333 |
+| The Negotiator | 8.00% | ~334 |
+| Headliner | 8.00% | ~334 |
+| Time to pay up! | 8.00% | ~334 |
+| You must like calling me in, Chai | 8.00% | ~334 |
+| Out in a puff of smoke | 8.00% | ~334 |
 | NOW we got a kickass hideout! | 8.00% | ~215 |
 | Who's the boss now? | 7.00% | ~292 |
 | Perfecter Parry-er! | 7.00% | ~292 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,168 (Ranked 182)  
+Progressed: 4,169 (Ranked 182)  
 Completed: 8 (0.19%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 8 (0.19%) (Ranked 233)
 | 2023-10-22 | 4,164 | 8 |
 | 2023-10-23 | 4,165 | 8 |
 | 2023-10-24 | 4,167 | 8 |
-| 2023-10-25 | 4,168 | 8 |
+| 2023-10-25 | 4,169 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~755 |
-| Off to a good start | 68.00% | ~564 |
+| New Recruit | 91.00% | ~756 |
+| Off to a good start | 68.00% | ~565 |
 | Do... or do not. There is no try | 52.00% | ~432 |
-| A good blaster at your side | 34.00% | ~282 |
+| A good blaster at your side | 34.00% | ~283 |
 | Scrap collector | 20.00% | ~166 |
 | I suggest a new strategy | 20.00% | ~166 |
-| All right, I'll give it a try | 18.00% | ~149 |
-| Great shot, kid! | 18.00% | ~149 |
-| Shoot first | 17.00% | ~141 |
+| All right, I'll give it a try | 18.00% | ~150 |
+| Great shot, kid! | 18.00% | ~150 |
 | The power of the Force | 16.00% | ~133 |
 | Together we can rule the galaxy | 16.00% | ~133 |
-| Collector | 15.00% | ~124 |
+| Shoot first | 16.00% | ~133 |
+| Collector | 15.00% | ~125 |
 | Tell Jabba that I've got his money | 11.00% | ~91 |
 | Best star-pilot in the galaxy | 11.00% | ~91 |
 | Survivor | 11.00% | ~91 |
@@ -23,10 +23,10 @@
 | A cunning warrior | 10.00% | ~83 |
 | What's the cargo? | 9.00% | ~75 |
 | "Gonk? Gonk!" | 7.00% | ~58 |
-| Distinguished | 7.00% | ~58 |
 | Impressive. Most impressive. | 7.00% | ~58 |
 | Judge me by my size, do you? | 7.00% | ~58 |
 | Support the troops | 7.00% | ~58 |
+| Distinguished | 6.00% | ~50 |
 | A tremor in the Force | 6.00% | ~50 |
 | Not bad for a little furball | 5.00% | ~42 |
 | Patience you must have | 5.00% | ~42 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 830 (Ranked 252)  
+Progressed: 831 (Ranked 252)  
 Completed: 1 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 1 (0.12%) (Ranked 249)
 | 2023-10-22 | 805 | 1 |
 | 2023-10-23 | 817 | 1 |
 | 2023-10-24 | 827 | 1 |
-| 2023-10-25 | 830 | 1 |
+| 2023-10-25 | 831 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

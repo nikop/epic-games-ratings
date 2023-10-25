@@ -16,9 +16,9 @@ Number of Ratings: 1,331  (23.09.2022)
 | King and Kin | 1.00% | ~234 |
 | Progenitor and Protégé | 1.00% | ~234 |
 | Prequel to the Sequel | 1.00% | ~234 |
+| Pillow Investments | 0.70% | ~164 |
 | For Glory | 0.70% | ~164 |
 | Truly Blessed | 0.60% | ~140 |
-| Pillow Investments | 0.60% | ~140 |
 | Looks Familiar | 0.60% | ~140 |
 | For Justice | 0.50% | ~117 |
 | Good Boy! | 0.50% | ~117 |

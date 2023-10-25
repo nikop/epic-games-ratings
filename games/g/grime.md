@@ -22,11 +22,11 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.70% | ~1,082 |
 | Watcher | 0.70% | ~1,082 |
 | Shapely | 0.60% | ~927 |
-| Glare | 0.60% | ~924 |
-| Assimilation | 0.50% | ~772 |
+| Glare | 0.60% | ~925 |
+| Assimilation | 0.50% | ~773 |
 | Host | 0.50% | ~770 |
-| Celebration | 0.50% | ~772 |
-| Predator | 0.50% | ~772 |
+| Celebration | 0.50% | ~773 |
+| Predator | 0.50% | ~773 |
 | Hunt Down | 0.40% | ~618 |
 | Hush | 0.40% | ~618 |
 | Inevitable | 0.40% | ~618 |
@@ -43,17 +43,17 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 0.20% | ~308 |
 | Listen | 0.20% | ~308 |
 | Proportions | 0.20% | ~309 |
-| Spiral Heart | 0.10% | ~154 |
-| Skinmaker | 0.10% | ~154 |
-| Instruments | 0.10% | ~154 |
-| Weakness | 0.10% | ~154 |
-| Generous | 0.10% | ~154 |
+| Spiral Heart | 0.10% | ~155 |
+| Skinmaker | 0.10% | ~155 |
+| Instruments | 0.10% | ~155 |
+| Weakness | 0.10% | ~155 |
+| Generous | 0.10% | ~155 |
 | The Nightmare | 0.10% | ~154 |
 | Touch of Otherwhere | 0.10% | ~154 |
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,500 (Ranked 73)  
+Progressed: 154,503 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 1 (0.00%) (Ranked 325)
 | 2023-10-22 | 154,057 | 1 |
 | 2023-10-23 | 154,251 | 1 |
 | 2023-10-24 | 154,456 | 1 |
-| 2023-10-25 | 154,500 | 1 |
+| 2023-10-25 | 154,503 | 1 |
 ## Awards
 Max (Highly Recommended): 47  (Ranked 430)  
 Sum: 313 (Ranked 349)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4168,
+  "EOS_Progressed": 4169,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7104,6 +7104,11 @@
       "Time": "2023-10-25T01:46:04.6797075+00:00",
       "NumProgressed": 4168,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T06:03:56.7696816+00:00",
+      "NumProgressed": 4169,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7139,7 +7144,7 @@
       "Name": "The Negotiator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Ach005",
@@ -7147,7 +7152,7 @@
       "Name": "Headliner",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Ach006",
@@ -7155,7 +7160,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Ach007",
@@ -7315,7 +7320,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Ach027",
@@ -7339,7 +7344,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Ach030",
@@ -7355,7 +7360,7 @@
       "Name": "Perfect Parry",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Ach032",
@@ -7491,7 +7496,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Ach049",
@@ -7682,13 +7687,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4168,
+      "Progressed": 4169,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2689,
+      "Progressed": 2690,
       "Completed": 1930
     }
   ],
@@ -7696,8 +7701,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:03:46.8087731+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:03:56.7696811+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:02:35.8887748+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:03:46.8090097+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:02:25.0919135+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:03:56.7698325+00:00"
 }

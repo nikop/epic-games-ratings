@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:08:04.5623993+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:08:07.1600863+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:00:40.7847429+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:08:04.5624426+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:00:31.7429781+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:08:07.1601125+00:00"
 }

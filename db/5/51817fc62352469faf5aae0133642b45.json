@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_EOS_Progress": 700,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-18T09:57:07.9346257+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:01:06.0514952+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:03:42.7947137+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:00:56.5238503+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:03:52.7280694+00:00"
 }

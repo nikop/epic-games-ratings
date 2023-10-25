@@ -6255,9 +6255,9 @@
       "Count": 437
     }
   ],
-  "EOS_Progressed": 187022,
+  "EOS_Progressed": 187026,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2509,
+  "EOS_NewPlayers": 2508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27500,6 +27500,11 @@
       "Time": "2023-10-25T05:09:04.0574217+00:00",
       "NumProgressed": 187022,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-25T06:08:57.3390415+00:00",
+      "NumProgressed": 187026,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27511,7 +27516,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "Achievement_1",
@@ -27599,7 +27604,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "Achievement_6",
@@ -27638,15 +27643,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 187022,
+      "Progressed": 187026,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-25T00:00:57.8042652+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:09:04.0574211+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:08:57.3390408+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:01:41.6341516+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:09:04.0576128+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:01:29.9008049+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:08:57.3391846+00:00"
 }

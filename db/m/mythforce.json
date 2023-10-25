@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4444,
+  "EOS_Progressed": 4446,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8089,6 +8089,11 @@
       "Time": "2023-10-25T05:09:49.2914349+00:00",
       "NumProgressed": 4444,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-25T06:09:42.7752587+00:00",
+      "NumProgressed": 4446,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8101,7 +8106,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8133,7 +8138,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -8189,7 +8194,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8197,7 +8202,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8213,7 +8218,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8269,7 +8274,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8284,15 +8289,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4444,
+      "Progressed": 4446,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:09:49.2914344+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:09:42.7752563+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:02:43.6641877+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:09:49.2914935+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:02:34.200761+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:09:42.7753225+00:00"
 }

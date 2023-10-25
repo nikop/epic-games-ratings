@@ -1,36 +1,36 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 706)  
+Rating: 4.41 (Ranked 707)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,708 |
-| IT MAKES BOOM! | 3.00% | ~7,625 |
-| EXTRA BOOST | 2.00% | ~5,083 |
-| PROTECTED | 2.00% | ~5,083 |
+| ROOKIE | 5.00% | ~12,711 |
+| IT MAKES BOOM! | 3.00% | ~7,626 |
+| EXTRA BOOST | 2.00% | ~5,084 |
+| PROTECTED | 2.00% | ~5,084 |
 | HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,542 |
 | AGGRESSIVE RACER | 1.00% | ~2,542 |
 | PRO | 1.00% | ~2,542 |
-| A TIGER'S FEAR | 0.90% | ~2,287 |
+| A TIGER'S FEAR | 0.90% | ~2,288 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,271 |
 | ACE SPEEDSTER | 0.50% | ~1,271 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,017 |
-| TRAINING HARD | 0.30% | ~762 |
-| RELEASE THE KRAKEN | 0.30% | ~762 |
-| BE OUR GUEST | 0.30% | ~762 |
-| ACE BRAWLER | 0.30% | ~762 |
-| ACE DEFENDER | 0.30% | ~762 |
-| THE EYE OF THE HUNTER | 0.30% | ~762 |
-| FRIENDLY | 0.30% | ~762 |
-| MASTER | 0.30% | ~762 |
-| LEGENDARY HERO | 0.30% | ~762 |
+| TRAINING HARD | 0.30% | ~763 |
+| RELEASE THE KRAKEN | 0.30% | ~763 |
+| BE OUR GUEST | 0.30% | ~763 |
+| ACE BRAWLER | 0.30% | ~763 |
+| ACE DEFENDER | 0.30% | ~763 |
+| THE EYE OF THE HUNTER | 0.30% | ~763 |
+| FRIENDLY | 0.30% | ~763 |
+| MASTER | 0.30% | ~763 |
+| LEGENDARY HERO | 0.30% | ~763 |
 | PERFECTLY POISED | 0.20% | ~508 |
 | EXPERIENCED CREW | 0.20% | ~508 |
 | ACE TRICKSTER | 0.20% | ~508 |
 | FRAMED! | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,157 (Ranked 53)  
+Progressed: 254,215 (Ranked 53)  
 Completed: 241 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 241 (0.09%) (Ranked 262)
 | 2023-10-22 | 247,959 | 239 |
 | 2023-10-23 | 250,437 | 241 |
 | 2023-10-24 | 253,504 | 241 |
-| 2023-10-25 | 254,157 | 241 |
+| 2023-10-25 | 254,215 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 450)  
 Sum: 250 (Ranked 370)  

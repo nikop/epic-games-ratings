@@ -1,24 +1,24 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 706)  
+Rating: 4.41 (Ranked 707)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~154,685 |
-| Good Skills | 9.00% | ~139,216 |
-| Multiplier Master | 9.00% | ~139,216 |
-| Maverick | 7.00% | ~108,279 |
-| The Long Drift | 5.00% | ~77,342 |
-| Drift Line Apprentice | 3.00% | ~46,405 |
-| Mad Skills | 3.00% | ~46,405 |
+| Midnight Drifter | 10.00% | ~154,686 |
+| Good Skills | 9.00% | ~139,217 |
+| Multiplier Master | 9.00% | ~139,217 |
+| Maverick | 7.00% | ~108,280 |
+| The Long Drift | 5.00% | ~77,343 |
+| Drift Line Apprentice | 3.00% | ~46,406 |
+| Mad Skills | 3.00% | ~46,406 |
 | Bring the Cubic Ruckus | 2.00% | ~30,937 |
 | Jelly Donuts | 2.00% | ~30,937 |
 | Master Drifter | 2.00% | ~30,937 |
 | Spin Doctor | 2.00% | ~30,937 |
-| Hoon Airlines | 1.00% | ~15,468 |
-| Midnight Master | 1.00% | ~15,468 |
+| Hoon Airlines | 1.00% | ~15,469 |
+| Midnight Master | 1.00% | ~15,469 |
 | Sake Bombs | 0.90% | ~13,922 |
 | Drift Line Master | 0.70% | ~10,828 |
 | Insane Skills | 0.70% | ~10,828 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,187 |
 | The Completionist | 0.10% | ~1,547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,546,849 (Ranked 7)  
+Progressed: 1,546,857 (Ranked 7)  
 Completed: 710 (0.05%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 710 (0.05%) (Ranked 282)
 | 2023-10-22 | 1,546,489 | 708 |
 | 2023-10-23 | 1,546,659 | 708 |
 | 2023-10-24 | 1,546,824 | 710 |
-| 2023-10-25 | 1,546,849 | 710 |
+| 2023-10-25 | 1,546,857 | 710 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

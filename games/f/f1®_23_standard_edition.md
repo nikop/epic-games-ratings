@@ -1,24 +1,24 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.68 (Ranked 242)  
+Rating: 4.68 (Ranked 243)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,210 |
-| On the Top Step | 90.00% | ~3,041 |
-| Setting up for Success | 79.00% | ~2,669 |
-| Team Orders | 77.00% | ~2,602 |
-| Engineer | 57.00% | ~1,926 |
-| Familiar Faces | 51.00% | ~1,723 |
+| Getting on the Step | 95.00% | ~3,211 |
+| On the Top Step | 90.00% | ~3,042 |
+| Setting up for Success | 79.00% | ~2,670 |
+| Team Orders | 77.00% | ~2,603 |
+| Engineer | 57.00% | ~1,927 |
+| Familiar Faces | 51.00% | ~1,724 |
 | Going the Extra Mile | 45.00% | ~1,521 |
 | Sharing the Love | 44.00% | ~1,487 |
-| Hitting a Season | 41.00% | ~1,385 |
-| Challenge Yourself | 36.00% | ~1,216 |
+| Hitting a Season | 41.00% | ~1,386 |
+| Challenge Yourself | 36.00% | ~1,217 |
 | A Dozen Pieces | 34.00% | ~1,149 |
 | Making History | 34.00% | ~1,149 |
-| Network Success | 27.00% | ~912 |
-| Writing a new Chapter | 27.00% | ~912 |
+| Network Success | 27.00% | ~913 |
+| Writing a new Chapter | 27.00% | ~913 |
 | Spring Cleaning | 25.00% | ~845 |
 | Reduce | 21.00% | ~710 |
 | Ups and Downs | 21.00% | ~710 |
@@ -26,7 +26,7 @@ Rating: 4.68 (Ranked 242)
 | One for the Book | 19.00% | ~642 |
 | Reuse | 18.00% | ~608 |
 | Proving Them Wrong | 18.00% | ~608 |
-| Gathering Dust | 17.00% | ~574 |
+| Gathering Dust | 17.00% | ~575 |
 | Oil and Water | 16.00% | ~541 |
 | Hitting a Bullseye | 15.00% | ~507 |
 | Lightning Round the World | 14.00% | ~473 |
@@ -34,7 +34,7 @@ Rating: 4.68 (Ranked 242)
 | All in a Weekend's Work | 13.00% | ~439 |
 | Spinning Around | 13.00% | ~439 |
 | Recycle | 13.00% | ~439 |
-| Switcheroo | 12.00% | ~405 |
+| Switcheroo | 12.00% | ~406 |
 | Friendly Competition | 11.00% | ~372 |
 | Tinkerer | 11.00% | ~372 |
 | Undisputed Winner | 10.00% | ~338 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 242)
 | Shot in the Dark | 0.00% | ~0 |
 | Elite Racer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,379 (Ranked 191)  
+Progressed: 3,380 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 325)
 | 2023-10-22 | 3,362 | 0 |
 | 2023-10-23 | 3,368 | 0 |
 | 2023-10-24 | 3,378 | 0 |
-| 2023-10-25 | 3,379 | 0 |
+| 2023-10-25 | 3,380 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

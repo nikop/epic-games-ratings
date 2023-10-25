@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149763,
+  "EOS_Progressed": 149765,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 1070,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -15673,6 +15673,11 @@
       "Time": "2023-10-25T05:06:14.1162722+00:00",
       "NumProgressed": 149763,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2023-10-25T06:06:15.5205749+00:00",
+      "NumProgressed": 149765,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 31,
@@ -15692,7 +15697,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 104834
+      "UsersEstimate": 104836
     },
     {
       "ID": "EAwards_10",
@@ -15884,7 +15889,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22464
+      "UsersEstimate": 22465
     },
     {
       "ID": "EAwards_5",
@@ -15916,7 +15921,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55412
+      "UsersEstimate": 55413
     },
     {
       "ID": "EAwards_9",
@@ -15931,7 +15936,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 149763,
+      "Progressed": 149765,
       "Completed": 307
     }
   ],
@@ -15939,8 +15944,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:06:14.1162717+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:06:15.5205741+00:00",
   "LastUpdate_AppInfo": "2023-10-20T02:13:26.4015763+00:00",
-  "LastUpdate_Ratings": "2023-10-25T05:01:32.7414532+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:06:14.1163784+00:00"
+  "LastUpdate_Ratings": "2023-10-25T06:01:19.9957199+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:06:15.5206946+00:00"
 }

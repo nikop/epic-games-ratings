@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 976,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6673,9 +6673,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138086,
+  "EOS_Progressed": 138088,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25868,6 +25868,11 @@
       "Time": "2023-10-25T04:04:39.1305577+00:00",
       "NumProgressed": 138086,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-25T06:03:58.5601218+00:00",
+      "NumProgressed": 138088,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26717,9 +26722,9 @@
       "ID": "uncommonres01",
       "SetID": "anfd17p",
       "Name": "Special Ingredient",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "uncommonres02",
@@ -26774,15 +26779,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138086,
+      "Progressed": 138088,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-23T20:01:04.190106+00:00",
-  "LastChanged_Achievements": "2023-10-25T05:03:48.6521243+00:00",
+  "LastChanged_Achievements": "2023-10-25T06:03:58.5601213+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T04:57:50.4501252+00:00",
-  "LastUpdate_Achievements": "2023-10-25T05:03:48.652442+00:00"
+  "LastUpdate_Ratings": "2023-10-25T05:57:40.0130742+00:00",
+  "LastUpdate_Achievements": "2023-10-25T06:03:58.5604152+00:00"
 }
