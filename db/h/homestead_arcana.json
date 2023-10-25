@@ -4,7 +4,7 @@
   "ProductSlug": "homestead-arcana-60ff39",
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-04-21T15:00:00+00:00",
@@ -52,8 +52,8 @@
   "FirstSeenRating": "2023-04-23T02:06:28.0321511+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9124479+00:00",
   "LastChanged": "2023-04-23T02:06:28.0321511+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:03:54.9948112+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:03:14.1972801+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:02.6087004+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:57:38.9858698+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:03:54.9948137+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:57:29.7897735+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:03:14.1972843+00:00"
 }

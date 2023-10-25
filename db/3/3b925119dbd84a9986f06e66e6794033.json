@@ -388,9 +388,9 @@
       "ID": "TIME_ORWELL",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Did You Even Read the Book?!",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TIME_PERFECT_DATE",
@@ -412,9 +412,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TKO2_DOMINO",
@@ -451,8 +451,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:07:31.5798549+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:06:27.9682271+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:59:22.4018787+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:07:31.5798692+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:58:55.2724198+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:06:27.9682442+00:00"
 }

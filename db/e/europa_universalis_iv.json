@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 224,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 325,
@@ -11157,9 +11157,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 438915,
+  "EOS_Progressed": 438934,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5436,
+  "EOS_NewPlayers": 5432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32557,6 +32557,11 @@
       "Time": "2023-10-25T08:06:37.541241+00:00",
       "NumProgressed": 438915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T09:05:42.699517+00:00",
+      "NumProgressed": 438934,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33008,7 +33013,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -33088,7 +33093,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "achievement_colonial_management",
@@ -33400,7 +33405,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "achievement_forever_golden",
@@ -33592,7 +33597,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -34136,7 +34141,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3072
+      "UsersEstimate": 3073
     },
     {
       "ID": "achievement_my_true_friend",
@@ -34568,7 +34573,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8778
+      "UsersEstimate": 8779
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -34848,7 +34853,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13167
+      "UsersEstimate": 13168
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35399,21 +35404,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 438915,
+      "Progressed": 438934,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 438915,
+      "Progressed": 438934,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-25T08:00:59.2658229+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:06:37.5412405+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:05:42.6995164+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:00:59.2658236+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:06:37.5423106+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:00:23.8073533+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:05:42.7011115+00:00"
 }

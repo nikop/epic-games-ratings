@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7621,
+  "EOS_Progressed": 7622,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7568,6 +7568,11 @@
       "Time": "2023-10-24T23:04:22.7953086+00:00",
       "NumProgressed": 7621,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-25T09:04:32.2772458+00:00",
+      "NumProgressed": 7622,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7619,7 +7624,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7683,7 +7688,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "LIBERATOR",
@@ -7746,7 +7751,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7621,
+      "Progressed": 7622,
       "Completed": 34
     }
   ],
@@ -7754,8 +7759,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:05:14.8899292+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:04:32.2772291+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.1147547+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:59:46.6156699+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:05:14.8899751+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:59:15.4070811+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:04:32.2773294+00:00"
 }

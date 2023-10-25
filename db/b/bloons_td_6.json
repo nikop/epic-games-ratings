@@ -3,11 +3,11 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 111,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 701,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -9661,11 +9661,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 36401,
       "NumberOfAwardsMax": 6642
+    },
+    {
+      "Time": "2023-10-25T09:00:43.6246037+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 36456,
+      "NumberOfAwardsMax": 6683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36401,
-  "NumberOfAwardsMax": 6642,
+  "NumberOfAwards": 36456,
+  "NumberOfAwardsMax": 6683,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -9708,7 +9714,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6642
+      "Count": 6683
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -9720,7 +9726,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3122
+      "Count": 3136
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9759,8 +9765,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-10-25T03:02:01.5288397+00:00",
+  "LastChanged": "2023-10-25T09:00:43.6246035+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:39.7241269+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:01:23.2489492+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:04:14.2832653+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:00:43.6246043+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:03:30.8811601+00:00"
 }

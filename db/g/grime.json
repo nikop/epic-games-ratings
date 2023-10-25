@@ -1219,9 +1219,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154515,
+  "EOS_Progressed": 154522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1594,
+  "EOS_NewPlayers": 1591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12964,6 +12964,11 @@
       "Time": "2023-10-25T08:04:12.5502882+00:00",
       "NumProgressed": 154515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T09:03:29.4749605+00:00",
+      "NumProgressed": 154522,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13039,7 +13044,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13095,7 +13100,7 @@
       "Name": "Host",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -13191,7 +13196,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13342,21 +13347,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154098,
-      "Completed": 1172
+      "Progressed": 154105,
+      "Completed": 1173
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154515,
+      "Progressed": 154522,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-23T14:59:30.6581439+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:04:12.5502877+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:03:29.4749602+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:00:20.0370585+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:04:12.5503686+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:59:46.9150953+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:03:29.4750818+00:00"
 }

@@ -49,7 +49,7 @@
 | It Was Him | 38.00% | ~5 |
 | Rock Star | 38.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 530)  
+Progressed: 13 (Ranked 531)  
 Completed: 2 (15.38%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |

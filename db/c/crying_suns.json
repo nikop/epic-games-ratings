@@ -625,7 +625,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 469618,
+  "EOS_Progressed": 469619,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
@@ -20250,6 +20250,11 @@
       "Time": "2023-10-25T07:09:45.7222328+00:00",
       "NumProgressed": 469618,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-25T09:08:36.5223737+00:00",
+      "NumProgressed": 469619,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20277,7 +20282,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112708
+      "UsersEstimate": 112709
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20309,7 +20314,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -20349,7 +20354,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309948
+      "UsersEstimate": 309949
     },
     {
       "ID": "achievement_story_landa",
@@ -20373,7 +20378,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -20381,7 +20386,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117404
+      "UsersEstimate": 117405
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20421,7 +20426,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -20453,7 +20458,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -20693,7 +20698,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140885
+      "UsersEstimate": 140886
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20765,7 +20770,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37569
+      "UsersEstimate": 37570
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -20892,21 +20897,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13552,
+      "Progressed": 13553,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469618,
+      "Progressed": 469619,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:10:14.1042865+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:08:36.5223732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:57:53.9764752+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:10:14.1044381+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:57:46.4743565+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:08:36.522644+00:00"
 }

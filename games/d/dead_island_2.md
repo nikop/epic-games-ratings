@@ -1,17 +1,17 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 516)  
+Rating: 4.54 (Ranked 517)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 5.00% | ~35,178 |
-| Git Gutte! | 4.00% | ~28,142 |
-| Break A Leg | 4.00% | ~28,142 |
-| Coup de Grâce | 4.00% | ~28,142 |
-| Hazardous Materials | 4.00% | ~28,142 |
-| Hotel California | 4.00% | ~28,142 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,142 |
+| Welcome To Hell-A | 5.00% | ~35,179 |
+| Git Gutte! | 4.00% | ~28,143 |
+| Break A Leg | 4.00% | ~28,143 |
+| Coup de Grâce | 4.00% | ~28,143 |
+| Hazardous Materials | 4.00% | ~28,143 |
+| Hotel California | 4.00% | ~28,143 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,143 |
 | Dr. Reed, I Presume? | 3.00% | ~21,107 |
 | Bookworm | 3.00% | ~21,107 |
 | But Doctor, I am Butcho | 3.00% | ~21,107 |
@@ -24,15 +24,15 @@ Rating: 4.54 (Ranked 516)
 | A Patton Emerges | 3.00% | ~21,107 |
 | Stacking the Deck | 3.00% | ~21,107 |
 | This is My Weapon | 3.00% | ~21,107 |
-| Making Your Mark | 2.00% | ~14,071 |
-| Anger Management | 2.00% | ~14,071 |
-| Perks of the Job | 2.00% | ~14,071 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,071 |
-| Ooh, Shiny! | 2.00% | ~14,071 |
-| Humanity Distilled | 2.00% | ~14,071 |
-| I Am the Resurrection | 2.00% | ~14,071 |
-| Down with the Sickness | 2.00% | ~14,071 |
-| Our True Nature | 2.00% | ~14,071 |
+| Making Your Mark | 2.00% | ~14,072 |
+| Anger Management | 2.00% | ~14,072 |
+| Perks of the Job | 2.00% | ~14,072 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,072 |
+| Ooh, Shiny! | 2.00% | ~14,072 |
+| Humanity Distilled | 2.00% | ~14,072 |
+| I Am the Resurrection | 2.00% | ~14,072 |
+| Down with the Sickness | 2.00% | ~14,072 |
+| Our True Nature | 2.00% | ~14,072 |
 | Smorgasbord | 1.00% | ~7,036 |
 | Jumbo Keyring | 1.00% | ~7,036 |
 | Max Headroom | 1.00% | ~7,036 |
@@ -40,8 +40,8 @@ Rating: 4.54 (Ranked 516)
 | Rising Star | 1.00% | ~7,036 |
 | Not Even My Final Form | 0.90% | ~6,332 |
 | Internet Famous | 0.90% | ~6,332 |
-| On Safari | 0.80% | ~5,628 |
-| Variety is the Spice of Death | 0.80% | ~5,628 |
+| On Safari | 0.80% | ~5,629 |
+| Variety is the Spice of Death | 0.80% | ~5,629 |
 | Make it So | 0.70% | ~4,925 |
 | LA Influential | 0.60% | ~4,221 |
 | Gore Horse | 0.60% | ~4,221 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,407 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,562 (Ranked 22)  
+Progressed: 703,583 (Ranked 22)  
 Completed: 2,259 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 2,259 (0.32%) (Ranked 208)
 | 2023-10-22 | 701,828 | 2,247 |
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
-| 2023-10-25 | 703,562 | 2,259 |
+| 2023-10-25 | 703,583 | 2,259 |
 ## Awards
 Max (Great Boss Battles): 6,597  (Ranked 57)  
 Sum: 9,917 (Ranked 91)  

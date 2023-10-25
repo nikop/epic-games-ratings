@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7438,
+  "EOS_Progressed": 7439,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -4927,6 +4927,11 @@
       "Time": "2023-10-25T08:10:15.4131407+00:00",
       "NumProgressed": 7438,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-25T09:08:37.8038575+00:00",
+      "NumProgressed": 7439,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5371,7 +5376,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "PlayerKills100",
@@ -5530,7 +5535,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7438,
+      "Progressed": 7439,
       "Completed": 1
     }
   ],
@@ -5538,8 +5543,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:10:15.4131403+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:08:37.8038568+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:00:09.0161178+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:10:15.4132422+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:59:36.6751639+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:08:37.8039818+00:00"
 }

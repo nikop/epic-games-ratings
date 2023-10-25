@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 4.00% | ~38,653 |
-| Zealous | 3.00% | ~28,990 |
-| Not half bad | 3.00% | ~28,990 |
-| Apt Survivor | 3.00% | ~28,990 |
-| Survival Treasures | 3.00% | ~28,990 |
-| Skillful | 3.00% | ~28,990 |
-| Make Some Noise | 3.00% | ~28,990 |
+| It wakes | 4.00% | ~38,655 |
+| Zealous | 3.00% | ~28,991 |
+| Not half bad | 3.00% | ~28,991 |
+| Apt Survivor | 3.00% | ~28,991 |
+| Survival Treasures | 3.00% | ~28,991 |
+| Skillful | 3.00% | ~28,991 |
+| Make Some Noise | 3.00% | ~28,991 |
 | The Grand Sacrifice | 2.00% | ~19,327 |
 | Agonizing Escape | 2.00% | ~19,327 |
 | Backdoor Escape | 2.00% | ~19,327 |
@@ -31,21 +31,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Close Shave | 2.00% | ~19,327 |
 | Preemptive Strike | 2.00% | ~19,327 |
 | Humanitarian | 2.00% | ~19,327 |
-| Escape Artist | 1.00% | ~9,663 |
-| Nerves of steel | 1.00% | ~9,663 |
-| Apt Killer | 1.00% | ~9,663 |
-| Risk it all | 1.00% | ~9,663 |
-| Vulture | 1.00% | ~9,663 |
-| II | 1.00% | ~9,663 |
-| III | 1.00% | ~9,663 |
-| Cherish your Life | 1.00% | ~9,663 |
-| Wounded Healer | 1.00% | ~9,663 |
-| First to the Punch | 1.00% | ~9,663 |
-| Every Last Drop | 1.00% | ~9,663 |
-| With Scars to Show | 1.00% | ~9,663 |
-| Flight to Freedom | 1.00% | ~9,663 |
-| A Fast Death | 1.00% | ~9,663 |
-| Second Act | 1.00% | ~9,663 |
+| Escape Artist | 1.00% | ~9,664 |
+| Nerves of steel | 1.00% | ~9,664 |
+| Apt Killer | 1.00% | ~9,664 |
+| Risk it all | 1.00% | ~9,664 |
+| Vulture | 1.00% | ~9,664 |
+| II | 1.00% | ~9,664 |
+| III | 1.00% | ~9,664 |
+| Cherish your Life | 1.00% | ~9,664 |
+| Wounded Healer | 1.00% | ~9,664 |
+| First to the Punch | 1.00% | ~9,664 |
+| Every Last Drop | 1.00% | ~9,664 |
+| With Scars to Show | 1.00% | ~9,664 |
+| Flight to Freedom | 1.00% | ~9,664 |
+| A Fast Death | 1.00% | ~9,664 |
+| Second Act | 1.00% | ~9,664 |
 | Blood on your hands | 0.90% | ~8,697 |
 | Made it out alive! | 0.90% | ~8,697 |
 | III-50 | 0.90% | ~8,697 |
@@ -69,12 +69,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun Evil | 0.80% | ~7,731 |
 | Lifting The Fog | 0.80% | ~7,731 |
 | MU/TH/UR Dearest | 0.80% | ~7,731 |
-| A bite for the Entity | 0.70% | ~6,764 |
-| Leapfrog | 0.70% | ~6,764 |
-| Cottage Owner | 0.70% | ~6,764 |
-| Escaping the Nightmare | 0.70% | ~6,764 |
-| Ancestor's Rite | 0.70% | ~6,764 |
-| Grim Pilgrimage | 0.70% | ~6,764 |
+| A bite for the Entity | 0.70% | ~6,765 |
+| Leapfrog | 0.70% | ~6,765 |
+| Cottage Owner | 0.70% | ~6,765 |
+| Escaping the Nightmare | 0.70% | ~6,765 |
+| Ancestor's Rite | 0.70% | ~6,765 |
+| Grim Pilgrimage | 0.70% | ~6,765 |
 | Blood on your face | 0.60% | ~5,798 |
 | Hemophobia | 0.60% | ~5,798 |
 | Serial Killer | 0.60% | ~5,798 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~966 |
 | Adept Ripley | 0.10% | ~966 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966,327 (Ranked 14)  
+Progressed: 966,371 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -424,14 +424,14 @@ Completed: 52 (0.01%) (Ranked 305)
 | 2023-10-22 | 960,836 | 52 |
 | 2023-10-23 | 963,339 | 52 |
 | 2023-10-24 | 965,667 | 52 |
-| 2023-10-25 | 966,327 | 52 |
+| 2023-10-25 | 966,371 | 52 |
 ## Awards
-Max (Diverse Characters): 34,544  (Ranked 15)  
-Sum: 266,601 (Ranked 13)  
+Max (Diverse Characters): 34,622  (Ranked 15)  
+Sum: 266,679 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 34,544 |
+| This game has Diverse Characters | 34,622 |
 | This game is Highly Recommended | 30,469 |
 | This game has Amazing Characters | 30,130 |
 | This game has Competitive Players | 30,050 |
@@ -719,4 +719,4 @@ Diff (max vs sum): 2
 | 2023-10-22 | 4.51 | - | 34,415 | 265,759 |
 | 2023-10-23 | 4.51 | - | 34,489 | 266,169 |
 | 2023-10-24 | 4.51 | - | 34,544 | 266,463 |
-| 2023-10-25 | 4.51 | - | 34,544 | 266,601 |
+| 2023-10-25 | 4.51 | - | 34,622 | 266,679 |

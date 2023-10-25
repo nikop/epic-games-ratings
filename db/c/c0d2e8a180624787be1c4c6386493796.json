@@ -211,9 +211,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 41,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -755,9 +755,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:07:39.7842409+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:06:35.0583633+00:00",
   "LastUpdate_AppInfo": "2023-10-19T15:57:07.9737012+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:58:30.7592238+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:07:39.7843047+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:58:15.168027+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:06:35.0584521+00:00"
 }

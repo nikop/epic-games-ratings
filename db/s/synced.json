@@ -807,9 +807,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 64585,
+  "EOS_Progressed": 64586,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 989,
+  "EOS_NewPlayers": 988,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6552,6 +6552,11 @@
       "Time": "2023-10-25T07:09:44.6904702+00:00",
       "NumProgressed": 64585,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-10-25T09:08:35.787848+00:00",
+      "NumProgressed": 64586,
+      "NumCompleted": 23
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6564,7 +6569,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20667
+      "UsersEstimate": 20668
     },
     {
       "ID": "10",
@@ -6628,7 +6633,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10979
+      "UsersEstimate": 10980
     },
     {
       "ID": "3",
@@ -6644,7 +6649,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6458
+      "UsersEstimate": 6459
     },
     {
       "ID": "5",
@@ -6691,7 +6696,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64585,
+      "Progressed": 64586,
       "Completed": 23
     }
   ],
@@ -6699,8 +6704,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-24T20:02:33.8845249+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:10:13.1303423+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:08:35.787847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-25T08:01:02.1356084+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:10:13.1303756+00:00"
+  "LastUpdate_Ratings": "2023-10-25T09:00:26.1303929+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:08:35.7878974+00:00"
 }

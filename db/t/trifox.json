@@ -183,9 +183,9 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -327,9 +327,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:04:08.5555489+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:03:25.965034+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:57:33.2014922+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:04:08.5555779+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:57:25.8912552+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:03:25.9650732+00:00"
 }

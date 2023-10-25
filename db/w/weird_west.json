@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1926,
+  "EOS_Progressed": 1927,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2399,6 +2399,11 @@
       "Time": "2023-10-24T20:04:17.5078803+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-25T09:03:05.7502429+00:00",
+      "NumProgressed": 1927,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2442,7 +2447,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2650,7 +2655,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_PERKY",
@@ -2658,7 +2663,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2706,7 +2711,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2786,7 +2791,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2826,22 +2831,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1926,
+      "Progressed": 1927,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-25T08:03:45.1632748+00:00",
+  "LastChanged_Achievements": "2023-10-25T09:03:05.7502424+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-25T07:57:17.3841091+00:00",
-  "LastUpdate_Achievements": "2023-10-25T08:03:45.1633222+00:00"
+  "LastUpdate_Ratings": "2023-10-25T08:57:13.4410813+00:00",
+  "LastUpdate_Achievements": "2023-10-25T09:03:05.7503107+00:00"
 }
