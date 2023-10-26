@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Eat My Dust | 43.00% | ~749 |
 | First Love | 42.00% | ~732 |
-| Eat My Dust | 42.00% | ~732 |
 | Clean Race | 41.00% | ~714 |
 | Hear That Roar! | 38.00% | ~662 |
 | Rivals to the End | 28.00% | ~488 |

@@ -16,9 +16,9 @@
 | Medal of Honor | 58.00% | ~470 |
 | Meritorious Service Medal | 58.00% | ~470 |
 | Medal of Exploration II | 58.00% | ~470 |
+| Turian Ally | 57.00% | ~462 |
 | Charismatic | 57.00% | ~462 |
 | Soldier | 56.00% | ~454 |
-| Turian Ally | 56.00% | ~454 |
 | Asari Ally | 52.00% | ~421 |
 | Principled | 52.00% | ~421 |
 | Medal of Exploration III | 51.00% | ~413 |
@@ -28,8 +28,8 @@
 | Scientist | 49.00% | ~397 |
 | Merciless | 47.00% | ~381 |
 | Krogan Ally | 45.00% | ~364 |
+| Missing in Action | 45.00% | ~364 |
 | Head Hunter | 45.00% | ~364 |
-| Missing in Action | 44.00% | ~356 |
 | Very Elusive | 44.00% | ~356 |
 | Scholar | 44.00% | ~356 |
 | Sentinel Ally | 43.00% | ~348 |
@@ -75,9 +75,9 @@
 | Suicide Mission | 28.00% | ~227 |
 | Against All Odds | 28.00% | ~227 |
 | Untouchable | 27.00% | ~219 |
+| A House Divided | 27.00% | ~219 |
 | Eye of the Hurricane | 26.00% | ~211 |
 | Giant Killer | 26.00% | ~211 |
-| A House Divided | 26.00% | ~211 |
 | World Shaker | 26.00% | ~211 |
 | Weapon Specialist | 25.00% | ~202 |
 | Tunnel Rat | 25.00% | ~202 |

@@ -7,23 +7,23 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,942 |
-| Landlord | 33.00% | ~21,104 |
-| Bannerlord | 23.00% | ~14,709 |
-| Horde breaker | 23.00% | ~14,709 |
-| Lawmaker | 23.00% | ~14,709 |
-| Trained | 23.00% | ~14,709 |
+| Landlord | 33.00% | ~21,105 |
+| Bannerlord | 23.00% | ~14,710 |
+| Horde breaker | 23.00% | ~14,710 |
+| Lawmaker | 23.00% | ~14,710 |
+| Trained | 23.00% | ~14,710 |
 | The king is pleased | 19.00% | ~12,151 |
 | King Solomon | 17.00% | ~10,872 |
-| Apple of my eye | 16.00% | ~10,232 |
-| I can do it | 16.00% | ~10,232 |
+| Apple of my eye | 16.00% | ~10,233 |
+| I can do it | 16.00% | ~10,233 |
 | God of the Arena | 13.00% | ~8,314 |
 | This Is Our Land | 13.00% | ~8,314 |
-| Against all odds | 12.00% | ~7,674 |
-| Duelist | 10.00% | ~6,395 |
-| Dynasty | 10.00% | ~6,395 |
-| I spit on your grave | 10.00% | ~6,395 |
-| Swordbearer | 10.00% | ~6,395 |
-| What have the Romans ever done for us? | 10.00% | ~6,395 |
+| Against all odds | 12.00% | ~7,675 |
+| Duelist | 10.00% | ~6,396 |
+| Dynasty | 10.00% | ~6,396 |
+| I spit on your grave | 10.00% | ~6,396 |
+| Swordbearer | 10.00% | ~6,396 |
+| What have the Romans ever done for us? | 10.00% | ~6,396 |
 | Butterlord | 9.00% | ~5,756 |
 | Know your enemy | 7.00% | ~4,477 |
 | Mastery | 7.00% | ~4,477 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,953 (Ranked 100)  
+Progressed: 63,955 (Ranked 100)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-23 | 63,819 | 0 |
 | 2023-10-24 | 63,863 | 0 |
 | 2023-10-25 | 63,927 | 0 |
-| 2023-10-26 | 63,953 | 0 |
+| 2023-10-26 | 63,955 | 0 |
 ## Awards
 Max (Character Customization): 7,282  (Ranked 52)  
-Sum: 15,009 (Ranked 66)  
+Sum: 15,013 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,025 |
 | This game has Diverse Characters | 974 |
 | This game is Highly Recommended | 907 |
-| This game is Extremely Fun | 855 |
+| This game is Extremely Fun | 859 |
 | This game has Amazing Storytelling | 846 |
 | This game has Amazing Characters | 845 |
 | This game is Relaxing | 840 |
@@ -553,3 +553,4 @@ Diff (max vs sum): -14
 | 2023-10-23 | 4.74 | - | 7,270 | 14,980 |
 | 2023-10-24 | 4.74 | - | 7,276 | 14,991 |
 | 2023-10-25 | 4.74 | - | 7,282 | 15,009 |
+| 2023-10-26 | 4.74 | - | 7,282 | 15,013 |

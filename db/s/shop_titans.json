@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6703,9 +6703,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138156,
+  "EOS_Progressed": 138161,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26043,6 +26043,11 @@
       "Time": "2023-10-26T13:12:56.7324956+00:00",
       "NumProgressed": 138156,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T14:06:03.59733+00:00",
+      "NumProgressed": 138161,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26620,9 +26625,9 @@
       "ID": "jackslot03",
       "SetID": "anfd17p",
       "Name": "JACKPOT!!!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 414
     },
     {
       "ID": "legenchant01",
@@ -26949,15 +26954,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138156,
+      "Progressed": 138161,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T10:58:28.3186533+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:12:56.7324948+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:06:03.5973293+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:03:02.8752444+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:12:56.7328579+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:58:39.5921571+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:06:03.597664+00:00"
 }

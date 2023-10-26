@@ -7,7 +7,7 @@
 | Will This Help? | 73.00% | ~169 |
 | No One Is Safe | 65.00% | ~150 |
 | Career Woman | 64.00% | ~148 |
-| He's Off His Meds | 55.00% | ~127 |
+| He's Off His Meds | 56.00% | ~129 |
 | Personal Life | 50.00% | ~116 |
 | Deal Or No Deal | 48.00% | ~111 |
 | Impress Theron | 45.00% | ~104 |

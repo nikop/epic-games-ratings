@@ -6,22 +6,22 @@ Rating: 3.38 (Ranked 1,023)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 28.00% | ~470 |
-| Defenses Online | 25.00% | ~420 |
+| Defenses Online | 26.00% | ~437 |
 | Facility Online | 21.00% | ~353 |
 | Corporal | 15.00% | ~252 |
+| Covert Operative | 13.00% | ~218 |
 | Sergeant | 12.00% | ~202 |
-| Covert Operative | 12.00% | ~202 |
 | Keeping Busy | 10.00% | ~168 |
 | Lieutenant | 10.00% | ~168 |
 | Getting Deployment | 10.00% | ~168 |
 | Stocking Up | 10.00% | ~168 |
 | On Target | 10.00% | ~168 |
 | Infantry Reporting | 10.00% | ~168 |
+| Exterminator | 8.00% | ~134 |
 | Fighting for Survival | 8.00% | ~134 |
 | Silver Competitor | 8.00% | ~134 |
 | Captain | 8.00% | ~134 |
 | Factory Expansion | 8.00% | ~134 |
-| Exterminator | 7.00% | ~118 |
 | Brothers in Arms | 6.00% | ~101 |
 | Know The Enemy | 5.00% | ~84 |
 | Player Betrayer | 5.00% | ~84 |
@@ -29,22 +29,22 @@ Rating: 3.38 (Ranked 1,023)
 | Moving On Up | 5.00% | ~84 |
 | Major | 5.00% | ~84 |
 | Gold Achiever | 4.00% | ~67 |
-| Resourceful | 3.00% | ~50 |
+| Resourceful | 4.00% | ~67 |
+| Colonel | 3.00% | ~50 |
 | Control the Skies | 3.00% | ~50 |
 | Advanced Warfare | 2.00% | ~34 |
-| Colonel | 2.00% | ~34 |
 | Seek & Destroy | 2.00% | ~34 |
 | Battle Ready | 2.00% | ~34 |
 | General | 1.00% | ~17 |
 | Titan Tanks | 1.00% | ~17 |
 | Shock Troops | 1.00% | ~17 |
-| Advanced Interceptors | 0.80% | ~13 |
-| Jet Troops | 0.70% | ~12 |
+| Advanced Interceptors | 0.90% | ~15 |
+| Jet Troops | 0.80% | ~13 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,680 (Ranked 219)  
+Progressed: 1,680 (Ranked 220)  
 Completed: 1 (0.06%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |

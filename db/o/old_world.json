@@ -16910,9 +16910,9 @@
       "ID": "ACHIEVEMENT_VICTORY_POINTS",
       "SetID": "7l38kb8",
       "Name": "Points Victory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -17492,8 +17492,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:14:16.3185517+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:07:13.5201033+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:10:36.1325752+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:14:16.3203413+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:04:17.3870477+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:07:13.5214179+00:00"
 }

@@ -1326,7 +1326,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9868,
+  "EOS_Progressed": 9869,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
@@ -15606,6 +15606,11 @@
       "Time": "2023-10-26T13:15:36.2630569+00:00",
       "NumProgressed": 9868,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T14:08:34.4174955+00:00",
+      "NumProgressed": 9869,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15617,7 +15622,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6019
+      "UsersEstimate": 6020
     },
     {
       "ID": "10",
@@ -15649,7 +15654,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5230
+      "UsersEstimate": 5231
     },
     {
       "ID": "14",
@@ -15697,7 +15702,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5131
+      "UsersEstimate": 5132
     },
     {
       "ID": "2",
@@ -15769,7 +15774,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "28",
@@ -15889,7 +15894,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "41",
@@ -15945,7 +15950,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "48",
@@ -16041,7 +16046,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "59",
@@ -16088,15 +16093,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9868,
+      "Progressed": 9869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-25T03:58:58.9826596+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:15:36.2630557+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:08:34.417495+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:04:47.4845678+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:15:36.2633105+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:00:02.1441942+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:08:34.4176474+00:00"
 }

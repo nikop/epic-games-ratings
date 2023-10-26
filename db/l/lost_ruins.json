@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -924,6 +924,11 @@
       "Time": "2023-10-26T08:11:33.8536516+00:00",
       "NumProgressed": 465,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T14:11:35.3190381+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -999,7 +1004,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Gladiator",
@@ -1013,9 +1018,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "Hardboiled",
@@ -1071,7 +1076,7 @@
       "Name": "Lumberjack",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Marksman",
@@ -1119,7 +1124,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Pyromancer",
@@ -1135,7 +1140,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Roughneck",
@@ -1191,15 +1196,15 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "TheTrio",
@@ -1254,7 +1259,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 0
     }
   ],
@@ -1262,8 +1267,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:18:15.4711918+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:11:35.3190375+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:04:34.317578+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:18:15.47126+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:59:53.6090905+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:11:35.3190785+00:00"
 }

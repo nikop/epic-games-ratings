@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530004,
+  "EOS_Progressed": 530006,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20622,6 +20622,11 @@
       "Time": "2023-10-26T13:12:10.3603019+00:00",
       "NumProgressed": 530004,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-26T14:05:22.3618251+00:00",
+      "NumProgressed": 530006,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 57,
@@ -20641,7 +20646,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238502
+      "UsersEstimate": 238503
     },
     {
       "ID": "11",
@@ -20649,7 +20654,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371003
+      "UsersEstimate": 371004
     },
     {
       "ID": "12",
@@ -20673,7 +20678,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58300
+      "UsersEstimate": 58301
     },
     {
       "ID": "15",
@@ -20681,7 +20686,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53000
+      "UsersEstimate": 53001
     },
     {
       "ID": "16",
@@ -20689,7 +20694,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47700
+      "UsersEstimate": 47701
     },
     {
       "ID": "17",
@@ -20713,7 +20718,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328602
+      "UsersEstimate": 328604
     },
     {
       "ID": "2",
@@ -20721,7 +20726,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53000
+      "UsersEstimate": 53001
     },
     {
       "ID": "20",
@@ -20737,7 +20742,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58300
+      "UsersEstimate": 58301
     },
     {
       "ID": "22",
@@ -20745,7 +20750,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 47700
+      "UsersEstimate": 47701
     },
     {
       "ID": "23",
@@ -20857,7 +20862,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265002
+      "UsersEstimate": 265003
     },
     {
       "ID": "36",
@@ -20889,7 +20894,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180201
+      "UsersEstimate": 180202
     },
     {
       "ID": "4",
@@ -20961,7 +20966,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328602
+      "UsersEstimate": 328604
     },
     {
       "ID": "48",
@@ -20977,7 +20982,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180201
+      "UsersEstimate": 180202
     },
     {
       "ID": "5",
@@ -21009,7 +21014,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243802
+      "UsersEstimate": 243803
     },
     {
       "ID": "53",
@@ -21088,15 +21093,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530004,
+      "Progressed": 530006,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:12:10.3603008+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:05:22.3618246+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:07:40.0695791+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:12:10.3606083+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:02:06.391642+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:05:22.3621771+00:00"
 }

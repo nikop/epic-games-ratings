@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -1780,9 +1780,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
       "SetID": "9eacipp",
       "Name": "Buried",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
@@ -1812,9 +1812,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
       "SetID": "9eacipp",
       "Name": "Craftsmen challenge",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
@@ -2204,8 +2204,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:17:57.2655989+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:11:19.5324864+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.9129884+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:08:52.3063909+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:17:57.2658375+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:02:50.2678089+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:11:19.5326188+00:00"
 }

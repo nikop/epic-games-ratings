@@ -24,9 +24,9 @@
 | Too many crates | 13.00% | ~13 |
 | Complete Level 3-1 | 13.00% | ~13 |
 | Baby steps | 12.00% | ~12 |
+| Complete Level 3-2 | 11.00% | ~11 |
 | Engineer-warrior hybrid | 11.00% | ~11 |
 | Party popper | 11.00% | ~11 |
-| Complete Level 3-2 | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
 | Should have left me alone | 9.00% | ~9 |
 | Drink up | 9.00% | ~9 |

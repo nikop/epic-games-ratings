@@ -340,9 +340,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "605782",
@@ -493,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:11:51.6036014+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:05:07.0066451+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:53.7662891+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:02:58.2959807+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:11:51.603636+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:58:34.8813038+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:05:07.0066691+00:00"
 }

@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 1.00% | ~150 |
 | Egyptian Paganism | 1.00% | ~150 |
 | Mythology | 1.00% | ~150 |
+| Points Victory | 1.00% | ~150 |
 | Win a Single Player Game | 1.00% | ~150 |
 | Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
@@ -83,7 +84,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~135 |
 | Greece | 0.90% | ~135 |
 | Power to the People | 0.90% | ~135 |
-| Points Victory | 0.90% | ~135 |
 | Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
 | Patrons | 0.80% | ~120 |

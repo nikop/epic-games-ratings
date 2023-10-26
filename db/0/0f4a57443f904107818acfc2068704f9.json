@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -488,8 +488,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:15:38.2931991+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:08:36.1835824+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:01.1405668+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:09:00.3658732+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:15:38.2932487+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:02:55.1003346+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:08:36.1836133+00:00"
 }

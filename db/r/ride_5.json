@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3943,9 +3943,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 749
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4046,8 +4046,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:18:05.2580547+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:11:26.2185146+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:10:54.4246249+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:18:05.2581671+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:04:28.5674335+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:11:26.2185846+00:00"
 }

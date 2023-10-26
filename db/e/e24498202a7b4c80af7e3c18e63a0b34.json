@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6439,
+  "EOS_Progressed": 6440,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4279,6 +4279,11 @@
       "Time": "2023-10-26T13:17:59.8028633+00:00",
       "NumProgressed": 6439,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-26T14:11:21.7116496+00:00",
+      "NumProgressed": 6440,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4299,7 +4304,7 @@
       "Name": "Tournament Star",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_01_03",
@@ -4315,7 +4320,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_01_05",
@@ -4323,7 +4328,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "achievement_01_06",
@@ -4347,7 +4352,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_01_09",
@@ -4355,7 +4360,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "achievement_01_10",
@@ -4363,7 +4368,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "achievement_02_01",
@@ -4427,7 +4432,7 @@
       "Name": "Car Specialist",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_03_01",
@@ -4451,7 +4456,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_03_04",
@@ -4555,7 +4560,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2060
+      "UsersEstimate": 2061
     },
     {
       "ID": "achievement_04_06",
@@ -4571,7 +4576,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "achievement_04_08",
@@ -4579,7 +4584,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5473
+      "UsersEstimate": 5474
     },
     {
       "ID": "achievement_04_09",
@@ -4594,7 +4599,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6439,
+      "Progressed": 6440,
       "Completed": 30
     }
   ],
@@ -4602,8 +4607,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-26T13:17:59.8028624+00:00",
+  "LastChanged_Achievements": "2023-10-26T14:11:21.711649+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:09:44.8634341+00:00",
-  "LastUpdate_Achievements": "2023-10-26T13:17:59.8029198+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:03:33.3905933+00:00",
+  "LastUpdate_Achievements": "2023-10-26T14:11:21.7117109+00:00"
 }

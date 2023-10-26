@@ -77,9 +77,9 @@ Number of Ratings: 37  (23.09.2022)
 | Builder V | 0.80% | ~34 |
 | Ten-Hut! | 0.80% | ~34 |
 | The wood shortage | 0.80% | ~34 |
+| Buried | 0.70% | ~30 |
+| Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
-| Buried | 0.60% | ~26 |
-| Craftsmen challenge | 0.60% | ~26 |
 | Made my choice | 0.60% | ~26 |
 | I've been everywhere VII | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
