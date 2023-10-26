@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7621,9 +7621,9 @@
       "Count": 3487
     }
   ],
-  "EOS_Progressed": 232838,
+  "EOS_Progressed": 232839,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28696,6 +28696,11 @@
       "Time": "2023-10-26T10:06:14.8982584+00:00",
       "NumProgressed": 232838,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-10-26T11:05:28.6396101+00:00",
+      "NumProgressed": 232839,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 528,
@@ -32930,21 +32935,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199112,
+      "Progressed": 199113,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232838,
+      "Progressed": 232839,
       "Completed": 2388
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-26T05:01:54.9848334+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:06:14.8982576+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:05:28.639609+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:03:22.6131333+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:06:14.9071115+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:02:55.691886+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:05:28.6426541+00:00"
 }

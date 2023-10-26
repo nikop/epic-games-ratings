@@ -11,6 +11,7 @@ Rating: 4.19 (Ranked 903)
 | Float Like A Butterfly | 6.00% | ~976 |
 | Two Heads Are Better Than One | 5.00% | ~814 |
 | Chew 'Em Up | 5.00% | ~814 |
+| Workplace Hazard | 5.00% | ~814 |
 | Reforged | 5.00% | ~814 |
 | The Outer Way | 5.00% | ~814 |
 | Desperate Times | 5.00% | ~814 |
@@ -18,7 +19,6 @@ Rating: 4.19 (Ranked 903)
 | You Need a Gun | 4.00% | ~651 |
 | I Do Belong Here | 4.00% | ~651 |
 | Terminated | 4.00% | ~651 |
-| Workplace Hazard | 4.00% | ~651 |
 | If the SHU Fits... | 4.00% | ~651 |
 | Without A Paddle | 4.00% | ~651 |
 | In the Pipe, Five by Five | 4.00% | ~651 |
@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 903)
 | It's Time | 4.00% | ~168 |
 | Giving Back | 3.00% | ~488 |
 | The Commonality | 3.00% | ~488 |
-| In Striking Distance | 2.00% | ~325 |
+| In Striking Distance | 2.00% | ~326 |
 | One Last Job | 2.00% | ~84 |
 | This Isn't About Escape | 1.00% | ~42 |
 | Big Spender | 0.80% | ~34 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,273 (Ranked 135)  
+Progressed: 16,275 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 77 (0.47%) (Ranked 188)
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
-| 2023-10-26 | 16,273 | 77 |
+| 2023-10-26 | 16,275 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
 Sum: 455 (Ranked 324)  

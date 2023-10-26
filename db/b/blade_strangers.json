@@ -4,8 +4,8 @@
   "ProductSlug": "blade-strangers",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-06T17:00:00+00:00",
     "PcReleaseDate": "2018-08-28T11:25:39+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.3740801+00:00",
   "LastChanged": "2023-03-31T05:58:05.3740803+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3277419+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:02:01.0527393+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:11:31.2555447+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:01:43.0288781+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:10:33.9646873+00:00"
 }

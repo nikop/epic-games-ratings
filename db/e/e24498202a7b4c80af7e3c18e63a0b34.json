@@ -4287,9 +4287,9 @@
       "ID": "achievement_01_02",
       "SetID": "4f1m94d",
       "Name": "Tournament Star",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1223
     },
     {
       "ID": "achievement_01_03",
@@ -4592,8 +4592,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:11:44.1013179+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:10:44.8764858+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:03:38.2660253+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:11:44.1013765+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:03:15.5884235+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:10:44.8765476+00:00"
 }

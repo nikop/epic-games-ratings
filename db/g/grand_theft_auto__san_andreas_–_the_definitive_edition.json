@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 493,
+  "Ranking_Rating": 476,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -1265,10 +1265,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 555,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-10-26T10:59:25.0063306+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 556,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 555,
+  "NumberOfAwards": 556,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1300,7 +1306,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13514,9 +13520,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-25T14:58:41.6353695+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:08:23.2795037+00:00",
+  "LastChanged": "2023-10-26T10:59:25.0063304+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:07:39.5362732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.3200483+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:59:41.3994077+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:08:23.2796258+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:59:25.0063309+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:07:39.5363838+00:00"
 }

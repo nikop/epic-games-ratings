@@ -4,8 +4,8 @@
   "ProductSlug": "without-escape-c00993",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-06-10T10:59:21.1089045+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:09:42.636116+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:09:17.4548475+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.4044239+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:59:02.1076532+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:09:42.6361293+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:58:57.9744717+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:09:17.4548615+00:00"
 }

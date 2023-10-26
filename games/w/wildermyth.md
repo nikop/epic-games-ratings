@@ -7,13 +7,13 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 0.60% | ~9 |
+| Gotta Ca... Must Collect All of Them | 0.50% | ~7 |
 | How Romantic! | 0.50% | ~7 |
-| Gotta Ca... Must Collect All of Them | 0.40% | ~6 |
-| Me and My Familiar | 0.30% | ~4 |
+| Me and My Familiar | 0.40% | ~6 |
+| Passing Shadow | 0.40% | ~6 |
+| This Too Shall Pass | 0.40% | ~6 |
+| Cutthroat Competitors | 0.40% | ~6 |
 | Let Me Get My Chisel | 0.30% | ~4 |
-| Passing Shadow | 0.30% | ~4 |
-| This Too Shall Pass | 0.30% | ~4 |
-| Cutthroat Competitors | 0.30% | ~4 |
 | Daybreak | 0.30% | ~4 |
 | Completing the Look | 0.20% | ~3 |
 | Echoes Die | 0.20% | ~3 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,437 (Ranked 228)  
+Progressed: 1,438 (Ranked 228)  
 Completed: 6 (0.42%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 6 (0.42%) (Ranked 197)
 | 2023-10-23 | 1,434 | 6 |
 | 2023-10-24 | 1,435 | 6 |
 | 2023-10-25 | 1,437 | 6 |
+| 2023-10-26 | 1,438 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

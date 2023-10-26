@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10530,9 +10530,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50508,
+  "EOS_Progressed": 50509,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -27465,6 +27465,11 @@
       "Time": "2023-10-26T09:07:57.8991827+00:00",
       "NumProgressed": 50508,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T11:05:59.5138279+00:00",
+      "NumProgressed": 50509,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -27500,7 +27505,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "CarDriving",
@@ -27508,7 +27513,7 @@
       "Name": "Road Trip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "CollectiblesAlpine",
@@ -27556,7 +27561,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32325
+      "UsersEstimate": 32326
     },
     {
       "ID": "CutTree",
@@ -27628,7 +27633,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 37881
+      "UsersEstimate": 37882
     },
     {
       "ID": "HorseJumps",
@@ -27668,7 +27673,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "MissionFirst",
@@ -27684,7 +27689,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 26769
+      "UsersEstimate": 26770
     },
     {
       "ID": "NumBeehives",
@@ -27692,7 +27697,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "NumDrivables",
@@ -27700,7 +27705,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20203
+      "UsersEstimate": 20204
     },
     {
       "ID": "NumPlaceables",
@@ -27740,7 +27745,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14142
+      "UsersEstimate": 14143
     },
     {
       "ID": "PlayTime",
@@ -27764,7 +27769,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 31820
+      "UsersEstimate": 31821
     },
     {
       "ID": "Stones",
@@ -27819,15 +27824,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50508,
+      "Progressed": 50509,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-26T05:59:15.5735875+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:06:51.4737305+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:05:59.5138275+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.5930356+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:00:28.1735376+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:06:51.4738751+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:00:11.1744995+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:05:59.5139793+00:00"
 }

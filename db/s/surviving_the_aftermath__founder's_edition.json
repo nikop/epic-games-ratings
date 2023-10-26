@@ -5,10 +5,10 @@
   "Ranking_Rating": 613,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 286,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9865,
+  "EOS_Progressed": 9866,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15591,6 +15591,11 @@
       "Time": "2023-10-26T10:09:00.2608046+00:00",
       "NumProgressed": 9865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T11:08:20.7244085+00:00",
+      "NumProgressed": 9866,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15634,7 +15639,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "14",
@@ -15658,7 +15663,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "17",
@@ -15714,7 +15719,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7201
+      "UsersEstimate": 7202
     },
     {
       "ID": "23",
@@ -15730,7 +15735,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "25",
@@ -15754,7 +15759,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "28",
@@ -15762,7 +15767,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "29",
@@ -15826,7 +15831,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "36",
@@ -15930,7 +15935,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "48",
@@ -15954,7 +15959,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "50",
@@ -15970,7 +15975,7 @@
       "Name": "Sky Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "52",
@@ -16058,7 +16063,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "9",
@@ -16073,15 +16078,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9865,
+      "Progressed": 9866,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-25T03:58:58.9826596+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:09:00.2608036+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:08:20.724408+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:59:53.7962969+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:09:00.2610593+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:59:37.4225676+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:08:20.7245632+00:00"
 }

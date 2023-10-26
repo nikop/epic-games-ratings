@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7466,
+  "EOS_Progressed": 7467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5012,6 +5012,11 @@
       "Time": "2023-10-26T10:12:02.0391937+00:00",
       "NumProgressed": 7466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T11:11:10.5316585+00:00",
+      "NumProgressed": 7467,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5144,7 +5149,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "GamesPlayed10",
@@ -5222,9 +5227,9 @@
       "ID": "HAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Healing Amplifier to Level 3",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 75
     },
     {
       "ID": "HGPurchased1",
@@ -5615,7 +5620,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7466,
+      "Progressed": 7467,
       "Completed": 1
     }
   ],
@@ -5623,8 +5628,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:12:02.0391931+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:11:10.531658+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:02:40.2192417+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:12:02.0393072+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:02:18.1751352+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:11:10.5317738+00:00"
 }

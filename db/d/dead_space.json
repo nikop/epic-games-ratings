@@ -679,7 +679,7 @@
   ],
   "EOS_Progressed": 1220,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3839,9 +3839,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 573
     },
     {
       "ID": "achievement_19",
@@ -4152,8 +4152,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-24T11:59:43.9423554+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:09:43.8516027+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:09:18.5153638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:01:47.2281259+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:09:43.8516687+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:01:32.4727242+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:09:18.5154622+00:00"
 }

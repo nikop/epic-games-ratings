@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8250,7 +8250,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63942,
+  "EOS_Progressed": 63944,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -28215,6 +28215,11 @@
       "Time": "2023-10-26T10:10:56.1501945+00:00",
       "NumProgressed": 63942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T11:10:12.5467945+00:00",
+      "NumProgressed": 63944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28354,7 +28359,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8312
+      "UsersEstimate": 8313
     },
     {
       "ID": "Great Granny",
@@ -28450,7 +28455,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21101
+      "UsersEstimate": 21102
     },
     {
       "ID": "Lawbringer",
@@ -28458,7 +28463,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24937
+      "UsersEstimate": 24938
     },
     {
       "ID": "Lawmaker",
@@ -28586,7 +28591,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8312
+      "UsersEstimate": 8313
     },
     {
       "ID": "This is Sparta",
@@ -28633,15 +28638,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63942,
+      "Progressed": 63944,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-25T20:01:17.0582759+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:10:56.1501939+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:10:12.5467941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:04:18.9750845+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:10:56.1503736+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:03:46.7351345+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:10:12.546977+00:00"
 }

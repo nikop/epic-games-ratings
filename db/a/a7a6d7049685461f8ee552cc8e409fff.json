@@ -4,8 +4,8 @@
   "ProductSlug": "arcadia-078924",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-22T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -32,7 +32,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-10-19T10:57:09.3977017+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:58:13.165189+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:09:34.3398936+00:00"
+  "LastUpdate_AppInfo": "2023-10-26T10:57:20.9926833+00:00",
+  "LastUpdate_Ratings": "2023-10-26T10:58:18.3889918+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:09:10.0210041+00:00"
 }

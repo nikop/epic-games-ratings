@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "49",
       "SetID": "5e3maia",
       "Name": "True Survivor",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "5",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-26T10:09:04.0695293+00:00",
+  "LastChanged_Achievements": "2023-10-26T11:08:23.9754552+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3050525+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:02:20.2496691+00:00",
-  "LastUpdate_Achievements": "2023-10-26T10:09:04.0696331+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:02:00.9048814+00:00",
+  "LastUpdate_Achievements": "2023-10-26T11:08:23.9755211+00:00"
 }

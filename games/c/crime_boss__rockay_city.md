@@ -35,13 +35,13 @@ Rating: 3.94 (Ranked 991)
 | Rockay Raider | 0.20% | ~179 |
 | Rockay Knight | 0.20% | ~179 |
 | Groundhog Days | 0.20% | ~179 |
+| Cracked the Jack | 0.20% | ~179 |
 | Red Star | 0.20% | ~179 |
 | Classy Joint | 0.20% | ~179 |
 | All for One | 0.20% | ~35 |
 | Privateer | 0.10% | ~89 |
 | Talent Scout | 0.10% | ~89 |
 | Full House | 0.10% | ~89 |
-| Cracked the Jack | 0.10% | ~89 |
 | Geek Out | 0.10% | ~89 |
 | Impossible Dreamer | 0.10% | ~89 |
 | One for All | 0.10% | ~18 |
