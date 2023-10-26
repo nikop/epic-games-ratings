@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.37% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.35% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -69,7 +69,7 @@
 | 67 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.76% |
 | 67 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.76% |
 | 69 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
-| 70 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.69% |
+| 70 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.68% |
 | 71 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 72 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 73 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
@@ -83,7 +83,7 @@
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
 | 83 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.52% |
+| 84 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.51% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.38% |
 | 87 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -119,7 +119,7 @@
 | 117 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 118 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
 | 119 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 120 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.84% |
+| 120 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.83% |
 | 121 | [Sifu](games/s/sifu.md) | 1.81% |
 | 122 | [Frogun](games/f/frogun.md) | 1.79% |
 | 123 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
@@ -172,14 +172,14 @@
 | 170 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 171 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 172 | [Haven](games/h/haven.md) | 0.60% |
-| 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 174 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 174 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 176 | [Dead Space](games/d/dead_space.md) | 0.57% |
-| 176 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
-| 176 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
-| 176 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 176 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 172 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.60% |
+| 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 177 | [Dead Space](games/d/dead_space.md) | 0.57% |
+| 177 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
+| 177 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 177 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 182 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 183 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -207,7 +207,7 @@
 | 203 | [Them and Us](games/t/them_and_us.md) | 0.37% |
 | 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 208 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.34% |
+| 208 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.33% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 209 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
