@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.39% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.38% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -31,7 +31,7 @@
 | 29 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 29 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
 | 29 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 11.11% |
-| 32 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.98% |
+| 32 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.84% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
@@ -52,7 +52,7 @@
 | 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.44% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 53 | [Scorn](games/s/scorn.md) | 6.98% |
+| 53 | [Scorn](games/s/scorn.md) | 6.97% |
 | 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
 | 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 56 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -173,10 +173,10 @@
 | 171 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 172 | [Haven](games/h/haven.md) | 0.60% |
 | 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.59% |
-| 175 | [Dead Space](games/d/dead_space.md) | 0.58% |
-| 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 174 | [Dead Space](games/d/dead_space.md) | 0.58% |
+| 174 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 174 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.58% |
 | 178 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
 | 178 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 178 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
@@ -207,7 +207,7 @@
 | 203 | [Them and Us](games/t/them_and_us.md) | 0.37% |
 | 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
-| 207 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.35% |
+| 208 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.34% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 209 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
