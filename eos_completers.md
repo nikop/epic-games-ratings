@@ -5,7 +5,7 @@
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.48% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.23% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.20% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -74,7 +74,7 @@
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 73 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.30% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.29% |
 | 76 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.17% |
 | 76 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
@@ -86,7 +86,7 @@
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 85 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.51% |
 | 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.38% |
+| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.37% |
 | 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 89 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 90 | [The Complex](games/t/the_complex.md) | 3.23% |
@@ -124,7 +124,7 @@
 | 122 | [Sifu](games/s/sifu.md) | 1.81% |
 | 123 | [Frogun](games/f/frogun.md) | 1.79% |
 | 124 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
-| 125 | [Night Book](games/n/night_book.md) | 1.73% |
+| 125 | [Night Book](games/n/night_book.md) | 1.72% |
 | 126 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.71% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
 | 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.64% |
@@ -169,14 +169,14 @@
 | 167 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.65% |
 | 169 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 169 | [The Devil's Face](games/t/the_devil's_face.md) | 0.64% |
-| 171 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 170 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
+| 170 | [The Devil's Face](games/t/the_devil's_face.md) | 0.63% |
 | 172 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 173 | [Haven](games/h/haven.md) | 0.60% |
 | 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.59% |
-| 176 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 176 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 175 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.58% |
 | 178 | [Dead Space](games/d/dead_space.md) | 0.57% |
 | 178 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 178 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
@@ -216,10 +216,10 @@
 | 213 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 213 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
 | 213 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 213 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.30% |
 | 213 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 219 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 219 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
+| 218 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.29% |
+| 218 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 218 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 221 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 222 | [Filament](games/f/filament.md) | 0.26% |
 | 223 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
@@ -703,4 +703,4 @@
 | 327 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 327 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 327 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,466 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,467 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
