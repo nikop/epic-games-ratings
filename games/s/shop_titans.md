@@ -39,12 +39,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,382 |
 | Did we pack lunch? | 1.00% | ~1,382 |
 | Arcane Industries | 1.00% | ~1,382 |
-| Research & Development | 0.90% | ~1,243 |
-| Fated Encounters | 0.90% | ~1,243 |
-| Power of Love | 0.90% | ~1,243 |
-| Flawless Fusion | 0.90% | ~1,243 |
-| Royal Ransom | 0.90% | ~1,243 |
-| Magical Harmony | 0.90% | ~1,243 |
+| Research & Development | 0.90% | ~1,244 |
+| Fated Encounters | 0.90% | ~1,244 |
+| Power of Love | 0.90% | ~1,244 |
+| Flawless Fusion | 0.90% | ~1,244 |
+| Royal Ransom | 0.90% | ~1,244 |
+| Magical Harmony | 0.90% | ~1,244 |
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
 | Scrapbooker | 0.80% | ~1,105 |
@@ -105,10 +105,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thank You Tom Nook | 0.40% | ~553 |
 | Eternal Crusade | 0.40% | ~553 |
 | All Accounted For | 0.40% | ~553 |
-| JACKPOT!!! | 0.30% | ~414 |
-| The Greatest Grind | 0.30% | ~414 |
-| All or Nothing! | 0.30% | ~414 |
-| Marvels from the World Over | 0.30% | ~414 |
+| JACKPOT!!! | 0.30% | ~415 |
+| The Greatest Grind | 0.30% | ~415 |
+| All or Nothing! | 0.30% | ~415 |
+| Marvels from the World Over | 0.30% | ~415 |
 | Bane of Legends | 0.20% | ~276 |
 | Ultimate Collector | 0.20% | ~276 |
 | Oligarch Monarch | 0.20% | ~276 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,165 (Ranked 75)  
+Progressed: 138,168 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,165 | 172 |
+| 2023-10-26 | 138,168 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,447 (Ranked 51)  

@@ -3,9 +3,9 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1168,9 +1168,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1231,8 +1231,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:04:25.5322719+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:03:32.0421349+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:59:04.1282966+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:04:25.5323006+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:58:31.2685312+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:03:32.0421662+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 810,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2692,9 +2692,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_47",
@@ -2708,9 +2708,9 @@
       "ID": "achievement_48",
       "SetID": "d252ncf",
       "Name": "The Krogan",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_49",
@@ -2804,9 +2804,9 @@
       "ID": "achievement_59",
       "SetID": "d252ncf",
       "Name": "The Prodigal",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_6",
@@ -2956,9 +2956,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_77",
@@ -3176,8 +3176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:06:12.5025797+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:05:00.7715068+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:58:38.8651372+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:06:12.5029761+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:58:16.4798355+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:05:00.7717945+00:00"
 }

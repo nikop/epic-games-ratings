@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -465,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 250230,
+  "EOS_Progressed": 250234,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21610,6 +21610,11 @@
       "Time": "2023-10-26T16:06:34.3889986+00:00",
       "NumProgressed": 250230,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T17:05:16.2999563+00:00",
+      "NumProgressed": 250234,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21621,7 +21626,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67562
+      "UsersEstimate": 67563
     },
     {
       "ID": "ACH_AON",
@@ -21765,7 +21770,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70064
+      "UsersEstimate": 70066
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21925,7 +21930,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20018
+      "UsersEstimate": 20019
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -21933,7 +21938,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20018
+      "UsersEstimate": 20019
     },
     {
       "ID": "ACH_SCRATCH",
@@ -22013,7 +22018,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20018
+      "UsersEstimate": 20019
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -22036,7 +22041,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250230,
+      "Progressed": 250234,
       "Completed": 7
     }
   ],
@@ -22044,8 +22049,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:06:34.3889982+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:05:16.2999559+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:58:26.2211944+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:06:34.3892399+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:58:09.2314336+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:05:16.3001105+00:00"
 }

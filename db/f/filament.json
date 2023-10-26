@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 798,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 112,
@@ -282,9 +282,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204116,
+  "EOS_Progressed": 204118,
   "EOS_Completed": 521,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -20632,6 +20632,11 @@
       "Time": "2023-10-26T16:09:13.7019637+00:00",
       "NumProgressed": 204116,
       "NumCompleted": 521
+    },
+    {
+      "Time": "2023-10-26T17:07:14.0885503+00:00",
+      "NumProgressed": 204118,
+      "NumCompleted": 521
     }
   ],
   "TotalAchievements": 29,
@@ -20667,7 +20672,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 191869
+      "UsersEstimate": 191871
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -20715,7 +20720,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -20811,7 +20816,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -20874,7 +20879,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 204116,
+      "Progressed": 204118,
       "Completed": 521
     }
   ],
@@ -20882,8 +20887,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-22T12:59:24.8550315+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:09:13.7019633+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:07:14.0885498+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.9589793+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:59:43.0039413+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:09:13.7021375+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:58:55.0207235+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:07:14.0886981+00:00"
 }

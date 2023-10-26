@@ -8,13 +8,13 @@ Number of Ratings: 1,611  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,431 |
 | Biggest Communism Builder | 24.00% | ~31,227 |
-| The World's Most Laughable Centrist | 21.00% | ~27,323 |
+| The World's Most Laughable Centrist | 21.00% | ~27,324 |
 | Il Coppo Del'Arte! | 18.00% | ~23,420 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,818 |
 | Hyperstellar Law Official | 16.00% | ~20,818 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,216 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,216 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,914 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,915 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,312 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,011 |
 | Unbelievably Boring **** | 9.00% | ~11,710 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,111 (Ranked 77)  
+Progressed: 130,112 (Ranked 77)  
 Completed: 28 (0.02%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 28 (0.02%) (Ranked 299)
 | 2023-10-23 | 130,031 | 28 |
 | 2023-10-24 | 130,059 | 28 |
 | 2023-10-25 | 130,094 | 28 |
-| 2023-10-26 | 130,111 | 28 |
+| 2023-10-26 | 130,112 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
-Sum: 1,109 (Ranked 242)  
+Sum: 1,110 (Ranked 242)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): -68
 | This game has Unique Visuals | 37 |
 | This game is Relaxing | 36 |
 | This game has Amazing Characters | 36 |
-| This game has Diverse Characters | 32 |
+| This game has Diverse Characters | 33 |
 | This game is Extremely Fun | 30 |
 | This game has Obsessive Gameplay | 26 |
 | This game has a Creative Community | 24 |
@@ -400,3 +400,4 @@ Diff (max vs sum): -68
 | 2023-10-19 | 4.87 | - | 734 | 1,107 |
 | 2023-10-20 | 4.87 | - | 734 | 1,108 |
 | 2023-10-24 | 4.87 | - | 734 | 1,109 |
+| 2023-10-26 | 4.87 | - | 734 | 1,110 |

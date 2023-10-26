@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,707 |
-| Returning Home: Quick Learner | 26.00% | ~1,436 |
+| Level: Returning Home | 49.00% | ~2,708 |
+| Returning Home: Quick Learner | 26.00% | ~1,437 |
 | Level: Charlie's Circuits | 22.00% | ~1,216 |
 | Level: Rising Markets | 9.00% | ~497 |
 | Peddler | 8.00% | ~442 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~166 |
 | Modular Performance | 3.00% | ~166 |
 | Salesperson | 3.00% | ~166 |
-| Level: Merry-Go-Around | 2.00% | ~110 |
-| Charlies's Circuits: Artist | 2.00% | ~110 |
-| Modular Peak | 2.00% | ~110 |
-| Accountant | 2.00% | ~110 |
-| Data Churn Type III | 2.00% | ~110 |
-| Multi-Millionaire | 2.00% | ~110 |
-| Contender | 2.00% | ~110 |
-| Trophy Collector | 2.00% | ~110 |
-| Module Maniac | 2.00% | ~110 |
-| Overproducer | 2.00% | ~110 |
-| Natural Talent | 2.00% | ~110 |
+| Level: Merry-Go-Around | 2.00% | ~111 |
+| Charlies's Circuits: Artist | 2.00% | ~111 |
+| Modular Peak | 2.00% | ~111 |
+| Accountant | 2.00% | ~111 |
+| Data Churn Type III | 2.00% | ~111 |
+| Multi-Millionaire | 2.00% | ~111 |
+| Contender | 2.00% | ~111 |
+| Trophy Collector | 2.00% | ~111 |
+| Module Maniac | 2.00% | ~111 |
+| Overproducer | 2.00% | ~111 |
+| Natural Talent | 2.00% | ~111 |
 | Level: A Happy Taskforce | 1.00% | ~55 |
 | Level: The Machinery | 1.00% | ~55 |
 | Extra Life: Knowledge Cap | 1.00% | ~55 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,525 (Ranked 174)  
+Progressed: 5,527 (Ranked 174)  
 Completed: 1 (0.02%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,6 +266,7 @@ Completed: 1 (0.02%) (Ranked 299)
 | 2023-10-22 | 5,519 | 1 |
 | 2023-10-23 | 5,521 | 1 |
 | 2023-10-24 | 5,525 | 1 |
+| 2023-10-26 | 5,527 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

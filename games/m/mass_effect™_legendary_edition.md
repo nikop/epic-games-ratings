@@ -38,14 +38,15 @@
 | The Professor | 41.00% | ~332 |
 | Power Full | 41.00% | ~332 |
 | The Archangel | 40.00% | ~324 |
-| The Convict | 38.00% | ~308 |
+| The Convict | 39.00% | ~316 |
+| The Krogan | 38.00% | ~308 |
 | Colony Defense | 37.00% | ~300 |
-| The Krogan | 37.00% | ~300 |
 | Galactic Explorer | 37.00% | ~300 |
 | Completionist | 36.00% | ~292 |
+| Broke, Blind, and Bedlam | 36.00% | ~292 |
 | Ghost Ship | 35.00% | ~284 |
-| Broke, Blind, and Bedlam | 35.00% | ~284 |
 | The Quarian | 34.00% | ~275 |
+| The Prodigal | 34.00% | ~275 |
 | A Personal Touch | 33.00% | ~267 |
 | Archivist | 33.00% | ~267 |
 | The Assassin | 33.00% | ~267 |
@@ -54,7 +55,6 @@
 | Catharsis | 33.00% | ~267 |
 | Ghost of the Father | 33.00% | ~267 |
 | The Cure | 33.00% | ~267 |
-| The Prodigal | 33.00% | ~267 |
 | Shopaholic | 33.00% | ~267 |
 | Big Game Hunter | 32.00% | ~259 |
 | Revenge! | 32.00% | ~259 |

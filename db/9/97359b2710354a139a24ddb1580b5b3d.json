@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
     "PcReleaseDate": "2023-04-13T03:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "ACHIronMemory",
       "SetID": "bjbioka",
       "Name": "Iron Memory",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHLostTraveler",
@@ -204,17 +204,17 @@
       "ID": "ACHMirror1",
       "SetID": "bjbioka",
       "Name": "First Look",
-      "Percentage": 89,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHMirror2",
       "SetID": "bjbioka",
       "Name": "Second Look",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHMirror3",
@@ -276,9 +276,9 @@
       "ID": "ACHRelived",
       "SetID": "bjbioka",
       "Name": "Obsessive Thoughts",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHRoadtrip",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-10-07T02:12:50.0812742+00:00",
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:10:55.9591458+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:09:28.8468508+00:00",
   "LastUpdate_AppInfo": "2023-10-23T20:57:12.5546662+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:01:35.3324179+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:10:55.9591832+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:00:08.0023507+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:09:28.8468757+00:00"
 }

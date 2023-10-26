@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1355,9 +1355,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16279,
+  "EOS_Progressed": 16282,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8240,6 +8240,11 @@
       "Time": "2023-10-26T15:08:36.3482992+00:00",
       "NumProgressed": 16279,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-26T17:07:00.1784673+00:00",
+      "NumProgressed": 16282,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8355,7 +8360,7 @@
       "Name": "Get a Grip",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8626,13 +8631,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16279,
+      "Progressed": 16282,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4205,
+      "Progressed": 4208,
       "Completed": 29
     }
   ],
@@ -8640,8 +8645,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-26T08:02:06.3022624+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:08:54.7363638+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:07:00.1784669+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:01:34.9582268+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:08:54.7364557+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:00:07.7472279+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:07:00.1785528+00:00"
 }

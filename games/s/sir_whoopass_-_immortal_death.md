@@ -50,11 +50,11 @@
 | Slimy... yet satisfying | 18.00% | ~19 |
 | Deal with it | 17.00% | ~18 |
 | Just wing it! | 16.00% | ~17 |
+| Yeehaw!!! | 14.00% | ~15 |
+| You're looking mozzare-hella good! | 13.00% | ~14 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~14 |
-| Yeehaw!!! | 13.00% | ~14 |
-| You're looking mozzare-hella good! | 12.00% | ~13 |
-| Timber! | 10.00% | ~11 |
-| Free Of Chains | 10.00% | ~11 |
+| Timber! | 11.00% | ~12 |
+| Free Of Chains | 11.00% | ~12 |
 | Grumpy Immortal | 9.00% | ~10 |
 | Spoiler alert! | 8.00% | ~9 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~9 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 394)  
+Progressed: 107 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |

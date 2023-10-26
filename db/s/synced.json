@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -831,7 +831,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 64715,
+  "EOS_Progressed": 64723,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 7,
@@ -6721,6 +6721,11 @@
       "Time": "2023-10-26T16:04:19.4055398+00:00",
       "NumProgressed": 64715,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-26T17:03:27.7119006+00:00",
+      "NumProgressed": 64723,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6733,7 +6738,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20709
+      "UsersEstimate": 20711
     },
     {
       "ID": "10",
@@ -6749,7 +6754,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "12",
@@ -6757,7 +6762,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "13",
@@ -6797,7 +6802,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11002
+      "UsersEstimate": 11003
     },
     {
       "ID": "3",
@@ -6805,7 +6810,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8413
+      "UsersEstimate": 8414
     },
     {
       "ID": "4",
@@ -6821,7 +6826,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5177
+      "UsersEstimate": 5178
     },
     {
       "ID": "6",
@@ -6837,7 +6842,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "8",
@@ -6860,7 +6865,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64715,
+      "Progressed": 64723,
       "Completed": 25
     }
   ],
@@ -6868,8 +6873,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-26T16:03:12.837238+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:04:19.4055394+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:03:27.7119+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:03:12.8372384+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:04:19.4055954+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:01:01.985061+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:03:27.7119591+00:00"
 }

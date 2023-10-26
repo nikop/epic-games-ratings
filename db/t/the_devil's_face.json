@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
@@ -2044,6 +2044,11 @@
       "Time": "2023-10-26T15:06:32.5529492+00:00",
       "NumProgressed": 473,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-26T17:05:22.4501017+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2063,7 +2068,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2111,7 +2116,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2166,14 +2171,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:06:42.9019506+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:05:22.4501011+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:59:25.1554083+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:06:42.9019905+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:58:45.8238172+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:05:22.4501265+00:00"
 }

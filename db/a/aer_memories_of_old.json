@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,11 +413,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22805,
-  "EOS_Completed": 443,
+  "EOS_Progressed": 22807,
+  "EOS_Completed": 444,
   "EOS_NewPlayers": 423,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.94,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -20728,6 +20728,11 @@
       "Time": "2023-10-26T16:09:31.5628827+00:00",
       "NumProgressed": 22805,
       "NumCompleted": 443
+    },
+    {
+      "Time": "2023-10-26T17:07:27.2854155+00:00",
+      "NumProgressed": 22807,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 20,
@@ -20763,7 +20768,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -20779,7 +20784,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20787,7 +20792,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -20859,7 +20864,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17560
+      "UsersEstimate": 17561
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20867,7 +20872,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6385
+      "UsersEstimate": 6386
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20898,15 +20903,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22805,
-      "Completed": 443
+      "Progressed": 22807,
+      "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:09:31.5628822+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:07:27.2854148+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:03:51.2050516+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:09:31.5631307+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:03:10.7853721+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:07:27.2855611+00:00"
 }

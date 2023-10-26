@@ -4,10 +4,10 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 297,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -557,9 +557,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13613,
+  "EOS_Progressed": 13614,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10282,6 +10282,11 @@
       "Time": "2023-10-26T14:06:28.2452782+00:00",
       "NumProgressed": 13613,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-26T17:04:51.6956957+00:00",
+      "NumProgressed": 13614,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -10293,7 +10298,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12524
+      "UsersEstimate": 12525
     },
     {
       "ID": "ACH_02",
@@ -10301,7 +10306,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10754
+      "UsersEstimate": 10755
     },
     {
       "ID": "ACH_03",
@@ -10317,7 +10322,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9665
+      "UsersEstimate": 9666
     },
     {
       "ID": "ACH_05",
@@ -10325,7 +10330,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9393
+      "UsersEstimate": 9394
     },
     {
       "ID": "ACH_06",
@@ -10341,7 +10346,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8576
+      "UsersEstimate": 8577
     },
     {
       "ID": "ACH_08",
@@ -10349,7 +10354,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "ACH_09",
@@ -10373,7 +10378,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6670
+      "UsersEstimate": 6671
     },
     {
       "ID": "ACH_12",
@@ -10381,7 +10386,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "ACH_13",
@@ -10389,7 +10394,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5445
+      "UsersEstimate": 5446
     },
     {
       "ID": "ACH_14",
@@ -10405,7 +10410,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4628
+      "UsersEstimate": 4629
     },
     {
       "ID": "ACH_16",
@@ -10413,7 +10418,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3403
+      "UsersEstimate": 3404
     },
     {
       "ID": "ACH_17",
@@ -10509,7 +10514,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9393
+      "UsersEstimate": 9394
     },
     {
       "ID": "ACH_29",
@@ -10572,7 +10577,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13613,
+      "Progressed": 13614,
       "Completed": 50
     }
   ],
@@ -10580,8 +10585,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-19T21:01:27.400524+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:06:00.0495266+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:04:51.6956951+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.8379595+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:00:21.890304+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:06:00.0496469+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:59:25.9707416+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:04:51.6957795+00:00"
 }

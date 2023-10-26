@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~188 |
-| Brute force | 82.00% | ~175 |
-| Nimble fingers | 79.00% | ~169 |
-| Room 104 | 79.00% | ~169 |
-| Face to face | 79.00% | ~169 |
-| Let's play a game… | 75.00% | ~160 |
-| Now or never | 75.00% | ~160 |
+| What's going on here? | 88.00% | ~189 |
+| Brute force | 82.00% | ~176 |
+| Nimble fingers | 79.00% | ~170 |
+| Room 104 | 79.00% | ~170 |
+| Face to face | 78.00% | ~168 |
+| Now or never | 75.00% | ~161 |
+| Let's play a game… | 74.00% | ~159 |
 | First aid | 62.00% | ~133 |
-| Soundtrack | 62.00% | ~133 |
-| Antidote | 55.00% | ~118 |
+| Soundtrack | 61.00% | ~131 |
+| Antidote | 54.00% | ~116 |
 | Pick the right door | 26.00% | ~56 |
 | The third floor | 20.00% | ~43 |
 | One-way | 18.00% | ~39 |
-| On the right path | 17.00% | ~36 |
+| On the right path | 17.00% | ~37 |
 | It can't be true | 16.00% | ~34 |
 | I'm close now | 13.00% | ~28 |
 | Failed attempt | 13.00% | ~28 |
@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.50% | ~1 |
 | Sly as a fox | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214 (Ranked 348)  
+Progressed: 215 (Ranked 348)  
 Completed: 1 (0.47%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,3 +114,4 @@ Completed: 1 (0.47%) (Ranked 189)
 | 2023-10-23 | 207 | 0 |
 | 2023-10-24 | 210 | 1 |
 | 2023-10-25 | 214 | 1 |
+| 2023-10-26 | 215 | 1 |

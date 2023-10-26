@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~347 |
-| Decision Maker | 80.00% | ~286 |
-| Sneaky Sneak | 78.00% | ~279 |
-| DIY | 78.00% | ~279 |
-| Master Chef | 66.00% | ~236 |
+| Just Went Shopping | 97.00% | ~348 |
+| Decision Maker | 81.00% | ~291 |
+| Sneaky Sneak | 78.00% | ~280 |
+| DIY | 77.00% | ~276 |
+| Master Chef | 66.00% | ~237 |
 | Master of Cards | 58.00% | ~208 |
-| Over Nine Thousaaand | 57.00% | ~204 |
+| Over Nine Thousaaand | 57.00% | ~205 |
 | Getting the Hang Of This | 48.00% | ~172 |
 | Collector | 29.00% | ~104 |
 | That’s What Friends Are For | 22.00% | ~79 |
@@ -26,15 +26,15 @@
 | Is Anyone Out There? | 11.00% | ~39 |
 | Limitless | 10.00% | ~36 |
 | Hammer Time | 10.00% | ~36 |
-| Hired Goon | 6.00% | ~21 |
-| Holy Scrap! | 6.00% | ~21 |
+| Hired Goon | 6.00% | ~22 |
+| Holy Scrap! | 6.00% | ~22 |
 | How I Met Your Nana | 4.00% | ~14 |
 | KOBEEE! | 4.00% | ~14 |
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358 (Ranked 311)  
-Completed: 11 (3.07%) (Ranked 95)  
+Progressed: 359 (Ranked 310)  
+Completed: 11 (3.06%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 11 (3.07%) (Ranked 95)
 | 2023-10-21 | 356 | 11 |
 | 2023-10-24 | 357 | 11 |
 | 2023-10-25 | 358 | 11 |
+| 2023-10-26 | 359 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

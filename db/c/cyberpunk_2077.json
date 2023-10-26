@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14204,10 +14204,10 @@
       "Count": 11556
     }
   ],
-  "EOS_Progressed": 893902,
+  "EOS_Progressed": 893907,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1223,
-  "EOS_NewCompleters": 29,
+  "EOS_NewPlayers": 1220,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35649,6 +35649,11 @@
       "Time": "2023-10-26T16:09:16.2835087+00:00",
       "NumProgressed": 893902,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-26T17:07:15.9713977+00:00",
+      "NumProgressed": 893907,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35731,9 +35736,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "Gunslinger",
@@ -35803,9 +35808,9 @@
       "ID": "NeverFadeAway",
       "SetID": "47clieb",
       "Name": "Breathtaking",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "NoMansLand",
@@ -35987,9 +35992,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6257
+      "UsersEstimate": 7151
     },
     {
       "ID": "YipMan",
@@ -36180,21 +36185,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893902,
+      "Progressed": 893907,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22525,
+      "Progressed": 22530,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-26T16:02:34.6509511+00:00",
-  "LastChanged_Achievements": "2023-10-26T16:09:16.2835083+00:00",
+  "LastChanged_Achievements": "2023-10-26T17:07:15.9713969+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:02:34.6509519+00:00",
-  "LastUpdate_Achievements": "2023-10-26T16:09:16.2836981+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:00:39.3082984+00:00",
+  "LastUpdate_Achievements": "2023-10-26T17:07:15.971584+00:00"
 }

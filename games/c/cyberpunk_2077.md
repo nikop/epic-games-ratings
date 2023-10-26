@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.80% | ~7,151 |
-| V for Vendetta | 0.70% | ~6,257 |
+| V for Vendetta | 0.80% | ~7,151 |
 | Rough Landing | 0.60% | ~5,363 |
 | Full Body Conversion | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
@@ -16,7 +16,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
 | Right Back At Ya | 0.40% | ~3,576 |
+| Gun Fu | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
+| Breathtaking | 0.40% | ~3,576 |
 | The Hermit | 0.40% | ~3,576 |
 | The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
@@ -24,13 +26,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.40% | ~3,576 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
-| Gun Fu | 0.30% | ~2,682 |
 | Master Crafter | 0.30% | ~2,682 |
 | I Am The Law | 0.30% | ~2,682 |
 | Mean Streets | 0.30% | ~2,682 |
 | Christmas Tree Attack | 0.30% | ~2,682 |
 | The Quick and the Dead | 0.30% | ~2,682 |
-| Breathtaking | 0.30% | ~2,682 |
 | Life of the Road | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Lovers | 0.30% | ~2,682 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,902 (Ranked 15)  
+Progressed: 893,907 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,902 | 2,713 |
+| 2023-10-26 | 893,907 | 2,713 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 327,446 (Ranked 10)  

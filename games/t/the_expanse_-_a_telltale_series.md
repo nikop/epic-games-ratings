@@ -6,12 +6,12 @@ Rating: 4.60 (Ranked 401)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 0.30% | ~43 |
+| Drug Gifter | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | The Pit and the Pirates | 0.10% | ~14 |
 | Data Archivist | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
 | Stogie for Fogey | 0.10% | ~14 |
-| Drug Gifter | 0.10% | ~14 |
 | Spore Taste | 0.10% | ~14 |
 | Bottoms up! | 0.10% | ~14 |
 | Martian Music | 0.10% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 401)
 | Data Collector | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,344 (Ranked 141)  
+Progressed: 14,346 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 27 (0.19%) (Ranked 235)
 | 2023-10-23 | 14,276 | 27 |
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
-| 2023-10-26 | 14,344 | 27 |
+| 2023-10-26 | 14,346 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
