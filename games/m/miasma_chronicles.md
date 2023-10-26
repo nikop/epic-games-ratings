@@ -5,33 +5,33 @@ Rating: 4.43 (Ranked 681)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,380 |
-| Ranidaphobia | 77.00% | ~1,155 |
-| Aspiring Editor | 74.00% | ~1,110 |
-| Gun for Hire | 69.00% | ~1,035 |
-| I am the law! | 64.00% | ~960 |
-| Lumberjack | 53.00% | ~795 |
-| Croaked | 49.00% | ~735 |
-| Limp Richard | 48.00% | ~720 |
-| Exorcist | 48.00% | ~720 |
-| From Darkness to Light | 48.00% | ~720 |
-| Editor Adept | 47.00% | ~705 |
-| Giant Killer | 46.00% | ~690 |
-| Sensei | 44.00% | ~660 |
-| Firestarter | 42.00% | ~630 |
-| The meaning of Kain | 42.00% | ~630 |
-| Technophobe | 41.00% | ~615 |
-| Recycler | 40.00% | ~600 |
-| Are you not entertained? | 36.00% | ~540 |
-| Ganglord | 35.00% | ~525 |
-| Jarhead | 35.00% | ~525 |
-| Infiltrator | 35.00% | ~525 |
-| Pushing Daisy | 33.00% | ~495 |
-| Experienced | 32.00% | ~480 |
-| Hold The Line | 31.00% | ~465 |
-| Endgame | 27.00% | ~405 |
-| Savior | 27.00% | ~405 |
-| There Can Be Only One! | 26.00% | ~390 |
+| First Blood | 92.00% | ~1,382 |
+| Ranidaphobia | 77.00% | ~1,157 |
+| Aspiring Editor | 74.00% | ~1,111 |
+| Gun for Hire | 69.00% | ~1,036 |
+| I am the law! | 64.00% | ~961 |
+| Lumberjack | 53.00% | ~796 |
+| Croaked | 49.00% | ~736 |
+| Limp Richard | 48.00% | ~721 |
+| Exorcist | 48.00% | ~721 |
+| From Darkness to Light | 48.00% | ~721 |
+| Editor Adept | 47.00% | ~706 |
+| Giant Killer | 46.00% | ~691 |
+| Sensei | 44.00% | ~661 |
+| Firestarter | 42.00% | ~631 |
+| The meaning of Kain | 42.00% | ~631 |
+| Recycler | 40.00% | ~601 |
+| Technophobe | 40.00% | ~601 |
+| Are you not entertained? | 36.00% | ~541 |
+| Ganglord | 35.00% | ~526 |
+| Jarhead | 35.00% | ~526 |
+| Infiltrator | 35.00% | ~526 |
+| Pushing Daisy | 33.00% | ~496 |
+| Experienced | 32.00% | ~481 |
+| Hold The Line | 31.00% | ~466 |
+| Endgame | 27.00% | ~406 |
+| Savior | 27.00% | ~406 |
+| There Can Be Only One! | 26.00% | ~391 |
 | Silent but Violent | 23.00% | ~345 |
 | Chain Killer | 22.00% | ~330 |
 | The Watchers | 22.00% | ~330 |
@@ -55,9 +55,9 @@ Rating: 4.43 (Ranked 681)
 | Alpha Editor | 0.90% | ~14 |
 | Fratricide | 0.90% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
-| Goaaaaal! | 0.70% | ~10 |
+| Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 226)  
+Progressed: 1,502 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
-| 2023-10-26 | 1,500 | 0 |
+| 2023-10-26 | 1,502 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

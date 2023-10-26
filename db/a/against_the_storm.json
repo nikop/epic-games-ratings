@@ -12948,9 +12948,9 @@
       "ID": "WinWithRuins",
       "SetID": "cfbk359",
       "Name": "Ruins",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "WinWithTimedOrders",
@@ -13004,8 +13004,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-25T10:58:51.6036491+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:08:48.3346765+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:10:33.5823315+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:00:12.1856776+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:08:48.3347802+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:01:03.9634458+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:10:33.5824532+00:00"
 }

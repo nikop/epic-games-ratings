@@ -6,11 +6,11 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~29,704 |
+| It's a steal! | 37.00% | ~29,705 |
 | Final touch | 36.00% | ~28,902 |
-| Prop-M Rover | 32.00% | ~25,690 |
+| Prop-M Rover | 32.00% | ~25,691 |
 | Changing the Planet | 28.00% | ~22,479 |
-| Sojourner | 26.00% | ~20,873 |
+| Sojourner | 26.00% | ~20,874 |
 | Beagle 2 | 24.00% | ~19,268 |
 | New Home | 23.00% | ~18,465 |
 | Winner Winner Terraformer | 21.00% | ~16,859 |
@@ -21,7 +21,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | No Longer Red | 18.00% | ~14,451 |
 | Self-sufficient | 18.00% | ~14,451 |
 | Money money | 15.00% | ~12,042 |
-| Biggest Reward | 14.00% | ~11,239 |
+| Biggest Reward | 14.00% | ~11,240 |
 | First Journey | 13.00% | ~10,437 |
 | Acquired knowledge | 12.00% | ~9,634 |
 | Hellenic Elysium | 12.00% | ~9,634 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,408 |
 | Opportunity | 3.00% | ~2,408 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,282 (Ranked 90)  
+Progressed: 80,283 (Ranked 90)  
 Completed: 147 (0.18%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,16 +226,16 @@ Completed: 147 (0.18%) (Ranked 237)
 | 2023-10-23 | 80,087 | 144 |
 | 2023-10-24 | 80,193 | 145 |
 | 2023-10-25 | 80,267 | 147 |
-| 2023-10-26 | 80,282 | 147 |
+| 2023-10-26 | 80,283 | 147 |
 ## Awards
 Max (Relaxing): 520  (Ranked 202)  
-Sum: 3,205 (Ranked 169)  
+Sum: 3,208 (Ranked 169)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 520 |
 | This game is Highly Recommended | 502 |
-| This game has Quickly Understood Controls | 465 |
+| This game has Quickly Understood Controls | 468 |
 | This game has Competitive Players | 455 |
 | This game is Extremely Fun | 452 |
 | This game has Amazing Storytelling | 364 |
@@ -437,3 +437,4 @@ Diff (max vs sum): 33
 | 2023-10-22 | 4.54 | - | 520 | 3,201 |
 | 2023-10-24 | 4.54 | - | 520 | 3,203 |
 | 2023-10-25 | 4.54 | - | 520 | 3,205 |
+| 2023-10-26 | 4.54 | - | 520 | 3,208 |

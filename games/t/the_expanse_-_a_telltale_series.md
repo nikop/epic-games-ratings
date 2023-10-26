@@ -5,10 +5,10 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Oyedang, Kopengs | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | The Pit and the Pirates | 0.10% | ~14 |
 | Data Archivist | 0.10% | ~14 |
-| Oyedang, Kopengs | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
 | Stogie for Fogey | 0.10% | ~14 |
 | Drug Gifter | 0.10% | ~14 |

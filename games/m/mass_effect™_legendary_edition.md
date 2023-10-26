@@ -19,7 +19,7 @@
 | Charismatic | 57.00% | ~461 |
 | Soldier | 56.00% | ~453 |
 | Turian Ally | 56.00% | ~453 |
-| Asari Ally | 52.00% | ~421 |
+| Asari Ally | 53.00% | ~429 |
 | Principled | 52.00% | ~421 |
 | Medal of Exploration III | 51.00% | ~413 |
 | Soldier Ally | 50.00% | ~404 |
@@ -54,11 +54,11 @@
 | Ghost of the Father | 33.00% | ~267 |
 | The Cure | 33.00% | ~267 |
 | The Prodigal | 33.00% | ~267 |
+| Shopaholic | 33.00% | ~267 |
 | Catharsis | 32.00% | ~259 |
 | Big Game Hunter | 32.00% | ~259 |
 | Revenge! | 32.00% | ~259 |
 | Heart of Darkness | 32.00% | ~259 |
-| Shopaholic | 32.00% | ~259 |
 | Fade Away | 31.00% | ~251 |
 | Agent | 31.00% | ~251 |
 | Driven | 31.00% | ~251 |
@@ -80,9 +80,9 @@
 | World Shaker | 26.00% | ~210 |
 | Eye of the Hurricane | 25.00% | ~202 |
 | Weapon Specialist | 25.00% | ~202 |
+| Tunnel Rat | 25.00% | ~202 |
 | Liberator | 25.00% | ~202 |
 | Pathfinder | 24.00% | ~194 |
-| Tunnel Rat | 24.00% | ~194 |
 | Savior | 23.00% | ~186 |
 | Paramour II | 23.00% | ~186 |
 | Arbiter | 23.00% | ~186 |
@@ -98,8 +98,8 @@
 | Last Resort | 19.00% | ~154 |
 | Last Witness | 19.00% | ~154 |
 | Well Connected | 19.00% | ~154 |
+| Sabotage Specialist | 18.00% | ~146 |
 | Electronics Specialist | 17.00% | ~138 |
-| Sabotage Specialist | 17.00% | ~138 |
 | Executioner | 17.00% | ~138 |
 | Master and Commander | 17.00% | ~138 |
 | Throw Mastery | 16.00% | ~129 |
@@ -114,12 +114,12 @@
 | Overload Specialist | 11.00% | ~89 |
 | Barrier Mastery | 10.00% | ~81 |
 | Always Prepared | 10.00% | ~81 |
+| Lift Mastery | 10.00% | ~81 |
 | Hijacker | 9.00% | ~73 |
-| Lift Mastery | 9.00% | ~73 |
 | Sky High | 8.00% | ~65 |
+| Singularity Mastery | 8.00% | ~65 |
 | Insanity I | 7.00% | ~57 |
 | Damping Specialist | 7.00% | ~57 |
-| Singularity Mastery | 7.00% | ~57 |
 | Incineration Specialist | 6.00% | ~49 |
 | Shield Breaker | 5.00% | ~40 |
 | Tactician | 4.00% | ~32 |

@@ -33,10 +33,10 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
+| Fleetmaster | 0.90% | ~29 |
 | Mind Like a Fortress | 0.90% | ~29 |
 | Junk Banishment | 0.90% | ~29 |
 | Tactical Flexibility | 0.90% | ~29 |
-| Fleetmaster | 0.80% | ~26 |
 | For the Machine God | 0.80% | ~26 |
 | Patron of Deimos | 0.70% | ~23 |
 | Preservationist | 0.70% | ~23 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,277 (Ranked 193)  
+Progressed: 3,277 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |

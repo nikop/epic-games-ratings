@@ -6,16 +6,16 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,200 |
-| Leader | 61.00% | ~6,016 |
-| Explorer | 53.00% | ~5,227 |
+| First Step | 73.00% | ~7,201 |
+| Leader | 61.00% | ~6,017 |
+| Explorer | 53.00% | ~5,228 |
 | Healer | 52.00% | ~5,129 |
 | Aspiring Inventor | 44.00% | ~4,340 |
-| Adventurer | 42.00% | ~4,142 |
+| Adventurer | 42.00% | ~4,143 |
 | Famous Healer | 38.00% | ~3,748 |
 | Local Leader | 35.00% | ~3,452 |
-| Famous Explorer | 34.00% | ~3,353 |
-| New Opportunities | 34.00% | ~3,353 |
+| Famous Explorer | 34.00% | ~3,354 |
+| New Opportunities | 34.00% | ~3,354 |
 | Energized | 33.00% | ~3,255 |
 | The Long Haul | 33.00% | ~3,255 |
 | Survivor | 32.00% | ~3,156 |
@@ -23,11 +23,11 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 28.00% | ~2,762 |
 | Cleaner | 28.00% | ~2,762 |
 | Catastrofan | 28.00% | ~2,762 |
-| Finders, Keepers | 26.00% | ~2,564 |
+| Finders, Keepers | 26.00% | ~2,565 |
 | Top Notch | 25.00% | ~2,466 |
-| Great Leader | 23.00% | ~2,268 |
-| Ice Lakes | 23.00% | ~2,268 |
-| Mentor | 23.00% | ~2,268 |
+| Great Leader | 23.00% | ~2,269 |
+| Ice Lakes | 23.00% | ~2,269 |
+| Mentor | 23.00% | ~2,269 |
 | Merchant | 22.00% | ~2,170 |
 | Real Survivor | 22.00% | ~2,170 |
 | Rocket Surgeon | 20.00% | ~1,973 |
@@ -36,7 +36,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 17.00% | ~1,677 |
 | Around the World | 17.00% | ~1,677 |
 | Spreading Influence | 17.00% | ~1,677 |
-| Bookworm | 15.00% | ~1,479 |
+| Bookworm | 15.00% | ~1,480 |
 | Famous Adventurer | 14.00% | ~1,381 |
 | Prepared for Anything | 14.00% | ~1,381 |
 | Big Catastrofan | 13.00% | ~1,282 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,863 (Ranked 151)  
+Progressed: 9,864 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,11 +255,11 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 9,823 | 0 |
 | 2023-10-24 | 9,840 | 0 |
 | 2023-10-25 | 9,860 | 0 |
-| 2023-10-26 | 9,863 | 0 |
+| 2023-10-26 | 9,864 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 344)  
+Max (Extremely Fun): 103  (Ranked 345)  
 Sum: 714 (Ranked 286)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

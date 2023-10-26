@@ -26,7 +26,7 @@ Rating: 4.62 (Ranked 357)
 | Live with the Hot Ones | 42.00% | ~512 |
 | Wreckage | 42.00% | ~512 |
 | Keeper of the Faith | 40.00% | ~488 |
-| Betrayed | 38.00% | ~464 |
+| Betrayed | 39.00% | ~476 |
 | Legend Teller | 38.00% | ~464 |
 | Exodus | 37.00% | ~451 |
 | There's Always Peng! | 37.00% | ~451 |

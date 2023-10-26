@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
 | Military Prestige | 0.70% | ~105 |
+| Dualism | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
-| Dualism | 0.60% | ~90 |
 | Enlightenment | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,955 (Ranked 140)  
+Progressed: 14,956 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
-| 2023-10-26 | 14,955 | 5 |
+| 2023-10-26 | 14,956 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

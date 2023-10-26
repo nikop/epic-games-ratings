@@ -35,19 +35,19 @@ Rating: 3.94 (Ranked 991)
 | Rockay Raider | 0.20% | ~179 |
 | Rockay Knight | 0.20% | ~179 |
 | Groundhog Days | 0.20% | ~179 |
-| Cracked the Jack | 0.20% | ~179 |
 | Red Star | 0.20% | ~179 |
 | Classy Joint | 0.20% | ~179 |
 | All for One | 0.20% | ~35 |
 | Privateer | 0.10% | ~89 |
 | Talent Scout | 0.10% | ~89 |
 | Full House | 0.10% | ~89 |
+| Cracked the Jack | 0.10% | ~89 |
 | Geek Out | 0.10% | ~89 |
 | Impossible Dreamer | 0.10% | ~89 |
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,333 (Ranked 87)  
+Progressed: 89,336 (Ranked 87)  
 Completed: 52 (0.06%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 52 (0.06%) (Ranked 277)
 | 2023-10-23 | 89,291 | 50 |
 | 2023-10-24 | 89,312 | 51 |
 | 2023-10-25 | 89,327 | 52 |
-| 2023-10-26 | 89,333 | 52 |
+| 2023-10-26 | 89,336 | 52 |
 ## Awards
 Max (Diverse Characters): 510  (Ranked 204)  
 Sum: 2,887 (Ranked 175)  

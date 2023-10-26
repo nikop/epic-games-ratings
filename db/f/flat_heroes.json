@@ -1374,9 +1374,9 @@
       "ID": "World8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 48
     },
     {
       "ID": "World9Boss",
@@ -1399,8 +1399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:09:46.2966823+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:11:16.6299051+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:14.3981612+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:03:47.7870862+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:09:46.2967159+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:04:57.1660875+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:11:16.629955+00:00"
 }

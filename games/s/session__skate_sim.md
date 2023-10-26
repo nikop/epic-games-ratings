@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~122 |
 | Prince of Philly | 4.00% | ~122 |
 | Hoarder | 3.00% | ~91 |
+| Many plys later... | 3.00% | ~91 |
 | Pew-Pew | 3.00% | ~91 |
 | Cross lock country | 2.00% | ~61 |
-| Many plys later... | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |
 | Dipped! | 1.00% | ~30 |
 | Skatepark hero | 1.00% | ~30 |
@@ -234,8 +234,8 @@ Completed: 1 (0.03%) (Ranked 294)
 | 2023-10-25 | 3,038 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 408)  
-Sum: 531 (Ranked 310)  
-Diff (max vs sum): 98  
+Sum: 531 (Ranked 311)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |

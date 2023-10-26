@@ -4,7 +4,7 @@
   "ProductSlug": "brave",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.9169826+00:00",
   "LastChanged": "2023-03-31T05:58:33.9169828+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:03.1838454+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:57:53.8383209+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:10:10.9592727+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:58:38.142423+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:11:33.3297164+00:00"
 }

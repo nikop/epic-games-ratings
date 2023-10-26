@@ -6,24 +6,24 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~24,484 |
-| Quick Understanding of Block Extrusion | 68.00% | ~22,199 |
-| Nature or Nurture | 51.00% | ~16,649 |
-| Power Glove | 48.00% | ~15,670 |
-| Forgotten Memories | 41.00% | ~13,384 |
-| Cogs in the Machine | 34.00% | ~11,099 |
-| Mission Success | 19.00% | ~6,203 |
-| There's No Place Like Home | 19.00% | ~6,203 |
-| Green Cube Killer | 17.00% | ~5,550 |
-| Infinity Loop | 13.00% | ~4,244 |
-| Path to Salvation | 13.00% | ~4,244 |
-| Descendants | 11.00% | ~3,591 |
-| The Flawed Teacher | 9.00% | ~2,938 |
-| To Infinity and Beyond | 5.00% | ~1,632 |
-| The Truthful Enemy | 3.00% | ~979 |
+| Lost in Space | 75.00% | ~24,491 |
+| Quick Understanding of Block Extrusion | 68.00% | ~22,205 |
+| Nature or Nurture | 51.00% | ~16,654 |
+| Power Glove | 48.00% | ~15,674 |
+| Forgotten Memories | 41.00% | ~13,389 |
+| Cogs in the Machine | 34.00% | ~11,103 |
+| Mission Success | 19.00% | ~6,204 |
+| There's No Place Like Home | 19.00% | ~6,204 |
+| Green Cube Killer | 17.00% | ~5,551 |
+| Infinity Loop | 13.00% | ~4,245 |
+| Path to Salvation | 13.00% | ~4,245 |
+| Descendants | 11.00% | ~3,592 |
+| The Flawed Teacher | 9.00% | ~2,939 |
+| To Infinity and Beyond | 5.00% | ~1,633 |
+| The Truthful Enemy | 3.00% | ~980 |
 | Laser Sharp | 2.00% | ~653 |
-| Home Stretch | 1.00% | ~326 |
-| Get me out of here | 1.00% | ~326 |
+| Home Stretch | 1.00% | ~327 |
+| Get me out of here | 1.00% | ~327 |
 | Bronze collector | 0.90% | ~294 |
 | True collector | 0.80% | ~261 |
 | Gold collector | 0.80% | ~261 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.60% | ~196 |
 | Expert Collector | 0.60% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,645 (Ranked 118)  
+Progressed: 32,655 (Ranked 118)  
 Completed: 77 (0.24%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 77 (0.24%) (Ranked 222)
 | 2023-10-23 | 31,477 | 64 |
 | 2023-10-24 | 32,043 | 68 |
 | 2023-10-25 | 32,523 | 74 |
-| 2023-10-26 | 32,645 | 77 |
+| 2023-10-26 | 32,655 | 77 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

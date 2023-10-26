@@ -1,39 +1,39 @@
 # STAR WARS Jedi: Fallen Order Standard Edition
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-fallen-order)  
 [View Rawdata](../../db/s/star_wars_jedi__fallen_order_standard_edition.json)  
-Rating: 4.66 (Ranked 284)  
+Rating: 4.66 (Ranked 285)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~13,904 |
-| A Long Time Ago | 93.00% | ~12,931 |
-| Sabersmith | 81.00% | ~11,262 |
-| The Obstacle is the Way | 79.00% | ~10,984 |
-| Back At You | 74.00% | ~10,289 |
-| Happy Go Wookiee | 70.00% | ~9,733 |
-| Everything is Connected | 61.00% | ~8,481 |
-| Her Name Was Masana Tide | 56.00% | ~7,786 |
-| Bank Shot | 55.00% | ~7,647 |
-| Perfect Timing | 53.00% | ~7,369 |
-| Gorgara Falls | 51.00% | ~7,091 |
-| The Full Glow-Up | 51.00% | ~7,091 |
-| For A More Civilized Age | 49.00% | ~6,813 |
-| I Knew He Was No Good | 47.00% | ~6,535 |
-| The Holocron Awaits | 46.00% | ~6,396 |
-| Look Out Below | 45.00% | ~6,257 |
-| Scum and Villainy | 44.00% | ~6,118 |
-| Trust Only In The Force | 44.00% | ~6,118 |
-| Don't Mess with BD-1 | 42.00% | ~5,840 |
+| The Mantis | 100.00% | ~13,906 |
+| A Long Time Ago | 93.00% | ~12,933 |
+| Sabersmith | 81.00% | ~11,264 |
+| The Obstacle is the Way | 79.00% | ~10,986 |
+| Back At You | 74.00% | ~10,290 |
+| Happy Go Wookiee | 70.00% | ~9,734 |
+| Everything is Connected | 61.00% | ~8,483 |
+| Her Name Was Masana Tide | 56.00% | ~7,787 |
+| Bank Shot | 55.00% | ~7,648 |
+| Perfect Timing | 53.00% | ~7,370 |
+| Gorgara Falls | 51.00% | ~7,092 |
+| The Full Glow-Up | 51.00% | ~7,092 |
+| For A More Civilized Age | 49.00% | ~6,814 |
+| I Knew He Was No Good | 47.00% | ~6,536 |
+| The Holocron Awaits | 46.00% | ~6,397 |
+| Look Out Below | 45.00% | ~6,258 |
+| Scum and Villainy | 44.00% | ~6,119 |
+| Trust Only In The Force | 44.00% | ~6,119 |
+| Don't Mess with BD-1 | 42.00% | ~5,841 |
 | Blade Master | 39.00% | ~5,423 |
-| Full House | 37.00% | ~5,144 |
+| Full House | 37.00% | ~5,145 |
 | Legendary Beasts | 23.00% | ~3,198 |
 | Echo Location | 20.00% | ~2,781 |
 | Visiting Alderaan Places | 18.00% | ~2,503 |
 | Triple Take | 14.00% | ~1,947 |
 | Cal Got Your Tongue? | 14.00% | ~1,947 |
-| Big Bang | 12.00% | ~1,668 |
-| Feel the Force | 10.00% | ~1,390 |
-| Can't Touch This | 9.00% | ~1,251 |
+| Big Bang | 12.00% | ~1,669 |
+| Feel the Force | 10.00% | ~1,391 |
+| Can't Touch This | 9.00% | ~1,252 |
 | Medical Droid | 8.00% | ~1,112 |
 | Data Collector | 8.00% | ~1,112 |
 | Collector | 6.00% | ~834 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 284)
 | What Goes Around... | 3.00% | ~417 |
 | Not So Fast | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,904 (Ranked 142)  
+Progressed: 13,906 (Ranked 142)  
 Completed: 150 (1.08%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 150 (1.08%) (Ranked 144)
 | 2023-10-23 | 13,470 | 146 |
 | 2023-10-24 | 13,669 | 149 |
 | 2023-10-25 | 13,854 | 150 |
-| 2023-10-26 | 13,904 | 150 |
+| 2023-10-26 | 13,906 | 150 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

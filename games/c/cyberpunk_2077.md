@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ten out of Ten | 0.70% | ~6,257 |
+| Ten out of Ten | 0.80% | ~7,151 |
 | Rough Landing | 0.60% | ~5,363 |
+| Full Body Conversion | 0.50% | ~4,469 |
 | The High Priestess | 0.50% | ~4,469 |
 | True Soldier | 0.50% | ~4,469 |
 | All the President's Men | 0.50% | ~112 |
 | Arachnophobia | 0.50% | ~112 |
-| Full Body Conversion | 0.40% | ~3,575 |
 | Right Back At Ya | 0.40% | ~3,575 |
 | Gunslinger | 0.40% | ~3,575 |
 | Stanislavski's Method | 0.40% | ~3,575 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,850 (Ranked 15)  
+Progressed: 893,856 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,850 | 2,713 |
+| 2023-10-26 | 893,856 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
 Sum: 326,849 (Ranked 10)  

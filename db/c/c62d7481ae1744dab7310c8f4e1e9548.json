@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -687,9 +687,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Sputnik2",
@@ -719,9 +719,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Truhlice",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:09:36.6757636+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:11:05.6292308+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.8768391+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:01:25.0317037+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:09:36.6757877+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:02:21.7386916+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:11:05.629262+00:00"
 }

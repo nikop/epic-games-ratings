@@ -2267,9 +2267,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 16115,
+  "EOS_Progressed": 16117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1719,
+  "EOS_NewPlayers": 1714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6797,6 +6797,11 @@
       "Time": "2023-10-26T07:10:49.856845+00:00",
       "NumProgressed": 16115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T09:06:21.2450941+00:00",
+      "NumProgressed": 16117,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -6833,7 +6838,7 @@
       "Name": "Merchant of doom",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Achievement_Trophy05",
@@ -6849,7 +6854,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1451
     },
     {
       "ID": "Achievement_Trophy07",
@@ -6993,7 +6998,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 6929
+      "UsersEstimate": 6930
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7009,7 +7014,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5640
+      "UsersEstimate": 5641
     },
     {
       "ID": "Achievement_Trophy27",
@@ -7025,7 +7030,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5318
+      "UsersEstimate": 5319
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7049,7 +7054,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5479
+      "UsersEstimate": 5480
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7145,7 +7150,7 @@
       "Name": "Light of my life",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "Achievement_Trophy44",
@@ -7169,7 +7174,7 @@
       "Name": "Grin and bear it",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Achievement_Trophy47",
@@ -7193,7 +7198,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "Achievement_Trophy50",
@@ -7296,7 +7301,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 16115,
+      "Progressed": 16117,
       "Completed": 1
     }
   ],
@@ -7304,8 +7309,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-26T05:00:32.0814886+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:10:49.8568444+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:06:21.2450925+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:01:26.8141194+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:10:49.8569349+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:02:24.4490563+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:06:21.2476664+00:00"
 }

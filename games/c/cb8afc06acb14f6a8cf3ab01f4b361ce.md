@@ -5,21 +5,21 @@ Rating: 4.18 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~110,392 |
-| May the Torchbearer light our way | 36.00% | ~104,582 |
-| A powerful aura was here | 23.00% | ~66,816 |
-| Let's raise the stakes!! | 10.00% | ~29,051 |
-| Rumors are true | 6.00% | ~17,430 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,430 |
-| Pride is a sin, young Knight | 5.00% | ~14,525 |
-| Bring it on! | 5.00% | ~14,525 |
-| We'll be careful | 4.00% | ~11,620 |
-| Back to your senses | 3.00% | ~8,715 |
-| They tricked me | 2.00% | ~5,810 |
-| We need to talk | 2.00% | ~5,810 |
-| I feel drawn to it | 2.00% | ~5,810 |
-| They won't last long | 2.00% | ~5,810 |
-| I took a risk | 2.00% | ~5,810 |
+| The touch of Chaos | 38.00% | ~110,403 |
+| May the Torchbearer light our way | 36.00% | ~104,592 |
+| A powerful aura was here | 23.00% | ~66,823 |
+| Let's raise the stakes!! | 10.00% | ~29,053 |
+| Rumors are true | 6.00% | ~17,432 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,432 |
+| Pride is a sin, young Knight | 5.00% | ~14,527 |
+| Bring it on! | 5.00% | ~14,527 |
+| We'll be careful | 4.00% | ~11,621 |
+| Back to your senses | 3.00% | ~8,716 |
+| They tricked me | 2.00% | ~5,811 |
+| We need to talk | 2.00% | ~5,811 |
+| I feel drawn to it | 2.00% | ~5,811 |
+| They won't last long | 2.00% | ~5,811 |
+| I took a risk | 2.00% | ~5,811 |
 | Here to stay | 1.00% | ~2,905 |
 | Counting on you | 1.00% | ~2,905 |
 | This is the end | 1.00% | ~2,905 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 909)
 | We strike as one | 0.10% | ~291 |
 | Chaos be damned! | 0.10% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,506 (Ranked 50)  
+Progressed: 290,533 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-23 | 287,922 | 1 |
 | 2023-10-24 | 289,112 | 1 |
 | 2023-10-25 | 290,188 | 1 |
-| 2023-10-26 | 290,506 | 1 |
+| 2023-10-26 | 290,533 | 1 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 439)  
 Sum: 43 (Ranked 479)  

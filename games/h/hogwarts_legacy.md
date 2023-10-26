@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 119)
 | Loom for Improvement | 11.00% | ~32,882 |
 | A Talent for Spending | 11.00% | ~32,882 |
 | Coasting Along | 11.00% | ~32,882 |
-| The Hero of Hogwarts | 10.00% | ~29,892 |
-| Challenge Accepted | 10.00% | ~29,892 |
-| Followed the Butterflies | 10.00% | ~29,892 |
+| The Hero of Hogwarts | 10.00% | ~29,893 |
+| Challenge Accepted | 10.00% | ~29,893 |
+| Followed the Butterflies | 10.00% | ~29,893 |
 | The Spell Master | 9.00% | ~26,903 |
 | Rising From the Ashes | 9.00% | ~26,903 |
 | The Avenging Gazelle | 8.00% | ~23,914 |
@@ -40,10 +40,10 @@ Rating: 4.76 (Ranked 119)
 | Put Down Roots | 3.00% | ~8,968 |
 | The Auror's Apprentice | 3.00% | ~8,968 |
 | Floo Around the World | 3.00% | ~8,968 |
-| The Good Samaritan | 2.00% | ~5,978 |
-| Rise to the Challenges | 2.00% | ~5,978 |
-| Finishing Touches | 2.00% | ~5,978 |
-| A Forte for Achievement | 2.00% | ~5,978 |
+| The Good Samaritan | 2.00% | ~5,979 |
+| Rise to the Challenges | 2.00% | ~5,979 |
+| Finishing Touches | 2.00% | ~5,979 |
+| A Forte for Achievement | 2.00% | ~5,979 |
 | Savvy Spender | 1.00% | ~2,989 |
 | Merlin's Beard! | 1.00% | ~2,989 |
 | Demiguise Dread | 1.00% | ~2,989 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,092 |
 | Collector's Edition | 0.30% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,925 (Ranked 48)  
+Progressed: 298,926 (Ranked 48)  
 Completed: 494 (0.17%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 494 (0.17%) (Ranked 239)
 | 2023-10-23 | 298,741 | 491 |
 | 2023-10-24 | 298,780 | 492 |
 | 2023-10-25 | 298,885 | 493 |
-| 2023-10-26 | 298,925 | 494 |
+| 2023-10-26 | 298,926 | 494 |
 ## Awards
 Max (Character Customization): 23,781  (Ranked 17)  
 Sum: 46,651 (Ranked 30)  

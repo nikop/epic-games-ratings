@@ -1237,9 +1237,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154693,
+  "EOS_Progressed": 154701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1589,
+  "EOS_NewPlayers": 1592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13102,6 +13102,11 @@
       "Time": "2023-10-26T08:06:16.750721+00:00",
       "NumProgressed": 154693,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T09:07:42.5395051+00:00",
+      "NumProgressed": 154701,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13137,7 +13142,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -13273,7 +13278,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -13337,7 +13342,7 @@
       "Name": "Predator",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -13480,21 +13485,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154276,
-      "Completed": 1175
+      "Progressed": 154284,
+      "Completed": 1176
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154693,
+      "Progressed": 154701,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T05:01:34.9419451+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:06:16.7507208+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:07:42.5395046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:02:51.6613339+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:06:16.7508359+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:04:03.7922756+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:07:42.5396424+00:00"
 }

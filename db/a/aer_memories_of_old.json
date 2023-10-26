@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22787,
+  "EOS_Progressed": 22788,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20693,6 +20693,11 @@
       "Time": "2023-10-26T07:10:41.9209945+00:00",
       "NumProgressed": 22787,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-26T09:11:22.371073+00:00",
+      "NumProgressed": 22788,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20760,7 +20765,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -20776,7 +20781,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20816,7 +20821,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "INTRO_FINISHED",
@@ -20824,7 +20829,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17546
+      "UsersEstimate": 17547
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20832,7 +20837,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6380
+      "UsersEstimate": 6381
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20863,15 +20868,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22787,
+      "Progressed": 22788,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:09:51.4774149+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:11:22.3710726+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:04:39.1796645+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:09:51.477629+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:05:52.020276+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:11:22.3712337+00:00"
 }

@@ -1,7 +1,7 @@
 # Overcooked
 [Store](https://store.epicgames.com/en-US/p/overcooked)  
 [View Rawdata](../../db/o/overcooked.json)  
-Rating: 4.66 (Ranked 284)  
+Rating: 4.67 (Ranked 267)  
 Number of Ratings: 601  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 120  (Ranked 331)  
@@ -103,3 +103,4 @@ Diff (max vs sum): -94
 | 2023-10-14 | 4.67 | - | 118 | 118 |
 | 2023-10-16 | 4.66 | - | 118 | 118 |
 | 2023-10-17 | 4.66 | - | 120 | 120 |
+| 2023-10-26 | 4.67 | - | 120 | 120 |

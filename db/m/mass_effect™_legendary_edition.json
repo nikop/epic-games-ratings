@@ -2415,9 +2415,9 @@
       "ID": "achievement_15",
       "SetID": "b9pe172",
       "Name": "Sabotage Specialist",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_16",
@@ -2535,9 +2535,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_3",
@@ -2807,9 +2807,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_60",
@@ -3023,9 +3023,9 @@
       "ID": "achievement_84",
       "SetID": "d252ncf",
       "Name": "Tunnel Rat",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_85",
@@ -3071,9 +3071,9 @@
       "ID": "achievement_9",
       "SetID": "b9pe172",
       "Name": "Singularity Mastery",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_90",
@@ -3135,9 +3135,9 @@
       "ID": "achievement_97",
       "SetID": "d252ncf",
       "Name": "Shopaholic",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 267
     },
     {
       "ID": "achievement_98",
@@ -3171,8 +3171,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:06:37.5635078+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:08:06.7772339+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:58:46.115076+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:06:37.563722+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:59:32.3052916+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:08:06.777529+00:00"
 }

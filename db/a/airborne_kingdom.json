@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -330,7 +330,7 @@
   "Tags": [],
   "EOS_Progressed": 7397,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -5317,9 +5317,9 @@
       "ID": "AK_HARP_TUNED",
       "SetID": "dfmb89",
       "Name": "Harp Tuned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1775
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5501,8 +5501,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-10-26T08:07:10.4106205+00:00",
+  "LastChanged_Achievements": "2023-10-26T09:08:43.2398951+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.0384991+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:01:50.9451474+00:00",
-  "LastUpdate_Achievements": "2023-10-26T08:07:10.4106757+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:03:00.37424+00:00",
+  "LastUpdate_Achievements": "2023-10-26T09:08:43.2399792+00:00"
 }
