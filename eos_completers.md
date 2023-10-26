@@ -5,7 +5,7 @@
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.48% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.26% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.23% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -23,8 +23,8 @@
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 22 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
-| 24 | [Remains](games/r/remains.md) | 13.46% |
-| 25 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
+| 24 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
+| 25 | [Remains](games/r/remains.md) | 13.21% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
@@ -35,24 +35,24 @@
 | 33 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.84% |
 | 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 35 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
-| 36 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
-| 37 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.18% |
-| 38 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
-| 38 | [Smelter](games/s/smelter.md) | 10.00% |
-| 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
-| 41 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
-| 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
-| 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.83% |
-| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
-| 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
-| 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
-| 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
-| 52 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 7.14% |
-| 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
+| 35 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 10.71% |
+| 37 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
+| 38 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.18% |
+| 39 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
+| 39 | [Smelter](games/s/smelter.md) | 10.00% |
+| 41 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 42 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 42 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 45 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.82% |
+| 47 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
+| 48 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 48 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
+| 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
+| 52 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
+| 53 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 54 | [Scorn](games/s/scorn.md) | 6.97% |
 | 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
 | 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
@@ -173,8 +173,8 @@
 | 171 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 172 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 173 | [Haven](games/h/haven.md) | 0.60% |
-| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.60% |
-| 175 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 174 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.59% |
 | 176 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 176 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 178 | [Dead Space](games/d/dead_space.md) | 0.57% |
