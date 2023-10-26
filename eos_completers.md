@@ -3,8 +3,8 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.30% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.42% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.41% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -49,7 +49,7 @@
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.45% |
+| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.44% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 53 | [Scorn](games/s/scorn.md) | 6.98% |
@@ -204,9 +204,9 @@
 | 201 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 203 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 203 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.37% |
 | 203 | [Them and Us](games/t/them_and_us.md) | 0.37% |
-| 207 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
+| 206 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.36% |
+| 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 208 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 209 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
@@ -238,11 +238,11 @@
 | 234 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 237 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 237 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
+| 239 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 239 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 239 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 241 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 241 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 241 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 242 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 242 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 244 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 245 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 246 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
