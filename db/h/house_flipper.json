@@ -1989,7 +1989,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21196,
+  "EOS_Progressed": 21197,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -9824,6 +9824,11 @@
       "Time": "2023-10-26T09:10:38.8775399+00:00",
       "NumProgressed": 21196,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-10-26T13:16:09.4472933+00:00",
+      "NumProgressed": 21197,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -9835,7 +9840,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "CarMechanic",
@@ -9867,7 +9872,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "EstateAgent",
@@ -9883,7 +9888,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     },
     {
       "ID": "GameOver",
@@ -9923,7 +9928,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "KnockKnock",
@@ -10018,15 +10023,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21196,
+      "Progressed": 21197,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-26T02:12:31.7620351+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:09:14.5071252+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:16:09.4472921+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9990137+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:57:31.977458+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:09:14.5071878+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:01:55.8300567+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:16:09.4474081+00:00"
 }

@@ -397,9 +397,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3399,
+  "EOS_Progressed": 3400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3442,6 +3442,11 @@
       "Time": "2023-10-26T12:09:22.0413157+00:00",
       "NumProgressed": 3399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T13:16:18.1159838+00:00",
+      "NumProgressed": 3400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3494,7 +3499,7 @@
       "Name": "Setting up for Success",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "achievement_0007",
@@ -3502,7 +3507,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "achievement_0008",
@@ -3510,7 +3515,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "achievement_0009",
@@ -3614,7 +3619,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "achievement_0022",
@@ -3710,7 +3715,7 @@
       "Name": "Engineer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "achievement_0034",
@@ -3790,7 +3795,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "achievement_0044",
@@ -3812,9 +3817,9 @@
       "ID": "achievement_0046",
       "SetID": "9123ogc",
       "Name": "Writing a new Chapter",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 952
     },
     {
       "ID": "achievement_0047",
@@ -3845,7 +3850,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3399,
+      "Progressed": 3400,
       "Completed": 0
     }
   ],
@@ -3853,8 +3858,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-25T15:59:44.2858616+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:09:22.0413147+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:16:18.115983+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:01:46.6053017+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:09:22.0413783+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:07:38.9514952+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:16:18.1160926+00:00"
 }

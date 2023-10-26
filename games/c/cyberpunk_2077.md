@@ -11,17 +11,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.50% | ~4,469 |
 | The High Priestess | 0.50% | ~4,469 |
 | True Soldier | 0.50% | ~4,469 |
-| All the President's Men | 0.50% | ~112 |
-| Arachnophobia | 0.50% | ~112 |
-| Right Back At Ya | 0.40% | ~3,575 |
-| Gunslinger | 0.40% | ~3,575 |
-| Stanislavski's Method | 0.40% | ~3,575 |
-| The Hermit | 0.40% | ~3,575 |
-| The Wheel of Fortune | 0.40% | ~3,575 |
-| The Jungle | 0.40% | ~3,575 |
-| Two Heads, One Bullet | 0.40% | ~3,575 |
-| V for Vendetta | 0.40% | ~3,575 |
-| Legend of The Afterlife | 0.40% | ~3,575 |
+| V for Vendetta | 0.50% | ~4,469 |
+| All the President's Men | 0.50% | ~113 |
+| Arachnophobia | 0.50% | ~113 |
+| Right Back At Ya | 0.40% | ~3,576 |
+| Gunslinger | 0.40% | ~3,576 |
+| Stanislavski's Method | 0.40% | ~3,576 |
+| The Hermit | 0.40% | ~3,576 |
+| The Wheel of Fortune | 0.40% | ~3,576 |
+| The Jungle | 0.40% | ~3,576 |
+| Two Heads, One Bullet | 0.40% | ~3,576 |
+| Legend of The Afterlife | 0.40% | ~3,576 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
 | Gun Fu | 0.30% | ~2,682 |
@@ -37,7 +37,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.30% | ~2,682 |
 | True Warrior | 0.30% | ~2,682 |
 | Judy vs Night City | 0.30% | ~2,682 |
-| Spin Doctor | 0.30% | ~67 |
+| Spin Doctor | 0.30% | ~68 |
 | To Protect and Serve | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Fool | 0.20% | ~1,788 |
@@ -56,11 +56,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
 | It's Elementary | 0.10% | ~894 |
-| The APB is Not Enough | 0.10% | ~22 |
-| Relic Ruler | 0.10% | ~22 |
-| King of Cups | 0.10% | ~22 |
-| King of Pentacles | 0.10% | ~22 |
-| King of Swords | 0.10% | ~22 |
+| The APB is Not Enough | 0.10% | ~23 |
+| Relic Ruler | 0.10% | ~23 |
+| King of Cups | 0.10% | ~23 |
+| King of Pentacles | 0.10% | ~23 |
+| King of Swords | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,868 (Ranked 15)  
+Progressed: 893,880 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,868 | 2,713 |
+| 2023-10-26 | 893,880 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
 Sum: 326,980 (Ranked 10)  

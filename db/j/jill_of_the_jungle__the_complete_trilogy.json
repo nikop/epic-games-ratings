@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.71,
+  "EOS_Completed_Percentage": 7.7,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -6752,6 +6752,11 @@
       "Time": "2023-10-26T12:06:52.1451066+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-10-26T13:14:10.7948734+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 5,
@@ -6763,7 +6768,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "2",
@@ -6779,7 +6784,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "4",
@@ -6787,7 +6792,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "5",
@@ -6802,7 +6807,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 146
     }
   ],
@@ -6810,8 +6815,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:06:52.145106+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:14:10.7948726+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:20.0236071+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:04:45.9616993+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:06:52.1451568+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:11:40.3139075+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:14:10.7949315+00:00"
 }

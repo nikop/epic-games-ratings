@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4170,
+  "EOS_Progressed": 4171,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7114,6 +7114,11 @@
       "Time": "2023-10-26T00:04:19.9256122+00:00",
       "NumProgressed": 4170,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-26T13:12:54.1282322+00:00",
+      "NumProgressed": 4171,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7189,7 +7194,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Ach010",
@@ -7237,7 +7242,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "Ach016",
@@ -7317,7 +7322,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "Ach026",
@@ -7389,7 +7394,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Ach035",
@@ -7477,7 +7482,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Ach046",
@@ -7491,9 +7496,9 @@
       "ID": "Ach047",
       "SetID": "12n4k20",
       "Name": "Who put gears in there?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 542
     },
     {
       "ID": "Ach048",
@@ -7659,9 +7664,9 @@
       "ID": "Ach068",
       "SetID": "b7dbjo0",
       "Name": "New bad guys? No problem!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Ach069",
@@ -7692,13 +7697,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4170,
+      "Progressed": 4171,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2691,
+      "Progressed": 2692,
       "Completed": 1930
     }
   ],
@@ -7706,8 +7711,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:05:47.3476928+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:12:54.1282314+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:57:45.9071945+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:05:47.3478007+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:02:22.8313567+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:12:54.1283568+00:00"
 }

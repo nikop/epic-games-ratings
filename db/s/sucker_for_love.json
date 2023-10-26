@@ -4,7 +4,7 @@
   "ProductSlug": "sucker-for-love-1807d3",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-12T08:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.5185889+00:00",
   "LastChanged": "2023-03-31T05:58:43.518589+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.6759113+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:57:18.6429484+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:07:35.0393151+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:01:32.9774798+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:14:48.747803+00:00"
 }

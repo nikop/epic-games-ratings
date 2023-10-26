@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The gateway to the underworld | 36.00% | ~170 |
-| Is it merely a dream? | 35.00% | ~165 |
+| Is it merely a dream? | 36.00% | ~170 |
 | The path to enlightenment | 22.00% | ~104 |
 | Our efforts are finally yielding progress | 21.00% | ~99 |
 | This looks really bad | 19.00% | ~90 |

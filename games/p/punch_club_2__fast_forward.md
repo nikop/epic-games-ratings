@@ -50,8 +50,8 @@
 | Poisoned fighter | 41.00% | ~138 |
 | The die is cast | 41.00% | ~138 |
 | Get out of my apartment! | 40.00% | ~134 |
+| Gang wrangler | 38.00% | ~128 |
 | Seashell hunter | 38.00% | ~128 |
-| Gang wrangler | 37.00% | ~124 |
 | Undercover robot | 37.00% | ~124 |
 | Problems of cyborgs | 36.00% | ~121 |
 | Absolute Champion! | 36.00% | ~121 |

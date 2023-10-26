@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~72 |
-| Complete Level 1-1 | 63.00% | ~64 |
-| Immortal | 55.00% | ~56 |
-| Complete Level 1-2 | 47.00% | ~47 |
-| Engineer-mage hybrid | 34.00% | ~34 |
-| Scraping by | 33.00% | ~33 |
-| Complete Level 1-3 | 30.00% | ~30 |
-| Defeat the warrior boss | 23.00% | ~23 |
-| Get out of my way | 21.00% | ~21 |
-| Redecorator | 20.00% | ~20 |
-| Just a sip | 19.00% | ~19 |
-| Complete Level 2-1 | 17.00% | ~17 |
-| Complete Level 2-2 | 17.00% | ~17 |
+| What is this? | 72.00% | ~73 |
+| Complete Level 1-1 | 64.00% | ~65 |
+| Immortal | 56.00% | ~57 |
+| Complete Level 1-2 | 47.00% | ~48 |
+| Engineer-mage hybrid | 34.00% | ~35 |
+| Scraping by | 33.00% | ~34 |
+| Complete Level 1-3 | 30.00% | ~31 |
+| Defeat the warrior boss | 24.00% | ~24 |
+| Get out of my way | 22.00% | ~22 |
+| Redecorator | 21.00% | ~21 |
+| Just a sip | 20.00% | ~20 |
+| Complete Level 2-1 | 18.00% | ~18 |
+| Complete Level 2-2 | 18.00% | ~18 |
 | Versatile | 16.00% | ~16 |
-| Complete Level 2-3 | 14.00% | ~14 |
-| Well-off | 13.00% | ~13 |
-| Defeat the engineer boss | 13.00% | ~13 |
-| Too many crates | 12.00% | ~12 |
+| Complete Level 2-3 | 15.00% | ~15 |
+| Well-off | 14.00% | ~14 |
+| Defeat the engineer boss | 14.00% | ~14 |
+| Too many crates | 13.00% | ~13 |
+| Complete Level 3-1 | 13.00% | ~13 |
 | Baby steps | 12.00% | ~12 |
-| Complete Level 3-1 | 12.00% | ~12 |
+| Engineer-warrior hybrid | 11.00% | ~11 |
 | Party popper | 11.00% | ~11 |
 | Complete Level 3-2 | 10.00% | ~10 |
-| Engineer-warrior hybrid | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
 | Should have left me alone | 9.00% | ~9 |
 | Drink up | 9.00% | ~9 |
@@ -51,8 +51,8 @@
 | Almost there | 1.00% | ~1 |
 | Go go go | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 401)  
-Completed: 1 (0.99%) (Ranked 151)  
+Progressed: 102 (Ranked 400)  
+Completed: 1 (0.98%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 1 (0.99%) (Ranked 151)
 | 2023-10-22 | 99 | 1 |
 | 2023-10-23 | 100 | 1 |
 | 2023-10-24 | 101 | 1 |
+| 2023-10-26 | 102 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

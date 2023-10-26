@@ -4,10 +4,10 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 664,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 339,
+  "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-02-10T16:30:00+00:00",
@@ -996,10 +996,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-10-26T13:02:12.4110477+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
+  "NumberOfAwards": 367,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1031,7 +1037,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1081,8 +1087,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-10-22T10:59:29.501633+00:00",
+  "LastChanged": "2023-10-26T13:02:12.4110475+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:38.0969197+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:57:39.6962721+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:09:32.6080175+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:02:12.4110482+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:16:30.4248381+00:00"
 }

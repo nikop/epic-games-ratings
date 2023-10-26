@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 339,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 329,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -275,6 +275,11 @@
       "Time": "2023-10-25T05:09:25.334528+00:00",
       "NumProgressed": 328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T13:17:44.4081693+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -430,15 +435,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 95
     },
     {
       "ID": "ach-cartography-complete",
@@ -462,7 +467,7 @@
       "Name": "Cartographer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach-discover-locations-high",
@@ -494,7 +499,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach-find-treasure-high",
@@ -508,9 +513,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 201
     },
     {
       "ID": "ach-hardExpeditions",
@@ -566,7 +571,7 @@
       "Name": "Shortening of the Way",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-learn-traits",
@@ -574,7 +579,7 @@
       "Name": "Shennong Herbalist",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -638,7 +643,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach-paleMask-cure",
@@ -662,7 +667,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-promotion",
@@ -686,7 +691,7 @@
       "Name": "A Gentle Beast",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-rideDinosaur",
@@ -694,7 +699,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-rob-shrines",
@@ -765,7 +770,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 329,
       "Completed": 1
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:10:56.2125261+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:17:44.4081684+00:00",
   "LastUpdate_AppInfo": "2023-10-21T09:57:10.5893473+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:00:02.9173646+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:10:56.2125915+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:05:11.3053385+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:17:44.408232+00:00"
 }

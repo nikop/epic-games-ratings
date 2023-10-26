@@ -36,6 +36,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 1.00% | ~1,382 |
 | Accomplished Merchant | 1.00% | ~1,382 |
 | Dungeon Imports | 1.00% | ~1,382 |
+| Natural 20 | 1.00% | ~1,382 |
 | Did we pack lunch? | 1.00% | ~1,382 |
 | Arcane Industries | 1.00% | ~1,382 |
 | Research & Development | 0.90% | ~1,243 |
@@ -43,7 +44,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.90% | ~1,243 |
 | Flawless Fusion | 0.90% | ~1,243 |
 | Royal Ransom | 0.90% | ~1,243 |
-| Natural 20 | 0.90% | ~1,243 |
 | Magical Harmony | 0.90% | ~1,243 |
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,153 (Ranked 75)  
+Progressed: 138,156 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,153 | 172 |
+| 2023-10-26 | 138,156 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,447 (Ranked 51)  

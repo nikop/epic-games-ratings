@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5042,
+  "EOS_Progressed": 5054,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1571,
+  "EOS_NewPlayers": 1567,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-10-26T12:10:20.3081683+00:00",
       "NumProgressed": 5042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T13:17:02.3625458+00:00",
+      "NumProgressed": 5054,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -3090,7 +3095,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_LEVEL974",
@@ -3162,15 +3167,15 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACH_WINLEVEL1",
       "SetID": "1lo1k0a",
       "Name": "Level 1",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 605
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -3178,7 +3183,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -3186,7 +3191,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -3257,14 +3262,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 5042,
+      "Progressed": 5054,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:10:20.3081672+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:17:02.3625449+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:52.6577652+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:00:56.6600641+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:10:20.3082069+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:06:23.1415841+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:17:02.3626057+00:00"
 }

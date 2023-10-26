@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,275 |
-| Alt+F4 | 7.00% | ~16,321 |
+| Sowwy! | 34.00% | ~79,279 |
+| Alt+F4 | 7.00% | ~16,322 |
 | Where's that freaking Dwarf? | 6.00% | ~13,990 |
-| Déjà vu | 5.00% | ~11,658 |
+| Déjà vu | 5.00% | ~11,659 |
 | A beer, two curses, three companions | 4.00% | ~9,327 |
 | Sock! SOCK! | 4.00% | ~9,327 |
 | Speedrun | 4.00% | ~9,327 |
@@ -42,8 +42,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,332 |
 | Thieves' Guild Accreditation | 1.00% | ~2,332 |
 | Material Girl | 1.00% | ~2,332 |
-| Dead for good | 0.90% | ~2,098 |
-| Gargantua | 0.90% | ~2,098 |
+| Dead for good | 0.90% | ~2,099 |
+| Gargantua | 0.90% | ~2,099 |
 | In Navalu's footsteps | 0.80% | ~1,865 |
 | Lëgal Legend | 0.70% | ~1,632 |
 | We come in peace | 0.60% | ~1,399 |
@@ -52,9 +52,9 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.50% | ~1,166 |
 | Scholar of the Lands of Fangh | 0.40% | ~933 |
 | It's been a hard day's night | 0.40% | ~933 |
-| Friendly fire | 0.30% | ~699 |
-| I'd rather... Just... Sing! | 0.30% | ~699 |
-| Inception | 0.30% | ~699 |
+| Friendly fire | 0.30% | ~700 |
+| I'd rather... Just... Sing! | 0.30% | ~700 |
+| Inception | 0.30% | ~700 |
 | The number of the counting shalt be 7 | 0.20% | ~466 |
 | Kudos from your DM | 0.20% | ~466 |
 | 100% satisfaction guarantee | 0.20% | ~466 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,163 (Ranked 60)  
+Progressed: 233,174 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 7 (0.00%) (Ranked 327)
 | 2023-10-23 | 232,741 | 7 |
 | 2023-10-24 | 232,917 | 7 |
 | 2023-10-25 | 233,101 | 7 |
-| 2023-10-26 | 233,163 | 7 |
+| 2023-10-26 | 233,174 | 7 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 438 (Ranked 327)  

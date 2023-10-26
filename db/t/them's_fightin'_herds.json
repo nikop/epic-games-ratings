@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -271,7 +271,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231495,
+  "EOS_Progressed": 231497,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -19721,6 +19721,11 @@
       "Time": "2023-10-26T12:05:53.5641239+00:00",
       "NumProgressed": 231495,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-26T13:13:01.248782+00:00",
+      "NumProgressed": 231497,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19796,7 +19801,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83338
+      "UsersEstimate": 83339
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19876,7 +19881,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78708
+      "UsersEstimate": 78709
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -19955,7 +19960,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231495,
+      "Progressed": 231497,
       "Completed": 5
     }
   ],
@@ -19963,8 +19968,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:05:53.5641227+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:13:01.2487812+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:01:35.1818235+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:05:53.5642675+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:07:17.2011616+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:13:01.2489252+00:00"
 }

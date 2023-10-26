@@ -1221,9 +1221,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 233163,
+  "EOS_Progressed": 233174,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1441,
+  "EOS_NewPlayers": 1440,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16156,6 +16156,11 @@
       "Time": "2023-10-26T12:07:33.2163726+00:00",
       "NumProgressed": 233163,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T13:14:46.794841+00:00",
+      "NumProgressed": 233174,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16215,7 +16220,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11658
+      "UsersEstimate": 11659
     },
     {
       "ID": "Chapter2",
@@ -16287,7 +16292,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "CompanionMinstrel",
@@ -16295,7 +16300,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "CompanionNone",
@@ -16615,7 +16620,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79275
+      "UsersEstimate": 79279
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16663,7 +16668,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16321
+      "UsersEstimate": 16322
     },
     {
       "ID": "FollowBraztok",
@@ -16695,7 +16700,7 @@
       "Name": "Dead for good",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2098
+      "UsersEstimate": 2099
     },
     {
       "ID": "KillGolbargh",
@@ -16719,7 +16724,7 @@
       "Name": "Gargantua",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2098
+      "UsersEstimate": 2099
     },
     {
       "ID": "Orktobearfest",
@@ -16743,7 +16748,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "PriestessEpic",
@@ -16870,21 +16875,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233163,
+      "Progressed": 233174,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233163,
+      "Progressed": 233174,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-24T14:02:34.6884253+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:07:33.216372+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:14:46.7948403+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:57:57.257599+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:07:33.2165777+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:02:35.9517519+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:14:46.7950418+00:00"
 }

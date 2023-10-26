@@ -787,9 +787,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 10683,
+  "EOS_Progressed": 10685,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -11812,6 +11812,11 @@
       "Time": "2023-10-26T01:44:33.5162255+00:00",
       "NumProgressed": 10683,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-26T13:12:16.4110663+00:00",
+      "NumProgressed": 10685,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11831,7 +11836,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH03",
@@ -11863,7 +11868,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH07",
@@ -11887,7 +11892,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH10",
@@ -11919,7 +11924,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH14",
@@ -11927,7 +11932,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "ACH15",
@@ -11935,7 +11940,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH16",
@@ -11951,7 +11956,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH18",
@@ -11967,7 +11972,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH20",
@@ -11983,7 +11988,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "ACH22",
@@ -12007,7 +12012,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH25",
@@ -12015,7 +12020,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACH26",
@@ -12023,7 +12028,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "ACH27",
@@ -12055,7 +12060,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "ACH31",
@@ -12071,7 +12076,7 @@
       "Name": "City Sleuth",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "ACH33",
@@ -12094,7 +12099,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10683,
+      "Progressed": 10685,
       "Completed": 63
     }
   ],
@@ -12102,8 +12107,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:05:15.2721255+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:12:16.4110654+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:04:05.5609346+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:05:15.2722226+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:10:46.6983394+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:12:16.4111625+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3137,9 +3137,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17074,
+  "EOS_Progressed": 17075,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12587,6 +12587,11 @@
       "Time": "2023-10-26T08:08:48.334677+00:00",
       "NumProgressed": 17074,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-26T13:16:04.4138543+00:00",
+      "NumProgressed": 17075,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12670,7 +12675,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Win5Years",
@@ -12942,7 +12947,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "WinWithRuins",
@@ -12997,15 +13002,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17074,
+      "Progressed": 17075,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-25T10:58:51.6036491+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:09:10.166443+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:16:04.4138531+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:00:14.677377+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:09:10.1665478+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:05:26.9667528+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:16:04.4140614+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "bottle-pilgrim-redux-987f66",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-13T12:00:00+00:00",
@@ -234,8 +234,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-06T13:04:05.284092+00:00",
-  "LastChanged_Achievements": "2023-10-26T12:06:38.8074235+00:00",
+  "LastChanged_Achievements": "2023-10-26T13:13:54.7729041+00:00",
   "LastUpdate_AppInfo": "2023-10-22T17:57:15.3817353+00:00",
-  "LastUpdate_Ratings": "2023-10-26T12:00:54.8096+00:00",
-  "LastUpdate_Achievements": "2023-10-26T12:06:38.8074398+00:00"
+  "LastUpdate_Ratings": "2023-10-26T13:06:19.2583297+00:00",
+  "LastUpdate_Achievements": "2023-10-26T13:13:54.7729335+00:00"
 }
