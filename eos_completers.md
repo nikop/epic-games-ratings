@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.41% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.39% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -29,9 +29,9 @@
 | 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
 | 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 29 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 29 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.11% |
 | 29 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
 | 29 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 11.11% |
+| 32 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.98% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
@@ -73,7 +73,7 @@
 | 71 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 72 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 73 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
-| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.29% |
+| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.30% |
 | 75 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.17% |
 | 75 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 77 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
@@ -184,8 +184,8 @@
 | 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.55% |
 | 183 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 184 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 185 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.51% |
-| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
+| 185 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 187 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.48% |
 | 188 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.47% |
 | 188 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
@@ -205,9 +205,9 @@
 | 203 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 203 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 203 | [Them and Us](games/t/them_and_us.md) | 0.37% |
-| 206 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.36% |
 | 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
-| 208 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 207 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.35% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 209 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
 | 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
@@ -220,7 +220,7 @@
 | 218 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 218 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 220 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 221 | [Filament](games/f/filament.md) | 0.25% |
+| 221 | [Filament](games/f/filament.md) | 0.26% |
 | 222 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 222 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
 | 224 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
