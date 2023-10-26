@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1729,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3602,6 +3602,11 @@
       "Time": "2023-10-26T05:10:16.9657938+00:00",
       "NumProgressed": 1729,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T06:09:43.7306849+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3614,7 +3619,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3622,7 +3627,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -3646,7 +3651,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3654,7 +3659,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -3670,7 +3675,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3702,7 +3707,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3718,7 +3723,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3814,7 +3819,7 @@
       "Name": "Evangelist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -3822,7 +3827,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -3910,7 +3915,7 @@
       "Name": "Eat My Dust",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -3966,7 +3971,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4005,14 +4010,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1729,
+      "Progressed": 1731,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:10:16.9657933+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:09:43.7306842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:03:17.1058721+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:10:16.9658571+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:03:16.1246795+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:09:43.7307632+00:00"
 }

@@ -1284,7 +1284,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26875,
+  "EOS_Progressed": 26876,
   "EOS_Completed": 72,
   "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 2,
@@ -21529,6 +21529,11 @@
       "Time": "2023-10-26T05:09:25.9571701+00:00",
       "NumProgressed": 26875,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-26T06:09:19.1033631+00:00",
+      "NumProgressed": 26876,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 22,
@@ -21556,7 +21561,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "1018",
@@ -21588,7 +21593,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "1022",
@@ -21596,7 +21601,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "1023",
@@ -21715,15 +21720,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26875,
+      "Progressed": 26876,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:09:25.9571696+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:09:19.1033626+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:03:38.1546993+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:09:25.9573017+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:03:34.2355504+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:09:19.1035006+00:00"
 }

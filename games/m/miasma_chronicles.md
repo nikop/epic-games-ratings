@@ -5,12 +5,12 @@ Rating: 4.43 (Ranked 681)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,377 |
+| First Blood | 92.00% | ~1,378 |
 | Ranidaphobia | 77.00% | ~1,153 |
-| Aspiring Editor | 75.00% | ~1,123 |
-| Gun for Hire | 70.00% | ~1,048 |
-| I am the law! | 64.00% | ~958 |
-| Lumberjack | 54.00% | ~808 |
+| Aspiring Editor | 74.00% | ~1,109 |
+| Gun for Hire | 69.00% | ~1,034 |
+| I am the law! | 64.00% | ~959 |
+| Lumberjack | 53.00% | ~794 |
 | Croaked | 49.00% | ~734 |
 | Limp Richard | 49.00% | ~734 |
 | Exorcist | 48.00% | ~719 |
@@ -32,11 +32,11 @@ Rating: 4.43 (Ranked 681)
 | Endgame | 27.00% | ~404 |
 | Savior | 27.00% | ~404 |
 | There Can Be Only One! | 26.00% | ~389 |
-| Silent but Violent | 23.00% | ~344 |
-| Chain Killer | 22.00% | ~329 |
-| The Watchers | 22.00% | ~329 |
-| Commando | 17.00% | ~254 |
-| Dr Jones | 17.00% | ~254 |
+| Silent but Violent | 23.00% | ~345 |
+| Chain Killer | 22.00% | ~330 |
+| The Watchers | 22.00% | ~330 |
+| Commando | 17.00% | ~255 |
+| Dr Jones | 17.00% | ~255 |
 | Chaos Theory | 16.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~240 |
 | Ruthless | 14.00% | ~210 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 681)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,497 (Ranked 226)  
+Progressed: 1,498 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
-| 2023-10-26 | 1,497 | 0 |
+| 2023-10-26 | 1,498 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

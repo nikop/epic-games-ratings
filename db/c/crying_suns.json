@@ -2,9 +2,9 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 114,
@@ -605,10 +605,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 242,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2023-10-26T05:58:10.2474342+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 243,
+      "NumberOfAwardsMax": 221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 242,
+  "NumberOfAwards": 243,
   "NumberOfAwardsMax": 221,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -622,12 +628,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 469663,
+  "EOS_Progressed": 469666,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20340,6 +20346,11 @@
       "Time": "2023-10-26T04:10:28.1062255+00:00",
       "NumProgressed": 469663,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-26T06:09:52.5246086+00:00",
+      "NumProgressed": 469666,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20351,7 +20362,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70449
+      "UsersEstimate": 70450
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -20359,7 +20370,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70449
+      "UsersEstimate": 70450
     },
     {
       "ID": "achievement_first_death",
@@ -20367,7 +20378,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112719
+      "UsersEstimate": 112720
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20375,7 +20386,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103326
+      "UsersEstimate": 103327
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20383,7 +20394,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70449
+      "UsersEstimate": 70450
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -20391,7 +20402,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46966
+      "UsersEstimate": 46967
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20439,7 +20450,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 309978
+      "UsersEstimate": 309980
     },
     {
       "ID": "achievement_story_landa",
@@ -20487,7 +20498,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32876
+      "UsersEstimate": 32877
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -20495,7 +20506,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32876
+      "UsersEstimate": 32877
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -20519,7 +20530,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70449
+      "UsersEstimate": 70450
     },
     {
       "ID": "achievement_story_neon_child",
@@ -20535,7 +20546,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159685
+      "UsersEstimate": 159686
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20591,7 +20602,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32876
+      "UsersEstimate": 32877
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -20775,7 +20786,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206652
+      "UsersEstimate": 206653
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20783,7 +20794,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140899
+      "UsersEstimate": 140900
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20807,7 +20818,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183169
+      "UsersEstimate": 183170
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20863,7 +20874,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103326
+      "UsersEstimate": 103327
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -20982,21 +20993,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13597,
+      "Progressed": 13600,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469663,
+      "Progressed": 469666,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-10-10T01:42:39.6470224+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:10:27.9940147+00:00",
+  "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:09:52.5246084+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:58:36.9511715+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:10:27.994215+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:58:10.2474347+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:09:52.5247912+00:00"
 }

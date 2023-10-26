@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
@@ -1237,7 +1237,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154671,
+  "EOS_Progressed": 154677,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1583,
   "EOS_NewCompleters": 0,
@@ -13087,6 +13087,11 @@
       "Time": "2023-10-26T05:05:13.6398141+00:00",
       "NumProgressed": 154671,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T06:04:35.9383221+00:00",
+      "NumProgressed": 154677,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13146,7 +13151,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13170,7 +13175,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13184,9 +13189,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 619
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -13370,7 +13375,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -13465,21 +13470,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154254,
+      "Progressed": 154260,
       "Completed": 1175
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154671,
+      "Progressed": 154677,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T05:01:34.9419451+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:05:13.6398136+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:04:35.9383218+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:01:34.9419457+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:05:13.6399192+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:00:59.9686124+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:04:35.9384854+00:00"
 }

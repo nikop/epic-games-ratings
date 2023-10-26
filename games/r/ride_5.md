@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~726 |
-| Eat My Dust | 42.00% | ~726 |
-| Clean Race | 41.00% | ~709 |
-| Hear That Roar! | 38.00% | ~657 |
-| Rivals to the End | 28.00% | ~484 |
+| First Love | 42.00% | ~727 |
+| Eat My Dust | 42.00% | ~727 |
+| Clean Race | 41.00% | ~710 |
+| Hear That Roar! | 38.00% | ~658 |
+| Rivals to the End | 28.00% | ~485 |
 | Bitter Rivalry | 26.00% | ~450 |
 | We're Going to Need a Bigger Garage | 24.00% | ~415 |
 | Champagne Spray | 24.00% | ~415 |
-| Restored and Ready | 18.00% | ~311 |
-| I Want One Too! | 18.00% | ~311 |
-| Legendary!!! | 18.00% | ~311 |
-| Quick Pit Stop | 18.00% | ~311 |
+| Restored and Ready | 18.00% | ~312 |
+| I Want One Too! | 18.00% | ~312 |
+| Legendary!!! | 18.00% | ~312 |
+| Quick Pit Stop | 18.00% | ~312 |
 | Go-Faster Stripes | 16.00% | ~277 |
 | I'm Here Too! | 16.00% | ~277 |
 | We've Just Begun | 10.00% | ~173 |
 | Is It the Right Size? | 8.00% | ~138 |
 | Stamina Star | 7.00% | ~121 |
-| Make It Your Own! | 5.00% | ~86 |
-| Evangelist | 5.00% | ~86 |
+| Make It Your Own! | 5.00% | ~87 |
+| Evangelist | 5.00% | ~87 |
 | I Make the Rules! | 4.00% | ~69 |
 | Spoilt for Choice | 3.00% | ~52 |
 | Cherry Blossom and Temples | 3.00% | ~52 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,729 (Ranked 218)  
+Progressed: 1,731 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 1,647 | 0 |
 | 2023-10-24 | 1,671 | 0 |
 | 2023-10-25 | 1,720 | 0 |
-| 2023-10-26 | 1,729 | 0 |
+| 2023-10-26 | 1,731 | 0 |

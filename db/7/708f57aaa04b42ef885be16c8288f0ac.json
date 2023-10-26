@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1845,
+  "EOS_Progressed": 1851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1832,
+  "EOS_NewPlayers": 1838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -850,6 +850,11 @@
       "Time": "2023-10-26T05:09:08.7750862+00:00",
       "NumProgressed": 1845,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T06:08:25.8264441+00:00",
+      "NumProgressed": 1851,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1006,7 +1011,7 @@
       "Name": "Nasty!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NoMoreTotems",
@@ -1060,9 +1065,9 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 93
     },
     {
       "ID": "ThisIsDharma",
@@ -1070,7 +1075,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1118,7 +1123,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "k01101110",
@@ -1133,13 +1138,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1845,
+      "Progressed": 1851,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:09:08.7750856+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:08:25.8264436+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:59:38.6768548+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:09:08.7751159+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:59:18.0824186+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:08:25.8264737+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,209 |
-| Welcome To Hell-A | 5.00% | ~35,209 |
-| Git Gutte! | 4.00% | ~28,167 |
-| Break A Leg | 4.00% | ~28,167 |
-| Coup de Grâce | 4.00% | ~28,167 |
-| Hazardous Materials | 4.00% | ~28,167 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,167 |
+| Hotel California | 5.00% | ~35,210 |
+| Welcome To Hell-A | 5.00% | ~35,210 |
+| Git Gutte! | 4.00% | ~28,168 |
+| Break A Leg | 4.00% | ~28,168 |
+| Coup de Grâce | 4.00% | ~28,168 |
+| Hazardous Materials | 4.00% | ~28,168 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,168 |
 | Dr. Reed, I Presume? | 3.00% | ~21,126 |
 | Bookworm | 3.00% | ~21,126 |
 | But Doctor, I am Butcho | 3.00% | ~21,126 |
@@ -40,8 +40,8 @@ Rating: 4.54 (Ranked 516)
 | Rising Star | 1.00% | ~7,042 |
 | Not Even My Final Form | 0.90% | ~6,338 |
 | Internet Famous | 0.90% | ~6,338 |
-| On Safari | 0.80% | ~5,633 |
-| Variety is the Spice of Death | 0.80% | ~5,633 |
+| On Safari | 0.80% | ~5,634 |
+| Variety is the Spice of Death | 0.80% | ~5,634 |
 | Make it So | 0.70% | ~4,929 |
 | LA Influential | 0.60% | ~4,225 |
 | Gore Horse | 0.60% | ~4,225 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,408 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,186 (Ranked 22)  
+Progressed: 704,205 (Ranked 22)  
 Completed: 2,263 (0.32%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 2,263 (0.32%) (Ranked 209)
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
-| 2023-10-26 | 704,186 | 2,263 |
+| 2023-10-26 | 704,205 | 2,263 |
 ## Awards
 Max (Great Boss Battles): 6,625  (Ranked 57)  
 Sum: 9,955 (Ranked 91)  

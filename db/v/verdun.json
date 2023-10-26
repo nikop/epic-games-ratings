@@ -1751,9 +1751,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 61694,
+  "EOS_Progressed": 61695,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22441,6 +22441,11 @@
       "Time": "2023-10-26T05:06:19.2262623+00:00",
       "NumProgressed": 61694,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-26T06:05:38.552906+00:00",
+      "NumProgressed": 61695,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -22580,7 +22585,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -22684,7 +22689,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16040
+      "UsersEstimate": 16041
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -22740,7 +22745,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38867
+      "UsersEstimate": 38868
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -22820,7 +22825,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48121
+      "UsersEstimate": 48122
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -22828,7 +22833,7 @@
       "Name": "Anker wirf!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -22892,7 +22897,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -22908,7 +22913,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -22923,15 +22928,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 61694,
+      "Progressed": 61695,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:06:19.2262619+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:05:38.5529053+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:28.1860565+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:58:55.0814254+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:06:19.2264341+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:58:31.2401022+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:05:38.5530847+00:00"
 }

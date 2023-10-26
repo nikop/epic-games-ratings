@@ -1349,9 +1349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16269,
+  "EOS_Progressed": 16270,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8204,6 +8204,11 @@
       "Time": "2023-10-26T04:08:09.1632864+00:00",
       "NumProgressed": 16269,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-26T06:07:15.8923122+00:00",
+      "NumProgressed": 16270,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8335,7 +8340,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8343,7 +8348,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "KILL_ROBOT",
@@ -8383,7 +8388,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8407,7 +8412,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8447,7 +8452,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8485,9 +8490,9 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -8590,13 +8595,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16269,
+      "Progressed": 16270,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4195,
+      "Progressed": 4196,
       "Completed": 29
     }
   ],
@@ -8604,8 +8609,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-25T18:00:07.3120219+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:07:57.5022342+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:07:15.8923118+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:01:02.4144144+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:07:57.5023135+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:00:34.2846515+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:07:15.8924293+00:00"
 }

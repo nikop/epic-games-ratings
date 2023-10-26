@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Epic_SwampPet_1",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:10:09.8835697+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:09:37.937402+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:09.5421135+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:59:16.9648179+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:10:09.8836152+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:58:55.2716882+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:09:37.937516+00:00"
 }

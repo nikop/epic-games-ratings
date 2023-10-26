@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,805 |
-| IT MAKES BOOM! | 3.00% | ~7,683 |
-| EXTRA BOOST | 2.00% | ~5,122 |
-| PROTECTED | 2.00% | ~5,122 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,561 |
-| AGGRESSIVE RACER | 1.00% | ~2,561 |
-| PRO | 1.00% | ~2,561 |
-| A TIGER'S FEAR | 0.90% | ~2,305 |
+| ROOKIE | 5.00% | ~12,808 |
+| IT MAKES BOOM! | 3.00% | ~7,685 |
+| EXTRA BOOST | 2.00% | ~5,123 |
+| PROTECTED | 2.00% | ~5,123 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,562 |
+| AGGRESSIVE RACER | 1.00% | ~2,562 |
+| PRO | 1.00% | ~2,562 |
+| A TIGER'S FEAR | 0.90% | ~2,306 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,281 |
 | ACE SPEEDSTER | 0.50% | ~1,281 |
-| DEFEAT OUR CHAMPION | 0.40% | ~1,024 |
-| TRAINING HARD | 0.30% | ~768 |
-| RELEASE THE KRAKEN | 0.30% | ~768 |
-| BE OUR GUEST | 0.30% | ~768 |
-| ACE BRAWLER | 0.30% | ~768 |
-| ACE DEFENDER | 0.30% | ~768 |
-| THE EYE OF THE HUNTER | 0.30% | ~768 |
-| FRIENDLY | 0.30% | ~768 |
-| MASTER | 0.30% | ~768 |
-| LEGENDARY HERO | 0.30% | ~768 |
+| DEFEAT OUR CHAMPION | 0.40% | ~1,025 |
+| TRAINING HARD | 0.30% | ~769 |
+| RELEASE THE KRAKEN | 0.30% | ~769 |
+| BE OUR GUEST | 0.30% | ~769 |
+| ACE BRAWLER | 0.30% | ~769 |
+| ACE DEFENDER | 0.30% | ~769 |
+| THE EYE OF THE HUNTER | 0.30% | ~769 |
+| FRIENDLY | 0.30% | ~769 |
+| MASTER | 0.30% | ~769 |
+| LEGENDARY HERO | 0.30% | ~769 |
 | PERFECTLY POISED | 0.20% | ~512 |
 | EXPERIENCED CREW | 0.20% | ~512 |
 | ACE TRICKSTER | 0.20% | ~512 |
 | FRAMED! | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,106 (Ranked 53)  
+Progressed: 256,168 (Ranked 53)  
 Completed: 241 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 241 (0.09%) (Ranked 262)
 | 2023-10-23 | 250,437 | 241 |
 | 2023-10-24 | 253,504 | 241 |
 | 2023-10-25 | 255,590 | 241 |
-| 2023-10-26 | 256,106 | 241 |
+| 2023-10-26 | 256,168 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 451)  
 Sum: 263 (Ranked 369)  

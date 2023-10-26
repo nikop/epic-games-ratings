@@ -9,10 +9,10 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Shadow strikes | 70.00% | ~24,714 |
 | The Evilest Evil | 58.00% | ~20,477 |
 | Twistram is devastated | 57.00% | ~20,124 |
-| The Gehenna Stones | 49.00% | ~17,299 |
-| No one has to die today! | 46.00% | ~16,240 |
-| Death and destruction! | 45.00% | ~15,887 |
-| The Swamplanders from the swamplands | 44.00% | ~15,534 |
+| The Gehenna Stones | 49.00% | ~17,300 |
+| No one has to die today! | 46.00% | ~16,241 |
+| Death and destruction! | 45.00% | ~15,888 |
+| The Swamplanders from the swamplands | 44.00% | ~15,535 |
 | The One-Huge-Army-Building Evil | 41.00% | ~14,475 |
 | Rusty Steel | 41.00% | ~14,475 |
 | Braiiiiins! | 38.00% | ~13,416 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,635  (23.09.2022)
 | Stock Market Crash | 31.00% | ~10,945 |
 | Factory farming | 31.00% | ~10,945 |
 | Not-So-Overproud | 30.00% | ~10,592 |
-| For a handfull of Catapults | 29.00% | ~10,238 |
-| Shadow hunter | 29.00% | ~10,238 |
-| Thirst quencher | 28.00% | ~9,885 |
-| Ogre Solo! | 28.00% | ~9,885 |
-| Destroy the thing | 26.00% | ~9,179 |
-| Tide Master | 26.00% | ~9,179 |
+| For a handfull of Catapults | 29.00% | ~10,239 |
+| Shadow hunter | 29.00% | ~10,239 |
+| Thirst quencher | 28.00% | ~9,886 |
+| Ogre Solo! | 28.00% | ~9,886 |
+| Destroy the thing | 26.00% | ~9,180 |
+| Tide Master | 26.00% | ~9,180 |
 | Difficult family relationships | 25.00% | ~8,826 |
 | MASS-O-BOT | 24.00% | ~8,473 |
 | Prepare the grave | 24.00% | ~8,473 |
@@ -45,11 +45,11 @@ Number of Ratings: 1,635  (23.09.2022)
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,296 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~4,237 |
 | Then let them eat cake! | 12.00% | ~4,237 |
-| The White Knight | 10.00% | ~3,530 |
-| Please, no interruptions! | 10.00% | ~3,530 |
-| Use the terrain | 9.00% | ~3,177 |
-| Master of Traps | 9.00% | ~3,177 |
-| Prison Break | 9.00% | ~3,177 |
+| The White Knight | 10.00% | ~3,531 |
+| Please, no interruptions! | 10.00% | ~3,531 |
+| Use the terrain | 9.00% | ~3,178 |
+| Master of Traps | 9.00% | ~3,178 |
+| Prison Break | 9.00% | ~3,178 |
 | Hearts of Iron | 8.00% | ~2,824 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,824 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,824 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~706 |
 | Sacrifices! | 2.00% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,305 (Ranked 117)  
+Progressed: 35,306 (Ranked 117)  
 Completed: 285 (0.81%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 285 (0.81%) (Ranked 159)
 | 2023-10-23 | 35,057 | 282 |
 | 2023-10-24 | 35,171 | 284 |
 | 2023-10-25 | 35,293 | 285 |
-| 2023-10-26 | 35,305 | 285 |
+| 2023-10-26 | 35,306 | 285 |
 ## Awards
 Max (Great for Beginners): 363  (Ranked 231)  
-Sum: 2,702 (Ranked 178)  
+Sum: 2,703 (Ranked 178)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 302 |
 | This game has Amazing Storytelling | 298 |
 | This game has Amazing Characters | 290 |
-| This game has Diverse Characters | 281 |
+| This game has Diverse Characters | 282 |
 | This game is Relaxing | 278 |
 | This game has Playful Visuals | 262 |
 | This game has Obsessive Gameplay | 189 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 53
 | 2023-10-23 | 4.66 | - | 362 | 2,699 |
 | 2023-10-24 | 4.66 | - | 362 | 2,700 |
 | 2023-10-25 | 4.66 | - | 363 | 2,702 |
+| 2023-10-26 | 4.66 | - | 363 | 2,703 |

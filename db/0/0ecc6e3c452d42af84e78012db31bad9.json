@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3647,
+  "EOS_Progressed": 3648,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
@@ -8619,6 +8619,11 @@
       "Time": "2023-10-26T02:20:39.0815198+00:00",
       "NumProgressed": 3647,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-26T06:05:28.001544+00:00",
+      "NumProgressed": 3648,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 16,
@@ -8662,7 +8667,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ach_architecture_completed",
@@ -8702,7 +8707,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ach_food_completed",
@@ -8726,7 +8731,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2735
+      "UsersEstimate": 2736
     },
     {
       "ID": "ach_magic_wand",
@@ -8742,7 +8747,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ach_tornado",
@@ -8757,14 +8762,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3647,
+      "Progressed": 3648,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:06:05.9601494+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:05:28.0015435+00:00",
   "LastUpdate_AppInfo": "2023-10-20T17:57:00.7331575+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:00:42.2847844+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:06:05.9602094+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:00:18.3765679+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:05:28.0016536+00:00"
 }

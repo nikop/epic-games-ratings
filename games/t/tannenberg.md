@@ -6,51 +6,51 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,421 |
-| Comeback | 82.00% | ~110,950 |
-| Information is Key | 80.00% | ~108,244 |
-| Unlucky | 71.00% | ~96,067 |
-| Anarchist | 68.00% | ~92,007 |
-| Wallhack | 65.00% | ~87,948 |
-| Steady Supply | 60.00% | ~81,183 |
-| Lucky Shot | 53.00% | ~71,712 |
-| Forward Observer | 52.00% | ~70,359 |
-| Ring Ring! | 52.00% | ~70,359 |
-| Bossing Around | 45.00% | ~60,887 |
-| Frostbite | 45.00% | ~60,887 |
-| Night Owl | 44.00% | ~59,534 |
-| Strength in Numbers | 44.00% | ~59,534 |
-| Fog of War | 41.00% | ~55,475 |
-| Rasputin | 39.00% | ~52,769 |
-| Stronghold Denied | 39.00% | ~52,769 |
-| Anyone Else? | 38.00% | ~51,416 |
-| Hydra | 36.00% | ~48,710 |
-| This Belongs to Us Now | 36.00% | ~48,710 |
-| Stronghold | 35.00% | ~47,357 |
-| Leeroy | 33.00% | ~44,651 |
-| Lost Batallion | 33.00% | ~44,651 |
-| This is MY Machine Gun! | 32.00% | ~43,298 |
+| Immovable Object | 89.00% | ~120,424 |
+| Comeback | 82.00% | ~110,953 |
+| Information is Key | 80.00% | ~108,246 |
+| Unlucky | 71.00% | ~96,069 |
+| Anarchist | 68.00% | ~92,009 |
+| Wallhack | 65.00% | ~87,950 |
+| Steady Supply | 60.00% | ~81,185 |
+| Lucky Shot | 53.00% | ~71,713 |
+| Forward Observer | 52.00% | ~70,360 |
+| Ring Ring! | 52.00% | ~70,360 |
+| Bossing Around | 45.00% | ~60,889 |
+| Frostbite | 45.00% | ~60,889 |
+| Night Owl | 44.00% | ~59,536 |
+| Strength in Numbers | 44.00% | ~59,536 |
+| Fog of War | 41.00% | ~55,476 |
+| Rasputin | 39.00% | ~52,770 |
+| Stronghold Denied | 39.00% | ~52,770 |
+| Anyone Else? | 38.00% | ~51,417 |
+| Hydra | 36.00% | ~48,711 |
+| This Belongs to Us Now | 36.00% | ~48,711 |
+| Stronghold | 35.00% | ~47,358 |
+| Leeroy | 33.00% | ~44,652 |
+| Lost Batallion | 33.00% | ~44,652 |
+| This is MY Machine Gun! | 32.00% | ~43,299 |
 | Together As One | 31.00% | ~41,945 |
-| Gavrilo Princip | 27.00% | ~36,532 |
-| Lead Harvest | 25.00% | ~33,826 |
-| Skynet Confirmed | 23.00% | ~31,120 |
-| Kesselschlacht | 22.00% | ~29,767 |
-| Democracy Works! | 20.00% | ~27,061 |
-| Switch, Please! | 19.00% | ~25,708 |
+| Gavrilo Princip | 27.00% | ~36,533 |
+| Lead Harvest | 25.00% | ~33,827 |
+| Skynet Confirmed | 23.00% | ~31,121 |
+| Kesselschlacht | 22.00% | ~29,768 |
+| Democracy Works! | 20.00% | ~27,062 |
+| Switch, Please! | 19.00% | ~25,709 |
 | I've Seen It All | 18.00% | ~24,355 |
 | Tourist | 18.00% | ~24,355 |
 | At Least This Way I Can Win... | 17.00% | ~23,002 |
 | Oops! | 17.00% | ~23,002 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~21,649 |
 | Butcher | 12.00% | ~16,237 |
-| Before the Leaves Fall | 10.00% | ~13,530 |
-| Close Call | 10.00% | ~13,530 |
-| Pinpoint | 10.00% | ~13,530 |
-| Tannenberg | 9.00% | ~12,177 |
-| For the Emperor | 8.00% | ~10,824 |
-| Hawk Eye | 8.00% | ~10,824 |
-| Equality For All | 7.00% | ~9,471 |
-| Hötzendorf | 7.00% | ~9,471 |
+| Before the Leaves Fall | 10.00% | ~13,531 |
+| Close Call | 10.00% | ~13,531 |
+| Pinpoint | 10.00% | ~13,531 |
+| Tannenberg | 9.00% | ~12,178 |
+| For the Emperor | 8.00% | ~10,825 |
+| Hawk Eye | 8.00% | ~10,825 |
+| Equality For All | 7.00% | ~9,472 |
+| Hötzendorf | 7.00% | ~9,472 |
 | Crack Shot | 5.00% | ~6,765 |
 | From Russia with Love | 5.00% | ~6,765 |
 | Overachiever | 5.00% | ~6,765 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,218 |
 | Road to Berlin | 0.60% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,305 (Ranked 76)  
+Progressed: 135,308 (Ranked 76)  
 Completed: 30 (0.02%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 30 (0.02%) (Ranked 298)
 | 2023-10-23 | 135,097 | 30 |
 | 2023-10-24 | 135,189 | 30 |
 | 2023-10-25 | 135,288 | 30 |
-| 2023-10-26 | 135,305 | 30 |
+| 2023-10-26 | 135,308 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 237)  
-Sum: 3,260 (Ranked 166)  
+Sum: 3,261 (Ranked 166)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -278,7 +278,7 @@ Diff (max vs sum): 71
 | This game is Relaxing | 310 |
 | This game has Amazing Characters | 281 |
 | This game is Highly Recommended | 281 |
-| This game has Realistic Visuals | 266 |
+| This game has Realistic Visuals | 267 |
 | This game has a Competitive Community | 261 |
 | This game has Amazing Storytelling | 257 |
 | This game is Educational | 99 |
@@ -453,4 +453,4 @@ Diff (max vs sum): 71
 | 2023-10-23 | 4.39 | - | 335 | 3,255 |
 | 2023-10-24 | 4.39 | - | 335 | 3,258 |
 | 2023-10-25 | 4.39 | - | 335 | 3,259 |
-| 2023-10-26 | 4.39 | - | 335 | 3,260 |
+| 2023-10-26 | 4.39 | - | 335 | 3,261 |

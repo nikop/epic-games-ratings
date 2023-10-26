@@ -4,7 +4,7 @@
   "ProductSlug": "neo-berlin-2087-500f0d",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-19T23:57:02.5275394+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:59:04.6684153+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:04:41.2914095+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:58:36.5774091+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:04:18.1998964+00:00"
 }

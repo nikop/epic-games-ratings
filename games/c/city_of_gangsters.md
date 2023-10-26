@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,707 |
+| Corner Clout | 46.00% | ~160,708 |
 | Copacetic Coordination | 16.00% | ~55,898 |
-| Fronting the Money | 15.00% | ~52,404 |
+| Fronting the Money | 15.00% | ~52,405 |
 | The Dawn of Automation | 14.00% | ~48,911 |
 | Extraordinary Logistics | 14.00% | ~48,911 |
 | Dirty Money | 13.00% | ~45,417 |
 | Family First | 13.00% | ~45,417 |
-| Cleaning House | 12.00% | ~41,923 |
-| Room in the Back | 12.00% | ~41,923 |
+| Cleaning House | 12.00% | ~41,924 |
+| Room in the Back | 12.00% | ~41,924 |
 | Beating the Heat | 11.00% | ~38,430 |
 | Booze Baron | 11.00% | ~38,430 |
 | Friends on the Force | 10.00% | ~34,936 |
 | Neighborhood Watch | 10.00% | ~34,936 |
 | Core Corps | 8.00% | ~27,949 |
 | Sizeable Stash | 8.00% | ~27,949 |
-| Street Fighter | 7.00% | ~24,455 |
-| Friendly Gestures | 7.00% | ~24,455 |
-| People Person | 7.00% | ~24,455 |
+| Street Fighter | 7.00% | ~24,456 |
+| Friendly Gestures | 7.00% | ~24,456 |
+| People Person | 7.00% | ~24,456 |
 | Liquor Lord | 6.00% | ~20,962 |
 | Safety in Numbers | 6.00% | ~20,962 |
 | Moving Experiences | 6.00% | ~20,962 |
@@ -36,11 +36,11 @@ Rating: 4.28 (Ranked 838)
 | Opportunity Knocked | 5.00% | ~17,468 |
 | City of Big Shoulders | 5.00% | ~17,468 |
 | Mission Mastery | 5.00% | ~17,468 |
-| Considerable Clams | 4.00% | ~13,974 |
-| Gin Joint | 4.00% | ~13,974 |
-| An Affront to the Enemy | 4.00% | ~13,974 |
-| Friends from Back Home | 4.00% | ~13,974 |
-| Half Century Mark | 4.00% | ~13,974 |
+| Considerable Clams | 4.00% | ~13,975 |
+| Gin Joint | 4.00% | ~13,975 |
+| An Affront to the Enemy | 4.00% | ~13,975 |
+| Friends from Back Home | 4.00% | ~13,975 |
+| Half Century Mark | 4.00% | ~13,975 |
 | Corner Opportunities | 3.00% | ~10,481 |
 | 2122 North Clark Street | 3.00% | ~10,481 |
 | Copious Cabbage | 3.00% | ~10,481 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 838)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,362 (Ranked 44)  
+Progressed: 349,365 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.00%) (Ranked 326)
 | 2023-10-23 | 349,067 | 7 |
 | 2023-10-24 | 349,199 | 7 |
 | 2023-10-25 | 349,342 | 7 |
-| 2023-10-26 | 349,362 | 7 |
+| 2023-10-26 | 349,365 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 447)  
 Sum: 180 (Ranked 402)  

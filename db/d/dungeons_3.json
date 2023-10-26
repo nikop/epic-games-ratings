@@ -2867,10 +2867,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 2702,
       "NumberOfAwardsMax": 363
+    },
+    {
+      "Time": "2023-10-26T06:03:23.5337007+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2703,
+      "NumberOfAwardsMax": 363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2702,
+  "NumberOfAwards": 2703,
   "NumberOfAwardsMax": 363,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2926,7 +2932,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2941,9 +2947,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 35305,
+  "EOS_Progressed": 35306,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -23696,6 +23702,11 @@
       "Time": "2023-10-26T05:06:22.7548353+00:00",
       "NumProgressed": 35305,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-10-26T06:05:41.3467933+00:00",
+      "NumProgressed": 35306,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 60,
@@ -23715,7 +23726,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16240
+      "UsersEstimate": 16241
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -23731,7 +23742,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -23779,7 +23790,7 @@
       "Name": "Master of Traps",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_2",
@@ -23811,7 +23822,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -23819,7 +23830,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 17299
+      "UsersEstimate": 17300
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -23915,7 +23926,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 15534
+      "UsersEstimate": 15535
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -23947,7 +23958,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 9885
+      "UsersEstimate": 9886
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -23963,7 +23974,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 9885
+      "UsersEstimate": 9886
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -23987,7 +23998,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9180
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -24003,7 +24014,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3178
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -24035,7 +24046,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -24091,7 +24102,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 15887
+      "UsersEstimate": 15888
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -24099,7 +24110,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10238
+      "UsersEstimate": 10239
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -24171,7 +24182,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -24179,22 +24190,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 9179
+      "UsersEstimate": 9180
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 35305,
+      "Progressed": 35306,
       "Completed": 285
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2023-10-25T19:03:22.0202694+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:06:22.7548348+00:00",
+  "LastChanged": "2023-10-26T06:03:23.5337006+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:05:41.3467928+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.3840039+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:03:25.8081795+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:06:22.7550068+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:03:23.5337014+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:05:41.3470451+00:00"
 }

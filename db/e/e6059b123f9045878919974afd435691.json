@@ -2433,9 +2433,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 383
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2928,8 +2928,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-26T05:07:25.8012844+00:00",
+  "LastChanged_Achievements": "2023-10-26T06:06:51.1246935+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:01:49.2397175+00:00",
-  "LastUpdate_Achievements": "2023-10-26T05:07:25.8013677+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:01:12.2795592+00:00",
+  "LastUpdate_Achievements": "2023-10-26T06:06:51.124828+00:00"
 }

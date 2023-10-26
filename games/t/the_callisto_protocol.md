@@ -9,11 +9,11 @@ Rating: 4.19 (Ranked 903)
 | Paper Jams | 7.00% | ~1,139 |
 | Flesh Wound | 6.00% | ~976 |
 | Float Like A Butterfly | 6.00% | ~976 |
-| Two Heads Are Better Than One | 5.00% | ~813 |
-| Chew 'Em Up | 5.00% | ~813 |
-| Reforged | 5.00% | ~813 |
-| The Outer Way | 5.00% | ~813 |
-| Desperate Times | 5.00% | ~813 |
+| Two Heads Are Better Than One | 5.00% | ~814 |
+| Chew 'Em Up | 5.00% | ~814 |
+| Reforged | 5.00% | ~814 |
+| The Outer Way | 5.00% | ~814 |
+| Desperate Times | 5.00% | ~814 |
 | Keep Fighting | 5.00% | ~210 |
 | You Need a Gun | 4.00% | ~651 |
 | I Do Belong Here | 4.00% | ~651 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 903)
 | Information Overload | 0.70% | ~29 |
 | Quick Pick | 0.60% | ~25 |
 | Mugshot | 0.50% | ~81 |
-| Instigator | 0.40% | ~17 |
+| Instigator | 0.50% | ~21 |
 | Subject Alpha | 0.30% | ~13 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,269 (Ranked 135)  
+Progressed: 16,270 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 77 (0.47%) (Ranked 188)
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
-| 2023-10-26 | 16,269 | 77 |
+| 2023-10-26 | 16,270 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
 Sum: 454 (Ranked 324)  

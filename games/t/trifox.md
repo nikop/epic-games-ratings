@@ -33,8 +33,8 @@
 | Complete Level 3-3 | 8.00% | ~8 |
 | Mage specialist | 7.00% | ~7 |
 | Defeat the mage boss | 6.00% | ~6 |
+| Remote retrieved | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
-| Remote retrieved | 5.00% | ~5 |
 | Engineer specialist | 5.00% | ~5 |
 | Way of the engineer | 5.00% | ~5 |
 | Rich | 4.00% | ~4 |
