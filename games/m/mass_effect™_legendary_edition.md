@@ -50,11 +50,11 @@
 | Archivist | 33.00% | ~266 |
 | The Assassin | 33.00% | ~266 |
 | The Justicar | 33.00% | ~266 |
+| Battlemaster | 33.00% | ~266 |
 | Ghost of the Father | 33.00% | ~266 |
 | The Cure | 33.00% | ~266 |
 | The Prodigal | 33.00% | ~266 |
 | Shopaholic | 33.00% | ~266 |
-| Battlemaster | 32.00% | ~258 |
 | Catharsis | 32.00% | ~258 |
 | Big Game Hunter | 32.00% | ~258 |
 | Revenge! | 32.00% | ~258 |

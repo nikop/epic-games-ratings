@@ -5,28 +5,28 @@ Rating: 4.66 (Ranked 284)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~13,871 |
-| A Long Time Ago | 93.00% | ~12,900 |
+| The Mantis | 100.00% | ~13,872 |
+| A Long Time Ago | 93.00% | ~12,901 |
 | Sabersmith | 81.00% | ~11,236 |
-| The Obstacle is the Way | 79.00% | ~10,958 |
+| The Obstacle is the Way | 79.00% | ~10,959 |
 | Back At You | 74.00% | ~10,265 |
-| Happy Go Wookiee | 70.00% | ~9,710 |
-| Everything is Connected | 61.00% | ~8,461 |
+| Happy Go Wookiee | 71.00% | ~9,849 |
+| Everything is Connected | 61.00% | ~8,462 |
 | Her Name Was Masana Tide | 56.00% | ~7,768 |
-| Bank Shot | 55.00% | ~7,629 |
+| Bank Shot | 55.00% | ~7,630 |
 | Perfect Timing | 53.00% | ~7,352 |
-| Gorgara Falls | 51.00% | ~7,074 |
-| The Full Glow-Up | 51.00% | ~7,074 |
+| Gorgara Falls | 51.00% | ~7,075 |
+| The Full Glow-Up | 51.00% | ~7,075 |
 | For A More Civilized Age | 49.00% | ~6,797 |
-| I Knew He Was No Good | 47.00% | ~6,519 |
+| I Knew He Was No Good | 47.00% | ~6,520 |
 | The Holocron Awaits | 46.00% | ~6,381 |
 | Look Out Below | 45.00% | ~6,242 |
-| Scum and Villainy | 44.00% | ~6,103 |
-| Trust Only In The Force | 44.00% | ~6,103 |
+| Scum and Villainy | 44.00% | ~6,104 |
+| Trust Only In The Force | 44.00% | ~6,104 |
 | Don't Mess with BD-1 | 42.00% | ~5,826 |
 | Blade Master | 39.00% | ~5,410 |
-| Full House | 37.00% | ~5,132 |
-| Legendary Beasts | 23.00% | ~3,190 |
+| Full House | 37.00% | ~5,133 |
+| Legendary Beasts | 23.00% | ~3,191 |
 | Echo Location | 20.00% | ~2,774 |
 | Visiting Alderaan Places | 18.00% | ~2,497 |
 | Triple Take | 14.00% | ~1,942 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 284)
 | What Goes Around... | 3.00% | ~416 |
 | Not So Fast | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,871 (Ranked 142)  
+Progressed: 13,872 (Ranked 142)  
 Completed: 150 (1.08%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 150 (1.08%) (Ranked 144)
 | 2023-10-23 | 13,470 | 146 |
 | 2023-10-24 | 13,669 | 149 |
 | 2023-10-25 | 13,854 | 150 |
-| 2023-10-26 | 13,871 | 150 |
+| 2023-10-26 | 13,872 | 150 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

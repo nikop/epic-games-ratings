@@ -2747,9 +2747,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 657087,
+  "EOS_Progressed": 657091,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1816,
+  "EOS_NewPlayers": 1814,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24122,6 +24122,11 @@
       "Time": "2023-10-26T01:48:56.8893656+00:00",
       "NumProgressed": 657087,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-26T02:24:25.5943004+00:00",
+      "NumProgressed": 657091,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24133,7 +24138,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98563
+      "UsersEstimate": 98564
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -24141,7 +24146,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78850
+      "UsersEstimate": 78851
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -24181,7 +24186,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85421
+      "UsersEstimate": 85422
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -24189,7 +24194,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26283
+      "UsersEstimate": 26284
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -24253,7 +24258,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85421
+      "UsersEstimate": 85422
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -24453,7 +24458,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 105134
+      "UsersEstimate": 105135
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -24541,22 +24546,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32854
+      "UsersEstimate": 32855
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 657087,
+      "Progressed": 657091,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-25T02:13:48.4243782+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:48:56.8893649+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:24:25.5942996+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:19.1590554+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:38:51.7970927+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:48:56.8895507+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:13:22.8566948+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:24:25.5947732+00:00"
 }

@@ -780,9 +780,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -932,9 +932,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -964,9 +964,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -1003,8 +1003,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:46:24.0300322+00:00",
-  "LastUpdate_AppInfo": "2023-10-19T01:40:00.2726436+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:42:13.2247913+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:24.0300719+00:00"
+  "LastChanged_Achievements": "2023-10-26T02:20:40.7977511+00:00",
+  "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
+  "LastUpdate_Ratings": "2023-10-26T02:16:14.5076467+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:20:40.7977898+00:00"
 }

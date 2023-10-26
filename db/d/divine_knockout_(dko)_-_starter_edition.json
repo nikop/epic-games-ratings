@@ -4,7 +4,7 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 806,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
@@ -1413,10 +1413,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 553,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-10-26T02:14:28.8277389+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 490,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 553,
+  "NumberOfAwards": 490,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1510,8 +1516,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-10-25T17:00:06.9850766+00:00",
+  "LastChanged": "2023-10-26T02:14:28.8277388+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:27.6579912+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:40:07.6327898+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:00.4412123+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:14:28.8277397+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:20:21.1422048+00:00"
 }

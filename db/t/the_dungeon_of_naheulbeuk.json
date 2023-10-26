@@ -1221,9 +1221,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 233111,
+  "EOS_Progressed": 233115,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1443,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16101,6 +16101,11 @@
       "Time": "2023-10-26T01:46:52.172376+00:00",
       "NumProgressed": 233111,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T02:21:03.7122741+00:00",
+      "NumProgressed": 233115,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16544,7 +16549,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9324
+      "UsersEstimate": 9325
     },
     {
       "ID": "ElfEpic",
@@ -16560,7 +16565,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79258
+      "UsersEstimate": 79259
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16760,7 +16765,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9324
+      "UsersEstimate": 9325
     },
     {
       "ID": "SupportCount4",
@@ -16815,21 +16820,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233111,
+      "Progressed": 233115,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233111,
+      "Progressed": 233115,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-24T14:02:34.6884253+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:46:52.1723756+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:21:03.7122732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:38:13.9244614+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:52.172578+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:12:47.8868009+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:21:03.7124645+00:00"
 }

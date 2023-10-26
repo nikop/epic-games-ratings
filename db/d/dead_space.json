@@ -6,7 +6,7 @@
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -677,7 +677,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1216,
+  "EOS_Progressed": 1217,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
@@ -3737,6 +3737,11 @@
       "Time": "2023-10-26T00:06:50.8976147+00:00",
       "NumProgressed": 1216,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T02:22:20.0184083+00:00",
+      "NumProgressed": 1217,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3749,7 +3754,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "achievement_10",
@@ -3757,7 +3762,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_11",
@@ -3779,9 +3784,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_14",
@@ -3821,7 +3826,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_19",
@@ -3837,7 +3842,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_20",
@@ -3845,7 +3850,7 @@
       "Name": "Autofire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "achievement_21",
@@ -3861,7 +3866,7 @@
       "Name": "A Cut Above",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_23",
@@ -3901,7 +3906,7 @@
       "Name": "Pack Rat",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_28",
@@ -3909,7 +3914,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "achievement_29",
@@ -3941,7 +3946,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "achievement_32",
@@ -3949,7 +3954,7 @@
       "Name": "Surgeon",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_33",
@@ -3965,7 +3970,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_35",
@@ -3973,7 +3978,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_36",
@@ -3989,7 +3994,7 @@
       "Name": "Maxed Out",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_38",
@@ -3997,7 +4002,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "achievement_39",
@@ -4045,7 +4050,7 @@
       "Name": "Exterminator",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_44",
@@ -4077,7 +4082,7 @@
       "Name": "Reunion",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_5",
@@ -4085,7 +4090,7 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "achievement_6",
@@ -4093,7 +4098,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_7",
@@ -4101,7 +4106,7 @@
       "Name": "S.O.S.",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_8",
@@ -4124,7 +4129,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1216,
+      "Progressed": 1217,
       "Completed": 7
     }
   ],
@@ -4132,8 +4137,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-24T11:59:43.9423554+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:48:13.2747819+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:22:20.0184077+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:40:55.7245656+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:48:13.2748452+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:15:07.8514794+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:22:20.0184678+00:00"
 }

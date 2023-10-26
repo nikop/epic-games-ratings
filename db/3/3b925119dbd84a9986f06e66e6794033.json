@@ -353,17 +353,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -377,9 +377,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TIME_JINX",
@@ -417,17 +417,17 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:48:50.0642856+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:24:19.9190606+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:40:39.1124384+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:48:50.0643022+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:14:55.4311276+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:24:19.9190741+00:00"
 }

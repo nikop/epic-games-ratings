@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13871,
+  "EOS_Progressed": 13872,
   "EOS_Completed": 150,
   "EOS_NewPlayers": 1491,
   "EOS_NewCompleters": 17,
@@ -6539,6 +6539,11 @@
       "Time": "2023-10-26T01:46:11.5076783+00:00",
       "NumProgressed": 13871,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-10-26T02:20:30.4684148+00:00",
+      "NumProgressed": 13872,
+      "NumCompleted": 150
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -6559,7 +6564,7 @@
       "Name": "Everything is Connected",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 8461
+      "UsersEstimate": 8462
     },
     {
       "ID": "achievement_11",
@@ -6573,9 +6578,9 @@
       "ID": "achievement_12",
       "SetID": "nk00bp",
       "Name": "Happy Go Wookiee",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 9710
+      "UsersEstimate": 9849
     },
     {
       "ID": "achievement_13",
@@ -6599,7 +6604,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "achievement_16",
@@ -6615,7 +6620,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6520
     },
     {
       "ID": "achievement_18",
@@ -6711,7 +6716,7 @@
       "Name": "Bank Shot",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 7629
+      "UsersEstimate": 7630
     },
     {
       "ID": "achievement_29",
@@ -6727,7 +6732,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "achievement_30",
@@ -6759,7 +6764,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "achievement_34",
@@ -6783,7 +6788,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 7074
+      "UsersEstimate": 7075
     },
     {
       "ID": "achievement_37",
@@ -6799,7 +6804,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "achievement_39",
@@ -6831,7 +6836,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 6103
+      "UsersEstimate": 6104
     },
     {
       "ID": "achievement_7",
@@ -6839,7 +6844,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 13871
+      "UsersEstimate": 13872
     },
     {
       "ID": "achievement_8",
@@ -6847,7 +6852,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 12900
+      "UsersEstimate": 12901
     },
     {
       "ID": "achievement_9",
@@ -6855,14 +6860,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 10958
+      "UsersEstimate": 10959
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 13871,
+      "Progressed": 13872,
       "Completed": 150
     }
   ],
@@ -6870,8 +6875,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-10-25T21:00:05.5582178+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:46:11.5076777+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:20:30.4684143+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:12.8834146+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:41:14.7924795+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:11.5077533+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:15:29.1371874+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:20:30.4684851+00:00"
 }

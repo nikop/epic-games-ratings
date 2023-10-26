@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~723,194 |
-| The Blues | 85.00% | ~620,924 |
-| Fast | 66.00% | ~482,129 |
-| Healthbar | 55.00% | ~401,774 |
-| Force Cube | 53.00% | ~387,164 |
+| Out of bed | 99.00% | ~723,195 |
+| The Blues | 85.00% | ~620,925 |
+| Fast | 66.00% | ~482,130 |
+| Healthbar | 55.00% | ~401,775 |
+| Force Cube | 53.00% | ~387,165 |
 | Double Jump | 48.00% | ~350,640 |
 | Regeneration | 47.00% | ~343,335 |
 | Triple Jump | 43.00% | ~314,115 |
@@ -95,9 +95,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Thrown | 0.40% | ~2,922 |
 | DLC: To the House | 0.40% | ~2,922 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,922 |
-| DLC: Birds | 0.30% | ~2,191 |
-| DLC: Horticultural | 0.30% | ~2,191 |
-| DLC: Non-NPC | 0.30% | ~2,191 |
+| DLC: Birds | 0.30% | ~2,192 |
+| DLC: Horticultural | 0.30% | ~2,192 |
+| DLC: Non-NPC | 0.30% | ~2,192 |
 | DLC: The Giant's Workshop | 0.20% | ~1,461 |
 | DLC: Invisible Wall | 0.20% | ~1,461 |
 | DLC: A good cause! | 0.20% | ~1,461 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~730 |
 | DLC: Top of the world | 0.10% | ~730 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,499 (Ranked 19)  
+Progressed: 730,500 (Ranked 19)  
 Completed: 754 (0.10%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 754 (0.10%) (Ranked 258)
 | 2023-10-23 | 730,308 | 752 |
 | 2023-10-24 | 730,398 | 752 |
 | 2023-10-25 | 730,493 | 754 |
-| 2023-10-26 | 730,499 | 754 |
+| 2023-10-26 | 730,500 | 754 |
 ## Awards
 Max (Challenging Puzzles): 7,710  (Ranked 47)  
 Sum: 10,052 (Ranked 90)  

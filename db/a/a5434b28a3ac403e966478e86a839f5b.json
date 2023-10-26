@@ -1367,9 +1367,9 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_eou5",
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:46:02.5600486+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:20:22.9744798+00:00",
   "LastUpdate_AppInfo": "2023-10-19T23:57:01.6240112+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:40:37.7121304+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:02.5600689+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:14:54.2730734+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:20:22.9744989+00:00"
 }

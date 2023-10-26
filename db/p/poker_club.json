@@ -4,7 +4,7 @@
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 59,
@@ -865,9 +865,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 533432,
+  "EOS_Progressed": 533435,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1562,
+  "EOS_NewPlayers": 1563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22085,6 +22085,11 @@
       "Time": "2023-10-26T01:46:03.2356837+00:00",
       "NumProgressed": 533432,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-26T02:20:23.7049701+00:00",
+      "NumProgressed": 533435,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -22104,7 +22109,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 133358
+      "UsersEstimate": 133359
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -22120,7 +22125,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 53343
+      "UsersEstimate": 53344
     },
     {
       "ID": "BlindmansBluff",
@@ -22192,7 +22197,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 208038
+      "UsersEstimate": 208040
     },
     {
       "ID": "DeadlyAssassin",
@@ -22240,7 +22245,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74680
+      "UsersEstimate": 74681
     },
     {
       "ID": "Handy",
@@ -22248,7 +22253,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218707
+      "UsersEstimate": 218708
     },
     {
       "ID": "HoldingYourOwn",
@@ -22344,7 +22349,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 405408
+      "UsersEstimate": 405411
     },
     {
       "ID": "ProPlayer",
@@ -22384,7 +22389,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74680
+      "UsersEstimate": 74681
     },
     {
       "ID": "RockAndHighRoller",
@@ -22408,7 +22413,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69346
+      "UsersEstimate": 69347
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -22455,7 +22460,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 533432,
+      "Progressed": 533435,
       "Completed": 2
     }
   ],
@@ -22463,8 +22468,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-20T13:06:30.825816+00:00",
-  "LastChanged_Achievements": "2023-10-26T01:46:03.2356831+00:00",
+  "LastChanged_Achievements": "2023-10-26T02:20:23.7049696+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:33.84877+00:00",
-  "LastUpdate_Ratings": "2023-10-26T01:38:27.0572966+00:00",
-  "LastUpdate_Achievements": "2023-10-26T01:46:03.2358619+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:13:00.0694107+00:00",
+  "LastUpdate_Achievements": "2023-10-26T02:20:23.7051304+00:00"
 }

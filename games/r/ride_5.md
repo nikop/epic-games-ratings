@@ -8,7 +8,7 @@
 | Eat My Dust | 42.00% | ~724 |
 | Clean Race | 41.00% | ~707 |
 | Hear That Roar! | 38.00% | ~655 |
-| Rivals to the End | 28.00% | ~483 |
+| Rivals to the End | 29.00% | ~500 |
 | Bitter Rivalry | 26.00% | ~448 |
 | We're Going to Need a Bigger Garage | 24.00% | ~414 |
 | Champagne Spray | 24.00% | ~414 |
@@ -24,13 +24,13 @@
 | Evangelist | 6.00% | ~103 |
 | Make It Your Own! | 5.00% | ~86 |
 | I Make the Rules! | 4.00% | ~69 |
+| Spoilt for Choice | 3.00% | ~52 |
 | Cherry Blossom and Temples | 3.00% | ~52 |
 | La Dolce Vita | 3.00% | ~52 |
 | The Road to Liberty | 3.00% | ~52 |
 | Romantic Races | 3.00% | ~52 |
 | Rounding Off | 3.00% | ~52 |
 | Iconic! | 2.00% | ~34 |
-| Spoilt for Choice | 2.00% | ~34 |
 | Back in Blighty | 2.00% | ~34 |
 | Still Here | 2.00% | ~34 |
 | My Work Here Is Done | 2.00% | ~34 |

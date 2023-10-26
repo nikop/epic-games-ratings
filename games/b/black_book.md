@@ -6,12 +6,12 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~12,657 |
+| Initiation | 27.00% | ~12,658 |
 | Student | 21.00% | ~9,845 |
 | Knower | 15.00% | ~7,032 |
-| Listener | 14.00% | ~6,563 |
-| Aspen Tree | 13.00% | ~6,094 |
-| Healer | 13.00% | ~6,094 |
+| Listener | 14.00% | ~6,564 |
+| Aspen Tree | 13.00% | ~6,095 |
+| Healer | 13.00% | ~6,095 |
 | Scientist | 11.00% | ~5,157 |
 | Soldier | 11.00% | ~5,157 |
 | Cow Level | 10.00% | ~4,688 |
@@ -21,10 +21,10 @@ Number of Ratings: 96  (23.09.2022)
 | Voipel | 9.00% | ~4,219 |
 | Water | 9.00% | ~4,219 |
 | Black Mage | 9.00% | ~4,219 |
-| Card Player | 8.00% | ~3,750 |
-| Pine Tree | 8.00% | ~3,750 |
-| Collector | 8.00% | ~3,750 |
-| Wolf | 8.00% | ~3,750 |
+| Card Player | 8.00% | ~3,751 |
+| Pine Tree | 8.00% | ~3,751 |
+| Collector | 8.00% | ~3,751 |
+| Wolf | 8.00% | ~3,751 |
 | Worthy | 7.00% | ~3,282 |
 | Black Book | 7.00% | ~3,282 |
 | Dead Man | 7.00% | ~3,282 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~469 |
 | Word Master | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,879 (Ranked 107)  
+Progressed: 46,883 (Ranked 107)  
 Completed: 41 (0.09%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 41 (0.09%) (Ranked 262)
 | 2023-10-23 | 46,227 | 40 |
 | 2023-10-24 | 46,537 | 40 |
 | 2023-10-25 | 46,856 | 41 |
-| 2023-10-26 | 46,879 | 41 |
+| 2023-10-26 | 46,883 | 41 |
 ## Awards
 Max (Character Customization): 78  (Ranked 379)  
 Sum: 78 (Ranked 450)  

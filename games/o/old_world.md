@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 2.00% | ~299 |
 | Greek Paganism | 2.00% | ~299 |
 | Roman Paganism | 2.00% | ~299 |
+| Zoroastrianism | 2.00% | ~299 |
 | Naming Landmarks | 2.00% | ~299 |
 | Trade Caravan | 2.00% | ~299 |
 | Kushite Paganism | 2.00% | ~299 |
@@ -55,6 +56,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 1.00% | ~150 |
 | Mighty | 1.00% | ~150 |
 | Valiant | 1.00% | ~150 |
+| Victorious | 1.00% | ~150 |
 | Legendary Cities | 1.00% | ~150 |
 | Just Difficulty | 1.00% | ~150 |
 | Artisans | 1.00% | ~150 |
@@ -72,13 +74,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 1.00% | ~150 |
 | Manichaeism | 1.00% | ~150 |
 | Egyptian Paganism | 1.00% | ~150 |
-| Zoroastrianism | 1.00% | ~150 |
 | Mythology | 1.00% | ~150 |
 | Win a Single Player Game | 1.00% | ~150 |
 | Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
 | Lion | 0.90% | ~135 |
-| Victorious | 0.90% | ~135 |
 | Good Difficulty | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
 | Greece | 0.90% | ~135 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,952 (Ranked 140)  
+Progressed: 14,954 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 5 (0.03%) (Ranked 294)
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
-| 2023-10-26 | 14,952 | 5 |
+| 2023-10-26 | 14,954 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

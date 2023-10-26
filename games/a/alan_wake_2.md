@@ -7,7 +7,7 @@
 | Nightmare Territory | 85.00% | ~447 |
 | Hunting Season | 83.00% | ~437 |
 | Not the Last | 68.00% | ~358 |
-| Somebody's Home | 57.00% | ~300 |
+| Somebody's Home | 58.00% | ~305 |
 | Coffee Thermos | 54.00% | ~284 |
 | Grew Bigger | 53.00% | ~279 |
 | Darkness Coiled | 49.00% | ~258 |
@@ -15,13 +15,13 @@
 | Chased the Source | 48.00% | ~252 |
 | Bring It | 47.00% | ~247 |
 | Felt Good | 47.00% | ~247 |
+| Into the Overlap | 43.00% | ~226 |
 | Lawman | 42.00% | ~221 |
-| Into the Overlap | 42.00% | ~221 |
 | Find the Light | 41.00% | ~216 |
 | Aimed Ahead | 36.00% | ~189 |
 | Talk Show | 36.00% | ~189 |
-| Carry his Words | 33.00% | ~174 |
-| The Other Side | 29.00% | ~153 |
+| Carry his Words | 34.00% | ~179 |
+| The Other Side | 30.00% | ~158 |
 | Storm Cloud | 28.00% | ~147 |
 | New York City | 28.00% | ~147 |
 | Return | 27.00% | ~142 |
@@ -33,7 +33,7 @@
 | This is the Moment | 22.00% | ~116 |
 | Growing Stronger | 22.00% | ~116 |
 | Finding a Way | 22.00% | ~116 |
-| Stop the Monster | 20.00% | ~105 |
+| Stop the Monster | 21.00% | ~110 |
 | All His Life | 20.00% | ~105 |
 | Bright Falls' Finest | 18.00% | ~95 |
 | Back in Watery | 18.00% | ~95 |
@@ -63,9 +63,9 @@
 | The Koskela Brothers | 5.00% | ~26 |
 | All Accounted For | 5.00% | ~26 |
 | Back to Life | 5.00% | ~26 |
+| All Smiles | 4.00% | ~21 |
 | Shift in Reality | 4.00% | ~21 |
 | Coffee-Themed Fun | 4.00% | ~21 |
-| All Smiles | 3.00% | ~16 |
 | I'll Find You | 3.00% | ~16 |
 | The Nice Things in Life | 2.00% | ~11 |
 | Hidden by the Trees | 0.60% | ~3 |

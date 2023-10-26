@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Hat Unlocked | 83.00% | ~80 |
 | Accessory Unlocked | 82.00% | ~79 |
+| Butter Fingers | 76.00% | ~73 |
 | Character Unlocked | 75.00% | ~72 |
-| Butter Fingers | 75.00% | ~72 |
 | Homer | 74.00% | ~71 |
 | Have a good trip! | 72.00% | ~69 |
 | Kickball Unlocked | 70.00% | ~67 |
@@ -27,7 +27,7 @@
 | Living Room Secret Spot | 22.00% | ~21 |
 | Have Mercy | 22.00% | ~21 |
 | Angry Mom | 20.00% | ~19 |
-| Hi Hungry, I'm Dad | 18.00% | ~17 |
+| Hi Hungry, I'm Dad | 19.00% | ~18 |
 | Just how we drew it up | 13.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |
