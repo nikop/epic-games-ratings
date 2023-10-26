@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6697,9 +6697,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138132,
+  "EOS_Progressed": 138136,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -25982,6 +25982,11 @@
       "Time": "2023-10-25T23:04:18.6336957+00:00",
       "NumProgressed": 138132,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T01:45:17.0968538+00:00",
+      "NumProgressed": 138136,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26439,9 +26444,9 @@
       "ID": "fuselegendary",
       "SetID": "anfd17p",
       "Name": "A Legend is Born",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 829
     },
     {
       "ID": "fuseuncommon",
@@ -26888,15 +26893,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138132,
+      "Progressed": 138136,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-25T21:58:12.2379984+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:04:21.3932027+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:45:17.0968529+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:57:56.1115444+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:04:21.3935905+00:00"
+  "LastUpdate_Ratings": "2023-10-26T01:38:29.4971927+00:00",
+  "LastUpdate_Achievements": "2023-10-26T01:45:17.097158+00:00"
 }

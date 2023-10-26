@@ -9,12 +9,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 4.00% | ~17,577 |
 | Until death do us apart | 4.00% | ~17,577 |
 | Victorious! | 4.00% | ~17,577 |
-| That is mine! | 3.00% | ~13,182 |
-| Brothers in Arms | 2.00% | ~8,788 |
-| Cold War | 2.00% | ~8,788 |
-| For the Glory | 2.00% | ~8,788 |
-| That's a Grand Navy | 2.00% | ~8,788 |
-| Seriously?! | 2.00% | ~8,788 |
+| That is mine! | 3.00% | ~13,183 |
+| Brothers in Arms | 2.00% | ~8,789 |
+| Cold War | 2.00% | ~8,789 |
+| For the Glory | 2.00% | ~8,789 |
+| That's a Grand Navy | 2.00% | ~8,789 |
+| Seriously?! | 2.00% | ~8,789 |
 | Defender of the Faith | 1.00% | ~4,394 |
 | It's all about luck | 1.00% | ~4,394 |
 | It's all about the money | 1.00% | ~4,394 |
@@ -27,7 +27,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,515 |
 | Total Control | 0.80% | ~3,515 |
 | My armies are invincible! | 0.70% | ~3,076 |
-| Agressive Expander | 0.60% | ~2,636 |
+| Agressive Expander | 0.60% | ~2,637 |
 | Azur semé de lis or | 0.50% | ~2,197 |
 | City of Cities | 0.50% | ~2,197 |
 | Combined Arms | 0.50% | ~2,197 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439,414 (Ranked 40)  
+Progressed: 439,428 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
-| 2023-10-26 | 439,414 | 1 |
+| 2023-10-26 | 439,428 | 1 |
 ## Awards
 Max (Educational): 6,676  (Ranked 56)  
 Sum: 54,866 (Ranked 24)  

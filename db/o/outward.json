@@ -3,7 +3,7 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 493,
-  "Ranking_Popularity": 462,
+  "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 255,
@@ -517,7 +517,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3616,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -5337,6 +5337,11 @@
       "Time": "2023-10-25T18:06:24.8999246+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-26T01:47:42.4640126+00:00",
+      "NumProgressed": 3616,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5348,7 +5353,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "AceDetective_9",
@@ -5372,7 +5377,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "BloodAndJustice_50",
@@ -5420,7 +5425,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ForAllAurai_8",
@@ -5452,7 +5457,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "HouseofCards_19",
@@ -5668,7 +5673,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5683,15 +5688,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3616,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:06:24.7897873+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:47:42.4640122+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.6172621+00:00",
-  "LastUpdate_Ratings": "2023-10-26T00:00:57.4725825+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:06:24.7898634+00:00"
+  "LastUpdate_Ratings": "2023-10-26T01:42:08.0330675+00:00",
+  "LastUpdate_Achievements": "2023-10-26T01:47:42.4640787+00:00"
 }

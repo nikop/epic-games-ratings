@@ -88,6 +88,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.60% | ~829 |
 | Ritualist | 0.60% | ~829 |
 | By Your Powers Combined... | 0.60% | ~829 |
+| A Legend is Born | 0.60% | ~829 |
 | Item of Renown | 0.60% | ~829 |
 | Master Merchant | 0.60% | ~829 |
 | Bountiful Harvest | 0.60% | ~829 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.60% | ~829 |
 | Master Recycler | 0.60% | ~829 |
 | Exotic Commodities | 0.60% | ~829 |
-| A Legend is Born | 0.50% | ~691 |
 | Jackpot! | 0.50% | ~691 |
 | Economy of Scarce | 0.50% | ~691 |
 | The Free Encyclopedia | 0.40% | ~553 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,132 (Ranked 75)  
+Progressed: 138,136 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
+| 2023-10-26 | 138,136 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,446 (Ranked 51)  

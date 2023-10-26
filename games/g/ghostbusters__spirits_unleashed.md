@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 576)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 4.00% | ~1,107 |
-| Advancement | 3.00% | ~830 |
-| Discovery | 3.00% | ~830 |
-| Meticulously Efficient | 3.00% | ~830 |
-| Fully Upgraded | 3.00% | ~830 |
-| Solo Capture | 3.00% | ~830 |
+| Stylish | 4.00% | ~1,108 |
+| Advancement | 3.00% | ~831 |
+| Discovery | 3.00% | ~831 |
+| Meticulously Efficient | 3.00% | ~831 |
+| Fully Upgraded | 3.00% | ~831 |
+| Solo Capture | 3.00% | ~831 |
 | Animated | 2.00% | ~554 |
 | Back Off | 2.00% | ~554 |
 | Clutch Capture | 2.00% | ~554 |
@@ -37,11 +37,11 @@ Rating: 4.50 (Ranked 576)
 | Summoner | 1.00% | ~277 |
 | Terrifying | 1.00% | ~277 |
 | Welcome to the Crew | 1.00% | ~277 |
+| Collector | 0.90% | ~249 |
 | Tobin's Prodigy | 0.90% | ~249 |
-| Collector | 0.80% | ~221 |
-| Diabolical | 0.80% | ~221 |
-| Escape Artist | 0.80% | ~221 |
-| Reckless | 0.80% | ~221 |
+| Diabolical | 0.80% | ~222 |
+| Escape Artist | 0.80% | ~222 |
+| Reckless | 0.80% | ~222 |
 | Rivalry | 0.70% | ~194 |
 | Surprise! | 0.60% | ~166 |
 | Fragile Panes | 0.50% | ~138 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 576)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,675 (Ranked 120)  
-Completed: 64 (0.23%) (Ranked 224)  
+Progressed: 27,688 (Ranked 120)  
+Completed: 65 (0.23%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,10 +246,10 @@ Completed: 64 (0.23%) (Ranked 224)
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
-| 2023-10-26 | 27,675 | 64 |
+| 2023-10-26 | 27,688 | 65 |
 ## Awards
 Max (Great for Beginners): 281  (Ranked 252)  
-Sum: 2,541 (Ranked 183)  
+Sum: 2,543 (Ranked 183)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -257,8 +257,8 @@ Diff (max vs sum): 69
 | This game is Great for Quick Sessions | 278 |
 | This game has Diverse Characters | 256 |
 | This game has Amazing Storytelling | 255 |
+| This game has Competitive Players | 253 |
 | This game is Relaxing | 251 |
-| This game has Competitive Players | 251 |
 | This game is Extremely Fun | 249 |
 | This game is Highly Recommended | 247 |
 | This game has Quickly Understood Controls | 240 |
@@ -460,3 +460,4 @@ Diff (max vs sum): 69
 | 2023-10-23 | 4.50 | 275 | 2,507 |
 | 2023-10-24 | 4.50 | 281 | 2,525 |
 | 2023-10-25 | 4.50 | 281 | 2,541 |
+| 2023-10-26 | 4.50 | 281 | 2,543 |

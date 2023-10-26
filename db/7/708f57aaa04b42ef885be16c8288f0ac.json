@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1808,
+  "EOS_Progressed": 1817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1795,
+  "EOS_NewPlayers": 1804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-10-26T00:08:12.3877954+00:00",
       "NumProgressed": 1808,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T01:49:11.4861273+00:00",
+      "NumProgressed": 1817,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -845,7 +850,7 @@
       "Name": "Baby Steps",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "BeLikeWater",
@@ -909,7 +914,7 @@
       "Name": "First Time?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FuneralForTheDeath",
@@ -949,7 +954,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "JackOfAllTrades",
@@ -981,7 +986,7 @@
       "Name": "Nasty!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NoMoreTotems",
@@ -1037,7 +1042,7 @@
       "Name": "The Quarterback",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ThisIsDharma",
@@ -1051,9 +1056,9 @@
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "UnResurrected",
@@ -1067,9 +1072,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 36
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -1108,13 +1113,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1808,
+      "Progressed": 1817,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:08:12.3877945+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:49:11.4861268+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:59:09.4059227+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:08:12.3878259+00:00"
+  "LastUpdate_Ratings": "2023-10-26T01:39:56.6241972+00:00",
+  "LastUpdate_Achievements": "2023-10-26T01:49:11.4861567+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4243,10 +4243,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7765,
       "NumberOfAwardsMax": 1026
+    },
+    {
+      "Time": "2023-10-26T01:38:13.5369615+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7768,
+      "NumberOfAwardsMax": 1026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7765,
+  "NumberOfAwards": 7768,
   "NumberOfAwardsMax": 1026,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4290,7 +4296,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 866
+      "Count": 869
     },
     {
       "Text": "This game is Relaxing",
@@ -4317,7 +4323,7 @@
       "Count": 518
     }
   ],
-  "EOS_Progressed": 11057,
+  "EOS_Progressed": 11058,
   "EOS_Completed": 262,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 3,
@@ -16842,6 +16848,11 @@
       "Time": "2023-10-25T23:05:47.0799786+00:00",
       "NumProgressed": 11057,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-10-26T01:47:04.0411501+00:00",
+      "NumProgressed": 11058,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 15,
@@ -16861,7 +16872,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4313
     },
     {
       "ID": "Bestest_Friend",
@@ -16893,7 +16904,7 @@
       "Name": "Constructor",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "Duty_Bound",
@@ -16925,7 +16936,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7740
+      "UsersEstimate": 7741
     },
     {
       "ID": "Miner",
@@ -16941,7 +16952,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7629
+      "UsersEstimate": 7630
     },
     {
       "ID": "Renovator",
@@ -16965,23 +16976,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11057,
+      "Progressed": 11058,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-25T00:01:50.230441+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:05:51.728676+00:00",
+  "LastChanged": "2023-10-26T01:38:13.5369613+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:47:04.0411497+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:57:39.6593727+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:05:51.7288326+00:00"
+  "LastUpdate_Ratings": "2023-10-26T01:38:13.5369621+00:00",
+  "LastUpdate_Achievements": "2023-10-26T01:47:04.0412463+00:00"
 }

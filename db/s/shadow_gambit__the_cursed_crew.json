@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -109,7 +109,7 @@
   "Tags": [],
   "EOS_Progressed": 769,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.38,
   "EosHistory": [
@@ -2373,9 +2373,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 408
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2574,8 +2574,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:09:31.6638189+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:50:27.3197153+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
   "LastUpdate_Ratings": "2023-10-26T00:01:35.7953101+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:09:31.6638514+00:00"
+  "LastUpdate_Achievements": "2023-10-26T01:50:27.3197491+00:00"
 }

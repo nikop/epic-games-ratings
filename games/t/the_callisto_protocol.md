@@ -6,26 +6,26 @@ Rating: 4.19 (Ranked 903)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,301 |
-| Paper Jams | 7.00% | ~1,138 |
+| Paper Jams | 7.00% | ~1,139 |
 | Flesh Wound | 6.00% | ~976 |
 | Float Like A Butterfly | 6.00% | ~976 |
 | Two Heads Are Better Than One | 5.00% | ~813 |
 | Chew 'Em Up | 5.00% | ~813 |
+| Workplace Hazard | 5.00% | ~813 |
 | Reforged | 5.00% | ~813 |
 | The Outer Way | 5.00% | ~813 |
 | Desperate Times | 5.00% | ~813 |
-| Keep Fighting | 5.00% | ~209 |
-| You Need a Gun | 4.00% | ~650 |
-| I Do Belong Here | 4.00% | ~650 |
-| Terminated | 4.00% | ~650 |
-| Workplace Hazard | 4.00% | ~650 |
-| If the SHU Fits... | 4.00% | ~650 |
-| Without A Paddle | 4.00% | ~650 |
-| In the Pipe, Five by Five | 4.00% | ~650 |
-| What Lies Beneath | 4.00% | ~650 |
-| Crash Site | 4.00% | ~650 |
-| Full Circle | 4.00% | ~650 |
-| Power Up | 4.00% | ~650 |
+| Keep Fighting | 5.00% | ~210 |
+| You Need a Gun | 4.00% | ~651 |
+| I Do Belong Here | 4.00% | ~651 |
+| Terminated | 4.00% | ~651 |
+| If the SHU Fits... | 4.00% | ~651 |
+| Without A Paddle | 4.00% | ~651 |
+| In the Pipe, Five by Five | 4.00% | ~651 |
+| What Lies Beneath | 4.00% | ~651 |
+| Crash Site | 4.00% | ~651 |
+| Full Circle | 4.00% | ~651 |
+| Power Up | 4.00% | ~651 |
 | It's Time | 4.00% | ~168 |
 | Giving Back | 3.00% | ~488 |
 | The Commonality | 3.00% | ~488 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,262 (Ranked 135)  
+Progressed: 16,266 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 77 (0.47%) (Ranked 188)
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
+| 2023-10-26 | 16,266 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 379)  
 Sum: 454 (Ranked 324)  

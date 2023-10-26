@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Brace for impact! | 31.00% | ~123 |
 | Baby's First Car | 29.00% | ~115 |
-| Pushover | 29.00% | ~115 |
 | A Forest Walk | 29.00% | ~115 |
 | Amateur Mechanic | 28.00% | ~111 |
+| Pushover | 28.00% | ~111 |
 | C-C-C-Combo! | 26.00% | ~103 |
 | Multiply that! | 26.00% | ~103 |
 | Snow Fun! | 24.00% | ~95 |
@@ -36,8 +36,8 @@
 | Ferry Good! | 17.00% | ~67 |
 | Assert Dominance | 17.00% | ~67 |
 | Speed of light | 17.00% | ~67 |
-| Out of this League | 14.00% | ~55 |
-| Special Forces | 13.00% | ~51 |
+| Out of this League | 14.00% | ~56 |
+| Special Forces | 13.00% | ~52 |
 | Toot Toot! | 12.00% | ~48 |
 | Blasting away! | 12.00% | ~48 |
 | High Roller | 11.00% | ~44 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 305)  
-Completed: 2 (0.51%) (Ranked 185)  
+Progressed: 397 (Ranked 305)  
+Completed: 2 (0.50%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 2 (0.51%) (Ranked 185)
 | 2023-10-16 | 394 | 2 |
 | 2023-10-17 | 395 | 2 |
 | 2023-10-25 | 396 | 2 |
+| 2023-10-26 | 397 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

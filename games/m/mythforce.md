@@ -9,8 +9,8 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 24.00% | ~1,069 |
 | Debuff Dogpile | 23.00% | ~1,024 |
 | Hit 'Em Where It Hurts | 23.00% | ~1,024 |
+| Perk Shard Punch Card | 23.00% | ~1,024 |
 | That'll Leave a Mark | 23.00% | ~1,024 |
-| Perk Shard Punch Card | 22.00% | ~980 |
 | Mushroom Madness! | 21.00% | ~935 |
 | First Strike | 18.00% | ~802 |
 | Spending Spree | 18.00% | ~802 |
@@ -135,9 +135,9 @@ Completed: 3 (0.07%) (Ranked 272)
 | 2023-10-25 | 4,453 | 3 |
 | 2023-10-26 | 4,454 | 3 |
 ## Awards
-Max (Great for Beginners): 34  (Ranked 468)  
+Max (Great for Beginners): 34  (Ranked 469)  
 Sum: 285 (Ranked 361)  
-Diff (max vs sum): 107  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

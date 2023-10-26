@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~110,284 |
-| May the Torchbearer light our way | 36.00% | ~104,480 |
-| A powerful aura was here | 23.00% | ~66,751 |
-| Let's raise the stakes!! | 10.00% | ~29,022 |
-| Rumors are true | 6.00% | ~17,413 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,413 |
-| Pride is a sin, young Knight | 5.00% | ~14,511 |
-| Bring it on! | 5.00% | ~14,511 |
-| We'll be careful | 4.00% | ~11,609 |
-| Back to your senses | 3.00% | ~8,707 |
-| They tricked me | 2.00% | ~5,804 |
-| We need to talk | 2.00% | ~5,804 |
-| I feel drawn to it | 2.00% | ~5,804 |
-| They won't last long | 2.00% | ~5,804 |
-| I took a risk | 2.00% | ~5,804 |
-| Here to stay | 1.00% | ~2,902 |
-| Counting on you | 1.00% | ~2,902 |
-| This is the end | 1.00% | ~2,902 |
-| We can choose to fight | 1.00% | ~2,902 |
-| Their fate is sealed | 1.00% | ~2,902 |
+| The touch of Chaos | 38.00% | ~110,310 |
+| May the Torchbearer light our way | 36.00% | ~104,504 |
+| A powerful aura was here | 23.00% | ~66,767 |
+| Let's raise the stakes!! | 10.00% | ~29,029 |
+| Rumors are true | 6.00% | ~17,417 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,417 |
+| Pride is a sin, young Knight | 5.00% | ~14,514 |
+| Bring it on! | 5.00% | ~14,514 |
+| We'll be careful | 4.00% | ~11,612 |
+| Back to your senses | 3.00% | ~8,709 |
+| They tricked me | 2.00% | ~5,806 |
+| We need to talk | 2.00% | ~5,806 |
+| I feel drawn to it | 2.00% | ~5,806 |
+| They won't last long | 2.00% | ~5,806 |
+| I took a risk | 2.00% | ~5,806 |
+| Here to stay | 1.00% | ~2,903 |
+| Counting on you | 1.00% | ~2,903 |
+| This is the end | 1.00% | ~2,903 |
+| We can choose to fight | 1.00% | ~2,903 |
+| Their fate is sealed | 1.00% | ~2,903 |
 | Not even from this world | 0.70% | ~2,032 |
 | You want more? I've got more! | 0.50% | ~1,451 |
 | No damsels in distress | 0.30% | ~871 |
-| The Ashen Knight | 0.20% | ~580 |
-| The Shade | 0.20% | ~580 |
-| Through the Veil | 0.20% | ~580 |
+| The Ashen Knight | 0.20% | ~581 |
+| The Shade | 0.20% | ~581 |
+| Through the Veil | 0.20% | ~581 |
 | The immortal is bound to reborn | 0.10% | ~290 |
 | A legend among Chimeras | 0.10% | ~290 |
 | It's only pain | 0.10% | ~290 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 909)
 | We strike as one | 0.10% | ~290 |
 | Chaos be damned! | 0.10% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,221 (Ranked 50)  
+Progressed: 290,290 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-23 | 287,922 | 1 |
 | 2023-10-24 | 289,112 | 1 |
 | 2023-10-25 | 290,188 | 1 |
-| 2023-10-26 | 290,221 | 1 |
+| 2023-10-26 | 290,290 | 1 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 439)  
 Sum: 43 (Ranked 479)  

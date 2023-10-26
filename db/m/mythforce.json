@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 468,
+  "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 272,
@@ -766,7 +766,7 @@
   ],
   "EOS_Progressed": 4454,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8275,9 +8275,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 1024
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8331,8 +8331,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-26T00:09:31.8794816+00:00",
+  "LastChanged_Achievements": "2023-10-26T01:50:27.5419616+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:57:32.1894734+00:00",
-  "LastUpdate_Achievements": "2023-10-26T00:09:31.8795461+00:00"
+  "LastUpdate_Ratings": "2023-10-26T01:38:02.3384465+00:00",
+  "LastUpdate_Achievements": "2023-10-26T01:50:27.5421114+00:00"
 }
