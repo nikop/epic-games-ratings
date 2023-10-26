@@ -1,17 +1,17 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.17 (Ranked 916)  
+Rating: 4.16 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 32.00% | ~20,715 |
-| As Far Away As Possible | 17.00% | ~11,005 |
-| A Most Unstable Organism | 13.00% | ~8,415 |
-| No Time to Follow Protocol | 10.00% | ~6,473 |
+| Your Lucky Day | 32.00% | ~20,717 |
+| As Far Away As Possible | 17.00% | ~11,006 |
+| A Most Unstable Organism | 13.00% | ~8,416 |
+| No Time to Follow Protocol | 10.00% | ~6,474 |
 | Float Like a Butterfly... | 8.00% | ~5,179 |
-| Nano Connoisseur | 6.00% | ~3,884 |
-| In Two Places At Once | 6.00% | ~3,884 |
+| Nano Connoisseur | 6.00% | ~3,885 |
+| In Two Places At Once | 6.00% | ~3,885 |
 | Pulling Your Weight | 3.00% | ~1,942 |
 | Reaping Rivals | 3.00% | ~1,942 |
 | fifteenth Time's the Charm | 1.00% | ~647 |
@@ -22,7 +22,7 @@ Rating: 4.17 (Ranked 916)
 | Runs for Your Money | 0.30% | ~194 |
 | Past Master | 0.30% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,734 (Ranked 99)  
+Progressed: 64,742 (Ranked 99)  
 Completed: 25 (0.04%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,16 +82,16 @@ Completed: 25 (0.04%) (Ranked 288)
 | 2023-10-23 | 64,441 | 22 |
 | 2023-10-24 | 64,548 | 23 |
 | 2023-10-25 | 64,652 | 24 |
-| 2023-10-26 | 64,734 | 25 |
+| 2023-10-26 | 64,742 | 25 |
 ## Awards
 Max (Great for Beginners): 76  (Ranked 388)  
-Sum: 329 (Ranked 348)  
-Diff (max vs sum): 40  
+Sum: 330 (Ranked 347)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 76 |
 | This game has Diverse Characters | 50 |
-| This game is Highly Recommended | 40 |
+| This game is Highly Recommended | 41 |
 | This game has a Competitive Community | 38 |
 | This game is Extremely Fun | 34 |
 | This game has Quickly Understood Controls | 32 |
@@ -148,4 +148,4 @@ Diff (max vs sum): 40
 | 2023-10-23 | 4.16 | 75 | 292 |
 | 2023-10-24 | 4.17 | 76 | 295 |
 | 2023-10-25 | 4.17 | 76 | 326 |
-| 2023-10-26 | 4.17 | 76 | 329 |
+| 2023-10-26 | 4.17 | 76 | 330 |

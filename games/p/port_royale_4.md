@@ -1,33 +1,33 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.05 (Ranked 965)  
+Rating: 4.05 (Ranked 966)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~795 |
-| My little farm | 64.00% | ~628 |
+| Cabin boy | 81.00% | ~796 |
+| My little farm | 64.00% | ~629 |
 | Every beginning is difficult | 63.00% | ~619 |
 | Gofer | 57.00% | ~560 |
-| 3, 2, 1, mine | 55.00% | ~540 |
-| O Captain! My Captain! | 54.00% | ~530 |
+| 3, 2, 1, mine | 55.00% | ~541 |
+| O Captain! My Captain! | 55.00% | ~541 |
 | Seafarer | 52.00% | ~511 |
-| Greed for gold | 43.00% | ~422 |
-| Intangible | 42.00% | ~412 |
-| I'm out of here for a while | 42.00% | ~412 |
-| In a mint condition | 38.00% | ~373 |
-| Licence to Kill | 37.00% | ~363 |
+| Intangible | 43.00% | ~423 |
+| Greed for gold | 43.00% | ~423 |
+| I'm out of here for a while | 42.00% | ~413 |
+| In a mint condition | 38.00% | ~374 |
+| Licence to Kill | 37.00% | ~364 |
 | Pirates! | 34.00% | ~334 |
 | Collectionitis | 29.00% | ~285 |
-| Megalomania | 29.00% | ~285 |
 | Christening | 28.00% | ~275 |
-| Groundskeeper | 26.00% | ~255 |
+| Megalomania | 28.00% | ~275 |
+| Groundskeeper | 26.00% | ~256 |
 | Wholesale | 22.00% | ~216 |
 | Walk the plank | 21.00% | ~206 |
 | Pearly gates | 18.00% | ~177 |
 | My precious! | 17.00% | ~167 |
-| Conquistador | 14.00% | ~137 |
+| Conquistador | 14.00% | ~138 |
 | Panic buying | 11.00% | ~108 |
 | Just a scratch | 9.00% | ~88 |
 | Your vessel, my vessel | 9.00% | ~88 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 982 (Ranked 244)  
+Progressed: 983 (Ranked 244)  
 Completed: 1 (0.10%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.10%) (Ranked 259)
 | 2023-10-23 | 978 | 1 |
 | 2023-10-24 | 979 | 1 |
 | 2023-10-25 | 981 | 1 |
-| 2023-10-26 | 982 | 1 |
+| 2023-10-26 | 983 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

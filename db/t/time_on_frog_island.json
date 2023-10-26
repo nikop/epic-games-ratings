@@ -3,9 +3,9 @@
   "Name": "Time on Frog Island",
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:06:30.9790304+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:07:16.4035642+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8688161+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:59:44.914542+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:06:30.9790525+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:00:23.291399+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:07:16.4035972+00:00"
 }

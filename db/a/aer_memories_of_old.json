@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22813,
+  "EOS_Progressed": 22818,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
@@ -20743,6 +20743,11 @@
       "Time": "2023-10-26T19:07:19.679878+00:00",
       "NumProgressed": 22813,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-10-26T20:08:53.1586613+00:00",
+      "NumProgressed": 22818,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 20,
@@ -20754,7 +20759,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3878
+      "UsersEstimate": 3879
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -20770,7 +20775,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20778,7 +20783,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -20786,7 +20791,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2510
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -20794,7 +20799,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20818,7 +20823,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "FOUND_ERIN",
@@ -20874,7 +20879,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17566
+      "UsersEstimate": 17570
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20882,7 +20887,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6388
+      "UsersEstimate": 6389
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20906,22 +20911,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4106
+      "UsersEstimate": 4107
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22813,
+      "Progressed": 22818,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:07:19.6798777+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:08:53.1586605+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:03:13.0943155+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:07:19.6799819+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:03:28.3113739+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:08:53.1589369+00:00"
 }

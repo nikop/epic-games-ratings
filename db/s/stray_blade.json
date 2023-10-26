@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -844,9 +844,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
@@ -891,8 +891,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:09:34.6285465+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:09:55.5530043+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8254779+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:59:47.0307139+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:09:34.6285822+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:00:26.2646156+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:09:55.5530435+00:00"
 }

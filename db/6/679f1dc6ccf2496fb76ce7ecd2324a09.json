@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-the-prairie-424643",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
     "PcReleaseDate": "2023-05-31T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-04T22:57:14.1186143+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:56.5788951+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:00:13.6037594+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:06:32.2305024+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:00:59.5636851+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:07:17.9215668+00:00"
 }

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~736 |
-| Eat My Dust | 42.00% | ~736 |
-| Clean Race | 41.00% | ~719 |
-| Hear That Roar! | 38.00% | ~666 |
-| Rivals to the End | 28.00% | ~491 |
-| Bitter Rivalry | 26.00% | ~456 |
-| We're Going to Need a Bigger Garage | 24.00% | ~421 |
-| Champagne Spray | 24.00% | ~421 |
-| Restored and Ready | 18.00% | ~316 |
-| I Want One Too! | 18.00% | ~316 |
-| Legendary!!! | 18.00% | ~316 |
-| Quick Pit Stop | 18.00% | ~316 |
-| Go-Faster Stripes | 16.00% | ~280 |
-| I'm Here Too! | 16.00% | ~280 |
-| We've Just Begun | 10.00% | ~175 |
-| Stamina Star | 8.00% | ~140 |
-| Is It the Right Size? | 8.00% | ~140 |
+| First Love | 42.00% | ~740 |
+| Eat My Dust | 42.00% | ~740 |
+| Clean Race | 41.00% | ~722 |
+| Hear That Roar! | 38.00% | ~669 |
+| Rivals to the End | 28.00% | ~493 |
+| Bitter Rivalry | 26.00% | ~458 |
+| We're Going to Need a Bigger Garage | 24.00% | ~423 |
+| Champagne Spray | 24.00% | ~423 |
+| Restored and Ready | 18.00% | ~317 |
+| I Want One Too! | 18.00% | ~317 |
+| Legendary!!! | 18.00% | ~317 |
+| Quick Pit Stop | 18.00% | ~317 |
+| Go-Faster Stripes | 16.00% | ~282 |
+| I'm Here Too! | 16.00% | ~282 |
+| We've Just Begun | 10.00% | ~176 |
+| Is It the Right Size? | 8.00% | ~141 |
+| Stamina Star | 7.00% | ~123 |
 | Make It Your Own! | 5.00% | ~88 |
 | Evangelist | 5.00% | ~88 |
 | I Make the Rules! | 4.00% | ~70 |
-| Spoilt for Choice | 3.00% | ~53 |
 | Cherry Blossom and Temples | 3.00% | ~53 |
 | La Dolce Vita | 3.00% | ~53 |
 | The Road to Liberty | 3.00% | ~53 |
 | Romantic Races | 3.00% | ~53 |
 | Rounding Off | 3.00% | ~53 |
 | Iconic! | 2.00% | ~35 |
+| Spoilt for Choice | 2.00% | ~35 |
 | Back in Blighty | 2.00% | ~35 |
 | Still Here | 2.00% | ~35 |
 | My Work Here Is Done | 2.00% | ~35 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,753 (Ranked 219)  
+Progressed: 1,761 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-23 | 1,647 | 0 |
 | 2023-10-24 | 1,671 | 0 |
 | 2023-10-25 | 1,720 | 0 |
-| 2023-10-26 | 1,753 | 0 |
+| 2023-10-26 | 1,761 | 0 |

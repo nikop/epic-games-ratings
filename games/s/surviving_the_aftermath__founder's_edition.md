@@ -6,11 +6,11 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,209 |
-| Leader | 61.00% | ~6,024 |
-| Explorer | 53.00% | ~5,234 |
+| First Step | 73.00% | ~7,210 |
+| Leader | 61.00% | ~6,025 |
+| Explorer | 53.00% | ~5,235 |
 | Healer | 52.00% | ~5,136 |
-| Aspiring Inventor | 44.00% | ~4,345 |
+| Aspiring Inventor | 44.00% | ~4,346 |
 | Adventurer | 42.00% | ~4,148 |
 | Famous Healer | 38.00% | ~3,753 |
 | Local Leader | 35.00% | ~3,457 |
@@ -18,25 +18,25 @@ Number of Ratings: 836  (23.09.2022)
 | New Opportunities | 34.00% | ~3,358 |
 | Energized | 33.00% | ~3,259 |
 | The Long Haul | 33.00% | ~3,259 |
-| Survivor | 32.00% | ~3,160 |
+| Survivor | 32.00% | ~3,161 |
 | The Great Healer | 31.00% | ~3,062 |
-| Legendary Explorer | 28.00% | ~2,765 |
-| Cleaner | 28.00% | ~2,765 |
-| Catastrofan | 28.00% | ~2,765 |
+| Legendary Explorer | 28.00% | ~2,766 |
+| Cleaner | 28.00% | ~2,766 |
+| Catastrofan | 28.00% | ~2,766 |
 | Finders, Keepers | 26.00% | ~2,568 |
 | Top Notch | 25.00% | ~2,469 |
-| Great Leader | 23.00% | ~2,271 |
-| Mentor | 23.00% | ~2,271 |
+| Great Leader | 23.00% | ~2,272 |
+| Mentor | 23.00% | ~2,272 |
 | Merchant | 22.00% | ~2,173 |
 | Ice Lakes | 22.00% | ~2,173 |
 | Real Survivor | 22.00% | ~2,173 |
 | Rocket Surgeon | 20.00% | ~1,975 |
-| War Never Changes | 19.00% | ~1,876 |
+| War Never Changes | 19.00% | ~1,877 |
 | Friendly | 17.00% | ~1,679 |
 | Big Game Hunter | 17.00% | ~1,679 |
 | Around the World | 17.00% | ~1,679 |
 | Spreading Influence | 17.00% | ~1,679 |
-| Bookworm | 15.00% | ~1,481 |
+| Bookworm | 15.00% | ~1,482 |
 | Famous Adventurer | 14.00% | ~1,383 |
 | Prepared for Anything | 14.00% | ~1,383 |
 | Big Catastrofan | 13.00% | ~1,284 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,876 (Ranked 153)  
+Progressed: 9,877 (Ranked 153)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,17 +255,17 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-23 | 9,823 | 0 |
 | 2023-10-24 | 9,840 | 0 |
 | 2023-10-25 | 9,860 | 0 |
-| 2023-10-26 | 9,876 | 0 |
+| 2023-10-26 | 9,877 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 345)  
-Sum: 714 (Ranked 288)  
+Sum: 715 (Ranked 288)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
 | This game is Great for Beginners | 95 |
 | This game has Amazing Storytelling | 88 |
-| This game is Relaxing | 83 |
+| This game is Relaxing | 84 |
 | This game has Quickly Understood Controls | 83 |
 | This game is Highly Recommended | 73 |
 | This game has Diverse Characters | 73 |
@@ -405,3 +405,4 @@ Diff (max vs sum): 57
 | 2023-10-13 | 4.48 | - | 103 | 710 |
 | 2023-10-22 | 4.48 | - | 103 | 713 |
 | 2023-10-25 | 4.48 | - | 103 | 714 |
+| 2023-10-26 | 4.48 | - | 103 | 715 |

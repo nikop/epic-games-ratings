@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 978)  
+Rating: 3.99 (Ranked 979)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,17 +10,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,145 |
 | Tinkle of Coins | 3.00% | ~4,145 |
 | Titan's First Steps | 3.00% | ~4,145 |
-| One Easy Payment | 2.00% | ~2,763 |
-| Some Assembly Required | 2.00% | ~2,763 |
-| Disintermediation | 2.00% | ~2,763 |
-| Another Satisfied Customer | 2.00% | ~2,763 |
-| It's Free Real Estate | 2.00% | ~2,763 |
-| Pretty Penny | 2.00% | ~2,763 |
-| One-Armed Bandit | 2.00% | ~2,763 |
-| Budding Merchant | 2.00% | ~2,763 |
-| Through Repetition, Perfection | 2.00% | ~2,763 |
-| Capitalism Ho! | 2.00% | ~2,763 |
-| Own the Means of Production | 2.00% | ~2,763 |
+| One Easy Payment | 2.00% | ~2,764 |
+| Some Assembly Required | 2.00% | ~2,764 |
+| Disintermediation | 2.00% | ~2,764 |
+| Another Satisfied Customer | 2.00% | ~2,764 |
+| It's Free Real Estate | 2.00% | ~2,764 |
+| Pretty Penny | 2.00% | ~2,764 |
+| One-Armed Bandit | 2.00% | ~2,764 |
+| Budding Merchant | 2.00% | ~2,764 |
+| Through Repetition, Perfection | 2.00% | ~2,764 |
+| Capitalism Ho! | 2.00% | ~2,764 |
+| Own the Means of Production | 2.00% | ~2,764 |
 | The Daily Grind | 1.00% | ~1,382 |
 | On the Path to Greatness | 1.00% | ~1,382 |
 | Ascended | 1.00% | ~1,382 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.90% | ~1,244 |
 | Magical Harmony | 0.90% | ~1,244 |
 | Tax not Included | 0.80% | ~1,105 |
+| Big Game Hunting | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
 | Scrapbooker | 0.80% | ~1,105 |
 | Expansion in Session | 0.80% | ~1,105 |
@@ -59,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.70% | ~967 |
 | A Ronin Reborn | 0.70% | ~967 |
 | The King's Caprice | 0.70% | ~967 |
-| Big Game Hunting | 0.70% | ~967 |
 | Locally Sourced | 0.70% | ~967 |
 | Flying off the Shelves | 0.70% | ~967 |
 | This Power Level...! | 0.70% | ~967 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,173 (Ranked 75)  
+Progressed: 138,175 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,173 | 172 |
+| 2023-10-26 | 138,175 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,447 (Ranked 51)  

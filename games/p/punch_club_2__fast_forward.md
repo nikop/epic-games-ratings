@@ -52,20 +52,20 @@
 | Get out of my apartment! | 40.00% | ~134 |
 | Gang wrangler | 38.00% | ~128 |
 | Seashell hunter | 38.00% | ~128 |
-| Undercover robot | 37.00% | ~124 |
+| Undercover robot | 38.00% | ~128 |
+| Absolute Champion! | 37.00% | ~124 |
 | Problems of cyborgs | 36.00% | ~121 |
-| Absolute Champion! | 36.00% | ~121 |
+| Not little hacker | 36.00% | ~121 |
 | Your own way | 36.00% | ~121 |
 | The lonesome road | 35.00% | ~118 |
+| Keep nature safe | 35.00% | ~118 |
+| Family comes first | 35.00% | ~118 |
 | Key memories | 35.00% | ~118 |
-| Not little hacker | 35.00% | ~118 |
 | Careerist | 35.00% | ~118 |
 | Anyone can resist | 35.00% | ~118 |
 | The heart of the Resistance | 35.00% | ~118 |
 | Trap disarmed | 34.00% | ~114 |
 | Another world | 34.00% | ~114 |
-| Keep nature safe | 34.00% | ~114 |
-| Family comes first | 34.00% | ~114 |
 | The last bell ring | 33.00% | ~111 |
 | Better cooking at home | 31.00% | ~104 |
 | Silver’s past | 30.00% | ~101 |

@@ -11,7 +11,7 @@
 | Search and Rescue | 72.00% | ~583 |
 | Quarian Ally | 69.00% | ~559 |
 | Medal of Heroism | 66.00% | ~535 |
-| Honorarium of Corporate Service | 65.00% | ~526 |
+| Honorarium of Corporate Service | 66.00% | ~535 |
 | Council Legion of Merit | 60.00% | ~486 |
 | Medal of Honor | 58.00% | ~470 |
 | Meritorious Service Medal | 58.00% | ~470 |
@@ -57,12 +57,12 @@
 | The Cure | 33.00% | ~267 |
 | Shopaholic | 33.00% | ~267 |
 | Big Game Hunter | 32.00% | ~259 |
+| Agent | 32.00% | ~259 |
 | Revenge! | 32.00% | ~259 |
 | Heart of Darkness | 32.00% | ~259 |
+| Focused | 31.00% | ~251 |
 | Fade Away | 31.00% | ~251 |
-| Agent | 31.00% | ~251 |
 | Driven | 31.00% | ~251 |
-| Focused | 30.00% | ~243 |
 | Cat's in the Cradle | 30.00% | ~243 |
 | Doppelganger | 30.00% | ~243 |
 | Treason | 30.00% | ~243 |

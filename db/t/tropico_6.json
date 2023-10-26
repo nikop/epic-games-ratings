@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 304,
   "Ranking_Popularity": 349,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1311,9 +1311,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5686,
+  "EOS_Progressed": 5687,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11821,6 +11821,11 @@
       "Time": "2023-10-26T19:09:25.3445981+00:00",
       "NumProgressed": 5686,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-26T20:09:44.831859+00:00",
+      "NumProgressed": 5687,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11872,7 +11877,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -11976,7 +11981,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -11992,7 +11997,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12016,7 +12021,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -12088,7 +12093,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12151,15 +12156,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5686,
+      "Progressed": 5687,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-26T18:59:36.8630062+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:09:25.3445976+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:09:44.8318583+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.8637871+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:59:36.8630066+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:09:25.3446691+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:00:13.4788389+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:09:44.8320583+00:00"
 }

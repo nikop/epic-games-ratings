@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5241,
+  "EOS_Progressed": 5242,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6465,6 +6465,11 @@
       "Time": "2023-10-26T15:05:18.6292796+00:00",
       "NumProgressed": 5241,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T20:04:38.496659+00:00",
+      "NumProgressed": 5242,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6492,7 +6497,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "12",
@@ -6516,7 +6521,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "15",
@@ -6644,7 +6649,7 @@
       "Name": "Stronger Together",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "3",
@@ -6676,7 +6681,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "33",
@@ -6692,7 +6697,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "35",
@@ -6860,7 +6865,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "50",
@@ -6875,13 +6880,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5241,
+      "Progressed": 5242,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5241,
+      "Progressed": 5242,
       "Completed": 6
     }
   ],
@@ -6889,8 +6894,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-23T10:57:20.7229711+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:04:12.990149+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:04:38.4966584+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.066766+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:58:37.3597894+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:04:12.9902142+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:59:00.0359781+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:04:38.4967998+00:00"
 }

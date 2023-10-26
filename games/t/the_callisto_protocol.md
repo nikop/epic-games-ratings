@@ -26,7 +26,7 @@ Rating: 4.19 (Ranked 903)
 | Crash Site | 4.00% | ~651 |
 | Full Circle | 4.00% | ~651 |
 | Power Up | 4.00% | ~651 |
-| It's Time | 4.00% | ~168 |
+| It's Time | 4.00% | ~169 |
 | Giving Back | 3.00% | ~489 |
 | The Commonality | 3.00% | ~489 |
 | In Striking Distance | 2.00% | ~326 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,285 (Ranked 135)  
+Progressed: 16,287 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 77 (0.47%) (Ranked 189)
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
-| 2023-10-26 | 16,285 | 77 |
+| 2023-10-26 | 16,287 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 382)  
 Sum: 455 (Ranked 324)  

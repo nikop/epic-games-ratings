@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 651,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -7787,10 +7787,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 6995,
       "NumberOfAwardsMax": 901
+    },
+    {
+      "Time": "2023-10-26T19:59:34.8268164+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 7002,
+      "NumberOfAwardsMax": 901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6995,
+  "NumberOfAwards": 7002,
   "NumberOfAwardsMax": 901,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7798,7 +7804,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 858
+      "Count": 863
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7822,7 +7828,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 858
+      "Count": 860
     },
     {
       "Text": "This game is Relaxing",
@@ -7860,8 +7866,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-10-26T15:59:59.0157273+00:00",
+  "LastChanged": "2023-10-26T19:59:34.8268163+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:00.8210415+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:59:05.3603382+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:07:11.9261277+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:59:34.826817+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:08:43.9733077+00:00"
 }

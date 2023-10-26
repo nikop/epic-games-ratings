@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.40% | ~2,864 |
 | State of constant learning | 0.40% | ~2,864 |
 | Qi Gong: Breath | 0.40% | ~2,864 |
+| Qi Gong: Essence | 0.40% | ~2,864 |
 | Lightning Hands | 0.40% | ~2,864 |
 | Path of the Prospect | 0.40% | ~2,864 |
 | Rumble in the Hangar | 0.40% | ~2,864 |
@@ -26,18 +27,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.30% | ~2,148 |
 | Stuntmaster | 0.30% | ~2,148 |
 | Street Fighting | 0.30% | ~2,148 |
-| Qi Gong: Essence | 0.30% | ~2,148 |
 | Old Child | 0.30% | ~2,148 |
 | Kung-Fu Tussle | 0.30% | ~2,148 |
 | Take damage to save time | 0.30% | ~2,148 |
 | Muk Yan Master | 0.20% | ~1,432 |
+| Tiger on Fire | 0.20% | ~1,432 |
 | Detective Story | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
 | Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
 | Bloody Sport | 0.20% | ~51 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
-| Tiger on Fire | 0.10% | ~716 |
 | Source of Flying Daggers | 0.10% | ~716 |
 | Iron Money | 0.10% | ~716 |
 | Legendary Talismans of Wuxing | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,961 (Ranked 20)  
+Progressed: 715,964 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 12,925 (1.81%) (Ranked 122)
 | 2023-10-23 | 715,887 | 12,925 |
 | 2023-10-24 | 715,911 | 12,925 |
 | 2023-10-25 | 715,943 | 12,925 |
-| 2023-10-26 | 715,961 | 12,925 |
+| 2023-10-26 | 715,964 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,733  (Ranked 53)  
-Sum: 11,708 (Ranked 82)  
+Sum: 11,709 (Ranked 82)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 560 |
 | This game is Highly Recommended | 556 |
 | This game has Unique Visuals | 531 |
-| This game has a Creative Community | 406 |
+| This game has a Creative Community | 407 |
 | This game is Relaxing | 401 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
@@ -560,3 +560,4 @@ Diff (max vs sum): -29
 | 2023-10-23 | 4.82 | - | 6,724 | 11,689 |
 | 2023-10-24 | 4.82 | - | 6,731 | 11,701 |
 | 2023-10-25 | 4.82 | - | 6,733 | 11,708 |
+| 2023-10-26 | 4.82 | - | 6,733 | 11,709 |

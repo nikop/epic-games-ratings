@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3190,
+  "EOS_Progressed": 3191,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2664,
+  "EOS_NewPlayers": 2658,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-10-26T19:03:46.6315915+00:00",
       "NumProgressed": 3190,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-26T20:04:08.010277+00:00",
+      "NumProgressed": 3191,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -1119,7 +1124,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1151,7 +1156,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1173,9 +1178,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7opfcp",
       "Name": "Lover In Dark Alley",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 606
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -1189,9 +1194,9 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "7opfcp",
       "Name": "Go Get Some Fries On The Pier",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 734
+      "UsersEstimate": 766
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -1215,7 +1220,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1263,7 +1268,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -1271,23 +1276,23 @@
       "Name": "Still Single",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "7opfcp",
       "Name": "Counting Sheep?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 191
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "7opfcp",
       "Name": "The Flash",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 223
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1303,15 +1308,15 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "7opfcp",
       "Name": "New Yoga Pose Unlocked",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 255
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -1335,7 +1340,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1423,15 +1428,15 @@
       "Name": "Worthless Speech",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7opfcp",
       "Name": "Drama King",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1117
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -1454,7 +1459,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 3190,
+      "Progressed": 3191,
       "Completed": 19
     }
   ],
@@ -1462,8 +1467,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-10-26T05:58:04.2840035+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:03:46.6315911+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:04:08.0102763+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:21.0259668+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:58:15.9873985+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:03:46.6316237+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:58:33.2060015+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:04:08.0103218+00:00"
 }

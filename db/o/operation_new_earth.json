@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1023,
+  "Ranking_Rating": 1024,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1683,
+  "EOS_Progressed": 1684,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6264,6 +6264,11 @@
       "Time": "2023-10-26T16:06:11.4600335+00:00",
       "NumProgressed": 1683,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T20:05:24.9414127+00:00",
+      "NumProgressed": 1684,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6379,7 +6384,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6387,7 +6392,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6451,7 +6456,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6571,14 +6576,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1683,
+      "Progressed": 1684,
       "Completed": 1
     }
   ],
@@ -6586,8 +6591,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:04:53.5173562+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:05:24.9414119+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:59:59.6608554+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:04:53.5174136+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:00:42.003418+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:05:24.9415334+00:00"
 }

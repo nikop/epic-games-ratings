@@ -4,8 +4,8 @@
   "ProductSlug": "fortune-follow-the-mansion-bad0b2",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-20T04:00:00+00:00",
     "PcReleaseDate": "2023-04-20T04:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-21T21:58:20.9920053+00:00",
   "LastChanged": "2023-04-21T21:58:20.9920054+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.9154403+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:58:34.4350543+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:06:40.7228629+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:58:56.1696674+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:07:28.1222688+00:00"
 }

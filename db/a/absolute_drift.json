@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1547093,
+  "EOS_Progressed": 1547099,
   "EOS_Completed": 711,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1217,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -21927,6 +21927,11 @@
       "Time": "2023-10-26T19:07:17.5272353+00:00",
       "NumProgressed": 1547093,
       "NumCompleted": 711
+    },
+    {
+      "Time": "2023-10-26T20:08:50.6065738+00:00",
+      "NumProgressed": 1547099,
+      "NumCompleted": 711
     }
   ],
   "TotalAchievements": 20,
@@ -21986,7 +21991,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139238
+      "UsersEstimate": 139239
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -22034,7 +22039,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154709
+      "UsersEstimate": 154710
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -22050,7 +22055,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139238
+      "UsersEstimate": 139239
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -22097,15 +22102,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1547093,
+      "Progressed": 1547099,
       "Completed": 711
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:07:17.5272349+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:08:50.6065731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:30.6444374+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:58:34.7445892+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:07:17.5273428+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:58:56.5408379+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:08:50.6067668+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1937,
+  "EOS_Progressed": 1938,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-10-26T17:04:16.9683791+00:00",
       "NumProgressed": 1937,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T20:04:36.9205961+00:00",
+      "NumProgressed": 1938,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2503,7 +2508,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2607,7 +2612,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2703,7 +2708,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2719,7 +2724,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2751,7 +2756,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2823,7 +2828,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2839,7 +2844,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2878,15 +2883,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1937,
+      "Progressed": 1938,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:04:11.5912758+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:04:36.9205955+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:57:48.4827665+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:04:11.5913218+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:58:01.3723245+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:04:36.9206503+00:00"
 }

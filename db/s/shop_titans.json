@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6703,9 +6703,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138173,
+  "EOS_Progressed": 138175,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26073,6 +26073,11 @@
       "Time": "2023-10-26T19:04:24.3767025+00:00",
       "NumProgressed": 138173,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T20:04:51.5678729+00:00",
+      "NumProgressed": 138175,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26164,7 +26169,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "bigsale02",
@@ -26188,7 +26193,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "blueprint02",
@@ -26226,9 +26231,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "boss03",
@@ -26348,7 +26353,7 @@
       "Name": "Disintermediation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "craft02",
@@ -26436,7 +26441,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "energy02",
@@ -26460,7 +26465,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "expansion02",
@@ -26564,7 +26569,7 @@
       "Name": "Pretty Penny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "gold03",
@@ -26636,7 +26641,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "jackslot02",
@@ -26668,7 +26673,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "level02",
@@ -26740,7 +26745,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "master02",
@@ -26860,7 +26865,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "sell02",
@@ -26948,7 +26953,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "workers02",
@@ -26979,15 +26984,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138173,
+      "Progressed": 138175,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T10:58:28.3186533+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:04:24.3767021+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:04:51.5678726+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:58:02.6831741+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:04:24.376912+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:58:17.6133546+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:04:51.568209+00:00"
 }

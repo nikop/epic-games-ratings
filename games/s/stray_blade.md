@@ -11,8 +11,8 @@
 | A new World ahead | 31.00% | ~31 |
 | Can't touch this | 27.00% | ~27 |
 | Don't Cry Wolf | 25.00% | ~25 |
+| Expert | 19.00% | ~19 |
 | Freezing Cold | 18.00% | ~18 |
-| Expert | 18.00% | ~18 |
 | Searing Heat | 15.00% | ~15 |
 | Nothing but the Truth | 15.00% | ~15 |
 | The Power of the Mountains | 13.00% | ~13 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7159,10 +7159,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11708,
       "NumberOfAwardsMax": 6733
+    },
+    {
+      "Time": "2023-10-26T19:57:57.3826446+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11709,
+      "NumberOfAwardsMax": 6733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11708,
+  "NumberOfAwards": 11709,
   "NumberOfAwardsMax": 6733,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7236,12 +7242,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 406
+      "Count": 407
     }
   ],
-  "EOS_Progressed": 715961,
+  "EOS_Progressed": 715964,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23954,6 +23960,11 @@
       "Time": "2023-10-26T18:09:16.078988+00:00",
       "NumProgressed": 715961,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-26T20:03:44.216253+00:00",
+      "NumProgressed": 715964,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -24019,9 +24030,9 @@
       "ID": "08_Wude_H2",
       "SetID": "adcm20g",
       "Name": "Tiger on Fire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 716
+      "UsersEstimate": 1432
     },
     {
       "ID": "09_Wude_H3",
@@ -24171,9 +24182,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2864
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -24444,21 +24455,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25262,
+      "Progressed": 25265,
       "Completed": 10719
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715961,
+      "Progressed": 715964,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-25T17:57:24.1641959+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:09:16.0789871+00:00",
+  "LastChanged": "2023-10-26T19:57:57.3826445+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:03:44.2162525+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:57:45.0350505+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:09:16.0791448+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:57:57.3826451+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:03:44.2165953+00:00"
 }

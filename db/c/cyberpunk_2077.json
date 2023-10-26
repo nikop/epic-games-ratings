@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14124,10 +14124,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 327446,
       "NumberOfAwardsMax": 101755
+    },
+    {
+      "Time": "2023-10-26T20:01:23.4797201+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 327545,
+      "NumberOfAwardsMax": 101755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 327446,
+  "NumberOfAwards": 327545,
   "NumberOfAwardsMax": 101755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14201,12 +14207,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11556
+      "Count": 11655
     }
   ],
-  "EOS_Progressed": 893926,
+  "EOS_Progressed": 893931,
   "EOS_Completed": 2714,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1212,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35664,6 +35670,11 @@
       "Time": "2023-10-26T19:07:08.1509993+00:00",
       "NumProgressed": 893926,
       "NumCompleted": 2714
+    },
+    {
+      "Time": "2023-10-26T20:08:39.8791661+00:00",
+      "NumProgressed": 893931,
+      "NumCompleted": 2714
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35882,9 +35893,9 @@
       "ID": "TheDevil",
       "SetID": "47clieb",
       "Name": "The Devil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 1788
     },
     {
       "ID": "TheFool",
@@ -35906,9 +35917,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 5364
     },
     {
       "ID": "TheLovers",
@@ -36002,9 +36013,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8045
+      "UsersEstimate": 8939
     },
     {
       "ID": "YipMan",
@@ -36114,9 +36125,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 45
     },
     {
       "ID": "UltimateSurvivor",
@@ -36178,9 +36189,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 68
     },
     {
       "ID": "TheTower",
@@ -36195,21 +36206,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893926,
+      "Progressed": 893931,
       "Completed": 2714
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22549,
+      "Progressed": 22554,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-26T16:02:34.6509511+00:00",
-  "LastChanged_Achievements": "2023-10-26T19:07:08.1509985+00:00",
+  "LastChanged": "2023-10-26T20:01:23.4797199+00:00",
+  "LastChanged_Achievements": "2023-10-26T20:08:39.8791654+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:00:32.0157573+00:00",
-  "LastUpdate_Achievements": "2023-10-26T19:07:08.1511393+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:01:23.4797206+00:00",
+  "LastUpdate_Achievements": "2023-10-26T20:08:39.8793597+00:00"
 }
