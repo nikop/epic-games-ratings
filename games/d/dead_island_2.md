@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 517)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,213 |
-| Welcome To Hell-A | 5.00% | ~35,213 |
-| Git Gutte! | 4.00% | ~28,170 |
-| Break A Leg | 4.00% | ~28,170 |
-| Coup de Grâce | 4.00% | ~28,170 |
-| Hazardous Materials | 4.00% | ~28,170 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,170 |
+| Hotel California | 5.00% | ~35,214 |
+| Welcome To Hell-A | 5.00% | ~35,214 |
+| Git Gutte! | 4.00% | ~28,171 |
+| Break A Leg | 4.00% | ~28,171 |
+| Coup de Grâce | 4.00% | ~28,171 |
+| Hazardous Materials | 4.00% | ~28,171 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,171 |
 | Dr. Reed, I Presume? | 3.00% | ~21,128 |
 | Bookworm | 3.00% | ~21,128 |
 | But Doctor, I am Butcho | 3.00% | ~21,128 |
@@ -24,22 +24,22 @@ Rating: 4.54 (Ranked 517)
 | A Patton Emerges | 3.00% | ~21,128 |
 | Stacking the Deck | 3.00% | ~21,128 |
 | This is My Weapon | 3.00% | ~21,128 |
-| Making Your Mark | 2.00% | ~14,085 |
-| Anger Management | 2.00% | ~14,085 |
-| Perks of the Job | 2.00% | ~14,085 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,085 |
-| Ooh, Shiny! | 2.00% | ~14,085 |
-| Humanity Distilled | 2.00% | ~14,085 |
-| I Am the Resurrection | 2.00% | ~14,085 |
-| Down with the Sickness | 2.00% | ~14,085 |
-| Our True Nature | 2.00% | ~14,085 |
+| Making Your Mark | 2.00% | ~14,086 |
+| Anger Management | 2.00% | ~14,086 |
+| Perks of the Job | 2.00% | ~14,086 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,086 |
+| Ooh, Shiny! | 2.00% | ~14,086 |
+| Humanity Distilled | 2.00% | ~14,086 |
+| I Am the Resurrection | 2.00% | ~14,086 |
+| Down with the Sickness | 2.00% | ~14,086 |
+| Our True Nature | 2.00% | ~14,086 |
 | Smorgasbord | 1.00% | ~7,043 |
 | Jumbo Keyring | 1.00% | ~7,043 |
 | Max Headroom | 1.00% | ~7,043 |
 | Go, Bobcats! | 1.00% | ~7,043 |
 | Rising Star | 1.00% | ~7,043 |
-| Not Even My Final Form | 0.90% | ~6,338 |
-| Internet Famous | 0.90% | ~6,338 |
+| Not Even My Final Form | 0.90% | ~6,339 |
+| Internet Famous | 0.90% | ~6,339 |
 | On Safari | 0.80% | ~5,634 |
 | Variety is the Spice of Death | 0.80% | ~5,634 |
 | Make it So | 0.70% | ~4,930 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 517)
 | Donk! | 0.20% | ~1,409 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,254 (Ranked 22)  
+Progressed: 704,279 (Ranked 22)  
 Completed: 2,263 (0.32%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,14 +240,14 @@ Completed: 2,263 (0.32%) (Ranked 208)
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
-| 2023-10-26 | 704,254 | 2,263 |
+| 2023-10-26 | 704,279 | 2,263 |
 ## Awards
-Max (Great Boss Battles): 6,625  (Ranked 57)  
-Sum: 9,958 (Ranked 91)  
+Max (Great Boss Battles): 6,651  (Ranked 57)  
+Sum: 9,984 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,625 |
+| This game has Great Boss Battles | 6,651 |
 | This game is Great for Beginners | 477 |
 | This game has Diverse Characters | 470 |
 | This game has Quickly Understood Controls | 440 |
@@ -447,4 +447,4 @@ Diff (max vs sum): -34
 | 2023-10-23 | 4.54 | 6,571 | 9,870 |
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
 | 2023-10-25 | 4.54 | 6,625 | 9,955 |
-| 2023-10-26 | 4.54 | 6,625 | 9,958 |
+| 2023-10-26 | 4.54 | 6,651 | 9,984 |

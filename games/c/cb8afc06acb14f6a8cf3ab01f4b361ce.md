@@ -5,26 +5,26 @@ Rating: 4.18 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~110,403 |
-| May the Torchbearer light our way | 36.00% | ~104,592 |
-| A powerful aura was here | 23.00% | ~66,823 |
-| Let's raise the stakes!! | 10.00% | ~29,053 |
-| Rumors are true | 6.00% | ~17,432 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,432 |
-| Pride is a sin, young Knight | 5.00% | ~14,527 |
-| Bring it on! | 5.00% | ~14,527 |
-| We'll be careful | 4.00% | ~11,621 |
-| Back to your senses | 3.00% | ~8,716 |
+| The touch of Chaos | 38.00% | ~110,415 |
+| May the Torchbearer light our way | 36.00% | ~104,604 |
+| A powerful aura was here | 23.00% | ~66,830 |
+| Let's raise the stakes!! | 10.00% | ~29,057 |
+| Rumors are true | 6.00% | ~17,434 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,434 |
+| Pride is a sin, young Knight | 5.00% | ~14,528 |
+| Bring it on! | 5.00% | ~14,528 |
+| We'll be careful | 4.00% | ~11,623 |
+| Back to your senses | 3.00% | ~8,717 |
 | They tricked me | 2.00% | ~5,811 |
 | We need to talk | 2.00% | ~5,811 |
 | I feel drawn to it | 2.00% | ~5,811 |
 | They won't last long | 2.00% | ~5,811 |
 | I took a risk | 2.00% | ~5,811 |
-| Here to stay | 1.00% | ~2,905 |
-| Counting on you | 1.00% | ~2,905 |
-| This is the end | 1.00% | ~2,905 |
-| We can choose to fight | 1.00% | ~2,905 |
-| Their fate is sealed | 1.00% | ~2,905 |
+| Here to stay | 1.00% | ~2,906 |
+| Counting on you | 1.00% | ~2,906 |
+| This is the end | 1.00% | ~2,906 |
+| We can choose to fight | 1.00% | ~2,906 |
+| Their fate is sealed | 1.00% | ~2,906 |
 | Not even from this world | 0.70% | ~2,034 |
 | You want more? I've got more! | 0.50% | ~1,453 |
 | No damsels in distress | 0.30% | ~872 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 909)
 | We strike as one | 0.10% | ~291 |
 | Chaos be damned! | 0.10% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,533 (Ranked 50)  
+Progressed: 290,567 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-23 | 287,922 | 1 |
 | 2023-10-24 | 289,112 | 1 |
 | 2023-10-25 | 290,188 | 1 |
-| 2023-10-26 | 290,533 | 1 |
+| 2023-10-26 | 290,567 | 1 |
 ## Awards
 Max (Great Boss Battles): 43  (Ranked 439)  
 Sum: 43 (Ranked 479)  

@@ -51,10 +51,10 @@ Number of Ratings: 53  (23.09.2022)
 | Fill it up, please! | 2.00% | ~20 |
 | Administrator | 1.00% | ~10 |
 | Raiders of the Lost Ark | 0.90% | ~9 |
+| Parlay? | 0.90% | ~9 |
 | Capitalist | 0.80% | ~8 |
 | Fleet Admiral | 0.80% | ~8 |
 | Traffic chaos | 0.80% | ~8 |
-| Parlay? | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 981 (Ranked 243)  

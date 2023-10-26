@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,839 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,840 |
 | First Class Student | 14.00% | ~41,850 |
-| Troll with the Punches | 13.00% | ~38,860 |
-| A Keen Sense of Spell | 12.00% | ~35,871 |
-| That's a Keeper | 12.00% | ~35,871 |
+| Troll with the Punches | 13.00% | ~38,861 |
+| A Keen Sense of Spell | 12.00% | ~35,872 |
+| That's a Keeper | 12.00% | ~35,872 |
 | Grappling with a Graphorn | 11.00% | ~32,882 |
 | The One Who Mastered Memories | 11.00% | ~32,882 |
 | The Hallowed Hero | 11.00% | ~32,882 |
@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 119)
 | The Hero of Hogwarts | 10.00% | ~29,893 |
 | Challenge Accepted | 10.00% | ~29,893 |
 | Followed the Butterflies | 10.00% | ~29,893 |
-| The Spell Master | 9.00% | ~26,903 |
-| Rising From the Ashes | 9.00% | ~26,903 |
+| The Spell Master | 9.00% | ~26,904 |
+| Rising From the Ashes | 9.00% | ~26,904 |
 | The Avenging Gazelle | 8.00% | ~23,914 |
 | Beast Friends | 8.00% | ~23,914 |
 | A Sallow Grave | 8.00% | ~23,914 |
@@ -48,10 +48,10 @@ Rating: 4.76 (Ranked 119)
 | Merlin's Beard! | 1.00% | ~2,989 |
 | Demiguise Dread | 1.00% | ~2,989 |
 | Spilled Milk | 0.90% | ~2,690 |
-| The Nature of the Beast | 0.70% | ~2,092 |
+| The Nature of the Beast | 0.70% | ~2,093 |
 | Collector's Edition | 0.30% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,926 (Ranked 48)  
+Progressed: 298,930 (Ranked 48)  
 Completed: 494 (0.17%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 494 (0.17%) (Ranked 239)
 | 2023-10-23 | 298,741 | 491 |
 | 2023-10-24 | 298,780 | 492 |
 | 2023-10-25 | 298,885 | 493 |
-| 2023-10-26 | 298,926 | 494 |
+| 2023-10-26 | 298,930 | 494 |
 ## Awards
 Max (Character Customization): 23,781  (Ranked 17)  
 Sum: 46,651 (Ranked 30)  

@@ -6,19 +6,19 @@
 | ---- | ---------- | ----- |
 | Leap Before You Look | 71.00% | ~559 |
 | Getting the Hang of It | 42.00% | ~331 |
-| Hoarder | 29.00% | ~228 |
+| Hoarder | 29.00% | ~229 |
 | Pest Control | 26.00% | ~205 |
-| Blobmeister | 25.00% | ~197 |
+| Blobmeister | 24.00% | ~189 |
 | Exhaustive Explorer | 24.00% | ~189 |
 | How Low Can We Go? | 22.00% | ~173 |
 | Team Builder | 17.00% | ~134 |
 | Long Live Rock | 14.00% | ~110 |
-| Aggressive Antivirus | 12.00% | ~94 |
-| Effective Efficiency | 12.00% | ~94 |
+| Aggressive Antivirus | 12.00% | ~95 |
+| Effective Efficiency | 12.00% | ~95 |
 | Unblurred Lines | 9.00% | ~71 |
 | Obsessively Thorough | 9.00% | ~71 |
 | Endlessly Effective | 9.00% | ~71 |
-| What's Behind Every Door? | 4.00% | ~31 |
+| What's Behind Every Door? | 4.00% | ~32 |
 | No Stone Unturned | 3.00% | ~24 |
 | Turret Syndrome | 1.00% | ~8 |
 | Endless Biographer | 0.40% | ~3 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 256)  
+Progressed: 788 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 655 | 0 |
 | 2023-10-24 | 722 | 0 |
 | 2023-10-25 | 771 | 0 |
-| 2023-10-26 | 787 | 0 |
+| 2023-10-26 | 788 | 0 |

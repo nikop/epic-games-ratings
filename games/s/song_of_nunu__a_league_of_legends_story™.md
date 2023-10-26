@@ -15,24 +15,24 @@
 | Krugmazing | 65.00% | ~15 |
 | Never Gets Old | 65.00% | ~15 |
 | The Fire Below the Mountain | 65.00% | ~15 |
+| On The Rocks | 61.00% | ~14 |
+| No Bites | 57.00% | ~13 |
 | Iceborn | 57.00% | ~13 |
-| On The Rocks | 57.00% | ~13 |
 | Vertical Power | 57.00% | ~13 |
-| No Bites | 52.00% | ~12 |
 | Boom Things | 52.00% | ~12 |
 | Rhythm Of Willump | 52.00% | ~12 |
 | Snowball Fightn't | 52.00% | ~12 |
+| My Darkest Day | 48.00% | ~11 |
 | Tear of Freedom | 48.00% | ~11 |
 | Moneyball | 48.00% | ~11 |
-| My Darkest Day | 43.00% | ~10 |
+| The Finisher | 48.00% | ~11 |
 | 3000 Year Blackout | 43.00% | ~10 |
 | Snowy Poro | 43.00% | ~10 |
+| Bullseye | 43.00% | ~10 |
 | The Pied Piper Of Freljord | 43.00% | ~10 |
-| The Finisher | 43.00% | ~10 |
 | A Tragic Reminder | 39.00% | ~9 |
 | Family | 39.00% | ~9 |
 | Biggest Snowball Ever | 39.00% | ~9 |
-| Bullseye | 39.00% | ~9 |
 | Yummy | 39.00% | ~9 |
 | The Relentless Storm | 39.00% | ~9 |
 | Boosted! | 39.00% | ~9 |

@@ -2,12 +2,12 @@
   "ID": "fc3ec7982b584a4291d7943204ea424b",
   "Name": "Assassin\u0027s Creed Chronicles: India",
   "ProductSlug": "assassins-creed-chronicles-india",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:27.3356524+00:00",
@@ -51,6 +51,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-26T10:02:00.4779287+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -69,8 +75,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T16:31:05.5018746+00:00",
   "FirstSeenRating": "2023-03-31T05:57:27.3356521+00:00",
-  "LastChanged": "2023-10-22T08:58:22.9945221+00:00",
+  "LastChanged": "2023-10-26T10:02:00.4779284+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6224009+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:02:48.2602122+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:07:36.1501585+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:02:00.4779293+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:06:29.8000549+00:00"
 }

@@ -2747,9 +2747,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 657121,
+  "EOS_Progressed": 657125,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1824,
+  "EOS_NewPlayers": 1823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24162,6 +24162,11 @@
       "Time": "2023-10-26T09:11:37.3856214+00:00",
       "NumProgressed": 657121,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-26T10:10:42.1075458+00:00",
+      "NumProgressed": 657125,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24173,7 +24178,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98568
+      "UsersEstimate": 98569
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -24429,7 +24434,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39427
+      "UsersEstimate": 39428
     },
     {
       "ID": "_03_02_NANUK",
@@ -24493,7 +24498,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 105139
+      "UsersEstimate": 105140
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -24588,15 +24593,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 657121,
+      "Progressed": 657125,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-25T02:13:48.4243782+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:11:37.385621+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:10:42.1075448+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:19.1590554+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:59:35.0262413+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:11:37.3858318+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:58:58.446665+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:10:42.1078571+00:00"
 }

@@ -8127,9 +8127,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806033,
+  "EOS_Progressed": 806038,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29252,6 +29252,11 @@
       "Time": "2023-10-26T09:06:59.1869565+00:00",
       "NumProgressed": 806033,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-26T10:05:52.7657524+00:00",
+      "NumProgressed": 806038,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29287,7 +29292,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128965
+      "UsersEstimate": 128966
     },
     {
       "ID": "Awakening",
@@ -29295,7 +29300,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169267
+      "UsersEstimate": 169268
     },
     {
       "ID": "BadGirl",
@@ -29335,7 +29340,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32241
+      "UsersEstimate": 32242
     },
     {
       "ID": "BlacksmithsSon",
@@ -29343,7 +29348,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257931
+      "UsersEstimate": 257932
     },
     {
       "ID": "Bookworm",
@@ -29351,7 +29356,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120905
+      "UsersEstimate": 120906
     },
     {
       "ID": "Buddy",
@@ -29359,7 +29364,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96724
+      "UsersEstimate": 96725
     },
     {
       "ID": "Casanova",
@@ -29375,7 +29380,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201508
+      "UsersEstimate": 201510
     },
     {
       "ID": "Chivalrous",
@@ -29423,7 +29428,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80603
+      "UsersEstimate": 80604
     },
     {
       "ID": "DavidHorak",
@@ -29463,7 +29468,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185388
+      "UsersEstimate": 185389
     },
     {
       "ID": "Fighter",
@@ -29479,7 +29484,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120905
+      "UsersEstimate": 120906
     },
     {
       "ID": "Freud",
@@ -29559,7 +29564,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32241
+      "UsersEstimate": 32242
     },
     {
       "ID": "ICanStop",
@@ -29583,7 +29588,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104784
+      "UsersEstimate": 104785
     },
     {
       "ID": "Judas",
@@ -29663,7 +29668,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56422
+      "UsersEstimate": 56423
     },
     {
       "ID": "MercenarysHonor",
@@ -29735,7 +29740,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32241
+      "UsersEstimate": 32242
     },
     {
       "ID": "Ranger",
@@ -29743,7 +29748,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161207
+      "UsersEstimate": 161208
     },
     {
       "ID": "RevenantOfLedechko",
@@ -29767,7 +29772,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56422
+      "UsersEstimate": 56423
     },
     {
       "ID": "Saviour",
@@ -29783,7 +29788,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161207
+      "UsersEstimate": 161208
     },
     {
       "ID": "SerialKiller",
@@ -29839,7 +29844,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96724
+      "UsersEstimate": 96725
     },
     {
       "ID": "TisButAScratch",
@@ -29918,15 +29923,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806033,
+      "Progressed": 806038,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-25T23:03:14.9854739+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:06:59.1869561+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:05:52.7657516+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:05:41.3258833+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:06:59.1872234+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:04:37.5351765+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:05:52.7659865+00:00"
 }

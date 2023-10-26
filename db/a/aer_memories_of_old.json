@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 125,
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22788,
+  "EOS_Progressed": 22790,
   "EOS_Completed": 442,
   "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 1,
@@ -20698,6 +20698,11 @@
       "Time": "2023-10-26T09:11:22.371073+00:00",
       "NumProgressed": 22788,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-26T10:10:27.4414226+00:00",
+      "NumProgressed": 22790,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20717,7 +20722,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "EAST_FINISHED",
@@ -20725,7 +20730,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20805,7 +20810,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -20829,7 +20834,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17547
+      "UsersEstimate": 17548
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20845,7 +20850,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2962
+      "UsersEstimate": 2963
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -20868,15 +20873,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22788,
+      "Progressed": 22790,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:11:22.3710726+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:10:27.4414217+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:05:52.020276+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:11:22.3712337+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:04:46.6313916+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:10:27.4416692+00:00"
 }

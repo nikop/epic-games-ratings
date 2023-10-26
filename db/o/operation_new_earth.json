@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1678,
+  "EOS_Progressed": 1679,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6244,6 +6244,11 @@
       "Time": "2023-10-25T23:04:47.5485242+00:00",
       "NumProgressed": 1678,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T10:06:59.8733462+00:00",
+      "NumProgressed": 1679,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6263,7 +6268,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6285,9 +6290,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -6359,7 +6364,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6558,7 +6563,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1678,
+      "Progressed": 1679,
       "Completed": 1
     }
   ],
@@ -6566,8 +6571,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:08:06.4954851+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:06:59.8733453+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:03:08.1098643+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:08:06.4955651+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:02:17.4783404+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:06:59.8734199+00:00"
 }

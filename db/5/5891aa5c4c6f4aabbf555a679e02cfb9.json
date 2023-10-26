@@ -615,9 +615,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "b36c5kb",
       "Name": "DIY",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -671,9 +671,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "b36c5kb",
       "Name": "Good to See You Again",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -830,8 +830,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:11:11.5300265+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:10:16.5482415+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.7670722+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:02:25.753169+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:11:11.5300868+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:01:42.924313+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:10:16.5483154+00:00"
 }

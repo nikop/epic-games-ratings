@@ -1,16 +1,16 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 681)  
+Rating: 4.43 (Ranked 682)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,382 |
+| First Blood | 92.00% | ~1,383 |
 | Ranidaphobia | 77.00% | ~1,157 |
-| Aspiring Editor | 74.00% | ~1,111 |
-| Gun for Hire | 69.00% | ~1,036 |
-| I am the law! | 64.00% | ~961 |
-| Lumberjack | 53.00% | ~796 |
+| Aspiring Editor | 74.00% | ~1,112 |
+| Gun for Hire | 69.00% | ~1,037 |
+| I am the law! | 63.00% | ~947 |
+| Lumberjack | 53.00% | ~797 |
 | Croaked | 49.00% | ~736 |
 | Limp Richard | 48.00% | ~721 |
 | Exorcist | 48.00% | ~721 |
@@ -32,11 +32,11 @@ Rating: 4.43 (Ranked 681)
 | Endgame | 27.00% | ~406 |
 | Savior | 27.00% | ~406 |
 | There Can Be Only One! | 26.00% | ~391 |
-| Silent but Violent | 23.00% | ~345 |
-| Chain Killer | 22.00% | ~330 |
-| The Watchers | 22.00% | ~330 |
-| Commando | 17.00% | ~255 |
-| Dr Jones | 17.00% | ~255 |
+| Silent but Violent | 23.00% | ~346 |
+| Chain Killer | 22.00% | ~331 |
+| The Watchers | 22.00% | ~331 |
+| Commando | 17.00% | ~256 |
+| Dr Jones | 17.00% | ~256 |
 | Chaos Theory | 16.00% | ~240 |
 | Newtonian Knockout | 16.00% | ~240 |
 | Ruthless | 14.00% | ~210 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 681)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,502 (Ranked 226)  
+Progressed: 1,503 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
-| 2023-10-26 | 1,502 | 0 |
+| 2023-10-26 | 1,503 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

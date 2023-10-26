@@ -6,7 +6,7 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 89,
-  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83727,
+  "EOS_Progressed": 83728,
   "EOS_Completed": 256,
-  "EOS_NewPlayers": 1115,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1111,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -8633,6 +8633,11 @@
       "Time": "2023-10-26T09:12:32.4202224+00:00",
       "NumProgressed": 83727,
       "NumCompleted": 256
+    },
+    {
+      "Time": "2023-10-26T10:11:37.4118409+00:00",
+      "NumProgressed": 83728,
+      "NumCompleted": 256
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -8653,7 +8658,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "grp_collect_ruby",
@@ -8661,7 +8666,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 64470
+      "UsersEstimate": 64471
     },
     {
       "ID": "grp_endless",
@@ -8669,7 +8674,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29304
+      "UsersEstimate": 29305
     },
     {
       "ID": "grp_finallevel",
@@ -8733,7 +8738,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 44375
+      "UsersEstimate": 44376
     },
     {
       "ID": "grp_money_tree",
@@ -8741,7 +8746,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 61958
+      "UsersEstimate": 61959
     },
     {
       "ID": "grp_speed",
@@ -8773,14 +8778,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 83727,
+      "Progressed": 83728,
       "Completed": 256
     }
   ],
@@ -8788,8 +8793,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-10-17T16:59:34.2289044+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:12:32.4202218+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:11:37.4118402+00:00",
   "LastUpdate_AppInfo": "2023-10-19T13:03:08.5930862+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:00:24.5318364+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:12:32.4203004+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:59:47.9117102+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:11:37.4119089+00:00"
 }

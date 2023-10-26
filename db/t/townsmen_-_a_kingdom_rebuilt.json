@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4311,
+  "EOS_Progressed": 4312,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1374,6 +1374,11 @@
       "Time": "2023-10-14T20:05:55.7643969+00:00",
       "NumProgressed": 4311,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-26T10:11:41.2905891+00:00",
+      "NumProgressed": 4312,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1737,7 +1742,7 @@
       "Name": "Eureka!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2007,9 +2012,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WEDDING",
       "SetID": "9eacipp",
       "Name": "I\u0027ve been everywhere VI",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
@@ -2192,15 +2197,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4311,
+      "Progressed": 4312,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:12:36.1306552+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:11:41.2905862+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.9129884+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:03:59.7323394+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:12:36.1308192+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:02:54.9187337+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:11:41.2908246+00:00"
 }

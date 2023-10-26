@@ -6697,9 +6697,9 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138145,
+  "EOS_Progressed": 138147,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26017,6 +26017,11 @@
       "Time": "2023-10-26T09:07:27.0556558+00:00",
       "NumProgressed": 138145,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T10:06:20.3800938+00:00",
+      "NumProgressed": 138147,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26394,9 +26399,9 @@
       "ID": "energy03",
       "SetID": "anfd17p",
       "Name": "Supercharged",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 967
     },
     {
       "ID": "expansion01",
@@ -26626,9 +26631,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 967
     },
     {
       "ID": "level04",
@@ -26923,15 +26928,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138145,
+      "Progressed": 138147,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-25T21:58:12.2379984+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:07:27.0556553+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:06:20.3800929+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:59:00.385804+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:07:27.0560134+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:58:23.5613661+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:06:20.3804716+00:00"
 }

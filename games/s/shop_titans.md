@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.70% | ~967 |
 | Master of Transmutation | 0.70% | ~967 |
 | Hidden Potential | 0.70% | ~967 |
+| Supercharged | 0.70% | ~967 |
 | Expansion in Session | 0.70% | ~967 |
 | Cranked up to 11 | 0.70% | ~967 |
 | Fit for a King | 0.70% | ~967 |
@@ -69,6 +70,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.70% | ~967 |
 | Fat Cat Tag Team | 0.70% | ~967 |
 | Necromancer Queen | 0.70% | ~967 |
+| Master Merchant | 0.70% | ~967 |
 | Miracle Alchemist | 0.70% | ~967 |
 | Laden with Loot | 0.70% | ~967 |
 | Scourge of the Seas | 0.70% | ~967 |
@@ -86,12 +88,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.60% | ~829 |
 | Industrial Evolution | 0.60% | ~829 |
 | Omae wa Mou Shindeiru | 0.60% | ~829 |
-| Supercharged | 0.60% | ~829 |
 | Ritualist | 0.60% | ~829 |
 | By Your Powers Combined... | 0.60% | ~829 |
 | A Legend is Born | 0.60% | ~829 |
 | Item of Renown | 0.60% | ~829 |
-| Master Merchant | 0.60% | ~829 |
 | Bountiful Harvest | 0.60% | ~829 |
 | Precision Engineering | 0.60% | ~829 |
 | Glittering Collection | 0.60% | ~829 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,145 (Ranked 75)  
+Progressed: 138,147 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,145 | 172 |
+| 2023-10-26 | 138,147 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,446 (Ranked 51)  

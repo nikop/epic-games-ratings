@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2745,7 +2745,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27722,
+  "EOS_Progressed": 27724,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 1105,
   "EOS_NewCompleters": 6,
@@ -16450,6 +16450,11 @@
       "Time": "2023-10-26T08:09:28.6135509+00:00",
       "NumProgressed": 27722,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-26T10:09:51.1106416+00:00",
+      "NumProgressed": 27724,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16517,7 +16522,7 @@
       "Name": "Collector",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Cultured",
@@ -16581,7 +16586,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Fragile_Panes",
@@ -16829,7 +16834,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Ultimate_Defense",
@@ -16868,7 +16873,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27722,
+      "Progressed": 27724,
       "Completed": 65
     }
   ],
@@ -16876,8 +16881,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-26T01:39:46.1746299+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:10:56.3629792+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:09:51.1106404+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:00:53.1443023+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:10:56.3631345+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:00:17.588062+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:09:51.1108019+00:00"
 }

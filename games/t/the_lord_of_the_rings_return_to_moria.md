@@ -1,22 +1,22 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 681)  
+Rating: 4.43 (Ranked 682)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 66.00% | ~65,042 |
-| Suit Up | 40.00% | ~39,420 |
-| Delving Onward | 40.00% | ~39,420 |
-| Miner's Helper | 36.00% | ~35,478 |
-| To the Mountain's Roots | 8.00% | ~7,884 |
-| Covered Head to Toe | 6.00% | ~5,913 |
-| Line of Azog, Ended | 6.00% | ~5,913 |
-| Remains To Be Seen | 2.00% | ~1,971 |
-| Westgate Weaponcraft | 1.00% | ~985 |
-| Risk a Little Real Light | 0.70% | ~690 |
-| Eregion Weaponcraft | 0.30% | ~296 |
-| Deeps Weaponcraft | 0.20% | ~197 |
+| Speak Friend | 66.00% | ~65,456 |
+| Suit Up | 40.00% | ~39,670 |
+| Delving Onward | 40.00% | ~39,670 |
+| Miner's Helper | 36.00% | ~35,703 |
+| To the Mountain's Roots | 8.00% | ~7,934 |
+| Covered Head to Toe | 6.00% | ~5,950 |
+| Line of Azog, Ended | 6.00% | ~5,950 |
+| Remains To Be Seen | 2.00% | ~1,984 |
+| Westgate Weaponcraft | 1.00% | ~992 |
+| Risk a Little Real Light | 0.70% | ~694 |
+| Eregion Weaponcraft | 0.30% | ~298 |
+| Deeps Weaponcraft | 0.20% | ~198 |
 | Shadow's Bane | 0.10% | ~99 |
 | Baruk Khazâd! | 0.10% | ~99 |
 | Decked Out | 0.10% | ~99 |
@@ -33,14 +33,14 @@ Rating: 4.43 (Ranked 681)
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 | Hard-headed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,549 (Ranked 83)  
+Progressed: 99,175 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-24 | 49,394 | 0 |
 | 2023-10-25 | 88,690 | 0 |
-| 2023-10-26 | 98,549 | 0 |
+| 2023-10-26 | 99,175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

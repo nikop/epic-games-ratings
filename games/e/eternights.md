@@ -9,7 +9,7 @@
 | The First Bond | 73.00% | ~212 |
 | Novice Scavenger | 65.00% | ~189 |
 | Master Craftsman | 53.00% | ~154 |
-| First wall | 51.00% | ~148 |
+| First wall | 52.00% | ~151 |
 | Piggyback Expert | 50.00% | ~146 |
 | Second wall | 39.00% | ~113 |
 | Expert Scavenger | 36.00% | ~105 |

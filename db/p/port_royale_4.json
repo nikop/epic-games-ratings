@@ -2732,9 +2732,9 @@
       "ID": "ACH031",
       "SetID": "69nfp41",
       "Name": "Parlay?",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH032",
@@ -2892,8 +2892,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-10-21T17:04:58.5198566+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:10:07.1348878+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:09:01.7640799+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:28.3231415+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:57:39.5390476+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:10:07.1349569+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:57:24.4357101+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:09:01.7641431+00:00"
 }

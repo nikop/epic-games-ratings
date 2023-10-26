@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1161,6 +1161,11 @@
       "Time": "2023-10-26T07:08:32.5835153+00:00",
       "NumProgressed": 269,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T10:08:07.6555551+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1188,7 +1193,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1268,7 +1273,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1322,9 +1327,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "ETUA_OutRage",
@@ -1434,9 +1439,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1491,7 +1496,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 1
     }
   ],
@@ -1499,8 +1504,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:09:13.6804669+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:08:07.6555541+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:04:07.2181361+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:09:13.6805066+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:03:01.2686901+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:08:07.6556213+00:00"
 }

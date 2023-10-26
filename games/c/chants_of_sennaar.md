@@ -10,6 +10,7 @@
 | The Preacher's fate | 15.00% | ~48 |
 | A new dawn | 14.00% | ~45 |
 | Cable guy | 12.00% | ~39 |
+| Half the way | 12.00% | ~39 |
 | True G3M4R | 12.00% | ~39 |
 | Scholar | 12.00% | ~39 |
 | The darkness | 12.00% | ~39 |
@@ -18,7 +19,6 @@
 | In this together | 11.00% | ~35 |
 | Peace walker | 11.00% | ~35 |
 | A good beginning | 11.00% | ~35 |
-| Half the way | 11.00% | ~35 |
 | Champollion | 11.00% | ~35 |
 | Feels like springtime | 9.00% | ~29 |
 | Alchemists Express | 9.00% | ~29 |
@@ -30,7 +30,7 @@
 | A great audience | 5.00% | ~16 |
 | Fashion victim | 2.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322 (Ranked 318)  
+Progressed: 322 (Ranked 319)  
 Completed: 22 (6.83%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |

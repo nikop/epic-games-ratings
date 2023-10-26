@@ -2947,9 +2947,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 35313,
+  "EOS_Progressed": 35314,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -23722,6 +23722,11 @@
       "Time": "2023-10-26T09:09:00.5372754+00:00",
       "NumProgressed": 35313,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-10-26T10:07:54.4970678+00:00",
+      "NumProgressed": 35314,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 60,
@@ -23749,7 +23754,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20128
+      "UsersEstimate": 20129
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -23821,7 +23826,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 12006
+      "UsersEstimate": 12007
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -23829,7 +23834,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -23845,7 +23850,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 17303
+      "UsersEstimate": 17304
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -23949,7 +23954,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -23965,7 +23970,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 14478
+      "UsersEstimate": 14479
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -24005,7 +24010,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -24013,7 +24018,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 9181
+      "UsersEstimate": 9182
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -24109,7 +24114,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 11653
+      "UsersEstimate": 11654
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -24133,7 +24138,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 24719
+      "UsersEstimate": 24720
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -24165,7 +24170,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -24205,22 +24210,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 9181
+      "UsersEstimate": 9182
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 35313,
+      "Progressed": 35314,
       "Completed": 285
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-26T06:03:23.5337006+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:09:00.5372751+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:07:54.4970668+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.3840039+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:05:52.6624967+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:09:00.5374916+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:04:47.0121115+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:07:54.497272+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "BOSS_05",
       "SetID": "35d3i7a",
       "Name": "I need to hide myself.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_06",
@@ -345,9 +345,9 @@
       "ID": "MEM_XIX",
       "SetID": "35d3i7a",
       "Name": "Mass production.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XV",
@@ -385,9 +385,9 @@
       "ID": "MEM_XX",
       "SetID": "35d3i7a",
       "Name": "Waiting for my prince.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XXI",
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:12:22.4701313+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:11:27.331618+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7987835+00:00",
-  "LastUpdate_Ratings": "2023-10-26T09:00:43.1355462+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:12:22.4702101+00:00"
+  "LastUpdate_Ratings": "2023-10-26T10:00:05.9979809+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:11:27.3316757+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,581 |
-| Until death do us apart | 4.00% | ~17,581 |
-| Victorious! | 4.00% | ~17,581 |
-| That is mine! | 3.00% | ~13,186 |
+| That's a Grand Army | 4.00% | ~17,583 |
+| Until death do us apart | 4.00% | ~17,583 |
+| Victorious! | 4.00% | ~17,583 |
+| That is mine! | 3.00% | ~13,187 |
 | Brothers in Arms | 2.00% | ~8,791 |
 | Cold War | 2.00% | ~8,791 |
 | For the Glory | 2.00% | ~8,791 |
 | That's a Grand Navy | 2.00% | ~8,791 |
 | Seriously?! | 2.00% | ~8,791 |
-| Defender of the Faith | 1.00% | ~4,395 |
-| It's all about luck | 1.00% | ~4,395 |
-| It's all about the money | 1.00% | ~4,395 |
-| Respected | 1.00% | ~4,395 |
-| The Princess is in this Castle | 1.00% | ~4,395 |
-| True Catholic | 1.00% | ~4,395 |
-| Truly Divine Ruler | 1.00% | ~4,395 |
+| Defender of the Faith | 1.00% | ~4,396 |
+| It's all about luck | 1.00% | ~4,396 |
+| It's all about the money | 1.00% | ~4,396 |
+| Respected | 1.00% | ~4,396 |
+| The Princess is in this Castle | 1.00% | ~4,396 |
+| True Catholic | 1.00% | ~4,396 |
+| Truly Divine Ruler | 1.00% | ~4,396 |
 | Blockader | 0.90% | ~3,956 |
-| Double the Love | 0.80% | ~3,516 |
-| Royal Authority | 0.80% | ~3,516 |
-| Total Control | 0.80% | ~3,516 |
+| Double the Love | 0.80% | ~3,517 |
+| Royal Authority | 0.80% | ~3,517 |
+| Total Control | 0.80% | ~3,517 |
 | My armies are invincible! | 0.70% | ~3,077 |
 | Agressive Expander | 0.60% | ~2,637 |
 | Azur semé de lis or | 0.50% | ~2,198 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439,534 (Ranked 40)  
+Progressed: 439,564 (Ranked 40)  
 Completed: 1 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
-| 2023-10-26 | 439,534 | 1 |
+| 2023-10-26 | 439,564 | 1 |
 ## Awards
 Max (Educational): 6,676  (Ranked 56)  
 Sum: 54,866 (Ranked 24)  

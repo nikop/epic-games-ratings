@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 85.00% | ~86 |
-| Tinkerer | 66.00% | ~67 |
+| Tinkerer | 67.00% | ~68 |
 | Apprentice | 37.00% | ~37 |
 | Welcome to the Club | 36.00% | ~36 |
 | A new World ahead | 31.00% | ~31 |

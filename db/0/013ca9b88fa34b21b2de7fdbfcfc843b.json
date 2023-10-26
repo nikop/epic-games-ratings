@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7176,
+  "EOS_Progressed": 7177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5272,6 +5272,11 @@
       "Time": "2023-10-26T09:12:14.7396467+00:00",
       "NumProgressed": 7176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T10:11:19.3725344+00:00",
+      "NumProgressed": 7177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5292,7 +5297,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5300,7 +5305,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -5388,7 +5393,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3444
+      "UsersEstimate": 3445
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5500,7 +5505,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -5563,7 +5568,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7176,
+      "Progressed": 7177,
       "Completed": 0
     }
   ],
@@ -5571,8 +5576,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-26T09:12:14.7396462+00:00",
+  "LastChanged_Achievements": "2023-10-26T10:11:19.3725338+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-26T08:59:27.5323525+00:00",
-  "LastUpdate_Achievements": "2023-10-26T09:12:14.7397156+00:00"
+  "LastUpdate_Ratings": "2023-10-26T09:58:50.8232294+00:00",
+  "LastUpdate_Achievements": "2023-10-26T10:11:19.3726079+00:00"
 }
