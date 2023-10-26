@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.34% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.33% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -170,10 +170,10 @@
 | 168 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 168 | [The Devil's Face](games/t/the_devil's_face.md) | 0.64% |
 | 170 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 171 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 172 | [Haven](games/h/haven.md) | 0.60% |
-| 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.59% |
+| 171 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.62% |
+| 172 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
+| 173 | [Haven](games/h/haven.md) | 0.60% |
+| 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 177 | [Dead Space](games/d/dead_space.md) | 0.57% |
