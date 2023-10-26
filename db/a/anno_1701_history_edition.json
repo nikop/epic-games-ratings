@@ -2,13 +2,13 @@
   "ID": "db9ef498b3fa4b26afb501ea352e3c46",
   "Name": "Anno 1701 History Edition",
   "ProductSlug": "anno-1701",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -355,6 +355,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-26T17:58:35.058257+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -373,8 +379,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:28.7529915+00:00",
   "FirstSeenRating": "2022-08-06T11:01:24.6446808+00:00",
-  "LastChanged": "2023-10-03T21:57:59.3703389+00:00",
+  "LastChanged": "2023-10-26T17:58:35.0582568+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.4896651+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:58:30.6771896+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:07:04.4159378+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:58:35.0582574+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:07:51.2806734+00:00"
 }

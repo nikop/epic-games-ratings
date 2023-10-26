@@ -4,8 +4,8 @@
   "ProductSlug": "boom-blaster-f3c6e0",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-14T13:00:00+00:00",
     "PcReleaseDate": "2020-07-17T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-02T03:58:05.2002281+00:00",
   "LastChanged": "2023-04-02T03:58:05.2002282+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.7604768+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:59:01.6246194+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:06:18.1395024+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:59:11.9685608+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:06:56.2361177+00:00"
 }

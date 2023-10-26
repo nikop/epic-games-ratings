@@ -2,13 +2,13 @@
   "ID": "sundrop",
   "Name": "For Honor Standard Edition",
   "ProductSlug": "for-honor",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2017-02-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -71,6 +71,6 @@
   "FirstSeenRating": "2023-03-31T05:57:00.9277982+00:00",
   "LastChanged": "2023-08-03T21:00:52.3079049+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:37.3818145+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:03:12.6504241+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:05:38.6941542+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:03:22.0228356+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:06:08.5895152+00:00"
 }

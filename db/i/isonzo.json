@@ -5,10 +5,10 @@
   "Ranking_Rating": 476,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 365,
-  "Ranking_EOS_Progress": 166,
+  "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7081,
+  "EOS_Progressed": 7082,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6266,6 +6266,11 @@
       "Time": "2023-10-26T05:07:05.1448254+00:00",
       "NumProgressed": 7081,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-26T18:06:53.2142953+00:00",
+      "NumProgressed": 7082,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6285,7 +6290,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -6325,7 +6330,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6485,7 +6490,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6636,7 +6641,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7081,
+      "Progressed": 7082,
       "Completed": 9
     }
   ],
@@ -6644,8 +6649,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:06:15.7390388+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:06:53.2142947+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:19.0866217+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:57:56.3546208+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:06:15.7391089+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:57:54.8568777+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:06:53.2143682+00:00"
 }

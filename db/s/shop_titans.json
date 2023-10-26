@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6703,9 +6703,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138168,
+  "EOS_Progressed": 138171,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26063,6 +26063,11 @@
       "Time": "2023-10-26T17:04:30.752138+00:00",
       "NumProgressed": 138168,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T18:04:46.3010409+00:00",
+      "NumProgressed": 138171,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26856,9 +26861,9 @@
       "ID": "sell02",
       "SetID": "anfd17p",
       "Name": "Black Friday Special",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "sell03",
@@ -26969,15 +26974,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138168,
+      "Progressed": 138171,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T10:58:28.3186533+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:04:30.7521369+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:04:46.3010404+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:58:01.0349599+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:04:30.7524117+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:57:58.7690391+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:04:46.3013125+00:00"
 }

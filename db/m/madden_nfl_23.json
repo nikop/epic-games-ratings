@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -751,7 +751,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2974,
+  "EOS_Progressed": 2975,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -4041,6 +4041,11 @@
       "Time": "2023-10-26T16:08:11.0596652+00:00",
       "NumProgressed": 2974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T18:07:07.4861364+00:00",
+      "NumProgressed": 2975,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4077,7 +4082,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "achievement_13",
@@ -4085,7 +4090,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "achievement_14",
@@ -4109,7 +4114,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "achievement_17",
@@ -4220,7 +4225,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2974,
+      "Progressed": 2975,
       "Completed": 0
     }
   ],
@@ -4228,8 +4233,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-26T02:15:45.7403382+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:06:27.1767671+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:07:07.4861359+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:00:19.301063+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:06:27.1768079+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:00:43.2298384+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:07:07.4861715+00:00"
 }

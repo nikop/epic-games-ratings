@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 2,
@@ -2049,6 +2049,11 @@
       "Time": "2023-10-26T17:05:22.4501017+00:00",
       "NumProgressed": 474,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-26T18:05:49.2689169+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2060,7 +2065,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2140,7 +2145,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2171,14 +2176,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:05:22.4501011+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:05:49.2689161+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:58:45.8238172+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:05:22.4501265+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:58:53.0605498+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:05:49.2689421+00:00"
 }

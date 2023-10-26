@@ -35,12 +35,12 @@ Rating: 4.57 (Ranked 460)
 | Showdown | 23.00% | ~3 |
 | Titan Lord | 23.00% | ~3 |
 | Hard worker | 23.00% | ~3 |
+| Workaholic | 23.00% | ~3 |
 | Safecracker | 23.00% | ~3 |
 | King of the handymen | 23.00% | ~3 |
 | Wise man | 15.00% | ~2 |
 | The traveler | 15.00% | ~2 |
 | Terror of the hens | 15.00% | ~2 |
-| Workaholic | 15.00% | ~2 |
 | Peacekeeper | 15.00% | ~2 |
 | Master thief | 15.00% | ~2 |
 | King Midas | 15.00% | ~2 |

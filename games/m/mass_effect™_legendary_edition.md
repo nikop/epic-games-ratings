@@ -9,7 +9,7 @@
 | Medal of Exploration I | 76.00% | ~616 |
 | Recruit | 72.00% | ~583 |
 | Search and Rescue | 72.00% | ~583 |
-| Quarian Ally | 68.00% | ~551 |
+| Quarian Ally | 69.00% | ~559 |
 | Medal of Heroism | 66.00% | ~535 |
 | Honorarium of Corporate Service | 65.00% | ~526 |
 | Council Legion of Merit | 60.00% | ~486 |
@@ -39,13 +39,13 @@
 | Power Full | 41.00% | ~332 |
 | The Archangel | 40.00% | ~324 |
 | The Convict | 39.00% | ~316 |
+| Colony Defense | 38.00% | ~308 |
 | The Krogan | 38.00% | ~308 |
-| Colony Defense | 37.00% | ~300 |
 | Galactic Explorer | 37.00% | ~300 |
 | Completionist | 36.00% | ~292 |
 | Broke, Blind, and Bedlam | 36.00% | ~292 |
 | Ghost Ship | 35.00% | ~284 |
-| The Quarian | 34.00% | ~275 |
+| The Quarian | 35.00% | ~284 |
 | The Prodigal | 34.00% | ~275 |
 | A Personal Touch | 33.00% | ~267 |
 | Archivist | 33.00% | ~267 |

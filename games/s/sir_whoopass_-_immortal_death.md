@@ -55,7 +55,7 @@
 | Ancient Ruins of Dirty Feet | 13.00% | ~14 |
 | Timber! | 11.00% | ~12 |
 | Free Of Chains | 11.00% | ~12 |
-| Grumpy Immortal | 9.00% | ~10 |
+| Grumpy Immortal | 10.00% | ~11 |
 | Spoiler alert! | 8.00% | ~9 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~9 |
 | I drink, but I'm not a drunk! | 8.00% | ~9 |
@@ -80,11 +80,11 @@
 | Ancient Ruins of Peekaboo | 2.00% | ~2 |
 | Consider it dealt with | 2.00% | ~2 |
 | I'm getting full... | 0.90% | ~1 |
+| I'm feeling lucky! | 0.90% | ~1 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
-| I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107 (Ranked 395)  

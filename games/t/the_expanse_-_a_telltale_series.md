@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.30% | ~43 |
+| Oyedang, Kopengs | 0.40% | ~57 |
 | Drug Gifter | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | The Pit and the Pirates | 0.10% | ~14 |
@@ -26,6 +26,7 @@ Rating: 4.60 (Ranked 401)
 | Bosmang | 0.10% | ~14 |
 | Captain Drummer | 0.10% | ~14 |
 | No Belter Left Behind | 0.10% | ~14 |
+| Debris Spree | 0.10% | ~14 |
 | Data Master | 0.10% | ~14 |
 | Celebrations are in Order | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
@@ -39,7 +40,6 @@ Rating: 4.60 (Ranked 401)
 | Data Miner | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
-| Debris Spree | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,346 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 235)  

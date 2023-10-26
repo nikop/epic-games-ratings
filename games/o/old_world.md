@@ -81,12 +81,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 0.90% | ~135 |
 | Lion | 0.90% | ~135 |
 | Good Difficulty | 0.90% | ~135 |
+| Patrons | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
 | Greece | 0.90% | ~135 |
 | Power to the People | 0.90% | ~135 |
 | Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
-| Patrons | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
+| No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
@@ -158,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
-| No Undo | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,963 (Ranked 140)  
+Progressed: 14,965 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 5 (0.03%) (Ranked 295)
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
-| 2023-10-26 | 14,963 | 5 |
+| 2023-10-26 | 14,965 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

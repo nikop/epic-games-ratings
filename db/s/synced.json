@@ -2,7 +2,7 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 918,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 99,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -769,6 +769,12 @@
       "Rating": 4.16,
       "NumberOfAwards": 329,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-10-26T18:01:38.6083484+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
@@ -831,9 +837,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 64723,
+  "EOS_Progressed": 64729,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6726,6 +6732,11 @@
       "Time": "2023-10-26T17:03:27.7119006+00:00",
       "NumProgressed": 64723,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-26T18:03:43.3653044+00:00",
+      "NumProgressed": 64729,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6738,7 +6749,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20711
+      "UsersEstimate": 20713
     },
     {
       "ID": "10",
@@ -6778,7 +6789,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "15",
@@ -6802,7 +6813,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11003
+      "UsersEstimate": 11004
     },
     {
       "ID": "3",
@@ -6810,7 +6821,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "4",
@@ -6818,7 +6829,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6472
+      "UsersEstimate": 6473
     },
     {
       "ID": "5",
@@ -6834,7 +6845,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "7",
@@ -6865,16 +6876,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64723,
+      "Progressed": 64729,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-26T16:03:12.837238+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:03:27.7119+00:00",
+  "LastChanged": "2023-10-26T18:01:38.6083481+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:03:43.3653039+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:01:01.985061+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:03:27.7119591+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:01:38.6083487+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:03:43.3653642+00:00"
 }

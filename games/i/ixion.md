@@ -40,6 +40,7 @@ Rating: 4.57 (Ranked 460)
 | Delivery! | 3.00% | ~98 |
 | Pedal to the Metal | 3.00% | ~98 |
 | Drill-dozer | 3.00% | ~98 |
+| Help of the Forgotten Member | 3.00% | ~98 |
 | Pulsar Disciple | 3.00% | ~98 |
 | Mutual Loyalty | 2.00% | ~65 |
 | Tiqqun Contender | 2.00% | ~65 |
@@ -47,7 +48,6 @@ Rating: 4.57 (Ranked 460)
 | Praise the Hull! | 2.00% | ~65 |
 | Space Greenhouse | 2.00% | ~65 |
 | Tiqqun Unchained | 2.00% | ~65 |
-| Help of the Forgotten Member | 2.00% | ~65 |
 | Better Him Than Me | 1.00% | ~33 |
 | Remember the Dead | 1.00% | ~33 |
 | You Had One Job... | 1.00% | ~33 |

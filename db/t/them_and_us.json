@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-10-26T10:08:07.6555551+00:00",
       "NumProgressed": 270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T18:06:23.5748551+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1185,15 +1190,15 @@
       "Name": "Alone In The Dark",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 190
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1353,7 +1358,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_Researcher",
@@ -1465,7 +1470,7 @@
       "Name": "A Night To Remember",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ETUA_Trapped",
@@ -1496,7 +1501,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 1
     }
   ],
@@ -1504,8 +1509,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:05:51.0183665+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:06:23.5748542+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:00:27.7964551+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:05:51.0184402+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:00:54.3900016+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:06:23.5748938+00:00"
 }

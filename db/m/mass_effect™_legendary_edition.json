@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 810,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2532,9 +2532,9 @@
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_29",
@@ -2620,9 +2620,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_39",
@@ -2732,9 +2732,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 284
     },
     {
       "ID": "achievement_51",
@@ -3176,8 +3176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T17:05:00.7715068+00:00",
+  "LastChanged_Achievements": "2023-10-26T18:05:22.7037508+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T16:58:16.4798355+00:00",
-  "LastUpdate_Achievements": "2023-10-26T17:05:00.7717945+00:00"
+  "LastUpdate_Ratings": "2023-10-26T17:58:18.2709345+00:00",
+  "LastUpdate_Achievements": "2023-10-26T18:05:22.7039851+00:00"
 }
