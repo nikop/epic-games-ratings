@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.32% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.30% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -42,8 +42,8 @@
 | 40 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
 | 40 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
 | 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
-| 43 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.70% |
-| 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
+| 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
+| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.33% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.83% |
 | 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -111,7 +111,7 @@
 | 109 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 110 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
 | 111 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
-| 112 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.39% |
+| 112 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.38% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 114 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 115 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.23% |
@@ -163,7 +163,7 @@
 | 160 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 162 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 163 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.70% |
-| 164 | [Eternights](games/e/eternights.md) | 0.69% |
+| 164 | [Eternights](games/e/eternights.md) | 0.68% |
 | 165 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 166 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 167 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.65% |
@@ -177,10 +177,10 @@
 | 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 177 | [Dead Space](games/d/dead_space.md) | 0.57% |
-| 177 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
 | 177 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
 | 177 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
-| 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
+| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
+| 180 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
 | 182 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 183 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 184 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
