@@ -4,7 +4,7 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.33% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 43.32% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -78,7 +78,7 @@
 | 75 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 77 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
 | 78 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.98% |
-| 79 | [The Bunker](games/t/the_bunker.md) | 3.94% |
+| 79 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.76% |
 | 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.76% |
@@ -99,7 +99,7 @@
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 98 | [FORECLOSED](games/f/foreclosed.md) | 2.80% |
 | 99 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.78% |
-| 100 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.76% |
+| 100 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.75% |
 | 101 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 102 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
 | 103 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
@@ -208,10 +208,10 @@
 | 206 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 207 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 208 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 208 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.32% |
 | 208 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
-| 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
+| 210 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
+| 210 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.31% |
 | 213 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
 | 213 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 213 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
