@@ -39,10 +39,10 @@
 | 37 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 37 | [Smelter](games/s/smelter.md) | 10.00% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 40 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 9.52% |
-| 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
-| 41 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
-| 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 40 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 40 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
+| 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 43 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.70% |
 | 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.83% |
 | 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
@@ -222,11 +222,11 @@
 | 220 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 221 | [Filament](games/f/filament.md) | 0.26% |
 | 222 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.24% |
 | 222 | [Scrapnaut](games/s/scrapnaut.md) | 0.24% |
-| 224 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 224 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
-| 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.23% |
-| 224 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.23% |
+| 225 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
+| 225 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
+| 225 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.23% |
 | 228 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.22% |
 | 228 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 230 | [Blanc](games/b/blanc.md) | 0.21% |
