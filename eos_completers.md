@@ -4,10 +4,10 @@
 | 1 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 100.00% |
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.16% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.28% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.48% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.26% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.48% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
@@ -21,7 +21,7 @@
 | 16 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
 | 20 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 22 | [Island Cities](games/i/island_cities.md) | 16.64% |
+| 22 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
 | 24 | [Remains](games/r/remains.md) | 13.46% |
 | 25 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
@@ -45,14 +45,14 @@
 | 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.83% |
-| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
-| 47 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 7.69% |
-| 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
-| 52 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
-| 53 | [Time Loader](games/t/time_loader.md) | 7.14% |
+| 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
+| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
+| 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
+| 52 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 7.14% |
+| 52 | [Time Loader](games/t/time_loader.md) | 7.14% |
 | 54 | [Scorn](games/s/scorn.md) | 6.97% |
 | 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
 | 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
@@ -150,8 +150,8 @@
 | 148 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.04% |
 | 149 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 150 | [Sable](games/s/sable.md) | 1.01% |
-| 151 | [Trifox](games/t/trifox.md) | 0.99% |
-| 152 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.98% |
+| 151 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.98% |
+| 151 | [Trifox](games/t/trifox.md) | 0.98% |
 | 153 | [A Musical Story](games/a/a_musical_story.md) | 0.96% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 155 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.95% |
@@ -171,9 +171,9 @@
 | 169 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 169 | [The Devil's Face](games/t/the_devil's_face.md) | 0.64% |
 | 171 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
-| 172 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.61% |
 | 172 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 174 | [Haven](games/h/haven.md) | 0.60% |
+| 173 | [Haven](games/h/haven.md) | 0.60% |
+| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.60% |
 | 175 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 176 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 176 | [Grindstone](games/g/grindstone.md) | 0.58% |
@@ -209,9 +209,9 @@
 | 207 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 208 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 209 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 209 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
-| 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
-| 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
+| 210 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 210 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
+| 210 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 213 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
 | 213 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 213 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
@@ -703,4 +703,4 @@
 | 327 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 327 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 327 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,464 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,466 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

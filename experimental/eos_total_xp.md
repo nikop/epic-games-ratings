@@ -596,6 +596,7 @@
 | [SPINGUN](../games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 26 | 1,000 |
 | [Spirit of the Island](../games/s/spirit_of_the_island.md) | 49 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
+| [SpongeBob SquarePants: The Cosmic Shake](../games/s/spongebob_squarepants__the_cosmic_shake.md) | 44 | 1,000 |
 | [Star Trek Prodigy: Supernova](../games/s/star_trek_prodigy__supernova.md) | 41 | 1,000 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](../games/s/star_wars_jedi__fallen_order_standard_edition.md) | 39 | 1,000 |
 | [STAR WARS Jedi: Survivor™](../games/s/star_wars_jedi__survivor™.md) | 53 | 1,000 |
