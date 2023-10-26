@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22800,
+  "EOS_Progressed": 22801,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20718,6 +20718,11 @@
       "Time": "2023-10-26T14:10:21.874089+00:00",
       "NumProgressed": 22800,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-26T15:09:18.0127882+00:00",
+      "NumProgressed": 22801,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20799,9 +20804,9 @@
       "ID": "FOUND_ERIN",
       "SetID": "b6m2mm5",
       "Name": "Hide and Seek",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 912
+      "UsersEstimate": 1140
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20849,7 +20854,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17556
+      "UsersEstimate": 17557
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20888,15 +20893,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22800,
+      "Progressed": 22801,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:10:21.8740882+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:09:18.0127876+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:04:34.2349432+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:10:21.8742457+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:03:44.3797668+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:09:18.0130008+00:00"
 }

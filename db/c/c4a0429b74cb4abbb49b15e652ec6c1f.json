@@ -2017,9 +2017,9 @@
       "ID": "virtual_self",
       "SetID": "5fi1i42",
       "Name": "Your virtual self",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 18
     },
     {
       "ID": "visit_cleric",
@@ -2048,8 +2048,8 @@
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:11:35.0028186+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:11:09.5895672+00:00",
   "LastUpdate_AppInfo": "2023-10-26T13:57:15.5484954+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:03:59.4774897+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:11:35.002847+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:02:56.2799627+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:11:09.5896081+00:00"
 }

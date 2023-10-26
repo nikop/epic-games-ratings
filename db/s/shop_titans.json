@@ -6703,9 +6703,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138161,
+  "EOS_Progressed": 138164,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26048,6 +26048,11 @@
       "Time": "2023-10-26T14:06:03.59733+00:00",
       "NumProgressed": 138161,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T15:05:32.0283244+00:00",
+      "NumProgressed": 138164,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26441,9 +26446,9 @@
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "expansion03",
@@ -26954,15 +26959,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138161,
+      "Progressed": 138164,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T10:58:28.3186533+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:06:03.5973293+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:05:32.0283237+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:58:39.5921571+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:06:03.597664+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:58:28.8285755+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:05:32.028748+00:00"
 }

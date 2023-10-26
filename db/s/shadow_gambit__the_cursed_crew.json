@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 771,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.38,
+  "EOS_Completed_Percentage": 3.37,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2352,6 +2352,11 @@
       "Time": "2023-10-26T10:11:47.3243333+00:00",
       "NumProgressed": 770,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-26T15:10:49.514673+00:00",
+      "NumProgressed": 771,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2372,7 +2377,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "_03_FinishAct1",
@@ -2380,15 +2385,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 285
     },
     {
       "ID": "_05_FinishAct2",
@@ -2404,7 +2409,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "_07_FinishAct3",
@@ -2420,7 +2425,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "_09_Completion_20",
@@ -2452,7 +2457,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "_13_Completion_60",
@@ -2468,7 +2473,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "_15_Completion_80",
@@ -2516,7 +2521,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2556,7 +2561,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2571,7 +2576,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 771,
       "Completed": 26
     }
   ],
@@ -2579,8 +2584,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:11:24.7022581+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:10:49.5146725+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:57:28.3914839+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:11:24.7022952+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:57:42.7767691+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:10:49.5147091+00:00"
 }

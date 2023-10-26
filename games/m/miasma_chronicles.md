@@ -5,45 +5,45 @@ Rating: 4.43 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,384 |
-| Ranidaphobia | 77.00% | ~1,158 |
-| Aspiring Editor | 74.00% | ~1,113 |
-| Gun for Hire | 69.00% | ~1,038 |
-| I am the law! | 63.00% | ~948 |
-| Lumberjack | 53.00% | ~797 |
-| Croaked | 49.00% | ~737 |
-| Limp Richard | 48.00% | ~722 |
-| Exorcist | 48.00% | ~722 |
-| From Darkness to Light | 48.00% | ~722 |
-| Editor Adept | 47.00% | ~707 |
-| Giant Killer | 46.00% | ~692 |
-| Sensei | 44.00% | ~662 |
-| Firestarter | 42.00% | ~632 |
-| The meaning of Kain | 42.00% | ~632 |
-| Recycler | 40.00% | ~602 |
-| Technophobe | 40.00% | ~602 |
-| Are you not entertained? | 36.00% | ~541 |
-| Ganglord | 35.00% | ~526 |
-| Jarhead | 35.00% | ~526 |
-| Infiltrator | 35.00% | ~526 |
-| Pushing Daisy | 33.00% | ~496 |
-| Experienced | 32.00% | ~481 |
-| Hold The Line | 31.00% | ~466 |
-| Endgame | 27.00% | ~406 |
-| Savior | 27.00% | ~406 |
-| There Can Be Only One! | 26.00% | ~391 |
-| Silent but Violent | 23.00% | ~346 |
-| Chain Killer | 22.00% | ~331 |
-| The Watchers | 22.00% | ~331 |
+| First Blood | 92.00% | ~1,386 |
+| Ranidaphobia | 77.00% | ~1,160 |
+| Aspiring Editor | 74.00% | ~1,115 |
+| Gun for Hire | 69.00% | ~1,040 |
+| I am the law! | 63.00% | ~949 |
+| Lumberjack | 53.00% | ~799 |
+| Croaked | 49.00% | ~738 |
+| Limp Richard | 48.00% | ~723 |
+| Exorcist | 48.00% | ~723 |
+| From Darkness to Light | 48.00% | ~723 |
+| Editor Adept | 47.00% | ~708 |
+| Giant Killer | 46.00% | ~693 |
+| Sensei | 44.00% | ~663 |
+| Firestarter | 42.00% | ~633 |
+| The meaning of Kain | 42.00% | ~633 |
+| Recycler | 40.00% | ~603 |
+| Technophobe | 40.00% | ~603 |
+| Are you not entertained? | 35.00% | ~527 |
+| Ganglord | 35.00% | ~527 |
+| Jarhead | 35.00% | ~527 |
+| Infiltrator | 35.00% | ~527 |
+| Pushing Daisy | 33.00% | ~497 |
+| Experienced | 32.00% | ~482 |
+| Hold The Line | 31.00% | ~467 |
+| Endgame | 27.00% | ~407 |
+| Savior | 27.00% | ~407 |
+| There Can Be Only One! | 26.00% | ~392 |
+| Silent but Violent | 23.00% | ~347 |
+| Chain Killer | 22.00% | ~332 |
+| The Watchers | 22.00% | ~332 |
 | Commando | 17.00% | ~256 |
 | Dr Jones | 17.00% | ~256 |
 | Chaos Theory | 16.00% | ~241 |
 | Newtonian Knockout | 16.00% | ~241 |
 | Ruthless | 14.00% | ~211 |
-| Side Order | 11.00% | ~165 |
-| Bot Whisperer | 9.00% | ~135 |
-| Chain Reaction | 9.00% | ~135 |
-| Curveball | 8.00% | ~120 |
+| Side Order | 11.00% | ~166 |
+| Bot Whisperer | 9.00% | ~136 |
+| Chain Reaction | 9.00% | ~136 |
+| Curveball | 8.00% | ~121 |
 | Dressed To Kill | 7.00% | ~105 |
 | Wipe Out | 7.00% | ~105 |
 | Master Editor | 6.00% | ~90 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 682)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,504 (Ranked 225)  
+Progressed: 1,507 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
-| 2023-10-26 | 1,504 | 0 |
+| 2023-10-26 | 1,507 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

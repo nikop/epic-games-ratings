@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,282 |
+| Sowwy! | 34.00% | ~79,285 |
 | Alt+F4 | 7.00% | ~16,323 |
 | Where's that freaking Dwarf? | 6.00% | ~13,991 |
-| Déjà vu | 5.00% | ~11,659 |
-| A beer, two curses, three companions | 4.00% | ~9,327 |
-| Sock! SOCK! | 4.00% | ~9,327 |
-| GG EZ | 4.00% | ~9,327 |
-| Speedrun | 4.00% | ~9,327 |
-| DM intervention | 3.00% | ~6,995 |
-| Fireproof Wizardess | 3.00% | ~6,995 |
+| Déjà vu | 5.00% | ~11,660 |
+| A beer, two curses, three companions | 4.00% | ~9,328 |
+| Sock! SOCK! | 4.00% | ~9,328 |
+| GG EZ | 4.00% | ~9,328 |
+| Speedrun | 4.00% | ~9,328 |
+| DM intervention | 3.00% | ~6,996 |
+| Fireproof Wizardess | 3.00% | ~6,996 |
 | Livin' in a dwarven paradise | 2.00% | ~4,664 |
 | Shiny and Crôm | 2.00% | ~4,664 |
 | Way of the Wimp | 2.00% | ~4,664 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,332 |
 | Dead for good | 0.90% | ~2,099 |
 | Gargantua | 0.90% | ~2,099 |
-| In Navalu's footsteps | 0.80% | ~1,865 |
+| In Navalu's footsteps | 0.80% | ~1,866 |
 | Lëgal Legend | 0.70% | ~1,632 |
 | We come in peace | 0.60% | ~1,399 |
 | Holistic Adventuring Party | 0.50% | ~1,166 |
@@ -56,6 +56,7 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.30% | ~700 |
 | Inception | 0.30% | ~700 |
 | The number of the counting shalt be 7 | 0.20% | ~466 |
+| Free customer service | 0.20% | ~466 |
 | Kudos from your DM | 0.20% | ~466 |
 | 100% satisfaction guarantee | 0.20% | ~466 |
 | Death is for wimps | 0.20% | ~466 |
@@ -72,7 +73,6 @@ Number of Ratings: 118  (23.09.2022)
 | Elite Adventurers | 0.10% | ~233 |
 | Take your time back in time | 0.10% | ~233 |
 | Egghead | 0.10% | ~233 |
-| Free customer service | 0.10% | ~233 |
 | Imposture and Trowels | 0.10% | ~233 |
 | Deep changes | 0.10% | ~233 |
 | A broken clock… | 0.10% | ~233 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,183 (Ranked 60)  
+Progressed: 233,190 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 7 (0.00%) (Ranked 327)
 | 2023-10-23 | 232,741 | 7 |
 | 2023-10-24 | 232,917 | 7 |
 | 2023-10-25 | 233,101 | 7 |
-| 2023-10-26 | 233,183 | 7 |
+| 2023-10-26 | 233,190 | 7 |
 ## Awards
 Max (Character Customization): 221  (Ranked 269)  
 Sum: 438 (Ranked 327)  

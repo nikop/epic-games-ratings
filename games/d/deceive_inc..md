@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,606 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,607 |
 | Mainframe Hacker | 23.00% | ~4,298 |
 | The Spy who eliminated me | 23.00% | ~4,298 |
-| Tomorrow Never Dyes | 22.00% | ~4,111 |
+| Tomorrow Never Dyes | 22.00% | ~4,112 |
 | Never Say Loser Again | 19.00% | ~3,551 |
 | From the Vault with Love | 18.00% | ~3,364 |
 | Tailor-Made | 18.00% | ~3,364 |
@@ -16,9 +16,9 @@ Rating: 4.55 (Ranked 494)
 | Assistant Accountant | 17.00% | ~3,177 |
 | You Only Live Twice | 16.00% | ~2,990 |
 | Fully Decked Out | 16.00% | ~2,990 |
-| A view to Win | 13.00% | ~2,429 |
-| The Living Portrait | 12.00% | ~2,242 |
-| Smells Like Trouble | 12.00% | ~2,242 |
+| A view to Win | 13.00% | ~2,430 |
+| The Living Portrait | 12.00% | ~2,243 |
+| Smells Like Trouble | 12.00% | ~2,243 |
 | My Motto, My Creed | 11.00% | ~2,056 |
 | Private Collection | 11.00% | ~2,056 |
 | Killer Looks | 11.00% | ~2,056 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 494)
 | In It to Win It | 9.00% | ~1,682 |
 | Security Supervisor | 6.00% | ~1,121 |
 | License to Thrill | 5.00% | ~934 |
-| Social of Solace | 4.00% | ~747 |
+| Social of Solace | 4.00% | ~748 |
 | Live and let lie | 3.00% | ~561 |
 | Safe Withdrawal | 3.00% | ~561 |
 | Branch Manager | 2.00% | ~374 |
@@ -37,12 +37,12 @@ Rating: 4.55 (Ranked 494)
 | The terminals are not enough | 1.00% | ~187 |
 | Lose Another Day | 1.00% | ~187 |
 | Chairman of Deceive Inc. | 0.90% | ~168 |
-| Chief Information Officer | 0.80% | ~149 |
+| Chief Information Officer | 0.80% | ~150 |
 | Masteries Are Forever | 0.40% | ~75 |
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,687 (Ranked 131)  
+Progressed: 18,689 (Ranked 131)  
 Completed: 4 (0.02%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 4 (0.02%) (Ranked 299)
 | 2023-10-23 | 18,653 | 4 |
 | 2023-10-24 | 18,673 | 4 |
 | 2023-10-25 | 18,684 | 4 |
-| 2023-10-26 | 18,687 | 4 |
+| 2023-10-26 | 18,689 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

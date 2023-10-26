@@ -5,9 +5,9 @@
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1680,
+  "EOS_Progressed": 1681,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6254,6 +6254,11 @@
       "Time": "2023-10-26T12:06:23.0238292+00:00",
       "NumProgressed": 1680,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T15:06:06.2598284+00:00",
+      "NumProgressed": 1681,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6271,9 +6276,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6415,9 +6420,9 @@
       "ID": "objective_hero_level_up_6",
       "SetID": "bm61c2p",
       "Name": "Colonel",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 34
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -6441,15 +6446,15 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 202
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6568,7 +6573,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1680,
+      "Progressed": 1681,
       "Completed": 1
     }
   ],
@@ -6576,8 +6581,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:06:37.8363581+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:06:06.2598279+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:02:17.8583585+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:06:37.8364349+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:01:31.807403+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:06:06.2599079+00:00"
 }

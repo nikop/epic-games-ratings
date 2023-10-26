@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
+| Rmt n Kmt Buhen | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
 | Old | 0.30% | ~45 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
 | No Undo | 0.30% | ~45 |
-| Rmt n Kmt Buhen | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
 | Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,956 (Ranked 140)  
+Progressed: 14,958 (Ranked 140)  
 Completed: 5 (0.03%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 5 (0.03%) (Ranked 295)
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
-| 2023-10-26 | 14,956 | 5 |
+| 2023-10-26 | 14,958 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

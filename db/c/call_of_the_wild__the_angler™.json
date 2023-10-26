@@ -847,9 +847,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6121,
+  "EOS_Progressed": 6122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8812,6 +8812,11 @@
       "Time": "2023-10-26T13:17:19.6512499+00:00",
       "NumProgressed": 6121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T15:10:11.4738509+00:00",
+      "NumProgressed": 6122,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8839,7 +8844,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8871,7 +8876,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9021,9 +9026,9 @@
       "ID": "ACHIEVEMENT_026",
       "SetID": "1a05lfd",
       "Name": "Big Fish Small Pond",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 367
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -9102,13 +9107,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6121,
+      "Progressed": 6122,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5493,
+      "Progressed": 5494,
       "Completed": 112
     }
   ],
@@ -9116,8 +9121,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-25T22:00:40.9499269+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:10:46.2488342+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:10:11.4738503+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.0484101+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:01:29.0064964+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:10:46.2489197+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:00:47.2190222+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:10:11.4739416+00:00"
 }

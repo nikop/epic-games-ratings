@@ -9674,9 +9674,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "14",
@@ -9882,7 +9882,7 @@
       "ID": "31",
       "SetID": "9nnpo9n",
       "Name": "Keep Arjun in Check",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -9890,7 +9890,7 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -9898,7 +9898,7 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -9906,7 +9906,7 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
       "UsersEstimate": 0
     },
@@ -9914,7 +9914,7 @@
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
       "UsersEstimate": 0
     }
@@ -9930,15 +9930,15 @@
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 296,
-      "Completed": 284
+      "Completed": 285
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:09:39.0194296+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:08:46.0068047+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:03:35.7487272+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:09:39.0195267+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:02:37.1458962+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:08:46.0069258+00:00"
 }

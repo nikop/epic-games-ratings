@@ -11211,9 +11211,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 439685,
+  "EOS_Progressed": 439721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5394,
+  "EOS_NewPlayers": 5373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32761,6 +32761,11 @@
       "Time": "2023-10-26T14:09:26.8294971+00:00",
       "NumProgressed": 439685,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T15:08:34.2962469+00:00",
+      "NumProgressed": 439721,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33052,7 +33057,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -33284,7 +33289,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "achievement_cold_war",
@@ -33308,7 +33313,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -33428,7 +33433,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -33772,7 +33777,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17587
+      "UsersEstimate": 17589
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34724,7 +34729,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -35052,7 +35057,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13191
+      "UsersEstimate": 13192
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35276,7 +35281,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -35324,7 +35329,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -35436,7 +35441,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17587
+      "UsersEstimate": 17589
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35468,7 +35473,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17587
+      "UsersEstimate": 17589
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35603,21 +35608,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 439685,
+      "Progressed": 439721,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 439685,
+      "Progressed": 439721,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-26T13:57:21.7420736+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:09:26.8294965+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:08:34.2962463+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:57:21.7420742+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:09:26.830941+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:57:39.7822884+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:08:34.2977996+00:00"
 }

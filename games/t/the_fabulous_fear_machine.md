@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 81.00% | ~25 |
-| Master trainee | 77.00% | ~24 |
-| Jung's dream | 71.00% | ~22 |
-| The battle of Great Britain | 61.00% | ~19 |
-| Giant | 58.00% | ~18 |
-| Pulp! Where Monsters Dwell | 52.00% | ~16 |
-| A continent with chemistry | 52.00% | ~16 |
-| The happy farmer girl | 52.00% | ~16 |
-| Pulp! Out of this World | 48.00% | ~15 |
-| Pulp! Adventures into the Unknown | 48.00% | ~15 |
-| A rival with no options | 45.00% | ~14 |
-| Pulp! Terror Tales in the Night | 45.00% | ~14 |
-| Kirlian's best disciple | 45.00% | ~14 |
-| Diagnosis: fear | 45.00% | ~14 |
-| Ambition is... blind | 45.00% | ~14 |
-| You have two wishes left | 42.00% | ~13 |
-| The seer | 39.00% | ~12 |
-| Et in arcadia ego | 35.00% | ~11 |
-| The artist | 35.00% | ~11 |
-| Welcome to Hellville | 35.00% | ~11 |
-| You had one wish left | 32.00% | ~10 |
-| You've awakened the beast | 29.00% | ~9 |
-| Hate is... addictive | 29.00% | ~9 |
-| Blessed antennas | 29.00% | ~9 |
-| The bully | 23.00% | ~7 |
-| The barbarian invasions | 23.00% | ~7 |
+| You have three wishes left | 81.00% | ~26 |
+| Master trainee | 78.00% | ~25 |
+| Jung's dream | 72.00% | ~23 |
+| The battle of Great Britain | 59.00% | ~19 |
+| Giant | 56.00% | ~18 |
+| Pulp! Where Monsters Dwell | 50.00% | ~16 |
+| A continent with chemistry | 50.00% | ~16 |
+| The happy farmer girl | 50.00% | ~16 |
+| Pulp! Out of this World | 47.00% | ~15 |
+| Pulp! Adventures into the Unknown | 47.00% | ~15 |
+| Kirlian's best disciple | 47.00% | ~15 |
+| A rival with no options | 44.00% | ~14 |
+| Pulp! Terror Tales in the Night | 44.00% | ~14 |
+| Diagnosis: fear | 44.00% | ~14 |
+| Ambition is... blind | 44.00% | ~14 |
+| You have two wishes left | 41.00% | ~13 |
+| The seer | 38.00% | ~12 |
+| Et in arcadia ego | 34.00% | ~11 |
+| The artist | 34.00% | ~11 |
+| Welcome to Hellville | 34.00% | ~11 |
+| You had one wish left | 31.00% | ~10 |
+| You've awakened the beast | 28.00% | ~9 |
+| Hate is... addictive | 28.00% | ~9 |
+| Blessed antennas | 28.00% | ~9 |
+| The bully | 22.00% | ~7 |
+| The barbarian invasions | 22.00% | ~7 |
 | The beast in the Oval Office | 19.00% | ~6 |
 | Blood Red Island | 19.00% | ~6 |
 | Bread and bocaua | 19.00% | ~6 |
@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 481)  
+Progressed: 32 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-15 | 29 | 0 |
 | 2023-10-17 | 30 | 0 |
 | 2023-10-21 | 31 | 0 |
+| 2023-10-26 | 32 | 0 |

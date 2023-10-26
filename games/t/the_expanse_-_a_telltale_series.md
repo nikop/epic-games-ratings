@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.20% | ~29 |
+| Oyedang, Kopengs | 0.30% | ~43 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | The Pit and the Pirates | 0.10% | ~14 |
 | Data Archivist | 0.10% | ~14 |
@@ -31,15 +31,15 @@ Rating: 4.60 (Ranked 401)
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 | Impossible Objects | 0.10% | ~14 |
+| Keep Arjun in Check | 0.10% | ~0 |
+| Safe Cracker | 0.10% | ~0 |
+| Zen Master | 0.10% | ~0 |
+| Master Negotiator | 0.10% | ~0 |
+| Madame Undersecretary | 0.10% | ~0 |
 | Data Miner | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
-| Keep Arjun in Check | 0.00% | ~0 |
-| Safe Cracker | 0.00% | ~0 |
-| Zen Master | 0.00% | ~0 |
-| Master Negotiator | 0.00% | ~0 |
-| Madame Undersecretary | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,342 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 235)  

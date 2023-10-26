@@ -19,7 +19,7 @@
 | Turian Ally | 57.00% | ~462 |
 | Charismatic | 57.00% | ~462 |
 | Soldier | 56.00% | ~454 |
-| Asari Ally | 52.00% | ~421 |
+| Asari Ally | 53.00% | ~429 |
 | Principled | 52.00% | ~421 |
 | Medal of Exploration III | 51.00% | ~413 |
 | Soldier Ally | 50.00% | ~405 |
@@ -29,8 +29,8 @@
 | Merciless | 47.00% | ~381 |
 | Krogan Ally | 45.00% | ~364 |
 | Missing in Action | 45.00% | ~364 |
+| Very Elusive | 45.00% | ~364 |
 | Head Hunter | 45.00% | ~364 |
-| Very Elusive | 44.00% | ~356 |
 | Scholar | 44.00% | ~356 |
 | Sentinel Ally | 43.00% | ~348 |
 | Operative | 43.00% | ~348 |
@@ -64,11 +64,11 @@
 | Driven | 31.00% | ~251 |
 | Focused | 30.00% | ~243 |
 | Cat's in the Cradle | 30.00% | ~243 |
+| Doppelganger | 30.00% | ~243 |
 | Treason | 30.00% | ~243 |
 | Digital Exorcist | 30.00% | ~243 |
 | Bringer of War | 30.00% | ~243 |
 | Friend or Foe | 29.00% | ~235 |
-| Doppelganger | 29.00% | ~235 |
 | Mobilizer | 29.00% | ~235 |
 | First Aid Specialist | 28.00% | ~227 |
 | Mission Accomplished | 28.00% | ~227 |

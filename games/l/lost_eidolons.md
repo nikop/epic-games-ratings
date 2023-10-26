@@ -16,7 +16,7 @@ Rating: 4.34 (Ranked 788)
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~202 |
 | Digging Deep | 14.00% | ~157 |
 | House Vulisica's Heirloom | 14.00% | ~157 |
-| Broken Oath | 8.00% | ~90 |
+| Broken Oath | 9.00% | ~101 |
 | Way of the King | 7.00% | ~79 |
 | Way of the Warlord | 4.00% | ~45 |
 | Til We Meet Again | 4.00% | ~45 |

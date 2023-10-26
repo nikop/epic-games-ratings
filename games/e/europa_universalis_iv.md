@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,587 |
-| Until death do us apart | 4.00% | ~17,587 |
-| Victorious! | 4.00% | ~17,587 |
-| That is mine! | 3.00% | ~13,191 |
+| That's a Grand Army | 4.00% | ~17,589 |
+| Until death do us apart | 4.00% | ~17,589 |
+| Victorious! | 4.00% | ~17,589 |
+| That is mine! | 3.00% | ~13,192 |
 | Brothers in Arms | 2.00% | ~8,794 |
 | Cold War | 2.00% | ~8,794 |
 | For the Glory | 2.00% | ~8,794 |
@@ -23,15 +23,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,397 |
 | Truly Divine Ruler | 1.00% | ~4,397 |
 | Blockader | 0.90% | ~3,957 |
-| Double the Love | 0.80% | ~3,517 |
-| Royal Authority | 0.80% | ~3,517 |
-| Total Control | 0.80% | ~3,517 |
+| Double the Love | 0.80% | ~3,518 |
+| Royal Authority | 0.80% | ~3,518 |
+| Total Control | 0.80% | ~3,518 |
 | My armies are invincible! | 0.70% | ~3,078 |
 | Agressive Expander | 0.60% | ~2,638 |
-| Azur semé de lis or | 0.50% | ~2,198 |
-| City of Cities | 0.50% | ~2,198 |
-| Combined Arms | 0.50% | ~2,198 |
-| This navy can take it all | 0.50% | ~2,198 |
+| Azur semé de lis or | 0.50% | ~2,199 |
+| City of Cities | 0.50% | ~2,199 |
+| Combined Arms | 0.50% | ~2,199 |
+| This navy can take it all | 0.50% | ~2,199 |
 | Bright Spark | 0.40% | ~1,759 |
 | The Emperors new clothes | 0.40% | ~1,759 |
 | Factionalism | 0.40% | ~1,759 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439,685 (Ranked 41)  
+Progressed: 439,721 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,7 +550,7 @@ Completed: 1 (0.00%) (Ranked 327)
 | 2023-10-23 | 438,161 | 1 |
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
-| 2023-10-26 | 439,685 | 1 |
+| 2023-10-26 | 439,721 | 1 |
 ## Awards
 Max (Educational): 6,687  (Ranked 56)  
 Sum: 54,915 (Ranked 24)  

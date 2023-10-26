@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 85.00% | ~11 |
-| Spirit Within | 23.00% | ~3 |
-| A Small Thirsty Thing | 15.00% | ~2 |
-| Dousing a Venerable Flame | 15.00% | ~2 |
-| Leisis Bless You | 15.00% | ~2 |
-| Smotherly Love | 8.00% | ~1 |
-| Let Me Solo Them | 8.00% | ~1 |
-| The River Styx | 8.00% | ~1 |
-| The Guardian of Fire | 8.00% | ~1 |
-| Sovereignty of Irons | 8.00% | ~1 |
-| Advanced Armaments | 8.00% | ~1 |
-| Transformative Nature | 8.00% | ~1 |
-| Champion of Starspire | 8.00% | ~1 |
+| Setting Sail | 79.00% | ~11 |
+| Spirit Within | 21.00% | ~3 |
+| A Small Thirsty Thing | 14.00% | ~2 |
+| Dousing a Venerable Flame | 14.00% | ~2 |
+| Leisis Bless You | 14.00% | ~2 |
+| Advanced Armaments | 14.00% | ~2 |
+| Smotherly Love | 7.00% | ~1 |
+| Let Me Solo Them | 7.00% | ~1 |
+| The River Styx | 7.00% | ~1 |
+| The Guardian of Fire | 7.00% | ~1 |
+| Sovereignty of Irons | 7.00% | ~1 |
+| Transformative Nature | 7.00% | ~1 |
+| Champion of Starspire | 7.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Overboard | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 532)  
+Progressed: 14 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-20 | 9 | 0 |
 | 2023-10-21 | 11 | 0 |
 | 2023-10-24 | 12 | 0 |
-| 2023-10-26 | 13 | 0 |
+| 2023-10-26 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

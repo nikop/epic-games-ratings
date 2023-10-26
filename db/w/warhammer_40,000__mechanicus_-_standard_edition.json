@@ -804,9 +804,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225672,
+  "EOS_Progressed": 225676,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21464,6 +21464,11 @@
       "Time": "2023-10-26T14:11:09.2734034+00:00",
       "NumProgressed": 225672,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-26T15:10:34.3723867+00:00",
+      "NumProgressed": 225676,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21483,7 +21488,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58675
+      "UsersEstimate": 58676
     },
     {
       "ID": "ACH_BASE_11",
@@ -21515,7 +21520,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20310
+      "UsersEstimate": 20311
     },
     {
       "ID": "ACH_BASE_16",
@@ -21523,7 +21528,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22567
+      "UsersEstimate": 22568
     },
     {
       "ID": "ACH_BASE_17",
@@ -21531,7 +21536,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20310
+      "UsersEstimate": 20311
     },
     {
       "ID": "ACH_BASE_18",
@@ -21539,7 +21544,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20310
+      "UsersEstimate": 20311
     },
     {
       "ID": "ACH_BASE_19",
@@ -21547,7 +21552,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH_BASE_2",
@@ -21555,7 +21560,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13540
+      "UsersEstimate": 13541
     },
     {
       "ID": "ACH_BASE_20",
@@ -21571,7 +21576,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH_BASE_22",
@@ -21579,7 +21584,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH_BASE_23",
@@ -21707,7 +21712,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH_BASE_6",
@@ -21715,7 +21720,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "ACH_BASE_7",
@@ -21739,14 +21744,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20310
+      "UsersEstimate": 20311
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225672,
+      "Progressed": 225676,
       "Completed": 5
     }
   ],
@@ -21754,8 +21759,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-25T20:59:12.845387+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:11:09.2734031+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:10:34.3723864+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:01:02.6217342+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:11:09.2735748+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:00:20.6018709+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:10:34.3725517+00:00"
 }

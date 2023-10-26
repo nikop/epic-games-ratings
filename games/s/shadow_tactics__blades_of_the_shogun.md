@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,206 |
-| A thief's beginning | 10.00% | ~21,005 |
-| Thorough | 10.00% | ~21,005 |
+| Genin | 12.00% | ~25,207 |
+| A thief's beginning | 10.00% | ~21,006 |
+| Thorough | 10.00% | ~21,006 |
 | Disguised | 9.00% | ~18,905 |
 | Rollin' | 9.00% | ~18,905 |
 | Tanuki Time | 9.00% | ~18,905 |
-| Rescue Takuma | 8.00% | ~16,804 |
-| Stoned Ox | 8.00% | ~16,804 |
+| Rescue Takuma | 8.00% | ~16,805 |
+| Stoned Ox | 8.00% | ~16,805 |
 | Happy Planning | 7.00% | ~14,704 |
 | Ice Ice Yuki | 7.00% | ~14,704 |
 | Jonin | 7.00% | ~14,704 |
 | Yabu | 7.00% | ~14,704 |
-| Chunin | 6.00% | ~12,603 |
-| Flying Rocks | 6.00% | ~12,603 |
-| Mugen Unchained | 6.00% | ~12,603 |
-| Warzone | 6.00% | ~12,603 |
+| Chunin | 6.00% | ~12,604 |
+| Flying Rocks | 6.00% | ~12,604 |
+| Mugen Unchained | 6.00% | ~12,604 |
+| Warzone | 6.00% | ~12,604 |
 | Okkoto | 5.00% | ~10,503 |
 | Prisoners | 5.00% | ~10,503 |
 | Too Early | 5.00% | ~10,503 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,101 |
 | The End | 1.00% | ~2,101 |
 | Undeserved Honor | 1.00% | ~2,101 |
-| When Cut Across the Neck | 0.90% | ~1,890 |
+| When Cut Across the Neck | 0.90% | ~1,891 |
 | High Five the Moon | 0.80% | ~1,680 |
 | The Cave | 0.80% | ~1,680 |
 | Merciful | 0.50% | ~1,050 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~210 |
 | Release the Kraken | 0.10% | ~210 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,051 (Ranked 66)  
+Progressed: 210,059 (Ranked 66)  
 Completed: 92 (0.04%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 92 (0.04%) (Ranked 288)
 | 2023-10-23 | 209,618 | 92 |
 | 2023-10-24 | 209,785 | 92 |
 | 2023-10-25 | 209,955 | 92 |
-| 2023-10-26 | 210,051 | 92 |
+| 2023-10-26 | 210,059 | 92 |
 ## Awards
 Max (Great for Beginners): 568  (Ranked 197)  
 Sum: 4,808 (Ranked 139)  

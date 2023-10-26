@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.73,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -316,6 +316,11 @@
       "Time": "2023-10-25T15:04:54.3580954+00:00",
       "NumProgressed": 231,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-26T15:04:40.6385325+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -341,9 +346,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 109
     },
     {
       "ID": "hopeful",
@@ -383,7 +388,7 @@
       "Name": "No One Is Safe",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "off_his_meds",
@@ -391,7 +396,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "on_your_bike",
@@ -447,22 +452,22 @@
       "Name": "Use Your Connections",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 4
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:05:12.6235751+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:04:40.638532+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:59:56.2571406+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:05:12.6236167+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:59:29.0870756+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:04:40.6385496+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57499,
+  "EOS_Progressed": 57501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11446,6 +11446,11 @@
       "Time": "2023-10-26T14:07:40.7659851+00:00",
       "NumProgressed": 57499,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T15:07:19.0638129+00:00",
+      "NumProgressed": 57501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -11457,7 +11462,7 @@
       "Name": "Achievement Achiever",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "BackerVisitor",
@@ -11481,7 +11486,7 @@
       "Name": "Boom Box Wipeout",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CantBelieve",
@@ -11489,7 +11494,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "CantTouchThis",
@@ -11497,7 +11502,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ElfChaser",
@@ -11513,7 +11518,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FallFest",
@@ -11561,7 +11566,7 @@
       "Name": "Found All The Backers!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "FunklordPower",
@@ -11569,7 +11574,7 @@
       "Name": "FunkLord Power",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Generous",
@@ -11585,7 +11590,7 @@
       "Name": "Gotta Get \u0027Em All",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "GimmieMyPresentBack",
@@ -11593,7 +11598,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "HFZGoober",
@@ -11625,7 +11630,7 @@
       "Name": "Is This Really Possible?",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LevelDiver",
@@ -11649,7 +11654,7 @@
       "Name": "Lord Of The HFZ",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MadHatter",
@@ -11657,7 +11662,7 @@
       "Name": "Mad Hatter",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "MadeIt",
@@ -11673,7 +11678,7 @@
       "Name": "99 Problems (But A Buck Ain\u0027t One)",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NinePlayers",
@@ -11681,7 +11686,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "OldSchool",
@@ -11697,7 +11702,7 @@
       "Name": "Pacifist Victory",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PieceOfCake",
@@ -11705,7 +11710,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Randomizer",
@@ -11721,7 +11726,7 @@
       "Name": "Rhythm Star",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "RiskTaker",
@@ -11745,7 +11750,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "SecretLevel",
@@ -11761,7 +11766,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Sunflower",
@@ -11777,7 +11782,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -11785,7 +11790,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ThrillSeeker",
@@ -11833,7 +11838,7 @@
       "Name": "Why Do I Keep Doing That?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "YouDidIt",
@@ -11841,14 +11846,14 @@
       "Name": "Hey, You Did It!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57499,
+      "Progressed": 57501,
       "Completed": 6
     }
   ],
@@ -11856,8 +11861,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:07:40.7659845+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:07:19.0638124+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:04.322049+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:02:54.1782655+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:07:40.7661066+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:02:02.1708149+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:07:19.0639273+00:00"
 }

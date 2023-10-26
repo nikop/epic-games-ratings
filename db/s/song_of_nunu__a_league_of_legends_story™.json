@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EV_ACH05",
@@ -248,9 +248,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EV_ACH16",
@@ -288,9 +288,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EV_ACH21",
@@ -408,9 +408,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EV_ACH36",
@@ -494,8 +494,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:11:06.7147888+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:10:31.9496464+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:03:03.0377045+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:11:06.7148372+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:02:06.7747359+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:10:31.949682+00:00"
 }

@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1934,
+  "EOS_Progressed": 1936,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2434,6 +2434,11 @@
       "Time": "2023-10-26T12:05:35.3342551+00:00",
       "NumProgressed": 1934,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T15:05:16.8105523+00:00",
+      "NumProgressed": 1936,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2453,7 +2458,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2477,7 +2482,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2509,7 +2514,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2533,7 +2538,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2565,7 +2570,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2597,7 +2602,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2685,7 +2690,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_PERKY",
@@ -2693,7 +2698,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2741,7 +2746,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2755,9 +2760,9 @@
       "ID": "ACH_THATS_ALL_FOLKS",
       "SetID": "8j30i9k",
       "Name": "That\u2019s All, Folks",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2789,7 +2794,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -2821,7 +2826,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1704
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2829,7 +2834,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2853,7 +2858,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -2861,22 +2866,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1934,
+      "Progressed": 1936,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:05:48.7233998+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:05:16.8105517+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:58:11.1882503+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:05:48.7234587+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:58:09.9239491+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:05:16.810626+00:00"
 }

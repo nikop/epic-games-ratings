@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
 | Scrapbooker | 0.80% | ~1,105 |
+| Expansion in Session | 0.80% | ~1,105 |
 | Trash to Treasure | 0.80% | ~1,105 |
 | Seasoned Journeyman | 0.80% | ~1,105 |
 | Special Ingredient | 0.80% | ~1,105 |
@@ -63,7 +64,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.70% | ~967 |
 | Hidden Potential | 0.70% | ~967 |
 | Supercharged | 0.70% | ~967 |
-| Expansion in Session | 0.70% | ~967 |
 | Cranked up to 11 | 0.70% | ~967 |
 | Fit for a King | 0.70% | ~967 |
 | Mammonite | 0.70% | ~967 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,161 (Ranked 75)  
+Progressed: 138,164 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 250)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,161 | 172 |
+| 2023-10-26 | 138,164 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,447 (Ranked 51)  

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 810,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2540,9 +2540,9 @@
       "ID": "achievement_29",
       "SetID": "b9pe172",
       "Name": "Asari Ally",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_3",
@@ -2612,9 +2612,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_38",
@@ -2772,9 +2772,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_56",
@@ -3176,8 +3176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:06:38.5474699+00:00",
+  "LastChanged_Achievements": "2023-10-26T15:06:07.0857355+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T13:59:13.229267+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:06:38.547699+00:00"
+  "LastUpdate_Ratings": "2023-10-26T14:58:52.2678657+00:00",
+  "LastUpdate_Achievements": "2023-10-26T15:06:07.0860606+00:00"
 }
