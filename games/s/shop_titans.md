@@ -72,6 +72,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.70% | ~967 |
 | Laden with Loot | 0.70% | ~967 |
 | Scourge of the Seas | 0.70% | ~967 |
+| Attrition Mission | 0.70% | ~967 |
 | Black Friday Special | 0.70% | ~967 |
 | King's Blade | 0.70% | ~967 |
 | Cream of the Crop | 0.60% | ~829 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.60% | ~829 |
 | Bountiful Harvest | 0.60% | ~829 |
 | Precision Engineering | 0.60% | ~829 |
-| Attrition Mission | 0.60% | ~829 |
 | Glittering Collection | 0.60% | ~829 |
 | Treasure Trove | 0.60% | ~829 |
 | Moment of Respite | 0.60% | ~829 |

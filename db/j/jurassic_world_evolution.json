@@ -4,7 +4,7 @@
   "ProductSlug": "jurassic-world-evolution",
   "Ranking_Rating": 356,
   "Ranking_Popularity": 192,
-  "Ranking_PopularitySum": 134,
+  "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 408,
@@ -4547,10 +4547,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 5177,
       "NumberOfAwardsMax": 591
+    },
+    {
+      "Time": "2023-10-25T23:58:01.2033389+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5179,
+      "NumberOfAwardsMax": 591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5177,
+  "NumberOfAwards": 5179,
   "NumberOfAwardsMax": 591,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4588,7 +4594,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 511
+      "Count": 513
     },
     {
       "Text": "This game is Educational",
@@ -4632,8 +4638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
-  "LastChanged": "2023-10-25T18:58:02.6962577+00:00",
+  "LastChanged": "2023-10-25T23:58:01.2033388+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:03.7312495+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:57:54.0691842+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:05:03.1197678+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:58:01.2033394+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:05:07.1880649+00:00"
 }

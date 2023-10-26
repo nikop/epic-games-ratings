@@ -2941,9 +2941,9 @@
       "Count": 246
     }
   ],
-  "EOS_Progressed": 80267,
+  "EOS_Progressed": 80268,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -23831,6 +23831,11 @@
       "Time": "2023-10-25T23:05:27.3480616+00:00",
       "NumProgressed": 80267,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-10-26T00:05:31.596704+00:00",
+      "NumProgressed": 80268,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 30,
@@ -23866,7 +23871,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18461
+      "UsersEstimate": 18462
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -23890,7 +23895,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11237
+      "UsersEstimate": 11238
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -23938,7 +23943,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25685
+      "UsersEstimate": 25686
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -23978,7 +23983,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20869
+      "UsersEstimate": 20870
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -24081,15 +24086,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80267,
+      "Progressed": 80268,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-25T21:59:32.226501+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:05:27.3480608+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:05:31.5967029+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.8498885+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:58:39.2631066+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:05:27.3482081+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:58:52.101844+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:05:31.5968893+00:00"
 }

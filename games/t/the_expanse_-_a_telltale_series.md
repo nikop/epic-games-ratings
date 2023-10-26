@@ -9,17 +9,19 @@ Rating: 4.60 (Ranked 401)
 | Oyedang, Kopengs | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
 | Drug Gifter | 0.10% | ~14 |
+| Spore Taste | 0.10% | ~14 |
+| Bottoms up! | 0.10% | ~14 |
+| Martian Music | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Heal Thy Medic | 0.10% | ~14 |
 | Captain Drummer | 0.10% | ~14 |
+| Data Master | 0.10% | ~14 |
+| Celebrations are in Order | 0.10% | ~14 |
 | Impossible Objects | 0.10% | ~14 |
 | Data Miner | 0.00% | ~0 |
 | The Pit and the Pirates | 0.00% | ~0 |
 | Data Archivist | 0.00% | ~0 |
 | Stogie for Fogey | 0.00% | ~0 |
-| Spore Taste | 0.00% | ~0 |
-| Bottoms up! | 0.00% | ~0 |
-| Martian Music | 0.00% | ~0 |
 | Thorston Mayer | 0.00% | ~0 |
 | Drone Dodger | 0.00% | ~0 |
 | Brother's Reaper | 0.00% | ~0 |
@@ -31,8 +33,6 @@ Rating: 4.60 (Ranked 401)
 | Data Collector | 0.00% | ~0 |
 | No Belter Left Behind | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
-| Data Master | 0.00% | ~0 |
-| Celebrations are in Order | 0.00% | ~0 |
 | Grave Robber | 0.00% | ~0 |
 | Data Recoverer | 0.00% | ~0 |
 | Keep Arjun in Check | 0.00% | ~0 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 401)
 | Master Negotiator | 0.00% | ~0 |
 | Madame Undersecretary | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,330 (Ranked 141)  
+Progressed: 14,334 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 27 (0.19%) (Ranked 234)
 | 2023-10-23 | 14,276 | 27 |
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
+| 2023-10-26 | 14,334 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

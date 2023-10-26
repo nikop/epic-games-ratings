@@ -764,7 +764,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4453,
+  "EOS_Progressed": 4454,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -8124,6 +8124,11 @@
       "Time": "2023-10-25T19:09:42.0769062+00:00",
       "NumProgressed": 4453,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-26T00:09:31.8794825+00:00",
+      "NumProgressed": 4454,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8176,7 +8181,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8270,9 +8275,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1024
+      "UsersEstimate": 980
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8319,15 +8324,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4453,
+      "Progressed": 4454,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:09:46.0322216+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:09:31.8794816+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:57:28.9530335+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:09:46.032282+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:57:32.1894734+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:09:31.8795461+00:00"
 }

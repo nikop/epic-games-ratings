@@ -89,12 +89,12 @@
 | Lost and Found | 23.00% | ~185 |
 | Party Crasher | 21.00% | ~169 |
 | Pyromaniac | 20.00% | ~161 |
+| Under Pressure | 20.00% | ~161 |
 | No One Left Behind | 20.00% | ~161 |
 | Hard Target | 20.00% | ~161 |
 | Saboteur | 20.00% | ~161 |
 | Fact Finder | 20.00% | ~161 |
 | Problem Solver | 20.00% | ~161 |
-| Under Pressure | 19.00% | ~153 |
 | Last Resort | 19.00% | ~153 |
 | Last Witness | 19.00% | ~153 |
 | Well Connected | 19.00% | ~153 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3137,9 +3137,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17069,
+  "EOS_Progressed": 17070,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12572,6 +12572,11 @@
       "Time": "2023-10-25T23:06:32.0765898+00:00",
       "NumProgressed": 17069,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-26T00:06:38.1139129+00:00",
+      "NumProgressed": 17070,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12743,7 +12748,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "WinNearFishmen",
@@ -12799,7 +12804,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "WinNearRuins",
@@ -12895,7 +12900,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "WinWIthCaches",
@@ -12982,15 +12987,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17069,
+      "Progressed": 17070,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-25T10:58:51.6036491+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:06:32.076589+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:06:38.113912+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:58:55.3041671+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:06:32.0766899+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:59:08.9356478+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:06:38.1140174+00:00"
 }

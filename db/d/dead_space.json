@@ -677,9 +677,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1215,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -3732,6 +3732,11 @@
       "Time": "2023-10-25T20:06:47.484457+00:00",
       "NumProgressed": 1215,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T00:06:50.8976147+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3744,7 +3749,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "achievement_10",
@@ -3774,9 +3779,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 304
     },
     {
       "ID": "achievement_14",
@@ -3784,7 +3789,7 @@
       "Name": "Whole Again",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_15",
@@ -3792,7 +3797,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achievement_16",
@@ -3832,7 +3837,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "achievement_20",
@@ -3848,7 +3853,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_22",
@@ -3864,7 +3869,7 @@
       "Name": "Pusher",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_24",
@@ -3918,9 +3923,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_30",
@@ -3936,7 +3941,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "achievement_32",
@@ -3960,7 +3965,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_35",
@@ -4000,7 +4005,7 @@
       "Name": "Z-Baller",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "achievement_4",
@@ -4008,7 +4013,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_40",
@@ -4032,7 +4037,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_43",
@@ -4064,7 +4069,7 @@
       "Name": "Marked",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_47",
@@ -4104,7 +4109,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_9",
@@ -4112,14 +4117,14 @@
       "Name": "Wreckage",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1215,
+      "Progressed": 1216,
       "Completed": 7
     }
   ],
@@ -4127,8 +4132,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-24T11:59:43.9423554+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:06:45.1996535+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:06:50.8976139+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:59:43.6161585+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:06:45.1997144+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:59:56.6889334+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:06:50.8976866+00:00"
 }

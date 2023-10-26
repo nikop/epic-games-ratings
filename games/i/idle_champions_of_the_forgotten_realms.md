@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~597 |
 | Spelljammers in Training | 0.30% | ~597 |
 | Were-verpowered | 0.20% | ~466 |
+| A Persistent Buzzing | 0.20% | ~466 |
 | The Ring of Regeneration | 0.20% | ~466 |
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
@@ -156,7 +157,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~233 |
 | Wagon Train | 0.10% | ~233 |
 | The Lost Heir of Omu | 0.10% | ~233 |
-| A Persistent Buzzing | 0.10% | ~233 |
 | Not Very Charming | 0.10% | ~233 |
 | Lobsterfolk Assault | 0.10% | ~233 |
 | Taking Responsibility | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,814 (Ranked 61)  
+Progressed: 232,817 (Ranked 61)  
 Completed: 2,387 (1.03%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -724,6 +724,7 @@ Completed: 2,387 (1.03%) (Ranked 148)
 | 2023-10-23 | 232,670 | 2,380 |
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
+| 2023-10-26 | 232,817 | 2,387 |
 ## Awards
 Max (Great for Beginners): 5,444  (Ranked 69)  
 Sum: 32,204 (Ranked 41)  

@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14330,
+  "EOS_Progressed": 14334,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9592,6 +9592,11 @@
       "Time": "2023-10-25T22:08:55.7800331+00:00",
       "NumProgressed": 14330,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-26T00:06:56.531865+00:00",
+      "NumProgressed": 14334,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9666,25 +9671,25 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "2",
@@ -9802,17 +9807,17 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "7",
@@ -9883,13 +9888,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14330,
+      "Progressed": 14334,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 284,
+      "Progressed": 288,
       "Completed": 284
     }
   ],
@@ -9897,8 +9902,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:06:50.7481059+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:06:56.5318641+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:00:46.7553748+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:06:50.7481877+00:00"
+  "LastUpdate_Ratings": "2023-10-26T00:01:06.9680776+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:06:56.5319528+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -574,17 +574,17 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_15",
@@ -758,9 +758,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_46",
@@ -927,8 +927,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:05:43.156085+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:05:47.8791314+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.8442361+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:01:00.1537078+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:05:43.156132+00:00"
+  "LastUpdate_Ratings": "2023-10-26T00:01:21.0189291+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:05:47.8791874+00:00"
 }

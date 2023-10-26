@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 7168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5262,9 +5262,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5233
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5551,8 +5551,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:09:24.3989505+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:09:09.8841629+00:00",
   "LastUpdate_AppInfo": "2023-10-20T06:57:04.6097237+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:58:01.1076215+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:09:24.3990073+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:58:12.6804705+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:09:09.8842221+00:00"
 }

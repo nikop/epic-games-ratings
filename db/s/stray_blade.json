@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -489,6 +489,11 @@
       "Time": "2023-10-25T20:09:56.5445403+00:00",
       "NumProgressed": 99,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T00:09:36.9654999+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -538,7 +543,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 66
     },
@@ -578,7 +583,7 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 84
     },
@@ -867,22 +872,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 97,
-      "Completed": 97
+      "Progressed": 98,
+      "Completed": 98
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:09:52.0137628+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:09:36.965499+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.8254779+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:59:47.167547+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:09:52.0138009+00:00"
+  "LastUpdate_Ratings": "2023-10-26T00:00:00.1261809+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:09:36.9655984+00:00"
 }

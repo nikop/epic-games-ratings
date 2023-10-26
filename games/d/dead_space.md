@@ -5,16 +5,16 @@ Rating: 4.62 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~1,154 |
-| Welcome Aboard | 86.00% | ~1,045 |
-| Lab Rat | 75.00% | ~911 |
-| All Systems Go | 67.00% | ~814 |
-| Brute Force | 66.00% | ~802 |
-| Cannon Fodder | 61.00% | ~741 |
+| Marksman | 95.00% | ~1,155 |
+| Welcome Aboard | 86.00% | ~1,046 |
+| Lab Rat | 75.00% | ~912 |
+| All Systems Go | 66.00% | ~803 |
+| Brute Force | 66.00% | ~803 |
+| Cannon Fodder | 61.00% | ~742 |
 | Autofire | 59.00% | ~717 |
 | Story Teller | 57.00% | ~693 |
 | True Believer | 57.00% | ~693 |
-| Raise the Stakes | 56.00% | ~680 |
+| Raise the Stakes | 56.00% | ~681 |
 | Surgeon | 53.00% | ~644 |
 | Exterminator | 53.00% | ~644 |
 | Greenhouse Effect | 53.00% | ~644 |
@@ -22,9 +22,9 @@ Rating: 4.62 (Ranked 356)
 | Full Arsenal | 46.00% | ~559 |
 | S.O.S. | 46.00% | ~559 |
 | Get Off My Ship! | 44.00% | ~535 |
-| Strange Transmissions | 43.00% | ~522 |
-| Live with the Hot Ones | 42.00% | ~510 |
-| Wreckage | 42.00% | ~510 |
+| Strange Transmissions | 43.00% | ~523 |
+| Live with the Hot Ones | 42.00% | ~511 |
+| Wreckage | 42.00% | ~511 |
 | Keeper of the Faith | 40.00% | ~486 |
 | Betrayed | 38.00% | ~462 |
 | Legend Teller | 38.00% | ~462 |
@@ -33,15 +33,15 @@ Rating: 4.62 (Ranked 356)
 | Mindless Prey | 37.00% | ~450 |
 | Front Toward Enemy | 34.00% | ~413 |
 | A Cut Above | 33.00% | ~401 |
-| Whole Again | 29.00% | ~352 |
-| Set A Benchmark | 29.00% | ~352 |
+| Whole Again | 29.00% | ~353 |
+| Set A Benchmark | 29.00% | ~353 |
 | Pack Rat | 27.00% | ~328 |
-| Final Regeneration | 26.00% | ~316 |
 | Full Contact | 26.00% | ~316 |
+| Final Regeneration | 25.00% | ~304 |
 | Full Clearance | 24.00% | ~292 |
-| Pusher | 23.00% | ~279 |
-| Z-Baller | 23.00% | ~279 |
-| Marked | 22.00% | ~267 |
+| Pusher | 23.00% | ~280 |
+| Z-Baller | 23.00% | ~280 |
+| Marked | 22.00% | ~268 |
 | Eviscerator | 19.00% | ~231 |
 | Backbreaker | 13.00% | ~158 |
 | Wishbone | 8.00% | ~97 |
@@ -53,7 +53,7 @@ Rating: 4.62 (Ranked 356)
 | Untouchable | 2.00% | ~24 |
 | One Gun | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,215 (Ranked 233)  
+Progressed: 1,216 (Ranked 233)  
 Completed: 7 (0.58%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 7 (0.58%) (Ranked 174)
 | 2023-10-23 | 1,178 | 6 |
 | 2023-10-24 | 1,195 | 7 |
 | 2023-10-25 | 1,215 | 7 |
+| 2023-10-26 | 1,216 | 7 |
 ## Awards
 Max (Great Boss Battles): 107  (Ranked 340)  
 Sum: 107 (Ranked 432)  

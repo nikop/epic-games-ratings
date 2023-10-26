@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7603,9 +7603,9 @@
       "Count": 3484
     }
   ],
-  "EOS_Progressed": 232814,
+  "EOS_Progressed": 232817,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28633,6 +28633,11 @@
       "Time": "2023-10-25T23:04:11.1295421+00:00",
       "NumProgressed": 232814,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-10-26T00:04:14.156071+00:00",
+      "NumProgressed": 232817,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 528,
@@ -29618,9 +29623,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_130",
@@ -32867,21 +32872,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199088,
+      "Progressed": 199091,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232814,
+      "Progressed": 232817,
       "Completed": 2387
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-25T23:00:36.0484726+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:04:11.1295415+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:04:14.1560703+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-25T23:00:36.0484736+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:04:11.132453+00:00"
+  "LastUpdate_Ratings": "2023-10-26T00:00:53.7200261+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:04:14.1594348+00:00"
 }

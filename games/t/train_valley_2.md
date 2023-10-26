@@ -6,22 +6,22 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~299,225 |
-| Full garage | 60.00% | ~245,938 |
-| To the eyeballs! | 51.00% | ~209,047 |
-| Individual delivery | 46.00% | ~188,553 |
-| Non-Stop | 44.00% | ~180,355 |
-| Juggler | 36.00% | ~147,563 |
-| Forgot something | 35.00% | ~143,464 |
-| Close call! | 30.00% | ~122,969 |
-| Get out my way | 28.00% | ~114,771 |
-| Common cause | 26.00% | ~106,573 |
-| Critical care | 26.00% | ~106,573 |
-| Mega-railroad | 23.00% | ~94,276 |
-| Upgrade complete | 23.00% | ~94,276 |
-| Just in time! | 18.00% | ~73,781 |
-| Builder | 17.00% | ~69,682 |
-| Long Haul | 17.00% | ~69,570 |
+| Dealmaker | 73.00% | ~299,228 |
+| Full garage | 60.00% | ~245,941 |
+| To the eyeballs! | 51.00% | ~209,050 |
+| Individual delivery | 46.00% | ~188,554 |
+| Non-Stop | 44.00% | ~180,356 |
+| Juggler | 36.00% | ~147,564 |
+| Forgot something | 35.00% | ~143,465 |
+| Close call! | 30.00% | ~122,970 |
+| Get out my way | 28.00% | ~114,772 |
+| Common cause | 26.00% | ~106,574 |
+| Critical care | 26.00% | ~106,574 |
+| Mega-railroad | 23.00% | ~94,277 |
+| Upgrade complete | 23.00% | ~94,277 |
+| Just in time! | 18.00% | ~73,782 |
+| Builder | 17.00% | ~69,683 |
+| Long Haul | 17.00% | ~69,571 |
 | Steam Age | 16.00% | ~65,584 |
 | Multilevel road | 15.00% | ~61,485 |
 | Bridgemania | 14.00% | ~57,386 |
@@ -32,7 +32,7 @@ Number of Ratings: 87  (23.09.2022)
 | One way | 10.00% | ~40,990 |
 | Relocation | 10.00% | ~40,990 |
 | Industrial Age | 9.00% | ~36,891 |
-| Just One More Valley | 9.00% | ~36,831 |
+| Just One More Valley | 9.00% | ~36,832 |
 | Prick of conscience | 8.00% | ~32,792 |
 | Missed it! | 7.00% | ~28,693 |
 | At the last moment! | 6.00% | ~24,594 |
@@ -64,7 +64,7 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 0.90% | ~3,689 |
 | BBQ | 0.70% | ~2,869 |
 | Miscalculation | 0.70% | ~2,869 |
-| Voyager | 0.50% | ~2,049 |
+| Voyager | 0.50% | ~2,050 |
 | It's no coincidence | 0.40% | ~1,640 |
 | Railroad tycoon | 0.40% | ~1,640 |
 | The Hare with an espresso | 0.30% | ~1,230 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~409 |
 | World Zapper | 0.10% | ~409 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 409,897 (Ranked 43)  
+Progressed: 409,901 (Ranked 43)  
 Completed: 19 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 19 (0.00%) (Ranked 326)
 | 2023-10-23 | 409,326 | 19 |
 | 2023-10-24 | 409,614 | 19 |
 | 2023-10-25 | 409,897 | 19 |
+| 2023-10-26 | 409,901 | 19 |
 ## Awards
 Max (Challenging Puzzles): 805  (Ranked 167)  
 Sum: 1,631 (Ranked 217)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6699,7 +6699,7 @@
   ],
   "EOS_Progressed": 138132,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26711,9 +26711,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 967
     },
     {
       "ID": "quest03",
@@ -26895,8 +26895,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-25T21:58:12.2379984+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:04:18.6336952+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:04:21.3932027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:57:47.8496533+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:04:18.6339991+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:57:56.1115444+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:04:21.3935905+00:00"
 }

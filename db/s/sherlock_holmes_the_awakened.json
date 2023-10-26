@@ -2963,9 +2963,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 310
+      "UsersEstimate": 317
     },
     {
       "ID": "MQ08_3",
@@ -2996,8 +2996,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-29T08:03:08.864479+00:00",
-  "LastChanged_Achievements": "2023-10-25T23:05:39.2921019+00:00",
+  "LastChanged_Achievements": "2023-10-26T00:05:43.9124142+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-25T22:59:34.3509003+00:00",
-  "LastUpdate_Achievements": "2023-10-25T23:05:39.2921368+00:00"
+  "LastUpdate_Ratings": "2023-10-25T23:59:48.4469672+00:00",
+  "LastUpdate_Achievements": "2023-10-26T00:05:43.9124576+00:00"
 }

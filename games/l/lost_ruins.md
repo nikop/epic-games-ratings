@@ -13,7 +13,7 @@
 | Trap Master | 20.00% | ~93 |
 | Ghost Buster | 16.00% | ~74 |
 | Reincarnation | 16.00% | ~74 |
-| Iconoclasm | 15.00% | ~69 |
+| Iconoclasm | 15.00% | ~70 |
 | Librarian | 14.00% | ~65 |
 | Gladiator | 13.00% | ~60 |
 | Lumberjack | 13.00% | ~60 |
@@ -45,7 +45,7 @@
 | Necromancer | 0.40% | ~2 |
 | Hardboiled | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463 (Ranked 290)  
+Progressed: 464 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-22 | 456 | 0 |
 | 2023-10-24 | 460 | 0 |
 | 2023-10-25 | 463 | 0 |
+| 2023-10-26 | 464 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
