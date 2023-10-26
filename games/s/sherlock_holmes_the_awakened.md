@@ -11,16 +11,16 @@ Rating: 4.64 (Ranked 324)
 | Whispers In The Dark | 56.00% | ~416 |
 | Fond Memories | 54.00% | ~401 |
 | A Method To His Madness | 52.00% | ~386 |
-| History Check | 51.00% | ~378 |
-| The New World | 48.00% | ~356 |
+| History Check | 51.00% | ~379 |
+| The New World | 48.00% | ~357 |
 | Lock, Stock, And Barrel | 47.00% | ~349 |
 | Gaze Into The Abyss | 47.00% | ~349 |
 | Open Sesame | 47.00% | ~349 |
 | Sticky Fingers | 47.00% | ~349 |
 | Knives Out | 47.00% | ~349 |
-| Back In The Saddle | 46.00% | ~341 |
-| Land, Ho! | 46.00% | ~341 |
-| No Man Is An Island | 46.00% | ~341 |
+| Land, Ho! | 47.00% | ~349 |
+| No Man Is An Island | 46.00% | ~342 |
+| Back In The Saddle | 45.00% | ~334 |
 | At Wits' End | 45.00% | ~334 |
 | Bookworm | 43.00% | ~319 |
 | Fhtagn! | 43.00% | ~319 |
@@ -31,10 +31,10 @@ Rating: 4.64 (Ranked 324)
 | No Stone Unturned | 35.00% | ~260 |
 | Read It And Weep | 22.00% | ~163 |
 | Curiosity Killed The Cat | 19.00% | ~141 |
-| Big Breakthrough | 13.00% | ~96 |
+| Big Breakthrough | 13.00% | ~97 |
 | Reawakened | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 742 (Ranked 263)  
+Progressed: 743 (Ranked 263)  
 Completed: 26 (3.50%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 26 (3.50%) (Ranked 85)
 | 2023-10-23 | 721 | 26 |
 | 2023-10-24 | 732 | 26 |
 | 2023-10-25 | 738 | 26 |
-| 2023-10-26 | 742 | 26 |
+| 2023-10-26 | 743 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3565,7 +3565,7 @@
   ],
   "EOS_Progressed": 135399,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25069,9 +25069,9 @@
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
       "SetID": "312pgde",
       "Name": "I\u0027ve Seen It All",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 23018
+      "UsersEstimate": 24372
     },
     {
       "ID": "TANNENBERG_ACH_KESSELSCHLACHT",
@@ -25381,8 +25381,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-10-26T05:59:19.3478334+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:04:07.6562808+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:03:41.2525662+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:00.038044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:59:32.9974852+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:04:07.6565081+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:59:01.7338915+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:03:41.2527723+00:00"
 }

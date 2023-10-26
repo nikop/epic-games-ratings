@@ -37,9 +37,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Kesselschlacht | 22.00% | ~29,788 |
 | Democracy Works! | 20.00% | ~27,080 |
 | Switch, Please! | 19.00% | ~25,726 |
+| I've Seen It All | 18.00% | ~24,372 |
 | Tourist | 18.00% | ~24,372 |
 | At Least This Way I Can Win... | 17.00% | ~23,018 |
-| I've Seen It All | 17.00% | ~23,018 |
 | Oops! | 17.00% | ~23,018 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~21,664 |
 | Butcher | 12.00% | ~16,248 |

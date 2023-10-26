@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~389 |
-| Scavenger | 74.00% | ~306 |
-| Line of Duty | 72.00% | ~298 |
+| Clean Sweep | 94.00% | ~390 |
+| Scavenger | 74.00% | ~307 |
+| Line of Duty | 72.00% | ~299 |
 | Gunner | 56.00% | ~232 |
-| DocKing | 46.00% | ~190 |
-| What-A-Shot | 44.00% | ~182 |
-| Batteries Included | 39.00% | ~161 |
+| DocKing | 46.00% | ~191 |
+| What-A-Shot | 44.00% | ~183 |
+| Batteries Included | 39.00% | ~162 |
 | Death from Above | 35.00% | ~145 |
 | Hull King | 27.00% | ~112 |
 | Boss Down | 20.00% | ~83 |
 | Extra Ammo | 20.00% | ~83 |
 | Splash Damage | 20.00% | ~83 |
-| Hazardous Duty | 17.00% | ~70 |
+| Hazardous Duty | 17.00% | ~71 |
 | Perky | 15.00% | ~62 |
 | Perk King | 11.00% | ~46 |
 | Salvage | 11.00% | ~46 |
 | Shocking | 11.00% | ~46 |
-| Sixty Seconds | 10.00% | ~41 |
+| Sixty Seconds | 10.00% | ~42 |
 | Perfect Timing | 9.00% | ~37 |
 | Killer Elite | 6.00% | ~25 |
 | OP | 5.00% | ~21 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 305)  
+Progressed: 415 (Ranked 305)  
 Completed: 1 (0.24%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.24%) (Ranked 224)
 | 2023-10-20 | 411 | 1 |
 | 2023-10-22 | 413 | 1 |
 | 2023-10-25 | 414 | 1 |
+| 2023-10-26 | 415 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

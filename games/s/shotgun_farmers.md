@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 80.00% | ~256 |
-| First Blood | 62.00% | ~198 |
-| Triple Kill | 61.00% | ~195 |
-| Aspairagus | 60.00% | ~162 |
-| No Asperascope | 57.00% | ~182 |
-| Survivor | 56.00% | ~151 |
+| Seeds of War | 80.00% | ~257 |
+| First Blood | 62.00% | ~199 |
+| Triple Kill | 61.00% | ~196 |
+| Aspairagus | 60.00% | ~163 |
+| No Asperascope | 57.00% | ~183 |
+| Survivor | 55.00% | ~149 |
 | Cornivore | 53.00% | ~170 |
 | I Believe I Can Fly | 49.00% | ~157 |
 | No Diggity | 44.00% | ~119 |
-| Early Survivor | 39.00% | ~105 |
-| Bouncemato | 32.00% | ~86 |
+| Early Survivor | 39.00% | ~106 |
+| Bouncemato | 32.00% | ~87 |
 | 10K | 29.00% | ~93 |
-| Amateur Survivor | 29.00% | ~78 |
-| 15K | 27.00% | ~86 |
+| Amateur Survivor | 29.00% | ~79 |
+| 15K | 27.00% | ~87 |
 | Quick-Draw Pod | 23.00% | ~62 |
-| Drinking Problem | 22.00% | ~70 |
-| Grave Digger | 22.00% | ~59 |
+| Drinking Problem | 22.00% | ~71 |
 | Professional Survivor | 21.00% | ~57 |
+| Grave Digger | 21.00% | ~57 |
 | Pork Chop Express | 19.00% | ~61 |
-| Skin Of Your Teeth | 17.00% | ~54 |
-| Carrocketeer | 17.00% | ~54 |
+| Skin Of Your Teeth | 17.00% | ~55 |
+| Carrocketeer | 17.00% | ~55 |
 | This Is My Boomstick | 17.00% | ~46 |
 | Getting Started | 16.00% | ~51 |
 | Eggtraordinary | 15.00% | ~48 |
-| Oh My Gourd | 15.00% | ~40 |
-| Quit Horsin' Around | 12.00% | ~38 |
-| Summers Here | 12.00% | ~32 |
+| Oh My Gourd | 15.00% | ~41 |
+| Quit Horsin' Around | 12.00% | ~39 |
+| Summers Here | 12.00% | ~33 |
 | Perfect | 11.00% | ~30 |
 | Fresh Pancake | 10.00% | ~32 |
 | Quadsparagus | 10.00% | ~27 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 321)  
+Progressed: 321 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-20 | 317 | 0 |
 | 2023-10-22 | 318 | 0 |
 | 2023-10-24 | 320 | 0 |
+| 2023-10-26 | 321 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 38,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469712,
+  "EOS_Progressed": 469716,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20421,6 +20421,11 @@
       "Time": "2023-10-26T22:09:50.3236827+00:00",
       "NumProgressed": 469712,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-26T23:09:16.5149092+00:00",
+      "NumProgressed": 469716,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20448,7 +20453,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112731
+      "UsersEstimate": 112732
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20456,7 +20461,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103337
+      "UsersEstimate": 103338
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20472,7 +20477,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46971
+      "UsersEstimate": 46972
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20520,7 +20525,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310010
+      "UsersEstimate": 310013
     },
     {
       "ID": "achievement_story_landa",
@@ -20552,7 +20557,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117428
+      "UsersEstimate": 117429
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20584,7 +20589,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51668
+      "UsersEstimate": 51669
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -20608,7 +20613,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93942
+      "UsersEstimate": 93943
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20616,7 +20621,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159702
+      "UsersEstimate": 159703
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20856,7 +20861,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206673
+      "UsersEstimate": 206675
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20864,7 +20869,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140914
+      "UsersEstimate": 140915
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20880,7 +20885,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51668
+      "UsersEstimate": 51669
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -20888,7 +20893,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183188
+      "UsersEstimate": 183189
     },
     {
       "ID": "achievement_win_run_hard",
@@ -20944,7 +20949,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103337
+      "UsersEstimate": 103338
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21063,21 +21068,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13646,
+      "Progressed": 13650,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469712,
+      "Progressed": 469716,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:09:50.3236819+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:09:16.5149087+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:58:37.5081312+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:09:50.3239069+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:58:17.3842743+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:09:16.515168+00:00"
 }

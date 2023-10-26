@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22824,
+  "EOS_Progressed": 22826,
   "EOS_Completed": 444,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 3,
@@ -20758,6 +20758,11 @@
       "Time": "2023-10-26T22:08:19.529928+00:00",
       "NumProgressed": 22824,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-10-26T23:08:18.9118426+00:00",
+      "NumProgressed": 22826,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 20,
@@ -20785,7 +20790,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20809,7 +20814,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -20849,7 +20854,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "FOUND_MAMBA",
@@ -20857,7 +20862,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -20873,7 +20878,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "GAME_FINISHED",
@@ -20889,15 +20894,15 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17574
+      "UsersEstimate": 17576
     },
     {
       "ID": "LAMBABY_LOVE",
       "SetID": "b6m2mm5",
       "Name": "Mama?",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6391
+      "UsersEstimate": 6163
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20913,7 +20918,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "WEST_FINISHED",
@@ -20921,22 +20926,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4108
+      "UsersEstimate": 4109
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22824,
+      "Progressed": 22826,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:08:19.5299275+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:08:18.9118421+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:03:19.9451711+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:08:19.5300595+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:03:02.5607653+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:08:18.9120152+00:00"
 }

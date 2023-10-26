@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7486,
+  "EOS_Progressed": 7487,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5067,6 +5067,11 @@
       "Time": "2023-10-26T21:10:09.0695729+00:00",
       "NumProgressed": 7486,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T23:09:17.6660738+00:00",
+      "NumProgressed": 7487,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5191,7 +5196,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "GamesPlayed1",
@@ -5223,7 +5228,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "GamesWon10",
@@ -5271,7 +5276,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "HAUpgraded1",
@@ -5670,7 +5675,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7486,
+      "Progressed": 7487,
       "Completed": 1
     }
   ],
@@ -5678,8 +5683,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:09:51.661438+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:09:17.6660733+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:00:55.5123555+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:09:51.6615472+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:00:07.4172989+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:09:17.6661913+00:00"
 }

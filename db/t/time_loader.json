@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 7.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -204,6 +204,11 @@
       "Time": "2023-10-23T07:06:20.7264163+00:00",
       "NumProgressed": 126,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-26T23:03:19.4745537+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -213,9 +218,9 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "02_Soap",
@@ -223,7 +228,7 @@
       "Name": "Soap",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "03_Cassette",
@@ -247,7 +252,7 @@
       "Name": "Time Capsule",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "06_Photo",
@@ -255,23 +260,23 @@
       "Name": "Photo",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "07_Contract",
       "SetID": "681m9fa",
       "Name": "Contract",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "08_Baseball",
       "SetID": "681m9fa",
       "Name": "Baseball",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "09_Ticket",
@@ -279,7 +284,7 @@
       "Name": "Ticket",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "10_Flyer",
@@ -287,7 +292,7 @@
       "Name": "Flyer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "11_Itsinthevault",
@@ -325,7 +330,7 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 79
     },
@@ -333,9 +338,9 @@
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "17_Capacitors",
@@ -357,9 +362,9 @@
       "ID": "19_Harpoon",
       "SetID": "681m9fa",
       "Name": "Harpoon",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "20_AccessProtocol",
@@ -373,9 +378,9 @@
       "ID": "21_RobotBros",
       "SetID": "681m9fa",
       "Name": "Robot Bros",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -421,9 +426,9 @@
       "ID": "27_Act1",
       "SetID": "681m9fa",
       "Name": "Act 1",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "28_Act2",
@@ -437,16 +442,16 @@
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 9
     }
   ],
@@ -454,8 +459,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:03:40.819689+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:03:19.4745532+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.909152+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:01:34.3291573+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:03:40.8197339+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:00:34.8814433+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:03:19.4745818+00:00"
 }

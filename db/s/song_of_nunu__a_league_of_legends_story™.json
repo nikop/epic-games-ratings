@@ -343,9 +343,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "EV_ACH26",
@@ -391,9 +391,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "EV_ACH32",
@@ -509,8 +509,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:09:21.0383554+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:08:52.1490012+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:01:15.0648944+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:09:21.0383935+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:00:20.4574873+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:08:52.1490469+00:00"
 }

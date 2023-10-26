@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -624,9 +624,9 @@
       "ID": "KR4_ACHIEVEMENT_ORCSHAMAN",
       "SetID": "caeik3h",
       "Name": "Thunderstruck",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_PEERLESS_DEFENDER",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:08:32.5659858+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:08:29.5510951+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:59:17.10942+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:08:32.5660938+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:58:48.6086414+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:08:29.5512025+00:00"
 }

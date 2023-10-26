@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 414,
+  "EOS_Progressed": 415,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -365,6 +365,11 @@
       "Time": "2023-10-25T11:06:38.6499786+00:00",
       "NumProgressed": 414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T23:06:33.9703718+00:00",
+      "NumProgressed": 415,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -376,7 +381,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Award_BigSpender",
@@ -416,7 +421,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -448,7 +453,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Award_EarlyBird",
@@ -512,7 +517,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Award_HeavyMetal",
@@ -552,7 +557,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -624,7 +629,7 @@
       "Name": "Scavenger",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Award_ShellShock",
@@ -640,7 +645,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -720,14 +725,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 414,
+      "Progressed": 415,
       "Completed": 1
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:07:37.7723128+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:06:33.9703712+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:22.8117809+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:01:49.4164938+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:07:37.7723539+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:00:46.4531963+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:06:33.970417+00:00"
 }

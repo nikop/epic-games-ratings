@@ -9573,9 +9573,9 @@
       "Count": 741
     }
   ],
-  "EOS_Progressed": 299026,
+  "EOS_Progressed": 299029,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -29758,6 +29758,11 @@
       "Time": "2023-10-26T22:09:19.528657+00:00",
       "NumProgressed": 299026,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-10-26T23:08:50.9450068+00:00",
+      "NumProgressed": 299029,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 45,
@@ -30073,7 +30078,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26912
+      "UsersEstimate": 26913
     },
     {
       "ID": "PFA_45",
@@ -30105,7 +30110,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38873
+      "UsersEstimate": 38874
     },
     {
       "ID": "PFA_8",
@@ -30121,14 +30126,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26912
+      "UsersEstimate": 26913
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299026,
+      "Progressed": 299029,
       "Completed": 495
     }
   ],
@@ -30136,8 +30141,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-26T20:03:09.8864625+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:09:19.5286564+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:08:50.9450063+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
   "LastUpdate_Ratings": "2023-10-26T22:01:52.0129011+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:09:19.5288506+00:00"
+  "LastUpdate_Achievements": "2023-10-26T23:08:50.9452062+00:00"
 }

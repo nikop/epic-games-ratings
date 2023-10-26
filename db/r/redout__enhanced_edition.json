@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234389,
+  "EOS_Progressed": 234391,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20282,6 +20282,11 @@
       "Time": "2023-10-26T22:07:07.3719919+00:00",
       "NumProgressed": 234389,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-26T23:06:09.0469721+00:00",
+      "NumProgressed": 234391,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20429,7 +20434,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77348
+      "UsersEstimate": 77349
     },
     {
       "ID": "NOBUNAGA",
@@ -20485,7 +20490,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11719
+      "UsersEstimate": 11720
     },
     {
       "ID": "RESPWND",
@@ -20557,22 +20562,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96099
+      "UsersEstimate": 96100
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234389,
+      "Progressed": 234391,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:07:07.3719914+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:06:09.0469714+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.9815645+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:57:36.0558087+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:07:07.3722058+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:57:28.8103188+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:06:09.0471274+00:00"
 }

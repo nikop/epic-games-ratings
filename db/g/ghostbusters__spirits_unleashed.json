@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 120,
@@ -2775,9 +2775,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27782,
+  "EOS_Progressed": 27791,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16540,6 +16540,11 @@
       "Time": "2023-10-26T22:07:56.9553813+00:00",
       "NumProgressed": 27782,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-26T23:06:49.8144659+00:00",
+      "NumProgressed": 27791,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16551,7 +16556,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "Animated",
@@ -16599,7 +16604,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Collector",
@@ -16639,7 +16644,7 @@
       "Name": "Discovery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Dont_Need_These",
@@ -16663,7 +16668,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Escape_Artist",
@@ -16687,7 +16692,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "GB_In_Training",
@@ -16807,7 +16812,7 @@
       "Name": "Rivalry",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Seasoned",
@@ -16839,7 +16844,7 @@
       "Name": "Solo Capture",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "Stunner",
@@ -16855,7 +16860,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "Summoner",
@@ -16958,7 +16963,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27782,
+      "Progressed": 27791,
       "Completed": 65
     }
   ],
@@ -16966,8 +16971,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-26T20:59:25.6365711+00:00",
-  "LastChanged_Achievements": "2023-10-26T22:07:56.9553808+00:00",
+  "LastChanged_Achievements": "2023-10-26T23:06:49.8144654+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:59:22.1472919+00:00",
-  "LastUpdate_Achievements": "2023-10-26T22:07:56.9557359+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:58:52.5270833+00:00",
+  "LastUpdate_Achievements": "2023-10-26T23:06:49.8146026+00:00"
 }

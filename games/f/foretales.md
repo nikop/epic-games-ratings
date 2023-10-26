@@ -31,8 +31,8 @@
 | A grave matter | 7.00% | ~20 |
 | Peaceful protest | 7.00% | ~20 |
 | The Good Place | 7.00% | ~20 |
+| Money talks | 6.00% | ~17 |
 | A bard day's night | 5.00% | ~14 |
-| Money talks | 5.00% | ~14 |
 | Squid Game | 4.00% | ~11 |
 | Lyre lyre pants on fyre | 4.00% | ~11 |
 | Be kind to monsters | 3.00% | ~8 |
