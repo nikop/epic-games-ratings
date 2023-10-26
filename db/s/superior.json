@@ -2,9 +2,9 @@
   "ID": "89018fd416314b829bbf175c0b4aa440",
   "Name": "Superior",
   "ProductSlug": "superior-0bd6d0",
-  "Ranking_EOS_Progress": 704,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-12-13T16:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.4265653+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:58:53.4226879+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:08:38.2494041+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:58:57.1221841+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:08:43.4566729+00:00"
 }

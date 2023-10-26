@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 159 (Ranked 366)  
-Completed: 0 (0.00%) (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

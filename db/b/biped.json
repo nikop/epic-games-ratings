@@ -3,8 +3,8 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6688,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -11824,6 +11824,11 @@
       "Time": "2023-10-26T11:07:15.6078833+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T12:07:21.3788656+00:00",
+      "NumProgressed": 6688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -11835,7 +11840,7 @@
       "Name": "First Step",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "10",
@@ -11891,7 +11896,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "3",
@@ -11907,7 +11912,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "5",
@@ -11954,7 +11959,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6688,
       "Completed": 0
     }
   ],
@@ -11962,8 +11967,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:07:15.6078824+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:07:21.3788646+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.0129629+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:58:28.4788527+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:07:15.6079773+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:58:25.672254+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:07:21.378954+00:00"
 }

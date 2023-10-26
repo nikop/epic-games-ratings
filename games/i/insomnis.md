@@ -32,8 +32,8 @@
 | The War of the Worlds | 0.00% | ~0 |
 | Entry of the Gods | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 648)  
-Completed: 0 (0.00%) (Ranked 326)  
+Progressed: 1 (Ranked 649)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

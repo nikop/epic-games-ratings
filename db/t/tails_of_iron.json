@@ -6,8 +6,8 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1973,
+  "EOS_Progressed": 1974,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2957,6 +2957,11 @@
       "Time": "2023-10-25T03:07:09.1045321+00:00",
       "NumProgressed": 1973,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-26T12:09:11.1816561+00:00",
+      "NumProgressed": 1974,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2968,7 +2973,7 @@
       "Name": "Become King",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Collect20Gold",
@@ -2992,7 +2997,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "CollectAllStatues",
@@ -3032,7 +3037,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "CompleteElderFaction",
@@ -3048,7 +3053,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "CompleteHunterFaction",
@@ -3072,7 +3077,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "DefeatMoziQueen",
@@ -3080,15 +3085,15 @@
       "Name": "End of the Mozis",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 612
+      "UsersEstimate": 592
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -3112,7 +3117,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "GetTHWeapon",
@@ -3128,7 +3133,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "Kill25Frogs",
@@ -3136,7 +3141,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "Kill25Mozi",
@@ -3144,7 +3149,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "MeetTheMoles",
@@ -3168,7 +3173,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "RepairSmith",
@@ -3184,7 +3189,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "RescueBrothers",
@@ -3207,22 +3212,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1973,
+      "Progressed": 1974,
       "Completed": 9
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 614,
-      "Completed": 614
+      "Progressed": 615,
+      "Completed": 615
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:08:45.8524788+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:09:11.1816554+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4408339+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:04:01.1874111+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:08:45.8525209+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:04:07.6759268+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:09:11.1816961+00:00"
 }

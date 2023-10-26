@@ -6,7 +6,7 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 36,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -8024,9 +8024,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 474962,
+  "EOS_Progressed": 474963,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27394,6 +27394,11 @@
       "Time": "2023-10-26T11:09:28.7671195+00:00",
       "NumProgressed": 474962,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-26T12:09:33.4049886+00:00",
+      "NumProgressed": 474963,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -27589,7 +27594,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237481
+      "UsersEstimate": 237482
     },
     {
       "ID": "achievement_club_world_cup",
@@ -27693,7 +27698,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132989
+      "UsersEstimate": 132990
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -27701,7 +27706,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94992
+      "UsersEstimate": 94993
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -27725,7 +27730,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194734
+      "UsersEstimate": 194735
     },
     {
       "ID": "achievement_head_to_head",
@@ -27749,7 +27754,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 147238
+      "UsersEstimate": 147239
     },
     {
       "ID": "achievement_impervious",
@@ -27845,7 +27850,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94992
+      "UsersEstimate": 94993
     },
     {
       "ID": "achievement_pick_feeder",
@@ -27957,7 +27962,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237481
+      "UsersEstimate": 237482
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -27989,7 +27994,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118740
+      "UsersEstimate": 118741
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -28029,7 +28034,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18998
+      "UsersEstimate": 18999
     },
     {
       "ID": "achievement_won_a_match",
@@ -28037,7 +28042,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237481
+      "UsersEstimate": 237482
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -28093,7 +28098,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56995
+      "UsersEstimate": 56996
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -28101,7 +28106,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 147238
+      "UsersEstimate": 147239
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -28188,15 +28193,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 474962,
+      "Progressed": 474963,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-10-26T03:59:50.4243612+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:09:28.7671183+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:09:33.4049881+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.2576418+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:01:03.1804661+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:09:28.7673455+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:01:04.4740707+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:09:33.4052562+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39194,
+  "EOS_Progressed": 39198,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -20978,6 +20978,11 @@
       "Time": "2023-10-26T11:05:16.2299888+00:00",
       "NumProgressed": 39194,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-26T12:05:32.8429608+00:00",
+      "NumProgressed": 39198,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -20989,7 +20994,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -20997,7 +21002,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8231
+      "UsersEstimate": 8232
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -21220,7 +21225,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39194,
+      "Progressed": 39198,
       "Completed": 26
     }
   ],
@@ -21228,8 +21233,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:05:16.2299882+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:05:32.8429596+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:59:39.7395161+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:05:16.2301579+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:59:42.882539+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:05:32.8431435+00:00"
 }

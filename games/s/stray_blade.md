@@ -16,12 +16,12 @@
 | Searing Heat | 15.00% | ~15 |
 | Nothing but the Truth | 15.00% | ~15 |
 | The Power of the Mountains | 13.00% | ~13 |
+| Locked and Loaded | 12.00% | ~12 |
 | The Golden Flash | 12.00% | ~12 |
-| Locked and Loaded | 11.00% | ~11 |
 | Changing the World | 11.00% | ~11 |
 | Witch | 10.00% | ~10 |
 | The A-Team | 10.00% | ~10 |
-| Defeat Tezuth | 8.00% | ~8 |
+| Defeat Tezuth | 9.00% | ~9 |
 | Defeat Uskol | 8.00% | ~8 |
 | Finally! | 8.00% | ~8 |
 | Mirror, Mirror on the Wall | 7.00% | ~7 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 101 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

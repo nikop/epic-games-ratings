@@ -16,6 +16,7 @@ Rating: 4.64 (Ranked 324)
 | Lezduit! | 1.00% | ~244 |
 | RIP Davey Glutes | 1.00% | ~244 |
 | We're All Very Impressed, Trust Me | 1.00% | ~244 |
+| Legendary Bounty Hunter | 1.00% | ~244 |
 | Hardest Battle In The Game | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
 | Who's The Boss? | 1.00% | ~244 |
@@ -23,7 +24,6 @@ Rating: 4.64 (Ranked 324)
 | Don't Knife The Hand That Feeds | 1.00% | ~244 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
-| Legendary Bounty Hunter | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.90% | ~219 |
 | We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
 | Eatin' Good in the Neighborhood | 0.70% | ~170 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 324)
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,352 (Ranked 123)  
-Completed: 13 (0.05%) (Ranked 283)  
+Completed: 13 (0.05%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

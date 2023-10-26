@@ -43,8 +43,8 @@
 | No blades in the gym | 46.00% | ~155 |
 | Champion – no way back | 44.00% | ~148 |
 | Underground dwellers | 43.00% | ~144 |
+| Responsible approach | 43.00% | ~144 |
 | Deal with life | 42.00% | ~141 |
-| Responsible approach | 42.00% | ~141 |
 | Mom got better | 41.00% | ~138 |
 | GYM professional | 41.00% | ~138 |
 | Poisoned fighter | 41.00% | ~138 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 336 (Ranked 312)  
-Completed: 9 (2.68%) (Ranked 102)  
+Completed: 9 (2.68%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

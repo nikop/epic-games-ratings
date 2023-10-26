@@ -15,9 +15,9 @@
 | Long Live Rock | 14.00% | ~110 |
 | Aggressive Antivirus | 12.00% | ~95 |
 | Effective Efficiency | 12.00% | ~95 |
-| Unblurred Lines | 9.00% | ~71 |
+| Unblurred Lines | 10.00% | ~79 |
+| Endlessly Effective | 10.00% | ~79 |
 | Obsessively Thorough | 9.00% | ~71 |
-| Endlessly Effective | 9.00% | ~71 |
 | What's Behind Every Door? | 4.00% | ~32 |
 | No Stone Unturned | 3.00% | ~24 |
 | Turret Syndrome | 1.00% | ~8 |
@@ -36,7 +36,7 @@
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 788 (Ranked 256)  
-Completed: 0 (0.00%) (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

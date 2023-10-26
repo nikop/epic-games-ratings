@@ -2,11 +2,11 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 709,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-10-16T17:01:54.4862812+00:00",
@@ -76,15 +76,21 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-26T12:00:40.5419966+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9870,
+  "EOS_Progressed": 9903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9835,
+  "EOS_NewPlayers": 9868,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -817,6 +823,11 @@
       "Time": "2023-10-26T11:10:37.0629609+00:00",
       "NumProgressed": 9870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T12:11:11.6971511+00:00",
+      "NumProgressed": 9903,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1019,16 +1030,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 9870,
+      "Progressed": 9903,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2023-10-25T11:58:49.5153439+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:10:37.0629601+00:00",
+  "LastChanged": "2023-10-26T12:00:40.5419963+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:11:11.6971505+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.7108417+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:00:37.5366467+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:10:37.0629866+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:00:40.541997+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:11:11.6971736+00:00"
 }

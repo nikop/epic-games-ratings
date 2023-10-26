@@ -6,7 +6,7 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -6239,9 +6239,9 @@
       "ID": "ACH_KILL_GARM",
       "SetID": "cdkbb11",
       "Name": "Legendary Bounty Hunter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 219
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -6462,8 +6462,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:07:32.8558101+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:07:37.9349328+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:02:49.7944922+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:07:32.8558908+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:02:54.4805928+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:07:37.9350087+00:00"
 }

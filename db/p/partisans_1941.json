@@ -6,8 +6,8 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1503,
+  "EOS_Progressed": 1504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3124,6 +3124,11 @@
       "Time": "2023-10-23T13:10:11.4109528+00:00",
       "NumProgressed": 1503,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T12:08:12.8189119+00:00",
+      "NumProgressed": 1504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3159,7 +3164,7 @@
       "Name": "The Big Bertha",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Boy",
@@ -3215,7 +3220,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "Everyone_is_here",
@@ -3223,7 +3228,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Experienced_strategist",
@@ -3247,7 +3252,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "Hard_Serpent",
@@ -3311,7 +3316,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Miner",
@@ -3351,7 +3356,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "We_were_not_here",
@@ -3367,22 +3372,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1503,
+      "Progressed": 1504,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:07:57.9345797+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:08:12.818911+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.410552+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:58:27.2220928+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:07:57.9346258+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:58:25.0472293+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:08:12.8189533+00:00"
 }

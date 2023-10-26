@@ -6,7 +6,7 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250652,
+  "EOS_Progressed": 250653,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17417,6 +17417,11 @@
       "Time": "2023-10-26T11:10:01.5978287+00:00",
       "NumProgressed": 250652,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T12:10:26.1047826+00:00",
+      "NumProgressed": 250653,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17524,7 +17529,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45117
+      "UsersEstimate": 45118
     },
     {
       "ID": "curator",
@@ -17532,7 +17537,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50130
+      "UsersEstimate": 50131
     },
     {
       "ID": "didYourTime",
@@ -17732,7 +17737,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55143
+      "UsersEstimate": 55144
     },
     {
       "ID": "thunderstruck",
@@ -17795,7 +17800,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250652,
+      "Progressed": 250653,
       "Completed": 6
     }
   ],
@@ -17803,8 +17808,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:10:01.5978282+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:10:26.1047819+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:58:58.456352+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:10:01.5979725+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:59:02.0757874+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:10:26.104934+00:00"
 }

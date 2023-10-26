@@ -4,10 +4,10 @@
   "ProductSlug": "the-telltale-batman",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 483,
-  "Ranking_EOS_Progress": 704,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_PopularitySum": 484,
+  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2019-12-17T11:00:00+00:00",
@@ -342,6 +342,6 @@
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
   "LastChanged": "2023-07-15T05:00:59.5878621+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9990666+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:00:59.7314906+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:08:11.1200771+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:01:01.3544817+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:08:15.8786207+00:00"
 }

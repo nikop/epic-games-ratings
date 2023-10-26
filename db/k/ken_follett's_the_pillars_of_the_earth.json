@@ -6,7 +6,7 @@
   "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -526,10 +526,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2023-10-26T12:01:02.3942051+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
@@ -543,12 +549,12 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 42
+      "Count": 43
     }
   ],
-  "EOS_Progressed": 15965,
+  "EOS_Progressed": 15967,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12751,6 +12757,11 @@
       "Time": "2023-10-26T11:05:31.0966658+00:00",
       "NumProgressed": 15965,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-26T12:05:47.6418095+00:00",
+      "NumProgressed": 15967,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -12802,7 +12813,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "tpote_achievement_15",
@@ -12834,7 +12845,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "tpote_achievement_19",
@@ -12850,7 +12861,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5269
     },
     {
       "ID": "tpote_achievement_20",
@@ -12906,7 +12917,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "tpote_achievement_27",
@@ -12946,7 +12957,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "tpote_achievement_31",
@@ -13026,7 +13037,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6386
+      "UsersEstimate": 6387
     },
     {
       "ID": "tpote_achievement_40",
@@ -13074,7 +13085,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "tpote_achievement_9",
@@ -13082,22 +13093,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5428
+      "UsersEstimate": 5429
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15965,
+      "Progressed": 15967,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-10-25T11:59:01.9427727+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:05:31.0966651+00:00",
+  "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:05:47.6418085+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:00:59.5766503+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:05:31.0967897+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:01:02.3942056+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:05:47.6419111+00:00"
 }

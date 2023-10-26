@@ -3,8 +3,8 @@
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 478,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -218,9 +218,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HeartHurt",
@@ -234,9 +234,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 65,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HonoraryAlumni",
@@ -266,17 +266,17 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MoneyCamouflage",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:10:17.9226144+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:10:42.4440386+00:00",
   "LastUpdate_AppInfo": "2023-10-23T07:57:12.2998016+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:58:16.0317394+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:10:17.9226325+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:58:09.0015001+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:10:42.4440569+00:00"
 }

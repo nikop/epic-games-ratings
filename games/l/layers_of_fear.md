@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 44.00% | ~8 |
+| Something important | 50.00% | ~9 |
 | Finished it | 33.00% | ~6 |
 | Wanderer | 33.00% | ~6 |
 | A piece of the story | 28.00% | ~5 |
@@ -25,6 +25,7 @@
 | The tragedy unfolds | 11.00% | ~2 |
 | Tough conversation | 11.00% | ~2 |
 | Breaking free | 6.00% | ~1 |
+| We Are Not Alone | 6.00% | ~1 |
 | The Perfect Storm | 6.00% | ~1 |
 | Fisherman | 6.00% | ~1 |
 | A new way | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | Casting Finished | 0.00% | ~0 |
 | Something to think about | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
-| We Are Not Alone | 0.00% | ~0 |
 | Body of Work | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | Whispers long forgotten | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

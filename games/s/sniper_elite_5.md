@@ -73,12 +73,12 @@ Rating: 4.45 (Ranked 651)
 | Master of Rifles | 0.90% | ~34 |
 | Operation Overlord | 0.80% | ~30 |
 | Master of Pistols | 0.70% | ~26 |
-| Master-at-arms | 0.60% | ~23 |
+| Master-at-arms | 0.70% | ~26 |
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,780 (Ranked 183)  
-Completed: 11 (0.29%) (Ranked 218)  
+Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

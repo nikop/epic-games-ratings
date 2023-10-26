@@ -5,9 +5,9 @@
   "Ranking_Rating": 151,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 11,
-  "Ranking_EOS_Progress": 704,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -12491,10 +12491,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 325460,
       "NumberOfAwardsMax": 40481
+    },
+    {
+      "Time": "2023-10-26T11:57:20.2192105+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 325573,
+      "NumberOfAwardsMax": 40481
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 325460,
+  "NumberOfAwards": 325573,
   "NumberOfAwardsMax": 40481,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12508,7 +12514,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34414
+      "Count": 34473
     },
     {
       "Text": "This game is Educational",
@@ -12544,7 +12550,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 32135
+      "Count": 32189
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12576,8 +12582,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2023-10-26T10:57:28.2535577+00:00",
+  "LastChanged": "2023-10-26T11:57:20.2192104+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.2111794+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:57:28.2535583+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:05:17.5748366+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:57:20.2192109+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:05:34.1436947+00:00"
 }

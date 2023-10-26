@@ -10,20 +10,20 @@
 | Failure | 76.00% | ~97 |
 | Replace Fuse | 67.00% | ~86 |
 | Alarm | 66.00% | ~84 |
-| Air Filtration | 62.00% | ~79 |
-| Broken | 60.00% | ~77 |
+| Air Filtration | 63.00% | ~81 |
+| Broken | 61.00% | ~78 |
 | Radiation | 59.00% | ~76 |
-| Descent | 58.00% | ~74 |
+| Descent | 59.00% | ~76 |
 | Awakenings | 57.00% | ~73 |
 | Cold Storage | 57.00% | ~73 |
 | Sam | 55.00% | ~70 |
 | Commissioner | 54.00% | ~69 |
-| Churchill | 49.00% | ~63 |
+| Churchill | 50.00% | ~64 |
 | Soldier | 49.00% | ~63 |
 | Leave | 48.00% | ~61 |
 | Doctor | 48.00% | ~61 |
 | Engineer | 48.00% | ~61 |
-| Press Play | 36.00% | ~46 |
+| Press Play | 37.00% | ~47 |
 | General | 28.00% | ~36 |
 | Bookworm | 23.00% | ~29 |
 | Floppy Disk Finder | 15.00% | ~19 |
@@ -34,7 +34,7 @@
 | Friends | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 128 (Ranked 378)  
-Completed: 5 (3.91%) (Ranked 79)  
+Completed: 5 (3.91%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

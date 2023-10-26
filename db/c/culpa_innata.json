@@ -2,9 +2,9 @@
   "ID": "3e95e64ea16c4dd5b46cc7b097af5f6a",
   "Name": "Culpa Innata",
   "ProductSlug": "culpa-innata-8997ac",
-  "Ranking_EOS_Progress": 704,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 405,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-02-22T04:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-11T22:58:57.8640323+00:00",
   "LastChanged": "2023-04-11T22:58:57.8640324+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:39.6154421+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:59:44.4110488+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:06:04.9098067+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:59:46.3767502+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:06:21.0108134+00:00"
 }

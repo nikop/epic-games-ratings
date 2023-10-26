@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121,512 (Ranked 79)  
-Completed: 1 (0.00%) (Ranked 326)  
+Completed: 1 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,12 +254,12 @@ Completed: 1 (0.00%) (Ranked 326)
 | 2023-10-26 | 121,512 | 1 |
 ## Awards
 Max (Character Customization): 7,471  (Ranked 51)  
-Sum: 19,604 (Ranked 59)  
+Sum: 19,606 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,471 |
-| This game has Diverse Characters | 1,570 |
+| This game has Diverse Characters | 1,572 |
 | This game has Challenging Combat | 1,505 |
 | This game is Highly Recommended | 1,434 |
 | This game is Extremely Fun | 1,397 |
@@ -545,4 +545,4 @@ Diff (max vs sum): -8
 | 2023-10-23 | 4.68 | - | 7,469 | 19,593 |
 | 2023-10-24 | 4.68 | - | 7,471 | 19,599 |
 | 2023-10-25 | 4.68 | - | 7,471 | 19,601 |
-| 2023-10-26 | 4.68 | - | 7,471 | 19,604 |
+| 2023-10-26 | 4.68 | - | 7,471 | 19,606 |

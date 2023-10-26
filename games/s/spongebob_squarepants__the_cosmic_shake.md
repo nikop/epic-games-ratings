@@ -1,6 +1,13 @@
 # SpongeBob SquarePants: The Cosmic Shake
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-the-cosmic-shake)  
 [View Rawdata](../../db/s/spongebob_squarepants__the_cosmic_shake.json)  
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 649)  
+Completed: 1 (100.00%) (Ranked 1)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-10-26 | 1 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

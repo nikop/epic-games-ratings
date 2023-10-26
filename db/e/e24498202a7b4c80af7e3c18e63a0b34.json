@@ -6,9 +6,9 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6436,
+  "EOS_Progressed": 6437,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4269,6 +4269,11 @@
       "Time": "2023-10-26T10:11:44.1013185+00:00",
       "NumProgressed": 6436,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-26T12:11:19.7051631+00:00",
+      "NumProgressed": 6437,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4281,7 +4286,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "achievement_01_02",
@@ -4305,7 +4310,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "achievement_01_05",
@@ -4337,7 +4342,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "achievement_01_09",
@@ -4345,7 +4350,7 @@
       "Name": "Right Foot",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "achievement_01_10",
@@ -4353,7 +4358,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "achievement_02_01",
@@ -4361,7 +4366,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "achievement_02_02",
@@ -4409,7 +4414,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "achievement_02_08",
@@ -4521,7 +4526,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2896
+      "UsersEstimate": 2897
     },
     {
       "ID": "achievement_04_03",
@@ -4529,7 +4534,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3282
+      "UsersEstimate": 3283
     },
     {
       "ID": "achievement_04_04",
@@ -4584,7 +4589,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6436,
+      "Progressed": 6437,
       "Completed": 30
     }
   ],
@@ -4592,8 +4597,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:10:44.8764858+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:11:19.7051624+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:03:15.5884235+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:10:44.8765476+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:03:15.1484469+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:11:19.7052217+00:00"
 }

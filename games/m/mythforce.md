@@ -9,8 +9,8 @@ Number of Ratings: 285  (23.09.2022)
 | Faceroll the Bones | 24.00% | ~1,070 |
 | Debuff Dogpile | 23.00% | ~1,026 |
 | Hit 'Em Where It Hurts | 23.00% | ~1,026 |
+| Perk Shard Punch Card | 23.00% | ~1,026 |
 | That'll Leave a Mark | 23.00% | ~1,026 |
-| Perk Shard Punch Card | 22.00% | ~981 |
 | Mushroom Madness! | 21.00% | ~937 |
 | First Strike | 18.00% | ~803 |
 | Spending Spree | 18.00% | ~803 |
@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,460 (Ranked 180)  
-Completed: 3 (0.07%) (Ranked 272)  
+Completed: 3 (0.07%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

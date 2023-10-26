@@ -6,9 +6,9 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| How Romantic! | 0.60% | ~9 |
 | The Cost of Heroism | 0.60% | ~9 |
 | Gotta Ca... Must Collect All of Them | 0.50% | ~7 |
-| How Romantic! | 0.50% | ~7 |
 | Me and My Familiar | 0.40% | ~6 |
 | Passing Shadow | 0.40% | ~6 |
 | This Too Shall Pass | 0.40% | ~6 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,438 (Ranked 228)  
-Completed: 6 (0.42%) (Ranked 197)  
+Completed: 6 (0.42%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

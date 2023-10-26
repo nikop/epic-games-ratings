@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 48,
-  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9457,18 +9457,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 46651,
       "NumberOfAwardsMax": 23781
+    },
+    {
+      "Time": "2023-10-26T12:03:47.6790188+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46676,
+      "NumberOfAwardsMax": 23806
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46651,
-  "NumberOfAwardsMax": 23781,
+  "NumberOfAwards": 46676,
+  "NumberOfAwardsMax": 23806,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 23781
+      "Count": 23806
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -9537,9 +9543,9 @@
       "Count": 741
     }
   ],
-  "EOS_Progressed": 298934,
+  "EOS_Progressed": 298938,
   "EOS_Completed": 494,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -29667,6 +29673,11 @@
       "Time": "2023-10-26T11:10:28.8781156+00:00",
       "NumProgressed": 298934,
       "NumCompleted": 494
+    },
+    {
+      "Time": "2023-10-26T12:10:53.6926517+00:00",
+      "NumProgressed": 298938,
+      "NumCompleted": 494
     }
   ],
   "TotalAchievements": 45,
@@ -29678,7 +29689,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44840
+      "UsersEstimate": 44841
     },
     {
       "ID": "PFA_10",
@@ -29710,7 +29721,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29893
+      "UsersEstimate": 29894
     },
     {
       "ID": "PFA_14",
@@ -29782,7 +29793,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29893
+      "UsersEstimate": 29894
     },
     {
       "ID": "PFA_22",
@@ -29798,7 +29809,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35872
+      "UsersEstimate": 35873
     },
     {
       "ID": "PFA_24",
@@ -29830,7 +29841,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "PFA_28",
@@ -29878,7 +29889,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "PFA_33",
@@ -29902,7 +29913,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29893
+      "UsersEstimate": 29894
     },
     {
       "ID": "PFA_36",
@@ -29926,7 +29937,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "PFA_39",
@@ -29998,7 +30009,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11957
+      "UsersEstimate": 11958
     },
     {
       "ID": "PFA_6",
@@ -30014,7 +30025,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38861
+      "UsersEstimate": 38862
     },
     {
       "ID": "PFA_8",
@@ -30022,7 +30033,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35872
+      "UsersEstimate": 35873
     },
     {
       "ID": "PFA_9",
@@ -30037,16 +30048,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298934,
+      "Progressed": 298938,
       "Completed": 494
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-26T07:04:37.2214984+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:10:28.8781148+00:00",
+  "LastChanged": "2023-10-26T12:03:47.6790187+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:10:53.692651+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-26T11:03:40.0569764+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:10:28.8782882+00:00"
+  "LastUpdate_Ratings": "2023-10-26T12:03:47.6790193+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:10:53.6928594+00:00"
 }

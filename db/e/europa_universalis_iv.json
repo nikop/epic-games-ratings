@@ -6,7 +6,7 @@
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -11119,10 +11119,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 54866,
       "NumberOfAwardsMax": 6676
+    },
+    {
+      "Time": "2023-10-26T11:57:18.2430983+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 54881,
+      "NumberOfAwardsMax": 6676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54866,
+  "NumberOfAwards": 54881,
   "NumberOfAwardsMax": 6676,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11148,7 +11154,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6282
+      "Count": 6297
     },
     {
       "Text": "This game is Educational",
@@ -11193,9 +11199,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 439589,
+  "EOS_Progressed": 439614,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5389,
+  "EOS_NewPlayers": 5386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32728,6 +32734,11 @@
       "Time": "2023-10-26T11:09:12.0545966+00:00",
       "NumProgressed": 439589,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T12:09:17.4442459+00:00",
+      "NumProgressed": 439614,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33131,7 +33142,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -33739,7 +33750,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17584
+      "UsersEstimate": 17585
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35403,7 +35414,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17584
+      "UsersEstimate": 17585
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35435,7 +35446,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17584
+      "UsersEstimate": 17585
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35570,21 +35581,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 439589,
+      "Progressed": 439614,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 439589,
+      "Progressed": 439614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-25T21:01:14.4634905+00:00",
-  "LastChanged_Achievements": "2023-10-26T11:09:12.0545957+00:00",
+  "LastChanged": "2023-10-26T11:57:18.2430982+00:00",
+  "LastChanged_Achievements": "2023-10-26T12:09:17.444245+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-26T10:57:25.7458932+00:00",
-  "LastUpdate_Achievements": "2023-10-26T11:09:12.055857+00:00"
+  "LastUpdate_Ratings": "2023-10-26T11:57:18.2430992+00:00",
+  "LastUpdate_Achievements": "2023-10-26T12:09:17.4455742+00:00"
 }

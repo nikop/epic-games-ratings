@@ -6,33 +6,33 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~15,903 |
-| Sword Runner | 61.00% | ~12,764 |
-| Running out of breath | 54.00% | ~11,300 |
-| Wallrunner | 53.00% | ~11,090 |
-| Homerunner | 45.00% | ~9,416 |
-| I call it luck | 44.00% | ~9,207 |
-| Out of order | 44.00% | ~9,207 |
-| Where are my Keys? | 40.00% | ~8,370 |
-| Back to hell | 37.00% | ~7,742 |
-| Perfection | 32.00% | ~6,696 |
-| Why not both | 30.00% | ~6,278 |
-| Sword to a gunfight | 29.00% | ~6,068 |
-| Upgrades not mandatory | 29.00% | ~6,068 |
-| Artificial selection | 28.00% | ~5,859 |
-| Control freak | 27.00% | ~5,650 |
-| Running Wild | 27.00% | ~5,650 |
-| Finish line | 26.00% | ~5,440 |
+| Longrunner | 76.00% | ~15,906 |
+| Sword Runner | 61.00% | ~12,767 |
+| Running out of breath | 54.00% | ~11,302 |
+| Wallrunner | 53.00% | ~11,092 |
+| Homerunner | 45.00% | ~9,418 |
+| I call it luck | 44.00% | ~9,209 |
+| Out of order | 44.00% | ~9,209 |
+| Where are my Keys? | 40.00% | ~8,372 |
+| Back to hell | 37.00% | ~7,744 |
+| Perfection | 32.00% | ~6,697 |
+| Why not both | 30.00% | ~6,279 |
+| Sword to a gunfight | 29.00% | ~6,069 |
+| Upgrades not mandatory | 29.00% | ~6,069 |
+| Artificial selection | 28.00% | ~5,860 |
+| Control freak | 27.00% | ~5,651 |
+| Running Wild | 27.00% | ~5,651 |
+| Finish line | 26.00% | ~5,442 |
 | Unstoppable force | 22.00% | ~4,604 |
 | Wave of mutilation | 22.00% | ~4,604 |
-| Can't Run Can't Hide | 16.00% | ~3,348 |
-| R is for Running | 16.00% | ~3,348 |
+| Can't Run Can't Hide | 16.00% | ~3,349 |
+| R is for Running | 16.00% | ~3,349 |
 | Dead in the air | 15.00% | ~3,139 |
-| Improvise, adapt, overrun | 13.00% | ~2,720 |
+| Improvise, adapt, overrun | 13.00% | ~2,721 |
 | Pre-empative strike | 12.00% | ~2,511 |
 | Strike | 12.00% | ~2,511 |
 | More than human | 11.00% | ~2,302 |
-| Triple A | 9.00% | ~1,883 |
+| Triple A | 9.00% | ~1,884 |
 | One Of Those Days | 7.00% | ~1,465 |
 | Fine addition | 6.00% | ~1,256 |
 | Where He Stood | 5.00% | ~1,046 |
@@ -41,19 +41,19 @@ Number of Ratings: 1,047  (23.09.2022)
 | Scrapped | 4.00% | ~837 |
 | Strafing Run | 4.00% | ~837 |
 | Just A Man | 3.00% | ~628 |
-| Junkrunner | 2.00% | ~418 |
-| One man's trash | 2.00% | ~418 |
+| Junkrunner | 2.00% | ~419 |
+| One man's trash | 2.00% | ~419 |
 | Hit me if you can | 1.00% | ~209 |
 | Obedient Machine | 0.90% | ~188 |
-| Everyone Needs A Hobby | 0.70% | ~146 |
+| Everyone Needs A Hobby | 0.70% | ~147 |
 | Legacy Drivers | 0.50% | ~105 |
 | A Grade | 0.40% | ~84 |
 | GR Project Complete | 0.40% | ~84 |
 | Sticks And Stones | 0.40% | ~84 |
 | Up Close And Personal | 0.40% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,925 (Ranked 127)  
-Completed: 78 (0.37%) (Ranked 203)  
+Progressed: 20,929 (Ranked 127)  
+Completed: 78 (0.37%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 78 (0.37%) (Ranked 203)
 | 2023-10-23 | 20,692 | 77 |
 | 2023-10-24 | 20,773 | 78 |
 | 2023-10-25 | 20,886 | 78 |
-| 2023-10-26 | 20,925 | 78 |
+| 2023-10-26 | 20,929 | 78 |
 ## Awards
 Max (Great Boss Battles): 510  (Ranked 204)  
 Sum: 732 (Ranked 282)  

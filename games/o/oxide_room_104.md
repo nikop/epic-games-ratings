@@ -16,13 +16,13 @@
 | Antidote | 55.00% | ~118 |
 | Pick the right door | 26.00% | ~56 |
 | The third floor | 20.00% | ~43 |
-| One-way | 17.00% | ~36 |
-| On the right path | 16.00% | ~34 |
+| One-way | 18.00% | ~39 |
+| On the right path | 17.00% | ~36 |
 | It can't be true | 16.00% | ~34 |
-| I'm close now | 12.00% | ~26 |
-| Failed attempt | 12.00% | ~26 |
+| I'm close now | 13.00% | ~28 |
+| Failed attempt | 13.00% | ~28 |
+| Good choice | 13.00% | ~28 |
 | The real escape | 12.00% | ~26 |
-| Good choice | 12.00% | ~26 |
 | Take the long way round | 12.00% | ~26 |
 | He who seeks, finds! | 12.00% | ~26 |
 | Nightmare in the kitchen | 11.00% | ~24 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 214 (Ranked 347)  
-Completed: 1 (0.47%) (Ranked 188)  
+Completed: 1 (0.47%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

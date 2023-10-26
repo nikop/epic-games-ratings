@@ -5,24 +5,25 @@ Rating: 4.43 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 66.00% | ~65,834 |
-| Suit Up | 41.00% | ~40,897 |
-| Delving Onward | 40.00% | ~39,899 |
-| Miner's Helper | 36.00% | ~35,909 |
-| To the Mountain's Roots | 8.00% | ~7,980 |
-| Covered Head to Toe | 6.00% | ~5,985 |
-| Line of Azog, Ended | 6.00% | ~5,985 |
-| Remains To Be Seen | 2.00% | ~1,995 |
-| Westgate Weaponcraft | 1.00% | ~997 |
-| Risk a Little Real Light | 0.70% | ~698 |
-| Eregion Weaponcraft | 0.30% | ~299 |
-| Master of All Trades | 0.20% | ~199 |
-| Deeps Weaponcraft | 0.20% | ~199 |
+| Speak Friend | 66.00% | ~66,317 |
+| Suit Up | 41.00% | ~41,197 |
+| Delving Onward | 40.00% | ~40,192 |
+| Miner's Helper | 36.00% | ~36,173 |
+| To the Mountain's Roots | 8.00% | ~8,038 |
+| Covered Head to Toe | 6.00% | ~6,029 |
+| Line of Azog, Ended | 6.00% | ~6,029 |
+| Remains To Be Seen | 2.00% | ~2,010 |
+| Westgate Weaponcraft | 1.00% | ~1,005 |
+| Risk a Little Real Light | 0.80% | ~804 |
+| Eregion Weaponcraft | 0.30% | ~301 |
+| Master of All Trades | 0.20% | ~201 |
+| Deeps Weaponcraft | 0.20% | ~201 |
 | Shadow's Bane | 0.10% | ~100 |
 | Baruk Khazâd! | 0.10% | ~100 |
 | Decked Out | 0.10% | ~100 |
 | Guarded from Despair | 0.10% | ~100 |
 | Battering Ram | 0.10% | ~100 |
+| Hard-headed | 0.10% | ~100 |
 | Shielded | 0.10% | ~100 |
 | True-silver | 0.10% | ~100 |
 | Dimrill Weaponcraft | 0.10% | ~100 |
@@ -31,16 +32,15 @@ Rating: 4.43 (Ranked 682)
 | Caradhras The Cruel | 0.10% | ~100 |
 | A Memory of this Place | 0.10% | ~100 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
-| Hard-headed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99,748 (Ranked 83)  
-Completed: 0 (0.00%) (Ranked 326)  
+Progressed: 100,480 (Ranked 83)  
+Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-24 | 49,394 | 0 |
 | 2023-10-25 | 88,690 | 0 |
-| 2023-10-26 | 99,748 | 0 |
+| 2023-10-26 | 100,480 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
