@@ -21,22 +21,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.40% | ~3,575 |
 | Two Heads, One Bullet | 0.40% | ~3,575 |
 | Legend of The Afterlife | 0.40% | ~3,575 |
-| To Bad Decisions! | 0.30% | ~2,681 |
-| Bushido and Chill | 0.30% | ~2,681 |
-| Gun Fu | 0.30% | ~2,681 |
-| Master Crafter | 0.30% | ~2,681 |
-| I Am The Law | 0.30% | ~2,681 |
-| Mean Streets | 0.30% | ~2,681 |
-| Christmas Tree Attack | 0.30% | ~2,681 |
-| The Quick and the Dead | 0.30% | ~2,681 |
-| Breathtaking | 0.30% | ~2,681 |
-| Life of the Road | 0.30% | ~2,681 |
-| Temperance | 0.30% | ~2,681 |
-| The Lovers | 0.30% | ~2,681 |
-| The World | 0.30% | ~2,681 |
-| True Warrior | 0.30% | ~2,681 |
-| Judy vs Night City | 0.30% | ~2,681 |
-| V for Vendetta | 0.30% | ~2,681 |
+| To Bad Decisions! | 0.30% | ~2,682 |
+| Bushido and Chill | 0.30% | ~2,682 |
+| Gun Fu | 0.30% | ~2,682 |
+| Master Crafter | 0.30% | ~2,682 |
+| I Am The Law | 0.30% | ~2,682 |
+| Mean Streets | 0.30% | ~2,682 |
+| Christmas Tree Attack | 0.30% | ~2,682 |
+| The Quick and the Dead | 0.30% | ~2,682 |
+| Breathtaking | 0.30% | ~2,682 |
+| Life of the Road | 0.30% | ~2,682 |
+| Temperance | 0.30% | ~2,682 |
+| The Lovers | 0.30% | ~2,682 |
+| The World | 0.30% | ~2,682 |
+| True Warrior | 0.30% | ~2,682 |
+| Judy vs Night City | 0.30% | ~2,682 |
+| V for Vendetta | 0.30% | ~2,682 |
 | Spin Doctor | 0.30% | ~67 |
 | To Protect and Serve | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,830 (Ranked 15)  
+Progressed: 893,834 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,830 | 2,713 |
+| 2023-10-26 | 893,834 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
 Sum: 326,512 (Ranked 10)  

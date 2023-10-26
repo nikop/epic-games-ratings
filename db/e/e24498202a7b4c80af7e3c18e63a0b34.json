@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6433,
+  "EOS_Progressed": 6434,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-10-26T01:50:24.4810346+00:00",
       "NumProgressed": 6433,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-26T05:10:12.8388674+00:00",
+      "NumProgressed": 6434,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4266,7 +4271,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "achievement_01_02",
@@ -4288,9 +4293,9 @@
       "ID": "achievement_01_04",
       "SetID": "4f1m94d",
       "Name": "Bzzzt",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4697
     },
     {
       "ID": "achievement_01_05",
@@ -4306,7 +4311,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "achievement_01_07",
@@ -4322,7 +4327,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4697
     },
     {
       "ID": "achievement_01_09",
@@ -4410,7 +4415,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "achievement_03_02",
@@ -4546,7 +4551,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "achievement_04_08",
@@ -4554,7 +4559,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5468
+      "UsersEstimate": 5469
     },
     {
       "ID": "achievement_04_09",
@@ -4569,7 +4574,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6433,
+      "Progressed": 6434,
       "Completed": 30
     }
   ],
@@ -4577,8 +4582,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:10:15.9209035+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:10:12.8388669+00:00",
   "LastUpdate_AppInfo": "2023-10-19T19:57:00.32315+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:01:17.9190454+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:10:15.9209669+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:02:10.0942928+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:10:12.8389215+00:00"
 }

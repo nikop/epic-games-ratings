@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 957,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2609,9 +2609,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 144
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2745,9 +2745,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2785,9 +2785,9 @@
       "ID": "MEAT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Night Snack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 249
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2928,8 +2928,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:06:43.2622245+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:07:25.8012844+00:00",
   "LastUpdate_AppInfo": "2023-10-19T21:57:04.6044923+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:00:58.6503636+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:06:43.2623123+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:01:49.2397175+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:07:25.8013677+00:00"
 }

@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 357)
 | One Gun | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,218 (Ranked 233)  
-Completed: 7 (0.57%) (Ranked 177)  
+Completed: 7 (0.57%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

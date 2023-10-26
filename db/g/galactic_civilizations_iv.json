@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7087,
+  "EOS_Progressed": 7088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7710,6 +7710,11 @@
       "Time": "2023-10-26T04:05:55.5282149+00:00",
       "NumProgressed": 7087,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T05:06:37.8574008+00:00",
+      "NumProgressed": 7088,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7761,7 +7766,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "Control_All_Relics",
@@ -7825,7 +7830,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5528
+      "UsersEstimate": 5529
     },
     {
       "ID": "First_Race_Met",
@@ -7841,7 +7846,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "First_Stream_Travel",
@@ -7857,7 +7862,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5457
+      "UsersEstimate": 5458
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8041,7 +8046,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4323
+      "UsersEstimate": 4324
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8225,7 +8230,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Win_CustomFaction",
@@ -8281,7 +8286,7 @@
       "Name": "Win Quickly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Win_Research",
@@ -8296,15 +8301,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7087,
+      "Progressed": 7088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:05:55.5282143+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:06:37.8574003+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:03:27.2059565+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:05:55.5283932+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:03:11.6006543+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:06:37.8575127+00:00"
 }

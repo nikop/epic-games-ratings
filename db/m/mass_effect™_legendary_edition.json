@@ -2613,9 +2613,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_4",
@@ -3161,8 +3161,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:05:05.0707293+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:05:34.6111561+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:58:17.5254465+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:05:05.0709685+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:58:31.2084455+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:05:34.6113872+00:00"
 }

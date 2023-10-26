@@ -6683,9 +6683,9 @@
       "Count": 1023
     }
   ],
-  "EOS_Progressed": 824496,
+  "EOS_Progressed": 824508,
   "EOS_Completed": 186,
-  "EOS_NewPlayers": 5517,
+  "EOS_NewPlayers": 5512,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -24688,6 +24688,11 @@
       "Time": "2023-10-26T04:05:50.8882993+00:00",
       "NumProgressed": 824496,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2023-10-26T05:06:32.4239078+00:00",
+      "NumProgressed": 824508,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 75,
@@ -24699,7 +24704,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 197879
+      "UsersEstimate": 197882
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -24707,7 +24712,7 @@
       "Name": "All or Nothing",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "ACHIEVEMENT_ARIZONA_KILLER",
@@ -24715,7 +24720,7 @@
       "Name": "Arizona Killer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "ACHIEVEMENT_ARTFUL_POCKETER",
@@ -24723,7 +24728,7 @@
       "Name": "Artful Pocketer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_ASSEMBLE_YOUR_CREW",
@@ -24747,7 +24752,7 @@
       "Name": "Caravan Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_CARDIAC_ARREST",
@@ -24771,7 +24776,7 @@
       "Name": "Combat Veteran",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_COME_FLY_WITH_ME",
@@ -24835,7 +24840,7 @@
       "Name": "Eureka!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "ACHIEVEMENT_FOR_THE_REPUBLIC",
@@ -24843,7 +24848,7 @@
       "Name": "For the Republic",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "ACHIEVEMENT_GI_BLUES",
@@ -24931,7 +24936,7 @@
       "Name": "Little Wheel",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "ACHIEVEMENT_LOVE_THE_BOMB",
@@ -24979,7 +24984,7 @@
       "Name": "May my Hand Forget its Skill",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "ACHIEVEMENT_MOD_MASTER",
@@ -25075,7 +25080,7 @@
       "Name": "Pros Only",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_RENDER_UNTO_CAESAR",
@@ -25195,7 +25200,7 @@
       "Name": "The House Always Wins",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "ACHIEVEMENT_THE_LEGEND_OF_THE_STAR",
@@ -25203,7 +25208,7 @@
       "Name": "The Legend of the Star",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "ACHIEVEMENT_THE_WHOLE_GANGS_HERE",
@@ -25227,7 +25232,7 @@
       "Name": "Up to the Challenge",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVEMENT_VENI_VIDI_VICI",
@@ -25298,13 +25303,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 824496,
-      "Completed": 225
+      "Progressed": 824508,
+      "Completed": 226
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 824496,
+      "Progressed": 824508,
       "Completed": 186
     }
   ],
@@ -25312,8 +25317,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-26T01:41:39.0741392+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:05:50.8882987+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:06:32.4239073+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:57:00.8031772+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:00:42.1160436+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:05:50.8885251+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:01:24.1012721+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:06:32.4240871+00:00"
 }

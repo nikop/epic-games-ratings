@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 841,
+  "EOS_Progressed": 842,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-10-26T02:24:53.4607775+00:00",
       "NumProgressed": 841,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T05:09:39.4183641+00:00",
+      "NumProgressed": 842,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2512,7 +2517,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_26",
@@ -2576,7 +2581,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_33",
@@ -2600,7 +2605,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_36",
@@ -2616,7 +2621,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "achievement_38",
@@ -2648,7 +2653,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_41",
@@ -2816,7 +2821,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_60",
@@ -2879,13 +2884,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 841,
+      "Progressed": 842,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 841,
+      "Progressed": 842,
       "Completed": 1
     }
   ],
@@ -2893,8 +2898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:09:55.0105555+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:09:39.4183636+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:03:18.4561873+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:09:55.010652+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:02:41.0512594+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:09:39.4184459+00:00"
 }

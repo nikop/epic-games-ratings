@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -6680,10 +6680,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10487,
       "NumberOfAwardsMax": 4876
+    },
+    {
+      "Time": "2023-10-26T05:01:00.3817719+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10488,
+      "NumberOfAwardsMax": 4876
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10487,
+  "NumberOfAwards": 10488,
   "NumberOfAwardsMax": 4876,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6715,7 +6721,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 286
+      "Count": 287
     },
     {
       "Text": "This game is Relaxing",
@@ -6771,8 +6777,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-10-26T04:00:26.731834+00:00",
+  "LastChanged": "2023-10-26T05:01:00.3817717+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.9580014+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:00:26.7318348+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:05:50.2980731+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:01:00.3817725+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:06:31.7736159+00:00"
 }

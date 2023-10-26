@@ -5,9 +5,9 @@
   "Ranking_Rating": 708,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 85,
+  "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 5,
+  "Ranking_EOS_NewPlayers": 4,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95724,
+  "EOS_Progressed": 96433,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95711,
+  "EOS_NewPlayers": 96420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -326,6 +326,11 @@
       "Time": "2023-10-26T04:05:27.1368142+00:00",
       "NumProgressed": 95724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T05:06:02.0240819+00:00",
+      "NumProgressed": 96433,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -378,7 +383,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5743
+      "UsersEstimate": 5786
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -386,7 +391,7 @@
       "Name": "Suit Up",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 38290
+      "UsersEstimate": 38573
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -402,7 +407,7 @@
       "Name": "Eregion Weaponcraft",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 193
     },
     {
       "ID": "CraftedFullSetMetaHat",
@@ -442,7 +447,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 964
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -466,7 +471,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 33503
+      "UsersEstimate": 33752
     },
     {
       "ID": "DefeatedBolgakh",
@@ -474,7 +479,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5743
+      "UsersEstimate": 5786
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -504,17 +509,17 @@
       "ID": "DiscoveredDwarrowdelf",
       "SetID": "1cnmn8b",
       "Name": "Risk a Little Real Light",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 579
     },
     {
       "ID": "DiscoveredElvenQuarter",
       "SetID": "1cnmn8b",
       "Name": "Speak Friend",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 62221
+      "UsersEstimate": 63646
     },
     {
       "ID": "DiscoveredHighway",
@@ -528,17 +533,17 @@
       "ID": "DiscoveredLowerDeeps",
       "SetID": "1cnmn8b",
       "Name": "To the Mountain\u0027s Roots",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6701
+      "UsersEstimate": 7715
     },
     {
       "ID": "DiscoveredMinesOfMoria",
       "SetID": "1cnmn8b",
       "Name": "Delving Onward",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 36375
+      "UsersEstimate": 37609
     },
     {
       "ID": "DiscoveredTomb",
@@ -546,14 +551,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 964
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 95724,
+      "Progressed": 96433,
       "Completed": 0
     }
   ],
@@ -561,8 +566,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2023-10-26T03:01:52.4959307+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:05:27.1368136+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:06:02.0240814+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:11.6467623+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:01:07.7162087+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:05:27.1368375+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:01:58.2710048+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:06:02.024131+00:00"
 }

@@ -43,8 +43,8 @@
 | The Krogan | 37.00% | ~298 |
 | Galactic Explorer | 37.00% | ~298 |
 | Completionist | 36.00% | ~290 |
+| Ghost Ship | 35.00% | ~282 |
 | Broke, Blind, and Bedlam | 35.00% | ~282 |
-| Ghost Ship | 34.00% | ~274 |
 | The Quarian | 34.00% | ~274 |
 | A Personal Touch | 33.00% | ~266 |
 | Archivist | 33.00% | ~266 |

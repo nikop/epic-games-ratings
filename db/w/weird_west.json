@@ -2822,9 +2822,9 @@
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
       "SetID": "8j30i9k",
       "Name": "Welcome to the Weird West",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2870,8 +2870,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:04:26.153471+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:04:35.3532024+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:57:42.9707676+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:04:26.1535832+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:57:42.639674+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:04:35.3532601+00:00"
 }

@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22782,
+  "EOS_Progressed": 22783,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20678,6 +20678,11 @@
       "Time": "2023-10-26T03:08:40.4789393+00:00",
       "NumProgressed": 22782,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-10-26T05:08:31.3570494+00:00",
+      "NumProgressed": 22783,
+      "NumCompleted": 442
     }
   ],
   "TotalAchievements": 20,
@@ -20705,7 +20710,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3189
+      "UsersEstimate": 3190
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -20809,7 +20814,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20848,15 +20853,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22782,
+      "Progressed": 22783,
       "Completed": 442
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-26T04:09:16.5006649+00:00",
+  "LastChanged_Achievements": "2023-10-26T05:08:31.3570489+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-26T04:03:36.7060044+00:00",
-  "LastUpdate_Achievements": "2023-10-26T04:09:16.500876+00:00"
+  "LastUpdate_Ratings": "2023-10-26T05:03:25.4152399+00:00",
+  "LastUpdate_Achievements": "2023-10-26T05:08:31.3571795+00:00"
 }

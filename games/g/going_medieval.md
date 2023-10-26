@@ -8,17 +8,17 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 75.00% | ~4,762 |
 | Having A Field Day | 75.00% | ~4,762 |
-| Reap What You Sow | 72.00% | ~4,571 |
-| The First Day | 69.00% | ~4,381 |
+| Reap What You Sow | 72.00% | ~4,572 |
+| The First Day | 69.00% | ~4,382 |
 | Green Thumb | 67.00% | ~4,254 |
 | Novice Researcher | 67.00% | ~4,254 |
 | Home Cooked Meal | 59.00% | ~3,746 |
 | Onward | 57.00% | ~3,619 |
-| The First Week | 55.00% | ~3,492 |
-| Beam Me Up | 52.00% | ~3,301 |
-| Studious Researcher | 52.00% | ~3,301 |
+| The First Week | 55.00% | ~3,493 |
+| Beam Me Up | 52.00% | ~3,302 |
+| Studious Researcher | 52.00% | ~3,302 |
 | Putting Food on the Table | 51.00% | ~3,238 |
-| Adept Researcher | 45.00% | ~2,857 |
+| Adept Researcher | 45.00% | ~2,858 |
 | Retribution | 42.00% | ~2,667 |
 | Feast or Famine | 42.00% | ~2,667 |
 | ...And Don’t Come Back! | 42.00% | ~2,667 |
@@ -29,16 +29,16 @@ Number of Ratings: 706  (23.09.2022)
 | Winter Is Here | 24.00% | ~1,524 |
 | Disassembled | 22.00% | ~1,397 |
 | Oh Deer! | 22.00% | ~1,397 |
-| A Party Now | 21.00% | ~1,333 |
-| All Year Round | 21.00% | ~1,333 |
-| Nothing Wasted | 13.00% | ~825 |
-| Don't Cry Wolf | 13.00% | ~825 |
+| A Party Now | 21.00% | ~1,334 |
+| All Year Round | 21.00% | ~1,334 |
+| Nothing Wasted | 13.00% | ~826 |
+| Don't Cry Wolf | 13.00% | ~826 |
 | Deerly Departed | 8.00% | ~508 |
-| Where Wolf? | 5.00% | ~317 |
+| Where Wolf? | 5.00% | ~318 |
 | Food Chain | 2.00% | ~127 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,349 (Ranked 170)  
+Progressed: 6,350 (Ranked 170)  
 Completed: 14 (0.22%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,14 +206,15 @@ Completed: 14 (0.22%) (Ranked 228)
 | 2023-10-23 | 6,330 | 14 |
 | 2023-10-24 | 6,338 | 14 |
 | 2023-10-25 | 6,349 | 14 |
+| 2023-10-26 | 6,350 | 14 |
 ## Awards
 Max (Relaxing): 123  (Ranked 326)  
-Sum: 997 (Ranked 250)  
+Sum: 998 (Ranked 250)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 123 |
-| This game is Great for Beginners | 121 |
+| This game is Great for Beginners | 122 |
 | This game has Diverse Characters | 112 |
 | This game has Quickly Understood Controls | 106 |
 | This game is Extremely Fun | 104 |
@@ -367,3 +368,4 @@ Diff (max vs sum): 76
 | 2023-10-17 | 4.60 | - | 123 | 995 |
 | 2023-10-19 | 4.60 | - | 123 | 996 |
 | 2023-10-20 | 4.60 | - | 123 | 997 |
+| 2023-10-26 | 4.60 | - | 123 | 998 |

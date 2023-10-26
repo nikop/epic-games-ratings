@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 71.00% | ~553 |
-| Getting the Hang of It | 42.00% | ~327 |
-| Hoarder | 30.00% | ~234 |
-| Pest Control | 26.00% | ~203 |
-| Blobmeister | 25.00% | ~195 |
-| Exhaustive Explorer | 24.00% | ~187 |
-| How Low Can We Go? | 22.00% | ~171 |
-| Team Builder | 17.00% | ~132 |
-| Long Live Rock | 14.00% | ~109 |
-| Aggressive Antivirus | 12.00% | ~93 |
-| Effective Efficiency | 12.00% | ~93 |
-| Unblurred Lines | 9.00% | ~70 |
-| Obsessively Thorough | 9.00% | ~70 |
-| Endlessly Effective | 9.00% | ~70 |
+| Leap Before You Look | 71.00% | ~557 |
+| Getting the Hang of It | 42.00% | ~329 |
+| Hoarder | 29.00% | ~227 |
+| Pest Control | 26.00% | ~204 |
+| Blobmeister | 25.00% | ~196 |
+| Exhaustive Explorer | 24.00% | ~188 |
+| How Low Can We Go? | 22.00% | ~172 |
+| Team Builder | 17.00% | ~133 |
+| Long Live Rock | 14.00% | ~110 |
+| Aggressive Antivirus | 12.00% | ~94 |
+| Effective Efficiency | 12.00% | ~94 |
+| Unblurred Lines | 9.00% | ~71 |
+| Obsessively Thorough | 9.00% | ~71 |
+| Endlessly Effective | 9.00% | ~71 |
 | What's Behind Every Door? | 4.00% | ~31 |
-| No Stone Unturned | 3.00% | ~23 |
+| No Stone Unturned | 3.00% | ~24 |
 | Turret Syndrome | 1.00% | ~8 |
 | Endless Biographer | 0.40% | ~3 |
 | Grab 'Em All | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779 (Ranked 256)  
+Progressed: 784 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,4 +46,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 655 | 0 |
 | 2023-10-24 | 722 | 0 |
 | 2023-10-25 | 771 | 0 |
-| 2023-10-26 | 779 | 0 |
+| 2023-10-26 | 784 | 0 |
