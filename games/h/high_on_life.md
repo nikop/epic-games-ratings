@@ -10,18 +10,18 @@ Rating: 4.64 (Ranked 324)
 | First Bounty Down | 2.00% | ~487 |
 | G3 Graduation | 2.00% | ~487 |
 | Cold-Blooded Driller | 2.00% | ~487 |
-| Creature Feature | 1.00% | ~243 |
-| Are You Packin'? | 1.00% | ~243 |
-| Bring A Knife to a Gun Fight | 1.00% | ~243 |
-| Lezduit! | 1.00% | ~243 |
-| RIP Davey Glutes | 1.00% | ~243 |
-| We're All Very Impressed, Trust Me | 1.00% | ~243 |
-| Hardest Battle In The Game | 1.00% | ~243 |
-| Self-Actualization | 1.00% | ~243 |
-| Who's The Boss? | 1.00% | ~243 |
-| Fallout Doesn't Let You Do This | 1.00% | ~243 |
-| Don't Knife The Hand That Feeds | 1.00% | ~243 |
-| Spent 15 Hours At The Alien Strip Club | 1.00% | ~243 |
+| Creature Feature | 1.00% | ~244 |
+| Are You Packin'? | 1.00% | ~244 |
+| Bring A Knife to a Gun Fight | 1.00% | ~244 |
+| Lezduit! | 1.00% | ~244 |
+| RIP Davey Glutes | 1.00% | ~244 |
+| We're All Very Impressed, Trust Me | 1.00% | ~244 |
+| Hardest Battle In The Game | 1.00% | ~244 |
+| Self-Actualization | 1.00% | ~244 |
+| Who's The Boss? | 1.00% | ~244 |
+| Fallout Doesn't Let You Do This | 1.00% | ~244 |
+| Don't Knife The Hand That Feeds | 1.00% | ~244 |
+| Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~16 |
 | Legendary Bounty Hunter | 0.90% | ~219 |
 | Series Wrap on Suit-O | 0.90% | ~219 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 324)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,349 (Ranked 123)  
+Progressed: 24,350 (Ranked 123)  
 Completed: 13 (0.05%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 13 (0.05%) (Ranked 283)
 | 2023-10-23 | 24,326 | 13 |
 | 2023-10-24 | 24,336 | 13 |
 | 2023-10-25 | 24,346 | 13 |
-| 2023-10-26 | 24,349 | 13 |
+| 2023-10-26 | 24,350 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

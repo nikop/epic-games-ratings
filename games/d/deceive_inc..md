@@ -9,22 +9,22 @@ Rating: 4.55 (Ranked 493)
 | Mainframe Hacker | 23.00% | ~4,298 |
 | The Spy who eliminated me | 23.00% | ~4,298 |
 | Tomorrow Never Dyes | 22.00% | ~4,111 |
-| Never Say Loser Again | 19.00% | ~3,550 |
-| From the Vault with Love | 18.00% | ~3,363 |
-| Tailor-Made | 18.00% | ~3,363 |
-| For your Eyes only | 18.00% | ~3,363 |
-| Assistant Accountant | 17.00% | ~3,176 |
+| Never Say Loser Again | 19.00% | ~3,551 |
+| From the Vault with Love | 18.00% | ~3,364 |
+| Tailor-Made | 18.00% | ~3,364 |
+| For your Eyes only | 18.00% | ~3,364 |
+| Assistant Accountant | 17.00% | ~3,177 |
 | You Only Live Twice | 16.00% | ~2,990 |
 | Fully Decked Out | 16.00% | ~2,990 |
 | A view to Win | 13.00% | ~2,429 |
 | The Living Portrait | 12.00% | ~2,242 |
 | Smells Like Trouble | 12.00% | ~2,242 |
-| My Motto, My Creed | 11.00% | ~2,055 |
-| Private Collection | 11.00% | ~2,055 |
-| Killer Looks | 11.00% | ~2,055 |
-| Hostile Takeover | 11.00% | ~2,055 |
-| Keycards Royale | 10.00% | ~1,868 |
-| Dr. No Kill | 10.00% | ~1,868 |
+| My Motto, My Creed | 11.00% | ~2,056 |
+| Private Collection | 11.00% | ~2,056 |
+| Killer Looks | 11.00% | ~2,056 |
+| Hostile Takeover | 11.00% | ~2,056 |
+| Keycards Royale | 10.00% | ~1,869 |
+| Dr. No Kill | 10.00% | ~1,869 |
 | In It to Win It | 9.00% | ~1,682 |
 | Security Supervisor | 6.00% | ~1,121 |
 | License to Thrill | 5.00% | ~934 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 493)
 | Extraction Confusion | 0.20% | ~37 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,685 (Ranked 131)  
+Progressed: 18,687 (Ranked 131)  
 Completed: 4 (0.02%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 4 (0.02%) (Ranked 298)
 | 2023-10-23 | 18,653 | 4 |
 | 2023-10-24 | 18,673 | 4 |
 | 2023-10-25 | 18,684 | 4 |
-| 2023-10-26 | 18,685 | 4 |
+| 2023-10-26 | 18,687 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

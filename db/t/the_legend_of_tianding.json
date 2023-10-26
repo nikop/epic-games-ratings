@@ -145,9 +145,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BigEater",
@@ -322,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:20:27.607524+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:05:30.617155+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.8378527+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:18:41.7667282+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:20:27.6075423+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:03:20.4472177+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:05:30.6171757+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,416 |
-| Comeback | 82.00% | ~110,945 |
-| Information is Key | 80.00% | ~108,239 |
-| Unlucky | 71.00% | ~96,062 |
-| Anarchist | 68.00% | ~92,003 |
-| Wallhack | 65.00% | ~87,944 |
-| Steady Supply | 60.00% | ~81,179 |
-| Lucky Shot | 53.00% | ~71,708 |
-| Forward Observer | 52.00% | ~70,355 |
-| Ring Ring! | 52.00% | ~70,355 |
+| Immovable Object | 89.00% | ~120,417 |
+| Comeback | 82.00% | ~110,946 |
+| Information is Key | 80.00% | ~108,240 |
+| Unlucky | 71.00% | ~96,063 |
+| Anarchist | 68.00% | ~92,004 |
+| Wallhack | 65.00% | ~87,945 |
+| Steady Supply | 60.00% | ~81,180 |
+| Lucky Shot | 53.00% | ~71,709 |
+| Forward Observer | 52.00% | ~70,356 |
+| Ring Ring! | 52.00% | ~70,356 |
 | Bossing Around | 45.00% | ~60,885 |
 | Frostbite | 45.00% | ~60,885 |
 | Night Owl | 44.00% | ~59,532 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,218 |
 | Road to Berlin | 0.60% | ~812 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,299 (Ranked 76)  
+Progressed: 135,300 (Ranked 76)  
 Completed: 30 (0.02%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 30 (0.02%) (Ranked 298)
 | 2023-10-23 | 135,097 | 30 |
 | 2023-10-24 | 135,189 | 30 |
 | 2023-10-25 | 135,288 | 30 |
-| 2023-10-26 | 135,299 | 30 |
+| 2023-10-26 | 135,300 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 237)  
-Sum: 3,259 (Ranked 166)  
+Sum: 3,260 (Ranked 166)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 71
 | This game has Amazing Characters | 281 |
 | This game is Highly Recommended | 281 |
 | This game has Realistic Visuals | 266 |
-| This game has a Competitive Community | 260 |
+| This game has a Competitive Community | 261 |
 | This game has Amazing Storytelling | 257 |
 | This game is Educational | 99 |
 | This game has Obsessive Gameplay | 29 |
@@ -453,3 +453,4 @@ Diff (max vs sum): 71
 | 2023-10-23 | 4.39 | - | 335 | 3,255 |
 | 2023-10-24 | 4.39 | - | 335 | 3,258 |
 | 2023-10-25 | 4.39 | - | 335 | 3,259 |
+| 2023-10-26 | 4.39 | - | 335 | 3,260 |

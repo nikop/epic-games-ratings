@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,11 +22,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 292,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-10-04T08:05:55.5813903+00:00",
@@ -642,6 +642,11 @@
       "Time": "2023-10-26T01:46:24.0300326+00:00",
       "NumProgressed": 289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T03:05:46.9510281+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -654,23 +659,23 @@
       "Name": "Rookie",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -686,7 +691,7 @@
       "Name": "Like lightning!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -702,7 +707,7 @@
       "Name": "Globetrotter",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -718,7 +723,7 @@
       "Name": "Masterful!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -742,7 +747,7 @@
       "Name": "Immortal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -758,7 +763,7 @@
       "Name": "Shapeshifter",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -780,9 +785,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -798,7 +803,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -814,7 +819,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -822,7 +827,7 @@
       "Name": "The Octopus",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -894,7 +899,7 @@
       "Name": "Shopping time!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -902,15 +907,15 @@
       "Name": "Spendthrift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -932,9 +937,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -964,9 +969,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -974,7 +979,7 @@
       "Name": "You\u0027re good at this!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -990,21 +995,21 @@
       "Name": "Mission complete",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 292,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:20:40.7977511+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:05:46.9510268+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:16:14.5076467+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:20:40.7977898+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:01:58.2550575+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:05:46.9510681+00:00"
 }

@@ -6697,7 +6697,7 @@
       "Count": 3766
     }
   ],
-  "EOS_Progressed": 138136,
+  "EOS_Progressed": 138137,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 1,
@@ -25987,6 +25987,11 @@
       "Time": "2023-10-26T01:45:17.0968538+00:00",
       "NumProgressed": 138136,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T03:04:29.2320516+00:00",
+      "NumProgressed": 138137,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26196,9 +26201,9 @@
       "ID": "collection02",
       "SetID": "anfd17p",
       "Name": "Scrapbooker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 1105
     },
     {
       "ID": "collection03",
@@ -26844,9 +26849,9 @@
       "ID": "uncommonres02",
       "SetID": "anfd17p",
       "Name": "Exotic Commodities",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 967
     },
     {
       "ID": "uncommonres03",
@@ -26893,15 +26898,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138136,
+      "Progressed": 138137,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-25T21:58:12.2379984+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:19:35.8447865+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:04:29.232051+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:13:02.155797+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:19:35.8450669+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:57:58.9743886+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:04:29.2323553+00:00"
 }

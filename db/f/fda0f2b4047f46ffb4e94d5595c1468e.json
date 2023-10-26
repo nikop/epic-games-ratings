@@ -3,7 +3,7 @@
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 626,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 157,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 326,
@@ -1651,18 +1651,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 3811,
       "NumberOfAwardsMax": 1315
+    },
+    {
+      "Time": "2023-10-26T02:59:48.7402502+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3827,
+      "NumberOfAwardsMax": 1331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3811,
-  "NumberOfAwardsMax": 1315,
+  "NumberOfAwards": 3827,
+  "NumberOfAwardsMax": 1331,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1315
+      "Count": 1331
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1731,9 +1737,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 8050,
+  "EOS_Progressed": 8051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5741,6 +5747,11 @@
       "Time": "2023-10-26T01:46:56.457142+00:00",
       "NumProgressed": 8050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T03:06:30.4717411+00:00",
+      "NumProgressed": 8051,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5769,7 +5780,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "ach04",
@@ -5785,7 +5796,7 @@
       "Name": "Who Was That???",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach06",
@@ -5809,7 +5820,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "ach09",
@@ -5825,7 +5836,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ach11",
@@ -5881,7 +5892,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "ach18",
@@ -5969,7 +5980,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ach29",
@@ -6041,7 +6052,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ach38",
@@ -6073,7 +6084,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "ach42",
@@ -6105,7 +6116,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ach46",
@@ -6137,7 +6148,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ach50",
@@ -6152,16 +6163,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8050,
+      "Progressed": 8051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-25T22:59:05.8667104+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:21:07.1809876+00:00",
+  "LastChanged": "2023-10-26T02:59:48.74025+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:06:30.4717396+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:14:30.382257+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:21:07.1810542+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:59:48.7402506+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:06:30.4718123+00:00"
 }

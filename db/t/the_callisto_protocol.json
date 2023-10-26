@@ -1349,9 +1349,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16266,
+  "EOS_Progressed": 16268,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8194,6 +8194,11 @@
       "Time": "2023-10-26T01:48:09.7168086+00:00",
       "NumProgressed": 16266,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-26T03:07:56.2682846+00:00",
+      "NumProgressed": 16268,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8211,9 +8216,9 @@
       "ID": "ALL_WEAPONS_AND_UPGRADES",
       "SetID": "6j5ggkc",
       "Name": "Armed to the Teeth",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 29
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -8347,9 +8352,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 651
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8580,13 +8585,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16266,
+      "Progressed": 16268,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4192,
+      "Progressed": 4194,
       "Completed": 29
     }
   ],
@@ -8594,8 +8599,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-25T18:00:07.3120219+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:22:17.0768853+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:07:56.268284+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:15:30.6100488+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:22:17.0769664+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:01:01.9351991+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:07:56.2683676+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.62 (Ranked 356)  
+Rating: 4.62 (Ranked 357)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -54,7 +54,7 @@ Rating: 4.62 (Ranked 356)
 | One Gun | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,217 (Ranked 233)  
-Completed: 7 (0.58%) (Ranked 175)  
+Completed: 7 (0.58%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

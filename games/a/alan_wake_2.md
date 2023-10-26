@@ -4,54 +4,54 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 85.00% | ~447 |
-| Hunting Season | 83.00% | ~437 |
-| Not the Last | 68.00% | ~358 |
-| Somebody's Home | 58.00% | ~305 |
-| Coffee Thermos | 54.00% | ~284 |
-| Grew Bigger | 53.00% | ~279 |
-| Darkness Coiled | 49.00% | ~258 |
-| Secret Stashes | 48.00% | ~252 |
-| Chased the Source | 48.00% | ~252 |
-| Bring It | 47.00% | ~247 |
-| Felt Good | 47.00% | ~247 |
-| Into the Overlap | 43.00% | ~226 |
-| Lawman | 42.00% | ~221 |
+| Nightmare Territory | 85.00% | ~449 |
+| Hunting Season | 83.00% | ~438 |
+| Not the Last | 68.00% | ~359 |
+| Somebody's Home | 58.00% | ~306 |
+| Coffee Thermos | 55.00% | ~290 |
+| Grew Bigger | 53.00% | ~280 |
+| Darkness Coiled | 50.00% | ~264 |
+| Felt Good | 48.00% | ~253 |
+| Secret Stashes | 48.00% | ~253 |
+| Chased the Source | 48.00% | ~253 |
+| Bring It | 47.00% | ~248 |
+| Lawman | 42.00% | ~222 |
+| Into the Overlap | 42.00% | ~222 |
 | Find the Light | 41.00% | ~216 |
-| Aimed Ahead | 36.00% | ~189 |
-| Talk Show | 36.00% | ~189 |
-| Carry his Words | 34.00% | ~179 |
+| Aimed Ahead | 36.00% | ~190 |
+| Talk Show | 36.00% | ~190 |
+| Carry his Words | 34.00% | ~180 |
 | The Other Side | 30.00% | ~158 |
-| Storm Cloud | 28.00% | ~147 |
-| New York City | 28.00% | ~147 |
-| Return | 27.00% | ~142 |
+| Storm Cloud | 28.00% | ~148 |
+| New York City | 28.00% | ~148 |
+| Return | 27.00% | ~143 |
 | Lights Shining | 25.00% | ~132 |
-| Greatest Hits | 24.00% | ~126 |
-| Yippee Ki-yay | 24.00% | ~126 |
-| Filling the Shape | 24.00% | ~126 |
+| Greatest Hits | 24.00% | ~127 |
+| Yippee Ki-yay | 24.00% | ~127 |
+| Filling the Shape | 24.00% | ~127 |
+| Growing Stronger | 23.00% | ~121 |
 | Shining in the Night | 23.00% | ~121 |
 | This is the Moment | 22.00% | ~116 |
-| Growing Stronger | 22.00% | ~116 |
 | Finding a Way | 22.00% | ~116 |
-| Stop the Monster | 21.00% | ~110 |
-| All His Life | 20.00% | ~105 |
-| Bright Falls' Finest | 18.00% | ~95 |
+| Stop the Monster | 20.00% | ~106 |
+| All His Life | 20.00% | ~106 |
+| Bright Falls' Finest | 19.00% | ~100 |
 | Back in Watery | 18.00% | ~95 |
-| Escape its Gravity | 17.00% | ~89 |
-| We Watch in the Night | 17.00% | ~89 |
+| Escape its Gravity | 17.00% | ~90 |
+| We Watch in the Night | 17.00% | ~90 |
 | In One Go | 15.00% | ~79 |
 | In a Fancy Hotel | 14.00% | ~74 |
-| Ready for a Fight | 13.00% | ~68 |
+| Ready for a Fight | 13.00% | ~69 |
 | Strange Reality | 12.00% | ~63 |
 | Stop Right There | 11.00% | ~58 |
+| Girl in Love | 11.00% | ~58 |
+| The Old Gods | 11.00% | ~58 |
 | Told and Retold | 11.00% | ~58 |
 | Behind the Masks | 11.00% | ~58 |
-| Girl in Love | 10.00% | ~53 |
-| The Old Gods | 10.00% | ~53 |
+| Cut Short | 11.00% | ~58 |
 | Seeing Double | 10.00% | ~53 |
-| Cut Short | 10.00% | ~53 |
-| Stunning Vistas | 9.00% | ~47 |
-| Gone for Good | 7.00% | ~37 |
+| Stunning Vistas | 9.00% | ~48 |
+| Gone for Good | 8.00% | ~42 |
 | The Final Deerfest | 7.00% | ~37 |
 | End of the Road | 7.00% | ~37 |
 | The Cult of the Word | 7.00% | ~37 |
@@ -71,7 +71,7 @@
 | Hidden by the Trees | 0.60% | ~3 |
 | Rustic Charm | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526 (Ranked 281)  
+Progressed: 528 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 247 | 0 |
 | 2023-10-24 | 383 | 0 |
 | 2023-10-25 | 515 | 0 |
-| 2023-10-26 | 526 | 0 |
+| 2023-10-26 | 528 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

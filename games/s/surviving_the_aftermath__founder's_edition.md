@@ -258,8 +258,8 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-26 | 9,861 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 344)  
-Sum: 714 (Ranked 287)  
-Diff (max vs sum): 57  
+Sum: 714 (Ranked 286)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

@@ -4245,9 +4245,9 @@
       "Count": 468
     }
   ],
-  "EOS_Progressed": 89327,
+  "EOS_Progressed": 89328,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23145,6 +23145,11 @@
       "Time": "2023-10-25T23:08:18.4207136+00:00",
       "NumProgressed": 89327,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-26T03:08:48.5311581+00:00",
+      "NumProgressed": 89328,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 41,
@@ -23338,9 +23343,9 @@
       "ID": "ACH_0310",
       "SetID": "3kam13l",
       "Name": "Cracked the Jack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_0330",
@@ -23483,13 +23488,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89327,
+      "Progressed": 89328,
       "Completed": 52
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17674,
+      "Progressed": 17675,
       "Completed": 15554
     }
   ],
@@ -23497,8 +23502,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-25T17:58:52.0150473+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:24:22.0104405+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:08:48.5311575+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.0531076+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:14:13.6521026+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:24:22.0106066+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:59:26.2523447+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:08:48.5313055+00:00"
 }

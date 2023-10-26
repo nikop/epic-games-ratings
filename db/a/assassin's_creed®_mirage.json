@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 650,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 407,
@@ -709,10 +709,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 777,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-26T02:57:43.4883143+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 698,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 777,
+  "NumberOfAwards": 698,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -795,8 +801,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-10-26T01:38:19.0834595+00:00",
+  "LastChanged": "2023-10-26T02:57:43.4883141+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.7760268+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:12:51.7111308+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:18:50.1318761+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:57:43.4883147+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:03:34.4081549+00:00"
 }

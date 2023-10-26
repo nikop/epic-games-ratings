@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -415,7 +415,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2072,
+  "EOS_Progressed": 2073,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -6320,6 +6320,11 @@
       "Time": "2023-10-26T01:48:26.5778371+00:00",
       "NumProgressed": 2072,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-26T03:08:23.8620197+00:00",
+      "NumProgressed": 2073,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6515,7 +6520,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "fourleafclover",
@@ -6571,7 +6576,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "heroinspection",
@@ -6787,7 +6792,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "thealchemist",
@@ -6851,7 +6856,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -6891,7 +6896,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1927
+      "UsersEstimate": 1928
     },
     {
       "ID": "warmachinesarmy",
@@ -6923,14 +6928,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2072,
+      "Progressed": 2073,
       "Completed": 2
     }
   ],
@@ -6938,8 +6943,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-25T19:01:39.3585589+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:22:31.088656+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:08:23.8620193+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:16:03.4953579+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:22:31.0887682+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:01:46.6389219+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:08:23.8621402+00:00"
 }

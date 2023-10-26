@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.90% | ~1,243 |
 | Tax not Included | 0.80% | ~1,105 |
 | For the Hoard! | 0.80% | ~1,105 |
+| Scrapbooker | 0.80% | ~1,105 |
 | Trash to Treasure | 0.80% | ~1,105 |
 | Seasoned Journeyman | 0.80% | ~1,105 |
 | Special Ingredient | 0.80% | ~1,105 |
@@ -56,7 +57,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.70% | ~967 |
 | The King's Caprice | 0.70% | ~967 |
 | Big Game Hunting | 0.70% | ~967 |
-| Scrapbooker | 0.70% | ~967 |
 | Locally Sourced | 0.70% | ~967 |
 | Flying off the Shelves | 0.70% | ~967 |
 | This Power Level...! | 0.70% | ~967 |
@@ -74,6 +74,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.70% | ~967 |
 | Attrition Mission | 0.70% | ~967 |
 | Black Friday Special | 0.70% | ~967 |
+| Exotic Commodities | 0.70% | ~967 |
 | King's Blade | 0.70% | ~967 |
 | Cream of the Crop | 0.60% | ~829 |
 | Top of the World | 0.60% | ~829 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.60% | ~829 |
 | King's Shadow | 0.60% | ~829 |
 | Master Recycler | 0.60% | ~829 |
-| Exotic Commodities | 0.60% | ~829 |
 | Jackpot! | 0.50% | ~691 |
 | Economy of Scarce | 0.50% | ~691 |
 | The Free Encyclopedia | 0.40% | ~553 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,136 (Ranked 75)  
+Progressed: 138,137 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 172 (0.12%) (Ranked 249)
 | 2023-10-23 | 138,047 | 172 |
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
-| 2023-10-26 | 138,136 | 172 |
+| 2023-10-26 | 138,137 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,446 (Ranked 51)  

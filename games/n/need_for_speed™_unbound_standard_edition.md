@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~7,066 |
-| Cool Whip | 90.00% | ~6,838 |
-| Fashion Killa | 89.00% | ~6,762 |
-| Drop the Beat | 86.00% | ~6,534 |
-| Hey Lakeshore | 85.00% | ~6,458 |
-| 100 Miles and Runnin' | 84.00% | ~6,382 |
-| Public Enemy | 83.00% | ~6,306 |
+| Throwing up Tags | 93.00% | ~7,067 |
+| Cool Whip | 90.00% | ~6,839 |
+| Fashion Killa | 89.00% | ~6,763 |
+| Drop the Beat | 86.00% | ~6,535 |
+| Hey Lakeshore | 85.00% | ~6,459 |
+| 100 Miles and Runnin' | 84.00% | ~6,383 |
+| Public Enemy | 83.00% | ~6,307 |
 | Rebel Without a Pause | 69.00% | ~5,243 |
 | Hey Speedie! | 69.00% | ~5,243 |
 | Most Wanted | 65.00% | ~4,939 |
@@ -20,15 +20,15 @@
 | Style it Out | 54.00% | ~4,103 |
 | Untouchable | 54.00% | ~4,103 |
 | Oh, It's On | 51.00% | ~3,875 |
-| Rydell's Rydes | 49.00% | ~3,723 |
-| Cash Money Millionaire | 47.00% | ~3,571 |
-| Lake Better Watch Out | 40.00% | ~3,039 |
-| Access All Areas | 35.00% | ~2,659 |
-| #Blessed | 35.00% | ~2,659 |
-| Kick it | 32.00% | ~2,431 |
-| Found Family | 32.00% | ~2,431 |
-| The Collector | 30.00% | ~2,279 |
-| In the Flow | 29.00% | ~2,203 |
+| Rydell's Rydes | 49.00% | ~3,724 |
+| Cash Money Millionaire | 47.00% | ~3,572 |
+| Lake Better Watch Out | 40.00% | ~3,040 |
+| Access All Areas | 35.00% | ~2,660 |
+| #Blessed | 35.00% | ~2,660 |
+| Kick it | 32.00% | ~2,432 |
+| Found Family | 32.00% | ~2,432 |
+| The Collector | 30.00% | ~2,280 |
+| In the Flow | 29.00% | ~2,204 |
 | Top Billin' | 23.00% | ~1,748 |
 | Teacher's Pet | 22.00% | ~1,672 |
 | Full House | 20.00% | ~1,520 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 2.00% | ~152 |
 | Cleaning Up | 2.00% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,598 (Ranked 161)  
+Progressed: 7,599 (Ranked 161)  
 Completed: 43 (0.57%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,4 +87,4 @@ Completed: 43 (0.57%) (Ranked 178)
 | 2023-10-23 | 7,433 | 43 |
 | 2023-10-24 | 7,518 | 43 |
 | 2023-10-25 | 7,589 | 43 |
-| 2023-10-26 | 7,598 | 43 |
+| 2023-10-26 | 7,599 | 43 |

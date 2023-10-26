@@ -475,10 +475,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-10-26T02:58:49.6891729+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 263,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 263,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -492,7 +498,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -537,9 +543,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 255911,
+  "EOS_Progressed": 255983,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 20144,
+  "EOS_NewPlayers": 20114,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9052,6 +9058,11 @@
       "Time": "2023-10-26T02:19:40.5097395+00:00",
       "NumProgressed": 255911,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-26T03:04:34.8986626+00:00",
+      "NumProgressed": 255983,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 24,
@@ -9071,7 +9082,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5120
     },
     {
       "ID": "11",
@@ -9103,7 +9114,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7677
+      "UsersEstimate": 7679
     },
     {
       "ID": "15",
@@ -9159,7 +9170,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5120
     },
     {
       "ID": "21",
@@ -9183,7 +9194,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "24",
@@ -9191,7 +9202,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "3",
@@ -9207,7 +9218,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "5",
@@ -9215,7 +9226,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12796
+      "UsersEstimate": 12799
     },
     {
       "ID": "6",
@@ -9223,7 +9234,7 @@
       "Name": "PRO",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "7",
@@ -9254,16 +9265,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 255911,
+      "Progressed": 255983,
       "Completed": 241
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-25T23:58:32.9133107+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:19:40.5097387+00:00",
+  "LastChanged": "2023-10-26T02:58:49.6891728+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:04:34.898662+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:13:41.651675+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:19:40.5098084+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:58:49.6891736+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:04:34.8987338+00:00"
 }

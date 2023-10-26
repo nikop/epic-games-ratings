@@ -18,6 +18,7 @@ Rating: 4.60 (Ranked 401)
 | Data Logger | 0.10% | ~14 |
 | Thorston Mayer | 0.10% | ~14 |
 | Drone Dodger | 0.10% | ~14 |
+| Brother's Reaper | 0.10% | ~14 |
 | Heal Thy Medic | 0.10% | ~14 |
 | Miraculous Maya | 0.10% | ~14 |
 | Khan's Revenge | 0.10% | ~14 |
@@ -29,7 +30,6 @@ Rating: 4.60 (Ranked 401)
 | Celebrations are in Order | 0.10% | ~14 |
 | Impossible Objects | 0.10% | ~14 |
 | Data Miner | 0.00% | ~0 |
-| Brother's Reaper | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |

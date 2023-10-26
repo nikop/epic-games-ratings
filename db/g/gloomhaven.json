@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -2255,9 +2255,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 16099,
+  "EOS_Progressed": 16101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1729,
+  "EOS_NewPlayers": 1723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6765,6 +6765,11 @@
       "Time": "2023-10-26T02:24:21.0319909+00:00",
       "NumProgressed": 16099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T03:08:47.3427633+00:00",
+      "NumProgressed": 16101,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -6975,9 +6980,9 @@
       "ID": "Achievement_Trophy26",
       "SetID": "724h0m0",
       "Name": "Overkill",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5474
+      "UsersEstimate": 5635
     },
     {
       "ID": "Achievement_Trophy27",
@@ -7169,7 +7174,7 @@
       "Name": "The Pacifist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Achievement_Trophy_JOTL_01",
@@ -7257,14 +7262,14 @@
       "Name": "Born Support",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 16099,
+      "Progressed": 16101,
       "Completed": 1
     }
   ],
@@ -7272,8 +7277,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-25T07:59:32.8006207+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:24:21.0319902+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:08:47.3427621+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:15:04.297526+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:24:21.0320735+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:00:32.9032985+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:08:47.3428525+00:00"
 }

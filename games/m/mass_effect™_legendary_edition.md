@@ -80,9 +80,9 @@
 | World Shaker | 26.00% | ~210 |
 | Eye of the Hurricane | 25.00% | ~202 |
 | Weapon Specialist | 25.00% | ~202 |
+| Tunnel Rat | 25.00% | ~202 |
 | Liberator | 25.00% | ~202 |
 | Pathfinder | 24.00% | ~193 |
-| Tunnel Rat | 24.00% | ~193 |
 | Savior | 23.00% | ~185 |
 | Paramour II | 23.00% | ~185 |
 | Arbiter | 23.00% | ~185 |

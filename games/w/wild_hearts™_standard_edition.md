@@ -21,7 +21,7 @@
 | Helpful Heart | 55.00% | ~100 |
 | Flawless Crystal | 54.00% | ~98 |
 | Bonds of Enmity | 54.00% | ~98 |
-| Counter Specialist | 50.00% | ~90 |
+| Counter Specialist | 51.00% | ~92 |
 | Axer of Auspice | 45.00% | ~81 |
 | Single Minded | 43.00% | ~78 |
 | Fair Means or Foul | 43.00% | ~78 |

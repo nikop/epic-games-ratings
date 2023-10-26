@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24349,
+  "EOS_Progressed": 24350,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6076,6 +6076,11 @@
       "Time": "2023-10-26T02:21:07.6732386+00:00",
       "NumProgressed": 24349,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-26T03:06:31.0552167+00:00",
+      "NumProgressed": 24350,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6127,7 +6132,7 @@
       "Name": "Creature Feature",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GET_GUS",
@@ -6143,7 +6148,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -6151,7 +6156,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -6159,7 +6164,7 @@
       "Name": "Lezduit!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -6167,7 +6172,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -6207,7 +6212,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -6239,7 +6244,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -6255,7 +6260,7 @@
       "Name": "Self-Actualization",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -6263,7 +6268,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -6271,7 +6276,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -6279,7 +6284,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -6311,7 +6316,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -6438,13 +6443,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24349,
+      "Progressed": 24350,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 1374
     }
   ],
@@ -6452,8 +6457,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:21:07.6732381+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:06:31.0552158+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:16:01.915764+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:21:07.6733087+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:01:45.2401907+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:06:31.0552962+00:00"
 }

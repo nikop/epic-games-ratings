@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7622,
+  "EOS_Progressed": 7623,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7573,6 +7573,11 @@
       "Time": "2023-10-25T09:04:32.2772458+00:00",
       "NumProgressed": 7622,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-26T03:05:57.092488+00:00",
+      "NumProgressed": 7623,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7608,7 +7613,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -7656,7 +7661,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -7751,7 +7756,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7622,
+      "Progressed": 7623,
       "Completed": 34
     }
   ],
@@ -7759,8 +7764,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:20:48.5198074+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:05:57.0924874+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.1147547+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:15:17.3117687+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:20:48.5198598+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:00:48.2485701+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:05:57.0925503+00:00"
 }

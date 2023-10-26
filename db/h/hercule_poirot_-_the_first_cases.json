@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -585,6 +585,11 @@
       "Time": "2023-10-25T19:06:53.2346882+00:00",
       "NumProgressed": 440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T03:07:13.219482+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -596,7 +601,7 @@
       "Name": "The Bracelet",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_010",
@@ -604,7 +609,7 @@
       "Name": "The Denouement",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_011",
@@ -612,7 +617,7 @@
       "Name": "Well-travelled",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_012",
@@ -620,7 +625,7 @@
       "Name": "Well-acquainted",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_013",
@@ -644,7 +649,7 @@
       "Name": "Truth from Within",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_016",
@@ -668,7 +673,7 @@
       "Name": "Thinking of Everything",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_019",
@@ -684,7 +689,7 @@
       "Name": "The Blackmail",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_020",
@@ -716,7 +721,7 @@
       "Name": "Take a Break",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_024",
@@ -788,7 +793,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_032",
@@ -820,7 +825,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_036",
@@ -834,17 +839,17 @@
       "ID": "ACH_037",
       "SetID": "72imik0",
       "Name": "Florette Duval",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_038",
       "SetID": "72imik0",
       "Name": "Gedeon Demir",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_039",
@@ -884,7 +889,7 @@
       "Name": "Luc Piette",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_043",
@@ -892,7 +897,7 @@
       "Name": "Major Felix Hagen",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_044",
@@ -916,7 +921,7 @@
       "Name": "Zakariya Demir",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_05",
@@ -924,7 +929,7 @@
       "Name": "The Interrogations",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_06",
@@ -963,7 +968,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 6
     }
   ],
@@ -971,8 +976,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:21:33.157562+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:07:13.2194813+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.779807+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:16:11.6190947+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:21:33.1576038+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:01:55.755519+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:07:13.2195251+00:00"
 }

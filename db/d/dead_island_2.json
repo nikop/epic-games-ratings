@@ -5751,9 +5751,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 704131,
+  "EOS_Progressed": 704144,
   "EOS_Completed": 2263,
-  "EOS_NewPlayers": 6269,
+  "EOS_NewPlayers": 6258,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -27191,6 +27191,11 @@
       "Time": "2023-10-26T02:20:26.6092478+00:00",
       "NumProgressed": 704131,
       "NumCompleted": 2263
+    },
+    {
+      "Time": "2023-10-26T03:05:29.3748551+00:00",
+      "NumProgressed": 704144,
+      "NumCompleted": 2263
     }
   ],
   "TotalAchievements": 45,
@@ -27218,7 +27223,7 @@
       "Name": "Git Gutte!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28165
+      "UsersEstimate": 28166
     },
     {
       "ID": "ach_anger_management",
@@ -27266,7 +27271,7 @@
       "Name": "Break A Leg",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28165
+      "UsersEstimate": 28166
     },
     {
       "ID": "ach_contender",
@@ -27322,7 +27327,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28165
+      "UsersEstimate": 28166
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -27346,7 +27351,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28165
+      "UsersEstimate": 28166
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -27482,7 +27487,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28165
+      "UsersEstimate": 28166
     },
     {
       "ID": "ach_survival_expert",
@@ -27561,22 +27566,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 704131,
+      "Progressed": 704144,
       "Completed": 2263
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 29673,
-      "Completed": 29673
+      "Progressed": 29686,
+      "Completed": 29686
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-10-25T22:57:36.5865551+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:20:26.6092472+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:05:29.3748546+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:12:49.4215604+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:20:26.6094144+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:57:38.2346977+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:05:29.375024+00:00"
 }

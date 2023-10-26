@@ -2,7 +2,7 @@
   "ID": "83a550cbe7434886b5e42bead6335cff",
   "Name": "Sailing Era",
   "ProductSlug": "sailingera-450a80",
-  "Ranking_Rating": 101,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 704,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-03-12T23:58:12.5676482+00:00",
@@ -99,6 +99,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-26T03:03:26.4657261+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -125,9 +131,9 @@
   "FirstSeen": "2023-01-12T09:59:58.7174418+00:00",
   "FirstSeenRating": "2023-03-12T23:58:12.567648+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.1243565+00:00",
-  "LastChanged": "2023-10-07T01:39:51.6460934+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:21:40.4072824+00:00",
+  "LastChanged": "2023-10-26T03:03:26.465726+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:07:22.3820205+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:14.0983323+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:18:45.4680831+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:21:40.4072862+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:03:26.4657266+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:07:22.3820242+00:00"
 }

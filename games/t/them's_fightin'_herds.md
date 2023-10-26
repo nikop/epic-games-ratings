@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.62 (Ranked 356)  
+Rating: 4.63 (Ranked 339)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.62 (Ranked 356)
 | Alpaca Space Program | 0.10% | ~231 |
 | High Priestess | 0.10% | ~231 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,482 (Ranked 62)  
+Progressed: 231,483 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 5 (0.00%) (Ranked 326)
 | 2023-10-23 | 231,403 | 5 |
 | 2023-10-24 | 231,438 | 5 |
 | 2023-10-25 | 231,469 | 5 |
-| 2023-10-26 | 231,482 | 5 |
+| 2023-10-26 | 231,483 | 5 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 509)  
 Sum: 25 (Ranked 515)  
@@ -281,3 +281,4 @@ Diff (max vs sum): -6
 | 2023-09-24 | 4.63 | 24 | 24 |
 | 2023-10-04 | 4.63 | 25 | 25 |
 | 2023-10-13 | 4.62 | 25 | 25 |
+| 2023-10-26 | 4.63 | 25 | 25 |

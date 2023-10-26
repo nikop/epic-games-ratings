@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1932,
+  "EOS_Progressed": 1933,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -2424,6 +2424,11 @@
       "Time": "2023-10-26T01:44:53.6692554+00:00",
       "NumProgressed": 1932,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-26T03:04:15.4666592+00:00",
+      "NumProgressed": 1933,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2435,7 +2440,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2579,15 +2584,15 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH_LETS_RIDE",
       "SetID": "8j30i9k",
       "Name": "Let\u2019s Ride",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2763,7 +2768,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2795,7 +2800,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2811,15 +2816,15 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
       "SetID": "8j30i9k",
       "Name": "Welcome to the Weird West",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2858,15 +2863,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1932,
+      "Progressed": 1933,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:19:24.7040642+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:04:15.4666586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:12:46.5588464+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:19:24.7041216+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:57:34.2963901+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:04:15.4667216+00:00"
 }

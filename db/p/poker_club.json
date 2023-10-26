@@ -865,9 +865,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 533435,
+  "EOS_Progressed": 533436,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1563,
+  "EOS_NewPlayers": 1558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22090,6 +22090,11 @@
       "Time": "2023-10-26T02:20:23.7049701+00:00",
       "NumProgressed": 533435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-26T03:05:25.7861734+00:00",
+      "NumProgressed": 533436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -22101,7 +22106,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 144027
+      "UsersEstimate": 144028
     },
     {
       "ID": "Backdoor",
@@ -22213,7 +22218,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37340
+      "UsersEstimate": 37341
     },
     {
       "ID": "DressToImpress",
@@ -22253,7 +22258,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 218708
+      "UsersEstimate": 218709
     },
     {
       "ID": "HoldingYourOwn",
@@ -22365,7 +22370,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37340
+      "UsersEstimate": 37341
     },
     {
       "ID": "RankAmateur",
@@ -22373,7 +22378,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112021
+      "UsersEstimate": 112022
     },
     {
       "ID": "RegularPunter",
@@ -22460,7 +22465,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 533435,
+      "Progressed": 533436,
       "Completed": 2
     }
   ],
@@ -22468,8 +22473,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-20T13:06:30.825816+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:20:23.7049696+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:05:25.786172+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:33.84877+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:13:00.0694107+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:20:23.7051304+00:00"
+  "LastUpdate_Ratings": "2023-10-26T02:57:56.0378198+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:05:25.7863441+00:00"
 }

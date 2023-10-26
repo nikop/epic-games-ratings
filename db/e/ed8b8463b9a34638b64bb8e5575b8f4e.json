@@ -268,9 +268,9 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "drowned_sorrows",
@@ -404,9 +404,9 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 95,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "the_petition",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-26T02:22:34.8404751+00:00",
+  "LastChanged_Achievements": "2023-10-26T03:08:28.5361538+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:14:54.039412+00:00",
-  "LastUpdate_Achievements": "2023-10-26T02:22:34.8404976+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:00:19.3943021+00:00",
+  "LastUpdate_Achievements": "2023-10-26T03:08:28.5361759+00:00"
 }
