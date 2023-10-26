@@ -1,8 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 2023-10-26 | - |  | - | - |
 | [Hamster on Rails](games/f/fd4730080e1b408dac0303a255fcc3dd.md) | 2023-10-26 | - |  | - | - |
-| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 1,860 | - | - |
+| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 1,869 | - | - |
 | [Birch Simulator](games/9/9d986837984c476195398f37ba7446dd.md) | 2023-10-26 | - |  | - | - |
 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 3 | - | - |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 3 | - | - |
@@ -11,7 +10,7 @@
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 2 | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-10-27 | - |  | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 2 | - | - |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 544 | - | 0 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 545 | - | 0 |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2023-10-27 | - |  | - | - |
 | [1001 Jigsaw. Legends of Mystery](games/b/ba705eb72f864b23b8934fb90b8cfdf2.md) | 2023-10-27 | - |  | - | - |
 | [Warpath: Ace Shooter](games/5/5cc2d6d24d354c50a07d723feaa5e6dc.md) | 2023-10-30 | - |  | - | - |
@@ -71,7 +70,7 @@
 | [Venatur](games/a/ac4ba4393ede46f1960596d753b6222c.md) | 2023-11-30 | - |  | - | - |
 | [The Ecdysis](games/8/824dd71739cf45fba9d997979856c5a9.md) | 2023-11-30 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | 28 (1,000 XP) | 0 | - | - |
-| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 141 | - | - |
+| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 142 | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-12-12 | - |  | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-12-15 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | - |  | - | - |
@@ -176,7 +175,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 202,458 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 202,508 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -269,6 +268,7 @@
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2099-01-01 | - |  | - | - |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
+| [Chicken vs Eggs](games/a/afc880a4f75c433fb0b5e43bac68dd20.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
 | [Clash Heroes of Feralia Terra](games/e/efb6aef408a04c04aa5f69e565b5a918.md) | 2099-01-01 | - |  | - | - |
