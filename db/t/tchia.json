@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7624,
+  "EOS_Progressed": 7625,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -7583,6 +7583,11 @@
       "Time": "2023-10-26T05:06:18.062393+00:00",
       "NumProgressed": 7624,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-26T07:08:14.024174+00:00",
+      "NumProgressed": 7625,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7682,7 +7687,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ICONOCLAST",
@@ -7690,7 +7695,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "IN_A_PINCH",
@@ -7738,7 +7743,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -7746,7 +7751,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "THING",
@@ -7761,7 +7766,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7624,
+      "Progressed": 7625,
       "Completed": 34
     }
   ],
@@ -7769,8 +7774,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:05:37.5627033+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:08:14.0241733+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:50.1147547+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:00:21.7893967+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:05:37.5627602+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:02:25.2910564+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:08:14.0242432+00:00"
 }

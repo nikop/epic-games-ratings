@@ -10,10 +10,10 @@ Rating: 4.45 (Ranked 650)
 | The Kraken Wakes | 37.00% | ~1,398 |
 | It's Starting to Crack | 34.00% | ~1,285 |
 | Change the Channel | 31.00% | ~1,171 |
-| Lord of War | 30.00% | ~1,133 |
+| Lord of War | 30.00% | ~1,134 |
 | Taking it back | 29.00% | ~1,096 |
 | Resourceful | 27.00% | ~1,020 |
-| Target America | 26.00% | ~982 |
+| Target America | 26.00% | ~983 |
 | The Kraken Sleeps | 24.00% | ~907 |
 | Liberté | 23.00% | ~869 |
 | Organ Grinder | 23.00% | ~869 |
@@ -22,9 +22,9 @@ Rating: 4.45 (Ranked 650)
 | Explosive Efficiency | 19.00% | ~718 |
 | Gunslinger | 18.00% | ~680 |
 | Just a Flesh Wound | 17.00% | ~642 |
-| Climbing the Ladder | 16.00% | ~604 |
-| Der Geist | 16.00% | ~604 |
-| Close Quarters | 16.00% | ~604 |
+| Climbing the Ladder | 16.00% | ~605 |
+| Der Geist | 16.00% | ~605 |
+| Close Quarters | 16.00% | ~605 |
 | Snake in the Grass | 15.00% | ~567 |
 | Brains of the Operation | 15.00% | ~567 |
 | No Stone Unturned | 14.00% | ~529 |
@@ -77,7 +77,7 @@ Rating: 4.45 (Ranked 650)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,778 (Ranked 183)  
+Progressed: 3,779 (Ranked 183)  
 Completed: 11 (0.29%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 11 (0.29%) (Ranked 218)
 | 2023-10-23 | 3,770 | 11 |
 | 2023-10-24 | 3,773 | 11 |
 | 2023-10-25 | 3,777 | 11 |
-| 2023-10-26 | 3,778 | 11 |
+| 2023-10-26 | 3,779 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 529)  
 Sum: 21 (Ranked 530)  

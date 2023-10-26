@@ -6,7 +6,7 @@
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 120,
-  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -2745,9 +2745,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27715,
+  "EOS_Progressed": 27720,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1100,
+  "EOS_NewPlayers": 1104,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16440,6 +16440,11 @@
       "Time": "2023-10-26T06:07:23.7228587+00:00",
       "NumProgressed": 27715,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-26T07:10:15.6171812+00:00",
+      "NumProgressed": 27720,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16451,7 +16456,7 @@
       "Name": "Advancement",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "Animated",
@@ -16539,7 +16544,7 @@
       "Name": "Discovery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "Dont_Need_These",
@@ -16563,7 +16568,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "Escape_Artist",
@@ -16587,7 +16592,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "GB_In_Training",
@@ -16739,7 +16744,7 @@
       "Name": "Solo Capture",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "Stunner",
@@ -16858,7 +16863,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27715,
+      "Progressed": 27720,
       "Completed": 65
     }
   ],
@@ -16866,8 +16871,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-26T01:39:46.1746299+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:07:23.7228583+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:10:15.6171806+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:59:06.3107984+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:07:23.7229922+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:00:35.7216703+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:10:15.617336+00:00"
 }

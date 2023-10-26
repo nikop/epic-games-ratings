@@ -7621,9 +7621,9 @@
       "Count": 3487
     }
   ],
-  "EOS_Progressed": 232828,
+  "EOS_Progressed": 232830,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28676,6 +28676,11 @@
       "Time": "2023-10-26T06:04:19.8939755+00:00",
       "NumProgressed": 232828,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-10-26T07:06:39.5182205+00:00",
+      "NumProgressed": 232830,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 528,
@@ -31453,9 +31458,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_631",
@@ -32910,21 +32915,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199102,
+      "Progressed": 199104,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232828,
+      "Progressed": 232830,
       "Completed": 2388
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-26T05:01:54.9848334+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:04:19.893975+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:06:39.5182199+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:01:16.2067106+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:04:19.8971148+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:03:47.5690348+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:06:39.5217093+00:00"
 }

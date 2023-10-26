@@ -5,17 +5,17 @@ Rating: 4.41 (Ranked 708)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 66.00% | ~64,006 |
-| Suit Up | 40.00% | ~38,792 |
-| Delving Onward | 39.00% | ~37,822 |
-| Miner's Helper | 35.00% | ~33,943 |
-| To the Mountain's Roots | 8.00% | ~7,758 |
-| Covered Head to Toe | 6.00% | ~5,819 |
-| Line of Azog, Ended | 6.00% | ~5,819 |
-| Remains To Be Seen | 2.00% | ~1,940 |
-| Westgate Weaponcraft | 1.00% | ~970 |
-| Risk a Little Real Light | 0.60% | ~582 |
-| Eregion Weaponcraft | 0.20% | ~194 |
+| Speak Friend | 66.00% | ~64,336 |
+| Suit Up | 40.00% | ~38,992 |
+| Delving Onward | 39.00% | ~38,017 |
+| Miner's Helper | 36.00% | ~35,092 |
+| To the Mountain's Roots | 8.00% | ~7,798 |
+| Covered Head to Toe | 6.00% | ~5,849 |
+| Line of Azog, Ended | 6.00% | ~5,849 |
+| Remains To Be Seen | 2.00% | ~1,950 |
+| Westgate Weaponcraft | 1.00% | ~975 |
+| Risk a Little Real Light | 0.60% | ~585 |
+| Eregion Weaponcraft | 0.20% | ~195 |
 | Shadow's Bane | 0.10% | ~97 |
 | Baruk Khazâd! | 0.10% | ~97 |
 | Decked Out | 0.10% | ~97 |
@@ -33,14 +33,14 @@ Rating: 4.41 (Ranked 708)
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 | Hard-headed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,979 (Ranked 84)  
+Progressed: 97,479 (Ranked 84)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-24 | 49,394 | 0 |
 | 2023-10-25 | 88,690 | 0 |
-| 2023-10-26 | 96,979 | 0 |
+| 2023-10-26 | 97,479 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

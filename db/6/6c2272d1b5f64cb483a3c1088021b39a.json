@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4342,9 +4342,9 @@
       "ID": "punctual_1",
       "SetID": "53c1p3k",
       "Name": "Punctual 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 58
     },
     {
       "ID": "punctual_2",
@@ -4493,8 +4493,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:09:50.3583082+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:12:24.4184325+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.0122242+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:57:58.0138528+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:09:50.3584602+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:59:02.0903532+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:12:24.4185442+00:00"
 }

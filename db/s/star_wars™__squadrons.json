@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13681,
+  "EOS_Progressed": 13686,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1729,
+  "EOS_NewPlayers": 1731,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4259,6 +4259,11 @@
       "Time": "2023-10-26T06:09:51.067609+00:00",
       "NumProgressed": 13681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T07:12:25.3046237+00:00",
+      "NumProgressed": 13686,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -4271,7 +4276,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "achievement_10",
@@ -4319,7 +4324,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "achievement_16",
@@ -4351,7 +4356,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_2",
@@ -4415,7 +4420,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_27",
@@ -4423,7 +4428,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "achievement_28",
@@ -4477,9 +4482,9 @@
       "ID": "achievement_33",
       "SetID": "8ghcoph",
       "Name": "Mission Accomplished",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2600
     },
     {
       "ID": "achievement_34",
@@ -4495,7 +4500,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 12997
+      "UsersEstimate": 13002
     },
     {
       "ID": "achievement_36",
@@ -4527,7 +4532,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_4",
@@ -4567,7 +4572,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_44",
@@ -4575,7 +4580,7 @@
       "Name": "Combat Pilot",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_45",
@@ -4615,7 +4620,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "achievement_7",
@@ -4631,7 +4636,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3422
     },
     {
       "ID": "achievement_9",
@@ -4646,7 +4651,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 13681,
+      "Progressed": 13686,
       "Completed": 1
     }
   ],
@@ -4654,8 +4659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:09:51.0676085+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:12:25.304623+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:17.775198+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:03:27.9259593+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:09:51.0677004+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:05:20.7590325+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:12:25.3047347+00:00"
 }

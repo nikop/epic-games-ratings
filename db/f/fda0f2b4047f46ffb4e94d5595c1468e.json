@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 626,
   "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 157,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1663,10 +1663,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3833,
       "NumberOfAwardsMax": 1331
+    },
+    {
+      "Time": "2023-10-26T07:01:04.2381594+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3840,
+      "NumberOfAwardsMax": 1331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3833,
+  "NumberOfAwards": 3840,
   "NumberOfAwardsMax": 1331,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1722,7 +1728,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 237
+      "Count": 244
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1745,7 +1751,7 @@
   ],
   "EOS_Progressed": 8057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5895,9 +5901,9 @@
       "ID": "ach15",
       "SetID": "47in8n6",
       "Name": "Give A Koin",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2095
     },
     {
       "ID": "ach16",
@@ -6191,9 +6197,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-26T03:59:29.6467401+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:06:16.3543381+00:00",
+  "LastChanged": "2023-10-26T07:01:04.2381592+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:08:39.9439701+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:59:32.6625107+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:06:16.3544267+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:01:04.2381598+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:08:39.9440714+00:00"
 }

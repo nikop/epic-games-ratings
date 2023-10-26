@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6267,9 +6267,9 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 187325,
+  "EOS_Progressed": 187328,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2583,
+  "EOS_NewPlayers": 2581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27637,6 +27637,11 @@
       "Time": "2023-10-26T06:09:15.7577173+00:00",
       "NumProgressed": 187325,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-26T07:11:24.5845632+00:00",
+      "NumProgressed": 187328,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27648,7 +27653,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3747
     },
     {
       "ID": "Achievement_1",
@@ -27728,7 +27733,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46831
+      "UsersEstimate": 46832
     },
     {
       "ID": "Achievement_5",
@@ -27736,7 +27741,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3747
     },
     {
       "ID": "Achievement_6",
@@ -27760,7 +27765,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16859
+      "UsersEstimate": 16860
     },
     {
       "ID": "Achievement_9",
@@ -27775,15 +27780,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 187325,
+      "Progressed": 187328,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-25T17:02:32.8844028+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:09:15.757717+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:11:24.5845626+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:01:24.1769044+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:09:15.7578843+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:03:59.6332908+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:11:24.5847168+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3903,9 +3903,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76193,
+  "EOS_Progressed": 76194,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25183,6 +25183,11 @@
       "Time": "2023-10-26T06:08:12.714075+00:00",
       "NumProgressed": 76193,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-26T07:10:42.4518089+00:00",
+      "NumProgressed": 76194,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25322,7 +25327,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28191
+      "UsersEstimate": 28192
     },
     {
       "ID": "cutting_edge_materials",
@@ -25410,7 +25415,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17524
+      "UsersEstimate": 17525
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25442,7 +25447,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27429
+      "UsersEstimate": 27430
     },
     {
       "ID": "hit_max_level",
@@ -25506,7 +25511,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "prank_coop_partner",
@@ -25617,22 +25622,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76193,
+      "Progressed": 76194,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47830,
-      "Completed": 4184
+      "Progressed": 47831,
+      "Completed": 4185
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-25T12:02:09.3825766+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:08:12.7140745+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:10:42.4518082+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:03:23.7802+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:08:12.7142681+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:05:14.2009304+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:10:42.4521095+00:00"
 }

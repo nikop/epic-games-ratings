@@ -1,29 +1,29 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 516)  
+Rating: 4.54 (Ranked 517)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,210 |
-| Welcome To Hell-A | 5.00% | ~35,210 |
-| Git Gutte! | 4.00% | ~28,168 |
-| Break A Leg | 4.00% | ~28,168 |
-| Coup de Grâce | 4.00% | ~28,168 |
-| Hazardous Materials | 4.00% | ~28,168 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,168 |
-| Dr. Reed, I Presume? | 3.00% | ~21,126 |
-| Bookworm | 3.00% | ~21,126 |
-| But Doctor, I am Butcho | 3.00% | ~21,126 |
-| Slayer Squad | 3.00% | ~21,126 |
-| Can't Handle the Truth | 3.00% | ~21,126 |
-| Like Riding a Bike | 3.00% | ~21,126 |
-| Friends Like These | 3.00% | ~21,126 |
-| Apex Predator | 3.00% | ~21,126 |
-| Zombologist | 3.00% | ~21,126 |
-| A Patton Emerges | 3.00% | ~21,126 |
-| Stacking the Deck | 3.00% | ~21,126 |
-| This is My Weapon | 3.00% | ~21,126 |
+| Hotel California | 5.00% | ~35,211 |
+| Welcome To Hell-A | 5.00% | ~35,211 |
+| Git Gutte! | 4.00% | ~28,169 |
+| Break A Leg | 4.00% | ~28,169 |
+| Coup de Grâce | 4.00% | ~28,169 |
+| Hazardous Materials | 4.00% | ~28,169 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,169 |
+| Dr. Reed, I Presume? | 3.00% | ~21,127 |
+| Bookworm | 3.00% | ~21,127 |
+| But Doctor, I am Butcho | 3.00% | ~21,127 |
+| Slayer Squad | 3.00% | ~21,127 |
+| Can't Handle the Truth | 3.00% | ~21,127 |
+| Like Riding a Bike | 3.00% | ~21,127 |
+| Friends Like These | 3.00% | ~21,127 |
+| Apex Predator | 3.00% | ~21,127 |
+| Zombologist | 3.00% | ~21,127 |
+| A Patton Emerges | 3.00% | ~21,127 |
+| Stacking the Deck | 3.00% | ~21,127 |
+| This is My Weapon | 3.00% | ~21,127 |
 | Making Your Mark | 2.00% | ~14,084 |
 | Anger Management | 2.00% | ~14,084 |
 | Perks of the Job | 2.00% | ~14,084 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 516)
 | Internet Famous | 0.90% | ~6,338 |
 | On Safari | 0.80% | ~5,634 |
 | Variety is the Spice of Death | 0.80% | ~5,634 |
-| Make it So | 0.70% | ~4,929 |
+| Make it So | 0.70% | ~4,930 |
 | LA Influential | 0.60% | ~4,225 |
 | Gore Horse | 0.60% | ~4,225 |
 | Sole Survivor | 0.50% | ~3,521 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,408 |
 | Bucket List | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,205 (Ranked 22)  
+Progressed: 704,223 (Ranked 22)  
 Completed: 2,263 (0.32%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 2,263 (0.32%) (Ranked 209)
 | 2023-10-23 | 702,669 | 2,251 |
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
-| 2023-10-26 | 704,205 | 2,263 |
+| 2023-10-26 | 704,223 | 2,263 |
 ## Awards
 Max (Great Boss Battles): 6,625  (Ranked 57)  
 Sum: 9,955 (Ranked 91)  

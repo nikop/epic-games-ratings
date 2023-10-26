@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -397,9 +397,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3391,
+  "EOS_Progressed": 3392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3422,6 +3422,11 @@
       "Time": "2023-10-25T21:06:39.5162507+00:00",
       "NumProgressed": 3391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T07:10:06.8640561+00:00",
+      "NumProgressed": 3392,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3442,7 +3447,7 @@
       "Name": "Gathering Dust",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_0003",
@@ -3474,7 +3479,7 @@
       "Name": "Setting up for Success",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "achievement_0007",
@@ -3482,7 +3487,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "achievement_0008",
@@ -3490,7 +3495,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "achievement_0009",
@@ -3554,7 +3559,7 @@
       "Name": "Hitting a Season",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "achievement_0017",
@@ -3594,7 +3599,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "achievement_0022",
@@ -3770,7 +3775,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "achievement_0044",
@@ -3794,7 +3799,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_0047",
@@ -3818,14 +3823,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3391,
+      "Progressed": 3392,
       "Completed": 0
     }
   ],
@@ -3833,8 +3838,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-25T15:59:44.2858616+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:07:17.5822072+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:10:06.8640556+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:00:22.4057232+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:07:17.5822695+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:02:26.3450165+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:10:06.8641212+00:00"
 }

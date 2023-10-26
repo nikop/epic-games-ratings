@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -1156,6 +1156,11 @@
       "Time": "2023-10-25T21:05:25.1228386+00:00",
       "NumProgressed": 268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T07:08:32.5835153+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1183,7 +1188,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1263,7 +1268,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1359,7 +1364,7 @@
       "Name": "Rest In Peace",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ETUA_SUPER",
@@ -1373,9 +1378,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "ETUA_StayDead",
@@ -1486,7 +1491,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 1
     }
   ],
@@ -1494,8 +1499,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:06:11.2200044+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:08:32.5835148+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:01:01.0845426+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:06:11.2200775+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:03:26.9260823+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:08:32.5836044+00:00"
 }

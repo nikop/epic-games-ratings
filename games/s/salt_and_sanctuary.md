@@ -1,24 +1,24 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 377)  
+Rating: 4.61 (Ranked 376)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~445,179 |
-| The Three | 64.00% | ~343,270 |
-| The Banquet | 40.00% | ~214,544 |
-| Devara's Light | 31.00% | ~166,272 |
+| Find Sanctuary | 83.00% | ~445,181 |
+| The Three | 64.00% | ~343,272 |
+| The Banquet | 40.00% | ~214,545 |
+| Devara's Light | 31.00% | ~166,273 |
 | The Iron Ones | 18.00% | ~96,545 |
-| The Village | 17.00% | ~91,181 |
+| The Village | 17.00% | ~91,182 |
 | The Forest | 15.00% | ~80,454 |
-| The Keep | 14.00% | ~75,090 |
+| The Keep | 14.00% | ~75,091 |
 | Branded | 13.00% | ~69,727 |
 | The Imposter | 13.00% | ~69,727 |
 | The Castle | 11.00% | ~59,000 |
-| The Dome | 9.00% | ~48,272 |
-| The Red Hall | 9.00% | ~48,272 |
+| The Dome | 9.00% | ~48,273 |
+| The Red Hall | 9.00% | ~48,273 |
 | The Sacrifice | 8.00% | ~42,909 |
 | The Cave | 7.00% | ~37,545 |
 | The Mire | 7.00% | ~37,545 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,182 |
 | The Alkymancery | 5.00% | ~26,818 |
 | The Pitchwoods | 5.00% | ~26,818 |
-| Honed | 4.00% | ~21,454 |
-| The House of Splendor | 4.00% | ~21,454 |
-| The Crypt | 4.00% | ~21,454 |
-| The Palace | 4.00% | ~21,454 |
+| Honed | 4.00% | ~21,455 |
+| The House of Splendor | 4.00% | ~21,455 |
+| The Crypt | 4.00% | ~21,455 |
+| The Palace | 4.00% | ~21,455 |
 | Find Salvation | 3.00% | ~16,091 |
 | The Unspeakable Deep | 3.00% | ~16,091 |
 | Coastrock | 2.00% | ~10,727 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,727 |
 | Fading Fast | 1.00% | ~5,364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,360 (Ranked 32)  
+Progressed: 536,363 (Ranked 32)  
 Completed: 1,593 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 1,593 (0.30%) (Ranked 213)
 | 2023-10-23 | 536,196 | 1,589 |
 | 2023-10-24 | 536,269 | 1,591 |
 | 2023-10-25 | 536,341 | 1,593 |
-| 2023-10-26 | 536,360 | 1,593 |
+| 2023-10-26 | 536,363 | 1,593 |
 ## Awards
 Max (Challenging Combat): 290  (Ranked 246)  
 Sum: 1,977 (Ranked 206)  

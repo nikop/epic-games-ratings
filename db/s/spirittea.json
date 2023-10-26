@@ -4,8 +4,8 @@
   "ProductSlug": "spirittea-573718",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:26.6502726+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:59:27.3039026+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:04:30.0805253+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:00:58.0168364+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:06:53.5488629+00:00"
 }

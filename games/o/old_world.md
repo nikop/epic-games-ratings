@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.60% | ~90 |
 | Veneration | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
+| Turreted Elephant | 0.60% | ~90 |
 | Ambition Victory | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
-| Turreted Elephant | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |

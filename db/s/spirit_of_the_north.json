@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -327,7 +327,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72367,
+  "EOS_Progressed": 72368,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
@@ -21057,6 +21057,11 @@
       "Time": "2023-10-26T06:07:37.2669415+00:00",
       "NumProgressed": 72367,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-26T07:10:35.1240703+00:00",
+      "NumProgressed": 72368,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -21100,7 +21105,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18815
+      "UsersEstimate": 18816
     },
     {
       "ID": "ERADICATE",
@@ -21124,7 +21129,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 20986
+      "UsersEstimate": 20987
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -21228,7 +21233,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12302
+      "UsersEstimate": 12303
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -21259,7 +21264,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72367,
+      "Progressed": 72368,
       "Completed": 379
     }
   ],
@@ -21267,8 +21272,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:07:37.2669409+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:10:35.1240696+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:03:20.3925311+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:07:37.2671283+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:05:05.4138982+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:10:35.1242719+00:00"
 }

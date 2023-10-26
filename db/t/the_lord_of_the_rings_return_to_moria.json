@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
     "PcReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96979,
+  "EOS_Progressed": 97479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96966,
+  "EOS_NewPlayers": 97466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -336,6 +336,11 @@
       "Time": "2023-10-26T06:05:24.8269637+00:00",
       "NumProgressed": 96979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T07:07:56.0797477+00:00",
+      "NumProgressed": 97479,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -388,7 +393,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5819
+      "UsersEstimate": 5849
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -396,7 +401,7 @@
       "Name": "Suit Up",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 38792
+      "UsersEstimate": 38992
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -412,7 +417,7 @@
       "Name": "Eregion Weaponcraft",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "CraftedFullSetMetaHat",
@@ -452,7 +457,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 975
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -474,9 +479,9 @@
       "ID": "CraftedSteelPickaxe",
       "SetID": "1cnmn8b",
       "Name": "Miner\u0027s Helper",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 33943
+      "UsersEstimate": 35092
     },
     {
       "ID": "DefeatedBolgakh",
@@ -484,7 +489,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5819
+      "UsersEstimate": 5849
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -516,7 +521,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 585
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -524,7 +529,7 @@
       "Name": "Speak Friend",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 64006
+      "UsersEstimate": 64336
     },
     {
       "ID": "DiscoveredHighway",
@@ -540,7 +545,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7798
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -548,7 +553,7 @@
       "Name": "Delving Onward",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 37822
+      "UsersEstimate": 38017
     },
     {
       "ID": "DiscoveredTomb",
@@ -556,14 +561,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1950
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 96979,
+      "Progressed": 97479,
       "Completed": 0
     }
   ],
@@ -571,8 +576,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2023-10-26T03:01:52.4959307+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:05:24.8269632+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:07:56.0797471+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:11.6467623+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:01:17.8387889+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:05:24.8269839+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:03:49.3197549+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:07:56.0797704+00:00"
 }

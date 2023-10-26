@@ -6,18 +6,18 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~24,464 |
-| Quick Understanding of Block Extrusion | 68.00% | ~22,180 |
-| Nature or Nurture | 51.00% | ~16,635 |
-| Power Glove | 48.00% | ~15,657 |
-| Forgotten Memories | 41.00% | ~13,373 |
-| Cogs in the Machine | 34.00% | ~11,090 |
-| Mission Success | 19.00% | ~6,197 |
-| There's No Place Like Home | 19.00% | ~6,197 |
-| Green Cube Killer | 17.00% | ~5,545 |
-| Infinity Loop | 13.00% | ~4,240 |
-| Path to Salvation | 13.00% | ~4,240 |
-| Descendants | 11.00% | ~3,588 |
+| Lost in Space | 75.00% | ~24,469 |
+| Quick Understanding of Block Extrusion | 68.00% | ~22,185 |
+| Nature or Nurture | 51.00% | ~16,639 |
+| Power Glove | 48.00% | ~15,660 |
+| Forgotten Memories | 41.00% | ~13,376 |
+| Cogs in the Machine | 34.00% | ~11,092 |
+| Mission Success | 19.00% | ~6,199 |
+| There's No Place Like Home | 19.00% | ~6,199 |
+| Green Cube Killer | 17.00% | ~5,546 |
+| Infinity Loop | 13.00% | ~4,241 |
+| Path to Salvation | 13.00% | ~4,241 |
+| Descendants | 11.00% | ~3,589 |
 | The Flawed Teacher | 9.00% | ~2,936 |
 | To Infinity and Beyond | 5.00% | ~1,631 |
 | The Truthful Enemy | 3.00% | ~979 |
@@ -33,11 +33,11 @@ Number of Ratings: 94  (23.09.2022)
 | Puzzle Master | 0.60% | ~196 |
 | Coming Home | 0.60% | ~196 |
 | Master Collector | 0.60% | ~196 |
+| QUBE Master | 0.60% | ~196 |
 | Expert Collector | 0.60% | ~196 |
-| QUBE Master | 0.50% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,618 (Ranked 118)  
-Completed: 76 (0.23%) (Ranked 224)  
+Progressed: 32,625 (Ranked 118)  
+Completed: 77 (0.24%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 76 (0.23%) (Ranked 224)
 | 2023-10-23 | 31,477 | 64 |
 | 2023-10-24 | 32,043 | 68 |
 | 2023-10-25 | 32,523 | 74 |
-| 2023-10-26 | 32,618 | 76 |
+| 2023-10-26 | 32,625 | 77 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

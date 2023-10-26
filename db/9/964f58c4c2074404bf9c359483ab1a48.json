@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1657,10 +1657,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 493,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-10-26T07:01:51.4620648+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 494,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 493,
+  "NumberOfAwards": 494,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1680,7 +1686,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1737,9 +1743,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 1281822,
+  "EOS_Progressed": 1281829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2587,
+  "EOS_NewPlayers": 2585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18817,6 +18823,11 @@
       "Time": "2023-10-26T06:05:35.0385189+00:00",
       "NumProgressed": 1281822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T07:08:10.4311962+00:00",
+      "NumProgressed": 1281829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -18940,7 +18951,7 @@
       "Name": "10 Kills as a Ghost!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 141000
+      "UsersEstimate": 141001
     },
     {
       "ID": "10_ghost_wins",
@@ -18964,7 +18975,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 205092
+      "UsersEstimate": 205093
     },
     {
       "ID": "10_hunter_wins",
@@ -18972,7 +18983,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76909
+      "UsersEstimate": 76910
     },
     {
       "ID": "10_prop_headshots",
@@ -18980,7 +18991,7 @@
       "Name": "10 Headshots as A Prop!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25636
+      "UsersEstimate": 25637
     },
     {
       "ID": "250_c4_kills",
@@ -19116,7 +19127,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 128182
+      "UsersEstimate": 128183
     },
     {
       "ID": "ghost_win",
@@ -19124,7 +19135,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 769093
+      "UsersEstimate": 769097
     },
     {
       "ID": "hunter_win",
@@ -19132,7 +19143,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 692184
+      "UsersEstimate": 692188
     },
     {
       "ID": "master_of_loadouts",
@@ -19156,23 +19167,23 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 294819
+      "UsersEstimate": 294821
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1281822,
+      "Progressed": 1281829,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2023-10-25T23:59:47.0233699+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:05:35.0385184+00:00",
+  "LastChanged": "2023-10-26T07:01:51.4620643+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:08:10.4311957+00:00",
   "LastUpdate_AppInfo": "2023-10-20T05:56:59.8653354+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:00:01.9350321+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:05:35.03876+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:01:51.4620652+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:08:10.4313618+00:00"
 }

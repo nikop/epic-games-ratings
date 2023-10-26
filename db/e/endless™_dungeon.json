@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-10-26T05:08:28.4431804+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T07:10:38.7050226+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -763,7 +768,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -779,7 +784,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -811,7 +816,7 @@
       "Name": "Hoarder",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -906,14 +911,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:08:10.0913628+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:10:38.705022+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:00:30.4963667+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:08:10.091412+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:02:38.2402868+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:10:38.7050516+00:00"
 }

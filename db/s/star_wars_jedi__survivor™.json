@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -4593,7 +4593,7 @@
       "Count": 119
     }
   ],
-  "EOS_Progressed": 6029,
+  "EOS_Progressed": 6030,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 8,
@@ -8558,6 +8558,11 @@
       "Time": "2023-10-26T05:06:08.8207248+00:00",
       "NumProgressed": 6029,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-10-26T07:08:03.4156362+00:00",
+      "NumProgressed": 6030,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -8570,7 +8575,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 5969
+      "UsersEstimate": 5970
     },
     {
       "ID": "achievement_a10",
@@ -8578,7 +8583,7 @@
       "Name": "Tragedy",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3015
     },
     {
       "ID": "achievement_a11",
@@ -8650,7 +8655,7 @@
       "Name": "This Is Canon",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "achievement_a2",
@@ -8658,7 +8663,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "achievement_a20",
@@ -8674,7 +8679,7 @@
       "Name": "Get Down From There",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_a22",
@@ -8690,7 +8695,7 @@
       "Name": "Mirror Match",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 3919
+      "UsersEstimate": 3920
     },
     {
       "ID": "achievement_a24",
@@ -8706,7 +8711,7 @@
       "Name": "Slam Dunk",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "achievement_a26",
@@ -8746,7 +8751,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5547
+      "UsersEstimate": 5548
     },
     {
       "ID": "achievement_a30",
@@ -8754,7 +8759,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "achievement_a31",
@@ -8762,7 +8767,7 @@
       "Name": "Cleaning Up",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "achievement_a32",
@@ -8778,7 +8783,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3738
+      "UsersEstimate": 3739
     },
     {
       "ID": "achievement_a34",
@@ -8834,7 +8839,7 @@
       "Name": "The Past Made Present",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "achievement_a40",
@@ -8882,7 +8887,7 @@
       "Name": "Kitted Out",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "achievement_a46",
@@ -8914,7 +8919,7 @@
       "Name": "Intergalactic Geographic",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_a5",
@@ -8922,7 +8927,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "achievement_a50",
@@ -8946,7 +8951,7 @@
       "Name": "The Jedi Path",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "achievement_a53",
@@ -8962,7 +8967,7 @@
       "Name": "Among the Masters",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4764
     },
     {
       "ID": "achievement_a7",
@@ -8970,7 +8975,7 @@
       "Name": "For the Path",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "achievement_a8",
@@ -8986,14 +8991,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 6029,
+      "Progressed": 6030,
       "Completed": 29
     }
   ],
@@ -9001,8 +9006,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-25T21:58:20.2449702+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:05:30.2879182+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:08:03.4156357+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:57:57.7493326+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:05:30.2880244+00:00"
+  "LastUpdate_Ratings": "2023-10-26T06:59:01.5719593+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:08:03.4157152+00:00"
 }

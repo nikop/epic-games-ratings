@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9451,10 +9451,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46648,
       "NumberOfAwardsMax": 23781
+    },
+    {
+      "Time": "2023-10-26T07:04:37.2214986+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46651,
+      "NumberOfAwardsMax": 23781
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46648,
+  "NumberOfAwards": 46651,
   "NumberOfAwardsMax": 23781,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9528,12 +9534,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 738
+      "Count": 741
     }
   ],
-  "EOS_Progressed": 298921,
+  "EOS_Progressed": 298924,
   "EOS_Completed": 494,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -29636,6 +29642,11 @@
       "Time": "2023-10-26T06:09:26.5265659+00:00",
       "NumProgressed": 298921,
       "NumCompleted": 494
+    },
+    {
+      "Time": "2023-10-26T07:11:40.3299583+00:00",
+      "NumProgressed": 298924,
+      "NumCompleted": 494
     }
   ],
   "TotalAchievements": 45,
@@ -29647,7 +29658,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44838
+      "UsersEstimate": 44839
     },
     {
       "ID": "PFA_10",
@@ -29655,7 +29666,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_11",
@@ -29663,7 +29674,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_12",
@@ -29671,7 +29682,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_13",
@@ -29703,7 +29714,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_17",
@@ -29775,7 +29786,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_25",
@@ -29831,7 +29842,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_31",
@@ -29903,7 +29914,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32881
+      "UsersEstimate": 32882
     },
     {
       "ID": "PFA_4",
@@ -30006,16 +30017,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298921,
+      "Progressed": 298924,
       "Completed": 494
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-26T03:02:29.2650313+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:09:26.5265657+00:00",
+  "LastChanged": "2023-10-26T07:04:37.2214984+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:11:40.3299577+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:02:09.213841+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:09:26.5267528+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:04:37.2214992+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:11:40.3301272+00:00"
 }

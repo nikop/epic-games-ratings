@@ -8,8 +8,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | ---- | ---------- | ----- |
 | First F#@!ing Day | 46.00% | ~35,049 |
 | To The Nines | 42.00% | ~32,001 |
-| Optimized | 37.00% | ~28,191 |
-| Performance Review | 36.00% | ~27,429 |
+| Optimized | 37.00% | ~28,192 |
+| Performance Review | 36.00% | ~27,430 |
 | Making a Name | 35.00% | ~26,668 |
 | Tune Up | 34.00% | ~25,906 |
 | Wet Work | 32.00% | ~24,382 |
@@ -19,7 +19,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Food for Thought | 27.00% | ~20,572 |
 | Finders Keepers | 25.00% | ~19,048 |
 | A Young Empire | 25.00% | ~19,048 |
-| Work Ethic | 23.00% | ~17,524 |
+| Work Ethic | 23.00% | ~17,525 |
 | Picking Fights | 20.00% | ~15,239 |
 | Power Players | 19.00% | ~14,477 |
 | Quality Time | 18.00% | ~13,715 |
@@ -31,7 +31,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hijacked | 11.00% | ~8,381 |
 | The Spins | 10.00% | ~7,619 |
 | The Mechanic | 10.00% | ~7,619 |
-| Closet Space | 8.00% | ~6,095 |
+| Closet Space | 8.00% | ~6,096 |
 | We could go home, or… | 7.00% | ~5,334 |
 | Challenge Accepted | 7.00% | ~5,334 |
 | A Golden Age | 7.00% | ~5,334 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~152 |
 | Fiesta Time | 0.20% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,193 (Ranked 93)  
+Progressed: 76,194 (Ranked 93)  
 Completed: 51 (0.07%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 51 (0.07%) (Ranked 272)
 | 2023-10-23 | 75,981 | 51 |
 | 2023-10-24 | 76,070 | 51 |
 | 2023-10-25 | 76,173 | 51 |
-| 2023-10-26 | 76,193 | 51 |
+| 2023-10-26 | 76,194 | 51 |
 ## Awards
 Max (Extremely Fun): 1,071  (Ranked 143)  
 Sum: 8,698 (Ranked 97)  

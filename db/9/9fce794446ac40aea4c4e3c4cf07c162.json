@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -257,9 +257,9 @@
       "ID": "MEM_IV",
       "SetID": "35d3i7a",
       "Name": "Your only friend.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_IX",
@@ -361,9 +361,9 @@
       "ID": "MEM_XVI",
       "SetID": "35d3i7a",
       "Name": "Now you are ready.",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MEM_XVII",
@@ -377,9 +377,9 @@
       "ID": "MEM_XVIII",
       "SetID": "35d3i7a",
       "Name": "A new hope.",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XX",
@@ -473,9 +473,9 @@
       "ID": "PROJ_II",
       "SetID": "35d3i7a",
       "Name": "Putrefaction.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROJ_III",
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-26T06:09:27.9370875+00:00",
+  "LastChanged_Achievements": "2023-10-26T07:11:42.2825396+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7987835+00:00",
-  "LastUpdate_Ratings": "2023-10-26T05:58:56.3585442+00:00",
-  "LastUpdate_Achievements": "2023-10-26T06:09:27.9371284+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:00:24.6838605+00:00",
+  "LastUpdate_Achievements": "2023-10-26T07:11:42.2825852+00:00"
 }

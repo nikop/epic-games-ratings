@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~35,442 |
-| Initial Capital | 69.00% | ~30,192 |
-| Junior Supply Officer | 48.00% | ~21,003 |
-| Moneybags | 47.00% | ~20,565 |
-| Naval Warfare. Arson | 36.00% | ~15,752 |
-| Naval Warfare. Ramming | 35.00% | ~15,315 |
-| Amateur | 33.00% | ~14,439 |
-| Naval Warfare. Tactics | 33.00% | ~14,439 |
-| Naval Constructor | 33.00% | ~14,439 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~10,939 |
-| Naval Warfare. Flooding | 21.00% | ~9,189 |
-| Naval Warfare. Lucky Shot | 21.00% | ~9,189 |
-| Business Magnate | 19.00% | ~8,314 |
+| Junior Naval Designer | 81.00% | ~35,446 |
+| Initial Capital | 69.00% | ~30,195 |
+| Junior Supply Officer | 48.00% | ~21,005 |
+| Moneybags | 47.00% | ~20,568 |
+| Naval Warfare. Arson | 36.00% | ~15,754 |
+| Naval Warfare. Ramming | 35.00% | ~15,316 |
+| Amateur | 33.00% | ~14,441 |
+| Naval Warfare. Tactics | 33.00% | ~14,441 |
+| Naval Constructor | 33.00% | ~14,441 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~10,940 |
+| Naval Warfare. Flooding | 21.00% | ~9,190 |
+| Naval Warfare. Lucky Shot | 21.00% | ~9,190 |
+| Business Magnate | 19.00% | ~8,315 |
 | Battle Hero | 17.00% | ~7,439 |
-| Supply Officer | 15.00% | ~6,563 |
-| Smooth Supply | 15.00% | ~6,563 |
-| Warrior | 14.00% | ~6,126 |
+| Supply Officer | 15.00% | ~6,564 |
+| Smooth Supply | 15.00% | ~6,564 |
+| Warrior | 14.00% | ~6,127 |
 | Veteran | 9.00% | ~3,938 |
 | Legend of the Seas | 4.00% | ~1,750 |
 | Chief Naval Architect | 4.00% | ~1,750 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~44 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,756 (Ranked 109)  
+Progressed: 43,761 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,10 +125,10 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 42,957 | 0 |
 | 2023-10-24 | 43,334 | 0 |
 | 2023-10-25 | 43,676 | 0 |
-| 2023-10-26 | 43,756 | 0 |
+| 2023-10-26 | 43,761 | 0 |
 ## Awards
 Max (Relaxing): 1,449  (Ranked 131)  
-Sum: 12,146 (Ranked 81)  
+Sum: 12,150 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -137,7 +137,7 @@ Diff (max vs sum): 50
 | This game has Challenging Combat | 1,430 |
 | This game has Competitive Players | 1,415 |
 | This game is Highly Recommended | 1,415 |
-| This game is Extremely Fun | 1,391 |
+| This game is Extremely Fun | 1,395 |
 | This game has Realistic Visuals | 1,277 |
 | This game has Amazing Storytelling | 1,194 |
 | This game has a Competitive Community | 1,127 |
@@ -432,4 +432,4 @@ Diff (max vs sum): 50
 | 2023-10-23 | 4.41 | - | 1,446 | 12,096 |
 | 2023-10-24 | 4.41 | - | 1,446 | 12,117 |
 | 2023-10-25 | 4.41 | - | 1,449 | 12,141 |
-| 2023-10-26 | 4.41 | - | 1,449 | 12,146 |
+| 2023-10-26 | 4.41 | - | 1,449 | 12,150 |
