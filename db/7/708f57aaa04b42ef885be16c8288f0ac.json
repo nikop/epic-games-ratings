@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1860,
+  "EOS_Progressed": 1869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1847,
+  "EOS_NewPlayers": 1856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -860,6 +860,11 @@
       "Time": "2023-10-26T07:11:11.0666493+00:00",
       "NumProgressed": 1860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T08:10:18.1559841+00:00",
+      "NumProgressed": 1869,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -880,7 +885,7 @@
       "Name": "Baby Steps",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BeLikeWater",
@@ -894,9 +899,9 @@
       "ID": "Bikemaggedon",
       "SetID": "acc6ea0",
       "Name": "Bikemaggedon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ChewingTheScenery",
@@ -942,9 +947,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 112
     },
     {
       "ID": "FuneralForTheDeath",
@@ -974,9 +979,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 19
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -1062,9 +1067,9 @@
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 56
     },
     {
       "ID": "TheQuarterback",
@@ -1143,13 +1148,13 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 1860,
+      "Progressed": 1869,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:11:11.0666486+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:10:18.1559839+00:00",
   "LastUpdate_AppInfo": "2023-10-19T09:57:16.8195873+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:00:48.7734442+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:11:11.0666819+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:00:13.3528014+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:10:18.1560096+00:00"
 }

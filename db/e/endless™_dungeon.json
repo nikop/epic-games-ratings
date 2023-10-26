@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-10-26T07:10:38.7050226+00:00",
       "NumProgressed": 785,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T08:09:48.7190971+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -736,7 +741,7 @@
       "Name": "Team Builder",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -752,7 +757,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -760,7 +765,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -911,14 +916,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 786,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:10:38.705022+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:09:48.7190966+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:02:38.2402868+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:10:38.7050516+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:01:58.3520677+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:09:48.719121+00:00"
 }

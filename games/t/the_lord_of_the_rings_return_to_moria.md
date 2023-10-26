@@ -1,49 +1,49 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.41 (Ranked 708)  
+Rating: 4.43 (Ranked 681)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 66.00% | ~64,336 |
-| Suit Up | 40.00% | ~38,992 |
-| Delving Onward | 39.00% | ~38,017 |
-| Miner's Helper | 36.00% | ~35,092 |
-| To the Mountain's Roots | 8.00% | ~7,798 |
-| Covered Head to Toe | 6.00% | ~5,849 |
-| Line of Azog, Ended | 6.00% | ~5,849 |
-| Remains To Be Seen | 2.00% | ~1,950 |
-| Westgate Weaponcraft | 1.00% | ~975 |
-| Risk a Little Real Light | 0.60% | ~585 |
-| Eregion Weaponcraft | 0.20% | ~195 |
-| Shadow's Bane | 0.10% | ~97 |
-| Baruk Khazâd! | 0.10% | ~97 |
-| Decked Out | 0.10% | ~97 |
-| Guarded from Despair | 0.10% | ~97 |
-| Battering Ram | 0.10% | ~97 |
-| Master of All Trades | 0.10% | ~97 |
-| Shielded | 0.10% | ~97 |
-| True-silver | 0.10% | ~97 |
-| Deeps Weaponcraft | 0.10% | ~97 |
-| Dimrill Weaponcraft | 0.10% | ~97 |
-| Darkness Is Passing | 0.10% | ~97 |
-| False King, Deposed | 0.10% | ~97 |
-| Caradhras The Cruel | 0.10% | ~97 |
-| A Memory of this Place | 0.10% | ~97 |
+| Speak Friend | 66.00% | ~64,683 |
+| Suit Up | 40.00% | ~39,202 |
+| Delving Onward | 39.00% | ~38,222 |
+| Miner's Helper | 36.00% | ~35,281 |
+| To the Mountain's Roots | 8.00% | ~7,840 |
+| Covered Head to Toe | 6.00% | ~5,880 |
+| Line of Azog, Ended | 6.00% | ~5,880 |
+| Remains To Be Seen | 2.00% | ~1,960 |
+| Westgate Weaponcraft | 1.00% | ~980 |
+| Risk a Little Real Light | 0.70% | ~686 |
+| Eregion Weaponcraft | 0.20% | ~196 |
+| Deeps Weaponcraft | 0.20% | ~196 |
+| Shadow's Bane | 0.10% | ~98 |
+| Baruk Khazâd! | 0.10% | ~98 |
+| Decked Out | 0.10% | ~98 |
+| Guarded from Despair | 0.10% | ~98 |
+| Battering Ram | 0.10% | ~98 |
+| Master of All Trades | 0.10% | ~98 |
+| Shielded | 0.10% | ~98 |
+| True-silver | 0.10% | ~98 |
+| Dimrill Weaponcraft | 0.10% | ~98 |
+| Darkness Is Passing | 0.10% | ~98 |
+| False King, Deposed | 0.10% | ~98 |
+| Caradhras The Cruel | 0.10% | ~98 |
+| A Memory of this Place | 0.10% | ~98 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 | Hard-headed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,479 (Ranked 84)  
+Progressed: 98,004 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-24 | 49,394 | 0 |
 | 2023-10-25 | 88,690 | 0 |
-| 2023-10-26 | 97,479 | 0 |
+| 2023-10-26 | 98,004 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-10-24 | 4.61 | 0 | 0 |
 | 2023-10-25 | 4.55 | 0 | 0 |
-| 2023-10-26 | 4.41 | 0 | 0 |
+| 2023-10-26 | 4.43 | 0 | 0 |

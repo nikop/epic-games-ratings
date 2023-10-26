@@ -5,19 +5,19 @@ Rating: 4.28 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,711 |
+| Corner Clout | 46.00% | ~160,712 |
 | Copacetic Coordination | 16.00% | ~55,900 |
 | Fronting the Money | 15.00% | ~52,406 |
-| The Dawn of Automation | 14.00% | ~48,912 |
-| Extraordinary Logistics | 14.00% | ~48,912 |
-| Dirty Money | 13.00% | ~45,418 |
-| Family First | 13.00% | ~45,418 |
+| The Dawn of Automation | 14.00% | ~48,913 |
+| Extraordinary Logistics | 14.00% | ~48,913 |
+| Dirty Money | 13.00% | ~45,419 |
+| Family First | 13.00% | ~45,419 |
 | Cleaning House | 12.00% | ~41,925 |
 | Room in the Back | 12.00% | ~41,925 |
 | Beating the Heat | 11.00% | ~38,431 |
 | Booze Baron | 11.00% | ~38,431 |
-| Friends on the Force | 10.00% | ~34,937 |
-| Neighborhood Watch | 10.00% | ~34,937 |
+| Friends on the Force | 10.00% | ~34,938 |
+| Neighborhood Watch | 10.00% | ~34,938 |
 | Core Corps | 8.00% | ~27,950 |
 | Sizeable Stash | 8.00% | ~27,950 |
 | Street Fighter | 7.00% | ~24,456 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 838)
 | Still Stalwart | 3.00% | ~10,481 |
 | Bees Knees Bootlegger | 3.00% | ~10,481 |
 | Tighten the Screws | 3.00% | ~10,481 |
-| One of Us | 2.00% | ~6,987 |
-| Baker’s Dozen | 2.00% | ~6,987 |
-| Dropping the Dime | 2.00% | ~6,987 |
-| Spiffy Speakeasies | 2.00% | ~6,987 |
-| Keeping Your Word | 2.00% | ~6,987 |
+| One of Us | 2.00% | ~6,988 |
+| Baker’s Dozen | 2.00% | ~6,988 |
+| Dropping the Dime | 2.00% | ~6,988 |
+| Spiffy Speakeasies | 2.00% | ~6,988 |
+| Keeping Your Word | 2.00% | ~6,988 |
 | Boxing Them In | 1.00% | ~3,494 |
 | Backroom Empire | 1.00% | ~3,494 |
 | Corner Control | 1.00% | ~3,494 |
@@ -67,9 +67,9 @@ Rating: 4.28 (Ranked 838)
 | Still Dreaming | 0.50% | ~1,747 |
 | Working on the Railroad | 0.50% | ~1,747 |
 | Social Butterfly | 0.50% | ~1,747 |
-| Homemade Hooch | 0.40% | ~1,397 |
-| High End Booze | 0.40% | ~1,397 |
-| In-House Maintenance | 0.40% | ~1,397 |
+| Homemade Hooch | 0.40% | ~1,398 |
+| High End Booze | 0.40% | ~1,398 |
+| In-House Maintenance | 0.40% | ~1,398 |
 | Dirty Work | 0.30% | ~1,048 |
 | Bottled Up | 0.30% | ~1,048 |
 | Streetwise | 0.30% | ~1,048 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 838)
 | High Pillow | 0.10% | ~349 |
 | Station Master | 0.10% | ~349 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,372 (Ranked 44)  
+Progressed: 349,375 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 7 (0.00%) (Ranked 326)
 | 2023-10-23 | 349,067 | 7 |
 | 2023-10-24 | 349,199 | 7 |
 | 2023-10-25 | 349,342 | 7 |
-| 2023-10-26 | 349,372 | 7 |
+| 2023-10-26 | 349,375 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 447)  
 Sum: 180 (Ranked 402)  

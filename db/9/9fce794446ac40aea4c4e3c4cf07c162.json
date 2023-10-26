@@ -97,9 +97,9 @@
       "ID": "BOSS_03",
       "SetID": "35d3i7a",
       "Name": "Painful image.",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_04",
@@ -289,25 +289,25 @@
       "ID": "MEM_VII",
       "SetID": "35d3i7a",
       "Name": "PUT ON THE F****** MASK!",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_VIII",
       "SetID": "35d3i7a",
       "Name": "Bad dog.",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_X",
       "SetID": "35d3i7a",
       "Name": "You are BEAUTIFUL, she said.",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_XI",
@@ -321,9 +321,9 @@
       "ID": "MEM_XII",
       "SetID": "35d3i7a",
       "Name": "A strange illness.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XIII",
@@ -481,9 +481,9 @@
       "ID": "PROJ_III",
       "SetID": "35d3i7a",
       "Name": "Safeguard.",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PROJ_IV",
@@ -512,8 +512,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:11:42.2825396+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:10:45.5300374+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7987835+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:00:24.6838605+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:11:42.2825852+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:59:49.0335411+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:10:45.5300757+00:00"
 }

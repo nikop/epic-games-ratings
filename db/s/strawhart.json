@@ -173,9 +173,9 @@
       "ID": "ACH_SHARD_1",
       "SetID": "64pp6bc",
       "Name": "A Blast for You and a Blasphemy",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SHARD_1_RITUAL",
@@ -262,8 +262,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:08:44.3802134+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:07:47.9291666+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.3806448+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:00:37.2506363+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:08:44.3802287+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:00:01.428768+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:07:47.9291819+00:00"
 }

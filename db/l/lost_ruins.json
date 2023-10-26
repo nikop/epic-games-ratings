@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-10-26T00:09:40.8896154+00:00",
       "NumProgressed": 464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T08:11:33.8536516+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -962,7 +967,7 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "BugHunter",
@@ -1000,9 +1005,9 @@
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 56
     },
     {
       "ID": "GoblinTales",
@@ -1050,7 +1055,7 @@
       "Name": "Inquisitor",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Librarian",
@@ -1154,7 +1159,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SlingOfDavid",
@@ -1218,7 +1223,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Troubleshooter",
@@ -1249,7 +1254,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 0
     }
   ],
@@ -1257,8 +1262,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:12:25.6181264+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:11:33.8536511+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.3998143+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:00:00.8870391+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:12:25.6182015+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:59:23.6139205+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:11:33.8536914+00:00"
 }

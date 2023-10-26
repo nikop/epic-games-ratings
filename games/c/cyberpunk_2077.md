@@ -9,6 +9,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.70% | ~6,257 |
 | Rough Landing | 0.60% | ~5,363 |
 | The High Priestess | 0.50% | ~4,469 |
+| True Soldier | 0.50% | ~4,469 |
 | All the President's Men | 0.50% | ~112 |
 | Arachnophobia | 0.50% | ~112 |
 | Full Body Conversion | 0.40% | ~3,575 |
@@ -18,7 +19,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.40% | ~3,575 |
 | The Wheel of Fortune | 0.40% | ~3,575 |
 | The Jungle | 0.40% | ~3,575 |
-| True Soldier | 0.40% | ~3,575 |
 | Two Heads, One Bullet | 0.40% | ~3,575 |
 | Legend of The Afterlife | 0.40% | ~3,575 |
 | To Bad Decisions! | 0.30% | ~2,682 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,841 (Ranked 15)  
+Progressed: 893,850 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,841 | 2,713 |
+| 2023-10-26 | 893,850 | 2,713 |
 ## Awards
 Max (Character Customization): 101,458  (Ranked 9)  
-Sum: 326,805 (Ranked 10)  
+Sum: 326,849 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 18,837 |
 | This game has Diverse Characters | 18,512 |
 | This game is Highly Recommended | 17,852 |
-| This game has Amazing Storytelling | 17,720 |
+| This game has Amazing Storytelling | 17,764 |
 | This game is Extremely Fun | 17,474 |
 | This game has Amazing Characters | 17,387 |
 | This game is Relaxing | 16,786 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -1
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
-| 2023-10-26 | 4.64 | - | 101,458 | 326,805 |
+| 2023-10-26 | 4.64 | - | 101,458 | 326,849 |

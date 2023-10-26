@@ -5,33 +5,34 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 91.00% | ~21 |
+| Better On Ice | 74.00% | ~17 |
 | I Broke It | 74.00% | ~17 |
 | Cutie Poro | 74.00% | ~17 |
 | Blue Dreams | 70.00% | ~16 |
 | He's Famous! | 70.00% | ~16 |
-| Better On Ice | 70.00% | ~16 |
+| True Legends | 70.00% | ~16 |
 | Notai Notes | 70.00% | ~16 |
-| True Legends | 65.00% | ~15 |
+| Never Gets Old | 65.00% | ~15 |
 | Krugmazing | 61.00% | ~14 |
-| Never Gets Old | 61.00% | ~14 |
 | The Fire Below the Mountain | 61.00% | ~14 |
 | On The Rocks | 57.00% | ~13 |
+| Vertical Power | 57.00% | ~13 |
 | No Bites | 52.00% | ~12 |
 | Iceborn | 52.00% | ~12 |
-| Vertical Power | 52.00% | ~12 |
 | Boom Things | 48.00% | ~11 |
 | Rhythm Of Willump | 48.00% | ~11 |
+| Moneyball | 48.00% | ~11 |
 | Snowball Fightn't | 48.00% | ~11 |
 | My Darkest Day | 43.00% | ~10 |
 | Tear of Freedom | 43.00% | ~10 |
 | 3000 Year Blackout | 43.00% | ~10 |
 | Snowy Poro | 43.00% | ~10 |
-| Moneyball | 43.00% | ~10 |
 | The Finisher | 43.00% | ~10 |
 | A Tragic Reminder | 39.00% | ~9 |
 | Family | 39.00% | ~9 |
 | Biggest Snowball Ever | 39.00% | ~9 |
 | Bullseye | 39.00% | ~9 |
+| Yummy | 39.00% | ~9 |
 | The Pied Piper Of Freljord | 39.00% | ~9 |
 | The Relentless Storm | 39.00% | ~9 |
 | Boosted! | 39.00% | ~9 |
@@ -40,7 +41,6 @@
 | You Get Used To It | 35.00% | ~8 |
 | Freeze The Ice Witch | 35.00% | ~8 |
 | It Is Not Over | 35.00% | ~8 |
-| Yummy | 35.00% | ~8 |
 | We Are Speed | 35.00% | ~8 |
 | Handy Yeti | 30.00% | ~7 |
 | Braum's Poro Ranch | 26.00% | ~6 |

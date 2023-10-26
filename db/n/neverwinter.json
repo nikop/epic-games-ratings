@@ -3,7 +3,7 @@
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
   "Ranking_Rating": 829,
-  "Ranking_Popularity": 172,
+  "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
@@ -2851,10 +2851,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 2349,
       "NumberOfAwardsMax": 749
+    },
+    {
+      "Time": "2023-10-26T08:04:05.2436115+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2350,
+      "NumberOfAwardsMax": 749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2349,
+  "NumberOfAwards": 2350,
   "NumberOfAwardsMax": 749,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2922,7 +2928,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 173
+      "Count": 174
     }
   ],
   "EOS_Progressed": 0,
@@ -2936,8 +2942,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2023-10-26T03:02:29.5758219+00:00",
+  "LastChanged": "2023-10-26T08:04:05.2436113+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:26.3119905+00:00",
-  "LastUpdate_Ratings": "2023-10-26T07:04:37.987078+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:06:53.3424118+00:00"
+  "LastUpdate_Ratings": "2023-10-26T08:04:05.2436119+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:06:09.1690657+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -565,9 +565,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3779,
+  "EOS_Progressed": 3780,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7465,6 +7465,11 @@
       "Time": "2023-10-26T07:08:22.3678486+00:00",
       "NumProgressed": 3779,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-26T08:07:28.1298386+00:00",
+      "NumProgressed": 3780,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7532,7 +7537,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7556,7 +7561,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7612,7 +7617,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7644,7 +7649,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7700,7 +7705,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7724,7 +7729,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7812,7 +7817,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8043,13 +8048,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3730,
+      "Progressed": 3731,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3779,
+      "Progressed": 3780,
       "Completed": 11
     }
   ],
@@ -8057,8 +8062,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-22T22:03:11.2554647+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:08:22.3678481+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:07:28.1298381+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:59:19.7109001+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:08:22.3680543+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:58:45.8316482+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:07:28.1299408+00:00"
 }

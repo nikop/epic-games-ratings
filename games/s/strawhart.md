@@ -19,11 +19,11 @@
 | Critical Infrastructure | 15.00% | ~2 |
 | Master Archivist | 8.00% | ~1 |
 | Petting Zoo | 8.00% | ~1 |
+| A Blast for You and a Blasphemy | 8.00% | ~1 |
 | Daemon Deferred | 8.00% | ~1 |
 | Apocryphile | 0.00% | ~0 |
 | Aggressive Evangelist | 0.00% | ~0 |
 | Third Eye | 0.00% | ~0 |
-| A Blast for You and a Blasphemy | 0.00% | ~0 |
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 532)  

@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 53,
@@ -543,9 +543,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 256201,
+  "EOS_Progressed": 256232,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 19989,
+  "EOS_NewPlayers": 19987,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9083,6 +9083,11 @@
       "Time": "2023-10-26T07:06:52.3075983+00:00",
       "NumProgressed": 256201,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2023-10-26T08:06:08.418711+00:00",
+      "NumProgressed": 256232,
+      "NumCompleted": 241
     }
   ],
   "TotalAchievements": 24,
@@ -9102,7 +9107,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "11",
@@ -9134,7 +9139,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "15",
@@ -9190,7 +9195,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5124
+      "UsersEstimate": 5125
     },
     {
       "ID": "21",
@@ -9246,7 +9251,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12810
+      "UsersEstimate": 12812
     },
     {
       "ID": "6",
@@ -9285,7 +9290,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 256201,
+      "Progressed": 256232,
       "Completed": 241
     }
   ],
@@ -9293,8 +9298,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-26T02:58:49.6891728+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:06:52.3075977+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:06:08.4187106+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:59:54.5794903+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:06:52.3076841+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:59:17.1385301+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:06:08.4187898+00:00"
 }

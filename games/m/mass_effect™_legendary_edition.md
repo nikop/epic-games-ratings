@@ -84,9 +84,9 @@
 | Pathfinder | 24.00% | ~194 |
 | Tunnel Rat | 24.00% | ~194 |
 | Savior | 23.00% | ~186 |
+| Paramour II | 23.00% | ~186 |
 | Arbiter | 23.00% | ~186 |
 | Lost and Found | 23.00% | ~186 |
-| Paramour II | 22.00% | ~178 |
 | Party Crasher | 21.00% | ~170 |
 | Pyromaniac | 20.00% | ~162 |
 | Under Pressure | 20.00% | ~162 |

@@ -27,6 +27,7 @@
 | First do no harm | 73.00% | ~8 |
 | How Do I Look? | 73.00% | ~8 |
 | Evasive prey | 73.00% | ~8 |
+| Twenty-Six | 64.00% | ~7 |
 | Far Ahead | 64.00% | ~7 |
 | Unladylike | 64.00% | ~7 |
 | Half hat | 64.00% | ~7 |
@@ -34,7 +35,6 @@
 | Pale Kids | 64.00% | ~7 |
 | Wild Kids | 64.00% | ~7 |
 | Post Industrial | 64.00% | ~7 |
-| Twenty-Six | 55.00% | ~6 |
 | No More Remains | 55.00% | ~6 |
 | School Kids | 55.00% | ~6 |
 | Primetime Content Consumer | 9.00% | ~1 |

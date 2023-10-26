@@ -2747,9 +2747,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 657112,
+  "EOS_Progressed": 657115,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1822,
+  "EOS_NewPlayers": 1821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24152,6 +24152,11 @@
       "Time": "2023-10-26T07:10:56.594931+00:00",
       "NumProgressed": 657112,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-26T08:10:14.2656603+00:00",
+      "NumProgressed": 657115,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24171,7 +24176,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 78853
+      "UsersEstimate": 78854
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -24203,7 +24208,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118280
+      "UsersEstimate": 118281
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -24219,7 +24224,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26284
+      "UsersEstimate": 26285
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -24411,7 +24416,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 111709
+      "UsersEstimate": 111710
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -24578,15 +24583,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 657112,
+      "Progressed": 657115,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-25T02:13:48.4243782+00:00",
-  "LastChanged_Achievements": "2023-10-26T07:10:56.5949305+00:00",
+  "LastChanged_Achievements": "2023-10-26T08:10:14.2656598+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:19.1590554+00:00",
-  "LastUpdate_Ratings": "2023-10-26T06:59:21.8430576+00:00",
-  "LastUpdate_Achievements": "2023-10-26T07:10:56.595185+00:00"
+  "LastUpdate_Ratings": "2023-10-26T07:58:47.6105357+00:00",
+  "LastUpdate_Achievements": "2023-10-26T08:10:14.265869+00:00"
 }
