@@ -3190,7 +3190,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238577,
+  "EOS_Progressed": 238578,
   "EOS_Completed": 285,
   "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 4,
@@ -22830,6 +22830,11 @@
       "Time": "2023-10-26T19:09:39.3928809+00:00",
       "NumProgressed": 238577,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-10-26T21:10:07.6283607+00:00",
+      "NumProgressed": 238578,
+      "NumCompleted": 285
     }
   ],
   "TotalAchievements": 122,
@@ -22841,7 +22846,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 26243
+      "UsersEstimate": 26244
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -22857,7 +22862,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100202
+      "UsersEstimate": 100203
     },
     {
       "ID": "BOSSPIT",
@@ -22873,7 +22878,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 229034
+      "UsersEstimate": 229035
     },
     {
       "ID": "CURSE1HP",
@@ -22937,7 +22942,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100202
+      "UsersEstimate": 100203
     },
     {
       "ID": "DEPTH12HARD",
@@ -22961,7 +22966,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174161
+      "UsersEstimate": 174162
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -22993,7 +22998,7 @@
       "Name": "R.I.P",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 88273
+      "UsersEstimate": 88274
     },
     {
       "ID": "DIEBOSS",
@@ -23001,7 +23006,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47715
+      "UsersEstimate": 47716
     },
     {
       "ID": "DIEHARD",
@@ -23033,7 +23038,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78730
+      "UsersEstimate": 78731
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -23049,7 +23054,7 @@
       "Name": "Well Prepared",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47715
+      "UsersEstimate": 47716
     },
     {
       "ID": "ENDINGCHOICE",
@@ -23097,7 +23102,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47715
+      "UsersEstimate": 47716
     },
     {
       "ID": "FREEZE20TIMES",
@@ -23105,7 +23110,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 81116
+      "UsersEstimate": 81117
     },
     {
       "ID": "FULLINVENTORY",
@@ -23241,7 +23246,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145532
+      "UsersEstimate": 145533
     },
     {
       "ID": "KILL1000",
@@ -23337,7 +23342,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109745
+      "UsersEstimate": 109746
     },
     {
       "ID": "KILLPARANOIA",
@@ -23369,7 +23374,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109745
+      "UsersEstimate": 109746
     },
     {
       "ID": "KILLSPITTER",
@@ -23441,7 +23446,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 100202
+      "UsersEstimate": 100203
     },
     {
       "ID": "NOEPIC",
@@ -23489,7 +23494,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 155075
+      "UsersEstimate": 155076
     },
     {
       "ID": "PETRIFY50",
@@ -23521,7 +23526,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78730
+      "UsersEstimate": 78731
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -23609,7 +23614,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 102588
+      "UsersEstimate": 102589
     },
     {
       "ID": "STEALTH100",
@@ -23816,22 +23821,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238577,
+      "Progressed": 238578,
       "Completed": 285
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 57,
-      "Completed": 57
+      "Progressed": 58,
+      "Completed": 58
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-26T01:43:36.7826941+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:10:01.0457253+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:10:07.6283597+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.7378131+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:03:32.3266754+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:10:01.0460602+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:03:09.8684906+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:10:07.6286895+00:00"
 }

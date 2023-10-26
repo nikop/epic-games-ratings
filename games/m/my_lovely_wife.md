@@ -10,8 +10,8 @@ Number of Ratings: 25  (23.09.2022)
 | I did it! | 94.00% | ~575 |
 | Learner | 92.00% | ~563 |
 | Economical | 92.00% | ~563 |
-| Devout | 89.00% | ~545 |
-| The Love Martyr | 87.00% | ~532 |
+| Devout | 90.00% | ~551 |
+| The Love Martyr | 88.00% | ~539 |
 | Frugal | 85.00% | ~520 |
 | Dilligent | 83.00% | ~508 |
 | I... I did it? | 81.00% | ~496 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 612 (Ranked 271)  
+Progressed: 612 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |

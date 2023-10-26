@@ -1027,9 +1027,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 9634,
+  "EOS_Progressed": 9645,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7817,6 +7817,11 @@
       "Time": "2023-10-26T20:06:18.5272093+00:00",
       "NumProgressed": 9634,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-26T21:06:32.2807641+00:00",
+      "NumProgressed": 9645,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -7829,7 +7834,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "a_10",
@@ -7877,7 +7882,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3762
     },
     {
       "ID": "a_19",
@@ -7885,7 +7890,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "a_2",
@@ -7901,7 +7906,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "a_21",
@@ -7909,7 +7914,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "a_22",
@@ -7917,7 +7922,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "a_23",
@@ -7925,7 +7930,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "a_25",
@@ -8037,7 +8042,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "a_6",
@@ -8076,7 +8081,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 9634,
+      "Progressed": 9645,
       "Completed": 9
     }
   ],
@@ -8084,8 +8089,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-20T16:59:38.2228858+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:06:18.5272087+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:06:32.2807634+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:04.5096147+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:01:34.9046122+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:06:18.5273025+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:02:05.5718328+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:06:32.2810584+00:00"
 }

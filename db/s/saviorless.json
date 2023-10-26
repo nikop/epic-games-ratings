@@ -4,7 +4,7 @@
   "ProductSlug": "saviorless-bdcd28",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.5577061+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:59:16.5529555+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:07:10.7312414+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:59:19.3708138+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:07:34.7465966+00:00"
 }

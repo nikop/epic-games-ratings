@@ -4,7 +4,7 @@
   "ProductSlug": "projecthellen-b5df12",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-25T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.3273465+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:58:37.1227807+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:08:30.4948245+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:58:30.2630775+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:08:20.704094+00:00"
 }

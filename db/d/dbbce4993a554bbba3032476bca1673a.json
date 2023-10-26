@@ -2,9 +2,9 @@
   "ID": "dbbce4993a554bbba3032476bca1673a",
   "Name": "Outbreak Devious Beginnings",
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
-  "Ranking_EOS_Progress": 650,
+  "Ranking_EOS_Progress": 617,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-10-25T21:06:02.6915269+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T21:07:28.8377326+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -82,7 +87,7 @@
       "ID": "THATS_IT_RIGHT_ACH",
       "SetID": "8i8pmkm",
       "Name": "That\u0027s It... Right?",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -139,13 +144,13 @@
     {
       "ID": "8i8pmkm",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:07:06.0012267+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:07:28.8377319+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:15.9543994+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:00:46.1631584+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:07:06.0012551+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:01:05.791328+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:07:28.8377418+00:00"
 }

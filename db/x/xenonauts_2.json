@@ -4,7 +4,7 @@
   "ProductSlug": "xenonauts-2-42a236",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-18T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-18T16:02:31.1346902+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:59.8013223+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:57:36.5028849+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:04:55.7473014+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:57:17.5726146+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:04:53.1701031+00:00"
 }

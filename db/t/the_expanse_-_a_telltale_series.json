@@ -2,10 +2,10 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 78,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -181,15 +181,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-26T21:02:03.9844857+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14351,
+  "EOS_Progressed": 14355,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9652,6 +9658,11 @@
       "Time": "2023-10-26T20:08:31.213438+00:00",
       "NumProgressed": 14351,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-26T21:08:21.6550143+00:00",
+      "NumProgressed": 14355,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9806,9 +9817,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "27",
@@ -9838,9 +9849,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "30",
@@ -9943,22 +9954,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14351,
+      "Progressed": 14355,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 305,
+      "Progressed": 309,
       "Completed": 286
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2023-10-24T09:00:46.4310691+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:08:31.2134373+00:00",
+  "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:08:21.6550137+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:01:33.5810247+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:08:31.2135313+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:02:03.9844861+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:08:21.6551091+00:00"
 }

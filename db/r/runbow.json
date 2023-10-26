@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250661,
+  "EOS_Progressed": 250663,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
@@ -17432,6 +17432,11 @@
       "Time": "2023-10-26T19:08:10.399829+00:00",
       "NumProgressed": 250661,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-26T21:09:01.549142+00:00",
+      "NumProgressed": 250663,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17499,7 +17504,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42612
+      "UsersEstimate": 42613
     },
     {
       "ID": "cantBeKeptDown",
@@ -17547,7 +17552,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50132
+      "UsersEstimate": 50133
     },
     {
       "ID": "didYourTime",
@@ -17619,7 +17624,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132850
+      "UsersEstimate": 132851
     },
     {
       "ID": "indegestible",
@@ -17683,7 +17688,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125330
+      "UsersEstimate": 125332
     },
     {
       "ID": "notScared",
@@ -17747,7 +17752,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55145
+      "UsersEstimate": 55146
     },
     {
       "ID": "thunderstruck",
@@ -17810,7 +17815,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250661,
+      "Progressed": 250663,
       "Completed": 6
     }
   ],
@@ -17818,8 +17823,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:09:05.1471723+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:09:01.5491409+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:58:40.7008324+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:09:05.1473202+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:58:34.6399841+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:09:01.549326+00:00"
 }

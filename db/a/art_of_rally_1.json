@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10293,
+  "EOS_Progressed": 10294,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1749,6 +1749,11 @@
       "Time": "2023-10-26T14:05:36.2498106+00:00",
       "NumProgressed": 10293,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-26T21:04:15.4424323+00:00",
+      "NumProgressed": 10294,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1864,7 +1869,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4117
+      "UsersEstimate": 4118
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1968,7 +1973,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1984,7 +1989,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9881
+      "UsersEstimate": 9882
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2056,7 +2061,7 @@
       "Name": "mittens",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -2064,7 +2069,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -2096,22 +2101,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7411
+      "UsersEstimate": 7412
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10293,
+      "Progressed": 10294,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:04:23.990056+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:04:15.4424318+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.5718252+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:57:44.9152346+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:04:23.9901343+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:57:26.8868525+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:04:15.4424953+00:00"
 }

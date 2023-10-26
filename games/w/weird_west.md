@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,705 |
-| Self-Improvement | 71.00% | ~1,376 |
+| Unforgiven | 88.00% | ~1,706 |
+| Self-Improvement | 71.00% | ~1,377 |
 | Perky | 65.00% | ~1,260 |
 | Let’s Ride | 60.00% | ~1,163 |
 | Welcome to the Weird West | 57.00% | ~1,105 |
-| Dead or Alive | 56.00% | ~1,085 |
+| Dead or Alive | 56.00% | ~1,086 |
 | Full House | 37.00% | ~717 |
 | Off the Trail | 34.00% | ~659 |
 | Justice Served | 29.00% | ~562 |
 | Chain Reaction | 26.00% | ~504 |
 | Through Their Eyes | 26.00% | ~504 |
-| Dishonored | 25.00% | ~484 |
-| Rain of Death | 25.00% | ~484 |
-| Scholar | 25.00% | ~484 |
+| Dishonored | 25.00% | ~485 |
+| Rain of Death | 25.00% | ~485 |
+| Scholar | 25.00% | ~485 |
 | The Great Escape | 23.00% | ~446 |
 | That’s All, Folks | 18.00% | ~349 |
 | Fallen Star | 16.00% | ~310 |
@@ -35,9 +35,9 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 11.00% | ~213 |
 | There is Hope | 11.00% | ~213 |
 | The Philosopher’s Stone | 10.00% | ~194 |
-| Loyalty to the Pack | 9.00% | ~174 |
-| Eternity Can Wait | 9.00% | ~174 |
-| Mystery Machine | 9.00% | ~174 |
+| Loyalty to the Pack | 9.00% | ~175 |
+| Eternity Can Wait | 9.00% | ~175 |
+| Mystery Machine | 9.00% | ~175 |
 | Do Not Pass Go… | 8.00% | ~155 |
 | Gold Digger | 8.00% | ~155 |
 | Monster Hunter | 8.00% | ~155 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,938 (Ranked 215)  
+Progressed: 1,939 (Ranked 215)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-23 | 1,919 | 7 |
 | 2023-10-24 | 1,926 | 7 |
 | 2023-10-25 | 1,930 | 7 |
-| 2023-10-26 | 1,938 | 7 |
+| 2023-10-26 | 1,939 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

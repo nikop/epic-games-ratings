@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 79.00% | ~11 |
+| Dousing a Venerable Flame | 21.00% | ~3 |
 | Advanced Armaments | 21.00% | ~3 |
 | Spirit Within | 21.00% | ~3 |
 | A Small Thirsty Thing | 14.00% | ~2 |
-| Dousing a Venerable Flame | 14.00% | ~2 |
 | Leisis Bless You | 14.00% | ~2 |
 | Smotherly Love | 7.00% | ~1 |
 | Let Me Solo Them | 7.00% | ~1 |

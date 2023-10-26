@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 903)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 8.00% | ~1,303 |
+| Flesh Wound | 7.00% | ~1,140 |
 | Paper Jams | 7.00% | ~1,140 |
-| Flesh Wound | 6.00% | ~977 |
 | Float Like A Butterfly | 6.00% | ~977 |
 | Two Heads Are Better Than One | 5.00% | ~814 |
 | Chew 'Em Up | 5.00% | ~814 |

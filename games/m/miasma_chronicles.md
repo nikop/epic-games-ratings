@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,391 |
-| Ranidaphobia | 77.00% | ~1,164 |
-| Aspiring Editor | 74.00% | ~1,119 |
-| Gun for Hire | 69.00% | ~1,043 |
-| I am the law! | 63.00% | ~953 |
-| Lumberjack | 53.00% | ~801 |
-| Croaked | 49.00% | ~741 |
-| Limp Richard | 48.00% | ~726 |
-| Exorcist | 48.00% | ~726 |
-| From Darkness to Light | 48.00% | ~726 |
-| Editor Adept | 47.00% | ~711 |
-| Giant Killer | 46.00% | ~696 |
-| Sensei | 43.00% | ~650 |
-| Firestarter | 42.00% | ~635 |
-| The meaning of Kain | 41.00% | ~620 |
-| Recycler | 40.00% | ~605 |
-| Technophobe | 40.00% | ~605 |
-| Are you not entertained? | 35.00% | ~529 |
-| Ganglord | 35.00% | ~529 |
-| Jarhead | 35.00% | ~529 |
-| Infiltrator | 34.00% | ~514 |
-| Pushing Daisy | 33.00% | ~499 |
+| First Blood | 92.00% | ~1,393 |
+| Ranidaphobia | 77.00% | ~1,166 |
+| Aspiring Editor | 74.00% | ~1,120 |
+| Gun for Hire | 69.00% | ~1,045 |
+| I am the law! | 63.00% | ~954 |
+| Lumberjack | 53.00% | ~802 |
+| Croaked | 49.00% | ~742 |
+| Limp Richard | 48.00% | ~727 |
+| From Darkness to Light | 48.00% | ~727 |
+| Editor Adept | 47.00% | ~712 |
+| Exorcist | 47.00% | ~712 |
+| Giant Killer | 45.00% | ~681 |
+| Sensei | 43.00% | ~651 |
+| Firestarter | 42.00% | ~636 |
+| The meaning of Kain | 41.00% | ~621 |
+| Recycler | 40.00% | ~606 |
+| Technophobe | 40.00% | ~606 |
+| Are you not entertained? | 35.00% | ~530 |
+| Ganglord | 35.00% | ~530 |
+| Jarhead | 35.00% | ~530 |
+| Infiltrator | 34.00% | ~515 |
+| Pushing Daisy | 33.00% | ~500 |
 | Experienced | 32.00% | ~484 |
 | Hold The Line | 31.00% | ~469 |
-| Endgame | 27.00% | ~408 |
-| Savior | 27.00% | ~408 |
+| Endgame | 27.00% | ~409 |
+| Savior | 27.00% | ~409 |
 | There Can Be Only One! | 25.00% | ~378 |
 | Silent but Violent | 23.00% | ~348 |
 | Chain Killer | 22.00% | ~333 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 682)
 | Chaos Theory | 16.00% | ~242 |
 | Newtonian Knockout | 16.00% | ~242 |
 | Ruthless | 14.00% | ~212 |
-| Side Order | 11.00% | ~166 |
+| Side Order | 11.00% | ~167 |
 | Bot Whisperer | 9.00% | ~136 |
 | Chain Reaction | 9.00% | ~136 |
 | Curveball | 8.00% | ~121 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 682)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,512 (Ranked 226)  
+Progressed: 1,514 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-21 | 1,480 | 0 |
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
-| 2023-10-26 | 1,512 | 0 |
+| 2023-10-26 | 1,514 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

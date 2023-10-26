@@ -10,10 +10,10 @@ Rating: 4.57 (Ranked 460)
 | Adventurer | 92.00% | ~12 |
 | Map reader | 92.00% | ~12 |
 | The brave little tailor | 77.00% | ~10 |
+| Samaritan | 77.00% | ~10 |
 | Archer | 77.00% | ~10 |
-| Samaritan | 69.00% | ~9 |
+| The merciful one | 69.00% | ~9 |
 | Well-to-do | 69.00% | ~9 |
-| The merciful one | 62.00% | ~8 |
 | Field hand | 62.00% | ~8 |
 | Ladies' man | 62.00% | ~8 |
 | Ferocious wild boars | 54.00% | ~7 |

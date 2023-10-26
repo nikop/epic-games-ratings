@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 1.00% | ~8,939 |
-| Ten out of Ten | 0.80% | ~7,151 |
+| Ten out of Ten | 0.80% | ~7,152 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
 | Full Body Conversion | 0.50% | ~4,470 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,931 (Ranked 15)  
+Progressed: 893,939 (Ranked 15)  
 Completed: 2,714 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 2,714 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,931 | 2,714 |
+| 2023-10-26 | 893,939 | 2,714 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
-Sum: 327,545 (Ranked 10)  
+Sum: 327,659 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -272,8 +272,8 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 72,477 |
 | This game is Great for Beginners | 18,837 |
 | This game has Diverse Characters | 18,681 |
+| This game has Amazing Storytelling | 17,878 |
 | This game is Highly Recommended | 17,852 |
-| This game has Amazing Storytelling | 17,764 |
 | This game is Extremely Fun | 17,605 |
 | This game has Amazing Characters | 17,387 |
 | This game is Relaxing | 16,786 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -1
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
-| 2023-10-26 | 4.64 | - | 101,755 | 327,545 |
+| 2023-10-26 | 4.64 | - | 101,755 | 327,659 |

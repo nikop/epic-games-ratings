@@ -127,9 +127,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "id_11",
@@ -303,9 +303,9 @@
       "ID": "id_4",
       "SetID": "bk9jib6",
       "Name": "Samaritan",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "id_42",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:06:20.8311911+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:06:34.9440401+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.1971156+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:01:42.5700677+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:06:20.8312405+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:02:14.5383171+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:06:34.944088+00:00"
 }

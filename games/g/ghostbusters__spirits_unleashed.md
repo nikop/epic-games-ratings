@@ -12,20 +12,20 @@ Rating: 4.50 (Ranked 577)
 | Meticulously Efficient | 3.00% | ~833 |
 | Fully Upgraded | 3.00% | ~833 |
 | Solo Capture | 3.00% | ~833 |
-| Animated | 2.00% | ~555 |
-| Back Off | 2.00% | ~555 |
-| Clutch Capture | 2.00% | ~555 |
-| Cultured | 2.00% | ~555 |
-| Daily Dose | 2.00% | ~555 |
-| Ectoplasmic Entity | 2.00% | ~555 |
-| Ghostbuster In Training | 2.00% | ~555 |
-| Icing on the Cake | 2.00% | ~555 |
-| Right back at ya | 2.00% | ~555 |
-| Swift Rift Removers | 2.00% | ~555 |
-| Teamwork | 2.00% | ~555 |
-| There you are! | 2.00% | ~555 |
-| Vaporous Expansion | 2.00% | ~555 |
-| Whoopsie | 2.00% | ~555 |
+| Animated | 2.00% | ~556 |
+| Back Off | 2.00% | ~556 |
+| Clutch Capture | 2.00% | ~556 |
+| Cultured | 2.00% | ~556 |
+| Daily Dose | 2.00% | ~556 |
+| Ectoplasmic Entity | 2.00% | ~556 |
+| Ghostbuster In Training | 2.00% | ~556 |
+| Icing on the Cake | 2.00% | ~556 |
+| Right back at ya | 2.00% | ~556 |
+| Swift Rift Removers | 2.00% | ~556 |
+| Teamwork | 2.00% | ~556 |
+| There you are! | 2.00% | ~556 |
+| Vaporous Expansion | 2.00% | ~556 |
+| Whoopsie | 2.00% | ~556 |
 | We have the best insurance | 1.00% | ~278 |
 | Legions | 1.00% | ~278 |
 | Pesky Jerks | 1.00% | ~278 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 577)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,773 (Ranked 120)  
+Progressed: 27,777 (Ranked 120)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,11 +246,11 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-23 | 27,370 | 63 |
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
-| 2023-10-26 | 27,773 | 65 |
+| 2023-10-26 | 27,777 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
-Sum: 2,554 (Ranked 183)  
-Diff (max vs sum): 66  
+Sum: 2,557 (Ranked 182)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 286 |
@@ -262,7 +262,7 @@ Diff (max vs sum): 66
 | This game is Highly Recommended | 250 |
 | This game is Extremely Fun | 249 |
 | This game has Quickly Understood Controls | 240 |
-| This game has Amazing Characters | 233 |
+| This game has Amazing Characters | 236 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -460,4 +460,4 @@ Diff (max vs sum): 66
 | 2023-10-23 | 4.50 | 275 | 2,507 |
 | 2023-10-24 | 4.50 | 281 | 2,525 |
 | 2023-10-25 | 4.50 | 281 | 2,541 |
-| 2023-10-26 | 4.50 | 286 | 2,554 |
+| 2023-10-26 | 4.50 | 286 | 2,557 |

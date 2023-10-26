@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Pioneer | 30.00% | ~20 |
-| Firefighter | 8.00% | ~5 |
+| Firefighter | 7.00% | ~5 |
 | Collector | 6.00% | ~4 |
-| Summoner | 5.00% | ~3 |
-| St. Martin | 5.00% | ~3 |
+| Summoner | 4.00% | ~3 |
+| St. Martin | 4.00% | ~3 |
 | Invisible encounter | 3.00% | ~2 |
 | Bad knight | 3.00% | ~2 |
-| Gentleman | 2.00% | ~1 |
-| A note from a Mort | 2.00% | ~1 |
-| Martyr | 2.00% | ~1 |
-| Champion | 2.00% | ~1 |
-| Hero | 2.00% | ~1 |
-| Purist | 2.00% | ~1 |
-| Swordmaster | 2.00% | ~1 |
-| Runner | 2.00% | ~1 |
-| Legendary knight | 2.00% | ~1 |
+| Gentleman | 1.00% | ~1 |
+| A note from a Mort | 1.00% | ~1 |
+| Martyr | 1.00% | ~1 |
+| Champion | 1.00% | ~1 |
+| Hero | 1.00% | ~1 |
+| Purist | 1.00% | ~1 |
+| Swordmaster | 1.00% | ~1 |
+| Runner | 1.00% | ~1 |
+| Legendary knight | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 429)  
+Progressed: 67 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,6 +44,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-05 | 64 | 0 |
 | 2023-10-09 | 65 | 0 |
 | 2023-10-24 | 66 | 0 |
+| 2023-10-26 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

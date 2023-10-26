@@ -18,8 +18,8 @@ Rating: 4.57 (Ranked 460)
 | Fully Recycled | 13.00% | ~424 |
 | Ain't Nobody Got Time for That | 13.00% | ~424 |
 | Hope Seeker | 12.00% | ~391 |
-| Exceeding Capacity | 11.00% | ~358 |
-| Breaking Protocol | 11.00% | ~358 |
+| Exceeding Capacity | 11.00% | ~359 |
+| Breaking Protocol | 11.00% | ~359 |
 | A Hunk of Junk | 10.00% | ~326 |
 | Man's Best Friend | 8.00% | ~261 |
 | Power Outage | 8.00% | ~261 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 460)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,259 (Ranked 196)  
+Progressed: 3,260 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-23 | 3,254 | 0 |
 | 2023-10-24 | 3,255 | 0 |
 | 2023-10-25 | 3,256 | 0 |
-| 2023-10-26 | 3,259 | 0 |
+| 2023-10-26 | 3,260 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

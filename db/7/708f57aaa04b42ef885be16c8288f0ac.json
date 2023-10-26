@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2126,
+  "EOS_Progressed": 2159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1956,
+  "EOS_NewPlayers": 1975,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-10-26T20:09:07.4516374+00:00",
       "NumProgressed": 2126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T21:09:04.1885039+00:00",
+      "NumProgressed": 2159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -945,9 +950,9 @@
       "ID": "BabySteps",
       "SetID": "acc6ea0",
       "Name": "Baby Steps",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 173
     },
     {
       "ID": "BeLikeWater",
@@ -977,9 +982,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "Eavesdropper",
@@ -1011,7 +1016,7 @@
       "Name": "First Time?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1051,7 +1056,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "JackOfAllTrades",
@@ -1083,15 +1088,15 @@
       "Name": "Nasty!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1131,7 +1136,7 @@
       "Name": "The Old-School Way",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TheQuarterback",
@@ -1139,7 +1144,7 @@
       "Name": "The Quarterback",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "ThisIsDharma",
@@ -1147,15 +1152,15 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "UnResurrected",
@@ -1195,7 +1200,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "k01101110",
@@ -1210,14 +1215,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2126,
+      "Progressed": 2159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-26T20:09:07.4516367+00:00",
+  "LastChanged_Achievements": "2023-10-26T21:09:04.1885033+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-26T19:59:31.3390883+00:00",
-  "LastUpdate_Achievements": "2023-10-26T20:09:07.4516729+00:00"
+  "LastUpdate_Ratings": "2023-10-26T20:59:39.9657441+00:00",
+  "LastUpdate_Achievements": "2023-10-26T21:09:04.1885365+00:00"
 }
