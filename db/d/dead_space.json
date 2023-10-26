@@ -5,9 +5,9 @@
   "Ranking_Rating": 357,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 433,
-  "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -679,7 +679,7 @@
   ],
   "EOS_Progressed": 1223,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3889,9 +3889,9 @@
       "ID": "achievement_22",
       "SetID": "222fo9l",
       "Name": "A Cut Above",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_23",
@@ -4162,8 +4162,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-24T11:59:43.9423554+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:08:39.6629681+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:08:58.8119847+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:01:07.5309571+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:08:39.6630234+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:01:06.2769881+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:08:58.8120906+00:00"
 }

@@ -18,7 +18,7 @@
 | Doodle Bar | 17.00% | ~42 |
 | Deity of Darkness | 16.00% | ~39 |
 | Half the Kingdom | 16.00% | ~39 |
-| Creator of Magic | 14.00% | ~34 |
+| Creator of Magic | 15.00% | ~37 |
 | Heavenly Virtues | 11.00% | ~27 |
 | Salvation! | 10.00% | ~24 |
 | Brilliant Inventor | 7.00% | ~17 |
@@ -27,7 +27,7 @@
 | Master of the Worlds | 6.00% | ~15 |
 | God of Patience | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 340)  
+Progressed: 245 (Ranked 341)  
 Completed: 8 (3.27%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

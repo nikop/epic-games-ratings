@@ -31,8 +31,8 @@ Rating: 4.62 (Ranked 357)
 | Exodus | 37.00% | ~453 |
 | There's Always Peng! | 37.00% | ~453 |
 | Mindless Prey | 37.00% | ~453 |
+| A Cut Above | 34.00% | ~416 |
 | Front Toward Enemy | 34.00% | ~416 |
-| A Cut Above | 33.00% | ~404 |
 | Whole Again | 29.00% | ~355 |
 | Set A Benchmark | 29.00% | ~355 |
 | Pack Rat | 27.00% | ~330 |
@@ -53,8 +53,8 @@ Rating: 4.62 (Ranked 357)
 | Untouchable | 2.00% | ~24 |
 | One Gun | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,223 (Ranked 233)  
-Completed: 7 (0.57%) (Ranked 178)  
+Progressed: 1,223 (Ranked 234)  
+Completed: 7 (0.57%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

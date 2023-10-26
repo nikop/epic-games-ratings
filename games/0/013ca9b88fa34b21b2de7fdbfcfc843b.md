@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,174 |
+| Azoria Beckons | 73.00% | ~5,246 |
 | A Thorny Situation | 70.00% | ~5,030 |
 | ... And Spit Back Out | 60.00% | ~4,312 |
 | Break-Net Speed | 49.00% | ~3,521 |

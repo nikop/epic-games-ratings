@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6703,7 +6703,7 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138164,
+  "EOS_Progressed": 138165,
   "EOS_Completed": 172,
   "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 1,
@@ -26053,6 +26053,11 @@
       "Time": "2023-10-26T15:05:32.0283244+00:00",
       "NumProgressed": 138164,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-26T16:05:31.4862981+00:00",
+      "NumProgressed": 138165,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26086,9 +26091,9 @@
       "ID": "advlevel04",
       "SetID": "anfd17p",
       "Name": "Cream of the Crop",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 829
+      "UsersEstimate": 967
     },
     {
       "ID": "advlevel05",
@@ -26959,15 +26964,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138164,
+      "Progressed": 138165,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T10:58:28.3186533+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:05:32.0283237+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:05:31.4862976+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:58:28.8285755+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:05:32.028748+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:58:12.304243+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:05:31.4866109+00:00"
 }

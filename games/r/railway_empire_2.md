@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.44 (Ranked 664)  
+Rating: 4.45 (Ranked 651)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 664)
 | United States | 0.60% | ~12 |
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,060 (Ranked 210)  
+Progressed: 2,060 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,3 +263,4 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-15 | 4.49 | 0 | 0 |
 | 2023-10-16 | 4.43 | 0 | 0 |
 | 2023-10-20 | 4.44 | 0 | 0 |
+| 2023-10-26 | 4.45 | 0 | 0 |

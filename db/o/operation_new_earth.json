@@ -5,10 +5,10 @@
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1681,
+  "EOS_Progressed": 1683,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6259,6 +6259,11 @@
       "Time": "2023-10-26T15:06:06.2598284+00:00",
       "NumProgressed": 1681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T16:06:11.4600335+00:00",
+      "NumProgressed": 1683,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6286,7 +6291,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6334,7 +6339,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -6406,7 +6411,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6518,15 +6523,15 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 421
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6573,7 +6578,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1681,
+      "Progressed": 1683,
       "Completed": 1
     }
   ],
@@ -6581,8 +6586,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:06:06.2598279+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:06:11.460033+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:01:31.807403+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:06:06.2599079+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:01:33.0219496+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:06:11.4601028+00:00"
 }

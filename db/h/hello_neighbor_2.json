@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -435,9 +435,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3054,
+  "EOS_Progressed": 3055,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
@@ -4060,6 +4060,11 @@
       "Time": "2023-10-26T15:07:24.5434791+00:00",
       "NumProgressed": 3054,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-10-26T16:07:31.0208236+00:00",
+      "NumProgressed": 3055,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 14,
@@ -4077,9 +4082,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1100
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4111,7 +4116,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -4135,7 +4140,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4182,7 +4187,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3054,
+      "Progressed": 3055,
       "Completed": 123
     }
   ],
@@ -4190,8 +4195,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:07:24.5434787+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:07:31.0208231+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:00:39.1207227+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:07:24.5435214+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:00:32.1697407+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:07:31.0208832+00:00"
 }

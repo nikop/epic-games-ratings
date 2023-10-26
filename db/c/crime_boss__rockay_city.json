@@ -3,11 +3,11 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 204,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4265,7 +4265,7 @@
   ],
   "EOS_Progressed": 89344,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23444,9 +23444,9 @@
       "ID": "ACH_0430",
       "SetID": "3kam13l",
       "Name": "Fancy Pants",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 804
+      "UsersEstimate": 893
     },
     {
       "ID": "ACH_0431",
@@ -23555,8 +23555,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-26T12:00:08.982517+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:09:26.3936759+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:09:41.3207733+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.0531076+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:59:58.5435427+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:09:26.3938569+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:59:50.1859115+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:09:41.3209674+00:00"
 }

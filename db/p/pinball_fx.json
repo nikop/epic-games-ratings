@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1817,10 +1817,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1578,
       "NumberOfAwardsMax": 197
+    },
+    {
+      "Time": "2023-10-26T16:03:58.1381621+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1579,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1578,
+  "NumberOfAwards": 1579,
   "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1894,7 +1900,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1903,9 +1909,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 274469,
+  "EOS_Progressed": 274493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2094,
+  "EOS_NewPlayers": 2095,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23443,6 +23449,11 @@
       "Time": "2023-10-26T14:10:43.2843506+00:00",
       "NumProgressed": 274469,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T16:04:14.2282971+00:00",
+      "NumProgressed": 274493,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -23502,7 +23513,7 @@
       "Name": "Contender",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27447
+      "UsersEstimate": 27449
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -23542,7 +23553,7 @@
       "Name": "First but not Last",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10979
+      "UsersEstimate": 10980
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -23574,7 +23585,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8234
+      "UsersEstimate": 8235
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -23614,7 +23625,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30192
+      "UsersEstimate": 30194
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -23622,7 +23633,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5489
+      "UsersEstimate": 5490
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -23662,7 +23673,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8234
+      "UsersEstimate": 8235
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -23678,7 +23689,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 225065
+      "UsersEstimate": 225084
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -23686,22 +23697,22 @@
       "Name": "I know the Rules",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 96064
+      "UsersEstimate": 96073
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 274469,
+      "Progressed": 274493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-10-24T22:03:12.2046237+00:00",
-  "LastChanged_Achievements": "2023-10-26T14:10:43.2843501+00:00",
+  "LastChanged": "2023-10-26T16:03:58.1381619+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:04:14.2282959+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.6764804+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:04:15.8465573+00:00",
-  "LastUpdate_Achievements": "2023-10-26T14:10:43.2845325+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:03:58.1381625+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:04:14.2308563+00:00"
 }

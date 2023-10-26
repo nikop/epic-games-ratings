@@ -10,8 +10,8 @@ Rating: 3.94 (Ranked 991)
 | Underworld Initiate | 1.00% | ~893 |
 | Downed but Not Outed | 1.00% | ~893 |
 | Too Old for This | 1.00% | ~893 |
+| Fancy Pants | 1.00% | ~893 |
 | Roid Ranger | 0.90% | ~804 |
-| Fancy Pants | 0.90% | ~804 |
 | Off the Rocks | 0.90% | ~804 |
 | King of the Hill | 0.80% | ~715 |
 | Raider’s Ruin | 0.80% | ~715 |
@@ -238,9 +238,9 @@ Completed: 53 (0.06%) (Ranked 278)
 | 2023-10-25 | 89,327 | 52 |
 | 2023-10-26 | 89,344 | 53 |
 ## Awards
-Max (Diverse Characters): 510  (Ranked 204)  
+Max (Diverse Characters): 510  (Ranked 205)  
 Sum: 2,889 (Ranked 175)  
-Diff (max vs sum): 29  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 510 |

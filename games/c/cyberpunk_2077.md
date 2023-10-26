@@ -7,16 +7,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ten out of Ten | 0.80% | ~7,151 |
+| V for Vendetta | 0.70% | ~6,257 |
 | Rough Landing | 0.60% | ~5,363 |
-| V for Vendetta | 0.60% | ~5,363 |
-| Full Body Conversion | 0.50% | ~4,469 |
-| The High Priestess | 0.50% | ~4,469 |
-| True Soldier | 0.50% | ~4,469 |
+| Full Body Conversion | 0.50% | ~4,470 |
+| Stanislavski's Method | 0.50% | ~4,470 |
+| The High Priestess | 0.50% | ~4,470 |
+| True Soldier | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
 | Right Back At Ya | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
-| Stanislavski's Method | 0.40% | ~3,576 |
 | The Hermit | 0.40% | ~3,576 |
 | The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,890 (Ranked 15)  
+Progressed: 893,902 (Ranked 15)  
 Completed: 2,713 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,14 +261,14 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,890 | 2,713 |
+| 2023-10-26 | 893,902 | 2,713 |
 ## Awards
-Max (Character Customization): 101,458  (Ranked 9)  
-Sum: 327,149 (Ranked 10)  
+Max (Character Customization): 101,755  (Ranked 9)  
+Sum: 327,446 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 101,458 |
+| This game has Inclusive Character Customization | 101,755 |
 | This game has Great Boss Battles | 72,477 |
 | This game is Great for Beginners | 18,837 |
 | This game has Diverse Characters | 18,681 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -1
 | 2023-10-23 | 4.64 | - | 100,955 | 322,516 |
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
-| 2023-10-26 | 4.64 | - | 101,458 | 327,149 |
+| 2023-10-26 | 4.64 | - | 101,755 | 327,446 |

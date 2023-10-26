@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.44 (Ranked 664)  
+Rating: 4.44 (Ranked 665)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Topical Conversationalist | 1.00% | ~2 |
 | The Caligula Effect 2 | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 342)  
+Progressed: 237 (Ranked 343)  
 Completed: 2 (0.84%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |

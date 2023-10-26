@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,642 |
-| Imprint | 3.00% | ~4,642 |
+| Taste | 3.00% | ~4,643 |
+| Imprint | 3.00% | ~4,643 |
 | The Hunt | 2.00% | ~3,095 |
 | Weeper | 2.00% | ~3,095 |
 | Ravenous | 2.00% | ~3,095 |
-| Harmless | 1.00% | ~1,547 |
-| Silenced Whispers | 1.00% | ~1,547 |
-| Devourer | 1.00% | ~1,547 |
+| Harmless | 1.00% | ~1,548 |
+| Silenced Whispers | 1.00% | ~1,548 |
+| Devourer | 1.00% | ~1,548 |
 | Yank | 0.90% | ~1,393 |
 | Sharpened Vessel | 0.90% | ~1,393 |
 | Scion | 0.80% | ~1,235 |
@@ -21,9 +21,9 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.80% | ~1,238 |
 | Jawstag | 0.70% | ~1,083 |
 | Watcher | 0.70% | ~1,083 |
-| Shapely | 0.60% | ~928 |
+| Shapely | 0.60% | ~929 |
 | Glare | 0.60% | ~926 |
-| Predator | 0.60% | ~928 |
+| Predator | 0.60% | ~929 |
 | Assimilation | 0.50% | ~774 |
 | Host | 0.50% | ~772 |
 | Celebration | 0.50% | ~774 |
@@ -37,12 +37,12 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.30% | ~464 |
 | Unwrap the Gift | 0.30% | ~464 |
 | Passage | 0.30% | ~464 |
-| Bloodhunter | 0.20% | ~309 |
+| Bloodhunter | 0.20% | ~310 |
 | Zygote | 0.20% | ~309 |
-| Kinship | 0.20% | ~309 |
+| Kinship | 0.20% | ~310 |
 | Kin | 0.20% | ~309 |
 | Listen | 0.20% | ~309 |
-| Proportions | 0.20% | ~309 |
+| Proportions | 0.20% | ~310 |
 | Spiral Heart | 0.10% | ~155 |
 | Skinmaker | 0.10% | ~155 |
 | Instruments | 0.10% | ~155 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,743 (Ranked 73)  
+Progressed: 154,751 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 1 (0.00%) (Ranked 327)
 | 2023-10-23 | 154,251 | 1 |
 | 2023-10-24 | 154,456 | 1 |
 | 2023-10-25 | 154,623 | 1 |
-| 2023-10-26 | 154,743 | 1 |
+| 2023-10-26 | 154,751 | 1 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 426)  
 Sum: 319 (Ranked 349)  

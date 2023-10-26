@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1744,
+  "EOS_Progressed": 1745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3642,6 +3642,11 @@
       "Time": "2023-10-26T15:10:51.1589921+00:00",
       "NumProgressed": 1744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T16:10:45.0663216+00:00",
+      "NumProgressed": 1745,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3654,7 +3659,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3942,15 +3947,15 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 732
+      "UsersEstimate": 750
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4004,9 +4009,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 506
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4045,14 +4050,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1744,
+      "Progressed": 1745,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:10:51.1589916+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:10:45.0663211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:03:37.75462+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:10:51.1590622+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:03:43.3822346+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:10:45.0663882+00:00"
 }

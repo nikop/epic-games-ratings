@@ -2,10 +2,10 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1136,9 +1136,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1231,8 +1231,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:04:35.9610214+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:04:25.5322719+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:59:12.8582778+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:04:35.9610567+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:59:04.1282966+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:04:25.5323006+00:00"
 }

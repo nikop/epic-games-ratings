@@ -5,10 +5,10 @@
   "Ranking_Rating": 909,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559,
+  "EOS_Progressed": 1560,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.68,
   "EosHistory": [
@@ -3022,6 +3022,11 @@
       "Time": "2023-10-26T06:09:46.6034162+00:00",
       "NumProgressed": 1559,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-26T16:10:48.8297423+00:00",
+      "NumProgressed": 1560,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3097,7 +3102,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3113,22 +3118,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1559,
+      "Progressed": 1560,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:10:54.4172682+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:10:48.8297416+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.9031192+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:59:21.2517196+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:10:54.4173029+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:59:12.052813+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:10:48.8297706+00:00"
 }

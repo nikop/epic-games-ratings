@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nightmare Territory | 86.00% | ~485 |
-| Hunting Season | 83.00% | ~468 |
-| Not the Last | 68.00% | ~384 |
-| Somebody's Home | 57.00% | ~321 |
-| Coffee Thermos | 56.00% | ~316 |
-| Grew Bigger | 55.00% | ~310 |
-| Secret Stashes | 51.00% | ~288 |
-| Bring It | 50.00% | ~282 |
-| Darkness Coiled | 50.00% | ~282 |
-| Chased the Source | 49.00% | ~276 |
-| Felt Good | 48.00% | ~271 |
-| Find the Light | 45.00% | ~254 |
-| Lawman | 43.00% | ~243 |
-| Into the Overlap | 43.00% | ~243 |
-| Talk Show | 38.00% | ~214 |
-| Aimed Ahead | 37.00% | ~209 |
-| Carry his Words | 36.00% | ~203 |
-| The Other Side | 34.00% | ~192 |
-| Storm Cloud | 31.00% | ~175 |
-| New York City | 31.00% | ~175 |
-| Return | 30.00% | ~169 |
-| Lights Shining | 28.00% | ~158 |
-| Yippee Ki-yay | 27.00% | ~152 |
-| Greatest Hits | 26.00% | ~147 |
-| Shining in the Night | 26.00% | ~147 |
-| Filling the Shape | 26.00% | ~147 |
-| This is the Moment | 24.00% | ~135 |
-| Growing Stronger | 24.00% | ~135 |
-| Finding a Way | 23.00% | ~130 |
-| Stop the Monster | 22.00% | ~124 |
-| All His Life | 21.00% | ~118 |
-| Bright Falls' Finest | 20.00% | ~113 |
-| Back in Watery | 19.00% | ~107 |
-| Escape its Gravity | 18.00% | ~102 |
+| Nightmare Territory | 86.00% | ~489 |
+| Hunting Season | 82.00% | ~467 |
+| Not the Last | 68.00% | ~387 |
+| Somebody's Home | 57.00% | ~324 |
+| Coffee Thermos | 56.00% | ~319 |
+| Grew Bigger | 55.00% | ~313 |
+| Secret Stashes | 51.00% | ~290 |
+| Bring It | 50.00% | ~284 |
+| Darkness Coiled | 50.00% | ~284 |
+| Felt Good | 49.00% | ~279 |
+| Chased the Source | 49.00% | ~279 |
+| Find the Light | 45.00% | ~256 |
+| Lawman | 43.00% | ~245 |
+| Into the Overlap | 43.00% | ~245 |
+| Talk Show | 38.00% | ~216 |
+| Aimed Ahead | 37.00% | ~211 |
+| Carry his Words | 36.00% | ~205 |
+| The Other Side | 34.00% | ~193 |
+| New York City | 31.00% | ~176 |
+| Storm Cloud | 30.00% | ~171 |
+| Return | 30.00% | ~171 |
+| Lights Shining | 28.00% | ~159 |
+| Yippee Ki-yay | 27.00% | ~154 |
+| Greatest Hits | 26.00% | ~148 |
+| Shining in the Night | 26.00% | ~148 |
+| Filling the Shape | 26.00% | ~148 |
+| This is the Moment | 24.00% | ~137 |
+| Growing Stronger | 24.00% | ~137 |
+| Finding a Way | 23.00% | ~131 |
+| Stop the Monster | 22.00% | ~125 |
+| All His Life | 21.00% | ~119 |
+| Bright Falls' Finest | 20.00% | ~114 |
+| Escape its Gravity | 19.00% | ~108 |
+| Back in Watery | 19.00% | ~108 |
 | We Watch in the Night | 18.00% | ~102 |
 | In One Go | 15.00% | ~85 |
-| Strange Reality | 14.00% | ~79 |
-| Ready for a Fight | 14.00% | ~79 |
-| In a Fancy Hotel | 14.00% | ~79 |
-| Stop Right There | 13.00% | ~73 |
-| Girl in Love | 13.00% | ~73 |
-| The Old Gods | 13.00% | ~73 |
-| Told and Retold | 13.00% | ~73 |
+| Strange Reality | 14.00% | ~80 |
+| Ready for a Fight | 14.00% | ~80 |
+| In a Fancy Hotel | 14.00% | ~80 |
+| Stop Right There | 13.00% | ~74 |
+| Girl in Love | 13.00% | ~74 |
+| The Old Gods | 13.00% | ~74 |
 | Seeing Double | 12.00% | ~68 |
+| Told and Retold | 12.00% | ~68 |
 | Behind the Masks | 12.00% | ~68 |
 | Cut Short | 12.00% | ~68 |
-| Stunning Vistas | 10.00% | ~56 |
-| Gone for Good | 9.00% | ~51 |
+| Stunning Vistas | 10.00% | ~57 |
 | The Final Deerfest | 9.00% | ~51 |
-| His Way Out | 9.00% | ~51 |
-| Filled with Rage | 8.00% | ~45 |
-| The Story Come True | 8.00% | ~45 |
-| Rock n' Roll, Baby | 8.00% | ~45 |
-| End of the Road | 8.00% | ~45 |
-| The Cult of the Word | 8.00% | ~45 |
-| The Trail of the Writer | 7.00% | ~39 |
+| End of the Road | 9.00% | ~51 |
+| Filled with Rage | 8.00% | ~46 |
+| Gone for Good | 8.00% | ~46 |
+| The Story Come True | 8.00% | ~46 |
+| Rock n' Roll, Baby | 8.00% | ~46 |
+| The Cult of the Word | 8.00% | ~46 |
+| His Way Out | 8.00% | ~46 |
+| The Trail of the Writer | 7.00% | ~40 |
 | I'll Find You | 6.00% | ~34 |
 | Shift in Reality | 6.00% | ~34 |
 | Back to Life | 6.00% | ~34 |
@@ -71,7 +71,7 @@
 | Hidden by the Trees | 0.90% | ~5 |
 | Rustic Charm | 0.70% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 564 (Ranked 276)  
+Progressed: 569 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-23 | 247 | 0 |
 | 2023-10-24 | 383 | 0 |
 | 2023-10-25 | 515 | 0 |
-| 2023-10-26 | 564 | 0 |
+| 2023-10-26 | 569 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

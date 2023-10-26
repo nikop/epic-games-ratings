@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16868,
+  "EOS_Progressed": 16869,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5878,6 +5878,11 @@
       "Time": "2023-10-25T22:06:38.1102987+00:00",
       "NumProgressed": 16868,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T16:06:56.6183004+00:00",
+      "NumProgressed": 16869,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -5889,7 +5894,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16025
+      "UsersEstimate": 16026
     },
     {
       "ID": "ACH001",
@@ -5897,7 +5902,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "ACH0010",
@@ -5905,7 +5910,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "ACH0011",
@@ -5921,7 +5926,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8265
+      "UsersEstimate": 8266
     },
     {
       "ID": "ACH0013",
@@ -5985,7 +5990,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12145
+      "UsersEstimate": 12146
     },
     {
       "ID": "ACH0020",
@@ -6017,7 +6022,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1349
+      "UsersEstimate": 1350
     },
     {
       "ID": "ACH0024",
@@ -6041,7 +6046,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "ACH004",
@@ -6049,7 +6054,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14675
+      "UsersEstimate": 14676
     },
     {
       "ID": "ACH005",
@@ -6096,7 +6101,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16868,
+      "Progressed": 16869,
       "Completed": 1
     }
   ],
@@ -6104,8 +6109,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:06:44.5524679+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:06:56.6183+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:32.1142451+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:00:25.7055583+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:06:44.5525716+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:00:20.7219957+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:06:56.6183558+00:00"
 }

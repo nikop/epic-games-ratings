@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14118,18 +14118,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 327149,
       "NumberOfAwardsMax": 101458
+    },
+    {
+      "Time": "2023-10-26T16:02:34.6509513+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 327446,
+      "NumberOfAwardsMax": 101755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 327149,
-  "NumberOfAwardsMax": 101458,
+  "NumberOfAwards": 327446,
+  "NumberOfAwardsMax": 101755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 101458
+      "Count": 101755
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14198,10 +14204,10 @@
       "Count": 11556
     }
   ],
-  "EOS_Progressed": 893890,
+  "EOS_Progressed": 893902,
   "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1219,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 1223,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35638,6 +35644,11 @@
       "Time": "2023-10-26T15:08:54.8264526+00:00",
       "NumProgressed": 893890,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-26T16:09:16.2835087+00:00",
+      "NumProgressed": 893902,
+      "NumCompleted": 2713
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35674,7 +35685,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Denied",
@@ -35824,9 +35835,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3576
+      "UsersEstimate": 4470
     },
     {
       "ID": "Specialist",
@@ -35882,7 +35893,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "TheLovers",
@@ -35946,7 +35957,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "TrueWarrior",
@@ -35976,9 +35987,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5363
+      "UsersEstimate": 6257
     },
     {
       "ID": "YipMan",
@@ -36169,21 +36180,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893890,
+      "Progressed": 893902,
       "Completed": 2713
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22513,
+      "Progressed": 22525,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-26T15:02:23.6817217+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:08:54.826452+00:00",
+  "LastChanged": "2023-10-26T16:02:34.6509511+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:09:16.2835083+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:02:23.6817226+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:08:54.8267229+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:02:34.6509519+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:09:16.2836981+00:00"
 }

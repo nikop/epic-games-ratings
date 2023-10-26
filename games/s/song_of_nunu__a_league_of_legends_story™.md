@@ -22,13 +22,13 @@
 | Boom Things | 43.00% | ~12 |
 | Rhythm Of Willump | 43.00% | ~12 |
 | Moneyball | 43.00% | ~12 |
+| The Pied Piper Of Freljord | 43.00% | ~12 |
 | Snowball Fightn't | 43.00% | ~12 |
 | My Darkest Day | 39.00% | ~11 |
 | Tear of Freedom | 39.00% | ~11 |
 | 3000 Year Blackout | 39.00% | ~11 |
 | Snowy Poro | 39.00% | ~11 |
 | Yummy | 39.00% | ~11 |
-| The Pied Piper Of Freljord | 39.00% | ~11 |
 | The Finisher | 39.00% | ~11 |
 | A Tragic Reminder | 36.00% | ~10 |
 | Family | 36.00% | ~10 |

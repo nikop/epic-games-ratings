@@ -2,10 +2,10 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -2252,9 +2252,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_111",
@@ -2388,9 +2388,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 332
+      "UsersEstimate": 340
     },
     {
       "ID": "achievement_127",
@@ -3176,8 +3176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:06:07.0857355+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:06:12.5025797+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T14:58:52.2678657+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:06:07.0860606+00:00"
+  "LastUpdate_Ratings": "2023-10-26T15:58:38.8651372+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:06:12.5029761+00:00"
 }

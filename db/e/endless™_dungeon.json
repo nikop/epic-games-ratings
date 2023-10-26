@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-10-26T15:09:15.3169034+00:00",
       "NumProgressed": 793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T16:09:28.4718521+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -740,9 +745,9 @@
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -782,7 +787,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -814,7 +819,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -844,9 +849,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -908,9 +913,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -941,14 +946,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:09:15.3169029+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:09:28.4718515+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:01:29.8621023+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:09:15.3169355+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:01:29.056162+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:09:28.4718953+00:00"
 }

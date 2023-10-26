@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76738,
+  "EOS_Progressed": 76740,
   "EOS_Completed": 806,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -21212,6 +21212,11 @@
       "Time": "2023-10-26T15:05:24.2534791+00:00",
       "NumProgressed": 76738,
       "NumCompleted": 806
+    },
+    {
+      "Time": "2023-10-26T16:05:22.0640427+00:00",
+      "NumProgressed": 76740,
+      "NumCompleted": 806
     }
   ],
   "TotalAchievements": 25,
@@ -21255,7 +21260,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16882
+      "UsersEstimate": 16883
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -21311,7 +21316,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6906
+      "UsersEstimate": 6907
     },
     {
       "ID": "Magnetic Miracles",
@@ -21343,7 +21348,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14580
+      "UsersEstimate": 14581
     },
     {
       "ID": "Nice Try",
@@ -21422,7 +21427,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76738,
+      "Progressed": 76740,
       "Completed": 806
     }
   ],
@@ -21430,8 +21435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-26T15:05:24.2534785+00:00",
+  "LastChanged_Achievements": "2023-10-26T16:05:22.0640422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-26T15:01:04.214516+00:00",
-  "LastUpdate_Achievements": "2023-10-26T15:05:24.2536696+00:00"
+  "LastUpdate_Ratings": "2023-10-26T16:01:00.1768906+00:00",
+  "LastUpdate_Achievements": "2023-10-26T16:05:22.0642584+00:00"
 }

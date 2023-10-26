@@ -34,7 +34,7 @@
 | Scholar | 44.00% | ~356 |
 | Sentinel Ally | 43.00% | ~348 |
 | Operative | 43.00% | ~348 |
-| Veteran | 41.00% | ~332 |
+| Veteran | 42.00% | ~340 |
 | The Professor | 41.00% | ~332 |
 | Power Full | 41.00% | ~332 |
 | The Archangel | 40.00% | ~324 |
@@ -75,9 +75,9 @@
 | Suicide Mission | 28.00% | ~227 |
 | Against All Odds | 28.00% | ~227 |
 | Untouchable | 27.00% | ~219 |
+| Giant Killer | 27.00% | ~219 |
 | A House Divided | 27.00% | ~219 |
 | Eye of the Hurricane | 26.00% | ~211 |
-| Giant Killer | 26.00% | ~211 |
 | World Shaker | 26.00% | ~211 |
 | Weapon Specialist | 25.00% | ~202 |
 | Tunnel Rat | 25.00% | ~202 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~8 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 810 (Ranked 255)  
+Progressed: 810 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |

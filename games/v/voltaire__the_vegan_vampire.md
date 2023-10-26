@@ -36,7 +36,7 @@
 | Fauna Connoisseur | 0.00% | ~0 |
 | Daddy Issues | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 388)  
+Progressed: 113 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
