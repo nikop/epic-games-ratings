@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1681,9 +1681,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "PROGRESS_N1",
@@ -1736,8 +1736,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:05:27.04457+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:05:22.9729355+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:57:52.9333087+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:05:27.0446029+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:04.6465397+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:05:22.9729647+00:00"
 }

@@ -1,23 +1,23 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 530)  
+Rating: 4.53 (Ranked 529)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,161 |
-| Worth it | 63.00% | ~38,899 |
+| Setting an example | 78.00% | ~48,162 |
+| Worth it | 63.00% | ~38,900 |
 | Eagle Eye | 55.00% | ~33,960 |
 | Corpseman I | 40.00% | ~24,698 |
 | Blast fishing | 37.00% | ~22,846 |
-| Not alone | 32.00% | ~19,758 |
+| Not alone | 32.00% | ~19,759 |
 | Headhunter I | 26.00% | ~16,054 |
 | Manual Labour I | 25.00% | ~15,436 |
 | Developers, Developers, Developers | 24.00% | ~14,819 |
 | Basic Training | 24.00% | ~14,819 |
 | Furchtlos und Treu | 13.00% | ~8,027 |
-| Gott Mit Uns | 12.00% | ~7,409 |
+| Gott Mit Uns | 12.00% | ~7,410 |
 | This We'll Defend! | 9.00% | ~5,557 |
 | Anker wirf! | 9.00% | ~5,557 |
 | Providentiea Memor | 9.00% | ~5,557 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,745 (Ranked 101)  
+Progressed: 61,746 (Ranked 101)  
 Completed: 4 (0.01%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 4 (0.01%) (Ranked 307)
 | 2023-10-23 | 61,563 | 4 |
 | 2023-10-24 | 61,624 | 4 |
 | 2023-10-25 | 61,684 | 4 |
-| 2023-10-26 | 61,745 | 4 |
+| 2023-10-26 | 61,746 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 354)  
 Sum: 777 (Ranked 275)  

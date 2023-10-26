@@ -1332,9 +1332,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9879,
+  "EOS_Progressed": 9880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15647,6 +15647,11 @@
       "Time": "2023-10-26T21:07:31.9125538+00:00",
       "NumProgressed": 9879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T22:07:12.633875+00:00",
+      "NumProgressed": 9880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15658,7 +15663,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5927
+      "UsersEstimate": 5928
     },
     {
       "ID": "10",
@@ -15666,7 +15671,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "11",
@@ -15714,7 +15719,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "17",
@@ -15738,7 +15743,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "2",
@@ -15762,7 +15767,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3063
     },
     {
       "ID": "22",
@@ -15802,7 +15807,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "27",
@@ -15818,7 +15823,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "29",
@@ -15866,7 +15871,7 @@
       "Name": "Around the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "34",
@@ -15874,7 +15879,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "35",
@@ -15898,7 +15903,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "38",
@@ -16106,7 +16111,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "8",
@@ -16114,7 +16119,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "9",
@@ -16129,15 +16134,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9879,
+      "Progressed": 9880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-26T19:59:09.1797447+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:07:31.9125532+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:07:12.6338744+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:59:10.1855752+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:07:31.9127116+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:59:08.1375653+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:07:12.6340823+00:00"
 }

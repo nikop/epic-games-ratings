@@ -287,9 +287,9 @@
       "ID": "EV_ACH18",
       "SetID": "6jeac23",
       "Name": "Snowy Poro",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EV_ACH19",
@@ -335,9 +335,9 @@
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EV_ACH25",
@@ -351,17 +351,17 @@
       "ID": "EV_ACH26",
       "SetID": "6jeac23",
       "Name": "Moneyball",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EV_ACH27",
       "SetID": "6jeac23",
       "Name": "I Broke It",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EV_ACH28",
@@ -375,9 +375,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "EV_ACH30",
@@ -509,8 +509,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:09:34.0145743+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:09:21.0383554+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:01:38.941421+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:09:34.0146275+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:01:15.0648944+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:09:21.0383935+00:00"
 }

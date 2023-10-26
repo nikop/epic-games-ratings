@@ -31,7 +31,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 2.00% | ~123 |
 | Taylor Made | 2.00% | ~123 |
 | Rod and Troll | 2.00% | ~110 |
-| Golden Ridge Ranger | 0.80% | ~49 |
+| Golden Ridge Ranger | 0.90% | ~55 |
 | Head for Heights | 0.70% | ~43 |
 | Fish upon a Star | 0.70% | ~39 |
 | Lake Me up Before You Go Go | 0.60% | ~37 |

@@ -4,7 +4,7 @@
   "ProductSlug": "loretta-0099a6",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "ach_lora_kill_walt_egs",
       "SetID": "134m0cb",
       "Name": "Act of Violence",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_lora_letter_cutter_egs",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:09:01.9141432+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:08:32.2332298+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3031665+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:00:13.3827035+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:09:01.9141621+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:00:01.1236434+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:08:32.2332444+00:00"
 }

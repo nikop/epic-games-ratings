@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The only good Rat is a dead Rat | 89.00% | ~8 |
-| Act of Violence | 78.00% | ~7 |
+| Act of Violence | 89.00% | ~8 |
 | Ace in the Hole | 56.00% | ~5 |
 | Dead End | 44.00% | ~4 |
 | The New Beginning | 44.00% | ~4 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2953,9 +2953,9 @@
       "ID": "achievement_75",
       "SetID": "d252ncf",
       "Name": "Revenge!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_76",
@@ -3121,9 +3121,9 @@
       "ID": "achievement_94",
       "SetID": "d252ncf",
       "Name": "Problem Solver",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_95",
@@ -3181,8 +3181,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:05:29.6070161+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:05:25.337034+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:58:30.658514+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:05:29.6072635+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:35.9827604+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:05:25.3373102+00:00"
 }

@@ -35,9 +35,9 @@ Rating: 4.45 (Ranked 651)
 | General Manager | 27.00% | ~556 |
 | Hostile Takeover | 25.00% | ~515 |
 | Seven at one stroke | 24.00% | ~495 |
+| Breaking Ground | 22.00% | ~453 |
 | Trailblazer | 21.00% | ~433 |
 | Traffic Junction | 21.00% | ~433 |
-| Breaking Ground | 21.00% | ~433 |
 | Traffic Jam | 20.00% | ~412 |
 | Networker | 18.00% | ~371 |
 | Resistance is futile | 17.00% | ~350 |

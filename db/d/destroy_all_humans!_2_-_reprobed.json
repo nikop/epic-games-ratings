@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2023-10-14T18:57:04.8470544+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:08:41.2644093+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:08:13.8430399+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:09.1626016+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:02:36.0252802+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:08:41.2644133+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:03:12.6273095+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:08:13.8430436+00:00"
 }

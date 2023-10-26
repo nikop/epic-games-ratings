@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -9067,9 +9067,9 @@
       "ID": "ACHIEVEMENT_028",
       "SetID": "1a05lfd",
       "Name": "Golden Ridge Ranger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -9146,8 +9146,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-25T22:00:40.9499269+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:09:11.9166476+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:09:00.8978689+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:39.0484101+00:00",
-  "LastUpdate_Ratings": "2023-10-26T21:00:19.5192475+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:09:11.9167934+00:00"
+  "LastUpdate_Ratings": "2023-10-26T22:00:06.6659689+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:09:00.8979621+00:00"
 }

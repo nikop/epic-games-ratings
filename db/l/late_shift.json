@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -1085,6 +1085,11 @@
       "Time": "2023-10-26T21:04:35.1541032+00:00",
       "NumProgressed": 552,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-26T22:04:36.5593592+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1096,7 +1101,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1144,7 +1149,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ENDING_6",
@@ -1168,7 +1173,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1184,7 +1189,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "GOOD_KARMA",
@@ -1248,14 +1253,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 8
     }
   ],
@@ -1263,8 +1268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:04:35.1541026+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:04:36.5593586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:58:33.9421545+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:04:35.1541268+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:38.8874595+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:04:36.5593955+00:00"
 }

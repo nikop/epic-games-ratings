@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~597 |
 | Spelljammers in Training | 0.30% | ~597 |
 | Maddening | 0.20% | ~466 |
+| The Sanctum of the Sword | 0.20% | ~398 |
 | Were-verpowered | 0.20% | ~466 |
 | A Persistent Buzzing | 0.20% | ~466 |
 | The Ring of Regeneration | 0.20% | ~466 |
@@ -143,7 +144,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.10% | ~199 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~199 |
 | Unreasonable Doesn't Mean Stupid | 0.10% | ~199 |
-| The Sanctum of the Sword | 0.10% | ~199 |
 | Kas the Bloody Handed | 0.10% | ~199 |
 | Get Back In The Castle | 0.10% | ~199 |
 | Kas the Destroyer | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,880 (Ranked 61)  
+Progressed: 232,884 (Ranked 61)  
 Completed: 2,388 (1.03%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -724,7 +724,7 @@ Completed: 2,388 (1.03%) (Ranked 148)
 | 2023-10-23 | 232,670 | 2,380 |
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
-| 2023-10-26 | 232,880 | 2,388 |
+| 2023-10-26 | 232,884 | 2,388 |
 ## Awards
 Max (Great for Beginners): 5,448  (Ranked 69)  
 Sum: 32,215 (Ranked 41)  

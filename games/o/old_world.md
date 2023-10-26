@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
+| Traders | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
 | Persian Paganism | 0.80% | ~120 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
-| Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Pantheon | 0.70% | ~105 |
 | Via Recta Souk | 0.70% | ~105 |
@@ -112,6 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.70% | ~105 |
 | Legionary | 0.70% | ~105 |
 | Phalangite | 0.70% | ~105 |
+| Ambition Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
 | Hunters | 0.60% | ~90 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
-| Ambition Victory | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
+| Ancient | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
@@ -164,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
-| Ancient | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
 | Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,967 (Ranked 141)  
+Progressed: 14,968 (Ranked 141)  
 Completed: 5 (0.03%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -538,7 +538,7 @@ Completed: 5 (0.03%) (Ranked 295)
 | 2023-10-23 | 14,910 | 5 |
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
-| 2023-10-26 | 14,967 | 5 |
+| 2023-10-26 | 14,968 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

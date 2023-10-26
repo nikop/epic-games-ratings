@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.50% | ~72 |
+| Oyedang, Kopengs | 0.60% | ~86 |
 | The Pit and the Pirates | 0.20% | ~29 |
 | Drug Gifter | 0.20% | ~29 |
 | Drone Dodger | 0.20% | ~29 |

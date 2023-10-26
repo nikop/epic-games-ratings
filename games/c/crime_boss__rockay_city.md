@@ -239,7 +239,7 @@ Completed: 53 (0.06%) (Ranked 278)
 | 2023-10-26 | 89,347 | 53 |
 ## Awards
 Max (Diverse Characters): 510  (Ranked 205)  
-Sum: 2,889 (Ranked 175)  
+Sum: 2,890 (Ranked 175)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): 30
 | This game has Quickly Understood Controls | 483 |
 | This game has Challenging Combat | 477 |
 | This game is Extremely Fun | 470 |
-| This game has Amazing Characters | 465 |
+| This game has Amazing Characters | 466 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -462,4 +462,4 @@ Diff (max vs sum): 30
 | 2023-10-23 | 3.94 | 510 | 2,874 |
 | 2023-10-24 | 3.94 | 510 | 2,879 |
 | 2023-10-25 | 3.94 | 510 | 2,883 |
-| 2023-10-26 | 3.94 | 510 | 2,889 |
+| 2023-10-26 | 3.94 | 510 | 2,890 |

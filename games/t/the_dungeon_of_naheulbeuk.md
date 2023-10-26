@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,311 |
+| Sowwy! | 34.00% | ~79,313 |
 | Alt+F4 | 7.00% | ~16,329 |
 | Where's that freaking Dwarf? | 6.00% | ~13,996 |
-| Déjà vu | 5.00% | ~11,663 |
+| Déjà vu | 5.00% | ~11,664 |
 | A beer, two curses, three companions | 4.00% | ~9,331 |
 | Sock! SOCK! | 4.00% | ~9,331 |
 | GG EZ | 4.00% | ~9,331 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,267 (Ranked 60)  
+Progressed: 233,273 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,21 +243,21 @@ Completed: 7 (0.00%) (Ranked 327)
 | 2023-10-23 | 232,741 | 7 |
 | 2023-10-24 | 232,917 | 7 |
 | 2023-10-25 | 233,101 | 7 |
-| 2023-10-26 | 233,267 | 7 |
+| 2023-10-26 | 233,273 | 7 |
 ## Awards
-Max (Character Customization): 221  (Ranked 269)  
-Sum: 438 (Ranked 326)  
-Diff (max vs sum): -57  
+Max (Character Customization): 224  (Ranked 267)  
+Sum: 442 (Ranked 326)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 221 |
+| This game has Inclusive Character Customization | 224 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 29 |
 | This game has Amazing Characters | 25 |
 | This game has Amazing Storytelling | 25 |
 | This game has Diverse Characters | 25 |
-| This game has Quickly Understood Controls | 23 |
+| This game has Quickly Understood Controls | 24 |
 | This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -425,3 +425,4 @@ Diff (max vs sum): -57
 | 2023-10-22 | 4.58 | - | 219 | 433 |
 | 2023-10-23 | 4.58 | - | 219 | 434 |
 | 2023-10-24 | 4.58 | - | 221 | 438 |
+| 2023-10-26 | 4.58 | - | 224 | 442 |

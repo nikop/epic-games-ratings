@@ -55,11 +55,11 @@
 | Catharsis | 33.00% | ~268 |
 | Ghost of the Father | 33.00% | ~268 |
 | The Cure | 33.00% | ~268 |
+| Revenge! | 33.00% | ~268 |
 | Heart of Darkness | 33.00% | ~268 |
 | Shopaholic | 33.00% | ~268 |
 | Big Game Hunter | 32.00% | ~260 |
 | Agent | 32.00% | ~260 |
-| Revenge! | 32.00% | ~260 |
 | Focused | 31.00% | ~252 |
 | Fade Away | 31.00% | ~252 |
 | Driven | 31.00% | ~252 |
@@ -89,12 +89,12 @@
 | Lost and Found | 23.00% | ~187 |
 | Party Crasher | 21.00% | ~171 |
 | Hard Target | 21.00% | ~171 |
+| Problem Solver | 21.00% | ~171 |
 | Pyromaniac | 20.00% | ~162 |
 | Under Pressure | 20.00% | ~162 |
 | No One Left Behind | 20.00% | ~162 |
 | Saboteur | 20.00% | ~162 |
 | Fact Finder | 20.00% | ~162 |
-| Problem Solver | 20.00% | ~162 |
 | Last Resort | 19.00% | ~154 |
 | Last Witness | 19.00% | ~154 |
 | Well Connected | 19.00% | ~154 |

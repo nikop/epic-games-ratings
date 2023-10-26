@@ -2,9 +2,9 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "ProductSlug": "12-orbits-c48266",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -135,6 +135,11 @@
     {
       "Time": "2023-10-24T17:05:08.6483591+00:00",
       "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T22:06:26.5365197+00:00",
+      "NumProgressed": 21,
       "NumCompleted": 0
     }
   ],
@@ -242,7 +247,7 @@
       "ID": "ACHIEVEMENT_Fireworks",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Fireworks",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -258,7 +263,7 @@
       "ID": "ACHIEVEMENT_InstantKarma",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Instant Karma",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -347,7 +352,7 @@
     {
       "ID": "ahb97f7",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
@@ -355,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:06:39.7178581+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:06:26.5365188+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:22.4573821+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:58:28.0370363+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:06:39.7178782+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:33.7089751+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:06:26.5365445+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18075,
+  "EOS_Progressed": 18077,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
@@ -14707,6 +14707,11 @@
       "Time": "2023-10-26T21:04:42.4854543+00:00",
       "NumProgressed": 18075,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-26T22:04:42.9098933+00:00",
+      "NumProgressed": 18077,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14718,7 +14723,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4881
     },
     {
       "ID": "Burning_For_You",
@@ -14726,7 +14731,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "Deadline",
@@ -14758,7 +14763,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "Fireworks",
@@ -14845,15 +14850,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18075,
+      "Progressed": 18077,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:04:42.4854536+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:04:42.9098928+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:58:18.6949323+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:04:42.4856207+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:25.7932963+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:04:42.9100262+00:00"
 }

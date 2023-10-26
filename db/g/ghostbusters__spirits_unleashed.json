@@ -2775,7 +2775,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27777,
+  "EOS_Progressed": 27782,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 6,
@@ -16535,6 +16535,11 @@
       "Time": "2023-10-26T21:08:21.8541762+00:00",
       "NumProgressed": 27777,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-26T22:07:56.9553813+00:00",
+      "NumProgressed": 27782,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16896,9 +16901,9 @@
       "ID": "Therapeutic",
       "SetID": "819popo",
       "Name": "Therapeutic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 111
     },
     {
       "ID": "There_You_Are",
@@ -16953,7 +16958,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27777,
+      "Progressed": 27782,
       "Completed": 65
     }
   ],
@@ -16961,8 +16966,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-26T20:59:25.6365711+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:08:21.8541754+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:07:56.9553808+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:59:25.636572+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:08:21.8543847+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:59:22.1472919+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:07:56.9557359+00:00"
 }

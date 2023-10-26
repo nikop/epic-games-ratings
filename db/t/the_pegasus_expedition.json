@@ -4,7 +4,7 @@
   "ProductSlug": "the-pegasus-expedition-224279",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-20T17:00:00+00:00",
@@ -51,8 +51,8 @@
   "FirstSeenRating": "2023-03-31T05:57:01.61111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.0288612+00:00",
   "LastChanged": "2023-03-31T05:57:01.6111102+00:00",
-  "LastChanged_Achievements": "2023-10-26T21:05:44.6801023+00:00",
+  "LastChanged_Achievements": "2023-10-26T22:05:38.0235558+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:26.7711429+00:00",
-  "LastUpdate_Ratings": "2023-10-26T20:58:45.7945833+00:00",
-  "LastUpdate_Achievements": "2023-10-26T21:05:44.6801058+00:00"
+  "LastUpdate_Ratings": "2023-10-26T21:58:48.6373109+00:00",
+  "LastUpdate_Achievements": "2023-10-26T22:05:38.0235578+00:00"
 }

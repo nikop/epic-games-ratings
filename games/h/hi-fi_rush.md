@@ -9,15 +9,15 @@ Rating: 4.86 (Ranked 28)
 | Start with a bang! | 15.00% | ~626 |
 | Who put gears in there? | 14.00% | ~584 |
 | You can pet the cat! | 14.00% | ~584 |
-| Cream of the Crop | 13.00% | ~542 |
-| Thanks for the free chip, Peppermint! | 13.00% | ~542 |
+| Cream of the Crop | 13.00% | ~543 |
+| Thanks for the free chip, Peppermint! | 13.00% | ~543 |
 | You got this, Peppermint? | 12.00% | ~501 |
 | Perfect Parry | 11.00% | ~459 |
 | Alright, that felt AWESOME! | 11.00% | ~459 |
-| This will cost you big time | 10.00% | ~417 |
-| I play my own way! | 10.00% | ~417 |
-| Z-shielding's got nothing on us! | 10.00% | ~417 |
-| Uh, they were broken when I got here | 10.00% | ~417 |
+| This will cost you big time | 10.00% | ~418 |
+| I play my own way! | 10.00% | ~418 |
+| Z-shielding's got nothing on us! | 10.00% | ~418 |
+| Uh, they were broken when I got here | 10.00% | ~418 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~376 |
 | Kissing the sky! | 9.00% | ~376 |
 | I look cool. But I can look COOLER. | 9.00% | ~376 |
@@ -37,12 +37,12 @@ Rating: 4.86 (Ranked 28)
 | Beat-hit mania | 4.00% | ~167 |
 | Chip-tuned | 3.00% | ~125 |
 | Wanna hear my playlist? | 3.00% | ~125 |
-| I think I deserve some praise, here! | 2.00% | ~83 |
-| I think I found your calling, Macaron | 2.00% | ~83 |
-| We're Jammin' | 2.00% | ~83 |
-| I hit things with a guitar really well. | 2.00% | ~83 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~83 |
-| Check out my moves! | 2.00% | ~83 |
+| I think I deserve some praise, here! | 2.00% | ~84 |
+| I think I found your calling, Macaron | 2.00% | ~84 |
+| We're Jammin' | 2.00% | ~84 |
+| I hit things with a guitar really well. | 2.00% | ~84 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~84 |
+| Check out my moves! | 2.00% | ~84 |
 | Call me Turbo Chai | 2.00% | ~54 |
 | This is a breeze! | 1.00% | ~42 |
 | I'm not done with you yet | 1.00% | ~42 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,173 (Ranked 184)  
+Progressed: 4,175 (Ranked 184)  
 Completed: 8 (0.19%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 8 (0.19%) (Ranked 235)
 | 2023-10-23 | 4,165 | 8 |
 | 2023-10-24 | 4,167 | 8 |
 | 2023-10-25 | 4,169 | 8 |
-| 2023-10-26 | 4,173 | 8 |
+| 2023-10-26 | 4,175 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
