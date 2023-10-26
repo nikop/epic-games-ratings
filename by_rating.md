@@ -36,7 +36,7 @@
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 342 | 234 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,766 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 353 |
-| 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 30 | 482 |
+| 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 30 | 483 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 305 |
 | 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,509 | 127 |
 | 28 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 540 |
@@ -197,7 +197,7 @@
 | 191 | [GoNNER](games/g/gonner.md) | 4.71 | 0 | 540 |
 | 191 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 52 | 414 |
 | 191 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,547 | 50 |
-| 191 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 482 |
+| 191 | [Northgard](games/n/northgard.md) | 4.71 | 30 | 483 |
 | 191 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 540 |
 | 191 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 540 |
 | 191 | [shapez](games/s/shapez.md) | 4.71 | 0 | 540 |
@@ -363,7 +363,7 @@
 | 356 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 469 |
 | 356 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 89 | 366 |
 | 356 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,569 | 124 |
-| 356 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 30 | 482 |
+| 356 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.62 | 30 | 483 |
 | 356 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 38 | 451 |
 | 356 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 394 | 224 |
 | 356 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 591 | 192 |
@@ -647,7 +647,7 @@
 | 633 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 540 |
 | 633 | [Scorn](games/s/scorn.md) | 4.46 | 0 | 540 |
 | 633 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 540 |
-| 633 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 289 | 247 |
+| 633 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 290 | 246 |
 | 633 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 540 |
 | 650 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.45 | 103 | 344 |
 | 650 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 540 |
@@ -840,7 +840,7 @@
 | 838 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 540 |
 | 838 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 540 |
 | 838 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 39 | 447 |
-| 838 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.28 | 30 | 482 |
+| 838 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.28 | 31 | 481 |
 | 838 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 20 | 533 |
 | 838 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 540 |
 | 838 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 297 |
@@ -922,16 +922,16 @@
 | 919 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 540 |
 | 919 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 618 | 188 |
 | 919 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 540 |
+| 919 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.16 | 89 | 366 |
 | 919 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 292 |
 | 919 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 540 |
-| 925 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 540 |
-| 925 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 540 |
-| 925 | [Forspoken](games/f/forspoken.md) | 4.15 | 29 | 487 |
-| 925 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.15 | 89 | 366 |
-| 925 | [Pine](games/p/pine.md) | 4.15 | 0 | 540 |
-| 925 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 278 |
-| 925 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 540 |
-| 925 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 540 |
+| 926 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 540 |
+| 926 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 540 |
+| 926 | [Forspoken](games/f/forspoken.md) | 4.15 | 29 | 487 |
+| 926 | [Pine](games/p/pine.md) | 4.15 | 0 | 540 |
+| 926 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 278 |
+| 926 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 540 |
+| 926 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 540 |
 | 933 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.14 | 0 | 540 |
 | 933 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 498 |
 | 933 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 540 |
@@ -953,7 +953,7 @@
 | 951 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 540 |
 | 951 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.08 | 0 | 540 |
 | 951 | [Banished](games/b/banished.md) | 4.08 | 0 | 540 |
-| 951 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.08 | 30 | 482 |
+| 951 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.08 | 30 | 483 |
 | 951 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 540 |
 | 951 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 0 | 540 |
 | 951 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 290 |

@@ -38,10 +38,10 @@
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.18% |
 | 37 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
 | 37 | [Smelter](games/s/smelter.md) | 10.00% |
-| 37 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 10.00% |
-| 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 41 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 9.52% |
-| 42 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 40 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 9.52% |
+| 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 41 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
 | 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
 | 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.83% |
@@ -99,7 +99,7 @@
 | 97 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 98 | [FORECLOSED](games/f/foreclosed.md) | 2.80% |
 | 99 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.78% |
-| 99 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.78% |
+| 100 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.76% |
 | 101 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 102 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
 | 103 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
@@ -142,7 +142,7 @@
 | 140 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 141 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.27% |
 | 142 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 143 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.10% |
+| 143 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
 | 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 145 | [Adios](games/a/adios.md) | 1.05% |
 | 145 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -173,15 +173,15 @@
 | 171 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 172 | [Haven](games/h/haven.md) | 0.60% |
 | 173 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 174 | [Dead Space](games/d/dead_space.md) | 0.58% |
-| 174 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 174 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 177 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
-| 177 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 177 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
-| 180 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
-| 181 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 181 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.55% |
+| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.59% |
+| 175 | [Dead Space](games/d/dead_space.md) | 0.58% |
+| 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 178 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.57% |
+| 178 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 178 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
+| 182 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 183 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 184 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 185 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |

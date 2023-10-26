@@ -246,7 +246,7 @@
 | 244 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 852 |
 | 245 | [Dead Cells](games/d/dead_cells.md) | 292 | 4.87 | 23 |
 | 246 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 290 | 4.61 | 377 |
-| 247 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 289 | 4.46 | 633 |
+| 246 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 290 | 4.46 | 633 |
 | 248 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 287 | 4.43 | 681 |
 | 249 | [Diabotical](games/d/diabotical.md) | 285 | 4.74 | 150 |
 | 250 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 283 | 4.62 | 356 |
@@ -277,7 +277,7 @@
 | 275 | [Sunless Sea](games/s/sunless_sea.md) | 215 | 4.58 | 439 |
 | 276 | [HITMAN](games/h/hitman.md) | 212 | 4.64 | 324 |
 | 277 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 205 | 4.35 | 780 |
-| 278 | [Relicta](games/r/relicta.md) | 201 | 4.15 | 925 |
+| 278 | [Relicta](games/r/relicta.md) | 201 | 4.15 | 926 |
 | 279 | [Unrailed!](games/u/unrailed!.md) | 199 | 4.64 | 324 |
 | 280 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 198 | 4.81 | 76 |
 | 281 | [Pinball FX](games/p/pinball_fx.md) | 197 | 4.06 | 960 |
@@ -366,7 +366,7 @@
 | 364 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 493 |
 | 365 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 576 |
 | 366 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 89 | 4.62 | 356 |
-| 366 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 89 | 4.15 | 925 |
+| 366 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 89 | 4.16 | 919 |
 | 368 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 88 | 3.81 | 1,011 |
 | 369 | [Barony](games/b/barony.md) | 87 | 4.72 | 180 |
 | 369 | [Returnal™](games/r/returnal™.md) | 87 | 4.61 | 377 |
@@ -480,15 +480,15 @@
 | 477 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 32 | 4.77 | 111 |
 | 477 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 884 |
 | 477 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 32 | 4.37 | 760 |
+| 481 | [Madden NFL 23](games/m/madden_nfl_23.md) | 31 | 4.28 | 838 |
 | 481 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 31 | 4.56 | 475 |
-| 482 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 30 | 4.08 | 951 |
-| 482 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 30 | 4.62 | 356 |
-| 482 | [Madden NFL 23](games/m/madden_nfl_23.md) | 30 | 4.28 | 838 |
-| 482 | [Northgard](games/n/northgard.md) | 30 | 4.71 | 191 |
-| 482 | [Rayman Origins](games/r/rayman_origins.md) | 30 | 4.86 | 28 |
+| 483 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 30 | 4.08 | 951 |
+| 483 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 30 | 4.62 | 356 |
+| 483 | [Northgard](games/n/northgard.md) | 30 | 4.71 | 191 |
+| 483 | [Rayman Origins](games/r/rayman_origins.md) | 30 | 4.86 | 28 |
 | 487 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 993 |
 | 487 | [Chimeraland](games/c/chimeraland.md) | 29 | 3.90 | 1,000 |
-| 487 | [Forspoken](games/f/forspoken.md) | 29 | 4.15 | 925 |
+| 487 | [Forspoken](games/f/forspoken.md) | 29 | 4.15 | 926 |
 | 487 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 806 |
 | 487 | [The Surge](games/t/the_surge.md) | 29 | 4.44 | 663 |
 | 487 | [Warpips](games/w/warpips.md) | 29 | 4.42 | 698 |
