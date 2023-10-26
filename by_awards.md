@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,051 | 4.45 | 650 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,775 | 4.39 | 737 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 11,630 | 4.76 | 119 |
-| 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,542 | 4.69 | 224 |
+| 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,545 | 4.69 | 224 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,415 | 4.78 | 102 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,297 | 4.61 | 377 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,648 | 4.57 | 459 |
@@ -89,7 +89,7 @@
 | 87 | [Paladins](games/p/paladins.md) | 3,749 | 4.33 | 797 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,736 | 4.68 | 243 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,650 | 4.46 | 633 |
-| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,559 | 4.47 | 626 |
+| 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,560 | 4.47 | 626 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,374 | 4.68 | 243 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,368 | 4.76 | 119 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,329 | 4.57 | 459 |
@@ -167,8 +167,8 @@
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 823 | 4.61 | 377 |
 | 166 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 806 | 4.82 | 62 |
 | 167 | [Train Valley 2](games/t/train_valley_2.md) | 805 | 4.44 | 663 |
-| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 784 | 4.75 | 139 |
-| 169 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 783 | 4.79 | 92 |
+| 168 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 785 | 4.79 | 92 |
+| 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 784 | 4.75 | 139 |
 | 170 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 770 | 4.51 | 555 |
 | 171 | [Core](games/c/core.md) | 760 | 4.36 | 767 |
 | 172 | [Neverwinter](games/n/neverwinter.md) | 749 | 4.29 | 829 |
@@ -234,8 +234,8 @@
 | 231 | [Severed Steel](games/s/severed_steel.md) | 363 | 4.69 | 224 |
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 361 | 4.59 | 422 |
 | 234 | [Inscryption](games/i/inscryption.md) | 342 | 4.86 | 28 |
-| 235 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 339 | 4.72 | 180 |
-| 235 | [The Messenger](games/t/the_messenger.md) | 339 | 4.81 | 76 |
+| 235 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 340 | 4.72 | 180 |
+| 236 | [The Messenger](games/t/the_messenger.md) | 339 | 4.81 | 76 |
 | 237 | [Tannenberg](games/t/tannenberg.md) | 335 | 4.39 | 737 |
 | 238 | [Darkwood](games/d/darkwood.md) | 327 | 4.61 | 377 |
 | 239 | [House Flipper](games/h/house_flipper.md) | 317 | 4.69 | 224 |
@@ -361,8 +361,8 @@
 | 358 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 95 | 4.68 | 243 |
 | 358 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 95 | 4.82 | 62 |
 | 361 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 916 |
-| 362 | [Armored Warfare](games/a/armored_warfare.md) | 93 | 4.10 | 946 |
-| 362 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 93 | 4.55 | 493 |
+| 361 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 94 | 4.55 | 493 |
+| 363 | [Armored Warfare](games/a/armored_warfare.md) | 93 | 4.10 | 946 |
 | 364 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 493 |
 | 365 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 576 |
 | 366 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 89 | 4.62 | 357 |
