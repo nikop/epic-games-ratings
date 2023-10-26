@@ -282,9 +282,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746256,
+  "EOS_Progressed": 746260,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2026,
+  "EOS_NewPlayers": 2023,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21762,6 +21762,11 @@
       "Time": "2023-10-26T03:09:09.6170185+00:00",
       "NumProgressed": 746256,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-26T04:09:31.7930296+00:00",
+      "NumProgressed": 746260,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -21797,7 +21802,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44775
+      "UsersEstimate": 44776
     },
     {
       "ID": "ach_build_bridge",
@@ -21837,7 +21842,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 276115
+      "UsersEstimate": 276116
     },
     {
       "ID": "ach_demolish_trees",
@@ -21869,7 +21874,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 44775
+      "UsersEstimate": 44776
     },
     {
       "ID": "ach_max_truck_distance",
@@ -21901,7 +21906,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 358203
+      "UsersEstimate": 358205
     },
     {
       "ID": "ach_produced",
@@ -21909,7 +21914,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97013
+      "UsersEstimate": 97014
     },
     {
       "ID": "ach_products_moved",
@@ -21917,7 +21922,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 119401
+      "UsersEstimate": 119402
     },
     {
       "ID": "ach_raise_money",
@@ -21941,7 +21946,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97013
+      "UsersEstimate": 97014
     },
     {
       "ID": "ach_setup_route_boat",
@@ -21957,7 +21962,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 59700
+      "UsersEstimate": 59701
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -21988,7 +21993,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 746256,
+      "Progressed": 746260,
       "Completed": 4
     }
   ],
@@ -21996,8 +22001,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-02T11:00:31.1907722+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:09:09.6170179+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:09:31.7930289+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:15.5105055+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:58:30.1238986+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:09:09.6171526+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:58:24.3363189+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:09:31.7931876+00:00"
 }

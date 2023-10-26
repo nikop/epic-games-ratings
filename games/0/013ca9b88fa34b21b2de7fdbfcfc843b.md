@@ -5,23 +5,23 @@ Rating: 4.60 (Ranked 401)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~5,235 |
-| A Thorny Situation | 70.00% | ~5,020 |
-| ... And Spit Back Out | 60.00% | ~4,303 |
-| Break-Net Speed | 48.00% | ~3,442 |
-| Bramble Breaker | 46.00% | ~3,299 |
-| Miner 49er | 43.00% | ~3,084 |
-| Humble Collector | 42.00% | ~3,012 |
-| Calm Sailing | 36.00% | ~2,582 |
-| Open the Gate! | 33.00% | ~2,366 |
-| Mist Walker | 31.00% | ~2,223 |
-| Lumberjack | 26.00% | ~1,864 |
-| Oui, Chef! | 23.00% | ~1,649 |
+| Azoria Beckons | 72.00% | ~5,165 |
+| A Thorny Situation | 70.00% | ~5,022 |
+| ... And Spit Back Out | 60.00% | ~4,304 |
+| Break-Net Speed | 48.00% | ~3,444 |
+| Bramble Breaker | 46.00% | ~3,300 |
+| Miner 49er | 43.00% | ~3,085 |
+| Humble Collector | 42.00% | ~3,013 |
+| Calm Sailing | 36.00% | ~2,583 |
+| Open the Gate! | 33.00% | ~2,367 |
+| Mist Walker | 31.00% | ~2,224 |
+| Lumberjack | 26.00% | ~1,865 |
+| Oui, Chef! | 23.00% | ~1,650 |
 | Clear the Air | 18.00% | ~1,291 |
-| Botanical Breakthrough | 17.00% | ~1,219 |
-| Search for the Hairy Grell | 13.00% | ~932 |
-| Beach Comber | 13.00% | ~932 |
-| Higher Tax Bracket | 13.00% | ~932 |
+| Botanical Breakthrough | 17.00% | ~1,220 |
+| Search for the Hairy Grell | 13.00% | ~933 |
+| Beach Comber | 13.00% | ~933 |
+| Higher Tax Bracket | 13.00% | ~933 |
 | Rumble in the Jumble | 8.00% | ~574 |
 | Skilled | 8.00% | ~574 |
 | Flaming Hot Completos | 7.00% | ~502 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 401)
 | Workaholic | 0.10% | ~7 |
 | Giving the People What They Want | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,171 (Ranked 164)  
+Progressed: 7,174 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 7,096 | 0 |
 | 2023-10-24 | 7,139 | 0 |
 | 2023-10-25 | 7,168 | 0 |
-| 2023-10-26 | 7,171 | 0 |
+| 2023-10-26 | 7,174 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

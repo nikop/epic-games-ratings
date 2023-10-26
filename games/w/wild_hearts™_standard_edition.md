@@ -15,8 +15,8 @@
 | Charmed by the Hunt | 67.00% | ~121 |
 | Subsistence Skills | 65.00% | ~118 |
 | Kemono Hunter | 61.00% | ~110 |
-| Expert Conjuror | 59.00% | ~107 |
-| Distance Devourer | 56.00% | ~101 |
+| Expert Conjuror | 60.00% | ~109 |
+| Distance Devourer | 57.00% | ~103 |
 | Master of the Skies | 56.00% | ~101 |
 | Helpful Heart | 55.00% | ~100 |
 | Flawless Crystal | 54.00% | ~98 |

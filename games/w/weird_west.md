@@ -9,7 +9,7 @@ Number of Ratings: 125  (23.09.2022)
 | Unforgiven | 88.00% | ~1,701 |
 | Self-Improvement | 71.00% | ~1,372 |
 | Perky | 65.00% | ~1,256 |
-| Let’s Ride | 59.00% | ~1,140 |
+| Let’s Ride | 60.00% | ~1,160 |
 | Dead or Alive | 56.00% | ~1,082 |
 | Welcome to the Weird West | 56.00% | ~1,082 |
 | Full House | 37.00% | ~715 |
@@ -21,7 +21,7 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~483 |
 | Scholar | 25.00% | ~483 |
 | The Great Escape | 23.00% | ~445 |
-| That’s All, Folks | 18.00% | ~348 |
+| That’s All, Folks | 19.00% | ~367 |
 | Fallen Star | 16.00% | ~309 |
 | Here Comes Santa Claus | 16.00% | ~309 |
 | Winds of War | 16.00% | ~309 |

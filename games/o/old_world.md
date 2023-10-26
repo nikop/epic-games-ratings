@@ -89,6 +89,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
+| Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
 | Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~105 |
 | Traders | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
-| Hagia Sophia | 0.70% | ~105 |
 | Pantheon | 0.70% | ~105 |
 | Via Recta Souk | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |

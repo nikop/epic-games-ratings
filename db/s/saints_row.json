@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3903,9 +3903,9 @@
       "Count": 1071
     }
   ],
-  "EOS_Progressed": 76188,
+  "EOS_Progressed": 76189,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25168,6 +25168,11 @@
       "Time": "2023-10-26T03:08:41.0118803+00:00",
       "NumProgressed": 76188,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-26T04:09:16.860272+00:00",
+      "NumProgressed": 76189,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25275,7 +25280,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23618
+      "UsersEstimate": 23619
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25291,7 +25296,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 35046
+      "UsersEstimate": 35047
     },
     {
       "ID": "customize_a_vehicle",
@@ -25602,13 +25607,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76188,
+      "Progressed": 76189,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47825,
+      "Progressed": 47826,
       "Completed": 4184
     }
   ],
@@ -25616,8 +25621,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-25T12:02:09.3825766+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:08:41.0118794+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:09:16.8602713+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:03:10.0346268+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:08:41.0120564+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:03:37.1256916+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:09:16.8604574+00:00"
 }

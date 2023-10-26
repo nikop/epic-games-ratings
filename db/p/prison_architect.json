@@ -6267,9 +6267,9 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 187305,
+  "EOS_Progressed": 187309,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2584,
+  "EOS_NewPlayers": 2582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27622,6 +27622,11 @@
       "Time": "2023-10-26T03:09:20.9113745+00:00",
       "NumProgressed": 187305,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-26T04:09:40.9610113+00:00",
+      "NumProgressed": 187309,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -27713,7 +27718,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 46826
+      "UsersEstimate": 46827
     },
     {
       "ID": "Achievement_5",
@@ -27745,7 +27750,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16857
+      "UsersEstimate": 16858
     },
     {
       "ID": "Achievement_9",
@@ -27760,15 +27765,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 187305,
+      "Progressed": 187309,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-10-25T17:02:32.8844028+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:09:20.9113739+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:09:40.9610106+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:12.1413586+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:02:00.2307746+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:09:20.9115249+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:01:14.5454977+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:09:40.9612015+00:00"
 }

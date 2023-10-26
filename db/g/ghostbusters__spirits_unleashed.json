@@ -2745,9 +2745,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27698,
+  "EOS_Progressed": 27701,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16425,6 +16425,11 @@
       "Time": "2023-10-26T03:08:15.9612176+00:00",
       "NumProgressed": 27698,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-26T04:08:16.975554+00:00",
+      "NumProgressed": 27701,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16564,7 +16569,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Fully_Upgraded",
@@ -16612,7 +16617,7 @@
       "Name": "Liability",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Line_Em_Up",
@@ -16843,7 +16848,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27698,
+      "Progressed": 27701,
       "Completed": 65
     }
   ],
@@ -16851,8 +16856,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-26T01:39:46.1746299+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:08:15.961217+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:08:16.9755533+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:59:22.2019468+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:08:15.9613555+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:59:08.1905286+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:08:16.9757913+00:00"
 }

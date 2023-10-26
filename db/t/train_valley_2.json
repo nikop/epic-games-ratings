@@ -2849,9 +2849,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 409921,
+  "EOS_Progressed": 409923,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2413,
+  "EOS_NewPlayers": 2410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15574,6 +15574,11 @@
       "Time": "2023-10-26T03:06:14.7538985+00:00",
       "NumProgressed": 409921,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-26T04:05:45.7951841+00:00",
+      "NumProgressed": 409923,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 89,
@@ -15689,7 +15694,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 122976
+      "UsersEstimate": 122977
     },
     {
       "ID": "AchievementCommonCause",
@@ -15697,7 +15702,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 106579
+      "UsersEstimate": 106580
     },
     {
       "ID": "AchievementCriticalCare",
@@ -15705,7 +15710,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 106579
+      "UsersEstimate": 106580
     },
     {
       "ID": "AchievementDealmaker",
@@ -15713,7 +15718,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 299242
+      "UsersEstimate": 299244
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -15753,7 +15758,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 143472
+      "UsersEstimate": 143473
     },
     {
       "ID": "AchievementForgotten",
@@ -15769,7 +15774,7 @@
       "Name": "Full garage",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 245953
+      "UsersEstimate": 245954
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -15809,7 +15814,7 @@
       "Name": "Individual delivery",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 188564
+      "UsersEstimate": 188565
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -15937,7 +15942,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28694
+      "UsersEstimate": 28695
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -15961,7 +15966,7 @@
       "Name": "Non-Stop",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 180365
+      "UsersEstimate": 180366
     },
     {
       "ID": "AchievementOneWay",
@@ -16065,7 +16070,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65587
+      "UsersEstimate": 65588
     },
     {
       "ID": "AchievementTheHare",
@@ -16097,7 +16102,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 209060
+      "UsersEstimate": 209061
     },
     {
       "ID": "AchievementTourismAge",
@@ -16169,7 +16174,7 @@
       "Name": "Without a lunch break",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 45091
+      "UsersEstimate": 45092
     },
     {
       "ID": "AchievementWoodcutter",
@@ -16296,21 +16301,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 409262,
+      "Progressed": 409264,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 409921,
+      "Progressed": 409923,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-10-25T15:01:29.5505178+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:06:14.753898+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:05:45.7951834+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:12.5401421+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:01:55.9222403+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:06:14.7540871+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:01:11.2514486+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:05:45.7953868+00:00"
 }

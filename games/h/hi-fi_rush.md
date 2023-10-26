@@ -33,8 +33,8 @@ Rating: 4.86 (Ranked 28)
 | I have to read these things? | 6.00% | ~250 |
 | Well that was a rush! | 5.00% | ~208 |
 | That's a lot of junk metal… | 5.00% | ~208 |
+| There's such a thing as TOO helpful | 5.00% | ~208 |
 | Beat-hit mania | 4.00% | ~167 |
-| There's such a thing as TOO helpful | 4.00% | ~167 |
 | Chip-tuned | 3.00% | ~125 |
 | Wanna hear my playlist? | 3.00% | ~125 |
 | I think I deserve some praise, here! | 2.00% | ~83 |

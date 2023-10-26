@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "cold_feet",
       "SetID": "7i36ba9",
       "Name": "Cold Feet",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "cultipedia",
@@ -300,9 +300,9 @@
       "ID": "join_the_legal_team",
       "SetID": "7i36ba9",
       "Name": "Join the Legal Team",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "josh_the_saviour",
@@ -412,9 +412,9 @@
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "the_price_is_right",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:08:28.5361538+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:08:27.0631118+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:00:19.3943021+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:08:28.5361759+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:59:52.0350052+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:08:27.0631354+00:00"
 }

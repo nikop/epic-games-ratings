@@ -2175,18 +2175,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 8314,
       "NumberOfAwardsMax": 3559
+    },
+    {
+      "Time": "2023-10-26T04:00:02.5642004+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8315,
+      "NumberOfAwardsMax": 3560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8314,
-  "NumberOfAwardsMax": 3559,
+  "NumberOfAwards": 8315,
+  "NumberOfAwardsMax": 3560,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3559
+      "Count": 3560
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2257,7 +2263,7 @@
   ],
   "EOS_Progressed": 16101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1723,
+  "EOS_NewPlayers": 1714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7012,9 +7018,9 @@
       "ID": "Achievement_Trophy30",
       "SetID": "724h0m0",
       "Name": "Spread the plague",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4830
+      "UsersEstimate": 4991
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7276,9 +7282,9 @@
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-10-25T07:59:32.8006207+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:08:47.3427621+00:00",
+  "LastChanged": "2023-10-26T04:00:02.5642002+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:09:21.9802399+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:00:32.9032985+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:08:47.3428525+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:00:02.5642009+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:09:21.980347+00:00"
 }

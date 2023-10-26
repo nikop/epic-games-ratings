@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~724 |
-| Eat My Dust | 42.00% | ~724 |
-| Clean Race | 41.00% | ~707 |
+| First Love | 42.00% | ~725 |
+| Eat My Dust | 42.00% | ~725 |
+| Clean Race | 41.00% | ~708 |
 | Hear That Roar! | 38.00% | ~656 |
-| Rivals to the End | 29.00% | ~500 |
-| Bitter Rivalry | 26.00% | ~448 |
+| Rivals to the End | 29.00% | ~501 |
+| Bitter Rivalry | 26.00% | ~449 |
 | We're Going to Need a Bigger Garage | 24.00% | ~414 |
 | Champagne Spray | 24.00% | ~414 |
-| Restored and Ready | 18.00% | ~310 |
-| I Want One Too! | 18.00% | ~310 |
-| Legendary!!! | 18.00% | ~310 |
-| Quick Pit Stop | 18.00% | ~310 |
+| Restored and Ready | 18.00% | ~311 |
+| I Want One Too! | 18.00% | ~311 |
+| Legendary!!! | 18.00% | ~311 |
+| Quick Pit Stop | 18.00% | ~311 |
 | Go-Faster Stripes | 16.00% | ~276 |
 | I'm Here Too! | 16.00% | ~276 |
-| We've Just Begun | 10.00% | ~172 |
+| We've Just Begun | 10.00% | ~173 |
 | Is It the Right Size? | 8.00% | ~138 |
 | Stamina Star | 7.00% | ~121 |
 | Evangelist | 6.00% | ~104 |
@@ -30,11 +30,11 @@
 | The Road to Liberty | 3.00% | ~52 |
 | Romantic Races | 3.00% | ~52 |
 | Rounding Off | 3.00% | ~52 |
-| Iconic! | 2.00% | ~34 |
-| Back in Blighty | 2.00% | ~34 |
-| Still Here | 2.00% | ~34 |
-| My Work Here Is Done | 2.00% | ~34 |
-| Overtaking the Master | 2.00% | ~34 |
+| Iconic! | 2.00% | ~35 |
+| Back in Blighty | 2.00% | ~35 |
+| Still Here | 2.00% | ~35 |
+| My Work Here Is Done | 2.00% | ~35 |
+| Overtaking the Master | 2.00% | ~35 |
 | I'll Be the Best! | 1.00% | ~17 |
 | Next Level | 1.00% | ~17 |
 | I Don't Stop | 1.00% | ~17 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,725 (Ranked 218)  
+Progressed: 1,726 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,4 +109,4 @@ Completed: 0 (0.00%) (Ranked 326)
 | 2023-10-23 | 1,647 | 0 |
 | 2023-10-24 | 1,671 | 0 |
 | 2023-10-25 | 1,720 | 0 |
-| 2023-10-26 | 1,725 | 0 |
+| 2023-10-26 | 1,726 | 0 |

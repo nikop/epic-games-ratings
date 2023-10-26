@@ -546,9 +546,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 15960,
+  "EOS_Progressed": 15961,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12721,6 +12721,11 @@
       "Time": "2023-10-26T03:04:27.8981346+00:00",
       "NumProgressed": 15960,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-26T04:04:36.2703201+00:00",
+      "NumProgressed": 15961,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 41,
@@ -12788,7 +12793,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "tpote_achievement_17",
@@ -12908,7 +12913,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5107
+      "UsersEstimate": 5108
     },
     {
       "ID": "tpote_achievement_30",
@@ -12932,7 +12937,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "tpote_achievement_33",
@@ -13020,7 +13025,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "tpote_achievement_6",
@@ -13028,7 +13033,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3830
+      "UsersEstimate": 3831
     },
     {
       "ID": "tpote_achievement_7",
@@ -13052,22 +13057,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15960,
+      "Progressed": 15961,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-25T11:59:01.9427727+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:04:27.8981341+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:04:36.2703194+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:00:13.9697502+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:04:27.8982433+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:59:48.4718239+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:04:36.2704504+00:00"
 }

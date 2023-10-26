@@ -28,20 +28,20 @@ Rating: 4.60 (Ranked 401)
 | No Belter Left Behind | 0.10% | ~14 |
 | Data Master | 0.10% | ~14 |
 | Celebrations are in Order | 0.10% | ~14 |
+| Grave Robber | 0.10% | ~14 |
+| Data Recoverer | 0.10% | ~14 |
 | Impossible Objects | 0.10% | ~14 |
 | Data Miner | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 | Debris Spree | 0.00% | ~0 |
-| Grave Robber | 0.00% | ~0 |
-| Data Recoverer | 0.00% | ~0 |
 | Keep Arjun in Check | 0.00% | ~0 |
 | Safe Cracker | 0.00% | ~0 |
 | Zen Master | 0.00% | ~0 |
 | Master Negotiator | 0.00% | ~0 |
 | Madame Undersecretary | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,337 (Ranked 141)  
+Progressed: 14,338 (Ranked 141)  
 Completed: 27 (0.19%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 27 (0.19%) (Ranked 234)
 | 2023-10-23 | 14,276 | 27 |
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
-| 2023-10-26 | 14,337 | 27 |
+| 2023-10-26 | 14,338 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

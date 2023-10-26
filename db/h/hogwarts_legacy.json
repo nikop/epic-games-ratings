@@ -9531,9 +9531,9 @@
       "Count": 738
     }
   ],
-  "EOS_Progressed": 298906,
+  "EOS_Progressed": 298911,
   "EOS_Completed": 494,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -29621,6 +29621,11 @@
       "Time": "2023-10-26T03:09:34.0001394+00:00",
       "NumProgressed": 298906,
       "NumCompleted": 494
+    },
+    {
+      "Time": "2023-10-26T04:09:51.4934507+00:00",
+      "NumProgressed": 298911,
+      "NumCompleted": 494
     }
   ],
   "TotalAchievements": 45,
@@ -29632,7 +29637,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44836
+      "UsersEstimate": 44837
     },
     {
       "ID": "PFA_10",
@@ -29672,7 +29677,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17934
+      "UsersEstimate": 17935
     },
     {
       "ID": "PFA_15",
@@ -29680,7 +29685,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23912
+      "UsersEstimate": 23913
     },
     {
       "ID": "PFA_16",
@@ -29696,7 +29701,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23912
+      "UsersEstimate": 23913
     },
     {
       "ID": "PFA_18",
@@ -29704,7 +29709,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23912
+      "UsersEstimate": 23913
     },
     {
       "ID": "PFA_19",
@@ -29712,7 +29717,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23912
+      "UsersEstimate": 23913
     },
     {
       "ID": "PFA_2",
@@ -29720,7 +29725,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14945
+      "UsersEstimate": 14946
     },
     {
       "ID": "PFA_20",
@@ -29768,7 +29773,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17934
+      "UsersEstimate": 17935
     },
     {
       "ID": "PFA_26",
@@ -29800,7 +29805,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17934
+      "UsersEstimate": 17935
     },
     {
       "ID": "PFA_3",
@@ -29896,7 +29901,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14945
+      "UsersEstimate": 14946
     },
     {
       "ID": "PFA_40",
@@ -29912,7 +29917,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14945
+      "UsersEstimate": 14946
     },
     {
       "ID": "PFA_42",
@@ -29920,7 +29925,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17934
+      "UsersEstimate": 17935
     },
     {
       "ID": "PFA_43",
@@ -29960,7 +29965,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41847
+      "UsersEstimate": 41848
     },
     {
       "ID": "PFA_7",
@@ -29991,7 +29996,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 298906,
+      "Progressed": 298911,
       "Completed": 494
     }
   ],
@@ -29999,8 +30004,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-26T03:02:29.2650313+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:09:34.000138+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:09:51.4934499+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:02:29.265032+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:09:34.0003036+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:03:15.0653611+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:09:51.4936449+00:00"
 }

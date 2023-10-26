@@ -4,7 +4,7 @@
   "ProductSlug": "big-mutha-truckers-990060",
   "Ranking_EOS_Progress": 704,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-04T03:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.9853006+00:00",
   "LastChanged": "2023-03-31T05:57:49.9853006+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:30.8802824+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:02:34.5960192+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:06:16.2391695+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:03:18.5808497+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:05:46.9393022+00:00"
 }

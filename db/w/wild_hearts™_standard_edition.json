@@ -914,9 +914,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_17",
@@ -1226,9 +1226,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_9",
@@ -1248,8 +1248,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:07:42.8103054+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:07:09.2925433+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.9980076+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:01:15.4412574+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:07:42.8104081+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:00:36.0732047+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:07:09.2925936+00:00"
 }

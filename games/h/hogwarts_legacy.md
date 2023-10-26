@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,836 |
-| First Class Student | 14.00% | ~41,847 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,837 |
+| First Class Student | 14.00% | ~41,848 |
 | Troll with the Punches | 13.00% | ~38,858 |
 | A Keen Sense of Spell | 12.00% | ~35,869 |
 | That's a Keeper | 12.00% | ~35,869 |
@@ -22,17 +22,17 @@ Rating: 4.76 (Ranked 119)
 | Followed the Butterflies | 10.00% | ~29,891 |
 | The Spell Master | 9.00% | ~26,902 |
 | Rising From the Ashes | 9.00% | ~26,902 |
-| The Avenging Gazelle | 8.00% | ~23,912 |
-| Beast Friends | 8.00% | ~23,912 |
-| A Sallow Grave | 8.00% | ~23,912 |
-| Flight the Good Flight | 8.00% | ~23,912 |
-| The Seeker of Knowledge | 6.00% | ~17,934 |
-| The Root of the Problem | 6.00% | ~17,934 |
-| Third Time's a Charm | 6.00% | ~17,934 |
-| Raising Expectations | 6.00% | ~17,934 |
-| The Toast of the Town | 5.00% | ~14,945 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,945 |
-| The Ends Petrify the Means | 5.00% | ~14,945 |
+| The Avenging Gazelle | 8.00% | ~23,913 |
+| Beast Friends | 8.00% | ~23,913 |
+| A Sallow Grave | 8.00% | ~23,913 |
+| Flight the Good Flight | 8.00% | ~23,913 |
+| The Seeker of Knowledge | 6.00% | ~17,935 |
+| The Root of the Problem | 6.00% | ~17,935 |
+| Third Time's a Charm | 6.00% | ~17,935 |
+| Raising Expectations | 6.00% | ~17,935 |
+| The Toast of the Town | 5.00% | ~14,946 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,946 |
+| The Ends Petrify the Means | 5.00% | ~14,946 |
 | Going Through the Potions | 4.00% | ~11,956 |
 | Room with a View | 4.00% | ~11,956 |
 | The Intrepid Explorer | 4.00% | ~11,956 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,092 |
 | Collector's Edition | 0.30% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,906 (Ranked 48)  
+Progressed: 298,911 (Ranked 48)  
 Completed: 494 (0.17%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 494 (0.17%) (Ranked 239)
 | 2023-10-23 | 298,741 | 491 |
 | 2023-10-24 | 298,780 | 492 |
 | 2023-10-25 | 298,885 | 493 |
-| 2023-10-26 | 298,906 | 494 |
+| 2023-10-26 | 298,911 | 494 |
 ## Awards
 Max (Character Customization): 23,781  (Ranked 17)  
 Sum: 46,648 (Ranked 30)  

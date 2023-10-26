@@ -366,7 +366,7 @@
   ],
   "EOS_Progressed": 1933,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2590,9 +2590,9 @@
       "ID": "ACH_LETS_RIDE",
       "SetID": "8j30i9k",
       "Name": "Let\u2019s Ride",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2750,9 +2750,9 @@
       "ID": "ACH_THATS_ALL_FOLKS",
       "SetID": "8j30i9k",
       "Name": "That\u2019s All, Folks",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2870,8 +2870,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:04:15.4666586+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:04:26.153471+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T02:57:34.2963901+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:04:15.4667216+00:00"
+  "LastUpdate_Ratings": "2023-10-26T03:57:42.9707676+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:04:26.1535832+00:00"
 }

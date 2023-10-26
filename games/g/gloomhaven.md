@@ -10,7 +10,7 @@ Number of Ratings: 68  (23.09.2022)
 | Overkill | 35.00% | ~5,635 |
 | A normal day in Gloomhaven | 34.00% | ~5,474 |
 | Vaccine Incoming | 33.00% | ~5,313 |
-| Spread the plague | 30.00% | ~4,830 |
+| Spread the plague | 31.00% | ~4,991 |
 | Get over here! | 24.00% | ~3,864 |
 | Just when I thought I was out... | 19.00% | ~3,059 |
 | Precious! | 17.00% | ~2,737 |
@@ -113,12 +113,12 @@ Completed: 1 (0.01%) (Ranked 306)
 | 2023-10-25 | 16,063 | 1 |
 | 2023-10-26 | 16,101 | 1 |
 ## Awards
-Max (Character Customization): 3,559  (Ranked 90)  
-Sum: 8,314 (Ranked 98)  
+Max (Character Customization): 3,560  (Ranked 90)  
+Sum: 8,315 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,559 |
+| This game has Inclusive Character Customization | 3,560 |
 | This game has Diverse Characters | 592 |
 | This game has Challenging Combat | 549 |
 | This game is Highly Recommended | 542 |
@@ -335,3 +335,4 @@ Diff (max vs sum): -8
 | 2023-10-23 | 4.47 | - | 3,559 | 8,311 |
 | 2023-10-24 | 4.47 | - | 3,559 | 8,313 |
 | 2023-10-25 | 4.47 | - | 3,559 | 8,314 |
+| 2023-10-26 | 4.47 | - | 3,560 | 8,315 |

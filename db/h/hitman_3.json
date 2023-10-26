@@ -10948,9 +10948,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1348957,
+  "EOS_Progressed": 1348959,
   "EOS_Completed": 2161,
-  "EOS_NewPlayers": 2489,
+  "EOS_NewPlayers": 2485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -32398,6 +32398,11 @@
       "Time": "2023-10-26T03:07:11.6902593+00:00",
       "NumProgressed": 1348957,
       "NumCompleted": 2161
+    },
+    {
+      "Time": "2023-10-26T04:06:33.7542719+00:00",
+      "NumProgressed": 1348959,
+      "NumCompleted": 2161
     }
   ],
   "TotalAchievements": 47,
@@ -32409,7 +32414,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 377708
+      "UsersEstimate": 377709
     },
     {
       "ID": "ACH_001",
@@ -32417,7 +32422,7 @@
       "Name": "Cleared for Field Duty",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 364218
+      "UsersEstimate": 364219
     },
     {
       "ID": "ACH_002",
@@ -32473,7 +32478,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 377708
+      "UsersEstimate": 377709
     },
     {
       "ID": "ACH_009",
@@ -32481,7 +32486,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 620520
+      "UsersEstimate": 620521
     },
     {
       "ID": "ACH_010",
@@ -32497,7 +32502,7 @@
       "Name": "Stylish Assassin",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 269791
+      "UsersEstimate": 269792
     },
     {
       "ID": "ACH_012",
@@ -32505,7 +32510,7 @@
       "Name": "Death From Above",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 607031
+      "UsersEstimate": 607032
     },
     {
       "ID": "ACH_013",
@@ -32577,7 +32582,7 @@
       "Name": "Family Feud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 80937
+      "UsersEstimate": 80938
     },
     {
       "ID": "ACH_022",
@@ -32729,7 +32734,7 @@
       "Name": "Rich Harvest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 80937
+      "UsersEstimate": 80938
     },
     {
       "ID": "ACH_041",
@@ -32745,7 +32750,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 404687
+      "UsersEstimate": 404688
     },
     {
       "ID": "ACH_043",
@@ -32784,15 +32789,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1348957,
+      "Progressed": 1348959,
       "Completed": 2161
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-25T23:03:15.2483681+00:00",
-  "LastChanged_Achievements": "2023-10-26T03:07:11.6902586+00:00",
+  "LastChanged_Achievements": "2023-10-26T04:06:33.7542712+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:49.7750085+00:00",
-  "LastUpdate_Ratings": "2023-10-26T03:02:51.1202641+00:00",
-  "LastUpdate_Achievements": "2023-10-26T03:07:11.6904334+00:00"
+  "LastUpdate_Ratings": "2023-10-26T04:03:31.1384377+00:00",
+  "LastUpdate_Achievements": "2023-10-26T04:06:33.7544536+00:00"
 }
