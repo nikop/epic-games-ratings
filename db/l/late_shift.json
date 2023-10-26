@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1075,6 +1075,11 @@
       "Time": "2023-10-26T18:04:34.719512+00:00",
       "NumProgressed": 549,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-26T19:04:14.7717591+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1110,7 +1115,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ENDING_3",
@@ -1134,7 +1139,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ENDING_6",
@@ -1158,7 +1163,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1166,7 +1171,7 @@
       "Name": "Expert Storyteller",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FAIR_SHARE",
@@ -1174,7 +1179,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "GOOD_KARMA",
@@ -1196,9 +1201,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 160
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1245,7 +1250,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 8
     }
   ],
@@ -1253,8 +1258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:04:34.719511+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:04:14.7717586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:58:21.7551888+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:04:34.7195348+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:58:21.5791776+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:04:14.7717745+00:00"
 }

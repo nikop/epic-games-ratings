@@ -3,8 +3,8 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 350,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "poetent",
@@ -496,8 +496,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:05:04.0462305+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:04:38.9709466+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.0977165+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:58:09.9093753+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:05:04.0462499+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:58:11.888672+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:04:38.9709607+00:00"
 }

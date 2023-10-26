@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4001,7 +4001,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11812,
+  "EOS_Progressed": 11813,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -14421,6 +14421,11 @@
       "Time": "2023-10-26T18:04:17.5086331+00:00",
       "NumProgressed": 11812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T19:04:00.5786159+00:00",
+      "NumProgressed": 11813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14472,7 +14477,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "07_FinalThreshold",
@@ -14632,7 +14637,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "28_GreatUpstart",
@@ -14664,7 +14669,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14672,7 +14677,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "33_DefendersHeart",
@@ -14808,7 +14813,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14864,7 +14869,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "57_PathOfDevil",
@@ -15359,21 +15364,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10594,
+      "Progressed": 10595,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11812,
+      "Progressed": 11813,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-26T07:04:08.4020538+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:04:17.5086326+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:04:00.5786154+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:01:21.7399427+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:04:17.50887+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:00:42.3317112+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:04:00.578818+00:00"
 }

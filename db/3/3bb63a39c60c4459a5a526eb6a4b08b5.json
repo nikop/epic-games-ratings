@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 865,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3336,9 +3336,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "First",
@@ -3376,9 +3376,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 104
     },
     {
       "ID": "LargeAirport",
@@ -3591,8 +3591,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:09:18.7412147+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:09:03.3338702+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:59:44.0536181+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:09:18.7412681+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:27.1877333+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:09:03.3339112+00:00"
 }

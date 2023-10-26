@@ -24,7 +24,7 @@
 | Alchemists Express | 10.00% | ~32 |
 | Open door | 9.00% | ~29 |
 | Free at last | 8.00% | ~26 |
-| A Link to the Past | 7.00% | ~23 |
+| A Link to the Past | 8.00% | ~26 |
 | Rascal | 7.00% | ~23 |
 | A great audience | 6.00% | ~19 |
 | For its own good | 6.00% | ~19 |

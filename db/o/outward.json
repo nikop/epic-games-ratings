@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3618,
+  "EOS_Progressed": 3619,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5352,6 +5352,11 @@
       "Time": "2023-10-26T07:09:33.66853+00:00",
       "NumProgressed": 3618,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-26T19:06:30.3014957+00:00",
+      "NumProgressed": 3619,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5371,7 +5376,7 @@
       "Name": "Ace Detective",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "AncestorsPride_13",
@@ -5403,7 +5408,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "CrowdPleaser",
@@ -5451,7 +5456,7 @@
       "Name": "Gift from the Ancestors",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "HoldmyMeadandWatchThis_43",
@@ -5507,7 +5512,7 @@
       "Name": "Magic is a science",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MasterofAurai_20",
@@ -5563,7 +5568,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5698,15 +5703,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3618,
+      "Progressed": 3619,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:07:18.8602905+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:06:30.3014953+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.6172621+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:01:11.4324219+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:07:18.8603524+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:00:33.7530857+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:06:30.3015423+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 3.00% | ~4,643 |
 | Imprint | 3.00% | ~4,643 |
-| The Hunt | 2.00% | ~3,095 |
-| Weeper | 2.00% | ~3,095 |
-| Ravenous | 2.00% | ~3,095 |
+| The Hunt | 2.00% | ~3,096 |
+| Weeper | 2.00% | ~3,096 |
+| Ravenous | 2.00% | ~3,096 |
 | Harmless | 1.00% | ~1,548 |
 | Silenced Whispers | 1.00% | ~1,548 |
 | Devourer | 1.00% | ~1,548 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,774 (Ranked 73)  
+Progressed: 154,778 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,14 +219,14 @@ Completed: 1 (0.00%) (Ranked 327)
 | 2023-10-23 | 154,251 | 1 |
 | 2023-10-24 | 154,456 | 1 |
 | 2023-10-25 | 154,623 | 1 |
-| 2023-10-26 | 154,774 | 1 |
+| 2023-10-26 | 154,778 | 1 |
 ## Awards
-Max (Highly Recommended): 48  (Ranked 426)  
-Sum: 319 (Ranked 349)  
-Diff (max vs sum): 77  
+Max (Highly Recommended): 49  (Ranked 424)  
+Sum: 320 (Ranked 349)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 48 |
+| This game is Highly Recommended | 49 |
 | This game has Quickly Understood Controls | 45 |
 | This game has Unique Visuals | 44 |
 | This game is Extremely Fun | 42 |
@@ -361,4 +361,4 @@ Diff (max vs sum): 77
 | 2023-10-22 | 4.59 | - | 45 | 309 |
 | 2023-10-23 | 4.59 | - | 47 | 313 |
 | 2023-10-25 | 4.59 | - | 48 | 317 |
-| 2023-10-26 | 4.59 | - | 48 | 319 |
+| 2023-10-26 | 4.59 | - | 49 | 320 |

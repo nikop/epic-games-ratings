@@ -18,7 +18,7 @@
 | Unblurred Lines | 10.00% | ~80 |
 | Endlessly Effective | 10.00% | ~80 |
 | Obsessively Thorough | 9.00% | ~72 |
-| What's Behind Every Door? | 4.00% | ~32 |
+| What's Behind Every Door? | 5.00% | ~40 |
 | No Stone Unturned | 3.00% | ~24 |
 | Turret Syndrome | 1.00% | ~8 |
 | Endless Biographer | 0.40% | ~3 |

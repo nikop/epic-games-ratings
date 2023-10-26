@@ -2,12 +2,12 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 1005,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.82,
+  "Rating": 3.83,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -495,10 +495,16 @@
       "Rating": 3.82,
       "NumberOfAwards": 414,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-10-26T18:59:07.3231806+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 422,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 414,
+  "NumberOfAwards": 422,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -554,7 +560,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 55
+      "Count": 63
     },
     {
       "Text": "This game has a Competitive Community",
@@ -575,8 +581,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-26T17:59:20.1801872+00:00",
+  "LastChanged": "2023-10-26T18:59:07.3231805+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.5469226+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:59:20.1801877+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:08:28.0114432+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:07.3231809+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:08:06.6678984+00:00"
 }

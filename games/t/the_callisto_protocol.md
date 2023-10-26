@@ -15,7 +15,7 @@ Rating: 4.19 (Ranked 903)
 | Reforged | 5.00% | ~814 |
 | The Outer Way | 5.00% | ~814 |
 | Desperate Times | 5.00% | ~814 |
-| Keep Fighting | 5.00% | ~210 |
+| Keep Fighting | 5.00% | ~211 |
 | You Need a Gun | 4.00% | ~651 |
 | I Do Belong Here | 4.00% | ~651 |
 | Terminated | 4.00% | ~651 |
@@ -27,8 +27,8 @@ Rating: 4.19 (Ranked 903)
 | Full Circle | 4.00% | ~651 |
 | Power Up | 4.00% | ~651 |
 | It's Time | 4.00% | ~168 |
-| Giving Back | 3.00% | ~488 |
-| The Commonality | 3.00% | ~488 |
+| Giving Back | 3.00% | ~489 |
+| The Commonality | 3.00% | ~489 |
 | In Striking Distance | 2.00% | ~326 |
 | One Last Job | 2.00% | ~84 |
 | This Isn't About Escape | 1.00% | ~42 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,283 (Ranked 135)  
+Progressed: 16,285 (Ranked 135)  
 Completed: 77 (0.47%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,11 +235,11 @@ Completed: 77 (0.47%) (Ranked 189)
 | 2023-10-23 | 16,221 | 77 |
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
-| 2023-10-26 | 16,283 | 77 |
+| 2023-10-26 | 16,285 | 77 |
 ## Awards
-Max (Highly Recommended): 78  (Ranked 380)  
+Max (Highly Recommended): 78  (Ranked 382)  
 Sum: 455 (Ranked 324)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 78 |

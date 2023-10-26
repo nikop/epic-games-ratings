@@ -14204,10 +14204,10 @@
       "Count": 11556
     }
   ],
-  "EOS_Progressed": 893920,
-  "EOS_Completed": 2713,
-  "EOS_NewPlayers": 1223,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 893926,
+  "EOS_Completed": 2714,
+  "EOS_NewPlayers": 1220,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35659,6 +35659,11 @@
       "Time": "2023-10-26T18:08:05.4911031+00:00",
       "NumProgressed": 893920,
       "NumCompleted": 2713
+    },
+    {
+      "Time": "2023-10-26T19:07:08.1509993+00:00",
+      "NumProgressed": 893926,
+      "NumCompleted": 2714
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35797,9 +35802,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "MustBeTheRats",
@@ -35973,9 +35978,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -35997,9 +36002,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7151
+      "UsersEstimate": 8045
     },
     {
       "ID": "YipMan",
@@ -36190,21 +36195,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893920,
-      "Completed": 2713
+      "Progressed": 893926,
+      "Completed": 2714
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22543,
+      "Progressed": 22549,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-26T16:02:34.6509511+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:08:05.4911026+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:07:08.1509985+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:01:09.5614305+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:08:05.4912897+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:00:32.0157573+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:07:08.1511393+00:00"
 }

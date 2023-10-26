@@ -382,9 +382,9 @@
       "ID": "LEAVE",
       "SetID": "bho0i1h",
       "Name": "Leave",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "MISSING_PIECE",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:08:22.8084422+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:08:02.3939502+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:35.1772192+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:03:07.1862324+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:08:22.8084652+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:03:02.5853313+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:08:02.3939681+00:00"
 }

@@ -1757,7 +1757,7 @@
   ],
   "EOS_Progressed": 8066,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6116,9 +6116,9 @@
       "ID": "ach38",
       "SetID": "47in8n6",
       "Name": "Made It Out Alive",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3549
     },
     {
       "ID": "ach39",
@@ -6229,8 +6229,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-26T16:59:17.7877919+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:06:30.0606692+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:05:50.099664+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:59:25.7091744+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:06:30.0607311+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:11.6979077+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:05:50.0997194+00:00"
 }

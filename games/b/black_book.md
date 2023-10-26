@@ -6,58 +6,58 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~12,706 |
-| Student | 21.00% | ~9,883 |
-| Knower | 15.00% | ~7,059 |
-| Listener | 14.00% | ~6,589 |
-| Aspen Tree | 13.00% | ~6,118 |
-| Healer | 13.00% | ~6,118 |
-| Scientist | 11.00% | ~5,177 |
-| Soldier | 11.00% | ~5,177 |
-| Cow Level | 10.00% | ~4,706 |
-| Water | 10.00% | ~4,706 |
-| Old Friend | 9.00% | ~4,235 |
-| Herbalist | 9.00% | ~4,235 |
-| New Spirits | 9.00% | ~4,235 |
-| Voipel | 9.00% | ~4,235 |
-| Black Mage | 9.00% | ~4,235 |
-| Card Player | 8.00% | ~3,765 |
-| Pine Tree | 8.00% | ~3,765 |
-| Collector | 8.00% | ~3,765 |
-| Wolf | 8.00% | ~3,765 |
-| Worthy | 7.00% | ~3,294 |
-| Black Book | 7.00% | ~3,294 |
-| Dead Man | 7.00% | ~3,294 |
-| Fern | 7.00% | ~3,294 |
-| 100 Friends | 7.00% | ~3,294 |
-| Dead Friend | 7.00% | ~3,294 |
-| Researcher | 7.00% | ~3,294 |
-| Savvy | 7.00% | ~3,294 |
-| Black Sorcerer | 6.00% | ~2,824 |
-| Encyclopedist | 6.00% | ~2,824 |
-| Witch | 6.00% | ~2,824 |
-| Old Spirits | 6.00% | ~2,824 |
-| Sinner | 6.00% | ~2,824 |
-| Folklorist | 6.00% | ~2,824 |
-| Keeper of Knowledge | 6.00% | ~2,824 |
-| Vorsa | 5.00% | ~2,353 |
-| Susanin | 5.00% | ~2,353 |
-| Traveller | 5.00% | ~2,353 |
-| Musician | 4.00% | ~1,882 |
+| Initiation | 27.00% | ~12,712 |
+| Student | 21.00% | ~9,887 |
+| Knower | 15.00% | ~7,062 |
+| Listener | 14.00% | ~6,591 |
+| Aspen Tree | 13.00% | ~6,121 |
+| Healer | 13.00% | ~6,121 |
+| Scientist | 11.00% | ~5,179 |
+| Soldier | 11.00% | ~5,179 |
+| Cow Level | 10.00% | ~4,708 |
+| Water | 10.00% | ~4,708 |
+| Old Friend | 9.00% | ~4,237 |
+| Herbalist | 9.00% | ~4,237 |
+| New Spirits | 9.00% | ~4,237 |
+| Voipel | 9.00% | ~4,237 |
+| Black Mage | 9.00% | ~4,237 |
+| Card Player | 8.00% | ~3,766 |
+| Pine Tree | 8.00% | ~3,766 |
+| Collector | 8.00% | ~3,766 |
+| Wolf | 8.00% | ~3,766 |
+| Worthy | 7.00% | ~3,296 |
+| Black Book | 7.00% | ~3,296 |
+| Dead Man | 7.00% | ~3,296 |
+| Fern | 7.00% | ~3,296 |
+| 100 Friends | 7.00% | ~3,296 |
+| Dead Friend | 7.00% | ~3,296 |
+| Researcher | 7.00% | ~3,296 |
+| Savvy | 7.00% | ~3,296 |
+| Black Sorcerer | 6.00% | ~2,825 |
+| Encyclopedist | 6.00% | ~2,825 |
+| Witch | 6.00% | ~2,825 |
+| Old Spirits | 6.00% | ~2,825 |
+| Sinner | 6.00% | ~2,825 |
+| Folklorist | 6.00% | ~2,825 |
+| Keeper of Knowledge | 6.00% | ~2,825 |
+| Vorsa | 5.00% | ~2,354 |
+| Susanin | 5.00% | ~2,354 |
+| Traveller | 5.00% | ~2,354 |
+| Musician | 4.00% | ~1,883 |
 | Black Sorceress | 3.00% | ~1,412 |
 | Cheater | 3.00% | ~1,412 |
 | Diplomat | 3.00% | ~1,412 |
 | Righteous | 3.00% | ~1,412 |
 | White Head | 3.00% | ~1,412 |
 | Koldun | 3.00% | ~1,412 |
-| Revelation | 2.00% | ~941 |
-| Mistress of Hell | 2.00% | ~941 |
-| Detective | 2.00% | ~941 |
-| Great Sorceress | 2.00% | ~941 |
+| Revelation | 2.00% | ~942 |
+| Mistress of Hell | 2.00% | ~942 |
+| Detective | 2.00% | ~942 |
+| Great Sorceress | 2.00% | ~942 |
 | Own Way | 1.00% | ~471 |
 | Word Master | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,061 (Ranked 107)  
+Progressed: 47,081 (Ranked 107)  
 Completed: 41 (0.09%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,14 +118,14 @@ Completed: 41 (0.09%) (Ranked 263)
 | 2023-10-23 | 46,227 | 40 |
 | 2023-10-24 | 46,537 | 40 |
 | 2023-10-25 | 46,856 | 41 |
-| 2023-10-26 | 47,061 | 41 |
+| 2023-10-26 | 47,081 | 41 |
 ## Awards
-Max (Character Customization): 78  (Ranked 380)  
-Sum: 78 (Ranked 450)  
-Diff (max vs sum): -70  
+Max (Character Customization): 79  (Ranked 378)  
+Sum: 79 (Ranked 449)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 78 |
+| This game has Inclusive Character Customization | 79 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -218,3 +218,4 @@ Diff (max vs sum): -70
 | 2023-10-18 | 4.67 | - | 75 | 75 |
 | 2023-10-19 | 4.67 | - | 77 | 77 |
 | 2023-10-24 | 4.67 | - | 78 | 78 |
+| 2023-10-26 | 4.67 | - | 79 | 79 |

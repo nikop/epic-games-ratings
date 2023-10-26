@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1457,6 +1457,11 @@
       "Time": "2023-10-20T22:10:07.9179083+00:00",
       "NumProgressed": 435,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-26T19:09:23.6510084+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1468,7 +1473,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "completeact2",
@@ -1476,7 +1481,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "completeact3",
@@ -1564,7 +1569,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrv1",
@@ -1587,7 +1592,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 2
     }
   ],
@@ -1595,8 +1600,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:09:43.6565469+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:09:23.651008+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.1155968+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:00:25.7891412+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:09:43.6565685+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:59.8357277+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:09:23.6510239+00:00"
 }

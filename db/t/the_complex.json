@@ -2,7 +2,7 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 118,
@@ -936,9 +936,9 @@
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 556
     }
   ],
   "AchievementSets": [
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:08:12.2891986+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:07:13.7250588+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:21.4066435+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:03:31.3139888+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:08:12.2892171+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:03:22.0949751+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:07:13.725075+00:00"
 }

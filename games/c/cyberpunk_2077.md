@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| V for Vendetta | 0.90% | ~8,045 |
 | Ten out of Ten | 0.80% | ~7,151 |
-| V for Vendetta | 0.80% | ~7,151 |
 | Rough Landing | 0.60% | ~5,364 |
 | Full Body Conversion | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
@@ -18,10 +18,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.40% | ~3,576 |
 | Gun Fu | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
+| The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
 | The Hermit | 0.40% | ~3,576 |
 | The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
+| True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
 | Legend of The Afterlife | 0.40% | ~3,576 |
 | To Bad Decisions! | 0.30% | ~2,682 |
@@ -30,12 +32,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.30% | ~2,682 |
 | Mean Streets | 0.30% | ~2,682 |
 | Christmas Tree Attack | 0.30% | ~2,682 |
-| The Quick and the Dead | 0.30% | ~2,682 |
 | Life of the Road | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
-| True Warrior | 0.30% | ~2,682 |
 | Judy vs Night City | 0.30% | ~2,682 |
 | Spin Doctor | 0.30% | ~68 |
 | To Protect and Serve | 0.20% | ~1,788 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,920 (Ranked 15)  
-Completed: 2,713 (0.30%) (Ranked 213)  
+Progressed: 893,926 (Ranked 15)  
+Completed: 2,714 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,713 (0.30%) (Ranked 213)
 | 2023-10-23 | 893,543 | 2,709 |
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
-| 2023-10-26 | 893,920 | 2,713 |
+| 2023-10-26 | 893,926 | 2,714 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 327,446 (Ranked 10)  

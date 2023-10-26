@@ -1406,7 +1406,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130113,
+  "EOS_Progressed": 130115,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -20146,6 +20146,11 @@
       "Time": "2023-10-26T18:07:34.1489519+00:00",
       "NumProgressed": 130113,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-26T19:06:42.7454741+00:00",
+      "NumProgressed": 130115,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20189,7 +20194,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23420
+      "UsersEstimate": 23421
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20213,7 +20218,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31227
+      "UsersEstimate": 31228
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20301,7 +20306,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14312
+      "UsersEstimate": 14313
     },
     {
       "ID": "ACH_CUNO",
@@ -20317,7 +20322,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13011
+      "UsersEstimate": 13012
     },
     {
       "ID": "ACH_GLUTEN",
@@ -20476,15 +20481,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130113,
+      "Progressed": 130115,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-26T16:59:51.8578507+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:07:34.1489511+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:06:42.7454738+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:00:08.2604965+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:07:34.1490961+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:45.5569675+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:06:42.7455829+00:00"
 }

@@ -19,7 +19,7 @@
 | Sam | 55.00% | ~70 |
 | Commissioner | 54.00% | ~69 |
 | Churchill | 51.00% | ~65 |
-| Leave | 49.00% | ~63 |
+| Leave | 50.00% | ~64 |
 | Engineer | 49.00% | ~63 |
 | Soldier | 49.00% | ~63 |
 | Doctor | 48.00% | ~61 |

@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_EOS_Progress": 210,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 118,
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2076,
+  "EOS_Progressed": 2107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1945,
+  "EOS_NewPlayers": 1957,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-10-26T18:09:05.4739497+00:00",
       "NumProgressed": 2076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T19:08:12.2944041+00:00",
+      "NumProgressed": 2107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -935,9 +940,9 @@
       "ID": "BabySteps",
       "SetID": "acc6ea0",
       "Name": "Baby Steps",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 147
     },
     {
       "ID": "BeLikeWater",
@@ -999,9 +1004,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 211
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1073,7 +1078,7 @@
       "Name": "Nasty!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "NoMoreTotems",
@@ -1113,7 +1118,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1121,7 +1126,7 @@
       "Name": "The Old-School Way",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TheQuarterback",
@@ -1129,7 +1134,7 @@
       "Name": "The Quarterback",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "ThisIsDharma",
@@ -1151,9 +1156,9 @@
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 45,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1193,21 +1198,21 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2076,
+      "Progressed": 2107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:09:05.4739492+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:08:12.2944037+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:59:14.6679158+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:09:05.4739782+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:03.3389666+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:08:12.2944273+00:00"
 }

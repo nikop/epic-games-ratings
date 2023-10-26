@@ -6970,9 +6970,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 779
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7121,8 +7121,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:09:19.7773193+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:09:03.9998724+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.0297636+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:58:17.1027286+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:09:19.7773787+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:58:17.820612+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:09:03.999918+00:00"
 }

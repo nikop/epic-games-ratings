@@ -7621,9 +7621,9 @@
       "Count": 3487
     }
   ],
-  "EOS_Progressed": 232872,
+  "EOS_Progressed": 232875,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28736,6 +28736,11 @@
       "Time": "2023-10-26T18:04:45.106557+00:00",
       "NumProgressed": 232872,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-10-26T19:04:23.5309914+00:00",
+      "NumProgressed": 232875,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 528,
@@ -29115,7 +29120,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_110",
@@ -30419,7 +30424,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "objective_completed_34",
@@ -31697,9 +31702,9 @@
       "ID": "objective_completed_665",
       "SetID": "415jc5c",
       "Name": "Tiamat\u0027s Army",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_666",
@@ -32970,21 +32975,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199146,
+      "Progressed": 199149,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232872,
+      "Progressed": 232875,
       "Completed": 2388
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-26T05:01:54.9848334+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:04:45.1065561+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:04:23.530991+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-26T18:01:08.1106176+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:04:45.1099035+00:00"
+  "LastUpdate_Ratings": "2023-10-26T19:00:30.8318107+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:04:23.5335329+00:00"
 }

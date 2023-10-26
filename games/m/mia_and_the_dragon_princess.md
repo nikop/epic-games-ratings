@@ -8,7 +8,7 @@
 | Glass Act | 39.00% | ~32 |
 | Tour Guide Extraordinaire | 37.00% | ~31 |
 | Snitch | 25.00% | ~21 |
-| Explosive End | 23.00% | ~19 |
+| Explosive End | 24.00% | ~20 |
 | Puzzle Prodigy | 23.00% | ~19 |
 | A Box of Tricks | 20.00% | ~17 |
 | Finger-Lickin' Bad | 18.00% | ~15 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-10-25T14:07:22.837958+00:00",
       "NumProgressed": 981,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-26T19:06:25.1672367+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2494,7 +2499,7 @@
       "Name": "Seafarer",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH002",
@@ -2604,9 +2609,9 @@
       "ID": "ACH015",
       "SetID": "69nfp41",
       "Name": "Groundskeeper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH016",
@@ -2654,7 +2659,7 @@
       "Name": "Collectionitis",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH022",
@@ -2670,7 +2675,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH024",
@@ -2766,7 +2771,7 @@
       "Name": "All mine!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH036",
@@ -2774,7 +2779,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH037",
@@ -2782,7 +2787,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH038",
@@ -2798,7 +2803,7 @@
       "Name": "Panel of experts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH040",
@@ -2868,9 +2873,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH049",
@@ -2885,15 +2890,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-10-21T17:04:58.5198566+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:07:12.8039955+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:06:25.167236+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:28.3231415+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:57:19.3165835+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:07:12.804053+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:57:28.5431178+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:06:25.1672801+00:00"
 }

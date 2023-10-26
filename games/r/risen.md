@@ -11,13 +11,14 @@ Rating: 4.57 (Ranked 460)
 | Map reader | 92.00% | ~12 |
 | The brave little tailor | 77.00% | ~10 |
 | Archer | 77.00% | ~10 |
+| Samaritan | 69.00% | ~9 |
 | The merciful one | 62.00% | ~8 |
-| Samaritan | 62.00% | ~8 |
 | Well-to-do | 62.00% | ~8 |
 | Ladies' man | 62.00% | ~8 |
 | Field hand | 54.00% | ~7 |
 | Ferocious wild boars | 54.00% | ~7 |
 | Idiot | 38.00% | ~5 |
+| Fence | 38.00% | ~5 |
 | Death of a legend | 31.00% | ~4 |
 | Archaeologist | 31.00% | ~4 |
 | Little hero | 31.00% | ~4 |
@@ -28,7 +29,6 @@ Rating: 4.57 (Ranked 460)
 | Ogre friend | 31.00% | ~4 |
 | The fourth triplet | 31.00% | ~4 |
 | Moneybags | 31.00% | ~4 |
-| Fence | 31.00% | ~4 |
 | Sidelined | 31.00% | ~4 |
 | Family man | 23.00% | ~3 |
 | Ghost hunter | 23.00% | ~3 |

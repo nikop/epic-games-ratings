@@ -88,10 +88,10 @@
 | Paramour II | 23.00% | ~186 |
 | Lost and Found | 23.00% | ~186 |
 | Party Crasher | 21.00% | ~170 |
+| Hard Target | 21.00% | ~170 |
 | Pyromaniac | 20.00% | ~162 |
 | Under Pressure | 20.00% | ~162 |
 | No One Left Behind | 20.00% | ~162 |
-| Hard Target | 20.00% | ~162 |
 | Saboteur | 20.00% | ~162 |
 | Fact Finder | 20.00% | ~162 |
 | Problem Solver | 20.00% | ~162 |
@@ -104,7 +104,7 @@
 | Master and Commander | 17.00% | ~138 |
 | Throw Mastery | 16.00% | ~130 |
 | Patriot | 16.00% | ~130 |
-| Legend | 15.00% | ~122 |
+| Legend | 16.00% | ~130 |
 | Mail Slot | 14.00% | ~113 |
 | Long Service Medal | 14.00% | ~113 |
 | Combined Arms | 13.00% | ~105 |

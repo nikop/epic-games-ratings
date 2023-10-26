@@ -5,7 +5,7 @@
   "Ranking_Rating": 613,
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 288,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 118,
@@ -1326,9 +1326,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9875,
+  "EOS_Progressed": 9876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15626,6 +15626,11 @@
       "Time": "2023-10-26T17:06:30.3775429+00:00",
       "NumProgressed": 9875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T19:06:23.9906355+00:00",
+      "NumProgressed": 9876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15653,7 +15658,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "12",
@@ -15717,7 +15722,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5135
+      "UsersEstimate": 5136
     },
     {
       "ID": "2",
@@ -15725,7 +15730,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3456
+      "UsersEstimate": 3457
     },
     {
       "ID": "20",
@@ -15733,7 +15738,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3752
+      "UsersEstimate": 3753
     },
     {
       "ID": "21",
@@ -15741,7 +15746,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "22",
@@ -15797,7 +15802,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "29",
@@ -15853,7 +15858,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "35",
@@ -16021,7 +16026,7 @@
       "Name": "Amped Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "54",
@@ -16093,7 +16098,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "9",
@@ -16108,15 +16113,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9875,
+      "Progressed": 9876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-25T03:58:58.9826596+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:07:11.2592985+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:06:23.990635+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:58:51.1102015+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:07:11.2594389+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:58:44.7778793+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:06:23.9907613+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1617,9 +1617,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1736,8 +1736,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:05:20.6650149+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:04:52.6048664+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:57:47.8208243+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:05:20.6650488+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:57:53.5221012+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:04:52.6048884+00:00"
 }

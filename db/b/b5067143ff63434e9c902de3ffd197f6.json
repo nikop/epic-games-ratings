@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5129,
+  "EOS_Progressed": 5140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1601,
+  "EOS_NewPlayers": 1600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3084,6 +3084,11 @@
       "Time": "2023-10-26T18:08:26.9125646+00:00",
       "NumProgressed": 5129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-26T19:08:05.7952741+00:00",
+      "NumProgressed": 5140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -3126,9 +3131,9 @@
       "ID": "ACH_LEVEL974",
       "SetID": "1lo1k0a",
       "Name": "KITTY",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_MEGLAB",
@@ -3184,7 +3189,7 @@
       "Name": "Electric",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -3192,7 +3197,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1336
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -3200,7 +3205,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 615
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -3208,7 +3213,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -3224,7 +3229,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -3240,7 +3245,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -3287,14 +3292,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 5129,
+      "Progressed": 5140,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-26T18:08:26.9125636+00:00",
+  "LastChanged_Achievements": "2023-10-26T19:08:05.7952737+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:52.6577652+00:00",
-  "LastUpdate_Ratings": "2023-10-26T17:59:40.632004+00:00",
-  "LastUpdate_Achievements": "2023-10-26T18:08:26.9125964+00:00"
+  "LastUpdate_Ratings": "2023-10-26T18:59:24.5206024+00:00",
+  "LastUpdate_Achievements": "2023-10-26T19:08:05.7953022+00:00"
 }

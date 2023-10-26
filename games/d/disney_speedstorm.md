@@ -5,14 +5,14 @@ Rating: 4.42 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,848 |
-| IT MAKES BOOM! | 3.00% | ~7,709 |
-| EXTRA BOOST | 2.00% | ~5,139 |
-| PROTECTED | 2.00% | ~5,139 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,570 |
-| AGGRESSIVE RACER | 1.00% | ~2,570 |
-| PRO | 1.00% | ~2,570 |
-| A TIGER'S FEAR | 0.90% | ~2,313 |
+| ROOKIE | 5.00% | ~12,853 |
+| IT MAKES BOOM! | 3.00% | ~7,712 |
+| EXTRA BOOST | 2.00% | ~5,141 |
+| PROTECTED | 2.00% | ~5,141 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,571 |
+| AGGRESSIVE RACER | 1.00% | ~2,571 |
+| PRO | 1.00% | ~2,571 |
+| A TIGER'S FEAR | 0.90% | ~2,314 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,285 |
 | ACE SPEEDSTER | 0.50% | ~1,285 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,028 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 698)
 | ACE TRICKSTER | 0.20% | ~514 |
 | FRAMED! | 0.10% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,953 (Ranked 53)  
+Progressed: 257,063 (Ranked 53)  
 Completed: 241 (0.09%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 241 (0.09%) (Ranked 263)
 | 2023-10-23 | 250,437 | 241 |
 | 2023-10-24 | 253,504 | 241 |
 | 2023-10-25 | 255,590 | 241 |
-| 2023-10-26 | 256,953 | 241 |
+| 2023-10-26 | 257,063 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 43  (Ranked 439)  
-Sum: 269 (Ranked 368)  
+Sum: 270 (Ranked 368)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -229,8 +229,8 @@ Diff (max vs sum): 71
 | This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 25 |
 | This game has a Competitive Community | 25 |
+| This game has Amazing Storytelling | 24 |
 | This game has Competitive Players | 24 |
-| This game has Amazing Storytelling | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -259,4 +259,4 @@ Diff (max vs sum): 71
 | 2023-10-23 | 4.41 | 35 | 210 |
 | 2023-10-24 | 4.41 | 38 | 250 |
 | 2023-10-25 | 4.42 | 38 | 261 |
-| 2023-10-26 | 4.42 | 43 | 269 |
+| 2023-10-26 | 4.42 | 43 | 270 |
