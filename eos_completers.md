@@ -5,7 +5,7 @@
 | 3 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.48% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.20% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 43.16% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -53,7 +53,7 @@
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.61% |
 | 52 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 53 | [Time Loader](games/t/time_loader.md) | 7.14% |
-| 54 | [Scorn](games/s/scorn.md) | 6.97% |
+| 54 | [Scorn](games/s/scorn.md) | 6.96% |
 | 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
 | 56 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 57 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -176,10 +176,10 @@
 | 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 175 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 175 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 175 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.58% |
-| 178 | [Dead Space](games/d/dead_space.md) | 0.57% |
-| 178 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 178 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 177 | [Dead Space](games/d/dead_space.md) | 0.57% |
+| 177 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.57% |
+| 177 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
+| 177 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 181 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
 | 183 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
