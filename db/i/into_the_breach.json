@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
@@ -3634,10 +3634,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4049,
       "NumberOfAwardsMax": 435
+    },
+    {
+      "Time": "2023-10-27T19:57:56.4704126+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4050,
+      "NumberOfAwardsMax": 435
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4049,
+  "NumberOfAwards": 4050,
   "NumberOfAwardsMax": 435,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3693,7 +3699,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 326
+      "Count": 327
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3731,8 +3737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-10-27T13:01:39.0569279+00:00",
+  "LastChanged": "2023-10-27T19:57:56.4704125+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1126841+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:58:15.8435422+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:09:19.6480852+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:57:56.4704131+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:08:46.1263668+00:00"
 }

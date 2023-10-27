@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 952,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 452,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2076,
+  "EOS_Progressed": 2077,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6346,6 +6346,11 @@
       "Time": "2023-10-27T18:02:57.5868214+00:00",
       "NumProgressed": 2076,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-27T20:03:25.030529+00:00",
+      "NumProgressed": 2077,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6533,7 +6538,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "fellowshippower",
@@ -6605,7 +6610,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "howdoyouturnthison",
@@ -6749,7 +6754,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "prestigiousx10",
@@ -6757,7 +6762,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "relicofthepast",
@@ -6813,7 +6818,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "thealchemist",
@@ -6861,7 +6866,7 @@
       "Name": "The Unstoppable",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "titanpower",
@@ -6917,7 +6922,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "warmachinesarmy",
@@ -6949,14 +6954,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2076,
+      "Progressed": 2077,
       "Completed": 2
     }
   ],
@@ -6964,8 +6969,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-27T19:02:30.0418607+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:03:57.2383377+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:03:25.0305283+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:02:30.0418614+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:03:57.2384581+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:00:50.8030869+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:03:25.030672+00:00"
 }

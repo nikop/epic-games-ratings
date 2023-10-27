@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 140.00% | ~7 |
-| Suicide squad | 80.00% | ~4 |
-| First blood | 60.00% | ~3 |
-| By own strength | 40.00% | ~2 |
-| Train hard, fight easy | 40.00% | ~2 |
-| Royal blessing | 40.00% | ~2 |
-| Under cover | 40.00% | ~2 |
-| A hidden snake | 40.00% | ~2 |
-| Blood and sand | 40.00% | ~2 |
-| Crimson rivers | 20.00% | ~1 |
-| Berkanan Borgia | 20.00% | ~1 |
-| Power of Inquisition | 20.00% | ~1 |
-| The champion of the arena | 20.00% | ~1 |
-| Surpass the teacher | 20.00% | ~1 |
-| Vene, vidi, vici | 20.00% | ~1 |
-| A solo player | 20.00% | ~1 |
-| Punish the Punisher | 20.00% | ~1 |
-| Protect the Healer! | 20.00% | ~1 |
-| Cunning plan | 20.00% | ~1 |
-| Do it yourself | 20.00% | ~1 |
-| Help of the Gell | 20.00% | ~1 |
-| Trial by cold | 20.00% | ~1 |
-| All's fair in love and war | 20.00% | ~1 |
-| She-Wolf | 20.00% | ~1 |
+| First success | 117.00% | ~7 |
+| Suicide squad | 67.00% | ~4 |
+| First blood | 50.00% | ~3 |
+| By own strength | 33.00% | ~2 |
+| Train hard, fight easy | 33.00% | ~2 |
+| Royal blessing | 33.00% | ~2 |
+| Under cover | 33.00% | ~2 |
+| A hidden snake | 33.00% | ~2 |
+| Blood and sand | 33.00% | ~2 |
+| Crimson rivers | 17.00% | ~1 |
+| Berkanan Borgia | 17.00% | ~1 |
+| Power of Inquisition | 17.00% | ~1 |
+| The champion of the arena | 17.00% | ~1 |
+| Surpass the teacher | 17.00% | ~1 |
+| Vene, vidi, vici | 17.00% | ~1 |
+| A solo player | 17.00% | ~1 |
+| Punish the Punisher | 17.00% | ~1 |
+| Protect the Healer! | 17.00% | ~1 |
+| Cunning plan | 17.00% | ~1 |
+| Do it yourself | 17.00% | ~1 |
+| Help of the Gell | 17.00% | ~1 |
+| Trial by cold | 17.00% | ~1 |
+| All's fair in love and war | 17.00% | ~1 |
+| She-Wolf | 17.00% | ~1 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 588)  
+Progressed: 6 (Ranked 574)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-12 | 3 | 0 |
 | 2023-10-14 | 4 | 0 |
 | 2023-10-20 | 5 | 0 |
+| 2023-10-27 | 6 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

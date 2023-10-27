@@ -8360,9 +8360,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 1032
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8416,8 +8416,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:10:15.0063001+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:09:25.88798+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:58:22.2936579+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:10:15.0063628+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:58:01.0898699+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:09:25.8880415+00:00"
 }

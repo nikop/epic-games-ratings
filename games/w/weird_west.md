@@ -7,20 +7,20 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,712 |
-| Self-Improvement | 71.00% | ~1,381 |
-| Perky | 65.00% | ~1,264 |
-| Let’s Ride | 60.00% | ~1,167 |
+| Self-Improvement | 71.00% | ~1,382 |
+| Perky | 65.00% | ~1,265 |
+| Let’s Ride | 60.00% | ~1,168 |
 | Welcome to the Weird West | 57.00% | ~1,109 |
-| Dead or Alive | 56.00% | ~1,089 |
+| Dead or Alive | 56.00% | ~1,090 |
 | Full House | 37.00% | ~720 |
-| Off the Trail | 34.00% | ~661 |
+| Off the Trail | 34.00% | ~662 |
 | Justice Served | 29.00% | ~564 |
 | Chain Reaction | 26.00% | ~506 |
 | Through Their Eyes | 26.00% | ~506 |
 | Dishonored | 25.00% | ~486 |
 | Rain of Death | 25.00% | ~486 |
 | Scholar | 25.00% | ~486 |
-| The Great Escape | 23.00% | ~447 |
+| The Great Escape | 23.00% | ~448 |
 | That’s All, Folks | 19.00% | ~370 |
 | Fallen Star | 16.00% | ~311 |
 | Here Comes Santa Claus | 16.00% | ~311 |
@@ -29,12 +29,12 @@ Number of Ratings: 125  (23.09.2022)
 | Dog Days | 13.00% | ~253 |
 | Out on the Ebb Tide | 13.00% | ~253 |
 | Workers' Rights | 13.00% | ~253 |
-| Elusive Prey | 12.00% | ~233 |
-| Power Behind the Pulpit | 12.00% | ~233 |
-| Turning the Tables | 12.00% | ~233 |
+| Elusive Prey | 12.00% | ~234 |
+| Power Behind the Pulpit | 12.00% | ~234 |
+| Turning the Tables | 12.00% | ~234 |
 | Something Wicked This Way Comes… | 11.00% | ~214 |
 | There is Hope | 11.00% | ~214 |
-| The Philosopher’s Stone | 10.00% | ~194 |
+| The Philosopher’s Stone | 10.00% | ~195 |
 | Loyalty to the Pack | 9.00% | ~175 |
 | Eternity Can Wait | 9.00% | ~175 |
 | Mystery Machine | 9.00% | ~175 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,945 (Ranked 216)  
+Progressed: 1,946 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-24 | 1,926 | 7 |
 | 2023-10-25 | 1,930 | 7 |
 | 2023-10-26 | 1,939 | 7 |
-| 2023-10-27 | 1,945 | 7 |
+| 2023-10-27 | 1,946 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

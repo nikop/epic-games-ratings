@@ -4,7 +4,7 @@
   "ProductSlug": "remore-infested-kingdom-d1a6b5",
   "Ranking_EOS_Progress": 654,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -160,8 +160,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T08:05:36.9140718+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:08:27.0620495+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:06:38.8740636+00:00",
   "LastUpdate_AppInfo": "2023-10-27T10:57:15.3728967+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:02:32.5776221+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:08:27.0620598+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:00:52.4305215+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:06:38.8740799+00:00"
 }

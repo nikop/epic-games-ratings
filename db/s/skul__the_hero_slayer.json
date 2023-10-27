@@ -3,11 +3,11 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 182,
-  "Ranking_Popularity": 320,
+  "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -5257,8 +5257,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-24T03:03:34.6189422+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:06:16.6651133+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:05:05.0068213+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:14.1215438+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:03:38.2226065+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:06:16.6651805+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:03:11.1774588+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:05:05.0068614+00:00"
 }

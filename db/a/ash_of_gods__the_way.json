@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -71,6 +71,11 @@
       "Time": "2023-10-20T21:04:24.0680387+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T20:06:12.0059858+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -80,7 +85,7 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -128,7 +133,7 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -160,7 +165,7 @@
       "ID": "fights3",
       "SetID": "c64if4d",
       "Name": "The champion of the arena",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -184,7 +189,7 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -192,7 +197,7 @@
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -240,7 +245,7 @@
       "ID": "special2",
       "SetID": "c64if4d",
       "Name": "By own strength",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -256,7 +261,7 @@
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -264,7 +269,7 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -272,7 +277,7 @@
       "ID": "special6",
       "SetID": "c64if4d",
       "Name": "Protect the Healer!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -296,7 +301,7 @@
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -304,7 +309,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 140,
+      "Percentage": 117,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -312,7 +317,7 @@
       "ID": "story10",
       "SetID": "c64if4d",
       "Name": "Do it yourself",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -328,7 +333,7 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -336,7 +341,7 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -360,7 +365,7 @@
       "ID": "story16",
       "SetID": "c64if4d",
       "Name": "All\u0027s fair in love and war",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -392,7 +397,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -416,7 +421,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -424,7 +429,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -432,7 +437,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -440,7 +445,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -448,7 +453,7 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -456,7 +461,7 @@
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -464,7 +469,7 @@
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -473,7 +478,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
@@ -481,8 +486,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:07:48.7354188+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:06:12.0059848+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:04.1083299+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:57:21.9685733+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:07:48.7354683+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:57:20.3438448+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:06:12.0060296+00:00"
 }

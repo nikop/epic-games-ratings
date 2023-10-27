@@ -1283,10 +1283,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 558,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2023-10-27T19:58:58.035688+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 559,
+      "NumberOfAwardsMax": 365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 558,
+  "NumberOfAwards": 559,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1324,7 +1330,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has a Creative Community",
@@ -1345,9 +1351,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13276,
+  "EOS_Progressed": 13277,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13285,6 +13291,11 @@
       "Time": "2023-10-27T17:06:23.6398421+00:00",
       "NumProgressed": 13276,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-27T20:05:59.0154328+00:00",
+      "NumProgressed": 13277,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13296,7 +13307,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10886
+      "UsersEstimate": 10887
     },
     {
       "ID": "ACH02",
@@ -13392,7 +13403,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "ACH14",
@@ -13464,7 +13475,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH23",
@@ -13520,7 +13531,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "ACH30",
@@ -13575,16 +13586,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13276,
+      "Progressed": 13277,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-27T15:59:41.5866096+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:07:30.3992133+00:00",
+  "LastChanged": "2023-10-27T19:58:58.0356878+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:05:59.0154321+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:41.3200483+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:59:44.2990606+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:07:30.3993663+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:58:58.0356885+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:05:59.0155312+00:00"
 }

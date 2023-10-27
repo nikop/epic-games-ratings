@@ -2,8 +2,8 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 919,
-  "Ranking_Popularity": 385,
+  "Ranking_Rating": 921,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 289,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -811,10 +811,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-10-27T19:57:35.9598912+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 308,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -846,7 +852,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50
+      "Count": 54
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -873,9 +879,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 64831,
+  "EOS_Progressed": 64840,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6893,6 +6899,11 @@
       "Time": "2023-10-27T19:04:11.0802728+00:00",
       "NumProgressed": 64831,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-27T20:03:35.1442171+00:00",
+      "NumProgressed": 64840,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -6905,7 +6916,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20746
+      "UsersEstimate": 20749
     },
     {
       "ID": "10",
@@ -6937,7 +6948,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "14",
@@ -6953,7 +6964,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "16",
@@ -6961,7 +6972,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "2",
@@ -6969,7 +6980,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11021
+      "UsersEstimate": 11023
     },
     {
       "ID": "3",
@@ -6977,7 +6988,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8428
+      "UsersEstimate": 8429
     },
     {
       "ID": "4",
@@ -6985,7 +6996,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6483
+      "UsersEstimate": 6484
     },
     {
       "ID": "5",
@@ -6993,7 +7004,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5186
+      "UsersEstimate": 5187
     },
     {
       "ID": "6",
@@ -7009,7 +7020,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "8",
@@ -7017,7 +7028,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "9",
@@ -7025,23 +7036,23 @@
       "Name": "Past Master",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 64831,
+      "Progressed": 64840,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-27T14:58:01.1604671+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:04:11.0802722+00:00",
+  "LastChanged": "2023-10-27T19:57:35.9598911+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:03:35.1442164+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:05.7439125+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:57:44.2841489+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:04:11.0803198+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:57:35.9598916+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:03:35.1442603+00:00"
 }

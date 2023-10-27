@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "LikeDislike",
       "SetID": "bl5ebnd",
       "Name": "To Like, Or Not To Like?",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MilitaryContract",
@@ -243,9 +243,9 @@
       "ID": "NewLife",
       "SetID": "bl5ebnd",
       "Name": "New Life for a Blogger",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PersonalHell",
@@ -307,9 +307,9 @@
       "ID": "WatchLearn",
       "SetID": "bl5ebnd",
       "Name": "Watch and Learn",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
@@ -322,8 +322,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:10:18.6528471+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:09:28.7526092+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:14.0090609+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:01:25.2149499+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:10:18.6528636+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:00:08.4516861+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:09:28.7526235+00:00"
 }

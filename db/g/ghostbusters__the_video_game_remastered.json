@@ -2,12 +2,12 @@
   "ID": "d0545b136bb042fb9014e72b6af748f6",
   "Name": "Ghostbusters: The Video Game Remastered",
   "ProductSlug": "ghostbusters-the-video-game-remastered",
-  "Ranking_Rating": 667,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 338,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 418,
   "RatingHistory": [
     {
@@ -492,6 +492,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 111,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-10-27T20:02:59.4245061+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
@@ -517,8 +523,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
-  "LastChanged": "2023-10-27T17:02:53.3679514+00:00",
+  "LastChanged": "2023-10-27T20:02:59.424506+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:19.1999351+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:03:21.0120479+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:09:26.0273311+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:02:59.4245065+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:08:50.7718845+00:00"
 }

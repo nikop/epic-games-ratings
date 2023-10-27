@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14378,
+  "EOS_Progressed": 14383,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9723,6 +9723,11 @@
       "Time": "2023-10-27T19:03:48.7124621+00:00",
       "NumProgressed": 14378,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-27T20:03:18.8764033+00:00",
+      "NumProgressed": 14383,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9781,9 +9786,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "16",
@@ -10014,13 +10019,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14378,
+      "Progressed": 14383,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 332,
+      "Progressed": 337,
       "Completed": 286
     }
   ],
@@ -10028,8 +10033,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:03:48.7124615+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:03:18.876402+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:57:18.8324192+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:03:48.7125828+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:57:18.458503+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:03:18.8765056+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -320,6 +320,11 @@
       "Time": "2023-10-27T13:08:53.1587607+00:00",
       "NumProgressed": 213,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-27T20:04:41.3475841+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -331,7 +336,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "book_em_danny",
@@ -377,9 +382,9 @@
       "ID": "heavy_rayne",
       "SetID": "2db2j74",
       "Name": "Heavy Rayne",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "highlander",
@@ -387,7 +392,7 @@
       "Name": "Highlander",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -403,7 +408,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "patient_listener",
@@ -411,7 +416,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "play_it_again_sam",
@@ -419,7 +424,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "play_me_by_the_hour",
@@ -427,7 +432,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "poetent",
@@ -459,7 +464,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "the_big_sleep",
@@ -498,7 +503,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 2
     }
   ],
@@ -506,8 +511,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:05:43.5968347+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:04:41.3475831+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.0977165+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:59:05.2036219+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:05:43.5968604+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:58:31.1312348+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:04:41.3475999+00:00"
 }

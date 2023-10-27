@@ -14184,10 +14184,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 329385,
       "NumberOfAwardsMax": 102038
+    },
+    {
+      "Time": "2023-10-27T20:00:53.0856976+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 329494,
+      "NumberOfAwardsMax": 102038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329385,
+  "NumberOfAwards": 329494,
   "NumberOfAwardsMax": 102038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14261,12 +14267,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11655
+      "Count": 11764
     }
   ],
-  "EOS_Progressed": 894071,
+  "EOS_Progressed": 894084,
   "EOS_Completed": 2719,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35834,6 +35840,11 @@
       "Time": "2023-10-27T19:03:58.6350569+00:00",
       "NumProgressed": 894071,
       "NumCompleted": 2719
+    },
+    {
+      "Time": "2023-10-27T20:03:26.1025144+00:00",
+      "NumProgressed": 894084,
+      "NumCompleted": 2719
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35918,7 +35929,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "Gunslinger",
@@ -36046,7 +36057,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "TheDevil",
@@ -36078,7 +36089,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "TheLovers",
@@ -36142,7 +36153,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5364
+      "UsersEstimate": 5365
     },
     {
       "ID": "TrueWarrior",
@@ -36174,7 +36185,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17882
     },
     {
       "ID": "YipMan",
@@ -36302,7 +36313,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "HydraIsDead",
@@ -36318,7 +36329,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "KingOfTheCups",
@@ -36365,21 +36376,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894071,
+      "Progressed": 894084,
       "Completed": 2719
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22694,
+      "Progressed": 22707,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-27T16:02:31.4862991+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:03:58.6350563+00:00",
+  "LastChanged": "2023-10-27T20:00:53.0856975+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:03:26.1025137+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:02:33.8450028+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:03:58.6352421+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:00:53.085698+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:03:26.1027348+00:00"
 }

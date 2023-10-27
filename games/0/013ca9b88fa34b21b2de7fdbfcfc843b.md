@@ -5,23 +5,23 @@ Rating: 4.60 (Ranked 404)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,202 |
-| A Thorny Situation | 70.00% | ~5,058 |
-| ... And Spit Back Out | 60.00% | ~4,335 |
-| Break-Net Speed | 49.00% | ~3,540 |
-| Bramble Breaker | 46.00% | ~3,324 |
-| Miner 49er | 43.00% | ~3,107 |
-| Humble Collector | 42.00% | ~3,034 |
-| Calm Sailing | 36.00% | ~2,601 |
-| Open the Gate! | 33.00% | ~2,384 |
-| Mist Walker | 31.00% | ~2,240 |
-| Lumberjack | 26.00% | ~1,878 |
+| Azoria Beckons | 72.00% | ~5,204 |
+| A Thorny Situation | 70.00% | ~5,060 |
+| ... And Spit Back Out | 60.00% | ~4,337 |
+| Break-Net Speed | 49.00% | ~3,542 |
+| Bramble Breaker | 46.00% | ~3,325 |
+| Miner 49er | 43.00% | ~3,108 |
+| Humble Collector | 42.00% | ~3,036 |
+| Calm Sailing | 36.00% | ~2,602 |
+| Open the Gate! | 33.00% | ~2,385 |
+| Mist Walker | 31.00% | ~2,241 |
+| Lumberjack | 26.00% | ~1,879 |
 | Oui, Chef! | 23.00% | ~1,662 |
-| Clear the Air | 18.00% | ~1,300 |
-| Botanical Breakthrough | 17.00% | ~1,228 |
-| Search for the Hairy Grell | 13.00% | ~939 |
-| Beach Comber | 13.00% | ~939 |
-| Higher Tax Bracket | 13.00% | ~939 |
+| Clear the Air | 18.00% | ~1,301 |
+| Botanical Breakthrough | 17.00% | ~1,229 |
+| Search for the Hairy Grell | 13.00% | ~940 |
+| Beach Comber | 13.00% | ~940 |
+| Higher Tax Bracket | 13.00% | ~940 |
 | Rumble in the Jumble | 8.00% | ~578 |
 | Skilled | 8.00% | ~578 |
 | Flaming Hot Completos | 7.00% | ~506 |
@@ -34,14 +34,14 @@ Rating: 4.60 (Ranked 404)
 | Chatty Neighbor | 4.00% | ~289 |
 | Right Tool For the Job | 3.00% | ~217 |
 | House Proud | 3.00% | ~217 |
-| Captain of Cozy | 2.00% | ~144 |
+| Captain of Cozy | 2.00% | ~145 |
 | Angling Authority | 1.00% | ~72 |
 | Cloverfield Island | 0.20% | ~14 |
 | Giving the People What They Want | 0.20% | ~14 |
 | Very Skilled | 0.20% | ~14 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,225 (Ranked 166)  
+Progressed: 7,228 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 7,139 | 0 |
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
-| 2023-10-27 | 7,225 | 0 |
+| 2023-10-27 | 7,228 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

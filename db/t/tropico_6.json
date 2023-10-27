@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1311,9 +1311,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5699,
+  "EOS_Progressed": 5700,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11881,6 +11881,11 @@
       "Time": "2023-10-27T17:09:10.9503133+00:00",
       "NumProgressed": 5699,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-27T20:09:21.5450098+00:00",
+      "NumProgressed": 5700,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12052,7 +12057,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12211,15 +12216,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5699,
+      "Progressed": 5700,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-26T18:59:36.8630062+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:10:08.9132355+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:09:21.5450089+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.8637871+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:01:09.9997447+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:10:08.9133425+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:59:57.2243822+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:09:21.5451039+00:00"
 }

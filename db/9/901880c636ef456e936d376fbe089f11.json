@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -384,6 +384,11 @@
       "Time": "2023-10-24T04:09:23.8485483+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T20:04:27.448525+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -393,7 +398,7 @@
       "ID": "ACH_10_DRINK_CHALLENGEMODE",
       "SetID": "8h8m55b",
       "Name": "Barista Trainee",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -457,7 +462,7 @@
       "ID": "ACH_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "First Brew",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 62
     },
@@ -505,7 +510,7 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -561,7 +566,7 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -625,7 +630,7 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -633,7 +638,7 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 95,
+      "Percentage": 93,
       "XP": 5,
       "UsersEstimate": 69
     },
@@ -665,7 +670,7 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -673,7 +678,7 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -721,7 +726,7 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -745,7 +750,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -769,7 +774,7 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -809,7 +814,7 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 44
     }
@@ -818,14 +823,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:05:24.4238317+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:04:27.4485243+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.8019457+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:01:17.2149908+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:05:24.4239137+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:00:02.1829902+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:04:27.4485744+00:00"
 }

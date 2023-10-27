@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,881 |
+| V for Vendetta | 2.00% | ~17,882 |
 | Ten out of Ten | 0.80% | ~7,153 |
-| Gun Fu | 0.60% | ~5,364 |
-| Rough Landing | 0.60% | ~5,364 |
-| The High Priestess | 0.60% | ~5,364 |
-| True Soldier | 0.60% | ~5,364 |
+| Gun Fu | 0.60% | ~5,365 |
+| Rough Landing | 0.60% | ~5,365 |
+| The High Priestess | 0.60% | ~5,365 |
+| True Soldier | 0.60% | ~5,365 |
 | Full Body Conversion | 0.50% | ~4,470 |
 | Right Back At Ya | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
 | The Hermit | 0.50% | ~4,470 |
 | The Wheel of Fortune | 0.50% | ~4,470 |
 | Legend of The Afterlife | 0.50% | ~4,470 |
-| All the President's Men | 0.50% | ~113 |
-| Arachnophobia | 0.50% | ~113 |
+| All the President's Men | 0.50% | ~114 |
+| Arachnophobia | 0.50% | ~114 |
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,071 (Ranked 15)  
+Progressed: 894,084 (Ranked 15)  
 Completed: 2,719 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 2,719 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,071 | 2,719 |
+| 2023-10-27 | 894,084 | 2,719 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 329,385 (Ranked 10)  
+Sum: 329,494 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 17,546 |
 | This game is Relaxing | 16,932 |
 | This game has Quickly Understood Controls | 16,883 |
-| This game has a Creative Community | 11,655 |
+| This game has a Creative Community | 11,764 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -564,4 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
-| 2023-10-27 | 4.64 | - | 102,038 | 329,385 |
+| 2023-10-27 | 4.64 | - | 102,038 | 329,494 |

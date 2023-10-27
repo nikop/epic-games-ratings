@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,11 +413,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22875,
-  "EOS_Completed": 444,
-  "EOS_NewPlayers": 427,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 1.94,
+  "EOS_Progressed": 22877,
+  "EOS_Completed": 445,
+  "EOS_NewPlayers": 426,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 1.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -20848,6 +20848,11 @@
       "Time": "2023-10-27T19:09:09.7514106+00:00",
       "NumProgressed": 22875,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-10-27T20:08:39.1396372+00:00",
+      "NumProgressed": 22877,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 20,
@@ -20923,7 +20928,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3432
     },
     {
       "ID": "FOUND_ERIN",
@@ -20939,7 +20944,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "FOUND_MAMBA",
@@ -20947,7 +20952,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -20963,7 +20968,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "GAME_FINISHED",
@@ -20979,7 +20984,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20987,7 +20992,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "NORTH_FINISHED",
@@ -21003,7 +21008,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "WEST_FINISHED",
@@ -21018,15 +21023,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22875,
-      "Completed": 444
+      "Progressed": 22877,
+      "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-27T19:09:09.7514099+00:00",
+  "LastChanged_Achievements": "2023-10-27T20:08:39.1396364+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:03:22.5369833+00:00",
-  "LastUpdate_Achievements": "2023-10-27T19:09:09.751561+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:03:00.4080494+00:00",
+  "LastUpdate_Achievements": "2023-10-27T20:08:39.1397692+00:00"
 }

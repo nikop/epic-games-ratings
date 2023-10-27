@@ -92,11 +92,11 @@
 | Problem Solver | 21.00% | ~172 |
 | Pyromaniac | 20.00% | ~164 |
 | Under Pressure | 20.00% | ~164 |
+| Last Resort | 20.00% | ~164 |
 | No One Left Behind | 20.00% | ~164 |
 | Saboteur | 20.00% | ~164 |
 | Last Witness | 20.00% | ~164 |
 | Fact Finder | 20.00% | ~164 |
-| Last Resort | 19.00% | ~156 |
 | Well Connected | 19.00% | ~156 |
 | Electronics Specialist | 17.00% | ~139 |
 | Sabotage Specialist | 17.00% | ~139 |
