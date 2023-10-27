@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 1.00% | ~8,940 |
+| V for Vendetta | 2.00% | ~17,880 |
 | Ten out of Ten | 0.80% | ~7,152 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
@@ -15,6 +15,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.50% | ~4,470 |
 | The Hermit | 0.50% | ~4,470 |
 | True Soldier | 0.50% | ~4,470 |
+| Legend of The Afterlife | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
 | Right Back At Ya | 0.40% | ~3,576 |
@@ -26,7 +27,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
-| Legend of The Afterlife | 0.40% | ~3,576 |
 | Spin Doctor | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
@@ -40,11 +40,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
 | Judy vs Night City | 0.30% | ~2,682 |
+| Relic Ruler | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
 | It's Elementary | 0.20% | ~1,788 |
-| Relic Ruler | 0.20% | ~45 |
 | Judgement Day | 0.20% | ~45 |
 | King of Pentacles | 0.20% | ~45 |
 | The Tower | 0.20% | ~45 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,006 (Ranked 15)  
+Progressed: 894,015 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,006 | 2,717 |
+| 2023-10-27 | 894,015 | 2,717 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 328,911 (Ranked 10)  

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1780,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3751,9 +3751,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 142
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4023,9 +4023,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 748
+      "UsersEstimate": 765
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4126,8 +4126,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:13:26.0961901+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:10:19.0089956+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:06:32.4194548+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:13:26.0962607+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:03:34.4982716+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:10:19.0090582+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,647 |
-| Imprint | 3.00% | ~4,647 |
+| Taste | 3.00% | ~4,648 |
+| Imprint | 3.00% | ~4,648 |
 | The Hunt | 2.00% | ~3,098 |
 | Weeper | 2.00% | ~3,098 |
 | Ravenous | 2.00% | ~3,098 |
@@ -21,11 +21,11 @@ Number of Ratings: 46  (23.09.2022)
 | Jawstag | 0.80% | ~1,239 |
 | Feast | 0.80% | ~1,239 |
 | Watcher | 0.70% | ~1,084 |
-| Shapely | 0.60% | ~929 |
+| Shapely | 0.60% | ~930 |
 | Glare | 0.60% | ~927 |
-| Predator | 0.60% | ~929 |
+| Predator | 0.60% | ~930 |
 | Assimilation | 0.50% | ~775 |
-| Host | 0.50% | ~772 |
+| Host | 0.50% | ~773 |
 | Celebration | 0.50% | ~775 |
 | Hunt Down | 0.40% | ~620 |
 | Artisan | 0.40% | ~620 |
@@ -48,12 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.10% | ~155 |
 | Weakness | 0.10% | ~155 |
 | Generous | 0.10% | ~155 |
-| The Nightmare | 0.10% | ~154 |
-| Touch of Otherwhere | 0.10% | ~154 |
-| Enrich | 0.10% | ~154 |
-| Intensify | 0.10% | ~154 |
+| The Nightmare | 0.10% | ~155 |
+| Touch of Otherwhere | 0.10% | ~155 |
+| Enrich | 0.10% | ~155 |
+| Intensify | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,912 (Ranked 73)  
+Progressed: 154,921 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 154,456 | 1 |
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
-| 2023-10-27 | 154,912 | 1 |
+| 2023-10-27 | 154,921 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 424)  
 Sum: 320 (Ranked 349)  

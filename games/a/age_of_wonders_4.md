@@ -29,11 +29,11 @@ Rating: 4.61 (Ranked 378)
 | Here be Dragons | 5.00% | ~262 |
 | Blood of the Dragon | 5.00% | ~262 |
 | Return of the Wizard King | 4.00% | ~210 |
+| Arch Mage | 4.00% | ~210 |
 | Enchanted Archipelago | 4.00% | ~210 |
 | Preparation Is Everything | 4.00% | ~210 |
 | God Emperor | 3.00% | ~157 |
 | Lord of Chaos | 3.00% | ~157 |
-| Arch Mage | 3.00% | ~157 |
 | The Creator | 3.00% | ~157 |
 | The Goddess of Nature | 3.00% | ~157 |
 | Eternal Lord | 3.00% | ~157 |

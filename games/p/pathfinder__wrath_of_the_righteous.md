@@ -1,13 +1,13 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,956 |
-| A Spark | 18.00% | ~2,128 |
+| A Spark | 18.00% | ~2,129 |
 | Burning City | 17.00% | ~2,010 |
 | Defender's Heart | 15.00% | ~1,774 |
 | Mythic Choices | 14.00% | ~1,656 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~355 |
 | The Lady of the Forest | 3.00% | ~318 |
 | Beware Still Water | 3.00% | ~318 |
-| Path of the Demon | 2.00% | ~236 |
-| Path of the Aeon | 2.00% | ~236 |
-| Path of the Lich | 2.00% | ~236 |
-| Capitulation Is Now Moot | 2.00% | ~236 |
-| Your First Big Enemy | 2.00% | ~236 |
-| Truly Important Deed | 2.00% | ~236 |
+| Path of the Demon | 2.00% | ~237 |
+| Path of the Aeon | 2.00% | ~237 |
+| Path of the Lich | 2.00% | ~237 |
+| Capitulation Is Now Moot | 2.00% | ~237 |
+| Your First Big Enemy | 2.00% | ~237 |
+| Truly Important Deed | 2.00% | ~237 |
 | Stay Underground | 2.00% | ~212 |
 | Hanged Man's Notes | 2.00% | ~212 |
 | Sarkoris Will Be Green | 2.00% | ~212 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,825 (Ranked 149)  
+Progressed: 11,826 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 11,771 | 0 |
 | 2023-10-25 | 11,793 | 0 |
 | 2023-10-26 | 11,816 | 0 |
-| 2023-10-27 | 11,825 | 0 |
+| 2023-10-27 | 11,826 | 0 |
 ## Awards
 Max (Character Customization): 1,729  (Ranked 120)  
 Sum: 7,004 (Ranked 118)  

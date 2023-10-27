@@ -1791,9 +1791,9 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 8081,
+  "EOS_Progressed": 8082,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5896,6 +5896,11 @@
       "Time": "2023-10-27T09:07:05.7432574+00:00",
       "NumProgressed": 8081,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T14:07:03.4353865+00:00",
+      "NumProgressed": 8082,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5916,7 +5921,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ach03",
@@ -5924,7 +5929,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3636
+      "UsersEstimate": 3637
     },
     {
       "ID": "ach04",
@@ -5948,7 +5953,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach07",
@@ -6036,7 +6041,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4202
+      "UsersEstimate": 4203
     },
     {
       "ID": "ach18",
@@ -6092,7 +6097,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3798
+      "UsersEstimate": 3799
     },
     {
       "ID": "ach25",
@@ -6108,7 +6113,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ach27",
@@ -6132,7 +6137,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "ach30",
@@ -6196,7 +6201,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "ach38",
@@ -6212,7 +6217,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "ach40",
@@ -6307,7 +6312,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8081,
+      "Progressed": 8082,
       "Completed": 0
     }
   ],
@@ -6315,8 +6320,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:10:30.086905+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:07:03.4353861+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:03:55.2108235+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:10:30.0870282+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:00:21.9699544+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:07:03.4354513+00:00"
 }

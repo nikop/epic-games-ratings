@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 980)  
+Rating: 3.99 (Ranked 981)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.80% | ~1,106 |
 | For the Hoard! | 0.80% | ~1,106 |
 | Scrapbooker | 0.80% | ~1,106 |
+| Hidden Potential | 0.80% | ~1,106 |
 | Expansion in Session | 0.80% | ~1,106 |
 | Trash to Treasure | 0.80% | ~1,106 |
 | Seasoned Journeyman | 0.80% | ~1,106 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flying off the Shelves | 0.70% | ~967 |
 | This Power Level...! | 0.70% | ~967 |
 | Master of Transmutation | 0.70% | ~967 |
-| Hidden Potential | 0.70% | ~967 |
 | Supercharged | 0.70% | ~967 |
 | Cranked up to 11 | 0.70% | ~967 |
 | Fit for a King | 0.70% | ~967 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,202 (Ranked 75)  
+Progressed: 138,207 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 172 (0.12%) (Ranked 251)
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
-| 2023-10-27 | 138,202 | 172 |
+| 2023-10-27 | 138,207 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,451 (Ranked 51)  

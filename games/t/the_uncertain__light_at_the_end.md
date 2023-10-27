@@ -1,13 +1,13 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.82 (Ranked 1,009)  
+Rating: 3.82 (Ranked 1,010)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 50.00% | ~276 |
 | A Friend in Need... | 46.00% | ~253 |
-| Bosom Buddies | 30.00% | ~165 |
+| Bosom Buddies | 31.00% | ~171 |
 | Beat the Heat | 24.00% | ~132 |
 | A Familiar Face | 16.00% | ~88 |
 | Unexpected Consequences | 14.00% | ~77 |

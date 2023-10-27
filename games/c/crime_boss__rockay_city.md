@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 993)  
+Rating: 3.94 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 993)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,360 (Ranked 87)  
+Progressed: 89,361 (Ranked 87)  
 Completed: 53 (0.06%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,16 +237,16 @@ Completed: 53 (0.06%) (Ranked 279)
 | 2023-10-24 | 89,312 | 51 |
 | 2023-10-25 | 89,327 | 52 |
 | 2023-10-26 | 89,347 | 53 |
-| 2023-10-27 | 89,360 | 53 |
+| 2023-10-27 | 89,361 | 53 |
 ## Awards
-Max (Diverse Characters): 510  (Ranked 205)  
-Sum: 2,890 (Ranked 175)  
-Diff (max vs sum): 30  
+Max (Diverse Characters): 512  (Ranked 204)  
+Sum: 2,895 (Ranked 175)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 510 |
+| This game has Diverse Characters | 512 |
+| This game has Quickly Understood Controls | 486 |
 | This game is Highly Recommended | 484 |
-| This game has Quickly Understood Controls | 483 |
 | This game has Challenging Combat | 477 |
 | This game is Extremely Fun | 470 |
 | This game has Amazing Characters | 466 |
@@ -464,3 +464,4 @@ Diff (max vs sum): 30
 | 2023-10-24 | 3.94 | 510 | 2,879 |
 | 2023-10-25 | 3.94 | 510 | 2,883 |
 | 2023-10-26 | 3.94 | 510 | 2,890 |
+| 2023-10-27 | 3.94 | 512 | 2,895 |

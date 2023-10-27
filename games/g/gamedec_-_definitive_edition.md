@@ -1,17 +1,17 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 830)  
+Rating: 4.29 (Ranked 831)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,087 |
-| Powergamer | 27.00% | ~67,584 |
-| Write that down | 25.00% | ~62,578 |
-| Barely scratched the surface | 25.00% | ~62,578 |
-| Guns, lots of guns | 13.00% | ~32,540 |
-| Collector | 12.00% | ~30,037 |
+| I will finish what you started | 28.00% | ~70,088 |
+| Powergamer | 27.00% | ~67,585 |
+| Write that down | 25.00% | ~62,579 |
+| Barely scratched the surface | 25.00% | ~62,579 |
+| Guns, lots of guns | 13.00% | ~32,541 |
+| Collector | 12.00% | ~30,038 |
 | Elementary! | 9.00% | ~22,528 |
 | Griever | 8.00% | ~20,025 |
 | Pumpkin Jack | 8.00% | ~20,025 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~15,019 |
 | Good listener | 5.00% | ~12,516 |
 | Valedictorian | 5.00% | ~12,516 |
-| BOY! | 4.00% | ~10,012 |
-| Ka-ching! | 4.00% | ~10,012 |
-| So you like to read? | 4.00% | ~10,012 |
+| BOY! | 4.00% | ~10,013 |
+| Ka-ching! | 4.00% | ~10,013 |
+| So you like to read? | 4.00% | ~10,013 |
 | Hoarder | 3.00% | ~7,509 |
 | I like to sniff around | 3.00% | ~7,509 |
 | Mind reader | 3.00% | ~7,509 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,503 |
 | Take the blue pill | 1.00% | ~2,503 |
 | The power of three | 1.00% | ~2,503 |
-| It's blue, always blue | 0.80% | ~2,002 |
-| Let's try another | 0.80% | ~2,002 |
-| Home run | 0.80% | ~2,002 |
+| It's blue, always blue | 0.80% | ~2,003 |
+| Let's try another | 0.80% | ~2,003 |
+| Home run | 0.80% | ~2,003 |
 | I have the high ground | 0.70% | ~1,752 |
 | Enjoy these little moments | 0.50% | ~1,252 |
 | Who wouldn't love a troll? | 0.50% | ~1,252 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~501 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,310 (Ranked 55)  
+Progressed: 250,315 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 7 (0.00%) (Ranked 328)
 | 2023-10-24 | 250,107 | 7 |
 | 2023-10-25 | 250,183 | 7 |
 | 2023-10-26 | 250,263 | 7 |
-| 2023-10-27 | 250,310 | 7 |
+| 2023-10-27 | 250,315 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 372)  
 Sum: 86 (Ranked 445)  

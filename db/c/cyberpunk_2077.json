@@ -14252,9 +14252,9 @@
       "Count": 11655
     }
   ],
-  "EOS_Progressed": 894006,
+  "EOS_Progressed": 894015,
   "EOS_Completed": 2717,
-  "EOS_NewPlayers": 1202,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35792,6 +35792,11 @@
       "Time": "2023-10-27T13:07:10.4194001+00:00",
       "NumProgressed": 894006,
       "NumCompleted": 2717
+    },
+    {
+      "Time": "2023-10-27T14:04:07.0667169+00:00",
+      "NumProgressed": 894015,
+      "NumCompleted": 2717
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36130,9 +36135,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8940
+      "UsersEstimate": 17880
     },
     {
       "ID": "YipMan",
@@ -36146,9 +36151,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3576
+      "UsersEstimate": 4470
     },
     {
       "ID": "All the President\u0027s Men",
@@ -36242,9 +36247,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 68
     },
     {
       "ID": "UltimateSurvivor",
@@ -36323,21 +36328,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894006,
+      "Progressed": 894015,
       "Completed": 2717
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22629,
+      "Progressed": 22638,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-27T12:02:17.0498622+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:07:10.4193995+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:04:07.0667164+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:05:58.3442945+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:07:10.4195838+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:02:11.4443345+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:04:07.0669308+00:00"
 }

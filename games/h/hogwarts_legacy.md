@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 119)  
+Rating: 4.76 (Ranked 120)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,13 +26,13 @@ Rating: 4.76 (Ranked 119)
 | Beast Friends | 8.00% | ~23,927 |
 | A Sallow Grave | 8.00% | ~23,927 |
 | Flight the Good Flight | 8.00% | ~23,927 |
-| The Seeker of Knowledge | 6.00% | ~17,945 |
-| The Root of the Problem | 6.00% | ~17,945 |
-| Third Time's a Charm | 6.00% | ~17,945 |
-| Raising Expectations | 6.00% | ~17,945 |
-| The Toast of the Town | 5.00% | ~14,954 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,954 |
-| The Ends Petrify the Means | 5.00% | ~14,954 |
+| The Seeker of Knowledge | 6.00% | ~17,946 |
+| The Root of the Problem | 6.00% | ~17,946 |
+| Third Time's a Charm | 6.00% | ~17,946 |
+| Raising Expectations | 6.00% | ~17,946 |
+| The Toast of the Town | 5.00% | ~14,955 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,955 |
+| The Ends Petrify the Means | 5.00% | ~14,955 |
 | Going Through the Potions | 4.00% | ~11,964 |
 | Room with a View | 4.00% | ~11,964 |
 | The Intrepid Explorer | 4.00% | ~11,964 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,094 |
 | Collector's Edition | 0.30% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,090 (Ranked 48)  
+Progressed: 299,092 (Ranked 48)  
 Completed: 496 (0.17%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 496 (0.17%) (Ranked 241)
 | 2023-10-24 | 298,780 | 492 |
 | 2023-10-25 | 298,885 | 493 |
 | 2023-10-26 | 299,029 | 495 |
-| 2023-10-27 | 299,090 | 496 |
+| 2023-10-27 | 299,092 | 496 |
 ## Awards
 Max (Character Customization): 23,806  (Ranked 17)  
 Sum: 46,729 (Ranked 30)  

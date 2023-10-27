@@ -1,20 +1,20 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.08 (Ranked 954)  
+Rating: 4.08 (Ranked 955)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,929 |
-| World Map | 79.00% | ~1,638 |
-| Temple of Eternals | 57.00% | ~1,182 |
+| Victor | 93.00% | ~1,930 |
+| World Map | 79.00% | ~1,639 |
+| Temple of Eternals | 57.00% | ~1,183 |
 | Prestigious | 54.00% | ~1,120 |
-| Fellowship Power | 42.00% | ~871 |
-| Guild Power | 26.00% | ~539 |
+| Fellowship Power | 42.00% | ~872 |
+| Guild Power | 26.00% | ~540 |
 | Prestigious x10 | 23.00% | ~477 |
 | The game is on | 21.00% | ~436 |
 | Exotic Merchant | 19.00% | ~394 |
-| Dragon Clicker | 18.00% | ~373 |
+| Dragon Clicker | 18.00% | ~374 |
 | Full Party | 17.00% | ~353 |
 | Inspection | 17.00% | ~353 |
 | Miner Clicker | 17.00% | ~353 |
@@ -39,8 +39,8 @@ Rating: 4.08 (Ranked 954)
 | Moving Up The Ladder | 11.00% | ~228 |
 | Relic Of The Past | 11.00% | ~228 |
 | Scroll Master | 11.00% | ~228 |
-| Master Enchanter | 10.00% | ~207 |
-| The father of Dragons | 10.00% | ~207 |
+| Master Enchanter | 10.00% | ~208 |
+| The father of Dragons | 10.00% | ~208 |
 | Here We Go Again | 9.00% | ~187 |
 | Trader | 9.00% | ~187 |
 | Blueprint Upgrades | 8.00% | ~166 |
@@ -65,10 +65,10 @@ Rating: 4.08 (Ranked 954)
 | What lies behind the bush | 4.00% | ~83 |
 | Gear Enchanting | 3.00% | ~62 |
 | Guardian Master | 3.00% | ~62 |
-| Cauldron Liberator | 2.00% | ~41 |
-| Enchanting skill x5 | 2.00% | ~41 |
-| Pokerface | 2.00% | ~41 |
-| Titan Power | 2.00% | ~41 |
+| Cauldron Liberator | 2.00% | ~42 |
+| Enchanting skill x5 | 2.00% | ~42 |
+| Pokerface | 2.00% | ~42 |
+| Titan Power | 2.00% | ~42 |
 | Angel Power | 1.00% | ~21 |
 | Conqueror | 1.00% | ~21 |
 | Enhanced War Machines | 1.00% | ~21 |
@@ -81,7 +81,7 @@ Rating: 4.08 (Ranked 954)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,074 (Ranked 212)  
+Progressed: 2,075 (Ranked 212)  
 Completed: 2 (0.10%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 2 (0.10%) (Ranked 258)
 | 2023-10-24 | 2,069 | 2 |
 | 2023-10-25 | 2,071 | 2 |
 | 2023-10-26 | 2,073 | 2 |
-| 2023-10-27 | 2,074 | 2 |
+| 2023-10-27 | 2,075 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 483)  
 Sum: 77 (Ranked 452)  

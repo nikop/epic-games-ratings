@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 962)  
+Rating: 4.06 (Ranked 963)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.20% | ~466 |
 | A Persistent Buzzing | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
+| Unearthed Evil | 0.20% | ~466 |
 | The Ring of Regeneration | 0.20% | ~466 |
+| The Crumbling Temple | 0.20% | ~466 |
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
@@ -204,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~233 |
 | Azaka's Procession - Part 2 | 0.10% | ~233 |
 | Acererak's Puzzle | 0.10% | ~199 |
-| Unearthed Evil | 0.10% | ~233 |
 | No Time To Rest | 0.10% | ~233 |
 | The Mists of Ravenloft | 0.10% | ~233 |
 | The Hunt for Owl-y | 0.10% | ~233 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~233 |
 | Our Time To Shine | 0.10% | ~233 |
 | Review by the Blackstaff | 0.10% | ~199 |
-| The Crumbling Temple | 0.10% | ~233 |
 | The Death Curse | 0.10% | ~233 |
 | Treasure Hunters | 0.10% | ~233 |
 | The Guardian of Orolunga | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,928 (Ranked 61)  
+Progressed: 232,934 (Ranked 61)  
 Completed: 2,389 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -725,7 +725,7 @@ Completed: 2,389 (1.03%) (Ranked 149)
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
-| 2023-10-27 | 232,928 | 2,389 |
+| 2023-10-27 | 232,934 | 2,389 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
 Sum: 32,233 (Ranked 41)  

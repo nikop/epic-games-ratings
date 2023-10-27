@@ -1,27 +1,27 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.39 (Ranked 739)  
+Rating: 4.39 (Ranked 740)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~758,026 |
-| The ABCs | 43.00% | ~665,206 |
-| Home Run | 41.00% | ~634,266 |
-| Keeps Coming Off | 41.00% | ~634,266 |
-| Guts | 20.00% | ~309,398 |
-| Meat Grinder | 19.00% | ~293,928 |
-| Burning Man | 16.00% | ~247,519 |
-| Lived to Tell the Tale | 12.00% | ~185,639 |
-| Highlander | 10.00% | ~154,699 |
-| Unstoppable | 10.00% | ~154,699 |
-| Just a Scratch | 9.00% | ~139,229 |
-| Tough Nut to Crack | 6.00% | ~92,819 |
-| Yoink | 6.00% | ~92,819 |
-| Long List of Names | 4.00% | ~61,880 |
-| Pyromaniac | 4.00% | ~61,880 |
-| The Queen of Weapons | 4.00% | ~61,880 |
-| This isn’t Sparta | 3.00% | ~46,410 |
+| Justice from the Grave | 49.00% | ~758,038 |
+| The ABCs | 43.00% | ~665,217 |
+| Home Run | 41.00% | ~634,277 |
+| Keeps Coming Off | 41.00% | ~634,277 |
+| Guts | 20.00% | ~309,403 |
+| Meat Grinder | 19.00% | ~293,933 |
+| Burning Man | 16.00% | ~247,523 |
+| Lived to Tell the Tale | 12.00% | ~185,642 |
+| Highlander | 10.00% | ~154,702 |
+| Unstoppable | 10.00% | ~154,702 |
+| Just a Scratch | 9.00% | ~139,232 |
+| Tough Nut to Crack | 6.00% | ~92,821 |
+| Yoink | 6.00% | ~92,821 |
+| Long List of Names | 4.00% | ~61,881 |
+| Pyromaniac | 4.00% | ~61,881 |
+| The Queen of Weapons | 4.00% | ~61,881 |
+| This isn’t Sparta | 3.00% | ~46,411 |
 | Crybaby | 2.00% | ~30,940 |
 | Eagle Eye | 2.00% | ~30,940 |
 | I Know Kung Fu | 2.00% | ~30,940 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 739)
 | That’s No Ordinary Cold | 0.10% | ~1,547 |
 | Stairway to Hell | 0.10% | ~1,547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,546,991 (Ranked 8)  
+Progressed: 1,547,017 (Ranked 8)  
 Completed: 67 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 67 (0.00%) (Ranked 328)
 | 2023-10-24 | 1,545,837 | 67 |
 | 2023-10-25 | 1,546,331 | 67 |
 | 2023-10-26 | 1,546,785 | 67 |
-| 2023-10-27 | 1,546,991 | 67 |
+| 2023-10-27 | 1,547,017 | 67 |
 ## Awards
 Max (Diverse Characters): 842  (Ranked 161)  
 Sum: 3,946 (Ranked 151)  

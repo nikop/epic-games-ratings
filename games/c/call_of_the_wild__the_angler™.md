@@ -1,25 +1,25 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 921)  
+Rating: 4.16 (Ranked 922)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,846 |
-| Hey Good Hookin | 69.00% | ~4,232 |
-| I'm on a Boat! | 60.00% | ~3,680 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,435 |
-| Scaling up | 56.00% | ~3,435 |
-| More Fish in the Sea | 50.00% | ~3,067 |
+| Fish Just Got Reel | 79.00% | ~4,847 |
+| Hey Good Hookin | 69.00% | ~4,233 |
+| I'm on a Boat! | 60.00% | ~3,681 |
+| Can you smell what the Rod is Hooking | 56.00% | ~3,436 |
+| Scaling up | 56.00% | ~3,436 |
+| More Fish in the Sea | 50.00% | ~3,068 |
 | Ready to Rod and Roll | 47.00% | ~2,883 |
-| Fish Out of Water | 36.00% | ~2,208 |
-| License to Gill | 33.00% | ~2,024 |
+| Fish Out of Water | 36.00% | ~2,209 |
+| License to Gill | 33.00% | ~2,025 |
 | Things that go Splash in the Night | 32.00% | ~1,963 |
 | Goldfish? | 29.00% | ~1,779 |
 | Going for Gold | 27.00% | ~1,656 |
 | I'm Hooked! | 20.00% | ~1,227 |
-| Diamond in the Rough | 13.00% | ~797 |
+| Diamond in the Rough | 13.00% | ~798 |
 | More than a Tourist | 11.00% | ~675 |
 | School's Out for Summer | 11.00% | ~675 |
 | Hook, Line and Sinker | 8.00% | ~491 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~6 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,134 (Ranked 173)  
+Progressed: 6,135 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 6,117 | 0 |
 | 2023-10-25 | 6,118 | 0 |
 | 2023-10-26 | 6,132 | 0 |
-| 2023-10-27 | 6,134 | 0 |
+| 2023-10-27 | 6,135 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 460)  
 Sum: 186 (Ranked 400)  

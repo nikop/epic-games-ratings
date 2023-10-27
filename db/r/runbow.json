@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250677,
+  "EOS_Progressed": 250678,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -17477,6 +17477,11 @@
       "Time": "2023-10-27T13:12:32.0682297+00:00",
       "NumProgressed": 250677,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T14:09:31.2979432+00:00",
+      "NumProgressed": 250678,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17592,7 +17597,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50135
+      "UsersEstimate": 50136
     },
     {
       "ID": "didYourTime",
@@ -17728,7 +17733,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125338
+      "UsersEstimate": 125339
     },
     {
       "ID": "notScared",
@@ -17855,7 +17860,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250677,
+      "Progressed": 250678,
       "Completed": 6
     }
   ],
@@ -17863,8 +17868,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:12:32.068229+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:09:31.2979426+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:02:40.9688445+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:12:32.0683797+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:59:20.9240168+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:09:31.2980812+00:00"
 }

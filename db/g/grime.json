@@ -1249,9 +1249,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154912,
+  "EOS_Progressed": 154921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1559,
+  "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13259,6 +13259,11 @@
       "Time": "2023-10-27T13:08:48.5210975+00:00",
       "NumProgressed": 154912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T14:05:34.3536441+00:00",
+      "NumProgressed": 154921,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13334,7 +13339,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13366,7 +13371,7 @@
       "Name": "Shapely",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -13390,7 +13395,7 @@
       "Name": "Host",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -13486,7 +13491,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13494,7 +13499,7 @@
       "Name": "Predator",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -13606,7 +13611,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MISC_FINISHNG",
@@ -13614,7 +13619,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -13622,7 +13627,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -13630,28 +13635,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154495,
+      "Progressed": 154504,
       "Completed": 1178
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154912,
+      "Progressed": 154921,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T19:00:19.7299619+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:08:48.5210969+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:05:34.3536434+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:05:38.8169174+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:08:48.521247+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:01:51.5714672+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:05:34.3537488+00:00"
 }

@@ -1415,9 +1415,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428664,
+  "EOS_Progressed": 428665,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13925,6 +13925,11 @@
       "Time": "2023-10-27T13:13:07.6597855+00:00",
       "NumProgressed": 428664,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-10-27T14:10:02.75697+00:00",
+      "NumProgressed": 428665,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 41,
@@ -13952,7 +13957,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257198
+      "UsersEstimate": 257199
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -13992,7 +13997,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128599
+      "UsersEstimate": 128600
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -14016,7 +14021,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257198
+      "UsersEstimate": 257199
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -14072,7 +14077,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201472
+      "UsersEstimate": 201473
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -14080,7 +14085,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30006
+      "UsersEstimate": 30007
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -14104,7 +14109,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407231
+      "UsersEstimate": 407232
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -14120,7 +14125,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308638
+      "UsersEstimate": 308639
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -14136,7 +14141,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300065
+      "UsersEstimate": 300066
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -14152,7 +14157,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342931
+      "UsersEstimate": 342932
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -14160,7 +14165,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30006
+      "UsersEstimate": 30007
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -14184,7 +14189,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197185
+      "UsersEstimate": 197186
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -14200,7 +14205,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115739
+      "UsersEstimate": 115740
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -14240,7 +14245,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115739
+      "UsersEstimate": 115740
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -14263,15 +14268,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428664,
+      "Progressed": 428665,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-27T07:58:25.1369284+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:13:07.6597845+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:10:02.7569692+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.8585866+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:02:37.4795415+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:13:07.6598865+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:59:17.4794092+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:10:02.7570696+00:00"
 }

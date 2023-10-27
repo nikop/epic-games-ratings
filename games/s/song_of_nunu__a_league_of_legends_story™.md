@@ -6,27 +6,27 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 86.00% | ~31 |
 | Cutie Poro | 72.00% | ~26 |
-| Better On Ice | 67.00% | ~24 |
+| Better On Ice | 69.00% | ~25 |
+| Notai Notes | 67.00% | ~24 |
 | Blue Dreams | 64.00% | ~23 |
 | He's Famous! | 64.00% | ~23 |
 | I Broke It | 64.00% | ~23 |
-| Notai Notes | 64.00% | ~23 |
 | True Legends | 61.00% | ~22 |
-| Krugmazing | 56.00% | ~20 |
-| Never Gets Old | 56.00% | ~20 |
-| The Fire Below the Mountain | 56.00% | ~20 |
+| Krugmazing | 58.00% | ~21 |
+| Never Gets Old | 58.00% | ~21 |
+| The Fire Below the Mountain | 58.00% | ~21 |
 | On The Rocks | 53.00% | ~19 |
+| No Bites | 50.00% | ~18 |
 | Moneyball | 50.00% | ~18 |
-| No Bites | 47.00% | ~17 |
 | Vertical Power | 47.00% | ~17 |
 | Iceborn | 44.00% | ~16 |
 | Rhythm Of Willump | 44.00% | ~16 |
-| Boom Things | 39.00% | ~14 |
+| The Pied Piper Of Freljord | 44.00% | ~16 |
+| Boom Things | 42.00% | ~15 |
+| Snowball Fightn't | 42.00% | ~15 |
+| Tear of Freedom | 39.00% | ~14 |
 | Snowy Poro | 39.00% | ~14 |
-| The Pied Piper Of Freljord | 39.00% | ~14 |
 | My Darkest Day | 36.00% | ~13 |
-| Tear of Freedom | 36.00% | ~13 |
-| Snowball Fightn't | 36.00% | ~13 |
 | 3000 Year Blackout | 33.00% | ~12 |
 | Yummy | 33.00% | ~12 |
 | The Relentless Storm | 33.00% | ~12 |
@@ -41,12 +41,12 @@
 | You Get Used To It | 28.00% | ~10 |
 | Freeze The Ice Witch | 28.00% | ~10 |
 | It Is Not Over | 28.00% | ~10 |
+| Handy Yeti | 25.00% | ~9 |
 | We Are Speed | 25.00% | ~9 |
 | Braum's Poro Ranch | 22.00% | ~8 |
 | One From The Heart | 22.00% | ~8 |
-| Handy Yeti | 22.00% | ~8 |
+| Sneaky Notai | 19.00% | ~7 |
 | Rock Star | 19.00% | ~7 |
-| Sneaky Notai | 17.00% | ~6 |
 | It Was Him | 17.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 474)  

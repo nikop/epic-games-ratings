@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Eat My Dust | 43.00% | ~765 |
 | First Love | 42.00% | ~748 |
-| Eat My Dust | 42.00% | ~748 |
 | Clean Race | 41.00% | ~730 |
 | Hear That Roar! | 38.00% | ~676 |
 | Rivals to the End | 28.00% | ~498 |
@@ -19,8 +19,8 @@
 | I'm Here Too! | 17.00% | ~303 |
 | Go-Faster Stripes | 16.00% | ~285 |
 | We've Just Begun | 10.00% | ~178 |
+| Stamina Star | 8.00% | ~142 |
 | Is It the Right Size? | 8.00% | ~142 |
-| Stamina Star | 7.00% | ~125 |
 | Make It Your Own! | 5.00% | ~89 |
 | Evangelist | 5.00% | ~89 |
 | I Make the Rules! | 4.00% | ~71 |

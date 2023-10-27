@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7210,
+  "EOS_Progressed": 7211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5372,6 +5372,11 @@
       "Time": "2023-10-27T13:12:55.6935241+00:00",
       "NumProgressed": 7210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T14:09:51.9558328+00:00",
+      "NumProgressed": 7211,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5384,7 +5389,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5392,7 +5397,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5408,7 +5413,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5470,9 +5475,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1947
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -5480,7 +5485,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -5520,7 +5525,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5536,7 +5541,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5584,7 +5589,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -5600,7 +5605,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -5663,7 +5668,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7210,
+      "Progressed": 7211,
       "Completed": 0
     }
   ],
@@ -5671,8 +5676,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:12:55.6935234+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:09:51.9558323+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:02:32.7639081+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:12:55.6935931+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:59:13.3249667+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:09:51.9558941+00:00"
 }

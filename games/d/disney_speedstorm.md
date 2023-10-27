@@ -1,20 +1,20 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 699)  
+Rating: 4.42 (Ranked 698)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,948 |
-| IT MAKES BOOM! | 3.00% | ~7,769 |
-| EXTRA BOOST | 2.00% | ~5,179 |
-| PROTECTED | 2.00% | ~5,179 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,590 |
-| AGGRESSIVE RACER | 1.00% | ~2,590 |
-| PRO | 1.00% | ~2,590 |
-| A TIGER'S FEAR | 0.90% | ~2,331 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,295 |
-| ACE SPEEDSTER | 0.50% | ~1,295 |
+| ROOKIE | 5.00% | ~12,955 |
+| IT MAKES BOOM! | 3.00% | ~7,773 |
+| EXTRA BOOST | 2.00% | ~5,182 |
+| PROTECTED | 2.00% | ~5,182 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,591 |
+| AGGRESSIVE RACER | 1.00% | ~2,591 |
+| PRO | 1.00% | ~2,591 |
+| A TIGER'S FEAR | 0.90% | ~2,332 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,296 |
+| ACE SPEEDSTER | 0.50% | ~1,296 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,036 |
 | TRAINING HARD | 0.30% | ~777 |
 | RELEASE THE KRAKEN | 0.30% | ~777 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 699)
 | ACE TRICKSTER | 0.20% | ~518 |
 | FRAMED! | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,968 (Ranked 52)  
+Progressed: 259,102 (Ranked 52)  
 Completed: 241 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 241 (0.09%) (Ranked 264)
 | 2023-10-24 | 253,504 | 241 |
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
-| 2023-10-27 | 258,968 | 241 |
+| 2023-10-27 | 259,102 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 43  (Ranked 440)  
 Sum: 317 (Ranked 350)  

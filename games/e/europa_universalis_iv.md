@@ -6,40 +6,40 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,613 |
-| Until death do us apart | 4.00% | ~17,613 |
-| Victorious! | 4.00% | ~17,613 |
-| That's a Grand Navy | 3.00% | ~13,210 |
-| That is mine! | 3.00% | ~13,210 |
-| Brothers in Arms | 2.00% | ~8,807 |
-| Cold War | 2.00% | ~8,807 |
-| For the Glory | 2.00% | ~8,807 |
-| Seriously?! | 2.00% | ~8,807 |
-| Defender of the Faith | 1.00% | ~4,403 |
-| It's all about luck | 1.00% | ~4,403 |
-| It's all about the money | 1.00% | ~4,403 |
-| Respected | 1.00% | ~4,403 |
-| The Princess is in this Castle | 1.00% | ~4,403 |
-| True Catholic | 1.00% | ~4,403 |
-| Truly Divine Ruler | 1.00% | ~4,403 |
+| That's a Grand Army | 4.00% | ~17,615 |
+| Until death do us apart | 4.00% | ~17,615 |
+| Victorious! | 4.00% | ~17,615 |
+| That's a Grand Navy | 3.00% | ~13,211 |
+| That is mine! | 3.00% | ~13,211 |
+| Brothers in Arms | 2.00% | ~8,808 |
+| Cold War | 2.00% | ~8,808 |
+| For the Glory | 2.00% | ~8,808 |
+| Seriously?! | 2.00% | ~8,808 |
+| Defender of the Faith | 1.00% | ~4,404 |
+| It's all about luck | 1.00% | ~4,404 |
+| It's all about the money | 1.00% | ~4,404 |
+| Respected | 1.00% | ~4,404 |
+| The Princess is in this Castle | 1.00% | ~4,404 |
+| True Catholic | 1.00% | ~4,404 |
+| Truly Divine Ruler | 1.00% | ~4,404 |
 | Blockader | 0.90% | ~3,963 |
 | Double the Love | 0.80% | ~3,523 |
 | Royal Authority | 0.80% | ~3,523 |
 | Total Control | 0.80% | ~3,523 |
-| My armies are invincible! | 0.70% | ~3,082 |
+| My armies are invincible! | 0.70% | ~3,083 |
 | Agressive Expander | 0.60% | ~2,642 |
 | Azur semé de lis or | 0.50% | ~2,202 |
 | City of Cities | 0.50% | ~2,202 |
 | Combined Arms | 0.50% | ~2,202 |
 | This navy can take it all | 0.50% | ~2,202 |
-| Bright Spark | 0.40% | ~1,761 |
-| The Emperors new clothes | 0.40% | ~1,761 |
-| Factionalism | 0.40% | ~1,761 |
-| Gentle Persuasion | 0.40% | ~1,761 |
-| Isn't this the way to India? | 0.40% | ~1,761 |
-| Queen of Conquest | 0.40% | ~1,761 |
-| The Five Colonies | 0.40% | ~1,761 |
-| Trustworthy | 0.40% | ~1,761 |
+| Bright Spark | 0.40% | ~1,762 |
+| The Emperors new clothes | 0.40% | ~1,762 |
+| Factionalism | 0.40% | ~1,762 |
+| Gentle Persuasion | 0.40% | ~1,762 |
+| Isn't this the way to India? | 0.40% | ~1,762 |
+| Queen of Conquest | 0.40% | ~1,762 |
+| The Five Colonies | 0.40% | ~1,762 |
+| Trustworthy | 0.40% | ~1,762 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,321 |
 | Down Under | 0.30% | ~1,321 |
 | Electable! | 0.30% | ~1,321 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,335 (Ranked 41)  
+Progressed: 440,378 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,10 +551,10 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
-| 2023-10-27 | 440,335 | 1 |
+| 2023-10-27 | 440,378 | 1 |
 ## Awards
 Max (Educational): 6,700  (Ranked 55)  
-Sum: 55,011 (Ranked 24)  
+Sum: 55,027 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -563,7 +563,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 6,374 |
 | This game has Challenging Combat | 6,329 |
 | This game is Extremely Fun | 6,314 |
-| This game is Relaxing | 6,152 |
+| This game is Relaxing | 6,168 |
 | This game has Competitive Players | 5,998 |
 | This game has Amazing Storytelling | 5,597 |
 | This game has Amazing Characters | 5,163 |
@@ -854,4 +854,4 @@ Diff (max vs sum): 31
 | 2023-10-24 | 4.69 | - | 6,667 | 54,745 |
 | 2023-10-25 | 4.69 | - | 6,676 | 54,866 |
 | 2023-10-26 | 4.69 | - | 6,687 | 54,973 |
-| 2023-10-27 | 4.69 | - | 6,700 | 55,011 |
+| 2023-10-27 | 4.69 | - | 6,700 | 55,027 |

@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 378)  
 ## Awards
 Max (Extremely Fun): 327  (Ranked 238)  
-Sum: 2,406 (Ranked 190)  
+Sum: 2,407 (Ranked 190)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 48
 | This game has Amazing Storytelling | 286 |
 | This game has Quickly Understood Controls | 276 |
 | This game is Highly Recommended | 271 |
-| This game has Unique Visuals | 268 |
+| This game has Unique Visuals | 269 |
 | This game has Diverse Characters | 261 |
 | This game has Amazing Characters | 256 |
 | This game has a Creative Community | 162 |
@@ -81,3 +81,4 @@ Diff (max vs sum): 48
 | 2023-10-12 | 4.61 | 325 | 2,402 |
 | 2023-10-13 | 4.61 | 325 | 2,404 |
 | 2023-10-20 | 4.61 | 327 | 2,406 |
+| 2023-10-27 | 4.61 | 327 | 2,407 |

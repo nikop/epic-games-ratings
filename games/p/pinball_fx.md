@@ -1,24 +1,24 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 962)  
+Rating: 4.06 (Ranked 963)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~225,357 |
-| I know the Rules | 35.00% | ~96,189 |
-| I Found it! | 11.00% | ~30,231 |
-| Contender | 10.00% | ~27,483 |
-| First but not Last | 4.00% | ~10,993 |
+| Ball Launched | 82.00% | ~225,371 |
+| I know the Rules | 35.00% | ~96,195 |
+| I Found it! | 11.00% | ~30,233 |
+| Contender | 10.00% | ~27,484 |
+| First but not Last | 4.00% | ~10,994 |
 | Ready Steady Score | 3.00% | ~8,245 |
 | Dress Code | 3.00% | ~8,245 |
 | Full Loot Madness | 2.00% | ~5,497 |
 | My Table, my Rules | 1.00% | ~2,748 |
 | Nine Zeroes | 1.00% | ~2,748 |
-| Shiny Memento | 0.30% | ~824 |
-| Pinball Hoarder | 0.30% | ~824 |
-| Interior Designer | 0.30% | ~824 |
+| Shiny Memento | 0.30% | ~825 |
+| Pinball Hoarder | 0.30% | ~825 |
+| Interior Designer | 0.30% | ~825 |
 | Table Mastered, part 10 | 0.10% | ~275 |
 | Medal Hunter | 0.10% | ~275 |
 | Medal Wizard | 0.10% | ~275 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,826 (Ranked 51)  
+Progressed: 274,843 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 273,989 | 0 |
 | 2023-10-25 | 274,323 | 0 |
 | 2023-10-26 | 274,627 | 0 |
-| 2023-10-27 | 274,826 | 0 |
+| 2023-10-27 | 274,843 | 0 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 282)  
 Sum: 1,579 (Ranked 225)  

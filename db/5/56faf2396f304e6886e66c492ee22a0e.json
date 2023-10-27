@@ -188,9 +188,9 @@
       "ID": "ACHIEVEMENT_Ach_PotatoChip",
       "SetID": "70j9o42",
       "Name": "Not My Potatoes!",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_Ach_SpeedrunFail",
@@ -444,9 +444,9 @@
       "ID": "ACHIEVEMENT_Team_Fumi",
       "SetID": "70j9o42",
       "Name": "Team Fumi",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_TechSavvy",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-27T13:07:10.0842299+00:00",
+  "LastChanged_Achievements": "2023-10-27T14:04:06.8002347+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.9704283+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:04:45.580721+00:00",
-  "LastUpdate_Achievements": "2023-10-27T13:07:10.0842609+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:01:06.3810016+00:00",
+  "LastUpdate_Achievements": "2023-10-27T14:04:06.8002708+00:00"
 }

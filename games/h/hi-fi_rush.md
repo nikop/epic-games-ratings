@@ -26,10 +26,10 @@ Rating: 4.86 (Ranked 28)
 | Time to pay up! | 8.00% | ~334 |
 | You must like calling me in, Chai | 8.00% | ~334 |
 | Out in a puff of smoke | 8.00% | ~334 |
+| Does that say weakpoint? | 8.00% | ~334 |
 | NOW we got a kickass hideout! | 8.00% | ~216 |
 | Who's the boss now? | 7.00% | ~292 |
 | Perfecter Parry-er! | 7.00% | ~292 |
-| Does that say weakpoint? | 7.00% | ~292 |
 | I have to read these things? | 6.00% | ~251 |
 | Well that was a rush! | 5.00% | ~209 |
 | That's a lot of junk metal… | 5.00% | ~209 |
