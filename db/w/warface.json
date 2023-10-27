@@ -2,10 +2,10 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1000,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 163,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -3826,11 +3826,17 @@
       "Rating": 3.9,
       "NumberOfAwards": 3332,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2023-10-27T13:03:47.967063+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3334,
+      "NumberOfAwardsMax": 431
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3332,
-  "NumberOfAwardsMax": 430,
+  "NumberOfAwards": 3334,
+  "NumberOfAwardsMax": 431,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3873,7 +3879,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 430
+      "Count": 431
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3891,7 +3897,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 339
+      "Count": 340
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3911,8 +3917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-10-26T16:59:07.8264436+00:00",
+  "LastChanged": "2023-10-27T13:03:47.9670627+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.4264639+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:08.455533+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:32.5296425+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:03:47.9670636+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:12:07.2942773+00:00"
 }

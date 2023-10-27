@@ -2,10 +2,10 @@
   "ID": "fa0c74ef7780498fb222dcd099bf82a2",
   "Name": "The Eternal Cylinder",
   "ProductSlug": "the-eternal-cylinder",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -415,6 +415,6 @@
   "FirstSeen": "2022-07-22T20:17:08.6088333+00:00",
   "LastChanged": "2023-05-29T07:59:43.5296737+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.7321159+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:54.3311497+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:39.7516121+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:02:37.1005798+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:12:14.8952285+00:00"
 }

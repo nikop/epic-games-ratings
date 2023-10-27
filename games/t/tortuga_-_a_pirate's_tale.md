@@ -1,17 +1,17 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.79 (Ranked 1,015)  
+Rating: 3.79 (Ranked 1,016)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eeligally Ambitious | 95.00% | ~16,026 |
-| No Half Measures | 87.00% | ~14,676 |
-| Personal Matter | 86.00% | ~14,507 |
+| No Half Measures | 87.00% | ~14,677 |
+| Personal Matter | 86.00% | ~14,508 |
 | But You Have Heard of Me | 72.00% | ~12,146 |
 | Double the Barrels, double the Fun | 55.00% | ~9,278 |
 | Pimp My Glide | 49.00% | ~8,266 |
-| ... And Where Do the Stories Come From? | 41.00% | ~6,916 |
+| ... And Where Do the Stories Come From? | 41.00% | ~6,917 |
 | House Party! | 35.00% | ~5,904 |
 | Make It Rain | 23.00% | ~3,880 |
 | Curse of the Seven Seas | 22.00% | ~3,711 |
@@ -21,7 +21,7 @@ Rating: 3.79 (Ranked 1,015)
 | Sharing Is Caring | 10.00% | ~1,687 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,350 |
 | Morally Flexible | 6.00% | ~1,012 |
-| Fishing for Compliments | 5.00% | ~843 |
+| Fishing for Compliments | 5.00% | ~844 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~506 |
 | A True Dandy | 2.00% | ~337 |
 | A New Legend Awaits | 1.00% | ~169 |
@@ -32,7 +32,7 @@ Rating: 3.79 (Ranked 1,015)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,869 (Ranked 136)  
+Progressed: 16,870 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 1 (0.01%) (Ranked 308)
 | 2023-10-24 | 16,862 | 0 |
 | 2023-10-25 | 16,868 | 1 |
 | 2023-10-26 | 16,869 | 1 |
+| 2023-10-27 | 16,870 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

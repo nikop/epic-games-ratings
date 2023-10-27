@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.62 (Ranked 360)  
+Rating: 4.62 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 360)
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 911 (Ranked 251)  
-Completed: 6 (0.66%) (Ranked 169)  
+Completed: 6 (0.66%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

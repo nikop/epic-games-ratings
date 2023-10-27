@@ -1406,9 +1406,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130138,
+  "EOS_Progressed": 130139,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20211,6 +20211,11 @@
       "Time": "2023-10-27T12:08:05.8257464+00:00",
       "NumProgressed": 130138,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-27T13:11:41.004891+00:00",
+      "NumProgressed": 130139,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20270,7 +20275,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11712
+      "UsersEstimate": 11713
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -20541,15 +20546,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130138,
+      "Progressed": 130139,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-26T16:59:51.8578507+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:08:05.8257457+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:11:41.0048905+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:01:02.2249703+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:05.8258995+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:04:46.5234475+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:11:41.0050684+00:00"
 }

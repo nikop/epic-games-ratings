@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 325)  
+Rating: 4.64 (Ranked 326)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,6 +13,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.50% | ~4,470 |
 | Gun Fu | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
+| The Hermit | 0.50% | ~4,470 |
 | True Soldier | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
@@ -20,13 +21,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
-| The Hermit | 0.40% | ~3,576 |
+| Life of the Road | 0.40% | ~3,576 |
 | The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
 | Legend of The Afterlife | 0.40% | ~3,576 |
-| Spin Doctor | 0.40% | ~90 |
+| Spin Doctor | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
 | To Protect and Serve | 0.30% | ~2,682 |
@@ -34,7 +35,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.30% | ~2,682 |
 | Mean Streets | 0.30% | ~2,682 |
 | Christmas Tree Attack | 0.30% | ~2,682 |
-| Life of the Road | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Fool | 0.30% | ~2,682 |
 | The Lovers | 0.30% | ~2,682 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,000 (Ranked 15)  
+Progressed: 894,006 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,000 | 2,717 |
+| 2023-10-27 | 894,006 | 2,717 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 328,911 (Ranked 10)  

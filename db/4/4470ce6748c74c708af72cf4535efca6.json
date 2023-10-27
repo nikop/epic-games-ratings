@@ -741,9 +741,9 @@
       "ID": "65",
       "SetID": "5e3maia",
       "Name": "True Lover",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "66",
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:07:44.0162349+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:11:19.213132+00:00",
   "LastUpdate_AppInfo": "2023-10-21T02:11:11.3050525+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:01:28.7814056+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:07:44.0163637+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:05:08.9610064+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:11:19.2132151+00:00"
 }

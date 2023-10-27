@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 82.00% | ~248 |
-| Shelter Escape | 81.00% | ~245 |
+| Shelter Escape | 82.00% | ~248 |
 | The First Bond | 73.00% | ~220 |
 | Novice Scavenger | 66.00% | ~199 |
 | Master Craftsman | 53.00% | ~160 |
@@ -20,7 +20,7 @@
 | Truebro | 22.00% | ~66 |
 | Min's Promise | 21.00% | ~63 |
 | Sia's Promise | 20.00% | ~60 |
-| Romantic | 16.00% | ~48 |
+| Romantic | 17.00% | ~51 |
 | TentacleMAN | 11.00% | ~33 |
 | Yohan's Promise | 5.00% | ~15 |
 | Plushyboy | 5.00% | ~15 |
@@ -31,7 +31,7 @@
 | Bond Lord | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 302 (Ranked 325)  
-Completed: 2 (0.66%) (Ranked 169)  
+Completed: 2 (0.66%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

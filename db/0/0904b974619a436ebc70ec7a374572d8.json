@@ -2,9 +2,9 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-10-27T12:09:13.6117526+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T13:12:49.13285+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -78,7 +83,7 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -86,7 +91,7 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -94,7 +99,7 @@
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "ach_picklock24",
       "SetID": "753ghg2",
       "Name": "Shadow",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -255,13 +260,13 @@
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:09:13.6117516+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:12:49.1328495+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.5344119+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:13.5805811+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:09:13.6117834+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:03:53.8234951+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:12:49.1328678+00:00"
 }

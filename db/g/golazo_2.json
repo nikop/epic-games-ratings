@@ -2,7 +2,7 @@
   "ID": "9d663979369b4467bafbaadac1b569b6",
   "Name": "Golazo 2",
   "ProductSlug": "golazo-2-0b1701",
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.0425425+00:00",
   "LastChanged": "2023-03-31T05:58:22.0425425+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.2654899+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:14.3623002+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:04:32.6043027+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:57.5320253+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:08:05.6385092+00:00"
 }

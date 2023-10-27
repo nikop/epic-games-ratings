@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 225)  
+Rating: 4.69 (Ranked 226)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,612 |
-| Until death do us apart | 4.00% | ~17,612 |
-| Victorious! | 4.00% | ~17,612 |
-| That's a Grand Navy | 3.00% | ~13,209 |
-| That is mine! | 3.00% | ~13,209 |
-| Brothers in Arms | 2.00% | ~8,806 |
-| Cold War | 2.00% | ~8,806 |
-| For the Glory | 2.00% | ~8,806 |
-| Seriously?! | 2.00% | ~8,806 |
+| That's a Grand Army | 4.00% | ~17,613 |
+| Until death do us apart | 4.00% | ~17,613 |
+| Victorious! | 4.00% | ~17,613 |
+| That's a Grand Navy | 3.00% | ~13,210 |
+| That is mine! | 3.00% | ~13,210 |
+| Brothers in Arms | 2.00% | ~8,807 |
+| Cold War | 2.00% | ~8,807 |
+| For the Glory | 2.00% | ~8,807 |
+| Seriously?! | 2.00% | ~8,807 |
 | Defender of the Faith | 1.00% | ~4,403 |
 | It's all about luck | 1.00% | ~4,403 |
 | It's all about the money | 1.00% | ~4,403 |
@@ -23,15 +23,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,403 |
 | Truly Divine Ruler | 1.00% | ~4,403 |
 | Blockader | 0.90% | ~3,963 |
-| Double the Love | 0.80% | ~3,522 |
-| Royal Authority | 0.80% | ~3,522 |
-| Total Control | 0.80% | ~3,522 |
+| Double the Love | 0.80% | ~3,523 |
+| Royal Authority | 0.80% | ~3,523 |
+| Total Control | 0.80% | ~3,523 |
 | My armies are invincible! | 0.70% | ~3,082 |
 | Agressive Expander | 0.60% | ~2,642 |
-| Azur semé de lis or | 0.50% | ~2,201 |
-| City of Cities | 0.50% | ~2,201 |
-| Combined Arms | 0.50% | ~2,201 |
-| This navy can take it all | 0.50% | ~2,201 |
+| Azur semé de lis or | 0.50% | ~2,202 |
+| City of Cities | 0.50% | ~2,202 |
+| Combined Arms | 0.50% | ~2,202 |
+| This navy can take it all | 0.50% | ~2,202 |
 | Bright Spark | 0.40% | ~1,761 |
 | The Emperors new clothes | 0.40% | ~1,761 |
 | Factionalism | 0.40% | ~1,761 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,288 (Ranked 41)  
+Progressed: 440,335 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,14 +551,14 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
-| 2023-10-27 | 440,288 | 1 |
+| 2023-10-27 | 440,335 | 1 |
 ## Awards
-Max (Educational): 6,687  (Ranked 56)  
-Sum: 54,998 (Ranked 24)  
-Diff (max vs sum): 32  
+Max (Educational): 6,700  (Ranked 55)  
+Sum: 55,011 (Ranked 24)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,687 |
+| This game is Educational | 6,700 |
 | This game has Diverse Characters | 6,384 |
 | This game is Highly Recommended | 6,374 |
 | This game has Challenging Combat | 6,329 |
@@ -854,4 +854,4 @@ Diff (max vs sum): 32
 | 2023-10-24 | 4.69 | - | 6,667 | 54,745 |
 | 2023-10-25 | 4.69 | - | 6,676 | 54,866 |
 | 2023-10-26 | 4.69 | - | 6,687 | 54,973 |
-| 2023-10-27 | 4.69 | - | 6,687 | 54,998 |
+| 2023-10-27 | 4.69 | - | 6,700 | 55,011 |

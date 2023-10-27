@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 199,
@@ -437,7 +437,7 @@
   "Tags": [],
   "EOS_Progressed": 3066,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.01,
   "EosHistory": [
@@ -4112,9 +4112,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4225,8 +4225,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:06:56.4649956+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:10:31.181311+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:34.5006282+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:06:56.4650566+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:04:16.0907416+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:10:31.1813513+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 341,
+  "Ranking_Rating": 342,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 76,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -6389,10 +6389,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 12943,
       "NumberOfAwardsMax": 2255
+    },
+    {
+      "Time": "2023-10-27T13:01:38.6813109+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 12944,
+      "NumberOfAwardsMax": 2255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12943,
+  "NumberOfAwards": 12944,
   "NumberOfAwardsMax": 2255,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -6430,7 +6436,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2142
+      "Count": 2143
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6450,8 +6456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2023-10-26T02:12:33.514673+00:00",
+  "LastChanged": "2023-10-27T13:01:38.6813104+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:16.5981396+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:54.7351812+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:06:55.804772+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:38.6813114+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:10:30.5974699+00:00"
 }

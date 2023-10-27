@@ -2,12 +2,12 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1009,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -828,6 +828,11 @@
       "Time": "2023-10-27T08:04:44.9843257+00:00",
       "NumProgressed": 550,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T13:09:18.7445796+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -861,9 +866,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 165
     },
     {
       "ID": "Doors_Closing",
@@ -919,7 +924,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Healthy_Child",
@@ -927,7 +932,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Hitman",
@@ -935,7 +940,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Illustrator",
@@ -1023,15 +1028,15 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Park",
       "SetID": "ek310c",
       "Name": "Catch You Later",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "Party",
@@ -1039,7 +1044,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Smart cookie",
@@ -1070,7 +1075,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 6
     }
   ],
@@ -1078,8 +1083,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:05:44.9304537+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:09:18.7445788+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2702098+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:03:23.6659304+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:05:44.9304961+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:06:55.6422654+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:09:18.7446062+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d118f9a27e514d98aa25534afd2f35c7",
   "Name": "Sonic Colors: Ultimate",
   "ProductSlug": "sonic-colors-ultimate",
-  "Ranking_Rating": 738,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 457,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -388,6 +388,6 @@
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
   "LastChanged": "2023-10-13T01:44:27.563643+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.7410099+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:08.6086581+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:05:37.8457113+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:00:51.935547+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:09:11.442711+00:00"
 }

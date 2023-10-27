@@ -1,7 +1,7 @@
 # Sid Meier’s Civilization® VI
 [Store](https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi)  
 [View Rawdata](../../db/s/sid_meier’s_civilization®_vi.json)  
-Rating: 4.74 (Ranked 151)  
+Rating: 4.74 (Ranked 152)  
 Number of Ratings: 57,866  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 40,556  (Ranked 13)  

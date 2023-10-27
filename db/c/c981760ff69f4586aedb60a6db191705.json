@@ -2,7 +2,7 @@
   "ID": "c981760ff69f4586aedb60a6db191705",
   "Name": "Roboquest",
   "ProductSlug": "roboquest-9ad17a",
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 618,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -22,26 +22,642 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-10-27T13:09:43.4615854+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-10-27T13:09:43.46159+00:00",
+  "TotalAchievements": 76,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACT1_COMPLETED",
+      "SetID": "af18nmg",
+      "Name": "Haven 8",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACT2_COMPLETED",
+      "SetID": "af18nmg",
+      "Name": "Taking it Back!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACT3_COMPLETED",
+      "SetID": "af18nmg",
+      "Name": "Moonwalker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARMOR_MAX",
+      "SetID": "af18nmg",
+      "Name": "Iron Maiden",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASECAMP_FULL",
+      "SetID": "af18nmg",
+      "Name": "Home Sweet Home",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BILLY_EXPLOSION",
+      "SetID": "af18nmg",
+      "Name": "Oopsie...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_TAKEDOWN_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Boss Punisher (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_TAKEDOWN_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Boss Punisher (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_TAKEDOWN_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Boss Punisher (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROBOT_JOIN",
+      "SetID": "af18nmg",
+      "Name": "Meet my Brobot",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROBOT_REBOOTED",
+      "SetID": "af18nmg",
+      "Name": "Field Mechanic",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUS_JUMP",
+      "SetID": "af18nmg",
+      "Name": "Party Bus",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CANYON_DEATH",
+      "SetID": "af18nmg",
+      "Name": "It\u0027s Gonna be a Looong Journey",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMMANDO_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "Booyakasha",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMMANDO_MULTI_ROCKET",
+      "SetID": "af18nmg",
+      "Name": "Special Delivery",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMMANDO_UNLOCK",
+      "SetID": "af18nmg",
+      "Name": "Commando",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPENDIUM_FULL",
+      "SetID": "af18nmg",
+      "Name": "Gotta Catch\u0027 Em All",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRYSTAL_UNLOCK_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Crystal Claimer (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRYSTAL_UNLOCK_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Crystal Claimer (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRYSTAL_UNLOCK_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Crystal Claimer (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAMAGE_DEALT_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Damage Dealer (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAMAGE_DEALT_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Damage Dealer (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAMAGE_DEALT_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Damage Dealer (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFUSE_BOMB",
+      "SetID": "af18nmg",
+      "Name": "Just in Time",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENEMY_DESTROY_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Robo-Regulator (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENEMY_DESTROY_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Robo-Regulator (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENEMY_DESTROY_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Robo-Regulator (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENGINEER_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "Science Above All!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENGINEER_SUMMON",
+      "SetID": "af18nmg",
+      "Name": "For the Swarm!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENGINEER_UNLOCK",
+      "SetID": "af18nmg",
+      "Name": "Engineer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIELDS_PORTAL",
+      "SetID": "af18nmg",
+      "Name": "Waaaaarp Zone!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "Reboot",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME_BUDDYBOT",
+      "SetID": "af18nmg",
+      "Name": "Best Buddy Forever",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME_DIFF_MAX",
+      "SetID": "af18nmg",
+      "Name": "Hardened Guardian",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME_DIFF_MAX_RANK_S",
+      "SetID": "af18nmg",
+      "Name": "Ultimate Guardian",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME_MULTI",
+      "SetID": "af18nmg",
+      "Name": "The Power of Friendship",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINISH_GAME_RANK_S",
+      "SetID": "af18nmg",
+      "Name": "Perfect Run",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GADGET_UNLOCK_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Inspector Gadget (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GADGET_UNLOCK_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Inspector Gadget (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GADGET_UNLOCK_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Inspector Gadget (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GUARDIAN_AMMO",
+      "SetID": "af18nmg",
+      "Name": "Ammo Belt",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GUARDIAN_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "The Last Bastion",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GUARDIAN_HAMMER",
+      "SetID": "af18nmg",
+      "Name": "Whack-A-Mole",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEADBONK_STRAIGHT",
+      "SetID": "af18nmg",
+      "Name": "Mamma Mia",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEMS_EQUIPPED",
+      "SetID": "af18nmg",
+      "Name": "Bazaar Best Friend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LANGUAGE_FRENCH",
+      "SetID": "af18nmg",
+      "Name": "Confr\u00E9rie du Croissant",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEGENDARY_BUDDYBOT",
+      "SetID": "af18nmg",
+      "Name": "Pimp my Buddy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEGENDARY_EQUIP",
+      "SetID": "af18nmg",
+      "Name": "Legen... wait for it... dary!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_CORRUPTED_DISCOVERED",
+      "SetID": "af18nmg",
+      "Name": "Nest of Corruption",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOG_UNLOCK_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Log Collector (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOG_UNLOCK_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Log Collector (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOG_UNLOCK_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Log Collector (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOOT_BUDDYBOT",
+      "SetID": "af18nmg",
+      "Name": "My Little Buddy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOOT_SHOVEL",
+      "SetID": "af18nmg",
+      "Name": "Shovel Knight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAGUS_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "Elementary",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAGUS_METEOR_DAMAGE",
+      "SetID": "af18nmg",
+      "Name": "Final Flash",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAGUS_UNLOCK",
+      "SetID": "af18nmg",
+      "Name": "Elementalist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAX_LEVEL_REACHED",
+      "SetID": "af18nmg",
+      "Name": "Muscle \u002B4000",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOVESPEED_MAX",
+      "SetID": "af18nmg",
+      "Name": "Faster Than Light",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWERCELLS_SPENT",
+      "SetID": "af18nmg",
+      "Name": "Energy Wallet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWERCELL_GATHER_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Powercell Gatherer (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWERCELL_GATHER_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Powercell Gatherer (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWERCELL_GATHER_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Powercell Gatherer (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUARRY_DETONATOR",
+      "SetID": "af18nmg",
+      "Name": "What\u0027s That Lever For?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECON_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "Fast and Furious",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECON_MULTI_SLASH",
+      "SetID": "af18nmg",
+      "Name": "Sushi Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECON_UNLOCK",
+      "SetID": "af18nmg",
+      "Name": "Recon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SENTINEL_FINISH_GAME",
+      "SetID": "af18nmg",
+      "Name": "The Long Hunt",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SENTINEL_JAVELIN_DAMAGE",
+      "SetID": "af18nmg",
+      "Name": "Bot Skewer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SENTINEL_UNLOCK",
+      "SetID": "af18nmg",
+      "Name": "Ranger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLIM_POWERCELL",
+      "SetID": "af18nmg",
+      "Name": "Spare Some Change?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNTOUCHED_BOSS",
+      "SetID": "af18nmg",
+      "Name": "Easy Peasy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WONKABAR_TRIGGER",
+      "SetID": "af18nmg",
+      "Name": "Master Gambler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WRENCH_GATHER_BRONZE",
+      "SetID": "af18nmg",
+      "Name": "Wrench Picker (Bronze)",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WRENCH_GATHER_GOLD",
+      "SetID": "af18nmg",
+      "Name": "Wrench Picker (Gold)",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WRENCH_GATHER_SILVER",
+      "SetID": "af18nmg",
+      "Name": "Wrench Picker (Silver)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "af18nmg",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:06:09.6368113+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:09:43.4615848+00:00",
   "LastUpdate_AppInfo": "2023-10-23T15:57:11.3964616+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:28.4554396+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:06:09.6368152+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:11.436861+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:09:43.511699+00:00"
 }

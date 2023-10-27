@@ -2,10 +2,10 @@
   "ID": "0d66818e2304485f8dc3ae90c8b622b4",
   "Name": "Shadowrun Hong Kong - Extended Edition",
   "ProductSlug": "shadowrun-hong-kong",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 517,
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 438,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -440,6 +440,6 @@
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
   "LastChanged": "2023-10-09T04:59:40.7820463+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:15.2918255+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:03:22.6660965+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:09:18.6669914+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:06:54.6770306+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:12:53.813304+00:00"
 }

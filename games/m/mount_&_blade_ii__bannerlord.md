@@ -1,19 +1,19 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 151)  
+Rating: 4.74 (Ranked 152)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~24,961 |
 | Landlord | 33.00% | ~21,121 |
-| Bannerlord | 23.00% | ~14,720 |
-| Horde breaker | 23.00% | ~14,720 |
-| Lawmaker | 23.00% | ~14,720 |
-| Trained | 23.00% | ~14,720 |
-| The king is pleased | 19.00% | ~12,160 |
-| King Solomon | 17.00% | ~10,880 |
+| Bannerlord | 23.00% | ~14,721 |
+| Horde breaker | 23.00% | ~14,721 |
+| Lawmaker | 23.00% | ~14,721 |
+| Trained | 23.00% | ~14,721 |
+| The king is pleased | 19.00% | ~12,161 |
+| King Solomon | 17.00% | ~10,881 |
 | Apple of my eye | 16.00% | ~10,240 |
 | I can do it | 16.00% | ~10,240 |
 | God of the Arena | 13.00% | ~8,320 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,002 (Ranked 100)  
+Progressed: 64,003 (Ranked 101)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 63,863 | 0 |
 | 2023-10-25 | 63,927 | 0 |
 | 2023-10-26 | 63,985 | 0 |
-| 2023-10-27 | 64,002 | 0 |
+| 2023-10-27 | 64,003 | 0 |
 ## Awards
 Max (Character Customization): 7,283  (Ranked 52)  
-Sum: 15,017 (Ranked 66)  
+Sum: 15,018 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): -14
 | This game has Diverse Characters | 975 |
 | This game is Highly Recommended | 907 |
 | This game is Extremely Fun | 859 |
-| This game has Amazing Storytelling | 846 |
+| This game has Amazing Storytelling | 847 |
 | This game has Amazing Characters | 845 |
 | This game is Relaxing | 840 |
 | This game has Quickly Understood Controls | 817 |
@@ -555,4 +555,4 @@ Diff (max vs sum): -14
 | 2023-10-24 | 4.74 | - | 7,276 | 14,991 |
 | 2023-10-25 | 4.74 | - | 7,282 | 15,009 |
 | 2023-10-26 | 4.74 | - | 7,283 | 15,016 |
-| 2023-10-27 | 4.74 | - | 7,283 | 15,017 |
+| 2023-10-27 | 4.74 | - | 7,283 | 15,018 |

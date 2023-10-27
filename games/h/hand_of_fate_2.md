@@ -1,13 +1,13 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 495)  
+Rating: 4.55 (Ranked 496)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~477,960 |
-| Apprentice | 58.00% | ~385,023 |
+| Apprentice | 58.00% | ~385,024 |
 | Close Shave | 25.00% | ~165,958 |
 | Mercenary | 23.00% | ~152,682 |
 | Ninja | 23.00% | ~152,682 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,638 |
 | Champion | 1.00% | ~6,638 |
 | Final Death | 1.00% | ~6,638 |
-| Thomas' Bane | 0.90% | ~5,974 |
+| Thomas' Bane | 0.90% | ~5,975 |
 | Ally | 0.80% | ~5,311 |
 | Gamester | 0.70% | ~4,647 |
 | Hero | 0.60% | ~3,983 |
@@ -47,7 +47,7 @@ Number of Ratings: 780  (23.09.2022)
 | Dungeon Master | 0.50% | ~3,319 |
 | Pilgrim | 0.40% | ~2,655 |
 | Smiths Honour | 0.40% | ~2,655 |
-| Peaceful Coast | 0.30% | ~1,991 |
+| Peaceful Coast | 0.30% | ~1,992 |
 | Money Bags | 0.20% | ~1,328 |
 | Grifter | 0.10% | ~664 |
 | Unburdened | 0.10% | ~664 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,833 (Ranked 26)  
+Progressed: 663,834 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 171 (0.03%) (Ranked 296)
 | 2023-10-24 | 663,750 | 171 |
 | 2023-10-25 | 663,794 | 171 |
 | 2023-10-26 | 663,822 | 171 |
-| 2023-10-27 | 663,833 | 171 |
+| 2023-10-27 | 663,834 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 463)  
 Sum: 188 (Ranked 398)  

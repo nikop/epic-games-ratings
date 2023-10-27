@@ -2827,9 +2827,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_60",
@@ -3191,8 +3191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:05:41.9676245+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:09:15.787577+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:53.3710143+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:05:41.9680667+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:02:35.9613008+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:09:15.787859+00:00"
 }

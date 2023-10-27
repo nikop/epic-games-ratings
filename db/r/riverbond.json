@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530070,
+  "EOS_Progressed": 530071,
   "EOS_Completed": 490,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -20717,6 +20717,11 @@
       "Time": "2023-10-27T12:04:12.804821+00:00",
       "NumProgressed": 530070,
       "NumCompleted": 490
+    },
+    {
+      "Time": "2023-10-27T13:07:45.6806861+00:00",
+      "NumProgressed": 530071,
+      "NumCompleted": 490
     }
   ],
   "TotalAchievements": 57,
@@ -20744,7 +20749,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371049
+      "UsersEstimate": 371050
     },
     {
       "ID": "12",
@@ -20752,7 +20757,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116615
+      "UsersEstimate": 116616
     },
     {
       "ID": "13",
@@ -20800,7 +20805,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79510
+      "UsersEstimate": 79511
     },
     {
       "ID": "19",
@@ -20808,7 +20813,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328643
+      "UsersEstimate": 328644
     },
     {
       "ID": "2",
@@ -20952,7 +20957,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265035
+      "UsersEstimate": 265036
     },
     {
       "ID": "36",
@@ -21056,7 +21061,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328643
+      "UsersEstimate": 328644
     },
     {
       "ID": "48",
@@ -21104,7 +21109,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243832
+      "UsersEstimate": 243833
     },
     {
       "ID": "53",
@@ -21183,15 +21188,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530070,
+      "Progressed": 530071,
       "Completed": 490
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:04:12.8048199+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:07:45.6806856+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.3735626+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:01:15.9606615+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:04:12.8051416+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:04:56.9562164+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:07:45.6808393+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 100,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -5550,10 +5550,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 8125,
       "NumberOfAwardsMax": 3655
+    },
+    {
+      "Time": "2023-10-27T13:01:37.706603+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 8128,
+      "NumberOfAwardsMax": 3655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8125,
+  "NumberOfAwards": 8128,
   "NumberOfAwardsMax": 3655,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5579,7 +5585,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 724
+      "Count": 726
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5597,7 +5603,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 631
+      "Count": 632
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5617,8 +5623,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2023-10-27T01:38:46.6256029+00:00",
+  "LastChanged": "2023-10-27T13:01:37.7066027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.074414+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:53.666541+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:04:58.0116497+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:37.7066036+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:08:31.0556528+00:00"
 }

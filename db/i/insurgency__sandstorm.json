@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 40,
@@ -3840,7 +3840,7 @@
   ],
   "EOS_Progressed": 468658,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4551,
+  "EOS_NewPlayers": 4529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25705,8 +25705,8 @@
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-27T08:58:29.6274339+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:04:38.5215471+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:08:11.7341042+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:01.5121861+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:37.7961307+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:04:38.5218405+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:02:19.9169368+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:08:11.7343768+00:00"
 }

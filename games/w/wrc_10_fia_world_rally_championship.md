@@ -1,12 +1,12 @@
 # WRC 10 FIA World Rally Championship
 [Store](https://store.epicgames.com/en-US/p/wrc-10)  
 [View Rawdata](../../db/w/wrc_10_fia_world_rally_championship.json)  
-Rating: 4.49 (Ranked 597)  
+Rating: 4.49 (Ranked 598)  
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
 Max (Realistic Visuals): 38  (Ranked 452)  
-Sum: 294 (Ranked 357)  
-Diff (max vs sum): 95  
+Sum: 294 (Ranked 358)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 38 |

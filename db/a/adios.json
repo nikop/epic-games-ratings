@@ -2,13 +2,13 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1022,
+  "Ranking_Rating": 1023,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76798,
+  "EOS_Progressed": 76802,
   "EOS_Completed": 807,
-  "EOS_NewPlayers": 564,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 565,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -21317,6 +21317,11 @@
       "Time": "2023-10-27T12:04:50.443078+00:00",
       "NumProgressed": 76798,
       "NumCompleted": 807
+    },
+    {
+      "Time": "2023-10-27T13:08:23.6607807+00:00",
+      "NumProgressed": 76802,
+      "NumCompleted": 807
     }
   ],
   "TotalAchievements": 25,
@@ -21527,7 +21532,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76798,
+      "Progressed": 76802,
       "Completed": 807
     }
   ],
@@ -21535,8 +21540,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:04:50.4430773+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:08:23.66078+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:58.1462085+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:04:50.4432901+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:04:42.6196526+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:08:23.6609344+00:00"
 }

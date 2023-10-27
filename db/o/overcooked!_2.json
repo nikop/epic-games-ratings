@@ -2,10 +2,10 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 199,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -3165,6 +3165,6 @@
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
   "LastChanged": "2023-10-26T09:01:17.4576933+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:25.0258693+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:09.4539672+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:20.2804339+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:03:48.9063274+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:11:55.4020892+00:00"
 }

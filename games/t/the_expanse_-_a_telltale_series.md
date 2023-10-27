@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 0.80% | ~115 |
+| Oyedang, Kopengs | 0.90% | ~129 |
 | Drug Gifter | 0.40% | ~57 |
 | The Pit and the Pirates | 0.30% | ~43 |
 | Drone Dodger | 0.30% | ~43 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 423)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,362 (Ranked 143)  
+Progressed: 14,364 (Ranked 143)  
 Completed: 27 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 27 (0.19%) (Ranked 236)
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
-| 2023-10-27 | 14,362 | 27 |
+| 2023-10-27 | 14,364 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

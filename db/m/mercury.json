@@ -1,7 +1,7 @@
 {
   "ID": "fb65b4e98ed24a208cb0f51ad1a87be2",
   "Name": "Mercury",
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:52.397626+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:37.3458997+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:06:58.5281627+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:02:19.3345678+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:10:33.271587+00:00"
 }

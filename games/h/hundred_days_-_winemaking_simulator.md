@@ -1,32 +1,32 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 780)  
+Rating: 4.35 (Ranked 781)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,787 |
-| It's a good start | 10.00% | ~971 |
+| Bye Bye | 39.00% | ~3,790 |
+| It's a good start | 10.00% | ~972 |
 | Bonjour! | 7.00% | ~680 |
 | Quack | 7.00% | ~680 |
 | The Assistant | 6.00% | ~583 |
 | The Blue Marl | 6.00% | ~583 |
 | Ostinata | 5.00% | ~486 |
 | Better than nothing? | 5.00% | ~486 |
-| A long journey | 4.00% | ~388 |
-| Big Money | 3.00% | ~291 |
-| Keep the doctor away | 3.00% | ~291 |
-| Surprise of Langhe | 3.00% | ~291 |
-| Famous | 3.00% | ~291 |
+| A long journey | 4.00% | ~389 |
+| Big Money | 3.00% | ~292 |
+| Keep the doctor away | 3.00% | ~292 |
+| Surprise of Langhe | 3.00% | ~292 |
+| Famous | 3.00% | ~292 |
 | What is that? A castle? | 2.00% | ~194 |
 | A lot of space | 2.00% | ~194 |
 | A big garage | 2.00% | ~194 |
 | Millionaire | 2.00% | ~194 |
 | Exotic | 2.00% | ~194 |
+| Pastry Chef | 2.00% | ~194 |
 | Welcome to the club | 2.00% | ~194 |
 | Very Important Winemaker | 2.00% | ~194 |
-| Pastry Chef | 1.00% | ~97 |
 | King of Langhe | 1.00% | ~97 |
 | Gem of Monferrato | 1.00% | ~97 |
 | Treasure of Roero | 0.70% | ~68 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~19 |
 | Master Winemaker | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,711 (Ranked 156)  
+Progressed: 9,717 (Ranked 156)  
 Completed: 9 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,11 +101,11 @@ Completed: 9 (0.09%) (Ranked 264)
 | 2023-10-24 | 9,432 | 9 |
 | 2023-10-25 | 9,538 | 9 |
 | 2023-10-26 | 9,655 | 9 |
-| 2023-10-27 | 9,711 | 9 |
+| 2023-10-27 | 9,717 | 9 |
 ## Awards
-Max (Relaxing): 205  (Ranked 277)  
+Max (Relaxing): 205  (Ranked 278)  
 Sum: 1,592 (Ranked 221)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 205 |

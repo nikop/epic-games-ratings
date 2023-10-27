@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 42.00% | ~746 |
-| Eat My Dust | 42.00% | ~746 |
-| Clean Race | 41.00% | ~728 |
-| Hear That Roar! | 38.00% | ~675 |
-| Rivals to the End | 28.00% | ~497 |
-| Bitter Rivalry | 26.00% | ~462 |
-| We're Going to Need a Bigger Garage | 24.00% | ~426 |
-| Champagne Spray | 24.00% | ~426 |
+| First Love | 42.00% | ~748 |
+| Eat My Dust | 42.00% | ~748 |
+| Clean Race | 41.00% | ~730 |
+| Hear That Roar! | 38.00% | ~676 |
+| Rivals to the End | 28.00% | ~498 |
+| Bitter Rivalry | 26.00% | ~463 |
+| We're Going to Need a Bigger Garage | 24.00% | ~427 |
+| Champagne Spray | 24.00% | ~427 |
+| I Want One Too! | 19.00% | ~338 |
 | Restored and Ready | 18.00% | ~320 |
-| I Want One Too! | 18.00% | ~320 |
 | Legendary!!! | 18.00% | ~320 |
 | Quick Pit Stop | 18.00% | ~320 |
-| I'm Here Too! | 17.00% | ~302 |
-| Go-Faster Stripes | 16.00% | ~284 |
+| I'm Here Too! | 17.00% | ~303 |
+| Go-Faster Stripes | 16.00% | ~285 |
 | We've Just Begun | 10.00% | ~178 |
 | Is It the Right Size? | 8.00% | ~142 |
-| Stamina Star | 7.00% | ~124 |
+| Stamina Star | 7.00% | ~125 |
 | Make It Your Own! | 5.00% | ~89 |
 | Evangelist | 5.00% | ~89 |
 | I Make the Rules! | 4.00% | ~71 |
@@ -40,7 +40,7 @@
 | I Don't Stop | 1.00% | ~18 |
 | Exhausted but Happy | 0.70% | ~12 |
 | In Search of Perfection | 0.60% | ~11 |
-| Globe-trotter | 0.50% | ~9 |
+| Globe-trotter | 0.40% | ~7 |
 | Maximum Endurance | 0.30% | ~5 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,776 (Ranked 219)  
+Progressed: 1,780 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,4 +110,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 1,671 | 0 |
 | 2023-10-25 | 1,720 | 0 |
 | 2023-10-26 | 1,766 | 0 |
-| 2023-10-27 | 1,776 | 0 |
+| 2023-10-27 | 1,780 | 0 |

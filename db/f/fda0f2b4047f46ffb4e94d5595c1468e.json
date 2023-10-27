@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 161,
@@ -6098,9 +6098,9 @@
       "ID": "ach25",
       "SetID": "47in8n6",
       "Name": "Talis-Mania",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1859
     },
     {
       "ID": "ach26",
@@ -6315,8 +6315,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:06:55.3125396+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:10:30.086905+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:00:14.9192678+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:06:55.3126621+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:03:55.2108235+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:10:30.0870282+00:00"
 }

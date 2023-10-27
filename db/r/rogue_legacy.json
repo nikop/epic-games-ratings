@@ -2,10 +2,10 @@
   "ID": "66ce501aea0a424cb80cfe5f31f80f03",
   "Name": "Rogue Legacy",
   "ProductSlug": "rogue-legacy",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 220,
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -1431,6 +1431,6 @@
   "FirstSeen": "2022-07-22T20:31:08.0747218+00:00",
   "LastChanged": "2023-10-26T18:57:37.1719376+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.4327441+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:53.0622266+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:45.2319051+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:36.9623137+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:12:20.5295815+00:00"
 }

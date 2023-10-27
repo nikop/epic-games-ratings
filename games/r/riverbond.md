@@ -1,27 +1,27 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 626)  
+Rating: 4.47 (Ranked 627)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,049 |
-| Now You're Talking | 62.00% | ~328,643 |
-| Steel Yourself | 62.00% | ~328,643 |
-| Window Dressing | 50.00% | ~265,035 |
-| Trigger Happy | 46.00% | ~243,832 |
+| First Step | 70.00% | ~371,050 |
+| Now You're Talking | 62.00% | ~328,644 |
+| Steel Yourself | 62.00% | ~328,644 |
+| Window Dressing | 50.00% | ~265,036 |
+| Trigger Happy | 46.00% | ~243,833 |
 | Riverborn | 45.00% | ~238,532 |
 | Starry Eyed | 34.00% | ~180,224 |
 | Poking Around | 34.00% | ~180,224 |
 | Talk of the Town | 24.00% | ~127,217 |
 | AAARR! | 23.00% | ~121,916 |
 | Hello Darkness | 23.00% | ~121,916 |
-| Wind At Our Backs | 22.00% | ~116,615 |
+| Wind At Our Backs | 22.00% | ~116,616 |
 | To the Beat | 20.00% | ~106,014 |
 | Sunny Shores | 17.00% | ~90,112 |
 | Sunday Best | 16.00% | ~84,811 |
-| To Victory! | 15.00% | ~79,510 |
+| To Victory! | 15.00% | ~79,511 |
 | Two of a Kind | 14.00% | ~74,210 |
 | Keep On Trucking | 13.00% | ~68,909 |
 | Going on an Adventure | 11.00% | ~58,308 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,590 |
 | Point Taken | 0.20% | ~1,060 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,070 (Ranked 34)  
+Progressed: 530,071 (Ranked 34)  
 Completed: 490 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 490 (0.09%) (Ranked 264)
 | 2023-10-24 | 529,943 | 490 |
 | 2023-10-25 | 529,980 | 490 |
 | 2023-10-26 | 530,047 | 490 |
-| 2023-10-27 | 530,070 | 490 |
+| 2023-10-27 | 530,071 | 490 |
 ## Awards
 Max (Relaxing): 20  (Ranked 533)  
 Sum: 20 (Ranked 534)  

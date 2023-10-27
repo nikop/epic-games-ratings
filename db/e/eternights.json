@@ -3,7 +3,7 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
@@ -1126,17 +1126,17 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1261,8 +1261,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:03:55.8405951+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:07:28.4451665+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:59:15.3218378+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:03:55.8406189+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:02:55.5651235+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:07:28.4451952+00:00"
 }

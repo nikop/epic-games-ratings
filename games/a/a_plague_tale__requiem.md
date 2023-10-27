@@ -1,34 +1,34 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 168)  
+Rating: 4.73 (Ranked 169)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,527 |
+| Under a New Sun | 92.00% | ~12,528 |
 | Newcomers | 79.00% | ~10,757 |
-| A Burden of Blood | 74.00% | ~10,076 |
-| Protector's Duty | 71.00% | ~9,667 |
-| In our Wake | 69.00% | ~9,395 |
-| Alchemist | 69.00% | ~9,395 |
+| A Burden of Blood | 74.00% | ~10,077 |
+| Protector's Duty | 71.00% | ~9,668 |
+| In our Wake | 69.00% | ~9,396 |
+| Alchemist | 69.00% | ~9,396 |
 | Leaving all Behind | 66.00% | ~8,987 |
-| Felons | 63.00% | ~8,578 |
+| Felons | 63.00% | ~8,579 |
 | A Sea of Promises | 61.00% | ~8,306 |
-| Tales and Revelations | 58.00% | ~7,897 |
-| Bloodline | 53.00% | ~7,216 |
+| Tales and Revelations | 58.00% | ~7,898 |
+| Bloodline | 53.00% | ~7,217 |
 | The Cradle of Centuries | 49.00% | ~6,672 |
 | The Life We Deserve | 47.00% | ~6,400 |
 | Night guard | 44.00% | ~5,991 |
-| Nothing Left | 40.00% | ~5,446 |
+| Nothing Left | 40.00% | ~5,447 |
 | Healing our Wounds | 38.00% | ~5,174 |
-| Dying Sun | 34.00% | ~4,629 |
-| Improved crossbow | 27.00% | ~3,676 |
+| Dying Sun | 34.00% | ~4,630 |
+| Improved crossbow | 27.00% | ~3,677 |
 | King Hugo | 25.00% | ~3,404 |
 | Mercy | 24.00% | ~3,268 |
 | Perfect shot | 23.00% | ~3,132 |
 | Effective instruments | 22.00% | ~2,996 |
 | Perfect throw | 22.00% | ~2,996 |
-| Knights! | 21.00% | ~2,859 |
+| Knights! | 21.00% | ~2,860 |
 | Handful of pockets | 13.00% | ~1,770 |
 | Not a toy anymore | 12.00% | ~1,634 |
 | Pocket laboratory | 12.00% | ~1,634 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 168)
 | Old protector | 2.00% | ~272 |
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,616 (Ranked 146)  
+Progressed: 13,617 (Ranked 146)  
 Completed: 50 (0.37%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 50 (0.37%) (Ranked 205)
 | 2023-10-24 | 13,605 | 50 |
 | 2023-10-25 | 13,610 | 50 |
 | 2023-10-26 | 13,616 | 50 |
+| 2023-10-27 | 13,617 | 50 |
 ## Awards
 Max (Great Boss Battles): 427  (Ranked 219)  
 Sum: 663 (Ranked 298)  

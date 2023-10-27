@@ -2,7 +2,7 @@
   "ID": "be596f0df1464cda8012c4dcb72478bf",
   "Name": "Beyond Typicals",
   "ProductSlug": "beyond-typicals",
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:38.8748897+00:00",
   "LastChanged": "2023-03-31T05:57:38.8748898+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.2943788+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:02:18.7248832+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:05:53.9175268+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:06:00.0832639+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:09:27.3824126+00:00"
 }

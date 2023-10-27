@@ -2,7 +2,7 @@
   "ID": "a78e1834dd0f43839f18750e0234f820",
   "Name": "Target",
   "ProductSlug": "target-073782",
-  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-25T22:57:16.7879177+00:00",
-  "LastUpdate_Ratings": "2023-10-27T12:01:34.621799+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:07:35.9884302+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:05:16.6964504+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:11:11.0922961+00:00"
 }

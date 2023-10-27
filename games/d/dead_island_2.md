@@ -1,47 +1,47 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 516)  
+Rating: 4.54 (Ranked 517)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,257 |
-| Welcome To Hell-A | 5.00% | ~35,257 |
-| Git Gutte! | 4.00% | ~28,206 |
-| Break A Leg | 4.00% | ~28,206 |
-| Coup de Grâce | 4.00% | ~28,206 |
-| Hazardous Materials | 4.00% | ~28,206 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,206 |
-| Dr. Reed, I Presume? | 3.00% | ~21,154 |
-| Bookworm | 3.00% | ~21,154 |
-| But Doctor, I am Butcho | 3.00% | ~21,154 |
-| Slayer Squad | 3.00% | ~21,154 |
-| Can't Handle the Truth | 3.00% | ~21,154 |
-| Like Riding a Bike | 3.00% | ~21,154 |
-| Friends Like These | 3.00% | ~21,154 |
-| Apex Predator | 3.00% | ~21,154 |
-| Zombologist | 3.00% | ~21,154 |
-| A Patton Emerges | 3.00% | ~21,154 |
-| Stacking the Deck | 3.00% | ~21,154 |
-| This is My Weapon | 3.00% | ~21,154 |
-| Making Your Mark | 2.00% | ~14,103 |
-| Anger Management | 2.00% | ~14,103 |
-| Perks of the Job | 2.00% | ~14,103 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,103 |
-| Ooh, Shiny! | 2.00% | ~14,103 |
-| Humanity Distilled | 2.00% | ~14,103 |
-| I Am the Resurrection | 2.00% | ~14,103 |
-| Down with the Sickness | 2.00% | ~14,103 |
-| Our True Nature | 2.00% | ~14,103 |
-| Smorgasbord | 1.00% | ~7,051 |
-| Jumbo Keyring | 1.00% | ~7,051 |
-| Max Headroom | 1.00% | ~7,051 |
-| Go, Bobcats! | 1.00% | ~7,051 |
-| Rising Star | 1.00% | ~7,051 |
-| Not Even My Final Form | 0.90% | ~6,346 |
-| Internet Famous | 0.90% | ~6,346 |
-| On Safari | 0.80% | ~5,641 |
-| Variety is the Spice of Death | 0.80% | ~5,641 |
+| Hotel California | 5.00% | ~35,260 |
+| Welcome To Hell-A | 5.00% | ~35,260 |
+| Git Gutte! | 4.00% | ~28,208 |
+| Break A Leg | 4.00% | ~28,208 |
+| Coup de Grâce | 4.00% | ~28,208 |
+| Hazardous Materials | 4.00% | ~28,208 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,208 |
+| Dr. Reed, I Presume? | 3.00% | ~21,156 |
+| Bookworm | 3.00% | ~21,156 |
+| But Doctor, I am Butcho | 3.00% | ~21,156 |
+| Slayer Squad | 3.00% | ~21,156 |
+| Can't Handle the Truth | 3.00% | ~21,156 |
+| Like Riding a Bike | 3.00% | ~21,156 |
+| Friends Like These | 3.00% | ~21,156 |
+| Apex Predator | 3.00% | ~21,156 |
+| Zombologist | 3.00% | ~21,156 |
+| A Patton Emerges | 3.00% | ~21,156 |
+| Stacking the Deck | 3.00% | ~21,156 |
+| This is My Weapon | 3.00% | ~21,156 |
+| Making Your Mark | 2.00% | ~14,104 |
+| Anger Management | 2.00% | ~14,104 |
+| Perks of the Job | 2.00% | ~14,104 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,104 |
+| Ooh, Shiny! | 2.00% | ~14,104 |
+| Humanity Distilled | 2.00% | ~14,104 |
+| I Am the Resurrection | 2.00% | ~14,104 |
+| Down with the Sickness | 2.00% | ~14,104 |
+| Our True Nature | 2.00% | ~14,104 |
+| Smorgasbord | 1.00% | ~7,052 |
+| Jumbo Keyring | 1.00% | ~7,052 |
+| Max Headroom | 1.00% | ~7,052 |
+| Go, Bobcats! | 1.00% | ~7,052 |
+| Rising Star | 1.00% | ~7,052 |
+| Not Even My Final Form | 0.90% | ~6,347 |
+| Internet Famous | 0.90% | ~6,347 |
+| On Safari | 0.80% | ~5,642 |
+| Variety is the Spice of Death | 0.80% | ~5,642 |
 | Make it So | 0.70% | ~4,936 |
 | LA Influential | 0.60% | ~4,231 |
 | Gore Horse | 0.60% | ~4,231 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,410 |
 | Bucket List | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,147 (Ranked 22)  
+Progressed: 705,199 (Ranked 22)  
 Completed: 2,274 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 2,274 (0.32%) (Ranked 210)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 705,147 | 2,274 |
+| 2023-10-27 | 705,199 | 2,274 |
 ## Awards
 Max (Great Boss Battles): 6,671  (Ranked 57)  
 Sum: 10,026 (Ranked 91)  

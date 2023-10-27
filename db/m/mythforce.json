@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 183,
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4477,
+  "EOS_Progressed": 4480,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8194,6 +8194,11 @@
       "Time": "2023-10-27T06:09:44.5786592+00:00",
       "NumProgressed": 4477,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-27T13:13:23.4557053+00:00",
+      "NumProgressed": 4480,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8254,7 +8259,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8302,7 +8307,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8318,7 +8323,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8389,15 +8394,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4477,
+      "Progressed": 4480,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:09:48.0368052+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:13:23.4557046+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:58:01.7706047+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:09:48.036914+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:45.5767995+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:13:23.4557954+00:00"
 }

@@ -35,11 +35,11 @@
 | Meat Lover | 2.00% | ~9 |
 | Sling of David | 2.00% | ~9 |
 | Sword Master | 2.00% | ~9 |
+| Witch | 2.00% | ~9 |
 | Assassin | 1.00% | ~5 |
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
-| Witch | 1.00% | ~5 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.40% | ~2 |
 | Necromancer | 0.40% | ~2 |

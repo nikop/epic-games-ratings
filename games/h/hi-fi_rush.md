@@ -60,6 +60,7 @@ Rating: 4.86 (Ranked 28)
 | It'll do, CNMN | 0.30% | ~8 |
 | I can't see this ever being a problem again | 0.20% | ~8 |
 | Fully Powered Up! | 0.20% | ~8 |
+| This was... not what I expected. | 0.20% | ~8 |
 | Have we met before? | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
@@ -67,7 +68,6 @@ Rating: 4.86 (Ranked 28)
 | I have to read ALL of these things? | 0.10% | ~4 |
 | My Ultimate Setlist | 0.10% | ~4 |
 | What a journey it was... | 0.10% | ~4 |
-| This was... not what I expected. | 0.10% | ~4 |
 | I'm untouchable! | 0.10% | ~4 |
 | I'm trying to FOCUS HERE! | 0.10% | ~4 |
 | I saw all those hits coming a measure away! | 0.10% | ~4 |

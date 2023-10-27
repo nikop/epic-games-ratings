@@ -2,8 +2,8 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 225,
-  "Ranking_Popularity": 56,
+  "Ranking_Rating": 226,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 328,
@@ -11173,11 +11173,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 54998,
       "NumberOfAwardsMax": 6687
+    },
+    {
+      "Time": "2023-10-27T13:01:23.2090158+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55011,
+      "NumberOfAwardsMax": 6700
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54998,
-  "NumberOfAwardsMax": 6687,
+  "NumberOfAwards": 55011,
+  "NumberOfAwardsMax": 6700,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -11208,7 +11214,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6687
+      "Count": 6700
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11247,9 +11253,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440288,
+  "EOS_Progressed": 440335,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5371,
+  "EOS_NewPlayers": 5359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32907,6 +32913,11 @@
       "Time": "2023-10-27T12:08:22.8494705+00:00",
       "NumProgressed": 440288,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T13:11:58.3391108+00:00",
+      "NumProgressed": 440335,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33198,7 +33209,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -33358,7 +33369,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -33430,7 +33441,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "achievement_cold_war",
@@ -33438,7 +33449,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "achievement_colonial_management",
@@ -33454,7 +33465,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -33574,7 +33585,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -33750,7 +33761,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "achievement_forever_golden",
@@ -33918,7 +33929,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17612
+      "UsersEstimate": 17613
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33942,7 +33953,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13209
+      "UsersEstimate": 13210
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -34870,7 +34881,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -34918,7 +34929,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8806
+      "UsersEstimate": 8807
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -35198,7 +35209,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13209
+      "UsersEstimate": 13210
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35422,7 +35433,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2202
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -35470,7 +35481,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -35582,7 +35593,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17612
+      "UsersEstimate": 17613
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35614,7 +35625,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17612
+      "UsersEstimate": 17613
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35749,21 +35760,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440288,
+      "Progressed": 440335,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440288,
+      "Progressed": 440335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-27T11:57:39.3413753+00:00",
-  "LastChanged_Achievements": "2023-10-27T12:08:22.8494697+00:00",
+  "LastChanged": "2023-10-27T13:01:23.2090156+00:00",
+  "LastChanged_Achievements": "2023-10-27T13:11:58.3391101+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:57:39.3413763+00:00",
-  "LastUpdate_Achievements": "2023-10-27T12:08:22.8514563+00:00"
+  "LastUpdate_Ratings": "2023-10-27T13:01:23.2090165+00:00",
+  "LastUpdate_Achievements": "2023-10-27T13:11:58.3405531+00:00"
 }

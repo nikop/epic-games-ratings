@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.31 (Ranked 816)  
+Rating: 4.31 (Ranked 817)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -38,8 +38,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 426 (Ranked 302)  
-Completed: 1 (0.23%) (Ranked 226)  
+Progressed: 426 (Ranked 303)  
+Completed: 1 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
