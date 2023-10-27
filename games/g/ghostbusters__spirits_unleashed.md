@@ -14,18 +14,18 @@ Rating: 4.50 (Ranked 578)
 | Solo Capture | 3.00% | ~835 |
 | Swift Rift Removers | 3.00% | ~835 |
 | Vaporous Expansion | 3.00% | ~835 |
-| Animated | 2.00% | ~556 |
-| Back Off | 2.00% | ~556 |
-| Clutch Capture | 2.00% | ~556 |
-| Cultured | 2.00% | ~556 |
-| Daily Dose | 2.00% | ~556 |
-| Ectoplasmic Entity | 2.00% | ~556 |
-| Ghostbuster In Training | 2.00% | ~556 |
-| Icing on the Cake | 2.00% | ~556 |
-| Right back at ya | 2.00% | ~556 |
-| Teamwork | 2.00% | ~556 |
-| There you are! | 2.00% | ~556 |
-| Whoopsie | 2.00% | ~556 |
+| Animated | 2.00% | ~557 |
+| Back Off | 2.00% | ~557 |
+| Clutch Capture | 2.00% | ~557 |
+| Cultured | 2.00% | ~557 |
+| Daily Dose | 2.00% | ~557 |
+| Ectoplasmic Entity | 2.00% | ~557 |
+| Ghostbuster In Training | 2.00% | ~557 |
+| Icing on the Cake | 2.00% | ~557 |
+| Right back at ya | 2.00% | ~557 |
+| Teamwork | 2.00% | ~557 |
+| There you are! | 2.00% | ~557 |
+| Whoopsie | 2.00% | ~557 |
 | We have the best insurance | 1.00% | ~278 |
 | Legions | 1.00% | ~278 |
 | Pesky Jerks | 1.00% | ~278 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,824 (Ranked 121)  
+Progressed: 27,830 (Ranked 121)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,824 | 65 |
+| 2023-10-27 | 27,830 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
 Sum: 2,563 (Ranked 182)  

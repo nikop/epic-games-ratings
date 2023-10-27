@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~620,649 |
-| Death From Above | 45.00% | ~607,157 |
-| Master of the Household | 38.00% | ~512,710 |
-| Death of the Party | 36.00% | ~485,725 |
-| NEXUS-47 | 33.00% | ~445,248 |
-| The Last Tango | 31.00% | ~418,263 |
-| Nightmare Fuel | 30.00% | ~404,771 |
-| The Result of Previous Training | 28.00% | ~377,786 |
-| Tools of the Trade | 28.00% | ~377,786 |
-| Cleared for Field Duty | 27.00% | ~364,294 |
-| Seizing the Opportunity | 26.00% | ~350,802 |
-| Bullet Train | 21.00% | ~283,340 |
-| Stylish Assassin | 20.00% | ~269,847 |
-| Silent Assassin | 14.00% | ~188,893 |
-| Rise Up | 12.00% | ~161,908 |
-| Evil Wine Club | 11.00% | ~148,416 |
-| Console Cowboy | 10.00% | ~134,924 |
-| Last Stop | 10.00% | ~134,924 |
-| A New Profile | 9.00% | ~121,431 |
-| Full House | 9.00% | ~121,431 |
-| Dune Raider | 8.00% | ~107,939 |
-| No Stone Unturned | 8.00% | ~107,939 |
-| Train Surfing | 8.00% | ~107,939 |
-| Icebreaker | 7.00% | ~94,447 |
-| Family Feud | 6.00% | ~80,954 |
-| Rich Harvest | 6.00% | ~80,954 |
-| Count Down From 47 | 6.00% | ~80,954 |
+| Unseen Assassin | 46.00% | ~620,655 |
+| Death From Above | 45.00% | ~607,162 |
+| Master of the Household | 38.00% | ~512,715 |
+| Death of the Party | 36.00% | ~485,730 |
+| NEXUS-47 | 33.00% | ~445,252 |
+| The Last Tango | 31.00% | ~418,268 |
+| Nightmare Fuel | 30.00% | ~404,775 |
+| The Result of Previous Training | 28.00% | ~377,790 |
+| Tools of the Trade | 28.00% | ~377,790 |
+| Cleared for Field Duty | 27.00% | ~364,298 |
+| Seizing the Opportunity | 26.00% | ~350,805 |
+| Bullet Train | 21.00% | ~283,342 |
+| Stylish Assassin | 20.00% | ~269,850 |
+| Silent Assassin | 14.00% | ~188,895 |
+| Rise Up | 12.00% | ~161,910 |
+| Evil Wine Club | 11.00% | ~148,418 |
+| Console Cowboy | 10.00% | ~134,925 |
+| Last Stop | 10.00% | ~134,925 |
+| A New Profile | 9.00% | ~121,432 |
+| Full House | 9.00% | ~121,432 |
+| Dune Raider | 8.00% | ~107,940 |
+| No Stone Unturned | 8.00% | ~107,940 |
+| Train Surfing | 8.00% | ~107,940 |
+| Icebreaker | 7.00% | ~94,448 |
+| Family Feud | 6.00% | ~80,955 |
+| Rich Harvest | 6.00% | ~80,955 |
+| Count Down From 47 | 6.00% | ~80,955 |
 | Shortcut Killer | 5.00% | ~67,462 |
 | Stair Master | 5.00% | ~67,462 |
 | Followed the Trails | 5.00% | ~67,462 |
 | Last Call | 5.00% | ~67,462 |
-| Treacherous Architecture | 4.00% | ~53,969 |
-| Upstairs, Downstairs | 4.00% | ~53,969 |
-| The Great Outdoors | 4.00% | ~53,969 |
-| Partied Out | 4.00% | ~53,969 |
-| Surveillance Master | 4.00% | ~53,969 |
-| Training Escalated | 3.00% | ~40,477 |
-| Keep Your Eyes Peeled | 3.00% | ~40,477 |
-| Warehouse Veteran | 3.00% | ~40,477 |
-| Future Shock | 3.00% | ~40,477 |
-| Hack the Planet | 3.00% | ~40,477 |
-| Master the Terroir | 3.00% | ~40,477 |
-| Vineyard Virtuoso | 3.00% | ~40,477 |
+| Treacherous Architecture | 4.00% | ~53,970 |
+| Upstairs, Downstairs | 4.00% | ~53,970 |
+| The Great Outdoors | 4.00% | ~53,970 |
+| Partied Out | 4.00% | ~53,970 |
+| Surveillance Master | 4.00% | ~53,970 |
+| Training Escalated | 3.00% | ~40,478 |
+| Keep Your Eyes Peeled | 3.00% | ~40,478 |
+| Warehouse Veteran | 3.00% | ~40,478 |
+| Future Shock | 3.00% | ~40,478 |
+| Hack the Planet | 3.00% | ~40,478 |
+| Master the Terroir | 3.00% | ~40,478 |
+| Vineyard Virtuoso | 3.00% | ~40,478 |
 | Bird Art | 2.00% | ~26,985 |
 | Top of the Class | 1.00% | ~13,492 |
 | Ripe for the Picking | 1.00% | ~13,492 |
 | The Creative Assassin | 0.70% | ~9,445 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349,237 (Ranked 9)  
+Progressed: 1,349,250 (Ranked 9)  
 Completed: 2,163 (0.16%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,163 (0.16%) (Ranked 244)
 | 2023-10-24 | 1,348,612 | 2,161 |
 | 2023-10-25 | 1,348,926 | 2,161 |
 | 2023-10-26 | 1,349,193 | 2,163 |
-| 2023-10-27 | 1,349,237 | 2,163 |
+| 2023-10-27 | 1,349,250 | 2,163 |
 ## Awards
 Max (Diverse Characters): 10,427  (Ranked 38)  
 Sum: 72,637 (Ranked 21)  

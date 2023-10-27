@@ -38,6 +38,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
+| Beatmaker | 0.20% | ~51 |
 | Source of Flying Daggers | 0.10% | ~716 |
 | Iron Money | 0.10% | ~716 |
 | Legendary Talismans of Wuxing | 0.10% | ~716 |
@@ -64,11 +65,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Here Cometh the Iceman | 0.10% | ~25 |
 | Fighter in the Pond | 0.10% | ~25 |
 | Bonus Stage | 0.10% | ~25 |
-| Beatmaker | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,968 (Ranked 20)  
-Completed: 12,925 (1.81%) (Ranked 123)  
+Progressed: 715,969 (Ranked 20)  
+Completed: 12,925 (1.81%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,7 +257,7 @@ Completed: 12,925 (1.81%) (Ranked 123)
 | 2023-10-24 | 715,911 | 12,925 |
 | 2023-10-25 | 715,943 | 12,925 |
 | 2023-10-26 | 715,965 | 12,925 |
-| 2023-10-27 | 715,968 | 12,925 |
+| 2023-10-27 | 715,969 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,734  (Ranked 53)  
 Sum: 11,713 (Ranked 82)  

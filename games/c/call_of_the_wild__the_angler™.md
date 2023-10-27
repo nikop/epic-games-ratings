@@ -1,24 +1,24 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.16 (Ranked 919)  
+Rating: 4.16 (Ranked 920)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,844 |
-| Hey Good Hookin | 69.00% | ~4,231 |
-| I'm on a Boat! | 60.00% | ~3,679 |
+| Fish Just Got Reel | 79.00% | ~4,845 |
+| Hey Good Hookin | 69.00% | ~4,232 |
+| I'm on a Boat! | 60.00% | ~3,680 |
 | Can you smell what the Rod is Hooking | 56.00% | ~3,434 |
 | Scaling up | 56.00% | ~3,434 |
 | More Fish in the Sea | 50.00% | ~3,066 |
-| Ready to Rod and Roll | 47.00% | ~2,882 |
+| Ready to Rod and Roll | 47.00% | ~2,883 |
 | Fish Out of Water | 36.00% | ~2,208 |
 | License to Gill | 33.00% | ~2,024 |
-| Things that go Splash in the Night | 32.00% | ~1,962 |
-| Goldfish? | 29.00% | ~1,778 |
-| Going for Gold | 26.00% | ~1,594 |
-| I'm Hooked! | 20.00% | ~1,226 |
+| Things that go Splash in the Night | 32.00% | ~1,963 |
+| Goldfish? | 29.00% | ~1,779 |
+| Going for Gold | 26.00% | ~1,595 |
+| I'm Hooked! | 20.00% | ~1,227 |
 | Diamond in the Rough | 13.00% | ~797 |
 | More than a Tourist | 11.00% | ~675 |
 | School's Out for Summer | 11.00% | ~675 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~6 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,132 (Ranked 172)  
+Progressed: 6,133 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,6 +232,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 6,117 | 0 |
 | 2023-10-25 | 6,118 | 0 |
 | 2023-10-26 | 6,132 | 0 |
+| 2023-10-27 | 6,133 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 460)  
 Sum: 186 (Ranked 400)  

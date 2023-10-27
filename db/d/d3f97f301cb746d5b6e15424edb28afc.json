@@ -766,9 +766,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -950,9 +950,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:04:06.5069818+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:04:00.4361496+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:00:39.9061269+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:04:06.5070812+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:00:34.8011809+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:04:00.4362636+00:00"
 }

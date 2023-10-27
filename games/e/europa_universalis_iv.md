@@ -28,10 +28,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.80% | ~3,521 |
 | My armies are invincible! | 0.70% | ~3,081 |
 | Agressive Expander | 0.60% | ~2,641 |
-| Azur semé de lis or | 0.50% | ~2,200 |
-| City of Cities | 0.50% | ~2,200 |
-| Combined Arms | 0.50% | ~2,200 |
-| This navy can take it all | 0.50% | ~2,200 |
+| Azur semé de lis or | 0.50% | ~2,201 |
+| City of Cities | 0.50% | ~2,201 |
+| Combined Arms | 0.50% | ~2,201 |
+| This navy can take it all | 0.50% | ~2,201 |
 | Bright Spark | 0.40% | ~1,760 |
 | The Emperors new clothes | 0.40% | ~1,760 |
 | Factionalism | 0.40% | ~1,760 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,091 (Ranked 41)  
+Progressed: 440,108 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
-| 2023-10-27 | 440,091 | 1 |
+| 2023-10-27 | 440,108 | 1 |
 ## Awards
 Max (Educational): 6,687  (Ranked 56)  
 Sum: 54,981 (Ranked 24)  

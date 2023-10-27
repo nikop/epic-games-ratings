@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -735,6 +735,11 @@
       "Time": "2023-10-27T02:24:27.8869157+00:00",
       "NumProgressed": 810,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T04:07:32.2484166+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -779,7 +784,7 @@
       "Name": "Blobmeister",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -827,7 +832,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -835,7 +840,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -843,15 +848,15 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Obsessively Thorough",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -889,9 +894,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -923,7 +928,7 @@
       "Name": "Long Live Rock",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -986,14 +991,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:08:21.3786834+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:07:32.2484158+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:00:33.5289937+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:08:21.3787126+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:00:28.3177387+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:07:32.2484396+00:00"
 }

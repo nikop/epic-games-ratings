@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -2399,6 +2399,11 @@
       "Time": "2023-10-27T01:48:28.9857233+00:00",
       "NumProgressed": 961,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T04:06:37.961266+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2416,9 +2421,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 443
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2450,7 +2455,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2530,7 +2535,7 @@
       "Name": "Burnt Smell",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2618,7 +2623,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2682,7 +2687,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2698,7 +2703,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2762,7 +2767,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2770,7 +2775,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2778,7 +2783,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2842,7 +2847,7 @@
       "Name": "The Last of Us",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2858,7 +2863,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2937,14 +2942,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:06:46.2858788+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:06:37.9612652+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:01:09.2954376+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:06:46.285955+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:01:04.8251703+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:06:37.9613483+00:00"
 }

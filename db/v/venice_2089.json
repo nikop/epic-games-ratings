@@ -4,7 +4,7 @@
   "ProductSlug": "venice-2089-2bad63",
   "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:15.5806604+00:00",
   "LastChanged": "2023-03-31T05:58:15.5806605+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.3502386+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:01:41.1531356+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:03:17.8659665+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:01:35.6337545+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:03:12.5018979+00:00"
 }

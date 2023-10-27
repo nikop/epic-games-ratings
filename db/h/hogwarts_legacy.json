@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9585,9 +9585,9 @@
       "Count": 741
     }
   ],
-  "EOS_Progressed": 299050,
+  "EOS_Progressed": 299053,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -29795,6 +29795,11 @@
       "Time": "2023-10-27T03:09:00.5998562+00:00",
       "NumProgressed": 299050,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-10-27T04:08:52.0174957+00:00",
+      "NumProgressed": 299053,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 45,
@@ -29894,7 +29899,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14952
+      "UsersEstimate": 14953
     },
     {
       "ID": "PFA_20",
@@ -29998,7 +30003,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "PFA_32",
@@ -30046,7 +30051,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "PFA_38",
@@ -30070,7 +30075,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14952
+      "UsersEstimate": 14953
     },
     {
       "ID": "PFA_40",
@@ -30078,7 +30083,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "PFA_41",
@@ -30086,7 +30091,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14952
+      "UsersEstimate": 14953
     },
     {
       "ID": "PFA_42",
@@ -30110,7 +30115,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26914
+      "UsersEstimate": 26915
     },
     {
       "ID": "PFA_45",
@@ -30142,7 +30147,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38876
+      "UsersEstimate": 38877
     },
     {
       "ID": "PFA_8",
@@ -30158,14 +30163,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26914
+      "UsersEstimate": 26915
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299050,
+      "Progressed": 299053,
       "Completed": 495
     }
   ],
@@ -30173,8 +30178,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-27T02:57:15.655179+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:09:00.5998555+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:08:52.0174952+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.7468486+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:57:15.6551797+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:09:00.6000578+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:57:14.0432731+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:08:52.0176765+00:00"
 }

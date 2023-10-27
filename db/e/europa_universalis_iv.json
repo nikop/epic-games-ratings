@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -11241,9 +11241,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440091,
+  "EOS_Progressed": 440108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5374,
+  "EOS_NewPlayers": 5369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32856,6 +32856,11 @@
       "Time": "2023-10-27T03:07:16.6935553+00:00",
       "NumProgressed": 440091,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T04:07:08.5260708+00:00",
+      "NumProgressed": 440108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33147,7 +33152,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -33379,7 +33384,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_cold_war",
@@ -33403,7 +33408,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -35371,7 +35376,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -35698,21 +35703,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440091,
+      "Progressed": 440108,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440091,
+      "Progressed": 440108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-27T01:38:34.428763+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:07:16.6935548+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:07:08.52607+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:57:28.5081199+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:07:16.6951202+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:57:25.9444794+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:07:08.5275061+00:00"
 }

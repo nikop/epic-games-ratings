@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -825,9 +825,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1134,8 +1134,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:05:30.0360974+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:05:23.1421733+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:01:22.5203005+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:05:30.0361395+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:01:17.2488553+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:05:23.1422151+00:00"
 }

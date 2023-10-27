@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "LEVEL_135_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 135 pieces",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_240_001",
@@ -374,8 +374,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:04:14.5416765+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:04:08.4562757+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:00:05.3729406+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:04:14.5417041+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:59:59.8114124+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:04:08.4562989+00:00"
 }

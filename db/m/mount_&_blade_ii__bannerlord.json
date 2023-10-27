@@ -8268,9 +8268,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63986,
+  "EOS_Progressed": 63988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28298,6 +28298,11 @@
       "Time": "2023-10-27T01:50:21.686219+00:00",
       "NumProgressed": 63986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T04:08:35.6262654+00:00",
+      "NumProgressed": 63988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28309,7 +28314,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7678
+      "UsersEstimate": 7679
     },
     {
       "ID": "Apple of my eye",
@@ -28533,7 +28538,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21115
+      "UsersEstimate": 21116
     },
     {
       "ID": "Lawbringer",
@@ -28661,7 +28666,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12157
+      "UsersEstimate": 12158
     },
     {
       "ID": "This Is Our Land",
@@ -28701,7 +28706,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -28716,15 +28721,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63986,
+      "Progressed": 63988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-26T21:02:28.7702222+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:08:44.9408926+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:08:35.6262649+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:01:42.605709+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:08:44.9410439+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:01:37.0617083+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:08:35.6264111+00:00"
 }

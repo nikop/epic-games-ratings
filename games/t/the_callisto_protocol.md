@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 903)  
+Rating: 4.19 (Ranked 904)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 903)
 | In Striking Distance | 2.00% | ~326 |
 | One Last Job | 2.00% | ~84 |
 | This Isn't About Escape | 1.00% | ~42 |
+| Armed to the Teeth | 0.80% | ~34 |
 | Big Spender | 0.80% | ~34 |
-| Armed to the Teeth | 0.70% | ~30 |
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~30 |
 | Information Overload | 0.70% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 903)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,293 (Ranked 137)  
+Progressed: 16,294 (Ranked 137)  
 Completed: 77 (0.47%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 77 (0.47%) (Ranked 190)
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
-| 2023-10-27 | 16,293 | 77 |
+| 2023-10-27 | 16,294 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 382)  
 Sum: 455 (Ranked 324)  

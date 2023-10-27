@@ -4,7 +4,7 @@
   "ProductSlug": "tiny-thor-76de1f",
   "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 413,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-05T12:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-06-05T20:58:34.8558678+00:00",
   "FirstSeenAchievements": "2023-05-22T08:02:13.999598+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:05:25.5690215+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:05:18.6278999+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:33.4161778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:57:26.3781242+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:05:25.5690256+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:57:24.5052897+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:05:18.6279037+00:00"
 }

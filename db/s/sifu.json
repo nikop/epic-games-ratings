@@ -6,8 +6,8 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7257,9 +7257,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 715968,
+  "EOS_Progressed": 715969,
   "EOS_Completed": 12925,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -23997,6 +23997,11 @@
       "Time": "2023-10-27T03:03:15.8406498+00:00",
       "NumProgressed": 715968,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-27T04:03:10.2758904+00:00",
+      "NumProgressed": 715969,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -24462,9 +24467,9 @@
       "ID": "58_Arena_Music",
       "SetID": "14c2oii",
       "Name": "Beatmaker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 51
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -24487,21 +24492,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25269,
+      "Progressed": 25270,
       "Completed": 10719
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715968,
+      "Progressed": 715969,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-27T02:13:32.0934188+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:03:15.8406491+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:03:10.2758899+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:57:48.6314148+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:03:15.8408081+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:57:47.5130582+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:03:10.2760419+00:00"
 }

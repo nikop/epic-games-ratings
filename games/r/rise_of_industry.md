@@ -5,18 +5,18 @@ Rating: 4.24 (Ranked 866)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~358,323 |
-| Well educated | 37.00% | ~276,207 |
-| City Planner | 19.00% | ~141,836 |
-| Deforester | 17.00% | ~126,906 |
-| Big Hauling | 16.00% | ~119,441 |
-| Apprentice Manufacturer | 13.00% | ~97,046 |
-| Exporter | 13.00% | ~97,046 |
+| Entrepreneur | 48.00% | ~358,326 |
+| Well educated | 37.00% | ~276,209 |
+| City Planner | 19.00% | ~141,837 |
+| Deforester | 17.00% | ~126,907 |
+| Big Hauling | 16.00% | ~119,442 |
+| Apprentice Manufacturer | 13.00% | ~97,047 |
+| Exporter | 13.00% | ~97,047 |
 | I would drive 500 tiles... | 12.00% | ~89,581 |
 | Landscaper | 12.00% | ~89,581 |
-| Railwayman | 8.00% | ~59,720 |
-| Penniless | 6.00% | ~44,790 |
-| Massive Gains | 6.00% | ~44,790 |
+| Railwayman | 8.00% | ~59,721 |
+| Penniless | 6.00% | ~44,791 |
+| Massive Gains | 6.00% | ~44,791 |
 | Salesman | 3.00% | ~22,395 |
 | Engineer | 2.00% | ~14,930 |
 | High Flyer | 2.00% | ~14,930 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 866)
 | Master Builder | 0.10% | ~747 |
 | Hard working | 0.10% | ~747 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,506 (Ranked 18)  
+Progressed: 746,512 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 4 (0.00%) (Ranked 328)
 | 2023-10-24 | 745,996 | 4 |
 | 2023-10-25 | 746,221 | 4 |
 | 2023-10-26 | 746,472 | 4 |
-| 2023-10-27 | 746,506 | 4 |
+| 2023-10-27 | 746,512 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

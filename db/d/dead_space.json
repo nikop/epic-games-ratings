@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -677,9 +677,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3807,6 +3807,11 @@
       "Time": "2023-10-27T02:24:01.7086548+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T04:07:10.3172262+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3819,7 +3824,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "achievement_10",
@@ -3851,7 +3856,7 @@
       "Name": "Final Regeneration",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "achievement_14",
@@ -3929,9 +3934,9 @@
       "ID": "achievement_22",
       "SetID": "222fo9l",
       "Name": "A Cut Above",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_23",
@@ -3979,7 +3984,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "achievement_29",
@@ -4011,7 +4016,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "achievement_32",
@@ -4107,15 +4112,15 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_44",
@@ -4123,7 +4128,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_45",
@@ -4155,15 +4160,15 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 656
     },
     {
       "ID": "achievement_7",
@@ -4194,7 +4199,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 7
     }
   ],
@@ -4202,8 +4207,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-24T11:59:43.9423554+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:07:18.6797007+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:07:10.3172246+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:00:18.4331141+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:07:18.6797674+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:00:12.951747+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:07:10.3172848+00:00"
 }

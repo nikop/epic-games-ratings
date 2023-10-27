@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2252,
+  "EOS_Progressed": 2273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2014,
+  "EOS_NewPlayers": 2027,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -962,6 +962,11 @@
       "Time": "2023-10-27T03:08:37.5013904+00:00",
       "NumProgressed": 2252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T04:08:28.1557557+00:00",
+      "NumProgressed": 2273,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -982,7 +987,7 @@
       "Name": "Baby Steps",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 205
     },
     {
       "ID": "BeLikeWater",
@@ -1044,9 +1049,9 @@
       "ID": "FirstTime",
       "SetID": "acc6ea0",
       "Name": "First Time?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 318
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1118,7 +1123,7 @@
       "Name": "Nasty!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NoMoreTotems",
@@ -1166,7 +1171,7 @@
       "Name": "The Old-School Way",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TheQuarterback",
@@ -1174,7 +1179,7 @@
       "Name": "The Quarterback",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 227
     },
     {
       "ID": "ThisIsDharma",
@@ -1245,14 +1250,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2252,
+      "Progressed": 2273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:08:37.5013887+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:08:28.1557551+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:59:26.1590231+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:08:37.50142+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:59:21.2527038+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:08:28.155787+00:00"
 }

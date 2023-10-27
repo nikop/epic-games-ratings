@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4474,
+  "EOS_Progressed": 4476,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8184,6 +8184,11 @@
       "Time": "2023-10-27T02:25:34.3250381+00:00",
       "NumProgressed": 4474,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-27T04:09:10.7795862+00:00",
+      "NumProgressed": 4476,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8196,7 +8201,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8236,7 +8241,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8252,7 +8257,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8260,7 +8265,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -8268,7 +8273,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -8276,7 +8281,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -8324,15 +8329,15 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 985
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8348,7 +8353,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8379,15 +8384,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4474,
+      "Progressed": 4476,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-27T03:09:19.1206092+00:00",
+  "LastChanged_Achievements": "2023-10-27T04:09:10.7795857+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:57:46.7471333+00:00",
-  "LastUpdate_Achievements": "2023-10-27T03:09:19.1206651+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:57:45.7170467+00:00",
+  "LastUpdate_Achievements": "2023-10-27T04:09:10.7796501+00:00"
 }

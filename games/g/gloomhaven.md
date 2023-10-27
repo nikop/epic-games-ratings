@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,009 |
-| Overkill | 34.00% | ~5,542 |
-| A normal day in Gloomhaven | 34.00% | ~5,542 |
-| Vaccine Incoming | 33.00% | ~5,379 |
-| Spread the plague | 30.00% | ~4,890 |
-| Get over here! | 24.00% | ~3,912 |
-| Just when I thought I was out... | 19.00% | ~3,097 |
-| Precious! | 17.00% | ~2,771 |
-| Mine... All Mine... | 17.00% | ~2,771 |
-| Light of my life | 15.00% | ~2,445 |
-| Anatomy Lesson | 15.00% | ~2,445 |
-| Grizzled veteran | 14.00% | ~2,282 |
-| You activated my trap card! | 13.00% | ~2,119 |
-| Obstacle race | 13.00% | ~2,119 |
-| Augmented rat | 12.00% | ~1,956 |
-| Doom and gloom | 11.00% | ~1,793 |
-| Who's the Boss? | 9.00% | ~1,467 |
-| Dungeon Veteran | 8.00% | ~1,304 |
-| Pack leader | 8.00% | ~1,304 |
-| Pain is your friend | 8.00% | ~1,304 |
-| Black death | 8.00% | ~1,304 |
-| Play it again, Sam | 8.00% | ~1,304 |
+| I'm not dead yet | 43.00% | ~7,012 |
+| Overkill | 34.00% | ~5,544 |
+| A normal day in Gloomhaven | 34.00% | ~5,544 |
+| Vaccine Incoming | 33.00% | ~5,381 |
+| Spread the plague | 30.00% | ~4,892 |
+| Get over here! | 24.00% | ~3,914 |
+| Just when I thought I was out... | 19.00% | ~3,098 |
+| Precious! | 17.00% | ~2,772 |
+| Mine... All Mine... | 17.00% | ~2,772 |
+| Light of my life | 15.00% | ~2,446 |
+| Anatomy Lesson | 15.00% | ~2,446 |
+| Grizzled veteran | 14.00% | ~2,283 |
+| You activated my trap card! | 13.00% | ~2,120 |
+| Obstacle race | 13.00% | ~2,120 |
+| Augmented rat | 12.00% | ~1,957 |
+| Doom and gloom | 11.00% | ~1,794 |
+| Who's the Boss? | 9.00% | ~1,468 |
+| Dungeon Veteran | 8.00% | ~1,305 |
+| Pack leader | 8.00% | ~1,305 |
+| Pain is your friend | 8.00% | ~1,305 |
+| Black death | 8.00% | ~1,305 |
+| Play it again, Sam | 8.00% | ~1,305 |
 | Quad damage | 6.00% | ~978 |
 | Power Up! | 5.00% | ~815 |
 | The Pro from Dover | 5.00% | ~815 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,300 (Ranked 136)  
+Progressed: 16,307 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.01%) (Ranked 308)
 | 2023-10-24 | 15,877 | 1 |
 | 2023-10-25 | 16,063 | 1 |
 | 2023-10-26 | 16,260 | 1 |
-| 2023-10-27 | 16,300 | 1 |
+| 2023-10-27 | 16,307 | 1 |
 ## Awards
 Max (Character Customization): 3,560  (Ranked 90)  
 Sum: 8,316 (Ranked 98)  
