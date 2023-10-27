@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,623 |
-| Until death do us apart | 4.00% | ~17,623 |
-| Victorious! | 4.00% | ~17,623 |
-| That's a Grand Navy | 3.00% | ~13,217 |
-| That is mine! | 3.00% | ~13,217 |
-| Brothers in Arms | 2.00% | ~8,812 |
-| Cold War | 2.00% | ~8,812 |
-| For the Glory | 2.00% | ~8,812 |
-| Seriously?! | 2.00% | ~8,812 |
+| That's a Grand Army | 4.00% | ~17,625 |
+| Until death do us apart | 4.00% | ~17,625 |
+| Victorious! | 4.00% | ~17,625 |
+| That's a Grand Navy | 3.00% | ~13,219 |
+| That is mine! | 3.00% | ~13,219 |
+| Brothers in Arms | 2.00% | ~8,813 |
+| Cold War | 2.00% | ~8,813 |
+| For the Glory | 2.00% | ~8,813 |
+| Seriously?! | 2.00% | ~8,813 |
 | Defender of the Faith | 1.00% | ~4,406 |
 | It's all about luck | 1.00% | ~4,406 |
 | It's all about the money | 1.00% | ~4,406 |
@@ -22,24 +22,24 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,406 |
 | True Catholic | 1.00% | ~4,406 |
 | Truly Divine Ruler | 1.00% | ~4,406 |
-| Blockader | 0.90% | ~3,965 |
+| Blockader | 0.90% | ~3,966 |
 | Double the Love | 0.80% | ~3,525 |
 | Royal Authority | 0.80% | ~3,525 |
 | Total Control | 0.80% | ~3,525 |
 | My armies are invincible! | 0.70% | ~3,084 |
-| Agressive Expander | 0.60% | ~2,643 |
+| Agressive Expander | 0.60% | ~2,644 |
 | Azur semé de lis or | 0.50% | ~2,203 |
 | City of Cities | 0.50% | ~2,203 |
 | Combined Arms | 0.50% | ~2,203 |
 | This navy can take it all | 0.50% | ~2,203 |
-| Bright Spark | 0.40% | ~1,762 |
-| The Emperors new clothes | 0.40% | ~1,762 |
-| Factionalism | 0.40% | ~1,762 |
-| Gentle Persuasion | 0.40% | ~1,762 |
-| Isn't this the way to India? | 0.40% | ~1,762 |
-| Queen of Conquest | 0.40% | ~1,762 |
-| The Five Colonies | 0.40% | ~1,762 |
-| Trustworthy | 0.40% | ~1,762 |
+| Bright Spark | 0.40% | ~1,763 |
+| The Emperors new clothes | 0.40% | ~1,763 |
+| Factionalism | 0.40% | ~1,763 |
+| Gentle Persuasion | 0.40% | ~1,763 |
+| Isn't this the way to India? | 0.40% | ~1,763 |
+| Queen of Conquest | 0.40% | ~1,763 |
+| The Five Colonies | 0.40% | ~1,763 |
+| Trustworthy | 0.40% | ~1,763 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,322 |
 | Down Under | 0.30% | ~1,322 |
 | Electable! | 0.30% | ~1,322 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,577 (Ranked 41)  
+Progressed: 440,629 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
-| 2023-10-27 | 440,577 | 1 |
+| 2023-10-27 | 440,629 | 1 |
 ## Awards
 Max (Educational): 6,700  (Ranked 55)  
 Sum: 55,068 (Ranked 24)  

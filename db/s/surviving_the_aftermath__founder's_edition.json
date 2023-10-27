@@ -1338,9 +1338,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9899,
+  "EOS_Progressed": 9900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15723,6 +15723,11 @@
       "Time": "2023-10-27T18:05:56.1472755+00:00",
       "NumProgressed": 9899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T19:08:08.6625789+00:00",
+      "NumProgressed": 9900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15734,7 +15739,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5939
+      "UsersEstimate": 5940
     },
     {
       "ID": "10",
@@ -15766,7 +15771,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "14",
@@ -15814,7 +15819,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "2",
@@ -15846,7 +15851,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7226
+      "UsersEstimate": 7227
     },
     {
       "ID": "23",
@@ -16205,15 +16210,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9899,
+      "Progressed": 9900,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-27T15:59:51.9396375+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:05:56.1472748+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:08:08.6625781+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:58:51.2172979+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:05:56.1473902+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:59:53.6114002+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:08:08.6627391+00:00"
 }

@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469765,
+  "EOS_Progressed": 469767,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20516,6 +20516,11 @@
       "Time": "2023-10-27T18:08:55.6560784+00:00",
       "NumProgressed": 469765,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-27T19:10:27.984778+00:00",
+      "NumProgressed": 469767,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20551,7 +20556,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103348
+      "UsersEstimate": 103349
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20567,7 +20572,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46976
+      "UsersEstimate": 46977
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20615,7 +20620,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310045
+      "UsersEstimate": 310046
     },
     {
       "ID": "achievement_story_landa",
@@ -20647,7 +20652,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117441
+      "UsersEstimate": 117442
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20711,7 +20716,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159720
+      "UsersEstimate": 159721
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20983,7 +20988,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183208
+      "UsersEstimate": 183209
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21039,7 +21044,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103348
+      "UsersEstimate": 103349
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21087,7 +21092,7 @@
       "Name": "Hand of the Emperor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -21158,21 +21163,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13699,
+      "Progressed": 13701,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469765,
+      "Progressed": 469767,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:08:55.6560778+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:10:27.9847772+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:58:24.6368016+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:08:55.6563551+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:59:16.9658875+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:10:27.9851347+00:00"
 }

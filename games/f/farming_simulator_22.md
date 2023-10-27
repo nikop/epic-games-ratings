@@ -6,41 +6,41 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,939 |
-| I read Shakespeare and stuff | 64.00% | ~32,374 |
-| Just a sprinkle | 63.00% | ~31,869 |
-| I'm stumped | 61.00% | ~30,857 |
-| Plant get enough | 60.00% | ~30,351 |
-| It's just the beginning | 59.00% | ~29,845 |
-| This is just my weekend vehicle | 58.00% | ~29,339 |
-| Hard work pays off | 53.00% | ~26,810 |
-| It's never too late to farm | 50.00% | ~25,292 |
-| All out of Land | 44.00% | ~22,257 |
-| Field Trip | 44.00% | ~22,257 |
-| I like to switch it up | 40.00% | ~20,234 |
-| Help me to help you | 38.00% | ~19,222 |
-| Ultimutt Pawesomeness | 28.00% | ~14,164 |
-| Van Gogh | 26.00% | ~13,152 |
-| You wood not believe it | 22.00% | ~11,129 |
-| Vehicle fleet | 22.00% | ~11,129 |
-| The plot thickens | 16.00% | ~8,094 |
-| Large-scale supplier | 16.00% | ~8,094 |
-| Well-Oiled Machine | 16.00% | ~8,094 |
-| Long haul | 16.00% | ~8,094 |
-| Clucky Streak | 15.00% | ~7,588 |
-| That's a wrap | 15.00% | ~7,588 |
-| Fix me up | 13.00% | ~6,576 |
-| Rock on | 12.00% | ~6,070 |
-| Highly cultivated | 11.00% | ~5,564 |
-| It's sow easy | 11.00% | ~5,564 |
-| Giddy-up! | 10.00% | ~5,058 |
+| Own use | 75.00% | ~37,943 |
+| I read Shakespeare and stuff | 64.00% | ~32,378 |
+| Just a sprinkle | 63.00% | ~31,872 |
+| I'm stumped | 61.00% | ~30,861 |
+| Plant get enough | 60.00% | ~30,355 |
+| It's just the beginning | 59.00% | ~29,849 |
+| This is just my weekend vehicle | 58.00% | ~29,343 |
+| Hard work pays off | 53.00% | ~26,813 |
+| It's never too late to farm | 50.00% | ~25,296 |
+| All out of Land | 44.00% | ~22,260 |
+| Field Trip | 44.00% | ~22,260 |
+| I like to switch it up | 40.00% | ~20,236 |
+| Help me to help you | 38.00% | ~19,225 |
+| Ultimutt Pawesomeness | 28.00% | ~14,165 |
+| Van Gogh | 26.00% | ~13,154 |
+| You wood not believe it | 22.00% | ~11,130 |
+| Vehicle fleet | 22.00% | ~11,130 |
+| The plot thickens | 16.00% | ~8,095 |
+| Large-scale supplier | 16.00% | ~8,095 |
+| Well-Oiled Machine | 16.00% | ~8,095 |
+| Long haul | 16.00% | ~8,095 |
+| Clucky Streak | 15.00% | ~7,589 |
+| That's a wrap | 15.00% | ~7,589 |
+| Fix me up | 13.00% | ~6,577 |
+| Rock on | 12.00% | ~6,071 |
+| Highly cultivated | 11.00% | ~5,565 |
+| It's sow easy | 11.00% | ~5,565 |
+| Giddy-up! | 10.00% | ~5,059 |
 | Cowherd | 7.00% | ~3,541 |
 | Fluffyness | 6.00% | ~3,035 |
 | Road Trip | 6.00% | ~3,035 |
 | Helper A does not stop … ever | 6.00% | ~3,035 |
 | Bringing in the Honey | 6.00% | ~3,035 |
-| Three little piggies… | 4.00% | ~2,023 |
-| Game on | 4.00% | ~2,023 |
+| Three little piggies… | 4.00% | ~2,024 |
+| Game on | 4.00% | ~2,024 |
 | Pretty colourful | 0.80% | ~405 |
 | Original grain | 0.80% | ~405 |
 | Thoroughbred! | 0.60% | ~304 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~202 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,585 (Ranked 106)  
+Progressed: 50,591 (Ranked 106)  
 Completed: 6 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,10 +240,10 @@ Completed: 6 (0.01%) (Ranked 308)
 | 2023-10-24 | 50,454 | 6 |
 | 2023-10-25 | 50,499 | 6 |
 | 2023-10-26 | 50,540 | 6 |
-| 2023-10-27 | 50,585 | 6 |
+| 2023-10-27 | 50,591 | 6 |
 ## Awards
 Max (Great for Beginners): 5,290  (Ranked 70)  
-Sum: 41,709 (Ranked 33)  
+Sum: 41,712 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 37
 | This game has Quickly Understood Controls | 4,190 |
 | This game is Highly Recommended | 4,147 |
 | This game is Extremely Fun | 4,094 |
-| This game has Amazing Storytelling | 3,980 |
+| This game has Amazing Storytelling | 3,983 |
 | This game has Amazing Characters | 3,634 |
 | This game has a Creative Community | 3,529 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -545,4 +545,4 @@ Diff (max vs sum): 37
 | 2023-10-24 | 4.69 | - | 5,272 | 41,626 |
 | 2023-10-25 | 4.69 | - | 5,272 | 41,659 |
 | 2023-10-26 | 4.68 | - | 5,281 | 41,692 |
-| 2023-10-27 | 4.68 | - | 5,290 | 41,709 |
+| 2023-10-27 | 4.68 | - | 5,290 | 41,712 |

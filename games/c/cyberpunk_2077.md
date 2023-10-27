@@ -7,16 +7,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,881 |
-| Ten out of Ten | 0.80% | ~7,152 |
+| Ten out of Ten | 0.80% | ~7,153 |
 | Gun Fu | 0.60% | ~5,364 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
+| True Soldier | 0.60% | ~5,364 |
 | Full Body Conversion | 0.50% | ~4,470 |
 | Right Back At Ya | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
 | The Hermit | 0.50% | ~4,470 |
 | The Wheel of Fortune | 0.50% | ~4,470 |
-| True Soldier | 0.50% | ~4,470 |
 | Legend of The Afterlife | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
@@ -25,6 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.40% | ~3,576 |
 | Life of the Road | 0.40% | ~3,576 |
 | The Lovers | 0.40% | ~3,576 |
+| The World | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Fool | 0.30% | ~2,682 |
-| The World | 0.30% | ~2,682 |
 | Relic Ruler | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,058 (Ranked 15)  
+Progressed: 894,071 (Ranked 15)  
 Completed: 2,719 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,719 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,058 | 2,719 |
+| 2023-10-27 | 894,071 | 2,719 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
 Sum: 329,385 (Ranked 10)  

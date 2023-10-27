@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1176,9 +1176,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:03:11.4942118+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:04:16.669941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:58:39.2928095+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:03:11.4942362+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:59:35.2779796+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:04:16.6699666+00:00"
 }

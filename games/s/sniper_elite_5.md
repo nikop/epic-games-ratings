@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 634)  
+Rating: 4.46 (Ranked 635)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,778 |
 | Confirming Suspicions | 41.00% | ~1,551 |
-| The Kraken Wakes | 37.00% | ~1,399 |
+| The Kraken Wakes | 37.00% | ~1,400 |
 | It's Starting to Crack | 34.00% | ~1,286 |
-| Change the Channel | 31.00% | ~1,172 |
+| Change the Channel | 31.00% | ~1,173 |
 | Lord of War | 30.00% | ~1,135 |
 | Taking it back | 29.00% | ~1,097 |
 | Resourceful | 27.00% | ~1,021 |
-| Target America | 26.00% | ~983 |
+| Target America | 26.00% | ~984 |
 | The Kraken Sleeps | 25.00% | ~946 |
 | Liberté | 23.00% | ~870 |
 | Organ Grinder | 23.00% | ~870 |
@@ -27,12 +27,12 @@ Rating: 4.46 (Ranked 634)
 | Close Quarters | 16.00% | ~605 |
 | Snake in the Grass | 15.00% | ~567 |
 | Brains of the Operation | 15.00% | ~567 |
-| No Stone Unturned | 14.00% | ~529 |
-| Opposing Force | 14.00% | ~529 |
-| Enemy at the Gates | 14.00% | ~529 |
-| Fields of Glory | 14.00% | ~529 |
-| Skirmisher | 14.00% | ~529 |
-| Die Nussknacker Sweet! | 14.00% | ~529 |
+| No Stone Unturned | 14.00% | ~530 |
+| Opposing Force | 14.00% | ~530 |
+| Enemy at the Gates | 14.00% | ~530 |
+| Fields of Glory | 14.00% | ~530 |
+| Skirmisher | 14.00% | ~530 |
+| Die Nussknacker Sweet! | 14.00% | ~530 |
 | Set Europe Ablaze | 13.00% | ~492 |
 | Precision Is Key | 10.00% | ~378 |
 | My Little Friend | 10.00% | ~378 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,782 (Ranked 186)  
+Progressed: 3,783 (Ranked 186)  
 Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-24 | 3,773 | 11 |
 | 2023-10-25 | 3,777 | 11 |
 | 2023-10-26 | 3,780 | 11 |
-| 2023-10-27 | 3,782 | 11 |
+| 2023-10-27 | 3,783 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 529)  
 Sum: 21 (Ranked 530)  

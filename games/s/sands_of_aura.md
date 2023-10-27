@@ -5,13 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 81.00% | ~13 |
+| A Small Thirsty Thing | 19.00% | ~3 |
 | Dousing a Venerable Flame | 19.00% | ~3 |
 | Advanced Armaments | 19.00% | ~3 |
 | Spirit Within | 19.00% | ~3 |
-| A Small Thirsty Thing | 13.00% | ~2 |
 | Leisis Bless You | 13.00% | ~2 |
 | Smotherly Love | 6.00% | ~1 |
 | Let Me Solo Them | 6.00% | ~1 |
+| Explorer | 6.00% | ~1 |
 | The River Styx | 6.00% | ~1 |
 | The Guardian of Fire | 6.00% | ~1 |
 | Sovereignty of Irons | 6.00% | ~1 |
@@ -41,7 +42,6 @@
 | Redeemer | 0.00% | ~0 |
 | Divine Guidance | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
-| Explorer | 0.00% | ~0 |
 | A Girl From Husker | 0.00% | ~0 |
 | Frigid Winds | 0.00% | ~0 |
 | Child of Ronkurth | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "loretta-0099a6",
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:08:08.9267087+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:09:22.7026329+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3031665+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:59:35.4160726+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:08:08.9267214+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:00:57.3388478+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:09:22.7026578+00:00"
 }

@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 440)  
+Rating: 4.58 (Ranked 441)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,8 +48,8 @@ Number of Ratings: 401  (23.09.2022)
 | Depth charge | 0.90% | ~356 |
 | A zee-change | 0.80% | ~316 |
 | Leviathan | 0.80% | ~316 |
-| What lies beneath | 0.70% | ~276 |
-| Stone's Curse | 0.70% | ~276 |
+| What lies beneath | 0.70% | ~277 |
+| Stone's Curse | 0.70% | ~277 |
 | Five Years at Zee | 0.50% | ~198 |
 | The Lady's Parlour | 0.20% | ~79 |
 | A Past Wreathed in Shadows | 0.20% | ~79 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,500 (Ranked 116)  
+Progressed: 39,501 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.01%) (Ranked 308)
 | 2023-10-24 | 39,373 | 4 |
 | 2023-10-25 | 39,409 | 4 |
 | 2023-10-26 | 39,456 | 4 |
-| 2023-10-27 | 39,500 | 4 |
+| 2023-10-27 | 39,501 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 276)  
 Sum: 288 (Ranked 360)  

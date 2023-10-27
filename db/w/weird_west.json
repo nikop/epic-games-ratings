@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1945,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -2474,6 +2474,11 @@
       "Time": "2023-10-27T18:03:46.274618+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T19:05:06.3431619+00:00",
+      "NumProgressed": 1945,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2485,7 +2490,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2565,7 +2570,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2637,7 +2642,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2781,7 +2786,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2797,7 +2802,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2845,15 +2850,15 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2861,7 +2866,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2869,7 +2874,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2908,15 +2913,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1945,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:03:46.2746175+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:05:06.3431613+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:57:51.4684389+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:03:46.2746652+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:58:29.2027149+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:05:06.3432234+00:00"
 }

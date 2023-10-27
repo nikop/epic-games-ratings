@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4177,
+  "EOS_Progressed": 4178,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7144,6 +7144,11 @@
       "Time": "2023-10-27T08:04:11.6574198+00:00",
       "NumProgressed": 4177,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-27T19:05:21.0574561+00:00",
+      "NumProgressed": 4178,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7395,7 +7400,7 @@
       "Name": "Perfect Parry",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Ach032",
@@ -7505,9 +7510,9 @@
       "ID": "Ach045",
       "SetID": "12n4k20",
       "Name": "There\u0027s such a thing as TOO helpful",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 167
     },
     {
       "ID": "Ach046",
@@ -7531,7 +7536,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Ach049",
@@ -7722,13 +7727,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4177,
+      "Progressed": 4178,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2698,
+      "Progressed": 2699,
       "Completed": 1930
     }
   ],
@@ -7736,8 +7741,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:03:56.6438674+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:05:21.0574556+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:57:48.3205024+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:03:56.6439603+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:58:24.6290729+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:05:21.0575776+00:00"
 }

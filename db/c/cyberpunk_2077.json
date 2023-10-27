@@ -14264,9 +14264,9 @@
       "Count": 11655
     }
   ],
-  "EOS_Progressed": 894058,
+  "EOS_Progressed": 894071,
   "EOS_Completed": 2719,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35829,6 +35829,11 @@
       "Time": "2023-10-27T18:02:58.5030044+00:00",
       "NumProgressed": 894058,
       "NumCompleted": 2719
+    },
+    {
+      "Time": "2023-10-27T19:03:58.6350569+00:00",
+      "NumProgressed": 894071,
+      "NumCompleted": 2719
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36025,7 +36030,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7153
     },
     {
       "ID": "Temperance",
@@ -36111,9 +36116,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "ThisIsPacifica",
@@ -36135,9 +36140,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4470
+      "UsersEstimate": 5364
     },
     {
       "ID": "TrueWarrior",
@@ -36360,21 +36365,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894058,
+      "Progressed": 894071,
       "Completed": 2719
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22681,
+      "Progressed": 22694,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-27T16:02:31.4862991+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:02:58.5030039+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:03:58.6350563+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T18:00:44.836428+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:02:58.503147+00:00"
+  "LastUpdate_Ratings": "2023-10-27T19:02:33.8450028+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:03:58.6352421+00:00"
 }

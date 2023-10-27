@@ -12,8 +12,8 @@ Rating: 4.86 (Ranked 28)
 | Cream of the Crop | 13.00% | ~543 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~543 |
 | You got this, Peppermint? | 12.00% | ~501 |
-| Perfect Parry | 11.00% | ~459 |
-| Alright, that felt AWESOME! | 11.00% | ~459 |
+| Perfect Parry | 11.00% | ~460 |
+| Alright, that felt AWESOME! | 11.00% | ~460 |
 | This will cost you big time | 10.00% | ~418 |
 | I play my own way! | 10.00% | ~418 |
 | Z-shielding's got nothing on us! | 10.00% | ~418 |
@@ -33,8 +33,8 @@ Rating: 4.86 (Ranked 28)
 | I have to read these things? | 6.00% | ~251 |
 | Well that was a rush! | 5.00% | ~209 |
 | That's a lot of junk metal… | 5.00% | ~209 |
-| There's such a thing as TOO helpful | 5.00% | ~209 |
 | Beat-hit mania | 4.00% | ~167 |
+| There's such a thing as TOO helpful | 4.00% | ~167 |
 | Chip-tuned | 3.00% | ~125 |
 | Wanna hear my playlist? | 3.00% | ~125 |
 | I think I deserve some praise, here! | 2.00% | ~84 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,177 (Ranked 185)  
+Progressed: 4,178 (Ranked 185)  
 Completed: 8 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 8 (0.19%) (Ranked 236)
 | 2023-10-24 | 4,167 | 8 |
 | 2023-10-25 | 4,169 | 8 |
 | 2023-10-26 | 4,175 | 8 |
-| 2023-10-27 | 4,177 | 8 |
+| 2023-10-27 | 4,178 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

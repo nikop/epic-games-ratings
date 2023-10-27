@@ -27,7 +27,7 @@ Rating: 4.55 (Ranked 496)
 | Defeat Ratnor Rodentson | 31.00% | ~612 |
 | Return the Statues | 28.00% | ~553 |
 | Defeat Rattus Augustail | 27.00% | ~533 |
-| Complete the Chefs Book | 25.00% | ~494 |
+| Complete the Chefs Book | 26.00% | ~513 |
 | Complete Ranger Faction | 22.00% | ~434 |
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~415 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~395 |

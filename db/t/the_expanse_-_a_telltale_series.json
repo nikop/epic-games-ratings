@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,7 +193,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14374,
+  "EOS_Progressed": 14378,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
@@ -9718,6 +9718,11 @@
       "Time": "2023-10-27T18:02:51.1213718+00:00",
       "NumProgressed": 14374,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-27T19:03:48.7124621+00:00",
+      "NumProgressed": 14378,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9784,17 +9789,17 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 72
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "18",
@@ -9808,9 +9813,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "2",
@@ -9824,9 +9829,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "21",
@@ -9848,9 +9853,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "24",
@@ -9882,7 +9887,7 @@
       "Name": "Bosmang",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "28",
@@ -10009,13 +10014,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14374,
+      "Progressed": 14378,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 328,
+      "Progressed": 332,
       "Completed": 286
     }
   ],
@@ -10023,8 +10028,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-27T18:02:51.1213713+00:00",
+  "LastChanged_Achievements": "2023-10-27T19:03:48.7124615+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:57:01.7257511+00:00",
-  "LastUpdate_Achievements": "2023-10-27T18:02:51.1214457+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:57:18.8324192+00:00",
+  "LastUpdate_Achievements": "2023-10-27T19:03:48.7125828+00:00"
 }

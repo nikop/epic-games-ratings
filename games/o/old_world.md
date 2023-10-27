@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 4.00% | ~599 |
-| Play a Single Player Game | 4.00% | ~599 |
+| Settler | 4.00% | ~600 |
+| Play a Single Player Game | 4.00% | ~600 |
 | Architect | 3.00% | ~450 |
 | Explorer | 3.00% | ~450 |
 | Intrepid | 3.00% | ~450 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
+| Legionary | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
-| Legionary | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,986 (Ranked 142)  
+Progressed: 14,988 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,986 | 5 |
+| 2023-10-27 | 14,988 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

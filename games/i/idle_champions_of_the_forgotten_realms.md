@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.20% | ~398 |
 | Legends and Lore | 0.20% | ~398 |
 | The End | 0.20% | ~398 |
+| Slow Down Showdown | 0.20% | ~398 |
 | Fowl Play | 0.20% | ~398 |
 | Time Out | 0.20% | ~398 |
 | Pros and CONs | 0.10% | ~233 |
@@ -532,10 +533,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | There's a Flying Snake in my Boot! | 0.10% | ~199 |
 | Unearthed Arcana | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
-| Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,946 (Ranked 61)  
+Progressed: 232,952 (Ranked 61)  
 Completed: 2,389 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -725,15 +725,15 @@ Completed: 2,389 (1.03%) (Ranked 149)
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
-| 2023-10-27 | 232,946 | 2,389 |
+| 2023-10-27 | 232,952 | 2,389 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
-Sum: 32,233 (Ranked 41)  
+Sum: 32,239 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,456 |
-| This game has Diverse Characters | 5,441 |
+| This game has Diverse Characters | 5,447 |
 | This game has Quickly Understood Controls | 4,800 |
 | This game is Relaxing | 4,688 |
 | This game has Amazing Characters | 4,183 |
@@ -1016,4 +1016,4 @@ Diff (max vs sum): 28
 | 2023-10-24 | 4.06 | - | 5,444 | 32,194 |
 | 2023-10-25 | 4.06 | - | 5,444 | 32,204 |
 | 2023-10-26 | 4.06 | - | 5,448 | 32,215 |
-| 2023-10-27 | 4.06 | - | 5,456 | 32,233 |
+| 2023-10-27 | 4.06 | - | 5,456 | 32,239 |

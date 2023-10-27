@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 326)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,368 (Ranked 125)  
+Progressed: 24,369 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 13 (0.05%) (Ranked 285)
 | 2023-10-24 | 24,336 | 13 |
 | 2023-10-25 | 24,346 | 13 |
 | 2023-10-26 | 24,357 | 13 |
-| 2023-10-27 | 24,368 | 13 |
+| 2023-10-27 | 24,369 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
