@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2305,6 +2305,11 @@
       "Time": "2023-10-26T13:16:22.4439416+00:00",
       "NumProgressed": 508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T15:03:59.3399904+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2364,7 +2369,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2388,15 +2393,15 @@
       "Name": "La Der des Ders",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2411,7 +2416,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 0
     }
   ],
@@ -2419,8 +2424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-10-06T21:57:45.6051235+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:04:09.3970681+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:03:59.3399899+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.9867364+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:58:11.9880777+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:09.3970944+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:58:12.9210319+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:03:59.3400285+00:00"
 }

@@ -75,7 +75,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 | A Joke | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 618)  
+Progressed: 2 (Ranked 619)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |

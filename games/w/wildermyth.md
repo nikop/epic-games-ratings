@@ -6,10 +6,10 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 0.80% | ~12 |
+| The Cost of Heroism | 0.90% | ~13 |
+| Gotta Ca... Must Collect All of Them | 0.70% | ~10 |
 | How Romantic! | 0.70% | ~10 |
 | Me and My Familiar | 0.60% | ~9 |
-| Gotta Ca... Must Collect All of Them | 0.60% | ~9 |
 | Passing Shadow | 0.60% | ~9 |
 | This Too Shall Pass | 0.60% | ~9 |
 | Cutthroat Competitors | 0.50% | ~7 |
@@ -36,6 +36,7 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.10% | ~1 |
 | Turncoat | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |
+| Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
@@ -52,7 +53,6 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 0.00% | ~0 |
 | Grillmaster | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
-| Some Say I'm Too Flashy | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
 | Symbiosis | 0.00% | ~0 |
 | I'm Not Smiling | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,441 (Ranked 230)  
+Progressed: 1,442 (Ranked 230)  
 Completed: 6 (0.42%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 6 (0.42%) (Ranked 199)
 | 2023-10-24 | 1,435 | 6 |
 | 2023-10-25 | 1,437 | 6 |
 | 2023-10-26 | 1,438 | 6 |
-| 2023-10-27 | 1,441 | 6 |
+| 2023-10-27 | 1,442 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

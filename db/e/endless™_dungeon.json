@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
+  "EOS_Progressed": 823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 777,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-10-27T14:03:56.9656911+00:00",
       "NumProgressed": 822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T15:03:47.9045596+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -870,9 +875,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -888,7 +893,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1031,14 +1036,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 822,
+      "Progressed": 823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:03:56.9656904+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:03:47.9045589+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:01:22.4764738+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:03:56.9657368+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:01:16.6459105+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:03:47.9045963+00:00"
 }

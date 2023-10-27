@@ -3,11 +3,11 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 831,
-  "Ranking_Popularity": 372,
+  "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 250315,
+  "EOS_Progressed": 250321,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21715,6 +21715,11 @@
       "Time": "2023-10-27T14:06:15.2120899+00:00",
       "NumProgressed": 250315,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T15:05:58.264061+00:00",
+      "NumProgressed": 250321,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21726,7 +21731,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67585
+      "UsersEstimate": 67587
     },
     {
       "ID": "ACH_AON",
@@ -21766,7 +21771,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30038
+      "UsersEstimate": 30039
     },
     {
       "ID": "ACH_ENJOY",
@@ -21790,7 +21795,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32541
+      "UsersEstimate": 32542
     },
     {
       "ID": "ACH_HATTRICK",
@@ -21798,7 +21803,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7509
+      "UsersEstimate": 7510
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -21806,7 +21811,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22528
+      "UsersEstimate": 22529
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -21846,7 +21851,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7509
+      "UsersEstimate": 7510
     },
     {
       "ID": "ACH_IRONDEC",
@@ -21870,7 +21875,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70088
+      "UsersEstimate": 70090
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -21942,7 +21947,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62579
+      "UsersEstimate": 62580
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -22022,7 +22027,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7509
+      "UsersEstimate": 7510
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -22030,7 +22035,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20025
+      "UsersEstimate": 20026
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -22038,7 +22043,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20025
+      "UsersEstimate": 20026
     },
     {
       "ID": "ACH_SCRATCH",
@@ -22046,7 +22051,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62579
+      "UsersEstimate": 62580
     },
     {
       "ID": "ACH_SOREAD",
@@ -22118,7 +22123,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20025
+      "UsersEstimate": 20026
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -22141,7 +22146,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250315,
+      "Progressed": 250321,
       "Completed": 7
     }
   ],
@@ -22149,8 +22154,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:06:15.2120894+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:05:58.2640604+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:59:06.0959516+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:06:15.2127222+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:59:01.5698983+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:05:58.2642399+00:00"
 }

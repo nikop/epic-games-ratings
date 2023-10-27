@@ -728,9 +728,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
       "SetID": "caeik3h",
       "Name": "Defenders Of The Night",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_SUPREME_DEFENDER",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:09:33.0833687+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:09:06.2276922+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:59:56.1357422+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:09:33.0834509+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:59:50.7027475+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:09:06.2277767+00:00"
 }

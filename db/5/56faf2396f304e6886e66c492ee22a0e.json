@@ -4,7 +4,7 @@
   "ProductSlug": "hush-hush-5c1fa0",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-27T17:00:00+00:00",
@@ -204,9 +204,9 @@
       "ID": "ACHIEVEMENT_Buff",
       "SetID": "70j9o42",
       "Name": "Pump You Up",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_Cassie_Date5_Secret",
@@ -468,9 +468,9 @@
       "ID": "ACHIEVEMENT_Wine_veryfancy",
       "SetID": "70j9o42",
       "Name": "Wine And Dine",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:04:06.8002347+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:03:57.0521453+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.9704283+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:01:06.3810016+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:06.8002708+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:00:58.3204362+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:03:57.0521776+00:00"
 }

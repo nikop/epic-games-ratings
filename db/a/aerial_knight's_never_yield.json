@@ -4,7 +4,7 @@
   "ProductSlug": "aerial-knights-never-yield",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-05-19T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.1183707+00:00",
   "LastChanged": "2023-03-31T05:57:35.1183708+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:56.8685203+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:03:35.6405499+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:27.5519296+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:03:27.4441352+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:04:15.9468057+00:00"
 }

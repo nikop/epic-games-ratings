@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,880 |
+| V for Vendetta | 2.00% | ~17,881 |
 | Ten out of Ten | 0.80% | ~7,152 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
@@ -27,6 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
+| Judy vs Night City | 0.40% | ~3,576 |
 | Spin Doctor | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.30% | ~2,682 |
 | The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
-| Judy vs Night City | 0.30% | ~2,682 |
 | Relic Ruler | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,015 (Ranked 15)  
+Progressed: 894,029 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,17 +262,17 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,015 | 2,717 |
+| 2023-10-27 | 894,029 | 2,717 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
-Sum: 328,911 (Ranked 10)  
+Sum: 329,102 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 101,755 |
 | This game has Great Boss Battles | 72,793 |
 | This game is Great for Beginners | 19,028 |
-| This game has Diverse Characters | 18,681 |
+| This game has Diverse Characters | 18,872 |
 | This game is Highly Recommended | 18,000 |
 | This game has Amazing Storytelling | 17,878 |
 | This game is Extremely Fun | 17,760 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
-| 2023-10-27 | 4.64 | - | 101,755 | 328,911 |
+| 2023-10-27 | 4.64 | - | 101,755 | 329,102 |

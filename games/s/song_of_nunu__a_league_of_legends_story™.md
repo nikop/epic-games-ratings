@@ -18,13 +18,13 @@
 | On The Rocks | 53.00% | ~19 |
 | No Bites | 50.00% | ~18 |
 | Moneyball | 50.00% | ~18 |
+| Iceborn | 47.00% | ~17 |
+| Rhythm Of Willump | 47.00% | ~17 |
 | Vertical Power | 47.00% | ~17 |
-| Iceborn | 44.00% | ~16 |
-| Rhythm Of Willump | 44.00% | ~16 |
 | The Pied Piper Of Freljord | 44.00% | ~16 |
+| Tear of Freedom | 42.00% | ~15 |
 | Boom Things | 42.00% | ~15 |
 | Snowball Fightn't | 42.00% | ~15 |
-| Tear of Freedom | 39.00% | ~14 |
 | Snowy Poro | 39.00% | ~14 |
 | My Darkest Day | 36.00% | ~13 |
 | 3000 Year Blackout | 33.00% | ~12 |
@@ -46,8 +46,8 @@
 | Braum's Poro Ranch | 22.00% | ~8 |
 | One From The Heart | 22.00% | ~8 |
 | Sneaky Notai | 19.00% | ~7 |
+| It Was Him | 19.00% | ~7 |
 | Rock Star | 19.00% | ~7 |
-| It Was Him | 17.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 474)  
 Completed: 3 (8.33%) (Ranked 44)  

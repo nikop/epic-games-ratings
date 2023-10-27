@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~129,985 |
-| Dead-ball specialist | 63.00% | ~107,751 |
-| Multitasking | 52.00% | ~88,937 |
-| European Legend | 52.00% | ~88,937 |
-| Let the Games Begin | 49.00% | ~83,806 |
-| Balanced Path | 49.00% | ~83,806 |
-| High Grades | 49.00% | ~83,806 |
-| A Moment of Your Time | 47.00% | ~80,386 |
-| Aiming High | 46.00% | ~78,675 |
-| Tactical Tinkerer | 42.00% | ~71,834 |
-| Squad Building Connoisseur | 40.00% | ~68,413 |
-| Intuition and Execution | 40.00% | ~68,413 |
-| The Winning Formula | 38.00% | ~64,993 |
-| Parking the Bus | 29.00% | ~49,600 |
-| Safe House | 28.00% | ~47,889 |
-| Best of Five | 25.00% | ~42,758 |
-| Football is Everything | 24.00% | ~41,048 |
-| The Chosen One | 23.00% | ~39,338 |
-| Fresh Fit | 21.00% | ~35,917 |
-| Bring it on | 17.00% | ~29,076 |
-| Life-Like | 14.00% | ~23,945 |
-| Make the Grade | 13.00% | ~22,234 |
-| I Played Them All | 11.00% | ~18,814 |
-| Specialist | 11.00% | ~18,814 |
-| Teamwork works | 9.00% | ~15,393 |
-| First of Many | 9.00% | ~15,393 |
-| Momentous Achievement | 6.00% | ~10,262 |
-| Shop till you drop | 6.00% | ~10,262 |
-| On the way up | 6.00% | ~10,262 |
-| Volta's best | 5.00% | ~8,552 |
-| In Cahoots | 5.00% | ~8,552 |
-| Tune Your Club | 5.00% | ~8,552 |
-| Becoming Unplayable | 5.00% | ~8,552 |
-| Full-House | 4.00% | ~6,841 |
-| Sharing is Caring | 4.00% | ~6,841 |
-| Full wardrobe | 0.60% | ~1,026 |
+| Power Shot | 76.00% | ~130,028 |
+| Dead-ball specialist | 63.00% | ~107,787 |
+| Multitasking | 52.00% | ~88,967 |
+| European Legend | 52.00% | ~88,967 |
+| Let the Games Begin | 49.00% | ~83,834 |
+| Balanced Path | 49.00% | ~83,834 |
+| High Grades | 49.00% | ~83,834 |
+| A Moment of Your Time | 47.00% | ~80,412 |
+| Aiming High | 46.00% | ~78,701 |
+| Tactical Tinkerer | 42.00% | ~71,858 |
+| Squad Building Connoisseur | 40.00% | ~68,436 |
+| Intuition and Execution | 40.00% | ~68,436 |
+| The Winning Formula | 38.00% | ~65,014 |
+| Parking the Bus | 29.00% | ~49,616 |
+| Safe House | 28.00% | ~47,905 |
+| Best of Five | 25.00% | ~42,772 |
+| Football is Everything | 24.00% | ~41,062 |
+| The Chosen One | 23.00% | ~39,351 |
+| Fresh Fit | 21.00% | ~35,929 |
+| Bring it on | 17.00% | ~29,085 |
+| Life-Like | 14.00% | ~23,953 |
+| Make the Grade | 13.00% | ~22,242 |
+| I Played Them All | 11.00% | ~18,820 |
+| Specialist | 11.00% | ~18,820 |
+| Teamwork works | 9.00% | ~15,398 |
+| First of Many | 9.00% | ~15,398 |
+| Momentous Achievement | 6.00% | ~10,265 |
+| Shop till you drop | 6.00% | ~10,265 |
+| On the way up | 6.00% | ~10,265 |
+| Volta's best | 5.00% | ~8,554 |
+| In Cahoots | 5.00% | ~8,554 |
+| Tune Your Club | 5.00% | ~8,554 |
+| Becoming Unplayable | 5.00% | ~8,554 |
+| Full-House | 4.00% | ~6,844 |
+| Sharing is Caring | 4.00% | ~6,844 |
+| Full wardrobe | 0.60% | ~1,027 |
 | Girl Power | 0.40% | ~684 |
 | Training Addict | 0.10% | ~171 |
 | Dazzling Personality | 0.10% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,033 (Ranked 72)  
+Progressed: 171,090 (Ranked 72)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 169,046 | 0 |
 | 2023-10-25 | 169,845 | 0 |
 | 2023-10-26 | 170,616 | 0 |
-| 2023-10-27 | 171,033 | 0 |
+| 2023-10-27 | 171,090 | 0 |
 ## Awards
 Max (Diverse Characters): 20,533  (Ranked 19)  
-Sum: 103,662 (Ranked 14)  
+Sum: 103,688 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -100,9 +100,9 @@ Diff (max vs sum): 5
 | This game has a Competitive Community | 13,454 |
 | This game has Amazing Characters | 11,698 |
 | This game is Extremely Fun | 11,270 |
-| This game has Competitive Players | 11,232 |
-| This game has Amazing Storytelling | 11,037 |
-| This game has Quickly Understood Controls | 10,178 |
+| This game has Competitive Players | 11,239 |
+| This game has Amazing Storytelling | 11,049 |
+| This game has Quickly Understood Controls | 10,185 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -402,4 +402,4 @@ Diff (max vs sum): 5
 | 2023-10-24 | 4.26 | 20,492 | 103,513 |
 | 2023-10-25 | 4.26 | 20,492 | 103,564 |
 | 2023-10-26 | 4.26 | 20,505 | 103,634 |
-| 2023-10-27 | 4.26 | 20,533 | 103,662 |
+| 2023-10-27 | 4.26 | 20,533 | 103,688 |

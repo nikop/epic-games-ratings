@@ -2,12 +2,12 @@
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "NumberOfRatings": 2102,
   "RatingHistory": [
     {
@@ -4224,6 +4224,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 3306,
       "NumberOfAwardsMax": 391
+    },
+    {
+      "Time": "2023-10-27T14:58:43.5939223+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3306,
+      "NumberOfAwardsMax": 391
     }
   ],
   "ReviewsDisabled": false,
@@ -4327,8 +4333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2023-10-27T10:58:19.8116734+00:00",
+  "LastChanged": "2023-10-27T14:58:43.5939221+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.2039768+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:58:47.3561093+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:08:04.9795069+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:58:43.593923+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:07:41.7760638+00:00"
 }

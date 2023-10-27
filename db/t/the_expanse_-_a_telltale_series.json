@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14366,
+  "EOS_Progressed": 14368,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9698,6 +9698,11 @@
       "Time": "2023-10-27T14:03:58.4604237+00:00",
       "NumProgressed": 14366,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-27T15:03:49.3935472+00:00",
+      "NumProgressed": 14368,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9732,9 +9737,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "13",
@@ -9844,9 +9849,9 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "26",
@@ -9884,9 +9889,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "30",
@@ -9989,13 +9994,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14366,
+      "Progressed": 14368,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 320,
+      "Progressed": 322,
       "Completed": 286
     }
   ],
@@ -10003,8 +10008,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:03:58.4604232+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:03:49.3935466+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:03:22.4537254+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:03:58.4605797+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:03:16.2346657+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:03:49.3936699+00:00"
 }

@@ -4013,9 +4013,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11826,
+  "EOS_Progressed": 11829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14493,6 +14493,11 @@
       "Time": "2023-10-27T14:04:54.1007683+00:00",
       "NumProgressed": 11826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T15:04:40.714244+00:00",
+      "NumProgressed": 11829,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14504,7 +14509,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     },
     {
       "ID": "02_BurningCity",
@@ -14512,7 +14517,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14520,7 +14525,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "04_FithCrusade",
@@ -15431,21 +15436,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10608,
+      "Progressed": 10611,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11826,
+      "Progressed": 11829,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-27T13:06:11.886434+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:04:54.1007675+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:04:40.7142429+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:03:24.5148045+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:54.1010125+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:03:17.8912524+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:04:40.714481+00:00"
 }

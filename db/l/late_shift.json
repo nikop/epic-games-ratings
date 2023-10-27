@@ -1175,9 +1175,9 @@
       "ID": "ENDING_6",
       "SetID": "8eejhlh",
       "Name": "The Bribe",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "ENDING_7",
@@ -1288,8 +1288,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:05:09.8900821+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:04:55.7452673+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:59:19.9755583+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:05:09.8901063+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:59:13.1752318+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:04:55.7452892+00:00"
 }

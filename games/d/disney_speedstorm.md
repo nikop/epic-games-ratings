@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 698)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~12,955 |
-| IT MAKES BOOM! | 3.00% | ~7,773 |
-| EXTRA BOOST | 2.00% | ~5,182 |
-| PROTECTED | 2.00% | ~5,182 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,591 |
-| AGGRESSIVE RACER | 1.00% | ~2,591 |
-| PRO | 1.00% | ~2,591 |
-| A TIGER'S FEAR | 0.90% | ~2,332 |
+| ROOKIE | 5.00% | ~12,962 |
+| IT MAKES BOOM! | 3.00% | ~7,777 |
+| EXTRA BOOST | 2.00% | ~5,185 |
+| PROTECTED | 2.00% | ~5,185 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,592 |
+| AGGRESSIVE RACER | 1.00% | ~2,592 |
+| PRO | 1.00% | ~2,592 |
+| A TIGER'S FEAR | 0.90% | ~2,333 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,296 |
 | ACE SPEEDSTER | 0.50% | ~1,296 |
-| DEFEAT OUR CHAMPION | 0.40% | ~1,036 |
-| TRAINING HARD | 0.30% | ~777 |
-| RELEASE THE KRAKEN | 0.30% | ~777 |
-| BE OUR GUEST | 0.30% | ~777 |
-| ACE BRAWLER | 0.30% | ~777 |
-| ACE DEFENDER | 0.30% | ~777 |
-| THE EYE OF THE HUNTER | 0.30% | ~777 |
-| FRIENDLY | 0.30% | ~777 |
-| MASTER | 0.30% | ~777 |
-| LEGENDARY HERO | 0.30% | ~777 |
+| DEFEAT OUR CHAMPION | 0.40% | ~1,037 |
+| TRAINING HARD | 0.30% | ~778 |
+| RELEASE THE KRAKEN | 0.30% | ~778 |
+| BE OUR GUEST | 0.30% | ~778 |
+| ACE BRAWLER | 0.30% | ~778 |
+| ACE DEFENDER | 0.30% | ~778 |
+| THE EYE OF THE HUNTER | 0.30% | ~778 |
+| FRIENDLY | 0.30% | ~778 |
+| MASTER | 0.30% | ~778 |
+| LEGENDARY HERO | 0.30% | ~778 |
 | PERFECTLY POISED | 0.20% | ~518 |
 | EXPERIENCED CREW | 0.20% | ~518 |
 | ACE TRICKSTER | 0.20% | ~518 |
 | FRAMED! | 0.10% | ~259 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259,102 (Ranked 52)  
+Progressed: 259,240 (Ranked 52)  
 Completed: 241 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,11 +216,11 @@ Completed: 241 (0.09%) (Ranked 264)
 | 2023-10-24 | 253,504 | 241 |
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
-| 2023-10-27 | 259,102 | 241 |
+| 2023-10-27 | 259,240 | 241 |
 ## Awards
 Max (Great for Quick Sessions): 43  (Ranked 440)  
-Sum: 317 (Ranked 350)  
-Diff (max vs sum): 90  
+Sum: 319 (Ranked 349)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 43 |
@@ -229,9 +229,9 @@ Diff (max vs sum): 90
 | This game has Amazing Characters | 29 |
 | This game is Highly Recommended | 27 |
 | This game has Quickly Understood Controls | 26 |
+| This game has Competitive Players | 26 |
 | This game has a Competitive Community | 25 |
 | This game has Amazing Storytelling | 24 |
-| This game has Competitive Players | 24 |
 | This game has Playful Visuals | 21 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
@@ -263,4 +263,4 @@ Diff (max vs sum): 90
 | 2023-10-24 | 4.41 | 38 | 250 |
 | 2023-10-25 | 4.42 | 38 | 261 |
 | 2023-10-26 | 4.42 | 43 | 270 |
-| 2023-10-27 | 4.42 | 43 | 317 |
+| 2023-10-27 | 4.42 | 43 | 319 |

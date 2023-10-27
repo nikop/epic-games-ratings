@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1941,
+  "EOS_Progressed": 1942,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -2464,6 +2464,11 @@
       "Time": "2023-10-27T12:04:42.9322817+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T15:04:52.2054919+00:00",
+      "NumProgressed": 1942,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2483,7 +2488,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2499,7 +2504,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2555,7 +2560,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2619,7 +2624,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2747,7 +2752,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_REVENANT",
@@ -2763,7 +2768,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2771,7 +2776,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1378
+      "UsersEstimate": 1379
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2803,7 +2808,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2851,7 +2856,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2859,7 +2864,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2875,7 +2880,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -2898,15 +2903,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1941,
+      "Progressed": 1942,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:05:06.1868552+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:04:52.2054913+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-27T13:58:38.2783202+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:05:06.1869242+00:00"
+  "LastUpdate_Ratings": "2023-10-27T14:58:35.7667206+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:04:52.2055529+00:00"
 }

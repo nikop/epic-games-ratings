@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,708 |
-| Self-Improvement | 71.00% | ~1,378 |
+| Unforgiven | 88.00% | ~1,709 |
+| Self-Improvement | 71.00% | ~1,379 |
 | Perky | 65.00% | ~1,262 |
 | Let’s Ride | 60.00% | ~1,165 |
-| Welcome to the Weird West | 57.00% | ~1,106 |
-| Dead or Alive | 56.00% | ~1,087 |
-| Full House | 37.00% | ~718 |
+| Welcome to the Weird West | 57.00% | ~1,107 |
+| Dead or Alive | 56.00% | ~1,088 |
+| Full House | 37.00% | ~719 |
 | Off the Trail | 34.00% | ~660 |
-| Justice Served | 30.00% | ~582 |
+| Justice Served | 30.00% | ~583 |
 | Chain Reaction | 26.00% | ~505 |
 | Through Their Eyes | 26.00% | ~505 |
-| Dishonored | 25.00% | ~485 |
-| Rain of Death | 25.00% | ~485 |
-| Scholar | 25.00% | ~485 |
-| The Great Escape | 23.00% | ~446 |
+| Dishonored | 25.00% | ~486 |
+| Rain of Death | 25.00% | ~486 |
+| Scholar | 25.00% | ~486 |
+| The Great Escape | 23.00% | ~447 |
 | That’s All, Folks | 19.00% | ~369 |
 | Fallen Star | 16.00% | ~311 |
 | Here Comes Santa Claus | 16.00% | ~311 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~155 |
 | Knuckle Sandwich | 8.00% | ~155 |
 | Getting the Gang Back Together | 7.00% | ~136 |
-| Who You Gonna Call? | 6.00% | ~116 |
+| Who You Gonna Call? | 6.00% | ~117 |
 | Healing Old Wounds | 5.00% | ~97 |
 | This Is Sparta | 5.00% | ~97 |
 | What’s in the Box? | 5.00% | ~97 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 216)  
+Progressed: 1,942 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-24 | 1,926 | 7 |
 | 2023-10-25 | 1,930 | 7 |
 | 2023-10-26 | 1,939 | 7 |
-| 2023-10-27 | 1,941 | 7 |
+| 2023-10-27 | 1,942 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

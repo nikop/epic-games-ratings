@@ -15,18 +15,18 @@
 | Freezing Cold | 17.00% | ~18 |
 | Searing Heat | 15.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~15 |
+| The Golden Flash | 13.00% | ~14 |
 | The Power of the Mountains | 13.00% | ~14 |
 | Locked and Loaded | 12.00% | ~12 |
-| The Golden Flash | 12.00% | ~12 |
-| Changing the World | 11.00% | ~11 |
+| Changing the World | 12.00% | ~12 |
 | Witch | 10.00% | ~10 |
 | The A-Team | 10.00% | ~10 |
 | Defeat Tezuth | 9.00% | ~9 |
 | Mirror, Mirror on the Wall | 8.00% | ~8 |
 | Defeat Uskol | 8.00% | ~8 |
+| Through Dangers Untold | 8.00% | ~8 |
 | Finally! | 8.00% | ~8 |
 | Craftsmen | 7.00% | ~7 |
-| Through Dangers Untold | 7.00% | ~7 |
 | A Deceiving Gift | 6.00% | ~6 |
 | Defeat Ingla | 5.00% | ~5 |
 | Bringing guns to a sword fight | 5.00% | ~5 |

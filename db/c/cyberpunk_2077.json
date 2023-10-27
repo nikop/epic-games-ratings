@@ -14172,10 +14172,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 328911,
       "NumberOfAwardsMax": 101755
+    },
+    {
+      "Time": "2023-10-27T15:03:08.3528608+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 329102,
+      "NumberOfAwardsMax": 101755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 328911,
+  "NumberOfAwards": 329102,
   "NumberOfAwardsMax": 101755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14195,7 +14201,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 18681
+      "Count": 18872
     },
     {
       "Text": "This game is Relaxing",
@@ -14252,9 +14258,9 @@
       "Count": 11655
     }
   ],
-  "EOS_Progressed": 894015,
+  "EOS_Progressed": 894029,
   "EOS_Completed": 2717,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1197,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35797,6 +35803,11 @@
       "Time": "2023-10-27T14:04:07.0667169+00:00",
       "NumProgressed": 894015,
       "NumCompleted": 2717
+    },
+    {
+      "Time": "2023-10-27T15:03:57.296208+00:00",
+      "NumProgressed": 894029,
+      "NumCompleted": 2717
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36127,9 +36138,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "VForVendetta",
@@ -36137,7 +36148,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17880
+      "UsersEstimate": 17881
     },
     {
       "ID": "YipMan",
@@ -36328,21 +36339,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894015,
+      "Progressed": 894029,
       "Completed": 2717
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22638,
+      "Progressed": 22652,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-27T12:02:17.0498622+00:00",
-  "LastChanged_Achievements": "2023-10-27T14:04:07.0667164+00:00",
+  "LastChanged": "2023-10-27T15:03:08.3528607+00:00",
+  "LastChanged_Achievements": "2023-10-27T15:03:57.2962072+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:02:11.4443345+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:07.0669308+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:03:08.3528612+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:03:57.296394+00:00"
 }

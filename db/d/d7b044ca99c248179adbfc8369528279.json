@@ -4,7 +4,7 @@
   "ProductSlug": "remedium-811743",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:02:00.1000086+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.4585486+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:00:29.5340322+00:00",
-  "LastUpdate_Achievements": "2023-10-27T14:04:17.4987364+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:00:24.1181782+00:00",
+  "LastUpdate_Achievements": "2023-10-27T15:04:06.449262+00:00"
 }
