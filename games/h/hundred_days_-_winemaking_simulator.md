@@ -6,7 +6,7 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 39.00% | ~3,770 |
+| Bye Bye | 39.00% | ~3,771 |
 | It's a good start | 10.00% | ~967 |
 | Bonjour! | 7.00% | ~677 |
 | Quack | 7.00% | ~677 |
@@ -24,9 +24,9 @@ Number of Ratings: 7,669  (23.09.2022)
 | A big garage | 2.00% | ~193 |
 | Millionaire | 2.00% | ~193 |
 | Exotic | 2.00% | ~193 |
-| Pastry Chef | 2.00% | ~193 |
 | Welcome to the club | 2.00% | ~193 |
 | Very Important Winemaker | 2.00% | ~193 |
+| Pastry Chef | 1.00% | ~97 |
 | King of Langhe | 1.00% | ~97 |
 | Gem of Monferrato | 1.00% | ~97 |
 | Treasure of Roero | 0.70% | ~68 |
@@ -38,8 +38,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~19 |
 | Master Winemaker | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,666 (Ranked 155)  
-Completed: 9 (0.09%) (Ranked 263)  
+Progressed: 9,668 (Ranked 155)  
+Completed: 9 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 9 (0.09%) (Ranked 263)
 | 2023-10-24 | 9,432 | 9 |
 | 2023-10-25 | 9,538 | 9 |
 | 2023-10-26 | 9,655 | 9 |
-| 2023-10-27 | 9,666 | 9 |
+| 2023-10-27 | 9,668 | 9 |
 ## Awards
 Max (Relaxing): 205  (Ranked 277)  
 Sum: 1,592 (Ranked 221)  

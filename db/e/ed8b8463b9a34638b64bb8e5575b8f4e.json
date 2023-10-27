@@ -3,9 +3,9 @@
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 459,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 44,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-10-25T06:07:51.0797695+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T03:07:34.8546333+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -292,9 +297,9 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "join_the_legal_team",
@@ -324,9 +329,9 @@
       "ID": "lessons_never_learnt",
       "SetID": "7i36ba9",
       "Name": "Lessons Never Learnt",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "passive_fist",
@@ -348,9 +353,9 @@
       "ID": "skipper",
       "SetID": "7i36ba9",
       "Name": "Skipper",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "taxi_drivers_knowledge",
@@ -454,13 +459,13 @@
       "ID": "7i36ba9",
       "IsBase": true,
       "Progressed": 44,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:24:20.1185882+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:07:34.8546325+00:00",
   "LastUpdate_AppInfo": "2023-10-21T01:37:11.6181106+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:16:05.7351574+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:24:20.1186127+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:00:01.4883425+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:07:34.8546522+00:00"
 }

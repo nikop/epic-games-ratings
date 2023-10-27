@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,857 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,858 |
 | First Class Student | 14.00% | ~41,867 |
 | Troll with the Punches | 13.00% | ~38,876 |
 | A Keen Sense of Spell | 12.00% | ~35,886 |
 | That's a Keeper | 12.00% | ~35,886 |
-| Grappling with a Graphorn | 11.00% | ~32,895 |
-| The One Who Mastered Memories | 11.00% | ~32,895 |
-| The Hallowed Hero | 11.00% | ~32,895 |
-| The Defender of Dragons | 11.00% | ~32,895 |
-| Loom for Improvement | 11.00% | ~32,895 |
-| A Talent for Spending | 11.00% | ~32,895 |
-| Coasting Along | 11.00% | ~32,895 |
+| Grappling with a Graphorn | 11.00% | ~32,896 |
+| The One Who Mastered Memories | 11.00% | ~32,896 |
+| The Hallowed Hero | 11.00% | ~32,896 |
+| The Defender of Dragons | 11.00% | ~32,896 |
+| Loom for Improvement | 11.00% | ~32,896 |
+| A Talent for Spending | 11.00% | ~32,896 |
+| Coasting Along | 11.00% | ~32,896 |
 | The Hero of Hogwarts | 10.00% | ~29,905 |
 | Challenge Accepted | 10.00% | ~29,905 |
 | Followed the Butterflies | 10.00% | ~29,905 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 119)
 | Room with a View | 4.00% | ~11,962 |
 | The Intrepid Explorer | 4.00% | ~11,962 |
 | The Wise Owl | 4.00% | ~11,962 |
-| Put Down Roots | 3.00% | ~8,971 |
-| The Auror's Apprentice | 3.00% | ~8,971 |
-| Floo Around the World | 3.00% | ~8,971 |
+| Put Down Roots | 3.00% | ~8,972 |
+| The Auror's Apprentice | 3.00% | ~8,972 |
+| Floo Around the World | 3.00% | ~8,972 |
 | The Good Samaritan | 2.00% | ~5,981 |
 | Rise to the Challenges | 2.00% | ~5,981 |
 | Finishing Touches | 2.00% | ~5,981 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 119)
 | The Nature of the Beast | 0.70% | ~2,093 |
 | Collector's Edition | 0.30% | ~897 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,047 (Ranked 48)  
-Completed: 495 (0.17%) (Ranked 240)  
+Progressed: 299,050 (Ranked 48)  
+Completed: 495 (0.17%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,10 +241,10 @@ Completed: 495 (0.17%) (Ranked 240)
 | 2023-10-24 | 298,780 | 492 |
 | 2023-10-25 | 298,885 | 493 |
 | 2023-10-26 | 299,029 | 495 |
-| 2023-10-27 | 299,047 | 495 |
+| 2023-10-27 | 299,050 | 495 |
 ## Awards
 Max (Character Customization): 23,806  (Ranked 17)  
-Sum: 46,718 (Ranked 30)  
+Sum: 46,721 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +256,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,172 |
 | This game is Relaxing | 1,168 |
 | This game has Amazing Characters | 1,138 |
-| This game is Highly Recommended | 1,103 |
+| This game is Highly Recommended | 1,106 |
 | This game has Quickly Understood Controls | 1,057 |
 | This game has Beautiful Visuals | 975 |
 | This game has a Creative Community | 741 |
@@ -480,4 +480,4 @@ Diff (max vs sum): -13
 | 2023-10-24 | 4.76 | 23,763 | 46,567 |
 | 2023-10-25 | 4.76 | 23,781 | 46,629 |
 | 2023-10-26 | 4.76 | 23,806 | 46,709 |
-| 2023-10-27 | 4.76 | 23,806 | 46,718 |
+| 2023-10-27 | 4.76 | 23,806 | 46,721 |

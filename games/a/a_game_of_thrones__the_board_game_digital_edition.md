@@ -6,15 +6,15 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,777 |
-| Battering Crew | 20.00% | ~5,388 |
+| Conqueror | 40.00% | ~10,778 |
+| Battering Crew | 20.00% | ~5,389 |
 | The Kingsroad | 18.00% | ~4,850 |
 | Well Stocked | 14.00% | ~3,772 |
-| Royal Fleet | 13.00% | ~3,502 |
+| Royal Fleet | 13.00% | ~3,503 |
 | The Kraken’s Grasp | 9.00% | ~2,425 |
-| Daggers in the Dark | 8.00% | ~2,155 |
-| Alliance | 8.00% | ~2,155 |
-| A Long Journey | 8.00% | ~2,155 |
+| Daggers in the Dark | 8.00% | ~2,156 |
+| Alliance | 8.00% | ~2,156 |
+| A Long Journey | 8.00% | ~2,156 |
 | Ours is the Fury | 7.00% | ~1,886 |
 | Winter is Coming | 7.00% | ~1,886 |
 | Oathkeeper | 7.00% | ~1,886 |
@@ -29,8 +29,8 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~539 |
 | War of the Five Kings | 1.00% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26,942 (Ranked 123)  
-Completed: 72 (0.27%) (Ranked 220)  
+Progressed: 26,944 (Ranked 123)  
+Completed: 72 (0.27%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,17 +219,17 @@ Completed: 72 (0.27%) (Ranked 220)
 | 2023-10-24 | 26,796 | 72 |
 | 2023-10-25 | 26,864 | 72 |
 | 2023-10-26 | 26,935 | 72 |
-| 2023-10-27 | 26,942 | 72 |
+| 2023-10-27 | 26,944 | 72 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 326)  
-Sum: 789 (Ranked 273)  
+Sum: 790 (Ranked 273)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 123 |
 | This game is Highly Recommended | 111 |
 | This game is Extremely Fun | 110 |
-| This game has Competitive Players | 99 |
+| This game has Competitive Players | 100 |
 | This game is Relaxing | 95 |
 | This game has Amazing Storytelling | 92 |
 | This game has Amazing Characters | 85 |
@@ -322,3 +322,4 @@ Diff (max vs sum): 53
 | 2023-08-02 | 4.20 | - | 123 | 786 |
 | 2023-09-03 | 4.21 | - | 123 | 786 |
 | 2023-10-21 | 4.21 | - | 123 | 789 |
+| 2023-10-27 | 4.21 | - | 123 | 790 |

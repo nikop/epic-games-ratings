@@ -6,8 +6,8 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22835,
+  "EOS_Progressed": 22836,
   "EOS_Completed": 444,
   "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 3,
@@ -20778,6 +20778,11 @@
       "Time": "2023-10-27T02:24:29.9041947+00:00",
       "NumProgressed": 22835,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-10-27T03:08:23.0667714+00:00",
+      "NumProgressed": 22836,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 20,
@@ -20909,15 +20914,15 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17583
+      "UsersEstimate": 17584
     },
     {
       "ID": "LAMBABY_LOVE",
       "SetID": "b6m2mm5",
       "Name": "Mama?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 6165
+      "UsersEstimate": 6394
     },
     {
       "ID": "NORTH_FINISHED",
@@ -20948,15 +20953,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22835,
+      "Progressed": 22836,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:24:29.9041942+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:08:23.066771+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:18:57.4249057+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:24:29.9043458+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:02:54.3072838+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:08:23.0669222+00:00"
 }

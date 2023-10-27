@@ -6,7 +6,7 @@
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
@@ -1222,10 +1222,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 789,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-10-27T03:03:03.841704+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 790,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 789,
+  "NumberOfAwards": 790,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1245,7 +1251,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1284,9 +1290,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26942,
+  "EOS_Progressed": 26944,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21629,6 +21635,11 @@
       "Time": "2023-10-27T02:25:01.8546661+00:00",
       "NumProgressed": 26942,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-27T03:08:50.5933601+00:00",
+      "NumProgressed": 26944,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 22,
@@ -21712,7 +21723,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "1025",
@@ -21752,7 +21763,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "1030",
@@ -21760,7 +21771,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "1031",
@@ -21776,7 +21787,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10777
+      "UsersEstimate": 10778
     },
     {
       "ID": "1033",
@@ -21800,7 +21811,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "1036",
@@ -21808,22 +21819,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26942,
+      "Progressed": 26944,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-10-21T12:02:48.5925906+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:25:01.8546652+00:00",
+  "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:08:50.5933597+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:19:08.2728334+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:25:01.8548471+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:03:03.8417048+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:08:50.5934879+00:00"
 }

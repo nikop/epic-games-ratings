@@ -15,6 +15,7 @@ Rating: 4.59 (Ranked 423)
 | Bosmang | 0.20% | ~29 |
 | Captain Drummer | 0.20% | ~29 |
 | Celebrations are in Order | 0.20% | ~29 |
+| Impossible Objects | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Archivist | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
@@ -31,7 +32,6 @@ Rating: 4.59 (Ranked 423)
 | Data Master | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
-| Impossible Objects | 0.10% | ~14 |
 | Keep Arjun in Check | 0.10% | ~0 |
 | Safe Cracker | 0.10% | ~0 |
 | Zen Master | 0.10% | ~0 |
@@ -41,8 +41,8 @@ Rating: 4.59 (Ranked 423)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,359 (Ranked 142)  
-Completed: 27 (0.19%) (Ranked 235)  
+Progressed: 14,360 (Ranked 142)  
+Completed: 27 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 27 (0.19%) (Ranked 235)
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
-| 2023-10-27 | 14,359 | 27 |
+| 2023-10-27 | 14,360 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

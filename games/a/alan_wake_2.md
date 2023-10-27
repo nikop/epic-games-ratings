@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Nightmare Territory | 85.00% | ~552 |
-| Hunting Season | 82.00% | ~532 |
-| Not the Last | 67.00% | ~435 |
-| Somebody's Home | 56.00% | ~363 |
-| Coffee Thermos | 55.00% | ~357 |
-| Grew Bigger | 54.00% | ~350 |
-| Secret Stashes | 50.00% | ~324 |
-| Darkness Coiled | 49.00% | ~318 |
+| Hunting Season | 82.00% | ~533 |
+| Not the Last | 68.00% | ~442 |
+| Somebody's Home | 56.00% | ~364 |
+| Coffee Thermos | 54.00% | ~351 |
+| Grew Bigger | 54.00% | ~351 |
+| Secret Stashes | 50.00% | ~325 |
+| Darkness Coiled | 50.00% | ~325 |
 | Bring It | 48.00% | ~312 |
 | Felt Good | 48.00% | ~312 |
 | Chased the Source | 48.00% | ~312 |
-| Find the Light | 43.00% | ~279 |
+| Find the Light | 43.00% | ~280 |
 | Lawman | 42.00% | ~273 |
 | Into the Overlap | 42.00% | ~273 |
 | Aimed Ahead | 37.00% | ~240 |
@@ -24,22 +24,22 @@
 | The Other Side | 33.00% | ~214 |
 | Storm Cloud | 30.00% | ~195 |
 | New York City | 30.00% | ~195 |
-| Return | 29.00% | ~188 |
-| Lights Shining | 27.00% | ~175 |
-| Yippee Ki-yay | 27.00% | ~175 |
-| Filling the Shape | 27.00% | ~175 |
+| Lights Shining | 28.00% | ~182 |
+| Return | 28.00% | ~182 |
+| Yippee Ki-yay | 27.00% | ~176 |
+| Filling the Shape | 27.00% | ~176 |
 | Shining in the Night | 26.00% | ~169 |
 | Greatest Hits | 25.00% | ~162 |
 | This is the Moment | 24.00% | ~156 |
 | Growing Stronger | 24.00% | ~156 |
-| Stop the Monster | 22.00% | ~143 |
+| Stop the Monster | 23.00% | ~150 |
 | Finding a Way | 22.00% | ~143 |
 | All His Life | 20.00% | ~130 |
-| Escape its Gravity | 19.00% | ~123 |
-| Bright Falls' Finest | 19.00% | ~123 |
+| Escape its Gravity | 19.00% | ~124 |
+| Bright Falls' Finest | 19.00% | ~124 |
 | Back in Watery | 18.00% | ~117 |
-| We Watch in the Night | 17.00% | ~110 |
-| In One Go | 15.00% | ~97 |
+| We Watch in the Night | 17.00% | ~111 |
+| In One Go | 15.00% | ~98 |
 | Strange Reality | 14.00% | ~91 |
 | Stop Right There | 14.00% | ~91 |
 | In a Fancy Hotel | 14.00% | ~91 |
@@ -50,7 +50,7 @@
 | Told and Retold | 12.00% | ~78 |
 | Behind the Masks | 12.00% | ~78 |
 | Cut Short | 12.00% | ~78 |
-| Stunning Vistas | 11.00% | ~71 |
+| Stunning Vistas | 11.00% | ~72 |
 | Filled with Rage | 9.00% | ~58 |
 | The Story Come True | 9.00% | ~58 |
 | Rock n' Roll, Baby | 9.00% | ~58 |
@@ -59,8 +59,8 @@
 | The Cult of the Word | 9.00% | ~58 |
 | His Way Out | 9.00% | ~58 |
 | Gone for Good | 8.00% | ~52 |
-| The Trail of the Writer | 7.00% | ~45 |
-| Shift in Reality | 7.00% | ~45 |
+| The Trail of the Writer | 7.00% | ~46 |
+| Shift in Reality | 7.00% | ~46 |
 | I'll Find You | 6.00% | ~39 |
 | The Koskela Brothers | 5.00% | ~32 |
 | All Smiles | 5.00% | ~32 |
@@ -71,8 +71,8 @@
 | Hidden by the Trees | 0.90% | ~6 |
 | Rustic Charm | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 271)  
-Completed: 0 (0.00%) (Ranked 327)  
+Progressed: 650 (Ranked 269)  
+Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-24 | 383 | 0 |
 | 2023-10-25 | 515 | 0 |
 | 2023-10-26 | 635 | 0 |
-| 2023-10-27 | 649 | 0 |
+| 2023-10-27 | 650 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

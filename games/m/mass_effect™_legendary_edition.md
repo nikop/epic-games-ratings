@@ -57,11 +57,11 @@
 | The Cure | 33.00% | ~268 |
 | Heart of Darkness | 33.00% | ~268 |
 | Shopaholic | 33.00% | ~268 |
+| Fade Away | 32.00% | ~260 |
 | Big Game Hunter | 32.00% | ~260 |
 | Agent | 32.00% | ~260 |
 | Revenge! | 32.00% | ~260 |
 | Focused | 31.00% | ~252 |
-| Fade Away | 31.00% | ~252 |
 | Driven | 31.00% | ~252 |
 | Cat's in the Cradle | 30.00% | ~244 |
 | Doppelganger | 30.00% | ~244 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 813 (Ranked 256)  
-Completed: 0 (0.00%) (Ranked 327)  
+Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

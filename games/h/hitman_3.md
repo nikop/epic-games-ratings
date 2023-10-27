@@ -6,18 +6,18 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~620,648 |
-| Death From Above | 45.00% | ~607,156 |
-| Master of the Household | 38.00% | ~512,709 |
+| Unseen Assassin | 46.00% | ~620,649 |
+| Death From Above | 45.00% | ~607,157 |
+| Master of the Household | 38.00% | ~512,710 |
 | Death of the Party | 36.00% | ~485,725 |
 | NEXUS-47 | 33.00% | ~445,248 |
 | The Last Tango | 31.00% | ~418,263 |
-| Nightmare Fuel | 30.00% | ~404,770 |
+| Nightmare Fuel | 30.00% | ~404,771 |
 | The Result of Previous Training | 28.00% | ~377,786 |
 | Tools of the Trade | 28.00% | ~377,786 |
-| Cleared for Field Duty | 27.00% | ~364,293 |
-| Seizing the Opportunity | 26.00% | ~350,801 |
-| Bullet Train | 21.00% | ~283,339 |
+| Cleared for Field Duty | 27.00% | ~364,294 |
+| Seizing the Opportunity | 26.00% | ~350,802 |
+| Bullet Train | 21.00% | ~283,340 |
 | Stylish Assassin | 20.00% | ~269,847 |
 | Silent Assassin | 14.00% | ~188,893 |
 | Rise Up | 12.00% | ~161,908 |
@@ -29,7 +29,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Dune Raider | 8.00% | ~107,939 |
 | No Stone Unturned | 8.00% | ~107,939 |
 | Train Surfing | 8.00% | ~107,939 |
-| Icebreaker | 7.00% | ~94,446 |
+| Icebreaker | 7.00% | ~94,447 |
 | Family Feud | 6.00% | ~80,954 |
 | Rich Harvest | 6.00% | ~80,954 |
 | Count Down From 47 | 6.00% | ~80,954 |
@@ -54,8 +54,8 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,492 |
 | The Creative Assassin | 0.70% | ~9,445 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349,235 (Ranked 9)  
-Completed: 2,163 (0.16%) (Ranked 243)  
+Progressed: 1,349,237 (Ranked 9)  
+Completed: 2,163 (0.16%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 2,163 (0.16%) (Ranked 243)
 | 2023-10-24 | 1,348,612 | 2,161 |
 | 2023-10-25 | 1,348,926 | 2,161 |
 | 2023-10-26 | 1,349,193 | 2,163 |
-| 2023-10-27 | 1,349,235 | 2,163 |
+| 2023-10-27 | 1,349,237 | 2,163 |
 ## Awards
 Max (Diverse Characters): 10,427  (Ranked 38)  
 Sum: 72,637 (Ranked 21)  

@@ -3,7 +3,7 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
@@ -762,6 +762,11 @@
       "Time": "2023-10-27T02:21:56.7740514+00:00",
       "NumProgressed": 395,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T03:05:30.0360983+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -774,7 +779,7 @@
       "Name": "Rookie",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -782,15 +787,15 @@
       "Name": "Acrobat",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -902,7 +907,7 @@
       "Name": "Solo",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1014,7 +1019,7 @@
       "Name": "Shopping time!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1110,27 +1115,27 @@
       "Name": "Mission complete",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 63,
-      "Completed": 63
+      "Progressed": 64,
+      "Completed": 64
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:21:56.7740509+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:05:30.0360974+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:17:40.7839289+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:21:56.7741009+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:01:22.5203005+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:05:30.0361395+00:00"
 }

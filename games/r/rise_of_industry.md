@@ -5,15 +5,15 @@ Rating: 4.24 (Ranked 866)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~358,320 |
-| Well educated | 37.00% | ~276,205 |
-| City Planner | 19.00% | ~141,835 |
-| Deforester | 17.00% | ~126,905 |
-| Big Hauling | 16.00% | ~119,440 |
-| Apprentice Manufacturer | 13.00% | ~97,045 |
-| Exporter | 13.00% | ~97,045 |
-| I would drive 500 tiles... | 12.00% | ~89,580 |
-| Landscaper | 12.00% | ~89,580 |
+| Entrepreneur | 48.00% | ~358,323 |
+| Well educated | 37.00% | ~276,207 |
+| City Planner | 19.00% | ~141,836 |
+| Deforester | 17.00% | ~126,906 |
+| Big Hauling | 16.00% | ~119,441 |
+| Apprentice Manufacturer | 13.00% | ~97,046 |
+| Exporter | 13.00% | ~97,046 |
+| I would drive 500 tiles... | 12.00% | ~89,581 |
+| Landscaper | 12.00% | ~89,581 |
 | Railwayman | 8.00% | ~59,720 |
 | Penniless | 6.00% | ~44,790 |
 | Massive Gains | 6.00% | ~44,790 |
@@ -21,20 +21,20 @@ Rating: 4.24 (Ranked 866)
 | Engineer | 2.00% | ~14,930 |
 | High Flyer | 2.00% | ~14,930 |
 | Captain | 0.80% | ~5,972 |
-| Billionaire | 0.70% | ~5,225 |
+| Billionaire | 0.70% | ~5,226 |
 | Vroom Vroom | 0.40% | ~2,986 |
 | Excavator | 0.30% | ~2,240 |
 | Loan Ranger | 0.30% | ~2,240 |
-| [2130] Nature Lover | 0.10% | ~746 |
-| [2130] No Quarter Given | 0.10% | ~746 |
-| [2130] Dumpster Diving | 0.10% | ~746 |
-| Freelancer | 0.10% | ~746 |
-| Director | 0.10% | ~746 |
-| Master Builder | 0.10% | ~746 |
-| Hard working | 0.10% | ~746 |
+| [2130] Nature Lover | 0.10% | ~747 |
+| [2130] No Quarter Given | 0.10% | ~747 |
+| [2130] Dumpster Diving | 0.10% | ~747 |
+| Freelancer | 0.10% | ~747 |
+| Director | 0.10% | ~747 |
+| Master Builder | 0.10% | ~747 |
+| Hard working | 0.10% | ~747 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746,500 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 327)  
+Progressed: 746,506 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 4 (0.00%) (Ranked 327)
 | 2023-10-24 | 745,996 | 4 |
 | 2023-10-25 | 746,221 | 4 |
 | 2023-10-26 | 746,472 | 4 |
-| 2023-10-27 | 746,500 | 4 |
+| 2023-10-27 | 746,506 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

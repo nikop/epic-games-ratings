@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138,177 (Ranked 75)  
-Completed: 172 (0.12%) (Ranked 250)  
+Completed: 172 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

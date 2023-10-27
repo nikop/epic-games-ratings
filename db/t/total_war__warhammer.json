@@ -2,13 +2,13 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 706,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -6397,10 +6397,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 14862,
       "NumberOfAwardsMax": 6477
+    },
+    {
+      "Time": "2023-10-27T02:59:38.1766858+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14863,
+      "NumberOfAwardsMax": 6477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14862,
+  "NumberOfAwards": 14863,
   "NumberOfAwardsMax": 6477,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6444,7 +6450,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 918
+      "Count": 919
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6494,8 +6500,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-10-26T20:59:52.6162905+00:00",
+  "LastChanged": "2023-10-27T02:59:38.1766856+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.3937139+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:15:39.0888801+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:23:15.9887486+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:59:38.1766865+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:06:39.1917527+00:00"
 }

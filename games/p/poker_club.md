@@ -5,21 +5,21 @@ Rating: 3.82 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~405,574 |
-| Handy | 41.00% | ~218,796 |
-| Cold Caller | 39.00% | ~208,124 |
-| A Bit On The Side | 27.00% | ~144,086 |
-| Backdoor | 25.00% | ~133,412 |
-| Rank Amateur | 21.00% | ~112,066 |
-| Three Way | 18.00% | ~96,057 |
+| Pro Creation | 76.00% | ~405,577 |
+| Handy | 41.00% | ~218,798 |
+| Cold Caller | 39.00% | ~208,125 |
+| A Bit On The Side | 27.00% | ~144,087 |
+| Backdoor | 25.00% | ~133,414 |
+| Rank Amateur | 21.00% | ~112,067 |
+| Three Way | 18.00% | ~96,058 |
 | Deadly Assassin | 15.00% | ~80,048 |
-| Gutshot | 14.00% | ~74,711 |
-| Risk It For A Biscuit | 14.00% | ~74,711 |
-| Showoff | 13.00% | ~69,374 |
+| Gutshot | 14.00% | ~74,712 |
+| Risk It For A Biscuit | 14.00% | ~74,712 |
+| Showoff | 13.00% | ~69,375 |
 | W.H.I.P. | 11.00% | ~58,702 |
 | Bet Bet Bet | 10.00% | ~53,365 |
-| Blindman's Bluff | 9.00% | ~48,028 |
-| Poker Joker | 9.00% | ~48,028 |
+| Blindman's Bluff | 9.00% | ~48,029 |
+| Poker Joker | 9.00% | ~48,029 |
 | Never Give Up | 8.00% | ~42,692 |
 | The Bigger They Are | 8.00% | ~42,692 |
 | Total Knock Out | 8.00% | ~42,692 |
@@ -32,9 +32,9 @@ Rating: 3.82 (Ranked 1,008)
 | On The Button | 3.00% | ~16,010 |
 | Before You Wreck Yourself | 2.00% | ~10,673 |
 | Keep Your Heads Up | 2.00% | ~10,673 |
-| Bluffing Eh? | 1.00% | ~5,336 |
-| Go For It | 1.00% | ~5,336 |
-| Holding Your Own | 1.00% | ~5,336 |
+| Bluffing Eh? | 1.00% | ~5,337 |
+| Go For It | 1.00% | ~5,337 |
+| Holding Your Own | 1.00% | ~5,337 |
 | Regular Punter | 0.70% | ~3,736 |
 | How I Roll | 0.60% | ~3,202 |
 | Club Legend | 0.50% | ~2,668 |
@@ -51,8 +51,8 @@ Rating: 3.82 (Ranked 1,008)
 | Rounder | 0.10% | ~534 |
 | Top Dog | 0.10% | ~534 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,650 (Ranked 33)  
-Completed: 2 (0.00%) (Ranked 327)  
+Progressed: 533,654 (Ranked 33)  
+Completed: 2 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 2 (0.00%) (Ranked 327)
 | 2023-10-24 | 533,218 | 2 |
 | 2023-10-25 | 533,418 | 2 |
 | 2023-10-26 | 533,627 | 2 |
-| 2023-10-27 | 533,650 | 2 |
+| 2023-10-27 | 533,654 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 414)  
 Sum: 132 (Ranked 421)  

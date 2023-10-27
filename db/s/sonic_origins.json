@@ -2,7 +2,7 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 276,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 154,
   "RatingHistory": [
     {
@@ -292,6 +292,12 @@
     {
       "Time": "2023-10-04T20:01:39.983873+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-10-27T02:57:20.6331409+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 128
     }
@@ -2844,9 +2850,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
-  "LastChanged": "2023-10-04T20:01:39.9838728+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:25:45.0029429+00:00",
+  "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:09:28.3533159+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.7346524+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:13:00.2442857+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:25:45.0029934+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:57:20.6331413+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:09:28.3533564+00:00"
 }

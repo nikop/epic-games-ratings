@@ -14,15 +14,15 @@ Number of Ratings: 46  (23.09.2022)
 | Harmless | 1.00% | ~1,548 |
 | Silenced Whispers | 1.00% | ~1,548 |
 | Devourer | 1.00% | ~1,548 |
-| Yank | 0.90% | ~1,393 |
-| Sharpened Vessel | 0.90% | ~1,393 |
+| Yank | 0.90% | ~1,394 |
+| Sharpened Vessel | 0.90% | ~1,394 |
 | Scion | 0.80% | ~1,235 |
 | Jawcrab | 0.80% | ~1,239 |
 | Jawstag | 0.80% | ~1,239 |
 | Feast | 0.80% | ~1,239 |
 | Watcher | 0.70% | ~1,084 |
 | Shapely | 0.60% | ~929 |
-| Glare | 0.60% | ~926 |
+| Glare | 0.60% | ~927 |
 | Predator | 0.60% | ~929 |
 | Assimilation | 0.50% | ~774 |
 | Host | 0.50% | ~772 |
@@ -33,10 +33,10 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.40% | ~619 |
 | All-Seeing | 0.40% | ~619 |
 | Dream | 0.40% | ~618 |
-| Breath | 0.30% | ~464 |
-| Breathsmith | 0.30% | ~464 |
-| Unwrap the Gift | 0.30% | ~464 |
-| Passage | 0.30% | ~464 |
+| Breath | 0.30% | ~465 |
+| Breathsmith | 0.30% | ~465 |
+| Unwrap the Gift | 0.30% | ~465 |
+| Passage | 0.30% | ~465 |
 | Bloodhunter | 0.20% | ~310 |
 | Zygote | 0.20% | ~309 |
 | Kinship | 0.20% | ~310 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~154 |
 | Intensify | 0.10% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154,831 (Ranked 73)  
-Completed: 1 (0.00%) (Ranked 327)  
+Progressed: 154,835 (Ranked 73)  
+Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,7 +220,7 @@ Completed: 1 (0.00%) (Ranked 327)
 | 2023-10-24 | 154,456 | 1 |
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
-| 2023-10-27 | 154,831 | 1 |
+| 2023-10-27 | 154,835 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 424)  
 Sum: 320 (Ranked 349)  

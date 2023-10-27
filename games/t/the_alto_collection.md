@@ -6,13 +6,13 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~11,896 |
-| Finding Your Footing | 26.00% | ~11,455 |
-| Nomad | 17.00% | ~7,490 |
-| Picking Up Speed | 16.00% | ~7,049 |
-| Welcome Maya | 15.00% | ~6,609 |
-| Scout | 11.00% | ~4,846 |
-| Sightseer | 11.00% | ~4,846 |
+| Rookie | 27.00% | ~11,897 |
+| Finding Your Footing | 26.00% | ~11,457 |
+| Nomad | 17.00% | ~7,491 |
+| Picking Up Speed | 16.00% | ~7,050 |
+| Welcome Maya | 15.00% | ~6,610 |
+| Scout | 11.00% | ~4,847 |
+| Sightseer | 11.00% | ~4,847 |
 | Amateur | 10.00% | ~4,406 |
 | Unlock Maya | 8.00% | ~3,525 |
 | Wanderer | 8.00% | ~3,525 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,203 |
 | One With The Board | 5.00% | ~2,203 |
 | Voyager | 5.00% | ~2,203 |
-| Izel Has Arrived | 4.00% | ~1,762 |
+| Izel Has Arrived | 4.00% | ~1,763 |
 | Junkie | 3.00% | ~1,322 |
 | Traveler | 3.00% | ~1,322 |
 | Journeyer | 3.00% | ~1,322 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~441 |
 | Vandal | 1.00% | ~441 |
 | Unlock Felipe | 0.90% | ~397 |
-| Adventurer | 0.80% | ~352 |
+| Adventurer | 0.80% | ~353 |
 | Unlock Tupa | 0.50% | ~220 |
 | Master Of The Sands | 0.30% | ~132 |
 | Master | 0.20% | ~88 |
@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~44 |
 | Windswept | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,059 (Ranked 109)  
-Completed: 5 (0.01%) (Ranked 307)  
+Progressed: 44,064 (Ranked 109)  
+Completed: 5 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,7 +236,7 @@ Completed: 5 (0.01%) (Ranked 307)
 | 2023-10-24 | 43,815 | 5 |
 | 2023-10-25 | 43,939 | 5 |
 | 2023-10-26 | 44,042 | 5 |
-| 2023-10-27 | 44,059 | 5 |
+| 2023-10-27 | 44,064 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 427)  
 Sum: 369 (Ranked 337)  

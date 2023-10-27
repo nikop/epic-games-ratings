@@ -6,9 +6,9 @@
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3927,18 +3927,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7002,
       "NumberOfAwardsMax": 1728
+    },
+    {
+      "Time": "2023-10-27T03:01:28.7352956+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7003,
+      "NumberOfAwardsMax": 1729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7002,
-  "NumberOfAwardsMax": 1728,
+  "NumberOfAwards": 7003,
+  "NumberOfAwardsMax": 1729,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1728
+      "Count": 1729
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4001,7 +4007,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11820,
+  "EOS_Progressed": 11821,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
@@ -14451,6 +14457,11 @@
       "Time": "2023-10-27T01:45:31.2518646+00:00",
       "NumProgressed": 11820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T03:03:56.4111192+00:00",
+      "NumProgressed": 11821,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14470,7 +14481,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14662,7 +14673,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "28_GreatUpstart",
@@ -15389,21 +15400,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10602,
+      "Progressed": 10603,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11820,
+      "Progressed": 11821,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-26T07:04:08.4020538+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:20:09.4639074+00:00",
+  "LastChanged": "2023-10-27T03:01:28.7352955+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:03:56.4111185+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:17:47.3912888+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:20:09.4641495+00:00"
+  "LastUpdate_Ratings": "2023-10-27T03:01:28.7352965+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:03:56.4113669+00:00"
 }

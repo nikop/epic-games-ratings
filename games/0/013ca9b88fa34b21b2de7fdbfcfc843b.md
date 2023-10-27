@@ -1,13 +1,13 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 401)  
+Rating: 4.60 (Ranked 402)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,184 |
-| A Thorny Situation | 70.00% | ~5,040 |
-| ... And Spit Back Out | 60.00% | ~4,320 |
+| Azoria Beckons | 72.00% | ~5,185 |
+| A Thorny Situation | 70.00% | ~5,041 |
+| ... And Spit Back Out | 60.00% | ~4,321 |
 | Break-Net Speed | 49.00% | ~3,528 |
 | Bramble Breaker | 46.00% | ~3,312 |
 | Miner 49er | 43.00% | ~3,096 |
@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 401)
 | Very Skilled | 0.20% | ~14 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,200 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 327)  
+Progressed: 7,201 (Ranked 165)  
+Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-24 | 7,139 | 0 |
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
-| 2023-10-27 | 7,200 | 0 |
+| 2023-10-27 | 7,201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 434,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.15,
   "EosHistory": [
@@ -1204,9 +1204,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 204
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1251,8 +1251,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:24:48.2014039+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:08:38.8754811+00:00",
   "LastUpdate_AppInfo": "2023-10-20T13:57:21.2553187+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:15:06.2387129+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:24:48.2014253+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:59:10.3452085+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:08:38.8754958+00:00"
 }

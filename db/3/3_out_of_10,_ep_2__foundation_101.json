@@ -3,9 +3,9 @@
   "Name": "3 out of 10, EP 2: Foundation 101",
   "ProductSlug": "3-out-of-10-ep-2",
   "Ranking_EOS_Progress": 706,
-  "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.3075722+00:00",
   "LastChanged": "2023-03-31T05:58:45.3075723+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:53.6940421+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:13:49.9743834+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:22:53.1144451+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:58:04.6069576+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:06:19.528157+00:00"
 }

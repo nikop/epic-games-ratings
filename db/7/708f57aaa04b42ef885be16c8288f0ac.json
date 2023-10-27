@@ -3,9 +3,9 @@
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2244,
+  "EOS_Progressed": 2252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2012,
+  "EOS_NewPlayers": 2014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -957,6 +957,11 @@
       "Time": "2023-10-27T02:24:46.5065143+00:00",
       "NumProgressed": 2244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T03:08:37.5013904+00:00",
+      "NumProgressed": 2252,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -977,7 +982,7 @@
       "Name": "Baby Steps",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "BeLikeWater",
@@ -985,7 +990,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Bikemaggedon",
@@ -1009,7 +1014,7 @@
       "Name": "Connection Lost",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Eavesdropper",
@@ -1017,7 +1022,7 @@
       "Name": "Eavesdropper",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ExplosivePersonality",
@@ -1041,7 +1046,7 @@
       "Name": "First Time?",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1049,7 +1054,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GarbageMan",
@@ -1081,7 +1086,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "JackOfAllTrades",
@@ -1153,7 +1158,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1161,7 +1166,7 @@
       "Name": "The Old-School Way",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TheQuarterback",
@@ -1169,7 +1174,7 @@
       "Name": "The Quarterback",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ThisIsDharma",
@@ -1185,7 +1190,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "UnResurrected",
@@ -1193,7 +1198,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 0.6,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1209,15 +1214,15 @@
       "Name": "Digestive Issues",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "YoureStartingToGetIt",
       "SetID": "acc6ea0",
       "Name": "You\u0027re Starting To Get It",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -1225,7 +1230,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "k01101110",
@@ -1240,14 +1245,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2244,
+      "Progressed": 2252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T02:24:46.5065139+00:00",
+  "LastChanged_Achievements": "2023-10-27T03:08:37.5013887+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T02:15:26.2800887+00:00",
-  "LastUpdate_Achievements": "2023-10-27T02:24:46.5065468+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:59:26.1590231+00:00",
+  "LastUpdate_Achievements": "2023-10-27T03:08:37.50142+00:00"
 }
