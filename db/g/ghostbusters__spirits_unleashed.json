@@ -2701,10 +2701,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2560,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-10-27T01:40:22.644413+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2563,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2560,
+  "NumberOfAwards": 2563,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2754,7 +2760,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 255
+      "Count": 258
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2781,9 +2787,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27802,
+  "EOS_Progressed": 27813,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16556,6 +16562,11 @@
       "Time": "2023-10-27T00:06:31.1699725+00:00",
       "NumProgressed": 27802,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-27T01:49:08.7360779+00:00",
+      "NumProgressed": 27813,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16567,7 +16578,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "Animated",
@@ -16647,7 +16658,7 @@
       "Name": "Diabolical",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Discovery",
@@ -16791,7 +16802,7 @@
       "Name": "Reckless",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Rift_Destroyer",
@@ -16871,7 +16882,7 @@
       "Name": "Stylish",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "Summoner",
@@ -16893,9 +16904,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 556
+      "UsersEstimate": 834
     },
     {
       "ID": "Teamwork",
@@ -16974,16 +16985,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27802,
+      "Progressed": 27813,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-26T23:58:36.1742693+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:06:31.169972+00:00",
+  "LastChanged": "2023-10-27T01:40:22.6444127+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:49:08.7360772+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:58:36.1742698+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:06:31.1700792+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:40:22.6444134+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:49:08.736216+00:00"
 }

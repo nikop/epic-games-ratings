@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8268,7 +8268,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 63985,
+  "EOS_Progressed": 63986,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
@@ -28293,6 +28293,11 @@
       "Time": "2023-10-26T22:09:02.812318+00:00",
       "NumProgressed": 63985,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T01:50:21.686219+00:00",
+      "NumProgressed": 63986,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28384,7 +28389,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "Dynasty",
@@ -28392,7 +28397,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "Entrepreneur",
@@ -28480,7 +28485,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "Jack of All Trades",
@@ -28496,7 +28501,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10877
+      "UsersEstimate": 10878
     },
     {
       "ID": "Kingslayer",
@@ -28536,7 +28541,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24954
+      "UsersEstimate": 24955
     },
     {
       "ID": "Lawmaker",
@@ -28648,7 +28653,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "The king is pleased",
@@ -28704,22 +28709,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 63985,
+      "Progressed": 63986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-26T21:02:28.7702222+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:08:26.8069026+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:50:21.6862184+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-27T00:02:35.1252883+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:08:26.8071089+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:44:14.6039447+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:50:21.6864215+00:00"
 }

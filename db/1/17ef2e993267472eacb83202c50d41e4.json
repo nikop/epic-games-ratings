@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7489,
+  "EOS_Progressed": 7491,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5077,6 +5077,11 @@
       "Time": "2023-10-27T00:09:06.4591426+00:00",
       "NumProgressed": 7489,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T01:51:10.5978755+00:00",
+      "NumProgressed": 7491,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5129,7 +5134,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "CreditsEarned50000",
@@ -5313,7 +5318,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -5361,7 +5366,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "InhibitorKills30",
@@ -5385,7 +5390,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -5409,7 +5414,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MaxHealingDone30000",
@@ -5497,7 +5502,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "NeutralKills200",
@@ -5577,7 +5582,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "RSPurchased1",
@@ -5585,7 +5590,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "SEUpgraded1",
@@ -5625,7 +5630,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "SniperUpgraded1",
@@ -5680,7 +5685,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7489,
+      "Progressed": 7491,
       "Completed": 1
     }
   ],
@@ -5688,8 +5693,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:09:06.4591422+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:51:10.5978749+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:59:49.6516553+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:09:06.4592294+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:41:59.3815176+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:51:10.5979899+00:00"
 }

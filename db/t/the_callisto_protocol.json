@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1355,9 +1355,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16290,
+  "EOS_Progressed": 16292,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8270,6 +8270,11 @@
       "Time": "2023-10-26T23:06:42.2484312+00:00",
       "NumProgressed": 16290,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-27T01:48:59.4860205+00:00",
+      "NumProgressed": 16292,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8401,7 +8406,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8409,7 +8414,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "KILL_ROBOT",
@@ -8425,7 +8430,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8441,7 +8446,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8449,7 +8454,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8473,7 +8478,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8513,7 +8518,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8656,13 +8661,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16290,
+      "Progressed": 16292,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4216,
+      "Progressed": 4218,
       "Completed": 29
     }
   ],
@@ -8670,8 +8675,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-26T08:02:06.3022624+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:06:23.4706038+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:48:59.4860199+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:59:39.1807982+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:06:23.4706679+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:41:46.3885361+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:48:59.4861051+00:00"
 }

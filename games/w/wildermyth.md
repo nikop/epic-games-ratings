@@ -6,49 +6,49 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cost of Heroism | 0.70% | ~10 |
+| Gotta Ca... Must Collect All of Them | 0.60% | ~9 |
 | How Romantic! | 0.60% | ~9 |
-| The Cost of Heroism | 0.60% | ~9 |
-| Gotta Ca... Must Collect All of Them | 0.50% | ~7 |
-| Me and My Familiar | 0.40% | ~6 |
-| Passing Shadow | 0.40% | ~6 |
-| This Too Shall Pass | 0.40% | ~6 |
-| Cutthroat Competitors | 0.40% | ~6 |
+| Me and My Familiar | 0.50% | ~7 |
+| Passing Shadow | 0.50% | ~7 |
+| This Too Shall Pass | 0.50% | ~7 |
+| Cutthroat Competitors | 0.50% | ~7 |
+| Daybreak | 0.40% | ~6 |
 | Let Me Get My Chisel | 0.30% | ~4 |
-| Daybreak | 0.30% | ~4 |
-| Completing the Look | 0.20% | ~3 |
-| Echoes Die | 0.20% | ~3 |
+| Completing the Look | 0.30% | ~4 |
+| Echoes Die | 0.30% | ~4 |
+| Who's Counting? | 0.20% | ~3 |
+| Thematic Divergence | 0.20% | ~3 |
+| War Endured | 0.20% | ~3 |
+| A Story of Heroes | 0.20% | ~3 |
+| Core Failure | 0.20% | ~3 |
+| A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |
+| Bonebreakers | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
-| Who's Counting? | 0.10% | ~1 |
-| Thematic Divergence | 0.10% | ~1 |
+| Plague Doctor | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
 | Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
-| War Endured | 0.10% | ~1 |
-| A Story of Heroes | 0.10% | ~1 |
+| A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
-| Core Failure | 0.10% | ~1 |
+| All My Birds, Safely Home | 0.10% | ~1 |
+| Turncoat | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
 | Storied Past | 0.00% | ~0 |
-| A Mythic Menagerie | 0.00% | ~0 |
 | Worldwalker | 0.00% | ~0 |
 | The Power of Friendship | 0.00% | ~0 |
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Bonebreakers | 0.00% | ~0 |
-| Plague Doctor | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
 | In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
-| A Hunger, Sated | 0.00% | ~0 |
-| All My Birds, Safely Home | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
-| Turncoat | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Grillmaster | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,438 (Ranked 229)  
+Progressed: 1,439 (Ranked 229)  
 Completed: 6 (0.42%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 6 (0.42%) (Ranked 198)
 | 2023-10-24 | 1,435 | 6 |
 | 2023-10-25 | 1,437 | 6 |
 | 2023-10-26 | 1,438 | 6 |
+| 2023-10-27 | 1,439 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

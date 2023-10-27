@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 682)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,393 |
-| Ranidaphobia | 77.00% | ~1,166 |
-| Aspiring Editor | 74.00% | ~1,120 |
+| First Blood | 92.00% | ~1,394 |
+| Ranidaphobia | 77.00% | ~1,167 |
+| Aspiring Editor | 74.00% | ~1,121 |
 | Gun for Hire | 69.00% | ~1,045 |
 | I am the law! | 63.00% | ~954 |
-| Lumberjack | 53.00% | ~802 |
+| Lumberjack | 53.00% | ~803 |
 | Croaked | 49.00% | ~742 |
 | Limp Richard | 48.00% | ~727 |
 | From Darkness to Light | 48.00% | ~727 |
 | Editor Adept | 47.00% | ~712 |
 | Exorcist | 47.00% | ~712 |
-| Giant Killer | 45.00% | ~681 |
+| Giant Killer | 45.00% | ~682 |
 | Sensei | 43.00% | ~651 |
 | Firestarter | 42.00% | ~636 |
 | The meaning of Kain | 41.00% | ~621 |
@@ -27,16 +27,16 @@ Rating: 4.43 (Ranked 682)
 | Jarhead | 35.00% | ~530 |
 | Infiltrator | 34.00% | ~515 |
 | Pushing Daisy | 33.00% | ~500 |
-| Experienced | 32.00% | ~484 |
-| Hold The Line | 31.00% | ~469 |
+| Experienced | 32.00% | ~485 |
+| Hold The Line | 31.00% | ~470 |
 | Endgame | 27.00% | ~409 |
 | Savior | 27.00% | ~409 |
-| There Can Be Only One! | 25.00% | ~378 |
+| There Can Be Only One! | 25.00% | ~379 |
 | Silent but Violent | 23.00% | ~348 |
 | Chain Killer | 22.00% | ~333 |
 | The Watchers | 22.00% | ~333 |
-| Commando | 17.00% | ~257 |
-| Dr Jones | 17.00% | ~257 |
+| Commando | 17.00% | ~258 |
+| Dr Jones | 17.00% | ~258 |
 | Chaos Theory | 16.00% | ~242 |
 | Newtonian Knockout | 16.00% | ~242 |
 | Ruthless | 14.00% | ~212 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 682)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,514 (Ranked 226)  
+Progressed: 1,515 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 0 (0.00%) (Ranked 327)
 | 2023-10-24 | 1,485 | 0 |
 | 2023-10-25 | 1,496 | 0 |
 | 2023-10-26 | 1,514 | 0 |
+| 2023-10-27 | 1,515 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

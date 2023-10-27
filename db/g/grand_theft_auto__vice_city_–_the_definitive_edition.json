@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 529,
-  "Ranking_Popularity": 354,
+  "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -773,18 +773,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-10-27T01:44:16.7869794+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 98,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 97
+      "Count": 98
     }
   ],
   "EOS_Progressed": 10686,
@@ -12111,9 +12117,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-10-22T03:59:11.4576342+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:03:28.9882513+00:00",
+  "LastChanged": "2023-10-27T01:44:16.7869791+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:45:22.9435923+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-27T00:02:36.7843248+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:03:28.9883215+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:44:16.7869798+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:45:22.9437078+00:00"
 }

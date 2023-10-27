@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1207,9 +1207,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -1246,8 +1246,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:03:12.0177295+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:45:02.2350347+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:58:12.9921283+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:03:12.0177481+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:39:53.7542595+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:45:02.235065+00:00"
 }

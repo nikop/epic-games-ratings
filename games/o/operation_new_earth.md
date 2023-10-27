@@ -30,9 +30,9 @@ Rating: 3.38 (Ranked 1,024)
 | Major | 5.00% | ~84 |
 | Gold Achiever | 4.00% | ~67 |
 | Resourceful | 4.00% | ~67 |
+| Colonel | 3.00% | ~51 |
 | Control the Skies | 3.00% | ~51 |
 | Advanced Warfare | 2.00% | ~34 |
-| Colonel | 2.00% | ~34 |
 | Seek & Destroy | 2.00% | ~34 |
 | Battle Ready | 2.00% | ~34 |
 | General | 1.00% | ~17 |

@@ -5,13 +5,14 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advancement | 4.00% | ~1,112 |
-| Stylish | 4.00% | ~1,112 |
+| Advancement | 4.00% | ~1,113 |
+| Stylish | 4.00% | ~1,113 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~834 |
 | Discovery | 3.00% | ~834 |
 | Meticulously Efficient | 3.00% | ~834 |
 | Fully Upgraded | 3.00% | ~834 |
 | Solo Capture | 3.00% | ~834 |
+| Swift Rift Removers | 3.00% | ~834 |
 | Animated | 2.00% | ~556 |
 | Back Off | 2.00% | ~556 |
 | Clutch Capture | 2.00% | ~556 |
@@ -21,7 +22,6 @@ Rating: 4.50 (Ranked 578)
 | Ghostbuster In Training | 2.00% | ~556 |
 | Icing on the Cake | 2.00% | ~556 |
 | Right back at ya | 2.00% | ~556 |
-| Swift Rift Removers | 2.00% | ~556 |
 | Teamwork | 2.00% | ~556 |
 | There you are! | 2.00% | ~556 |
 | Vaporous Expansion | 2.00% | ~556 |
@@ -40,8 +40,8 @@ Rating: 4.50 (Ranked 578)
 | Collector | 0.90% | ~250 |
 | Escape Artist | 0.90% | ~250 |
 | Tobin's Prodigy | 0.90% | ~250 |
-| Diabolical | 0.80% | ~222 |
-| Reckless | 0.80% | ~222 |
+| Diabolical | 0.80% | ~223 |
+| Reckless | 0.80% | ~223 |
 | Rivalry | 0.70% | ~195 |
 | Surprise! | 0.60% | ~167 |
 | Fragile Panes | 0.50% | ~139 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,802 (Ranked 120)  
+Progressed: 27,813 (Ranked 120)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,17 +247,17 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,802 | 65 |
+| 2023-10-27 | 27,813 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
-Sum: 2,560 (Ranked 182)  
+Sum: 2,563 (Ranked 182)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 286 |
 | This game is Great for Quick Sessions | 280 |
 | This game has Diverse Characters | 259 |
-| This game has Amazing Storytelling | 255 |
+| This game has Amazing Storytelling | 258 |
 | This game has Competitive Players | 253 |
 | This game is Relaxing | 252 |
 | This game is Highly Recommended | 250 |
@@ -462,3 +462,4 @@ Diff (max vs sum): 67
 | 2023-10-24 | 4.50 | 281 | 2,525 |
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
+| 2023-10-27 | 4.50 | 286 | 2,563 |

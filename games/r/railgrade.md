@@ -1,19 +1,19 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 494)  
+Rating: 4.55 (Ranked 495)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,110 |
-| Before the Downfall | 97.00% | ~18,173 |
-| Money like Water | 95.00% | ~17,798 |
-| Minimalist | 94.00% | ~17,611 |
-| Builder | 86.00% | ~16,112 |
-| Eraser | 73.00% | ~13,677 |
-| Pocket of Trains | 68.00% | ~12,740 |
-| Inspector | 62.00% | ~11,616 |
-| Going the Distance | 56.00% | ~10,492 |
+| Trevithick's Legacy | 102.00% | ~19,109 |
+| Before the Downfall | 97.00% | ~18,172 |
+| Money like Water | 95.00% | ~17,797 |
+| Minimalist | 94.00% | ~17,610 |
+| Builder | 86.00% | ~16,111 |
+| Eraser | 73.00% | ~13,676 |
+| Pocket of Trains | 68.00% | ~12,739 |
+| Inspector | 62.00% | ~11,615 |
+| Going the Distance | 56.00% | ~10,491 |
 | Oil Baron | 44.00% | ~8,243 |
 | Loads-a-Money | 44.00% | ~8,243 |
 | Helper of the People | 41.00% | ~7,681 |
@@ -28,8 +28,8 @@ Rating: 4.55 (Ranked 494)
 | 8K is Enough for Everyone | 24.00% | ~4,496 |
 | Trains over Pipes | 24.00% | ~4,496 |
 | Man of Steel | 17.00% | ~3,185 |
-| Room Full of Trains | 13.00% | ~2,436 |
-| Investor | 10.00% | ~1,874 |
+| Room Full of Trains | 13.00% | ~2,435 |
+| Investor | 10.00% | ~1,873 |
 | The poor groundwater levels | 8.00% | ~1,499 |
 | Metropolis | 8.00% | ~1,499 |
 | Multiverse | 7.00% | ~1,311 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 494)
 | Overdeer | 0.60% | ~112 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,735 (Ranked 131)  
+Progressed: 18,734 (Ranked 131)  
 Completed: 32 (0.17%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 32 (0.17%) (Ranked 240)
 | 2023-10-24 | 18,767 | 32 |
 | 2023-10-25 | 18,755 | 32 |
 | 2023-10-26 | 18,743 | 32 |
+| 2023-10-27 | 18,734 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 92  (Ranked 365)  
 Sum: 676 (Ranked 295)  

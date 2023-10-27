@@ -87,7 +87,7 @@
 | Savior | 23.00% | ~187 |
 | Paramour II | 23.00% | ~187 |
 | Lost and Found | 23.00% | ~187 |
-| Party Crasher | 21.00% | ~171 |
+| Party Crasher | 22.00% | ~179 |
 | Hard Target | 21.00% | ~171 |
 | Problem Solver | 21.00% | ~171 |
 | Pyromaniac | 20.00% | ~163 |

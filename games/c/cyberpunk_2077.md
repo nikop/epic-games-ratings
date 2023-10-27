@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 1.00% | ~8,939 |
+| V for Vendetta | 1.00% | ~8,940 |
 | Ten out of Ten | 0.80% | ~7,152 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
@@ -35,6 +35,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.30% | ~2,682 |
 | Life of the Road | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
+| The Fool | 0.30% | ~2,682 |
 | The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
 | Judy vs Night City | 0.30% | ~2,682 |
@@ -42,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
-| The Fool | 0.20% | ~1,788 |
 | Relic Ruler | 0.20% | ~45 |
 | Judgement Day | 0.20% | ~45 |
 | The Tower | 0.20% | ~45 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,949 (Ranked 15)  
+Progressed: 893,961 (Ranked 15)  
 Completed: 2,714 (0.30%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,9 +262,10 @@ Completed: 2,714 (0.30%) (Ranked 213)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
+| 2023-10-27 | 893,961 | 2,714 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
-Sum: 327,659 (Ranked 10)  
+Sum: 327,796 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -276,8 +277,8 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 17,852 |
 | This game is Extremely Fun | 17,605 |
 | This game has Amazing Characters | 17,387 |
+| This game has Quickly Understood Controls | 16,883 |
 | This game is Relaxing | 16,786 |
-| This game has Quickly Understood Controls | 16,746 |
 | This game has a Creative Community | 11,655 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -563,3 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
+| 2023-10-27 | 4.64 | - | 101,755 | 327,796 |

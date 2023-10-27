@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1439,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1685,6 +1685,11 @@
       "Time": "2023-10-26T11:10:06.8765268+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T01:49:46.9004191+00:00",
+      "NumProgressed": 1439,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1710,9 +1715,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1726,9 +1731,9 @@
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -1758,17 +1763,17 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1782,9 +1787,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1822,9 +1827,9 @@
       "ID": "achievement_kill1000Morthagi",
       "SetID": "95dc8p",
       "Name": "Bonebreakers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -1838,25 +1843,25 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
       "SetID": "95dc8p",
       "Name": "Plague Doctor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1870,9 +1875,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_mythwalker",
@@ -1886,17 +1891,17 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1934,9 +1939,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "completedStory_legacy",
@@ -1950,33 +1955,33 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 0.2,
-      "XP": 50,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "completedStory_procedural",
-      "SetID": "95dc8p",
-      "Name": "A Story of Heroes",
-      "Percentage": 0.1,
-      "XP": 25,
-      "UsersEstimate": 1
-    },
-    {
-      "ID": "completedStory_ulstryx",
-      "SetID": "95dc8p",
-      "Name": "Daybreak",
       "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 4
     },
     {
+      "ID": "completedStory_procedural",
+      "SetID": "95dc8p",
+      "Name": "A Story of Heroes",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "completedStory_ulstryx",
+      "SetID": "95dc8p",
+      "Name": "Daybreak",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 6
+    },
+    {
       "ID": "completedStory_vultureLord",
       "SetID": "95dc8p",
       "Name": "A Hunger, Sated",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "cvawn_allDrauvenSurvivedMission",
@@ -1990,17 +1995,17 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -2014,9 +2019,9 @@
       "ID": "monarchs_acceptDeepkingsOffer",
       "SetID": "95dc8p",
       "Name": "Turncoat",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -2143,15 +2148,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1439,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:08:22.8043496+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:49:46.9004181+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:57:28.1757929+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:08:22.8043972+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:38:57.1203211+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:49:46.9004907+00:00"
 }

@@ -22,7 +22,7 @@ Rating: 4.35 (Ranked 780)
 | Comtesse Margaux de Vos | 45.00% | ~198 |
 | Curious and Beautiful | 44.00% | ~194 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~194 |
-| The Interrogations | 43.00% | ~190 |
+| The Interrogations | 44.00% | ~194 |
 | Well-acquainted | 41.00% | ~181 |
 | Zakariya Demir | 41.00% | ~181 |
 | Well-read | 39.00% | ~172 |

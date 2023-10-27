@@ -7577,10 +7577,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32215,
       "NumberOfAwardsMax": 5448
+    },
+    {
+      "Time": "2023-10-27T01:42:25.1966393+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32218,
+      "NumberOfAwardsMax": 5448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32215,
+  "NumberOfAwards": 32218,
   "NumberOfAwardsMax": 5448,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7624,12 +7630,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3487
+      "Count": 3490
     }
   ],
-  "EOS_Progressed": 232895,
+  "EOS_Progressed": 232899,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28772,6 +28778,11 @@
       "Time": "2023-10-27T00:03:59.870486+00:00",
       "NumProgressed": 232895,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-10-27T01:46:01.1069501+00:00",
+      "NumProgressed": 232899,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 528,
@@ -31709,9 +31720,9 @@
       "ID": "objective_completed_660",
       "SetID": "415jc5c",
       "Name": "The Wandering Emporium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 398
     },
     {
       "ID": "objective_completed_661",
@@ -33006,21 +33017,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199169,
+      "Progressed": 199173,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232895,
+      "Progressed": 232899,
       "Completed": 2388
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-26T21:01:50.1496565+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:03:59.8704855+00:00",
+  "LastChanged": "2023-10-27T01:42:25.196639+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:46:01.1069493+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-27T00:00:10.028511+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:03:59.8731172+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:42:25.1966399+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:46:01.1103216+00:00"
 }

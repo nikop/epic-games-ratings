@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,168 |
-| Worth it | 63.00% | ~38,905 |
-| Eagle Eye | 55.00% | ~33,965 |
-| Corpseman I | 40.00% | ~24,702 |
-| Blast fishing | 37.00% | ~22,849 |
-| Not alone | 32.00% | ~19,761 |
-| Headhunter I | 26.00% | ~16,056 |
-| Manual Labour I | 25.00% | ~15,438 |
-| Developers, Developers, Developers | 24.00% | ~14,821 |
-| Basic Training | 24.00% | ~14,821 |
-| Furchtlos und Treu | 13.00% | ~8,028 |
-| Gott Mit Uns | 12.00% | ~7,410 |
+| Setting an example | 78.00% | ~48,171 |
+| Worth it | 63.00% | ~38,908 |
+| Eagle Eye | 55.00% | ~33,967 |
+| Corpseman I | 40.00% | ~24,703 |
+| Blast fishing | 37.00% | ~22,850 |
+| Not alone | 32.00% | ~19,763 |
+| Headhunter I | 26.00% | ~16,057 |
+| Manual Labour I | 25.00% | ~15,440 |
+| Developers, Developers, Developers | 24.00% | ~14,822 |
+| Basic Training | 24.00% | ~14,822 |
+| Furchtlos und Treu | 13.00% | ~8,029 |
+| Gott Mit Uns | 12.00% | ~7,411 |
 | This We'll Defend! | 9.00% | ~5,558 |
 | Anker wirf! | 9.00% | ~5,558 |
 | Providentiea Memor | 9.00% | ~5,558 |
 | For King and Country | 9.00% | ~5,558 |
-| Battle hardened | 8.00% | ~4,940 |
+| Battle hardened | 8.00% | ~4,941 |
 | Semper Fidelis! | 7.00% | ~4,323 |
 | Honneur et Patrie | 7.00% | ~4,323 |
 | In Treue Fest | 5.00% | ~3,088 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,754 (Ranked 101)  
+Progressed: 61,758 (Ranked 101)  
 Completed: 4 (0.01%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 4 (0.01%) (Ranked 307)
 | 2023-10-24 | 61,624 | 4 |
 | 2023-10-25 | 61,684 | 4 |
 | 2023-10-26 | 61,750 | 4 |
-| 2023-10-27 | 61,754 | 4 |
+| 2023-10-27 | 61,758 | 4 |
 ## Awards
-Max (Highly Recommended): 97  (Ranked 354)  
+Max (Highly Recommended): 97  (Ranked 355)  
 Sum: 777 (Ranked 275)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 97 |

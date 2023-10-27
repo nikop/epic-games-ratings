@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2394,6 +2394,11 @@
       "Time": "2023-10-26T17:06:33.8828682+00:00",
       "NumProgressed": 960,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T01:48:28.9857233+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2405,7 +2410,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2413,7 +2418,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2421,7 +2426,7 @@
       "Name": "FULLCLIP",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -2477,7 +2482,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2533,7 +2538,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2685,7 +2690,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2725,7 +2730,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2747,17 +2752,17 @@
       "ID": "KLEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Bad Leecher, Bad Leecher!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 19
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 163
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2932,14 +2937,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:05:58.7474218+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:48:28.9857221+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-27T00:00:05.8581692+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:05:58.7474855+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:42:20.1279741+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:48:28.9858122+00:00"
 }

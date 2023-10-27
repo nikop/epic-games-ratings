@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514,
+  "EOS_Progressed": 1515,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3512,6 +3512,11 @@
       "Time": "2023-10-26T21:09:25.102881+00:00",
       "NumProgressed": 1514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T01:50:31.4843796+00:00",
+      "NumProgressed": 1515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3539,7 +3544,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3595,7 +3600,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "CROAKED",
@@ -3659,7 +3664,7 @@
       "Name": "Dr Jones",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3691,7 +3696,7 @@
       "Name": "Experienced",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "FIRESTARTER",
@@ -3707,7 +3712,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3739,7 +3744,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "GOAL",
@@ -3763,7 +3768,7 @@
       "Name": "Hold The Line",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "IM_THE_LAW",
@@ -3787,7 +3792,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3827,7 +3832,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "RECYCLER",
@@ -3899,7 +3904,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3930,7 +3935,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1514,
+      "Progressed": 1515,
       "Completed": 0
     }
   ],
@@ -3938,8 +3943,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:08:34.7933714+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:50:31.4843789+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.0007152+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:57:13.4147384+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:08:34.7934209+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:38:38.5674934+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:50:31.4844468+00:00"
 }

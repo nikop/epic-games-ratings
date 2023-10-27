@@ -77,7 +77,7 @@ Rating: 4.08 (Ranked 953)
 | Tree of Life | 1.00% | ~21 |
 | Beast War Machines | 0.90% | ~19 |
 | Silverwood liberator | 0.70% | ~15 |
-| Ultimate War Machines | 0.60% | ~12 |
+| Ultimate War Machines | 0.70% | ~15 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

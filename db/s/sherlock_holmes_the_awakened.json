@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 745,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
@@ -2790,6 +2790,11 @@
       "Time": "2023-10-27T00:05:20.6568144+00:00",
       "NumProgressed": 744,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-27T01:47:41.258776+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2801,7 +2806,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MQ01_2",
@@ -2809,7 +2814,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "MQ02_1",
@@ -2817,7 +2822,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MQ02_2",
@@ -2833,7 +2838,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "MQ02_4",
@@ -2865,7 +2870,7 @@
       "Name": "History Check",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MQ03_4",
@@ -2905,7 +2910,7 @@
       "Name": "The New World",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MQ05_1",
@@ -2953,15 +2958,15 @@
       "Name": "Bookworm",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ06_4",
@@ -2969,7 +2974,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ07_1",
@@ -2993,7 +2998,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "MQ08_2",
@@ -3001,7 +3006,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "MQ08_3",
@@ -3024,7 +3029,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 745,
       "Completed": 26
     }
   ],
@@ -3032,8 +3037,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:05:20.656814+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:47:41.2587753+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:59:16.7739477+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:05:20.6568423+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:41:13.9284837+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:47:41.258814+00:00"
 }

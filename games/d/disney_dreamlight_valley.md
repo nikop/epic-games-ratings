@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,752 |
-| Photographer | 69.00% | ~7,641 |
-| Valley's Helper | 62.00% | ~6,866 |
-| Constructor | 51.00% | ~5,648 |
-| Renovator | 51.00% | ~5,648 |
-| Bestest Friend | 47.00% | ~5,205 |
-| Banker | 39.00% | ~4,319 |
-| Gardener | 31.00% | ~3,433 |
-| Generous | 25.00% | ~2,768 |
-| Chef Cook | 18.00% | ~1,993 |
-| Miner | 10.00% | ~1,107 |
+| Goofy's Investor | 70.00% | ~7,754 |
+| Photographer | 69.00% | ~7,643 |
+| Valley's Helper | 62.00% | ~6,868 |
+| Constructor | 51.00% | ~5,649 |
+| Renovator | 51.00% | ~5,649 |
+| Bestest Friend | 47.00% | ~5,206 |
+| Banker | 39.00% | ~4,320 |
+| Gardener | 31.00% | ~3,434 |
+| Generous | 25.00% | ~2,769 |
+| Chef Cook | 18.00% | ~1,994 |
+| Miner | 10.00% | ~1,108 |
 | Duty Bound | 7.00% | ~775 |
 | Angler | 5.00% | ~554 |
 | Thorn Cleaner | 5.00% | ~554 |
 | Chit Chatter | 3.00% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,074 (Ranked 149)  
+Progressed: 11,077 (Ranked 149)  
 Completed: 264 (2.38%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,16 +163,16 @@ Completed: 264 (2.38%) (Ranked 113)
 | 2023-10-24 | 11,041 | 262 |
 | 2023-10-25 | 11,057 | 262 |
 | 2023-10-26 | 11,073 | 264 |
-| 2023-10-27 | 11,074 | 264 |
+| 2023-10-27 | 11,077 | 264 |
 ## Awards
 Max (Great for Beginners): 1,032  (Ranked 149)  
-Sum: 7,776 (Ranked 106)  
+Sum: 7,777 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,032 |
 | This game has Diverse Characters | 869 |
-| This game is Highly Recommended | 814 |
+| This game is Highly Recommended | 815 |
 | This game has Amazing Characters | 813 |
 | This game is Relaxing | 806 |
 | This game has Amazing Storytelling | 771 |
@@ -412,3 +412,4 @@ Diff (max vs sum): 43
 | 2023-10-24 | 4.76 | - | 1,025 | 7,764 |
 | 2023-10-25 | 4.76 | - | 1,026 | 7,765 |
 | 2023-10-26 | 4.76 | - | 1,032 | 7,776 |
+| 2023-10-27 | 4.76 | - | 1,032 | 7,777 |

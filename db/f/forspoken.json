@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42313,
+  "EOS_Progressed": 42315,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11371,6 +11371,11 @@
       "Time": "2023-10-27T00:04:02.5906418+00:00",
       "NumProgressed": 42313,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-27T01:46:04.1435436+00:00",
+      "NumProgressed": 42315,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11430,7 +11435,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -11805,22 +11810,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42313,
+      "Progressed": 42315,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7150,
-      "Completed": 7150
+      "Progressed": 7152,
+      "Completed": 7152
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:04:02.5906414+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:46:04.1435431+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:44.4363915+00:00",
-  "LastUpdate_Ratings": "2023-10-27T00:02:37.8744106+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:04:02.5907298+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:44:18.1576358+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:46:04.1436599+00:00"
 }

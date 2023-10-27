@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -294,6 +294,11 @@
       "Time": "2023-10-26T20:08:57.4156565+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T01:49:32.8603299+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -312,9 +317,9 @@
       "ID": "DODO_RE_MI_PAPER_BLADDER",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Paper Bladder",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -338,7 +343,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -400,7 +405,7 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
       "UsersEstimate": 62
     },
@@ -416,9 +421,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -426,7 +431,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -465,14 +470,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:08:11.6415916+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:49:32.8603293+00:00",
   "LastUpdate_AppInfo": "2023-10-20T20:57:19.6497794+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:59:13.9171441+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:08:11.6416035+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:41:10.0367036+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:49:32.8603456+00:00"
 }

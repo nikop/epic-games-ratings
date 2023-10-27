@@ -1,15 +1,15 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 494)  
+Rating: 4.55 (Ranked 495)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,751 |
-| Ready for Winter | 65.00% | ~2,353 |
+| Venture Outward | 76.00% | ~2,752 |
+| Ready for Winter | 65.00% | ~2,354 |
 | Ready for Summer | 53.00% | ~1,919 |
-| Cordon Bleu | 45.00% | ~1,629 |
+| Cordon Bleu | 44.00% | ~1,593 |
 | Tapped! | 38.00% | ~1,376 |
 | Eureka | 33.00% | ~1,195 |
 | Scourge Slayer | 26.00% | ~941 |
@@ -17,11 +17,11 @@ Number of Ratings: 266  (23.09.2022)
 | Exceptional Skill | 23.00% | ~833 |
 | Home Sweet Home | 23.00% | ~833 |
 | Encyclopedic! | 20.00% | ~724 |
-| The Power of Family | 17.00% | ~615 |
+| The Power of Family | 17.00% | ~616 |
 | A Fortress Toppled! | 16.00% | ~579 |
 | Apex Predator | 16.00% | ~579 |
 | The Power of Faith | 13.00% | ~471 |
-| Strange amalgams | 12.00% | ~434 |
+| Strange amalgams | 12.00% | ~435 |
 | The Power of Freedom | 10.00% | ~362 |
 | Ace Detective | 8.00% | ~290 |
 | Gift from the Ancestors | 8.00% | ~290 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,620 (Ranked 189)  
+Progressed: 3,621 (Ranked 189)  
 Completed: 4 (0.11%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 4 (0.11%) (Ranked 255)
 | 2023-10-24 | 3,613 | 4 |
 | 2023-10-25 | 3,615 | 4 |
 | 2023-10-26 | 3,620 | 4 |
+| 2023-10-27 | 3,621 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 463)  
 Sum: 244 (Ranked 371)  

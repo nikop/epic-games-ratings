@@ -8,6 +8,8 @@ Rating: 4.59 (Ranked 423)
 | Oyedang, Kopengs | 0.60% | ~86 |
 | Drug Gifter | 0.30% | ~43 |
 | The Pit and the Pirates | 0.20% | ~29 |
+| Spore Taste | 0.20% | ~29 |
+| Martian Music | 0.20% | ~29 |
 | Drone Dodger | 0.20% | ~29 |
 | Call it Even | 0.20% | ~29 |
 | Bosmang | 0.20% | ~29 |
@@ -17,9 +19,7 @@ Rating: 4.59 (Ranked 423)
 | Data Archivist | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
 | Stogie for Fogey | 0.10% | ~14 |
-| Spore Taste | 0.10% | ~14 |
 | Bottoms up! | 0.10% | ~14 |
-| Martian Music | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Thorston Mayer | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |

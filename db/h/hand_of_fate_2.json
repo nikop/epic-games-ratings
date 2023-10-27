@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -913,7 +913,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663824,
+  "EOS_Progressed": 663825,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
@@ -18923,6 +18923,11 @@
       "Time": "2023-10-27T00:04:34.3585962+00:00",
       "NumProgressed": 663824,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-27T01:46:43.0317093+00:00",
+      "NumProgressed": 663825,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -18934,7 +18939,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477953
+      "UsersEstimate": 477954
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -18958,7 +18963,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39829
+      "UsersEstimate": 39830
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -19078,7 +19083,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92935
+      "UsersEstimate": 92936
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -19094,7 +19099,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39829
+      "UsersEstimate": 39830
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -19317,15 +19322,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663824,
+      "Progressed": 663825,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-27T00:04:34.3585955+00:00",
+  "LastChanged_Achievements": "2023-10-27T01:46:43.0317087+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:57:04.0629119+00:00",
-  "LastUpdate_Achievements": "2023-10-27T00:04:34.3587111+00:00"
+  "LastUpdate_Ratings": "2023-10-27T01:38:28.2498155+00:00",
+  "LastUpdate_Achievements": "2023-10-27T01:46:43.0318881+00:00"
 }
