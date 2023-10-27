@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 307,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14982,
+  "EOS_Progressed": 14986,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14818,6 +14818,11 @@
       "Time": "2023-10-27T14:06:36.4632079+00:00",
       "NumProgressed": 14982,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T18:05:01.6356278+00:00",
+      "NumProgressed": 14986,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15181,7 +15186,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -15261,7 +15266,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -15317,7 +15322,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -15741,7 +15746,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -16203,9 +16208,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -16299,9 +16304,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -16907,9 +16912,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -17564,21 +17569,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14982,
+      "Progressed": 14986,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14982,
+      "Progressed": 14986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:05:50.7332431+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:05:01.6356273+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:57:14.4862348+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:05:50.7346176+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:57:11.9026932+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:05:01.6366493+00:00"
 }

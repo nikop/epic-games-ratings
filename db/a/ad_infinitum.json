@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -361,9 +361,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_CLARITY",
@@ -409,9 +409,9 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_JIGSAW",
@@ -544,8 +544,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:05:45.3085524+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:04:56.9092481+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:49.4232421+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:09.3186757+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:05:45.3085757+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:57:58.3310708+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:04:56.9092661+00:00"
 }

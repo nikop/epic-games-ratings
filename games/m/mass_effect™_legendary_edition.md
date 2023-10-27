@@ -26,7 +26,7 @@
 | Soldier Ally | 50.00% | ~410 |
 | Colonial Savior | 49.00% | ~402 |
 | Scientist | 49.00% | ~402 |
-| Merciless | 47.00% | ~385 |
+| Merciless | 48.00% | ~394 |
 | Krogan Ally | 45.00% | ~369 |
 | Missing in Action | 45.00% | ~369 |
 | Very Elusive | 45.00% | ~369 |
@@ -35,8 +35,8 @@
 | Sentinel Ally | 43.00% | ~353 |
 | Operative | 43.00% | ~353 |
 | Veteran | 42.00% | ~344 |
+| Power Full | 42.00% | ~344 |
 | The Professor | 41.00% | ~336 |
-| Power Full | 41.00% | ~336 |
 | The Archangel | 40.00% | ~328 |
 | The Convict | 39.00% | ~320 |
 | Colony Defense | 38.00% | ~312 |

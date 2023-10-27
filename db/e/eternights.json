@@ -1200,17 +1200,17 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1248,9 +1248,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:03:38.7753038+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:03:11.4942118+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:55.2019399+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:03:38.775331+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:39.2928095+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:03:11.4942362+00:00"
 }

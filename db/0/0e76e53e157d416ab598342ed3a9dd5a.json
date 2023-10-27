@@ -4,7 +4,7 @@
   "ProductSlug": "rpg-in-a-box",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.698102+00:00",
   "LastChanged": "2023-03-31T05:58:06.6981021+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:12.6832183+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:30.200904+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:06:21.2731797+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:17.3274727+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:05:27.0200587+00:00"
 }

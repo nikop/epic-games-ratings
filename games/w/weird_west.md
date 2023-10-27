@@ -1,20 +1,20 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 653)  
+Rating: 4.45 (Ranked 654)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,709 |
-| Self-Improvement | 71.00% | ~1,379 |
-| Perky | 65.00% | ~1,262 |
-| Let’s Ride | 60.00% | ~1,165 |
-| Welcome to the Weird West | 57.00% | ~1,107 |
-| Dead or Alive | 56.00% | ~1,088 |
+| Unforgiven | 88.00% | ~1,711 |
+| Self-Improvement | 71.00% | ~1,380 |
+| Perky | 65.00% | ~1,264 |
+| Let’s Ride | 60.00% | ~1,166 |
+| Welcome to the Weird West | 57.00% | ~1,108 |
+| Dead or Alive | 56.00% | ~1,089 |
 | Full House | 37.00% | ~719 |
-| Off the Trail | 34.00% | ~660 |
-| Justice Served | 30.00% | ~583 |
+| Off the Trail | 34.00% | ~661 |
+| Justice Served | 29.00% | ~564 |
 | Chain Reaction | 26.00% | ~505 |
 | Through Their Eyes | 26.00% | ~505 |
 | Dishonored | 25.00% | ~486 |
@@ -25,11 +25,11 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~311 |
 | Here Comes Santa Claus | 16.00% | ~311 |
 | Winds of War | 16.00% | ~311 |
-| For Balance | 15.00% | ~291 |
-| Dog Days | 13.00% | ~252 |
-| Out on the Ebb Tide | 13.00% | ~252 |
-| Turning the Tables | 13.00% | ~252 |
-| Workers' Rights | 13.00% | ~252 |
+| For Balance | 15.00% | ~292 |
+| Dog Days | 13.00% | ~253 |
+| Out on the Ebb Tide | 13.00% | ~253 |
+| Turning the Tables | 13.00% | ~253 |
+| Workers' Rights | 13.00% | ~253 |
 | Elusive Prey | 12.00% | ~233 |
 | Power Behind the Pulpit | 12.00% | ~233 |
 | Something Wicked This Way Comes… | 11.00% | ~214 |
@@ -38,10 +38,10 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~175 |
 | Eternity Can Wait | 9.00% | ~175 |
 | Mystery Machine | 9.00% | ~175 |
-| Do Not Pass Go… | 8.00% | ~155 |
-| Gold Digger | 8.00% | ~155 |
-| Monster Hunter | 8.00% | ~155 |
-| Knuckle Sandwich | 8.00% | ~155 |
+| Do Not Pass Go… | 8.00% | ~156 |
+| Gold Digger | 8.00% | ~156 |
+| Monster Hunter | 8.00% | ~156 |
+| Knuckle Sandwich | 8.00% | ~156 |
 | Getting the Gang Back Together | 7.00% | ~136 |
 | Who You Gonna Call? | 6.00% | ~117 |
 | Healing Old Wounds | 5.00% | ~97 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,942 (Ranked 216)  
+Progressed: 1,944 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-24 | 1,926 | 7 |
 | 2023-10-25 | 1,930 | 7 |
 | 2023-10-26 | 1,939 | 7 |
-| 2023-10-27 | 1,942 | 7 |
+| 2023-10-27 | 1,944 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

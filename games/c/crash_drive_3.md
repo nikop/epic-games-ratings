@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 31.00% | ~123 |
-| Baby's First Car | 29.00% | ~115 |
-| A Forest Walk | 29.00% | ~115 |
-| Amateur Mechanic | 28.00% | ~111 |
-| Pushover | 28.00% | ~111 |
-| C-C-C-Combo! | 26.00% | ~103 |
-| Multiply that! | 26.00% | ~103 |
+| Brace for impact! | 31.00% | ~124 |
+| Baby's First Car | 29.00% | ~116 |
+| A Forest Walk | 29.00% | ~116 |
+| Amateur Mechanic | 28.00% | ~112 |
+| Pushover | 28.00% | ~112 |
+| C-C-C-Combo! | 26.00% | ~104 |
+| Multiply that! | 26.00% | ~104 |
 | Snow Fun! | 24.00% | ~96 |
 | Fore! | 23.00% | ~92 |
 | The Collector | 23.00% | ~92 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398 (Ranked 307)  
+Progressed: 399 (Ranked 307)  
 Completed: 2 (0.50%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 2 (0.50%) (Ranked 187)
 | 2023-10-17 | 395 | 2 |
 | 2023-10-25 | 396 | 2 |
 | 2023-10-26 | 397 | 2 |
-| 2023-10-27 | 398 | 2 |
+| 2023-10-27 | 399 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

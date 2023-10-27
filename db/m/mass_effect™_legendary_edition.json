@@ -2887,9 +2887,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_65",
@@ -2975,9 +2975,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_75",
@@ -3211,8 +3211,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:05:13.4083298+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:04:29.9517027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:37.9530017+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:05:13.4085609+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:23.0566567+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:04:29.9518999+00:00"
 }

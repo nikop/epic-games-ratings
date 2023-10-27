@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18096,
+  "EOS_Progressed": 18097,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
@@ -14782,6 +14782,11 @@
       "Time": "2023-10-27T17:04:30.3626422+00:00",
       "NumProgressed": 18096,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-27T18:03:53.9776399+00:00",
+      "NumProgressed": 18097,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14809,7 +14814,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -14825,7 +14830,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "Feel_The_Thunder",
@@ -14865,7 +14870,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7600
+      "UsersEstimate": 7601
     },
     {
       "ID": "Mirrors",
@@ -14920,15 +14925,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18096,
+      "Progressed": 18097,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:04:30.3626418+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:03:53.9776396+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:20.9462135+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:29.2292831+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:04:30.3627581+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:16.5181301+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:03:53.9777175+00:00"
 }

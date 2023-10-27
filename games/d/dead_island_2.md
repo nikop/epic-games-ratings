@@ -1,57 +1,57 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 517)  
+Rating: 4.54 (Ranked 518)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,271 |
-| Welcome To Hell-A | 5.00% | ~35,271 |
-| Git Gutte! | 4.00% | ~28,217 |
-| Break A Leg | 4.00% | ~28,217 |
-| Coup de Grâce | 4.00% | ~28,217 |
-| Hazardous Materials | 4.00% | ~28,217 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,217 |
-| Dr. Reed, I Presume? | 3.00% | ~21,162 |
-| Bookworm | 3.00% | ~21,162 |
-| But Doctor, I am Butcho | 3.00% | ~21,162 |
-| Slayer Squad | 3.00% | ~21,162 |
-| Can't Handle the Truth | 3.00% | ~21,162 |
-| Like Riding a Bike | 3.00% | ~21,162 |
-| Friends Like These | 3.00% | ~21,162 |
-| Apex Predator | 3.00% | ~21,162 |
-| Zombologist | 3.00% | ~21,162 |
-| A Patton Emerges | 3.00% | ~21,162 |
-| Stacking the Deck | 3.00% | ~21,162 |
-| This is My Weapon | 3.00% | ~21,162 |
-| Making Your Mark | 2.00% | ~14,108 |
-| Anger Management | 2.00% | ~14,108 |
-| Perks of the Job | 2.00% | ~14,108 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,108 |
-| Ooh, Shiny! | 2.00% | ~14,108 |
-| Humanity Distilled | 2.00% | ~14,108 |
-| I Am the Resurrection | 2.00% | ~14,108 |
-| Down with the Sickness | 2.00% | ~14,108 |
-| Our True Nature | 2.00% | ~14,108 |
-| Smorgasbord | 1.00% | ~7,054 |
-| Jumbo Keyring | 1.00% | ~7,054 |
-| Max Headroom | 1.00% | ~7,054 |
-| Go, Bobcats! | 1.00% | ~7,054 |
-| Rising Star | 1.00% | ~7,054 |
+| Hotel California | 5.00% | ~35,273 |
+| Welcome To Hell-A | 5.00% | ~35,273 |
+| Git Gutte! | 4.00% | ~28,218 |
+| Break A Leg | 4.00% | ~28,218 |
+| Coup de Grâce | 4.00% | ~28,218 |
+| Hazardous Materials | 4.00% | ~28,218 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,218 |
+| Dr. Reed, I Presume? | 3.00% | ~21,164 |
+| Bookworm | 3.00% | ~21,164 |
+| But Doctor, I am Butcho | 3.00% | ~21,164 |
+| Slayer Squad | 3.00% | ~21,164 |
+| Can't Handle the Truth | 3.00% | ~21,164 |
+| Like Riding a Bike | 3.00% | ~21,164 |
+| Friends Like These | 3.00% | ~21,164 |
+| Apex Predator | 3.00% | ~21,164 |
+| Zombologist | 3.00% | ~21,164 |
+| A Patton Emerges | 3.00% | ~21,164 |
+| Stacking the Deck | 3.00% | ~21,164 |
+| This is My Weapon | 3.00% | ~21,164 |
+| Making Your Mark | 2.00% | ~14,109 |
+| Anger Management | 2.00% | ~14,109 |
+| Perks of the Job | 2.00% | ~14,109 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,109 |
+| Ooh, Shiny! | 2.00% | ~14,109 |
+| Humanity Distilled | 2.00% | ~14,109 |
+| I Am the Resurrection | 2.00% | ~14,109 |
+| Down with the Sickness | 2.00% | ~14,109 |
+| Our True Nature | 2.00% | ~14,109 |
+| Smorgasbord | 1.00% | ~7,055 |
+| Jumbo Keyring | 1.00% | ~7,055 |
+| Max Headroom | 1.00% | ~7,055 |
+| Go, Bobcats! | 1.00% | ~7,055 |
+| Rising Star | 1.00% | ~7,055 |
 | Not Even My Final Form | 0.90% | ~6,349 |
 | Internet Famous | 0.90% | ~6,349 |
-| On Safari | 0.80% | ~5,643 |
-| Variety is the Spice of Death | 0.80% | ~5,643 |
+| On Safari | 0.80% | ~5,644 |
+| Variety is the Spice of Death | 0.80% | ~5,644 |
 | Make it So | 0.70% | ~4,938 |
-| LA Influential | 0.60% | ~4,232 |
-| Gore Horse | 0.60% | ~4,232 |
+| LA Influential | 0.60% | ~4,233 |
+| Gore Horse | 0.60% | ~4,233 |
 | Sole Survivor | 0.50% | ~3,527 |
 | Sharpest Tool in the Box | 0.50% | ~3,527 |
 | Survival Skills | 0.40% | ~2,822 |
 | Donk! | 0.20% | ~1,411 |
 | Bucket List | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,413 (Ranked 22)  
+Progressed: 705,457 (Ranked 22)  
 Completed: 2,274 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 2,274 (0.32%) (Ranked 210)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 705,413 | 2,274 |
+| 2023-10-27 | 705,457 | 2,274 |
 ## Awards
 Max (Great Boss Battles): 6,671  (Ranked 57)  
 Sum: 10,030 (Ranked 91)  

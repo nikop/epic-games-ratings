@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2023-10-27T17:03:20.5502217+00:00",
       "NumProgressed": 593,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-27T18:02:56.3783292+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -796,15 +801,15 @@
       "Name": "Beat It",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "blast_from_the_past",
       "SetID": "d4f4pll",
       "Name": "Blast From The Past",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 511
     },
     {
       "ID": "deadly_secret",
@@ -820,7 +825,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ending_2",
@@ -900,7 +905,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "kindar_surprise",
@@ -940,7 +945,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "tough_decision",
@@ -948,14 +953,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 19
     }
   ],
@@ -963,8 +968,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:03:20.5502213+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:02:56.3783287+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:21.4066435+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:03:05.7646873+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:03:20.5502509+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:02:42.4291681+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:02:56.3783485+00:00"
 }

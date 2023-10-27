@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 865,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-10-27T17:09:01.6510176+00:00",
       "NumProgressed": 864,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T18:08:34.2098591+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2520,7 +2525,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_18",
@@ -2598,9 +2603,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_27",
@@ -2680,7 +2685,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "achievement_36",
@@ -2688,7 +2693,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_37",
@@ -2728,7 +2733,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_41",
@@ -2736,7 +2741,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_42",
@@ -2864,7 +2869,7 @@
       "Name": "Support the troops",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_57",
@@ -2959,13 +2964,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 1
     }
   ],
@@ -2973,8 +2978,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:09:01.6510172+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:08:34.2098586+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:57:29.4025919+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:09:01.651105+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:57:23.3312728+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:08:34.2099229+00:00"
 }

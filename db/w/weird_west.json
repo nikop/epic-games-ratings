@@ -2,7 +2,7 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 216,
@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1942,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -2469,6 +2469,11 @@
       "Time": "2023-10-27T15:04:52.2054919+00:00",
       "NumProgressed": 1942,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T18:03:46.274618+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2488,7 +2493,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2512,7 +2517,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2520,7 +2525,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -2552,7 +2557,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2584,7 +2589,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -2622,9 +2627,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 564
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2632,7 +2637,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2680,7 +2685,7 @@
       "Name": "Monster Hunter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -2712,7 +2717,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2720,7 +2725,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_PERKY",
@@ -2728,7 +2733,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1264
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2776,7 +2781,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2816,7 +2821,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -2848,7 +2853,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2856,7 +2861,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1711
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2864,7 +2869,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2896,22 +2901,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1942,
+      "Progressed": 1944,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:04:20.7827845+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:03:46.2746175+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:00.8186539+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:04:20.7828487+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:57:51.4684389+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:03:46.2746652+00:00"
 }

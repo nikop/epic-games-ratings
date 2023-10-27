@@ -20,6 +20,7 @@ Rating: 4.57 (Ranked 461)
 | Idiot | 43.00% | ~6 |
 | Fence | 43.00% | ~6 |
 | Sidelined | 43.00% | ~6 |
+| Beast slayer | 36.00% | ~5 |
 | The fourth triplet | 36.00% | ~5 |
 | Family man | 29.00% | ~4 |
 | Death of a legend | 29.00% | ~4 |
@@ -28,7 +29,6 @@ Rating: 4.57 (Ranked 461)
 | Freedom fighter | 29.00% | ~4 |
 | Defender | 29.00% | ~4 |
 | Pandora's box | 29.00% | ~4 |
-| Beast slayer | 29.00% | ~4 |
 | Ogre friend | 29.00% | ~4 |
 | Hard worker | 29.00% | ~4 |
 | Workaholic | 29.00% | ~4 |

@@ -20,7 +20,7 @@ Rating: 4.64 (Ranked 326)
 | Knives Out | 47.00% | ~351 |
 | Land, Ho! | 47.00% | ~351 |
 | Back In The Saddle | 46.00% | ~343 |
-| No Man Is An Island | 45.00% | ~336 |
+| No Man Is An Island | 46.00% | ~343 |
 | At Wits' End | 45.00% | ~336 |
 | Fhtagn! | 43.00% | ~321 |
 | Bookworm | 42.00% | ~313 |

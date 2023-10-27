@@ -16,7 +16,7 @@ Rating: 4.19 (Ranked 905)
 | Reforged | 5.00% | ~815 |
 | In the Pipe, Five by Five | 5.00% | ~815 |
 | Desperate Times | 5.00% | ~815 |
-| Keep Fighting | 5.00% | ~211 |
+| Keep Fighting | 5.00% | ~212 |
 | You Need a Gun | 4.00% | ~652 |
 | I Do Belong Here | 4.00% | ~652 |
 | Terminated | 4.00% | ~652 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,302 (Ranked 139)  
+Progressed: 16,304 (Ranked 139)  
 Completed: 77 (0.47%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 77 (0.47%) (Ranked 191)
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
-| 2023-10-27 | 16,302 | 77 |
+| 2023-10-27 | 16,304 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 382)  
 Sum: 455 (Ranked 325)  

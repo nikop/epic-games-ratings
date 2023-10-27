@@ -2,9 +2,9 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -790,6 +790,11 @@
       "Time": "2023-10-27T16:03:24.7832615+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T18:02:49.9159199+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -840,9 +845,9 @@
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -896,9 +901,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 347
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1008,9 +1013,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1041,14 +1046,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:03:13.3583185+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:02:49.9159192+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:00:46.0134477+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:03:13.3583517+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:00:06.989058+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:02:49.9159437+00:00"
 }

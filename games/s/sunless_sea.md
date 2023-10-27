@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,219 |
-| Sweet Sorrow | 18.00% | ~7,109 |
-| Rules the Waves | 17.00% | ~6,714 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,924 |
-| Rival | 14.00% | ~5,529 |
+| Sink Beneath the Waves | 36.00% | ~14,220 |
+| Sweet Sorrow | 18.00% | ~7,110 |
+| Rules the Waves | 17.00% | ~6,715 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,925 |
+| Rival | 14.00% | ~5,530 |
 | Correspondent | 12.00% | ~4,740 |
 | Lose Your Mind | 12.00% | ~4,740 |
 | Sound Mind? | 12.00% | ~4,740 |
@@ -40,28 +40,28 @@ Number of Ratings: 401  (23.09.2022)
 | Those are pearls that were his eyes | 1.00% | ~395 |
 | Rosewater sailor | 1.00% | ~395 |
 | A current under zee | 1.00% | ~395 |
-| Never Stop Sinking... | 0.90% | ~355 |
-| His bones in whispers | 0.90% | ~355 |
-| The beauty of the deep | 0.90% | ~355 |
-| No regrets | 0.90% | ~355 |
-| Under the zee | 0.90% | ~355 |
-| Depth charge | 0.90% | ~355 |
+| Never Stop Sinking... | 0.90% | ~356 |
+| His bones in whispers | 0.90% | ~356 |
+| The beauty of the deep | 0.90% | ~356 |
+| No regrets | 0.90% | ~356 |
+| Under the zee | 0.90% | ~356 |
+| Depth charge | 0.90% | ~356 |
 | A zee-change | 0.80% | ~316 |
 | Leviathan | 0.80% | ~316 |
 | What lies beneath | 0.70% | ~276 |
 | Stone's Curse | 0.70% | ~276 |
-| Five Years at Zee | 0.50% | ~197 |
+| Five Years at Zee | 0.50% | ~198 |
 | The Lady's Parlour | 0.20% | ~79 |
 | A Past Wreathed in Shadows | 0.20% | ~79 |
 | Under pressure | 0.20% | ~79 |
-| A Drownie devotee | 0.10% | ~39 |
-| Romans 6:9 | 0.10% | ~39 |
-| Ofermod | 0.10% | ~39 |
-| Consider Phlebas | 0.10% | ~39 |
-| Death By Water | 0.10% | ~39 |
-| Ten Years at Zee | 0.10% | ~39 |
+| A Drownie devotee | 0.10% | ~40 |
+| Romans 6:9 | 0.10% | ~40 |
+| Ofermod | 0.10% | ~40 |
+| Consider Phlebas | 0.10% | ~40 |
+| Death By Water | 0.10% | ~40 |
+| Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,496 (Ranked 116)  
+Progressed: 39,500 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.01%) (Ranked 308)
 | 2023-10-24 | 39,373 | 4 |
 | 2023-10-25 | 39,409 | 4 |
 | 2023-10-26 | 39,456 | 4 |
-| 2023-10-27 | 39,496 | 4 |
+| 2023-10-27 | 39,500 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 276)  
 Sum: 288 (Ranked 360)  

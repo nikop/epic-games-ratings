@@ -2,12 +2,12 @@
   "ID": "ff17044fb2804a4aa8066dde0626514d",
   "Name": "Disciples: Liberation",
   "ProductSlug": "disciples-liberation",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-21T17:00:00+00:00",
@@ -371,6 +371,6 @@
   "FirstSeen": "2022-07-22T20:19:00.1531714+00:00",
   "LastChanged": "2023-06-18T21:57:49.714736+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.677278+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:01:14.6069443+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:08:45.2320281+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:00:32.5687894+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:08:19.9035074+00:00"
 }

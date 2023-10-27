@@ -2,12 +2,12 @@
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
   "ProductSlug": "evil-dead-the-game",
-  "Ranking_Rating": 769,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -6938,10 +6938,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 30242,
       "NumberOfAwardsMax": 12731
+    },
+    {
+      "Time": "2023-10-27T17:57:10.6221972+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 30243,
+      "NumberOfAwardsMax": 12731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30242,
+  "NumberOfAwards": 30243,
   "NumberOfAwardsMax": 12731,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6955,7 +6961,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2033
+      "Count": 2034
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7023,8 +7029,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2023-10-27T16:57:12.7856698+00:00",
+  "LastChanged": "2023-10-27T17:57:10.622197+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:19.6445433+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:57:12.7856705+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:09:12.5364982+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:57:10.6221975+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:08:43.1540324+00:00"
 }

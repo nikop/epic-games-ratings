@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 270,
+  "Ranking_Rating": 287,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 409,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 6825,
   "RatingHistory": [
     {
@@ -12330,6 +12330,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 31186,
       "NumberOfAwardsMax": 3794
+    },
+    {
+      "Time": "2023-10-27T17:59:37.8642408+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 31186,
+      "NumberOfAwardsMax": 3794
     }
   ],
   "ReviewsDisabled": false,
@@ -12421,8 +12427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-10-27T17:00:09.3362134+00:00",
+  "LastChanged": "2023-10-27T17:59:37.8642407+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.2178458+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:00:09.336214+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:09:18.4973188+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:59:37.8642412+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:08:48.1712167+00:00"
 }

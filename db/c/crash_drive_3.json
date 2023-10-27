@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-10-27T08:04:06.3646894+00:00",
       "NumProgressed": 398,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-27T18:03:50.7242176+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -565,7 +570,7 @@
       "Name": "Brace for impact!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -605,7 +610,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -717,7 +722,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -733,7 +738,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -749,7 +754,7 @@
       "Name": "Pushover",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "HIT_ALIEN",
@@ -829,7 +834,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -853,7 +858,7 @@
       "Name": "Multiply that!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -1004,7 +1009,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 2
     }
   ],
@@ -1012,8 +1017,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:04:26.1017966+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:03:50.7242172+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:17.7735042+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:33.8094939+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:04:26.1018518+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:19.8168232+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:03:50.7242588+00:00"
 }

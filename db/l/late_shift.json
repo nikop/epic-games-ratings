@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
@@ -1120,6 +1120,11 @@
       "Time": "2023-10-27T17:04:24.3694423+00:00",
       "NumProgressed": 562,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-27T18:03:49.2316111+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1131,7 +1136,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1203,7 +1208,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1219,7 +1224,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "GOOD_KARMA",
@@ -1227,7 +1232,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "INTERROGATION",
@@ -1251,7 +1256,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "PROTECTOR",
@@ -1259,7 +1264,7 @@
       "Name": "Protector",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "SABOTAGE",
@@ -1267,15 +1272,15 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1283,14 +1288,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 8
     }
   ],
@@ -1298,8 +1303,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:04:24.3694415+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:03:49.2316107+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:58:41.3740564+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:04:24.3694663+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:58:26.0361182+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:03:49.2316271+00:00"
 }

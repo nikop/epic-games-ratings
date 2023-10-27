@@ -3939,9 +3939,9 @@
       "Count": 1072
     }
   ],
-  "EOS_Progressed": 76339,
+  "EOS_Progressed": 76341,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25394,6 +25394,11 @@
       "Time": "2023-10-27T17:08:22.8729783+00:00",
       "NumProgressed": 76339,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-27T18:07:51.6159141+00:00",
+      "NumProgressed": 76341,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25437,7 +25442,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8397
+      "UsersEstimate": 8398
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -25501,7 +25506,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23665
+      "UsersEstimate": 23666
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25509,7 +25514,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24428
+      "UsersEstimate": 24429
     },
     {
       "ID": "complete_mission_1",
@@ -25517,7 +25522,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 35116
+      "UsersEstimate": 35117
     },
     {
       "ID": "customize_a_vehicle",
@@ -25525,7 +25530,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 25955
+      "UsersEstimate": 25956
     },
     {
       "ID": "customize_a_weapon",
@@ -25533,7 +25538,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28245
+      "UsersEstimate": 28246
     },
     {
       "ID": "cutting_edge_materials",
@@ -25589,7 +25594,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14504
+      "UsersEstimate": 14505
     },
     {
       "ID": "empire_tier_4",
@@ -25613,7 +25618,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25192
+      "UsersEstimate": 25193
     },
     {
       "ID": "fully_complete_a_building",
@@ -25637,7 +25642,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10687
+      "UsersEstimate": 10688
     },
     {
       "ID": "get_betrayed",
@@ -25653,7 +25658,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27482
+      "UsersEstimate": 27483
     },
     {
       "ID": "hit_max_level",
@@ -25661,7 +25666,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12214
+      "UsersEstimate": 12215
     },
     {
       "ID": "infinite_boost_refill",
@@ -25789,7 +25794,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32062
+      "UsersEstimate": 32063
     },
     {
       "ID": "whole_map_purple",
@@ -25828,13 +25833,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76339,
+      "Progressed": 76341,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47976,
+      "Progressed": 47978,
       "Completed": 4200
     }
   ],
@@ -25842,8 +25847,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-27T14:03:39.5686126+00:00",
-  "LastChanged_Achievements": "2023-10-27T17:08:22.8729779+00:00",
+  "LastChanged_Achievements": "2023-10-27T18:07:51.6159137+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-27T17:02:54.1488159+00:00",
-  "LastUpdate_Achievements": "2023-10-27T17:08:22.8731761+00:00"
+  "LastUpdate_Ratings": "2023-10-27T18:02:34.0745537+00:00",
+  "LastUpdate_Achievements": "2023-10-27T18:07:51.6160497+00:00"
 }
