@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 14358,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9734,9 +9734,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "17",
@@ -9886,9 +9886,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "7",
@@ -9973,8 +9973,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:06:49.6951993+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:06:31.0191826+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:00:36.3094397+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:06:49.6953065+00:00"
+  "LastUpdate_Ratings": "2023-10-27T00:00:20.186619+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:06:31.0192721+00:00"
 }

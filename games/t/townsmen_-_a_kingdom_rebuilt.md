@@ -88,13 +88,13 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere III | 0.50% | ~22 |
 | Governor-elect | 0.50% | ~22 |
 | Little place in the country | 0.50% | ~22 |
+| I've been everywhere VIII | 0.50% | ~22 |
+| I've been everywhere IX | 0.50% | ~22 |
 | An honorable departure | 0.50% | ~22 |
 | It went unnoticed | 0.40% | ~17 |
 | Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
 | Panacea | 0.40% | ~17 |
-| I've been everywhere VIII | 0.40% | ~17 |
-| I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
 | Malediction | 0.30% | ~13 |

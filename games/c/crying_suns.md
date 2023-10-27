@@ -8,18 +8,18 @@ Number of Ratings: 1,003  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shutdown | 66.00% | ~310,013 |
 | Jeef Skeejj | 44.00% | ~206,675 |
-| Careful planning | 39.00% | ~183,189 |
-| Second Coming | 34.00% | ~159,703 |
+| Careful planning | 39.00% | ~183,190 |
+| Second Coming | 34.00% | ~159,704 |
 | Jeef Skagg | 30.00% | ~140,915 |
 | Mother | 25.00% | ~117,429 |
 | In space, no one can hear you scream | 24.00% | ~112,732 |
 | Chapter I: Echoes | 22.00% | ~103,338 |
 | Excelsior Rule | 22.00% | ~103,338 |
 | Things persisted in not being what they seemed | 20.00% | ~93,943 |
-| Knightmare Frames | 15.00% | ~70,457 |
-| May His passing cleanse the world | 15.00% | ~70,457 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,457 |
-| Pope Zenon | 15.00% | ~70,457 |
+| Knightmare Frames | 15.00% | ~70,458 |
+| May His passing cleanse the world | 15.00% | ~70,458 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,458 |
+| Pope Zenon | 15.00% | ~70,458 |
 | Tetsuo | 11.00% | ~51,669 |
 | Plan for the worst | 11.00% | ~51,669 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,972 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 5.00% | ~23,486 |
 | Mercy | 5.00% | ~23,486 |
 | Jericho Rule | 5.00% | ~23,486 |
-| Geno Rule | 3.00% | ~14,091 |
-| Hammer Rule | 3.00% | ~14,091 |
+| Geno Rule | 3.00% | ~14,092 |
+| Hammer Rule | 3.00% | ~14,092 |
 | Survivor | 2.00% | ~9,394 |
 | A Rock in the Dark | 1.00% | ~4,697 |
 | Emperor of Misery | 1.00% | ~4,697 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~14 |
 | Kronos Rule | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,716 (Ranked 38)  
+Progressed: 469,717 (Ranked 38)  
 Completed: 19 (0.00%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,6 +276,7 @@ Completed: 19 (0.00%) (Ranked 327)
 | 2023-10-24 | 469,606 | 19 |
 | 2023-10-25 | 469,655 | 19 |
 | 2023-10-26 | 469,716 | 19 |
+| 2023-10-27 | 469,717 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 270)  
 Sum: 243 (Ranked 374)  

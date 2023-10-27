@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 517)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,242 |
-| Welcome To Hell-A | 5.00% | ~35,242 |
-| Git Gutte! | 4.00% | ~28,193 |
-| Break A Leg | 4.00% | ~28,193 |
-| Coup de Grâce | 4.00% | ~28,193 |
-| Hazardous Materials | 4.00% | ~28,193 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,193 |
-| Dr. Reed, I Presume? | 3.00% | ~21,145 |
-| Bookworm | 3.00% | ~21,145 |
-| But Doctor, I am Butcho | 3.00% | ~21,145 |
-| Slayer Squad | 3.00% | ~21,145 |
-| Can't Handle the Truth | 3.00% | ~21,145 |
-| Like Riding a Bike | 3.00% | ~21,145 |
-| Friends Like These | 3.00% | ~21,145 |
-| Apex Predator | 3.00% | ~21,145 |
-| Zombologist | 3.00% | ~21,145 |
-| A Patton Emerges | 3.00% | ~21,145 |
-| Stacking the Deck | 3.00% | ~21,145 |
-| This is My Weapon | 3.00% | ~21,145 |
+| Hotel California | 5.00% | ~35,243 |
+| Welcome To Hell-A | 5.00% | ~35,243 |
+| Git Gutte! | 4.00% | ~28,194 |
+| Break A Leg | 4.00% | ~28,194 |
+| Coup de Grâce | 4.00% | ~28,194 |
+| Hazardous Materials | 4.00% | ~28,194 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,194 |
+| Dr. Reed, I Presume? | 3.00% | ~21,146 |
+| Bookworm | 3.00% | ~21,146 |
+| But Doctor, I am Butcho | 3.00% | ~21,146 |
+| Slayer Squad | 3.00% | ~21,146 |
+| Can't Handle the Truth | 3.00% | ~21,146 |
+| Like Riding a Bike | 3.00% | ~21,146 |
+| Friends Like These | 3.00% | ~21,146 |
+| Apex Predator | 3.00% | ~21,146 |
+| Zombologist | 3.00% | ~21,146 |
+| A Patton Emerges | 3.00% | ~21,146 |
+| Stacking the Deck | 3.00% | ~21,146 |
+| This is My Weapon | 3.00% | ~21,146 |
 | Making Your Mark | 2.00% | ~14,097 |
 | Anger Management | 2.00% | ~14,097 |
 | Perks of the Job | 2.00% | ~14,097 |
@@ -33,13 +33,13 @@ Rating: 4.54 (Ranked 517)
 | I Am the Resurrection | 2.00% | ~14,097 |
 | Down with the Sickness | 2.00% | ~14,097 |
 | Our True Nature | 2.00% | ~14,097 |
-| Smorgasbord | 1.00% | ~7,048 |
-| Jumbo Keyring | 1.00% | ~7,048 |
-| Max Headroom | 1.00% | ~7,048 |
-| Go, Bobcats! | 1.00% | ~7,048 |
-| Rising Star | 1.00% | ~7,048 |
-| Not Even My Final Form | 0.90% | ~6,343 |
-| Internet Famous | 0.90% | ~6,343 |
+| Smorgasbord | 1.00% | ~7,049 |
+| Jumbo Keyring | 1.00% | ~7,049 |
+| Max Headroom | 1.00% | ~7,049 |
+| Go, Bobcats! | 1.00% | ~7,049 |
+| Rising Star | 1.00% | ~7,049 |
+| Not Even My Final Form | 0.90% | ~6,344 |
+| Internet Famous | 0.90% | ~6,344 |
 | On Safari | 0.80% | ~5,639 |
 | Variety is the Spice of Death | 0.80% | ~5,639 |
 | Make it So | 0.70% | ~4,934 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 517)
 | Donk! | 0.20% | ~1,410 |
 | Bucket List | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,831 (Ranked 22)  
+Progressed: 704,852 (Ranked 22)  
 Completed: 2,269 (0.32%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 2,269 (0.32%) (Ranked 209)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
+| 2023-10-27 | 704,852 | 2,269 |
 ## Awards
 Max (Great Boss Battles): 6,651  (Ranked 57)  
 Sum: 9,992 (Ranked 91)  

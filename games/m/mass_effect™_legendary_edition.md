@@ -108,7 +108,7 @@
 | Mail Slot | 14.00% | ~114 |
 | Long Service Medal | 14.00% | ~114 |
 | Combined Arms | 13.00% | ~106 |
-| Bruiser | 12.00% | ~98 |
+| Bruiser | 13.00% | ~106 |
 | Warp Mastery | 12.00% | ~98 |
 | Paramour III | 11.00% | ~89 |
 | Overload Specialist | 11.00% | ~89 |

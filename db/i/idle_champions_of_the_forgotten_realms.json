@@ -7627,9 +7627,9 @@
       "Count": 3487
     }
   ],
-  "EOS_Progressed": 232891,
+  "EOS_Progressed": 232895,
   "EOS_Completed": 2388,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28767,6 +28767,11 @@
       "Time": "2023-10-26T23:04:15.0670679+00:00",
       "NumProgressed": 232891,
       "NumCompleted": 2388
+    },
+    {
+      "Time": "2023-10-27T00:03:59.870486+00:00",
+      "NumProgressed": 232895,
+      "NumCompleted": 2388
     }
   ],
   "TotalAchievements": 528,
@@ -32938,7 +32943,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "objective_completed_1406",
@@ -32954,7 +32959,7 @@
       "Name": "The Arena of Blood",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "objective_completed_1411",
@@ -32986,7 +32991,7 @@
       "Name": "Spelljammers in Training",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "objective_completed_1421",
@@ -33001,21 +33006,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199165,
+      "Progressed": 199169,
       "Completed": 3678
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232891,
+      "Progressed": 232895,
       "Completed": 2388
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-26T21:01:50.1496565+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:04:15.0670673+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:03:59.8704855+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:00:27.149744+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:04:15.071159+00:00"
+  "LastUpdate_Ratings": "2023-10-27T00:00:10.028511+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:03:59.8731172+00:00"
 }

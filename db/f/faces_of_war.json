@@ -4,7 +4,7 @@
   "ProductSlug": "faces-of-war-3c2686",
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.1189346+00:00",
   "LastChanged": "2023-03-31T05:57:23.1189347+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:53.9074289+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:59:54.7469038+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:06:15.4561986+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:59:36.7993449+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:05:57.0643507+00:00"
 }

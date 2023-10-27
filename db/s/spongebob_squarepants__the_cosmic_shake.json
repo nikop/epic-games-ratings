@@ -2,10 +2,10 @@
   "ID": "da36711940d4460da57d8d6ad67236a4",
   "Name": "SpongeBob SquarePants: The Cosmic Shake",
   "ProductSlug": "spongebob-squarepants-the-cosmic-shake",
-  "Ranking_EOS_Progress": 604,
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Completed": 2,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-31T18:00:00+00:00",
     "PcReleaseDate": "2023-01-31T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 33.33,
+  "EOS_Progressed": 4,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-10-26T12:08:17.699846+00:00",
@@ -44,6 +44,11 @@
       "Time": "2023-10-26T19:06:16.7008853+00:00",
       "NumProgressed": 3,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T00:05:48.1253814+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-26T13:15:26.8748279+00:00",
@@ -54,369 +59,369 @@
       "ID": "AllAchievementsCompleted",
       "SetID": "3h7f1mh",
       "Name": "One Sponge to Rule Them All",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ambush",
       "SetID": "3h7f1mh",
       "Name": "Bamboozled",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BeachSpinster",
       "SetID": "3h7f1mh",
       "Name": "Beach Spinster",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BlackBelt",
       "SetID": "3h7f1mh",
       "Name": "The Way of the Sponge",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BounceBob",
       "SetID": "3h7f1mh",
       "Name": "BounceBob",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BoxingChamp",
       "SetID": "3h7f1mh",
       "Name": "Boxing Champion",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BubbleMaster",
       "SetID": "3h7f1mh",
       "Name": "King of Bubbles",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BubbleShotsFired",
       "SetID": "3h7f1mh",
       "Name": "Bubble the Trouble",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Deputy",
       "SetID": "3h7f1mh",
       "Name": "Deputy",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DoItAgain",
       "SetID": "3h7f1mh",
       "Name": "Wanna see me do it again?",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DressUp",
       "SetID": "3h7f1mh",
       "Name": "Dress Up",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FashionHunter",
       "SetID": "3h7f1mh",
       "Name": "Fashion Hunter",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Filmstar",
       "SetID": "3h7f1mh",
       "Name": "Movie Star",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FriendlyFire",
       "SetID": "3h7f1mh",
       "Name": "Friendly Fire",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GlidingMeters",
       "SetID": "3h7f1mh",
       "Name": "Is it a plane? Is it a pizza?",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "JawsWithFlaws",
       "SetID": "3h7f1mh",
       "Name": "Jaws with Flaws",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JellyPants",
       "SetID": "3h7f1mh",
       "Name": "SpongeBob JellyPants",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "JellyfishHunter",
       "SetID": "3h7f1mh",
       "Name": "Jellyfish Hunter",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LocalHero",
       "SetID": "3h7f1mh",
       "Name": "Local Hero",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MusicEnthusiast",
       "SetID": "3h7f1mh",
       "Name": "Music Enthusiast",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NoDamageTaken",
       "SetID": "3h7f1mh",
       "Name": "Sponge out of Harm\u0027s Way",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RedShiny",
       "SetID": "3h7f1mh",
       "Name": "Red and Shiny",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Resourceful",
       "SetID": "3h7f1mh",
       "Name": "Hazardous",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ReturnToSender",
       "SetID": "3h7f1mh",
       "Name": "Return to Sender",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RideRider",
       "SetID": "3h7f1mh",
       "Name": "Ride Rider",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RoyalGuard",
       "SetID": "3h7f1mh",
       "Name": "King of the Castle",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ScaredyPants",
       "SetID": "3h7f1mh",
       "Name": "ScaredyPants",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SpecialBikiniBottomBoss",
       "SetID": "3h7f1mh",
       "Name": "Tentacle Dodger",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialGloveWorldBoss",
       "SetID": "3h7f1mh",
       "Name": "Splash Zone",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialHalloweenBoss",
       "SetID": "3h7f1mh",
       "Name": "Pet you didn\u0027t see that coming",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialKarateBoss",
       "SetID": "3h7f1mh",
       "Name": "Kah-Rah-Tay King",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialMedievalBoss",
       "SetID": "3h7f1mh",
       "Name": "Knight in shining PJs",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialPirateBoss",
       "SetID": "3h7f1mh",
       "Name": "Deck Scrubber",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialPrehistoricBoss",
       "SetID": "3h7f1mh",
       "Name": "Dehydrated",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpecialWesternBoss",
       "SetID": "3h7f1mh",
       "Name": "The Good, the Bad and the Krabby",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SpongeLock",
       "SetID": "3h7f1mh",
       "Name": "SpongeLock HolmesPants",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Sponginator",
       "SetID": "3h7f1mh",
       "Name": "Sponginator",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SquareOne",
       "SetID": "3h7f1mh",
       "Name": "First Mate",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "StunningPerformance",
       "SetID": "3h7f1mh",
       "Name": "Stunning Performance",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SuckInEnemies",
       "SetID": "3h7f1mh",
       "Name": "Spring Cleaning",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UghUgaha",
       "SetID": "3h7f1mh",
       "Name": "Ugh Ugaha!",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VolleyKing",
       "SetID": "3h7f1mh",
       "Name": "Volley King",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Wanted",
       "SetID": "3h7f1mh",
       "Name": "Wanted Sponge",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WrathTub",
       "SetID": "3h7f1mh",
       "Name": "Wrath-tub",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h7f1mh",
       "IsBase": true,
-      "Progressed": 3,
-      "Completed": 1
+      "Progressed": 4,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-31T20:57:16.6420718+00:00",
   "FirstSeenRating": "2023-03-31T05:57:06.6900209+00:00",
   "FirstSeenAchievements": "2023-10-19T10:03:36.1362523+00:00",
   "LastChanged": "2023-03-31T05:57:06.6900211+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:06:06.1391638+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:05:48.1253809+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:35.332476+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:57:14.9824973+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:06:06.1392025+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:56:59.6868551+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:05:48.1254084+00:00"
 }

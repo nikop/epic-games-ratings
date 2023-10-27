@@ -23,11 +23,11 @@ Rating: 4.64 (Ranked 324)
 | Fallout Doesn't Let You Do This | 1.00% | ~244 |
 | Don't Knife The Hand That Feeds | 1.00% | ~244 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
-| Bathe With A Giant Nude Alien | 1.00% | ~16 |
+| Bathe With A Giant Nude Alien | 1.00% | ~17 |
 | Series Wrap on Suit-O | 0.90% | ~219 |
 | We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
-| Eatin' Good in the Neighborhood | 0.70% | ~170 |
-| Eye Scream, You Scream | 0.70% | ~170 |
+| Eatin' Good in the Neighborhood | 0.70% | ~171 |
+| Eye Scream, You Scream | 0.70% | ~171 |
 | Mux Ado About Shipping | 0.60% | ~10 |
 | Sequel-Bait | 0.30% | ~73 |
 | Gunning For Your Job | 0.30% | ~73 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 324)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,357 (Ranked 123)  
+Progressed: 24,358 (Ranked 123)  
 Completed: 13 (0.05%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 13 (0.05%) (Ranked 284)
 | 2023-10-24 | 24,336 | 13 |
 | 2023-10-25 | 24,346 | 13 |
 | 2023-10-26 | 24,357 | 13 |
+| 2023-10-27 | 24,358 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

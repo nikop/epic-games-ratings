@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4175,
+  "EOS_Progressed": 4176,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-10-26T22:04:44.8711762+00:00",
       "NumProgressed": 4175,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-27T00:03:56.5090747+00:00",
+      "NumProgressed": 4176,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7305,7 +7310,7 @@
       "Name": "I have to read these things?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Ach022",
@@ -7513,7 +7518,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Ach048",
@@ -7545,7 +7550,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "Ach052",
@@ -7712,13 +7717,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4175,
+      "Progressed": 4176,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2696,
+      "Progressed": 2697,
       "Completed": 1930
     }
   ],
@@ -7726,8 +7731,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:04:11.86236+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:03:56.5090743+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:57:42.5844685+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:04:11.8625075+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:57:26.7181716+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:03:56.5091658+00:00"
 }

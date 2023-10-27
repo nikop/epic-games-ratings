@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2831,9 +2831,9 @@
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2895,8 +2895,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:04:01.6676322+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:03:46.2644153+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:57:45.8509082+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:04:01.6676935+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:57:29.8080002+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:03:46.264463+00:00"
 }

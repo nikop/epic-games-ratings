@@ -1332,9 +1332,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9881,
+  "EOS_Progressed": 9882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15657,6 +15657,11 @@
       "Time": "2023-10-26T23:06:13.8081563+00:00",
       "NumProgressed": 9881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T00:05:55.479048+00:00",
+      "NumProgressed": 9882,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15748,7 +15753,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "2",
@@ -15756,7 +15761,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "20",
@@ -15780,7 +15785,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7213
+      "UsersEstimate": 7214
     },
     {
       "ID": "23",
@@ -15892,7 +15897,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "36",
@@ -15940,7 +15945,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "41",
@@ -16092,7 +16097,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "59",
@@ -16139,15 +16144,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9881,
+      "Progressed": 9882,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-26T19:59:09.1797447+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:06:13.8081558+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:05:55.4790476+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:58:42.3597865+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:06:13.8083346+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:58:25.6728373+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:05:55.4791605+00:00"
 }

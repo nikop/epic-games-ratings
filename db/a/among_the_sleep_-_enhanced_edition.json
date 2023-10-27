@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90249,
+  "EOS_Progressed": 90250,
   "EOS_Completed": 406,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -21477,6 +21477,11 @@
       "Time": "2023-10-26T23:04:42.3187987+00:00",
       "NumProgressed": 90249,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-10-27T00:04:25.8700714+00:00",
+      "NumProgressed": 90250,
+      "NumCompleted": 406
     }
   ],
   "TotalAchievements": 10,
@@ -21520,7 +21525,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "DrawingsAll",
@@ -21560,22 +21565,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9927
+      "UsersEstimate": 9928
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 90249,
+      "Progressed": 90250,
       "Completed": 406
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:04:42.3187982+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:04:25.870071+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.8590443+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:58:45.9517386+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:04:42.3189472+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:58:29.3228792+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:04:25.8701762+00:00"
 }

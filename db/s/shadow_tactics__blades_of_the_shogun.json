@@ -1858,9 +1858,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210127,
+  "EOS_Progressed": 210131,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1405,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23428,6 +23428,11 @@
       "Time": "2023-10-26T23:04:57.2880994+00:00",
       "NumProgressed": 210127,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-27T00:04:40.6259107+00:00",
+      "NumProgressed": 210131,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23479,7 +23484,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18911
+      "UsersEstimate": 18912
     },
     {
       "ID": "FiveShadows",
@@ -23511,7 +23516,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25215
+      "UsersEstimate": 25216
     },
     {
       "ID": "HappyLittleAccidents",
@@ -23615,7 +23620,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "OldMan",
@@ -23639,7 +23644,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "ReleaseTheKraken",
@@ -23663,7 +23668,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18911
+      "UsersEstimate": 18912
     },
     {
       "ID": "StillRollin",
@@ -23695,7 +23700,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18911
+      "UsersEstimate": 18912
     },
     {
       "ID": "TheCave",
@@ -23751,7 +23756,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "Warzone",
@@ -23790,15 +23795,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210127,
+      "Progressed": 210131,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-25T15:01:30.182919+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:04:57.2880988+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:04:40.6259103+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.8896219+00:00",
-  "LastUpdate_Ratings": "2023-10-26T23:00:31.2636102+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:04:57.288307+00:00"
+  "LastUpdate_Ratings": "2023-10-27T00:00:14.6130389+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:04:40.6260358+00:00"
 }

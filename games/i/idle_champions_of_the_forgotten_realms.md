@@ -11,9 +11,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.40% | ~932 |
 | Foul Play | 0.40% | ~797 |
 | The Mad Wizard | 0.30% | ~699 |
-| The Jungles of Doomspace | 0.30% | ~597 |
-| The Arena of Blood | 0.30% | ~597 |
-| Spelljammers in Training | 0.30% | ~597 |
+| The Jungles of Doomspace | 0.30% | ~598 |
+| The Arena of Blood | 0.30% | ~598 |
+| Spelljammers in Training | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
 | The Sanctum of the Sword | 0.20% | ~398 |
 | Were-verpowered | 0.20% | ~466 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,891 (Ranked 61)  
+Progressed: 232,895 (Ranked 61)  
 Completed: 2,388 (1.03%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -725,6 +725,7 @@ Completed: 2,388 (1.03%) (Ranked 148)
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
+| 2023-10-27 | 232,895 | 2,388 |
 ## Awards
 Max (Great for Beginners): 5,448  (Ranked 69)  
 Sum: 32,215 (Ranked 41)  

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 807,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-10-26T23:07:05.9077497+00:00",
       "NumProgressed": 805,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T00:08:06.5565504+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -764,15 +769,15 @@
       "Name": "Blobmeister",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -788,7 +793,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -812,7 +817,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -820,7 +825,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -828,7 +833,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -836,7 +841,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -844,7 +849,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -938,9 +943,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -971,14 +976,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:07:05.9077492+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:08:06.55655+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:59:54.3673144+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:07:05.9077768+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:59:36.4252111+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:08:06.5565714+00:00"
 }

@@ -6,12 +6,13 @@ Rating: 4.59 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 0.60% | ~86 |
+| Drug Gifter | 0.30% | ~43 |
 | The Pit and the Pirates | 0.20% | ~29 |
-| Drug Gifter | 0.20% | ~29 |
 | Drone Dodger | 0.20% | ~29 |
 | Call it Even | 0.20% | ~29 |
 | Bosmang | 0.20% | ~29 |
 | Captain Drummer | 0.20% | ~29 |
+| Celebrations are in Order | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Archivist | 0.10% | ~14 |
 | Doctor Approved | 0.10% | ~14 |
@@ -28,7 +29,6 @@ Rating: 4.59 (Ranked 423)
 | No Belter Left Behind | 0.10% | ~14 |
 | Debris Spree | 0.10% | ~14 |
 | Data Master | 0.10% | ~14 |
-| Celebrations are in Order | 0.10% | ~14 |
 | Grave Robber | 0.10% | ~14 |
 | Data Recoverer | 0.10% | ~14 |
 | Impossible Objects | 0.10% | ~14 |

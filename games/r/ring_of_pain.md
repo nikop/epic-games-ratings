@@ -6,44 +6,44 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~229,040 |
-| Uncharted Territory | 89.00% | ~212,339 |
-| Getting A Glimpse | 73.00% | ~174,166 |
-| A Quick Escape | 65.00% | ~155,079 |
-| Explorer | 62.00% | ~147,921 |
-| An Offering | 62.00% | ~147,921 |
-| Defeat The Dark | 61.00% | ~145,536 |
-| Colorful Corpse | 58.00% | ~138,378 |
-| That Was Quick | 57.00% | ~135,992 |
-| A Donation | 57.00% | ~135,992 |
-| Goodbye, Frog Friend | 54.00% | ~128,835 |
-| Heavy Hitter | 53.00% | ~126,449 |
-| Heartless | 46.00% | ~109,748 |
-| Spine Breaker | 46.00% | ~109,748 |
-| Deflection | 45.00% | ~107,362 |
-| Sneaky | 43.00% | ~102,591 |
-| Ambitious Intent | 42.00% | ~100,205 |
-| Delving Deeper | 42.00% | ~100,205 |
-| C-C-Combo | 42.00% | ~100,205 |
-| Nothing To Lose | 40.00% | ~95,433 |
-| The Bestiary | 40.00% | ~95,433 |
-| What's Yours Is Mine | 39.00% | ~93,047 |
+| First Steps | 96.00% | ~229,042 |
+| Uncharted Territory | 89.00% | ~212,341 |
+| Getting A Glimpse | 73.00% | ~174,167 |
+| A Quick Escape | 65.00% | ~155,080 |
+| Explorer | 62.00% | ~147,923 |
+| An Offering | 62.00% | ~147,923 |
+| Defeat The Dark | 61.00% | ~145,537 |
+| Colorful Corpse | 58.00% | ~138,379 |
+| That Was Quick | 57.00% | ~135,993 |
+| A Donation | 57.00% | ~135,993 |
+| Goodbye, Frog Friend | 54.00% | ~128,836 |
+| Heavy Hitter | 53.00% | ~126,450 |
+| Heartless | 46.00% | ~109,749 |
+| Spine Breaker | 46.00% | ~109,749 |
+| Deflection | 45.00% | ~107,363 |
+| Sneaky | 43.00% | ~102,592 |
+| Ambitious Intent | 42.00% | ~100,206 |
+| Delving Deeper | 42.00% | ~100,206 |
+| C-C-Combo | 42.00% | ~100,206 |
+| Nothing To Lose | 40.00% | ~95,434 |
+| The Bestiary | 40.00% | ~95,434 |
+| What's Yours Is Mine | 39.00% | ~93,048 |
 | R.I.P | 37.00% | ~88,276 |
-| Shootout | 36.00% | ~85,890 |
-| I Am Overburdened | 35.00% | ~83,504 |
-| Cold Hearted | 34.00% | ~81,118 |
-| Dig Your Own Grave | 33.00% | ~78,732 |
-| Toxic | 33.00% | ~78,732 |
+| Shootout | 36.00% | ~85,891 |
+| I Am Overburdened | 35.00% | ~83,505 |
+| Cold Hearted | 34.00% | ~81,119 |
+| Dig Your Own Grave | 33.00% | ~78,733 |
+| Toxic | 33.00% | ~78,733 |
 | Who To Trust? | 32.00% | ~76,347 |
-| Flesh Wound | 30.00% | ~71,575 |
-| Walk It Off | 28.00% | ~66,803 |
-| Stone Touch | 28.00% | ~66,803 |
-| Shadow Walker | 28.00% | ~66,803 |
-| Consecutive Curses | 27.00% | ~64,417 |
-| Destroy Your Fears | 27.00% | ~64,417 |
-| Acid Bath | 27.00% | ~64,417 |
-| New Perspectives | 27.00% | ~64,417 |
-| Shapeshifting | 27.00% | ~64,417 |
+| Flesh Wound | 30.00% | ~71,576 |
+| Walk It Off | 28.00% | ~66,804 |
+| Stone Touch | 28.00% | ~66,804 |
+| Shadow Walker | 28.00% | ~66,804 |
+| Consecutive Curses | 27.00% | ~64,418 |
+| Destroy Your Fears | 27.00% | ~64,418 |
+| Acid Bath | 27.00% | ~64,418 |
+| New Perspectives | 27.00% | ~64,418 |
+| Shapeshifting | 27.00% | ~64,418 |
 | Save Our Souls | 25.00% | ~59,646 |
 | To The Death! | 20.00% | ~47,717 |
 | Well Prepared | 20.00% | ~47,717 |
@@ -54,9 +54,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 17.00% | ~40,559 |
 | Don't Ignore Me! | 17.00% | ~40,559 |
 | Illuminate, Eliminate | 17.00% | ~40,559 |
-| Doing Time | 16.00% | ~38,173 |
-| Spreading Plague | 15.00% | ~35,787 |
-| The Long Run | 15.00% | ~35,787 |
+| Doing Time | 16.00% | ~38,174 |
+| Spreading Plague | 15.00% | ~35,788 |
+| The Long Run | 15.00% | ~35,788 |
 | A Rough Road | 13.00% | ~31,016 |
 | Chain Reaction | 13.00% | ~31,016 |
 | Berzerker | 12.00% | ~28,630 |
@@ -64,7 +64,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Thank You, Friend | 11.00% | ~26,244 |
 | Barbecue | 10.00% | ~23,858 |
 | Snake Sneak | 10.00% | ~23,858 |
-| Precious | 9.00% | ~21,472 |
+| Precious | 9.00% | ~21,473 |
 | Challenge Increases | 8.00% | ~19,087 |
 | New Game+ | 8.00% | ~19,087 |
 | Clearing The Room | 8.00% | ~19,087 |
@@ -93,15 +93,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Resourceful | 4.00% | ~9,543 |
 | Become The Nightmare | 4.00% | ~9,543 |
 | The Boulder | 4.00% | ~9,543 |
-| Quick Descent | 3.00% | ~7,157 |
-| A Week Attempt | 3.00% | ~7,157 |
-| Dead Revels | 3.00% | ~7,157 |
-| Powerful Potion | 3.00% | ~7,157 |
-| Here Comes The Airplane | 3.00% | ~7,157 |
-| Trail Of Death | 3.00% | ~7,157 |
-| Overthrown | 3.00% | ~7,157 |
-| Illuminate, Annihilate | 3.00% | ~7,157 |
-| Masochist | 3.00% | ~7,157 |
+| Quick Descent | 3.00% | ~7,158 |
+| A Week Attempt | 3.00% | ~7,158 |
+| Dead Revels | 3.00% | ~7,158 |
+| Powerful Potion | 3.00% | ~7,158 |
+| Here Comes The Airplane | 3.00% | ~7,158 |
+| Trail Of Death | 3.00% | ~7,158 |
+| Overthrown | 3.00% | ~7,158 |
+| Illuminate, Annihilate | 3.00% | ~7,158 |
+| Masochist | 3.00% | ~7,158 |
 | Poor Choices | 2.00% | ~4,772 |
 | Not What I Meant | 2.00% | ~4,772 |
 | A Rock And A Hard Place | 2.00% | ~4,772 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,193 |
 | Near Death Experience | 0.30% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,583 (Ranked 58)  
+Progressed: 238,585 (Ranked 58)  
 Completed: 285 (0.12%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,16 +319,17 @@ Completed: 285 (0.12%) (Ranked 250)
 | 2023-10-24 | 238,499 | 284 |
 | 2023-10-25 | 238,538 | 284 |
 | 2023-10-26 | 238,583 | 285 |
+| 2023-10-27 | 238,585 | 285 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 128)  
-Sum: 11,627 (Ranked 83)  
+Sum: 11,629 (Ranked 83)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |
 | This game has Quickly Understood Controls | 1,498 |
 | This game is Relaxing | 1,433 |
-| This game has Challenging Combat | 1,429 |
+| This game has Challenging Combat | 1,431 |
 | This game is Extremely Fun | 1,407 |
 | This game is Highly Recommended | 1,373 |
 | This game has Amazing Storytelling | 1,316 |
@@ -529,3 +530,4 @@ Diff (max vs sum): 45
 | 2023-10-23 | 4.58 | - | 1,498 | 11,623 |
 | 2023-10-25 | 4.58 | - | 1,498 | 11,626 |
 | 2023-10-26 | 4.58 | - | 1,498 | 11,627 |
+| 2023-10-27 | 4.58 | - | 1,498 | 11,629 |

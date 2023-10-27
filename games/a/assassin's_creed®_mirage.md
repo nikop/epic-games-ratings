@@ -4,7 +4,7 @@
 Rating: 4.45 (Ranked 651)  
 ## Awards
 Max (Relaxing): 103  (Ranked 345)  
-Sum: 720 (Ranked 286)  
+Sum: 726 (Ranked 286)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -13,8 +13,8 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 93 |
 | This game is Extremely Fun | 88 |
 | This game is Educational | 85 |
+| This game is Highly Recommended | 82 |
 | This game has Diverse Characters | 79 |
-| This game is Highly Recommended | 76 |
 | This game has Amazing Characters | 69 |
 | This game has Amazing Storytelling | 69 |
 | This game has Beautiful Visuals | 54 |

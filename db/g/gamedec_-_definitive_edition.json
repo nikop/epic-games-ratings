@@ -465,9 +465,9 @@
       "Count": 86
     }
   ],
-  "EOS_Progressed": 250263,
+  "EOS_Progressed": 250266,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21645,6 +21645,11 @@
       "Time": "2023-10-26T23:05:00.0020225+00:00",
       "NumProgressed": 250263,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T00:04:43.3397297+00:00",
+      "NumProgressed": 250266,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -21656,7 +21661,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67571
+      "UsersEstimate": 67572
     },
     {
       "ID": "ACH_AON",
@@ -21720,7 +21725,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32534
+      "UsersEstimate": 32535
     },
     {
       "ID": "ACH_HATTRICK",
@@ -21928,7 +21933,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17518
+      "UsersEstimate": 17519
     },
     {
       "ID": "ACH_MEMESMART",
@@ -22071,7 +22076,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250263,
+      "Progressed": 250266,
       "Completed": 7
     }
   ],
@@ -22079,8 +22084,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-22T22:00:16.4787808+00:00",
-  "LastChanged_Achievements": "2023-10-26T23:05:00.002022+00:00",
+  "LastChanged_Achievements": "2023-10-27T00:04:43.3397293+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.557041+00:00",
-  "LastUpdate_Ratings": "2023-10-26T22:58:08.7022039+00:00",
-  "LastUpdate_Achievements": "2023-10-26T23:05:00.0022376+00:00"
+  "LastUpdate_Ratings": "2023-10-26T23:57:52.4763673+00:00",
+  "LastUpdate_Achievements": "2023-10-27T00:04:43.3398708+00:00"
 }

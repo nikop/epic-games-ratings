@@ -13,7 +13,7 @@
 | Dark and stinky | 30.00% | ~84 |
 | Is this the end? | 25.00% | ~70 |
 | Sneak in, sneak out | 25.00% | ~70 |
-| A gift horse | 24.00% | ~67 |
+| A gift horse | 25.00% | ~70 |
 | You sssaved me | 24.00% | ~67 |
 | Say hello to my little friends | 22.00% | ~61 |
 | Gotcha | 19.00% | ~53 |
