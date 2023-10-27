@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1249,9 +1249,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154843,
+  "EOS_Progressed": 154852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1554,
+  "EOS_NewPlayers": 1559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13214,6 +13214,11 @@
       "Time": "2023-10-27T04:04:29.8266805+00:00",
       "NumProgressed": 154843,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T05:04:14.4893378+00:00",
+      "NumProgressed": 154852,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13289,7 +13294,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13361,7 +13366,7 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -13417,7 +13422,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -13425,7 +13430,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13441,7 +13446,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4645
+      "UsersEstimate": 4646
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13592,21 +13597,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154426,
+      "Progressed": 154435,
       "Completed": 1178
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154843,
+      "Progressed": 154852,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T19:00:19.7299619+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:04:29.82668+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:04:14.4893373+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:00:56.0828911+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:04:29.8267933+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:59:59.8635824+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:04:14.4894264+00:00"
 }

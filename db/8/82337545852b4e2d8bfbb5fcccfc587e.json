@@ -2,10 +2,10 @@
   "ID": "82337545852b4e2d8bfbb5fcccfc587e",
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
-  "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.84,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -459,6 +459,11 @@
       "Time": "2023-10-26T03:06:49.5470726+00:00",
       "NumProgressed": 83,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-27T05:05:39.2278834+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -477,7 +482,7 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 70,
       "UsersEstimate": 71
     },
@@ -493,7 +498,7 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 30,
       "UsersEstimate": 57
     },
@@ -509,7 +514,7 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
       "UsersEstimate": 48
     },
@@ -517,7 +522,7 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -533,7 +538,7 @@
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -543,13 +548,13 @@
       "Name": "Self-sacrifice",
       "Percentage": 99,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 70,
       "UsersEstimate": 28
     },
@@ -557,7 +562,7 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 70,
       "UsersEstimate": 27
     },
@@ -565,7 +570,7 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 70,
       "UsersEstimate": 55
     },
@@ -573,7 +578,7 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 70,
       "UsersEstimate": 47
     },
@@ -581,7 +586,7 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 70,
       "UsersEstimate": 64
     },
@@ -597,7 +602,7 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
       "UsersEstimate": 64
     }
@@ -606,14 +611,14 @@
     {
       "ID": "acn799d",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:06:13.4032346+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:05:39.227883+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7979571+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:59:14.4479023+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:06:13.4032512+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:58:41.2743774+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:05:39.2278941+00:00"
 }

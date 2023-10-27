@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -11241,9 +11241,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440108,
+  "EOS_Progressed": 440121,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5369,
+  "EOS_NewPlayers": 5364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32861,6 +32861,11 @@
       "Time": "2023-10-27T04:07:08.5260708+00:00",
       "NumProgressed": 440108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T05:06:24.7794611+00:00",
+      "NumProgressed": 440121,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33872,7 +33877,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17604
+      "UsersEstimate": 17605
     },
     {
       "ID": "achievement_grand_coalition",
@@ -33894,9 +33899,9 @@
       "ID": "achievement_grand_navy",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Navy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 8802
+      "UsersEstimate": 13204
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35152,7 +35157,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13203
+      "UsersEstimate": 13204
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35536,7 +35541,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17604
+      "UsersEstimate": 17605
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35568,7 +35573,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17604
+      "UsersEstimate": 17605
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35703,21 +35708,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440108,
+      "Progressed": 440121,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440108,
+      "Progressed": 440121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-27T01:38:34.428763+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:07:08.52607+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:06:24.7794602+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:57:25.9444794+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:07:08.5275061+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:57:14.4392612+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:06:24.7806087+00:00"
 }

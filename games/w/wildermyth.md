@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,439 (Ranked 229)  
+Progressed: 1,439 (Ranked 230)  
 Completed: 6 (0.42%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

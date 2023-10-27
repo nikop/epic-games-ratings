@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~299 |
 | Strong Cities | 2.00% | ~299 |
 | Able Difficulty | 2.00% | ~299 |
+| Great Ziggurat | 2.00% | ~299 |
 | Hanging Gardens | 2.00% | ~299 |
 | Ishtar Gate | 2.00% | ~299 |
 | Lighthouse | 2.00% | ~299 |
@@ -66,12 +67,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 1.00% | ~150 |
 | Apadana | 1.00% | ~150 |
 | Colossus | 1.00% | ~150 |
-| Great Ziggurat | 1.00% | ~150 |
 | Mausoleum | 1.00% | ~150 |
 | Musaeum | 1.00% | ~150 |
 | Necropolis | 1.00% | ~150 |
 | Learn to Play 2 | 1.00% | ~150 |
 | Learn to Play 3 | 1.00% | ~150 |
+| Greece | 1.00% | ~150 |
 | Manichaeism | 1.00% | ~150 |
 | Egyptian Paganism | 1.00% | ~150 |
 | Mythology | 1.00% | ~150 |
@@ -83,8 +84,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
-| Greece | 0.90% | ~135 |
 | Power to the People | 0.90% | ~135 |
+| Persian Paganism | 0.90% | ~135 |
 | Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
-| Persian Paganism | 0.80% | ~120 |
 | Building Wonders | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
+| Adur Burzen-Mihr | 0.50% | ~75 |
 | Egypt | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Cao'an | 0.40% | ~60 |
-| Adur Burzen-Mihr | 0.40% | ~60 |
 | Learn to Play 5 | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
@@ -152,6 +152,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
+| Magnificent Difficulty | 0.30% | ~45 |
+| Assyria | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
@@ -166,14 +168,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
-| Magnificent Difficulty | 0.20% | ~30 |
 | The Eternal Treaty | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
 | Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
-| Assyria | 0.20% | ~30 |
 | Hatti | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,971 (Ranked 141)  
+Progressed: 14,972 (Ranked 141)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,971 | 5 |
+| 2023-10-27 | 14,972 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 62)
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,609 (Ranked 204)  
+Progressed: 2,609 (Ranked 205)  
 Completed: 13 (0.50%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |

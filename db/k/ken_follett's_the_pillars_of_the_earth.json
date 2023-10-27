@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 15985,
+  "EOS_Progressed": 15986,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12812,6 +12812,11 @@
       "Time": "2023-10-27T02:20:36.5049619+00:00",
       "NumProgressed": 15985,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-27T05:04:00.8144877+00:00",
+      "NumProgressed": 15986,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -12887,7 +12892,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "tpote_achievement_18",
@@ -12895,7 +12900,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "tpote_achievement_19",
@@ -12999,7 +13004,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "tpote_achievement_30",
@@ -13007,7 +13012,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "tpote_achievement_31",
@@ -13111,7 +13116,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3837
     },
     {
       "ID": "tpote_achievement_6",
@@ -13119,7 +13124,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3837
     },
     {
       "ID": "tpote_achievement_7",
@@ -13150,15 +13155,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15985,
+      "Progressed": 15986,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:04:13.4460491+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:04:00.8144872+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:59:52.2096486+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:04:13.4461579+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:59:09.5199484+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:04:00.8145783+00:00"
 }

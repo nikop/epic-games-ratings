@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -2064,6 +2064,11 @@
       "Time": "2023-10-27T01:47:01.3535651+00:00",
       "NumProgressed": 477,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-27T05:04:52.265602+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2075,7 +2080,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2139,7 +2144,7 @@
       "Name": "This looks really bad",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2186,14 +2191,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:05:16.173637+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:04:52.2656015+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:58:59.9283531+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:05:16.1736583+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:58:30.315392+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:04:52.2656217+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 767,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -740,6 +740,11 @@
       "Time": "2023-10-27T04:07:32.2484166+00:00",
       "NumProgressed": 811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T05:08:13.6484242+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -806,9 +811,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -832,7 +837,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -864,7 +869,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -894,9 +899,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -991,14 +996,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:07:32.2484158+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:08:13.6484238+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:00:28.3177387+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:07:32.2484396+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:59:39.0073986+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:08:13.648444+00:00"
 }

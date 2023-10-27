@@ -2,13 +2,13 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1411,7 +1411,7 @@
   ],
   "EOS_Progressed": 428656,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14234,8 +14234,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-25T09:58:08.6227247+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:08:56.9312723+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:08:49.5740519+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.8585866+00:00",
-  "LastUpdate_Ratings": "2023-10-27T03:58:27.8071265+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:08:56.9313696+00:00"
+  "LastUpdate_Ratings": "2023-10-27T04:58:03.9874219+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:08:49.5741388+00:00"
 }

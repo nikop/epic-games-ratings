@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 253,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -524,6 +524,11 @@
       "Time": "2023-10-26T11:08:12.6265077+00:00",
       "NumProgressed": 252,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T05:05:48.2899568+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -613,9 +618,9 @@
       "ID": "DISPOSE_15_BODIES",
       "SetID": "2lk004m",
       "Name": "Business as usual",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -726,13 +731,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 115,
+      "Progressed": 116,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 253,
       "Completed": 6
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-27T04:06:24.6616096+00:00",
+  "LastChanged_Achievements": "2023-10-27T05:05:48.2899564+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.7588854+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:02:40.3341169+00:00",
-  "LastUpdate_Achievements": "2023-10-27T04:06:24.6616297+00:00"
+  "LastUpdate_Ratings": "2023-10-27T05:02:43.4998644+00:00",
+  "LastUpdate_Achievements": "2023-10-27T05:05:48.2899732+00:00"
 }

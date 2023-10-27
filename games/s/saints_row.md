@@ -6,15 +6,15 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~35,096 |
-| To The Nines | 42.00% | ~32,044 |
-| Optimized | 37.00% | ~28,229 |
-| Performance Review | 36.00% | ~27,466 |
-| Making a Name | 35.00% | ~26,703 |
-| Tune Up | 34.00% | ~25,940 |
-| Landlord | 33.00% | ~25,177 |
-| Wet Work | 32.00% | ~24,414 |
-| The Side Job | 31.00% | ~23,651 |
+| First F#@!ing Day | 46.00% | ~35,097 |
+| To The Nines | 42.00% | ~32,045 |
+| Optimized | 37.00% | ~28,230 |
+| Performance Review | 36.00% | ~27,467 |
+| Making a Name | 35.00% | ~26,704 |
+| Tune Up | 34.00% | ~25,941 |
+| Landlord | 33.00% | ~25,178 |
+| Wet Work | 32.00% | ~24,415 |
+| The Side Job | 31.00% | ~23,652 |
 | Wrecking Ball | 28.00% | ~21,363 |
 | Food for Thought | 27.00% | ~20,600 |
 | Finders Keepers | 25.00% | ~19,074 |
@@ -25,10 +25,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Quality Time | 18.00% | ~13,733 |
 | Showdown | 17.00% | ~12,970 |
 | Et tu? | 17.00% | ~12,970 |
-| Took It to The Limit | 16.00% | ~12,207 |
-| Kitted Out | 14.00% | ~10,681 |
-| Masters of Santo Ileso | 12.00% | ~9,155 |
-| Hijacked | 11.00% | ~8,392 |
+| Took It to The Limit | 16.00% | ~12,208 |
+| Kitted Out | 14.00% | ~10,682 |
+| Masters of Santo Ileso | 12.00% | ~9,156 |
+| Hijacked | 11.00% | ~8,393 |
 | The Spins | 10.00% | ~7,630 |
 | The Mechanic | 10.00% | ~7,630 |
 | Closet Space | 8.00% | ~6,104 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~153 |
 | Fiesta Time | 0.20% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,295 (Ranked 93)  
+Progressed: 76,297 (Ranked 93)  
 Completed: 51 (0.07%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 51 (0.07%) (Ranked 274)
 | 2023-10-24 | 76,070 | 51 |
 | 2023-10-25 | 76,173 | 51 |
 | 2023-10-26 | 76,266 | 51 |
-| 2023-10-27 | 76,295 | 51 |
+| 2023-10-27 | 76,297 | 51 |
 ## Awards
 Max (Extremely Fun): 1,072  (Ranked 143)  
 Sum: 8,704 (Ranked 97)  

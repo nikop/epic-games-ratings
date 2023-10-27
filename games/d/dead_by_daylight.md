@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~38,831 |
-| It wakes | 4.00% | ~38,831 |
-| Skillful | 4.00% | ~38,831 |
-| Handyman | 3.00% | ~29,124 |
-| Not half bad | 3.00% | ~29,124 |
-| Apt Survivor | 3.00% | ~29,124 |
-| Survival Treasures | 3.00% | ~29,124 |
-| Make Some Noise | 3.00% | ~29,124 |
-| The Grand Sacrifice | 2.00% | ~19,416 |
-| Agonizing Escape | 2.00% | ~19,416 |
-| Backdoor Escape | 2.00% | ~19,416 |
-| I've got your back | 2.00% | ~19,416 |
-| No one left behind | 2.00% | ~19,416 |
-| Medic | 2.00% | ~19,416 |
-| Perfect Escape | 2.00% | ~19,416 |
-| Perfect Killing | 2.00% | ~19,416 |
-| Bloody Millionaire | 2.00% | ~19,416 |
-| Apt Killer | 2.00% | ~19,416 |
-| Risk it all | 2.00% | ~19,416 |
-| I | 2.00% | ~19,416 |
-| II | 2.00% | ~19,416 |
-| Engineer | 2.00% | ~19,416 |
-| Sorted | 2.00% | ~19,416 |
-| Wounded Healer | 2.00% | ~19,416 |
-| Healthy Obsession | 2.00% | ~19,416 |
-| Resurgence | 2.00% | ~19,416 |
-| Close Shave | 2.00% | ~19,416 |
-| Preemptive Strike | 2.00% | ~19,416 |
-| Humanitarian | 2.00% | ~19,416 |
+| Zealous | 4.00% | ~38,834 |
+| It wakes | 4.00% | ~38,834 |
+| Skillful | 4.00% | ~38,834 |
+| Handyman | 3.00% | ~29,125 |
+| Not half bad | 3.00% | ~29,125 |
+| Apt Survivor | 3.00% | ~29,125 |
+| Survival Treasures | 3.00% | ~29,125 |
+| Make Some Noise | 3.00% | ~29,125 |
+| The Grand Sacrifice | 2.00% | ~19,417 |
+| Agonizing Escape | 2.00% | ~19,417 |
+| Backdoor Escape | 2.00% | ~19,417 |
+| I've got your back | 2.00% | ~19,417 |
+| No one left behind | 2.00% | ~19,417 |
+| Medic | 2.00% | ~19,417 |
+| Perfect Escape | 2.00% | ~19,417 |
+| Perfect Killing | 2.00% | ~19,417 |
+| Bloody Millionaire | 2.00% | ~19,417 |
+| Apt Killer | 2.00% | ~19,417 |
+| Risk it all | 2.00% | ~19,417 |
+| I | 2.00% | ~19,417 |
+| II | 2.00% | ~19,417 |
+| Engineer | 2.00% | ~19,417 |
+| Sorted | 2.00% | ~19,417 |
+| Wounded Healer | 2.00% | ~19,417 |
+| Healthy Obsession | 2.00% | ~19,417 |
+| Resurgence | 2.00% | ~19,417 |
+| Close Shave | 2.00% | ~19,417 |
+| Preemptive Strike | 2.00% | ~19,417 |
+| Humanitarian | 2.00% | ~19,417 |
 | Blood on your hands | 1.00% | ~9,708 |
 | Escape Artist | 1.00% | ~9,708 |
 | Made it out alive! | 1.00% | ~9,708 |
@@ -56,22 +56,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~9,708 |
 | One More Step | 1.00% | ~9,708 |
 | Second Act | 1.00% | ~9,708 |
-| All Aboard | 0.90% | ~8,737 |
-| Item of Obsession | 0.90% | ~8,737 |
-| House of Pain | 0.90% | ~8,737 |
-| Holiday Get-Together | 0.90% | ~8,737 |
-| Near-Death Experience | 0.90% | ~8,737 |
-| Cutting Out | 0.90% | ~8,737 |
-| Classy Act | 0.90% | ~8,737 |
-| Lifting The Fog | 0.90% | ~8,737 |
-| MU/TH/UR Dearest | 0.90% | ~8,737 |
-| Gifts for the Fog | 0.80% | ~7,766 |
-| Shock Therapy | 0.80% | ~7,766 |
-| Cottage Owner | 0.80% | ~7,766 |
-| Escaping the Nightmare | 0.80% | ~7,766 |
-| Campbell's Chapel Legacy | 0.80% | ~7,766 |
-| Ancestor's Rite | 0.80% | ~7,766 |
-| Outrun Evil | 0.80% | ~7,766 |
+| All Aboard | 0.90% | ~8,738 |
+| Item of Obsession | 0.90% | ~8,738 |
+| House of Pain | 0.90% | ~8,738 |
+| Holiday Get-Together | 0.90% | ~8,738 |
+| Near-Death Experience | 0.90% | ~8,738 |
+| Cutting Out | 0.90% | ~8,738 |
+| Classy Act | 0.90% | ~8,738 |
+| Lifting The Fog | 0.90% | ~8,738 |
+| MU/TH/UR Dearest | 0.90% | ~8,738 |
+| Gifts for the Fog | 0.80% | ~7,767 |
+| Shock Therapy | 0.80% | ~7,767 |
+| Cottage Owner | 0.80% | ~7,767 |
+| Escaping the Nightmare | 0.80% | ~7,767 |
+| Campbell's Chapel Legacy | 0.80% | ~7,767 |
+| Ancestor's Rite | 0.80% | ~7,767 |
+| Outrun Evil | 0.80% | ~7,767 |
 | A bite for the Entity | 0.70% | ~6,796 |
 | Blood on your face | 0.70% | ~6,796 |
 | Leapfrog | 0.70% | ~6,796 |
@@ -104,13 +104,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Power Moves | 0.40% | ~3,883 |
 | Punch Drunk | 0.40% | ~3,883 |
 | Prowler | 0.40% | ~3,883 |
-| Looter | 0.30% | ~2,912 |
-| Denied! | 0.30% | ~2,912 |
-| Death of Ignorance | 0.30% | ~2,912 |
-| Viral Video | 0.30% | ~2,912 |
-| Ghost in the Machine | 0.30% | ~2,912 |
-| Hack the Mainframe | 0.30% | ~2,912 |
-| Disarm and Dismember | 0.30% | ~2,912 |
+| Looter | 0.30% | ~2,913 |
+| Denied! | 0.30% | ~2,913 |
+| Death of Ignorance | 0.30% | ~2,913 |
+| Viral Video | 0.30% | ~2,913 |
+| Ghost in the Machine | 0.30% | ~2,913 |
+| Hack the Mainframe | 0.30% | ~2,913 |
+| Disarm and Dismember | 0.30% | ~2,913 |
 | A feast for the Entity | 0.20% | ~1,942 |
 | In the void she walks | 0.20% | ~1,942 |
 | Mad House | 0.20% | ~1,942 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~971 |
 | Adept Ripley | 0.10% | ~971 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,787 (Ranked 14)  
+Progressed: 970,849 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 52 (0.01%) (Ranked 308)
 | 2023-10-24 | 965,667 | 52 |
 | 2023-10-25 | 968,080 | 52 |
 | 2023-10-26 | 970,376 | 52 |
-| 2023-10-27 | 970,787 | 52 |
+| 2023-10-27 | 970,849 | 52 |
 ## Awards
 Max (Diverse Characters): 34,686  (Ranked 15)  
 Sum: 267,450 (Ranked 13)  

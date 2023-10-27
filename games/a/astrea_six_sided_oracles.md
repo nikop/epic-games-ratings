@@ -46,8 +46,8 @@
 | Artificer | 6.00% | ~4 |
 | If I Had Failed... | 6.00% | ~4 |
 | Purification Avatar | 6.00% | ~4 |
+| The Abyssal Terror | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
-| The Abyssal Terror | 5.00% | ~3 |
 | The Raging Skies | 5.00% | ~3 |
 | Aquarian Hero | 5.00% | ~3 |
 | Eridanian Hero | 5.00% | ~3 |

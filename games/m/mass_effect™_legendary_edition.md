@@ -31,9 +31,9 @@
 | Missing in Action | 45.00% | ~366 |
 | Very Elusive | 45.00% | ~366 |
 | Head Hunter | 45.00% | ~366 |
+| Operative | 44.00% | ~358 |
 | Scholar | 44.00% | ~358 |
 | Sentinel Ally | 43.00% | ~350 |
-| Operative | 43.00% | ~350 |
 | Veteran | 42.00% | ~341 |
 | The Professor | 41.00% | ~333 |
 | Power Full | 41.00% | ~333 |
@@ -63,11 +63,11 @@
 | Revenge! | 32.00% | ~260 |
 | Focused | 31.00% | ~252 |
 | Driven | 31.00% | ~252 |
+| Bringer of War | 31.00% | ~252 |
 | Cat's in the Cradle | 30.00% | ~244 |
 | Doppelganger | 30.00% | ~244 |
 | Treason | 30.00% | ~244 |
 | Digital Exorcist | 30.00% | ~244 |
-| Bringer of War | 30.00% | ~244 |
 | Friend or Foe | 29.00% | ~236 |
 | Mobilizer | 29.00% | ~236 |
 | First Aid Specialist | 28.00% | ~228 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~8 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813 (Ranked 256)  
+Progressed: 813 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
