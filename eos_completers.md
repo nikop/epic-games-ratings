@@ -4,8 +4,8 @@
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 2 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.19% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.92% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.87% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -51,7 +51,7 @@
 | 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 48 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.60% |
+| 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.96% |
@@ -169,8 +169,8 @@
 | 166 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 169 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 170 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.63% |
 | 170 | [The Devil's Face](games/t/the_devil's_face.md) | 0.63% |
+| 171 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 173 | [Haven](games/h/haven.md) | 0.60% |
 | 174 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
@@ -703,4 +703,4 @@
 | 327 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 327 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 327 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,468 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,469 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

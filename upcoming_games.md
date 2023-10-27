@@ -1,7 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-10-27 | - |  | - | - |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 641 | - | 0 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 647 | - | 0 |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 2 | - | - |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2023-10-27 | - |  | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-10-27 | - |  | - | - |
@@ -172,7 +171,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 204,274 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 204,573 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -196,6 +195,7 @@
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2024-12-31 | - |  | - | - |
 | [Flintlock - The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-12-31 | - |  | - | - |
+| [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Hexxen: Hunters](games/e/eaab430db9f24d558c949b85906f1c79.md) | 2024-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2024-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
