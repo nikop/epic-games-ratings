@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.81% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.80% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -41,15 +41,15 @@
 | 38 | [Smelter](games/s/smelter.md) | 10.00% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
-| 41 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 9.09% |
-| 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
-| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.82% |
-| 45 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 8.00% |
-| 47 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
-| 48 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
-| 48 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
+| 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
+| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.57% |
+| 45 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
+| 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
+| 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 47 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
+| 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
@@ -129,7 +129,7 @@
 | 127 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.71% |
 | 128 | [Somerville](games/s/somerville.md) | 1.70% |
 | 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.63% |
-| 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.61% |
+| 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.60% |
 | 131 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
@@ -170,10 +170,10 @@
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 170 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 171 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.63% |
 | 171 | [The Devil's Face](games/t/the_devil's_face.md) | 0.63% |
-| 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 173 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.61% |
-| 173 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
+| 173 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 174 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 175 | [Haven](games/h/haven.md) | 0.60% |
 | 176 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 177 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
@@ -196,8 +196,8 @@
 | 192 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 192 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 196 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 196 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 196 | [Tchia](games/t/tchia.md) | 0.45% |
-| 198 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 201 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
