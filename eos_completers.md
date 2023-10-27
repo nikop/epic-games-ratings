@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.91% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.75% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.74% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -34,7 +34,7 @@
 | 30 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 11.11% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
-| 34 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.71% |
+| 35 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.59% |
 | 36 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
 | 37 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.15% |
 | 38 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
@@ -43,8 +43,8 @@
 | 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
 | 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.57% |
-| 45 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
+| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.33% |
+| 44 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
 | 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.69% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -163,23 +163,23 @@
 | 161 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
+| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 166 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.69% |
-| 167 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.68% |
-| 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
+| 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
+| 167 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 169 | [Eternights](games/e/eternights.md) | 0.66% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.62% |
-| 174 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 175 | [Haven](games/h/haven.md) | 0.60% |
-| 176 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
-| 177 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
-| 177 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 179 | [The Surge 2](games/t/the_surge_2.md) | 0.57% |
-| 179 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
+| 175 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
+| 176 | [Haven](games/h/haven.md) | 0.60% |
+| 177 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 178 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
+| 178 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 180 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 181 | [Dead Space](games/d/dead_space.md) | 0.56% |
 | 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 181 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
@@ -255,14 +255,14 @@
 | 251 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 251 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
 | 255 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 255 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
 | 255 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 259 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 259 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 259 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.10% |
-| 259 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 259 | [Supraland](games/s/supraland.md) | 0.10% |
+| 258 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 258 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 258 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 258 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.10% |
+| 258 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 258 | [Supraland](games/s/supraland.md) | 0.10% |
 | 264 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 264 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 264 | [Black Book](games/b/black_book.md) | 0.09% |
