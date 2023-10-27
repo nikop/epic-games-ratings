@@ -5,7 +5,7 @@ Rating: 4.28 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,769 |
+| Corner Clout | 46.00% | ~160,770 |
 | Copacetic Coordination | 16.00% | ~55,920 |
 | Fronting the Money | 15.00% | ~52,425 |
 | The Dawn of Automation | 14.00% | ~48,930 |
@@ -60,33 +60,33 @@ Rating: 4.28 (Ranked 838)
 | The Rubber Meets the Road | 1.00% | ~3,495 |
 | Cat’s Meow Clubs | 1.00% | ~3,495 |
 | Stepping It Up | 1.00% | ~3,495 |
-| Determined Deliveries | 0.90% | ~3,145 |
+| Determined Deliveries | 0.90% | ~3,146 |
 | Boots in the Ground | 0.80% | ~2,796 |
 | Getting Fancy | 0.80% | ~2,796 |
 | Crossing Over | 0.80% | ~2,796 |
-| Still Dreaming | 0.50% | ~1,747 |
-| Working on the Railroad | 0.50% | ~1,747 |
-| Social Butterfly | 0.50% | ~1,747 |
+| Still Dreaming | 0.50% | ~1,748 |
+| Working on the Railroad | 0.50% | ~1,748 |
+| Social Butterfly | 0.50% | ~1,748 |
 | Homemade Hooch | 0.40% | ~1,398 |
 | High End Booze | 0.40% | ~1,398 |
 | In-House Maintenance | 0.40% | ~1,398 |
-| Dirty Work | 0.30% | ~1,048 |
-| Bottled Up | 0.30% | ~1,048 |
-| Streetwise | 0.30% | ~1,048 |
+| Dirty Work | 0.30% | ~1,049 |
+| Bottled Up | 0.30% | ~1,049 |
+| Streetwise | 0.30% | ~1,049 |
 | Balkan Firewater | 0.20% | ~699 |
-| Windy City Win | 0.10% | ~349 |
-| Steeling Victory | 0.10% | ~349 |
-| Queen of the City | 0.10% | ~349 |
-| Vehicles to Victory | 0.10% | ~349 |
-| Putting on the Ritz | 0.10% | ~349 |
-| Bourbon Barrels | 0.10% | ~349 |
-| Tied Houses | 0.10% | ~349 |
-| Laying Low | 0.10% | ~349 |
-| No Applesauce | 0.10% | ~349 |
-| High Pillow | 0.10% | ~349 |
-| Station Master | 0.10% | ~349 |
+| Windy City Win | 0.10% | ~350 |
+| Steeling Victory | 0.10% | ~350 |
+| Queen of the City | 0.10% | ~350 |
+| Vehicles to Victory | 0.10% | ~350 |
+| Putting on the Ritz | 0.10% | ~350 |
+| Bourbon Barrels | 0.10% | ~350 |
+| Tied Houses | 0.10% | ~350 |
+| Laying Low | 0.10% | ~350 |
+| No Applesauce | 0.10% | ~350 |
+| High Pillow | 0.10% | ~350 |
+| Station Master | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,498 (Ranked 44)  
+Progressed: 349,501 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 7 (0.00%) (Ranked 328)
 | 2023-10-24 | 349,199 | 7 |
 | 2023-10-25 | 349,342 | 7 |
 | 2023-10-26 | 349,465 | 7 |
-| 2023-10-27 | 349,498 | 7 |
+| 2023-10-27 | 349,501 | 7 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 448)  
 Sum: 181 (Ranked 403)  

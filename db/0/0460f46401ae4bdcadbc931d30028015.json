@@ -463,9 +463,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2838,
+  "EOS_Progressed": 2839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3438,6 +3438,11 @@
       "Time": "2023-10-27T06:04:56.1826511+00:00",
       "NumProgressed": 2838,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T10:04:33.4135976+00:00",
+      "NumProgressed": 2839,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3474,7 +3479,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "achievement_13",
@@ -3617,7 +3622,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2838,
+      "Progressed": 2839,
       "Completed": 0
     }
   ],
@@ -3625,8 +3630,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-26T22:59:05.7023101+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:05:12.0055489+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:04:33.4135969+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:59:59.3555632+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:05:12.005606+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:59:34.73149+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:04:33.4136312+00:00"
 }

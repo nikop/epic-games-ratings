@@ -11,44 +11,44 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 3.00% | ~449 |
 | Intrepid | 3.00% | ~449 |
 | Friendly Family | 3.00% | ~449 |
-| Able | 2.00% | ~299 |
-| Ambitious | 2.00% | ~299 |
-| Architect | 2.00% | ~299 |
-| Brilliant | 2.00% | ~299 |
-| Enlightened | 2.00% | ~299 |
-| Fountainhead | 2.00% | ~299 |
-| Glorious | 2.00% | ~299 |
-| Good | 2.00% | ~299 |
-| Just | 2.00% | ~299 |
-| Keystone | 2.00% | ~299 |
-| Learned | 2.00% | ~299 |
-| Magnificent | 2.00% | ~299 |
-| Mason | 2.00% | ~299 |
-| Noble | 2.00% | ~299 |
-| Pioneer | 2.00% | ~299 |
-| Strong | 2.00% | ~299 |
-| Warrior | 2.00% | ~299 |
-| Wise | 2.00% | ~299 |
-| Developing Cities | 2.00% | ~299 |
-| Strong Cities | 2.00% | ~299 |
-| Able Difficulty | 2.00% | ~299 |
-| Great Ziggurat | 2.00% | ~299 |
-| Hanging Gardens | 2.00% | ~299 |
-| Ishtar Gate | 2.00% | ~299 |
-| Lighthouse | 2.00% | ~299 |
-| Oracle | 2.00% | ~299 |
-| Pyramids | 2.00% | ~299 |
-| Learn to Play 1 | 2.00% | ~299 |
-| Christianity | 2.00% | ~299 |
-| Judaism | 2.00% | ~299 |
-| Babylonian Paganism | 2.00% | ~299 |
-| Carthaginian Paganism | 2.00% | ~299 |
-| Greek Paganism | 2.00% | ~299 |
-| Roman Paganism | 2.00% | ~299 |
-| Zoroastrianism | 2.00% | ~299 |
-| Naming Landmarks | 2.00% | ~299 |
-| Trade Caravan | 2.00% | ~299 |
-| Kushite Paganism | 2.00% | ~299 |
+| Able | 2.00% | ~300 |
+| Ambitious | 2.00% | ~300 |
+| Architect | 2.00% | ~300 |
+| Brilliant | 2.00% | ~300 |
+| Enlightened | 2.00% | ~300 |
+| Fountainhead | 2.00% | ~300 |
+| Glorious | 2.00% | ~300 |
+| Good | 2.00% | ~300 |
+| Just | 2.00% | ~300 |
+| Keystone | 2.00% | ~300 |
+| Learned | 2.00% | ~300 |
+| Magnificent | 2.00% | ~300 |
+| Mason | 2.00% | ~300 |
+| Noble | 2.00% | ~300 |
+| Pioneer | 2.00% | ~300 |
+| Strong | 2.00% | ~300 |
+| Warrior | 2.00% | ~300 |
+| Wise | 2.00% | ~300 |
+| Developing Cities | 2.00% | ~300 |
+| Strong Cities | 2.00% | ~300 |
+| Able Difficulty | 2.00% | ~300 |
+| Great Ziggurat | 2.00% | ~300 |
+| Hanging Gardens | 2.00% | ~300 |
+| Ishtar Gate | 2.00% | ~300 |
+| Lighthouse | 2.00% | ~300 |
+| Oracle | 2.00% | ~300 |
+| Pyramids | 2.00% | ~300 |
+| Learn to Play 1 | 2.00% | ~300 |
+| Christianity | 2.00% | ~300 |
+| Judaism | 2.00% | ~300 |
+| Babylonian Paganism | 2.00% | ~300 |
+| Carthaginian Paganism | 2.00% | ~300 |
+| Greek Paganism | 2.00% | ~300 |
+| Roman Paganism | 2.00% | ~300 |
+| Zoroastrianism | 2.00% | ~300 |
+| Naming Landmarks | 2.00% | ~300 |
+| Trade Caravan | 2.00% | ~300 |
+| Kushite Paganism | 2.00% | ~300 |
 | Regicide | 1.00% | ~150 |
 | Beloved | 1.00% | ~150 |
 | Drillmaster | 1.00% | ~150 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,974 (Ranked 142)  
+Progressed: 14,976 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,974 | 5 |
+| 2023-10-27 | 14,976 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

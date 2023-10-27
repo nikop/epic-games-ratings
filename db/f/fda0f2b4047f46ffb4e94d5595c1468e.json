@@ -1793,7 +1793,7 @@
   ],
   "EOS_Progressed": 8081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6298,9 +6298,9 @@
       "ID": "ach50",
       "SetID": "47in8n6",
       "Name": "Witness Me!!!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3152
     }
   ],
   "AchievementSets": [
@@ -6315,8 +6315,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:07:05.7432569+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:06:14.1433495+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:00:04.4917534+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:07:05.7433286+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:59:38.7619316+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:06:14.1434157+00:00"
 }

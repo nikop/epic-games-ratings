@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 53.00% | ~98 |
+| First Step | 52.00% | ~96 |
 | The 4 Pillars | 50.00% | ~92 |
 | Capitalism | 21.00% | ~39 |
 | There's something in those trees | 11.00% | ~20 |
@@ -16,13 +16,13 @@
 | Perfect Soldier | 8.00% | ~15 |
 | Health Care | 8.00% | ~15 |
 | Ammo Tycoon | 8.00% | ~15 |
-| Healing | 7.00% | ~13 |
 | Good payer | 7.00% | ~13 |
-| Self-sufficient | 7.00% | ~13 |
 | Food Tycoon | 7.00% | ~13 |
 | Fuel Tycoon | 7.00% | ~13 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~11 |
+| Healing | 6.00% | ~11 |
 | Pathfinder | 6.00% | ~11 |
+| Self-sufficient | 6.00% | ~11 |
 | Overpopulation | 5.00% | ~9 |
 | Property Bro | 5.00% | ~9 |
 | Medicine Tycoon | 5.00% | ~9 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 359)  
+Progressed: 185 (Ranked 359)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,3 +109,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-17 | 182 | 0 |
 | 2023-10-20 | 183 | 0 |
 | 2023-10-22 | 184 | 0 |
+| 2023-10-27 | 185 | 0 |

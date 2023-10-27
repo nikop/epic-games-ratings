@@ -6,9 +6,9 @@ Rating: 4.59 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 0.80% | ~115 |
-| Drug Gifter | 0.30% | ~43 |
+| Drug Gifter | 0.40% | ~57 |
+| The Pit and the Pirates | 0.30% | ~43 |
 | Bosmang | 0.30% | ~43 |
-| The Pit and the Pirates | 0.20% | ~29 |
 | Doctor Approved | 0.20% | ~29 |
 | Stogie for Fogey | 0.20% | ~29 |
 | Spore Taste | 0.20% | ~29 |

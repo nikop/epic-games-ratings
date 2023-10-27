@@ -4619,7 +4619,7 @@
   ],
   "EOS_Progressed": 6106,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -8938,9 +8938,9 @@
       "ID": "achievement_a34",
       "SetID": "3m4b0pk",
       "Name": "It\u0027s a Trap",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1649
     },
     {
       "ID": "achievement_a35",
@@ -9155,8 +9155,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-10-26T19:58:24.5596035+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:06:29.511954+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:05:42.2751422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:58:30.7609401+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:06:29.5120401+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:58:19.9534524+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:05:42.2752143+00:00"
 }

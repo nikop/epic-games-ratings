@@ -35,7 +35,7 @@ Rating: 4.49 (Ranked 597)
 | There Is No Try | 38.00% | ~2,320 |
 | The Jedi Path | 32.00% | ~1,954 |
 | This Is Canon | 29.00% | ~1,771 |
-| It's a Trap | 26.00% | ~1,588 |
+| It's a Trap | 27.00% | ~1,649 |
 | You've Got A Friend | 23.00% | ~1,404 |
 | King of the World | 17.00% | ~1,038 |
 | A Presence I've Not Felt Since... | 15.00% | ~916 |

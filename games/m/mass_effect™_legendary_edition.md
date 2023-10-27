@@ -62,9 +62,9 @@
 | Agent | 32.00% | ~260 |
 | Revenge! | 32.00% | ~260 |
 | Focused | 31.00% | ~252 |
+| Cat's in the Cradle | 31.00% | ~252 |
 | Driven | 31.00% | ~252 |
 | Bringer of War | 31.00% | ~252 |
-| Cat's in the Cradle | 30.00% | ~244 |
 | Doppelganger | 30.00% | ~244 |
 | Treason | 30.00% | ~244 |
 | Digital Exorcist | 30.00% | ~244 |

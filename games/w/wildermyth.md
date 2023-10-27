@@ -8,9 +8,9 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 0.70% | ~10 |
 | Gotta Ca... Must Collect All of Them | 0.60% | ~9 |
+| Passing Shadow | 0.60% | ~9 |
 | How Romantic! | 0.60% | ~9 |
 | Me and My Familiar | 0.50% | ~7 |
-| Passing Shadow | 0.50% | ~7 |
 | This Too Shall Pass | 0.50% | ~7 |
 | Cutthroat Competitors | 0.50% | ~7 |
 | Daybreak | 0.40% | ~6 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,439 (Ranked 230)  
+Progressed: 1,440 (Ranked 230)  
 Completed: 6 (0.42%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 6 (0.42%) (Ranked 199)
 | 2023-10-24 | 1,435 | 6 |
 | 2023-10-25 | 1,437 | 6 |
 | 2023-10-26 | 1,438 | 6 |
-| 2023-10-27 | 1,439 | 6 |
+| 2023-10-27 | 1,440 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

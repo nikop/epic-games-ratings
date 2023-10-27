@@ -804,9 +804,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225734,
+  "EOS_Progressed": 225737,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21554,6 +21554,11 @@
       "Time": "2023-10-27T09:09:42.1341193+00:00",
       "NumProgressed": 225734,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T10:09:07.6232367+00:00",
+      "NumProgressed": 225737,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21565,7 +21570,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42889
+      "UsersEstimate": 42890
     },
     {
       "ID": "ACH_BASE_10",
@@ -21573,7 +21578,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58691
+      "UsersEstimate": 58692
     },
     {
       "ID": "ACH_BASE_11",
@@ -21613,7 +21618,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22573
+      "UsersEstimate": 22574
     },
     {
       "ID": "ACH_BASE_17",
@@ -21836,7 +21841,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225734,
+      "Progressed": 225737,
       "Completed": 5
     }
   ],
@@ -21844,8 +21849,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-25T20:59:12.845387+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:09:42.1341188+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:09:07.6232361+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:00:09.374491+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:09:42.1343613+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:59:42.2946899+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:09:07.6233695+00:00"
 }

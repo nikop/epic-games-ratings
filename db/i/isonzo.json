@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7083,
+  "EOS_Progressed": 7084,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6276,6 +6276,11 @@
       "Time": "2023-10-26T20:06:51.9002023+00:00",
       "NumProgressed": 7083,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-27T10:06:36.0796455+00:00",
+      "NumProgressed": 7084,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6391,7 +6396,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -6399,7 +6404,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6431,7 +6436,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -6487,7 +6492,7 @@
       "Name": "Ponte of No Return",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
@@ -6543,7 +6548,7 @@
       "Name": "So\u010Da Drag",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ISONZO_ACH_SUPER_MARIO",
@@ -6591,7 +6596,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6607,7 +6612,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -6646,7 +6651,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7083,
+      "Progressed": 7084,
       "Completed": 9
     }
   ],
@@ -6654,8 +6659,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-23T14:01:09.047151+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:07:31.9135067+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:06:36.079645+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:19.0866217+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:58:18.5603777+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:07:31.9135826+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:58:09.7049061+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:06:36.0797066+00:00"
 }

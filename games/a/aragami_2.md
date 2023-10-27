@@ -6,18 +6,18 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,645 |
-| First Steps | 80.00% | ~34,963 |
+| Awakening | 93.00% | ~40,646 |
+| First Steps | 80.00% | ~34,964 |
 | Control the Shadows | 67.00% | ~29,282 |
 | Tools of the Trade | 63.00% | ~27,534 |
-| Apprentice | 60.00% | ~26,222 |
-| Secret Seeker | 57.00% | ~24,911 |
-| Forge of Assassins | 55.00% | ~24,037 |
-| Revenant | 52.00% | ~22,726 |
+| Apprentice | 60.00% | ~26,223 |
+| Secret Seeker | 57.00% | ~24,912 |
+| Forge of Assassins | 55.00% | ~24,038 |
+| Revenant | 52.00% | ~22,727 |
 | I don’t Care! | 45.00% | ~19,667 |
-| Bird of Prey | 37.00% | ~16,170 |
-| Engraved with Power | 32.00% | ~13,985 |
-| Lady | 31.00% | ~13,548 |
+| Bird of Prey | 37.00% | ~16,171 |
+| Engraved with Power | 32.00% | ~13,986 |
+| Lady | 31.00% | ~13,549 |
 | Fashionable Assassin | 27.00% | ~11,800 |
 | Apex Predator | 24.00% | ~10,489 |
 | Soul Reaver | 22.00% | ~9,615 |
@@ -30,8 +30,8 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,119 |
 | War Engines | 14.00% | ~6,119 |
 | Signature Move | 14.00% | ~6,119 |
-| Ruse | 11.00% | ~4,807 |
-| Master Ninja | 11.00% | ~4,807 |
+| Ruse | 11.00% | ~4,808 |
+| Master Ninja | 11.00% | ~4,808 |
 | Hatching | 10.00% | ~4,370 |
 | Bonds | 9.00% | ~3,933 |
 | Get Over Here | 9.00% | ~3,933 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Legacy | 2.00% | ~874 |
 | Anger Management | 1.00% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,704 (Ranked 112)  
+Progressed: 43,705 (Ranked 112)  
 Completed: 239 (0.55%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 239 (0.55%) (Ranked 184)
 | 2023-10-24 | 43,678 | 239 |
 | 2023-10-25 | 43,689 | 239 |
 | 2023-10-26 | 43,700 | 239 |
-| 2023-10-27 | 43,704 | 239 |
+| 2023-10-27 | 43,705 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

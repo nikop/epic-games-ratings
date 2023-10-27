@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 232,
+  "EOS_Progressed": 233,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
@@ -321,6 +321,11 @@
       "Time": "2023-10-26T15:04:40.6385325+00:00",
       "NumProgressed": 232,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-27T10:03:43.7213822+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -330,9 +335,9 @@
       "ID": "a_little_extra",
       "SetID": "a3kkelb",
       "Name": "A Little Extra",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "career_woman",
@@ -340,7 +345,7 @@
       "Name": "Career Woman",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "deal_or_no_deal",
@@ -348,7 +353,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "hopeful",
@@ -372,7 +377,7 @@
       "Name": "Impress Theron",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "marriage_is_off",
@@ -418,17 +423,17 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "save_dad",
       "SetID": "a3kkelb",
       "Name": "Save Dad",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "shady_truth",
@@ -460,14 +465,14 @@
       "Name": "Will This Help?",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 232,
+      "Progressed": 233,
       "Completed": 4
     }
   ],
@@ -475,8 +480,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:04:14.3415743+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:03:43.7213816+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.0862219+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:59:19.6209172+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:04:14.3415909+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:58:58.2390455+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:03:43.7213977+00:00"
 }

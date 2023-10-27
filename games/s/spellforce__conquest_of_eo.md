@@ -15,6 +15,7 @@
 | Harvest Time | 100.00% | ~2 |
 | Friend of Lyraine | 100.00% | ~2 |
 | Mine! | 100.00% | ~2 |
+| Break Free | 100.00% | ~2 |
 | Get out of here! | 100.00% | ~2 |
 | Fly the friendly Sky | 100.00% | ~2 |
 | The Circle | 50.00% | ~1 |
@@ -44,7 +45,6 @@
 | Friend of Bastion | 50.00% | ~1 |
 | Friend of Windholme | 50.00% | ~1 |
 | Magic Academy | 50.00% | ~1 |
-| Break Free | 50.00% | ~1 |
 | Bad JuJu | 50.00% | ~1 |
 | Get to the Airship! | 0.00% | ~0 |
 | Defeat Raith | 0.00% | ~0 |

@@ -9714,9 +9714,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "12",
@@ -9754,9 +9754,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 57
     },
     {
       "ID": "17",
@@ -9993,8 +9993,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-27T09:03:41.4436375+00:00",
+  "LastChanged_Achievements": "2023-10-27T10:03:15.4746676+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:02:58.2365415+00:00",
-  "LastUpdate_Achievements": "2023-10-27T09:03:41.4437939+00:00"
+  "LastUpdate_Ratings": "2023-10-27T10:01:29.5162877+00:00",
+  "LastUpdate_Achievements": "2023-10-27T10:03:15.4748196+00:00"
 }
