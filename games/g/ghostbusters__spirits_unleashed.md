@@ -37,9 +37,9 @@ Rating: 4.50 (Ranked 578)
 | Summoner | 1.00% | ~278 |
 | Terrifying | 1.00% | ~278 |
 | Welcome to the Crew | 1.00% | ~278 |
-| Collector | 0.90% | ~250 |
-| Escape Artist | 0.90% | ~250 |
-| Tobin's Prodigy | 0.90% | ~250 |
+| Collector | 0.90% | ~251 |
+| Escape Artist | 0.90% | ~251 |
+| Tobin's Prodigy | 0.90% | ~251 |
 | Diabolical | 0.80% | ~223 |
 | Reckless | 0.80% | ~223 |
 | Rivalry | 0.70% | ~195 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 578)
 | Fragile Panes | 0.50% | ~139 |
 | Liability | 0.50% | ~139 |
 | Therapeutic | 0.40% | ~111 |
-| Rift Seeker | 0.30% | ~83 |
+| Rift Seeker | 0.30% | ~84 |
 | Master Collector | 0.20% | ~56 |
 | Catostrophic Destroyer | 0.10% | ~28 |
 | I don't need these | 0.10% | ~28 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,833 (Ranked 121)  
+Progressed: 27,837 (Ranked 121)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,833 | 65 |
+| 2023-10-27 | 27,837 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
 Sum: 2,566 (Ranked 182)  

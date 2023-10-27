@@ -6,56 +6,56 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~38,834 |
-| It wakes | 4.00% | ~38,834 |
-| Skillful | 4.00% | ~38,834 |
-| Handyman | 3.00% | ~29,125 |
-| Not half bad | 3.00% | ~29,125 |
-| Apt Survivor | 3.00% | ~29,125 |
-| Survival Treasures | 3.00% | ~29,125 |
-| Make Some Noise | 3.00% | ~29,125 |
-| The Grand Sacrifice | 2.00% | ~19,417 |
-| Agonizing Escape | 2.00% | ~19,417 |
-| Backdoor Escape | 2.00% | ~19,417 |
-| I've got your back | 2.00% | ~19,417 |
-| No one left behind | 2.00% | ~19,417 |
-| Medic | 2.00% | ~19,417 |
-| Perfect Escape | 2.00% | ~19,417 |
-| Perfect Killing | 2.00% | ~19,417 |
-| Bloody Millionaire | 2.00% | ~19,417 |
-| Apt Killer | 2.00% | ~19,417 |
-| Risk it all | 2.00% | ~19,417 |
-| I | 2.00% | ~19,417 |
-| II | 2.00% | ~19,417 |
-| Engineer | 2.00% | ~19,417 |
-| Sorted | 2.00% | ~19,417 |
-| Wounded Healer | 2.00% | ~19,417 |
-| Healthy Obsession | 2.00% | ~19,417 |
-| Resurgence | 2.00% | ~19,417 |
-| Close Shave | 2.00% | ~19,417 |
-| Preemptive Strike | 2.00% | ~19,417 |
-| Humanitarian | 2.00% | ~19,417 |
-| Blood on your hands | 1.00% | ~9,708 |
-| Escape Artist | 1.00% | ~9,708 |
-| Made it out alive! | 1.00% | ~9,708 |
-| Nerves of steel | 1.00% | ~9,708 |
-| Vulture | 1.00% | ~9,708 |
-| III | 1.00% | ~9,708 |
-| III-50 | 1.00% | ~9,708 |
-| Cherish your Life | 1.00% | ~9,708 |
-| Unforgettable Getaway | 1.00% | ~9,708 |
-| First to the Punch | 1.00% | ~9,708 |
-| Operation: Survival | 1.00% | ~9,708 |
-| Old West Oasis | 1.00% | ~9,708 |
-| Every Last Drop | 1.00% | ~9,708 |
-| Raccoon City Recruit | 1.00% | ~9,708 |
-| With Scars to Show | 1.00% | ~9,708 |
-| Flight to Freedom | 1.00% | ~9,708 |
-| A Fast Death | 1.00% | ~9,708 |
-| Rebuilding The Borgo | 1.00% | ~9,708 |
-| Chorus of Chaos | 1.00% | ~9,708 |
-| One More Step | 1.00% | ~9,708 |
-| Second Act | 1.00% | ~9,708 |
+| Zealous | 4.00% | ~38,836 |
+| It wakes | 4.00% | ~38,836 |
+| Skillful | 4.00% | ~38,836 |
+| Handyman | 3.00% | ~29,127 |
+| Not half bad | 3.00% | ~29,127 |
+| Apt Survivor | 3.00% | ~29,127 |
+| Survival Treasures | 3.00% | ~29,127 |
+| Make Some Noise | 3.00% | ~29,127 |
+| The Grand Sacrifice | 2.00% | ~19,418 |
+| Agonizing Escape | 2.00% | ~19,418 |
+| Backdoor Escape | 2.00% | ~19,418 |
+| I've got your back | 2.00% | ~19,418 |
+| No one left behind | 2.00% | ~19,418 |
+| Medic | 2.00% | ~19,418 |
+| Perfect Escape | 2.00% | ~19,418 |
+| Perfect Killing | 2.00% | ~19,418 |
+| Bloody Millionaire | 2.00% | ~19,418 |
+| Apt Killer | 2.00% | ~19,418 |
+| Risk it all | 2.00% | ~19,418 |
+| I | 2.00% | ~19,418 |
+| II | 2.00% | ~19,418 |
+| Engineer | 2.00% | ~19,418 |
+| Sorted | 2.00% | ~19,418 |
+| Wounded Healer | 2.00% | ~19,418 |
+| Healthy Obsession | 2.00% | ~19,418 |
+| Resurgence | 2.00% | ~19,418 |
+| Close Shave | 2.00% | ~19,418 |
+| Preemptive Strike | 2.00% | ~19,418 |
+| Humanitarian | 2.00% | ~19,418 |
+| Blood on your hands | 1.00% | ~9,709 |
+| Escape Artist | 1.00% | ~9,709 |
+| Made it out alive! | 1.00% | ~9,709 |
+| Nerves of steel | 1.00% | ~9,709 |
+| Vulture | 1.00% | ~9,709 |
+| III | 1.00% | ~9,709 |
+| III-50 | 1.00% | ~9,709 |
+| Cherish your Life | 1.00% | ~9,709 |
+| Unforgettable Getaway | 1.00% | ~9,709 |
+| First to the Punch | 1.00% | ~9,709 |
+| Operation: Survival | 1.00% | ~9,709 |
+| Old West Oasis | 1.00% | ~9,709 |
+| Every Last Drop | 1.00% | ~9,709 |
+| Raccoon City Recruit | 1.00% | ~9,709 |
+| With Scars to Show | 1.00% | ~9,709 |
+| Flight to Freedom | 1.00% | ~9,709 |
+| A Fast Death | 1.00% | ~9,709 |
+| Rebuilding The Borgo | 1.00% | ~9,709 |
+| Chorus of Chaos | 1.00% | ~9,709 |
+| One More Step | 1.00% | ~9,709 |
+| Second Act | 1.00% | ~9,709 |
 | All Aboard | 0.90% | ~8,738 |
 | Item of Obsession | 0.90% | ~8,738 |
 | House of Pain | 0.90% | ~8,738 |
@@ -72,11 +72,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Campbell's Chapel Legacy | 0.80% | ~7,767 |
 | Ancestor's Rite | 0.80% | ~7,767 |
 | Outrun Evil | 0.80% | ~7,767 |
+| Grim Pilgrimage | 0.80% | ~7,767 |
 | A bite for the Entity | 0.70% | ~6,796 |
 | Blood on your face | 0.70% | ~6,796 |
 | Leapfrog | 0.70% | ~6,796 |
 | Serial Killer | 0.70% | ~6,796 |
-| Grim Pilgrimage | 0.70% | ~6,796 |
 | Selfless Survival | 0.70% | ~6,796 |
 | Outrun the Overlap | 0.70% | ~6,796 |
 | Extraterrestrial | 0.70% | ~6,796 |
@@ -98,12 +98,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.50% | ~4,854 |
 | Triage | 0.50% | ~4,854 |
 | High Speed Pursuit | 0.50% | ~4,854 |
-| Blood in your mouth | 0.40% | ~3,883 |
-| Whiffing to Success | 0.40% | ~3,883 |
-| Heavy Burden | 0.40% | ~3,883 |
-| Power Moves | 0.40% | ~3,883 |
-| Punch Drunk | 0.40% | ~3,883 |
-| Prowler | 0.40% | ~3,883 |
+| Blood in your mouth | 0.40% | ~3,884 |
+| Whiffing to Success | 0.40% | ~3,884 |
+| Heavy Burden | 0.40% | ~3,884 |
+| Power Moves | 0.40% | ~3,884 |
+| Punch Drunk | 0.40% | ~3,884 |
+| Prowler | 0.40% | ~3,884 |
 | Looter | 0.30% | ~2,913 |
 | Denied! | 0.30% | ~2,913 |
 | Death of Ignorance | 0.30% | ~2,913 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~971 |
 | Adept Ripley | 0.10% | ~971 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 970,849 (Ranked 14)  
+Progressed: 970,896 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -426,7 +426,7 @@ Completed: 52 (0.01%) (Ranked 308)
 | 2023-10-24 | 965,667 | 52 |
 | 2023-10-25 | 968,080 | 52 |
 | 2023-10-26 | 970,376 | 52 |
-| 2023-10-27 | 970,849 | 52 |
+| 2023-10-27 | 970,896 | 52 |
 ## Awards
 Max (Diverse Characters): 34,686  (Ranked 15)  
 Sum: 267,450 (Ranked 13)  

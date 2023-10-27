@@ -5,10 +5,10 @@
   "Ranking_Rating": 998,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7491,
+  "EOS_Progressed": 7492,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5082,6 +5082,11 @@
       "Time": "2023-10-27T01:51:10.5978755+00:00",
       "NumProgressed": 7491,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T06:09:58.4112845+00:00",
+      "NumProgressed": 7492,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5214,7 +5219,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "GamesPlayed10",
@@ -5622,7 +5627,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -5638,7 +5643,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "TGPurchased1",
@@ -5685,7 +5690,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7491,
+      "Progressed": 7492,
       "Completed": 1
     }
   ],
@@ -5693,8 +5698,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-27T05:09:10.5591875+00:00",
+  "LastChanged_Achievements": "2023-10-27T06:09:58.4112838+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:59:51.7651355+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:09:10.5592776+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:01:32.0901021+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:09:58.4114738+00:00"
 }

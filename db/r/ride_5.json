@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -3878,9 +3878,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "c7hf6a4",
       "Name": "I\u0027m Here Too!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 301
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4101,8 +4101,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-27T05:09:02.0463888+00:00",
+  "LastChanged_Achievements": "2023-10-27T06:09:46.8257236+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-27T05:02:44.5102011+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:09:02.0464414+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:03:04.4314413+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:09:46.8258414+00:00"
 }

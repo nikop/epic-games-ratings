@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 324)  
+Rating: 4.64 (Ranked 325)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,12 +11,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
 | Full Body Conversion | 0.50% | ~4,470 |
+| Gun Fu | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
 | True Soldier | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
 | Right Back At Ya | 0.40% | ~3,576 |
-| Gun Fu | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
@@ -45,6 +45,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Devil | 0.20% | ~1,788 |
 | Relic Ruler | 0.20% | ~45 |
 | Judgement Day | 0.20% | ~45 |
+| King of Pentacles | 0.20% | ~45 |
 | The Tower | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
@@ -59,7 +60,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
-| King of Pentacles | 0.10% | ~23 |
 | King of Swords | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,972 (Ranked 15)  
+Progressed: 893,974 (Ranked 15)  
 Completed: 2,714 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,714 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 893,972 | 2,714 |
+| 2023-10-27 | 893,974 | 2,714 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 328,419 (Ranked 10)  

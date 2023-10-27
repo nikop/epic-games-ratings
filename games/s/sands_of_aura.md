@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 73.00% | ~11 |
+| Setting Sail | 80.00% | ~12 |
 | Dousing a Venerable Flame | 20.00% | ~3 |
 | Advanced Armaments | 20.00% | ~3 |
 | Spirit Within | 20.00% | ~3 |

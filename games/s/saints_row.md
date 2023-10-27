@@ -19,12 +19,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Food for Thought | 27.00% | ~20,600 |
 | Finders Keepers | 25.00% | ~19,074 |
 | A Young Empire | 25.00% | ~19,074 |
-| Work Ethic | 23.00% | ~17,548 |
-| Picking Fights | 20.00% | ~15,259 |
-| Power Players | 19.00% | ~14,496 |
-| Quality Time | 18.00% | ~13,733 |
-| Showdown | 17.00% | ~12,970 |
-| Et tu? | 17.00% | ~12,970 |
+| Work Ethic | 23.00% | ~17,549 |
+| Picking Fights | 20.00% | ~15,260 |
+| Power Players | 19.00% | ~14,497 |
+| Quality Time | 18.00% | ~13,734 |
+| Showdown | 17.00% | ~12,971 |
+| Et tu? | 17.00% | ~12,971 |
 | Took It to The Limit | 16.00% | ~12,208 |
 | Kitted Out | 14.00% | ~10,682 |
 | Masters of Santo Ileso | 12.00% | ~9,156 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~153 |
 | Fiesta Time | 0.20% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,297 (Ranked 93)  
+Progressed: 76,298 (Ranked 93)  
 Completed: 51 (0.07%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 51 (0.07%) (Ranked 274)
 | 2023-10-24 | 76,070 | 51 |
 | 2023-10-25 | 76,173 | 51 |
 | 2023-10-26 | 76,266 | 51 |
-| 2023-10-27 | 76,297 | 51 |
+| 2023-10-27 | 76,298 | 51 |
 ## Awards
 Max (Extremely Fun): 1,072  (Ranked 143)  
-Sum: 8,704 (Ranked 97)  
+Sum: 8,705 (Ranked 97)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): 46
 | This game is Relaxing | 986 |
 | This game has Amazing Storytelling | 975 |
 | This game has Playful Visuals | 777 |
-| This game has a Silly Community | 608 |
+| This game has a Silly Community | 609 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -477,4 +477,4 @@ Diff (max vs sum): 46
 | 2023-10-23 | 3.79 | - | 1,071 | 8,695 |
 | 2023-10-25 | 3.79 | - | 1,071 | 8,698 |
 | 2023-10-26 | 3.79 | - | 1,072 | 8,703 |
-| 2023-10-27 | 3.79 | - | 1,072 | 8,704 |
+| 2023-10-27 | 3.79 | - | 1,072 | 8,705 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1180,9 +1180,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -1251,8 +1251,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-27T05:03:17.9118905+00:00",
+  "LastChanged_Achievements": "2023-10-27T06:03:53.7454106+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:58:16.2275295+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:03:17.91191+00:00"
+  "LastUpdate_Ratings": "2023-10-27T05:59:09.2000792+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:03:53.7454527+00:00"
 }

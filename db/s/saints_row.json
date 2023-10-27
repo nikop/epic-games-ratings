@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3859,10 +3859,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 8704,
       "NumberOfAwardsMax": 1072
+    },
+    {
+      "Time": "2023-10-27T06:03:10.4927719+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 8705,
+      "NumberOfAwardsMax": 1072
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8704,
+  "NumberOfAwards": 8705,
   "NumberOfAwardsMax": 1072,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3918,7 +3924,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 608
+      "Count": 609
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3927,7 +3933,7 @@
       "Count": 1072
     }
   ],
-  "EOS_Progressed": 76297,
+  "EOS_Progressed": 76298,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 759,
   "EOS_NewCompleters": 0,
@@ -25322,6 +25328,11 @@
       "Time": "2023-10-27T05:08:16.213663+00:00",
       "NumProgressed": 76297,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-27T06:08:43.2241669+00:00",
+      "NumProgressed": 76298,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25349,7 +25360,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13733
+      "UsersEstimate": 13734
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -25421,7 +25432,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 12970
+      "UsersEstimate": 12971
     },
     {
       "ID": "complete_first_side_hustle",
@@ -25517,7 +25528,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "empire_tier_4",
@@ -25549,7 +25560,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17548
+      "UsersEstimate": 17549
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25573,7 +25584,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 12970
+      "UsersEstimate": 12971
     },
     {
       "ID": "get_fired",
@@ -25605,7 +25616,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15259
+      "UsersEstimate": 15260
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -25756,22 +25767,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76297,
+      "Progressed": 76298,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 47934,
-      "Completed": 4193
+      "Progressed": 47935,
+      "Completed": 4194
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-10-27T03:02:53.3117239+00:00",
-  "LastChanged_Achievements": "2023-10-27T05:08:16.2136626+00:00",
+  "LastChanged": "2023-10-27T06:03:10.4927716+00:00",
+  "LastChanged_Achievements": "2023-10-27T06:08:43.2241661+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:11.466171+00:00",
-  "LastUpdate_Ratings": "2023-10-27T05:02:48.6551162+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:08:16.2137981+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:03:10.4927724+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:08:43.2244958+00:00"
 }

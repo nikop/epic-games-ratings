@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 626,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 152,
-  "Ranking_EOS_Progress": 160,
+  "Ranking_PopularitySum": 153,
+  "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1793,7 +1793,7 @@
   ],
   "EOS_Progressed": 8078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6112,9 +6112,9 @@
       "ID": "ach28",
       "SetID": "47in8n6",
       "Name": "Feeling Stronger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2747
     },
     {
       "ID": "ach29",
@@ -6256,9 +6256,9 @@
       "ID": "ach46",
       "SetID": "47in8n6",
       "Name": "Happy Endings",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "ach47",
@@ -6305,8 +6305,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T05:05:24.4171212+00:00",
+  "LastChanged_Achievements": "2023-10-27T06:06:50.3898767+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:58:54.6872082+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:05:24.4171746+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:00:04.9513389+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:06:50.3900006+00:00"
 }

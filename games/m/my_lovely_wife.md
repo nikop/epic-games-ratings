@@ -15,7 +15,7 @@ Number of Ratings: 25  (23.09.2022)
 | Frugal | 86.00% | ~526 |
 | Dilligent | 83.00% | ~508 |
 | I... I did it? | 81.00% | ~496 |
-| Adored | 76.00% | ~465 |
+| Adored | 77.00% | ~471 |
 | The Hobbyist | 66.00% | ~404 |
 | A Forked Tongue | 56.00% | ~343 |
 | The Admirer | 53.00% | ~324 |

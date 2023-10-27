@@ -13,12 +13,12 @@
 | How Low Can We Go? | 22.00% | ~179 |
 | Team Builder | 17.00% | ~138 |
 | Long Live Rock | 14.00% | ~114 |
-| Aggressive Antivirus | 12.00% | ~97 |
-| Effective Efficiency | 12.00% | ~97 |
+| Aggressive Antivirus | 12.00% | ~98 |
+| Effective Efficiency | 12.00% | ~98 |
 | Unblurred Lines | 10.00% | ~81 |
 | Endlessly Effective | 10.00% | ~81 |
 | Obsessively Thorough | 9.00% | ~73 |
-| What's Behind Every Door? | 4.00% | ~32 |
+| What's Behind Every Door? | 4.00% | ~33 |
 | No Stone Unturned | 3.00% | ~24 |
 | Turret Syndrome | 1.00% | ~8 |
 | Endless Biographer | 0.40% | ~3 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812 (Ranked 258)  
+Progressed: 813 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,4 +47,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 722 | 0 |
 | 2023-10-25 | 771 | 0 |
 | 2023-10-26 | 805 | 0 |
-| 2023-10-27 | 812 | 0 |
+| 2023-10-27 | 813 | 0 |

@@ -27,6 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.30% | ~2,148 |
 | Stuntmaster | 0.30% | ~2,148 |
 | Street Fighting | 0.30% | ~2,148 |
+| Qi Gong: Mind | 0.30% | ~2,148 |
 | Old Child | 0.30% | ~2,148 |
 | Kung-Fu Tussle | 0.30% | ~2,148 |
 | Take damage to save time | 0.30% | ~2,148 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.20% | ~1,432 |
 | Detective Story | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
-| Qi Gong: Mind | 0.20% | ~1,432 |
 | I know Kung-Fu | 0.20% | ~1,432 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
 | Beatmaker | 0.20% | ~51 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,969 (Ranked 20)  
+Progressed: 715,970 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 12,925 (1.81%) (Ranked 122)
 | 2023-10-24 | 715,911 | 12,925 |
 | 2023-10-25 | 715,943 | 12,925 |
 | 2023-10-26 | 715,965 | 12,925 |
-| 2023-10-27 | 715,969 | 12,925 |
+| 2023-10-27 | 715,970 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,734  (Ranked 53)  
 Sum: 11,713 (Ranked 82)  

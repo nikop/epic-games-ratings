@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 224)  
+Rating: 4.69 (Ranked 225)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,605 |
-| Until death do us apart | 4.00% | ~17,605 |
-| Victorious! | 4.00% | ~17,605 |
-| That's a Grand Navy | 3.00% | ~13,204 |
+| That's a Grand Army | 4.00% | ~17,606 |
+| Until death do us apart | 4.00% | ~17,606 |
+| Victorious! | 4.00% | ~17,606 |
 | That is mine! | 3.00% | ~13,204 |
-| Brothers in Arms | 2.00% | ~8,802 |
-| Cold War | 2.00% | ~8,802 |
-| For the Glory | 2.00% | ~8,802 |
-| Seriously?! | 2.00% | ~8,802 |
+| Brothers in Arms | 2.00% | ~8,803 |
+| Cold War | 2.00% | ~8,803 |
+| For the Glory | 2.00% | ~8,803 |
+| That's a Grand Navy | 2.00% | ~8,803 |
+| Seriously?! | 2.00% | ~8,803 |
 | Defender of the Faith | 1.00% | ~4,401 |
 | It's all about luck | 1.00% | ~4,401 |
 | It's all about the money | 1.00% | ~4,401 |
@@ -32,14 +32,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.50% | ~2,201 |
 | Combined Arms | 0.50% | ~2,201 |
 | This navy can take it all | 0.50% | ~2,201 |
-| Bright Spark | 0.40% | ~1,760 |
-| The Emperors new clothes | 0.40% | ~1,760 |
-| Factionalism | 0.40% | ~1,760 |
-| Gentle Persuasion | 0.40% | ~1,760 |
-| Isn't this the way to India? | 0.40% | ~1,760 |
-| Queen of Conquest | 0.40% | ~1,760 |
-| The Five Colonies | 0.40% | ~1,760 |
-| Trustworthy | 0.40% | ~1,760 |
+| Bright Spark | 0.40% | ~1,761 |
+| The Emperors new clothes | 0.40% | ~1,761 |
+| Factionalism | 0.40% | ~1,761 |
+| Gentle Persuasion | 0.40% | ~1,761 |
+| Isn't this the way to India? | 0.40% | ~1,761 |
+| Queen of Conquest | 0.40% | ~1,761 |
+| The Five Colonies | 0.40% | ~1,761 |
+| Trustworthy | 0.40% | ~1,761 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,320 |
 | Down Under | 0.30% | ~1,320 |
 | Electable! | 0.30% | ~1,320 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,121 (Ranked 41)  
+Progressed: 440,138 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-24 | 438,806 | 1 |
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
-| 2023-10-27 | 440,121 | 1 |
+| 2023-10-27 | 440,138 | 1 |
 ## Awards
 Max (Educational): 6,687  (Ranked 56)  
 Sum: 54,981 (Ranked 24)  

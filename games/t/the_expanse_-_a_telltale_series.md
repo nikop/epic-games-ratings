@@ -12,6 +12,7 @@ Rating: 4.59 (Ranked 423)
 | Spore Taste | 0.20% | ~29 |
 | Martian Music | 0.20% | ~29 |
 | Drone Dodger | 0.20% | ~29 |
+| Heal Thy Medic | 0.20% | ~29 |
 | Call it Even | 0.20% | ~29 |
 | Captain Drummer | 0.20% | ~29 |
 | Celebrations are in Order | 0.20% | ~29 |
@@ -24,7 +25,6 @@ Rating: 4.59 (Ranked 423)
 | Data Logger | 0.10% | ~14 |
 | Thorston Mayer | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |
-| Heal Thy Medic | 0.10% | ~14 |
 | Miraculous Maya | 0.10% | ~14 |
 | Khan's Revenge | 0.10% | ~14 |
 | No Belter Left Behind | 0.10% | ~14 |

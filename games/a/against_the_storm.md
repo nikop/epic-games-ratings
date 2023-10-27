@@ -29,18 +29,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 4.00% | ~683 |
 | Cursed Lands | 4.00% | ~683 |
 | Trade Baron | 4.00% | ~683 |
-| Serving Ale | 3.00% | ~512 |
-| Against All Odds | 3.00% | ~512 |
-| Dangerous Lands | 3.00% | ~512 |
-| Fishmen Ritual Site | 3.00% | ~512 |
-| Forbidden Lands | 3.00% | ~512 |
-| Haunted Forest | 3.00% | ~512 |
-| Flooded Mines | 3.00% | ~512 |
-| Forsaken Gods Temple | 3.00% | ~512 |
-| Corrosive Torrent | 3.00% | ~512 |
-| Like a Machine | 3.00% | ~512 |
-| Defying the Crown | 3.00% | ~512 |
-| Into the Forest | 3.00% | ~512 |
+| Serving Ale | 3.00% | ~513 |
+| Against All Odds | 3.00% | ~513 |
+| Dangerous Lands | 3.00% | ~513 |
+| Fishmen Ritual Site | 3.00% | ~513 |
+| Forbidden Lands | 3.00% | ~513 |
+| Haunted Forest | 3.00% | ~513 |
+| Flooded Mines | 3.00% | ~513 |
+| Forsaken Gods Temple | 3.00% | ~513 |
+| Corrosive Torrent | 3.00% | ~513 |
+| Like a Machine | 3.00% | ~513 |
+| Defying the Crown | 3.00% | ~513 |
+| Into the Forest | 3.00% | ~513 |
 | Refinery | 2.00% | ~342 |
 | Victory through Prosperity | 2.00% | ~342 |
 | Feeding The People | 1.00% | ~171 |
@@ -50,14 +50,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.90% | ~154 |
 | Human Utopia | 0.80% | ~137 |
 | Beaver Utopia | 0.70% | ~120 |
-| The Queen's Chosen | 0.60% | ~102 |
+| The Queen's Chosen | 0.60% | ~103 |
 | Harpy Utopia | 0.50% | ~85 |
 | Ruins | 0.50% | ~85 |
 | Treasure | 0.30% | ~51 |
 | Higher Needs | 0.20% | ~34 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,083 (Ranked 134)  
+Progressed: 17,084 (Ranked 134)  
 Completed: 52 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 52 (0.30%) (Ranked 214)
 | 2023-10-24 | 17,051 | 52 |
 | 2023-10-25 | 17,069 | 52 |
 | 2023-10-26 | 17,081 | 52 |
-| 2023-10-27 | 17,083 | 52 |
+| 2023-10-27 | 17,084 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 214)  
 Sum: 3,200 (Ranked 170)  

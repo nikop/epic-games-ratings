@@ -1,18 +1,18 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 191)  
+Rating: 4.71 (Ranked 192)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~257,961 |
 | Cavalier | 25.00% | ~201,532 |
-| Fatso | 23.00% | ~185,409 |
+| Fatso | 23.00% | ~185,410 |
 | Awakening | 21.00% | ~169,287 |
-| Ranger | 20.00% | ~161,225 |
-| Scrooge | 20.00% | ~161,225 |
-| Anorectic | 16.00% | ~128,980 |
+| Ranger | 20.00% | ~161,226 |
+| Scrooge | 20.00% | ~161,226 |
+| Anorectic | 16.00% | ~128,981 |
 | Bookworm | 15.00% | ~120,919 |
 | Firestarter | 15.00% | ~120,919 |
 | Insomniac | 13.00% | ~104,797 |
@@ -21,7 +21,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Sinner | 11.00% | ~88,674 |
 | Traveller | 11.00% | ~88,674 |
 | Convict | 10.00% | ~80,613 |
-| Haggler | 9.00% | ~72,551 |
+| Haggler | 9.00% | ~72,552 |
 | McLovin | 7.00% | ~56,429 |
 | Runt | 7.00% | ~56,429 |
 | Casanova | 6.00% | ~48,368 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~806 |
 | Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,127 (Ranked 17)  
+Progressed: 806,129 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 51 (0.01%) (Ranked 308)
 | 2023-10-24 | 805,920 | 51 |
 | 2023-10-25 | 806,007 | 51 |
 | 2023-10-26 | 806,109 | 51 |
-| 2023-10-27 | 806,127 | 51 |
+| 2023-10-27 | 806,129 | 51 |
 ## Awards
 Max (Character Customization): 7,549  (Ranked 50)  
 Sum: 28,086 (Ranked 48)  

@@ -1,15 +1,15 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 376)  
+Rating: 4.61 (Ranked 377)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~46,902 |
-| Get Busy Living | 16.00% | ~30,017 |
+| Stone Walls | 25.00% | ~46,904 |
+| Get Busy Living | 16.00% | ~30,018 |
 | Samuel Norton | 9.00% | ~16,885 |
-| Spare The Rod | 5.00% | ~9,380 |
+| Spare The Rod | 5.00% | ~9,381 |
 | Don't Put Me In The Dark | 3.00% | ~5,628 |
 | Wait and Hope | 3.00% | ~5,628 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,628 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~188 |
 | ... It's What You Can Prove | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187,608 (Ranked 71)  
+Progressed: 187,615 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 8 (0.00%) (Ranked 328)
 | 2023-10-24 | 186,994 | 8 |
 | 2023-10-25 | 187,266 | 8 |
 | 2023-10-26 | 187,566 | 8 |
-| 2023-10-27 | 187,608 | 8 |
+| 2023-10-27 | 187,615 | 8 |
 ## Awards
 Max (Extremely Fun): 542  (Ranked 200)  
-Sum: 4,671 (Ranked 142)  
+Sum: 4,673 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -225,8 +225,8 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 511 |
 | This game has Quickly Understood Controls | 506 |
 | This game is Relaxing | 486 |
+| This game has Diverse Characters | 455 |
 | This game has Amazing Storytelling | 454 |
-| This game has Diverse Characters | 453 |
 | This game is Educational | 443 |
 | This game has Amazing Characters | 410 |
 | This game has a Creative Community | 326 |
@@ -511,4 +511,4 @@ Diff (max vs sum): 58
 | 2023-10-24 | 4.61 | - | 539 | 4,648 |
 | 2023-10-25 | 4.61 | - | 539 | 4,655 |
 | 2023-10-26 | 4.61 | - | 542 | 4,670 |
-| 2023-10-27 | 4.61 | - | 542 | 4,671 |
+| 2023-10-27 | 4.61 | - | 542 | 4,673 |

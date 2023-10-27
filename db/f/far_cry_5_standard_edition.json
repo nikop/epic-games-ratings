@@ -2,13 +2,13 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 124,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 413,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -3562,6 +3562,6 @@
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
   "LastChanged": "2023-10-26T21:59:01.0632274+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:15.9129492+00:00",
-  "LastUpdate_Ratings": "2023-10-27T04:58:22.3264457+00:00",
-  "LastUpdate_Achievements": "2023-10-27T05:08:25.5163372+00:00"
+  "LastUpdate_Ratings": "2023-10-27T05:59:18.2989045+00:00",
+  "LastUpdate_Achievements": "2023-10-27T06:08:56.1918885+00:00"
 }

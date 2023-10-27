@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 304)  
+Rating: 4.65 (Ranked 305)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
+| Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
@@ -163,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
 | Greater Kmt Unified | 0.30% | ~45 |
-| Bronze Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |

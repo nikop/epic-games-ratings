@@ -1,48 +1,48 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.61 (Ranked 376)  
+Rating: 4.61 (Ranked 377)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 65.00% | ~159,089 |
-| Shine On | 61.00% | ~149,299 |
-| On the Job | 59.00% | ~144,404 |
-| Get Stuck In | 57.00% | ~139,509 |
-| Room for Expansion | 57.00% | ~139,509 |
-| Chill Out | 57.00% | ~139,509 |
-| Sales Pitch | 55.00% | ~134,614 |
-| Grand Designs | 53.00% | ~129,719 |
-| Tinker | 51.00% | ~124,824 |
-| Hot Stuff | 48.00% | ~117,481 |
-| MOAR RGB | 44.00% | ~107,691 |
-| Dream Theme | 37.00% | ~90,558 |
-| Working Hard | 36.00% | ~88,111 |
-| The Customer is King | 36.00% | ~88,111 |
-| On the Bench | 35.00% | ~85,663 |
-| The More the Merrier | 34.00% | ~83,216 |
-| Recycler | 31.00% | ~75,873 |
+| Bootstrapping | 65.00% | ~159,091 |
+| Shine On | 61.00% | ~149,301 |
+| On the Job | 59.00% | ~144,405 |
+| Get Stuck In | 57.00% | ~139,510 |
+| Room for Expansion | 57.00% | ~139,510 |
+| Chill Out | 57.00% | ~139,510 |
+| Sales Pitch | 55.00% | ~134,615 |
+| Grand Designs | 53.00% | ~129,720 |
+| Tinker | 51.00% | ~124,825 |
+| Hot Stuff | 48.00% | ~117,482 |
+| MOAR RGB | 44.00% | ~107,692 |
+| Dream Theme | 37.00% | ~90,559 |
+| Working Hard | 36.00% | ~88,112 |
+| The Customer is King | 36.00% | ~88,112 |
+| On the Bench | 35.00% | ~85,664 |
+| The More the Merrier | 34.00% | ~83,217 |
+| Recycler | 31.00% | ~75,874 |
 | Mix and Match | 30.00% | ~73,426 |
 | Very Imported PC | 30.00% | ~73,426 |
 | Foot in the Door | 30.00% | ~73,426 |
-| Full Throttle | 29.00% | ~70,978 |
+| Full Throttle | 29.00% | ~70,979 |
 | Pimp My Rig | 26.00% | ~63,636 |
 | Repair Master | 26.00% | ~63,636 |
-| Local Hero | 23.00% | ~56,293 |
-| Broken to Smokin' | 22.00% | ~53,845 |
-| Workaholic | 22.00% | ~53,845 |
-| Bench Warmer | 22.00% | ~53,845 |
-| Cinematic | 20.00% | ~48,950 |
-| Thanks Jeff | 20.00% | ~48,950 |
-| Gift of the Gab | 20.00% | ~48,950 |
-| Salvage Squad | 20.00% | ~48,950 |
+| Local Hero | 23.00% | ~56,294 |
+| Broken to Smokin' | 22.00% | ~53,846 |
+| Workaholic | 22.00% | ~53,846 |
+| Bench Warmer | 22.00% | ~53,846 |
+| Cinematic | 20.00% | ~48,951 |
+| Thanks Jeff | 20.00% | ~48,951 |
+| Gift of the Gab | 20.00% | ~48,951 |
+| Salvage Squad | 20.00% | ~48,951 |
 | On the Ladder | 19.00% | ~46,503 |
 | Stick With It | 19.00% | ~46,503 |
-| Variations on a Theme | 18.00% | ~44,055 |
-| Cowboy | 18.00% | ~44,055 |
-| Slap Happy | 18.00% | ~44,055 |
-| Paste Not, Want Not | 16.00% | ~39,160 |
-| Supercool | 16.00% | ~39,160 |
+| Variations on a Theme | 18.00% | ~44,056 |
+| Cowboy | 18.00% | ~44,056 |
+| Slap Happy | 18.00% | ~44,056 |
+| Paste Not, Want Not | 16.00% | ~39,161 |
+| Supercool | 16.00% | ~39,161 |
 | Stabiliser | 15.00% | ~36,713 |
 | This One Goes to 11 | 15.00% | ~36,713 |
 | Going Places | 13.00% | ~31,818 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 376)
 | Keep 'Em Coming | 0.30% | ~734 |
 | Export Expert | 0.20% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,752 (Ranked 57)  
+Progressed: 244,755 (Ranked 57)  
 Completed: 150 (0.06%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 150 (0.06%) (Ranked 279)
 | 2023-10-24 | 244,153 | 150 |
 | 2023-10-25 | 244,423 | 150 |
 | 2023-10-26 | 244,697 | 150 |
-| 2023-10-27 | 244,752 | 150 |
+| 2023-10-27 | 244,755 | 150 |
 ## Awards
 Max (Great for Beginners): 718  (Ranked 177)  
 Sum: 5,119 (Ranked 135)  
