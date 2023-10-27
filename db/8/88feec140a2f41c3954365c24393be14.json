@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98165,
+  "EOS_Progressed": 98166,
   "EOS_Completed": 4228,
-  "EOS_NewPlayers": 1873,
+  "EOS_NewPlayers": 1869,
   "EOS_NewCompleters": 216,
   "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
@@ -5247,6 +5247,11 @@
       "Time": "2023-10-27T06:09:23.2524179+00:00",
       "NumProgressed": 98165,
       "NumCompleted": 4228
+    },
+    {
+      "Time": "2023-10-27T07:08:59.403819+00:00",
+      "NumProgressed": 98166,
+      "NumCompleted": 4228
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -5259,7 +5264,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60862
+      "UsersEstimate": 60863
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -5291,7 +5296,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 54,
       "XP": 75,
-      "UsersEstimate": 53009
+      "UsersEstimate": 53010
     },
     {
       "ID": "ShipDip",
@@ -5299,7 +5304,7 @@
       "Name": "Ship Dip!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 49082
+      "UsersEstimate": 49083
     },
     {
       "ID": "TheArtOfParley",
@@ -5323,7 +5328,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 57917
+      "UsersEstimate": 57918
     },
     {
       "ID": "WeCanDoBetter",
@@ -5331,7 +5336,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 75587
+      "UsersEstimate": 75588
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -5354,7 +5359,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 98165,
+      "Progressed": 98166,
       "Completed": 4228
     }
   ],
@@ -5362,8 +5367,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-23T20:00:33.1378953+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:09:23.2524171+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:08:59.4038182+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:15.2314117+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:02:58.4816191+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:09:23.2524931+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:02:48.5975137+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:08:59.4038908+00:00"
 }

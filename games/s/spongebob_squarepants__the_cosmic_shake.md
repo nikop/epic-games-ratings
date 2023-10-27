@@ -49,7 +49,7 @@
 | Volley King | 29.00% | ~2 |
 | Wrath-tub | 29.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 567)  
+Progressed: 7 (Ranked 568)  
 Completed: 3 (42.86%) (Ranked 5)  
 ## EOS Players History
 | Date | Progressed | Completed |

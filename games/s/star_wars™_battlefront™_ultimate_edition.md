@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~780 |
+| New Recruit | 91.00% | ~781 |
 | Off to a good start | 68.00% | ~583 |
 | Do... or do not. There is no try | 52.00% | ~446 |
-| A good blaster at your side | 34.00% | ~291 |
-| Scrap collector | 20.00% | ~171 |
-| I suggest a new strategy | 20.00% | ~171 |
+| A good blaster at your side | 34.00% | ~292 |
+| Scrap collector | 20.00% | ~172 |
+| I suggest a new strategy | 20.00% | ~172 |
 | All right, I'll give it a try | 18.00% | ~154 |
 | Great shot, kid! | 18.00% | ~154 |
 | Together we can rule the galaxy | 16.00% | ~137 |
@@ -32,15 +32,15 @@
 | Patience you must have | 5.00% | ~43 |
 | I've been waiting for you | 4.00% | ~34 |
 | When 900 years old you reach... | 4.00% | ~34 |
-| Determined | 4.00% | ~34 |
 | Your journey has only started | 4.00% | ~34 |
 | On the ball | 4.00% | ~34 |
 | Safety ain't the point of a joyride | 4.00% | ~34 |
-| That's no moon | 4.00% | ~34 |
 | Don't underestimate the Force | 4.00% | ~34 |
+| Determined | 3.00% | ~26 |
 | Precision shot | 3.00% | ~26 |
 | This is a new day, a new beginning | 3.00% | ~26 |
 | City in the Clouds | 3.00% | ~26 |
+| That's no moon | 3.00% | ~26 |
 | What will you become? | 3.00% | ~26 |
 | Disturbed tranquility | 3.00% | ~26 |
 | Hold the line! | 2.00% | ~17 |
@@ -62,13 +62,13 @@
 | in a galaxy far, far away.... | 0.50% | ~4 |
 | Don't get cocky | 0.50% | ~4 |
 | Greed can be a very powerful ally | 0.50% | ~4 |
-| That got him! | 0.40% | ~3 |
-| Master | 0.40% | ~3 |
-| Stay in attack formation | 0.40% | ~3 |
+| That got him! | 0.30% | ~3 |
+| Master | 0.30% | ~3 |
+| Stay in attack formation | 0.30% | ~3 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 857 (Ranked 254)  
+Progressed: 858 (Ranked 254)  
 Completed: 1 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 1 (0.12%) (Ranked 251)
 | 2023-10-24 | 827 | 1 |
 | 2023-10-25 | 840 | 1 |
 | 2023-10-26 | 857 | 1 |
+| 2023-10-27 | 858 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

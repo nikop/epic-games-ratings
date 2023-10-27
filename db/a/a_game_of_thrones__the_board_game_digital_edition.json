@@ -1290,9 +1290,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 26948,
+  "EOS_Progressed": 26949,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21655,6 +21655,11 @@
       "Time": "2023-10-27T06:09:12.4954921+00:00",
       "NumProgressed": 26948,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2023-10-27T07:08:50.0671109+00:00",
+      "NumProgressed": 26949,
+      "NumCompleted": 72
     }
   ],
   "TotalAchievements": 22,
@@ -21802,7 +21807,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10779
+      "UsersEstimate": 10780
     },
     {
       "ID": "1033",
@@ -21841,15 +21846,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 26948,
+      "Progressed": 26949,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:09:12.4954915+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:08:50.06711+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:03:22.5548961+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:09:12.4958112+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:03:08.9105486+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:08:50.0672909+00:00"
 }

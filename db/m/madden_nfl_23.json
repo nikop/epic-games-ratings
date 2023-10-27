@@ -757,9 +757,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2998,
+  "EOS_Progressed": 2999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4097,6 +4097,11 @@
       "Time": "2023-10-27T05:05:52.3908517+00:00",
       "NumProgressed": 2998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T07:06:40.9950127+00:00",
+      "NumProgressed": 2999,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4133,7 +4138,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_13",
@@ -4149,7 +4154,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "achievement_15",
@@ -4165,7 +4170,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_17",
@@ -4253,7 +4258,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_8",
@@ -4276,7 +4281,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 2998,
+      "Progressed": 2999,
       "Completed": 0
     }
   ],
@@ -4284,8 +4289,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-26T23:59:51.3475176+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:07:29.9116774+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:06:40.9950119+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:01:33.9874921+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:07:29.9117421+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:01:02.1166746+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:06:40.9950616+00:00"
 }

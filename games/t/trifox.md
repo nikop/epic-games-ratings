@@ -11,7 +11,7 @@
 | Engineer-mage hybrid | 34.00% | ~35 |
 | Scraping by | 33.00% | ~34 |
 | Complete Level 1-3 | 30.00% | ~31 |
-| Defeat the warrior boss | 24.00% | ~24 |
+| Defeat the warrior boss | 25.00% | ~26 |
 | Get out of my way | 22.00% | ~22 |
 | Redecorator | 21.00% | ~21 |
 | Just a sip | 20.00% | ~20 |

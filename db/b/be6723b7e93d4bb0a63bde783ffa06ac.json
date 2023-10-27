@@ -2,9 +2,9 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 570,
+  "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2023-10-27T06:05:27.5219358+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T07:04:55.9405572+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -195,7 +200,7 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -219,17 +224,17 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach29",
@@ -283,9 +288,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ach7",
@@ -316,13 +321,13 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:05:27.5219353+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:04:55.9405565+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-27T05:59:36.6593861+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:05:27.5219741+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:59:19.6042214+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:04:55.940589+00:00"
 }

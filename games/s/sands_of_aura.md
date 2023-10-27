@@ -15,6 +15,7 @@
 | The River Styx | 7.00% | ~1 |
 | The Guardian of Fire | 7.00% | ~1 |
 | Sovereignty of Irons | 7.00% | ~1 |
+| A Sandwyrm's Hoard | 7.00% | ~1 |
 | Transformative Nature | 7.00% | ~1 |
 | Champion of Starspire | 7.00% | ~1 |
 | Rain Must Fall | 0.00% | ~0 |
@@ -49,7 +50,6 @@
 | En Garde | 0.00% | ~0 |
 | Rotted Throne | 0.00% | ~0 |
 | Before Court and Council | 0.00% | ~0 |
-| A Sandwyrm's Hoard | 0.00% | ~0 |
 | The Coming Dawn | 0.00% | ~0 |
 | Maveth Mastered | 0.00% | ~0 |
 | Top Tier Gear | 0.00% | ~0 |

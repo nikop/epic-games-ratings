@@ -796,7 +796,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44073,
+  "EOS_Progressed": 44075,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 0,
@@ -22151,6 +22151,11 @@
       "Time": "2023-10-27T06:04:04.8029564+00:00",
       "NumProgressed": 44073,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T07:03:45.1660682+00:00",
+      "NumProgressed": 44075,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22194,7 +22199,7 @@
       "Name": "Explorer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "goals10",
@@ -22218,7 +22223,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4407
+      "UsersEstimate": 4408
     },
     {
       "ID": "goals75",
@@ -22226,7 +22231,7 @@
       "Name": "Pro",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "hoistthemainsail",
@@ -22282,7 +22287,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7492
+      "UsersEstimate": 7493
     },
     {
       "ID": "novice",
@@ -22306,7 +22311,7 @@
       "Name": "Unlock Izel",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "playerMaya",
@@ -22370,7 +22375,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11459
+      "UsersEstimate": 11460
     },
     {
       "ID": "sandboarder",
@@ -22402,7 +22407,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "unlockfinal",
@@ -22473,15 +22478,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44073,
+      "Progressed": 44075,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-22T08:59:17.0919455+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:04:04.8029557+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:03:45.1660675+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2258943+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:02:16.8879505+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:04:04.803267+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:01:38.1992903+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:03:45.1662763+00:00"
 }

@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~554 |
 | Chit Chatter | 3.00% | ~332 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,081 (Ranked 149)  
+Progressed: 11,081 (Ranked 150)  
 Completed: 264 (2.38%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

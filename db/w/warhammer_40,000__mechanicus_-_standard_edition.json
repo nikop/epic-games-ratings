@@ -804,9 +804,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225724,
+  "EOS_Progressed": 225727,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21539,6 +21539,11 @@
       "Time": "2023-10-27T06:09:27.2218028+00:00",
       "NumProgressed": 225724,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T07:09:02.8052252+00:00",
+      "NumProgressed": 225727,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21558,7 +21563,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58688
+      "UsersEstimate": 58689
     },
     {
       "ID": "ACH_BASE_11",
@@ -21598,7 +21603,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22572
+      "UsersEstimate": 22573
     },
     {
       "ID": "ACH_BASE_17",
@@ -21622,7 +21627,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_BASE_2",
@@ -21630,7 +21635,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13543
+      "UsersEstimate": 13544
     },
     {
       "ID": "ACH_BASE_20",
@@ -21646,7 +21651,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_BASE_22",
@@ -21654,7 +21659,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_BASE_23",
@@ -21782,7 +21787,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_BASE_6",
@@ -21790,7 +21795,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4514
+      "UsersEstimate": 4515
     },
     {
       "ID": "ACH_BASE_7",
@@ -21821,7 +21826,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225724,
+      "Progressed": 225727,
       "Completed": 5
     }
   ],
@@ -21829,8 +21834,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-25T20:59:12.845387+00:00",
-  "LastChanged_Achievements": "2023-10-27T06:09:27.2218021+00:00",
+  "LastChanged_Achievements": "2023-10-27T07:09:02.8052245+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:00:10.7401033+00:00",
-  "LastUpdate_Achievements": "2023-10-27T06:09:27.2220889+00:00"
+  "LastUpdate_Ratings": "2023-10-27T06:59:48.5716794+00:00",
+  "LastUpdate_Achievements": "2023-10-27T07:09:02.8054308+00:00"
 }

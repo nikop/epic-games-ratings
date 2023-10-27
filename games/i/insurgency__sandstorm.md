@@ -1,28 +1,28 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 359)  
+Rating: 4.62 (Ranked 360)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~23,427 |
-| Exploitative | 4.00% | ~18,741 |
-| High Speed Low Drag | 4.00% | ~18,741 |
-| Point Shooting | 4.00% | ~18,741 |
-| Wet Feet | 4.00% | ~18,741 |
-| Lucky | 3.00% | ~14,056 |
-| Stylin' | 3.00% | ~14,056 |
-| Turf War | 3.00% | ~14,056 |
+| Wallbanger | 5.00% | ~23,428 |
+| Exploitative | 4.00% | ~18,742 |
+| High Speed Low Drag | 4.00% | ~18,742 |
+| Point Shooting | 4.00% | ~18,742 |
+| Wet Feet | 4.00% | ~18,742 |
+| Lucky | 3.00% | ~14,057 |
+| Stylin' | 3.00% | ~14,057 |
+| Turf War | 3.00% | ~14,057 |
 | Banged | 2.00% | ~9,371 |
 | Checkpoint Victory | 2.00% | ~9,371 |
 | First Blood | 2.00% | ~9,371 |
 | Flaccid Paralysis | 2.00% | ~9,371 |
 | Push Victory | 2.00% | ~9,371 |
 | Self-destructive | 2.00% | ~9,371 |
-| Blindfire | 1.00% | ~4,685 |
-| Ruthless | 1.00% | ~4,685 |
-| Semper Paratus | 1.00% | ~4,685 |
+| Blindfire | 1.00% | ~4,686 |
+| Ruthless | 1.00% | ~4,686 |
+| Semper Paratus | 1.00% | ~4,686 |
 | Carrying | 0.90% | ~4,217 |
 | Efficient | 0.90% | ~4,217 |
 | Mount & Gun | 0.90% | ~4,217 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~469 |
 | Road Hazard | 0.10% | ~469 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468,535 (Ranked 39)  
+Progressed: 468,556 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 2 (0.00%) (Ranked 328)
 | 2023-10-24 | 465,976 | 2 |
 | 2023-10-25 | 467,220 | 2 |
 | 2023-10-26 | 468,278 | 2 |
-| 2023-10-27 | 468,535 | 2 |
+| 2023-10-27 | 468,556 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 394  (Ranked 224)  
 Sum: 3,105 (Ranked 171)  
