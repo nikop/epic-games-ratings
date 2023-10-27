@@ -167,10 +167,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98166,
+  "EOS_Progressed": 98167,
   "EOS_Completed": 4228,
-  "EOS_NewPlayers": 1869,
-  "EOS_NewCompleters": 216,
+  "EOS_NewPlayers": 1864,
+  "EOS_NewCompleters": 214,
   "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
     {
@@ -5252,6 +5252,11 @@
       "Time": "2023-10-27T07:08:59.403819+00:00",
       "NumProgressed": 98166,
       "NumCompleted": 4228
+    },
+    {
+      "Time": "2023-10-27T08:08:58.723745+00:00",
+      "NumProgressed": 98167,
+      "NumCompleted": 4228
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -5264,7 +5269,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 60863
+      "UsersEstimate": 60864
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -5304,7 +5309,7 @@
       "Name": "Ship Dip!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 49083
+      "UsersEstimate": 49084
     },
     {
       "ID": "TheArtOfParley",
@@ -5312,7 +5317,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 73624
+      "UsersEstimate": 73625
     },
     {
       "ID": "TheGoldenRatio",
@@ -5328,7 +5333,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 57918
+      "UsersEstimate": 57919
     },
     {
       "ID": "WeCanDoBetter",
@@ -5336,7 +5341,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 75588
+      "UsersEstimate": 75589
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -5344,7 +5349,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 76569
+      "UsersEstimate": 76570
     },
     {
       "ID": "WelcomeAboard",
@@ -5352,14 +5357,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 76569
+      "UsersEstimate": 76570
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 98166,
+      "Progressed": 98167,
       "Completed": 4228
     }
   ],
@@ -5367,8 +5372,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-23T20:00:33.1378953+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:08:59.4038182+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:08:58.7237444+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:15.2314117+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:02:48.5975137+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:08:59.4038908+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:02:50.3260653+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:08:58.7237888+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76788,
+  "EOS_Progressed": 76789,
   "EOS_Completed": 807,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -21292,6 +21292,11 @@
       "Time": "2023-10-27T07:04:21.8838931+00:00",
       "NumProgressed": 76788,
       "NumCompleted": 807
+    },
+    {
+      "Time": "2023-10-27T08:04:07.4312314+00:00",
+      "NumProgressed": 76789,
+      "NumCompleted": 807
     }
   ],
   "TotalAchievements": 25,
@@ -21335,7 +21340,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16894
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -21407,7 +21412,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "Meaty",
@@ -21455,7 +21460,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9982
+      "UsersEstimate": 9983
     },
     {
       "ID": "Sniper",
@@ -21502,7 +21507,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76788,
+      "Progressed": 76789,
       "Completed": 807
     }
   ],
@@ -21510,8 +21515,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:04:21.8838926+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:04:07.4312309+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:45.1853464+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:00:24.2992342+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:04:21.8840783+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:59:45.9538273+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:04:07.4313757+00:00"
 }

@@ -17,8 +17,8 @@ Rating: 4.08 (Ranked 953)
 | You Rich Now! | 23.00% | ~846 |
 | Our Lucky Winner | 21.00% | ~773 |
 | You Poor Now! | 21.00% | ~773 |
+| The Shardmenstration | 20.00% | ~736 |
 | You Got the Goods, Kid | 20.00% | ~736 |
-| The Shardmenstration | 19.00% | ~699 |
 | Those Were the Days... | 19.00% | ~699 |
 | ...To Heroes | 18.00% | ~662 |
 | Mas, Por Favor | 18.00% | ~662 |

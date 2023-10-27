@@ -185,9 +185,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "EV_ACH05",
@@ -265,9 +265,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EV_ACH15",
@@ -289,9 +289,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EV_ACH18",
@@ -313,9 +313,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 51,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "EV_ACH21",
@@ -345,33 +345,33 @@
       "ID": "EV_ACH24",
       "SetID": "6jeac23",
       "Name": "Never Gets Old",
-      "Percentage": 49,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 37,
-      "XP": 10,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "EV_ACH26",
-      "SetID": "6jeac23",
-      "Name": "Moneyball",
       "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 14
     },
     {
+      "ID": "EV_ACH26",
+      "SetID": "6jeac23",
+      "Name": "Moneyball",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 15
+    },
+    {
       "ID": "EV_ACH27",
       "SetID": "6jeac23",
       "Name": "I Broke It",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EV_ACH28",
@@ -385,9 +385,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "EV_ACH30",
@@ -401,9 +401,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "EV_ACH32",
@@ -457,9 +457,9 @@
       "ID": "EV_ACH38",
       "SetID": "6jeac23",
       "Name": "Vertical Power",
-      "Percentage": 40,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "EV_ACH39",
@@ -519,8 +519,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:09:00.8461429+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:08:59.9443425+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:06.0110873+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:01:17.3276254+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:09:00.8461916+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:00:26.8534536+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:08:59.9443761+00:00"
 }

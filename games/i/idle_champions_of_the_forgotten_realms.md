@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow Down Showdown | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,910 (Ranked 61)  
+Progressed: 232,912 (Ranked 61)  
 Completed: 2,388 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -725,16 +725,16 @@ Completed: 2,388 (1.03%) (Ranked 149)
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
-| 2023-10-27 | 232,910 | 2,388 |
+| 2023-10-27 | 232,912 | 2,388 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
-Sum: 32,226 (Ranked 41)  
+Sum: 32,227 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,456 |
 | This game has Diverse Characters | 5,441 |
-| This game has Quickly Understood Controls | 4,799 |
+| This game has Quickly Understood Controls | 4,800 |
 | This game is Relaxing | 4,688 |
 | This game has Amazing Characters | 4,177 |
 | This game is Highly Recommended | 4,175 |
@@ -1016,4 +1016,4 @@ Diff (max vs sum): 28
 | 2023-10-24 | 4.06 | - | 5,444 | 32,194 |
 | 2023-10-25 | 4.06 | - | 5,444 | 32,204 |
 | 2023-10-26 | 4.06 | - | 5,448 | 32,215 |
-| 2023-10-27 | 4.06 | - | 5,456 | 32,226 |
+| 2023-10-27 | 4.06 | - | 5,456 | 32,227 |

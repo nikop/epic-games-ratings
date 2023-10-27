@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.09,
   "EosHistory": [
@@ -823,6 +823,11 @@
       "Time": "2023-10-26T15:06:11.9175454+00:00",
       "NumProgressed": 549,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T08:04:44.9843257+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -834,7 +839,7 @@
       "Name": "Hardcore Gamer",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Agent_47",
@@ -866,7 +871,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Echoes",
@@ -882,7 +887,7 @@
       "Name": "Between the Covers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Gamer",
@@ -922,7 +927,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Hitman",
@@ -938,7 +943,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Investigative",
@@ -970,7 +975,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Misanthrope",
@@ -978,7 +983,7 @@
       "Name": "Antisocial Club",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Missing_Shot",
@@ -986,7 +991,7 @@
       "Name": "You Had One Job...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Neighbor",
@@ -994,7 +999,7 @@
       "Name": "Den Mother",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Ninja",
@@ -1002,7 +1007,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Old_Friend",
@@ -1065,7 +1070,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 6
     }
   ],
@@ -1073,8 +1078,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:05:07.9275175+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:04:44.9843251+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2702098+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:03:13.1867782+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:05:07.9275477+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:03:11.0407043+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:04:44.9843515+00:00"
 }

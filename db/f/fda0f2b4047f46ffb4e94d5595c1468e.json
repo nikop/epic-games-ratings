@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1791,9 +1791,9 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 8078,
+  "EOS_Progressed": 8079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5886,6 +5886,11 @@
       "Time": "2023-10-27T05:05:24.4171216+00:00",
       "NumProgressed": 8078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T08:05:33.4547397+00:00",
+      "NumProgressed": 8079,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5914,7 +5919,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ach04",
@@ -5938,7 +5943,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "ach07",
@@ -6010,7 +6015,7 @@
       "Name": "Give A Koin",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ach16",
@@ -6146,7 +6151,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ach33",
@@ -6186,7 +6191,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4604
+      "UsersEstimate": 4605
     },
     {
       "ID": "ach38",
@@ -6194,7 +6199,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach39",
@@ -6202,7 +6207,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3231
+      "UsersEstimate": 3232
     },
     {
       "ID": "ach40",
@@ -6234,7 +6239,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ach44",
@@ -6274,7 +6279,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "ach49",
@@ -6290,14 +6295,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8078,
+      "Progressed": 8079,
       "Completed": 0
     }
   ],
@@ -6305,8 +6310,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:06:07.2677636+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:05:33.4547391+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:59:44.8095472+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:06:07.2678691+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:59:16.3548408+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:05:33.4548048+00:00"
 }

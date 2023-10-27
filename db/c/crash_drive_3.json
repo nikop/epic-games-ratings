@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 398,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-10-26T01:45:09.4667815+00:00",
       "NumProgressed": 397,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-27T08:04:06.3646894+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -576,7 +581,7 @@
       "Name": "Fore!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CATAPULT_THROW",
@@ -584,7 +589,7 @@
       "Name": "Car-Tapult",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "COIN_COLLECT",
@@ -592,7 +597,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -648,7 +653,7 @@
       "Name": "Drift King!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "FIND_40_M2H",
@@ -672,7 +677,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -680,7 +685,7 @@
       "Name": "To and Fro",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -688,7 +693,7 @@
       "Name": "Disoriented",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -736,7 +741,7 @@
       "Name": "Anger Issues",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -760,7 +765,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -768,7 +773,7 @@
       "Name": "Insurance fraud",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -800,7 +805,7 @@
       "Name": "Your Highness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEFT_LEVEL",
@@ -808,7 +813,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -816,7 +821,7 @@
       "Name": "The Wild West",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -832,7 +837,7 @@
       "Name": "Snow Fun!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -840,7 +845,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -872,7 +877,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "STUNT_EVENT",
@@ -880,7 +885,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -904,7 +909,7 @@
       "Name": "Ferry Good!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "USE_ROCKET",
@@ -920,7 +925,7 @@
       "Name": "I see the light!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -936,7 +941,7 @@
       "Name": "Event Amateur",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -952,7 +957,7 @@
       "Name": "Beach Party!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_KING_HILL",
@@ -960,7 +965,7 @@
       "Name": "Assert Dominance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -968,7 +973,7 @@
       "Name": "Speed of light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WIN_ROBBER",
@@ -976,7 +981,7 @@
       "Name": "In the Bag!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -984,7 +989,7 @@
       "Name": "You\u0027re it",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -999,7 +1004,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 398,
       "Completed": 2
     }
   ],
@@ -1007,8 +1012,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:04:20.5411526+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:04:06.3646887+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:17.7735042+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:58:33.3206198+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:04:20.5412105+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:58:20.1906726+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:04:06.3647436+00:00"
 }

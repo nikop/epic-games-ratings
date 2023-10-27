@@ -8,21 +8,21 @@
 | Master trainee | 78.00% | ~25 |
 | Jung's dream | 72.00% | ~23 |
 | The battle of Great Britain | 63.00% | ~20 |
-| Giant | 56.00% | ~18 |
+| Giant | 59.00% | ~19 |
 | Pulp! Where Monsters Dwell | 53.00% | ~17 |
 | A continent with chemistry | 53.00% | ~17 |
-| The happy farmer girl | 50.00% | ~16 |
+| The happy farmer girl | 53.00% | ~17 |
+| Pulp! Out of this World | 50.00% | ~16 |
+| Pulp! Adventures into the Unknown | 50.00% | ~16 |
 | A rival with no options | 47.00% | ~15 |
 | Pulp! Terror Tales in the Night | 47.00% | ~15 |
-| Pulp! Out of this World | 47.00% | ~15 |
-| Pulp! Adventures into the Unknown | 47.00% | ~15 |
 | Kirlian's best disciple | 47.00% | ~15 |
 | Diagnosis: fear | 44.00% | ~14 |
 | Ambition is... blind | 44.00% | ~14 |
+| The seer | 41.00% | ~13 |
 | You have two wishes left | 41.00% | ~13 |
-| The seer | 38.00% | ~12 |
+| The artist | 38.00% | ~12 |
 | Et in arcadia ego | 34.00% | ~11 |
-| The artist | 34.00% | ~11 |
 | Welcome to Hellville | 34.00% | ~11 |
 | You had one wish left | 31.00% | ~10 |
 | You've awakened the beast | 28.00% | ~9 |
@@ -41,7 +41,7 @@
 | Pulp! True Adventures | 16.00% | ~5 |
 | Pulp! Tales from the Crypt | 13.00% | ~4 |
 | ECO mode | 13.00% | ~4 |
-| Vaccine fans | 6.00% | ~2 |
+| Vaccine fans | 9.00% | ~3 |
 | A new Hindenburg | 6.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
 | Pulp! Skeleton Hand | 3.00% | ~1 |

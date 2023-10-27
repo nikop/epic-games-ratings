@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10294,
+  "EOS_Progressed": 10295,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -1754,6 +1754,11 @@
       "Time": "2023-10-26T21:04:15.4424323+00:00",
       "NumProgressed": 10294,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-27T08:03:51.8677856+00:00",
+      "NumProgressed": 10295,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1853,7 +1858,7 @@
       "Name": "espresso",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_COMPLETE_CAREER",
@@ -1877,7 +1882,7 @@
       "Name": "rwd only",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1909,7 +1914,7 @@
       "Name": "parallel universe",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -1925,7 +1930,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7926
+      "UsersEstimate": 7927
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1989,7 +1994,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2005,7 +2010,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6176
+      "UsersEstimate": 6177
     },
     {
       "ID": "ACH_NIGHT",
@@ -2053,7 +2058,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "ACH_SNOW",
@@ -2085,7 +2090,7 @@
       "Name": "food tour: pasta",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "ACH_WEEKLY",
@@ -2108,15 +2113,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10294,
+      "Progressed": 10295,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:04:02.9004312+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:03:51.8677845+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.5718252+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:57:47.7304054+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:04:02.9004906+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:57:43.8499035+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:03:51.8678241+00:00"
 }

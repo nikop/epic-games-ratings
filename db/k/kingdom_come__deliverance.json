@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8145,9 +8145,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806130,
+  "EOS_Progressed": 806131,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29380,6 +29380,11 @@
       "Time": "2023-10-27T07:04:05.8054403+00:00",
       "NumProgressed": 806130,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-27T08:03:54.2727754+00:00",
+      "NumProgressed": 806131,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29423,7 +29428,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169287
+      "UsersEstimate": 169288
     },
     {
       "ID": "BadGirl",
@@ -29439,7 +29444,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40306
+      "UsersEstimate": 40307
     },
     {
       "ID": "Bailiff",
@@ -29503,7 +29508,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201532
+      "UsersEstimate": 201533
     },
     {
       "ID": "Chivalrous",
@@ -29815,7 +29820,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40306
+      "UsersEstimate": 40307
     },
     {
       "ID": "NotSoChristianBurial",
@@ -29919,7 +29924,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40306
+      "UsersEstimate": 40307
     },
     {
       "ID": "Sinner",
@@ -30046,15 +30051,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806130,
+      "Progressed": 806131,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-26T23:02:56.7579405+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:04:05.8054395+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:03:54.2727747+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:02:53.4138595+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:04:05.8057294+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:02:54.8456992+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:03:54.2729927+00:00"
 }

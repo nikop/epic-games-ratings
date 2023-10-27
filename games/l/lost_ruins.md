@@ -26,7 +26,7 @@
 | Treasure Hunter | 7.00% | ~33 |
 | Explorer | 6.00% | ~28 |
 | Trio | 6.00% | ~28 |
-| Pyromancer | 4.00% | ~19 |
+| Pyromancer | 5.00% | ~23 |
 | Spell Master | 4.00% | ~19 |
 | Arrive Home | 3.00% | ~14 |
 | Holy Knight | 3.00% | ~14 |

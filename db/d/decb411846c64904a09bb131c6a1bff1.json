@@ -2,10 +2,10 @@
   "ID": "decb411846c64904a09bb131c6a1bff1",
   "Name": "Angelic: Dark Symphony",
   "ProductSlug": "angelic-b11609",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-20T10:57:01.614047+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:58:05.6421118+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:05:43.3952053+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:57:58.0332513+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:05:13.9702274+00:00"
 }

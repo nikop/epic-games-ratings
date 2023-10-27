@@ -11,31 +11,31 @@
 | Pushover | 28.00% | ~111 |
 | C-C-C-Combo! | 26.00% | ~103 |
 | Multiply that! | 26.00% | ~103 |
-| Snow Fun! | 24.00% | ~95 |
-| Fore! | 23.00% | ~91 |
-| The Collector | 23.00% | ~91 |
-| Insurance fraud | 23.00% | ~91 |
-| The Wild West | 23.00% | ~91 |
-| You're it | 23.00% | ~91 |
-| To and Fro | 22.00% | ~87 |
-| Goodbye cruel world | 22.00% | ~87 |
-| Bag of Tricks | 22.00% | ~87 |
-| I see the light! | 22.00% | ~87 |
-| In the Bag! | 22.00% | ~87 |
-| First Come, First Serve | 21.00% | ~83 |
-| Take that Frosty! | 21.00% | ~83 |
-| Beach Party! | 21.00% | ~83 |
-| Car-Tapult | 20.00% | ~79 |
-| Disoriented | 20.00% | ~79 |
-| Anger Issues | 20.00% | ~79 |
-| Your Highness | 20.00% | ~79 |
-| Event Amateur | 19.00% | ~75 |
-| Drift King! | 17.00% | ~67 |
-| Feeling Hot Hot Hot! | 17.00% | ~67 |
-| Feeling Dizzy? | 17.00% | ~67 |
-| Ferry Good! | 17.00% | ~67 |
-| Assert Dominance | 17.00% | ~67 |
-| Speed of light | 17.00% | ~67 |
+| Snow Fun! | 24.00% | ~96 |
+| Fore! | 23.00% | ~92 |
+| The Collector | 23.00% | ~92 |
+| Insurance fraud | 23.00% | ~92 |
+| The Wild West | 23.00% | ~92 |
+| You're it | 23.00% | ~92 |
+| To and Fro | 22.00% | ~88 |
+| Goodbye cruel world | 22.00% | ~88 |
+| Bag of Tricks | 22.00% | ~88 |
+| I see the light! | 22.00% | ~88 |
+| In the Bag! | 22.00% | ~88 |
+| First Come, First Serve | 21.00% | ~84 |
+| Take that Frosty! | 21.00% | ~84 |
+| Beach Party! | 21.00% | ~84 |
+| Car-Tapult | 20.00% | ~80 |
+| Disoriented | 20.00% | ~80 |
+| Anger Issues | 20.00% | ~80 |
+| Your Highness | 20.00% | ~80 |
+| Event Amateur | 19.00% | ~76 |
+| Drift King! | 17.00% | ~68 |
+| Feeling Hot Hot Hot! | 17.00% | ~68 |
+| Feeling Dizzy? | 17.00% | ~68 |
+| Ferry Good! | 17.00% | ~68 |
+| Assert Dominance | 17.00% | ~68 |
+| Speed of light | 17.00% | ~68 |
 | Out of this League | 14.00% | ~56 |
 | Special Forces | 13.00% | ~52 |
 | Toot Toot! | 12.00% | ~48 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397 (Ranked 307)  
+Progressed: 398 (Ranked 307)  
 Completed: 2 (0.50%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 2 (0.50%) (Ranked 187)
 | 2023-10-17 | 395 | 2 |
 | 2023-10-25 | 396 | 2 |
 | 2023-10-26 | 397 | 2 |
+| 2023-10-27 | 398 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

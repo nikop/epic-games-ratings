@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -138,9 +138,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1353,6 +1353,11 @@
       "Time": "2023-10-26T11:08:34.966112+00:00",
       "NumProgressed": 424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T08:06:14.6876985+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1396,7 +1401,7 @@
       "Name": "Scrap Master",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -1476,7 +1481,7 @@
       "Name": "Lumberjack",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1500,7 +1505,7 @@
       "Name": "My New Home",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_KILL_100",
@@ -1516,7 +1521,7 @@
       "Name": "Scrapper",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_KILL_50",
@@ -1524,7 +1529,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1580,7 +1585,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1611,7 +1616,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 1
     }
   ],
@@ -1619,8 +1624,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:06:58.2599447+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:06:14.6876978+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:35.5303141+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:03:02.093906+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:06:58.2599822+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:03:01.3830376+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:06:14.6877282+00:00"
 }

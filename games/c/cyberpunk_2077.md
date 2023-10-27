@@ -26,6 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
 | Legend of The Afterlife | 0.40% | ~3,576 |
+| Spin Doctor | 0.40% | ~90 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | Bushido and Chill | 0.30% | ~2,682 |
 | To Protect and Serve | 0.30% | ~2,682 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
 | Judy vs Night City | 0.30% | ~2,682 |
-| Spin Doctor | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,976 (Ranked 15)  
+Progressed: 893,982 (Ranked 15)  
 Completed: 2,716 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,16 +262,16 @@ Completed: 2,716 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 893,976 | 2,716 |
+| 2023-10-27 | 893,982 | 2,716 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
-Sum: 328,565 (Ranked 10)  
+Sum: 328,756 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 101,755 |
 | This game has Great Boss Battles | 72,793 |
-| This game is Great for Beginners | 18,837 |
+| This game is Great for Beginners | 19,028 |
 | This game has Diverse Characters | 18,681 |
 | This game is Highly Recommended | 18,000 |
 | This game has Amazing Storytelling | 17,878 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
-| 2023-10-27 | 4.64 | - | 101,755 | 328,565 |
+| 2023-10-27 | 4.64 | - | 101,755 | 328,756 |

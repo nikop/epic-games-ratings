@@ -2,10 +2,10 @@
   "ID": "119fbcb9288043e09b253b11a6091c7e",
   "Name": "Pipe Mania",
   "ProductSlug": "pipe-mania-f5fec0",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-07-08T04:00:00+00:00",
     "PcReleaseDate": "2008-09-30T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-05-01T16:00:30.2294051+00:00",
   "LastChanged": "2023-05-01T16:00:30.2294052+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:38.4523898+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:00:08.9504502+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:06:03.1030187+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:59:34.6786133+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:05:29.8989484+00:00"
 }

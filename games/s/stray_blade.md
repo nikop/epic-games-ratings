@@ -13,7 +13,7 @@
 | Don't Cry Wolf | 24.00% | ~25 |
 | Expert | 18.00% | ~19 |
 | Freezing Cold | 17.00% | ~18 |
-| Searing Heat | 15.00% | ~15 |
+| Searing Heat | 16.00% | ~16 |
 | Nothing but the Truth | 15.00% | ~15 |
 | The Power of the Mountains | 13.00% | ~13 |
 | Locked and Loaded | 12.00% | ~12 |

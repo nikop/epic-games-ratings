@@ -2,10 +2,10 @@
   "ID": "3d5cb99e9ea64b6b9534c95b8489f7f4",
   "Name": "Diluvian Ultra",
   "ProductSlug": "diluvian-ultra-a5ad8c",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-10-03T13:57:46.8593185+00:00",
   "FirstSeenAchievements": "2023-09-19T09:03:23.4268202+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:08:46.1318416+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:08:47.7658017+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:01.7594739+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:59:20.3861712+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:08:46.1318454+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:58:58.835405+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:08:47.7658064+00:00"
 }

@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
+| Hunters | 0.70% | ~105 |
 | Landowners | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Pantheon | 0.70% | ~105 |
@@ -115,9 +116,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
-| Hunters | 0.60% | ~90 |
 | Church of the Holy Sepulchre | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
+| Egypt | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
@@ -133,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
 | Adur Burzen-Mihr | 0.50% | ~75 |
-| Egypt | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,973 (Ranked 141)  
+Progressed: 14,974 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,973 | 5 |
+| 2023-10-27 | 14,974 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

@@ -2,10 +2,10 @@
   "ID": "aa96db8963454cc9ba42e98996183753",
   "Name": "The Dawning Clocks of Time",
   "ProductSlug": "the-dawning-clocks-of-time-a52f59",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-16T23:00:00+00:00",
     "PcReleaseDate": "2021-09-08T19:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:44.0062952+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:09:18.1682033+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:09:14.3161823+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:01.9260831+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:03:07.909199+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:09:18.1682074+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:03:07.0309638+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:09:14.3161863+00:00"
 }

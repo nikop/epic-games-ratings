@@ -2,10 +2,10 @@
   "ID": "e5d8e8ea78284ab890c3d1436a30659a",
   "Name": "End The World",
   "ProductSlug": "end-the-world-2f002b",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-13T05:00:00+00:00",
     "PcReleaseDate": "2023-10-13T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-20T13:02:29.8614152+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:58:08.9975583+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:08:39.986741+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:58:00.6395295+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:08:42.909817+00:00"
 }

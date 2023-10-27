@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 708,
+  "Ranking_Rating": 709,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -88,9 +88,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10543,
+  "EOS_Progressed": 10564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10508,
+  "EOS_NewPlayers": 10529,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -923,6 +923,11 @@
       "Time": "2023-10-27T07:09:07.1834824+00:00",
       "NumProgressed": 10543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T08:09:05.379521+00:00",
+      "NumProgressed": 10564,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1125,7 +1130,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 10543,
+      "Progressed": 10564,
       "Completed": 0
     }
   ],
@@ -1133,8 +1138,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-10-26T12:00:40.5419963+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:09:07.1834818+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:09:05.3795205+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.7108417+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:59:48.7271278+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:09:07.1835071+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:59:20.0034653+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:09:05.3795442+00:00"
 }

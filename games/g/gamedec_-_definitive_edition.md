@@ -6,16 +6,16 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,078 |
-| Powergamer | 27.00% | ~67,576 |
-| Write that down | 25.00% | ~62,570 |
-| Barely scratched the surface | 25.00% | ~62,570 |
-| Guns, lots of guns | 13.00% | ~32,536 |
+| I will finish what you started | 28.00% | ~70,080 |
+| Powergamer | 27.00% | ~67,577 |
+| Write that down | 25.00% | ~62,572 |
+| Barely scratched the surface | 25.00% | ~62,572 |
+| Guns, lots of guns | 13.00% | ~32,537 |
 | Collector | 12.00% | ~30,034 |
-| Elementary! | 9.00% | ~22,525 |
-| Griever | 8.00% | ~20,022 |
-| Pumpkin Jack | 8.00% | ~20,022 |
-| Wake up! | 8.00% | ~20,022 |
+| Elementary! | 9.00% | ~22,526 |
+| Griever | 8.00% | ~20,023 |
+| Pumpkin Jack | 8.00% | ~20,023 |
+| Wake up! | 8.00% | ~20,023 |
 | It's honest work | 7.00% | ~17,520 |
 | Me smart | 6.00% | ~15,017 |
 | Trash compactor | 6.00% | ~15,017 |
@@ -24,9 +24,9 @@ Number of Ratings: 33  (23.09.2022)
 | BOY! | 4.00% | ~10,011 |
 | Ka-ching! | 4.00% | ~10,011 |
 | So you like to read? | 4.00% | ~10,011 |
-| Hoarder | 3.00% | ~7,508 |
-| I like to sniff around | 3.00% | ~7,508 |
-| Mind reader | 3.00% | ~7,508 |
+| Hoarder | 3.00% | ~7,509 |
+| I like to sniff around | 3.00% | ~7,509 |
+| Mind reader | 3.00% | ~7,509 |
 | Catnip | 2.00% | ~5,006 |
 | Gentleman's classic | 2.00% | ~5,006 |
 | Is that a rift? | 2.00% | ~5,006 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~501 |
 | Memory 5 | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,280 (Ranked 55)  
+Progressed: 250,286 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 7 (0.00%) (Ranked 328)
 | 2023-10-24 | 250,107 | 7 |
 | 2023-10-25 | 250,183 | 7 |
 | 2023-10-26 | 250,263 | 7 |
-| 2023-10-27 | 250,280 | 7 |
+| 2023-10-27 | 250,286 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 372)  
 Sum: 86 (Ranked 445)  

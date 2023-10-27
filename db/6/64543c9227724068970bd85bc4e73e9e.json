@@ -2,10 +2,10 @@
   "ID": "64543c9227724068970bd85bc4e73e9e",
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
-  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.6193877+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:01:15.8390823+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:03:36.1303647+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:00:25.6938806+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:03:30.1612987+00:00"
 }

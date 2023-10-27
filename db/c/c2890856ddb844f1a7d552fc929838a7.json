@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2302,9 +2302,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 419
+      "UsersEstimate": 428
     },
     {
       "ID": "AC12",
@@ -2318,9 +2318,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 363
+      "UsersEstimate": 372
     },
     {
       "ID": "AC14",
@@ -2591,8 +2591,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:09:03.2396333+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:09:01.8604535+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.0879289+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:00:37.3302634+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:09:03.2397055+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:59:55.177376+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:09:01.8605052+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 305,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 211,
-  "Ranking_EOS_Progress": 141,
+  "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1938,7 +1938,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14973,
+  "EOS_Progressed": 14974,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -14788,6 +14788,11 @@
       "Time": "2023-10-27T07:05:40.2005739+00:00",
       "NumProgressed": 14973,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T08:05:11.6862119+00:00",
+      "NumProgressed": 14974,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15653,9 +15658,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -16421,9 +16426,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -17534,21 +17539,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14973,
+      "Progressed": 14974,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14973,
+      "Progressed": 14974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-27T07:05:40.2005735+00:00",
+  "LastChanged_Achievements": "2023-10-27T08:05:11.6862114+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-27T06:57:20.1878625+00:00",
-  "LastUpdate_Achievements": "2023-10-27T07:05:40.2019722+00:00"
+  "LastUpdate_Ratings": "2023-10-27T07:57:21.9563012+00:00",
+  "LastUpdate_Achievements": "2023-10-27T08:05:11.6872957+00:00"
 }
