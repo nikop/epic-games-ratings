@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.78% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.76% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -113,7 +113,7 @@
 | 111 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.41% |
 | 112 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 114 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.36% |
+| 114 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.35% |
 | 115 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.22% |
 | 116 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.22% |
@@ -189,11 +189,11 @@
 | 187 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
 | 189 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.49% |
-| 190 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
-| 190 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
-| 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.46% |
-| 192 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
-| 192 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
+| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.48% |
+| 191 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
+| 191 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
+| 193 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
+| 193 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 195 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 195 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
