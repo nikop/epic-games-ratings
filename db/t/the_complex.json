@@ -3,9 +3,9 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
@@ -775,6 +775,11 @@
       "Time": "2023-10-26T18:08:12.2891992+00:00",
       "NumProgressed": 591,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-27T16:03:33.2027265+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -786,7 +791,7 @@
       "Name": "Beat It",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "blast_from_the_past",
@@ -794,7 +799,7 @@
       "Name": "Blast From The Past",
       "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "deadly_secret",
@@ -858,7 +863,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ending_8",
@@ -872,9 +877,9 @@
       "ID": "falling_for_you",
       "SetID": "d4f4pll",
       "Name": "Falling For You",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 260
     },
     {
       "ID": "free_champagne",
@@ -890,7 +895,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "kindar_surprise",
@@ -945,7 +950,7 @@
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 19
     }
   ],
@@ -953,8 +958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:03:54.8801211+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:33.2027258+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:21.4066435+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:03:41.8045908+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:03:54.8801466+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:03:15.3049436+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:33.2027472+00:00"
 }

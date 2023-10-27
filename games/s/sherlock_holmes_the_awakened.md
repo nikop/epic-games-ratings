@@ -19,7 +19,7 @@ Rating: 4.64 (Ranked 326)
 | Sticky Fingers | 47.00% | ~351 |
 | Knives Out | 47.00% | ~351 |
 | Land, Ho! | 47.00% | ~351 |
-| Back In The Saddle | 45.00% | ~336 |
+| Back In The Saddle | 46.00% | ~343 |
 | No Man Is An Island | 45.00% | ~336 |
 | At Wits' End | 45.00% | ~336 |
 | Fhtagn! | 43.00% | ~321 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 326)
 | Reawakened | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 746 (Ranked 264)  
-Completed: 26 (3.49%) (Ranked 85)  
+Completed: 26 (3.49%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

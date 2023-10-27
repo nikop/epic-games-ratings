@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.40% | ~2,864 |
 | The Hateful Pole Fighter | 0.40% | ~2,864 |
 | A Lady's Blood in the Snow | 0.40% | ~2,864 |
+| Street Fighting | 0.40% | ~2,864 |
 | Life is your teacher | 0.40% | ~2,864 |
 | State of constant learning | 0.40% | ~2,864 |
 | Qi Gong: Breath | 0.40% | ~2,864 |
@@ -26,7 +27,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.30% | ~2,148 |
 | Kill Nil | 0.30% | ~2,148 |
 | Stuntmaster | 0.30% | ~2,148 |
-| Street Fighting | 0.30% | ~2,148 |
 | Qi Gong: Mind | 0.30% | ~2,148 |
 | Old Child | 0.30% | ~2,148 |
 | Kung-Fu Tussle | 0.30% | ~2,148 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,979 (Ranked 20)  
-Completed: 12,925 (1.81%) (Ranked 122)  
+Progressed: 715,980 (Ranked 20)  
+Completed: 12,925 (1.81%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,21 +257,21 @@ Completed: 12,925 (1.81%) (Ranked 122)
 | 2023-10-24 | 715,911 | 12,925 |
 | 2023-10-25 | 715,943 | 12,925 |
 | 2023-10-26 | 715,965 | 12,925 |
-| 2023-10-27 | 715,979 | 12,925 |
+| 2023-10-27 | 715,980 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,734  (Ranked 54)  
-Sum: 11,714 (Ranked 82)  
+Sum: 11,721 (Ranked 82)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,734 |
 | This game has Diverse Characters | 640 |
 | This game has Challenging Combat | 590 |
-| This game has Amazing Storytelling | 572 |
-| This game has Quickly Understood Controls | 561 |
+| This game has Amazing Storytelling | 574 |
+| This game has Quickly Understood Controls | 564 |
+| This game has Amazing Characters | 561 |
 | This game is Extremely Fun | 560 |
-| This game has Amazing Characters | 560 |
-| This game is Highly Recommended | 556 |
+| This game is Highly Recommended | 557 |
 | This game has Unique Visuals | 534 |
 | This game has a Creative Community | 407 |
 | This game is Relaxing | 401 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -28
 | 2023-10-24 | 4.82 | - | 6,731 | 11,701 |
 | 2023-10-25 | 4.82 | - | 6,733 | 11,708 |
 | 2023-10-26 | 4.82 | - | 6,733 | 11,712 |
-| 2023-10-27 | 4.82 | - | 6,734 | 11,714 |
+| 2023-10-27 | 4.82 | - | 6,734 | 11,721 |

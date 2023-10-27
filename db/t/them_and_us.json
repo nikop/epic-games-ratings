@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -1186,6 +1186,11 @@
       "Time": "2023-10-27T13:10:22.2220347+00:00",
       "NumProgressed": 274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T16:06:51.5517583+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1291,9 +1296,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1317,7 +1322,7 @@
       "Name": "Run and Gun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -1403,9 +1408,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "ETUA_StayDead",
@@ -1493,7 +1498,7 @@
       "Name": "Trapped",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1516,7 +1521,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 1
     }
   ],
@@ -1524,8 +1529,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:06:37.5146145+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:06:51.5517579+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:01:45.1544819+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:06:37.5146503+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:16.6450827+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:06:51.5517945+00:00"
 }

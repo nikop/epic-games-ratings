@@ -23,6 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
 | Life of the Road | 0.40% | ~3,576 |
+| The Lovers | 0.40% | ~3,576 |
 | The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
@@ -38,7 +39,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Fool | 0.30% | ~2,682 |
-| The Lovers | 0.30% | ~2,682 |
 | The World | 0.30% | ~2,682 |
 | Relic Ruler | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
@@ -47,6 +47,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.20% | ~1,788 |
 | Judgement Day | 0.20% | ~45 |
 | King of Pentacles | 0.20% | ~45 |
+| King of Swords | 0.20% | ~45 |
 | The Tower | 0.20% | ~45 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
@@ -60,7 +61,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
-| King of Swords | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,029 (Ranked 15)  
+Progressed: 894,033 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,14 +262,14 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,029 | 2,717 |
+| 2023-10-27 | 894,033 | 2,717 |
 ## Awards
-Max (Character Customization): 101,755  (Ranked 9)  
-Sum: 329,102 (Ranked 10)  
+Max (Character Customization): 102,038  (Ranked 9)  
+Sum: 329,385 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 101,755 |
+| This game has Inclusive Character Customization | 102,038 |
 | This game has Great Boss Battles | 72,793 |
 | This game is Great for Beginners | 19,028 |
 | This game has Diverse Characters | 18,872 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
-| 2023-10-27 | 4.64 | - | 101,755 | 329,102 |
+| 2023-10-27 | 4.64 | - | 102,038 | 329,385 |

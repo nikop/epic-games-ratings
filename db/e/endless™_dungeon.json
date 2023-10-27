@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 825,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 778,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2023-10-27T15:03:47.9045596+00:00",
       "NumProgressed": 823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:03:24.7832615+00:00",
+      "NumProgressed": 825,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -853,7 +858,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -877,7 +882,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -909,7 +914,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -941,7 +946,7 @@
       "Name": "Hoarder",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -973,7 +978,7 @@
       "Name": "Long Live Rock",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1036,14 +1041,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 825,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:03:47.9045589+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:24.7832608+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:01:16.6459105+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:03:47.9045963+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:01:42.0589235+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:24.7832898+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 782,
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 221,
-  "Ranking_EOS_Progress": 156,
+  "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1027,9 +1027,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 9737,
+  "EOS_Progressed": 9748,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 991,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7912,6 +7912,11 @@
       "Time": "2023-10-27T15:06:31.8888703+00:00",
       "NumProgressed": 9737,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-27T16:06:44.7280821+00:00",
+      "NumProgressed": 9748,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -7924,7 +7929,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "a_10",
@@ -7972,7 +7977,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3802
     },
     {
       "ID": "a_19",
@@ -7996,7 +8001,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "a_21",
@@ -8004,7 +8009,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "a_22",
@@ -8012,7 +8017,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "a_23",
@@ -8171,7 +8176,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 9737,
+      "Progressed": 9748,
       "Completed": 9
     }
   ],
@@ -8179,8 +8184,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-20T16:59:38.2228858+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:06:31.8888697+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:06:44.7280812+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:04.5096147+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:03:17.4423459+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:06:31.8889358+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:43.2161268+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:06:44.7281546+00:00"
 }

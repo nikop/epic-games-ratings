@@ -8,12 +8,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 4.00% | ~599 |
 | Play a Single Player Game | 4.00% | ~599 |
+| Architect | 3.00% | ~449 |
 | Explorer | 3.00% | ~449 |
 | Intrepid | 3.00% | ~449 |
 | Friendly Family | 3.00% | ~449 |
 | Able | 2.00% | ~300 |
 | Ambitious | 2.00% | ~300 |
-| Architect | 2.00% | ~300 |
 | Brilliant | 2.00% | ~300 |
 | Enlightened | 2.00% | ~300 |
 | Fountainhead | 2.00% | ~300 |

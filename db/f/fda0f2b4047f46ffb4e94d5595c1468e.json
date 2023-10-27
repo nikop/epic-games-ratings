@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 627,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 154,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1711,10 +1711,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3907,
       "NumberOfAwardsMax": 1342
+    },
+    {
+      "Time": "2023-10-27T16:00:31.4642937+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3912,
+      "NumberOfAwardsMax": 1342
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3907,
+  "NumberOfAwards": 3912,
   "NumberOfAwardsMax": 1342,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1770,7 +1776,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 244
+      "Count": 249
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1791,9 +1797,9 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 8082,
+  "EOS_Progressed": 8083,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5901,6 +5907,11 @@
       "Time": "2023-10-27T14:07:03.4353865+00:00",
       "NumProgressed": 8082,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:06:59.377829+00:00",
+      "NumProgressed": 8083,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -5937,7 +5948,7 @@
       "Name": "What Just Happened??",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ach05",
@@ -5961,7 +5972,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4445
+      "UsersEstimate": 4446
     },
     {
       "ID": "ach08",
@@ -5969,7 +5980,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "ach09",
@@ -6025,7 +6036,7 @@
       "Name": "Give A Koin",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ach16",
@@ -6049,7 +6060,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ach19",
@@ -6121,7 +6132,7 @@
       "Name": "So Krafty",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ach28",
@@ -6145,7 +6156,7 @@
       "Name": "Juggernaut",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ach31",
@@ -6153,7 +6164,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "ach32",
@@ -6161,7 +6172,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ach33",
@@ -6177,7 +6188,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2586
+      "UsersEstimate": 2587
     },
     {
       "ID": "ach35",
@@ -6209,7 +6220,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "ach39",
@@ -6225,7 +6236,7 @@
       "Name": "Found You",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "ach41",
@@ -6233,7 +6244,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ach42",
@@ -6241,7 +6252,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "ach43",
@@ -6249,7 +6260,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3556
+      "UsersEstimate": 3557
     },
     {
       "ID": "ach44",
@@ -6263,9 +6274,9 @@
       "ID": "ach45",
       "SetID": "47in8n6",
       "Name": "There Is No Knowledge That Is Not Power",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 808
     },
     {
       "ID": "ach46",
@@ -6281,7 +6292,7 @@
       "Name": "Big Spender",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ach48",
@@ -6312,16 +6323,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8082,
+      "Progressed": 8083,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:06:43.84377+00:00",
+  "LastChanged": "2023-10-27T16:00:31.4642935+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:06:59.3778282+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:00:17.4581222+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:06:43.8438407+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:00:31.464294+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:06:59.3779018+00:00"
 }

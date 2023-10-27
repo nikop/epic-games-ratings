@@ -25,16 +25,16 @@
 | Tear of Freedom | 42.00% | ~15 |
 | Boom Things | 42.00% | ~15 |
 | Snowball Fightn't | 42.00% | ~15 |
+| My Darkest Day | 39.00% | ~14 |
 | Snowy Poro | 39.00% | ~14 |
-| My Darkest Day | 36.00% | ~13 |
-| 3000 Year Blackout | 33.00% | ~12 |
+| 3000 Year Blackout | 36.00% | ~13 |
+| The Relentless Storm | 36.00% | ~13 |
+| The Finisher | 36.00% | ~13 |
+| A Tragic Reminder | 33.00% | ~12 |
+| Bullseye | 33.00% | ~12 |
 | Yummy | 33.00% | ~12 |
-| The Relentless Storm | 33.00% | ~12 |
-| The Finisher | 33.00% | ~12 |
-| A Tragic Reminder | 31.00% | ~11 |
 | Family | 31.00% | ~11 |
 | Biggest Snowball Ever | 31.00% | ~11 |
-| Bullseye | 31.00% | ~11 |
 | Boosted! | 31.00% | ~11 |
 | Deadliest and Biggest Snowball Ever! | 31.00% | ~11 |
 | So Close | 28.00% | ~10 |

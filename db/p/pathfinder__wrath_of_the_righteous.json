@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3939,10 +3939,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7004,
       "NumberOfAwardsMax": 1729
+    },
+    {
+      "Time": "2023-10-27T16:02:43.813342+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7006,
+      "NumberOfAwardsMax": 1729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7004,
+  "NumberOfAwards": 7006,
   "NumberOfAwardsMax": 1729,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3974,7 +3980,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 631
+      "Count": 633
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4013,7 +4019,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11829,
+  "EOS_Progressed": 11830,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -14498,6 +14504,11 @@
       "Time": "2023-10-27T15:04:40.714244+00:00",
       "NumProgressed": 11829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:04:29.9530338+00:00",
+      "NumProgressed": 11830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14509,7 +14520,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "02_BurningCity",
@@ -14581,7 +14592,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "11_PathOfAeon",
@@ -14637,7 +14648,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "18_MythicChoices",
@@ -14693,7 +14704,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "25_MasterfulDispell",
@@ -14709,7 +14720,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "28_GreatUpstart",
@@ -14717,7 +14728,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "29_StrategicVictory",
@@ -14853,7 +14864,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "46_AllPathsOpen",
@@ -14861,7 +14872,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -14933,7 +14944,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "56_GetToad",
@@ -15436,21 +15447,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10611,
+      "Progressed": 10612,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11829,
+      "Progressed": 11830,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-27T13:06:11.886434+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:04:40.7142429+00:00",
+  "LastChanged": "2023-10-27T16:02:43.8133419+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:04:29.953033+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:03:17.8912524+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:04:40.714481+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:43.8133424+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:04:29.9532731+00:00"
 }

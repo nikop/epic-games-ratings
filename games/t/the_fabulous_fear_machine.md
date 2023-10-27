@@ -27,15 +27,15 @@
 | You had one wish left | 34.00% | ~11 |
 | You've awakened the beast | 31.00% | ~10 |
 | Hate is... addictive | 31.00% | ~10 |
-| Blessed antennas | 28.00% | ~9 |
+| Blessed antennas | 31.00% | ~10 |
 | The bully | 22.00% | ~7 |
+| Pulp! The Beyond | 22.00% | ~7 |
 | The barbarian invasions | 22.00% | ~7 |
 | The beast in the Oval Office | 19.00% | ~6 |
 | Blood Red Island | 19.00% | ~6 |
 | Bread and bocaua | 19.00% | ~6 |
 | Fanatacism is... poisonous | 19.00% | ~6 |
 | The adventurer | 19.00% | ~6 |
-| Pulp! The Beyond | 19.00% | ~6 |
 | America had no Faith | 19.00% | ~6 |
 | The scholar | 16.00% | ~5 |
 | Pulp! True Adventures | 16.00% | ~5 |

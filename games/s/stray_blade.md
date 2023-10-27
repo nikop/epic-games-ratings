@@ -34,11 +34,11 @@
 | But what of the Acreans? | 5.00% | ~5 |
 | Unveiling the Truth | 5.00% | ~5 |
 | Wayseeker | 4.00% | ~4 |
+| The End | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
-| The End | 3.00% | ~3 |
 | Style over Stats | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |

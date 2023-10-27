@@ -6,24 +6,24 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,957 |
+| Devoured by Darkness | 25.00% | ~2,958 |
 | A Spark | 18.00% | ~2,129 |
 | Burning City | 17.00% | ~2,011 |
 | Defender's Heart | 15.00% | ~1,774 |
 | Mythic Choices | 14.00% | ~1,656 |
 | Banner over the Citadel | 13.00% | ~1,538 |
-| Queen's Gratitude | 12.00% | ~1,419 |
+| Queen's Gratitude | 12.00% | ~1,420 |
 | Fifth Crusade | 8.00% | ~946 |
 | Embrace of the Abyss | 6.00% | ~710 |
 | Path of the Angel | 6.00% | ~710 |
 | Demonic and Divine | 6.00% | ~710 |
-| Path of the Azata | 5.00% | ~591 |
-| Transformation | 5.00% | ~591 |
-| The Legacy | 5.00% | ~591 |
-| Great Upstart | 5.00% | ~591 |
-| Voice from Your Dreams | 5.00% | ~591 |
-| All Paths Open | 5.00% | ~591 |
-| Next-Door Play | 5.00% | ~591 |
+| Path of the Azata | 5.00% | ~592 |
+| Transformation | 5.00% | ~592 |
+| The Legacy | 5.00% | ~592 |
+| Great Upstart | 5.00% | ~592 |
+| Voice from Your Dreams | 5.00% | ~592 |
+| All Paths Open | 5.00% | ~592 |
+| Next-Door Play | 5.00% | ~592 |
 | Heart of the Fallen Land | 4.00% | ~473 |
 | Divide and Rule | 4.00% | ~473 |
 | Mythic Reinforcements | 4.00% | ~473 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,829 (Ranked 149)  
+Progressed: 11,830 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 11,771 | 0 |
 | 2023-10-25 | 11,793 | 0 |
 | 2023-10-26 | 11,816 | 0 |
-| 2023-10-27 | 11,829 | 0 |
+| 2023-10-27 | 11,830 | 0 |
 ## Awards
 Max (Character Customization): 1,729  (Ranked 120)  
-Sum: 7,004 (Ranked 118)  
+Sum: 7,006 (Ranked 118)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 653 |
 | This game is Highly Recommended | 640 |
 | This game has Amazing Characters | 638 |
-| This game has Diverse Characters | 631 |
+| This game has Diverse Characters | 633 |
 | This game has Amazing Storytelling | 615 |
 | This game has Challenging Combat | 582 |
 | This game has Quickly Understood Controls | 575 |
@@ -579,4 +579,4 @@ Diff (max vs sum): 2
 | 2023-10-23 | 4.76 | - | 1,728 | 7,000 |
 | 2023-10-25 | 4.76 | - | 1,728 | 7,001 |
 | 2023-10-26 | 4.76 | - | 1,728 | 7,002 |
-| 2023-10-27 | 4.76 | - | 1,729 | 7,004 |
+| 2023-10-27 | 4.76 | - | 1,729 | 7,006 |

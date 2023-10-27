@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 889,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2139,6 +2139,11 @@
       "Time": "2023-10-26T19:08:17.7791544+00:00",
       "NumProgressed": 888,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T16:09:10.0797788+00:00",
+      "NumProgressed": 889,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2151,7 +2156,7 @@
       "Name": "A Better Tomorrow",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "BostonHayDay",
@@ -2175,7 +2180,7 @@
       "Name": "Cartographer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "Causality",
@@ -2213,9 +2218,9 @@
       "ID": "DustDancing",
       "SetID": "3ai6ml8",
       "Name": "Dust Dancing",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 36
     },
     {
       "ID": "EverythingIsDust",
@@ -2231,7 +2236,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2239,7 +2244,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2269,9 +2274,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 427
     },
     {
       "ID": "TerraTourGuide",
@@ -2303,21 +2308,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 889,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:09:11.4162189+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:09:10.0797782+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.725396+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:59:10.4278329+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:09:11.4162467+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:59:12.1775582+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:09:10.0798182+00:00"
 }

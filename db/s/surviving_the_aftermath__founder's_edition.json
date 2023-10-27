@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1264,10 +1264,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 715,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-27T15:59:51.9396377+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 716,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 715,
+  "NumberOfAwards": 716,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1317,7 +1323,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1332,9 +1338,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9892,
+  "EOS_Progressed": 9893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15702,6 +15708,11 @@
       "Time": "2023-10-27T15:07:21.3759122+00:00",
       "NumProgressed": 9892,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:07:45.6093725+00:00",
+      "NumProgressed": 9893,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15711,9 +15722,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 6034
+      "UsersEstimate": 5936
     },
     {
       "ID": "10",
@@ -15753,7 +15764,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "15",
@@ -15801,7 +15812,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "20",
@@ -15825,7 +15836,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7221
+      "UsersEstimate": 7222
     },
     {
       "ID": "23",
@@ -15833,7 +15844,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "24",
@@ -15865,7 +15876,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "28",
@@ -15937,7 +15948,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "36",
@@ -15961,7 +15972,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "39",
@@ -15969,7 +15980,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "4",
@@ -15993,7 +16004,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "42",
@@ -16041,7 +16052,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3265
     },
     {
       "ID": "48",
@@ -16161,7 +16172,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "8",
@@ -16184,15 +16195,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9892,
+      "Progressed": 9893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-10-26T19:59:09.1797447+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:07:21.3759115+00:00",
+  "LastChanged": "2023-10-27T15:59:51.9396375+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:07:45.6093718+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.2290395+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:59:41.7882223+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:07:21.3760553+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:59:51.9396381+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:07:45.6094959+00:00"
 }

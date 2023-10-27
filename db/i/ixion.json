@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3261,
+  "EOS_Progressed": 3263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5463,6 +5463,11 @@
       "Time": "2023-10-27T00:03:13.6871032+00:00",
       "NumProgressed": 3261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:03:57.699385+00:00",
+      "NumProgressed": 3263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5546,7 +5551,7 @@
       "Name": "...  in a finite world",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_BASE_2",
@@ -5562,7 +5567,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_BASE_22",
@@ -5570,7 +5575,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_BASE_23",
@@ -5578,7 +5583,7 @@
       "Name": "Space Society",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_BASE_24",
@@ -5586,7 +5591,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ACH_BASE_25",
@@ -5618,7 +5623,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_BASE_29",
@@ -5626,7 +5631,7 @@
       "Name": "A Thousand Strong",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_BASE_3",
@@ -5674,7 +5679,7 @@
       "Name": "Ready for a New World",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_BASE_35",
@@ -5858,7 +5863,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_BASE_60",
@@ -5929,13 +5934,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1444,
+      "Progressed": 1446,
       "Completed": 8
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3261,
+      "Progressed": 3263,
       "Completed": 0
     }
   ],
@@ -5943,8 +5948,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:04:14.9223441+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:57.6993842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.455219+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:01:54.1365447+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:04:14.9224375+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:27.3846674+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:57.6994763+00:00"
 }

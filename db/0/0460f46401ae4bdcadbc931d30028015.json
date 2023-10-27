@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -463,9 +463,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2840,
+  "EOS_Progressed": 2841,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3448,6 +3448,11 @@
       "Time": "2023-10-27T15:05:06.2668804+00:00",
       "NumProgressed": 2840,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:05:00.6879623+00:00",
+      "NumProgressed": 2841,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3492,7 +3497,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "achievement_14",
@@ -3627,7 +3632,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2840,
+      "Progressed": 2841,
       "Completed": 0
     }
   ],
@@ -3635,8 +3640,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-26T22:59:05.7023101+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:05:06.2668799+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:05:00.6879618+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:00:12.8746212+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:05:06.2669153+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:00:26.1045355+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:05:00.6880393+00:00"
 }

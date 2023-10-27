@@ -6,20 +6,20 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~899 |
+| Kickstarter Backer | 82.00% | ~900 |
 | Completed Act I | 30.00% | ~329 |
 | 5 Upgrades in Stronghold | 26.00% | ~285 |
 | First 5 Levels of Od Nua | 24.00% | ~263 |
 | Make an Adventurer | 23.00% | ~252 |
-| Completed Act II | 16.00% | ~175 |
-| Enchanter | 15.00% | ~164 |
-| Disposition | 15.00% | ~164 |
-| The Watcher With Eight Friends | 15.00% | ~164 |
-| Middle 5 Levels of Od Nua | 15.00% | ~164 |
-| Super Murderer | 14.00% | ~153 |
-| All Upgrades in Stronghold | 14.00% | ~153 |
-| The Heir of Caed Nua | 13.00% | ~142 |
-| Soulbinder | 13.00% | ~142 |
+| Completed Act II | 16.00% | ~176 |
+| Enchanter | 15.00% | ~165 |
+| Disposition | 15.00% | ~165 |
+| Middle 5 Levels of Od Nua | 15.00% | ~165 |
+| Super Murderer | 14.00% | ~154 |
+| All Upgrades in Stronghold | 14.00% | ~154 |
+| The Watcher With Eight Friends | 14.00% | ~154 |
+| The Heir of Caed Nua | 13.00% | ~143 |
+| Soulbinder | 13.00% | ~143 |
 | Last 5 Levels of Od Nua | 12.00% | ~132 |
 | Bounty Hunter | 11.00% | ~121 |
 | The Giftbearer | 11.00% | ~121 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,096 (Ranked 241)  
+Progressed: 1,097 (Ranked 241)  
 Completed: 2 (0.18%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |

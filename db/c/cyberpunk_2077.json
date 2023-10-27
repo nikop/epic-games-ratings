@@ -14178,18 +14178,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 329102,
       "NumberOfAwardsMax": 101755
+    },
+    {
+      "Time": "2023-10-27T16:02:31.4862993+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 329385,
+      "NumberOfAwardsMax": 102038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329102,
-  "NumberOfAwardsMax": 101755,
+  "NumberOfAwards": 329385,
+  "NumberOfAwardsMax": 102038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 101755
+      "Count": 102038
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14258,9 +14264,9 @@
       "Count": 11655
     }
   ],
-  "EOS_Progressed": 894029,
+  "EOS_Progressed": 894033,
   "EOS_Completed": 2717,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35808,6 +35814,11 @@
       "Time": "2023-10-27T15:03:57.296208+00:00",
       "NumProgressed": 894029,
       "NumCompleted": 2717
+    },
+    {
+      "Time": "2023-10-27T16:03:36.0670082+00:00",
+      "NumProgressed": 894033,
+      "NumCompleted": 2717
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36058,9 +36069,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 3576
     },
     {
       "ID": "TheStar",
@@ -36314,9 +36325,9 @@
       "ID": "KingOfTheSwords",
       "SetID": "23nboa5",
       "Name": "King of Swords",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 45
     },
     {
       "ID": "KingOfTheWands",
@@ -36339,21 +36350,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894029,
+      "Progressed": 894033,
       "Completed": 2717
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22652,
+      "Progressed": 22656,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-27T15:03:08.3528607+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:03:57.2962072+00:00",
+  "LastChanged": "2023-10-27T16:02:31.4862991+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:36.0670074+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:03:08.3528612+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:03:57.296394+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:31.4862998+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:36.0672718+00:00"
 }

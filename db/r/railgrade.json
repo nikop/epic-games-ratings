@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 3470,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 3471,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -591,7 +591,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18731,
+  "EOS_Progressed": 18730,
   "EOS_Completed": 32,
   "EOS_NewPlayers": -101,
   "EOS_NewCompleters": 0,
@@ -8591,6 +8591,11 @@
       "Time": "2023-10-27T14:07:49.5914459+00:00",
       "NumProgressed": 18731,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-10-27T16:07:52.183333+00:00",
+      "NumProgressed": 18730,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -8610,7 +8615,7 @@
       "Name": "Helper of the People",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 7680
+      "UsersEstimate": 7679
     },
     {
       "ID": "ach.030.deertastic",
@@ -8634,7 +8639,7 @@
       "Name": "Builder",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 16109
+      "UsersEstimate": 16108
     },
     {
       "ID": "ach.060.goingdistance",
@@ -8658,7 +8663,7 @@
       "Name": "Eraser",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 13674
+      "UsersEstimate": 13673
     },
     {
       "ID": "ach.090.perfectionist",
@@ -8666,7 +8671,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4683
+      "UsersEstimate": 4682
     },
     {
       "ID": "ach.100.indecisive",
@@ -8674,7 +8679,7 @@
       "Name": "Indecisive",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5806
     },
     {
       "ID": "ach.110.multiverse",
@@ -8698,7 +8703,7 @@
       "Name": "Minimalist",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 17607
+      "UsersEstimate": 17606
     },
     {
       "ID": "ach.140.legacy",
@@ -8706,7 +8711,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 102,
       "XP": 60,
-      "UsersEstimate": 19106
+      "UsersEstimate": 19105
     },
     {
       "ID": "ach.150.pocket",
@@ -8714,7 +8719,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12737
+      "UsersEstimate": 12736
     },
     {
       "ID": "ach.160.box",
@@ -8754,7 +8759,7 @@
       "Name": "Let There be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6369
+      "UsersEstimate": 6368
     },
     {
       "ID": "ach.210.baron",
@@ -8762,7 +8767,7 @@
       "Name": "Oil Baron",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8242
+      "UsersEstimate": 8241
     },
     {
       "ID": "ach.220.hot",
@@ -8786,7 +8791,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8242
+      "UsersEstimate": 8241
     },
     {
       "ID": "ach.250.downfall",
@@ -8794,7 +8799,7 @@
       "Name": "Before the Downfall",
       "Percentage": 97,
       "XP": 60,
-      "UsersEstimate": 18169
+      "UsersEstimate": 18168
     },
     {
       "ID": "ach.260.investor",
@@ -8897,7 +8902,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18731,
+      "Progressed": 18730,
       "Completed": 32
     }
   ],
@@ -8905,8 +8910,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:07:26.7360157+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:07:52.1833323+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:05.6172138+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:01:46.9250879+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:07:26.7360944+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:02:18.9339584+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:07:52.1834131+00:00"
 }

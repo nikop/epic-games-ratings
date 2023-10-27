@@ -5,19 +5,19 @@ Rating: 4.57 (Ranked 461)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~913 |
-| Sputnik 2049 | 25.00% | ~815 |
+| Wakey Wakey | 28.00% | ~914 |
+| Sputnik 2049 | 25.00% | ~816 |
 | Infinite Growth... | 24.00% | ~783 |
 | Without Breaking Some Eggs... | 23.00% | ~750 |
-| Space Society | 17.00% | ~554 |
-| A Thousand Strong | 17.00% | ~554 |
-| Ready for a New World | 17.00% | ~554 |
+| Space Society | 17.00% | ~555 |
+| A Thousand Strong | 17.00% | ~555 |
+| Ready for a New World | 17.00% | ~555 |
 | Permanent Redesigns | 15.00% | ~489 |
 | The Ship of Theseus | 14.00% | ~457 |
 | Guy de Borderlands | 13.00% | ~424 |
 | Fully Recycled | 13.00% | ~424 |
 | Ain't Nobody Got Time for That | 13.00% | ~424 |
-| Hope Seeker | 12.00% | ~391 |
+| Hope Seeker | 12.00% | ~392 |
 | Exceeding Capacity | 11.00% | ~359 |
 | Breaking Protocol | 11.00% | ~359 |
 | A Hunk of Junk | 10.00% | ~326 |
@@ -34,9 +34,9 @@ Rating: 4.57 (Ranked 461)
 | What They Hide From Us | 5.00% | ~163 |
 | BRAWL! | 5.00% | ~163 |
 | What the Ruins Teach Us | 5.00% | ~163 |
-| ...  in a finite world | 4.00% | ~130 |
-| Sustainable Energy | 4.00% | ~130 |
-| In Dolos We Trust | 4.00% | ~130 |
+| ...  in a finite world | 4.00% | ~131 |
+| Sustainable Energy | 4.00% | ~131 |
+| In Dolos We Trust | 4.00% | ~131 |
 | Delivery! | 3.00% | ~98 |
 | Pedal to the Metal | 3.00% | ~98 |
 | Drill-dozer | 3.00% | ~98 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 461)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,261 (Ranked 198)  
+Progressed: 3,263 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 3,255 | 0 |
 | 2023-10-25 | 3,256 | 0 |
 | 2023-10-26 | 3,260 | 0 |
-| 2023-10-27 | 3,261 | 0 |
+| 2023-10-27 | 3,263 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "killing-floor-2",
   "Ranking_Rating": 683,
   "Ranking_Popularity": 30,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10273,18 +10273,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 30234,
       "NumberOfAwardsMax": 13398
+    },
+    {
+      "Time": "2023-10-27T15:59:33.2424938+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 30251,
+      "NumberOfAwardsMax": 13409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30234,
-  "NumberOfAwardsMax": 13398,
+  "NumberOfAwards": 30251,
+  "NumberOfAwardsMax": 13409,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13398
+      "Count": 13409
     },
     {
       "Text": "This game is Relaxing",
@@ -10302,7 +10308,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1831
+      "Count": 1837
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10352,8 +10358,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2023-10-27T09:58:48.4208672+00:00",
+  "LastChanged": "2023-10-27T15:59:33.2424936+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:28.7405253+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:59:26.2668289+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:09:40.3123316+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:59:33.2424943+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:09:45.2191048+00:00"
 }

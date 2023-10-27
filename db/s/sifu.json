@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7183,10 +7183,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11714,
       "NumberOfAwardsMax": 6734
+    },
+    {
+      "Time": "2023-10-27T15:58:20.0308352+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11721,
+      "NumberOfAwardsMax": 6734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11714,
+  "NumberOfAwards": 11721,
   "NumberOfAwardsMax": 6734,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7206,19 +7212,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 561
+      "Count": 564
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 572
+      "Count": 574
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 560
+      "Count": 561
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7254,7 +7260,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 556
+      "Count": 557
     },
     {
       "Text": "This game has a Creative Community",
@@ -7263,10 +7269,10 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 715979,
+  "EOS_Progressed": 715980,
   "EOS_Completed": 12925,
   "EOS_NewPlayers": 182,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -24038,6 +24044,11 @@
       "Time": "2023-10-27T15:04:01.3360018+00:00",
       "NumProgressed": 715979,
       "NumCompleted": 12925
+    },
+    {
+      "Time": "2023-10-27T16:03:41.0837247+00:00",
+      "NumProgressed": 715980,
+      "NumCompleted": 12925
     }
   ],
   "TotalAchievements": 60,
@@ -24215,9 +24226,9 @@
       "ID": "22_ThrowEE_Trophy",
       "SetID": "adcm20g",
       "Name": "Street Fighting",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2864
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -24528,21 +24539,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25280,
+      "Progressed": 25281,
       "Completed": 10720
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 715979,
+      "Progressed": 715980,
       "Completed": 12925
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-10-27T13:58:33.285451+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:04:01.3360011+00:00",
+  "LastChanged": "2023-10-27T15:58:20.0308351+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:41.083724+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.4067154+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:58:31.3875621+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:04:01.3361669+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:58:20.0308358+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:41.0839129+00:00"
 }

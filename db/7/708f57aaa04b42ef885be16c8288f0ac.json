@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2488,
+  "EOS_Progressed": 2510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2111,
+  "EOS_NewPlayers": 2105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1022,6 +1022,11 @@
       "Time": "2023-10-27T15:09:06.62284+00:00",
       "NumProgressed": 2488,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:09:04.6366005+00:00",
+      "NumProgressed": 2510,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1034,7 +1039,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BabySteps",
@@ -1042,7 +1047,7 @@
       "Name": "Baby Steps",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 276
     },
     {
       "ID": "BeLikeWater",
@@ -1050,15 +1055,15 @@
       "Name": "Be Like Water",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Bikemaggedon",
       "SetID": "acc6ea0",
       "Name": "Bikemaggedon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ChewingTheScenery",
@@ -1066,7 +1071,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ConnectionLost",
@@ -1082,7 +1087,7 @@
       "Name": "Eavesdropper",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ExplosivePersonality",
@@ -1098,7 +1103,7 @@
       "Name": "Faster Than Light",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FirstTime",
@@ -1106,7 +1111,7 @@
       "Name": "First Time?",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 402
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1122,7 +1127,7 @@
       "Name": "Garbage Man",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Godrunner",
@@ -1136,9 +1141,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 100
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -1162,15 +1167,15 @@
       "Name": "Live By The Sword",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterManipulator",
       "SetID": "acc6ea0",
       "Name": "Master Manipulator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "Nasty",
@@ -1178,7 +1183,7 @@
       "Name": "Nasty!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "NoMoreTotems",
@@ -1194,7 +1199,7 @@
       "Name": "Not Like The Others",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OneStarMan",
@@ -1208,9 +1213,9 @@
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "TheFloorIsLava",
@@ -1226,7 +1231,7 @@
       "Name": "The Old-School Way",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "TheQuarterback",
@@ -1234,7 +1239,7 @@
       "Name": "The Quarterback",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 301
     },
     {
       "ID": "ThisIsDharma",
@@ -1305,14 +1310,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2488,
+      "Progressed": 2510,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:09:06.6228382+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:09:04.6365999+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:00:07.5339602+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:09:06.622872+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:00:19.3588216+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:09:04.6366503+00:00"
 }

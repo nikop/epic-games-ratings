@@ -4,8 +4,8 @@
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -2344,6 +2344,11 @@
       "Time": "2023-10-25T23:05:20.5831981+00:00",
       "NumProgressed": 518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:06:29.8942722+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 8,
@@ -2387,7 +2392,7 @@
       "Name": "Get Lost!",
       "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "tea_10",
@@ -2418,14 +2423,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:06:19.4391042+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:06:29.8942712+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:03.6885478+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:58:12.1591489+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:06:19.4391275+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:57:53.5943996+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:06:29.8942935+00:00"
 }

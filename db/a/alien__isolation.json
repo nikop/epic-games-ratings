@@ -4,11 +4,11 @@
   "ProductSlug": "alien-isolation",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-12-21T16:00:00+00:00",
     "PcReleaseDate": "2020-12-21T16:00:00+00:00",
@@ -2186,10 +2186,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 981,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2023-10-27T15:58:08.1465689+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 982,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 981,
+  "NumberOfAwards": 982,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2209,7 +2215,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2259,8 +2265,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2023-10-23T21:01:14.2577031+00:00",
+  "LastChanged": "2023-10-27T15:58:08.1465687+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.9461031+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:58:22.4109315+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:04:06.0822962+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:58:08.1465694+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:46.8625193+00:00"
 }

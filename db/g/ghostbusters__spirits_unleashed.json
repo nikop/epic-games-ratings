@@ -2799,9 +2799,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27870,
+  "EOS_Progressed": 27876,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16644,6 +16644,11 @@
       "Time": "2023-10-27T15:03:49.6730594+00:00",
       "NumProgressed": 27870,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-27T16:03:26.8283823+00:00",
+      "NumProgressed": 27876,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16663,7 +16668,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Back_Off",
@@ -16671,7 +16676,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Best_Insurance",
@@ -16695,7 +16700,7 @@
       "Name": "Clutch Capture",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Collect_Spores",
@@ -16719,7 +16724,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Daily_Dose",
@@ -16727,7 +16732,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Diabolical",
@@ -16759,7 +16764,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Efficient",
@@ -16799,7 +16804,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Ghost_Expert",
@@ -16815,7 +16820,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Legions",
@@ -16903,7 +16908,7 @@
       "Name": "Right back at ya",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Rivalry",
@@ -16967,7 +16972,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Surprise",
@@ -16991,7 +16996,7 @@
       "Name": "Teamwork",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Terrifying",
@@ -17007,7 +17012,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "There_You_Are",
@@ -17015,7 +17020,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Tobins_Prodigy",
@@ -17055,14 +17060,14 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27870,
+      "Progressed": 27876,
       "Completed": 65
     }
   ],
@@ -17070,8 +17075,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-27T06:59:23.9869609+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:03:49.6730589+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:03:26.8283816+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:59:56.5390021+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:03:49.6731972+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:00:07.5516501+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:03:26.8285911+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c981760ff69f4586aedb60a6db191705",
   "Name": "Roboquest",
   "ProductSlug": "roboquest-9ad17a",
-  "Ranking_EOS_Progress": 607,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-11-07T14:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
     {
       "Time": "2023-10-27T15:06:05.4017792+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T16:06:13.2019035+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -119,9 +124,9 @@
       "ID": "BROBOT_JOIN",
       "SetID": "af18nmg",
       "Name": "Meet my Brobot",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BROBOT_REBOOTED",
@@ -135,9 +140,9 @@
       "ID": "BUS_JUMP",
       "SetID": "af18nmg",
       "Name": "Party Bus",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CANYON_DEATH",
@@ -407,9 +412,9 @@
       "ID": "LANGUAGE_FRENCH",
       "SetID": "af18nmg",
       "Name": "Confr\u00E9rie du Croissant",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEGENDARY_BUDDYBOT",
@@ -439,9 +444,9 @@
       "ID": "LOG_UNLOCK_BRONZE",
       "SetID": "af18nmg",
       "Name": "Log Collector (Bronze)",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LOG_UNLOCK_GOLD",
@@ -656,13 +661,13 @@
     {
       "ID": "af18nmg",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged_Achievements": "2023-10-27T15:06:05.4017782+00:00",
+  "LastChanged_Achievements": "2023-10-27T16:06:13.2019028+00:00",
   "LastUpdate_AppInfo": "2023-10-23T15:57:11.3964616+00:00",
-  "LastUpdate_Ratings": "2023-10-27T14:58:03.2214682+00:00",
-  "LastUpdate_Achievements": "2023-10-27T15:06:05.4018631+00:00"
+  "LastUpdate_Ratings": "2023-10-27T15:57:42.327667+00:00",
+  "LastUpdate_Achievements": "2023-10-27T16:06:13.2020195+00:00"
 }

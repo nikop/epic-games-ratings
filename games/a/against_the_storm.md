@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 4.00% | ~684 |
 | Trade Baron | 4.00% | ~684 |
 | Serving Ale | 3.00% | ~513 |
+| Refinery | 3.00% | ~513 |
 | Against All Odds | 3.00% | ~513 |
 | Dangerous Lands | 3.00% | ~513 |
 | Fishmen Ritual Site | 3.00% | ~513 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~513 |
 | Defying the Crown | 3.00% | ~513 |
 | Into the Forest | 3.00% | ~513 |
-| Refinery | 2.00% | ~342 |
 | Victory through Prosperity | 2.00% | ~342 |
 | Feeding The People | 1.00% | ~171 |
 | Efficient Explorer | 1.00% | ~171 |

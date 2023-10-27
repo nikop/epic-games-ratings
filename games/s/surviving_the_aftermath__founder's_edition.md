@@ -6,19 +6,19 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,221 |
-| Leader | 61.00% | ~6,034 |
+| First Step | 73.00% | ~7,222 |
+| Leader | 60.00% | ~5,936 |
 | Explorer | 53.00% | ~5,243 |
 | Healer | 52.00% | ~5,144 |
-| Aspiring Inventor | 44.00% | ~4,352 |
+| Aspiring Inventor | 44.00% | ~4,353 |
 | Adventurer | 42.00% | ~4,155 |
 | Famous Healer | 38.00% | ~3,759 |
-| Local Leader | 35.00% | ~3,462 |
-| Famous Explorer | 34.00% | ~3,363 |
-| New Opportunities | 34.00% | ~3,363 |
-| Energized | 33.00% | ~3,264 |
-| The Long Haul | 33.00% | ~3,264 |
-| Survivor | 32.00% | ~3,165 |
+| Local Leader | 35.00% | ~3,463 |
+| Famous Explorer | 34.00% | ~3,364 |
+| New Opportunities | 34.00% | ~3,364 |
+| Energized | 33.00% | ~3,265 |
+| The Long Haul | 33.00% | ~3,265 |
+| Survivor | 32.00% | ~3,166 |
 | The Great Healer | 31.00% | ~3,067 |
 | Legendary Explorer | 28.00% | ~2,770 |
 | Cleaner | 28.00% | ~2,770 |
@@ -30,8 +30,8 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 22.00% | ~2,176 |
 | Ice Lakes | 22.00% | ~2,176 |
 | Real Survivor | 22.00% | ~2,176 |
-| Rocket Surgeon | 20.00% | ~1,978 |
-| War Never Changes | 19.00% | ~1,879 |
+| Rocket Surgeon | 20.00% | ~1,979 |
+| War Never Changes | 19.00% | ~1,880 |
 | Friendly | 17.00% | ~1,682 |
 | Big Game Hunter | 17.00% | ~1,682 |
 | Around the World | 17.00% | ~1,682 |
@@ -45,7 +45,7 @@ Number of Ratings: 836  (23.09.2022)
 | Trader | 9.00% | ~890 |
 | Bread and Circuses | 8.00% | ~791 |
 | Tailored to fit | 8.00% | ~791 |
-| New Eden | 7.00% | ~692 |
+| New Eden | 7.00% | ~693 |
 | Really Friendly | 6.00% | ~594 |
 | Amped Up | 6.00% | ~594 |
 | Look, no Hands! | 5.00% | ~495 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,892 (Ranked 154)  
+Progressed: 9,893 (Ranked 154)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,15 +256,15 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 9,840 | 0 |
 | 2023-10-25 | 9,860 | 0 |
 | 2023-10-26 | 9,881 | 0 |
-| 2023-10-27 | 9,892 | 0 |
+| 2023-10-27 | 9,893 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 346)  
-Sum: 715 (Ranked 288)  
+Sum: 716 (Ranked 288)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
-| This game is Great for Beginners | 95 |
+| This game is Great for Beginners | 96 |
 | This game has Amazing Storytelling | 88 |
 | This game is Relaxing | 84 |
 | This game has Quickly Understood Controls | 83 |
@@ -407,3 +407,4 @@ Diff (max vs sum): 58
 | 2023-10-22 | 4.48 | - | 103 | 713 |
 | 2023-10-25 | 4.48 | - | 103 | 714 |
 | 2023-10-26 | 4.48 | - | 103 | 715 |
+| 2023-10-27 | 4.48 | - | 103 | 716 |

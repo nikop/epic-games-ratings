@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 102)  
+Rating: 4.78 (Ranked 103)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 45  (23.09.2022)
 | Me and My Familiar | 0.60% | ~9 |
 | Passing Shadow | 0.60% | ~9 |
 | This Too Shall Pass | 0.60% | ~9 |
-| Cutthroat Competitors | 0.50% | ~7 |
+| Cutthroat Competitors | 0.60% | ~9 |
 | Daybreak | 0.50% | ~7 |
 | Let Me Get My Chisel | 0.30% | ~4 |
 | Completing the Look | 0.30% | ~4 |
