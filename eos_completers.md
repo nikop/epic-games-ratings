@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.91% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 42.71% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 42.69% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -133,7 +133,7 @@
 | 131 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 134 | [Late Shift](games/l/late_shift.md) | 1.44% |
+| 134 | [Late Shift](games/l/late_shift.md) | 1.43% |
 | 135 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
 | 136 | [Poosh XL](games/p/poosh_xl.md) | 1.37% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
@@ -161,7 +161,7 @@
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.86% |
 | 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 161 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 163 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
@@ -169,7 +169,7 @@
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 168 | [Eternights](games/e/eternights.md) | 0.66% |
-| 168 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.66% |
+| 170 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.65% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.62% |

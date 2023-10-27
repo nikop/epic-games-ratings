@@ -17,6 +17,7 @@
 | [Gearhead Karting Simulator - Mechanic & Racing](games/0/042c79543dd84f6dbf27b129c55a0798.md) | 2023-10-31 | - |  | - | - |
 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 2023-10-31 | 53 (1,000 XP) | 0 | - | - |
 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 2023-10-31 | 7 (1,000 XP) | 0 | - | - |
+| [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2023-10-31 | 36 (1,000 XP) | 36 | - | - |
 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 12 (1,000 XP) | 3 | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | - |  | - | - |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 36 | - | - |
@@ -163,7 +164,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 205,337 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 205,407 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -245,7 +246,6 @@
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2099-01-01 | - |  | - | - |
-| [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2099-01-01 | 36 (1,000 XP) | 36 | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
 | [Beacon of Neyda](games/e/e6dabddbc7e3446583d31c5b5cb3104a.md) | 2099-01-01 | - |  | - | - |
 | [Beat Stickman: Infinity Clones](games/b/beat_stickman__infinity_clones.md) | 2099-01-01 | - |  | - | - |
