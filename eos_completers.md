@@ -2,11 +2,11 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
-| 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 42.85% |
-| 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 40.00% |
+| 2 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 50.00% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.83% |
+| 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -100,7 +100,7 @@
 | 98 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 99 | [FORECLOSED](games/f/foreclosed.md) | 2.80% |
 | 100 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.78% |
-| 101 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
+| 101 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 102 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.72% |
 | 103 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.68% |
 | 104 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
@@ -121,8 +121,8 @@
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 120 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
 | 121 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 122 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.82% |
-| 123 | [Sifu](games/s/sifu.md) | 1.81% |
+| 122 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.81% |
+| 122 | [Sifu](games/s/sifu.md) | 1.81% |
 | 124 | [Frogun](games/f/frogun.md) | 1.79% |
 | 125 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 1.75% |
 | 126 | [Night Book](games/n/night_book.md) | 1.72% |
