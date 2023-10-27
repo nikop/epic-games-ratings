@@ -16,13 +16,13 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 0.50% | ~7 |
 | Let Me Get My Chisel | 0.30% | ~4 |
 | Completing the Look | 0.30% | ~4 |
+| War Endured | 0.30% | ~4 |
 | Echoes Die | 0.30% | ~4 |
+| Core Failure | 0.30% | ~4 |
 | Who's Counting? | 0.20% | ~3 |
 | Thematic Divergence | 0.20% | ~3 |
 | Pyrrhic Victory | 0.20% | ~3 |
-| War Endured | 0.20% | ~3 |
 | A Story of Heroes | 0.20% | ~3 |
-| Core Failure | 0.20% | ~3 |
 | A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | Empty the Caves | 0.10% | ~1 |

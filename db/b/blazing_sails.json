@@ -3,11 +3,11 @@
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 309,
+  "Ranking_Popularity": 353,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -531,12 +531,18 @@
       "Rating": 3.83,
       "NumberOfAwards": 550,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-10-27T16:59:41.0696915+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 564,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 550,
-  "NumberOfAwardsMax": 88,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 564,
+  "NumberOfAwardsMax": 98,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -566,7 +572,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 98
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -611,8 +617,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-27T15:00:11.4045075+00:00",
+  "LastChanged": "2023-10-27T16:59:41.0696914+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.5469226+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:00:24.3707098+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:08:55.5270428+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:59:41.0696919+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:08:26.5309624+00:00"
 }

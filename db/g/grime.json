@@ -1249,9 +1249,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 154939,
+  "EOS_Progressed": 154944,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1553,
+  "EOS_NewPlayers": 1542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13274,6 +13274,11 @@
       "Time": "2023-10-27T16:05:16.9028437+00:00",
       "NumProgressed": 154939,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T17:04:49.1353762+00:00",
+      "NumProgressed": 154944,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13363,9 +13368,9 @@
       "ID": "DEFEAT_AMAL2",
       "SetID": "ccc0dlh",
       "Name": "Hunt Down",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 620
+      "UsersEstimate": 775
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -13531,9 +13536,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 620
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -13652,21 +13657,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154522,
+      "Progressed": 154527,
       "Completed": 1178
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 154939,
+      "Progressed": 154944,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T19:00:19.7299619+00:00",
-  "LastChanged_Achievements": "2023-10-27T16:05:16.9028349+00:00",
+  "LastChanged_Achievements": "2023-10-27T17:04:49.1353757+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:02:13.8888094+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:05:16.9029307+00:00"
+  "LastUpdate_Ratings": "2023-10-27T17:01:14.1349724+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:04:49.1354989+00:00"
 }

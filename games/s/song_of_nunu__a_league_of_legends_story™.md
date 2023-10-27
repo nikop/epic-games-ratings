@@ -44,10 +44,10 @@
 | Handy Yeti | 25.00% | ~9 |
 | We Are Speed | 25.00% | ~9 |
 | Braum's Poro Ranch | 22.00% | ~8 |
+| It Was Him | 22.00% | ~8 |
 | One From The Heart | 22.00% | ~8 |
+| Rock Star | 22.00% | ~8 |
 | Sneaky Notai | 19.00% | ~7 |
-| It Was Him | 19.00% | ~7 |
-| Rock Star | 19.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 474)  
 Completed: 3 (8.33%) (Ranked 44)  

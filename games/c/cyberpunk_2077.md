@@ -8,23 +8,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,881 |
 | Ten out of Ten | 0.80% | ~7,152 |
+| Gun Fu | 0.60% | ~5,364 |
 | Rough Landing | 0.60% | ~5,364 |
 | The High Priestess | 0.60% | ~5,364 |
 | Full Body Conversion | 0.50% | ~4,470 |
-| Gun Fu | 0.50% | ~4,470 |
+| Right Back At Ya | 0.50% | ~4,470 |
 | Stanislavski's Method | 0.50% | ~4,470 |
 | The Hermit | 0.50% | ~4,470 |
+| The Wheel of Fortune | 0.50% | ~4,470 |
 | True Soldier | 0.50% | ~4,470 |
 | Legend of The Afterlife | 0.50% | ~4,470 |
 | All the President's Men | 0.50% | ~113 |
 | Arachnophobia | 0.50% | ~113 |
-| Right Back At Ya | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
 | Life of the Road | 0.40% | ~3,576 |
 | The Lovers | 0.40% | ~3,576 |
-| The Wheel of Fortune | 0.40% | ~3,576 |
 | The Jungle | 0.40% | ~3,576 |
 | True Warrior | 0.40% | ~3,576 |
 | Two Heads, One Bullet | 0.40% | ~3,576 |
@@ -44,6 +44,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
+| The Sun | 0.20% | ~1,788 |
 | It's Elementary | 0.20% | ~1,788 |
 | Judgement Day | 0.20% | ~45 |
 | King of Pentacles | 0.20% | ~45 |
@@ -57,7 +58,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~894 |
 | Daemon In The Shell | 0.10% | ~894 |
 | The Star | 0.10% | ~894 |
-| The Sun | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,033 (Ranked 15)  
+Progressed: 894,049 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,033 | 2,717 |
+| 2023-10-27 | 894,049 | 2,717 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
 Sum: 329,385 (Ranked 10)  

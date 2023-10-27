@@ -1214,9 +1214,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 205
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1261,8 +1261,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-10-27T16:09:05.8124235+00:00",
+  "LastChanged_Achievements": "2023-10-27T17:08:35.2193683+00:00",
   "LastUpdate_AppInfo": "2023-10-27T13:57:39.0909681+00:00",
-  "LastUpdate_Ratings": "2023-10-27T16:00:00.3999633+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:09:05.8124788+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:59:18.4633761+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:08:35.2193837+00:00"
 }

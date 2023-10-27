@@ -5,18 +5,18 @@ Rating: 4.60 (Ranked 404)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,195 |
-| A Thorny Situation | 70.00% | ~5,050 |
-| ... And Spit Back Out | 60.00% | ~4,329 |
-| Break-Net Speed | 49.00% | ~3,535 |
-| Bramble Breaker | 46.00% | ~3,319 |
-| Miner 49er | 43.00% | ~3,102 |
-| Humble Collector | 42.00% | ~3,030 |
-| Calm Sailing | 36.00% | ~2,597 |
-| Open the Gate! | 33.00% | ~2,381 |
-| Mist Walker | 31.00% | ~2,237 |
-| Lumberjack | 27.00% | ~1,948 |
-| Oui, Chef! | 23.00% | ~1,659 |
+| Azoria Beckons | 72.00% | ~5,197 |
+| A Thorny Situation | 70.00% | ~5,053 |
+| ... And Spit Back Out | 60.00% | ~4,331 |
+| Break-Net Speed | 49.00% | ~3,537 |
+| Bramble Breaker | 46.00% | ~3,320 |
+| Miner 49er | 43.00% | ~3,104 |
+| Humble Collector | 42.00% | ~3,032 |
+| Calm Sailing | 36.00% | ~2,598 |
+| Open the Gate! | 33.00% | ~2,382 |
+| Mist Walker | 31.00% | ~2,238 |
+| Lumberjack | 27.00% | ~1,949 |
+| Oui, Chef! | 23.00% | ~1,660 |
 | Clear the Air | 18.00% | ~1,299 |
 | Botanical Breakthrough | 17.00% | ~1,227 |
 | Search for the Hairy Grell | 13.00% | ~938 |
@@ -32,8 +32,8 @@ Rating: 4.60 (Ranked 404)
 | Azorian Anniversary | 6.00% | ~433 |
 | I Now Pronounce You... | 5.00% | ~361 |
 | Chatty Neighbor | 4.00% | ~289 |
-| Right Tool For the Job | 3.00% | ~216 |
-| House Proud | 3.00% | ~216 |
+| Right Tool For the Job | 3.00% | ~217 |
+| House Proud | 3.00% | ~217 |
 | Captain of Cozy | 2.00% | ~144 |
 | Angling Authority | 1.00% | ~72 |
 | Cloverfield Island | 0.20% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 404)
 | Very Skilled | 0.20% | ~14 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,215 (Ranked 166)  
+Progressed: 7,218 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 7,139 | 0 |
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
-| 2023-10-27 | 7,215 | 0 |
+| 2023-10-27 | 7,218 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

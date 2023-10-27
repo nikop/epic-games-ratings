@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.79,
+  "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1530,6 +1530,11 @@
       "Time": "2023-10-27T09:05:49.7016949+00:00",
       "NumProgressed": 324,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-27T17:05:09.0530589+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1613,7 +1618,7 @@
       "Name": "A great audience",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1621,7 +1626,7 @@
       "Name": "For its own good",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1717,7 +1722,7 @@
       "Name": "A new dawn",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "PROGRESS_N4",
@@ -1740,14 +1745,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-27T16:05:39.8167726+00:00",
+  "LastChanged_Achievements": "2023-10-27T17:05:09.0530582+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:58:33.2875062+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:05:39.8167971+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:58:06.6093952+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:05:09.053121+00:00"
 }

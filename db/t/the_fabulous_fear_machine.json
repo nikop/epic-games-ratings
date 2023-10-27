@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "14",
       "SetID": "d37idgg",
       "Name": "The beast in the Oval Office",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "15",
@@ -437,9 +437,9 @@
       "ID": "38",
       "SetID": "d37idgg",
       "Name": "Pulp! True Adventures",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "39",
@@ -493,9 +493,9 @@
       "ID": "44",
       "SetID": "d37idgg",
       "Name": "America had no Faith",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "45",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-27T16:09:45.7408205+00:00",
+  "LastChanged_Achievements": "2023-10-27T17:09:09.081332+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.5452613+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:57:16.5032737+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:09:45.7408548+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:57:03.5156085+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:09:09.0813738+00:00"
 }

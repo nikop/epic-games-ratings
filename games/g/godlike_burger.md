@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~155,392 |
-| FIRST BLOOD | 40.00% | ~138,126 |
-| KEVIN! | 30.00% | ~103,595 |
-| JACK OF ALL TRADES | 23.00% | ~79,423 |
-| CRIMINAL | 20.00% | ~69,063 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~37,985 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~31,078 |
-| HONORS STUDENT | 8.00% | ~27,625 |
-| BUTCHER | 6.00% | ~20,719 |
-| RAMBO | 5.00% | ~17,266 |
-| HELL'S KITCHEN | 4.00% | ~13,813 |
-| INDIVIDUAL APPROACH | 4.00% | ~13,813 |
-| CELEBRITY | 3.00% | ~10,359 |
-| MARTYR | 3.00% | ~10,359 |
-| GRATITUDE | 2.00% | ~6,906 |
-| GOURMET | 1.00% | ~3,453 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,453 |
-| PATTY-KILLER | 1.00% | ~3,453 |
-| PRUDENT | 1.00% | ~3,453 |
-| EXPERIMENTALIST | 0.90% | ~3,108 |
+| MASTER CHEF | 45.00% | ~155,433 |
+| FIRST BLOOD | 40.00% | ~138,163 |
+| KEVIN! | 30.00% | ~103,622 |
+| JACK OF ALL TRADES | 23.00% | ~79,444 |
+| CRIMINAL | 20.00% | ~69,081 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~37,995 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~31,087 |
+| HONORS STUDENT | 8.00% | ~27,633 |
+| BUTCHER | 6.00% | ~20,724 |
+| RAMBO | 5.00% | ~17,270 |
+| HELL'S KITCHEN | 4.00% | ~13,816 |
+| INDIVIDUAL APPROACH | 4.00% | ~13,816 |
+| CELEBRITY | 3.00% | ~10,362 |
+| MARTYR | 3.00% | ~10,362 |
+| GRATITUDE | 2.00% | ~6,908 |
+| GOURMET | 1.00% | ~3,454 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,454 |
+| PATTY-KILLER | 1.00% | ~3,454 |
+| PRUDENT | 1.00% | ~3,454 |
+| EXPERIMENTALIST | 0.90% | ~3,109 |
 | SCATTERBRAIN | 0.60% | ~2,072 |
 | HIGH TECHNOLOGIES | 0.50% | ~1,727 |
-| TASTE UNTASTY | 0.40% | ~1,381 |
+| TASTE UNTASTY | 0.40% | ~1,382 |
 | CORRUPTIONIST | 0.10% | ~345 |
 | DEBTOR | 0.10% | ~345 |
 | I'VE SEEN SOME… | 0.10% | ~345 |
 | MISTER ALL THUMBS | 0.10% | ~345 |
 | TRAVELER | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,316 (Ranked 46)  
+Progressed: 345,407 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 24 (0.01%) (Ranked 308)
 | 2023-10-24 | 341,378 | 21 |
 | 2023-10-25 | 342,794 | 22 |
 | 2023-10-26 | 344,225 | 23 |
-| 2023-10-27 | 345,316 | 24 |
+| 2023-10-27 | 345,407 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

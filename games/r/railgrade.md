@@ -5,24 +5,24 @@ Rating: 4.55 (Ranked 496)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,105 |
-| Before the Downfall | 97.00% | ~18,168 |
-| Money like Water | 95.00% | ~17,794 |
-| Minimalist | 94.00% | ~17,606 |
-| Builder | 86.00% | ~16,108 |
-| Eraser | 73.00% | ~13,673 |
+| Trevithick's Legacy | 102.00% | ~19,104 |
+| Before the Downfall | 97.00% | ~18,167 |
+| Money like Water | 95.00% | ~17,793 |
+| Minimalist | 94.00% | ~17,605 |
+| Builder | 86.00% | ~16,107 |
+| Eraser | 73.00% | ~13,672 |
 | Pocket of Trains | 68.00% | ~12,736 |
-| Inspector | 62.00% | ~11,613 |
-| Going the Distance | 56.00% | ~10,489 |
+| Inspector | 62.00% | ~11,612 |
+| Going the Distance | 56.00% | ~10,488 |
 | Oil Baron | 44.00% | ~8,241 |
 | Loads-a-Money | 44.00% | ~8,241 |
 | Helper of the People | 41.00% | ~7,679 |
-| Simplification | 35.00% | ~6,556 |
-| Box of Trains | 35.00% | ~6,556 |
+| Simplification | 35.00% | ~6,555 |
+| Box of Trains | 35.00% | ~6,555 |
 | Let There be Light | 34.00% | ~6,368 |
-| Hot Water | 32.00% | ~5,994 |
+| Hot Water | 32.00% | ~5,993 |
 | Indecisive | 31.00% | ~5,806 |
-| The scenic route | 29.00% | ~5,432 |
+| The scenic route | 29.00% | ~5,431 |
 | Industrialist | 26.00% | ~4,870 |
 | Perfectionist | 25.00% | ~4,682 |
 | 8K is Enough for Everyone | 24.00% | ~4,495 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 496)
 | Overdeer | 0.60% | ~112 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,730 (Ranked 132)  
+Progressed: 18,729 (Ranked 132)  
 Completed: 32 (0.17%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,9 +232,9 @@ Completed: 32 (0.17%) (Ranked 241)
 | 2023-10-26 | 18,743 | 32 |
 | 2023-10-27 | 18,734 | 32 |
 ## Awards
-Max (Quickly Understood Controls): 92  (Ranked 366)  
+Max (Quickly Understood Controls): 92  (Ranked 367)  
 Sum: 676 (Ranked 295)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 92 |

@@ -18,7 +18,7 @@
 | Book 'em Danny | 12.00% | ~26 |
 | Poetent | 12.00% | ~26 |
 | Voyeur | 12.00% | ~26 |
-| Oscar Winning Performance | 10.00% | ~21 |
+| Oscar Winning Performance | 11.00% | ~23 |
 | Put A Ring On It | 9.00% | ~19 |
 | Chicken | 8.00% | ~17 |
 | Heavy Rayne | 8.00% | ~17 |

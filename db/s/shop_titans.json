@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6721,9 +6721,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138213,
+  "EOS_Progressed": 138215,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -26166,6 +26166,11 @@
       "Time": "2023-10-27T16:05:02.4106003+00:00",
       "NumProgressed": 138213,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-27T17:04:36.6602067+00:00",
+      "NumProgressed": 138215,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 112,
@@ -26193,7 +26198,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "advlevel04",
@@ -26201,7 +26206,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "advlevel05",
@@ -26233,7 +26238,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ascend03",
@@ -26249,7 +26254,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "bigsale01",
@@ -26273,7 +26278,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "blueprint01",
@@ -26425,7 +26430,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "commonres04",
@@ -26457,7 +26462,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "craft04",
@@ -26489,7 +26494,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "damage03",
@@ -26505,7 +26510,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "enchant01",
@@ -26545,7 +26550,7 @@
       "Name": "Supercharged",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "expansion01",
@@ -26593,7 +26598,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "furniture03",
@@ -26601,7 +26606,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "fuseepic",
@@ -26681,7 +26686,7 @@
       "Name": "Mammonite",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "gold06",
@@ -26689,7 +26694,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "help01",
@@ -26705,7 +26710,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "help03",
@@ -26721,7 +26726,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "jackslot01",
@@ -26777,7 +26782,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "level04",
@@ -26793,7 +26798,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "loot01",
@@ -26809,7 +26814,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "loot03",
@@ -26881,7 +26886,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "quest01",
@@ -26897,7 +26902,7 @@
       "Name": "Attrition Mission",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "quest03",
@@ -27025,7 +27030,7 @@
       "Name": "Exotic Commodities",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "uncommonres03",
@@ -27065,22 +27070,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138213,
+      "Progressed": 138215,
       "Completed": 172
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-26T23:57:43.4766727+00:00",
-  "LastChanged_Achievements": "2023-10-27T16:05:02.4105996+00:00",
+  "LastChanged_Achievements": "2023-10-27T17:04:36.660206+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-27T15:58:46.1122615+00:00",
-  "LastUpdate_Achievements": "2023-10-27T16:05:02.4109767+00:00"
+  "LastUpdate_Ratings": "2023-10-27T16:58:18.5658693+00:00",
+  "LastUpdate_Achievements": "2023-10-27T17:04:36.6604961+00:00"
 }

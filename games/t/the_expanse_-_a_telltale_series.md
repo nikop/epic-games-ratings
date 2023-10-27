@@ -22,6 +22,7 @@ Rating: 4.59 (Ranked 423)
 | Celebrations are in Order | 0.20% | ~29 |
 | Impossible Objects | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
+| Data Miner | 0.10% | ~14 |
 | Bottoms up! | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Thorston Mayer | 0.10% | ~14 |
@@ -37,11 +38,10 @@ Rating: 4.59 (Ranked 423)
 | Zen Master | 0.10% | ~0 |
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
-| Data Miner | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,370 (Ranked 143)  
+Progressed: 14,371 (Ranked 143)  
 Completed: 27 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 27 (0.19%) (Ranked 236)
 | 2023-10-24 | 14,303 | 27 |
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
-| 2023-10-27 | 14,370 | 27 |
+| 2023-10-27 | 14,371 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

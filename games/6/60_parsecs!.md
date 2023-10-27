@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~745 |
-| Friendzone | 80.00% | ~614 |
-| Space Colonization | 80.00% | ~614 |
-| Hello World | 75.00% | ~576 |
+| Don't Panic! | 97.00% | ~746 |
+| Friendzone | 80.00% | ~615 |
+| Space Colonization | 80.00% | ~615 |
+| Hello World | 75.00% | ~577 |
 | Space Engineer | 64.00% | ~492 |
 | Tinkerer | 63.00% | ~484 |
-| Dust to Dust | 58.00% | ~445 |
+| Dust to Dust | 58.00% | ~446 |
 | Across The Stars | 48.00% | ~369 |
 | Crafty | 48.00% | ~369 |
 | All Seats Taken | 39.00% | ~300 |
 | For Science! | 35.00% | ~269 |
 | Meet the Petersons | 31.00% | ~238 |
-| Stay Cool | 30.00% | ~230 |
-| KIA | 27.00% | ~207 |
-| Mutiny in making | 24.00% | ~184 |
+| Stay Cool | 30.00% | ~231 |
+| KIA | 27.00% | ~208 |
+| Mutiny in making | 24.00% | ~185 |
 | Eco-Shuttle | 19.00% | ~146 |
 | Et tu, Astrocitizen? | 19.00% | ~146 |
 | Space Explorer | 16.00% | ~123 |
 | Hands Full | 13.00% | ~100 |
 | Gold Medalist | 12.00% | ~92 |
-| Non-Fiction | 11.00% | ~84 |
-| No Man Left Behind | 10.00% | ~77 |
-| Fix-It Felix | 8.00% | ~61 |
-| Intergalactic Breakup | 8.00% | ~61 |
-| Second Life | 8.00% | ~61 |
+| Non-Fiction | 11.00% | ~85 |
+| No Man Left Behind | 9.00% | ~69 |
+| Fix-It Felix | 8.00% | ~62 |
+| Intergalactic Breakup | 8.00% | ~62 |
+| Second Life | 8.00% | ~62 |
 | Axel jump in space! | 7.00% | ~54 |
 | First of April | 7.00% | ~54 |
 | Flawless Maegangement | 7.00% | ~54 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 260)  
+Progressed: 769 (Ranked 260)  
 Completed: 1 (0.13%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 1 (0.13%) (Ranked 248)
 | 2023-10-22 | 766 | 1 |
 | 2023-10-24 | 767 | 1 |
 | 2023-10-25 | 768 | 1 |
+| 2023-10-27 | 769 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
