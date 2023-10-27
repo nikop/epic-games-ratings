@@ -28,12 +28,12 @@
 | Craftsmen | 7.00% | ~7 |
 | Through Dangers Untold | 7.00% | ~7 |
 | A Deceiving Gift | 6.00% | ~6 |
+| Defeat Ingla | 5.00% | ~5 |
 | Bringing guns to a sword fight | 5.00% | ~5 |
 | Ancient Powers | 5.00% | ~5 |
+| But what of the Acreans? | 5.00% | ~5 |
 | Unveiling the Truth | 5.00% | ~5 |
-| Defeat Ingla | 4.00% | ~4 |
 | Wayseeker | 4.00% | ~4 |
-| But what of the Acreans? | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
 | Pathfinder | 3.00% | ~3 |

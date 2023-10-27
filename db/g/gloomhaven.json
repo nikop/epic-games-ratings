@@ -2267,9 +2267,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 16340,
+  "EOS_Progressed": 16342,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1705,
+  "EOS_NewPlayers": 1704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6932,6 +6932,11 @@
       "Time": "2023-10-27T11:03:39.0904879+00:00",
       "NumProgressed": 16340,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T12:03:52.7384686+00:00",
+      "NumProgressed": 16342,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7128,7 +7133,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7026
+      "UsersEstimate": 7027
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7160,7 +7165,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7176,7 +7181,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 4902
+      "UsersEstimate": 4903
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7184,7 +7189,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5392
+      "UsersEstimate": 5393
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7288,7 +7293,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "Achievement_Trophy45",
@@ -7320,7 +7325,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "Achievement_Trophy49",
@@ -7431,7 +7436,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 16340,
+      "Progressed": 16342,
       "Completed": 1
     }
   ],
@@ -7439,8 +7444,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-26T05:00:32.0814886+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:03:39.0904873+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:03:52.7384677+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.6068903+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:00:27.67825+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:03:39.0905923+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:00:55.5635006+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:03:52.7385911+00:00"
 }

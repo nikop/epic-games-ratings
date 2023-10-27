@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22847,
+  "EOS_Progressed": 22848,
   "EOS_Completed": 444,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20808,6 +20808,11 @@
       "Time": "2023-10-27T11:07:54.8405003+00:00",
       "NumProgressed": 22847,
       "NumCompleted": 444
+    },
+    {
+      "Time": "2023-10-27T12:08:44.2279722+00:00",
+      "NumProgressed": 22848,
+      "NumCompleted": 444
     }
   ],
   "TotalAchievements": 20,
@@ -20939,7 +20944,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17592
+      "UsersEstimate": 17593
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -20971,22 +20976,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4112
+      "UsersEstimate": 4113
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22847,
+      "Progressed": 22848,
       "Completed": 444
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:07:54.8404998+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:08:44.2279714+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:03:00.9981238+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:07:54.8406429+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:03:07.9607615+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:08:44.2281408+00:00"
 }

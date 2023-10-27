@@ -2,12 +2,12 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 157172,
   "RatingHistory": [
     {
@@ -10961,6 +10961,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 561556,
       "NumberOfAwardsMax": 77499
+    },
+    {
+      "Time": "2023-10-27T12:02:02.7859717+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 561556,
+      "NumberOfAwardsMax": 77499
     }
   ],
   "ReviewsDisabled": false,
@@ -11040,8 +11046,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-10-27T10:01:07.9868887+00:00",
+  "LastChanged": "2023-10-27T12:02:02.7859715+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:05.2672903+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:01:21.687664+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:04:09.288988+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:02:02.7859724+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:04:26.495468+00:00"
 }

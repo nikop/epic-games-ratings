@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 578)  
+Rating: 4.50 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advancement | 4.00% | ~1,114 |
-| Stylish | 4.00% | ~1,114 |
+| Advancement | 4.00% | ~1,115 |
+| Stylish | 4.00% | ~1,115 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~836 |
 | Discovery | 3.00% | ~836 |
 | Meticulously Efficient | 3.00% | ~836 |
@@ -23,6 +23,7 @@ Rating: 4.50 (Ranked 578)
 | Ghostbuster In Training | 2.00% | ~557 |
 | Icing on the Cake | 2.00% | ~557 |
 | Right back at ya | 2.00% | ~557 |
+| Summoner | 2.00% | ~557 |
 | Teamwork | 2.00% | ~557 |
 | There you are! | 2.00% | ~557 |
 | Whoopsie | 2.00% | ~557 |
@@ -34,7 +35,6 @@ Rating: 4.50 (Ranked 578)
 | Side Hustle | 1.00% | ~279 |
 | Skilled | 1.00% | ~279 |
 | Stunner | 1.00% | ~279 |
-| Summoner | 1.00% | ~279 |
 | Terrifying | 1.00% | ~279 |
 | Welcome to the Crew | 1.00% | ~279 |
 | Collector | 0.90% | ~251 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,856 (Ranked 121)  
+Progressed: 27,863 (Ranked 121)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,856 | 65 |
+| 2023-10-27 | 27,863 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
 Sum: 2,569 (Ranked 182)  

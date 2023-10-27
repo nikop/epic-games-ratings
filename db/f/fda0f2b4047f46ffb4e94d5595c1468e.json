@@ -1793,7 +1793,7 @@
   ],
   "EOS_Progressed": 8081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6122,9 +6122,9 @@
       "ID": "ach28",
       "SetID": "47in8n6",
       "Name": "Feeling Stronger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2748
     },
     {
       "ID": "ach29",
@@ -6315,8 +6315,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-27T04:58:54.6872076+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:06:19.5014806+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:06:55.3125396+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:59:52.051224+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:06:19.5015556+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:00:14.9192678+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:06:55.3126621+00:00"
 }

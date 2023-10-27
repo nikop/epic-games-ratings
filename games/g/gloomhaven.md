@@ -6,11 +6,11 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,026 |
+| I'm not dead yet | 43.00% | ~7,027 |
 | Overkill | 34.00% | ~5,556 |
-| Vaccine Incoming | 33.00% | ~5,392 |
-| A normal day in Gloomhaven | 33.00% | ~5,392 |
-| Spread the plague | 30.00% | ~4,902 |
+| Vaccine Incoming | 33.00% | ~5,393 |
+| A normal day in Gloomhaven | 33.00% | ~5,393 |
+| Spread the plague | 30.00% | ~4,903 |
 | Get over here! | 24.00% | ~3,922 |
 | Just when I thought I was out... | 19.00% | ~3,105 |
 | Precious! | 17.00% | ~2,778 |
@@ -21,14 +21,14 @@ Number of Ratings: 68  (23.09.2022)
 | You activated my trap card! | 13.00% | ~2,124 |
 | Obstacle race | 13.00% | ~2,124 |
 | Augmented rat | 12.00% | ~1,961 |
-| Doom and gloom | 11.00% | ~1,797 |
+| Doom and gloom | 11.00% | ~1,798 |
 | Who's the Boss? | 9.00% | ~1,471 |
 | Dungeon Veteran | 8.00% | ~1,307 |
 | Pack leader | 8.00% | ~1,307 |
 | Pain is your friend | 8.00% | ~1,307 |
 | Black death | 8.00% | ~1,307 |
 | Play it again, Sam | 8.00% | ~1,307 |
-| Quad damage | 6.00% | ~980 |
+| Quad damage | 6.00% | ~981 |
 | Power Up! | 5.00% | ~817 |
 | The Pro from Dover | 5.00% | ~817 |
 | Pretty lights! | 5.00% | ~817 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~16 |
 | Hard-travelling Heroes | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,340 (Ranked 137)  
+Progressed: 16,342 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.01%) (Ranked 308)
 | 2023-10-24 | 15,877 | 1 |
 | 2023-10-25 | 16,063 | 1 |
 | 2023-10-26 | 16,260 | 1 |
-| 2023-10-27 | 16,340 | 1 |
+| 2023-10-27 | 16,342 | 1 |
 ## Awards
 Max (Character Customization): 3,560  (Ranked 90)  
 Sum: 8,316 (Ranked 98)  

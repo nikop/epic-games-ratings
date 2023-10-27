@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -802,6 +802,11 @@
       "Time": "2023-10-27T11:05:46.583397+00:00",
       "NumProgressed": 423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T12:06:17.6555255+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -814,7 +819,7 @@
       "Name": "Rookie",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -822,7 +827,7 @@
       "Name": "Acrobat",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -846,7 +851,7 @@
       "Name": "Like lightning!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -892,9 +897,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -942,7 +947,7 @@
       "Name": "Solo",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -966,7 +971,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -974,7 +979,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1054,7 +1059,7 @@
       "Name": "Shopping time!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1078,7 +1083,7 @@
       "Name": "Beyond the limit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1086,15 +1091,15 @@
       "Name": "Extra gear",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -1126,7 +1131,7 @@
       "Name": "A little nest egg",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -1148,29 +1153,29 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 425,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 91,
-      "Completed": 91
+      "Progressed": 93,
+      "Completed": 93
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:05:46.5833963+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:06:17.6555197+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:01:39.0458586+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:05:46.5834409+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:02:23.5591748+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:06:17.6555657+00:00"
 }

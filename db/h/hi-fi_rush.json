@@ -7513,9 +7513,9 @@
       "ID": "Ach046",
       "SetID": "12n4k20",
       "Name": "Have we met before?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach047",
@@ -7736,8 +7736,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:04:35.721533+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:04:56.9958147+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:58:07.514703+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:04:35.7216825+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:58:04.3613171+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:04:56.9960356+00:00"
 }

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bamboozled | 86.00% | ~6 |
-| The Way of the Sponge | 86.00% | ~6 |
+| Bamboozled | 100.00% | ~7 |
+| The Way of the Sponge | 100.00% | ~7 |
+| Deputy | 100.00% | ~7 |
+| Dress Up | 100.00% | ~7 |
+| Movie Star | 100.00% | ~7 |
+| Is it a plane? Is it a pizza? | 100.00% | ~7 |
+| Sponge out of Harm's Way | 100.00% | ~7 |
+| Red and Shiny | 100.00% | ~7 |
+| First Mate | 100.00% | ~7 |
+| Stunning Performance | 100.00% | ~7 |
+| Wanted Sponge | 100.00% | ~7 |
+| BounceBob | 86.00% | ~6 |
 | Boxing Champion | 86.00% | ~6 |
-| Deputy | 86.00% | ~6 |
-| Dress Up | 86.00% | ~6 |
-| Movie Star | 86.00% | ~6 |
-| Is it a plane? Is it a pizza? | 86.00% | ~6 |
-| Sponge out of Harm's Way | 86.00% | ~6 |
-| Red and Shiny | 86.00% | ~6 |
 | ScaredyPants | 86.00% | ~6 |
-| First Mate | 86.00% | ~6 |
-| Stunning Performance | 86.00% | ~6 |
-| Wanted Sponge | 86.00% | ~6 |
-| BounceBob | 71.00% | ~5 |
 | Bubble the Trouble | 71.00% | ~5 |
 | Local Hero | 71.00% | ~5 |
 | Ride Rider | 71.00% | ~5 |
 | King of the Castle | 71.00% | ~5 |
 | Ugh Ugaha! | 71.00% | ~5 |
+| Friendly Fire | 57.00% | ~4 |
 | SpongeBob JellyPants | 57.00% | ~4 |
 | Tentacle Dodger | 57.00% | ~4 |
-| Friendly Fire | 43.00% | ~3 |
+| Sponginator | 57.00% | ~4 |
 | Jaws with Flaws | 43.00% | ~3 |
 | Jellyfish Hunter | 43.00% | ~3 |
 | Music Enthusiast | 43.00% | ~3 |
 | Splash Zone | 43.00% | ~3 |
 | Knight in shining PJs | 43.00% | ~3 |
-| Sponginator | 43.00% | ~3 |
 | Spring Cleaning | 43.00% | ~3 |
 | One Sponge to Rule Them All | 29.00% | ~2 |
 | Beach Spinster | 29.00% | ~2 |

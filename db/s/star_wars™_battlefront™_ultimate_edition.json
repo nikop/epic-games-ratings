@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 860,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2023-10-27T07:09:03.309772+00:00",
       "NumProgressed": 858,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T12:09:30.8276647+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2540,7 +2545,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_22",
@@ -2548,7 +2553,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_23",
@@ -2572,7 +2577,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_26",
@@ -2580,7 +2585,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_27",
@@ -2636,7 +2641,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_33",
@@ -2652,7 +2657,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_35",
@@ -2660,7 +2665,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 783
     },
     {
       "ID": "achievement_36",
@@ -2676,7 +2681,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 585
     },
     {
       "ID": "achievement_38",
@@ -2684,7 +2689,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_39",
@@ -2708,7 +2713,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "achievement_41",
@@ -2788,7 +2793,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achievement_50",
@@ -2876,7 +2881,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "achievement_60",
@@ -2939,13 +2944,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 860,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 858,
+      "Progressed": 860,
       "Completed": 1
     }
   ],
@@ -2953,8 +2958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:08:55.4487473+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:09:30.8276638+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:57:40.0691544+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:08:55.4489164+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:57:33.0628639+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:09:30.827815+00:00"
 }

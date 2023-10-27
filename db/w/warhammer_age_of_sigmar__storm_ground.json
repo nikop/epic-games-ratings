@@ -2,12 +2,12 @@
   "ID": "a7cada234b3840b88336f028778ff162",
   "Name": "Warhammer Age of Sigmar: Storm Ground",
   "ProductSlug": "warhammer-age-of-sigmar-storm-ground",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-03-05T07:58:17.1363018+00:00",
@@ -29,6 +29,12 @@
     {
       "Time": "2023-03-31T05:58:09.6964056+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-27T11:58:38.222416+00:00",
+      "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -49,8 +55,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:43.2871759+00:00",
   "FirstSeenRating": "2023-03-05T07:58:17.1363016+00:00",
-  "LastChanged": "2023-03-31T05:58:09.6964054+00:00",
+  "LastChanged": "2023-10-27T11:58:38.2224159+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:02.4476567+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:58:33.7861262+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:08:58.0314394+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:58:38.2224165+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:09:33.822157+00:00"
 }

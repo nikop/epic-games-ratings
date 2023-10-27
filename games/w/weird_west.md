@@ -1,30 +1,30 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 651)  
+Rating: 4.45 (Ranked 652)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,707 |
-| Self-Improvement | 71.00% | ~1,377 |
-| Perky | 65.00% | ~1,261 |
-| Let’s Ride | 60.00% | ~1,164 |
+| Unforgiven | 88.00% | ~1,708 |
+| Self-Improvement | 71.00% | ~1,378 |
+| Perky | 65.00% | ~1,262 |
+| Let’s Ride | 60.00% | ~1,165 |
 | Welcome to the Weird West | 57.00% | ~1,106 |
-| Dead or Alive | 56.00% | ~1,086 |
+| Dead or Alive | 56.00% | ~1,087 |
 | Full House | 37.00% | ~718 |
 | Off the Trail | 34.00% | ~660 |
 | Justice Served | 30.00% | ~582 |
-| Chain Reaction | 26.00% | ~504 |
-| Through Their Eyes | 26.00% | ~504 |
+| Chain Reaction | 26.00% | ~505 |
+| Through Their Eyes | 26.00% | ~505 |
 | Dishonored | 25.00% | ~485 |
 | Rain of Death | 25.00% | ~485 |
 | Scholar | 25.00% | ~485 |
 | The Great Escape | 23.00% | ~446 |
 | That’s All, Folks | 19.00% | ~369 |
-| Fallen Star | 16.00% | ~310 |
-| Here Comes Santa Claus | 16.00% | ~310 |
-| Winds of War | 16.00% | ~310 |
+| Fallen Star | 16.00% | ~311 |
+| Here Comes Santa Claus | 16.00% | ~311 |
+| Winds of War | 16.00% | ~311 |
 | For Balance | 15.00% | ~291 |
 | Dog Days | 13.00% | ~252 |
 | Out on the Ebb Tide | 13.00% | ~252 |
@@ -32,8 +32,8 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~252 |
 | Elusive Prey | 12.00% | ~233 |
 | Power Behind the Pulpit | 12.00% | ~233 |
-| Something Wicked This Way Comes… | 11.00% | ~213 |
-| There is Hope | 11.00% | ~213 |
+| Something Wicked This Way Comes… | 11.00% | ~214 |
+| There is Hope | 11.00% | ~214 |
 | The Philosopher’s Stone | 10.00% | ~194 |
 | Loyalty to the Pack | 9.00% | ~175 |
 | Eternity Can Wait | 9.00% | ~175 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,940 (Ranked 216)  
+Progressed: 1,941 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 7 (0.36%) (Ranked 208)
 | 2023-10-24 | 1,926 | 7 |
 | 2023-10-25 | 1,930 | 7 |
 | 2023-10-26 | 1,939 | 7 |
-| 2023-10-27 | 1,940 | 7 |
+| 2023-10-27 | 1,941 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

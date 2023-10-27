@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1689,
+  "EOS_Progressed": 1690,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6294,6 +6294,11 @@
       "Time": "2023-10-27T11:05:12.8336911+00:00",
       "NumProgressed": 1689,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T12:05:39.2053636+00:00",
+      "NumProgressed": 1690,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6417,7 +6422,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6608,7 +6613,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1689,
+      "Progressed": 1690,
       "Completed": 1
     }
   ],
@@ -6616,8 +6621,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:05:12.8336903+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:05:39.2053628+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:00:51.636204+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:05:12.8337722+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:01:27.8467256+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:05:39.2054848+00:00"
 }

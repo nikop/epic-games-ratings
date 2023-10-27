@@ -4,10 +4,10 @@
   "ProductSlug": "beyond-these-stars-a5b977",
   "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
-    "ReleaseDate": "2023-12-31T00:00:00+00:00",
+    "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.0462978+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:59:08.3573017+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:07:10.8767054+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:59:20.3674058+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:07:53.8657986+00:00"
 }

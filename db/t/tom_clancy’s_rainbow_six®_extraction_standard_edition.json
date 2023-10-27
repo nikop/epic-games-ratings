@@ -2,12 +2,12 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
-  "Ranking_Rating": 556,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-01-20T05:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 635,
   "RatingHistory": [
     {
@@ -2167,10 +2167,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1063,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2023-10-27T11:59:30.9470881+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1064,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1063,
+  "NumberOfAwards": 1064,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2214,7 +2220,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2246,8 +2252,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-10-25T19:58:27.2539772+00:00",
+  "LastChanged": "2023-10-27T11:59:30.947088+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.4518678+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:59:16.2623252+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:09:11.0276052+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:59:30.9470886+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:09:48.6732531+00:00"
 }

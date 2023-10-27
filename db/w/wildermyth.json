@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1695,6 +1695,11 @@
       "Time": "2023-10-27T10:08:45.0616906+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T12:09:03.6689571+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1720,9 +1725,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1976,9 +1981,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2153,15 +2158,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:08:31.8347439+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:09:03.6689564+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:58:09.5525513+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:08:31.8348097+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:58:06.6100547+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:09:03.6690422+00:00"
 }

@@ -23,10 +23,10 @@
 | The seer | 41.00% | ~13 |
 | Et in arcadia ego | 38.00% | ~12 |
 | The artist | 38.00% | ~12 |
-| Welcome to Hellville | 34.00% | ~11 |
+| Welcome to Hellville | 38.00% | ~12 |
+| You've awakened the beast | 31.00% | ~10 |
+| Hate is... addictive | 31.00% | ~10 |
 | You had one wish left | 31.00% | ~10 |
-| You've awakened the beast | 28.00% | ~9 |
-| Hate is... addictive | 28.00% | ~9 |
 | Blessed antennas | 28.00% | ~9 |
 | The bully | 22.00% | ~7 |
 | The barbarian invasions | 22.00% | ~7 |

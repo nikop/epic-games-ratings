@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 871,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3259,6 +3259,11 @@
       "Time": "2023-10-27T08:08:49.2571557+00:00",
       "NumProgressed": 870,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T12:09:12.3751696+00:00",
+      "NumProgressed": 871,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3308,9 +3313,9 @@
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 157
     },
     {
       "ID": "Close",
@@ -3356,9 +3361,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 70
     },
     {
       "ID": "First",
@@ -3396,9 +3401,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 105
     },
     {
       "ID": "LargeAirport",
@@ -3476,9 +3481,9 @@
       "ID": "NoTimeForModernization",
       "SetID": "1e89b4i",
       "Name": "No Time for Modernization",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "NoWayBack",
@@ -3486,15 +3491,15 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 157
     },
     {
       "ID": "Ownway",
@@ -3508,9 +3513,9 @@
       "ID": "PublicFigure",
       "SetID": "1e89b4i",
       "Name": "Public Figure",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RacingAgainstTime",
@@ -3550,7 +3555,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Reviewer",
@@ -3588,9 +3593,9 @@
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 131
     },
     {
       "ID": "TransportHub",
@@ -3598,21 +3603,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-27T11:08:39.5775474+00:00",
+  "LastChanged_Achievements": "2023-10-27T12:09:12.3751689+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-27T11:00:09.8098543+00:00",
-  "LastUpdate_Achievements": "2023-10-27T11:08:39.577603+00:00"
+  "LastUpdate_Ratings": "2023-10-27T12:00:36.0403748+00:00",
+  "LastUpdate_Achievements": "2023-10-27T12:09:12.3752292+00:00"
 }

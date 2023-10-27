@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~781 |
-| Off to a good start | 68.00% | ~583 |
-| Do... or do not. There is no try | 52.00% | ~446 |
+| New Recruit | 91.00% | ~783 |
+| Off to a good start | 68.00% | ~585 |
+| Do... or do not. There is no try | 52.00% | ~447 |
 | A good blaster at your side | 34.00% | ~292 |
 | Scrap collector | 20.00% | ~172 |
 | I suggest a new strategy | 20.00% | ~172 |
-| All right, I'll give it a try | 18.00% | ~154 |
-| Great shot, kid! | 18.00% | ~154 |
-| Together we can rule the galaxy | 16.00% | ~137 |
-| Shoot first | 16.00% | ~137 |
+| All right, I'll give it a try | 18.00% | ~155 |
+| Great shot, kid! | 18.00% | ~155 |
+| Together we can rule the galaxy | 16.00% | ~138 |
+| Shoot first | 16.00% | ~138 |
 | The power of the Force | 15.00% | ~129 |
 | Collector | 15.00% | ~129 |
-| Tell Jabba that I've got his money | 11.00% | ~94 |
-| Best star-pilot in the galaxy | 11.00% | ~94 |
-| Survivor | 11.00% | ~94 |
+| Tell Jabba that I've got his money | 11.00% | ~95 |
+| Best star-pilot in the galaxy | 11.00% | ~95 |
+| Survivor | 11.00% | ~95 |
 | Never tell me the odds! | 10.00% | ~86 |
 | What's the cargo? | 9.00% | ~77 |
 | A cunning warrior | 9.00% | ~77 |
@@ -26,8 +26,8 @@
 | Impressive. Most impressive. | 7.00% | ~60 |
 | Judge me by my size, do you? | 7.00% | ~60 |
 | Support the troops | 7.00% | ~60 |
-| Distinguished | 6.00% | ~51 |
-| A tremor in the Force | 6.00% | ~51 |
+| Distinguished | 6.00% | ~52 |
+| A tremor in the Force | 6.00% | ~52 |
 | Not bad for a little furball | 5.00% | ~43 |
 | Patience you must have | 5.00% | ~43 |
 | I've been waiting for you | 4.00% | ~34 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858 (Ranked 254)  
+Progressed: 860 (Ranked 254)  
 Completed: 1 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.12%) (Ranked 251)
 | 2023-10-24 | 827 | 1 |
 | 2023-10-25 | 840 | 1 |
 | 2023-10-26 | 857 | 1 |
-| 2023-10-27 | 858 | 1 |
+| 2023-10-27 | 860 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
