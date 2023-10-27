@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469770,
+  "EOS_Progressed": 469775,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20526,6 +20526,11 @@
       "Time": "2023-10-27T20:09:35.7360422+00:00",
       "NumProgressed": 469770,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-27T21:09:37.7825877+00:00",
+      "NumProgressed": 469775,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20553,7 +20558,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112745
+      "UsersEstimate": 112746
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20561,7 +20566,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103349
+      "UsersEstimate": 103350
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20577,7 +20582,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46977
+      "UsersEstimate": 46978
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20625,7 +20630,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310048
+      "UsersEstimate": 310052
     },
     {
       "ID": "achievement_story_landa",
@@ -20633,7 +20638,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23488
+      "UsersEstimate": 23489
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -20641,7 +20646,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23488
+      "UsersEstimate": 23489
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -20657,7 +20662,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117442
+      "UsersEstimate": 117444
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20713,7 +20718,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93954
+      "UsersEstimate": 93955
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20721,7 +20726,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159722
+      "UsersEstimate": 159724
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20737,7 +20742,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23488
+      "UsersEstimate": 23489
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -20961,7 +20966,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206699
+      "UsersEstimate": 206701
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -20969,7 +20974,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140931
+      "UsersEstimate": 140932
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -20977,7 +20982,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9395
+      "UsersEstimate": 9396
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -20993,7 +20998,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183210
+      "UsersEstimate": 183212
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21017,7 +21022,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23488
+      "UsersEstimate": 23489
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -21049,7 +21054,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103349
+      "UsersEstimate": 103350
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21168,21 +21173,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13704,
+      "Progressed": 13709,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469770,
+      "Progressed": 469775,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-27T20:09:35.7360412+00:00",
+  "LastChanged_Achievements": "2023-10-27T21:09:37.7825872+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:14.4263923+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:58:39.6885474+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:09:35.7362502+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:58:47.0512207+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:09:37.7827476+00:00"
 }

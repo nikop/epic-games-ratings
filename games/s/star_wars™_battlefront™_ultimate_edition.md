@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~788 |
-| Off to a good start | 68.00% | ~589 |
-| Do... or do not. There is no try | 52.00% | ~450 |
-| A good blaster at your side | 34.00% | ~294 |
-| Scrap collector | 20.00% | ~173 |
-| I suggest a new strategy | 20.00% | ~173 |
+| New Recruit | 91.00% | ~790 |
+| Off to a good start | 68.00% | ~590 |
+| Do... or do not. There is no try | 51.00% | ~443 |
+| A good blaster at your side | 34.00% | ~295 |
+| Scrap collector | 20.00% | ~174 |
+| I suggest a new strategy | 20.00% | ~174 |
 | All right, I'll give it a try | 18.00% | ~156 |
 | Great shot, kid! | 18.00% | ~156 |
 | Shoot first | 16.00% | ~139 |
@@ -18,7 +18,7 @@
 | Together we can rule the galaxy | 15.00% | ~130 |
 | Tell Jabba that I've got his money | 11.00% | ~95 |
 | Best star-pilot in the galaxy | 11.00% | ~95 |
-| Survivor | 11.00% | ~95 |
+| Survivor | 10.00% | ~87 |
 | What's the cargo? | 9.00% | ~78 |
 | Never tell me the odds! | 9.00% | ~78 |
 | A cunning warrior | 9.00% | ~78 |
@@ -49,13 +49,13 @@
 | Ackbar's Elite | 2.00% | ~17 |
 | You have your moments | 2.00% | ~17 |
 | When surrounded by war... | 2.00% | ~17 |
-| Stop that Droid | 2.00% | ~17 |
 | Alternative solution | 2.00% | ~17 |
 | Onwards! | 2.00% | ~17 |
 | The circle is now complete | 2.00% | ~17 |
 | A New Hope | 1.00% | ~9 |
 | No such thing as luck | 1.00% | ~9 |
 | Do we take prisoners? | 1.00% | ~9 |
+| Stop that Droid | 1.00% | ~9 |
 | Walker defender | 0.90% | ~8 |
 | I’ll take that bet | 0.80% | ~7 |
 | Stay on target | 0.50% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866 (Ranked 254)  
+Progressed: 868 (Ranked 254)  
 Completed: 1 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.12%) (Ranked 251)
 | 2023-10-24 | 827 | 1 |
 | 2023-10-25 | 840 | 1 |
 | 2023-10-26 | 857 | 1 |
-| 2023-10-27 | 866 | 1 |
+| 2023-10-27 | 868 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.80% | ~1,106 |
 | For the Hoard! | 0.80% | ~1,106 |
 | Scrapbooker | 0.80% | ~1,106 |
+| Flying off the Shelves | 0.80% | ~1,106 |
 | Hidden Potential | 0.80% | ~1,106 |
 | Expansion in Session | 0.80% | ~1,106 |
 | Trash to Treasure | 0.80% | ~1,106 |
@@ -58,11 +59,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.80% | ~1,106 |
 | A Notch Above the Rest | 0.70% | ~968 |
 | Cream of the Crop | 0.70% | ~968 |
+| Proud Paladin | 0.70% | ~968 |
 | Above the Norm | 0.70% | ~968 |
 | A Ronin Reborn | 0.70% | ~968 |
 | The King's Caprice | 0.70% | ~968 |
 | Locally Sourced | 0.70% | ~968 |
-| Flying off the Shelves | 0.70% | ~968 |
 | This Power Level...! | 0.70% | ~968 |
 | Master of Transmutation | 0.70% | ~968 |
 | Supercharged | 0.70% | ~968 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Exotic Commodities | 0.70% | ~968 |
 | King's Blade | 0.70% | ~968 |
 | Top of the World | 0.60% | ~829 |
-| Proud Paladin | 0.60% | ~829 |
 | Constellated | 0.60% | ~829 |
 | Thirst for Knowledge | 0.60% | ~829 |
 | Booty by the Boatload | 0.60% | ~829 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,222 (Ranked 75)  
+Progressed: 138,224 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,17 +309,17 @@ Completed: 172 (0.12%) (Ranked 251)
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
-| 2023-10-27 | 138,222 | 172 |
+| 2023-10-27 | 138,224 | 172 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
-Sum: 27,455 (Ranked 51)  
+Sum: 27,456 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,804 |
 | This game is Relaxing | 4,032 |
 | This game has Quickly Understood Controls | 4,019 |
-| This game has Diverse Characters | 3,926 |
+| This game has Diverse Characters | 3,927 |
 | This game is Highly Recommended | 3,767 |
 | This game has Easy Combat | 3,715 |
 | This game has Playful Visuals | 3,192 |
@@ -597,4 +597,4 @@ Diff (max vs sum): 22
 | 2023-10-23 | 3.99 | - | 4,800 | 27,434 |
 | 2023-10-25 | 3.99 | - | 4,801 | 27,446 |
 | 2023-10-26 | 3.99 | - | 4,801 | 27,451 |
-| 2023-10-27 | 3.99 | - | 4,804 | 27,455 |
+| 2023-10-27 | 3.99 | - | 4,804 | 27,456 |

@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231536,
+  "EOS_Progressed": 231538,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19841,6 +19841,11 @@
       "Time": "2023-10-27T20:04:29.3454106+00:00",
       "NumProgressed": 231536,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-27T21:04:41.2637272+00:00",
+      "NumProgressed": 231538,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -19916,7 +19921,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83353
+      "UsersEstimate": 83354
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -19996,7 +20001,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78722
+      "UsersEstimate": 78723
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -20052,7 +20057,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9261
+      "UsersEstimate": 9262
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -20075,7 +20080,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231536,
+      "Progressed": 231538,
       "Completed": 5
     }
   ],
@@ -20083,8 +20088,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-10-27T20:04:29.3454098+00:00",
+  "LastChanged_Achievements": "2023-10-27T21:04:41.2637267+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:00:07.6674883+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:04:29.3455441+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:00:29.6500011+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:04:41.2638319+00:00"
 }

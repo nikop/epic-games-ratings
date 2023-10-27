@@ -7,7 +7,7 @@ Rating: 4.57 (Ranked 462)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 28.00% | ~914 |
 | Sputnik 2049 | 25.00% | ~816 |
-| Infinite Growth... | 24.00% | ~783 |
+| Infinite Growth... | 24.00% | ~784 |
 | Without Breaking Some Eggs... | 23.00% | ~751 |
 | Space Society | 17.00% | ~555 |
 | A Thousand Strong | 17.00% | ~555 |
@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 462)
 | Man's Best Friend | 8.00% | ~261 |
 | Power Outage | 8.00% | ~261 |
 | Please Make it Stop! | 8.00% | ~261 |
-| Sightseeing | 7.00% | ~228 |
-| Convenient Transport | 7.00% | ~228 |
+| Sightseeing | 7.00% | ~229 |
+| Convenient Transport | 7.00% | ~229 |
 | Access Granted | 6.00% | ~196 |
 | Necessary Enhancement | 6.00% | ~196 |
 | All in Good Health | 6.00% | ~196 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 462)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,264 (Ranked 198)  
+Progressed: 3,265 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 3,255 | 0 |
 | 2023-10-25 | 3,256 | 0 |
 | 2023-10-26 | 3,260 | 0 |
-| 2023-10-27 | 3,264 | 0 |
+| 2023-10-27 | 3,265 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

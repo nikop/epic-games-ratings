@@ -4,7 +4,7 @@
   "ProductSlug": "hirilun-d92aa3",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-03-14T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.6582149+00:00",
   "LastChanged": "2023-03-31T05:58:47.658215+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:54.2991018+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:59:15.5845842+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:06:06.5920729+00:00"
+  "LastUpdate_Ratings": "2023-10-27T20:59:28.7516748+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:06:32.6224848+00:00"
 }

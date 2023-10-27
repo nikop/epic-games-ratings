@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 876,
+  "EOS_Progressed": 877,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3279,6 +3279,11 @@
       "Time": "2023-10-27T19:09:38.4671564+00:00",
       "NumProgressed": 876,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T21:08:57.2243136+00:00",
+      "NumProgressed": 877,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3376,9 +3381,9 @@
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "First",
@@ -3490,15 +3495,15 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "NoTimeForModernization",
       "SetID": "1e89b4i",
       "Name": "No Time for Modernization",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 114
     },
     {
       "ID": "NoWayBack",
@@ -3610,29 +3615,29 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 876,
+      "Progressed": 877,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-27T20:08:59.5522457+00:00",
+  "LastChanged_Achievements": "2023-10-27T21:08:57.2243132+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-27T19:59:48.4980598+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:08:59.5523731+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:00:08.2772241+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:08:57.2243556+00:00"
 }

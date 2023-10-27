@@ -10,8 +10,8 @@
 | Notai Notes | 67.00% | ~24 |
 | Blue Dreams | 64.00% | ~23 |
 | He's Famous! | 64.00% | ~23 |
+| True Legends | 64.00% | ~23 |
 | I Broke It | 64.00% | ~23 |
-| True Legends | 61.00% | ~22 |
 | Krugmazing | 58.00% | ~21 |
 | Never Gets Old | 58.00% | ~21 |
 | The Fire Below the Mountain | 58.00% | ~21 |

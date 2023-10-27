@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
+| Greater Kmt Unified | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
 | Beja Archer | 0.40% | ~60 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
@@ -163,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
-| Greater Kmt Unified | 0.30% | ~45 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,988 (Ranked 142)  
+Progressed: 14,990 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,988 | 5 |
+| 2023-10-27 | 14,990 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

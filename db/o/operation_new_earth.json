@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1690,
+  "EOS_Progressed": 1692,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6299,6 +6299,11 @@
       "Time": "2023-10-27T12:05:39.2053636+00:00",
       "NumProgressed": 1690,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T21:05:12.1573437+00:00",
+      "NumProgressed": 1692,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6310,7 +6315,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6334,7 +6339,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6382,7 +6387,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_headquarters_10",
@@ -6398,7 +6403,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_headquarters_20",
@@ -6454,7 +6459,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -6478,7 +6483,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6486,7 +6491,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6566,7 +6571,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6613,7 +6618,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1690,
+      "Progressed": 1692,
       "Completed": 1
     }
   ],
@@ -6621,8 +6626,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-27T20:04:56.2364808+00:00",
+  "LastChanged_Achievements": "2023-10-27T21:05:12.1573432+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:00:20.7826491+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:04:56.2365487+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:00:46.835186+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:05:12.1573943+00:00"
 }

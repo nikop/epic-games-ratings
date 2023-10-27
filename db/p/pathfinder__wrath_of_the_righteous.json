@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 118,
+  "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 135,
@@ -4019,9 +4019,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11832,
+  "EOS_Progressed": 11833,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14519,6 +14519,11 @@
       "Time": "2023-10-27T20:04:04.8025872+00:00",
       "NumProgressed": 11832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T21:04:13.0310596+00:00",
+      "NumProgressed": 11833,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14538,7 +14543,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14666,7 +14671,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "19_EqualToAroden",
@@ -15457,21 +15462,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10614,
+      "Progressed": 10615,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11832,
+      "Progressed": 11833,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-27T16:02:43.8133419+00:00",
-  "LastChanged_Achievements": "2023-10-27T20:04:04.8025863+00:00",
+  "LastChanged_Achievements": "2023-10-27T21:04:13.0310591+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:02:49.049357+00:00",
-  "LastUpdate_Achievements": "2023-10-27T20:04:04.8028387+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:02:43.5605953+00:00",
+  "LastUpdate_Achievements": "2023-10-27T21:04:13.0312449+00:00"
 }

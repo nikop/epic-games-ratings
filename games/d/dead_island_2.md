@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 518)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,278 |
-| Welcome To Hell-A | 5.00% | ~35,278 |
-| Git Gutte! | 4.00% | ~28,223 |
-| Break A Leg | 4.00% | ~28,223 |
-| Coup de Grâce | 4.00% | ~28,223 |
-| Hazardous Materials | 4.00% | ~28,223 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,223 |
-| Dr. Reed, I Presume? | 3.00% | ~21,167 |
-| Bookworm | 3.00% | ~21,167 |
-| But Doctor, I am Butcho | 3.00% | ~21,167 |
-| Slayer Squad | 3.00% | ~21,167 |
-| Can't Handle the Truth | 3.00% | ~21,167 |
-| Like Riding a Bike | 3.00% | ~21,167 |
-| Friends Like These | 3.00% | ~21,167 |
-| Apex Predator | 3.00% | ~21,167 |
-| Zombologist | 3.00% | ~21,167 |
-| A Patton Emerges | 3.00% | ~21,167 |
-| Stacking the Deck | 3.00% | ~21,167 |
-| This is My Weapon | 3.00% | ~21,167 |
-| Making Your Mark | 2.00% | ~14,111 |
-| Anger Management | 2.00% | ~14,111 |
-| Perks of the Job | 2.00% | ~14,111 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,111 |
-| Ooh, Shiny! | 2.00% | ~14,111 |
-| Humanity Distilled | 2.00% | ~14,111 |
-| I Am the Resurrection | 2.00% | ~14,111 |
-| Down with the Sickness | 2.00% | ~14,111 |
-| Our True Nature | 2.00% | ~14,111 |
+| Hotel California | 5.00% | ~35,280 |
+| Welcome To Hell-A | 5.00% | ~35,280 |
+| Git Gutte! | 4.00% | ~28,224 |
+| Break A Leg | 4.00% | ~28,224 |
+| Coup de Grâce | 4.00% | ~28,224 |
+| Hazardous Materials | 4.00% | ~28,224 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,224 |
+| Dr. Reed, I Presume? | 3.00% | ~21,168 |
+| Bookworm | 3.00% | ~21,168 |
+| But Doctor, I am Butcho | 3.00% | ~21,168 |
+| Slayer Squad | 3.00% | ~21,168 |
+| Can't Handle the Truth | 3.00% | ~21,168 |
+| Like Riding a Bike | 3.00% | ~21,168 |
+| Friends Like These | 3.00% | ~21,168 |
+| Apex Predator | 3.00% | ~21,168 |
+| Zombologist | 3.00% | ~21,168 |
+| A Patton Emerges | 3.00% | ~21,168 |
+| Stacking the Deck | 3.00% | ~21,168 |
+| This is My Weapon | 3.00% | ~21,168 |
+| Making Your Mark | 2.00% | ~14,112 |
+| Anger Management | 2.00% | ~14,112 |
+| Perks of the Job | 2.00% | ~14,112 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,112 |
+| Ooh, Shiny! | 2.00% | ~14,112 |
+| Humanity Distilled | 2.00% | ~14,112 |
+| I Am the Resurrection | 2.00% | ~14,112 |
+| Down with the Sickness | 2.00% | ~14,112 |
+| Our True Nature | 2.00% | ~14,112 |
 | Smorgasbord | 1.00% | ~7,056 |
 | Jumbo Keyring | 1.00% | ~7,056 |
 | Max Headroom | 1.00% | ~7,056 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 518)
 | Make it So | 0.80% | ~5,645 |
 | On Safari | 0.80% | ~5,645 |
 | Variety is the Spice of Death | 0.80% | ~5,645 |
-| LA Influential | 0.60% | ~4,233 |
-| Gore Horse | 0.60% | ~4,233 |
+| LA Influential | 0.60% | ~4,234 |
+| Gore Horse | 0.60% | ~4,234 |
 | Sole Survivor | 0.50% | ~3,528 |
 | Sharpest Tool in the Box | 0.50% | ~3,528 |
 | Survival Skills | 0.40% | ~2,822 |
 | Donk! | 0.20% | ~1,411 |
 | Bucket List | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,563 (Ranked 22)  
+Progressed: 705,603 (Ranked 22)  
 Completed: 2,274 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 2,274 (0.32%) (Ranked 210)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 705,563 | 2,274 |
+| 2023-10-27 | 705,603 | 2,274 |
 ## Awards
 Max (Great Boss Battles): 6,671  (Ranked 57)  
-Sum: 10,030 (Ranked 91)  
+Sum: 10,036 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -254,9 +254,9 @@ Diff (max vs sum): -34
 | This game has Quickly Understood Controls | 443 |
 | This game is Relaxing | 427 |
 | This game has Amazing Storytelling | 405 |
-| This game is Highly Recommended | 386 |
+| This game is Highly Recommended | 390 |
 | This game is Extremely Fun | 376 |
-| This game has Amazing Characters | 366 |
+| This game has Amazing Characters | 368 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -449,4 +449,4 @@ Diff (max vs sum): -34
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
 | 2023-10-25 | 4.54 | 6,625 | 9,955 |
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
-| 2023-10-27 | 4.54 | 6,671 | 10,030 |
+| 2023-10-27 | 4.54 | 6,671 | 10,036 |
