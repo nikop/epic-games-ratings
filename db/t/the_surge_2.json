@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2095,
+  "EOS_Progressed": 2096,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2754,6 +2754,11 @@
       "Time": "2023-10-26T15:10:15.1839018+00:00",
       "NumProgressed": 2095,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-27T11:08:37.7839643+00:00",
+      "NumProgressed": 2096,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 57,
@@ -2789,7 +2794,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACHV_05",
@@ -2837,7 +2842,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHV_11",
@@ -2917,7 +2922,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHV_21",
@@ -2965,7 +2970,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHV_27",
@@ -2973,7 +2978,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACHV_28",
@@ -2987,9 +2992,9 @@
       "ID": "ACHV_29",
       "SetID": "8p5mlmc",
       "Name": "Triplets",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_30",
@@ -3037,7 +3042,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHV_36",
@@ -3069,7 +3074,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACHV_40",
@@ -3220,7 +3225,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2095,
+      "Progressed": 2096,
       "Completed": 12
     }
   ],
@@ -3228,8 +3233,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:08:50.8214626+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:08:37.7839635+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:11.9883876+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:59:51.8530286+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:08:50.8215312+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:00:04.3672233+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:08:37.7840498+00:00"
 }

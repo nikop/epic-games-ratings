@@ -293,9 +293,9 @@
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 34,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "22",
@@ -533,25 +533,25 @@
       "ID": "6",
       "SetID": "d37idgg",
       "Name": "Diagnosis: fear",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "7",
       "SetID": "d37idgg",
       "Name": "Ambition is... blind",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "8",
       "SetID": "d37idgg",
       "Name": "You have two wishes left",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "9",
@@ -572,8 +572,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:09:15.8809506+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:09:03.2070881+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.5452613+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:01:19.0776256+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:09:15.8809943+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:01:32.7705426+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:09:03.2071307+00:00"
 }

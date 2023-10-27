@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 54,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250672,
+  "EOS_Progressed": 250674,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17462,6 +17462,11 @@
       "Time": "2023-10-27T08:08:38.7420003+00:00",
       "NumProgressed": 250672,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-27T11:08:26.1965581+00:00",
+      "NumProgressed": 250674,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17497,7 +17502,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52641
+      "UsersEstimate": 52642
     },
     {
       "ID": "blotbuster",
@@ -17529,7 +17534,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42614
+      "UsersEstimate": 42615
     },
     {
       "ID": "cantBeKeptDown",
@@ -17577,7 +17582,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50134
+      "UsersEstimate": 50135
     },
     {
       "ID": "didYourTime",
@@ -17649,7 +17654,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132856
+      "UsersEstimate": 132857
     },
     {
       "ID": "indegestible",
@@ -17713,7 +17718,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125336
+      "UsersEstimate": 125337
     },
     {
       "ID": "notScared",
@@ -17793,7 +17798,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32587
+      "UsersEstimate": 32588
     },
     {
       "ID": "treeMedalist",
@@ -17840,7 +17845,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250672,
+      "Progressed": 250674,
       "Completed": 6
     }
   ],
@@ -17848,8 +17853,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:08:39.4607806+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:08:26.1965575+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.9035845+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:58:35.1267063+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:08:39.4609269+00:00"
+  "LastUpdate_Ratings": "2023-10-27T10:58:51.6153623+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:08:26.1967097+00:00"
 }

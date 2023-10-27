@@ -32,12 +32,12 @@
 | Unbeatable | 14.00% | ~9 |
 | Heavy Purger | 13.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
+| Apian Hero | 11.00% | ~7 |
 | Behenian Hero | 11.00% | ~7 |
 | Anomaly Control | 9.00% | ~6 |
 | Denying Destiny | 9.00% | ~6 |
 | Stellar Haste | 9.00% | ~6 |
 | The Dark Moon | 9.00% | ~6 |
-| Apian Hero | 9.00% | ~6 |
 | Lacertian Hero | 9.00% | ~6 |
 | Can't touch this | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |

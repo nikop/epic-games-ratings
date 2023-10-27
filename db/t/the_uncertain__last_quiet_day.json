@@ -3,8 +3,8 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.21,
+  "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -724,6 +724,11 @@
       "Time": "2023-10-26T12:10:11.7009091+00:00",
       "NumProgressed": 561,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-27T11:07:55.4277033+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -741,17 +746,17 @@
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "BLADE_RUNNER",
       "SetID": "2iigf77",
       "Name": "Blade Runner",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 56
     },
     {
       "ID": "BUCKLE_UP",
@@ -759,7 +764,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -781,9 +786,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -807,7 +812,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "HACKER",
@@ -823,7 +828,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -895,7 +900,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "PERFECT_HEARING",
@@ -903,7 +908,7 @@
       "Name": "Perfect hearing",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "PLEASE",
@@ -911,7 +916,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "POOL",
@@ -927,7 +932,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -935,7 +940,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "SILENT",
@@ -949,9 +954,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -967,7 +972,7 @@
       "Name": "There is another way",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "UNCERTAIN",
@@ -990,7 +995,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 18
     }
   ],
@@ -998,8 +1003,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:08:28.8675008+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:07:55.4277027+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.6002167+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:58:25.8773086+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:08:28.867526+00:00"
+  "LastUpdate_Ratings": "2023-10-27T10:58:41.2979232+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:07:55.4277716+00:00"
 }

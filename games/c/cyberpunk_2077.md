@@ -43,6 +43,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
+| It's Elementary | 0.20% | ~1,788 |
 | Relic Ruler | 0.20% | ~45 |
 | Judgement Day | 0.20% | ~45 |
 | King of Pentacles | 0.20% | ~45 |
@@ -57,7 +58,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.10% | ~894 |
 | The Sun | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
-| It's Elementary | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
 | King of Swords | 0.10% | ~23 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 893,986 (Ranked 15)  
+Progressed: 893,991 (Ranked 15)  
 Completed: 2,717 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,717 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 893,986 | 2,717 |
+| 2023-10-27 | 893,991 | 2,717 |
 ## Awards
 Max (Character Customization): 101,755  (Ranked 9)  
 Sum: 328,756 (Ranked 10)  

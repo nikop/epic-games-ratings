@@ -14246,9 +14246,9 @@
       "Count": 11655
     }
   ],
-  "EOS_Progressed": 893986,
+  "EOS_Progressed": 893991,
   "EOS_Completed": 2717,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35771,6 +35771,11 @@
       "Time": "2023-10-27T10:03:23.4321048+00:00",
       "NumProgressed": 893986,
       "NumCompleted": 2717
+    },
+    {
+      "Time": "2023-10-27T11:03:25.9120794+00:00",
+      "NumProgressed": 893991,
+      "NumCompleted": 2717
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36117,9 +36122,9 @@
       "ID": "YipMan",
       "SetID": "47clieb",
       "Name": "It\u0027s Elementary",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 1788
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -36302,21 +36307,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 893986,
+      "Progressed": 893991,
       "Completed": 2717
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22609,
+      "Progressed": 22614,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-27T08:00:33.9150612+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:03:23.4321042+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:03:25.9120788+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:01:20.0369535+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:03:23.4323189+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:01:33.8607789+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:03:25.9123685+00:00"
 }

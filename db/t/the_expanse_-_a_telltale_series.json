@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 14362,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9802,9 +9802,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "22",
@@ -9993,8 +9993,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:03:15.4746676+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:03:17.6176456+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:01:29.5162877+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:03:15.4748196+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:01:43.3432574+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:03:17.617749+00:00"
 }

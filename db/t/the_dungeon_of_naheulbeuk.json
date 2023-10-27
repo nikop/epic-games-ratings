@@ -1233,9 +1233,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233327,
+  "EOS_Progressed": 233333,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16278,6 +16278,11 @@
       "Time": "2023-10-27T10:06:09.970376+00:00",
       "NumProgressed": 233327,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T11:06:15.3551649+00:00",
+      "NumProgressed": 233333,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16337,7 +16342,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11666
+      "UsersEstimate": 11667
     },
     {
       "ID": "Chapter2",
@@ -16737,7 +16742,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79331
+      "UsersEstimate": 79333
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16815,9 +16820,9 @@
       "ID": "KillDungeonLich",
       "SetID": "50chcgj",
       "Name": "Dead for good",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2333
     },
     {
       "ID": "KillGolbargh",
@@ -16992,21 +16997,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233327,
+      "Progressed": 233333,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233327,
+      "Progressed": 233333,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-27T08:58:04.965765+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:06:09.9703752+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:06:15.3551643+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:57:59.6394772+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:06:09.970557+00:00"
+  "LastUpdate_Ratings": "2023-10-27T10:58:13.1935234+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:06:15.3553743+00:00"
 }

@@ -17,12 +17,12 @@
 | A rival with no options | 47.00% | ~15 |
 | Pulp! Terror Tales in the Night | 47.00% | ~15 |
 | Kirlian's best disciple | 47.00% | ~15 |
-| Diagnosis: fear | 44.00% | ~14 |
-| Ambition is... blind | 44.00% | ~14 |
+| Diagnosis: fear | 47.00% | ~15 |
+| Ambition is... blind | 47.00% | ~15 |
+| You have two wishes left | 44.00% | ~14 |
 | The seer | 41.00% | ~13 |
-| You have two wishes left | 41.00% | ~13 |
+| Et in arcadia ego | 38.00% | ~12 |
 | The artist | 38.00% | ~12 |
-| Et in arcadia ego | 34.00% | ~11 |
 | Welcome to Hellville | 34.00% | ~11 |
 | You had one wish left | 31.00% | ~10 |
 | You've awakened the beast | 28.00% | ~9 |

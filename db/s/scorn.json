@@ -2,12 +2,12 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -203,11 +203,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2473,
+  "EOS_Progressed": 2474,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.96,
+  "EOS_Completed_Percentage": 6.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -3093,6 +3093,11 @@
       "Time": "2023-10-27T07:05:38.8083508+00:00",
       "NumProgressed": 2473,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-10-27T11:05:49.963662+00:00",
+      "NumProgressed": 2474,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 12,
@@ -3112,7 +3117,7 @@
       "Name": "002",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "003",
@@ -3199,7 +3204,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 2473,
+      "Progressed": 2474,
       "Completed": 172
     }
   ],
@@ -3207,8 +3212,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-10-15T10:01:42.1764859+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:05:44.7028037+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:05:49.963661+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:11.6474221+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:01:25.0601248+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:05:44.7028662+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:01:38.6178181+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:05:49.963693+00:00"
 }

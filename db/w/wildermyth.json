@@ -1864,9 +1864,9 @@
       "ID": "achievement_loseBattle",
       "SetID": "95dc8p",
       "Name": "This Too Shall Pass",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1880,9 +1880,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_mythwalker",
@@ -1920,9 +1920,9 @@
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "completedStory_cvawn",
@@ -2160,8 +2160,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:08:45.0616902+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:08:31.8347439+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-27T09:57:56.0216448+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:08:45.0617428+00:00"
+  "LastUpdate_Ratings": "2023-10-27T10:58:09.5525513+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:08:31.8348097+00:00"
 }

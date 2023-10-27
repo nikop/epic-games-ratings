@@ -8,12 +8,12 @@ Rating: 4.59 (Ranked 423)
 | Oyedang, Kopengs | 0.80% | ~115 |
 | Drug Gifter | 0.40% | ~57 |
 | The Pit and the Pirates | 0.30% | ~43 |
+| Drone Dodger | 0.30% | ~43 |
 | Bosmang | 0.30% | ~43 |
 | Doctor Approved | 0.20% | ~29 |
 | Stogie for Fogey | 0.20% | ~29 |
 | Spore Taste | 0.20% | ~29 |
 | Martian Music | 0.20% | ~29 |
-| Drone Dodger | 0.20% | ~29 |
 | Heal Thy Medic | 0.20% | ~29 |
 | Call it Even | 0.20% | ~29 |
 | Captain Drummer | 0.20% | ~29 |

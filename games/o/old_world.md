@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~135 |
 | Power to the People | 0.90% | ~135 |
 | Persian Paganism | 0.90% | ~135 |
+| Building Wonders | 0.90% | ~135 |
 | Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
 | Riders | 0.80% | ~120 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
-| Building Wonders | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,976 (Ranked 142)  
+Progressed: 14,977 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,976 | 5 |
+| 2023-10-27 | 14,977 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

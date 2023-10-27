@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 432,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -987,9 +987,9 @@
       "ID": "ApianHero",
       "SetID": "1jeo1g7",
       "Name": "Apian Hero",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ApianMastery",
@@ -1130,8 +1130,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-27T10:05:53.1477817+00:00",
+  "LastChanged_Achievements": "2023-10-27T11:05:58.3977342+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-27T10:00:43.4989903+00:00",
-  "LastUpdate_Achievements": "2023-10-27T10:05:53.1479017+00:00"
+  "LastUpdate_Ratings": "2023-10-27T11:00:56.9859604+00:00",
+  "LastUpdate_Achievements": "2023-10-27T11:05:58.3978525+00:00"
 }

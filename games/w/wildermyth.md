@@ -6,12 +6,12 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 0.70% | ~10 |
+| The Cost of Heroism | 0.80% | ~12 |
 | Gotta Ca... Must Collect All of Them | 0.60% | ~9 |
 | Passing Shadow | 0.60% | ~9 |
+| This Too Shall Pass | 0.60% | ~9 |
 | How Romantic! | 0.60% | ~9 |
 | Me and My Familiar | 0.50% | ~7 |
-| This Too Shall Pass | 0.50% | ~7 |
 | Cutthroat Competitors | 0.50% | ~7 |
 | Daybreak | 0.40% | ~6 |
 | Let Me Get My Chisel | 0.30% | ~4 |
@@ -19,6 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 0.30% | ~4 |
 | Who's Counting? | 0.20% | ~3 |
 | Thematic Divergence | 0.20% | ~3 |
+| Pyrrhic Victory | 0.20% | ~3 |
 | War Endured | 0.20% | ~3 |
 | A Story of Heroes | 0.20% | ~3 |
 | Core Failure | 0.20% | ~3 |
@@ -29,7 +30,6 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
-| Pyrrhic Victory | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
