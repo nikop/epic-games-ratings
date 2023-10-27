@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.80% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.79% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -55,7 +55,7 @@
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.96% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.83% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.81% |
 | 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -113,10 +113,10 @@
 | 111 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.41% |
 | 112 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 114 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.37% |
+| 114 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.36% |
 | 115 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
-| 116 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.27% |
-| 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.22% |
+| 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.22% |
+| 116 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.22% |
 | 118 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.08% |
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 120 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
@@ -133,7 +133,7 @@
 | 131 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 134 | [Late Shift](games/l/late_shift.md) | 1.45% |
+| 134 | [Late Shift](games/l/late_shift.md) | 1.44% |
 | 135 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
 | 136 | [Poosh XL](games/p/poosh_xl.md) | 1.37% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
@@ -192,12 +192,12 @@
 | 190 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 190 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.46% |
-| 192 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.46% |
 | 192 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 192 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 196 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 196 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
-| 196 | [Tchia](games/t/tchia.md) | 0.45% |
+| 195 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 195 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
+| 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
+| 195 | [Tchia](games/t/tchia.md) | 0.45% |
 | 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 201 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -251,13 +251,13 @@
 | 248 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 248 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 251 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 251 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.12% |
 | 251 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 251 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
 | 251 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
-| 256 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 256 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 256 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 255 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 255 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
+| 255 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 259 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 259 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 259 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.10% |
@@ -476,6 +476,7 @@
 | 328 | [Hazel Sky](games/h/hazel_sky.md) | 0.00% |
 | 328 | [Heim](games/h/heim.md) | 0.00% |
 | 328 | [Hell is Others](games/h/hell_is_others.md) | 0.00% |
+| 328 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 0.00% |
 | 328 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 0.00% |
 | 328 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 0.00% |
 | 328 | [HORSE CLUB Adventures](games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 0.00% |
@@ -704,4 +705,4 @@
 | 328 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 328 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 328 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,469 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,470 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
