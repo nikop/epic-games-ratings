@@ -541,6 +541,7 @@
 | [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |
 | [RoboCop: Rogue City](../games/r/robocop__rogue_city.md) | 27 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
+| [Roboquest](../games/c/c981760ff69f4586aedb60a6db191705.md) | 76 | 1,000 |
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
