@@ -3,10 +3,10 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.77% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.63% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.44% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.40% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.92% |
 | 8 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 33.33% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -47,8 +47,8 @@
 | 44 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 47 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.41% |
@@ -70,7 +70,7 @@
 | 68 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 69 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.76% |
 | 70 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
-| 71 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.68% |
+| 71 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.67% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 73 | [ZZT!](games/z/zzt!.md) | 4.43% |
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
@@ -120,7 +120,7 @@
 | 118 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.17% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.08% |
 | 120 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.95% |
+| 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
 | 122 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 123 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.81% |
 | 123 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -133,13 +133,13 @@
 | 131 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 134 | [Late Shift](games/l/late_shift.md) | 1.42% |
-| 135 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
+| 134 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
+| 134 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
-| 137 | [Chorus](games/c/chorus.md) | 1.36% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.36% |
 | 137 | [Poosh XL](games/p/poosh_xl.md) | 1.36% |
-| 140 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
+| 139 | [Chorus](games/c/chorus.md) | 1.35% |
+| 139 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
 | 141 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 142 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 143 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
@@ -165,8 +165,8 @@
 | 163 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 166 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.68% |
-| 166 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.71% |
+| 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 170 | [Eternights](games/e/eternights.md) | 0.65% |
