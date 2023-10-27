@@ -7,7 +7,7 @@
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,326 | 94 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 540 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 540 |
-| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,921 | 112 |
+| 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,924 | 112 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 540 |
 | 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,495 | 43 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 540 |
@@ -256,7 +256,7 @@
 | 244 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,290 | 70 |
 | 244 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 0 | 540 |
 | 244 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 311,427 | 3 |
-| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 248,721 | 4 |
+| 244 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 249,235 | 4 |
 | 244 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 540 |
 | 244 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 540 |
 | 244 | [Madcar GT (Multiplayer)](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.68 | 0 | 540 |
@@ -287,7 +287,7 @@
 | 269 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,785 | 86 |
 | 269 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 540 |
 | 287 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 378 |
-| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,918 | 65 |
+| 287 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,931 | 65 |
 | 287 | [Coromon](games/c/coromon.md) | 4.66 | 42 | 444 |
 | 287 | [Crashlands](games/c/crashlands.md) | 4.66 | 194 | 283 |
 | 287 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.66 | 0 | 540 |
@@ -517,7 +517,7 @@
 | 495 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,328 | 135 |
 | 516 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 509 |
 | 516 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,518 | 126 |
-| 516 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,651 | 57 |
+| 516 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,671 | 57 |
 | 516 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 460 |
 | 516 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 540 |
 | 516 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 23 | 519 |
@@ -627,29 +627,29 @@
 | 613 | [Train Valley](games/t/train_valley.md) | 4.48 | 0 | 540 |
 | 626 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 540 |
 | 626 | [ELEX](games/e/elex.md) | 4.47 | 24 | 514 |
-| 626 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 0 | 540 |
 | 626 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,560 | 90 |
 | 626 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.47 | 0 | 540 |
 | 626 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.47 | 1,342 | 133 |
 | 626 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 533 |
 | 626 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 540 |
-| 634 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 540 |
-| 634 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 540 |
-| 634 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 540 |
-| 634 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 420 |
-| 634 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,655 | 89 |
-| 634 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 540 |
-| 634 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 469 |
-| 634 | [Faeria](games/f/faeria.md) | 4.46 | 113 | 336 |
-| 634 | [Figment](games/f/figment.md) | 4.46 | 20 | 533 |
-| 634 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 540 |
-| 634 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 540 |
-| 634 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 540 |
-| 634 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 540 |
-| 634 | [Scorn](games/s/scorn.md) | 4.46 | 0 | 540 |
-| 634 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 540 |
-| 634 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 290 | 247 |
-| 634 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 540 |
+| 633 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 540 |
+| 633 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 540 |
+| 633 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 540 |
+| 633 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 420 |
+| 633 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,655 | 89 |
+| 633 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 540 |
+| 633 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 469 |
+| 633 | [Faeria](games/f/faeria.md) | 4.46 | 113 | 336 |
+| 633 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 0 | 540 |
+| 633 | [Figment](games/f/figment.md) | 4.46 | 20 | 533 |
+| 633 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 540 |
+| 633 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 540 |
+| 633 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 540 |
+| 633 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 540 |
+| 633 | [Scorn](games/s/scorn.md) | 4.46 | 0 | 540 |
+| 633 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 540 |
+| 633 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 290 | 247 |
+| 633 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 540 |
 | 651 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.45 | 106 | 344 |
 | 651 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 540 |
 | 651 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 254 | 261 |

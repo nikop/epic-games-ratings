@@ -3,9 +3,9 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.91% |
 | 5 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 42.86% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.76% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.75% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -54,7 +54,7 @@
 | 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
-| 55 | [Scorn](games/s/scorn.md) | 6.96% |
+| 55 | [Scorn](games/s/scorn.md) | 6.95% |
 | 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
 | 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -77,7 +77,7 @@
 | 75 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.31% |
 | 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.15% |
-| 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
+| 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -90,7 +90,7 @@
 | 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 89 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 90 | [The Complex](games/t/the_complex.md) | 3.21% |
-| 90 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.21% |
+| 91 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
 | 92 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.14% |
 | 93 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 94 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
@@ -166,13 +166,13 @@
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.74% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 166 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.69% |
-| 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
-| 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 168 | [Eternights](games/e/eternights.md) | 0.66% |
-| 170 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.65% |
+| 167 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.68% |
+| 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
+| 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
+| 169 | [Eternights](games/e/eternights.md) | 0.66% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
-| 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.63% |
-| 173 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.62% |
 | 174 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 175 | [Haven](games/h/haven.md) | 0.60% |
 | 176 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
