@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.91% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.62% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.57% |
 | 7 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 37.50% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -52,10 +52,10 @@
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
-| 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.17% |
+| 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.94% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.79% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.77% |
 | 57 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.38% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -90,8 +90,8 @@
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.37% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 90 | [Doodle God](games/d/doodle_god.md) | 3.27% |
-| 91 | [The Complex](games/t/the_complex.md) | 3.21% |
-| 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
+| 91 | [The Complex](games/t/the_complex.md) | 3.20% |
+| 91 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
 | 93 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.14% |
 | 94 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 95 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
@@ -128,12 +128,12 @@
 | 126 | [Night Book](games/n/night_book.md) | 1.72% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
 | 128 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.69% |
-| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.63% |
+| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.62% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.60% |
 | 131 | [Five Dates](games/f/five_dates.md) | 1.57% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 134 | [Late Shift](games/l/late_shift.md) | 1.43% |
+| 134 | [Late Shift](games/l/late_shift.md) | 1.42% |
 | 135 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
 | 136 | [Poosh XL](games/p/poosh_xl.md) | 1.37% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
@@ -152,8 +152,8 @@
 | 150 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.02% |
 | 151 | [Sable](games/s/sable.md) | 1.01% |
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
-| 153 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.97% |
-| 154 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
+| 153 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.96% |
 | 155 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 156 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.94% |
 | 157 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
@@ -165,11 +165,11 @@
 | 163 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 166 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.69% |
 | 166 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.69% |
-| 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
-| 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 168 | [Eternights](games/e/eternights.md) | 0.66% |
-| 168 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.66% |
+| 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
+| 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
+| 169 | [Eternights](games/e/eternights.md) | 0.66% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.62% |
@@ -226,10 +226,10 @@
 | 224 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 225 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 225 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
-| 225 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.23% |
 | 225 | [Scrapnaut](games/s/scrapnaut.md) | 0.23% |
 | 225 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.23% |
-| 230 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 229 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 229 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.22% |
 | 231 | [Blanc](games/b/blanc.md) | 0.21% |
 | 231 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 231 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
