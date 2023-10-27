@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.63% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.35% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.32% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.92% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -22,10 +22,10 @@
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 21 | [Island Cities](games/i/island_cities.md) | 16.91% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
-| 23 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 14.29% |
-| 24 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
-| 25 | [Remains](games/r/remains.md) | 13.21% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
+| 23 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
+| 24 | [Remains](games/r/remains.md) | 13.21% |
+| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
+| 26 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 12.50% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
@@ -43,8 +43,8 @@
 | 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
 | 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.63% |
-| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.33% |
 | 44 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
+| 45 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.11% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
@@ -85,7 +85,7 @@
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.73% |
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 85 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.51% |
-| 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.49% |
+| 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.48% |
 | 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.36% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -117,7 +117,7 @@
 | 115 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.35% |
 | 116 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.22% |
-| 118 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.17% |
+| 118 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2.13% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.08% |
 | 120 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.94% |
@@ -144,13 +144,13 @@
 | 142 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 143 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
 | 144 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 145 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.09% |
 | 145 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.09% |
+| 146 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.08% |
 | 147 | [Adios](games/a/adios.md) | 1.05% |
 | 147 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 149 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 150 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.02% |
-| 151 | [Sable](games/s/sable.md) | 1.01% |
+| 150 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.01% |
+| 150 | [Sable](games/s/sable.md) | 1.01% |
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 153 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.96% |
