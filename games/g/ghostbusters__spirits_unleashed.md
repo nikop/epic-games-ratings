@@ -13,20 +13,20 @@ Rating: 4.50 (Ranked 578)
 | Fully Upgraded | 3.00% | ~838 |
 | Solo Capture | 3.00% | ~838 |
 | Swift Rift Removers | 3.00% | ~838 |
+| Teamwork | 3.00% | ~838 |
 | Vaporous Expansion | 3.00% | ~838 |
-| Animated | 2.00% | ~558 |
-| Back Off | 2.00% | ~558 |
-| Clutch Capture | 2.00% | ~558 |
-| Cultured | 2.00% | ~558 |
-| Daily Dose | 2.00% | ~558 |
-| Ectoplasmic Entity | 2.00% | ~558 |
-| Ghostbuster In Training | 2.00% | ~558 |
-| Icing on the Cake | 2.00% | ~558 |
-| Right back at ya | 2.00% | ~558 |
-| Summoner | 2.00% | ~558 |
-| Teamwork | 2.00% | ~558 |
-| There you are! | 2.00% | ~558 |
-| Whoopsie | 2.00% | ~558 |
+| Animated | 2.00% | ~559 |
+| Back Off | 2.00% | ~559 |
+| Clutch Capture | 2.00% | ~559 |
+| Cultured | 2.00% | ~559 |
+| Daily Dose | 2.00% | ~559 |
+| Ectoplasmic Entity | 2.00% | ~559 |
+| Ghostbuster In Training | 2.00% | ~559 |
+| Icing on the Cake | 2.00% | ~559 |
+| Right back at ya | 2.00% | ~559 |
+| Summoner | 2.00% | ~559 |
+| There you are! | 2.00% | ~559 |
+| Whoopsie | 2.00% | ~559 |
 | We have the best insurance | 1.00% | ~279 |
 | Legions | 1.00% | ~279 |
 | Pesky Jerks | 1.00% | ~279 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,921 (Ranked 122)  
+Progressed: 27,926 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,921 | 65 |
+| 2023-10-27 | 27,926 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
 Sum: 2,570 (Ranked 182)  

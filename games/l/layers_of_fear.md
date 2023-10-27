@@ -11,8 +11,8 @@
 | Refuse to look | 25.00% | ~5 |
 | Do what you have to | 25.00% | ~5 |
 | It's covered up for a reason | 20.00% | ~4 |
+| Scraps of love | 20.00% | ~4 |
 | The artist’s impression | 20.00% | ~4 |
-| Scraps of love | 15.00% | ~3 |
 | First steps | 15.00% | ~3 |
 | Playtime | 15.00% | ~3 |
 | Sign of weakness | 15.00% | ~3 |
@@ -27,6 +27,7 @@
 | The art of movement | 10.00% | ~2 |
 | A new way | 5.00% | ~1 |
 | We Are Not Alone | 5.00% | ~1 |
+| Face your fears | 5.00% | ~1 |
 | The Perfect Storm | 5.00% | ~1 |
 | Fisherman | 5.00% | ~1 |
 | True Reflection | 5.00% | ~1 |
@@ -40,7 +41,6 @@
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
-| Face your fears | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
 | Full Scoop | 0.00% | ~0 |

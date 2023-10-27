@@ -5,39 +5,39 @@ Rating: 4.54 (Ranked 518)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,282 |
-| Welcome To Hell-A | 5.00% | ~35,282 |
-| Git Gutte! | 4.00% | ~28,226 |
-| Break A Leg | 4.00% | ~28,226 |
-| Coup de Grâce | 4.00% | ~28,226 |
-| Hazardous Materials | 4.00% | ~28,226 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,226 |
-| Dr. Reed, I Presume? | 3.00% | ~21,169 |
-| Bookworm | 3.00% | ~21,169 |
-| But Doctor, I am Butcho | 3.00% | ~21,169 |
-| Slayer Squad | 3.00% | ~21,169 |
-| Can't Handle the Truth | 3.00% | ~21,169 |
-| Like Riding a Bike | 3.00% | ~21,169 |
-| Friends Like These | 3.00% | ~21,169 |
-| Apex Predator | 3.00% | ~21,169 |
-| Zombologist | 3.00% | ~21,169 |
-| A Patton Emerges | 3.00% | ~21,169 |
-| Stacking the Deck | 3.00% | ~21,169 |
-| This is My Weapon | 3.00% | ~21,169 |
-| Making Your Mark | 2.00% | ~14,113 |
-| Anger Management | 2.00% | ~14,113 |
-| Perks of the Job | 2.00% | ~14,113 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,113 |
-| Ooh, Shiny! | 2.00% | ~14,113 |
-| Humanity Distilled | 2.00% | ~14,113 |
-| I Am the Resurrection | 2.00% | ~14,113 |
-| Down with the Sickness | 2.00% | ~14,113 |
-| Our True Nature | 2.00% | ~14,113 |
-| Smorgasbord | 1.00% | ~7,056 |
-| Jumbo Keyring | 1.00% | ~7,056 |
-| Max Headroom | 1.00% | ~7,056 |
-| Go, Bobcats! | 1.00% | ~7,056 |
-| Rising Star | 1.00% | ~7,056 |
+| Hotel California | 5.00% | ~35,284 |
+| Welcome To Hell-A | 5.00% | ~35,284 |
+| Git Gutte! | 4.00% | ~28,227 |
+| Break A Leg | 4.00% | ~28,227 |
+| Coup de Grâce | 4.00% | ~28,227 |
+| Hazardous Materials | 4.00% | ~28,227 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,227 |
+| Dr. Reed, I Presume? | 3.00% | ~21,170 |
+| Bookworm | 3.00% | ~21,170 |
+| But Doctor, I am Butcho | 3.00% | ~21,170 |
+| Slayer Squad | 3.00% | ~21,170 |
+| Can't Handle the Truth | 3.00% | ~21,170 |
+| Like Riding a Bike | 3.00% | ~21,170 |
+| Friends Like These | 3.00% | ~21,170 |
+| Apex Predator | 3.00% | ~21,170 |
+| Zombologist | 3.00% | ~21,170 |
+| A Patton Emerges | 3.00% | ~21,170 |
+| Stacking the Deck | 3.00% | ~21,170 |
+| This is My Weapon | 3.00% | ~21,170 |
+| Making Your Mark | 2.00% | ~14,114 |
+| Anger Management | 2.00% | ~14,114 |
+| Perks of the Job | 2.00% | ~14,114 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,114 |
+| Ooh, Shiny! | 2.00% | ~14,114 |
+| Humanity Distilled | 2.00% | ~14,114 |
+| I Am the Resurrection | 2.00% | ~14,114 |
+| Down with the Sickness | 2.00% | ~14,114 |
+| Our True Nature | 2.00% | ~14,114 |
+| Smorgasbord | 1.00% | ~7,057 |
+| Jumbo Keyring | 1.00% | ~7,057 |
+| Max Headroom | 1.00% | ~7,057 |
+| Go, Bobcats! | 1.00% | ~7,057 |
+| Rising Star | 1.00% | ~7,057 |
 | Not Even My Final Form | 0.90% | ~6,351 |
 | Internet Famous | 0.90% | ~6,351 |
 | Make it So | 0.80% | ~5,645 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 518)
 | Donk! | 0.20% | ~1,411 |
 | Bucket List | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,644 (Ranked 22)  
+Progressed: 705,683 (Ranked 22)  
 Completed: 2,275 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,17 +241,17 @@ Completed: 2,275 (0.32%) (Ranked 210)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 705,644 | 2,275 |
+| 2023-10-27 | 705,683 | 2,275 |
 ## Awards
 Max (Great Boss Battles): 6,671  (Ranked 57)  
-Sum: 10,036 (Ranked 91)  
+Sum: 10,038 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,671 |
 | This game is Great for Beginners | 481 |
 | This game has Diverse Characters | 475 |
-| This game has Quickly Understood Controls | 443 |
+| This game has Quickly Understood Controls | 445 |
 | This game is Relaxing | 427 |
 | This game has Amazing Storytelling | 405 |
 | This game is Highly Recommended | 390 |
@@ -449,4 +449,4 @@ Diff (max vs sum): -34
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
 | 2023-10-25 | 4.54 | 6,625 | 9,955 |
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
-| 2023-10-27 | 4.54 | 6,671 | 10,036 |
+| 2023-10-27 | 4.54 | 6,671 | 10,038 |

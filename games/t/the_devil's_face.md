@@ -16,10 +16,10 @@
 | The crucifixion | 5.00% | ~24 |
 | Flagellation | 5.00% | ~24 |
 | The choice | 4.00% | ~19 |
-| Hubris | 3.00% | ~14 |
+| Hubris | 3.00% | ~15 |
 | Humility | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483 (Ranked 288)  
+Progressed: 484 (Ranked 288)  
 Completed: 3 (0.62%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,4 +121,4 @@ Completed: 3 (0.62%) (Ranked 172)
 | 2023-10-24 | 459 | 2 |
 | 2023-10-25 | 468 | 3 |
 | 2023-10-26 | 475 | 3 |
-| 2023-10-27 | 483 | 3 |
+| 2023-10-27 | 484 | 3 |

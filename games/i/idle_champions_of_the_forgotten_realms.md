@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.80% | ~1,864 |
+| A Brief Tour of the Realms | 0.90% | ~2,097 |
 | Beast Intentions | 0.40% | ~932 |
 | The Cursed Farmer | 0.40% | ~932 |
 | Foul Play | 0.40% | ~797 |
@@ -15,7 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~598 |
 | Spelljammers in Training | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
-| The Sanctum of the Sword | 0.20% | ~398 |
+| The Sanctum of the Sword | 0.20% | ~399 |
 | Were-verpowered | 0.20% | ~466 |
 | A Persistent Buzzing | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
@@ -25,29 +25,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
-| Into The Fire | 0.20% | ~398 |
-| Dreamscape | 0.20% | ~398 |
-| The Path of Dreams | 0.20% | ~398 |
-| The Lost Hollyphant | 0.20% | ~398 |
-| The Wandering Emporium | 0.20% | ~398 |
-| Tiamat's Army | 0.20% | ~398 |
-| Questlines | 0.20% | ~398 |
-| Bel's Forge | 0.20% | ~398 |
+| Into The Fire | 0.20% | ~399 |
+| Dreamscape | 0.20% | ~399 |
+| The Path of Dreams | 0.20% | ~399 |
+| The Lost Hollyphant | 0.20% | ~399 |
+| The Wandering Emporium | 0.20% | ~399 |
+| Tiamat's Army | 0.20% | ~399 |
+| Questlines | 0.20% | ~399 |
+| Bel's Forge | 0.20% | ~399 |
 | Friendly Imps | 0.20% | ~466 |
-| The Sibriex | 0.20% | ~398 |
-| Wrecked Flying Fortress | 0.20% | ~398 |
-| The Bleeding Citadel | 0.20% | ~398 |
-| Idyllglen | 0.20% | ~398 |
-| The Battle of High Hall Tower | 0.20% | ~398 |
-| Elturel's Last Stand | 0.20% | ~398 |
+| The Sibriex | 0.20% | ~399 |
+| Wrecked Flying Fortress | 0.20% | ~399 |
+| The Bleeding Citadel | 0.20% | ~399 |
+| Idyllglen | 0.20% | ~399 |
+| The Battle of High Hall Tower | 0.20% | ~399 |
+| Elturel's Last Stand | 0.20% | ~399 |
 | Pure Energy | 0.20% | ~466 |
-| The Hunt for The Last Breath | 0.20% | ~398 |
-| To Infinity's and Beyond | 0.20% | ~398 |
-| Legends and Lore | 0.20% | ~398 |
-| The End | 0.20% | ~398 |
-| Slow Down Showdown | 0.20% | ~398 |
-| Fowl Play | 0.20% | ~398 |
-| Time Out | 0.20% | ~398 |
+| The Hunt for The Last Breath | 0.20% | ~399 |
+| To Infinity's and Beyond | 0.20% | ~399 |
+| Legends and Lore | 0.20% | ~399 |
+| The End | 0.20% | ~399 |
+| Slow Down Showdown | 0.20% | ~399 |
+| Fowl Play | 0.20% | ~399 |
+| Time Out | 0.20% | ~399 |
 | Pros and CONs | 0.10% | ~233 |
 | Upholding the Law | 0.10% | ~233 |
 | Starving in the Jungle | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,971 (Ranked 61)  
+Progressed: 232,977 (Ranked 61)  
 Completed: 2,389 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -725,7 +725,7 @@ Completed: 2,389 (1.03%) (Ranked 149)
 | 2023-10-24 | 232,755 | 2,384 |
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
-| 2023-10-27 | 232,971 | 2,389 |
+| 2023-10-27 | 232,977 | 2,389 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
 Sum: 32,243 (Ranked 41)  

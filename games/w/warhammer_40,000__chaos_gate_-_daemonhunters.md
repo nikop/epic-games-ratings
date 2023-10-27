@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.60% | ~20 |
+| Strike Force | 0.50% | ~16 |
 | Hands-On Research | 0.50% | ~16 |
-| Strike Force | 0.40% | ~13 |
 | Reign of Confusion | 0.40% | ~13 |
 | Suffer Not the Mutant | 0.40% | ~13 |
 | Warp Flickers | 0.30% | ~10 |

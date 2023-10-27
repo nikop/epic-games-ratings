@@ -8077,18 +8077,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28093,
       "NumberOfAwardsMax": 7549
+    },
+    {
+      "Time": "2023-10-27T23:02:37.9485427+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28097,
+      "NumberOfAwardsMax": 7553
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28093,
-  "NumberOfAwardsMax": 7549,
+  "NumberOfAwards": 28097,
+  "NumberOfAwardsMax": 7553,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7549
+      "Count": 7553
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8163,9 +8169,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806213,
+  "EOS_Progressed": 806215,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 749,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29468,6 +29474,11 @@
       "Time": "2023-10-27T22:05:09.0331323+00:00",
       "NumProgressed": 806213,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-27T23:04:28.3878238+00:00",
+      "NumProgressed": 806215,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29559,7 +29570,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 257988
+      "UsersEstimate": 257989
     },
     {
       "ID": "Bookworm",
@@ -29591,7 +29602,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201553
+      "UsersEstimate": 201554
     },
     {
       "ID": "Chivalrous",
@@ -29639,7 +29650,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80621
+      "UsersEstimate": 80622
     },
     {
       "ID": "DavidHorak",
@@ -29687,7 +29698,7 @@
       "Name": "Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "Firestarter",
@@ -29887,7 +29898,7 @@
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "Merciful",
@@ -29991,7 +30002,7 @@
       "Name": "Saviour",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "Scrooge",
@@ -30015,7 +30026,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88683
+      "UsersEstimate": 88684
     },
     {
       "ID": "Sniper",
@@ -30087,7 +30098,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88683
+      "UsersEstimate": 88684
     },
     {
       "ID": "TrialAndError",
@@ -30134,15 +30145,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806213,
+      "Progressed": 806215,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-10-27T20:02:55.5455831+00:00",
-  "LastChanged_Achievements": "2023-10-27T22:05:09.0331317+00:00",
+  "LastChanged": "2023-10-27T23:02:37.9485425+00:00",
+  "LastChanged_Achievements": "2023-10-27T23:04:28.3878233+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.8586593+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:03:28.0220745+00:00",
-  "LastUpdate_Achievements": "2023-10-27T22:05:09.0334576+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:02:37.9485433+00:00",
+  "LastUpdate_Achievements": "2023-10-27T23:04:28.3880925+00:00"
 }

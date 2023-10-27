@@ -7663,9 +7663,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 232971,
+  "EOS_Progressed": 232977,
   "EOS_Completed": 2389,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28913,6 +28913,11 @@
       "Time": "2023-10-27T22:05:50.6722385+00:00",
       "NumProgressed": 232971,
       "NumCompleted": 2389
+    },
+    {
+      "Time": "2023-10-27T23:05:10.0653969+00:00",
+      "NumProgressed": 232977,
+      "NumCompleted": 2389
     }
   ],
   "TotalAchievements": 528,
@@ -28922,9 +28927,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1864
+      "UsersEstimate": 2097
     },
     {
       "ID": "objective_completed_10",
@@ -29756,7 +29761,7 @@
       "Name": "The Sanctum of the Sword",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1194",
@@ -31692,7 +31697,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_631",
@@ -31724,7 +31729,7 @@
       "Name": "Dreamscape",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_636",
@@ -31756,7 +31761,7 @@
       "Name": "The Path of Dreams",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_641",
@@ -31788,7 +31793,7 @@
       "Name": "The Lost Hollyphant",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_646",
@@ -31852,7 +31857,7 @@
       "Name": "The Wandering Emporium",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_661",
@@ -31876,7 +31881,7 @@
       "Name": "Tiamat\u0027s Army",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_666",
@@ -31900,7 +31905,7 @@
       "Name": "Questlines",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_671",
@@ -31924,7 +31929,7 @@
       "Name": "Bel\u0027s Forge",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_676",
@@ -32228,7 +32233,7 @@
       "Name": "The Sibriex",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_813",
@@ -32252,7 +32257,7 @@
       "Name": "Wrecked Flying Fortress",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_818",
@@ -32348,7 +32353,7 @@
       "Name": "The Bleeding Citadel",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_838",
@@ -32372,7 +32377,7 @@
       "Name": "Idyllglen",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_843",
@@ -32508,7 +32513,7 @@
       "Name": "The Battle of High Hall Tower",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_868",
@@ -32532,7 +32537,7 @@
       "Name": "Elturel\u0027s Last Stand",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_873",
@@ -33020,7 +33025,7 @@
       "Name": "The Hunt for The Last Breath",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1396",
@@ -33036,7 +33041,7 @@
       "Name": "To Infinity\u0027s and Beyond",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1401",
@@ -33052,7 +33057,7 @@
       "Name": "Legends and Lore",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1366",
@@ -33068,7 +33073,7 @@
       "Name": "The End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1371",
@@ -33092,7 +33097,7 @@
       "Name": "Slow Down Showdown",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1410",
@@ -33124,7 +33129,7 @@
       "Name": "Fowl Play",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1420",
@@ -33140,28 +33145,28 @@
       "Name": "Time Out",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199245,
+      "Progressed": 199251,
       "Completed": 3680
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232971,
+      "Progressed": 232977,
       "Completed": 2389
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-27T21:57:30.8090358+00:00",
-  "LastChanged_Achievements": "2023-10-27T22:05:50.6722379+00:00",
+  "LastChanged_Achievements": "2023-10-27T23:05:10.0653963+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:57:30.8090365+00:00",
-  "LastUpdate_Achievements": "2023-10-27T22:05:50.6755058+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:57:15.5549593+00:00",
+  "LastUpdate_Achievements": "2023-10-27T23:05:10.0689606+00:00"
 }

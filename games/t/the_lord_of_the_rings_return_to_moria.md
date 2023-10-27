@@ -5,35 +5,35 @@ Rating: 4.42 (Ranked 699)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 72.00% | ~97,149 |
-| Delving Onward | 49.00% | ~66,115 |
-| Suit Up | 45.00% | ~60,718 |
-| Miner's Helper | 44.00% | ~59,369 |
-| To the Mountain's Roots | 16.00% | ~21,589 |
-| Line of Azog, Ended | 12.00% | ~16,191 |
-| Covered Head to Toe | 10.00% | ~13,493 |
-| Remains To Be Seen | 5.00% | ~6,746 |
-| Risk a Little Real Light | 3.00% | ~4,048 |
-| Westgate Weaponcraft | 2.00% | ~2,699 |
-| Deeps Weaponcraft | 0.80% | ~1,079 |
-| Eregion Weaponcraft | 0.60% | ~810 |
-| False King, Deposed | 0.60% | ~810 |
-| Caradhras The Cruel | 0.60% | ~810 |
-| A Memory of this Place | 0.60% | ~810 |
-| Battering Ram | 0.50% | ~675 |
-| Baruk Khazâd! | 0.40% | ~540 |
-| Master of All Trades | 0.40% | ~540 |
-| Decked Out | 0.30% | ~405 |
-| Shadow's Bane | 0.10% | ~135 |
-| Guarded from Despair | 0.10% | ~135 |
-| Hard-headed | 0.10% | ~135 |
-| Shielded | 0.10% | ~135 |
-| True-silver | 0.10% | ~135 |
-| Dimrill Weaponcraft | 0.10% | ~135 |
-| Darkness Is Passing | 0.10% | ~135 |
+| Speak Friend | 72.00% | ~97,885 |
+| Delving Onward | 49.00% | ~66,616 |
+| Suit Up | 45.00% | ~61,178 |
+| Miner's Helper | 44.00% | ~59,819 |
+| To the Mountain's Roots | 17.00% | ~23,112 |
+| Line of Azog, Ended | 12.00% | ~16,314 |
+| Covered Head to Toe | 10.00% | ~13,595 |
+| Remains To Be Seen | 5.00% | ~6,798 |
+| Risk a Little Real Light | 3.00% | ~4,079 |
+| Westgate Weaponcraft | 2.00% | ~2,719 |
+| Deeps Weaponcraft | 0.80% | ~1,088 |
+| False King, Deposed | 0.70% | ~952 |
+| Eregion Weaponcraft | 0.60% | ~816 |
+| Caradhras The Cruel | 0.60% | ~816 |
+| A Memory of this Place | 0.60% | ~816 |
+| Battering Ram | 0.50% | ~680 |
+| Master of All Trades | 0.50% | ~680 |
+| Baruk Khazâd! | 0.40% | ~544 |
+| Decked Out | 0.40% | ~544 |
+| Shadow's Bane | 0.10% | ~136 |
+| Guarded from Despair | 0.10% | ~136 |
+| Hard-headed | 0.10% | ~136 |
+| Shielded | 0.10% | ~136 |
+| True-silver | 0.10% | ~136 |
+| Dimrill Weaponcraft | 0.10% | ~136 |
+| Darkness Is Passing | 0.10% | ~136 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134,929 (Ranked 77)  
+Progressed: 135,952 (Ranked 76)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,7 +41,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 49,394 | 0 |
 | 2023-10-25 | 88,690 | 0 |
 | 2023-10-26 | 114,492 | 0 |
-| 2023-10-27 | 134,929 | 0 |
+| 2023-10-27 | 135,952 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

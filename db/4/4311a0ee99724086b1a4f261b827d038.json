@@ -467,7 +467,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 228896,
+  "EOS_Progressed": 228903,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1509,
   "EOS_NewCompleters": 0,
@@ -11492,6 +11492,11 @@
       "Time": "2023-10-27T22:09:53.008997+00:00",
       "NumProgressed": 228896,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T23:09:11.3676+00:00",
+      "NumProgressed": 228903,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11560,7 +11565,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48068
+      "UsersEstimate": 48070
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11656,7 +11661,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -11672,7 +11677,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -11680,7 +11685,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -11688,7 +11693,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29756
+      "UsersEstimate": 29757
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -11752,7 +11757,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -11760,7 +11765,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57224
+      "UsersEstimate": 57226
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11775,7 +11780,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 228896,
+      "Progressed": 228903,
       "Completed": 0
     }
   ],
@@ -11783,8 +11788,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-23T13:04:07.7383802+00:00",
-  "LastChanged_Achievements": "2023-10-27T22:09:53.0089965+00:00",
+  "LastChanged_Achievements": "2023-10-27T23:09:11.3675979+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:01:23.9991246+00:00",
-  "LastUpdate_Achievements": "2023-10-27T22:09:53.0091247+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:01:15.0657287+00:00",
+  "LastUpdate_Achievements": "2023-10-27T23:09:11.3677052+00:00"
 }

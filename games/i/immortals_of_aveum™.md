@@ -5,20 +5,20 @@ Rating: 3.98 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~88 |
-| Battlefields Have Memories | 89.00% | ~87 |
-| Enlisted | 88.00% | ~86 |
-| Maybe Engage a Little | 84.00% | ~82 |
+| Unforeseen | 90.00% | ~89 |
+| Battlefields Have Memories | 88.00% | ~87 |
+| Enlisted | 87.00% | ~86 |
+| Maybe Engage a Little | 83.00% | ~82 |
 | No More Names | 69.00% | ~68 |
 | Initiate | 61.00% | ~60 |
 | Thrada-Kul | 57.00% | ~56 |
-| Gravity-Challenged Rocks | 47.00% | ~46 |
-| All the Major Food Groups | 41.00% | ~40 |
-| Soldier | 40.00% | ~39 |
-| Beggars Would Ride | 36.00% | ~35 |
-| Control is an Illusion | 34.00% | ~33 |
-| Socialite | 34.00% | ~33 |
-| The Means to Save It | 27.00% | ~26 |
+| Gravity-Challenged Rocks | 46.00% | ~46 |
+| All the Major Food Groups | 40.00% | ~40 |
+| Soldier | 39.00% | ~39 |
+| Beggars Would Ride | 35.00% | ~35 |
+| Control is an Illusion | 33.00% | ~33 |
+| Socialite | 33.00% | ~33 |
+| The Means to Save It | 26.00% | ~26 |
 | Resilience to Sin | 23.00% | ~23 |
 | A Familiar Nest | 22.00% | ~22 |
 | Periapt Alizarin | 22.00% | ~22 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 985)
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 405)  
-Completed: 1 (1.02%) (Ranked 150)  
+Progressed: 99 (Ranked 404)  
+Completed: 1 (1.01%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 1 (1.02%) (Ranked 150)
 | 2023-10-21 | 95 | 1 |
 | 2023-10-24 | 96 | 1 |
 | 2023-10-26 | 97 | 1 |
-| 2023-10-27 | 98 | 1 |
+| 2023-10-27 | 99 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

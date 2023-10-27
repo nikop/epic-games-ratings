@@ -133,7 +133,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
+| Cao'an | 0.50% | ~75 |
 | Adur Burzen-Mihr | 0.50% | ~75 |
+| Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Hittite Paganism | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
@@ -141,8 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
-| Cao'an | 0.40% | ~60 |
-| Learn to Play 5 | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,990 (Ranked 142)  
+Progressed: 14,991 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -539,7 +539,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-24 | 14,931 | 5 |
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
-| 2023-10-27 | 14,990 | 5 |
+| 2023-10-27 | 14,991 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

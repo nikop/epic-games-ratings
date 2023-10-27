@@ -8,16 +8,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,442 |
 | Biggest Communism Builder | 24.00% | ~31,236 |
-| The World's Most Laughable Centrist | 21.00% | ~27,331 |
+| The World's Most Laughable Centrist | 21.00% | ~27,332 |
 | Il Coppo Del'Arte! | 18.00% | ~23,427 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,824 |
 | Hyperstellar Law Official | 16.00% | ~20,824 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,221 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,221 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,919 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,920 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,316 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,015 |
-| Unbelievably Boring **** | 9.00% | ~11,713 |
+| Unbelievably Boring **** | 9.00% | ~11,714 |
 | Enemy Of The Physical Realm | 8.00% | ~10,412 |
 | Hardie's Heroes | 6.00% | ~7,809 |
 | The Lawbringer | 4.00% | ~5,206 |
@@ -28,8 +28,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Expert Advanced Remote Viewer | 2.00% | ~2,603 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,603 |
 | Wheel of Pleasure and Light | 2.00% | ~2,603 |
-| Massive Torque Dork | 1.00% | ~1,301 |
-| Avowed Inframaterialist | 1.00% | ~1,301 |
+| Massive Torque Dork | 1.00% | ~1,302 |
+| Avowed Inframaterialist | 1.00% | ~1,302 |
 | Committee of la Responsabilité | 0.90% | ~1,171 |
 | Venture into the HARDCORE | 0.90% | ~1,171 |
 | Real Musor | 0.90% | ~1,171 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,149 (Ranked 78)  
+Progressed: 130,150 (Ranked 78)  
 Completed: 28 (0.02%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 28 (0.02%) (Ranked 300)
 | 2023-10-24 | 130,059 | 28 |
 | 2023-10-25 | 130,094 | 28 |
 | 2023-10-26 | 130,121 | 28 |
-| 2023-10-27 | 130,149 | 28 |
+| 2023-10-27 | 130,150 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
 Sum: 1,110 (Ranked 242)  

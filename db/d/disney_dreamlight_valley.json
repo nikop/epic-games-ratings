@@ -3,7 +3,7 @@
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 120,
-  "Ranking_Popularity": 149,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 114,
@@ -4291,11 +4291,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7780,
       "NumberOfAwardsMax": 1032
+    },
+    {
+      "Time": "2023-10-27T22:58:25.7223368+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7783,
+      "NumberOfAwardsMax": 1035
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7780,
-  "NumberOfAwardsMax": 1032,
+  "NumberOfAwards": 7783,
+  "NumberOfAwardsMax": 1035,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4308,7 +4314,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1032
+      "Count": 1035
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4365,9 +4371,9 @@
       "Count": 519
     }
   ],
-  "EOS_Progressed": 11109,
+  "EOS_Progressed": 11111,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -17020,6 +17026,11 @@
       "Time": "2023-10-27T22:07:39.8767851+00:00",
       "NumProgressed": 11109,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-27T23:06:59.0519347+00:00",
+      "NumProgressed": 11111,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 15,
@@ -17031,7 +17042,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Banker",
@@ -17047,7 +17058,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "Chef_Cook",
@@ -17069,9 +17080,9 @@
       "ID": "Constructor",
       "SetID": "chapdi4",
       "Name": "Constructor",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5667
     },
     {
       "ID": "Duty_Bound",
@@ -17095,7 +17106,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2777
+      "UsersEstimate": 2778
     },
     {
       "ID": "Goofys_Investor",
@@ -17103,7 +17114,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7776
+      "UsersEstimate": 7778
     },
     {
       "ID": "Miner",
@@ -17119,7 +17130,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7665
+      "UsersEstimate": 7667
     },
     {
       "ID": "Renovator",
@@ -17127,7 +17138,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "Thorn_Cleaner",
@@ -17135,7 +17146,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "Valleys_Helper",
@@ -17143,23 +17154,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11109,
+      "Progressed": 11111,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-27T18:58:31.0194003+00:00",
-  "LastChanged_Achievements": "2023-10-27T22:07:39.8767846+00:00",
+  "LastChanged": "2023-10-27T22:58:25.7223365+00:00",
+  "LastChanged_Achievements": "2023-10-27T23:06:59.051934+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:58:39.4402322+00:00",
-  "LastUpdate_Achievements": "2023-10-27T22:07:39.8769292+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:58:25.7223373+00:00",
+  "LastUpdate_Achievements": "2023-10-27T23:06:59.0520945+00:00"
 }

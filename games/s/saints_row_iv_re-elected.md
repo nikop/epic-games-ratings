@@ -5,30 +5,30 @@ Rating: 4.40 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~183,937 |
-| Destroyer-In-Chief | 57.00% | ~166,419 |
-| There Is No Pancakes | 54.00% | ~157,661 |
-| First of Many | 42.00% | ~122,625 |
-| Woah. | 37.00% | ~108,027 |
-| Don't Look Down | 29.00% | ~84,670 |
-| Don't Panic | 28.00% | ~81,750 |
-| Ooo A Piece of Candy! | 23.00% | ~67,152 |
-| Ghost in the Machine | 18.00% | ~52,554 |
-| All Too Easy | 15.00% | ~43,795 |
-| Didn't Need to See Him Naked | 13.00% | ~37,955 |
-| Indomitable | 10.00% | ~29,196 |
-| Blast from the Past | 9.00% | ~26,277 |
-| Bow to the Boss! | 9.00% | ~26,277 |
-| Friend of the Raptors | 9.00% | ~26,277 |
-| About Time! | 8.00% | ~23,357 |
-| Actor-Turned-Politician | 7.00% | ~20,437 |
-| Betrayed | 7.00% | ~20,437 |
-| Maximum Stopping Power | 7.00% | ~20,437 |
-| Poodle Skirt | 7.00% | ~20,437 |
-| You Chose... Poorly | 7.00% | ~20,437 |
-| Double Team | 6.00% | ~17,518 |
-| Keymaster | 6.00% | ~17,518 |
-| Imperator | 5.00% | ~14,598 |
+| Zero Saints Thirty | 63.00% | ~183,949 |
+| Destroyer-In-Chief | 57.00% | ~166,430 |
+| There Is No Pancakes | 54.00% | ~157,671 |
+| First of Many | 42.00% | ~122,633 |
+| Woah. | 37.00% | ~108,034 |
+| Don't Look Down | 29.00% | ~84,675 |
+| Don't Panic | 28.00% | ~81,755 |
+| Ooo A Piece of Candy! | 23.00% | ~67,156 |
+| Ghost in the Machine | 18.00% | ~52,557 |
+| All Too Easy | 15.00% | ~43,797 |
+| Didn't Need to See Him Naked | 13.00% | ~37,958 |
+| Indomitable | 10.00% | ~29,198 |
+| Blast from the Past | 9.00% | ~26,278 |
+| Bow to the Boss! | 9.00% | ~26,278 |
+| Friend of the Raptors | 9.00% | ~26,278 |
+| About Time! | 8.00% | ~23,359 |
+| Actor-Turned-Politician | 7.00% | ~20,439 |
+| Betrayed | 7.00% | ~20,439 |
+| Maximum Stopping Power | 7.00% | ~20,439 |
+| Poodle Skirt | 7.00% | ~20,439 |
+| You Chose... Poorly | 7.00% | ~20,439 |
+| Double Team | 6.00% | ~17,519 |
+| Keymaster | 6.00% | ~17,519 |
+| Imperator | 5.00% | ~14,599 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~11,679 |
 | Half Way Home | 4.00% | ~11,679 |
 | How It Should Be | 4.00% | ~11,679 |
@@ -42,13 +42,13 @@ Rating: 4.40 (Ranked 729)
 | Paranormal Bromance | 3.00% | ~8,759 |
 | Saints & Sensibility | 3.00% | ~8,759 |
 | The Two Shaundis | 3.00% | ~8,759 |
-| Benjamin [CENSORED] King | 2.00% | ~5,839 |
-| Better This Way | 2.00% | ~5,839 |
-| Bouncin' with an Old Friend | 2.00% | ~5,839 |
-| Our Gift to You | 2.00% | ~5,839 |
-| The Face of the Saints | 2.00% | ~5,839 |
-| The Twin Saints | 2.00% | ~5,839 |
-| Where's My Cape? | 2.00% | ~5,839 |
+| Benjamin [CENSORED] King | 2.00% | ~5,840 |
+| Better This Way | 2.00% | ~5,840 |
+| Bouncin' with an Old Friend | 2.00% | ~5,840 |
+| Our Gift to You | 2.00% | ~5,840 |
+| The Face of the Saints | 2.00% | ~5,840 |
+| The Twin Saints | 2.00% | ~5,840 |
+| Where's My Cape? | 2.00% | ~5,840 |
 | A Real Cluster.... | 1.00% | ~2,920 |
 | A Very Genki Holiday | 1.00% | ~2,920 |
 | Here! Catch! | 1.00% | ~2,920 |
@@ -57,9 +57,9 @@ Rating: 4.40 (Ranked 729)
 | The Whole Story | 1.00% | ~2,920 |
 | Zoo Keeper | 1.00% | ~2,920 |
 | Make a List, Check it Twice | 0.90% | ~2,628 |
+| Back in the Day | 0.70% | ~2,044 |
 | Dear Santa | 0.70% | ~2,044 |
 | Rigging the Race | 0.70% | ~2,044 |
-| Back in the Day | 0.60% | ~1,752 |
 | Health Inspector | 0.50% | ~1,460 |
 | Bringin' the Heat | 0.40% | ~1,168 |
 | Walking the Dinosaur | 0.40% | ~1,168 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 729)
 | Super Power Team Up! | 0.10% | ~292 |
 | Ultimate Hot Potato | 0.10% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,964 (Ranked 50)  
+Progressed: 291,983 (Ranked 50)  
 Completed: 15 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 15 (0.01%) (Ranked 308)
 | 2023-10-24 | 290,424 | 15 |
 | 2023-10-25 | 290,932 | 15 |
 | 2023-10-26 | 291,432 | 15 |
-| 2023-10-27 | 291,964 | 15 |
+| 2023-10-27 | 291,983 | 15 |
 ## Awards
 Max (Great Boss Battles): 475  (Ranked 208)  
 Sum: 475 (Ranked 321)  

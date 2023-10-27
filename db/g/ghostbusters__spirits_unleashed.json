@@ -2805,9 +2805,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27921,
+  "EOS_Progressed": 27926,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1102,
+  "EOS_NewPlayers": 1101,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16685,6 +16685,11 @@
       "Time": "2023-10-27T22:04:05.6297148+00:00",
       "NumProgressed": 27921,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-27T23:03:14.9655488+00:00",
+      "NumProgressed": 27926,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16704,7 +16709,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Back_Off",
@@ -16712,7 +16717,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Best_Insurance",
@@ -16736,7 +16741,7 @@
       "Name": "Clutch Capture",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Collect_Spores",
@@ -16760,7 +16765,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Daily_Dose",
@@ -16768,7 +16773,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Diabolical",
@@ -16800,7 +16805,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Efficient",
@@ -16840,7 +16845,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Ghost_Expert",
@@ -16856,7 +16861,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Legions",
@@ -16944,7 +16949,7 @@
       "Name": "Right back at ya",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Rivalry",
@@ -17008,7 +17013,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Surprise",
@@ -17030,9 +17035,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 838
     },
     {
       "ID": "Terrifying",
@@ -17056,7 +17061,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "Tobins_Prodigy",
@@ -17096,14 +17101,14 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27921,
+      "Progressed": 27926,
       "Completed": 65
     }
   ],
@@ -17111,8 +17116,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-27T20:59:28.1467915+00:00",
-  "LastChanged_Achievements": "2023-10-27T22:04:05.6297143+00:00",
+  "LastChanged_Achievements": "2023-10-27T23:03:14.9655475+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:00:13.1536377+00:00",
-  "LastUpdate_Achievements": "2023-10-27T22:04:05.6298823+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:00:03.0670098+00:00",
+  "LastUpdate_Achievements": "2023-10-27T23:03:14.965743+00:00"
 }
