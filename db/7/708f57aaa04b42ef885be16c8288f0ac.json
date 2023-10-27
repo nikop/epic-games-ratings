@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2237,
+  "EOS_Progressed": 2244,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2012,
   "EOS_NewCompleters": 0,
@@ -952,6 +952,11 @@
       "Time": "2023-10-27T01:49:43.3113209+00:00",
       "NumProgressed": 2237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T02:24:46.5065143+00:00",
+      "NumProgressed": 2244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -972,7 +977,7 @@
       "Name": "Baby Steps",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "BeLikeWater",
@@ -1036,15 +1041,15 @@
       "Name": "First Time?",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "GarbageMan",
@@ -1108,7 +1113,7 @@
       "Name": "Nasty!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "NoMoreTotems",
@@ -1235,14 +1240,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2237,
+      "Progressed": 2244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:49:43.3113203+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:24:46.5065139+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:40:33.2199296+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:49:43.3113574+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:15:26.2800887+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:24:46.5065468+00:00"
 }

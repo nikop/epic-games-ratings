@@ -5,27 +5,27 @@ Rating: 4.40 (Ranked 728)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~183,631 |
-| Destroyer-In-Chief | 57.00% | ~166,142 |
-| There Is No Pancakes | 54.00% | ~157,398 |
-| First of Many | 42.00% | ~122,420 |
-| Woah. | 37.00% | ~107,846 |
-| Don't Look Down | 29.00% | ~84,528 |
-| Don't Panic | 28.00% | ~81,614 |
-| Ooo A Piece of Candy! | 23.00% | ~67,040 |
-| Ghost in the Machine | 18.00% | ~52,466 |
+| Zero Saints Thirty | 63.00% | ~183,634 |
+| Destroyer-In-Chief | 57.00% | ~166,145 |
+| There Is No Pancakes | 54.00% | ~157,401 |
+| First of Many | 42.00% | ~122,423 |
+| Woah. | 37.00% | ~107,849 |
+| Don't Look Down | 29.00% | ~84,530 |
+| Don't Panic | 28.00% | ~81,615 |
+| Ooo A Piece of Candy! | 23.00% | ~67,041 |
+| Ghost in the Machine | 18.00% | ~52,467 |
 | All Too Easy | 15.00% | ~43,722 |
-| Didn't Need to See Him Naked | 13.00% | ~37,892 |
+| Didn't Need to See Him Naked | 13.00% | ~37,893 |
 | Indomitable | 10.00% | ~29,148 |
 | Blast from the Past | 9.00% | ~26,233 |
 | Bow to the Boss! | 9.00% | ~26,233 |
 | Friend of the Raptors | 9.00% | ~26,233 |
-| About Time! | 8.00% | ~23,318 |
-| Actor-Turned-Politician | 7.00% | ~20,403 |
-| Betrayed | 7.00% | ~20,403 |
-| Maximum Stopping Power | 7.00% | ~20,403 |
-| Poodle Skirt | 7.00% | ~20,403 |
-| You Chose... Poorly | 7.00% | ~20,403 |
+| About Time! | 8.00% | ~23,319 |
+| Actor-Turned-Politician | 7.00% | ~20,404 |
+| Betrayed | 7.00% | ~20,404 |
+| Maximum Stopping Power | 7.00% | ~20,404 |
+| Poodle Skirt | 7.00% | ~20,404 |
+| You Chose... Poorly | 7.00% | ~20,404 |
 | Double Team | 6.00% | ~17,489 |
 | Keymaster | 6.00% | ~17,489 |
 | Imperator | 5.00% | ~14,574 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 728)
 | Super Power Team Up! | 0.10% | ~291 |
 | Ultimate Hot Potato | 0.10% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,477 (Ranked 49)  
+Progressed: 291,483 (Ranked 49)  
 Completed: 15 (0.01%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 15 (0.01%) (Ranked 307)
 | 2023-10-24 | 290,424 | 15 |
 | 2023-10-25 | 290,932 | 15 |
 | 2023-10-26 | 291,432 | 15 |
-| 2023-10-27 | 291,477 | 15 |
+| 2023-10-27 | 291,483 | 15 |
 ## Awards
 Max (Great Boss Battles): 475  (Ranked 208)  
 Sum: 475 (Ranked 320)  

@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 15984,
+  "EOS_Progressed": 15985,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12807,6 +12807,11 @@
       "Time": "2023-10-27T00:03:55.9300087+00:00",
       "NumProgressed": 15984,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-27T02:20:36.5049619+00:00",
+      "NumProgressed": 15985,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -12834,7 +12839,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3676
+      "UsersEstimate": 3677
     },
     {
       "ID": "tpote_achievement_12",
@@ -12922,7 +12927,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "tpote_achievement_22",
@@ -13130,7 +13135,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "tpote_achievement_9",
@@ -13145,15 +13150,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15984,
+      "Progressed": 15985,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:45:55.6596613+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:20:36.5049611+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:41:02.9891767+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:45:55.6597916+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:16:00.7201684+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:20:36.5050799+00:00"
 }

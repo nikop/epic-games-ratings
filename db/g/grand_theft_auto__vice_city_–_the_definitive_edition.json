@@ -793,9 +793,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 10686,
+  "EOS_Progressed": 10687,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -11828,6 +11828,11 @@
       "Time": "2023-10-26T14:05:27.5758539+00:00",
       "NumProgressed": 10686,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2023-10-27T02:20:00.098641+00:00",
+      "NumProgressed": 10687,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 34,
@@ -11919,7 +11924,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "ACH12",
@@ -11943,7 +11948,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "ACH15",
@@ -12015,7 +12020,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "ACH24",
@@ -12110,7 +12115,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10686,
+      "Progressed": 10687,
       "Completed": 63
     }
   ],
@@ -12118,8 +12123,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-27T01:44:16.7869791+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:45:22.9435923+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:20:00.0986405+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.1970056+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:44:16.7869798+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:45:22.9437078+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:18:46.4343118+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:20:00.0987969+00:00"
 }

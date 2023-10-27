@@ -5719,10 +5719,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9992,
       "NumberOfAwardsMax": 6651
+    },
+    {
+      "Time": "2023-10-27T02:13:41.2389358+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9997,
+      "NumberOfAwardsMax": 6651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9992,
+  "NumberOfAwards": 9997,
   "NumberOfAwardsMax": 6651,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5736,7 +5742,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 470
+      "Count": 475
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5781,9 +5787,9 @@
       "Count": 400
     }
   ],
-  "EOS_Progressed": 704896,
+  "EOS_Progressed": 704906,
   "EOS_Completed": 2269,
-  "EOS_NewPlayers": 6230,
+  "EOS_NewPlayers": 6225,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -27336,6 +27342,11 @@
       "Time": "2023-10-27T01:46:50.809771+00:00",
       "NumProgressed": 704896,
       "NumCompleted": 2269
+    },
+    {
+      "Time": "2023-10-27T02:21:37.1720883+00:00",
+      "NumProgressed": 704906,
+      "NumCompleted": 2269
     }
   ],
   "TotalAchievements": 45,
@@ -27531,7 +27542,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -27611,7 +27622,7 @@
       "Name": "Sharpest Tool in the Box",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3524
+      "UsersEstimate": 3525
     },
     {
       "ID": "ach_skilled_up",
@@ -27706,22 +27717,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 704896,
+      "Progressed": 704906,
       "Completed": 2269
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 30438,
-      "Completed": 30438
+      "Progressed": 30448,
+      "Completed": 30448
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-10-26T22:57:48.7602037+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:46:50.8097704+00:00",
+  "LastChanged": "2023-10-27T02:13:41.2389356+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:21:37.1720877+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:13.6364225+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:39:03.0727075+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:46:50.809983+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:13:41.2389364+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:21:37.1723068+00:00"
 }

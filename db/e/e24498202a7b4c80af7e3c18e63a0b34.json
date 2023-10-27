@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6457,
+  "EOS_Progressed": 6458,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -4334,6 +4334,11 @@
       "Time": "2023-10-27T01:50:55.1744803+00:00",
       "NumProgressed": 6457,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-27T02:25:31.7697623+00:00",
+      "NumProgressed": 6458,
+      "NumCompleted": 30
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4346,7 +4351,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "achievement_01_02",
@@ -4362,7 +4367,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "achievement_01_04",
@@ -4386,7 +4391,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3745
+      "UsersEstimate": 3746
     },
     {
       "ID": "achievement_01_07",
@@ -4394,7 +4399,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "achievement_01_08",
@@ -4474,7 +4479,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "achievement_02_08",
@@ -4594,7 +4599,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "achievement_04_04",
@@ -4610,7 +4615,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "achievement_04_06",
@@ -4634,7 +4639,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5488
+      "UsersEstimate": 5489
     },
     {
       "ID": "achievement_04_09",
@@ -4649,7 +4654,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6457,
+      "Progressed": 6458,
       "Completed": 30
     }
   ],
@@ -4657,8 +4662,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:50:55.1744797+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:25:31.7697615+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:42:37.2092322+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:50:55.1745479+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:17:44.9086149+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:25:31.7698309+00:00"
 }

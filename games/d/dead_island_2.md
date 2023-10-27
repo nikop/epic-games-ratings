@@ -45,13 +45,13 @@ Rating: 4.54 (Ranked 517)
 | Make it So | 0.70% | ~4,934 |
 | LA Influential | 0.60% | ~4,229 |
 | Gore Horse | 0.60% | ~4,229 |
-| Sole Survivor | 0.50% | ~3,524 |
-| Sharpest Tool in the Box | 0.50% | ~3,524 |
+| Sole Survivor | 0.50% | ~3,525 |
+| Sharpest Tool in the Box | 0.50% | ~3,525 |
 | Survival Skills | 0.40% | ~2,820 |
 | Donk! | 0.20% | ~1,410 |
 | Bucket List | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,896 (Ranked 22)  
+Progressed: 704,906 (Ranked 22)  
 Completed: 2,269 (0.32%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,16 +241,16 @@ Completed: 2,269 (0.32%) (Ranked 209)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 704,896 | 2,269 |
+| 2023-10-27 | 704,906 | 2,269 |
 ## Awards
 Max (Great Boss Battles): 6,651  (Ranked 57)  
-Sum: 9,992 (Ranked 91)  
+Sum: 9,997 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,651 |
 | This game is Great for Beginners | 477 |
-| This game has Diverse Characters | 470 |
+| This game has Diverse Characters | 475 |
 | This game has Quickly Understood Controls | 443 |
 | This game is Relaxing | 423 |
 | This game has Amazing Storytelling | 400 |
@@ -449,3 +449,4 @@ Diff (max vs sum): -34
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
 | 2023-10-25 | 4.54 | 6,625 | 9,955 |
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
+| 2023-10-27 | 4.54 | 6,651 | 9,997 |

@@ -6,30 +6,30 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~36,748 |
-| Blood Moon | 73.00% | ~31,560 |
+| Improvement | 85.00% | ~36,749 |
+| Blood Moon | 73.00% | ~31,561 |
 | Path of the Necromancer | 66.00% | ~28,534 |
 | Chainbreaker - I | 60.00% | ~25,940 |
 | Cursed Creature | 57.00% | ~24,643 |
 | Extraction | 57.00% | ~24,643 |
-| Chainbreaker - II | 55.00% | ~23,778 |
+| Chainbreaker - II | 55.00% | ~23,779 |
 | Necromancer's Apprentice | 51.00% | ~22,049 |
 | Keeper of Keys | 47.00% | ~20,320 |
-| Distillation | 43.00% | ~18,590 |
+| Distillation | 43.00% | ~18,591 |
 | Mountain King - I | 42.00% | ~18,158 |
 | Transmutation | 42.00% | ~18,158 |
-| Prepared Necromancer | 40.00% | ~17,293 |
+| Prepared Necromancer | 40.00% | ~17,294 |
 | Mountain King - II | 39.00% | ~16,861 |
 | Blind Rage | 38.00% | ~16,429 |
 | Mad Genius | 35.00% | ~15,132 |
-| Cannon Fodder - I | 34.00% | ~14,699 |
-| Soul of Lies | 34.00% | ~14,699 |
+| Cannon Fodder - I | 34.00% | ~14,700 |
+| Soul of Lies | 34.00% | ~14,700 |
 | Bane of Mercenaries - I | 33.00% | ~14,267 |
-| Bane of Mercenaries - II | 31.00% | ~13,402 |
+| Bane of Mercenaries - II | 31.00% | ~13,403 |
 | Cannon Fodder - II | 29.00% | ~12,538 |
 | Shadow Between Worlds | 29.00% | ~12,538 |
-| Bane of Monsters | 28.00% | ~12,105 |
-| Chainbreaker - III | 28.00% | ~12,105 |
+| Bane of Monsters | 28.00% | ~12,106 |
+| Chainbreaker - III | 28.00% | ~12,106 |
 | Revealed Secrets - I | 27.00% | ~11,673 |
 | Revealed Secrets - II | 25.00% | ~10,808 |
 | Blood Elemental | 24.00% | ~10,376 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~259 |
 | Renowned Researcher | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,233 (Ranked 112)  
+Progressed: 43,234 (Ranked 112)  
 Completed: 24 (0.06%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 24 (0.06%) (Ranked 278)
 | 2023-10-24 | 42,821 | 24 |
 | 2023-10-25 | 43,055 | 24 |
 | 2023-10-26 | 43,226 | 24 |
-| 2023-10-27 | 43,233 | 24 |
+| 2023-10-27 | 43,234 | 24 |
 ## Awards
 Max (Character Customization): 2,155  (Ranked 108)  
 Sum: 4,185 (Ranked 146)  

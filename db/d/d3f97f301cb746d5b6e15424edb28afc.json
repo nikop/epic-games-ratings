@@ -862,9 +862,9 @@
       "ID": "GSS_ACH_12_RACE_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "RC Car Racer!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:45:41.8219311+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:20:21.1045423+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:41:49.4929521+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:45:41.8220443+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:16:51.1914148+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:20:21.1046584+00:00"
 }

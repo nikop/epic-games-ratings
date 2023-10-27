@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 47170,
+  "EOS_Progressed": 47172,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2609,
+  "EOS_NewPlayers": 2604,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7350,6 +7350,11 @@
       "Time": "2023-10-27T01:47:21.4522086+00:00",
       "NumProgressed": 47170,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-10-27T02:22:10.0366274+00:00",
+      "NumProgressed": 47172,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -7570,7 +7575,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "MERMAID_FREE",
@@ -7674,7 +7679,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "TALES_1",
@@ -7706,7 +7711,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "WATER",
@@ -7761,15 +7766,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 47170,
+      "Progressed": 47172,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-10-26T19:00:46.6682083+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:47:21.4522077+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:22:10.0366268+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:17.9256983+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:42:44.5106282+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:47:21.452308+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:17:53.378628+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:22:10.0367201+00:00"
 }

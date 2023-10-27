@@ -2,9 +2,9 @@
   "ID": "e8da3dcb48b44bfaa1f37a321e833374",
   "Name": "Song of Farca",
   "ProductSlug": "song-of-farca-1eb3f2",
-  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-22T03:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.9975099+00:00",
   "LastChanged": "2023-03-31T05:58:32.9975099+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:15.2495894+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:40:32.5413371+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:46:12.1768792+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:15:25.5106865+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:20:54.5048941+00:00"
 }

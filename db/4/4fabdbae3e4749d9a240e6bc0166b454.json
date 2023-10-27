@@ -2,9 +2,9 @@
   "ID": "4fabdbae3e4749d9a240e6bc0166b454",
   "Name": "Stormshot: Isle of Adventure",
   "ProductSlug": "stormshot-1e4cf4",
-  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-04T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-04T13:57:06.3952239+00:00",
   "LastUpdate_AppInfo": "2023-10-23T11:57:16.6959145+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:41:47.9935118+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:49:18.8907188+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:16:49.3472977+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:24:19.1256954+00:00"
 }

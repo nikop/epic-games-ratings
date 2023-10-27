@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 395,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -757,6 +757,11 @@
       "Time": "2023-10-27T01:47:08.6832095+00:00",
       "NumProgressed": 394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T02:21:56.7740514+00:00",
+      "NumProgressed": 395,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -783,9 +788,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -817,7 +822,7 @@
       "Name": "Globetrotter",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -847,9 +852,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -1025,7 +1030,7 @@
       "Name": "Spin the wheel",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1039,9 +1044,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1112,20 +1117,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 395,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 62,
-      "Completed": 62
+      "Progressed": 63,
+      "Completed": 63
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:47:08.6832089+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:21:56.7740509+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:42:32.6369208+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:47:08.6832504+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:17:40.7839289+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:21:56.7741009+00:00"
 }

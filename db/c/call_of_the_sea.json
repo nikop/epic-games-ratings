@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126689,
+  "EOS_Progressed": 126690,
   "EOS_Completed": 1080,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -21755,6 +21755,11 @@
       "Time": "2023-10-27T01:49:26.9553376+00:00",
       "NumProgressed": 126689,
       "NumCompleted": 1080
+    },
+    {
+      "Time": "2023-10-27T02:24:28.1491538+00:00",
+      "NumProgressed": 126690,
+      "NumCompleted": 1080
     }
   ],
   "TotalAchievements": 34,
@@ -21782,7 +21787,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 53209
+      "UsersEstimate": 53210
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -21822,7 +21827,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 101351
+      "UsersEstimate": 101352
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -21918,7 +21923,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19003
+      "UsersEstimate": 19004
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -21966,7 +21971,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19003
+      "UsersEstimate": 19004
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -21974,7 +21979,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30405
+      "UsersEstimate": 30406
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -21982,7 +21987,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30405
+      "UsersEstimate": 30406
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -22014,7 +22019,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30405
+      "UsersEstimate": 30406
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -22022,7 +22027,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 29138
+      "UsersEstimate": 29139
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -22037,7 +22042,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 126689,
+      "Progressed": 126690,
       "Completed": 1080
     }
   ],
@@ -22045,8 +22050,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:49:26.9553368+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:24:28.1491527+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:21.8246066+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:39:29.8957895+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:49:26.9555567+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:14:11.6244607+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:24:28.1493247+00:00"
 }

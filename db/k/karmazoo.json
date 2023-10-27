@@ -2,9 +2,9 @@
   "ID": "249d0f8978b943c5a4431ab2df7ba8fe",
   "Name": "KarmaZoo",
   "ProductSlug": "karmazoo-616bd0",
-  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:01.6319037+00:00",
-  "LastChanged_Achievements": "2023-10-27T01:47:29.5378057+00:00",
+  "LastChanged_Achievements": "2023-10-27T02:22:18.7547094+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:07.9199902+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:38:57.9405637+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:47:29.537809+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:13:35.4231708+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:22:18.7547132+00:00"
 }

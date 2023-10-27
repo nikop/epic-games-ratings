@@ -2,9 +2,9 @@
   "ID": "e7cdd03a9d6744b1aa9aa7f3f7ab6f01",
   "Name": "Move 78",
   "ProductSlug": "move-78-dbbc02",
-  "Ranking_EOS_Progress": 705,
+  "Ranking_EOS_Progress": 706,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-31T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-20T15:58:15.2788496+00:00",
   "LastChanged": "2023-04-20T15:58:15.2788496+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.2003086+00:00",
-  "LastUpdate_Ratings": "2023-10-27T01:40:26.5610331+00:00",
-  "LastUpdate_Achievements": "2023-10-27T01:47:55.6336738+00:00"
+  "LastUpdate_Ratings": "2023-10-27T02:15:18.0939277+00:00",
+  "LastUpdate_Achievements": "2023-10-27T02:22:46.934593+00:00"
 }

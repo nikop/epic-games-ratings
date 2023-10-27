@@ -40,9 +40,9 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~2,830 |
 | Folklorist | 6.00% | ~2,830 |
 | Keeper of Knowledge | 6.00% | ~2,830 |
-| Vorsa | 5.00% | ~2,358 |
-| Susanin | 5.00% | ~2,358 |
-| Traveller | 5.00% | ~2,358 |
+| Vorsa | 5.00% | ~2,359 |
+| Susanin | 5.00% | ~2,359 |
+| Traveller | 5.00% | ~2,359 |
 | Musician | 4.00% | ~1,887 |
 | Black Sorceress | 3.00% | ~1,415 |
 | Cheater | 3.00% | ~1,415 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~472 |
 | Word Master | 0.20% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,170 (Ranked 107)  
+Progressed: 47,172 (Ranked 107)  
 Completed: 41 (0.09%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 41 (0.09%) (Ranked 263)
 | 2023-10-24 | 46,537 | 40 |
 | 2023-10-25 | 46,856 | 41 |
 | 2023-10-26 | 47,143 | 41 |
-| 2023-10-27 | 47,170 | 41 |
+| 2023-10-27 | 47,172 | 41 |
 ## Awards
 Max (Character Customization): 79  (Ranked 378)  
 Sum: 79 (Ranked 449)  
