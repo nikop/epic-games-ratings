@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -437,7 +437,7 @@
   "Tags": [],
   "EOS_Progressed": 3075,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -4137,9 +4137,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4250,8 +4250,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:06:17.6440885+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:07:33.0975488+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:00:06.8829869+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:06:17.6441154+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:00:58.5402539+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:07:33.0975897+00:00"
 }

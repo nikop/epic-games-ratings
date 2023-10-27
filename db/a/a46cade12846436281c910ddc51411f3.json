@@ -2,7 +2,7 @@
   "ID": "a46cade12846436281c910ddc51411f3",
   "Name": "Dros",
   "ProductSlug": "dros-6da0b2",
-  "Ranking_EOS_Progress": 516,
+  "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 119,
@@ -446,8 +446,8 @@
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:09:20.6255021+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:10:09.1000112+00:00",
   "LastUpdate_AppInfo": "2023-10-27T05:57:11.3187646+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:00:25.7746091+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:09:20.6255265+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:01:20.8247985+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:10:09.1000434+00:00"
 }

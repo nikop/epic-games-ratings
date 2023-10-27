@@ -10,17 +10,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,147 |
 | Tinkle of Coins | 3.00% | ~4,147 |
 | Titan's First Steps | 3.00% | ~4,147 |
-| One Easy Payment | 2.00% | ~2,764 |
-| Some Assembly Required | 2.00% | ~2,764 |
-| Disintermediation | 2.00% | ~2,764 |
-| Another Satisfied Customer | 2.00% | ~2,764 |
-| It's Free Real Estate | 2.00% | ~2,764 |
-| Pretty Penny | 2.00% | ~2,764 |
-| One-Armed Bandit | 2.00% | ~2,764 |
-| Budding Merchant | 2.00% | ~2,764 |
-| Through Repetition, Perfection | 2.00% | ~2,764 |
-| Capitalism Ho! | 2.00% | ~2,764 |
-| Own the Means of Production | 2.00% | ~2,764 |
+| One Easy Payment | 2.00% | ~2,765 |
+| Some Assembly Required | 2.00% | ~2,765 |
+| Disintermediation | 2.00% | ~2,765 |
+| Another Satisfied Customer | 2.00% | ~2,765 |
+| It's Free Real Estate | 2.00% | ~2,765 |
+| Pretty Penny | 2.00% | ~2,765 |
+| One-Armed Bandit | 2.00% | ~2,765 |
+| Budding Merchant | 2.00% | ~2,765 |
+| Through Repetition, Perfection | 2.00% | ~2,765 |
+| Capitalism Ho! | 2.00% | ~2,765 |
+| Own the Means of Production | 2.00% | ~2,765 |
 | The Daily Grind | 1.00% | ~1,382 |
 | On the Path to Greatness | 1.00% | ~1,382 |
 | Ascended | 1.00% | ~1,382 |
@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 0.80% | ~1,106 |
 | Scrapbooker | 0.80% | ~1,106 |
 | Flying off the Shelves | 0.80% | ~1,106 |
+| This Power Level...! | 0.80% | ~1,106 |
 | Hidden Potential | 0.80% | ~1,106 |
 | Expansion in Session | 0.80% | ~1,106 |
 | Trash to Treasure | 0.80% | ~1,106 |
@@ -64,7 +65,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.70% | ~968 |
 | The King's Caprice | 0.70% | ~968 |
 | Locally Sourced | 0.70% | ~968 |
-| This Power Level...! | 0.70% | ~968 |
 | Master of Transmutation | 0.70% | ~968 |
 | Supercharged | 0.70% | ~968 |
 | Cranked up to 11 | 0.70% | ~968 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,224 (Ranked 75)  
+Progressed: 138,228 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 172 (0.12%) (Ranked 251)
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
-| 2023-10-27 | 138,224 | 172 |
+| 2023-10-27 | 138,228 | 172 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
 Sum: 27,456 (Ranked 51)  

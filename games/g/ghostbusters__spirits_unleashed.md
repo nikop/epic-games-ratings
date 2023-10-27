@@ -7,13 +7,13 @@ Rating: 4.50 (Ranked 578)
 | ---- | ---------- | ----- |
 | Stylish | 5.00% | ~1,396 |
 | Advancement | 4.00% | ~1,117 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~837 |
-| Discovery | 3.00% | ~837 |
-| Meticulously Efficient | 3.00% | ~837 |
-| Fully Upgraded | 3.00% | ~837 |
-| Solo Capture | 3.00% | ~837 |
-| Swift Rift Removers | 3.00% | ~837 |
-| Vaporous Expansion | 3.00% | ~837 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~838 |
+| Discovery | 3.00% | ~838 |
+| Meticulously Efficient | 3.00% | ~838 |
+| Fully Upgraded | 3.00% | ~838 |
+| Solo Capture | 3.00% | ~838 |
+| Swift Rift Removers | 3.00% | ~838 |
+| Vaporous Expansion | 3.00% | ~838 |
 | Animated | 2.00% | ~558 |
 | Back Off | 2.00% | ~558 |
 | Clutch Capture | 2.00% | ~558 |
@@ -43,9 +43,9 @@ Rating: 4.50 (Ranked 578)
 | Diabolical | 0.80% | ~223 |
 | Reckless | 0.80% | ~223 |
 | Rivalry | 0.70% | ~195 |
-| Fragile Panes | 0.60% | ~167 |
-| Liability | 0.60% | ~167 |
-| Surprise! | 0.60% | ~167 |
+| Fragile Panes | 0.60% | ~168 |
+| Liability | 0.60% | ~168 |
+| Surprise! | 0.60% | ~168 |
 | Therapeutic | 0.40% | ~112 |
 | Rift Seeker | 0.30% | ~84 |
 | Master Collector | 0.20% | ~56 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,913 (Ranked 122)  
+Progressed: 27,921 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-24 | 27,517 | 64 |
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
-| 2023-10-27 | 27,913 | 65 |
+| 2023-10-27 | 27,921 | 65 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 249)  
 Sum: 2,570 (Ranked 182)  

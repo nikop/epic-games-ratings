@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1947,
+  "EOS_Progressed": 1948,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
@@ -2489,6 +2489,11 @@
       "Time": "2023-10-27T21:04:24.6858347+00:00",
       "NumProgressed": 1947,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T22:05:20.2313521+00:00",
+      "NumProgressed": 1948,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2508,7 +2513,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2578,9 +2583,9 @@
       "ID": "ACH_FULL_HOUSE",
       "SetID": "8j30i9k",
       "Name": "Full House",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2796,7 +2801,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2876,7 +2881,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2923,15 +2928,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1947,
+      "Progressed": 1948,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:04:24.6858341+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:05:20.2313517+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:58:08.8075773+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:04:24.6858835+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:58:37.707508+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:05:20.2314168+00:00"
 }

@@ -8,18 +8,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,882 |
 | Ten out of Ten | 0.80% | ~7,153 |
+| Full Body Conversion | 0.60% | ~5,365 |
 | Gun Fu | 0.60% | ~5,365 |
 | Rough Landing | 0.60% | ~5,365 |
 | The High Priestess | 0.60% | ~5,365 |
 | True Soldier | 0.60% | ~5,365 |
-| Full Body Conversion | 0.50% | ~4,470 |
-| Right Back At Ya | 0.50% | ~4,470 |
-| Stanislavski's Method | 0.50% | ~4,470 |
-| The Hermit | 0.50% | ~4,470 |
-| The Wheel of Fortune | 0.50% | ~4,470 |
-| Legend of The Afterlife | 0.50% | ~4,470 |
-| All the President's Men | 0.50% | ~114 |
-| Arachnophobia | 0.50% | ~114 |
+| All the President's Men | 0.60% | ~136 |
+| Arachnophobia | 0.60% | ~136 |
+| Right Back At Ya | 0.50% | ~4,471 |
+| Stanislavski's Method | 0.50% | ~4,471 |
+| The Hermit | 0.50% | ~4,471 |
+| The Wheel of Fortune | 0.50% | ~4,471 |
+| Legend of The Afterlife | 0.50% | ~4,471 |
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,091 (Ranked 15)  
-Completed: 2,719 (0.30%) (Ranked 214)  
+Progressed: 894,102 (Ranked 15)  
+Completed: 2,720 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,10 +262,10 @@ Completed: 2,719 (0.30%) (Ranked 214)
 | 2023-10-24 | 893,690 | 2,713 |
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
-| 2023-10-27 | 894,091 | 2,719 |
+| 2023-10-27 | 894,102 | 2,720 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 329,494 (Ranked 10)  
+Sum: 329,659 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -273,8 +273,8 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 72,793 |
 | This game is Great for Beginners | 19,028 |
 | This game has Diverse Characters | 18,872 |
+| This game has Amazing Storytelling | 18,043 |
 | This game is Highly Recommended | 18,000 |
-| This game has Amazing Storytelling | 17,878 |
 | This game is Extremely Fun | 17,760 |
 | This game has Amazing Characters | 17,546 |
 | This game is Relaxing | 16,932 |
@@ -564,4 +564,4 @@ Diff (max vs sum): -1
 | 2023-10-24 | 4.64 | - | 101,212 | 324,129 |
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
-| 2023-10-27 | 4.64 | - | 102,038 | 329,494 |
+| 2023-10-27 | 4.64 | - | 102,038 | 329,659 |

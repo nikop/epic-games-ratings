@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,958 |
-| A Spark | 18.00% | ~2,130 |
-| Burning City | 17.00% | ~2,012 |
-| Defender's Heart | 15.00% | ~1,775 |
+| Devoured by Darkness | 25.00% | ~2,960 |
+| A Spark | 18.00% | ~2,131 |
+| Burning City | 17.00% | ~2,013 |
+| Defender's Heart | 15.00% | ~1,776 |
 | Mythic Choices | 14.00% | ~1,657 |
-| Banner over the Citadel | 13.00% | ~1,538 |
-| Queen's Gratitude | 12.00% | ~1,420 |
+| Banner over the Citadel | 13.00% | ~1,539 |
+| Queen's Gratitude | 12.00% | ~1,421 |
 | Fifth Crusade | 8.00% | ~947 |
 | Embrace of the Abyss | 6.00% | ~710 |
 | Path of the Angel | 6.00% | ~710 |
@@ -24,17 +24,17 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~592 |
 | All Paths Open | 5.00% | ~592 |
 | Next-Door Play | 5.00% | ~592 |
-| Heart of the Fallen Land | 4.00% | ~473 |
-| Divide and Rule | 4.00% | ~473 |
-| Mythic Reinforcements | 4.00% | ~473 |
-| A Flame | 4.00% | ~473 |
-| Get the Toad | 4.00% | ~473 |
+| Heart of the Fallen Land | 4.00% | ~474 |
+| Divide and Rule | 4.00% | ~474 |
+| Mythic Reinforcements | 4.00% | ~474 |
+| A Flame | 4.00% | ~474 |
+| Get the Toad | 4.00% | ~474 |
 | Path of the Trickster | 3.00% | ~355 |
 | Heroic Victory | 3.00% | ~355 |
 | Core of the Riddle | 3.00% | ~355 |
 | Hey, I Know You! | 3.00% | ~355 |
-| The Lady of the Forest | 3.00% | ~318 |
-| Beware Still Water | 3.00% | ~318 |
+| The Lady of the Forest | 3.00% | ~319 |
+| Beware Still Water | 3.00% | ~319 |
 | Path of the Demon | 2.00% | ~237 |
 | Path of the Aeon | 2.00% | ~237 |
 | Path of the Lich | 2.00% | ~237 |
@@ -50,16 +50,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Abyssal Conspiracy | 1.00% | ~118 |
 | This Wall Won't Fall | 1.00% | ~106 |
 | Not the Last Sarkorian | 1.00% | ~106 |
-| Path of the Dragon | 0.90% | ~106 |
-| End of Eternal Guard | 0.90% | ~106 |
-| Truly Profane Gift | 0.90% | ~106 |
+| Path of the Dragon | 0.90% | ~107 |
+| End of Eternal Guard | 0.90% | ~107 |
+| Truly Profane Gift | 0.90% | ~107 |
 | Masterful Charge | 0.70% | ~83 |
 | Playful Mood | 0.70% | ~83 |
 | Dreadful Dragon | 0.70% | ~83 |
 | Prelate's Nemesis | 0.50% | ~59 |
 | Ashes to Ashes | 0.40% | ~47 |
-| Masterful Dispel | 0.30% | ~35 |
-| Just Pathetic | 0.30% | ~35 |
+| Masterful Dispel | 0.30% | ~36 |
+| Just Pathetic | 0.30% | ~36 |
 | Path of the Swarm | 0.20% | ~24 |
 | Equal to Aroden | 0.10% | ~12 |
 | Spirit of Adventure | 0.10% | ~12 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,833 (Ranked 149)  
+Progressed: 11,839 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 11,771 | 0 |
 | 2023-10-25 | 11,793 | 0 |
 | 2023-10-26 | 11,816 | 0 |
-| 2023-10-27 | 11,833 | 0 |
+| 2023-10-27 | 11,839 | 0 |
 ## Awards
 Max (Character Customization): 1,729  (Ranked 120)  
 Sum: 7,006 (Ranked 119)  

@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,222 |
-| Worth it | 63.00% | ~38,948 |
-| Eagle Eye | 55.00% | ~34,003 |
-| Corpseman I | 40.00% | ~24,729 |
-| Blast fishing | 37.00% | ~22,875 |
-| Not alone | 32.00% | ~19,783 |
-| Headhunter I | 26.00% | ~16,074 |
-| Manual Labour I | 25.00% | ~15,456 |
+| Setting an example | 78.00% | ~48,225 |
+| Worth it | 63.00% | ~38,951 |
+| Eagle Eye | 55.00% | ~34,005 |
+| Corpseman I | 40.00% | ~24,731 |
+| Blast fishing | 37.00% | ~22,876 |
+| Not alone | 32.00% | ~19,785 |
+| Headhunter I | 26.00% | ~16,075 |
+| Manual Labour I | 25.00% | ~15,457 |
 | Developers, Developers, Developers | 24.00% | ~14,838 |
 | Basic Training | 24.00% | ~14,838 |
-| Furchtlos und Treu | 13.00% | ~8,037 |
+| Furchtlos und Treu | 13.00% | ~8,038 |
 | Gott Mit Uns | 12.00% | ~7,419 |
 | This We'll Defend! | 9.00% | ~5,564 |
 | Anker wirf! | 9.00% | ~5,564 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,855 |
 | Silver x100 | 3.00% | ~1,855 |
 | Impavidum Ferient Bella! | 3.00% | ~1,855 |
-| Bronze x100 | 2.00% | ~1,236 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,236 |
+| Bronze x100 | 2.00% | ~1,237 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,237 |
 | Gold x100 | 1.00% | ~618 |
 | Hunting the Hun | 1.00% | ~618 |
 | #1 | 1.00% | ~618 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,823 (Ranked 102)  
+Progressed: 61,827 (Ranked 102)  
 Completed: 4 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 4 (0.01%) (Ranked 308)
 | 2023-10-24 | 61,624 | 4 |
 | 2023-10-25 | 61,684 | 4 |
 | 2023-10-26 | 61,750 | 4 |
-| 2023-10-27 | 61,823 | 4 |
+| 2023-10-27 | 61,827 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 356)  
 Sum: 777 (Ranked 276)  

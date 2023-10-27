@@ -9,23 +9,23 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 0.90% | ~13 |
 | Gotta Ca... Must Collect All of Them | 0.70% | ~10 |
 | How Romantic! | 0.70% | ~10 |
+| Cutthroat Competitors | 0.70% | ~10 |
 | Me and My Familiar | 0.60% | ~9 |
 | Passing Shadow | 0.60% | ~9 |
 | This Too Shall Pass | 0.60% | ~9 |
-| Cutthroat Competitors | 0.60% | ~9 |
 | Daybreak | 0.50% | ~7 |
 | Let Me Get My Chisel | 0.30% | ~4 |
 | Completing the Look | 0.30% | ~4 |
 | War Endured | 0.30% | ~4 |
 | Echoes Die | 0.30% | ~4 |
 | Core Failure | 0.30% | ~4 |
+| Empty the Caves | 0.20% | ~3 |
 | Who's Counting? | 0.20% | ~3 |
 | Thematic Divergence | 0.20% | ~3 |
 | Pyrrhic Victory | 0.20% | ~3 |
 | A Story of Heroes | 0.20% | ~3 |
 | A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
-| Empty the Caves | 0.10% | ~1 |
 | Bonebreakers | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |

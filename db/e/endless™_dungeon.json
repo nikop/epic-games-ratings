@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 832,
+  "EOS_Progressed": 834,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -810,6 +810,11 @@
       "Time": "2023-10-27T21:03:19.208539+00:00",
       "NumProgressed": 832,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T22:04:03.0336602+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -844,9 +849,9 @@
       "ID": "ACHIEVEMENT_BIOGRAPHER",
       "SetID": "9991201",
       "Name": "Endless Biographer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -902,7 +907,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -918,7 +923,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1061,14 +1066,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 832,
+      "Progressed": 834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:03:19.2085386+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:04:03.0336596+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:00:45.1592589+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:03:19.2085662+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:01:45.0038391+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:04:03.0336909+00:00"
 }

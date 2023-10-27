@@ -31,9 +31,9 @@
 | Missing in Action | 45.00% | ~369 |
 | Very Elusive | 45.00% | ~369 |
 | Head Hunter | 45.00% | ~369 |
+| Operative | 44.00% | ~361 |
 | Scholar | 44.00% | ~361 |
 | Sentinel Ally | 43.00% | ~353 |
-| Operative | 43.00% | ~353 |
 | Veteran | 42.00% | ~345 |
 | The Professor | 42.00% | ~345 |
 | Power Full | 42.00% | ~345 |
@@ -43,8 +43,8 @@
 | The Krogan | 38.00% | ~312 |
 | Galactic Explorer | 37.00% | ~304 |
 | Completionist | 36.00% | ~296 |
+| Ghost Ship | 36.00% | ~296 |
 | Broke, Blind, and Bedlam | 36.00% | ~296 |
-| Ghost Ship | 35.00% | ~287 |
 | The Quarian | 35.00% | ~287 |
 | The Assassin | 34.00% | ~279 |
 | The Justicar | 34.00% | ~279 |
@@ -77,9 +77,9 @@
 | Untouchable | 27.00% | ~222 |
 | Giant Killer | 27.00% | ~222 |
 | A House Divided | 27.00% | ~222 |
+| World Shaker | 27.00% | ~222 |
 | Eye of the Hurricane | 26.00% | ~213 |
 | Weapon Specialist | 26.00% | ~213 |
-| World Shaker | 26.00% | ~213 |
 | Tunnel Rat | 25.00% | ~205 |
 | Liberator | 25.00% | ~205 |
 | Savior | 24.00% | ~197 |
@@ -101,19 +101,19 @@
 | Executioner | 18.00% | ~148 |
 | Electronics Specialist | 17.00% | ~140 |
 | Sabotage Specialist | 17.00% | ~140 |
+| Patriot | 17.00% | ~140 |
 | Master and Commander | 17.00% | ~140 |
 | Throw Mastery | 16.00% | ~131 |
-| Patriot | 16.00% | ~131 |
 | Legend | 16.00% | ~131 |
 | Mail Slot | 14.00% | ~115 |
 | Long Service Medal | 14.00% | ~115 |
 | Combined Arms | 13.00% | ~107 |
 | Bruiser | 13.00% | ~107 |
 | Warp Mastery | 12.00% | ~99 |
+| Paramour III | 11.00% | ~90 |
 | Overload Specialist | 11.00% | ~90 |
 | Barrier Mastery | 10.00% | ~82 |
 | Always Prepared | 10.00% | ~82 |
-| Paramour III | 10.00% | ~82 |
 | Lift Mastery | 10.00% | ~82 |
 | Sky High | 9.00% | ~74 |
 | Hijacker | 9.00% | ~74 |

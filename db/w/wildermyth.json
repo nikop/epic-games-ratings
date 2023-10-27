@@ -1810,9 +1810,9 @@
       "ID": "achievement_kill1000Cultists",
       "SetID": "95dc8p",
       "Name": "Empty the Caves",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_kill1000Drauven",
@@ -1906,9 +1906,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2170,8 +2170,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:08:50.1308856+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:09:32.8929441+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:10.8809268+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:58:07.0058951+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:08:50.1309322+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:58:35.4071789+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:09:32.8930094+00:00"
 }

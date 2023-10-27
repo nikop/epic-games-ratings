@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 359)  
+Progressed: 185 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2396,9 +2396,9 @@
       "ID": "achievement_122",
       "SetID": "d252ncf",
       "Name": "Paramour III",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_123",
@@ -2668,9 +2668,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_4",
@@ -2948,9 +2948,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_71",
@@ -3052,9 +3052,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_83",
@@ -3164,9 +3164,9 @@
       "ID": "achievement_95",
       "SetID": "d252ncf",
       "Name": "Patriot",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_96",
@@ -3216,8 +3216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:05:15.1606454+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:06:20.2159665+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:58:44.4579443+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:05:15.1608262+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:59:18.8404238+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:06:20.2162977+00:00"
 }

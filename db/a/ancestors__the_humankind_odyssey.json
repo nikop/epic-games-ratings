@@ -4,7 +4,7 @@
   "ProductSlug": "ancestors",
   "Ranking_Rating": 441,
   "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 412,
@@ -676,10 +676,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-27T21:57:34.8578148+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 244,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -711,7 +717,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Challenging Combat",
@@ -749,8 +755,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2023-10-25T05:01:50.6288532+00:00",
+  "LastChanged": "2023-10-27T21:57:34.8578146+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:16.605604+00:00",
-  "LastUpdate_Ratings": "2023-10-27T20:57:16.8561351+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:06:30.5115671+00:00"
+  "LastUpdate_Ratings": "2023-10-27T21:57:34.8578153+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:07:48.0107621+00:00"
 }

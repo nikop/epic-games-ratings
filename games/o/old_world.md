@@ -59,6 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 1.00% | ~150 |
 | Victorious | 1.00% | ~150 |
 | Legendary Cities | 1.00% | ~150 |
+| Good Difficulty | 1.00% | ~150 |
 | Just Difficulty | 1.00% | ~150 |
 | Artisans | 1.00% | ~150 |
 | Champions | 1.00% | ~150 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
 | Lion | 0.90% | ~135 |
-| Good Difficulty | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |

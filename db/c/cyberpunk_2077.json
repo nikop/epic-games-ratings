@@ -14190,10 +14190,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 329494,
       "NumberOfAwardsMax": 102038
+    },
+    {
+      "Time": "2023-10-27T22:02:32.0799305+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 329659,
+      "NumberOfAwardsMax": 102038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329494,
+  "NumberOfAwards": 329659,
   "NumberOfAwardsMax": 102038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14225,7 +14231,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17878
+      "Count": 18043
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14270,10 +14276,10 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894091,
-  "EOS_Completed": 2719,
-  "EOS_NewPlayers": 1194,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 894102,
+  "EOS_Completed": 2720,
+  "EOS_NewPlayers": 1200,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35850,6 +35856,11 @@
       "Time": "2023-10-27T21:03:29.1552344+00:00",
       "NumProgressed": 894091,
       "NumCompleted": 2719
+    },
+    {
+      "Time": "2023-10-27T22:04:14.9760463+00:00",
+      "NumProgressed": 894102,
+      "NumCompleted": 2720
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35884,9 +35895,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 5365
     },
     {
       "ID": "Denied",
@@ -35894,7 +35905,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "FollowingTheRiver",
@@ -36038,7 +36049,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "Specialist",
@@ -36086,7 +36097,7 @@
       "Name": "The Hermit",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "TheHightPriestess",
@@ -36126,7 +36137,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "TheWorld",
@@ -36206,7 +36217,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "All the President\u0027s Men",
@@ -36316,9 +36327,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 136
     },
     {
       "ID": "HydraIsDead",
@@ -36332,9 +36343,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 136
     },
     {
       "ID": "KingOfTheCups",
@@ -36381,21 +36392,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894091,
-      "Completed": 2719
+      "Progressed": 894102,
+      "Completed": 2720
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22714,
+      "Progressed": 22725,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-27T20:00:53.0856975+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:03:29.1552337+00:00",
+  "LastChanged": "2023-10-27T22:02:32.0799304+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:04:14.9760458+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:02:35.9917679+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:03:29.155378+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:02:32.079931+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:04:14.9762596+00:00"
 }

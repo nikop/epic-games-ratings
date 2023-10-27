@@ -5,7 +5,7 @@ Rating: 4.40 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~827 |
+| Good start | 77.00% | ~838 |
 | And so it begins | 73.00% | ~794 |
 | No pressure | 70.00% | ~762 |
 | Memento | 62.00% | ~675 |
@@ -21,9 +21,9 @@ Rating: 4.40 (Ranked 729)
 | No need to call anyone | 40.00% | ~435 |
 | Big fortune | 33.00% | ~359 |
 | Still more work ahead | 30.00% | ~326 |
+| Kaboom | 28.00% | ~305 |
 | Aesop's fable | 28.00% | ~305 |
 | Hotel sleuthing | 28.00% | ~305 |
-| Kaboom | 27.00% | ~294 |
 | Nearly there | 26.00% | ~283 |
 | Broken heart | 24.00% | ~261 |
 | Island boy | 22.00% | ~239 |

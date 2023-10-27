@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 68.00% | ~17 |
-| Marc Allard | 68.00% | ~17 |
-| The Ship | 64.00% | ~16 |
-| Seeking the truth | 60.00% | ~15 |
-| An old friend | 56.00% | ~14 |
-| The Gala | 52.00% | ~13 |
-| A curious gathering | 52.00% | ~13 |
-| Little grey cells | 48.00% | ~12 |
-| Impossible is possible | 48.00% | ~12 |
-| Arthur Hastings | 48.00% | ~12 |
-| The Missing Magdalene | 44.00% | ~11 |
-| Everything matters | 40.00% | ~10 |
-| Order and method | 40.00% | ~10 |
-| An expert mediator | 32.00% | ~8 |
-| DI Hardwicke | 32.00% | ~8 |
-| Betty Allen | 28.00% | ~7 |
-| The Investigation Begins | 28.00% | ~7 |
-| Ms. Camilla B. Culsham | 20.00% | ~5 |
-| Irene Court-Smyth | 20.00% | ~5 |
-| An odd series of events | 16.00% | ~4 |
-| The Apartment | 16.00% | ~4 |
+| Little ideas | 65.00% | ~17 |
+| Marc Allard | 65.00% | ~17 |
+| The Ship | 62.00% | ~16 |
+| Seeking the truth | 58.00% | ~15 |
+| An old friend | 54.00% | ~14 |
+| The Gala | 50.00% | ~13 |
+| A curious gathering | 50.00% | ~13 |
+| Little grey cells | 46.00% | ~12 |
+| Impossible is possible | 46.00% | ~12 |
+| Arthur Hastings | 46.00% | ~12 |
+| The Missing Magdalene | 42.00% | ~11 |
+| Everything matters | 38.00% | ~10 |
+| Order and method | 38.00% | ~10 |
+| An expert mediator | 31.00% | ~8 |
+| DI Hardwicke | 31.00% | ~8 |
+| Betty Allen | 27.00% | ~7 |
+| The Investigation Begins | 27.00% | ~7 |
+| An odd series of events | 19.00% | ~5 |
+| Ms. Camilla B. Culsham | 19.00% | ~5 |
+| Irene Court-Smyth | 19.00% | ~5 |
+| The Apartment | 19.00% | ~5 |
+| A rude awakening | 15.00% | ~4 |
+| Nathaniel Dryden | 15.00% | ~4 |
 | Well-acquainted | 12.00% | ~3 |
 | Truth from within | 12.00% | ~3 |
-| A rude awakening | 12.00% | ~3 |
 | Anastasia Babanin | 12.00% | ~3 |
-| Nathaniel Dryden | 12.00% | ~3 |
 | Zakariya Demir | 12.00% | ~3 |
 | Bartholomew | 12.00% | ~3 |
 | The Scheme | 12.00% | ~3 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 492)  
+Progressed: 26 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,3 +76,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-22 | 23 | 0 |
 | 2023-10-23 | 24 | 0 |
 | 2023-10-25 | 25 | 0 |
+| 2023-10-27 | 26 | 0 |

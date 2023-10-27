@@ -4019,9 +4019,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11833,
+  "EOS_Progressed": 11839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14524,6 +14524,11 @@
       "Time": "2023-10-27T21:04:13.0310596+00:00",
       "NumProgressed": 11833,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T22:05:06.6880259+00:00",
+      "NumProgressed": 11839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14535,7 +14540,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2960
     },
     {
       "ID": "02_BurningCity",
@@ -14543,7 +14548,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14551,7 +14556,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "04_FithCrusade",
@@ -14575,7 +14580,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "07_FinalThreshold",
@@ -14647,7 +14652,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "16_PathOfLegend",
@@ -14727,7 +14732,7 @@
       "Name": "Masterful Dispel",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "27_VictorySeige",
@@ -14735,7 +14740,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "28_GreatUpstart",
@@ -14767,7 +14772,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "32_MythicReinforcements",
@@ -14775,7 +14780,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "33_DefendersHeart",
@@ -14783,7 +14788,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -14839,7 +14844,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "41_PlayfulMood",
@@ -14855,7 +14860,7 @@
       "Name": "Just Pathetic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "43_DreadfulDragon",
@@ -14903,7 +14908,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2130
+      "UsersEstimate": 2131
     },
     {
       "ID": "49_Flame",
@@ -14911,7 +14916,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -14943,7 +14948,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "54_DeathByColumn",
@@ -14967,7 +14972,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "57_PathOfDevil",
@@ -15447,7 +15452,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -15455,28 +15460,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10615,
+      "Progressed": 10621,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11833,
+      "Progressed": 11839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-27T16:02:43.8133419+00:00",
-  "LastChanged_Achievements": "2023-10-27T21:04:13.0310591+00:00",
+  "LastChanged_Achievements": "2023-10-27T22:05:06.6880253+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-27T21:02:43.5605953+00:00",
-  "LastUpdate_Achievements": "2023-10-27T21:04:13.0312449+00:00"
+  "LastUpdate_Ratings": "2023-10-27T22:03:20.1669171+00:00",
+  "LastUpdate_Achievements": "2023-10-27T22:05:06.6883027+00:00"
 }
