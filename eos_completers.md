@@ -5,7 +5,7 @@
 | 2 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 50.00% |
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.05% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.87% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.86% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.20% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -76,7 +76,7 @@
 | 74 | [ZZT!](games/z/zzt!.md) | 4.44% |
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.31% |
-| 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.16% |
+| 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.15% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.91% |
@@ -195,8 +195,8 @@
 | 191 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 191 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
 | 195 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 195 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 195 | [Tchia](games/t/tchia.md) | 0.45% |
+| 197 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
 | 198 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 199 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 200 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -256,12 +256,12 @@
 | 250 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
 | 255 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 255 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.11% |
-| 255 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.11% |
 | 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 259 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
-| 259 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 259 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 259 | [Supraland](games/s/supraland.md) | 0.10% |
+| 258 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
+| 258 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 258 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.10% |
+| 258 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 258 | [Supraland](games/s/supraland.md) | 0.10% |
 | 263 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 263 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 263 | [Black Book](games/b/black_book.md) | 0.09% |
@@ -581,6 +581,7 @@
 | 327 | [Railway Empire 2](games/r/railway_empire_2.md) | 0.00% |
 | 327 | [Redfall](games/r/redfall.md) | 0.00% |
 | 327 | [Redout 2](games/r/redout_2.md) | 0.00% |
+| 327 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 0.00% |
 | 327 | [Return to Abyss 重返深渊](games/6/6d8b4249e42f421980c9f9007fa37ade.md) | 0.00% |
 | 327 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 0.00% |
 | 327 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 0.00% |

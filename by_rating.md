@@ -69,7 +69,7 @@
 | 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 469 |
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 806 | 167 |
 | 62 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 284 | 251 |
-| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,733 | 53 |
+| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,734 | 53 |
 | 62 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 419 | 221 |
 | 62 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 540 |
 | 62 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.82 | 0 | 540 |
@@ -100,7 +100,7 @@
 | 92 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,068 | 61 |
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 397 | 223 |
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 540 |
-| 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 443 |
+| 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 444 |
 | 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 540 |
 | 102 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 52 | 414 |
 | 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,427 | 38 |
@@ -240,7 +240,7 @@
 | 224 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 540 |
 | 224 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 540 |
 | 224 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 540 |
-| 224 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 443 |
+| 224 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 42 | 444 |
 | 224 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,012 | 150 |
 | 243 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,374 | 91 |
 | 243 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,736 | 88 |
@@ -286,7 +286,7 @@
 | 268 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 540 |
 | 285 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 79 | 378 |
 | 285 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,918 | 65 |
-| 285 | [Coromon](games/c/coromon.md) | 4.66 | 42 | 443 |
+| 285 | [Coromon](games/c/coromon.md) | 4.66 | 42 | 444 |
 | 285 | [Crashlands](games/c/crashlands.md) | 4.66 | 194 | 283 |
 | 285 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.66 | 0 | 540 |
 | 285 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,300 | 136 |
@@ -356,7 +356,7 @@
 | 340 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 25 | 509 |
 | 340 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 71 | 394 |
 | 340 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 540 |
-| 357 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 42 | 443 |
+| 357 | [Aimlabs](games/a/aimlabs.md) | 4.62 | 43 | 440 |
 | 357 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.62 | 0 | 540 |
 | 357 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.62 | 387 | 226 |
 | 357 | [Dead Space](games/d/dead_space.md) | 4.62 | 107 | 342 |
@@ -409,7 +409,7 @@
 | 401 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 271 |
 | 401 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 76 | 388 |
 | 401 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.60 | 0 | 540 |
-| 401 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,889 | 28 |
+| 401 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,891 | 28 |
 | 401 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 123 | 326 |
 | 401 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 540 |
 | 401 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 404 |
@@ -852,7 +852,7 @@
 | 843 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 540 |
 | 843 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 540 |
 | 852 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 540 |
-| 852 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,505 | 19 |
+| 852 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,533 | 19 |
 | 852 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 540 |
 | 852 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 540 |
 | 852 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 540 |
@@ -911,7 +911,7 @@
 | 909 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 540 |
 | 909 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 540 |
 | 909 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,867 | 98 |
-| 909 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 208,850 | 5 |
+| 909 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 209,001 | 5 |
 | 909 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.18 | 0 | 540 |
 | 909 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 358 |
 | 909 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.18 | 45 | 434 |

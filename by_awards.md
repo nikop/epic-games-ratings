@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 593,859 | 4.48 | 613 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 311,427 | 4.68 | 243 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 248,721 | 4.68 | 243 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 208,850 | 4.18 | 909 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 209,001 | 4.18 | 909 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 191,038 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,642 | 4.51 | 556 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,434 | 4.69 | 224 |
@@ -18,7 +18,7 @@
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,089 | 4.64 | 324 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,806 | 4.76 | 119 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,177 | 4.53 | 529 |
-| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,505 | 4.26 | 852 |
+| 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,533 | 4.26 | 852 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,000 | 4.57 | 460 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,505 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 17,986 | 4.60 | 401 |
@@ -27,7 +27,7 @@
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,694 | 4.76 | 119 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,561 | 4.58 | 440 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,476 | 4.60 | 401 |
-| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,889 | 4.60 | 401 |
+| 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,891 | 4.60 | 401 |
 | 29 | [Maneater](games/m/maneater.md) | 13,756 | 4.49 | 597 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,398 | 4.43 | 682 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,791 | 4.86 | 28 |
@@ -52,7 +52,7 @@
 | 50 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,549 | 4.71 | 191 |
 | 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,474 | 4.68 | 243 |
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,283 | 4.74 | 151 |
-| 53 | [Sifu](games/s/sifu.md) | 6,733 | 4.82 | 62 |
+| 53 | [Sifu](games/s/sifu.md) | 6,734 | 4.82 | 62 |
 | 54 | [Bloons TD 6](games/b/bloons_td_6.md) | 6,711 | 4.77 | 111 |
 | 55 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 698 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,687 | 4.69 | 224 |
@@ -439,13 +439,13 @@
 | 434 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 45 | 4.30 | 821 |
 | 434 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 45 | 4.18 | 909 |
 | 434 | [STG Football](games/s/stg_football.md) | 45 | 4.43 | 682 |
+| 440 | [Aimlabs](games/a/aimlabs.md) | 43 | 4.62 | 357 |
 | 440 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 43 | 4.50 | 578 |
 | 440 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 43 | 4.42 | 698 |
 | 440 | [Voidtrain](games/v/voidtrain.md) | 43 | 4.51 | 556 |
-| 443 | [Aimlabs](games/a/aimlabs.md) | 42 | 4.62 | 357 |
-| 443 | [Coromon](games/c/coromon.md) | 42 | 4.66 | 285 |
-| 443 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 42 | 4.79 | 92 |
-| 443 | [Transport Fever 2](games/t/transport_fever_2.md) | 42 | 4.69 | 224 |
+| 444 | [Coromon](games/c/coromon.md) | 42 | 4.66 | 285 |
+| 444 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 42 | 4.79 | 92 |
+| 444 | [Transport Fever 2](games/t/transport_fever_2.md) | 42 | 4.69 | 224 |
 | 447 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 119 |
 | 448 | [Bugsnax](games/b/bugsnax.md) | 39 | 4.86 | 28 |
 | 448 | [City of Gangsters](games/c/city_of_gangsters.md) | 39 | 4.28 | 838 |
