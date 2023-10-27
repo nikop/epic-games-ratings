@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~37,913 |
-| I read Shakespeare and stuff | 64.00% | ~32,353 |
-| Just a sprinkle | 63.00% | ~31,847 |
-| I'm stumped | 61.00% | ~30,836 |
-| Plant get enough | 60.00% | ~30,331 |
-| It's just the beginning | 59.00% | ~29,825 |
-| This is just my weekend vehicle | 58.00% | ~29,320 |
-| Hard work pays off | 53.00% | ~26,792 |
+| Own use | 75.00% | ~37,915 |
+| I read Shakespeare and stuff | 64.00% | ~32,354 |
+| Just a sprinkle | 63.00% | ~31,848 |
+| I'm stumped | 61.00% | ~30,837 |
+| Plant get enough | 60.00% | ~30,332 |
+| It's just the beginning | 59.00% | ~29,826 |
+| This is just my weekend vehicle | 58.00% | ~29,321 |
+| Hard work pays off | 53.00% | ~26,793 |
 | It's never too late to farm | 50.00% | ~25,276 |
-| All out of Land | 44.00% | ~22,242 |
-| Field Trip | 44.00% | ~22,242 |
-| I like to switch it up | 40.00% | ~20,220 |
-| Help me to help you | 38.00% | ~19,209 |
-| Ultimutt Pawesomeness | 28.00% | ~14,154 |
-| Van Gogh | 26.00% | ~13,143 |
-| You wood not believe it | 22.00% | ~11,121 |
-| Vehicle fleet | 22.00% | ~11,121 |
+| All out of Land | 44.00% | ~22,243 |
+| Field Trip | 44.00% | ~22,243 |
+| I like to switch it up | 40.00% | ~20,221 |
+| Help me to help you | 38.00% | ~19,210 |
+| Ultimutt Pawesomeness | 28.00% | ~14,155 |
+| Van Gogh | 26.00% | ~13,144 |
+| You wood not believe it | 22.00% | ~11,122 |
+| Vehicle fleet | 22.00% | ~11,122 |
 | The plot thickens | 16.00% | ~8,088 |
 | Large-scale supplier | 16.00% | ~8,088 |
 | Well-Oiled Machine | 16.00% | ~8,088 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~202 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,551 (Ranked 105)  
+Progressed: 50,553 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 6 (0.01%) (Ranked 308)
 | 2023-10-24 | 50,454 | 6 |
 | 2023-10-25 | 50,499 | 6 |
 | 2023-10-26 | 50,540 | 6 |
-| 2023-10-27 | 50,551 | 6 |
+| 2023-10-27 | 50,553 | 6 |
 ## Awards
 Max (Great for Beginners): 5,290  (Ranked 70)  
 Sum: 41,701 (Ranked 33)  

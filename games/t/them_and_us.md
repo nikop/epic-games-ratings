@@ -17,8 +17,8 @@
 | Alone In The Dark | 12.00% | ~33 |
 | Parasite Exterminated | 12.00% | ~33 |
 | The Forgotten Tower | 11.00% | ~30 |
+| Lover of classics | 10.00% | ~27 |
 | Trapped | 10.00% | ~27 |
-| Lover of classics | 9.00% | ~24 |
 | Modern Player | 9.00% | ~24 |
 | The Curse Is Real | 9.00% | ~24 |
 | Rest In Peace | 8.00% | ~22 |

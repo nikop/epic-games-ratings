@@ -2964,9 +2964,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 350
     },
     {
       "ID": "MQ06_4",
@@ -3037,8 +3037,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:05:31.849229+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:07:03.2085065+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:59:41.179889+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:05:31.8492639+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:00:43.4542685+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:07:03.208542+00:00"
 }

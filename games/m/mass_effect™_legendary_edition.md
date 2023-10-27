@@ -47,13 +47,13 @@
 | Ghost Ship | 35.00% | ~285 |
 | The Quarian | 35.00% | ~285 |
 | The Assassin | 34.00% | ~276 |
+| Ghost of the Father | 34.00% | ~276 |
 | The Prodigal | 34.00% | ~276 |
 | A Personal Touch | 33.00% | ~268 |
 | Archivist | 33.00% | ~268 |
 | The Justicar | 33.00% | ~268 |
 | Battlemaster | 33.00% | ~268 |
 | Catharsis | 33.00% | ~268 |
-| Ghost of the Father | 33.00% | ~268 |
 | The Cure | 33.00% | ~268 |
 | Heart of Darkness | 33.00% | ~268 |
 | Shopaholic | 33.00% | ~268 |
@@ -78,8 +78,8 @@
 | Giant Killer | 27.00% | ~220 |
 | A House Divided | 27.00% | ~220 |
 | Eye of the Hurricane | 26.00% | ~211 |
+| Weapon Specialist | 26.00% | ~211 |
 | World Shaker | 26.00% | ~211 |
-| Weapon Specialist | 25.00% | ~203 |
 | Tunnel Rat | 25.00% | ~203 |
 | Liberator | 25.00% | ~203 |
 | Pathfinder | 24.00% | ~195 |
@@ -94,9 +94,9 @@
 | Under Pressure | 20.00% | ~163 |
 | No One Left Behind | 20.00% | ~163 |
 | Saboteur | 20.00% | ~163 |
+| Last Witness | 20.00% | ~163 |
 | Fact Finder | 20.00% | ~163 |
 | Last Resort | 19.00% | ~154 |
-| Last Witness | 19.00% | ~154 |
 | Well Connected | 19.00% | ~154 |
 | Electronics Specialist | 17.00% | ~138 |
 | Sabotage Specialist | 17.00% | ~138 |

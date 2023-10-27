@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 516)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,252 |
-| Welcome To Hell-A | 5.00% | ~35,252 |
-| Git Gutte! | 4.00% | ~28,202 |
-| Break A Leg | 4.00% | ~28,202 |
-| Coup de Grâce | 4.00% | ~28,202 |
-| Hazardous Materials | 4.00% | ~28,202 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,202 |
-| Dr. Reed, I Presume? | 3.00% | ~21,151 |
-| Bookworm | 3.00% | ~21,151 |
-| But Doctor, I am Butcho | 3.00% | ~21,151 |
-| Slayer Squad | 3.00% | ~21,151 |
-| Can't Handle the Truth | 3.00% | ~21,151 |
-| Like Riding a Bike | 3.00% | ~21,151 |
-| Friends Like These | 3.00% | ~21,151 |
-| Apex Predator | 3.00% | ~21,151 |
-| Zombologist | 3.00% | ~21,151 |
-| A Patton Emerges | 3.00% | ~21,151 |
-| Stacking the Deck | 3.00% | ~21,151 |
-| This is My Weapon | 3.00% | ~21,151 |
+| Hotel California | 5.00% | ~35,254 |
+| Welcome To Hell-A | 5.00% | ~35,254 |
+| Git Gutte! | 4.00% | ~28,203 |
+| Break A Leg | 4.00% | ~28,203 |
+| Coup de Grâce | 4.00% | ~28,203 |
+| Hazardous Materials | 4.00% | ~28,203 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,203 |
+| Dr. Reed, I Presume? | 3.00% | ~21,152 |
+| Bookworm | 3.00% | ~21,152 |
+| But Doctor, I am Butcho | 3.00% | ~21,152 |
+| Slayer Squad | 3.00% | ~21,152 |
+| Can't Handle the Truth | 3.00% | ~21,152 |
+| Like Riding a Bike | 3.00% | ~21,152 |
+| Friends Like These | 3.00% | ~21,152 |
+| Apex Predator | 3.00% | ~21,152 |
+| Zombologist | 3.00% | ~21,152 |
+| A Patton Emerges | 3.00% | ~21,152 |
+| Stacking the Deck | 3.00% | ~21,152 |
+| This is My Weapon | 3.00% | ~21,152 |
 | Making Your Mark | 2.00% | ~14,101 |
 | Anger Management | 2.00% | ~14,101 |
 | Perks of the Job | 2.00% | ~14,101 |
@@ -33,15 +33,15 @@ Rating: 4.54 (Ranked 516)
 | I Am the Resurrection | 2.00% | ~14,101 |
 | Down with the Sickness | 2.00% | ~14,101 |
 | Our True Nature | 2.00% | ~14,101 |
-| Smorgasbord | 1.00% | ~7,050 |
-| Jumbo Keyring | 1.00% | ~7,050 |
-| Max Headroom | 1.00% | ~7,050 |
-| Go, Bobcats! | 1.00% | ~7,050 |
-| Rising Star | 1.00% | ~7,050 |
-| Not Even My Final Form | 0.90% | ~6,345 |
-| Internet Famous | 0.90% | ~6,345 |
-| On Safari | 0.80% | ~5,640 |
-| Variety is the Spice of Death | 0.80% | ~5,640 |
+| Smorgasbord | 1.00% | ~7,051 |
+| Jumbo Keyring | 1.00% | ~7,051 |
+| Max Headroom | 1.00% | ~7,051 |
+| Go, Bobcats! | 1.00% | ~7,051 |
+| Rising Star | 1.00% | ~7,051 |
+| Not Even My Final Form | 0.90% | ~6,346 |
+| Internet Famous | 0.90% | ~6,346 |
+| On Safari | 0.80% | ~5,641 |
+| Variety is the Spice of Death | 0.80% | ~5,641 |
 | Make it So | 0.70% | ~4,935 |
 | LA Influential | 0.60% | ~4,230 |
 | Gore Horse | 0.60% | ~4,230 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 516)
 | Donk! | 0.20% | ~1,410 |
 | Bucket List | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,041 (Ranked 22)  
-Completed: 2,270 (0.32%) (Ranked 210)  
+Progressed: 705,070 (Ranked 22)  
+Completed: 2,271 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,10 +241,10 @@ Completed: 2,270 (0.32%) (Ranked 210)
 | 2023-10-24 | 703,382 | 2,258 |
 | 2023-10-25 | 704,047 | 2,262 |
 | 2023-10-26 | 704,831 | 2,269 |
-| 2023-10-27 | 705,041 | 2,270 |
+| 2023-10-27 | 705,070 | 2,271 |
 ## Awards
 Max (Great Boss Battles): 6,651  (Ranked 57)  
-Sum: 10,001 (Ranked 91)  
+Sum: 10,006 (Ranked 91)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -253,7 +253,7 @@ Diff (max vs sum): -34
 | This game has Diverse Characters | 475 |
 | This game has Quickly Understood Controls | 443 |
 | This game is Relaxing | 423 |
-| This game has Amazing Storytelling | 400 |
+| This game has Amazing Storytelling | 405 |
 | This game is Highly Recommended | 386 |
 | This game is Extremely Fun | 376 |
 | This game has Amazing Characters | 366 |
@@ -449,4 +449,4 @@ Diff (max vs sum): -34
 | 2023-10-24 | 4.54 | 6,597 | 9,910 |
 | 2023-10-25 | 4.54 | 6,625 | 9,955 |
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
-| 2023-10-27 | 4.54 | 6,651 | 10,001 |
+| 2023-10-27 | 4.54 | 6,651 | 10,006 |

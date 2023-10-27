@@ -4,7 +4,7 @@
   "ProductSlug": "the-impossible-fcebf7",
   "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 412,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-16T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-21T04:57:24.6103809+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:57.2579164+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:03:08.6510259+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:08:56.266899+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:03:35.0084767+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:09:34.4053995+00:00"
 }

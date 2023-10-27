@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2324,
+  "EOS_Progressed": 2339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2042,
+  "EOS_NewPlayers": 2044,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -987,6 +987,11 @@
       "Time": "2023-10-27T08:08:40.4562649+00:00",
       "NumProgressed": 2324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T09:09:12.1258733+00:00",
+      "NumProgressed": 2339,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1007,7 +1012,7 @@
       "Name": "Baby Steps",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "BeLikeWater",
@@ -1039,7 +1044,7 @@
       "Name": "Connection Lost",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Eavesdropper",
@@ -1053,9 +1058,9 @@
       "ID": "ExplosivePersonality",
       "SetID": "acc6ea0",
       "Name": "Explosive Personality",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 70
     },
     {
       "ID": "FasterThanLight",
@@ -1071,7 +1076,7 @@
       "Name": "First Time?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 351
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1111,7 +1116,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "JackOfAllTrades",
@@ -1141,9 +1146,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 164
     },
     {
       "ID": "NoMoreTotems",
@@ -1191,7 +1196,7 @@
       "Name": "The Old-School Way",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "TheQuarterback",
@@ -1199,7 +1204,7 @@
       "Name": "The Quarterback",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ThisIsDharma",
@@ -1207,7 +1212,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1270,14 +1275,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2324,
+      "Progressed": 2339,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:08:40.4562644+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:09:12.1258729+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:59:08.6266964+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:08:40.456294+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:59:53.0113387+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:09:12.1259066+00:00"
 }

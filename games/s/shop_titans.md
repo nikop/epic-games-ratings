@@ -45,16 +45,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.90% | ~1,244 |
 | Royal Ransom | 0.90% | ~1,244 |
 | Magical Harmony | 0.90% | ~1,244 |
-| Tax not Included | 0.80% | ~1,105 |
-| Big Game Hunting | 0.80% | ~1,105 |
-| For the Hoard! | 0.80% | ~1,105 |
-| Scrapbooker | 0.80% | ~1,105 |
-| Expansion in Session | 0.80% | ~1,105 |
-| Trash to Treasure | 0.80% | ~1,105 |
-| Seasoned Journeyman | 0.80% | ~1,105 |
-| Black Friday Special | 0.80% | ~1,105 |
-| Special Ingredient | 0.80% | ~1,105 |
-| Complete Monopoly | 0.80% | ~1,105 |
+| Tax not Included | 0.80% | ~1,106 |
+| Big Game Hunting | 0.80% | ~1,106 |
+| For the Hoard! | 0.80% | ~1,106 |
+| Scrapbooker | 0.80% | ~1,106 |
+| Expansion in Session | 0.80% | ~1,106 |
+| Trash to Treasure | 0.80% | ~1,106 |
+| Seasoned Journeyman | 0.80% | ~1,106 |
+| Black Friday Special | 0.80% | ~1,106 |
+| Special Ingredient | 0.80% | ~1,106 |
+| Complete Monopoly | 0.80% | ~1,106 |
 | A Notch Above the Rest | 0.70% | ~967 |
 | Cream of the Crop | 0.70% | ~967 |
 | Above the Norm | 0.70% | ~967 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,186 (Ranked 75)  
+Progressed: 138,188 (Ranked 75)  
 Completed: 172 (0.12%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 172 (0.12%) (Ranked 251)
 | 2023-10-24 | 138,074 | 172 |
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
-| 2023-10-27 | 138,186 | 172 |
+| 2023-10-27 | 138,188 | 172 |
 ## Awards
 Max (Great for Beginners): 4,801  (Ranked 73)  
 Sum: 27,451 (Ranked 51)  

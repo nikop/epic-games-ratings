@@ -5,9 +5,9 @@
   "Ranking_Rating": 983,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 406,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 97,
+  "EOS_Progressed": 98,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -537,6 +537,11 @@
       "Time": "2023-10-26T18:06:33.4772894+00:00",
       "NumProgressed": 97,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T09:07:09.3868971+00:00",
+      "NumProgressed": 98,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -549,7 +554,7 @@
       "Name": "Unforeseen",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_10",
@@ -571,7 +576,7 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -579,7 +584,7 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -587,7 +592,7 @@
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -637,7 +642,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_20",
@@ -693,13 +698,13 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -725,7 +730,7 @@
       "Name": "No More Names",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_41",
@@ -763,7 +768,7 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -781,7 +786,7 @@
       "Name": "Enlisted",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_49",
@@ -797,7 +802,7 @@
       "Name": "Initiate",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_50",
@@ -845,7 +850,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_60",
@@ -924,7 +929,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 97,
+      "Progressed": 98,
       "Completed": 1
     }
   ],
@@ -932,8 +937,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:05:36.0566063+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:07:09.3868966+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.8442361+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:57:27.0195144+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:05:36.0566526+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:57:17.9069027+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:07:09.3869448+00:00"
 }

@@ -9,11 +9,11 @@ Rating: 4.19 (Ranked 904)
 | Flesh Wound | 7.00% | ~1,141 |
 | Paper Jams | 7.00% | ~1,141 |
 | Float Like A Butterfly | 6.00% | ~978 |
+| The Outer Way | 6.00% | ~978 |
 | Two Heads Are Better Than One | 5.00% | ~815 |
 | Chew 'Em Up | 5.00% | ~815 |
 | Workplace Hazard | 5.00% | ~815 |
 | Reforged | 5.00% | ~815 |
-| The Outer Way | 5.00% | ~815 |
 | In the Pipe, Five by Five | 5.00% | ~815 |
 | Desperate Times | 5.00% | ~815 |
 | Keep Fighting | 5.00% | ~211 |
@@ -30,7 +30,7 @@ Rating: 4.19 (Ranked 904)
 | Giving Back | 3.00% | ~489 |
 | The Commonality | 3.00% | ~489 |
 | In Striking Distance | 2.00% | ~326 |
-| One Last Job | 2.00% | ~84 |
+| One Last Job | 2.00% | ~85 |
 | This Isn't About Escape | 1.00% | ~42 |
 | Armed to the Teeth | 0.80% | ~34 |
 | Big Spender | 0.80% | ~34 |
@@ -38,7 +38,7 @@ Rating: 4.19 (Ranked 904)
 | Parole Denied | 0.70% | ~30 |
 | Information Overload | 0.70% | ~30 |
 | Quick Pick | 0.60% | ~25 |
-| Mugshot | 0.50% | ~81 |
+| Mugshot | 0.50% | ~82 |
 | Instigator | 0.50% | ~21 |
 | Subject Alpha | 0.30% | ~13 |
 | Don't Let It Mellow | 0.30% | ~13 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 904)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,299 (Ranked 138)  
+Progressed: 16,300 (Ranked 138)  
 Completed: 77 (0.47%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 77 (0.47%) (Ranked 190)
 | 2023-10-24 | 16,244 | 77 |
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
-| 2023-10-27 | 16,299 | 77 |
+| 2023-10-27 | 16,300 | 77 |
 ## Awards
 Max (Highly Recommended): 78  (Ranked 382)  
 Sum: 455 (Ranked 324)  

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,326 |
+| Sowwy! | 34.00% | ~79,328 |
 | Alt+F4 | 7.00% | ~16,332 |
 | Where's that freaking Dwarf? | 6.00% | ~13,999 |
 | Déjà vu | 5.00% | ~11,666 |
@@ -14,8 +14,8 @@ Number of Ratings: 118  (23.09.2022)
 | Sock! SOCK! | 4.00% | ~9,333 |
 | GG EZ | 4.00% | ~9,333 |
 | Speedrun | 4.00% | ~9,333 |
-| DM intervention | 3.00% | ~6,999 |
-| Fireproof Wizardess | 3.00% | ~6,999 |
+| DM intervention | 3.00% | ~7,000 |
+| Fireproof Wizardess | 3.00% | ~7,000 |
 | Livin' in a dwarven paradise | 2.00% | ~4,666 |
 | Shiny and Crôm | 2.00% | ~4,666 |
 | Way of the Wimp | 2.00% | ~4,666 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,313 (Ranked 60)  
+Progressed: 233,318 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,11 +244,11 @@ Completed: 7 (0.00%) (Ranked 328)
 | 2023-10-24 | 232,917 | 7 |
 | 2023-10-25 | 233,101 | 7 |
 | 2023-10-26 | 233,279 | 7 |
-| 2023-10-27 | 233,313 | 7 |
+| 2023-10-27 | 233,318 | 7 |
 ## Awards
 Max (Character Customization): 224  (Ranked 267)  
-Sum: 442 (Ranked 326)  
-Diff (max vs sum): -59  
+Sum: 443 (Ranked 327)  
+Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 224 |
@@ -259,7 +259,7 @@ Diff (max vs sum): -59
 | This game has Amazing Storytelling | 25 |
 | This game has Diverse Characters | 25 |
 | This game has Quickly Understood Controls | 24 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -427,3 +427,4 @@ Diff (max vs sum): -59
 | 2023-10-23 | 4.58 | - | 219 | 434 |
 | 2023-10-24 | 4.58 | - | 221 | 438 |
 | 2023-10-26 | 4.58 | - | 224 | 442 |
+| 2023-10-27 | 4.58 | - | 224 | 443 |

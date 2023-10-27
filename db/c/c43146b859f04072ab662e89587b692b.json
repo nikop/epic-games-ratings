@@ -2,9 +2,9 @@
   "ID": "c43146b859f04072ab662e89587b692b",
   "Name": "Outbreak Endless Nightmares Restless Dreams",
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
-  "Ranking_EOS_Progress": 498,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-10-18T22:15:21.0608364+00:00",
@@ -64,6 +64,11 @@
       "Time": "2023-10-26T20:06:50.9369001+00:00",
       "NumProgressed": 22,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-27T09:07:29.9918321+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.0608453+00:00",
@@ -74,7 +79,7 @@
       "ID": "DECAYED_REMAINS_ACH",
       "SetID": "cnj66m",
       "Name": "Decayed Remains",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "HER_ENDLESS_NIGHTMARES_ACH",
       "SetID": "cnj66m",
       "Name": "Her Endless Nightmares",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "MIGHT_BE_MENDED_ACH",
       "SetID": "cnj66m",
       "Name": "Might Be Mended",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -98,7 +103,7 @@
       "ID": "MYSTERIOUS_HORRORS_ACH",
       "SetID": "cnj66m",
       "Name": "Mysterious Horrors",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "PURGATORY_ACH",
       "SetID": "cnj66m",
       "Name": "Purgatory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -114,7 +119,7 @@
       "ID": "SOURCE_OF_TORMENT_ACH",
       "SetID": "cnj66m",
       "Name": "Source of Torment",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -122,15 +127,15 @@
       "ID": "STRANGE_LAND_ACH",
       "SetID": "cnj66m",
       "Name": "Strange Land",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SUPERIOR_FIREPOWER_ACH",
       "SetID": "cnj66m",
       "Name": "Superior Firepower",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "TOWER_OF_PAIN_ACH",
       "SetID": "cnj66m",
       "Name": "Tower of Pain",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "UNBROKEN_LOOP_ACH",
       "SetID": "cnj66m",
       "Name": "Unbroken Loop",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -163,14 +168,14 @@
     {
       "ID": "cnj66m",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:05:49.8950645+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:07:29.9918315+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:16.9155695+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:00:06.816295+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:05:49.8950745+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:01:24.7514815+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:07:29.9918446+00:00"
 }

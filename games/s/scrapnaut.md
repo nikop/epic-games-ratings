@@ -7,19 +7,19 @@ Number of Ratings: 38  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My New Home | 62.00% | ~264 |
-| Scrap Gatherer | 58.00% | ~246 |
-| Mushroom Picker | 57.00% | ~242 |
+| Scrap Gatherer | 58.00% | ~247 |
+| Mushroom Picker | 57.00% | ~243 |
 | Scrapper | 46.00% | ~196 |
-| Teleport | 45.00% | ~191 |
-| Cook | 44.00% | ~187 |
+| Teleport | 45.00% | ~192 |
+| Cook | 43.00% | ~183 |
 | Scrap Master | 39.00% | ~166 |
 | Smelter | 36.00% | ~153 |
-| Digger | 33.00% | ~140 |
-| Electro-Scrap Gatherer | 33.00% | ~140 |
+| Digger | 33.00% | ~141 |
+| Electro-Scrap Gatherer | 33.00% | ~141 |
 | Survivor | 31.00% | ~132 |
 | Lumberjack | 30.00% | ~128 |
 | Robot Destroyer | 30.00% | ~128 |
-| Herbalist | 29.00% | ~123 |
+| Herbalist | 29.00% | ~124 |
 | Prepper | 25.00% | ~106 |
 | Electro-Scrap Master | 24.00% | ~102 |
 | Robot Hunter | 21.00% | ~89 |
@@ -28,18 +28,18 @@ Number of Ratings: 38  (23.09.2022)
 | Treasure Hunter | 16.00% | ~68 |
 | Mythical Smelter | 13.00% | ~55 |
 | Blacksmith | 11.00% | ~47 |
-| Master Of Management | 10.00% | ~42 |
-| Forest Lord | 10.00% | ~42 |
-| Smelting Master | 10.00% | ~42 |
+| Master Of Management | 10.00% | ~43 |
+| Forest Lord | 10.00% | ~43 |
+| Smelting Master | 10.00% | ~43 |
 | Fuel | 9.00% | ~38 |
 | Black Gold | 7.00% | ~30 |
 | Survival Master | 4.00% | ~17 |
 | Traveler | 3.00% | ~13 |
-| Forest Killer | 2.00% | ~8 |
+| Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 302)  
-Completed: 1 (0.24%) (Ranked 225)  
+Progressed: 426 (Ranked 302)  
+Completed: 1 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,7 +162,7 @@ Completed: 1 (0.24%) (Ranked 225)
 | 2023-10-20 | 421 | 1 |
 | 2023-10-24 | 422 | 1 |
 | 2023-10-26 | 424 | 1 |
-| 2023-10-27 | 425 | 1 |
+| 2023-10-27 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

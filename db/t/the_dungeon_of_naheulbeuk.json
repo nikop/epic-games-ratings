@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 439,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 66,
@@ -1165,10 +1165,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 442,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-27T08:58:04.9657652+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 443,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442,
+  "NumberOfAwards": 443,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1224,12 +1230,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 233313,
+  "EOS_Progressed": 233318,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1437,
+  "EOS_NewPlayers": 1433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16262,6 +16268,11 @@
       "Time": "2023-10-27T08:05:30.1972669+00:00",
       "NumProgressed": 233313,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-27T09:07:00.7596951+00:00",
+      "NumProgressed": 233318,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16721,7 +16732,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79326
+      "UsersEstimate": 79328
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16745,7 +16756,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6999
+      "UsersEstimate": 7000
     },
     {
       "ID": "EndGameCursed",
@@ -16969,28 +16980,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6999
+      "UsersEstimate": 7000
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233313,
+      "Progressed": 233318,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233313,
+      "Progressed": 233318,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-10-26T21:58:01.1543066+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:05:30.1972663+00:00",
+  "LastChanged": "2023-10-27T08:58:04.965765+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:07:00.7596945+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:47.7107048+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:57:57.3039072+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:05:30.1974576+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:58:04.9657659+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:07:00.7599045+00:00"
 }

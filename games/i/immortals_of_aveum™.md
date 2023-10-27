@@ -5,13 +5,13 @@ Rating: 3.98 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~87 |
-| Battlefields Have Memories | 89.00% | ~86 |
-| Enlisted | 88.00% | ~85 |
-| Maybe Engage a Little | 84.00% | ~81 |
-| No More Names | 69.00% | ~67 |
-| Initiate | 61.00% | ~59 |
-| Thrada-Kul | 57.00% | ~55 |
+| Unforeseen | 90.00% | ~88 |
+| Battlefields Have Memories | 89.00% | ~87 |
+| Enlisted | 88.00% | ~86 |
+| Maybe Engage a Little | 84.00% | ~82 |
+| No More Names | 69.00% | ~68 |
+| Initiate | 61.00% | ~60 |
+| Thrada-Kul | 57.00% | ~56 |
 | Gravity-Challenged Rocks | 46.00% | ~45 |
 | Soldier | 40.00% | ~39 |
 | All the Major Food Groups | 40.00% | ~39 |
@@ -19,11 +19,11 @@ Rating: 3.98 (Ranked 983)
 | Control is an Illusion | 34.00% | ~33 |
 | Socialite | 34.00% | ~33 |
 | The Means to Save It | 27.00% | ~26 |
-| Resilience to Sin | 24.00% | ~23 |
-| A Familiar Nest | 23.00% | ~22 |
-| Periapt Alizarin | 23.00% | ~22 |
-| Geas Aristeya | 21.00% | ~20 |
-| Armsman | 21.00% | ~20 |
+| Resilience to Sin | 23.00% | ~23 |
+| A Familiar Nest | 22.00% | ~22 |
+| Periapt Alizarin | 22.00% | ~22 |
+| Geas Aristeya | 20.00% | ~20 |
+| Armsman | 20.00% | ~20 |
 | A Perfect Cycle | 16.00% | ~16 |
 | Recruit | 16.00% | ~16 |
 | Good Boy | 13.00% | ~13 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 983)
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 406)  
-Completed: 1 (1.03%) (Ranked 149)  
+Progressed: 98 (Ranked 405)  
+Completed: 1 (1.02%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 1 (1.03%) (Ranked 149)
 | 2023-10-21 | 95 | 1 |
 | 2023-10-24 | 96 | 1 |
 | 2023-10-26 | 97 | 1 |
+| 2023-10-27 | 98 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

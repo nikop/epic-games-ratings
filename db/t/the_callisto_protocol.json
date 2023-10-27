@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1355,9 +1355,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16299,
+  "EOS_Progressed": 16300,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8295,6 +8295,11 @@
       "Time": "2023-10-27T07:07:18.1740483+00:00",
       "NumProgressed": 16299,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-27T09:08:30.8207278+00:00",
+      "NumProgressed": 16300,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8490,15 +8495,15 @@
       "Name": "Mugshot",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 978
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8650,7 +8655,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "KILL_BIOBOT",
@@ -8681,13 +8686,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16299,
+      "Progressed": 16300,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4225,
+      "Progressed": 4226,
       "Completed": 29
     }
   ],
@@ -8695,8 +8700,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-26T08:02:06.3022624+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:06:30.5444294+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:08:30.8207274+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-27T08:00:02.6087539+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:06:30.544511+00:00"
+  "LastUpdate_Ratings": "2023-10-27T09:01:17.0665123+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:08:30.8208286+00:00"
 }

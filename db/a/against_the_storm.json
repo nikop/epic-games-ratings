@@ -5,7 +5,7 @@
   "Ranking_Rating": 62,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 134,
+  "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 118,
@@ -3149,9 +3149,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17087,
+  "EOS_Progressed": 17088,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12649,6 +12649,11 @@
       "Time": "2023-10-27T08:06:22.6423958+00:00",
       "NumProgressed": 17087,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-27T09:08:18.7620289+00:00",
+      "NumProgressed": 17088,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12740,7 +12745,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinFirstGame",
@@ -12772,7 +12777,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearBandit",
@@ -12780,7 +12785,7 @@
       "Name": "Bandit Camp",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearBarren",
@@ -12788,7 +12793,7 @@
       "Name": "Barren Lands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearBattleground",
@@ -12796,7 +12801,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearCrystals",
@@ -12804,7 +12809,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearDangerous",
@@ -12852,7 +12857,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearMines",
@@ -12868,7 +12873,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearOutpost",
@@ -12884,7 +12889,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearStatue",
@@ -12892,7 +12897,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearTemple",
@@ -12916,7 +12921,7 @@
       "Name": "Watchtower",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinOnCoral",
@@ -12932,7 +12937,7 @@
       "Name": "Cursed Lands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinOnMarshlands",
@@ -13028,7 +13033,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "WinWithoutDeath",
@@ -13059,15 +13064,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17087,
+      "Progressed": 17088,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-26T21:59:30.4549547+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:06:22.6423949+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:08:18.7620284+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.669501+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:59:07.2282184+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:06:22.6424941+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:59:51.1718614+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:08:18.7621729+00:00"
 }

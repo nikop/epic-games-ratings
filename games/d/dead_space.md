@@ -5,23 +5,23 @@ Rating: 4.63 (Ranked 341)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~1,180 |
-| Welcome Aboard | 86.00% | ~1,068 |
+| Marksman | 95.00% | ~1,181 |
+| Welcome Aboard | 86.00% | ~1,069 |
 | Lab Rat | 75.00% | ~932 |
-| All Systems Go | 67.00% | ~832 |
+| All Systems Go | 67.00% | ~833 |
 | Brute Force | 66.00% | ~820 |
 | Cannon Fodder | 61.00% | ~758 |
 | Autofire | 59.00% | ~733 |
-| Story Teller | 57.00% | ~708 |
-| True Believer | 57.00% | ~708 |
+| Story Teller | 57.00% | ~709 |
+| True Believer | 57.00% | ~709 |
 | Raise the Stakes | 56.00% | ~696 |
-| Surgeon | 53.00% | ~658 |
+| Surgeon | 53.00% | ~659 |
 | Exterminator | 52.00% | ~646 |
 | Greenhouse Effect | 52.00% | ~646 |
-| Freeze | 51.00% | ~633 |
-| Full Arsenal | 46.00% | ~571 |
-| S.O.S. | 46.00% | ~571 |
-| Get Off My Ship! | 44.00% | ~546 |
+| Freeze | 51.00% | ~634 |
+| Full Arsenal | 46.00% | ~572 |
+| S.O.S. | 46.00% | ~572 |
+| Get Off My Ship! | 44.00% | ~547 |
 | Strange Transmissions | 43.00% | ~534 |
 | Live with the Hot Ones | 42.00% | ~522 |
 | Wreckage | 42.00% | ~522 |
@@ -31,13 +31,13 @@ Rating: 4.63 (Ranked 341)
 | Exodus | 37.00% | ~460 |
 | There's Always Peng! | 37.00% | ~460 |
 | Mindless Prey | 37.00% | ~460 |
-| Front Toward Enemy | 34.00% | ~422 |
+| Front Toward Enemy | 34.00% | ~423 |
 | A Cut Above | 33.00% | ~410 |
 | Whole Again | 29.00% | ~360 |
 | Set A Benchmark | 29.00% | ~360 |
-| Pack Rat | 27.00% | ~335 |
+| Pack Rat | 27.00% | ~336 |
 | Full Contact | 26.00% | ~323 |
-| Final Regeneration | 25.00% | ~310 |
+| Final Regeneration | 25.00% | ~311 |
 | Full Clearance | 24.00% | ~298 |
 | Pusher | 23.00% | ~286 |
 | Z-Baller | 23.00% | ~286 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 341)
 | Untouchable | 2.00% | ~25 |
 | One Gun | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,242 (Ranked 235)  
+Progressed: 1,243 (Ranked 235)  
 Completed: 7 (0.56%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 7 (0.56%) (Ranked 181)
 | 2023-10-24 | 1,195 | 7 |
 | 2023-10-25 | 1,215 | 7 |
 | 2023-10-26 | 1,232 | 7 |
-| 2023-10-27 | 1,242 | 7 |
+| 2023-10-27 | 1,243 | 7 |
 ## Awards
 Max (Great Boss Battles): 107  (Ranked 342)  
 Sum: 107 (Ranked 433)  

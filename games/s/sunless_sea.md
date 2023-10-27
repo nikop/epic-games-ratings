@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,209 |
-| Sweet Sorrow | 18.00% | ~7,105 |
-| Rules the Waves | 17.00% | ~6,710 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,920 |
-| Rival | 14.00% | ~5,526 |
-| Correspondent | 12.00% | ~4,736 |
-| Lose Your Mind | 12.00% | ~4,736 |
-| Sound Mind? | 12.00% | ~4,736 |
+| Sink Beneath the Waves | 36.00% | ~14,211 |
+| Sweet Sorrow | 18.00% | ~7,106 |
+| Rules the Waves | 17.00% | ~6,711 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,921 |
+| Rival | 14.00% | ~5,527 |
+| Correspondent | 12.00% | ~4,737 |
+| Lose Your Mind | 12.00% | ~4,737 |
+| Sound Mind? | 12.00% | ~4,737 |
 | Salt's Curse | 11.00% | ~4,342 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,342 |
 | The Fall of the House | 11.00% | ~4,342 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~1,184 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,184 |
 | Come Closer | 3.00% | ~1,184 |
-| Roaring Rise | 2.00% | ~789 |
-| I am the Captain of my Soul | 2.00% | ~789 |
+| Roaring Rise | 2.00% | ~790 |
+| I am the Captain of my Soul | 2.00% | ~790 |
 | A buoyant escape | 1.00% | ~395 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~395 |
 | The Bell Tolls | 1.00% | ~395 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~39 |
 | Ten Years at Zee | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,470 (Ranked 115)  
+Progressed: 39,475 (Ranked 115)  
 Completed: 4 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 4 (0.01%) (Ranked 308)
 | 2023-10-24 | 39,373 | 4 |
 | 2023-10-25 | 39,409 | 4 |
 | 2023-10-26 | 39,456 | 4 |
-| 2023-10-27 | 39,470 | 4 |
+| 2023-10-27 | 39,475 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 275)  
 Sum: 288 (Ranked 359)  

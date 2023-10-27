@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39470,
+  "EOS_Progressed": 39475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20035,6 +20035,11 @@
       "Time": "2023-10-27T08:08:41.5658526+00:00",
       "NumProgressed": 39470,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-27T09:09:13.758472+00:00",
+      "NumProgressed": 39475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20062,7 +20067,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "ach_antiquarian10",
@@ -20166,7 +20171,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14209
+      "UsersEstimate": 14211
     },
     {
       "ID": "ach_die10",
@@ -20206,7 +20211,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ach_hunterskeep",
@@ -20222,7 +20227,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ach_ladylilac",
@@ -20238,7 +20243,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "ach_legacypupil",
@@ -20254,7 +20259,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "ach_legacysalvager",
@@ -20398,7 +20403,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "ach_terror100",
@@ -20406,7 +20411,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "ach_terror90",
@@ -20414,7 +20419,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     },
     {
       "ID": "ach_undercurrent",
@@ -20446,7 +20451,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "ach_year1",
@@ -20477,15 +20482,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39470,
+      "Progressed": 39475,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:08:41.5658506+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:09:13.7584715+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:46.8306987+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:59:05.8618086+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:08:41.5660136+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:59:48.3127222+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:09:13.7586529+00:00"
 }

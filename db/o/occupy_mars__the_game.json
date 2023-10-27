@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1681,
+  "EOS_Progressed": 1682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4041,6 +4041,11 @@
       "Time": "2023-10-26T14:07:21.7381353+00:00",
       "NumProgressed": 1681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-27T09:06:39.7300938+00:00",
+      "NumProgressed": 1682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4132,7 +4137,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4204,7 +4209,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4268,7 +4273,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4306,9 +4311,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 706
+      "UsersEstimate": 690
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4412,7 +4417,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4435,7 +4440,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1681,
+      "Progressed": 1682,
       "Completed": 0
     }
   ],
@@ -4443,8 +4448,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-27T08:05:15.3983146+00:00",
+  "LastChanged_Achievements": "2023-10-27T09:06:39.7300934+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-27T07:58:40.4976048+00:00",
-  "LastUpdate_Achievements": "2023-10-27T08:05:15.3983761+00:00"
+  "LastUpdate_Ratings": "2023-10-27T08:59:09.9519039+00:00",
+  "LastUpdate_Achievements": "2023-10-27T09:06:39.7301667+00:00"
 }
