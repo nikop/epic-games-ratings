@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1950,10 +1950,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 941,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2023-10-28T20:59:37.5510188+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 942,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 941,
+  "NumberOfAwards": 942,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1991,7 +1997,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game is Educational",
@@ -2035,8 +2041,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-10-28T19:59:07.4644732+00:00",
+  "LastChanged": "2023-10-28T20:59:37.5510187+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.8464993+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:59:07.4644738+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:09:00.9213506+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:59:37.5510193+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:09:10.2090645+00:00"
 }

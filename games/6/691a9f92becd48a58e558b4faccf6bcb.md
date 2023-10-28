@@ -16,14 +16,14 @@
 | Golden Button | 1.00% | ~2 |
 | Golden Hat | 1.00% | ~2 |
 | Silver Carrot | 1.00% | ~2 |
-| Golden Carrot | 0.70% | ~1 |
-| Golden Scarf | 0.70% | ~1 |
-| Naughty list | 0.70% | ~1 |
-| Bling Bling | 0.70% | ~1 |
-| Silver Scarf | 0.70% | ~1 |
-| So close! | 0.70% | ~1 |
+| Golden Carrot | 0.60% | ~1 |
+| Golden Scarf | 0.60% | ~1 |
+| Naughty list | 0.60% | ~1 |
+| Bling Bling | 0.60% | ~1 |
+| Silver Scarf | 0.60% | ~1 |
+| So close! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 373)  
+Progressed: 154 (Ranked 372)  
 Completed: 1 (0.65%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 1 (0.65%) (Ranked 169)
 | 2023-10-25 | 140 | 1 |
 | 2023-10-26 | 144 | 1 |
 | 2023-10-27 | 147 | 1 |
-| 2023-10-28 | 153 | 1 |
+| 2023-10-28 | 154 | 1 |

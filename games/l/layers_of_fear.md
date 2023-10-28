@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 57.00% | ~13 |
-| Wanderer | 48.00% | ~11 |
-| Finished it | 39.00% | ~9 |
-| A piece of the story | 35.00% | ~8 |
-| Do what you have to | 30.00% | ~7 |
-| Refuse to look | 26.00% | ~6 |
-| The artist’s impression | 22.00% | ~5 |
+| Something important | 58.00% | ~14 |
+| Wanderer | 50.00% | ~12 |
+| Finished it | 38.00% | ~9 |
+| Do what you have to | 33.00% | ~8 |
+| A piece of the story | 33.00% | ~8 |
+| Refuse to look | 25.00% | ~6 |
+| The artist’s impression | 21.00% | ~5 |
 | It's covered up for a reason | 17.00% | ~4 |
 | Scraps of love | 17.00% | ~4 |
 | First steps | 17.00% | ~4 |
 | Playtime | 17.00% | ~4 |
+| Sign of weakness | 17.00% | ~4 |
 | The tragedy unfolds | 17.00% | ~4 |
 | Tough conversation | 17.00% | ~4 |
 | Breaking free | 13.00% | ~3 |
+| Face your fears | 13.00% | ~3 |
 | A Slice of Life | 13.00% | ~3 |
 | Debut | 13.00% | ~3 |
-| Sign of weakness | 13.00% | ~3 |
 | The art of movement | 13.00% | ~3 |
-| A new way | 9.00% | ~2 |
-| Another perspective | 9.00% | ~2 |
-| Face your fears | 9.00% | ~2 |
-| Sound Bite | 9.00% | ~2 |
-| Lights! Camera! Action! | 9.00% | ~2 |
-| True Reflection | 9.00% | ~2 |
+| A new way | 8.00% | ~2 |
+| Another perspective | 8.00% | ~2 |
+| Sound Bite | 8.00% | ~2 |
+| Lights! Camera! Action! | 8.00% | ~2 |
+| True Reflection | 8.00% | ~2 |
 | We Are Not Alone | 4.00% | ~1 |
 | The Perfect Storm | 4.00% | ~1 |
 | Fisherman | 4.00% | ~1 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 500)  
+Progressed: 24 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-24 | 13 | 0 |
 | 2023-10-25 | 18 | 0 |
 | 2023-10-27 | 20 | 0 |
-| 2023-10-28 | 23 | 0 |
+| 2023-10-28 | 24 | 0 |

@@ -8,15 +8,15 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 3.00% | ~4,657 |
 | Imprint | 3.00% | ~4,657 |
-| The Hunt | 2.00% | ~3,104 |
-| Weeper | 2.00% | ~3,104 |
-| Ravenous | 2.00% | ~3,104 |
+| The Hunt | 2.00% | ~3,105 |
+| Weeper | 2.00% | ~3,105 |
+| Ravenous | 2.00% | ~3,105 |
 | Harmless | 1.00% | ~1,552 |
 | Silenced Whispers | 1.00% | ~1,552 |
 | Devourer | 1.00% | ~1,552 |
 | Yank | 0.90% | ~1,397 |
 | Sharpened Vessel | 0.90% | ~1,397 |
-| Scion | 0.80% | ~1,238 |
+| Scion | 0.80% | ~1,239 |
 | Jawcrab | 0.80% | ~1,242 |
 | Jawstag | 0.80% | ~1,242 |
 | Feast | 0.80% | ~1,242 |
@@ -35,9 +35,9 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.40% | ~621 |
 | Breathsmith | 0.40% | ~621 |
 | Dream | 0.40% | ~619 |
+| Bloodhunter | 0.30% | ~466 |
 | Unwrap the Gift | 0.30% | ~466 |
 | Passage | 0.30% | ~466 |
-| Bloodhunter | 0.20% | ~310 |
 | Zygote | 0.20% | ~310 |
 | Kinship | 0.20% | ~310 |
 | Kin | 0.20% | ~310 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,224 (Ranked 74)  
+Progressed: 155,231 (Ranked 74)  
 Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,10 +221,10 @@ Completed: 1 (0.00%) (Ranked 329)
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
-| 2023-10-28 | 155,224 | 1 |
+| 2023-10-28 | 155,231 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 423)  
-Sum: 324 (Ranked 349)  
+Sum: 327 (Ranked 349)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 74
 | This game is Extremely Fun | 42 |
 | This game has Amazing Storytelling | 37 |
 | This game has a Creative Community | 33 |
-| This game has Amazing Characters | 29 |
+| This game has Amazing Characters | 32 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -364,4 +364,4 @@ Diff (max vs sum): 74
 | 2023-10-23 | 4.59 | - | 47 | 313 |
 | 2023-10-25 | 4.59 | - | 48 | 317 |
 | 2023-10-26 | 4.59 | - | 49 | 320 |
-| 2023-10-28 | 4.59 | - | 49 | 324 |
+| 2023-10-28 | 4.59 | - | 49 | 327 |

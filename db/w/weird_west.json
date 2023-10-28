@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1954,
+  "EOS_Progressed": 1955,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2519,6 +2519,11 @@
       "Time": "2023-10-28T18:08:39.3625633+00:00",
       "NumProgressed": 1954,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T21:04:38.8270698+00:00",
+      "NumProgressed": 1955,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2554,7 +2559,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2578,7 +2583,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_EXPLORER",
@@ -2610,7 +2615,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2762,7 +2767,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2778,7 +2783,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2794,7 +2799,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -2802,7 +2807,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_REVENANT",
@@ -2818,7 +2823,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2826,7 +2831,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2858,7 +2863,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2874,7 +2879,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -2914,7 +2919,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2953,15 +2958,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1954,
+      "Progressed": 1955,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:17.9411748+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:04:38.8270692+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:58:18.0205114+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:17.9412373+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:58:35.7735856+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:04:38.8271503+00:00"
 }

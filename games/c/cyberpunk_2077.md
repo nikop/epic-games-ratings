@@ -14,18 +14,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.60% | ~5,366 |
 | The High Priestess | 0.60% | ~5,366 |
 | True Soldier | 0.60% | ~5,366 |
-| All the President's Men | 0.60% | ~137 |
-| Arachnophobia | 0.60% | ~137 |
-| Right Back At Ya | 0.50% | ~4,471 |
-| The Quick and the Dead | 0.50% | ~4,471 |
-| The Hermit | 0.50% | ~4,471 |
-| The Wheel of Fortune | 0.50% | ~4,471 |
-| True Warrior | 0.50% | ~4,471 |
-| Two Heads, One Bullet | 0.50% | ~4,471 |
-| Legend of The Afterlife | 0.50% | ~4,471 |
+| All the President's Men | 0.60% | ~138 |
+| Arachnophobia | 0.60% | ~138 |
+| Right Back At Ya | 0.50% | ~4,472 |
+| The Quick and the Dead | 0.50% | ~4,472 |
+| The Hermit | 0.50% | ~4,472 |
+| The Wheel of Fortune | 0.50% | ~4,472 |
+| True Warrior | 0.50% | ~4,472 |
+| Two Heads, One Bullet | 0.50% | ~4,472 |
+| Legend of The Afterlife | 0.50% | ~4,472 |
 | Relic Ruler | 0.50% | ~115 |
 | Bushido and Chill | 0.40% | ~3,577 |
 | Gunslinger | 0.40% | ~3,577 |
+| Master Crafter | 0.40% | ~3,577 |
 | Christmas Tree Attack | 0.40% | ~3,577 |
 | Breathtaking | 0.40% | ~3,577 |
 | Life of the Road | 0.40% | ~3,577 |
@@ -36,14 +37,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.40% | ~92 |
 | To Bad Decisions! | 0.30% | ~2,683 |
 | To Protect and Serve | 0.30% | ~2,683 |
-| Master Crafter | 0.30% | ~2,683 |
+| The Wandering Fool | 0.30% | ~2,683 |
 | I Am The Law | 0.30% | ~2,683 |
 | Mean Streets | 0.30% | ~2,683 |
 | Temperance | 0.30% | ~2,683 |
 | The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~69 |
 | City Lights | 0.20% | ~1,789 |
-| The Wandering Fool | 0.20% | ~1,789 |
 | The Devil | 0.20% | ~1,789 |
 | The Star | 0.20% | ~1,789 |
 | The Sun | 0.20% | ~1,789 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,293 (Ranked 15)  
+Progressed: 894,300 (Ranked 15)  
 Completed: 2,726 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,726 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,293 | 2,726 |
+| 2023-10-28 | 894,300 | 2,726 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 331,453 (Ranked 10)  

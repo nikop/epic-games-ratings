@@ -4,10 +4,10 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 169,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -563,9 +563,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13626,
+  "EOS_Progressed": 13627,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10348,6 +10348,11 @@
       "Time": "2023-10-28T19:05:44.0984388+00:00",
       "NumProgressed": 13626,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-28T21:05:15.9415631+00:00",
+      "NumProgressed": 13627,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -10359,7 +10364,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "ACH_02",
@@ -10375,7 +10380,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10083
+      "UsersEstimate": 10084
     },
     {
       "ID": "ACH_04",
@@ -10383,7 +10388,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     },
     {
       "ID": "ACH_05",
@@ -10391,7 +10396,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9402
+      "UsersEstimate": 9403
     },
     {
       "ID": "ACH_06",
@@ -10399,7 +10404,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 8993
+      "UsersEstimate": 8994
     },
     {
       "ID": "ACH_07",
@@ -10407,7 +10412,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8584
+      "UsersEstimate": 8585
     },
     {
       "ID": "ACH_08",
@@ -10423,7 +10428,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "ACH_10",
@@ -10447,7 +10452,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 6404
+      "UsersEstimate": 6405
     },
     {
       "ID": "ACH_13",
@@ -10455,7 +10460,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5450
+      "UsersEstimate": 5451
     },
     {
       "ID": "ACH_14",
@@ -10479,7 +10484,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "ACH_17",
@@ -10487,7 +10492,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "ACH_18",
@@ -10543,7 +10548,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACH_25",
@@ -10567,7 +10572,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 5995
+      "UsersEstimate": 5996
     },
     {
       "ID": "ACH_28",
@@ -10575,7 +10580,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9402
+      "UsersEstimate": 9403
     },
     {
       "ID": "ACH_29",
@@ -10638,7 +10643,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13626,
+      "Progressed": 13627,
       "Completed": 50
     }
   ],
@@ -10646,8 +10651,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-10-27T23:00:37.1639752+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:48.1187455+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:05:15.9415624+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.0645994+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:59:51.8628883+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:48.1188435+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:00:33.1605403+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:05:15.9416639+00:00"
 }

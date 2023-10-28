@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,404 |
-| Advancement | 4.00% | ~1,123 |
-| Meticulously Efficient | 4.00% | ~1,123 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~842 |
-| Discovery | 3.00% | ~842 |
-| Fully Upgraded | 3.00% | ~842 |
-| Solo Capture | 3.00% | ~842 |
-| Swift Rift Removers | 3.00% | ~842 |
-| Teamwork | 3.00% | ~842 |
-| Vaporous Expansion | 3.00% | ~842 |
+| Stylish | 5.00% | ~1,405 |
+| Advancement | 4.00% | ~1,124 |
+| Meticulously Efficient | 4.00% | ~1,124 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~843 |
+| Discovery | 3.00% | ~843 |
+| Fully Upgraded | 3.00% | ~843 |
+| Solo Capture | 3.00% | ~843 |
+| Swift Rift Removers | 3.00% | ~843 |
+| Teamwork | 3.00% | ~843 |
+| Vaporous Expansion | 3.00% | ~843 |
 | Animated | 2.00% | ~562 |
 | Back Off | 2.00% | ~562 |
 | Clutch Capture | 2.00% | ~562 |
@@ -43,12 +43,12 @@ Rating: 4.50 (Ranked 579)
 | Reckless | 0.90% | ~253 |
 | Diabolical | 0.80% | ~225 |
 | Rivalry | 0.70% | ~197 |
-| Fragile Panes | 0.60% | ~168 |
-| Liability | 0.60% | ~168 |
-| Surprise! | 0.60% | ~168 |
+| Fragile Panes | 0.60% | ~169 |
+| Liability | 0.60% | ~169 |
+| Surprise! | 0.60% | ~169 |
 | Therapeutic | 0.40% | ~112 |
+| Master Collector | 0.30% | ~84 |
 | Rift Seeker | 0.30% | ~84 |
-| Master Collector | 0.20% | ~56 |
 | Catostrophic Destroyer | 0.10% | ~28 |
 | I don't need these | 0.10% | ~28 |
 | Ghost Expert | 0.10% | ~28 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,083 (Ranked 123)  
+Progressed: 28,091 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 28,083 | 65 |
+| 2023-10-28 | 28,091 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
-Sum: 2,582 (Ranked 181)  
+Sum: 2,585 (Ranked 181)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -259,10 +259,10 @@ Diff (max vs sum): 67
 | This game is Great for Quick Sessions | 282 |
 | This game has Diverse Characters | 260 |
 | This game has Amazing Storytelling | 260 |
+| This game has Competitive Players | 256 |
 | This game is Extremely Fun | 254 |
 | This game is Highly Recommended | 253 |
 | This game is Relaxing | 253 |
-| This game has Competitive Players | 253 |
 | This game has Quickly Understood Controls | 243 |
 | This game has Amazing Characters | 236 |
 | This game has Playful Visuals | 94 |
@@ -464,4 +464,4 @@ Diff (max vs sum): 67
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
 | 2023-10-27 | 4.50 | 288 | 2,572 |
-| 2023-10-28 | 4.50 | 288 | 2,582 |
+| 2023-10-28 | 4.50 | 288 | 2,585 |

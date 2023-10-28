@@ -5,8 +5,8 @@ Rating: 4.70 (Ranked 210)
 Number of Ratings: 504  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 444  (Ranked 212)  
-Sum: 633 (Ranked 301)  
-Diff (max vs sum): -89  
+Sum: 633 (Ranked 302)  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 444 |

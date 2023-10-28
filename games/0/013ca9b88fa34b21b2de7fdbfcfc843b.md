@@ -1,20 +1,20 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 403)  
+Rating: 4.60 (Ranked 404)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,238 |
-| A Thorny Situation | 70.00% | ~5,092 |
-| ... And Spit Back Out | 60.00% | ~4,365 |
+| Azoria Beckons | 72.00% | ~5,239 |
+| A Thorny Situation | 70.00% | ~5,093 |
+| ... And Spit Back Out | 60.00% | ~4,366 |
 | Break-Net Speed | 48.00% | ~3,492 |
-| Bramble Breaker | 46.00% | ~3,346 |
-| Miner 49er | 43.00% | ~3,128 |
+| Bramble Breaker | 46.00% | ~3,347 |
+| Miner 49er | 43.00% | ~3,129 |
 | Humble Collector | 42.00% | ~3,056 |
 | Calm Sailing | 36.00% | ~2,619 |
 | Open the Gate! | 33.00% | ~2,401 |
-| Mist Walker | 31.00% | ~2,255 |
+| Mist Walker | 31.00% | ~2,256 |
 | Lumberjack | 26.00% | ~1,892 |
 | Oui, Chef! | 23.00% | ~1,673 |
 | Clear the Air | 18.00% | ~1,310 |
@@ -28,8 +28,8 @@ Rating: 4.60 (Ranked 403)
 | Skilled | 8.00% | ~582 |
 | Fae Farmer | 7.00% | ~509 |
 | Fanatical Farmer | 7.00% | ~509 |
-| Scattered Scroll Scrounger | 6.00% | ~436 |
-| Azorian Anniversary | 6.00% | ~436 |
+| Scattered Scroll Scrounger | 6.00% | ~437 |
+| Azorian Anniversary | 6.00% | ~437 |
 | I Now Pronounce You... | 5.00% | ~364 |
 | Chatty Neighbor | 4.00% | ~291 |
 | Right Tool For the Job | 3.00% | ~218 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 403)
 | Very Skilled | 0.20% | ~15 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,275 (Ranked 166)  
+Progressed: 7,276 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
 | 2023-10-27 | 7,234 | 0 |
-| 2023-10-28 | 7,275 | 0 |
+| 2023-10-28 | 7,276 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

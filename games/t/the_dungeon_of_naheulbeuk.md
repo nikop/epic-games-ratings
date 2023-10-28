@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,444 |
-| Alt+F4 | 7.00% | ~16,356 |
-| Where's that freaking Dwarf? | 6.00% | ~14,019 |
-| Déjà vu | 5.00% | ~11,683 |
-| A beer, two curses, three companions | 4.00% | ~9,346 |
-| Sock! SOCK! | 4.00% | ~9,346 |
-| GG EZ | 4.00% | ~9,346 |
-| Speedrun | 4.00% | ~9,346 |
+| Sowwy! | 34.00% | ~79,449 |
+| Alt+F4 | 7.00% | ~16,357 |
+| Where's that freaking Dwarf? | 6.00% | ~14,020 |
+| Déjà vu | 5.00% | ~11,684 |
+| A beer, two curses, three companions | 4.00% | ~9,347 |
+| Sock! SOCK! | 4.00% | ~9,347 |
+| GG EZ | 4.00% | ~9,347 |
+| Speedrun | 4.00% | ~9,347 |
 | DM intervention | 3.00% | ~7,010 |
 | Fireproof Wizardess | 3.00% | ~7,010 |
 | Livin' in a dwarven paradise | 2.00% | ~4,673 |
@@ -54,8 +54,8 @@ Number of Ratings: 118  (23.09.2022)
 | It's been a hard day's night | 0.40% | ~935 |
 | Friendly fire | 0.30% | ~701 |
 | I'd rather... Just... Sing! | 0.30% | ~701 |
+| The number of the counting shalt be 7 | 0.30% | ~701 |
 | Inception | 0.30% | ~701 |
-| The number of the counting shalt be 7 | 0.20% | ~467 |
 | Free customer service | 0.20% | ~467 |
 | Kudos from your DM | 0.20% | ~467 |
 | 100% satisfaction guarantee | 0.20% | ~467 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,658 (Ranked 60)  
+Progressed: 233,673 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 7 (0.00%) (Ranked 329)
 | 2023-10-25 | 233,101 | 7 |
 | 2023-10-26 | 233,279 | 7 |
 | 2023-10-27 | 233,450 | 7 |
-| 2023-10-28 | 233,658 | 7 |
+| 2023-10-28 | 233,673 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 268)  
-Sum: 444 (Ranked 327)  
+Sum: 445 (Ranked 327)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -258,8 +258,8 @@ Diff (max vs sum): -59
 | This game is Highly Recommended | 29 |
 | This game has Amazing Characters | 25 |
 | This game has Amazing Storytelling | 25 |
+| This game has Quickly Understood Controls | 25 |
 | This game has Diverse Characters | 25 |
-| This game has Quickly Understood Controls | 24 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -429,4 +429,4 @@ Diff (max vs sum): -59
 | 2023-10-24 | 4.58 | - | 221 | 438 |
 | 2023-10-26 | 4.58 | - | 224 | 442 |
 | 2023-10-27 | 4.58 | - | 224 | 443 |
-| 2023-10-28 | 4.58 | - | 225 | 444 |
+| 2023-10-28 | 4.58 | - | 225 | 445 |

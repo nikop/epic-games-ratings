@@ -188,9 +188,9 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "insane",
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:23.4454846+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:04:45.6946692+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.8346005+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:00:26.583522+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:23.4455094+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:01:16.6017021+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:04:45.6946875+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,242 |
+| Sink Beneath the Waves | 36.00% | ~14,243 |
 | Sweet Sorrow | 18.00% | ~7,121 |
-| Rules the Waves | 17.00% | ~6,725 |
+| Rules the Waves | 17.00% | ~6,726 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,934 |
-| Rival | 14.00% | ~5,538 |
-| Correspondent | 12.00% | ~4,747 |
-| Lose Your Mind | 12.00% | ~4,747 |
-| Sound Mind? | 12.00% | ~4,747 |
+| Rival | 14.00% | ~5,539 |
+| Correspondent | 12.00% | ~4,748 |
+| Lose Your Mind | 12.00% | ~4,748 |
+| Sound Mind? | 12.00% | ~4,748 |
 | Salt's Curse | 11.00% | ~4,352 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,352 |
 | The Fall of the House | 11.00% | ~4,352 |
@@ -24,8 +24,8 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~2,769 |
 | The Ascent of Man | 7.00% | ~2,769 |
 | Zee Fever | 5.00% | ~1,978 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,582 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,582 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,583 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,583 |
 | Storm's Curse | 3.00% | ~1,187 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,187 |
 | Come Closer | 3.00% | ~1,187 |
@@ -46,8 +46,8 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~356 |
 | Under the zee | 0.90% | ~356 |
 | Depth charge | 0.90% | ~356 |
-| A zee-change | 0.80% | ~316 |
-| Leviathan | 0.80% | ~316 |
+| A zee-change | 0.80% | ~317 |
+| Leviathan | 0.80% | ~317 |
 | What lies beneath | 0.70% | ~277 |
 | Stone's Curse | 0.70% | ~277 |
 | Five Years at Zee | 0.50% | ~198 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,560 (Ranked 116)  
+Progressed: 39,563 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 4 (0.01%) (Ranked 309)
 | 2023-10-25 | 39,409 | 4 |
 | 2023-10-26 | 39,456 | 4 |
 | 2023-10-27 | 39,509 | 4 |
-| 2023-10-28 | 39,560 | 4 |
+| 2023-10-28 | 39,563 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 276)  
 Sum: 288 (Ranked 359)  

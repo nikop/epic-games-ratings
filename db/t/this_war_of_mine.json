@@ -4,10 +4,10 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 152,
   "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 294,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2014-11-14T15:00:00+00:00",
@@ -1531,10 +1531,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2023-10-28T21:00:18.0239199+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 679,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 678,
+  "NumberOfAwards": 679,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1596,7 +1602,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 77
+      "Count": 78
     }
   ],
   "EOS_Progressed": 0,
@@ -1618,9 +1624,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2023-10-27T08:59:58.60388+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:05:38.9780186+00:00",
+  "LastChanged": "2023-10-28T21:00:18.0239197+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:06:18.7243487+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:29.7631586+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:59:37.964499+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:05:38.9780217+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:00:18.0239203+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:06:18.7243519+00:00"
 }

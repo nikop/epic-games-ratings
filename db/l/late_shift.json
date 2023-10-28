@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 577,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -1165,6 +1165,11 @@
       "Time": "2023-10-28T20:04:20.4840442+00:00",
       "NumProgressed": 575,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T21:04:41.9707681+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1176,7 +1181,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 546
+      "UsersEstimate": 548
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1208,7 +1213,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ENDING_4",
@@ -1216,7 +1221,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ENDING_5",
@@ -1224,7 +1229,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ENDING_6",
@@ -1232,7 +1237,7 @@
       "Name": "The Bribe",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ENDING_7",
@@ -1240,15 +1245,15 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 334
+      "UsersEstimate": 329
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1264,7 +1269,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "GOOD_KARMA",
@@ -1272,7 +1277,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "INTERROGATION",
@@ -1280,7 +1285,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1304,7 +1309,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "SABOTAGE",
@@ -1320,22 +1325,22 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 265
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 577,
       "Completed": 8
     }
   ],
@@ -1343,8 +1348,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:20.4840439+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:04:41.9707674+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:58:52.637417+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:20.4840686+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:59:17.1743668+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:04:41.9708146+00:00"
 }

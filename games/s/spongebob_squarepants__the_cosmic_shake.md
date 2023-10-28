@@ -49,7 +49,7 @@
 | SpongeLock HolmesPants | 13.00% | ~2 |
 | Wrath-tub | 13.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 526)  
+Progressed: 16 (Ranked 527)  
 Completed: 3 (18.75%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -48,13 +48,13 @@
 | Broke, Blind, and Bedlam | 36.00% | ~300 |
 | The Assassin | 35.00% | ~292 |
 | Ghost of the Father | 35.00% | ~292 |
+| The Prodigal | 35.00% | ~292 |
 | A Personal Touch | 34.00% | ~283 |
 | The Justicar | 34.00% | ~283 |
 | Catharsis | 34.00% | ~283 |
-| The Prodigal | 34.00% | ~283 |
+| The Cure | 34.00% | ~283 |
 | Archivist | 33.00% | ~275 |
 | Battlemaster | 33.00% | ~275 |
-| The Cure | 33.00% | ~275 |
 | Big Game Hunter | 33.00% | ~275 |
 | Revenge! | 33.00% | ~275 |
 | Heart of Darkness | 33.00% | ~275 |

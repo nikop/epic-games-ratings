@@ -1870,9 +1870,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210518,
+  "EOS_Progressed": 210523,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1362,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23665,6 +23665,11 @@
       "Time": "2023-10-28T20:05:08.7413722+00:00",
       "NumProgressed": 210518,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-28T21:05:41.4013925+00:00",
+      "NumProgressed": 210523,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23748,7 +23753,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25262
+      "UsersEstimate": 25263
     },
     {
       "ID": "HappyLittleAccidents",
@@ -23764,7 +23769,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14736
+      "UsersEstimate": 14737
     },
     {
       "ID": "HighFiveTheMoon",
@@ -23780,7 +23785,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14736
+      "UsersEstimate": 14737
     },
     {
       "ID": "ItsRainingMen",
@@ -23796,7 +23801,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14736
+      "UsersEstimate": 14737
     },
     {
       "ID": "Mercyful",
@@ -23892,7 +23897,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16841
+      "UsersEstimate": 16842
     },
     {
       "ID": "Rollin",
@@ -23924,7 +23929,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16841
+      "UsersEstimate": 16842
     },
     {
       "ID": "TanukiTime",
@@ -24020,22 +24025,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14736
+      "UsersEstimate": 14737
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210518,
+      "Progressed": 210523,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-28T15:57:21.1785447+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:05:08.7413718+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:05:41.4013917+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:57:27.9341496+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:05:08.7415561+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:57:29.1106641+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:05:41.4015833+00:00"
 }

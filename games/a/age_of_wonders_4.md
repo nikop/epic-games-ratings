@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 403)  
+Rating: 4.60 (Ranked 404)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 403)
 | Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,248 (Ranked 180)  
+Progressed: 5,249 (Ranked 180)  
 Completed: 6 (0.11%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 6 (0.11%) (Ranked 255)
 | 2023-10-24 | 5,239 | 6 |
 | 2023-10-26 | 5,242 | 6 |
 | 2023-10-27 | 5,245 | 6 |
-| 2023-10-28 | 5,248 | 6 |
+| 2023-10-28 | 5,249 | 6 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 498)  
 Sum: 27 (Ranked 508)  

@@ -4,7 +4,7 @@
   "ProductSlug": "wanted-dead-798c3c",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-14T09:00:00+00:00",
@@ -52,8 +52,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.9472872+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.552942+00:00",
   "LastChanged": "2023-03-31T05:58:10.9472874+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:35.511408+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:05:00.5659542+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.3149897+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:57:28.1437738+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:35.5114114+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:57:29.3013798+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:05:00.5659581+00:00"
 }

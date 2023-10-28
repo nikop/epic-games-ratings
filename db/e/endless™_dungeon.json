@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 867,
+  "EOS_Progressed": 868,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-10-28T20:03:24.1305725+00:00",
       "NumProgressed": 867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T21:03:32.2062358+00:00",
+      "NumProgressed": 868,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -939,7 +944,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -953,9 +958,9 @@
       "ID": "ACHIEVEMENT_BOT_BOSS",
       "SetID": "9991201",
       "Name": "Aggressive Antivirus",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1019,7 +1024,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1049,9 +1054,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1081,9 +1086,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1146,14 +1151,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 867,
+      "Progressed": 868,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:03:24.1305721+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:03:32.2062353+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:00:31.7653377+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:03:24.1306011+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:01:24.5051184+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:03:32.2062609+00:00"
 }

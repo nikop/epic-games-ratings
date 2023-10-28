@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.65,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1550,6 +1550,11 @@
       "Time": "2023-10-28T18:09:33.385494+00:00",
       "NumProgressed": 330,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-28T21:05:25.2207482+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1567,9 +1572,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "META_ALL_LINK",
@@ -1695,9 +1700,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1705,7 +1710,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1721,7 +1726,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PROGRESS_N2",
@@ -1760,14 +1765,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-28T20:04:55.4415707+00:00",
+  "LastChanged_Achievements": "2023-10-28T21:05:25.2207474+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:58:23.763243+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:04:55.4416011+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:58:41.446595+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:05:25.2207777+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -11865,10 +11865,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 28107,
       "NumberOfAwardsMax": 8357
+    },
+    {
+      "Time": "2023-10-28T21:01:39.4822253+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 28110,
+      "NumberOfAwardsMax": 8357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28107,
+  "NumberOfAwards": 28110,
   "NumberOfAwardsMax": 8357,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11930,7 +11936,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1482
+      "Count": 1485
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11956,8 +11962,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-10-28T19:02:48.8170101+00:00",
+  "LastChanged": "2023-10-28T21:01:39.482225+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:10.6530008+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:00:42.078684+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:05:26.4678177+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:01:39.4822258+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:06:03.6797281+00:00"
 }

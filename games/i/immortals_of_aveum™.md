@@ -5,13 +5,13 @@ Rating: 3.98 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~89 |
-| Battlefields Have Memories | 88.00% | ~87 |
-| Enlisted | 87.00% | ~86 |
-| Maybe Engage a Little | 83.00% | ~82 |
-| No More Names | 69.00% | ~68 |
-| Initiate | 61.00% | ~60 |
-| Thrada-Kul | 57.00% | ~56 |
+| Unforeseen | 90.00% | ~90 |
+| Battlefields Have Memories | 87.00% | ~87 |
+| Enlisted | 86.00% | ~86 |
+| Maybe Engage a Little | 82.00% | ~82 |
+| No More Names | 68.00% | ~68 |
+| Initiate | 60.00% | ~60 |
+| Thrada-Kul | 56.00% | ~56 |
 | Gravity-Challenged Rocks | 47.00% | ~47 |
 | All the Major Food Groups | 41.00% | ~41 |
 | Soldier | 39.00% | ~39 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 986)
 | Witch-Taker | 1.00% | ~1 |
 | Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 404)  
-Completed: 1 (1.01%) (Ranked 150)  
+Progressed: 100 (Ranked 404)  
+Completed: 1 (1.00%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 1 (1.01%) (Ranked 150)
 | 2023-10-24 | 96 | 1 |
 | 2023-10-26 | 97 | 1 |
 | 2023-10-27 | 99 | 1 |
+| 2023-10-28 | 100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

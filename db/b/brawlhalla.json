@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -7851,10 +7851,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 3931,
       "NumberOfAwardsMax": 445
+    },
+    {
+      "Time": "2023-10-28T21:00:21.1428769+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 3933,
+      "NumberOfAwardsMax": 445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3931,
+  "NumberOfAwards": 3933,
   "NumberOfAwardsMax": 445,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -7904,7 +7910,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 312
+      "Count": 314
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7943,8 +7949,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-10-28T18:04:32.0199268+00:00",
+  "LastChanged": "2023-10-28T21:00:21.1428767+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:31.9229402+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:59:40.5807767+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:09:05.4283002+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:00:21.1428774+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:09:15.7955963+00:00"
 }

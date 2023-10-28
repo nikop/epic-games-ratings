@@ -4,7 +4,7 @@
   "ProductSlug": "dog-duty-c07002",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-02T05:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3866931+00:00",
   "LastChanged": "2023-03-31T05:57:13.3866932+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:41.03182+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:58:47.205294+00:00",
-  "LastUpdate_Achievements": "2023-10-28T20:05:37.6056858+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:59:11.4210034+00:00",
+  "LastUpdate_Achievements": "2023-10-28T21:06:17.1622778+00:00"
 }
