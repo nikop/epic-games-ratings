@@ -1261,9 +1261,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155081,
+  "EOS_Progressed": 155095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1528,
+  "EOS_NewPlayers": 1526,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13371,6 +13371,11 @@
       "Time": "2023-10-28T09:04:37.1285208+00:00",
       "NumProgressed": 155081,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T10:05:18.5680923+00:00",
+      "NumProgressed": 155095,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13446,7 +13451,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13598,7 +13603,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13606,7 +13611,7 @@
       "Name": "Predator",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -13749,21 +13754,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154664,
+      "Progressed": 154678,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155081,
+      "Progressed": 155095,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T07:02:33.9217705+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:04:37.1285203+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:05:18.5680917+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:44.2934317+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:04:37.1286073+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:49.4861925+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:05:18.5682096+00:00"
 }

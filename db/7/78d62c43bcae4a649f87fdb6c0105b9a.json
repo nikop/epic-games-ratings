@@ -167,9 +167,9 @@
       "ID": "cave",
       "SetID": "40o2ndb",
       "Name": "To the Frog Cave!",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "forest",
@@ -207,9 +207,9 @@
       "ID": "laboratory",
       "SetID": "40o2ndb",
       "Name": "Loose frogs in the laboratory",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "mafia",
@@ -279,9 +279,9 @@
       "ID": "world3",
       "SetID": "40o2ndb",
       "Name": "Haaaaarmit and company",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 85,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "world3insane",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:04:20.4951121+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:04:59.1535505+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.8346005+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:14.2245348+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:04:20.4951259+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:15.7685066+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:04:59.1535697+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5530,
+  "EOS_Progressed": 5531,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4033,6 +4033,11 @@
       "Time": "2023-10-27T20:06:01.3291746+00:00",
       "NumProgressed": 5530,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T10:06:52.8577882+00:00",
+      "NumProgressed": 5531,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4476,7 +4481,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -4636,7 +4641,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_trait_overload",
@@ -4651,15 +4656,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5530,
+      "Progressed": 5531,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:05:58.0069629+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:06:52.8577876+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.5188861+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:57:36.3499198+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:05:58.0070456+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:57:58.6750399+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:06:52.8578968+00:00"
 }

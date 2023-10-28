@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 9.00% | ~1,468 |
+| Get a Grip | 9.00% | ~1,469 |
 | Paper Jams | 8.00% | ~1,305 |
 | Flesh Wound | 7.00% | ~1,142 |
 | Chew 'Em Up | 6.00% | ~979 |
@@ -27,8 +27,8 @@ Rating: 4.19 (Ranked 905)
 | Full Circle | 4.00% | ~653 |
 | Power Up | 4.00% | ~653 |
 | It's Time | 4.00% | ~170 |
-| Giving Back | 3.00% | ~489 |
-| The Commonality | 3.00% | ~489 |
+| Giving Back | 3.00% | ~490 |
+| The Commonality | 3.00% | ~490 |
 | In Striking Distance | 2.00% | ~326 |
 | One Last Job | 2.00% | ~85 |
 | This Isn't About Escape | 1.00% | ~42 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,316 (Ranked 139)  
-Completed: 77 (0.47%) (Ranked 191)  
+Progressed: 16,317 (Ranked 139)  
+Completed: 78 (0.48%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,15 +237,15 @@ Completed: 77 (0.47%) (Ranked 191)
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
 | 2023-10-27 | 16,311 | 77 |
-| 2023-10-28 | 16,316 | 77 |
+| 2023-10-28 | 16,317 | 78 |
 ## Awards
-Max (Highly Recommended): 79  (Ranked 378)  
-Sum: 458 (Ranked 325)  
-Diff (max vs sum): 53  
+Max (Highly Recommended): 79  (Ranked 379)  
+Sum: 459 (Ranked 325)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 79 |
-| This game has Amazing Storytelling | 77 |
+| This game has Amazing Storytelling | 78 |
 | This game has Amazing Characters | 76 |
 | This game has Quickly Understood Controls | 74 |
 | This game is Extremely Fun | 68 |
@@ -399,4 +399,4 @@ Diff (max vs sum): 53
 | 2023-10-24 | 4.19 | 78 | 453 |
 | 2023-10-25 | 4.19 | 78 | 454 |
 | 2023-10-26 | 4.19 | 78 | 455 |
-| 2023-10-28 | 4.19 | 79 | 458 |
+| 2023-10-28 | 4.19 | 79 | 459 |

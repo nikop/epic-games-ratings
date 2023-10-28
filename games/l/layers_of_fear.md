@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 55.00% | ~11 |
-| Wanderer | 45.00% | ~9 |
-| Finished it | 40.00% | ~8 |
-| A piece of the story | 30.00% | ~6 |
-| Refuse to look | 25.00% | ~5 |
-| Do what you have to | 25.00% | ~5 |
-| It's covered up for a reason | 20.00% | ~4 |
-| Scraps of love | 20.00% | ~4 |
-| The artist’s impression | 20.00% | ~4 |
-| First steps | 15.00% | ~3 |
-| Playtime | 15.00% | ~3 |
-| Sign of weakness | 15.00% | ~3 |
-| The tragedy unfolds | 15.00% | ~3 |
-| Tough conversation | 15.00% | ~3 |
+| Something important | 52.00% | ~11 |
+| Wanderer | 48.00% | ~10 |
+| Finished it | 43.00% | ~9 |
+| A piece of the story | 29.00% | ~6 |
+| Refuse to look | 24.00% | ~5 |
+| Do what you have to | 24.00% | ~5 |
+| It's covered up for a reason | 19.00% | ~4 |
+| Scraps of love | 19.00% | ~4 |
+| The artist’s impression | 19.00% | ~4 |
+| First steps | 19.00% | ~4 |
+| Playtime | 19.00% | ~4 |
+| The tragedy unfolds | 19.00% | ~4 |
+| Tough conversation | 19.00% | ~4 |
+| Breaking free | 14.00% | ~3 |
+| Sign of weakness | 14.00% | ~3 |
+| A new way | 10.00% | ~2 |
 | Another perspective | 10.00% | ~2 |
-| Breaking free | 10.00% | ~2 |
 | A Slice of Life | 10.00% | ~2 |
 | Debut | 10.00% | ~2 |
 | Sound Bite | 10.00% | ~2 |
 | Lights! Camera! Action! | 10.00% | ~2 |
 | The art of movement | 10.00% | ~2 |
-| A new way | 5.00% | ~1 |
+| True Reflection | 10.00% | ~2 |
 | We Are Not Alone | 5.00% | ~1 |
 | Face your fears | 5.00% | ~1 |
 | The Perfect Storm | 5.00% | ~1 |
 | Fisherman | 5.00% | ~1 |
-| True Reflection | 5.00% | ~1 |
 | Whispers long forgotten | 5.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 506)  
+Progressed: 21 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,3 +69,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-24 | 13 | 0 |
 | 2023-10-25 | 18 | 0 |
 | 2023-10-27 | 20 | 0 |
+| 2023-10-28 | 21 | 0 |

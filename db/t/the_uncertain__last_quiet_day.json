@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2023-10-27T11:07:55.4277033+00:00",
       "NumProgressed": 562,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-28T10:08:50.6364166+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -748,7 +753,7 @@
       "Name": "Annoying",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BLADE_RUNNER",
@@ -788,7 +793,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -796,7 +801,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "FOUND_IT",
@@ -860,7 +865,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "LUCKY_DOG",
@@ -948,15 +953,15 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 118
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -988,14 +993,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 18
     }
   ],
@@ -1003,8 +1008,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:08:37.1057705+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:08:50.636416+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.6002167+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:58:34.2202042+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:08:37.1057937+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:59:08.917332+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:08:50.6364442+00:00"
 }

@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.20 (Ranked 894)  
+Rating: 4.22 (Ranked 881)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -119,3 +119,4 @@ Completed: 28 (1.70%) (Ranked 127)
 | 2023-01-07 | 4.18 | - | - |
 | 2023-01-11 | 4.20 | - | - |
 | 2023-03-31 | 4.20 | 0 | 0 |
+| 2023-10-28 | 4.22 | 0 | 0 |

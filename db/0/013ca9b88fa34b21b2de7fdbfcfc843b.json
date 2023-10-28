@@ -159,7 +159,7 @@
   "Tags": [],
   "EOS_Progressed": 7247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5571,9 +5571,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3551
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5756,8 +5756,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:09:01.2893426+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:09:19.6505623+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:58:36.4923396+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:09:01.2893889+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:59:12.072353+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:09:19.6506161+00:00"
 }

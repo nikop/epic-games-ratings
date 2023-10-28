@@ -2,7 +2,7 @@
   "ID": "70f113623e4e48c481c1908cfe002c98",
   "Name": "Somerville",
   "ProductSlug": "somerville-229529",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 223,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2022-11-25T17:58:18.002963+00:00",
@@ -79,6 +79,12 @@
     {
       "Time": "2023-03-31T05:58:16.1045521+00:00",
       "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-28T10:01:15.5603386+00:00",
+      "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -752,9 +758,9 @@
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
-  "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:04:40.2205117+00:00",
+  "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:05:21.9745886+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:00.3536737+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:14.3501637+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:04:40.2205234+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:15.560339+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:05:21.9746036+00:00"
 }

@@ -8,7 +8,7 @@
 | Good to grow | 64.00% | ~72 |
 | Fashionista | 40.00% | ~45 |
 | Irrigation not irritation | 36.00% | ~41 |
-| Graduated | 32.00% | ~36 |
+| Graduated | 33.00% | ~37 |
 | Night Shift | 23.00% | ~26 |
 | Shine bright | 16.00% | ~18 |
 | Ay ay yarrr! | 16.00% | ~18 |

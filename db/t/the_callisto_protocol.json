@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 905,
-  "Ranking_Popularity": 378,
+  "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1317,10 +1317,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-10-28T10:01:26.2789456+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
+  "NumberOfAwards": 459,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1352,7 +1358,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1367,11 +1373,11 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16316,
-  "EOS_Completed": 77,
-  "EOS_NewPlayers": 185,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Progressed": 16317,
+  "EOS_Completed": 78,
+  "EOS_NewPlayers": 184,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -8367,6 +8373,11 @@
       "Time": "2023-10-28T09:06:46.250264+00:00",
       "NumProgressed": 16316,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-28T10:08:39.1833597+00:00",
+      "NumProgressed": 16317,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8394,7 +8405,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -8482,7 +8493,7 @@
       "Name": "Get a Grip",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8530,7 +8541,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8753,22 +8764,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16316,
-      "Completed": 77
+      "Progressed": 16317,
+      "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4242,
+      "Progressed": 4243,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-28T04:01:31.0131997+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:06:46.2502627+00:00",
+  "LastChanged": "2023-10-28T10:01:26.2789454+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:08:39.1833584+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:24.2746202+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:06:46.2503286+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:26.2789461+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:08:39.1834341+00:00"
 }

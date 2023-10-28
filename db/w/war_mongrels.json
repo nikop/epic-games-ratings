@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1796,6 +1796,11 @@
       "Time": "2023-10-27T23:08:09.3621932+00:00",
       "NumProgressed": 557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T10:08:38.8916233+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2039,7 +2044,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2095,7 +2100,7 @@
       "Name": "Vengeance",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2191,7 +2196,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2223,31 +2228,31 @@
       "Name": "Food Massacre",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_KILL_SNIPER",
       "SetID": "1j25agn",
       "Name": "Sniper Wolf",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_NEST1",
       "SetID": "1j25agn",
       "Name": "Bullseye!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_NEST2",
@@ -2278,15 +2283,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-27T20:57:37.4699394+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:06:45.9830865+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:08:38.8916227+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:16.7154426+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:57:41.2693905+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:06:45.9831376+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:58:04.7483768+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:08:38.8916894+00:00"
 }

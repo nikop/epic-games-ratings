@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -255,9 +255,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2023-10-26T20:07:09.7653013+00:00",
       "NumProgressed": 983,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T10:07:22.6995429+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2496,7 +2501,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH001",
@@ -2504,7 +2509,7 @@
       "Name": "Seafarer",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH002",
@@ -2536,7 +2541,7 @@
       "Name": "Premier Ma\u00EEtre",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH006",
@@ -2544,7 +2549,7 @@
       "Name": "Supreme conqueror",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH007",
@@ -2552,7 +2557,7 @@
       "Name": "My little farm",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH008",
@@ -2608,7 +2613,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH015",
@@ -2648,7 +2653,7 @@
       "Name": "Just a scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH020",
@@ -2680,7 +2685,7 @@
       "Name": "Gofer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "ACH024",
@@ -2736,7 +2741,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH031",
@@ -2752,7 +2757,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH033",
@@ -2784,7 +2789,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH037",
@@ -2840,7 +2845,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH044",
@@ -2880,7 +2885,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH049",
@@ -2895,15 +2900,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-10-21T17:04:58.5198566+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:06:23.6162899+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:07:22.6995422+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:28.3231415+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:57:49.4629105+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:06:23.6163328+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:58:13.1433211+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:07:22.6995996+00:00"
 }

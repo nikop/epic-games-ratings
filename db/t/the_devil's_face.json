@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2119,6 +2119,11 @@
       "Time": "2023-10-28T07:06:19.40344+00:00",
       "NumProgressed": 490,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-28T10:06:04.0916149+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2138,7 +2143,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2146,7 +2151,7 @@
       "Name": "The crucifixion",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2234,21 +2239,21 @@
       "Name": "Flagellation",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:05:16.1798487+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:06:04.0916136+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:59:07.6811884+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:05:16.1799015+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:59:49.5310212+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:06:04.0916395+00:00"
 }

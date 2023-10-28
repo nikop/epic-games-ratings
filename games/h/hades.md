@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~631,506 |
-| Escaped Asphodel | 80.00% | ~567,646 |
-| Arms Collector | 70.00% | ~496,690 |
-| Friends in High Places | 67.00% | ~475,403 |
-| Escaped Elysium | 66.00% | ~468,308 |
-| Chthonic Colleagues | 63.00% | ~447,021 |
-| Is There No Escape? | 52.00% | ~368,970 |
-| Death Dealer | 45.00% | ~319,301 |
-| Skelly Slayer | 42.00% | ~298,014 |
-| Well Stocked | 40.00% | ~283,823 |
-| Back to Work | 38.00% | ~269,632 |
-| Day-or-Night Trader | 37.00% | ~262,536 |
-| Blessed by the Gods | 37.00% | ~262,536 |
-| Urge to Sing | 36.00% | ~255,441 |
-| Blood Bound | 35.00% | ~248,345 |
-| Three-Headed Boy | 32.00% | ~227,058 |
-| River Denizens | 28.00% | ~198,676 |
-| Grown Close | 28.00% | ~198,676 |
-| Home Makeover | 27.00% | ~191,580 |
-| Had to Happen | 25.00% | ~177,389 |
-| The Family Secret | 25.00% | ~177,389 |
-| Tools of the Architect | 23.00% | ~163,198 |
-| Master of Arms | 23.00% | ~163,198 |
-| To Charon's Credit | 22.00% | ~156,103 |
-| Rare Collectible | 22.00% | ~156,103 |
-| Weapon of Fate | 21.00% | ~149,007 |
-| Something From Everyone | 19.00% | ~134,816 |
-| Hold the Onions | 18.00% | ~127,720 |
-| Well Versed | 17.00% | ~120,625 |
-| War-God's Bloodlust | 15.00% | ~106,434 |
-| Musician and Muse | 14.00% | ~99,338 |
-| The Useless Trinket | 13.00% | ~92,242 |
-| Champion of Elysium | 13.00% | ~92,242 |
-| Slashed Benefits | 12.00% | ~85,147 |
-| Haste of Hermes | 11.00% | ~78,051 |
-| Bad Call | 10.00% | ~70,956 |
-| Nyx's Mirror | 10.00% | ~70,956 |
-| Night and Darkness | 10.00% | ~70,956 |
-| End to Torment | 10.00% | ~70,956 |
-| Dark Reflections | 9.00% | ~63,860 |
-| Thanks, But No Thanks | 9.00% | ~63,860 |
-| Infernal Arms | 9.00% | ~63,860 |
-| Divided by Death | 8.00% | ~56,765 |
-| Harsh Conditions | 7.00% | ~49,669 |
-| One for the Ages | 7.00% | ~49,669 |
-| Complete Set | 6.00% | ~42,573 |
-| Skelly's Last Lamentations | 6.00% | ~42,573 |
-| Thorn of Thanatos | 4.00% | ~28,382 |
-| Friends Forever | 4.00% | ~28,382 |
+| Escaped Tartarus | 89.00% | ~631,525 |
+| Escaped Asphodel | 80.00% | ~567,663 |
+| Arms Collector | 70.00% | ~496,705 |
+| Friends in High Places | 67.00% | ~475,418 |
+| Escaped Elysium | 66.00% | ~468,322 |
+| Chthonic Colleagues | 63.00% | ~447,035 |
+| Is There No Escape? | 52.00% | ~368,981 |
+| Death Dealer | 45.00% | ~319,311 |
+| Skelly Slayer | 42.00% | ~298,023 |
+| Well Stocked | 40.00% | ~283,832 |
+| Back to Work | 38.00% | ~269,640 |
+| Day-or-Night Trader | 37.00% | ~262,544 |
+| Blessed by the Gods | 37.00% | ~262,544 |
+| Urge to Sing | 36.00% | ~255,448 |
+| Blood Bound | 35.00% | ~248,353 |
+| Three-Headed Boy | 32.00% | ~227,065 |
+| River Denizens | 28.00% | ~198,682 |
+| Grown Close | 28.00% | ~198,682 |
+| Home Makeover | 27.00% | ~191,586 |
+| Had to Happen | 25.00% | ~177,395 |
+| The Family Secret | 25.00% | ~177,395 |
+| Tools of the Architect | 23.00% | ~163,203 |
+| Master of Arms | 23.00% | ~163,203 |
+| To Charon's Credit | 22.00% | ~156,107 |
+| Rare Collectible | 22.00% | ~156,107 |
+| Weapon of Fate | 21.00% | ~149,012 |
+| Something From Everyone | 19.00% | ~134,820 |
+| Hold the Onions | 18.00% | ~127,724 |
+| Well Versed | 17.00% | ~120,628 |
+| War-God's Bloodlust | 15.00% | ~106,437 |
+| Musician and Muse | 14.00% | ~99,341 |
+| The Useless Trinket | 13.00% | ~92,245 |
+| Champion of Elysium | 13.00% | ~92,245 |
+| Slashed Benefits | 12.00% | ~85,149 |
+| Haste of Hermes | 11.00% | ~78,054 |
+| Bad Call | 10.00% | ~70,958 |
+| Nyx's Mirror | 10.00% | ~70,958 |
+| Night and Darkness | 10.00% | ~70,958 |
+| End to Torment | 10.00% | ~70,958 |
+| Dark Reflections | 9.00% | ~63,862 |
+| Thanks, But No Thanks | 9.00% | ~63,862 |
+| Infernal Arms | 9.00% | ~63,862 |
+| Divided by Death | 8.00% | ~56,766 |
+| Harsh Conditions | 7.00% | ~49,671 |
+| One for the Ages | 7.00% | ~49,671 |
+| Complete Set | 6.00% | ~42,575 |
+| Skelly's Last Lamentations | 6.00% | ~42,575 |
+| Thorn of Thanatos | 4.00% | ~28,383 |
+| Friends Forever | 4.00% | ~28,383 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,557 (Ranked 21)  
+Progressed: 709,579 (Ranked 21)  
 Completed: 6,445 (0.91%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 6,445 (0.91%) (Ranked 157)
 | 2023-10-25 | 708,733 | 6,439 |
 | 2023-10-26 | 709,071 | 6,441 |
 | 2023-10-27 | 709,450 | 6,444 |
-| 2023-10-28 | 709,557 | 6,445 |
+| 2023-10-28 | 709,579 | 6,445 |
 ## Awards
 Max (Character Customization): 3,328  (Ranked 94)  
-Sum: 8,105 (Ranked 101)  
+Sum: 8,106 (Ranked 101)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -259,8 +259,8 @@ Diff (max vs sum): -7
 | This game is Highly Recommended | 272 |
 | This game is Great for Beginners | 267 |
 | This game has Amazing Storytelling | 256 |
+| This game has Amazing Characters | 252 |
 | This game is Extremely Fun | 252 |
-| This game has Amazing Characters | 251 |
 | This game has Diverse Characters | 251 |
 | This game is Relaxing | 241 |
 | This game has Quickly Understood Controls | 241 |
@@ -531,3 +531,4 @@ Diff (max vs sum): -7
 | 2023-10-24 | 4.92 | - | 3,324 | 8,097 |
 | 2023-10-25 | 4.92 | - | 3,326 | 8,101 |
 | 2023-10-27 | 4.92 | - | 3,328 | 8,105 |
+| 2023-10-28 | 4.92 | - | 3,328 | 8,106 |

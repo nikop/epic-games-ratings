@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -109,7 +109,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6503,
+  "EOS_Progressed": 6504,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 4,
@@ -4454,6 +4454,11 @@
       "Time": "2023-10-28T09:09:19.6964365+00:00",
       "NumProgressed": 6503,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-10-28T10:09:41.3300032+00:00",
+      "NumProgressed": 6504,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4482,15 +4487,15 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "achievement_01_04",
       "SetID": "4f1m94d",
       "Name": "Bzzzt",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4683
     },
     {
       "ID": "achievement_01_05",
@@ -4498,7 +4503,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "achievement_01_06",
@@ -4514,7 +4519,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "achievement_01_08",
@@ -4522,15 +4527,15 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4747
+      "UsersEstimate": 4748
     },
     {
       "ID": "achievement_01_09",
       "SetID": "4f1m94d",
       "Name": "Right Foot",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2732
     },
     {
       "ID": "achievement_01_10",
@@ -4546,7 +4551,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_02_02",
@@ -4594,7 +4599,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3121
+      "UsersEstimate": 3122
     },
     {
       "ID": "achievement_02_08",
@@ -4602,7 +4607,7 @@
       "Name": "Car Specialist",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "achievement_03_01",
@@ -4626,7 +4631,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "achievement_03_04",
@@ -4706,7 +4711,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "achievement_04_03",
@@ -4746,7 +4751,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "achievement_04_08",
@@ -4769,7 +4774,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6503,
+      "Progressed": 6504,
       "Completed": 31
     }
   ],
@@ -4777,8 +4782,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-25T00:01:00.740635+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:09:19.6964359+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:09:41.3300027+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:57:18.5995849+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:09:19.6964784+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:57:38.2830702+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:09:41.3300623+00:00"
 }

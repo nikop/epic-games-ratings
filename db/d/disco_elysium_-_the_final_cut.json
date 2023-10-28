@@ -1406,7 +1406,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130162,
+  "EOS_Progressed": 130164,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
@@ -20291,6 +20291,11 @@
       "Time": "2023-10-28T09:06:40.8647615+00:00",
       "NumProgressed": 130162,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-28T10:08:32.8994409+00:00",
+      "NumProgressed": 130164,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20334,7 +20339,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23429
+      "UsersEstimate": 23430
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20382,7 +20387,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36445
+      "UsersEstimate": 36446
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20398,7 +20403,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -20598,7 +20603,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -20621,15 +20626,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130162,
+      "Progressed": 130164,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-26T16:59:51.8578507+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:06:40.864761+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:08:32.8994404+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:07.9267781+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:06:40.8648711+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:06.8907188+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:08:32.899601+00:00"
 }

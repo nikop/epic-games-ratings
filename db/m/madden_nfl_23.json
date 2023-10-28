@@ -4,7 +4,7 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 846,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 448,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 132,
@@ -757,7 +757,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3027,
+  "EOS_Progressed": 3028,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -4162,6 +4162,11 @@
       "Time": "2023-10-28T08:08:12.7099962+00:00",
       "NumProgressed": 3027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T10:07:16.6365413+00:00",
+      "NumProgressed": 3028,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4206,15 +4211,15 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "achievement_14",
       "SetID": "c8fif6p",
       "Name": "Dealmaker",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1181
     },
     {
       "ID": "achievement_15",
@@ -4262,7 +4267,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_20",
@@ -4318,7 +4323,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "achievement_8",
@@ -4341,7 +4346,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3027,
+      "Progressed": 3028,
       "Completed": 0
     }
   ],
@@ -4349,8 +4354,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-26T23:59:51.3475176+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:06:18.4709404+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:07:16.6365407+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:37.7511436+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:06:18.4709684+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:41.4594161+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:07:16.6365784+00:00"
 }

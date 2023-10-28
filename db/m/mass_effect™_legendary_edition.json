@@ -2,7 +2,7 @@
   "ID": "2a535f0e7c754dbe9157bf96adc62d56",
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
-  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 120,
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-10-28T09:04:57.879915+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T10:05:43.4950657+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -2205,7 +2210,7 @@
       "Name": "Medal of Honor",
       "Percentage": 58,
       "XP": 125,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_10",
@@ -2213,7 +2218,7 @@
       "Name": "Barrier Mastery",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_100",
@@ -2221,7 +2226,7 @@
       "Name": "A Personal Touch",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_101",
@@ -2235,9 +2240,9 @@
       "ID": "achievement_102",
       "SetID": "d252ncf",
       "Name": "Focused",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_103",
@@ -2277,7 +2282,7 @@
       "Name": "Eye of the Hurricane",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_108",
@@ -2301,7 +2306,7 @@
       "Name": "Stasis Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_110",
@@ -2325,7 +2330,7 @@
       "Name": "Gunsmith",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_113",
@@ -2347,9 +2352,9 @@
       "ID": "achievement_115",
       "SetID": "d252ncf",
       "Name": "Last Resort",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_116",
@@ -2397,7 +2402,7 @@
       "Name": "Paramour I",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_121",
@@ -2429,7 +2434,7 @@
       "Name": "Recruit",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_125",
@@ -2437,7 +2442,7 @@
       "Name": "Soldier",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_126",
@@ -2445,7 +2450,7 @@
       "Name": "Veteran",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_127",
@@ -2461,7 +2466,7 @@
       "Name": "AI Hacking Specialist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_14",
@@ -2477,7 +2482,7 @@
       "Name": "Sabotage Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_16",
@@ -2501,7 +2506,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_19",
@@ -2509,7 +2514,7 @@
       "Name": "Archivist",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_2",
@@ -2533,7 +2538,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "achievement_22",
@@ -2541,7 +2546,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_23",
@@ -2549,7 +2554,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_24",
@@ -2557,7 +2562,7 @@
       "Name": "Soldier Ally",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "achievement_25",
@@ -2581,7 +2586,7 @@
       "Name": "Turian Ally",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "achievement_28",
@@ -2589,7 +2594,7 @@
       "Name": "Quarian Ally",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "achievement_29",
@@ -2597,7 +2602,7 @@
       "Name": "Asari Ally",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_3",
@@ -2613,7 +2618,7 @@
       "Name": "Principled",
       "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_31",
@@ -2621,7 +2626,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "achievement_32",
@@ -2629,7 +2634,7 @@
       "Name": "Charismatic",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_33",
@@ -2637,7 +2642,7 @@
       "Name": "Search and Rescue",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "achievement_34",
@@ -2645,15 +2650,15 @@
       "Name": "Colonial Savior",
       "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 231
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_36",
@@ -2661,7 +2666,7 @@
       "Name": "Missing in Action",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_37",
@@ -2669,7 +2674,7 @@
       "Name": "Very Elusive",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_38",
@@ -2693,7 +2698,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_40",
@@ -2701,15 +2706,15 @@
       "Name": "Suicide Mission",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_42",
@@ -2723,9 +2728,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_44",
@@ -2741,7 +2746,7 @@
       "Name": "The Assassin",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_46",
@@ -2757,7 +2762,7 @@
       "Name": "The Justicar",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_48",
@@ -2773,7 +2778,7 @@
       "Name": "The Professor",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_5",
@@ -2781,7 +2786,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_50",
@@ -2805,7 +2810,7 @@
       "Name": "Battlemaster",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_53",
@@ -2819,9 +2824,9 @@
       "ID": "achievement_54",
       "SetID": "d252ncf",
       "Name": "Catharsis",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_55",
@@ -2845,15 +2850,15 @@
       "Name": "Ghost of the Father",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_59",
@@ -2861,7 +2866,7 @@
       "Name": "The Prodigal",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_6",
@@ -2885,7 +2890,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_62",
@@ -2893,7 +2898,7 @@
       "Name": "Head Hunter",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_63",
@@ -2949,7 +2954,7 @@
       "Name": "Galactic Explorer",
       "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_7",
@@ -2973,7 +2978,7 @@
       "Name": "Scientist",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "achievement_72",
@@ -2981,7 +2986,7 @@
       "Name": "Weapon Specialist",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_73",
@@ -2997,7 +3002,7 @@
       "Name": "Power Full",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_75",
@@ -3005,7 +3010,7 @@
       "Name": "Revenge!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_76",
@@ -3029,15 +3034,15 @@
       "Name": "Heart of Darkness",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_8",
@@ -3061,7 +3066,7 @@
       "Name": "Mobilizer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_82",
@@ -3069,7 +3074,7 @@
       "Name": "World Shaker",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_83",
@@ -3141,7 +3146,7 @@
       "Name": "Executioner",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "achievement_91",
@@ -3197,7 +3202,7 @@
       "Name": "Shopaholic",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "achievement_98",
@@ -3220,19 +3225,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 0
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 825,
+      "Progressed": 826,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:04:57.8799141+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:05:43.4950639+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:11.4066479+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:58:39.0101115+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:04:57.880097+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:59:15.6181734+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:05:43.4952991+00:00"
 }

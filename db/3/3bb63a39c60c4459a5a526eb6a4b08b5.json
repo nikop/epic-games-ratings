@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 880,
+  "EOS_Progressed": 881,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3299,6 +3299,11 @@
       "Time": "2023-10-28T04:08:55.2108488+00:00",
       "NumProgressed": 880,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T10:09:13.393398+00:00",
+      "NumProgressed": 881,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3326,7 +3331,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "BigPlane",
@@ -3342,7 +3347,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Calculated",
@@ -3350,7 +3355,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Close",
@@ -3470,7 +3475,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LongDistance",
@@ -3478,7 +3483,7 @@
       "Name": "Long Distances",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ManagementMaster",
@@ -3518,7 +3523,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NoWayBack",
@@ -3526,7 +3531,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "NotPlanned",
@@ -3534,7 +3539,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Ownway",
@@ -3574,7 +3579,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ResourceEconomy",
@@ -3582,7 +3587,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Restructuring",
@@ -3645,14 +3650,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 880,
+      "Progressed": 881,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:08:56.3130655+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:09:13.3933975+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:59:48.6964622+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:08:56.313107+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:00:43.5791473+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:09:13.3934524+00:00"
 }

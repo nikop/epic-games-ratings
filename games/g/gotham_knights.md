@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,304 |
+| First Step Into the Knight | 51.00% | ~38,305 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,287 |
 | Loose Ends | 34.00% | ~25,536 |
 | To the Victor Go the Spoils | 28.00% | ~21,030 |
 | Knighthood | 27.00% | ~20,279 |
-| Get ReQ'd | 25.00% | ~18,776 |
-| Whispered Words | 25.00% | ~18,776 |
-| The Batman Family | 23.00% | ~17,274 |
-| Lock and Key | 23.00% | ~17,274 |
+| Get ReQ'd | 25.00% | ~18,777 |
+| Whispered Words | 25.00% | ~18,777 |
+| The Batman Family | 23.00% | ~17,275 |
+| Lock and Key | 23.00% | ~17,275 |
 | Something in the Clay | 21.00% | ~15,772 |
 | Quartzer Life Crisis | 21.00% | ~15,772 |
 | Working Hard or Harley Working? | 20.00% | ~15,021 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 913)
 | Element of Surprise | 0.20% | ~91 |
 | It's Nice to Be Wanted | 0.20% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,106 (Ranked 96)  
+Progressed: 75,107 (Ranked 96)  
 Completed: 122 (0.16%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 122 (0.16%) (Ranked 244)
 | 2023-10-25 | 74,838 | 122 |
 | 2023-10-26 | 74,946 | 122 |
 | 2023-10-27 | 75,054 | 122 |
-| 2023-10-28 | 75,106 | 122 |
+| 2023-10-28 | 75,107 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,870  (Ranked 98)  
 Sum: 4,856 (Ranked 138)  

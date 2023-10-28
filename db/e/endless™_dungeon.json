@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 849,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 530,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -855,6 +855,11 @@
       "Time": "2023-10-28T09:03:18.931915+00:00",
       "NumProgressed": 847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T10:03:45.8008411+00:00",
+      "NumProgressed": 849,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -899,7 +904,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -931,7 +936,7 @@
       "Name": "Team Builder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -947,7 +952,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -963,7 +968,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1106,14 +1111,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 849,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:03:18.9319142+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:03:45.8008406+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:00:21.0095363+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:03:18.9319353+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:01:22.9146197+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:03:45.8009283+00:00"
 }

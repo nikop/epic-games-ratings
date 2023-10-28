@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
     {
       "Time": "2023-10-28T09:09:30.4608502+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T10:09:53.3751516+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -128,7 +133,7 @@
       "ID": "DP",
       "SetID": "2621k8c",
       "Name": "Decision Paralysis",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -216,7 +221,7 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -312,7 +317,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -328,7 +333,7 @@
       "ID": "Ignore",
       "SetID": "2621k8c",
       "Name": "Ignore",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -464,7 +469,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -488,7 +493,7 @@
       "ID": "Otaku",
       "SetID": "2621k8c",
       "Name": "Otaku",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -560,7 +565,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -592,7 +597,7 @@
       "ID": "SAITAB",
       "SetID": "2621k8c",
       "Name": "Scratching an itch through a boot",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -608,7 +613,7 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -624,7 +629,7 @@
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -720,7 +725,7 @@
       "ID": "THOASOK",
       "SetID": "2621k8c",
       "Name": "To have only a smattering of knowledge",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -728,7 +733,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -817,13 +822,13 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-10-28T09:09:30.4608494+00:00",
+  "LastChanged_Achievements": "2023-10-28T10:09:53.3751509+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:57:52.2895776+00:00",
-  "LastUpdate_Achievements": "2023-10-28T09:09:30.4609377+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:58:17.5349115+00:00",
+  "LastUpdate_Achievements": "2023-10-28T10:09:53.3752663+00:00"
 }
