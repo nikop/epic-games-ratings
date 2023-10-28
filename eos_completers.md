@@ -4,9 +4,9 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.03% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 42.02% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 42.01% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.16% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.88% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -34,7 +34,7 @@
 | 32 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 33 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 34 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 10.53% |
-| 35 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.47% |
+| 35 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.34% |
 | 36 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
 | 37 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.15% |
 | 38 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 10.00% |
@@ -75,7 +75,7 @@
 | 73 | [ZZT!](games/z/zzt!.md) | 4.49% |
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
 | 75 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.33% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.32% |
 | 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
@@ -128,7 +128,7 @@
 | 126 | [Night Book](games/n/night_book.md) | 1.72% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
 | 128 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.69% |
-| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.61% |
+| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.60% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.59% |
 | 131 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -164,13 +164,13 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 166 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.70% |
+| 164 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.74% |
+| 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 170 | [Eternights](games/e/eternights.md) | 0.64% |
-| 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.63% |
+| 170 | [Eternights](games/e/eternights.md) | 0.63% |
+| 170 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.63% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 174 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
