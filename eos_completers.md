@@ -3,15 +3,15 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.67% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.85% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.15% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.13% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.43% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 10 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 27.27% |
-| 11 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 11 | [Overloop](games/o/overloop.md) | 25.00% |
+| 10 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 10 | [Overloop](games/o/overloop.md) | 25.00% |
+| 10 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 25.00% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.92% |
 | 14 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.36% |
@@ -233,12 +233,12 @@
 | 230 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 230 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
 | 230 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
-| 234 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.20% |
 | 234 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
-| 236 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 236 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
-| 236 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
-| 236 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
+| 235 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 235 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.19% |
+| 235 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
+| 235 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |
+| 235 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.19% |
 | 240 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 241 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
 | 241 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
