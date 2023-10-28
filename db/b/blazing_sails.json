@@ -3,11 +3,11 @@
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1007,
-  "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 310,
+  "Ranking_Popularity": 351,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -567,18 +567,24 @@
       "Rating": 3.84,
       "NumberOfAwards": 537,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-10-28T16:00:33.2020078+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 565,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 537,
-  "NumberOfAwardsMax": 99,
-  "MaxAwardTitle": "Competitive Players",
+  "NumberOfAwards": 565,
+  "NumberOfAwardsMax": 101,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 84
+      "Count": 99
     },
     {
       "Text": "This game is Relaxing",
@@ -608,7 +614,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 88
+      "Count": 101
     },
     {
       "Text": "This game has Competitive Players",
@@ -647,8 +653,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-28T14:00:37.7118799+00:00",
+  "LastChanged": "2023-10-28T16:00:33.2020076+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:24.5469226+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:00:41.6348481+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:09:11.3865984+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:00:33.2020084+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:08:34.8940745+00:00"
 }

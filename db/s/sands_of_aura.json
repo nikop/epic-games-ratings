@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -154,6 +154,11 @@
     {
       "Time": "2023-10-28T14:03:49.0427963+00:00",
       "NumProgressed": 25,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T16:03:29.7724309+00:00",
+      "NumProgressed": 27,
       "NumCompleted": 0
     }
   ],
@@ -317,7 +322,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -365,7 +370,7 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -477,7 +482,7 @@
       "ID": "HOARD_GLINT",
       "SetID": "cm0d613",
       "Name": "A Sandwyrm\u0027s Hoard",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -541,7 +546,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -549,7 +554,7 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -565,15 +570,15 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -630,7 +635,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
@@ -638,8 +643,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:04:03.5786368+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:03:29.7724304+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:14.4187395+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:57:52.8619228+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:04:03.5787114+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:57:18.0679291+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:03:29.7724975+00:00"
 }

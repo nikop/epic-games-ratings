@@ -14,6 +14,7 @@ Rating: 4.19 (Ranked 905)
 | Two Heads Are Better Than One | 5.00% | ~816 |
 | Workplace Hazard | 5.00% | ~816 |
 | Reforged | 5.00% | ~816 |
+| If the SHU Fits... | 5.00% | ~816 |
 | Without A Paddle | 5.00% | ~816 |
 | In the Pipe, Five by Five | 5.00% | ~816 |
 | Desperate Times | 5.00% | ~816 |
@@ -21,7 +22,6 @@ Rating: 4.19 (Ranked 905)
 | You Need a Gun | 4.00% | ~653 |
 | I Do Belong Here | 4.00% | ~653 |
 | Terminated | 4.00% | ~653 |
-| If the SHU Fits... | 4.00% | ~653 |
 | What Lies Beneath | 4.00% | ~653 |
 | Crash Site | 4.00% | ~653 |
 | Full Circle | 4.00% | ~653 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,320 (Ranked 139)  
+Progressed: 16,321 (Ranked 139)  
 Completed: 78 (0.48%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 78 (0.48%) (Ranked 190)
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
 | 2023-10-27 | 16,311 | 77 |
-| 2023-10-28 | 16,320 | 78 |
+| 2023-10-28 | 16,321 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 379)  
 Sum: 460 (Ranked 325)  

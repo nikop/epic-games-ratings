@@ -5,33 +5,33 @@ Rating: 4.60 (Ranked 403)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,224 |
-| A Thorny Situation | 70.00% | ~5,079 |
-| ... And Spit Back Out | 60.00% | ~4,354 |
-| Break-Net Speed | 49.00% | ~3,555 |
-| Bramble Breaker | 46.00% | ~3,338 |
-| Miner 49er | 43.00% | ~3,120 |
-| Humble Collector | 42.00% | ~3,048 |
-| Calm Sailing | 36.00% | ~2,612 |
-| Open the Gate! | 33.00% | ~2,394 |
-| Mist Walker | 31.00% | ~2,249 |
-| Lumberjack | 26.00% | ~1,887 |
-| Oui, Chef! | 23.00% | ~1,669 |
-| Clear the Air | 18.00% | ~1,306 |
-| Botanical Breakthrough | 17.00% | ~1,234 |
-| Search for the Hairy Grell | 13.00% | ~943 |
-| Beach Comber | 13.00% | ~943 |
-| Higher Tax Bracket | 13.00% | ~943 |
-| Flaming Hot Completos | 8.00% | ~580 |
-| Got to Catch Them All | 8.00% | ~580 |
-| Rumble in the Jumble | 8.00% | ~580 |
-| Skilled | 8.00% | ~580 |
+| Azoria Beckons | 72.00% | ~5,230 |
+| A Thorny Situation | 70.00% | ~5,085 |
+| ... And Spit Back Out | 60.00% | ~4,358 |
+| Break-Net Speed | 48.00% | ~3,487 |
+| Bramble Breaker | 46.00% | ~3,341 |
+| Miner 49er | 43.00% | ~3,124 |
+| Humble Collector | 42.00% | ~3,051 |
+| Calm Sailing | 36.00% | ~2,615 |
+| Open the Gate! | 33.00% | ~2,397 |
+| Mist Walker | 31.00% | ~2,252 |
+| Lumberjack | 26.00% | ~1,889 |
+| Oui, Chef! | 23.00% | ~1,671 |
+| Clear the Air | 18.00% | ~1,308 |
+| Botanical Breakthrough | 17.00% | ~1,235 |
+| Search for the Hairy Grell | 13.00% | ~944 |
+| Beach Comber | 13.00% | ~944 |
+| Higher Tax Bracket | 13.00% | ~944 |
+| Flaming Hot Completos | 8.00% | ~581 |
+| Got to Catch Them All | 8.00% | ~581 |
+| Rumble in the Jumble | 8.00% | ~581 |
+| Skilled | 8.00% | ~581 |
 | Fae Farmer | 7.00% | ~508 |
 | Fanatical Farmer | 7.00% | ~508 |
-| Scattered Scroll Scrounger | 6.00% | ~435 |
-| Azorian Anniversary | 6.00% | ~435 |
+| Scattered Scroll Scrounger | 6.00% | ~436 |
+| Azorian Anniversary | 6.00% | ~436 |
 | I Now Pronounce You... | 5.00% | ~363 |
-| Chatty Neighbor | 4.00% | ~290 |
+| Chatty Neighbor | 4.00% | ~291 |
 | Right Tool For the Job | 3.00% | ~218 |
 | House Proud | 3.00% | ~218 |
 | Captain of Cozy | 2.00% | ~145 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 403)
 | Very Skilled | 0.20% | ~15 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,256 (Ranked 166)  
+Progressed: 7,264 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
 | 2023-10-27 | 7,234 | 0 |
-| 2023-10-28 | 7,256 | 0 |
+| 2023-10-28 | 7,264 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

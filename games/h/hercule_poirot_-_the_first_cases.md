@@ -32,7 +32,7 @@ Rating: 4.35 (Ranked 784)
 | Rehana Piette | 34.00% | ~150 |
 | Instinct is Marvellous | 32.00% | ~141 |
 | Ernesto da Silva | 32.00% | ~141 |
-| Inge Frank | 30.00% | ~132 |
+| Inge Frank | 31.00% | ~137 |
 | The Search | 30.00% | ~132 |
 | Hugo Beckers | 29.00% | ~128 |
 | The Family | 27.00% | ~119 |

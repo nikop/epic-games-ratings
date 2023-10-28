@@ -303,7 +303,7 @@
   "Tags": [],
   "EOS_Progressed": 24376,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6216,9 +6216,9 @@
       "ID": "ACH_ALL_HUNTCHALS",
       "SetID": "cdkbb11",
       "Name": "Mods Please Ban",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -6567,8 +6567,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:07:18.1807577+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:07:03.7271656+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:57:40.7454426+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:07:18.1808338+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:57:04.9193699+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:07:03.7272298+00:00"
 }

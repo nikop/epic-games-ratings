@@ -10,10 +10,10 @@ Number of Ratings: 743  (23.09.2022)
 | Say goodbye, creep! | 66.00% | ~28,864 |
 | Blood splattered | 66.00% | ~28,864 |
 | Choo choo! | 63.00% | ~27,552 |
-| Groovy | 62.00% | ~27,114 |
+| Groovy | 62.00% | ~27,115 |
 | Cleanup on aisle 4! | 57.00% | ~24,928 |
 | Gold | 51.00% | ~22,304 |
-| The boat can leave now...tell the crew | 49.00% | ~21,429 |
+| The boat can leave now...tell the crew | 49.00% | ~21,430 |
 | Give me something to shoot! | 47.00% | ~20,555 |
 | Stand back boy! | 47.00% | ~20,555 |
 | Chain reaction | 45.00% | ~19,680 |
@@ -22,18 +22,18 @@ Number of Ratings: 743  (23.09.2022)
 | Look mummy! A shark! | 41.00% | ~17,931 |
 | In the dark dark woods... | 39.00% | ~17,056 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,619 |
-| Double tap | 37.00% | ~16,181 |
-| Cranial blowout! | 37.00% | ~16,181 |
+| Double tap | 37.00% | ~16,182 |
+| Cranial blowout! | 37.00% | ~16,182 |
 | All of this has happened before… | 36.00% | ~15,744 |
 | Zombie killin' machine | 36.00% | ~15,744 |
 | Every bullet counts | 36.00% | ~15,744 |
-| All roads lead to Rome | 34.00% | ~14,869 |
-| You've got red on you | 34.00% | ~14,869 |
+| All roads lead to Rome | 34.00% | ~14,870 |
+| You've got red on you | 34.00% | ~14,870 |
 | You're all going to die down here | 32.00% | ~13,995 |
 | He did Nazi that coming | 32.00% | ~13,995 |
-| Kill of the week | 31.00% | ~13,557 |
+| Kill of the week | 31.00% | ~13,558 |
 | I never liked them anyway | 30.00% | ~13,120 |
-| Is it over? | 28.00% | ~12,245 |
+| Is it over? | 28.00% | ~12,246 |
 | Got your back | 27.00% | ~11,808 |
 | Gore soaked | 24.00% | ~10,496 |
 | Shock therapy | 23.00% | ~10,059 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~437 |
 | None more hard | 0.50% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,733 (Ranked 112)  
+Progressed: 43,734 (Ranked 112)  
 Completed: 25 (0.06%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 25 (0.06%) (Ranked 280)
 | 2023-10-25 | 43,717 | 25 |
 | 2023-10-26 | 43,722 | 25 |
 | 2023-10-27 | 43,729 | 25 |
-| 2023-10-28 | 43,733 | 25 |
+| 2023-10-28 | 43,734 | 25 |
 ## Awards
 Max (Great Boss Battles): 846  (Ranked 161)  
 Sum: 2,537 (Ranked 184)  

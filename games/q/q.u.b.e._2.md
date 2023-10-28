@@ -1,27 +1,27 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.45 (Ranked 653)  
+Rating: 4.46 (Ranked 634)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~25,398 |
-| Quick Understanding of Block Extrusion | 68.00% | ~23,028 |
-| Nature or Nurture | 51.00% | ~17,271 |
-| Power Glove | 49.00% | ~16,593 |
-| Forgotten Memories | 41.00% | ~13,884 |
-| Cogs in the Machine | 34.00% | ~11,514 |
-| Mission Success | 20.00% | ~6,773 |
-| There's No Place Like Home | 20.00% | ~6,773 |
-| Green Cube Killer | 17.00% | ~5,757 |
-| Infinity Loop | 14.00% | ~4,741 |
-| Path to Salvation | 14.00% | ~4,741 |
-| Descendants | 12.00% | ~4,064 |
-| The Flawed Teacher | 9.00% | ~3,048 |
-| To Infinity and Beyond | 5.00% | ~1,693 |
-| The Truthful Enemy | 3.00% | ~1,016 |
-| Laser Sharp | 2.00% | ~677 |
+| Lost in Space | 75.00% | ~25,419 |
+| Quick Understanding of Block Extrusion | 68.00% | ~23,047 |
+| Nature or Nurture | 51.00% | ~17,285 |
+| Power Glove | 49.00% | ~16,607 |
+| Forgotten Memories | 41.00% | ~13,896 |
+| Cogs in the Machine | 34.00% | ~11,523 |
+| Mission Success | 20.00% | ~6,778 |
+| There's No Place Like Home | 20.00% | ~6,778 |
+| Green Cube Killer | 17.00% | ~5,762 |
+| Infinity Loop | 14.00% | ~4,745 |
+| Path to Salvation | 14.00% | ~4,745 |
+| Descendants | 12.00% | ~4,067 |
+| The Flawed Teacher | 9.00% | ~3,050 |
+| To Infinity and Beyond | 5.00% | ~1,695 |
+| The Truthful Enemy | 3.00% | ~1,017 |
+| Laser Sharp | 2.00% | ~678 |
 | Bronze collector | 1.00% | ~339 |
 | Home Stretch | 1.00% | ~339 |
 | Get me out of here | 1.00% | ~339 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.60% | ~203 |
 | Expert Collector | 0.60% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,864 (Ranked 120)  
+Progressed: 33,892 (Ranked 120)  
 Completed: 91 (0.27%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.27%) (Ranked 221)
 | 2023-10-25 | 32,523 | 74 |
 | 2023-10-26 | 33,016 | 82 |
 | 2023-10-27 | 33,492 | 85 |
-| 2023-10-28 | 33,864 | 91 |
+| 2023-10-28 | 33,892 | 91 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -186,3 +186,4 @@ Completed: 91 (0.27%) (Ranked 221)
 | 2023-10-22 | 4.46 | - | 0 | 0 |
 | 2023-10-23 | 4.46 | - | 0 | 0 |
 | 2023-10-24 | 4.45 | - | 0 | 0 |
+| 2023-10-28 | 4.46 | - | 0 | 0 |

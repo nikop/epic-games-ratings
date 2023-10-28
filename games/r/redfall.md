@@ -19,14 +19,14 @@ Rating: 3.51 (Ranked 1,025)
 | Wounded Whispers | 1.00% | ~18 |
 | Catch and Release | 1.00% | ~18 |
 | Enter of Your Own Free Will | 0.90% | ~16 |
-| Heart Attack | 0.90% | ~16 |
 | Skin of Their Teeth | 0.90% | ~16 |
+| Heart Attack | 0.80% | ~14 |
 | Neighborhood Revitalization | 0.70% | ~12 |
 | Radio Silence | 0.70% | ~12 |
 | Bad Wiring | 0.60% | ~11 |
+| Bell-ringer | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |
 | Sic Transit Umbra | 0.50% | ~9 |
-| Bell-ringer | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Helping Hand | 0.50% | ~9 |
 | Silence Is Golden | 0.40% | ~7 |
@@ -72,7 +72,7 @@ Rating: 3.51 (Ranked 1,025)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,764 (Ranked 220)  
+Progressed: 1,765 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-20 | 1,759 | 0 |
 | 2023-10-23 | 1,761 | 0 |
 | 2023-10-24 | 1,763 | 0 |
-| 2023-10-28 | 1,764 | 0 |
+| 2023-10-28 | 1,765 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

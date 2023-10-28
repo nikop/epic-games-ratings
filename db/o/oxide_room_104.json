@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1181,9 +1181,9 @@
       "ID": "ACH_PICKLOCK",
       "SetID": "511e31d",
       "Name": "Nimble fingers",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1205,9 +1205,9 @@
       "ID": "ACH_ROOM104",
       "SetID": "511e31d",
       "Name": "Room 104",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_ROOM203",
@@ -1237,9 +1237,9 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1253,9 +1253,9 @@
       "ID": "ACH_WAREHOUSE",
       "SetID": "511e31d",
       "Name": "Now or never",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     }
   ],
   "AchievementSets": [
@@ -1268,8 +1268,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:07:15.3052055+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:07:00.50747+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.0797978+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:03:26.1140316+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:07:15.3052377+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:02:27.4201888+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:07:00.5074978+00:00"
 }

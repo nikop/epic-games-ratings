@@ -7,11 +7,11 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tutti Eroi! | 55.00% | ~3,898 |
-| Peak Performance | 54.00% | ~3,827 |
-| You Shall Not Pass | 54.00% | ~3,827 |
+| Peak Performance | 54.00% | ~3,828 |
+| You Shall Not Pass | 54.00% | ~3,828 |
 | Avanti Savoia! | 48.00% | ~3,402 |
 | Mamma Mia! | 38.00% | ~2,693 |
-| Conrad von Hotzensocks | 36.00% | ~2,551 |
+| Conrad von Hotzensocks | 36.00% | ~2,552 |
 | Gabriele D'Annunzio | 34.00% | ~2,410 |
 | Silver Lining | 31.00% | ~2,197 |
 | Aurelio Baruzzi | 24.00% | ~1,701 |
@@ -19,7 +19,7 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 22.00% | ~1,559 |
 | The Italian Job | 22.00% | ~1,559 |
 | Veni Vidi Vici | 22.00% | ~1,559 |
-| Insubordination | 20.00% | ~1,417 |
+| Insubordination | 20.00% | ~1,418 |
 | Ragazzi del '99 | 19.00% | ~1,347 |
 | The Lion of the Isonzo | 18.00% | ~1,276 |
 | Luigi Cadorna | 15.00% | ~1,063 |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 13.00% | ~921 |
 | Machiavelli | 13.00% | ~921 |
 | Thus With A Kiss | 13.00% | ~921 |
-| The Devil's Paintbrush | 12.00% | ~850 |
+| The Devil's Paintbrush | 12.00% | ~851 |
 | Dante's Inferno | 11.00% | ~780 |
 | Millenial | 11.00% | ~780 |
 | I Have the High Ground | 10.00% | ~709 |
@@ -39,8 +39,8 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 6.00% | ~425 |
 | The Enlightment | 6.00% | ~425 |
 | Generalissimo | 5.00% | ~354 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~283 |
-| Seeing Red | 4.00% | ~283 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~284 |
+| Seeing Red | 4.00% | ~284 |
 | Farewell to Arms | 3.00% | ~213 |
 | Ponte of No Return | 3.00% | ~213 |
 | Soča Drag | 3.00% | ~213 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,087 (Ranked 168)  
+Progressed: 7,088 (Ranked 168)  
 Completed: 9 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 9 (0.13%) (Ranked 249)
 | 2023-10-25 | 7,080 | 9 |
 | 2023-10-26 | 7,083 | 9 |
 | 2023-10-27 | 7,085 | 9 |
-| 2023-10-28 | 7,087 | 9 |
+| 2023-10-28 | 7,088 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 460)  
 Sum: 271 (Ranked 368)  

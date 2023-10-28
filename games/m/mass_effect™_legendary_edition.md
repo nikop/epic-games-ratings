@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~778 |
-| Spectre Inductee | 83.00% | ~687 |
+| Spectre Inductee | 84.00% | ~696 |
 | Medal of Exploration I | 76.00% | ~629 |
 | Recruit | 73.00% | ~604 |
 | Search and Rescue | 73.00% | ~604 |
@@ -38,27 +38,27 @@
 | The Professor | 42.00% | ~348 |
 | Power Full | 42.00% | ~348 |
 | The Archangel | 40.00% | ~331 |
+| Colony Defense | 39.00% | ~323 |
 | The Convict | 39.00% | ~323 |
-| Colony Defense | 38.00% | ~315 |
 | The Krogan | 38.00% | ~315 |
 | Galactic Explorer | 37.00% | ~306 |
 | Completionist | 36.00% | ~298 |
 | Ghost Ship | 36.00% | ~298 |
 | The Quarian | 36.00% | ~298 |
 | Broke, Blind, and Bedlam | 36.00% | ~298 |
+| The Assassin | 35.00% | ~290 |
+| Ghost of the Father | 35.00% | ~290 |
 | A Personal Touch | 34.00% | ~282 |
-| The Assassin | 34.00% | ~282 |
 | The Justicar | 34.00% | ~282 |
 | Catharsis | 34.00% | ~282 |
-| Ghost of the Father | 34.00% | ~282 |
 | The Cure | 34.00% | ~282 |
 | The Prodigal | 34.00% | ~282 |
+| Shopaholic | 34.00% | ~282 |
 | Archivist | 33.00% | ~273 |
 | Battlemaster | 33.00% | ~273 |
 | Big Game Hunter | 33.00% | ~273 |
 | Revenge! | 33.00% | ~273 |
 | Heart of Darkness | 33.00% | ~273 |
-| Shopaholic | 33.00% | ~273 |
 | Fade Away | 32.00% | ~265 |
 | Agent | 32.00% | ~265 |
 | Driven | 32.00% | ~265 |

@@ -3,9 +3,9 @@
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 413,
-  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EpicACHV_15",
@@ -614,9 +614,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EpicACHV_9",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:07:35.9134387+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:07:23.5277478+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7979571+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:00:29.5047987+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:07:35.9134561+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:00:20.5015593+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:07:23.5277639+00:00"
 }

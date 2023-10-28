@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1462,6 +1462,11 @@
       "Time": "2023-10-26T19:09:23.6510084+00:00",
       "NumProgressed": 436,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-28T16:09:21.3647375+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1489,7 +1494,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "findalltapes",
@@ -1553,7 +1558,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "scoreminrankrp2",
@@ -1592,7 +1597,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 2
     }
   ],
@@ -1600,8 +1605,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:09:53.392973+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:09:21.3647369+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.1155968+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:01:51.6040977+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:09:53.3929977+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:01:49.4665276+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:09:21.3647578+00:00"
 }

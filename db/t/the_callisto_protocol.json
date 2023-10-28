@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1379,7 +1379,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16320,
+  "EOS_Progressed": 16321,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 3,
@@ -8394,6 +8394,11 @@
       "Time": "2023-10-28T14:03:40.0633399+00:00",
       "NumProgressed": 16320,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-28T16:03:20.1902641+00:00",
+      "NumProgressed": 16321,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8603,9 +8608,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 816
     },
     {
       "ID": "STORY_HABITAT",
@@ -8780,13 +8785,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16320,
+      "Progressed": 16321,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4246,
+      "Progressed": 4247,
       "Completed": 29
     }
   ],
@@ -8794,8 +8799,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-28T11:01:09.1588505+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:03:55.2715782+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:03:20.1902635+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:01:53.5360667+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:03:55.2717118+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:01:51.5795612+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:03:20.1903922+00:00"
 }

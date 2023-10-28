@@ -2,7 +2,7 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 216,
@@ -366,7 +366,7 @@
   ],
   "EOS_Progressed": 1953,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2955,8 +2955,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:05:22.2193407+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:04:56.247223+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:58:55.198429+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:05:22.2194034+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:58:36.1276767+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:04:56.2472758+00:00"
 }

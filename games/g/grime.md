@@ -14,8 +14,8 @@ Number of Ratings: 46  (23.09.2022)
 | Harmless | 1.00% | ~1,552 |
 | Silenced Whispers | 1.00% | ~1,552 |
 | Devourer | 1.00% | ~1,552 |
-| Yank | 0.90% | ~1,396 |
-| Sharpened Vessel | 0.90% | ~1,396 |
+| Yank | 0.90% | ~1,397 |
+| Sharpened Vessel | 0.90% | ~1,397 |
 | Scion | 0.80% | ~1,238 |
 | Jawcrab | 0.80% | ~1,241 |
 | Jawstag | 0.80% | ~1,241 |
@@ -35,15 +35,15 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.40% | ~621 |
 | Breathsmith | 0.40% | ~621 |
 | Dream | 0.40% | ~619 |
-| Unwrap the Gift | 0.30% | ~465 |
-| Passage | 0.30% | ~465 |
+| Unwrap the Gift | 0.30% | ~466 |
+| Passage | 0.30% | ~466 |
 | Bloodhunter | 0.20% | ~310 |
-| Zygote | 0.20% | ~309 |
+| Zygote | 0.20% | ~310 |
 | Kinship | 0.20% | ~310 |
-| Kin | 0.20% | ~309 |
-| Listen | 0.20% | ~309 |
+| Kin | 0.20% | ~310 |
+| Listen | 0.20% | ~310 |
 | Proportions | 0.20% | ~310 |
-| Intensify | 0.20% | ~309 |
+| Intensify | 0.20% | ~310 |
 | Spiral Heart | 0.10% | ~155 |
 | Skinmaker | 0.10% | ~155 |
 | Instruments | 0.10% | ~155 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,157 (Ranked 73)  
+Progressed: 155,170 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 1 (0.00%) (Ranked 329)
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
-| 2023-10-28 | 155,157 | 1 |
+| 2023-10-28 | 155,170 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 424)  
 Sum: 324 (Ranked 349)  

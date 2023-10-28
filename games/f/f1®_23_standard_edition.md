@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 226)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,278 |
-| On the Top Step | 90.00% | ~3,106 |
-| Setting up for Success | 80.00% | ~2,761 |
-| Team Orders | 77.00% | ~2,657 |
-| Engineer | 57.00% | ~1,967 |
-| Familiar Faces | 51.00% | ~1,760 |
+| Getting on the Step | 95.00% | ~3,279 |
+| On the Top Step | 90.00% | ~3,107 |
+| Setting up for Success | 80.00% | ~2,762 |
+| Team Orders | 77.00% | ~2,658 |
+| Engineer | 57.00% | ~1,968 |
+| Familiar Faces | 51.00% | ~1,761 |
 | Going the Extra Mile | 45.00% | ~1,553 |
-| Sharing the Love | 44.00% | ~1,518 |
+| Sharing the Love | 44.00% | ~1,519 |
 | Hitting a Season | 43.00% | ~1,484 |
-| Challenge Yourself | 36.00% | ~1,242 |
+| Challenge Yourself | 36.00% | ~1,243 |
 | A Dozen Pieces | 35.00% | ~1,208 |
-| Making History | 34.00% | ~1,173 |
-| Writing a new Chapter | 28.00% | ~966 |
+| Making History | 34.00% | ~1,174 |
+| Writing a new Chapter | 28.00% | ~967 |
 | Network Success | 27.00% | ~932 |
 | Spring Cleaning | 25.00% | ~863 |
 | Reduce | 22.00% | ~759 |
@@ -30,9 +30,9 @@ Rating: 4.69 (Ranked 226)
 | Oil and Water | 16.00% | ~552 |
 | Hitting a Bullseye | 16.00% | ~552 |
 | Lightning Round the World | 15.00% | ~518 |
-| Spinning Around | 14.00% | ~483 |
 | Eagle Eye | 13.00% | ~449 |
 | All in a Weekend's Work | 13.00% | ~449 |
+| Spinning Around | 13.00% | ~449 |
 | Recycle | 13.00% | ~449 |
 | Switcheroo | 12.00% | ~414 |
 | Friendly Competition | 11.00% | ~380 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 226)
 | Elite Racer | 0.10% | ~3 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,451 (Ranked 195)  
+Progressed: 3,452 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 3,391 | 0 |
 | 2023-10-26 | 3,415 | 0 |
 | 2023-10-27 | 3,438 | 0 |
-| 2023-10-28 | 3,451 | 0 |
+| 2023-10-28 | 3,452 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

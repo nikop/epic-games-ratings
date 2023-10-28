@@ -20,6 +20,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.50% | ~4,471 |
 | The Hermit | 0.50% | ~4,471 |
 | The Wheel of Fortune | 0.50% | ~4,471 |
+| Two Heads, One Bullet | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
 | Bushido and Chill | 0.40% | ~3,577 |
 | Gunslinger | 0.40% | ~3,577 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.40% | ~3,577 |
 | The Jungle | 0.40% | ~3,577 |
 | True Warrior | 0.40% | ~3,577 |
-| Two Heads, One Bullet | 0.40% | ~3,577 |
 | Judy vs Night City | 0.40% | ~3,577 |
 | Spin Doctor | 0.40% | ~91 |
 | Relic Ruler | 0.40% | ~91 |
@@ -42,6 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.30% | ~2,683 |
 | The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~69 |
+| City Lights | 0.20% | ~1,788 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
 | The Star | 0.20% | ~1,788 |
@@ -51,7 +52,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.20% | ~46 |
 | King of Swords | 0.20% | ~46 |
 | The Tower | 0.20% | ~46 |
-| City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
 | Little Tokyo | 0.10% | ~894 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,238 (Ranked 15)  
-Completed: 2,722 (0.30%) (Ranked 214)  
+Progressed: 894,248 (Ranked 15)  
+Completed: 2,723 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,17 +263,17 @@ Completed: 2,722 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,238 | 2,722 |
+| 2023-10-28 | 894,248 | 2,723 |
 ## Awards
-Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 330,869 (Ranked 10)  
+Max (Character Customization): 102,340  (Ranked 9)  
+Sum: 331,348 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 102,038 |
+| This game has Inclusive Character Customization | 102,340 |
 | This game has Great Boss Battles | 73,045 |
 | This game is Great for Beginners | 19,211 |
-| This game has Diverse Characters | 18,872 |
+| This game has Diverse Characters | 19,049 |
 | This game is Highly Recommended | 18,153 |
 | This game has Amazing Storytelling | 18,043 |
 | This game is Extremely Fun | 17,917 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
-| 2023-10-28 | 4.64 | - | 102,038 | 330,869 |
+| 2023-10-28 | 4.64 | - | 102,340 | 331,348 |

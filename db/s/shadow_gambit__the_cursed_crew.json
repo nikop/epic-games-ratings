@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 782,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2397,6 +2397,11 @@
       "Time": "2023-10-28T15:10:01.1755038+00:00",
       "NumProgressed": 781,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T16:09:29.8159423+00:00",
+      "NumProgressed": 782,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2409,7 +2414,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2425,7 +2430,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2449,7 +2454,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_07_FinishAct3",
@@ -2473,7 +2478,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "_10_Completion_30",
@@ -2481,7 +2486,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "_11_Completion_40",
@@ -2537,7 +2542,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2616,7 +2621,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 782,
       "Completed": 26
     }
   ],
@@ -2624,8 +2629,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:10:01.1755028+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:09:29.8159417+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:58:32.3557+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:10:01.1755606+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:58:07.0575213+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:09:29.8159717+00:00"
 }

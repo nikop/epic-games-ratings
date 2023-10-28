@@ -34,7 +34,7 @@ Rating: 4.63 (Ranked 342)
 | Alpaca Space Program | 0.10% | ~232 |
 | High Priestess | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,582 (Ranked 62)  
+Progressed: 231,583 (Ranked 62)  
 Completed: 5 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 5 (0.00%) (Ranked 329)
 | 2023-10-25 | 231,469 | 5 |
 | 2023-10-26 | 231,510 | 5 |
 | 2023-10-27 | 231,539 | 5 |
-| 2023-10-28 | 231,582 | 5 |
+| 2023-10-28 | 231,583 | 5 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 511)  
 Sum: 25 (Ranked 517)  

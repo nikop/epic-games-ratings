@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3503,9 +3503,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51894,
+  "EOS_Progressed": 51895,
   "EOS_Completed": 244,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -13288,6 +13288,11 @@
       "Time": "2023-10-28T14:08:40.4581705+00:00",
       "NumProgressed": 51894,
       "NumCompleted": 244
+    },
+    {
+      "Time": "2023-10-28T16:08:23.0803989+00:00",
+      "NumProgressed": 51895,
+      "NumCompleted": 244
     }
   ],
   "TotalAchievements": 45,
@@ -13323,7 +13328,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40996
+      "UsersEstimate": 40997
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13411,7 +13416,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30617
+      "UsersEstimate": 30618
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13419,7 +13424,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24390
+      "UsersEstimate": 24391
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13435,7 +13440,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24909
+      "UsersEstimate": 24910
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -13459,7 +13464,7 @@
       "Name": "The Force Awakens",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14011
+      "UsersEstimate": 14012
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -13539,7 +13544,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30617
+      "UsersEstimate": 30618
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13563,7 +13568,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50337
+      "UsersEstimate": 50338
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13658,15 +13663,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51894,
+      "Progressed": 51895,
       "Completed": 244
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-10-26T22:59:28.4497553+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:09:00.8195544+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:08:23.0803982+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:59.1332855+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:01:10.7858706+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:09:00.819683+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:01:07.970215+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:08:23.0804795+00:00"
 }

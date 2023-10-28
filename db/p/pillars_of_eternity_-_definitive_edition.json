@@ -6,7 +6,7 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 3472,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
@@ -3219,9 +3219,9 @@
       "Count": 187
     }
   ],
-  "EOS_Progressed": 1094,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -3,
+  "EOS_NewPlayers": -2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2023-10-28T11:05:22.6156436+00:00",
       "NumProgressed": 1094,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-28T16:05:43.1480791+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -3484,7 +3489,7 @@
       "Name": "Trappy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_10",
@@ -3508,7 +3513,7 @@
       "Name": "5 Upgrades in Stronghold",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_13",
@@ -3620,7 +3625,7 @@
       "Name": "Herald of the Old Flame",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_27",
@@ -3684,7 +3689,7 @@
       "Name": "Watcher at the Breach",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_35",
@@ -3700,7 +3705,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_37",
@@ -3803,15 +3808,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1094,
+      "Progressed": 1095,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-10-28T14:00:42.1751497+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:06:05.6464207+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:05:43.1480786+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:56:57.7699152+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:00:45.5918515+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:06:05.6464691+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:00:37.6411367+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:05:43.148116+00:00"
 }

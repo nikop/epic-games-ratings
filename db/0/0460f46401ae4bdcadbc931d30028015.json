@@ -5,7 +5,7 @@
   "Ranking_Rating": 943,
   "Ranking_Popularity": 541,
   "Ranking_PopularitySum": 541,
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 120,
@@ -463,9 +463,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2861,
+  "EOS_Progressed": 2862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3508,6 +3508,11 @@
       "Time": "2023-10-28T15:05:36.2746239+00:00",
       "NumProgressed": 2861,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T16:05:10.9819236+00:00",
+      "NumProgressed": 2862,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3544,7 +3549,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "achievement_13",
@@ -3608,7 +3613,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "achievement_20",
@@ -3687,7 +3692,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2861,
+      "Progressed": 2862,
       "Completed": 0
     }
   ],
@@ -3695,8 +3700,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-26T22:59:05.7023101+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:05:36.2746233+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:05:10.981923+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:00:43.5650373+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:05:36.274662+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:00:35.2590414+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:05:10.9819555+00:00"
 }

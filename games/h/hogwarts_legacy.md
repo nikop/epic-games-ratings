@@ -5,38 +5,38 @@ Rating: 4.76 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,899 |
-| First Class Student | 14.00% | ~41,906 |
-| Troll with the Punches | 13.00% | ~38,913 |
-| A Keen Sense of Spell | 12.00% | ~35,919 |
-| That's a Keeper | 12.00% | ~35,919 |
-| Grappling with a Graphorn | 11.00% | ~32,926 |
-| The One Who Mastered Memories | 11.00% | ~32,926 |
-| The Hallowed Hero | 11.00% | ~32,926 |
-| The Defender of Dragons | 11.00% | ~32,926 |
-| Loom for Improvement | 11.00% | ~32,926 |
-| A Talent for Spending | 11.00% | ~32,926 |
-| Coasting Along | 11.00% | ~32,926 |
-| The Hero of Hogwarts | 10.00% | ~29,933 |
-| Challenge Accepted | 10.00% | ~29,933 |
-| Followed the Butterflies | 10.00% | ~29,933 |
-| The Spell Master | 9.00% | ~26,939 |
-| Rising From the Ashes | 9.00% | ~26,939 |
-| The Avenging Gazelle | 8.00% | ~23,946 |
-| Beast Friends | 8.00% | ~23,946 |
-| A Sallow Grave | 8.00% | ~23,946 |
-| Flight the Good Flight | 8.00% | ~23,946 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,901 |
+| First Class Student | 14.00% | ~41,908 |
+| Troll with the Punches | 13.00% | ~38,914 |
+| A Keen Sense of Spell | 12.00% | ~35,921 |
+| That's a Keeper | 12.00% | ~35,921 |
+| Grappling with a Graphorn | 11.00% | ~32,928 |
+| The One Who Mastered Memories | 11.00% | ~32,928 |
+| The Hallowed Hero | 11.00% | ~32,928 |
+| The Defender of Dragons | 11.00% | ~32,928 |
+| Loom for Improvement | 11.00% | ~32,928 |
+| A Talent for Spending | 11.00% | ~32,928 |
+| Coasting Along | 11.00% | ~32,928 |
+| The Hero of Hogwarts | 10.00% | ~29,934 |
+| Challenge Accepted | 10.00% | ~29,934 |
+| Followed the Butterflies | 10.00% | ~29,934 |
+| The Spell Master | 9.00% | ~26,941 |
+| Rising From the Ashes | 9.00% | ~26,941 |
+| The Avenging Gazelle | 8.00% | ~23,947 |
+| Beast Friends | 8.00% | ~23,947 |
+| A Sallow Grave | 8.00% | ~23,947 |
+| Flight the Good Flight | 8.00% | ~23,947 |
 | The Seeker of Knowledge | 6.00% | ~17,960 |
 | The Root of the Problem | 6.00% | ~17,960 |
 | Third Time's a Charm | 6.00% | ~17,960 |
 | Raising Expectations | 6.00% | ~17,960 |
-| The Toast of the Town | 5.00% | ~14,966 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,966 |
-| The Ends Petrify the Means | 5.00% | ~14,966 |
-| Going Through the Potions | 4.00% | ~11,973 |
-| Room with a View | 4.00% | ~11,973 |
-| The Intrepid Explorer | 4.00% | ~11,973 |
-| The Wise Owl | 4.00% | ~11,973 |
+| The Toast of the Town | 5.00% | ~14,967 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,967 |
+| The Ends Petrify the Means | 5.00% | ~14,967 |
+| Going Through the Potions | 4.00% | ~11,974 |
+| Room with a View | 4.00% | ~11,974 |
+| The Intrepid Explorer | 4.00% | ~11,974 |
+| The Wise Owl | 4.00% | ~11,974 |
 | Put Down Roots | 3.00% | ~8,980 |
 | The Auror's Apprentice | 3.00% | ~8,980 |
 | Floo Around the World | 3.00% | ~8,980 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 120)
 | The Nature of the Beast | 0.70% | ~2,095 |
 | Collector's Edition | 0.30% | ~898 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,327 (Ranked 48)  
+Progressed: 299,341 (Ranked 48)  
 Completed: 496 (0.17%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,15 +242,15 @@ Completed: 496 (0.17%) (Ranked 242)
 | 2023-10-25 | 298,885 | 493 |
 | 2023-10-26 | 299,029 | 495 |
 | 2023-10-27 | 299,185 | 496 |
-| 2023-10-28 | 299,327 | 496 |
+| 2023-10-28 | 299,341 | 496 |
 ## Awards
-Max (Character Customization): 23,830  (Ranked 17)  
-Sum: 46,807 (Ranked 30)  
+Max (Character Customization): 23,858  (Ranked 17)  
+Sum: 46,856 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23,830 |
-| This game has Great Boss Battles | 11,965 |
+| This game has Inclusive Character Customization | 23,858 |
+| This game has Great Boss Battles | 11,986 |
 | This game is Great for Beginners | 1,235 |
 | This game has Diverse Characters | 1,193 |
 | This game has Amazing Storytelling | 1,193 |
@@ -482,4 +482,4 @@ Diff (max vs sum): -13
 | 2023-10-25 | 4.76 | 23,781 | 46,629 |
 | 2023-10-26 | 4.76 | 23,806 | 46,709 |
 | 2023-10-27 | 4.76 | 23,830 | 46,785 |
-| 2023-10-28 | 4.76 | 23,830 | 46,807 |
+| 2023-10-28 | 4.76 | 23,858 | 46,856 |

@@ -34,11 +34,11 @@ Rating: 4.64 (Ranked 326)
 | Gunning For Your Job | 0.30% | ~73 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
+| Mods Please Ban | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~3 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
-| Mods Please Ban | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | A Starfish Is Born | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |

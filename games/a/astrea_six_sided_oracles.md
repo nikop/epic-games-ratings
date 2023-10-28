@@ -11,7 +11,7 @@
 | Endless Tricks | 32.00% | ~21 |
 | Mechanical Buddy | 32.00% | ~21 |
 | Sanctuary Guardian | 31.00% | ~20 |
-| Wild's Keeper | 29.00% | ~19 |
+| Wild's Keeper | 31.00% | ~20 |
 | Apian Champion | 29.00% | ~19 |
 | Eridanian Champion | 29.00% | ~19 |
 | Lacertian Champion | 29.00% | ~19 |

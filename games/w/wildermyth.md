@@ -14,7 +14,7 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 0.70% | ~10 |
 | This Too Shall Pass | 0.70% | ~10 |
 | Daybreak | 0.60% | ~9 |
-| Let Me Get My Chisel | 0.30% | ~4 |
+| Let Me Get My Chisel | 0.40% | ~6 |
 | Completing the Look | 0.30% | ~4 |
 | Who's Counting? | 0.30% | ~4 |
 | Thematic Divergence | 0.30% | ~4 |

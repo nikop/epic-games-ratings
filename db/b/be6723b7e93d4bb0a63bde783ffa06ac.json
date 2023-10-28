@@ -350,9 +350,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach7",
@@ -389,8 +389,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:06:04.6427775+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:05:41.9900926+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:00:20.800584+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:06:04.6428032+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:00:12.0589132+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:05:41.9901156+00:00"
 }

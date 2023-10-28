@@ -1267,9 +1267,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155157,
+  "EOS_Progressed": 155170,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1527,
+  "EOS_NewPlayers": 1509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13407,6 +13407,11 @@
       "Time": "2023-10-28T15:05:50.3520553+00:00",
       "NumProgressed": 155157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T16:05:26.2910721+00:00",
+      "NumProgressed": 155170,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13458,7 +13463,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -13674,7 +13679,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -13682,7 +13687,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13698,7 +13703,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -13706,7 +13711,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "QUEST_CHILD",
@@ -13730,7 +13735,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "QUEST_LISTENER",
@@ -13738,7 +13743,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "QUEST_YON",
@@ -13778,28 +13783,28 @@
       "Name": "Intensify",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154740,
+      "Progressed": 154753,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155157,
+      "Progressed": 155170,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T15:03:18.2362389+00:00",
-  "LastChanged_Achievements": "2023-10-28T15:05:50.3520542+00:00",
+  "LastChanged_Achievements": "2023-10-28T16:05:26.2910714+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:03:18.2362394+00:00",
-  "LastUpdate_Achievements": "2023-10-28T15:05:50.3522502+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:02:18.6641691+00:00",
+  "LastUpdate_Achievements": "2023-10-28T16:05:26.2911657+00:00"
 }

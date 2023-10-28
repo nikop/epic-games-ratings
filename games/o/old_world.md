@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 2.00% | ~300 |
 | Kushite Paganism | 2.00% | ~300 |
 | Regicide | 1.00% | ~150 |
+| Hanging Gardens in Babylon | 1.00% | ~150 |
 | Beloved | 1.00% | ~150 |
 | Drillmaster | 1.00% | ~150 |
 | Conqueror | 1.00% | ~150 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~150 |
 | Win a Single Player Game | 1.00% | ~150 |
 | Kushite Pyramids | 1.00% | ~150 |
-| Hanging Gardens in Babylon | 0.90% | ~135 |
 | Invincible | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,004 (Ranked 142)  
+Progressed: 15,005 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 297)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,004 | 5 |
+| 2023-10-28 | 15,005 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 268)  
 Sum: 1,854 (Ranked 211)  
