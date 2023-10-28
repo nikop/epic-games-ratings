@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,238 |
-| Worth it | 63.00% | ~38,961 |
-| Eagle Eye | 55.00% | ~34,014 |
-| Corpseman I | 40.00% | ~24,737 |
-| Blast fishing | 37.00% | ~22,882 |
-| Not alone | 32.00% | ~19,790 |
-| Headhunter I | 26.00% | ~16,079 |
-| Manual Labour I | 25.00% | ~15,461 |
-| Developers, Developers, Developers | 24.00% | ~14,842 |
-| Basic Training | 24.00% | ~14,842 |
+| Setting an example | 78.00% | ~48,241 |
+| Worth it | 63.00% | ~38,964 |
+| Eagle Eye | 55.00% | ~34,016 |
+| Corpseman I | 40.00% | ~24,739 |
+| Blast fishing | 37.00% | ~22,883 |
+| Not alone | 32.00% | ~19,791 |
+| Headhunter I | 26.00% | ~16,080 |
+| Manual Labour I | 25.00% | ~15,462 |
+| Developers, Developers, Developers | 24.00% | ~14,843 |
+| Basic Training | 24.00% | ~14,843 |
 | Furchtlos und Treu | 13.00% | ~8,040 |
-| Gott Mit Uns | 12.00% | ~7,421 |
+| Gott Mit Uns | 12.00% | ~7,422 |
 | This We'll Defend! | 9.00% | ~5,566 |
 | Anker wirf! | 9.00% | ~5,566 |
 | Providentiea Memor | 9.00% | ~5,566 |
 | For King and Country | 9.00% | ~5,566 |
-| Battle hardened | 8.00% | ~4,947 |
+| Battle hardened | 8.00% | ~4,948 |
 | Semper Fidelis! | 7.00% | ~4,329 |
 | Honneur et Patrie | 7.00% | ~4,329 |
 | In Treue Fest | 5.00% | ~3,092 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,843 (Ranked 103)  
+Progressed: 61,847 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,11 +257,11 @@ Completed: 4 (0.01%) (Ranked 308)
 | 2023-10-25 | 61,684 | 4 |
 | 2023-10-26 | 61,750 | 4 |
 | 2023-10-27 | 61,831 | 4 |
-| 2023-10-28 | 61,843 | 4 |
+| 2023-10-28 | 61,847 | 4 |
 ## Awards
-Max (Highly Recommended): 97  (Ranked 357)  
+Max (Highly Recommended): 97  (Ranked 358)  
 Sum: 777 (Ranked 276)  
-Diff (max vs sum): 81  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 97 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 63,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1193,10 +1193,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 322,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-28T07:02:33.9217708+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 323,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 322,
+  "NumberOfAwards": 323,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1216,7 +1222,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has a Creative Community",
@@ -1255,9 +1261,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155057,
+  "EOS_Progressed": 155065,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1533,
+  "EOS_NewPlayers": 1531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13350,6 +13356,11 @@
       "Time": "2023-10-28T06:04:30.8432632+00:00",
       "NumProgressed": 155057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T07:05:25.3737548+00:00",
+      "NumProgressed": 155065,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13505,7 +13516,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -13513,7 +13524,7 @@
       "Name": "Jawstag",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -13537,7 +13548,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -13728,21 +13739,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154640,
+      "Progressed": 154648,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155057,
+      "Progressed": 155065,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-28T05:01:31.0293463+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:04:30.8432621+00:00",
+  "LastChanged": "2023-10-28T07:02:33.9217705+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:05:25.3737542+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:00:41.0836992+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:04:30.843376+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:02:33.9217712+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:05:25.373918+00:00"
 }

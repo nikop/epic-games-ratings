@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1682,
+  "EOS_Progressed": 1683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4046,6 +4046,11 @@
       "Time": "2023-10-27T09:06:39.7300938+00:00",
       "NumProgressed": 1682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T07:06:39.3916888+00:00",
+      "NumProgressed": 1683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4249,7 +4254,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -4305,7 +4310,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -4440,7 +4445,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1682,
+      "Progressed": 1683,
       "Completed": 0
     }
   ],
@@ -4448,8 +4453,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:05:23.085941+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:06:39.3916882+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:58:52.2611701+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:05:23.0860098+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:59:51.6579072+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:06:39.3917572+00:00"
 }

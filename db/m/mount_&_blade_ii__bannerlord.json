@@ -8218,18 +8218,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15023,
       "NumberOfAwardsMax": 7283
+    },
+    {
+      "Time": "2023-10-28T06:57:43.6851339+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15036,
+      "NumberOfAwardsMax": 7296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15023,
-  "NumberOfAwardsMax": 7283,
+  "NumberOfAwards": 15036,
+  "NumberOfAwardsMax": 7296,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7283
+      "Count": 7296
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8298,7 +8304,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64037,
+  "EOS_Progressed": 64038,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
@@ -28433,6 +28439,11 @@
       "Time": "2023-10-28T06:08:36.1806083+00:00",
       "NumProgressed": 64037,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T07:09:04.2397484+00:00",
+      "NumProgressed": 64038,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28444,7 +28455,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7684
+      "UsersEstimate": 7685
     },
     {
       "ID": "Apple of my eye",
@@ -28668,7 +28679,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21132
+      "UsersEstimate": 21133
     },
     {
       "ID": "Lawbringer",
@@ -28676,7 +28687,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24974
+      "UsersEstimate": 24975
     },
     {
       "ID": "Lawmaker",
@@ -28836,7 +28847,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2561
+      "UsersEstimate": 2562
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -28851,15 +28862,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64037,
+      "Progressed": 64038,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-28T01:36:45.5383854+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:08:36.1806076+00:00",
+  "LastChanged": "2023-10-28T06:57:43.6851338+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:09:04.2397478+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:57:27.4560866+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:08:36.1807764+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:57:43.6851344+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:09:04.239919+00:00"
 }

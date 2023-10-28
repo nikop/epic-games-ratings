@@ -8,24 +8,24 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 62.00% | ~205 |
 | Cartographer | 55.00% | ~182 |
-| A Strange Artefact | 50.00% | ~165 |
+| A Strange Artefact | 50.00% | ~166 |
 | Insomnia | 46.00% | ~152 |
-| From Whence we Came | 41.00% | ~135 |
 | Lost & Found & Lost Again | 40.00% | ~132 |
-| Fire and Flood | 38.00% | ~125 |
+| From Whence we Came | 40.00% | ~132 |
+| Fire and Flood | 38.00% | ~126 |
 | Spooky! | 36.00% | ~119 |
 | Shennong Herbalist | 33.00% | ~109 |
 | Treasure Hunt | 32.00% | ~106 |
-| Good Mama | 31.00% | ~102 |
+| Good Mama | 31.00% | ~103 |
 | O Captain My Captain | 30.00% | ~99 |
 | Taxonomist | 27.00% | ~89 |
 | Plunderer | 27.00% | ~89 |
-| Uncertain Loyalties | 25.00% | ~82 |
 | Traveller | 24.00% | ~79 |
 | Nahua Seeker | 24.00% | ~79 |
+| Uncertain Loyalties | 24.00% | ~79 |
 | Roll to Save | 22.00% | ~73 |
 | Veteran Explorer | 20.00% | ~66 |
-| Red Flag Pirate | 18.00% | ~59 |
+| Red Flag Pirate | 18.00% | ~60 |
 | Iron Man | 17.00% | ~56 |
 | Shortening of the Way | 16.00% | ~53 |
 | A Gentle Beast | 16.00% | ~53 |
@@ -49,10 +49,10 @@ Number of Ratings: 20  (23.09.2022)
 | Level Up | 8.00% | ~26 |
 | Zookeeper | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
-| Islander Understanding | 5.00% | ~16 |
-| A Paris Sunset | 5.00% | ~16 |
-| The Director Perseveres | 5.00% | ~16 |
-| The Round Table | 5.00% | ~16 |
+| Islander Understanding | 5.00% | ~17 |
+| A Paris Sunset | 5.00% | ~17 |
+| The Director Perseveres | 5.00% | ~17 |
+| The Round Table | 5.00% | ~17 |
 | A Familiar Figure | 4.00% | ~13 |
 | X Marks the Spot | 4.00% | ~13 |
 | Frugal | 4.00% | ~13 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 316)  
+Progressed: 331 (Ranked 316)  
 Completed: 1 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 1 (0.30%) (Ranked 214)
 | 2023-10-24 | 327 | 1 |
 | 2023-10-25 | 328 | 1 |
 | 2023-10-26 | 330 | 1 |
+| 2023-10-28 | 331 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

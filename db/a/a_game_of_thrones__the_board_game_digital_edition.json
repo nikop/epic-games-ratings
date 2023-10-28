@@ -1290,7 +1290,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27010,
+  "EOS_Progressed": 27013,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 2,
@@ -21760,6 +21760,11 @@
       "Time": "2023-10-28T05:08:54.2496286+00:00",
       "NumProgressed": 27010,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-28T07:09:08.6274649+00:00",
+      "NumProgressed": 27013,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 22,
@@ -21795,7 +21800,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "1019",
@@ -21811,7 +21816,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "1021",
@@ -21891,7 +21896,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "1031",
@@ -21899,7 +21904,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "1032",
@@ -21907,7 +21912,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10804
+      "UsersEstimate": 10805
     },
     {
       "ID": "1033",
@@ -21931,7 +21936,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "1036",
@@ -21946,15 +21951,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27010,
+      "Progressed": 27013,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:08:39.4128719+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:09:08.6274644+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:02:59.3653927+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:08:39.4130138+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:03:12.6912489+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:09:08.6276328+00:00"
 }

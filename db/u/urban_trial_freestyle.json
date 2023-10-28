@@ -4,7 +4,7 @@
   "ProductSlug": "urban-trial-freestyle-b30b3e",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9728543+00:00",
   "LastChanged": "2023-03-31T05:57:09.9728544+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:00.7493604+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:59:25.1065368+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:08:56.488926+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:00:40.236523+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:09:32.1558098+00:00"
 }

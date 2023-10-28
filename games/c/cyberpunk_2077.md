@@ -44,6 +44,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
+| The Star | 0.20% | ~1,788 |
 | The Sun | 0.20% | ~1,788 |
 | It's Elementary | 0.20% | ~1,788 |
 | Judgement Day | 0.20% | ~46 |
@@ -57,7 +58,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Must Be Rats | 0.10% | ~894 |
 | The Wasteland | 0.10% | ~894 |
 | Daemon In The Shell | 0.10% | ~894 |
-| The Star | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
 | The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,147 (Ranked 15)  
+Progressed: 894,157 (Ranked 15)  
 Completed: 2,722 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 2,722 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,147 | 2,722 |
+| 2023-10-28 | 894,157 | 2,722 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 330,363 (Ranked 10)  
+Sum: 330,529 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -278,8 +278,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 18,043 |
 | This game is Extremely Fun | 17,760 |
 | This game has Amazing Characters | 17,702 |
+| This game is Relaxing | 17,098 |
 | This game has Quickly Understood Controls | 17,026 |
-| This game is Relaxing | 16,932 |
 | This game has a Creative Community | 11,764 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -566,4 +566,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
-| 2023-10-28 | 4.64 | - | 102,038 | 330,363 |
+| 2023-10-28 | 4.64 | - | 102,038 | 330,529 |

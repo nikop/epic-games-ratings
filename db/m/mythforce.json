@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4491,
+  "EOS_Progressed": 4492,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8224,6 +8224,11 @@
       "Time": "2023-10-28T01:48:44.668527+00:00",
       "NumProgressed": 4491,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-28T07:09:41.8072738+00:00",
+      "NumProgressed": 4492,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8292,7 +8297,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8300,7 +8305,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -8316,7 +8321,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -8332,7 +8337,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8364,7 +8369,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -8388,7 +8393,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8419,15 +8424,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4491,
+      "Progressed": 4492,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:09:03.3987177+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:09:41.8072732+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.8235469+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:58:05.5853184+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:09:03.3987812+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:58:37.5880919+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:09:41.8073374+00:00"
 }

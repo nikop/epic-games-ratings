@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22901,
+  "EOS_Progressed": 22902,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20893,6 +20893,11 @@
       "Time": "2023-10-28T05:03:12.7249146+00:00",
       "NumProgressed": 22901,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2023-10-28T07:03:24.0081019+00:00",
+      "NumProgressed": 22902,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 20,
@@ -21024,7 +21029,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17634
+      "UsersEstimate": 17635
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21032,7 +21037,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "NORTH_FINISHED",
@@ -21063,15 +21068,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22901,
+      "Progressed": 22902,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:03:05.212188+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:03:24.0081013+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:02:52.3179858+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:03:05.2123555+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:03:01.2612533+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:03:24.0082606+00:00"
 }

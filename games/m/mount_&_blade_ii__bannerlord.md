@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~24,974 |
-| Landlord | 33.00% | ~21,132 |
+| Lawbringer | 39.00% | ~24,975 |
+| Landlord | 33.00% | ~21,133 |
 | Bannerlord | 23.00% | ~14,729 |
 | Horde breaker | 23.00% | ~14,729 |
 | Lawmaker | 23.00% | ~14,729 |
@@ -18,7 +18,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I can do it | 16.00% | ~10,246 |
 | God of the Arena | 13.00% | ~8,325 |
 | This Is Our Land | 13.00% | ~8,325 |
-| Against all odds | 12.00% | ~7,684 |
+| Against all odds | 12.00% | ~7,685 |
 | Duelist | 10.00% | ~6,404 |
 | Dynasty | 10.00% | ~6,404 |
 | I spit on your grave | 10.00% | ~6,404 |
@@ -30,7 +30,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crowdfunded | 5.00% | ~3,202 |
 | Crush your enemies | 5.00% | ~3,202 |
 | My way | 5.00% | ~3,202 |
-| Veni vidi vici | 4.00% | ~2,561 |
+| Veni vidi vici | 4.00% | ~2,562 |
 | Freedom! | 3.00% | ~1,921 |
 | Long live the Empire! | 3.00% | ~1,921 |
 | Real Estate | 3.00% | ~1,921 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,037 (Ranked 102)  
+Progressed: 64,038 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,14 +249,14 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 63,927 | 0 |
 | 2023-10-26 | 63,985 | 0 |
 | 2023-10-27 | 64,025 | 0 |
-| 2023-10-28 | 64,037 | 0 |
+| 2023-10-28 | 64,038 | 0 |
 ## Awards
-Max (Character Customization): 7,283  (Ranked 52)  
-Sum: 15,023 (Ranked 66)  
+Max (Character Customization): 7,296  (Ranked 52)  
+Sum: 15,036 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,283 |
+| This game has Inclusive Character Customization | 7,296 |
 | This game is Great for Beginners | 1,025 |
 | This game has Diverse Characters | 975 |
 | This game is Highly Recommended | 907 |
@@ -557,4 +557,4 @@ Diff (max vs sum): -14
 | 2023-10-25 | 4.74 | - | 7,282 | 15,009 |
 | 2023-10-26 | 4.74 | - | 7,283 | 15,016 |
 | 2023-10-27 | 4.74 | - | 7,283 | 15,021 |
-| 2023-10-28 | 4.74 | - | 7,283 | 15,023 |
+| 2023-10-28 | 4.74 | - | 7,296 | 15,036 |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
@@ -2114,6 +2114,11 @@
       "Time": "2023-10-28T05:05:39.6102964+00:00",
       "NumProgressed": 489,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-28T07:06:19.40344+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2173,7 +2178,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2236,14 +2241,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:05:08.9133326+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:06:19.4034394+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:14.274091+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:59:03.8485777+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:05:08.913359+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:00:09.6149145+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:06:19.4034668+00:00"
 }

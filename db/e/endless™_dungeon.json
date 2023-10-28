@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 844,
+  "EOS_Progressed": 845,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 552,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -840,6 +840,11 @@
       "Time": "2023-10-28T06:03:14.1750957+00:00",
       "NumProgressed": 844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T07:03:36.4643031+00:00",
+      "NumProgressed": 845,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -882,9 +887,9 @@
       "ID": "ACHIEVEMENT_BLOB_BOSS",
       "SetID": "9991201",
       "Name": "Blobmeister",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 220
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -932,7 +937,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -996,7 +1001,7 @@
       "Name": "Hoarder",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1091,14 +1096,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 844,
+      "Progressed": 845,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T06:03:14.1750944+00:00",
+  "LastChanged_Achievements": "2023-10-28T07:03:36.4643024+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:00:17.9338615+00:00",
-  "LastUpdate_Achievements": "2023-10-28T06:03:14.1751249+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:01:56.4952428+00:00",
+  "LastUpdate_Achievements": "2023-10-28T07:03:36.4643362+00:00"
 }

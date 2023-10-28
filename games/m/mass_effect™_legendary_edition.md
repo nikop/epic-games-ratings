@@ -63,11 +63,11 @@
 | Agent | 32.00% | ~264 |
 | Cat's in the Cradle | 31.00% | ~255 |
 | Driven | 31.00% | ~255 |
+| Bringer of War | 31.00% | ~255 |
 | Focused | 30.00% | ~247 |
 | Doppelganger | 30.00% | ~247 |
 | Treason | 30.00% | ~247 |
 | Digital Exorcist | 30.00% | ~247 |
-| Bringer of War | 30.00% | ~247 |
 | Suicide Mission | 29.00% | ~239 |
 | Friend or Foe | 29.00% | ~239 |
 | Mobilizer | 29.00% | ~239 |
