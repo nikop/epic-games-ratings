@@ -296,7 +296,7 @@
 | 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 540 |
 | 287 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 540 |
 | 287 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 540 |
-| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 53 | 413 |
+| 287 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 54 | 412 |
 | 287 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,930 | 111 |
 | 287 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 56 | 408 |
 | 287 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 540 |
@@ -466,6 +466,7 @@
 | 462 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.57 | 9,679 | 40 |
 | 462 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 540 |
 | 462 | [Hob](games/h/hob.md) | 4.57 | 0 | 540 |
+| 462 | [Isonzo](games/i/isonzo.md) | 4.57 | 36 | 460 |
 | 462 | [IXION](games/i/ixion.md) | 4.57 | 0 | 540 |
 | 462 | [Minit](games/m/minit.md) | 4.57 | 0 | 540 |
 | 462 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,100 | 45 |
@@ -477,24 +478,23 @@
 | 462 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,790 | 118 |
 | 462 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 540 |
 | 462 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 79 | 378 |
-| 478 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 540 |
-| 478 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 427 |
-| 478 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 540 |
-| 478 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 414 |
-| 478 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 540 |
-| 478 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 893 | 157 |
-| 478 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 498 |
-| 478 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 540 |
-| 478 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 365 | 230 |
-| 478 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 301 | 243 |
-| 478 | [Hue](games/h/hue.md) | 4.56 | 0 | 540 |
-| 478 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 460 |
-| 478 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 540 |
-| 478 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,748 | 75 |
-| 478 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,813 | 115 |
-| 478 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 540 |
-| 478 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 481 |
-| 478 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,730 | 76 |
+| 479 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.56 | 0 | 540 |
+| 479 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 427 |
+| 479 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 540 |
+| 479 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 414 |
+| 479 | [Deceive Inc.](games/d/deceive_inc..md) | 4.56 | 0 | 540 |
+| 479 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 893 | 157 |
+| 479 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 498 |
+| 479 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 540 |
+| 479 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 365 | 230 |
+| 479 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 301 | 243 |
+| 479 | [Hue](games/h/hue.md) | 4.56 | 0 | 540 |
+| 479 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 540 |
+| 479 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,748 | 75 |
+| 479 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,813 | 115 |
+| 479 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 540 |
+| 479 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 481 |
+| 479 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,730 | 76 |
 | 496 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 540 |
 | 496 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 540 |
 | 496 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 540 |
@@ -638,7 +638,7 @@
 | 635 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 540 |
 | 635 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 540 |
 | 635 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 420 |
-| 635 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,655 | 89 |
+| 635 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,659 | 89 |
 | 635 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 540 |
 | 635 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 469 |
 | 635 | [Faeria](games/f/faeria.md) | 4.46 | 113 | 336 |

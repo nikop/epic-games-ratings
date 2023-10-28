@@ -3,9 +3,9 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.81% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.67% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.22% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.20% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.43% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -79,7 +79,7 @@
 | 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
-| 80 | [The Bunker](games/t/the_bunker.md) | 3.91% |
+| 80 | [The Bunker](games/t/the_bunker.md) | 3.88% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 82 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.75% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.73% |
@@ -91,7 +91,7 @@
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 90 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 91 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
-| 92 | [The Complex](games/t/the_complex.md) | 3.18% |
+| 92 | [The Complex](games/t/the_complex.md) | 3.17% |
 | 93 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.14% |
 | 94 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 95 | [Monster Harvest](games/m/monster_harvest.md) | 3.10% |
@@ -164,12 +164,12 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.72% |
-| 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.71% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 170 | [Eternights](games/e/eternights.md) | 0.65% |
+| 170 | [Eternights](games/e/eternights.md) | 0.64% |
 | 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.63% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
@@ -260,18 +260,18 @@
 | 258 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 258 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 258 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 258 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.10% |
 | 258 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
 | 258 | [Supraland](games/s/supraland.md) | 0.10% |
-| 264 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 264 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 264 | [Black Book](games/b/black_book.md) | 0.09% |
-| 264 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.09% |
-| 264 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
-| 264 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 264 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 264 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 264 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 263 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 263 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 263 | [Black Book](games/b/black_book.md) | 0.09% |
+| 263 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.09% |
+| 263 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
+| 263 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.09% |
+| 263 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 263 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 263 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 263 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 273 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 274 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 274 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
