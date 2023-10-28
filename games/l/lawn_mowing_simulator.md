@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~541,027 |
-| Every story has a beginning | 36.00% | ~243,462 |
-| The first of many | 31.00% | ~209,648 |
-| Positive word of mouth | 18.00% | ~121,731 |
-| Lawn in the U.S.A. | 15.00% | ~101,443 |
-| Blade Runner | 9.00% | ~60,866 |
-| Credible | 7.00% | ~47,340 |
-| Teamwork makes the dream work | 6.00% | ~40,577 |
-| Where there's muck there's brass | 4.00% | ~27,051 |
-| Bigger and better | 4.00% | ~27,051 |
-| Aggressive expansion | 4.00% | ~27,051 |
+| The dream begins | 80.00% | ~541,042 |
+| Every story has a beginning | 36.00% | ~243,469 |
+| The first of many | 31.00% | ~209,654 |
+| Positive word of mouth | 18.00% | ~121,734 |
+| Lawn in the U.S.A. | 15.00% | ~101,445 |
+| Blade Runner | 9.00% | ~60,867 |
+| Credible | 7.00% | ~47,341 |
+| Teamwork makes the dream work | 6.00% | ~40,578 |
+| Where there's muck there's brass | 4.00% | ~27,052 |
+| Bigger and better | 4.00% | ~27,052 |
+| Aggressive expansion | 4.00% | ~27,052 |
 | Size isn't everything | 3.00% | ~20,289 |
 | Close shave | 3.00% | ~20,289 |
 | Established | 3.00% | ~20,289 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~676 |
 | Mo mowers, mo problems | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,284 (Ranked 24)  
+Progressed: 676,302 (Ranked 24)  
 Completed: 17 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,11 +252,11 @@ Completed: 17 (0.00%) (Ranked 329)
 | 2023-10-25 | 675,537 | 17 |
 | 2023-10-26 | 675,742 | 17 |
 | 2023-10-27 | 675,991 | 17 |
-| 2023-10-28 | 676,284 | 17 |
+| 2023-10-28 | 676,302 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 291)  
-Sum: 982 (Ranked 255)  
-Diff (max vs sum): 36  
+Sum: 982 (Ranked 256)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

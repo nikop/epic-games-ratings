@@ -42,22 +42,22 @@ Rating: 4.50 (Ranked 579)
 | Welcome to the Crew | 1.00% | ~281 |
 | Reckless | 0.90% | ~253 |
 | Diabolical | 0.80% | ~225 |
-| Rivalry | 0.70% | ~197 |
+| Rivalry | 0.80% | ~225 |
 | Fragile Panes | 0.60% | ~169 |
 | Liability | 0.60% | ~169 |
 | Surprise! | 0.60% | ~169 |
 | Therapeutic | 0.40% | ~112 |
 | Master Collector | 0.30% | ~84 |
 | Rift Seeker | 0.30% | ~84 |
+| Ghost Expert | 0.20% | ~56 |
 | Catostrophic Destroyer | 0.10% | ~28 |
 | I don't need these | 0.10% | ~28 |
-| Ghost Expert | 0.10% | ~28 |
 | Line em' up | 0.10% | ~28 |
 | Little Help Here | 0.10% | ~28 |
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,091 (Ranked 123)  
+Progressed: 28,104 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 28,091 | 65 |
+| 2023-10-28 | 28,104 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
 Sum: 2,585 (Ranked 181)  

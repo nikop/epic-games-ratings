@@ -2,12 +2,12 @@
   "ID": "98bcea8e884042acb6a356c774f7af1a",
   "Name": "Wall World",
   "ProductSlug": "wall-world-02e132",
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 700,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-05T16:30:00+00:00",
@@ -163,6 +163,6 @@
   "FirstSeenRating": "2023-04-06T01:56:16.0671254+00:00",
   "LastChanged": "2023-10-25T16:58:52.1182102+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:53.2265095+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:59:26.5051335+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:06:11.3304736+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:59:14.3075692+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:05:58.0626366+00:00"
 }

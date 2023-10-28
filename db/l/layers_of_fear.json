@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-10-28T21:06:43.767159+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T22:06:29.3589867+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -183,7 +188,7 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -239,7 +244,7 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -263,7 +268,7 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -271,7 +276,7 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -287,7 +292,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -311,7 +316,7 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -319,7 +324,7 @@
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -327,7 +332,7 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -335,7 +340,7 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -343,7 +348,7 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -351,7 +356,7 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -431,7 +436,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -439,7 +444,7 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -487,7 +492,7 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -495,7 +500,7 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -519,7 +524,7 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -527,7 +532,7 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -535,7 +540,7 @@
       "ID": "tough_conversation",
       "SetID": "f2im8d",
       "Name": "Tough conversation",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -559,7 +564,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -576,14 +581,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:06:43.7671584+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:06:29.3589861+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:03:03.7931025+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:06:43.767198+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:03:01.8248788+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:06:29.3590223+00:00"
 }

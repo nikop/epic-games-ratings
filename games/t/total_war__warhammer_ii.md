@@ -1,11 +1,11 @@
 # Total War: WARHAMMER II
 [Store](https://store.epicgames.com/en-US/p/total-war-warhammer-ii)  
 [View Rawdata](../../db/t/total_war__warhammer_ii.json)  
-Rating: 4.70 (Ranked 210)  
+Rating: 4.70 (Ranked 211)  
 Number of Ratings: 1,169  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 4,645  (Ranked 77)  
-Sum: 14,619 (Ranked 71)  
+Sum: 14,620 (Ranked 71)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 6
 | This game has Challenging Combat | 1,042 |
 | This game is Extremely Fun | 1,042 |
 | This game has Amazing Characters | 1,000 |
-| This game has Amazing Storytelling | 994 |
+| This game has Amazing Storytelling | 995 |
 | This game has Quickly Understood Controls | 973 |
 | This game is Relaxing | 954 |
 | This game has Competitive Players | 937 |
@@ -315,4 +315,4 @@ Diff (max vs sum): 6
 | 2023-10-25 | 4.70 | - | 4,635 | 14,588 |
 | 2023-10-26 | 4.70 | - | 4,635 | 14,594 |
 | 2023-10-27 | 4.70 | - | 4,641 | 14,610 |
-| 2023-10-28 | 4.70 | - | 4,645 | 14,619 |
+| 2023-10-28 | 4.70 | - | 4,645 | 14,620 |

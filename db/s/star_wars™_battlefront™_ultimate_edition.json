@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-10-28T21:09:11.5682475+00:00",
       "NumProgressed": 887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T22:09:01.3079499+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2582,7 +2587,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_17",
@@ -2606,7 +2611,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_2",
@@ -2694,7 +2699,7 @@
       "Name": "On the ball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_3",
@@ -2718,7 +2723,7 @@
       "Name": "Scrap collector",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_32",
@@ -2734,7 +2739,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_34",
@@ -2750,7 +2755,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_36",
@@ -2766,7 +2771,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_38",
@@ -2790,7 +2795,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_40",
@@ -2798,7 +2803,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_41",
@@ -3014,7 +3019,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_9",
@@ -3029,13 +3034,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 1
     }
   ],
@@ -3043,8 +3048,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:09:11.5682469+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:09:01.3079495+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:58:01.1956669+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:09:11.5683362+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:57:51.9766605+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:09:01.3080134+00:00"
 }

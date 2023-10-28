@@ -2847,9 +2847,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28091,
+  "EOS_Progressed": 28104,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16842,6 +16842,11 @@
       "Time": "2023-10-28T21:03:34.5910313+00:00",
       "NumProgressed": 28091,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-28T22:03:31.7171435+00:00",
+      "NumProgressed": 28104,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17003,9 +17008,9 @@
       "ID": "Ghost_Expert",
       "SetID": "819popo",
       "Name": "Ghost Expert",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 56
     },
     {
       "ID": "Icing_Cake",
@@ -17107,9 +17112,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 225
     },
     {
       "ID": "Seasoned",
@@ -17260,7 +17265,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28091,
+      "Progressed": 28104,
       "Completed": 65
     }
   ],
@@ -17268,8 +17273,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-28T21:00:02.3811206+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:03:34.5910307+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:03:31.7171427+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:00:02.3811212+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:03:34.59119+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:59:49.0832303+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:03:31.7172413+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1379,9 +1379,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16330,
+  "EOS_Progressed": 16331,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8414,6 +8414,11 @@
       "Time": "2023-10-28T20:03:09.3668823+00:00",
       "NumProgressed": 16330,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-28T22:03:13.2669842+00:00",
+      "NumProgressed": 16331,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8545,7 +8550,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8569,7 +8574,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8593,7 +8598,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8625,7 +8630,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STORY_HABITAT",
@@ -8633,7 +8638,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STORY_HANGAR",
@@ -8641,7 +8646,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STORY_MINETOWN",
@@ -8657,7 +8662,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8800,13 +8805,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16330,
+      "Progressed": 16331,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4256,
+      "Progressed": 4257,
       "Completed": 29
     }
   ],
@@ -8814,8 +8819,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-28T11:01:09.1588505+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:03:15.032325+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:03:13.2669836+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:01:28.1388881+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:03:15.0324082+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:01:14.9163393+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:03:13.2670537+00:00"
 }

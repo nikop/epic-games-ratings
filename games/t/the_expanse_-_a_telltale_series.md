@@ -1,13 +1,13 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.59 (Ranked 423)  
+Rating: 4.60 (Ranked 404)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 2.00% | ~288 |
+| Oyedang, Kopengs | 2.00% | ~289 |
 | Drug Gifter | 0.80% | ~115 |
-| Bosmang | 0.60% | ~87 |
+| Bosmang | 0.70% | ~101 |
 | The Pit and the Pirates | 0.50% | ~72 |
 | Martian Music | 0.50% | ~72 |
 | Drone Dodger | 0.50% | ~72 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 423)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,425 (Ranked 145)  
+Progressed: 14,428 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 28 (0.19%) (Ranked 236)
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
-| 2023-10-28 | 14,425 | 28 |
+| 2023-10-28 | 14,428 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -170,3 +170,4 @@ Completed: 28 (0.19%) (Ranked 236)
 | 2023-10-21 | 4.59 | 0 | 0 |
 | 2023-10-24 | 4.60 | 0 | 0 |
 | 2023-10-26 | 4.59 | 0 | 0 |
+| 2023-10-28 | 4.60 | 0 | 0 |

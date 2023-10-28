@@ -6,29 +6,29 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~379 |
-| Cowardice | 61.00% | ~340 |
+| Explorer | 68.00% | ~380 |
+| Cowardice | 61.00% | ~341 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~285 |
-| Eat Lead! | 49.00% | ~273 |
+| Eat Lead! | 49.00% | ~274 |
 | The Breaking Point | 46.00% | ~257 |
-| Prospector | 45.00% | ~251 |
-| Here Comes the Boom | 45.00% | ~251 |
-| Treasure Hunter | 42.00% | ~234 |
-| Sniper Wolf | 42.00% | ~234 |
-| The Motivation | 40.00% | ~223 |
+| Prospector | 45.00% | ~252 |
+| Here Comes the Boom | 45.00% | ~252 |
+| Treasure Hunter | 42.00% | ~235 |
+| Sniper Wolf | 42.00% | ~235 |
+| The Motivation | 40.00% | ~224 |
 | Heroism | 38.00% | ~212 |
-| Missing in Action | 37.00% | ~206 |
-| Collectibles of Chapter I | 35.00% | ~195 |
-| King of Knives | 35.00% | ~195 |
-| Consequences | 34.00% | ~190 |
+| Missing in Action | 37.00% | ~207 |
+| Collectibles of Chapter I | 35.00% | ~196 |
+| King of Knives | 35.00% | ~196 |
+| Consequences | 33.00% | ~184 |
 | Opportunities | 33.00% | ~184 |
 | The Horror | 31.00% | ~173 |
-| The Difference | 28.00% | ~156 |
+| The Difference | 28.00% | ~157 |
 | Vengeance | 27.00% | ~151 |
 | Collectibles of Chapter II | 24.00% | ~134 |
 | Broken Hopes | 24.00% | ~134 |
-| It's Just an Accident | 23.00% | ~128 |
-| Bullseye! | 23.00% | ~128 |
+| It's Just an Accident | 23.00% | ~129 |
+| Bullseye! | 23.00% | ~129 |
 | Sorrow | 21.00% | ~117 |
 | Food Massacre | 20.00% | ~112 |
 | Atonement | 19.00% | ~106 |
@@ -41,9 +41,9 @@ Number of Ratings: 34  (23.09.2022)
 | Such is War! | 9.00% | ~50 |
 | Piece of Cake | 8.00% | ~45 |
 | Collectibles of Chapter XII | 7.00% | ~39 |
-| Collectibles of Chapter VII | 6.00% | ~33 |
-| The Good Samaritan | 6.00% | ~33 |
-| Not Spill a Drop | 6.00% | ~33 |
+| Collectibles of Chapter VII | 6.00% | ~34 |
+| The Good Samaritan | 6.00% | ~34 |
+| Not Spill a Drop | 6.00% | ~34 |
 | Collectibles of Chapter VIII | 5.00% | ~28 |
 | Collectibles of Chapter XI | 5.00% | ~28 |
 | It Will Rain | 5.00% | ~28 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 558 (Ranked 281)  
+Progressed: 559 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-22 | 552 | 0 |
 | 2023-10-23 | 556 | 0 |
 | 2023-10-27 | 557 | 0 |
-| 2023-10-28 | 558 | 0 |
+| 2023-10-28 | 559 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

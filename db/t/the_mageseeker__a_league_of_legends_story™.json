@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2610,
+  "EOS_Progressed": 2611,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3858,6 +3858,11 @@
       "Time": "2023-10-28T19:04:34.2032029+00:00",
       "NumProgressed": 2610,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-28T22:04:03.0203632+00:00",
+      "NumProgressed": 2611,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 53,
@@ -3933,7 +3938,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2506
+      "UsersEstimate": 2507
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3949,7 +3954,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3987,9 +3992,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 940
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3997,7 +4002,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -4045,7 +4050,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4053,7 +4058,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4085,7 +4090,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4117,7 +4122,7 @@
       "Name": "Sacred Woods",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4133,7 +4138,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -4173,7 +4178,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4213,7 +4218,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -4261,7 +4266,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -4285,14 +4290,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2610,
+      "Progressed": 2611,
       "Completed": 13
     }
   ],
@@ -4300,8 +4305,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:04:08.5123578+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:04:03.0203627+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.7626077+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:57:47.530247+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:04:08.5124443+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:57:41.1847613+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:04:03.020414+00:00"
 }

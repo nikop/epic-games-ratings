@@ -221,9 +221,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -645,9 +645,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:08:45.2263816+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:08:36.0738592+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:59:56.4986164+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:08:45.2264553+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:59:43.6951682+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:08:36.0739226+00:00"
 }

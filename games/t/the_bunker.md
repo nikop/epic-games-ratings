@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 91.00% | ~119 |
-| The Routine | 79.00% | ~103 |
-| Mother | 78.00% | ~102 |
-| Failure | 76.00% | ~100 |
-| Replace Fuse | 66.00% | ~86 |
-| Alarm | 65.00% | ~85 |
-| Air Filtration | 62.00% | ~81 |
-| Broken | 60.00% | ~79 |
-| Radiation | 59.00% | ~77 |
-| Descent | 58.00% | ~76 |
-| Awakenings | 57.00% | ~75 |
-| Cold Storage | 57.00% | ~75 |
-| Sam | 56.00% | ~73 |
-| Commissioner | 53.00% | ~69 |
-| Churchill | 50.00% | ~66 |
-| Leave | 49.00% | ~64 |
-| Doctor | 49.00% | ~64 |
-| Soldier | 49.00% | ~64 |
-| Engineer | 48.00% | ~63 |
-| Press Play | 37.00% | ~48 |
+| Last Goodbye | 91.00% | ~121 |
+| The Routine | 80.00% | ~106 |
+| Mother | 78.00% | ~104 |
+| Failure | 76.00% | ~101 |
+| Replace Fuse | 65.00% | ~86 |
+| Alarm | 64.00% | ~85 |
+| Air Filtration | 61.00% | ~81 |
+| Broken | 59.00% | ~78 |
+| Radiation | 58.00% | ~77 |
+| Descent | 57.00% | ~76 |
+| Awakenings | 56.00% | ~74 |
+| Cold Storage | 56.00% | ~74 |
+| Sam | 55.00% | ~73 |
+| Commissioner | 52.00% | ~69 |
+| Churchill | 49.00% | ~65 |
+| Leave | 48.00% | ~64 |
+| Doctor | 48.00% | ~64 |
+| Soldier | 48.00% | ~64 |
+| Engineer | 47.00% | ~63 |
+| Press Play | 36.00% | ~48 |
 | General | 28.00% | ~37 |
-| Bookworm | 24.00% | ~31 |
-| Floppy Disk Finder | 15.00% | ~20 |
-| Stay | 15.00% | ~20 |
-| Nurse | 11.00% | ~14 |
+| Bookworm | 24.00% | ~32 |
+| Floppy Disk Finder | 14.00% | ~19 |
+| Stay | 14.00% | ~19 |
+| Nurse | 11.00% | ~15 |
 | No Page Unturned | 6.00% | ~8 |
 | The Missing Piece | 6.00% | ~8 |
 | Friends | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 380)  
-Completed: 5 (3.82%) (Ranked 80)  
+Progressed: 133 (Ranked 379)  
+Completed: 5 (3.76%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,7 +72,7 @@ Completed: 5 (3.82%) (Ranked 80)
 | 2023-10-23 | 125 | 5 |
 | 2023-10-25 | 127 | 5 |
 | 2023-10-26 | 128 | 5 |
-| 2023-10-28 | 131 | 5 |
+| 2023-10-28 | 133 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

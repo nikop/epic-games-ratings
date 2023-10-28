@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
+| The Eternal Treaty | 0.30% | ~45 |
 | Assyria | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
-| The Eternal Treaty | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
 | Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |

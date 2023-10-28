@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 58.00% | ~14 |
-| Wanderer | 50.00% | ~12 |
-| Finished it | 38.00% | ~9 |
-| Do what you have to | 33.00% | ~8 |
-| A piece of the story | 33.00% | ~8 |
-| Refuse to look | 25.00% | ~6 |
-| The artist’s impression | 21.00% | ~5 |
-| It's covered up for a reason | 17.00% | ~4 |
-| Scraps of love | 17.00% | ~4 |
-| First steps | 17.00% | ~4 |
-| Playtime | 17.00% | ~4 |
-| Sign of weakness | 17.00% | ~4 |
-| The tragedy unfolds | 17.00% | ~4 |
-| Tough conversation | 17.00% | ~4 |
-| Breaking free | 13.00% | ~3 |
-| Face your fears | 13.00% | ~3 |
-| A Slice of Life | 13.00% | ~3 |
-| Debut | 13.00% | ~3 |
-| The art of movement | 13.00% | ~3 |
+| Something important | 56.00% | ~14 |
+| Wanderer | 48.00% | ~12 |
+| Finished it | 36.00% | ~9 |
+| Do what you have to | 32.00% | ~8 |
+| A piece of the story | 32.00% | ~8 |
+| Refuse to look | 24.00% | ~6 |
+| The artist’s impression | 20.00% | ~5 |
+| It's covered up for a reason | 16.00% | ~4 |
+| Scraps of love | 16.00% | ~4 |
+| First steps | 16.00% | ~4 |
+| Playtime | 16.00% | ~4 |
+| Sign of weakness | 16.00% | ~4 |
+| The tragedy unfolds | 16.00% | ~4 |
+| Tough conversation | 16.00% | ~4 |
+| Breaking free | 12.00% | ~3 |
+| Face your fears | 12.00% | ~3 |
+| A Slice of Life | 12.00% | ~3 |
+| Debut | 12.00% | ~3 |
+| The art of movement | 12.00% | ~3 |
 | A new way | 8.00% | ~2 |
 | Another perspective | 8.00% | ~2 |
 | Sound Bite | 8.00% | ~2 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 500)  
+Progressed: 25 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,4 +69,4 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-24 | 13 | 0 |
 | 2023-10-25 | 18 | 0 |
 | 2023-10-27 | 20 | 0 |
-| 2023-10-28 | 24 | 0 |
+| 2023-10-28 | 25 | 0 |

@@ -1991,7 +1991,7 @@
   ],
   "EOS_Progressed": 21207,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10003,9 +10003,9 @@
       "ID": "Negotiator",
       "SetID": "d0jo315",
       "Name": "Negotiator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 191
     },
     {
       "ID": "Perfectionist",
@@ -10075,8 +10075,8 @@
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-10-26T02:12:31.7620351+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:03:26.3139294+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:03:23.9660914+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:58.2691301+00:00",
-  "LastUpdate_Ratings": "2023-10-28T20:58:18.5891981+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:03:26.3140127+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:58:08.7149847+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:03:23.9661399+00:00"
 }

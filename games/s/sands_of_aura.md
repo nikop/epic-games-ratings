@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 86.00% | ~24 |
+| Setting Sail | 86.00% | ~25 |
 | A Small Thirsty Thing | 14.00% | ~4 |
 | Spirit Within | 14.00% | ~4 |
-| Dousing a Venerable Flame | 11.00% | ~3 |
-| A Sandwyrm's Hoard | 11.00% | ~3 |
-| Advanced Armaments | 11.00% | ~3 |
+| Dousing a Venerable Flame | 10.00% | ~3 |
+| A Sandwyrm's Hoard | 10.00% | ~3 |
+| Advanced Armaments | 10.00% | ~3 |
 | Leisis Bless You | 7.00% | ~2 |
-| Rain Must Fall | 4.00% | ~1 |
-| Overboard | 4.00% | ~1 |
-| Sommelier | 4.00% | ~1 |
-| Bladesmith | 4.00% | ~1 |
-| Smotherly Love | 4.00% | ~1 |
-| Let Me Solo Them | 4.00% | ~1 |
-| Explorer | 4.00% | ~1 |
-| The River Styx | 4.00% | ~1 |
-| The Guardian of Fire | 4.00% | ~1 |
-| Sovereignty of Irons | 4.00% | ~1 |
-| Transformative Nature | 4.00% | ~1 |
-| Champion of Starspire | 4.00% | ~1 |
+| Rain Must Fall | 3.00% | ~1 |
+| Overboard | 3.00% | ~1 |
+| Sommelier | 3.00% | ~1 |
+| Bladesmith | 3.00% | ~1 |
+| Smotherly Love | 3.00% | ~1 |
+| Let Me Solo Them | 3.00% | ~1 |
+| Explorer | 3.00% | ~1 |
+| The River Styx | 3.00% | ~1 |
+| The Guardian of Fire | 3.00% | ~1 |
+| Sovereignty of Irons | 3.00% | ~1 |
+| Transformative Nature | 3.00% | ~1 |
+| Champion of Starspire | 3.00% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 485)  
+Progressed: 29 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-24 | 12 | 0 |
 | 2023-10-26 | 14 | 0 |
 | 2023-10-27 | 17 | 0 |
-| 2023-10-28 | 28 | 0 |
+| 2023-10-28 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

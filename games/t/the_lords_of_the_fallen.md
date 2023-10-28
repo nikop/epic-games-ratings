@@ -69,7 +69,7 @@ Rating: 4.17 (Ranked 919)
 | A Rest Among the Dead | 0.10% | ~1 |
 | A Trace of Venom | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 240)  
+Progressed: 1,115 (Ranked 240)  
 Completed: 1 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.09%) (Ranked 264)
 | 2023-10-25 | 820 | 1 |
 | 2023-10-26 | 935 | 1 |
 | 2023-10-27 | 1,030 | 1 |
-| 2023-10-28 | 1,112 | 1 |
+| 2023-10-28 | 1,115 | 1 |
 ## Awards
 Max (Character Customization): 99  (Ranked 352)  
 Sum: 159 (Ranked 412)  

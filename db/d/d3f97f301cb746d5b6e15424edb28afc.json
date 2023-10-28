@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1293,9 +1293,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1397,9 +1397,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -1429,9 +1429,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -1444,8 +1444,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:04:37.7123486+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:04:30.3462312+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:01:31.5977312+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:04:37.7124595+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:01:20.0773812+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:04:30.3463163+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "explodeItem10",
       "SetID": "ci65fo0",
       "Name": "Demoman",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "explodeItem100",
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:08:27.7792614+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:08:19.5523979+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:27.1514657+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:01:10.9812395+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:08:27.7793434+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:00:55.9108222+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:08:19.5524622+00:00"
 }

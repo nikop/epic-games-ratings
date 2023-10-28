@@ -2,12 +2,12 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 210,
+  "Ranking_Rating": 193,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 504,
   "RatingHistory": [
     {
@@ -1332,10 +1332,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 633,
       "NumberOfAwardsMax": 444
+    },
+    {
+      "Time": "2023-10-28T22:00:23.6851664+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 634,
+      "NumberOfAwardsMax": 444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 633,
+  "NumberOfAwards": 634,
   "NumberOfAwardsMax": 444,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1367,7 +1373,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1405,8 +1411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2023-10-27T04:59:04.7196388+00:00",
+  "LastChanged": "2023-10-28T22:00:23.6851662+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:41.7081305+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:00:37.9684935+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:06:56.0300446+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:00:23.6851667+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:06:40.9625416+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 88.00% | ~612 |
-| All Bark, No Bite | 77.00% | ~536 |
-| Hopeful Hunter | 68.00% | ~473 |
-| Amateur Adventurer | 65.00% | ~452 |
-| The Road to Recovery | 64.00% | ~445 |
-| Partners? | 63.00% | ~438 |
+| Plenty More to Go | 88.00% | ~613 |
+| All Bark, No Bite | 77.00% | ~537 |
+| Hopeful Hunter | 67.00% | ~467 |
+| Amateur Adventurer | 65.00% | ~453 |
+| The Road to Recovery | 64.00% | ~446 |
+| Partners? | 62.00% | ~432 |
 | Magical Mineral Golem | 56.00% | ~390 |
 | On Outlander Lane | 55.00% | ~383 |
 | First Time Fishing | 52.00% | ~362 |
 | A Girl About the Town | 51.00% | ~355 |
 | First Time Hunting | 50.00% | ~348 |
-| Rune Wall Wreckage | 49.00% | ~341 |
-| ...And Your Tax Money | 47.00% | ~327 |
-| The Lords of the Snowpeak | 41.00% | ~285 |
+| Rune Wall Wreckage | 49.00% | ~342 |
+| ...And Your Tax Money | 47.00% | ~328 |
+| The Lords of the Snowpeak | 41.00% | ~286 |
 | The Go-To Girl | 37.00% | ~258 |
 | Scavenger's Honor | 37.00% | ~258 |
 | Natural Born Monster-Killer | 37.00% | ~258 |
@@ -41,7 +41,7 @@ Number of Ratings: 48  (23.09.2022)
 | New Nevaeh's Number One Customer | 21.00% | ~146 |
 | Arms Master | 19.00% | ~132 |
 | Rune Scholar | 17.00% | ~118 |
-| No Treasure Left Behind | 14.00% | ~97 |
+| No Treasure Left Behind | 13.00% | ~91 |
 | One-Hundred Resident Record | 12.00% | ~84 |
 | Sommelier | 12.00% | ~84 |
 | Champion of the Great Forest | 12.00% | ~84 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~56 |
 | Rising Champion | 7.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 266)  
-Completed: 60 (8.62%) (Ranked 42)  
+Progressed: 697 (Ranked 266)  
+Completed: 60 (8.61%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 60 (8.62%) (Ranked 42)
 | 2023-10-05 | 692 | 60 |
 | 2023-10-20 | 693 | 60 |
 | 2023-10-21 | 695 | 60 |
-| 2023-10-28 | 696 | 60 |
+| 2023-10-28 | 697 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

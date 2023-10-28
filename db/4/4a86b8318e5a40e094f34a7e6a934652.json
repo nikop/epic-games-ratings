@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -995,9 +995,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "TAKE_LEECH",
@@ -1011,9 +1011,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
@@ -1026,8 +1026,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:04:16.5554146+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:04:10.4076358+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.9146972+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:00:01.9020669+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:04:16.5554366+00:00"
+  "LastUpdate_Ratings": "2023-10-28T21:59:50.4818928+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:04:10.4076516+00:00"
 }

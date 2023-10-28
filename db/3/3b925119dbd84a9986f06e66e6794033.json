@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -319,6 +319,11 @@
       "Time": "2023-10-28T17:09:22.2149969+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T22:08:26.6088563+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -355,13 +360,13 @@
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 35
     },
@@ -401,9 +406,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -441,7 +446,7 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
       "UsersEstimate": 61
     },
@@ -451,7 +456,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -490,14 +495,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-28T21:08:35.1331076+00:00",
+  "LastChanged_Achievements": "2023-10-28T22:08:26.6088557+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:00:52.7195812+00:00",
-  "LastUpdate_Achievements": "2023-10-28T21:08:35.1331237+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:00:38.469507+00:00",
+  "LastUpdate_Achievements": "2023-10-28T22:08:26.6088685+00:00"
 }
