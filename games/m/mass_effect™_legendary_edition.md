@@ -98,9 +98,9 @@
 | Fact Finder | 20.00% | ~164 |
 | Last Resort | 19.00% | ~156 |
 | Well Connected | 19.00% | ~156 |
+| Sabotage Specialist | 18.00% | ~148 |
 | Executioner | 18.00% | ~148 |
 | Electronics Specialist | 17.00% | ~140 |
-| Sabotage Specialist | 17.00% | ~140 |
 | Patriot | 17.00% | ~140 |
 | Master and Commander | 17.00% | ~140 |
 | Throw Mastery | 16.00% | ~131 |

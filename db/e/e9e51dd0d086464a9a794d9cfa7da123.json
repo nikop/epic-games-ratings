@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 609,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-10-27T22:10:29.4284699+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T00:09:46.7720434+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -196,7 +201,7 @@
       "ID": "Flattery",
       "SetID": "2621k8c",
       "Name": "Flattery",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -292,7 +297,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -308,7 +313,7 @@
       "ID": "Ignore",
       "SetID": "2621k8c",
       "Name": "Ignore",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -444,7 +449,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -468,7 +473,7 @@
       "ID": "Otaku",
       "SetID": "2621k8c",
       "Name": "Otaku",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -588,7 +593,7 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -604,7 +609,7 @@
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -708,7 +713,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -797,13 +802,13 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:09:48.2597817+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:09:46.7720428+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:58:01.2720507+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:09:48.2599068+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:58:07.4397633+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:09:46.7721609+00:00"
 }

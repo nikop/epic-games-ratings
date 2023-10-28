@@ -4,7 +4,7 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 467,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
@@ -263,9 +263,9 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "completeFall",
@@ -319,9 +319,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "goldOnAllLevels",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:09:10.1533697+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:09:14.3764572+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.4882167+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:00:13.6094177+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:09:10.1533903+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:59:55.9862974+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:09:14.3764728+00:00"
 }

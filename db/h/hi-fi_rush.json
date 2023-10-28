@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4178,
+  "EOS_Progressed": 4180,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7149,6 +7149,11 @@
       "Time": "2023-10-27T19:05:21.0574561+00:00",
       "NumProgressed": 4178,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T00:04:56.3960335+00:00",
+      "NumProgressed": 4180,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7208,7 +7213,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Ach008",
@@ -7336,7 +7341,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Ach024",
@@ -7352,7 +7357,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "Ach026",
@@ -7398,9 +7403,9 @@
       "ID": "Ach031",
       "SetID": "12n4k20",
       "Name": "Perfect Parry",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 502
     },
     {
       "ID": "Ach032",
@@ -7408,7 +7413,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Ach033",
@@ -7727,13 +7732,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4178,
+      "Progressed": 4180,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2699,
+      "Progressed": 2701,
       "Completed": 1930
     }
   ],
@@ -7741,8 +7746,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:04:53.5231146+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:04:56.3960329+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:58:19.5069994+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:04:53.523407+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:58:21.7513727+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:04:56.3961599+00:00"
 }

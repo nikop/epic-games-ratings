@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -757,9 +757,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3012,
+  "EOS_Progressed": 3013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4132,6 +4132,11 @@
       "Time": "2023-10-27T23:07:30.5941714+00:00",
       "NumProgressed": 3012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T00:07:09.7895609+00:00",
+      "NumProgressed": 3013,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4176,7 +4181,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "achievement_14",
@@ -4192,7 +4197,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "achievement_16",
@@ -4311,7 +4316,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3012,
+      "Progressed": 3013,
       "Completed": 0
     }
   ],
@@ -4319,8 +4324,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-26T23:59:51.3475176+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:07:30.5941709+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:07:09.7895604+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:01:57.5810999+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:07:30.5942316+00:00"
+  "LastUpdate_Ratings": "2023-10-28T00:01:23.7875546+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:07:09.7895944+00:00"
 }

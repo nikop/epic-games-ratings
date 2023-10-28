@@ -5,7 +5,7 @@ Rating: 3.94 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 2.00% | ~1,787 |
+| First One’s Free | 2.00% | ~1,788 |
 | Neophyte Ninja | 1.00% | ~894 |
 | Underworld Initiate | 1.00% | ~894 |
 | Downed but Not Outed | 1.00% | ~894 |
@@ -22,9 +22,9 @@ Rating: 3.94 (Ranked 994)
 | Track Star | 0.60% | ~536 |
 | True Player | 0.60% | ~536 |
 | Headhunter | 0.50% | ~447 |
-| I Like Trains | 0.40% | ~357 |
-| Freebooter | 0.40% | ~357 |
-| Moneybags | 0.40% | ~357 |
+| I Like Trains | 0.40% | ~358 |
+| Freebooter | 0.40% | ~358 |
+| Moneybags | 0.40% | ~358 |
 | Legend Looter | 0.30% | ~268 |
 | Imports and Exports | 0.30% | ~268 |
 | Savvy Seeker | 0.30% | ~268 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 994)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,374 (Ranked 88)  
+Progressed: 89,375 (Ranked 88)  
 Completed: 53 (0.06%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 53 (0.06%) (Ranked 279)
 | 2023-10-25 | 89,327 | 52 |
 | 2023-10-26 | 89,347 | 53 |
 | 2023-10-27 | 89,374 | 53 |
+| 2023-10-28 | 89,375 | 53 |
 ## Awards
 Max (Diverse Characters): 512  (Ranked 204)  
 Sum: 2,895 (Ranked 175)  

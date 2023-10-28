@@ -11277,9 +11277,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440786,
+  "EOS_Progressed": 440810,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5300,
+  "EOS_NewPlayers": 5301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32987,6 +32987,11 @@
       "Time": "2023-10-27T23:03:13.4782551+00:00",
       "NumProgressed": 440786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T00:03:39.9068605+00:00",
+      "NumProgressed": 440810,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33998,7 +34003,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17631
+      "UsersEstimate": 17632
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35662,7 +35667,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17631
+      "UsersEstimate": 17632
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35694,7 +35699,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17631
+      "UsersEstimate": 17632
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35829,21 +35834,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440786,
+      "Progressed": 440810,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440786,
+      "Progressed": 440810,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-27T17:57:30.3441456+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:03:13.4782544+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:03:39.9068599+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:57:53.8257213+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:03:13.4812862+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:58:00.4826337+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:03:39.908328+00:00"
 }

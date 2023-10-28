@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4275,9 +4275,9 @@
       "Count": 470
     }
   ],
-  "EOS_Progressed": 89374,
+  "EOS_Progressed": 89375,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23310,6 +23310,11 @@
       "Time": "2023-10-27T23:08:38.8737124+00:00",
       "NumProgressed": 89374,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-28T00:08:47.9784924+00:00",
+      "NumProgressed": 89375,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 41,
@@ -23401,7 +23406,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0050",
@@ -23417,7 +23422,7 @@
       "Name": "Freebooter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0061",
@@ -23457,7 +23462,7 @@
       "Name": "Moneybags",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0200",
@@ -23465,7 +23470,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH_0210",
@@ -23648,13 +23653,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89374,
+      "Progressed": 89375,
       "Completed": 53
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17721,
+      "Progressed": 17722,
       "Completed": 15554
     }
   ],
@@ -23662,8 +23667,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-27T14:00:06.0068188+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:08:38.8737115+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:08:47.9784918+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.0531076+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:00:08.8640061+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:08:38.8738757+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:59:52.1754287+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:08:47.9786399+00:00"
 }

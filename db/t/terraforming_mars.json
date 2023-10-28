@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2965,9 +2965,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 80461,
+  "EOS_Progressed": 80464,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -24070,6 +24070,11 @@
       "Time": "2023-10-27T23:06:31.5975423+00:00",
       "NumProgressed": 80461,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-10-28T00:06:19.0132227+00:00",
+      "NumProgressed": 80464,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 30,
@@ -24097,7 +24102,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3218
+      "UsersEstimate": 3219
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -24105,7 +24110,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18506
+      "UsersEstimate": 18507
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -24113,7 +24118,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -24145,7 +24150,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -24161,7 +24166,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29771
+      "UsersEstimate": 29772
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -24169,7 +24174,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22529
+      "UsersEstimate": 22530
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -24217,7 +24222,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 20920
+      "UsersEstimate": 20921
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -24241,7 +24246,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -24249,7 +24254,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12069
+      "UsersEstimate": 12070
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -24257,7 +24262,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 28966
+      "UsersEstimate": 28967
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -24265,7 +24270,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -24281,7 +24286,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -24297,7 +24302,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9655
+      "UsersEstimate": 9656
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -24320,15 +24325,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80461,
+      "Progressed": 80464,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-27T22:59:54.3525656+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:06:31.5975417+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:06:19.0132219+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:10.8498885+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:59:54.3525665+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:06:31.5977688+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:59:41.4852073+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:06:19.0133748+00:00"
 }

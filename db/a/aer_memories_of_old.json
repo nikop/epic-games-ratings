@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22887,
+  "EOS_Progressed": 22888,
   "EOS_Completed": 445,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -20868,6 +20868,11 @@
       "Time": "2023-10-27T23:08:31.799871+00:00",
       "NumProgressed": 22887,
       "NumCompleted": 445
+    },
+    {
+      "Time": "2023-10-28T00:08:41.9056949+00:00",
+      "NumProgressed": 22888,
+      "NumCompleted": 445
     }
   ],
   "TotalAchievements": 20,
@@ -20935,7 +20940,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -20951,7 +20956,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -20991,7 +20996,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2747
     },
     {
       "ID": "INTRO_FINISHED",
@@ -20999,15 +21004,15 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17623
+      "UsersEstimate": 17624
     },
     {
       "ID": "LAMBABY_LOVE",
       "SetID": "b6m2mm5",
       "Name": "Mama?",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6408
+      "UsersEstimate": 6180
     },
     {
       "ID": "NORTH_FINISHED",
@@ -21038,15 +21043,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 22887,
+      "Progressed": 22888,
       "Completed": 445
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:08:31.79987+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:08:41.9056944+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:08.6936887+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:02:45.4489383+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:08:31.8000168+00:00"
+  "LastUpdate_Ratings": "2023-10-28T00:03:16.1815893+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:08:41.9058295+00:00"
 }

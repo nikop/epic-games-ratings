@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,396 |
+| Stylish | 5.00% | ~1,397 |
 | Advancement | 4.00% | ~1,117 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~838 |
 | Discovery | 3.00% | ~838 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 578)
 | Tobin's Prodigy | 0.90% | ~251 |
 | Diabolical | 0.80% | ~223 |
 | Reckless | 0.80% | ~223 |
-| Rivalry | 0.70% | ~195 |
+| Rivalry | 0.70% | ~196 |
 | Fragile Panes | 0.60% | ~168 |
 | Liability | 0.60% | ~168 |
 | Surprise! | 0.60% | ~168 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,926 (Ranked 122)  
+Progressed: 27,936 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,13 +248,14 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
+| 2023-10-28 | 27,936 | 65 |
 ## Awards
-Max (Great for Beginners): 286  (Ranked 249)  
-Sum: 2,570 (Ranked 182)  
-Diff (max vs sum): 67  
+Max (Great for Beginners): 288  (Ranked 248)  
+Sum: 2,572 (Ranked 182)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 286 |
+| This game is Great for Beginners | 288 |
 | This game is Great for Quick Sessions | 280 |
 | This game has Diverse Characters | 259 |
 | This game has Amazing Storytelling | 258 |
@@ -462,4 +463,4 @@ Diff (max vs sum): 67
 | 2023-10-24 | 4.50 | 281 | 2,525 |
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
-| 2023-10-27 | 4.50 | 286 | 2,570 |
+| 2023-10-27 | 4.50 | 288 | 2,572 |

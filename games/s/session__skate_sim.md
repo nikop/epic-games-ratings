@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,854 |
+| You're free now! | 61.00% | ~1,855 |
 | Keeping it classy | 28.00% | ~851 |
 | Welcome to the family | 22.00% | ~669 |
 | The finer things in life | 20.00% | ~608 |
-| Backpacker | 14.00% | ~425 |
-| Go with the Flow | 14.00% | ~425 |
+| Backpacker | 14.00% | ~426 |
+| Go with the Flow | 14.00% | ~426 |
 | Keep the dream alive | 10.00% | ~304 |
 | Plastic Surgeon | 10.00% | ~304 |
 | The flip trick crown jewel | 10.00% | ~304 |
@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~122 |
 | Prince of Philly | 4.00% | ~122 |
 | Hoarder | 3.00% | ~91 |
-| Many plys later... | 3.00% | ~91 |
 | Pew-Pew | 3.00% | ~91 |
 | Cross lock country | 2.00% | ~61 |
+| Many plys later... | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |
 | Dipped! | 1.00% | ~30 |
 | Skatepark hero | 1.00% | ~30 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,039 (Ranked 200)  
+Progressed: 3,041 (Ranked 200)  
 Completed: 1 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 1 (0.03%) (Ranked 296)
 | 2023-10-24 | 3,036 | 1 |
 | 2023-10-25 | 3,038 | 1 |
 | 2023-10-27 | 3,039 | 1 |
+| 2023-10-28 | 3,041 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 408)  
 Sum: 532 (Ranked 312)  

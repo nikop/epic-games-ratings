@@ -3,11 +3,11 @@
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 75,
-  "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 285,
+  "Ranking_Popularity": 279,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1958,18 +1958,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 733,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-10-27T23:57:43.0106651+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 735,
+      "NumberOfAwardsMax": 201
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 733,
-  "NumberOfAwardsMax": 199,
+  "NumberOfAwards": 735,
+  "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 199
+      "Count": 201
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2049,8 +2055,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-10-27T13:01:03.6732245+00:00",
+  "LastChanged": "2023-10-27T23:57:43.010665+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:19.5274333+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:57:33.5043828+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:08:18.0297322+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:57:43.0106655+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:07:50.0899047+00:00"
 }

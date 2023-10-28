@@ -1,15 +1,15 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 441)  
+Rating: 4.58 (Ranked 440)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,373 |
+| Sowwy! | 34.00% | ~79,375 |
 | Alt+F4 | 7.00% | ~16,342 |
 | Where's that freaking Dwarf? | 6.00% | ~14,007 |
-| Déjà vu | 5.00% | ~11,672 |
+| Déjà vu | 5.00% | ~11,673 |
 | A beer, two curses, three companions | 4.00% | ~9,338 |
 | Sock! SOCK! | 4.00% | ~9,338 |
 | GG EZ | 4.00% | ~9,338 |
@@ -33,16 +33,16 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 2.00% | ~4,669 |
 | Team Building Exercise | 2.00% | ~4,669 |
 | Oh, when I'll be level 10... | 2.00% | ~4,669 |
-| Res Judicata | 1.00% | ~2,334 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,334 |
-| Dwarf Fortress | 1.00% | ~2,334 |
-| %#*!$*! | 1.00% | ~2,334 |
-| Look but don't touch | 1.00% | ~2,334 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,334 |
-| Dead for good | 1.00% | ~2,334 |
-| Lust and Debauchery | 1.00% | ~2,334 |
-| Thieves' Guild Accreditation | 1.00% | ~2,334 |
-| Material Girl | 1.00% | ~2,334 |
+| Res Judicata | 1.00% | ~2,335 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,335 |
+| Dwarf Fortress | 1.00% | ~2,335 |
+| %#*!$*! | 1.00% | ~2,335 |
+| Look but don't touch | 1.00% | ~2,335 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,335 |
+| Dead for good | 1.00% | ~2,335 |
+| Lust and Debauchery | 1.00% | ~2,335 |
+| Thieves' Guild Accreditation | 1.00% | ~2,335 |
+| Material Girl | 1.00% | ~2,335 |
 | Gargantua | 0.90% | ~2,101 |
 | In Navalu's footsteps | 0.80% | ~1,868 |
 | Lëgal Legend | 0.70% | ~1,634 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~233 |
 | Dwarf Candy | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,450 (Ranked 60)  
+Progressed: 233,455 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 7 (0.00%) (Ranked 328)
 | 2023-10-25 | 233,101 | 7 |
 | 2023-10-26 | 233,279 | 7 |
 | 2023-10-27 | 233,450 | 7 |
+| 2023-10-28 | 233,455 | 7 |
 ## Awards
 Max (Character Customization): 224  (Ranked 267)  
 Sum: 443 (Ranked 327)  

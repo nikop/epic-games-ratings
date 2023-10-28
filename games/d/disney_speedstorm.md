@@ -5,17 +5,17 @@ Rating: 4.42 (Ranked 699)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,026 |
-| IT MAKES BOOM! | 3.00% | ~7,816 |
-| EXTRA BOOST | 2.00% | ~5,211 |
-| PROTECTED | 2.00% | ~5,211 |
-| PRO | 2.00% | ~5,211 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,605 |
-| AGGRESSIVE RACER | 1.00% | ~2,605 |
-| A TIGER'S FEAR | 0.90% | ~2,345 |
+| ROOKIE | 5.00% | ~13,034 |
+| IT MAKES BOOM! | 3.00% | ~7,820 |
+| EXTRA BOOST | 2.00% | ~5,213 |
+| PROTECTED | 2.00% | ~5,213 |
+| PRO | 2.00% | ~5,213 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,607 |
+| AGGRESSIVE RACER | 1.00% | ~2,607 |
+| A TIGER'S FEAR | 0.90% | ~2,346 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,303 |
 | ACE SPEEDSTER | 0.50% | ~1,303 |
-| DEFEAT OUR CHAMPION | 0.40% | ~1,042 |
+| DEFEAT OUR CHAMPION | 0.40% | ~1,043 |
 | TRAINING HARD | 0.30% | ~782 |
 | RELEASE THE KRAKEN | 0.30% | ~782 |
 | BE OUR GUEST | 0.30% | ~782 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 699)
 | ACE TRICKSTER | 0.20% | ~521 |
 | FRAMED! | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,530 (Ranked 52)  
-Completed: 242 (0.09%) (Ranked 264)  
+Progressed: 260,670 (Ranked 52)  
+Completed: 243 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -217,10 +217,11 @@ Completed: 242 (0.09%) (Ranked 264)
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
+| 2023-10-28 | 260,670 | 243 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 440)  
-Sum: 327 (Ranked 348)  
-Diff (max vs sum): 92  
+Sum: 347 (Ranked 343)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |
@@ -234,6 +235,7 @@ Diff (max vs sum): 92
 | This game has Competitive Players | 26 |
 | This game has Playful Visuals | 21 |
 | This game is Extremely Fun | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -263,4 +265,4 @@ Diff (max vs sum): 92
 | 2023-10-24 | 4.41 | 38 | 250 |
 | 2023-10-25 | 4.42 | 38 | 261 |
 | 2023-10-26 | 4.42 | 43 | 270 |
-| 2023-10-27 | 4.42 | 44 | 327 |
+| 2023-10-27 | 4.42 | 44 | 347 |

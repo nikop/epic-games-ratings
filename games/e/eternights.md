@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New arm | 81.00% | ~251 |
-| Shelter Escape | 80.00% | ~248 |
+| Shelter Escape | 81.00% | ~251 |
 | The First Bond | 72.00% | ~223 |
 | Novice Scavenger | 65.00% | ~202 |
 | Master Craftsman | 52.00% | ~161 |
@@ -17,8 +17,8 @@
 | Stone Retriever | 31.00% | ~96 |
 | Yuna's Promise | 30.00% | ~93 |
 | Find myself | 29.00% | ~90 |
+| Truebro | 22.00% | ~68 |
 | Min's Promise | 21.00% | ~65 |
-| Truebro | 21.00% | ~65 |
 | Sia's Promise | 20.00% | ~62 |
 | Romantic | 16.00% | ~50 |
 | TentacleMAN | 11.00% | ~34 |

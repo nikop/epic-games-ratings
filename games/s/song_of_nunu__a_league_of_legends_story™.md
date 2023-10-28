@@ -13,18 +13,18 @@
 | True Legends | 62.00% | ~23 |
 | I Broke It | 62.00% | ~23 |
 | Krugmazing | 59.00% | ~22 |
+| Never Gets Old | 59.00% | ~22 |
 | The Fire Below the Mountain | 59.00% | ~22 |
-| Never Gets Old | 57.00% | ~21 |
 | On The Rocks | 54.00% | ~20 |
-| No Bites | 49.00% | ~18 |
+| No Bites | 51.00% | ~19 |
+| Iceborn | 49.00% | ~18 |
 | Moneyball | 49.00% | ~18 |
-| Iceborn | 46.00% | ~17 |
 | Rhythm Of Willump | 46.00% | ~17 |
 | The Pied Piper Of Freljord | 46.00% | ~17 |
 | Vertical Power | 46.00% | ~17 |
+| Boom Things | 43.00% | ~16 |
 | Snowball Fightn't | 43.00% | ~16 |
 | Tear of Freedom | 41.00% | ~15 |
-| Boom Things | 41.00% | ~15 |
 | My Darkest Day | 38.00% | ~14 |
 | Snowy Poro | 38.00% | ~14 |
 | 3000 Year Blackout | 35.00% | ~13 |

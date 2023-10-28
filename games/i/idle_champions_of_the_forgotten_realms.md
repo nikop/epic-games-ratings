@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Were-verpowered | 0.20% | ~466 |
 | A Persistent Buzzing | 0.20% | ~466 |
+| Terror in the Dark | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
 | Unearthed Evil | 0.20% | ~466 |
 | The Ring of Regeneration | 0.20% | ~466 |
@@ -182,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Band | 0.10% | ~199 |
 | Beast Mode | 0.10% | ~233 |
 | The Forbidden City | 0.10% | ~233 |
-| Terror in the Dark | 0.10% | ~233 |
 | Periodic Petrification | 0.10% | ~233 |
 | No Good at All | 0.10% | ~233 |
 | Fall From Grace | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,977 (Ranked 61)  
+Progressed: 232,979 (Ranked 61)  
 Completed: 2,389 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -726,6 +726,7 @@ Completed: 2,389 (1.03%) (Ranked 149)
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
+| 2023-10-28 | 232,979 | 2,389 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
 Sum: 32,243 (Ranked 41)  

@@ -20,6 +20,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.50% | ~4,471 |
 | The Wheel of Fortune | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
+| Bushido and Chill | 0.40% | ~3,576 |
 | Gunslinger | 0.40% | ~3,576 |
 | The Quick and the Dead | 0.40% | ~3,576 |
 | Breathtaking | 0.40% | ~3,576 |
@@ -32,7 +33,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.40% | ~3,576 |
 | Spin Doctor | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
-| Bushido and Chill | 0.30% | ~2,682 |
 | To Protect and Serve | 0.30% | ~2,682 |
 | Master Crafter | 0.30% | ~2,682 |
 | I Am The Law | 0.30% | ~2,682 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,108 (Ranked 15)  
-Completed: 2,720 (0.30%) (Ranked 214)  
+Progressed: 894,113 (Ranked 15)  
+Completed: 2,721 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,6 +263,7 @@ Completed: 2,720 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
+| 2023-10-28 | 894,113 | 2,721 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
 Sum: 329,659 (Ranked 10)  

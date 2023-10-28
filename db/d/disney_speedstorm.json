@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 699,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 9,
@@ -541,10 +541,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 327,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-27T23:59:21.4196776+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 347,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 327,
+  "NumberOfAwards": 347,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -613,12 +619,18 @@
       "Prefix": "This game has",
       "Type": "Playful Visuals",
       "Count": 21
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 260530,
-  "EOS_Completed": 242,
-  "EOS_NewPlayers": 19748,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 260670,
+  "EOS_Completed": 243,
+  "EOS_NewPlayers": 19753,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -9355,6 +9367,11 @@
       "Time": "2023-10-27T23:04:59.8288417+00:00",
       "NumProgressed": 260530,
       "NumCompleted": 242
+    },
+    {
+      "Time": "2023-10-28T00:05:01.7735532+00:00",
+      "NumProgressed": 260670,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 24,
@@ -9374,7 +9391,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5213
     },
     {
       "ID": "11",
@@ -9406,7 +9423,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7816
+      "UsersEstimate": 7820
     },
     {
       "ID": "15",
@@ -9446,7 +9463,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.4,
       "XP": 85,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "2",
@@ -9462,7 +9479,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5213
     },
     {
       "ID": "21",
@@ -9486,7 +9503,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "24",
@@ -9494,7 +9511,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2607
     },
     {
       "ID": "3",
@@ -9510,7 +9527,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2607
     },
     {
       "ID": "5",
@@ -9518,7 +9535,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13026
+      "UsersEstimate": 13034
     },
     {
       "ID": "6",
@@ -9526,7 +9543,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5211
+      "UsersEstimate": 5213
     },
     {
       "ID": "7",
@@ -9557,16 +9574,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 260530,
-      "Completed": 242
+      "Progressed": 260670,
+      "Completed": 243
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-27T22:59:31.7308604+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:04:59.8288411+00:00",
+  "LastChanged": "2023-10-27T23:59:21.4196774+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:05:01.7735524+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-27T22:59:31.7308611+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:04:59.828972+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:59:21.4196778+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:05:01.7736215+00:00"
 }

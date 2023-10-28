@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2624,
+  "EOS_Progressed": 2635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2149,
+  "EOS_NewPlayers": 2154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1062,6 +1062,11 @@
       "Time": "2023-10-27T23:08:46.8648619+00:00",
       "NumProgressed": 2624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T00:08:54.5822846+00:00",
+      "NumProgressed": 2635,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1082,7 +1087,7 @@
       "Name": "Baby Steps",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 343
     },
     {
       "ID": "BeLikeWater",
@@ -1114,7 +1119,7 @@
       "Name": "Connection Lost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "Eavesdropper",
@@ -1146,7 +1151,7 @@
       "Name": "First Time?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 448
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1154,7 +1159,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GarbageMan",
@@ -1186,7 +1191,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "JackOfAllTrades",
@@ -1208,17 +1213,17 @@
       "ID": "MasterManipulator",
       "SetID": "acc6ea0",
       "Name": "Master Manipulator",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 237
     },
     {
       "ID": "NoMoreTotems",
@@ -1226,7 +1231,7 @@
       "Name": "No More Totems",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1272,9 +1277,9 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 369
     },
     {
       "ID": "ThisIsDharma",
@@ -1290,7 +1295,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "UnResurrected",
@@ -1314,7 +1319,7 @@
       "Name": "Digestive Issues",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1330,7 +1335,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "k01101110",
@@ -1345,14 +1350,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 2624,
+      "Progressed": 2635,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:08:46.8648613+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:08:54.582284+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:00:14.8179599+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:08:46.8649054+00:00"
+  "LastUpdate_Ratings": "2023-10-27T23:59:57.2321809+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:08:54.5823163+00:00"
 }

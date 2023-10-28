@@ -4,7 +4,7 @@
   "ProductSlug": "stonefly",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-06-01T13:00:00+00:00",
@@ -44,5 +44,5 @@
   "LastChanged": "2023-03-31T05:58:38.2466735+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:03.5557352+00:00",
   "LastUpdate_Ratings": "2023-10-27T23:02:24.8862347+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:04:55.8250226+00:00"
+  "LastUpdate_Achievements": "2023-10-28T00:04:58.2659431+00:00"
 }

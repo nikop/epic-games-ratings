@@ -3,11 +3,11 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 905,
-  "Ranking_Popularity": 382,
+  "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1305,18 +1305,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 455,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-10-28T00:01:09.4478758+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 456,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 455,
-  "NumberOfAwardsMax": 78,
+  "NumberOfAwards": 456,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1357,7 +1363,7 @@
   ],
   "EOS_Progressed": 16311,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8734,9 +8740,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-26T08:02:06.3022624+00:00",
-  "LastChanged_Achievements": "2023-10-27T23:08:09.8640253+00:00",
+  "LastChanged": "2023-10-28T00:01:09.4478755+00:00",
+  "LastChanged_Achievements": "2023-10-28T00:07:43.3109206+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:01:39.7949316+00:00",
-  "LastUpdate_Achievements": "2023-10-27T23:08:09.8641135+00:00"
+  "LastUpdate_Ratings": "2023-10-28T00:01:09.4478763+00:00",
+  "LastUpdate_Achievements": "2023-10-28T00:07:43.3110035+00:00"
 }

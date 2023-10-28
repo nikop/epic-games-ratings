@@ -5,29 +5,29 @@ Rating: 4.69 (Ranked 226)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,266 |
-| On the Top Step | 90.00% | ~3,094 |
-| Setting up for Success | 80.00% | ~2,750 |
-| Team Orders | 77.00% | ~2,647 |
+| Getting on the Step | 95.00% | ~3,267 |
+| On the Top Step | 90.00% | ~3,095 |
+| Setting up for Success | 80.00% | ~2,751 |
+| Team Orders | 77.00% | ~2,648 |
 | Engineer | 57.00% | ~1,960 |
-| Familiar Faces | 51.00% | ~1,753 |
-| Going the Extra Mile | 45.00% | ~1,547 |
+| Familiar Faces | 51.00% | ~1,754 |
+| Going the Extra Mile | 45.00% | ~1,548 |
 | Sharing the Love | 44.00% | ~1,513 |
 | Hitting a Season | 42.00% | ~1,444 |
 | Challenge Yourself | 36.00% | ~1,238 |
-| A Dozen Pieces | 35.00% | ~1,203 |
+| A Dozen Pieces | 35.00% | ~1,204 |
 | Making History | 34.00% | ~1,169 |
 | Writing a new Chapter | 28.00% | ~963 |
-| Network Success | 27.00% | ~928 |
+| Network Success | 27.00% | ~929 |
 | Spring Cleaning | 25.00% | ~860 |
-| Reduce | 22.00% | ~756 |
+| Reduce | 22.00% | ~757 |
 | Ups and Downs | 21.00% | ~722 |
 | Crucial Combo | 20.00% | ~688 |
 | Reuse | 19.00% | ~653 |
 | One for the Book | 19.00% | ~653 |
 | Proving Them Wrong | 18.00% | ~619 |
-| Gathering Dust | 17.00% | ~584 |
-| Oil and Water | 17.00% | ~584 |
+| Gathering Dust | 17.00% | ~585 |
+| Oil and Water | 17.00% | ~585 |
 | Hitting a Bullseye | 16.00% | ~550 |
 | Lightning Round the World | 15.00% | ~516 |
 | Eagle Eye | 13.00% | ~447 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 226)
 | Elite Racer | 0.10% | ~3 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,438 (Ranked 195)  
+Progressed: 3,439 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 3,391 | 0 |
 | 2023-10-26 | 3,415 | 0 |
 | 2023-10-27 | 3,438 | 0 |
+| 2023-10-28 | 3,439 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
