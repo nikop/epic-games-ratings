@@ -28,7 +28,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Raw, untamed power'' | 8.00% | ~4,151 |
 | Rishi Maze | 5.00% | ~2,595 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,595 |
-| ''You may fire when ready'' | 3.00% | ~1,557 |
+| ''You may fire when ready'' | 4.00% | ~2,076 |
 | ''What have you done with those plans?'' | 3.00% | ~1,557 |
 | ''GONK!'' | 3.00% | ~1,557 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,557 |

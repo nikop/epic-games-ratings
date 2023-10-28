@@ -33,14 +33,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.40% | ~3,577 |
 | Spin Doctor | 0.40% | ~91 |
 | Relic Ruler | 0.40% | ~91 |
-| To Bad Decisions! | 0.30% | ~2,682 |
-| To Protect and Serve | 0.30% | ~2,682 |
-| Master Crafter | 0.30% | ~2,682 |
-| I Am The Law | 0.30% | ~2,682 |
-| Mean Streets | 0.30% | ~2,682 |
-| Christmas Tree Attack | 0.30% | ~2,682 |
-| Temperance | 0.30% | ~2,682 |
-| The Fool | 0.30% | ~2,682 |
+| To Bad Decisions! | 0.30% | ~2,683 |
+| To Protect and Serve | 0.30% | ~2,683 |
+| Master Crafter | 0.30% | ~2,683 |
+| I Am The Law | 0.30% | ~2,683 |
+| Mean Streets | 0.30% | ~2,683 |
+| Christmas Tree Attack | 0.30% | ~2,683 |
+| Temperance | 0.30% | ~2,683 |
+| The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,165 (Ranked 15)  
+Progressed: 894,171 (Ranked 15)  
 Completed: 2,722 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,722 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,165 | 2,722 |
+| 2023-10-28 | 894,171 | 2,722 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
 Sum: 330,712 (Ranked 10)  

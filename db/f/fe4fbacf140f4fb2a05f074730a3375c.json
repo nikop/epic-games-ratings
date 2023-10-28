@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 27,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.41,
   "EosHistory": [
@@ -203,9 +203,9 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GoldenYouth",
@@ -322,8 +322,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:10:12.316034+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:09:23.723751+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:14.0090609+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:01:30.8622757+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:10:12.3160489+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:09.7468798+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:09:23.723763+00:00"
 }

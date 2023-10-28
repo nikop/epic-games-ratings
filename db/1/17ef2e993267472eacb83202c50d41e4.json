@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7515,
+  "EOS_Progressed": 7517,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5162,6 +5162,11 @@
       "Time": "2023-10-28T08:10:21.5474189+00:00",
       "NumProgressed": 7515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T09:09:30.9212297+00:00",
+      "NumProgressed": 7517,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5246,7 +5251,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EAUpgraded1",
@@ -5350,7 +5355,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "HAPurchased1",
@@ -5542,7 +5547,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "MaxTowersKilled6",
@@ -5606,7 +5611,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "PlayerKills100",
@@ -5670,7 +5675,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "SEUpgraded1",
@@ -5726,7 +5731,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "TPurchased1",
@@ -5750,7 +5755,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "WCUpgraded1",
@@ -5765,7 +5770,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7515,
+      "Progressed": 7517,
       "Completed": 1
     }
   ],
@@ -5773,8 +5778,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:10:21.5474183+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:09:30.921229+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:02:07.9218017+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:10:21.5475523+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:36.4911907+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:09:30.9213133+00:00"
 }

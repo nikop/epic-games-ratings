@@ -5,12 +5,12 @@ Rating: 4.64 (Ranked 326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~494 |
-| To Hell In A Handcart | 66.00% | ~494 |
+| Read Between The Lines | 66.00% | ~495 |
+| To Hell In A Handcart | 66.00% | ~495 |
 | High Profile | 59.00% | ~442 |
 | Whispers In The Dark | 57.00% | ~427 |
-| Fond Memories | 54.00% | ~404 |
-| A Method To His Madness | 52.00% | ~389 |
+| Fond Memories | 54.00% | ~405 |
+| A Method To His Madness | 52.00% | ~390 |
 | History Check | 51.00% | ~382 |
 | The New World | 48.00% | ~360 |
 | Lock, Stock, And Barrel | 47.00% | ~352 |
@@ -20,8 +20,8 @@ Rating: 4.64 (Ranked 326)
 | Knives Out | 47.00% | ~352 |
 | Land, Ho! | 47.00% | ~352 |
 | Back In The Saddle | 46.00% | ~345 |
-| No Man Is An Island | 46.00% | ~345 |
-| At Wits' End | 45.00% | ~337 |
+| No Man Is An Island | 45.00% | ~338 |
+| At Wits' End | 45.00% | ~338 |
 | Fhtagn! | 43.00% | ~322 |
 | Bookworm | 42.00% | ~315 |
 | Up In Flames | 42.00% | ~315 |
@@ -31,10 +31,10 @@ Rating: 4.64 (Ranked 326)
 | No Stone Unturned | 35.00% | ~262 |
 | Read It And Weep | 22.00% | ~165 |
 | Curiosity Killed The Cat | 19.00% | ~142 |
-| Big Breakthrough | 13.00% | ~97 |
+| Big Breakthrough | 13.00% | ~98 |
 | Reawakened | 4.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 264)  
+Progressed: 750 (Ranked 264)  
 Completed: 26 (3.47%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 26 (3.47%) (Ranked 86)
 | 2023-10-25 | 738 | 26 |
 | 2023-10-26 | 743 | 26 |
 | 2023-10-27 | 748 | 26 |
-| 2023-10-28 | 749 | 26 |
+| 2023-10-28 | 750 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

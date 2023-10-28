@@ -6,7 +6,7 @@ Rating: 4.86 (Ranked 28)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 16.00% | ~669 |
-| Start with a bang! | 15.00% | ~627 |
+| Start with a bang! | 15.00% | ~628 |
 | Who put gears in there? | 14.00% | ~586 |
 | You can pet the cat! | 14.00% | ~586 |
 | Cream of the Crop | 13.00% | ~544 |
@@ -18,9 +18,9 @@ Rating: 4.86 (Ranked 28)
 | I play my own way! | 10.00% | ~418 |
 | Z-shielding's got nothing on us! | 10.00% | ~418 |
 | Uh, they were broken when I got here | 10.00% | ~418 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~376 |
-| Kissing the sky! | 9.00% | ~376 |
-| I look cool. But I can look COOLER. | 9.00% | ~376 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~377 |
+| Kissing the sky! | 9.00% | ~377 |
+| I look cool. But I can look COOLER. | 9.00% | ~377 |
 | The Negotiator | 8.00% | ~335 |
 | Headliner | 8.00% | ~335 |
 | Time to pay up! | 8.00% | ~335 |
@@ -35,8 +35,8 @@ Rating: 4.86 (Ranked 28)
 | That's a lot of junk metal… | 5.00% | ~209 |
 | Beat-hit mania | 4.00% | ~167 |
 | There's such a thing as TOO helpful | 4.00% | ~167 |
-| Chip-tuned | 3.00% | ~125 |
-| Wanna hear my playlist? | 3.00% | ~125 |
+| Chip-tuned | 3.00% | ~126 |
+| Wanna hear my playlist? | 3.00% | ~126 |
 | I think I deserve some praise, here! | 2.00% | ~84 |
 | I think I found your calling, Macaron | 2.00% | ~84 |
 | We're Jammin' | 2.00% | ~84 |
@@ -77,8 +77,8 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,183 (Ranked 185)  
-Completed: 8 (0.19%) (Ranked 236)  
+Progressed: 4,184 (Ranked 185)  
+Completed: 8 (0.19%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 8 (0.19%) (Ranked 236)
 | 2023-10-25 | 4,169 | 8 |
 | 2023-10-26 | 4,175 | 8 |
 | 2023-10-27 | 4,178 | 8 |
-| 2023-10-28 | 4,183 | 8 |
+| 2023-10-28 | 4,184 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

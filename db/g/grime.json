@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1261,9 +1261,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155075,
+  "EOS_Progressed": 155081,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13366,6 +13366,11 @@
       "Time": "2023-10-28T08:05:54.4438237+00:00",
       "NumProgressed": 155075,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T09:04:37.1285208+00:00",
+      "NumProgressed": 155081,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13487,9 +13492,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 1083
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -13744,21 +13749,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154658,
+      "Progressed": 154664,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155075,
+      "Progressed": 155081,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T07:02:33.9217705+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:05:54.4438231+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:04:37.1285203+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:02:21.1746562+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:05:54.4439853+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:44.2934317+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:04:37.1286073+00:00"
 }

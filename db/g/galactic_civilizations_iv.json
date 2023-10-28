@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7126,
+  "EOS_Progressed": 7127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7830,6 +7830,11 @@
       "Time": "2023-10-28T08:07:28.4770467+00:00",
       "NumProgressed": 7126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T09:05:46.2159165+00:00",
+      "NumProgressed": 7127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7945,7 +7950,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "First_Race_Met",
@@ -7977,7 +7982,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5487
+      "UsersEstimate": 5488
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8329,7 +8334,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8393,7 +8398,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "Win_Quickly",
@@ -8416,15 +8421,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7126,
+      "Progressed": 7127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:07:28.4770461+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:05:46.215916+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:58:05.6576879+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:07:28.4771847+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:57:43.993246+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:05:46.2160059+00:00"
 }

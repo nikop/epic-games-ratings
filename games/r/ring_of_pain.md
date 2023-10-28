@@ -6,48 +6,48 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~229,105 |
-| Uncharted Territory | 89.00% | ~212,399 |
-| Getting A Glimpse | 73.00% | ~174,215 |
-| A Quick Escape | 65.00% | ~155,123 |
-| Explorer | 62.00% | ~147,964 |
-| An Offering | 62.00% | ~147,964 |
-| Defeat The Dark | 61.00% | ~145,577 |
-| Colorful Corpse | 58.00% | ~138,418 |
-| That Was Quick | 57.00% | ~136,031 |
-| A Donation | 57.00% | ~136,031 |
-| Goodbye, Frog Friend | 54.00% | ~128,872 |
-| Heavy Hitter | 53.00% | ~126,485 |
-| Heartless | 46.00% | ~109,779 |
-| Spine Breaker | 46.00% | ~109,779 |
-| Deflection | 45.00% | ~107,393 |
-| Sneaky | 43.00% | ~102,620 |
-| Ambitious Intent | 42.00% | ~100,233 |
-| Delving Deeper | 42.00% | ~100,233 |
-| C-C-Combo | 42.00% | ~100,233 |
-| Nothing To Lose | 40.00% | ~95,460 |
-| The Bestiary | 40.00% | ~95,460 |
-| What's Yours Is Mine | 39.00% | ~93,074 |
-| R.I.P | 37.00% | ~88,301 |
-| Shootout | 36.00% | ~85,914 |
-| I Am Overburdened | 35.00% | ~83,528 |
-| Cold Hearted | 34.00% | ~81,141 |
+| First Steps | 96.00% | ~229,107 |
+| Uncharted Territory | 89.00% | ~212,401 |
+| Getting A Glimpse | 73.00% | ~174,217 |
+| A Quick Escape | 65.00% | ~155,124 |
+| Explorer | 62.00% | ~147,965 |
+| An Offering | 62.00% | ~147,965 |
+| Defeat The Dark | 61.00% | ~145,578 |
+| Colorful Corpse | 58.00% | ~138,419 |
+| That Was Quick | 57.00% | ~136,032 |
+| A Donation | 57.00% | ~136,032 |
+| Goodbye, Frog Friend | 54.00% | ~128,873 |
+| Heavy Hitter | 53.00% | ~126,486 |
+| Heartless | 46.00% | ~109,780 |
+| Spine Breaker | 46.00% | ~109,780 |
+| Deflection | 45.00% | ~107,394 |
+| Sneaky | 43.00% | ~102,621 |
+| Ambitious Intent | 42.00% | ~100,234 |
+| Delving Deeper | 42.00% | ~100,234 |
+| C-C-Combo | 42.00% | ~100,234 |
+| Nothing To Lose | 40.00% | ~95,461 |
+| The Bestiary | 40.00% | ~95,461 |
+| What's Yours Is Mine | 39.00% | ~93,075 |
+| R.I.P | 37.00% | ~88,302 |
+| Shootout | 36.00% | ~85,915 |
+| I Am Overburdened | 35.00% | ~83,529 |
+| Cold Hearted | 34.00% | ~81,142 |
 | Dig Your Own Grave | 33.00% | ~78,755 |
 | Toxic | 33.00% | ~78,755 |
-| Who To Trust? | 32.00% | ~76,368 |
-| Flesh Wound | 30.00% | ~71,595 |
-| Walk It Off | 28.00% | ~66,822 |
-| Stone Touch | 28.00% | ~66,822 |
-| Shadow Walker | 28.00% | ~66,822 |
+| Who To Trust? | 32.00% | ~76,369 |
+| Flesh Wound | 30.00% | ~71,596 |
+| Walk It Off | 28.00% | ~66,823 |
+| Stone Touch | 28.00% | ~66,823 |
+| Shadow Walker | 28.00% | ~66,823 |
 | Consecutive Curses | 27.00% | ~64,436 |
 | Destroy Your Fears | 27.00% | ~64,436 |
 | Acid Bath | 27.00% | ~64,436 |
 | New Perspectives | 27.00% | ~64,436 |
 | Shapeshifting | 27.00% | ~64,436 |
 | Save Our Souls | 25.00% | ~59,663 |
-| To The Death! | 20.00% | ~47,730 |
-| Well Prepared | 20.00% | ~47,730 |
-| Just Chilling | 20.00% | ~47,730 |
+| To The Death! | 20.00% | ~47,731 |
+| Well Prepared | 20.00% | ~47,731 |
+| Just Chilling | 20.00% | ~47,731 |
 | All Consuming | 19.00% | ~45,344 |
 | Stop Hitting Yourself | 19.00% | ~45,344 |
 | Shadow Spreads | 17.00% | ~40,571 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,193 |
 | Near Death Experience | 0.30% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,651 (Ranked 58)  
+Progressed: 238,653 (Ranked 58)  
 Completed: 286 (0.12%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 286 (0.12%) (Ranked 252)
 | 2023-10-25 | 238,538 | 284 |
 | 2023-10-26 | 238,583 | 285 |
 | 2023-10-27 | 238,639 | 285 |
-| 2023-10-28 | 238,651 | 286 |
+| 2023-10-28 | 238,653 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,498  (Ranked 128)  
-Sum: 11,632 (Ranked 83)  
+Sum: 11,633 (Ranked 83)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 1,408 |
 | This game is Highly Recommended | 1,374 |
 | This game has Amazing Storytelling | 1,317 |
-| This game has Amazing Characters | 1,220 |
+| This game has Amazing Characters | 1,221 |
 | This game has Unique Visuals | 1,212 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 739 |
@@ -532,3 +532,4 @@ Diff (max vs sum): 45
 | 2023-10-25 | 4.58 | - | 1,498 | 11,626 |
 | 2023-10-26 | 4.58 | - | 1,498 | 11,627 |
 | 2023-10-27 | 4.58 | - | 1,498 | 11,632 |
+| 2023-10-28 | 4.58 | - | 1,498 | 11,633 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4183,
+  "EOS_Progressed": 4184,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -7164,6 +7164,11 @@
       "Time": "2023-10-28T08:05:37.7949534+00:00",
       "NumProgressed": 4183,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T09:04:24.9071274+00:00",
+      "NumProgressed": 4184,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7175,7 +7180,7 @@
       "Name": "Start with a bang!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Ach002",
@@ -7295,7 +7300,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Ach017",
@@ -7311,7 +7316,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Ach019",
@@ -7455,7 +7460,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Ach037",
@@ -7503,7 +7508,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Ach043",
@@ -7583,7 +7588,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Ach053",
@@ -7742,13 +7747,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4183,
+      "Progressed": 4184,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2704,
+      "Progressed": 2705,
       "Completed": 1930
     }
   ],
@@ -7756,8 +7761,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:05:37.7949526+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:04:24.9071267+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:58:33.4382454+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:05:37.795101+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:58:05.7795527+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:04:24.907218+00:00"
 }

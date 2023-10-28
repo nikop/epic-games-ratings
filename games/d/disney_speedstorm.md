@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 701)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,072 |
-| IT MAKES BOOM! | 3.00% | ~7,843 |
-| EXTRA BOOST | 2.00% | ~5,229 |
-| PROTECTED | 2.00% | ~5,229 |
-| PRO | 2.00% | ~5,229 |
-| A TIGER'S FEAR | 1.00% | ~2,614 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,614 |
-| AGGRESSIVE RACER | 1.00% | ~2,614 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,307 |
-| ACE SPEEDSTER | 0.50% | ~1,307 |
+| ROOKIE | 5.00% | ~13,076 |
+| IT MAKES BOOM! | 3.00% | ~7,846 |
+| EXTRA BOOST | 2.00% | ~5,230 |
+| PROTECTED | 2.00% | ~5,230 |
+| PRO | 2.00% | ~5,230 |
+| A TIGER'S FEAR | 1.00% | ~2,615 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,615 |
+| AGGRESSIVE RACER | 1.00% | ~2,615 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,308 |
+| ACE SPEEDSTER | 0.50% | ~1,308 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,046 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,046 |
-| TRAINING HARD | 0.30% | ~784 |
-| RELEASE THE KRAKEN | 0.30% | ~784 |
-| BE OUR GUEST | 0.30% | ~784 |
-| ACE BRAWLER | 0.30% | ~784 |
-| ACE DEFENDER | 0.30% | ~784 |
-| FRIENDLY | 0.30% | ~784 |
-| MASTER | 0.30% | ~784 |
-| LEGENDARY HERO | 0.30% | ~784 |
+| TRAINING HARD | 0.30% | ~785 |
+| RELEASE THE KRAKEN | 0.30% | ~785 |
+| BE OUR GUEST | 0.30% | ~785 |
+| ACE BRAWLER | 0.30% | ~785 |
+| ACE DEFENDER | 0.30% | ~785 |
+| FRIENDLY | 0.30% | ~785 |
+| MASTER | 0.30% | ~785 |
+| LEGENDARY HERO | 0.30% | ~785 |
 | PERFECTLY POISED | 0.20% | ~523 |
 | EXPERIENCED CREW | 0.20% | ~523 |
 | ACE TRICKSTER | 0.20% | ~523 |
-| FRAMED! | 0.10% | ~261 |
+| FRAMED! | 0.10% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,443 (Ranked 52)  
+Progressed: 261,523 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 245 (0.09%) (Ranked 263)
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
-| 2023-10-28 | 261,443 | 245 |
+| 2023-10-28 | 261,523 | 245 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 440)  
 Sum: 349 (Ranked 343)  

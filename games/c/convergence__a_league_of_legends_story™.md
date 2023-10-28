@@ -15,12 +15,12 @@ Rating: 4.62 (Ranked 361)
 | The Harder They Fall | 21.00% | ~192 |
 | No, Thanks! | 21.00% | ~192 |
 | The Prince in Heels | 21.00% | ~192 |
+| Immaculate Aim | 21.00% | ~192 |
 | The Brass Boss | 21.00% | ~192 |
 | Breaking Down Barriers | 20.00% | ~182 |
 | The Wicked Twins | 20.00% | ~182 |
 | Honest Mistake | 20.00% | ~182 |
 | Fast Learner | 20.00% | ~182 |
-| Immaculate Aim | 20.00% | ~182 |
 | Like Clockwork | 19.00% | ~173 |
 | The Betrayer | 19.00% | ~173 |
 | Golem Chaser | 19.00% | ~173 |

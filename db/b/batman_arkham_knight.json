@@ -4,11 +4,11 @@
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 62,
   "Ranking_Popularity": 63,
-  "Ranking_PopularitySum": 93,
+  "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5147,18 +5147,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 9392,
       "NumberOfAwardsMax": 5963
+    },
+    {
+      "Time": "2023-10-28T09:00:04.0958568+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 9401,
+      "NumberOfAwardsMax": 5972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9392,
-  "NumberOfAwardsMax": 5963,
+  "NumberOfAwards": 9401,
+  "NumberOfAwardsMax": 5972,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5963
+      "Count": 5972
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5232,8 +5238,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2023-10-28T03:00:34.142572+00:00",
+  "LastChanged": "2023-10-28T09:00:04.0958557+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:43.4400217+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:01:22.2533254+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:10:09.2920282+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:04.0958574+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:09:21.5490053+00:00"
 }

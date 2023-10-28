@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.34,
   "EosHistory": [
@@ -2382,6 +2382,11 @@
       "Time": "2023-10-28T06:09:03.4466403+00:00",
       "NumProgressed": 778,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T09:09:21.0291043+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2394,7 +2399,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2402,7 +2407,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "_03_FinishAct1",
@@ -2442,7 +2447,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "_08_Completion_10",
@@ -2490,7 +2495,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "_14_Completion_70",
@@ -2530,7 +2535,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2601,7 +2606,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 26
     }
   ],
@@ -2609,8 +2614,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:10:08.5501948+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:09:21.0291037+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:58:12.3468611+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:10:08.5502341+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:57:50.1551092+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:09:21.0291289+00:00"
 }

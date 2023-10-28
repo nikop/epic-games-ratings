@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.47,
   "EosHistory": [
@@ -2810,6 +2810,11 @@
       "Time": "2023-10-28T04:06:57.0702934+00:00",
       "NumProgressed": 749,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T09:05:47.8849834+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2821,7 +2826,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ01_2",
@@ -2829,7 +2834,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ02_1",
@@ -2845,7 +2850,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MQ02_3",
@@ -2869,7 +2874,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "MQ03_2",
@@ -2901,7 +2906,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "MQ04_1",
@@ -2987,9 +2992,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 338
     },
     {
       "ID": "MQ07_1",
@@ -3005,7 +3010,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MQ08_1",
@@ -3044,7 +3049,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 26
     }
   ],
@@ -3052,8 +3057,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:07:30.5541106+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:05:47.8849827+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:14.1029925+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:01:17.4171959+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:07:30.5541573+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:00.6457251+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:05:47.8850156+00:00"
 }

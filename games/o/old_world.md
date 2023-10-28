@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.70% | ~105 |
 | Gnosticism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
+| Veneration | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
 | Enlightenment | 0.60% | ~90 |
-| Veneration | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |

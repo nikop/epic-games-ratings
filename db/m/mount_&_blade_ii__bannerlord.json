@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8304,9 +8304,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64040,
+  "EOS_Progressed": 64045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28449,6 +28449,11 @@
       "Time": "2023-10-28T08:09:30.8316446+00:00",
       "NumProgressed": 64040,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T09:08:54.1584974+00:00",
+      "NumProgressed": 64045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28468,7 +28473,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10246
+      "UsersEstimate": 10247
     },
     {
       "ID": "Bannerlord",
@@ -28476,7 +28481,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14730
     },
     {
       "ID": "Best served cold",
@@ -28588,7 +28593,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8325
+      "UsersEstimate": 8326
     },
     {
       "ID": "Great Granny",
@@ -28620,7 +28625,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14730
     },
     {
       "ID": "I can do it",
@@ -28628,7 +28633,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10246
+      "UsersEstimate": 10247
     },
     {
       "ID": "I spit on your grave",
@@ -28652,7 +28657,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10887
+      "UsersEstimate": 10888
     },
     {
       "ID": "Kingslayer",
@@ -28684,7 +28689,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21133
+      "UsersEstimate": 21135
     },
     {
       "ID": "Lawbringer",
@@ -28692,7 +28697,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24976
+      "UsersEstimate": 24978
     },
     {
       "ID": "Lawmaker",
@@ -28700,7 +28705,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14730
     },
     {
       "ID": "Long live the Empire",
@@ -28812,7 +28817,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12168
+      "UsersEstimate": 12169
     },
     {
       "ID": "This Is Our Land",
@@ -28820,7 +28825,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8325
+      "UsersEstimate": 8326
     },
     {
       "ID": "This is Sparta",
@@ -28836,7 +28841,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14729
+      "UsersEstimate": 14730
     },
     {
       "ID": "Undercover",
@@ -28867,15 +28872,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64040,
+      "Progressed": 64045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-28T06:57:43.6851338+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:09:30.8316437+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:08:54.1584969+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:32.0405875+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:57:38.8694033+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:09:30.8318717+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:57:23.3889971+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:08:54.1586265+00:00"
 }

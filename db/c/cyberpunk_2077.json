@@ -14306,9 +14306,9 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894165,
+  "EOS_Progressed": 894171,
   "EOS_Completed": 2722,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1186,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35941,6 +35941,11 @@
       "Time": "2023-10-28T08:04:19.1491692+00:00",
       "NumProgressed": 894165,
       "NumCompleted": 2722
+    },
+    {
+      "Time": "2023-10-28T09:03:27.7412716+00:00",
+      "NumProgressed": 894171,
+      "NumCompleted": 2722
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -35961,7 +35966,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "BushidoAndChill",
@@ -35993,7 +35998,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "Fortuneteller",
@@ -36041,7 +36046,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "IAmMaxTac",
@@ -36049,7 +36054,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -36057,7 +36062,7 @@
       "Name": "Mean Streets",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "LittleTokyo",
@@ -36073,7 +36078,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "MaxPain",
@@ -36145,7 +36150,7 @@
       "Name": "Temperance",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -36169,7 +36174,7 @@
       "Name": "The Fool",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "TheHermit",
@@ -36472,21 +36477,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894165,
+      "Progressed": 894171,
       "Completed": 2722
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22788,
+      "Progressed": 22794,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T08:03:09.7255366+00:00",
-  "LastChanged_Achievements": "2023-10-28T08:04:19.1491686+00:00",
+  "LastChanged_Achievements": "2023-10-28T09:03:27.741271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T08:03:09.7255373+00:00",
-  "LastUpdate_Achievements": "2023-10-28T08:04:19.149395+00:00"
+  "LastUpdate_Ratings": "2023-10-28T09:00:49.6439674+00:00",
+  "LastUpdate_Achievements": "2023-10-28T09:03:27.741414+00:00"
 }
