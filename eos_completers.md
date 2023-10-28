@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.93% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.66% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.63% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.59% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -48,11 +48,11 @@
 | 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
-| 47 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 7.69% |
-| 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
-| 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
+| 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
+| 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
+| 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.47% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.41% |
-| 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.12% |
+| 52 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 7.41% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.91% |
 | 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.65% |
@@ -134,7 +134,7 @@
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 133 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 134 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
-| 135 | [Late Shift](games/l/late_shift.md) | 1.39% |
+| 135 | [Late Shift](games/l/late_shift.md) | 1.38% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.36% |
 | 138 | [Chorus](games/c/chorus.md) | 1.35% |
@@ -150,7 +150,7 @@
 | 147 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 149 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 150 | [Sable](games/s/sable.md) | 1.01% |
-| 151 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 1.00% |
+| 151 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.99% |
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
 | 154 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
@@ -162,7 +162,7 @@
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.85% |
 | 161 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.75% |
+| 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.73% |
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
@@ -199,9 +199,9 @@
 | 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
 | 195 | [Tchia](games/t/tchia.md) | 0.45% |
 | 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
-| 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 201 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
-| 201 | [Train Valley](games/t/train_valley.md) | 0.39% |
+| 200 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
+| 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
+| 200 | [Train Valley](games/t/train_valley.md) | 0.39% |
 | 203 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 203 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 205 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
