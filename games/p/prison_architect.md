@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~47,056 |
-| Get Busy Living | 16.00% | ~30,116 |
-| Samuel Norton | 9.00% | ~16,940 |
-| Spare The Rod | 5.00% | ~9,411 |
-| Don't Put Me In The Dark | 3.00% | ~5,647 |
-| Wait and Hope | 3.00% | ~5,647 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,647 |
-| Throw The Book At Them | 2.00% | ~3,764 |
-| Iron Bars | 2.00% | ~3,764 |
-| D.B. Cooper | 1.00% | ~1,882 |
-| Reformation | 0.60% | ~1,129 |
+| Stone Walls | 25.00% | ~47,065 |
+| Get Busy Living | 16.00% | ~30,121 |
+| Samuel Norton | 9.00% | ~16,943 |
+| Spare The Rod | 5.00% | ~9,413 |
+| Don't Put Me In The Dark | 3.00% | ~5,648 |
+| Wait and Hope | 3.00% | ~5,648 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,648 |
+| Throw The Book At Them | 2.00% | ~3,765 |
+| Iron Bars | 2.00% | ~3,765 |
+| D.B. Cooper | 1.00% | ~1,883 |
+| Reformation | 0.60% | ~1,130 |
 | Crowd Control | 0.50% | ~941 |
 | Freedom | 0.40% | ~753 |
 | Confined | 0.30% | ~565 |
 | It's Not What You Know... | 0.10% | ~188 |
 | ... It's What You Can Prove | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,222 (Ranked 71)  
+Progressed: 188,259 (Ranked 71)  
 Completed: 8 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,16 +214,16 @@ Completed: 8 (0.00%) (Ranked 329)
 | 2023-10-25 | 187,266 | 8 |
 | 2023-10-26 | 187,566 | 8 |
 | 2023-10-27 | 187,899 | 8 |
-| 2023-10-28 | 188,222 | 8 |
+| 2023-10-28 | 188,259 | 8 |
 ## Awards
-Max (Extremely Fun): 543  (Ranked 200)  
-Sum: 4,684 (Ranked 142)  
+Max (Great for Beginners): 544  (Ranked 200)  
+Sum: 4,689 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 544 |
 | This game is Extremely Fun | 543 |
-| This game is Great for Beginners | 542 |
-| This game is Highly Recommended | 512 |
+| This game is Highly Recommended | 515 |
 | This game has Quickly Understood Controls | 506 |
 | This game is Relaxing | 490 |
 | This game has Diverse Characters | 456 |
@@ -513,4 +513,4 @@ Diff (max vs sum): 58
 | 2023-10-25 | 4.61 | - | 539 | 4,655 |
 | 2023-10-26 | 4.61 | - | 542 | 4,670 |
 | 2023-10-27 | 4.61 | - | 543 | 4,681 |
-| 2023-10-28 | 4.61 | - | 543 | 4,684 |
+| 2023-10-28 | 4.61 | - | 544 | 4,689 |

@@ -2266,17 +2266,17 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 673
     },
     {
       "ID": "AC05",
       "SetID": "l4abp0",
       "Name": "The Sharpest Tool in the Shed",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 636
+      "UsersEstimate": 645
     },
     {
       "ID": "AC06",
@@ -2611,8 +2611,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:13:02.2803265+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:09:28.5657979+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.0879289+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:05:37.2570189+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:13:02.2804062+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:01:25.0473057+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:09:28.5658872+00:00"
 }

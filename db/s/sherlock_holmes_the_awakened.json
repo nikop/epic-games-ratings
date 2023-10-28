@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2951,9 +2951,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 361
     },
     {
       "ID": "MQ05_2",
@@ -3072,8 +3072,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:10:47.2833759+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:06:58.8626464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:05:15.0321388+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:47.2834324+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:01:03.8244361+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:58.8626873+00:00"
 }

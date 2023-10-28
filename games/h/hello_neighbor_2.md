@@ -17,10 +17,10 @@ Rating: 4.47 (Ranked 627)
 | Hidden Secrets | 25.00% | ~771 |
 | Mad Scientist | 24.00% | ~740 |
 | Reunion | 24.00% | ~740 |
-| Imprisonment | 23.00% | ~709 |
+| Imprisonment | 23.00% | ~710 |
 | Dog Person | 20.00% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,084 (Ranked 199)  
+Progressed: 3,085 (Ranked 199)  
 Completed: 124 (4.02%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 124 (4.02%) (Ranked 78)
 | 2023-10-25 | 3,050 | 123 |
 | 2023-10-26 | 3,063 | 123 |
 | 2023-10-27 | 3,075 | 123 |
-| 2023-10-28 | 3,084 | 124 |
+| 2023-10-28 | 3,085 | 124 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

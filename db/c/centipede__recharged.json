@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18127,
+  "EOS_Progressed": 18128,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
@@ -14882,6 +14882,11 @@
       "Time": "2023-10-28T18:08:49.3491054+00:00",
       "NumProgressed": 18127,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-28T19:05:14.4997512+00:00",
+      "NumProgressed": 18128,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14893,7 +14898,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "Burning_For_You",
@@ -14965,7 +14970,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7614
     },
     {
       "ID": "Mirrors",
@@ -15020,15 +15025,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18127,
+      "Progressed": 18128,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:08:49.3491044+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:05:14.4997503+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:02:57.5623736+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:08:49.3492128+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:59:09.8122898+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:05:14.4999354+00:00"
 }

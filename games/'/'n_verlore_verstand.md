@@ -12,7 +12,7 @@
 | Dont mind the heat | 15.00% | ~7 |
 | City of Puzzles | 11.00% | ~5 |
 | This field of danger | 11.00% | ~5 |
-| Labyrinths of the Mind | 9.00% | ~4 |
+| Labyrinths of the Mind | 11.00% | ~5 |
 | A Dangerous Road | 6.00% | ~3 |
 | A Terrifying Blizzard | 6.00% | ~3 |
 | Scorched Ruins | 4.00% | ~2 |

@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 327)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,8 +14,8 @@ Rating: 4.64 (Ranked 326)
 | History Check | 52.00% | ~392 |
 | The New World | 49.00% | ~369 |
 | Gaze Into The Abyss | 48.00% | ~361 |
+| Open Sesame | 48.00% | ~361 |
 | Lock, Stock, And Barrel | 47.00% | ~354 |
-| Open Sesame | 47.00% | ~354 |
 | Sticky Fingers | 47.00% | ~354 |
 | Knives Out | 47.00% | ~354 |
 | Land, Ho! | 47.00% | ~354 |

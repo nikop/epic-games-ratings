@@ -3,8 +3,8 @@
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
   "Ranking_Rating": 379,
-  "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 343,
+  "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 419,
@@ -503,6 +503,6 @@
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
   "LastChanged": "2023-09-15T01:41:12.9285302+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:48.8121984+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:03:15.4920099+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:14.0055818+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:59:26.5952804+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:29.370401+00:00"
 }

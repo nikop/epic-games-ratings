@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~600 |
-| Settler | 4.00% | ~600 |
-| Play a Single Player Game | 4.00% | ~600 |
+| Explorer | 4.00% | ~601 |
+| Settler | 4.00% | ~601 |
+| Play a Single Player Game | 4.00% | ~601 |
 | Able | 3.00% | ~450 |
 | Architect | 3.00% | ~450 |
 | Intrepid | 3.00% | ~450 |
@@ -32,6 +32,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~300 |
 | Strong Cities | 2.00% | ~300 |
 | Able Difficulty | 2.00% | ~300 |
+| Furious Family | 2.00% | ~300 |
 | Great Ziggurat | 2.00% | ~300 |
 | Hanging Gardens | 2.00% | ~300 |
 | Ishtar Gate | 2.00% | ~300 |
@@ -66,7 +67,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 1.00% | ~150 |
 | Champions | 1.00% | ~150 |
 | Sages | 1.00% | ~150 |
-| Furious Family | 1.00% | ~150 |
 | Acropolis | 1.00% | ~150 |
 | Apadana | 1.00% | ~150 |
 | Colossus | 1.00% | ~150 |
@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~120 |
 | Via Recta Souk | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
+| Gnosticism | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
 | Legionary | 0.80% | ~120 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.70% | ~105 |
 | Military Prestige | 0.70% | ~105 |
 | Dualism | 0.70% | ~105 |
-| Gnosticism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Veneration | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
+| Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |
 | Devout | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
-| Bad Heir Day | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,009 (Ranked 142)  
+Progressed: 15,013 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,14 +540,14 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,009 | 5 |
+| 2023-10-28 | 15,013 | 5 |
 ## Awards
-Max (Relaxing): 224  (Ranked 268)  
-Sum: 1,854 (Ranked 211)  
+Max (Relaxing): 225  (Ranked 268)  
+Sum: 1,856 (Ranked 211)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 224 |
+| This game is Relaxing | 225 |
 | This game has Diverse Characters | 216 |
 | This game is Highly Recommended | 214 |
 | This game is Extremely Fun | 213 |
@@ -555,7 +555,7 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 202 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Characters | 193 |
-| This game has Amazing Storytelling | 187 |
+| This game has Amazing Storytelling | 188 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -714,3 +714,4 @@ Diff (max vs sum): 57
 | 2023-10-21 | 4.65 | - | 224 | 1,851 |
 | 2023-10-22 | 4.65 | - | 224 | 1,853 |
 | 2023-10-23 | 4.65 | - | 224 | 1,854 |
+| 2023-10-28 | 4.65 | - | 225 | 1,856 |

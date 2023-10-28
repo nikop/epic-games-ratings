@@ -1,31 +1,31 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 226)  
+Rating: 4.69 (Ranked 227)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,661 |
-| Until death do us apart | 4.00% | ~17,661 |
-| Victorious! | 4.00% | ~17,661 |
-| That's a Grand Navy | 3.00% | ~13,246 |
-| That is mine! | 3.00% | ~13,246 |
-| Brothers in Arms | 2.00% | ~8,830 |
-| Cold War | 2.00% | ~8,830 |
-| For the Glory | 2.00% | ~8,830 |
-| Seriously?! | 2.00% | ~8,830 |
-| Defender of the Faith | 1.00% | ~4,415 |
-| It's all about luck | 1.00% | ~4,415 |
-| It's all about the money | 1.00% | ~4,415 |
-| Respected | 1.00% | ~4,415 |
-| The Princess is in this Castle | 1.00% | ~4,415 |
-| True Catholic | 1.00% | ~4,415 |
-| Truly Divine Ruler | 1.00% | ~4,415 |
+| That's a Grand Army | 4.00% | ~17,663 |
+| Until death do us apart | 4.00% | ~17,663 |
+| Victorious! | 4.00% | ~17,663 |
+| That's a Grand Navy | 3.00% | ~13,247 |
+| That is mine! | 3.00% | ~13,247 |
+| Brothers in Arms | 2.00% | ~8,831 |
+| Cold War | 2.00% | ~8,831 |
+| For the Glory | 2.00% | ~8,831 |
+| Seriously?! | 2.00% | ~8,831 |
+| Defender of the Faith | 1.00% | ~4,416 |
+| It's all about luck | 1.00% | ~4,416 |
+| It's all about the money | 1.00% | ~4,416 |
+| Respected | 1.00% | ~4,416 |
+| The Princess is in this Castle | 1.00% | ~4,416 |
+| True Catholic | 1.00% | ~4,416 |
+| Truly Divine Ruler | 1.00% | ~4,416 |
 | Blockader | 0.90% | ~3,974 |
-| Double the Love | 0.80% | ~3,532 |
-| Royal Authority | 0.80% | ~3,532 |
-| Total Control | 0.80% | ~3,532 |
+| Double the Love | 0.80% | ~3,533 |
+| Royal Authority | 0.80% | ~3,533 |
+| Total Control | 0.80% | ~3,533 |
 | My armies are invincible! | 0.70% | ~3,091 |
 | Agressive Expander | 0.60% | ~2,649 |
 | Azur semé de lis or | 0.50% | ~2,208 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441,523 (Ranked 41)  
+Progressed: 441,570 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 1 (0.00%) (Ranked 329)
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
 | 2023-10-27 | 440,786 | 1 |
-| 2023-10-28 | 441,523 | 1 |
+| 2023-10-28 | 441,570 | 1 |
 ## Awards
 Max (Educational): 6,718  (Ranked 55)  
 Sum: 55,220 (Ranked 24)  

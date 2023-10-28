@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,434 |
-| Alt+F4 | 7.00% | ~16,354 |
+| Sowwy! | 34.00% | ~79,438 |
+| Alt+F4 | 7.00% | ~16,355 |
 | Where's that freaking Dwarf? | 6.00% | ~14,018 |
-| Déjà vu | 5.00% | ~11,681 |
-| A beer, two curses, three companions | 4.00% | ~9,345 |
-| Sock! SOCK! | 4.00% | ~9,345 |
-| GG EZ | 4.00% | ~9,345 |
-| Speedrun | 4.00% | ~9,345 |
+| Déjà vu | 5.00% | ~11,682 |
+| A beer, two curses, three companions | 4.00% | ~9,346 |
+| Sock! SOCK! | 4.00% | ~9,346 |
+| GG EZ | 4.00% | ~9,346 |
+| Speedrun | 4.00% | ~9,346 |
 | DM intervention | 3.00% | ~7,009 |
 | Fireproof Wizardess | 3.00% | ~7,009 |
 | Livin' in a dwarven paradise | 2.00% | ~4,673 |
@@ -31,6 +31,7 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 2.00% | ~4,673 |
 | The Ranger of Chaos | 2.00% | ~4,673 |
 | I am the night | 2.00% | ~4,673 |
+| Thieves' Guild Accreditation | 2.00% | ~4,673 |
 | Team Building Exercise | 2.00% | ~4,673 |
 | Oh, when I'll be level 10... | 2.00% | ~4,673 |
 | Res Judicata | 1.00% | ~2,336 |
@@ -41,7 +42,6 @@ Number of Ratings: 118  (23.09.2022)
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,336 |
 | Dead for good | 1.00% | ~2,336 |
 | Lust and Debauchery | 1.00% | ~2,336 |
-| Thieves' Guild Accreditation | 1.00% | ~2,336 |
 | Material Girl | 1.00% | ~2,336 |
 | Gargantua | 0.90% | ~2,103 |
 | In Navalu's footsteps | 0.80% | ~1,869 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,629 (Ranked 60)  
+Progressed: 233,640 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,11 +245,11 @@ Completed: 7 (0.00%) (Ranked 329)
 | 2023-10-25 | 233,101 | 7 |
 | 2023-10-26 | 233,279 | 7 |
 | 2023-10-27 | 233,450 | 7 |
-| 2023-10-28 | 233,629 | 7 |
+| 2023-10-28 | 233,640 | 7 |
 ## Awards
-Max (Character Customization): 224  (Ranked 268)  
+Max (Character Customization): 224  (Ranked 269)  
 Sum: 443 (Ranked 327)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 224 |

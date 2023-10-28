@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2256,9 +2256,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43734,
+  "EOS_Progressed": 43735,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8101,6 +8101,11 @@
       "Time": "2023-10-28T16:06:47.7189509+00:00",
       "NumProgressed": 43734,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-28T19:06:47.3360689+00:00",
+      "NumProgressed": 43735,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8112,7 +8117,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27115
+      "UsersEstimate": 27116
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8144,7 +8149,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5685
+      "UsersEstimate": 5686
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -8216,7 +8221,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17056
+      "UsersEstimate": 17057
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -8304,7 +8309,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27552
+      "UsersEstimate": 27553
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8352,7 +8357,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8309
+      "UsersEstimate": 8310
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -8368,7 +8373,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15744
+      "UsersEstimate": 15745
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -8408,7 +8413,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18368
+      "UsersEstimate": 18369
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -8416,7 +8421,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22304
+      "UsersEstimate": 22305
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8440,7 +8445,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30176
+      "UsersEstimate": 30177
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8472,7 +8477,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24928
+      "UsersEstimate": 24929
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8488,7 +8493,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15744
+      "UsersEstimate": 15745
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -8504,7 +8509,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19680
+      "UsersEstimate": 19681
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -8512,7 +8517,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28864
+      "UsersEstimate": 28865
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8568,7 +8573,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28864
+      "UsersEstimate": 28865
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -8632,22 +8637,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15744
+      "UsersEstimate": 15745
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43734,
+      "Progressed": 43735,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-28T18:06:48.2718744+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:10:33.9191728+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:06:47.3360683+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:33.435612+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:06:48.2718752+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:33.9192784+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:03:28.7808089+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:47.3362442+00:00"
 }

@@ -7,7 +7,7 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 73.00% | ~7,243 |
-| Leader | 60.00% | ~5,953 |
+| Leader | 61.00% | ~6,052 |
 | Explorer | 53.00% | ~5,259 |
 | Healer | 52.00% | ~5,159 |
 | Aspiring Inventor | 44.00% | ~4,366 |
@@ -259,9 +259,9 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-27 | 9,902 | 0 |
 | 2023-10-28 | 9,922 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 345)  
+Max (Extremely Fun): 103  (Ranked 346)  
 Sum: 717 (Ranked 288)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

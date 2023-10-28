@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1833,9 +1833,9 @@
       "Count": 291
     }
   ],
-  "EOS_Progressed": 8118,
+  "EOS_Progressed": 8119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6048,6 +6048,11 @@
       "Time": "2023-10-28T18:10:50.999067+00:00",
       "NumProgressed": 8118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T19:07:02.3603079+00:00",
+      "NumProgressed": 8119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6068,7 +6073,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ach03",
@@ -6076,7 +6081,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ach04",
@@ -6100,7 +6105,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "ach07",
@@ -6188,7 +6193,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "ach18",
@@ -6228,7 +6233,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "ach23",
@@ -6244,7 +6249,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "ach25",
@@ -6284,7 +6289,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "ach30",
@@ -6348,7 +6353,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4627
+      "UsersEstimate": 4628
     },
     {
       "ID": "ach38",
@@ -6364,7 +6369,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3247
+      "UsersEstimate": 3248
     },
     {
       "ID": "ach40",
@@ -6459,7 +6464,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8118,
+      "Progressed": 8119,
       "Completed": 0
     }
   ],
@@ -6467,8 +6472,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-28T12:00:30.9608263+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:10:50.9990659+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:07:02.3603051+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:04:34.3377862+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:50.9991807+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:00:30.4787722+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:07:02.3604295+00:00"
 }

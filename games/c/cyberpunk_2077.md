@@ -1,12 +1,12 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 327)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,885 |
+| V for Vendetta | 2.00% | ~17,886 |
 | Gun Fu | 0.80% | ~7,154 |
 | Ten out of Ten | 0.80% | ~7,154 |
 | Full Body Conversion | 0.60% | ~5,366 |
@@ -23,7 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,471 |
 | Two Heads, One Bullet | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
-| Relic Ruler | 0.50% | ~114 |
+| Relic Ruler | 0.50% | ~115 |
 | Bushido and Chill | 0.40% | ~3,577 |
 | Gunslinger | 0.40% | ~3,577 |
 | Christmas Tree Attack | 0.40% | ~3,577 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,270 (Ranked 15)  
-Completed: 2,724 (0.30%) (Ranked 214)  
+Progressed: 894,281 (Ranked 15)  
+Completed: 2,725 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 2,724 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,270 | 2,724 |
+| 2023-10-28 | 894,281 | 2,725 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 331,348 (Ranked 10)  

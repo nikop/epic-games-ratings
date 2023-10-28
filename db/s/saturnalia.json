@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67634,
+  "EOS_Progressed": 67640,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13561,6 +13561,11 @@
       "Time": "2023-10-28T18:08:25.966355+00:00",
       "NumProgressed": 67634,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-28T19:04:53.8429131+00:00",
+      "NumProgressed": 67640,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -13578,9 +13583,9 @@
       "ID": "ACH_BONFIRES",
       "SetID": "6ccjg6f",
       "Name": "Bonfire Lit",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2706
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -13708,7 +13713,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -13731,7 +13736,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67634,
+      "Progressed": 67640,
       "Completed": 16
     }
   ],
@@ -13739,8 +13744,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:08:25.9663539+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:04:53.8429119+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:06:26.2566604+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:08:25.9664736+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:03:08.8418992+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:04:53.8430932+00:00"
 }

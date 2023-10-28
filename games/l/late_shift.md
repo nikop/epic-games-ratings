@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~545 |
-| Fair Share | 69.00% | ~396 |
+| Fair Share | 70.00% | ~402 |
 | Even Tempered | 57.00% | ~327 |
 | Star-Crossed Lovers | 47.00% | ~270 |
 | The Delivery | 45.00% | ~258 |

@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 326)  
+Rating: 4.64 (Ranked 327)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 326)
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
 | Series Wrap on Suit-O | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
+| Eatin' Good in the Neighborhood | 0.80% | ~195 |
 | We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
-| Eatin' Good in the Neighborhood | 0.70% | ~171 |
 | Eye Scream, You Scream | 0.70% | ~171 |
 | Mux Ado About Shipping | 0.60% | ~10 |
 | Fall In Love With A Parasite | 0.40% | ~7 |

@@ -2,12 +2,12 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14318,9 +14318,9 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894270,
-  "EOS_Completed": 2724,
-  "EOS_NewPlayers": 1163,
+  "EOS_Progressed": 894281,
+  "EOS_Completed": 2725,
+  "EOS_NewPlayers": 1158,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -36003,6 +36003,11 @@
       "Time": "2023-10-28T18:07:34.478612+00:00",
       "NumProgressed": 894270,
       "NumCompleted": 2724
+    },
+    {
+      "Time": "2023-10-28T19:04:08.0343528+00:00",
+      "NumProgressed": 894281,
+      "NumCompleted": 2725
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36343,7 +36348,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17885
+      "UsersEstimate": 17886
     },
     {
       "ID": "YipMan",
@@ -36455,7 +36460,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "UltimateSurvivor",
@@ -36534,21 +36539,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894270,
-      "Completed": 2724
+      "Progressed": 894281,
+      "Completed": 2725
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22893,
+      "Progressed": 22904,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T15:56:58.2613033+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:07:34.4786108+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:04:08.034352+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:00:42.0407931+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:07:34.47882+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:57:19.3746311+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:04:08.0346124+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14422,
+  "EOS_Progressed": 14424,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9813,6 +9813,11 @@
       "Time": "2023-10-28T18:07:24.1735063+00:00",
       "NumProgressed": 14422,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-28T19:03:58.8075798+00:00",
+      "NumProgressed": 14424,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9863,9 +9868,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "15",
@@ -9911,9 +9916,9 @@
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "20",
@@ -10104,13 +10109,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14422,
+      "Progressed": 14424,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 376,
+      "Progressed": 378,
       "Completed": 286
     }
   ],
@@ -10118,8 +10123,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:07:24.1735053+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:03:58.807579+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:01:10.7844574+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:07:24.1735952+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:57:43.0475851+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:03:58.8077378+00:00"
 }

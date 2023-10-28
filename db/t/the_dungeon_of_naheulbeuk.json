@@ -3,12 +3,12 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 440,
-  "Ranking_Popularity": 268,
+  "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1233,7 +1233,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233629,
+  "EOS_Progressed": 233640,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 1,
@@ -16438,6 +16438,11 @@
       "Time": "2023-10-28T18:10:46.1226575+00:00",
       "NumProgressed": 233629,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T19:06:57.8807939+00:00",
+      "NumProgressed": 233640,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16497,7 +16502,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11681
+      "UsersEstimate": 11682
     },
     {
       "ID": "Chapter2",
@@ -16505,7 +16510,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "Chapter3",
@@ -16881,7 +16886,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "ElfEpic",
@@ -16897,7 +16902,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79434
+      "UsersEstimate": 79438
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16913,7 +16918,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "EndCombatOneHp",
@@ -16945,7 +16950,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16354
+      "UsersEstimate": 16355
     },
     {
       "ID": "FollowBraztok",
@@ -17087,9 +17092,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2336
+      "UsersEstimate": 4673
     },
     {
       "ID": "Speedrun",
@@ -17097,7 +17102,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "SupportCount4",
@@ -17152,21 +17157,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233629,
+      "Progressed": 233640,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233629,
+      "Progressed": 233640,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-27T08:58:04.965765+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:10:46.1226564+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:06:57.8807933+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:02:26.9558892+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:46.1228619+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:58:42.9760604+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:57.8810112+00:00"
 }

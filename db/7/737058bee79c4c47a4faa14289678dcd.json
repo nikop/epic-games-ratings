@@ -2,9 +2,9 @@
   "ID": "737058bee79c4c47a4faa14289678dcd",
   "Name": "Monsters of Mican",
   "ProductSlug": "monsters-of-mican-02e3ee",
-  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Progress": 599,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-27T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-10-28T01:42:54.5403502+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T19:03:54.7708148+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -132,7 +137,7 @@
       "ID": "MagmaAdmirer",
       "SetID": "4j06hlp",
       "Name": "Magma Admirer",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -188,7 +193,7 @@
       "ID": "ThinkLikeARabbit",
       "SetID": "4j06hlp",
       "Name": "Think Like a Rabbit",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -213,13 +218,13 @@
     {
       "ID": "4j06hlp",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:07:19.3113298+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:03:54.770814+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9513911+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:03:41.4332308+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:07:19.3113475+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:59:48.4355925+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:03:54.7708393+00:00"
 }

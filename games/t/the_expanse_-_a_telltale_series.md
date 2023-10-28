@@ -19,14 +19,14 @@ Rating: 4.59 (Ranked 423)
 | Heal Thy Medic | 0.40% | ~58 |
 | Impossible Objects | 0.40% | ~58 |
 | Data Archivist | 0.30% | ~43 |
+| Doctor Approved | 0.30% | ~43 |
 | Thorston Mayer | 0.30% | ~43 |
 | Khan's Revenge | 0.30% | ~43 |
-| Doctor Approved | 0.20% | ~29 |
 | Bottoms up! | 0.20% | ~29 |
+| Data Logger | 0.20% | ~29 |
 | Miraculous Maya | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
-| Data Logger | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
 | Data Collector | 0.10% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 423)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,422 (Ranked 144)  
+Progressed: 14,424 (Ranked 144)  
 Completed: 28 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 28 (0.19%) (Ranked 236)
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
-| 2023-10-28 | 14,422 | 28 |
+| 2023-10-28 | 14,424 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

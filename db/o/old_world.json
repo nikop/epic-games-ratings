@@ -1858,11 +1858,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1854,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-10-28T18:57:55.1673902+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1856,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1854,
-  "NumberOfAwardsMax": 224,
+  "NumberOfAwards": 1856,
+  "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1911,13 +1917,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 187
+      "Count": 188
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1938,9 +1944,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15009,
+  "EOS_Progressed": 15013,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14893,6 +14899,11 @@
       "Time": "2023-10-28T18:10:26.2555721+00:00",
       "NumProgressed": 15009,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-28T19:06:40.5897654+00:00",
+      "NumProgressed": 15013,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -14958,9 +14969,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -15336,7 +15347,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -15528,7 +15539,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -15822,9 +15833,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -16656,7 +16667,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -16878,9 +16889,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -17639,21 +17650,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15009,
+      "Progressed": 15013,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15009,
+      "Progressed": 15013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:10:26.255571+00:00",
+  "LastChanged": "2023-10-28T18:57:55.1673899+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:06:40.5897645+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:01:27.1249015+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:10:26.2569625+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:57:55.1673907+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:40.5920637+00:00"
 }

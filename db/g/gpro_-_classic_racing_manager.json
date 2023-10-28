@@ -4,7 +4,7 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1139,9 +1139,9 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_189",
@@ -1707,9 +1707,9 @@
       "ID": "ACHIEVEMENT_307",
       "SetID": "76k7b7p",
       "Name": "Reliability expert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_308",
@@ -2306,8 +2306,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-10-28T18:09:49.3901298+00:00",
+  "LastChanged_Achievements": "2023-10-28T19:06:07.8072019+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.7206099+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:01:41.7550968+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:09:49.3905105+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:58:08.0628114+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:06:07.8075715+00:00"
 }

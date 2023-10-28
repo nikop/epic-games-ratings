@@ -2,7 +2,7 @@
   "ID": "bafe9fd9f4f24ebea94a70a1fb3043fe",
   "Name": "Freedom Fighters",
   "ProductSlug": "freedom-fighters",
-  "Ranking_Rating": 342,
+  "Ranking_Rating": 307,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2022-12-09T23:57:05.1665755+00:00",
@@ -83,6 +83,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-28T19:03:19.9762517+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -101,8 +107,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:41.5852306+00:00",
   "FirstSeenRating": "2022-12-09T23:57:05.1665752+00:00",
-  "LastChanged": "2023-09-04T23:58:50.4992797+00:00",
+  "LastChanged": "2023-10-28T19:03:19.9762513+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.918006+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:06:37.2605667+00:00",
-  "LastUpdate_Achievements": "2023-10-28T18:11:49.8851148+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:03:19.9762521+00:00",
+  "LastUpdate_Achievements": "2023-10-28T19:08:24.2571679+00:00"
 }
