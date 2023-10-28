@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Inquisitor | 38.00% | ~179 |
 | Goblin Tales | 31.00% | ~146 |
+| Boss Killer | 24.00% | ~113 |
 | Bug Hunter | 24.00% | ~113 |
-| Boss Killer | 23.00% | ~108 |
 | The Fallen | 21.00% | ~99 |
 | Artifact Collector | 20.00% | ~94 |
 | Trap Master | 20.00% | ~94 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1406,7 +1406,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130158,
+  "EOS_Progressed": 130159,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
@@ -20281,6 +20281,11 @@
       "Time": "2023-10-28T07:08:15.9834053+00:00",
       "NumProgressed": 130158,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-28T08:08:43.8870702+00:00",
+      "NumProgressed": 130159,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20324,7 +20329,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23428
+      "UsersEstimate": 23429
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20372,7 +20377,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36444
+      "UsersEstimate": 36445
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20484,7 +20489,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7809
+      "UsersEstimate": 7810
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -20611,15 +20616,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130158,
+      "Progressed": 130159,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-26T16:59:51.8578507+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:08:15.9834048+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:08:43.8870697+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:01:37.0709898+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:08:15.983584+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:01:27.957804+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:08:43.8872462+00:00"
 }

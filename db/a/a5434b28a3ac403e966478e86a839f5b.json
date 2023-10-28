@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -1345,6 +1345,11 @@
       "Time": "2023-10-28T07:06:00.4042505+00:00",
       "NumProgressed": 468,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-28T08:06:29.5459597+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1365,7 +1370,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_eou2",
@@ -1381,7 +1386,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_eou4",
@@ -1389,7 +1394,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_eou5",
@@ -1460,14 +1465,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:06:00.4042499+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:06:29.5459588+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:01:17.5576486+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:06:00.4042945+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:01:09.0672121+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:06:29.545981+00:00"
 }

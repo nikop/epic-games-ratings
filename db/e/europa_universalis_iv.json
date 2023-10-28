@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11289,9 +11289,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440980,
+  "EOS_Progressed": 441015,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5291,
+  "EOS_NewPlayers": 5285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33039,6 +33039,11 @@
       "Time": "2023-10-28T07:03:39.6099244+00:00",
       "NumProgressed": 440980,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T08:04:10.3109639+00:00",
+      "NumProgressed": 441015,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34050,7 +34055,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17639
+      "UsersEstimate": 17641
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34074,7 +34079,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13229
+      "UsersEstimate": 13230
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35330,7 +35335,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13229
+      "UsersEstimate": 13230
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35714,7 +35719,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17639
+      "UsersEstimate": 17641
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35746,7 +35751,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17639
+      "UsersEstimate": 17641
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35881,21 +35886,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440980,
+      "Progressed": 441015,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440980,
+      "Progressed": 441015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-28T04:57:56.1133138+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:03:39.6099237+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:04:10.3109634+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:58:14.939197+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:03:39.6114475+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:58:08.825976+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:04:10.3120964+00:00"
 }

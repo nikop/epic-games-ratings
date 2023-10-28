@@ -82,13 +82,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~150 |
 | Kushite Pyramids | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 0.90% | ~135 |
+| Invincible | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
 | Power to the People | 0.90% | ~135 |
 | Persian Paganism | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
-| Invincible | 0.80% | ~120 |
 | Subjugator | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
 | Traders | 0.80% | ~120 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,995 (Ranked 142)  
+Progressed: 14,996 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 14,995 | 5 |
+| 2023-10-28 | 14,996 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

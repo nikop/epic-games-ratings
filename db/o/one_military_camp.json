@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1091,9 +1091,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1155,9 +1155,9 @@
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1178,8 +1178,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:06:27.0420876+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:06:55.3711853+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:26.475463+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:58:12.2249486+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:06:27.0421544+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:58:06.1985586+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:06:55.3712352+00:00"
 }

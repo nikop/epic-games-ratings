@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,10 +193,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14405,
+  "EOS_Progressed": 14407,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 232,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 233,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -9773,6 +9773,11 @@
       "Time": "2023-10-28T06:03:15.4783797+00:00",
       "NumProgressed": 14405,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-28T08:04:08.6343409+00:00",
+      "NumProgressed": 14407,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9943,9 +9948,9 @@
       "ID": "28",
       "SetID": "458bbdk",
       "Name": "Scavenger Star",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "29",
@@ -10064,13 +10069,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14405,
+      "Progressed": 14407,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 359,
+      "Progressed": 361,
       "Completed": 286
     }
   ],
@@ -10078,8 +10083,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:03:38.344483+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:04:08.6343403+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:57:37.1347707+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:03:38.3445897+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:57:32.0924033+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:04:08.6344544+00:00"
 }

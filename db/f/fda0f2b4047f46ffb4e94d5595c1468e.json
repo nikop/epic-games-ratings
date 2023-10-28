@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1741,18 +1741,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 3940,
       "NumberOfAwardsMax": 1342
+    },
+    {
+      "Time": "2023-10-28T08:00:41.1774019+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3951,
+      "NumberOfAwardsMax": 1353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3940,
-  "NumberOfAwardsMax": 1342,
+  "NumberOfAwards": 3951,
+  "NumberOfAwardsMax": 1353,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1342
+      "Count": 1353
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1821,9 +1827,9 @@
       "Count": 291
     }
   ],
-  "EOS_Progressed": 8104,
+  "EOS_Progressed": 8105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6001,6 +6007,11 @@
       "Time": "2023-10-28T07:07:05.4888139+00:00",
       "NumProgressed": 8104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T08:07:33.650308+00:00",
+      "NumProgressed": 8105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6013,7 +6024,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ach02",
@@ -6053,7 +6064,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach07",
@@ -6061,7 +6072,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4457
+      "UsersEstimate": 4458
     },
     {
       "ID": "ach08",
@@ -6141,7 +6152,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4215
     },
     {
       "ID": "ach18",
@@ -6149,7 +6160,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ach19",
@@ -6221,7 +6232,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ach28",
@@ -6229,7 +6240,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "ach29",
@@ -6253,7 +6264,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "ach32",
@@ -6277,7 +6288,7 @@
       "Name": "Always Accessorize",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2593
+      "UsersEstimate": 2594
     },
     {
       "ID": "ach35",
@@ -6301,7 +6312,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "ach38",
@@ -6333,7 +6344,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2998
+      "UsersEstimate": 2999
     },
     {
       "ID": "ach42",
@@ -6412,16 +6423,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8104,
+      "Progressed": 8105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-28T05:00:07.5445323+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:07:05.4888132+00:00",
+  "LastChanged": "2023-10-28T08:00:41.1774017+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:07:33.6503074+00:00",
   "LastUpdate_AppInfo": "2023-10-21T07:57:18.1552913+00:00",
-  "LastUpdate_Ratings": "2023-10-28T07:00:49.149414+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:07:05.4888986+00:00"
+  "LastUpdate_Ratings": "2023-10-28T08:00:41.1774023+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:07:33.6503961+00:00"
 }

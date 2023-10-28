@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2077,
+  "EOS_Progressed": 2078,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6351,6 +6351,11 @@
       "Time": "2023-10-27T20:03:25.030529+00:00",
       "NumProgressed": 2077,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-28T08:04:17.9487724+00:00",
+      "NumProgressed": 2078,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6426,7 +6431,7 @@
       "Name": "Challenger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "conqueror",
@@ -6450,7 +6455,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "doingmypart",
@@ -6458,7 +6463,7 @@
       "Name": "Doing My Part",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "dragonclicker",
@@ -6546,7 +6551,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "fourleafclover",
@@ -6554,7 +6559,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "frostfireliberator",
@@ -6562,7 +6567,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "fullparty",
@@ -6682,7 +6687,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "milestonecollector",
@@ -6714,7 +6719,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "mysteriousrock",
@@ -6770,7 +6775,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "sailor",
@@ -6794,7 +6799,7 @@
       "Name": "Scroll Master",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "silverwoodliberator",
@@ -6922,7 +6927,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "warmachinesarmy",
@@ -6954,14 +6959,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2077,
+      "Progressed": 2078,
       "Completed": 2
     }
   ],
@@ -6969,8 +6974,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-27T19:02:30.0418607+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:03:47.330473+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:04:17.9487716+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.2066183+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:57:25.5111726+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:03:47.3306282+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:57:19.9406704+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:04:17.9489117+00:00"
 }

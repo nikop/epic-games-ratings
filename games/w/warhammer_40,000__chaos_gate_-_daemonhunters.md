@@ -50,13 +50,14 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.30% | ~10 |
 | Exercise in Restraint | 0.30% | ~10 |
 | True Mastery | 0.30% | ~10 |
+| Abomination | 0.30% | ~10 |
 | The Flesh is Weak | 0.20% | ~7 |
 | Blood and Iron | 0.20% | ~7 |
 | Clean Slate | 0.20% | ~7 |
 | Phalanx | 0.20% | ~7 |
 | Strategic Command | 0.20% | ~7 |
-| Abomination | 0.20% | ~7 |
 | Killing Rampage | 0.20% | ~7 |
+| Deadshot | 0.20% | ~7 |
 | Terminal Meltdown | 0.20% | ~7 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Crisis Management | 0.10% | ~3 |
@@ -70,7 +71,6 @@ Number of Ratings: 371  (23.09.2022)
 | Brothers in Arms | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
-| Deadshot | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |

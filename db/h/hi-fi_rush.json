@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4181,
+  "EOS_Progressed": 4183,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7159,6 +7159,11 @@
       "Time": "2023-10-28T04:05:11.9060674+00:00",
       "NumProgressed": 4181,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T08:05:37.7949534+00:00",
+      "NumProgressed": 4183,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7194,7 +7199,7 @@
       "Name": "The Negotiator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach005",
@@ -7202,7 +7207,7 @@
       "Name": "Headliner",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach006",
@@ -7210,7 +7215,7 @@
       "Name": "Time to pay up!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach007",
@@ -7224,9 +7229,9 @@
       "ID": "Ach008",
       "SetID": "12n4k20",
       "Name": "Easy Listening",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach009",
@@ -7370,7 +7375,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach027",
@@ -7394,7 +7399,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach030",
@@ -7538,7 +7543,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Ach048",
@@ -7570,7 +7575,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "Ach052",
@@ -7586,7 +7591,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Ach054",
@@ -7672,9 +7677,9 @@
       "ID": "Ach064",
       "SetID": "b7dbjo0",
       "Name": "Choose your own adventure",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach065",
@@ -7737,13 +7742,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4181,
+      "Progressed": 4183,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2702,
+      "Progressed": 2704,
       "Completed": 1930
     }
   ],
@@ -7751,8 +7756,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-28T07:05:08.3045093+00:00",
+  "LastChanged_Achievements": "2023-10-28T08:05:37.7949526+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T06:58:40.2936525+00:00",
-  "LastUpdate_Achievements": "2023-10-28T07:05:08.3046565+00:00"
+  "LastUpdate_Ratings": "2023-10-28T07:58:33.4382454+00:00",
+  "LastUpdate_Achievements": "2023-10-28T08:05:37.795101+00:00"
 }

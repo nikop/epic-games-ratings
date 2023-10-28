@@ -5,26 +5,26 @@ Rating: 4.44 (Ranked 668)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 73.00% | ~103,679 |
-| Delving Onward | 51.00% | ~72,433 |
-| Suit Up | 46.00% | ~65,332 |
-| Miner's Helper | 45.00% | ~63,912 |
-| To the Mountain's Roots | 18.00% | ~25,565 |
-| Line of Azog, Ended | 13.00% | ~18,463 |
-| Covered Head to Toe | 11.00% | ~15,623 |
-| Remains To Be Seen | 6.00% | ~8,522 |
-| Risk a Little Real Light | 4.00% | ~5,681 |
-| Westgate Weaponcraft | 2.00% | ~2,841 |
-| Deeps Weaponcraft | 0.90% | ~1,278 |
-| False King, Deposed | 0.80% | ~1,136 |
-| Caradhras The Cruel | 0.80% | ~1,136 |
-| A Memory of this Place | 0.80% | ~1,136 |
-| Battering Ram | 0.60% | ~852 |
-| Eregion Weaponcraft | 0.60% | ~852 |
-| Baruk Khazâd! | 0.50% | ~710 |
-| Master of All Trades | 0.50% | ~710 |
-| Decked Out | 0.40% | ~568 |
-| Shadow's Bane | 0.20% | ~284 |
+| Speak Friend | 73.00% | ~103,987 |
+| Delving Onward | 51.00% | ~72,648 |
+| Suit Up | 46.00% | ~65,526 |
+| Miner's Helper | 45.00% | ~64,102 |
+| To the Mountain's Roots | 18.00% | ~25,641 |
+| Line of Azog, Ended | 13.00% | ~18,518 |
+| Covered Head to Toe | 11.00% | ~15,669 |
+| Remains To Be Seen | 6.00% | ~8,547 |
+| Risk a Little Real Light | 4.00% | ~5,698 |
+| Westgate Weaponcraft | 2.00% | ~2,849 |
+| Deeps Weaponcraft | 0.90% | ~1,282 |
+| False King, Deposed | 0.80% | ~1,140 |
+| Caradhras The Cruel | 0.80% | ~1,140 |
+| A Memory of this Place | 0.80% | ~1,140 |
+| Eregion Weaponcraft | 0.70% | ~997 |
+| Battering Ram | 0.60% | ~855 |
+| Baruk Khazâd! | 0.50% | ~712 |
+| Master of All Trades | 0.50% | ~712 |
+| Decked Out | 0.40% | ~570 |
+| Shadow's Bane | 0.20% | ~285 |
 | Guarded from Despair | 0.10% | ~142 |
 | Hard-headed | 0.10% | ~142 |
 | Shielded | 0.10% | ~142 |
@@ -33,7 +33,7 @@ Rating: 4.44 (Ranked 668)
 | Darkness Is Passing | 0.10% | ~142 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,026 (Ranked 75)  
+Progressed: 142,448 (Ranked 75)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,7 +42,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 88,690 | 0 |
 | 2023-10-26 | 114,492 | 0 |
 | 2023-10-27 | 135,952 | 0 |
-| 2023-10-28 | 142,026 | 0 |
+| 2023-10-28 | 142,448 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
