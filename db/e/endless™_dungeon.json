@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -830,6 +830,11 @@
       "Time": "2023-10-28T03:03:32.5552801+00:00",
       "NumProgressed": 839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T05:03:23.6017104+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -922,7 +927,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1081,14 +1086,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:03:46.5541458+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:03:23.6017096+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:01:26.9859775+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:03:46.5541805+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:01:03.0454803+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:03:23.6018029+00:00"
 }

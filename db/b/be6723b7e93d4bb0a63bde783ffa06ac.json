@@ -285,9 +285,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach3",
@@ -371,8 +371,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:05:42.5295102+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:05:08.0148564+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:59:57.4224732+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:05:42.5295301+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:59:42.110878+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:05:08.0149397+00:00"
 }

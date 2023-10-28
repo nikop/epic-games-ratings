@@ -1187,10 +1187,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 320,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-28T05:01:31.0293465+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 320,
+  "NumberOfAwards": 322,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1234,7 +1240,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1249,9 +1255,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155041,
+  "EOS_Progressed": 155048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13334,6 +13340,11 @@
       "Time": "2023-10-28T04:05:27.6207878+00:00",
       "NumProgressed": 155041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T05:04:54.4630195+00:00",
+      "NumProgressed": 155048,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13399,9 +13410,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 465
+      "UsersEstimate": 620
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -13641,7 +13652,7 @@
       "Name": "Dream",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "QUEST_CODA",
@@ -13712,21 +13723,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154624,
+      "Progressed": 154631,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155041,
+      "Progressed": 155048,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-26T19:00:19.7299619+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:05:27.6207874+00:00",
+  "LastChanged": "2023-10-28T05:01:31.0293463+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:04:54.4630189+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:01:56.8057551+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:05:27.6208781+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:01:31.029347+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:04:54.4631412+00:00"
 }

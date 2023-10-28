@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39300,
+  "EOS_Progressed": 39301,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21178,6 +21178,11 @@
       "Time": "2023-10-28T03:04:33.4616879+00:00",
       "NumProgressed": 39300,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T05:04:25.0706989+00:00",
+      "NumProgressed": 39301,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -21269,7 +21274,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -21285,7 +21290,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -21420,7 +21425,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39300,
+      "Progressed": 39301,
       "Completed": 26
     }
   ],
@@ -21428,8 +21433,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:04:55.1625027+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:04:25.0706983+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:51.3681907+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:59:49.0063743+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:04:55.1626179+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:59:34.6874002+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:04:25.070852+00:00"
 }

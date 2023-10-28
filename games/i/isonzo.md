@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 478)  
+Rating: 4.57 (Ranked 462)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,11 +10,11 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 54.00% | ~3,826 |
 | You Shall Not Pass | 54.00% | ~3,826 |
 | Avanti Savoia! | 48.00% | ~3,401 |
-| Mamma Mia! | 38.00% | ~2,692 |
+| Mamma Mia! | 38.00% | ~2,693 |
 | Conrad von Hotzensocks | 36.00% | ~2,551 |
 | Gabriele D'Annunzio | 34.00% | ~2,409 |
-| Silver Lining | 31.00% | ~2,196 |
-| Aurelio Baruzzi | 24.00% | ~1,700 |
+| Silver Lining | 30.00% | ~2,126 |
+| Aurelio Baruzzi | 24.00% | ~1,701 |
 | Decimation | 22.00% | ~1,559 |
 | Donatello | 22.00% | ~1,559 |
 | The Italian Job | 22.00% | ~1,559 |
@@ -32,7 +32,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Devil's Paintbrush | 12.00% | ~850 |
 | Dante's Inferno | 11.00% | ~779 |
 | Millenial | 11.00% | ~779 |
-| I Have the High Ground | 10.00% | ~708 |
+| I Have the High Ground | 10.00% | ~709 |
 | The Show Must Go On | 9.00% | ~638 |
 | Tosca | 9.00% | ~638 |
 | 12th Bottle of the Isonzo | 7.00% | ~496 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,085 (Ranked 168)  
+Progressed: 7,086 (Ranked 168)  
 Completed: 9 (0.13%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,21 +237,23 @@ Completed: 9 (0.13%) (Ranked 248)
 | 2023-10-25 | 7,080 | 9 |
 | 2023-10-26 | 7,083 | 9 |
 | 2023-10-27 | 7,085 | 9 |
+| 2023-10-28 | 7,086 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 460)  
-Sum: 274 (Ranked 366)  
-Diff (max vs sum): 94  
+Sum: 271 (Ranked 368)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 33 |
-| This game has Diverse Characters | 32 |
-| This game has Realistic Visuals | 32 |
+| This game has Diverse Characters | 33 |
+| This game has Realistic Visuals | 33 |
 | This game has Amazing Characters | 31 |
+| This game has Challenging Combat | 30 |
 | This game has Quickly Understood Controls | 29 |
-| This game has Challenging Combat | 29 |
 | This game is Educational | 28 |
-| This game has Competitive Players | 24 |
+| This game has Competitive Players | 25 |
+| This game has Amazing Storytelling | 21 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -366,3 +368,4 @@ Diff (max vs sum): 94
 | 2023-09-12 | 4.55 | - | 36 | 273 |
 | 2023-09-15 | 4.56 | - | 36 | 273 |
 | 2023-09-23 | 4.56 | - | 36 | 274 |
+| 2023-10-28 | 4.57 | - | 36 | 271 |

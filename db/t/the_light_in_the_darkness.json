@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2570,
+  "EOS_Progressed": 2571,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 8.91,
   "EosHistory": [
@@ -6826,6 +6826,11 @@
       "Time": "2023-10-27T19:10:00.5854631+00:00",
       "NumProgressed": 2570,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-10-28T05:09:10.6468122+00:00",
+      "NumProgressed": 2571,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 12,
@@ -6845,7 +6850,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Building the Fox",
@@ -6917,7 +6922,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "Nuremberg Laws",
@@ -6925,14 +6930,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2570,
+      "Progressed": 2571,
       "Completed": 229
     }
   ],
@@ -6940,8 +6945,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:09:34.535599+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:09:10.6468115+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.9217404+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:58:28.9920222+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:09:34.5356383+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:58:19.802342+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:09:10.6469025+00:00"
 }

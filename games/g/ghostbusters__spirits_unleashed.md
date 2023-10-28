@@ -28,6 +28,7 @@ Rating: 4.50 (Ranked 578)
 | There you are! | 2.00% | ~560 |
 | Whoopsie | 2.00% | ~560 |
 | We have the best insurance | 1.00% | ~280 |
+| Collector | 1.00% | ~280 |
 | Legions | 1.00% | ~280 |
 | Pesky Jerks | 1.00% | ~280 |
 | Rift Destroyer | 1.00% | ~280 |
@@ -38,7 +39,6 @@ Rating: 4.50 (Ranked 578)
 | Terrifying | 1.00% | ~280 |
 | Tobin's Prodigy | 1.00% | ~280 |
 | Welcome to the Crew | 1.00% | ~280 |
-| Collector | 0.90% | ~252 |
 | Escape Artist | 0.90% | ~252 |
 | Diabolical | 0.80% | ~224 |
 | Reckless | 0.80% | ~224 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,977 (Ranked 122)  
+Progressed: 27,982 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 27,977 | 65 |
+| 2023-10-28 | 27,982 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
 Sum: 2,574 (Ranked 181)  

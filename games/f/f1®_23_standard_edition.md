@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 226)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,269 |
-| On the Top Step | 90.00% | ~3,097 |
-| Setting up for Success | 80.00% | ~2,753 |
+| Getting on the Step | 95.00% | ~3,270 |
+| On the Top Step | 90.00% | ~3,098 |
+| Setting up for Success | 80.00% | ~2,754 |
 | Team Orders | 77.00% | ~2,650 |
-| Engineer | 57.00% | ~1,961 |
+| Engineer | 57.00% | ~1,962 |
 | Familiar Faces | 51.00% | ~1,755 |
-| Going the Extra Mile | 45.00% | ~1,548 |
+| Going the Extra Mile | 45.00% | ~1,549 |
 | Sharing the Love | 44.00% | ~1,514 |
-| Hitting a Season | 42.00% | ~1,445 |
+| Hitting a Season | 42.00% | ~1,446 |
 | Challenge Yourself | 36.00% | ~1,239 |
-| A Dozen Pieces | 35.00% | ~1,204 |
+| A Dozen Pieces | 35.00% | ~1,205 |
 | Making History | 34.00% | ~1,170 |
-| Writing a new Chapter | 28.00% | ~963 |
+| Writing a new Chapter | 28.00% | ~964 |
 | Network Success | 27.00% | ~929 |
 | Spring Cleaning | 25.00% | ~860 |
 | Reduce | 22.00% | ~757 |
@@ -25,7 +25,7 @@ Rating: 4.69 (Ranked 226)
 | Crucial Combo | 20.00% | ~688 |
 | Reuse | 19.00% | ~654 |
 | One for the Book | 19.00% | ~654 |
-| Proving Them Wrong | 18.00% | ~619 |
+| Proving Them Wrong | 18.00% | ~620 |
 | Gathering Dust | 17.00% | ~585 |
 | Oil and Water | 17.00% | ~585 |
 | Hitting a Bullseye | 16.00% | ~551 |
@@ -41,7 +41,7 @@ Rating: 4.69 (Ranked 226)
 | For all Those Back at the Factory | 7.00% | ~241 |
 | Living up to Expectations | 7.00% | ~241 |
 | Smooth Operator | 7.00% | ~241 |
-| Peak Performance | 6.00% | ~206 |
+| Peak Performance | 6.00% | ~207 |
 | Loyal Bond | 5.00% | ~172 |
 | Hitting a Century | 4.00% | ~138 |
 | Seasoned Rookie | 3.00% | ~103 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 226)
 | Elite Racer | 0.10% | ~3 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,441 (Ranked 195)  
+Progressed: 3,442 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 3,391 | 0 |
 | 2023-10-26 | 3,415 | 0 |
 | 2023-10-27 | 3,438 | 0 |
-| 2023-10-28 | 3,441 | 0 |
+| 2023-10-28 | 3,442 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

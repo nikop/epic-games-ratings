@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7241,
+  "EOS_Progressed": 7242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5437,6 +5437,11 @@
       "Time": "2023-10-28T04:09:21.882078+00:00",
       "NumProgressed": 7241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T05:08:59.0502353+00:00",
+      "NumProgressed": 7242,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5481,7 +5486,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -5495,9 +5500,9 @@
       "ID": "CHAPTER_7_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Flaming Hot Completos",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 507
+      "UsersEstimate": 579
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -5585,7 +5590,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3041
+      "UsersEstimate": 3042
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5593,7 +5598,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -5665,7 +5670,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -5681,7 +5686,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -5728,7 +5733,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7241,
+      "Progressed": 7242,
       "Completed": 0
     }
   ],
@@ -5736,8 +5741,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-28T04:09:21.8820776+00:00",
+  "LastChanged_Achievements": "2023-10-28T05:08:59.0502346+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:59:09.8268955+00:00",
-  "LastUpdate_Achievements": "2023-10-28T04:09:21.8821253+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:58:58.0329906+00:00",
+  "LastUpdate_Achievements": "2023-10-28T05:08:59.0503383+00:00"
 }
