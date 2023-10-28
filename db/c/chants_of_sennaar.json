@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 329,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.73,
+  "EOS_Completed_Percentage": 6.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1540,6 +1540,11 @@
       "Time": "2023-10-27T18:04:26.2073141+00:00",
       "NumProgressed": 327,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-28T14:06:07.6263581+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1599,7 +1604,7 @@
       "Name": "Open door",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1685,9 +1690,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1719,7 +1724,7 @@
       "Name": "The great escape",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PROGRESS_N3",
@@ -1750,14 +1755,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 329,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:06:53.2528403+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:06:07.6263577+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:00:07.2973027+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:06:53.2528614+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:58:55.0591774+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:06:07.6263798+00:00"
 }

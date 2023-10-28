@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 530,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-10-28T12:06:18.7336391+00:00",
       "NumProgressed": 528,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T14:06:46.1384544+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -939,7 +944,7 @@
       "Name": "Rookie",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 419
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -955,7 +960,7 @@
       "Name": "Out of control",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1099,7 +1104,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1129,9 +1134,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -1195,15 +1200,15 @@
       "Name": "Spin the wheel",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 127
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1211,7 +1216,7 @@
       "Name": "Extra gear",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1275,27 +1280,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 530,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 196,
-      "Completed": 196
+      "Progressed": 198,
+      "Completed": 198
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:07:26.2998243+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:06:46.138454+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:59:07.4642052+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:07:26.2998588+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:57:41.0112982+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:06:46.1384884+00:00"
 }

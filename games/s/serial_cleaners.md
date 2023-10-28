@@ -11,7 +11,7 @@
 | Off to a Good Start | 15.00% | ~39 |
 | Business as usual | 12.00% | ~31 |
 | Mr. Hygeni | 10.00% | ~26 |
-| Pride and Joy | 8.00% | ~21 |
+| Pride and Joy | 9.00% | ~23 |
 | Eyes Yet To Open | 7.00% | ~18 |
 | Hackathon | 6.00% | ~15 |
 | All the Stories | 4.00% | ~10 |

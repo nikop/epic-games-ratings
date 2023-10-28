@@ -14312,10 +14312,10 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894215,
+  "EOS_Progressed": 894224,
   "EOS_Completed": 2722,
-  "EOS_NewPlayers": 1181,
-  "EOS_NewCompleters": 31,
+  "EOS_NewPlayers": 1183,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35972,6 +35972,11 @@
       "Time": "2023-10-28T13:05:14.1233989+00:00",
       "NumProgressed": 894215,
       "NumCompleted": 2722
+    },
+    {
+      "Time": "2023-10-28T14:04:12.438185+00:00",
+      "NumProgressed": 894224,
+      "NumCompleted": 2722
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36054,9 +36059,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6260
+      "UsersEstimate": 7154
     },
     {
       "ID": "Gunslinger",
@@ -36158,9 +36163,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4471
+      "UsersEstimate": 5365
     },
     {
       "ID": "Specialist",
@@ -36503,21 +36508,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894215,
+      "Progressed": 894224,
       "Completed": 2722
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22838,
+      "Progressed": 22847,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T12:02:13.3274067+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:05:14.1233985+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:04:12.4381846+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:02:13.3274073+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:05:14.1235396+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:57:12.7625877+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:04:12.4383292+00:00"
 }

@@ -23,8 +23,8 @@ Rating: 4.63 (Ranked 342)
 | S.O.S. | 46.00% | ~585 |
 | Get Off My Ship! | 44.00% | ~559 |
 | Strange Transmissions | 43.00% | ~547 |
+| Live with the Hot Ones | 42.00% | ~534 |
 | Wreckage | 42.00% | ~534 |
-| Live with the Hot Ones | 41.00% | ~521 |
 | Keeper of the Faith | 40.00% | ~508 |
 | Betrayed | 38.00% | ~483 |
 | Legend Teller | 38.00% | ~483 |
@@ -99,9 +99,9 @@ Completed: 7 (0.55%) (Ranked 182)
 | 2023-10-27 | 1,258 | 7 |
 | 2023-10-28 | 1,271 | 7 |
 ## Awards
-Max (Great Boss Battles): 107  (Ranked 342)  
+Max (Great Boss Battles): 107  (Ranked 343)  
 Sum: 107 (Ranked 433)  
-Diff (max vs sum): -91  
+Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 107 |

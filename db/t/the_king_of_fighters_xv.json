@@ -4,7 +4,7 @@
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 326,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 417,
@@ -531,6 +531,6 @@
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
   "LastChanged": "2023-10-25T13:07:10.2602941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:52.7705165+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:59:40.3350326+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:07:31.189416+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:58:22.2960344+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:06:52.0041406+00:00"
 }

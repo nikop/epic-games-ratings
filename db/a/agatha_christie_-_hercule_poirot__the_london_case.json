@@ -196,17 +196,17 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_015",
@@ -252,25 +252,25 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 50,
-      "XP": 25,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "ACH_020",
-      "SetID": "7b646ck",
-      "Name": "An old friend",
       "Percentage": 54,
       "XP": 25,
       "UsersEstimate": 14
     },
     {
+      "ID": "ACH_020",
+      "SetID": "7b646ck",
+      "Name": "An old friend",
+      "Percentage": 58,
+      "XP": 25,
+      "UsersEstimate": 15
+    },
+    {
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_022",
@@ -284,9 +284,9 @@
       "ID": "ACH_023",
       "SetID": "7b646ck",
       "Name": "An odd series of events",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_024",
@@ -324,9 +324,9 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_029",
@@ -340,9 +340,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_030",
@@ -364,17 +364,17 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_033",
       "SetID": "7b646ck",
       "Name": "Ms. Camilla B. Culsham",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_034",
@@ -404,9 +404,9 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_038",
@@ -420,17 +420,17 @@
       "ID": "ACH_039",
       "SetID": "7b646ck",
       "Name": "Irene Court-Smyth",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_040",
@@ -492,9 +492,9 @@
       "ID": "ACH_05",
       "SetID": "7b646ck",
       "Name": "The Apartment",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_06",
@@ -539,8 +539,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:05:15.7904301+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:04:14.4276362+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:08.7110626+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:04:38.2429128+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:05:15.7904622+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:03:29.3968964+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:04:14.4276703+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 117.00% | ~7 |
+| First success | 133.00% | ~8 |
 | Suicide squad | 67.00% | ~4 |
 | First blood | 50.00% | ~3 |
 | By own strength | 33.00% | ~2 |

@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.40% | ~2,864 |
 | The Hateful Pole Fighter | 0.40% | ~2,864 |
 | A Lady's Blood in the Snow | 0.40% | ~2,864 |
+| Lady Wing Chun | 0.40% | ~2,864 |
 | Street Fighting | 0.40% | ~2,864 |
 | Life is your teacher | 0.40% | ~2,864 |
 | State of constant learning | 0.40% | ~2,864 |
@@ -22,7 +23,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.40% | ~2,864 |
 | Martial Hub | 0.40% | ~101 |
 | Fight the way you practice | 0.40% | ~101 |
-| Lady Wing Chun | 0.30% | ~2,148 |
 | Furious Fists | 0.30% | ~2,148 |
 | Scareless | 0.30% | ~2,148 |
 | Kill Nil | 0.30% | ~2,148 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,001 (Ranked 20)  
+Progressed: 716,002 (Ranked 20)  
 Completed: 12,925 (1.81%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 12,925 (1.81%) (Ranked 123)
 | 2023-10-25 | 715,943 | 12,925 |
 | 2023-10-26 | 715,965 | 12,925 |
 | 2023-10-27 | 715,990 | 12,925 |
-| 2023-10-28 | 716,001 | 12,925 |
+| 2023-10-28 | 716,002 | 12,925 |
 ## Awards
 Max (Great Boss Battles): 6,735  (Ranked 54)  
 Sum: 11,728 (Ranked 82)  

@@ -1,11 +1,11 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 635)  
+Rating: 4.46 (Ranked 634)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,743 |
+| Meeting Resistance | 47.00% | ~1,781 |
 | Confirming Suspicions | 41.00% | ~1,553 |
 | The Kraken Wakes | 37.00% | ~1,402 |
 | It's Starting to Crack | 34.00% | ~1,288 |

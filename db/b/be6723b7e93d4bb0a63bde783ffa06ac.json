@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -281,9 +281,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach28",
@@ -313,9 +313,9 @@
       "ID": "ach30",
       "SetID": "baneh2j",
       "Name": "Found!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach31",
@@ -337,17 +337,17 @@
       "ID": "ach5",
       "SetID": "baneh2j",
       "Name": "Size doesn\u0027t matter",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach7",
@@ -384,8 +384,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:06:47.5754617+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:06:01.1111477+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:01:19.7341475+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:06:47.5754809+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:00:17.3905638+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:06:01.1111687+00:00"
 }

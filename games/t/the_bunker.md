@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 91.00% | ~118 |
+| Last Goodbye | 92.00% | ~120 |
 | The Routine | 79.00% | ~103 |
 | Mother | 78.00% | ~101 |
 | Failure | 75.00% | ~98 |
@@ -25,7 +25,7 @@
 | Soldier | 48.00% | ~62 |
 | Press Play | 37.00% | ~48 |
 | General | 28.00% | ~36 |
-| Bookworm | 23.00% | ~30 |
+| Bookworm | 24.00% | ~31 |
 | Floppy Disk Finder | 15.00% | ~20 |
 | Stay | 15.00% | ~20 |
 | Nurse | 12.00% | ~16 |
@@ -33,7 +33,7 @@
 | The Missing Piece | 6.00% | ~8 |
 | Friends | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 379)  
+Progressed: 130 (Ranked 380)  
 Completed: 5 (3.85%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |

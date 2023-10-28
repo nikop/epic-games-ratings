@@ -1,17 +1,17 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 654)  
+Rating: 4.45 (Ranked 653)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,716 |
-| Self-Improvement | 71.00% | ~1,384 |
+| Unforgiven | 88.00% | ~1,717 |
+| Self-Improvement | 71.00% | ~1,385 |
 | Perky | 65.00% | ~1,268 |
-| Let’s Ride | 59.00% | ~1,150 |
+| Let’s Ride | 60.00% | ~1,171 |
 | Welcome to the Weird West | 57.00% | ~1,112 |
-| Dead or Alive | 56.00% | ~1,092 |
+| Dead or Alive | 56.00% | ~1,093 |
 | Full House | 37.00% | ~722 |
 | Off the Trail | 34.00% | ~663 |
 | Justice Served | 29.00% | ~566 |
@@ -20,20 +20,20 @@ Number of Ratings: 125  (23.09.2022)
 | Dishonored | 25.00% | ~488 |
 | Rain of Death | 25.00% | ~488 |
 | Scholar | 25.00% | ~488 |
-| The Great Escape | 23.00% | ~448 |
-| That’s All, Folks | 19.00% | ~370 |
+| The Great Escape | 23.00% | ~449 |
+| That’s All, Folks | 19.00% | ~371 |
 | Fallen Star | 16.00% | ~312 |
 | Here Comes Santa Claus | 16.00% | ~312 |
 | Winds of War | 16.00% | ~312 |
-| For Balance | 15.00% | ~292 |
+| For Balance | 15.00% | ~293 |
 | Dog Days | 13.00% | ~254 |
 | Out on the Ebb Tide | 13.00% | ~254 |
 | Workers' Rights | 13.00% | ~254 |
 | Elusive Prey | 12.00% | ~234 |
 | Power Behind the Pulpit | 12.00% | ~234 |
 | Turning the Tables | 12.00% | ~234 |
-| Something Wicked This Way Comes… | 11.00% | ~214 |
-| There is Hope | 11.00% | ~214 |
+| Something Wicked This Way Comes… | 11.00% | ~215 |
+| There is Hope | 11.00% | ~215 |
 | The Philosopher’s Stone | 10.00% | ~195 |
 | Loyalty to the Pack | 9.00% | ~176 |
 | Eternity Can Wait | 9.00% | ~176 |
@@ -42,14 +42,14 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~156 |
 | Monster Hunter | 8.00% | ~156 |
 | Knuckle Sandwich | 8.00% | ~156 |
-| Getting the Gang Back Together | 7.00% | ~136 |
+| Getting the Gang Back Together | 7.00% | ~137 |
 | Who You Gonna Call? | 6.00% | ~117 |
 | Healing Old Wounds | 5.00% | ~98 |
 | This Is Sparta | 5.00% | ~98 |
 | What’s in the Box? | 5.00% | ~98 |
-| Ghost Town | 3.00% | ~58 |
-| Lord Inut Sends His Regards | 3.00% | ~58 |
-| Moondrunk | 3.00% | ~58 |
+| Ghost Town | 3.00% | ~59 |
+| Lord Inut Sends His Regards | 3.00% | ~59 |
+| Moondrunk | 3.00% | ~59 |
 | 'Ma Barker | 2.00% | ~39 |
 | I Kicked a Bird and I Liked it | 1.00% | ~20 |
 | Hog Wild | 1.00% | ~20 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,950 (Ranked 216)  
+Progressed: 1,951 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 7 (0.36%) (Ranked 207)
 | 2023-10-25 | 1,930 | 7 |
 | 2023-10-26 | 1,939 | 7 |
 | 2023-10-27 | 1,948 | 7 |
-| 2023-10-28 | 1,950 | 7 |
+| 2023-10-28 | 1,951 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

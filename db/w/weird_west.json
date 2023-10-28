@@ -2,7 +2,7 @@
   "ID": "73ce3d09e1d949e8b80f66c78c1cda50",
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 216,
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-10-28T12:04:50.3898103+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T14:05:15.6608945+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2523,7 +2528,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2587,7 +2592,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2603,7 +2608,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2611,7 +2616,7 @@
       "Name": "Ghost Town",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -2665,9 +2670,9 @@
       "ID": "ACH_LETS_RIDE",
       "SetID": "8j30i9k",
       "Name": "Let\u2019s Ride",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2683,7 +2688,7 @@
       "Name": "Lord Inut Sends His Regards",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -2723,7 +2728,7 @@
       "Name": "Moondrunk",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_MOON_HUNTER",
@@ -2811,7 +2816,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2819,7 +2824,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2827,7 +2832,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2835,7 +2840,7 @@
       "Name": "There is Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2843,7 +2848,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -2891,7 +2896,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2938,15 +2943,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:06:08.2451731+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:05:15.6608941+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:00:01.0705647+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:06:08.245218+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:58:46.7242915+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:05:15.6609404+00:00"
 }

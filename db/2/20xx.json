@@ -706,10 +706,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-10-28T14:01:24.6061201+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -723,13 +729,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Playful Visuals",
@@ -785,8 +791,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2023-10-28T13:02:18.2224359+00:00",
+  "LastChanged": "2023-10-28T14:01:24.60612+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:42.9264979+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:02:18.2224367+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:10:09.128627+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:01:24.6061204+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:09:04.9875849+00:00"
 }

@@ -1,15 +1,15 @@
 # Among the Sleep - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/among-the-sleep-enhanced-edition)  
 [View Rawdata](../../db/a/among_the_sleep_-_enhanced_edition.json)  
-Rating: 4.30 (Ranked 824)  
+Rating: 4.30 (Ranked 823)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strike | 35.00% | ~31,669 |
-| Bad Lullaby | 11.00% | ~9,953 |
-| Completed Among the Sleep | 10.00% | ~9,048 |
-| Baby Mozart | 5.00% | ~4,524 |
+| Strike | 35.00% | ~31,673 |
+| Bad Lullaby | 11.00% | ~9,954 |
+| Completed Among the Sleep | 10.00% | ~9,050 |
+| Baby Mozart | 5.00% | ~4,525 |
 | House Drawings | 1.00% | ~905 |
 | Cave Drawings | 1.00% | ~905 |
 | Forest Drawings | 0.70% | ~633 |
@@ -17,7 +17,7 @@ Number of Ratings: 368  (23.09.2022)
 | Collected all drawings | 0.50% | ~452 |
 | Prologue Drawings | 0.50% | ~452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,482 (Ranked 87)  
+Progressed: 90,495 (Ranked 87)  
 Completed: 408 (0.45%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 408 (0.45%) (Ranked 196)
 | 2023-10-25 | 90,126 | 406 |
 | 2023-10-26 | 90,249 | 406 |
 | 2023-10-27 | 90,409 | 408 |
-| 2023-10-28 | 90,482 | 408 |
+| 2023-10-28 | 90,495 | 408 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

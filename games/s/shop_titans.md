@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 3.00% | ~4,147 |
-| Basic in Bulk | 3.00% | ~4,147 |
-| Tinkle of Coins | 3.00% | ~4,147 |
-| Titan's First Steps | 3.00% | ~4,147 |
+| Sponsored by Argon | 3.00% | ~4,148 |
+| Basic in Bulk | 3.00% | ~4,148 |
+| Tinkle of Coins | 3.00% | ~4,148 |
+| Titan's First Steps | 3.00% | ~4,148 |
 | One Easy Payment | 2.00% | ~2,765 |
 | Some Assembly Required | 2.00% | ~2,765 |
 | Disintermediation | 2.00% | ~2,765 |
@@ -21,26 +21,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 2.00% | ~2,765 |
 | Capitalism Ho! | 2.00% | ~2,765 |
 | Own the Means of Production | 2.00% | ~2,765 |
-| The Daily Grind | 1.00% | ~1,382 |
-| On the Path to Greatness | 1.00% | ~1,382 |
-| Ascended | 1.00% | ~1,382 |
-| Research & Development | 1.00% | ~1,382 |
-| Vanity, Verily | 1.00% | ~1,382 |
-| Bounty Hunters | 1.00% | ~1,382 |
-| Blank Page Syndrome | 1.00% | ~1,382 |
-| Demand for Supplies | 1.00% | ~1,382 |
-| Flooding the Market | 1.00% | ~1,382 |
-| Where it Hurts | 1.00% | ~1,382 |
-| Efficient Floor Space | 1.00% | ~1,382 |
-| Flawless Fusion | 1.00% | ~1,382 |
-| Gem Expert | 1.00% | ~1,382 |
-| Gild-Gotten Goods | 1.00% | ~1,382 |
-| Helping Hand | 1.00% | ~1,382 |
-| Accomplished Merchant | 1.00% | ~1,382 |
-| Dungeon Imports | 1.00% | ~1,382 |
-| Natural 20 | 1.00% | ~1,382 |
-| Did we pack lunch? | 1.00% | ~1,382 |
-| Arcane Industries | 1.00% | ~1,382 |
+| The Daily Grind | 1.00% | ~1,383 |
+| On the Path to Greatness | 1.00% | ~1,383 |
+| Ascended | 1.00% | ~1,383 |
+| Research & Development | 1.00% | ~1,383 |
+| Vanity, Verily | 1.00% | ~1,383 |
+| Bounty Hunters | 1.00% | ~1,383 |
+| Blank Page Syndrome | 1.00% | ~1,383 |
+| Demand for Supplies | 1.00% | ~1,383 |
+| Flooding the Market | 1.00% | ~1,383 |
+| Where it Hurts | 1.00% | ~1,383 |
+| Efficient Floor Space | 1.00% | ~1,383 |
+| Flawless Fusion | 1.00% | ~1,383 |
+| Gem Expert | 1.00% | ~1,383 |
+| Gild-Gotten Goods | 1.00% | ~1,383 |
+| Helping Hand | 1.00% | ~1,383 |
+| Accomplished Merchant | 1.00% | ~1,383 |
+| Dungeon Imports | 1.00% | ~1,383 |
+| Natural 20 | 1.00% | ~1,383 |
+| Did we pack lunch? | 1.00% | ~1,383 |
+| Arcane Industries | 1.00% | ~1,383 |
 | Fated Encounters | 0.90% | ~1,244 |
 | Power of Love | 0.90% | ~1,244 |
 | Royal Ransom | 0.90% | ~1,244 |
@@ -81,25 +81,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.70% | ~968 |
 | Exotic Commodities | 0.70% | ~968 |
 | King's Blade | 0.70% | ~968 |
-| Top of the World | 0.60% | ~829 |
-| Constellated | 0.60% | ~829 |
-| Thirst for Knowledge | 0.60% | ~829 |
-| Booty by the Boatload | 0.60% | ~829 |
-| Archivist | 0.60% | ~829 |
-| Fillin' the Bin | 0.60% | ~829 |
-| Industrial Evolution | 0.60% | ~829 |
-| Omae wa Mou Shindeiru | 0.60% | ~829 |
-| Ritualist | 0.60% | ~829 |
-| By Your Powers Combined... | 0.60% | ~829 |
-| A Legend is Born | 0.60% | ~829 |
-| Item of Renown | 0.60% | ~829 |
-| Bountiful Harvest | 0.60% | ~829 |
-| Precision Engineering | 0.60% | ~829 |
-| Treasure Trove | 0.60% | ~829 |
-| Moment of Respite | 0.60% | ~829 |
-| King's Shadow | 0.60% | ~829 |
-| Master Recycler | 0.60% | ~829 |
-| Economy of Scarce | 0.60% | ~829 |
+| Top of the World | 0.60% | ~830 |
+| Constellated | 0.60% | ~830 |
+| Thirst for Knowledge | 0.60% | ~830 |
+| Booty by the Boatload | 0.60% | ~830 |
+| Archivist | 0.60% | ~830 |
+| Fillin' the Bin | 0.60% | ~830 |
+| Industrial Evolution | 0.60% | ~830 |
+| Omae wa Mou Shindeiru | 0.60% | ~830 |
+| Ritualist | 0.60% | ~830 |
+| By Your Powers Combined... | 0.60% | ~830 |
+| A Legend is Born | 0.60% | ~830 |
+| Item of Renown | 0.60% | ~830 |
+| Bountiful Harvest | 0.60% | ~830 |
+| Precision Engineering | 0.60% | ~830 |
+| Treasure Trove | 0.60% | ~830 |
+| Moment of Respite | 0.60% | ~830 |
+| King's Shadow | 0.60% | ~830 |
+| Master Recycler | 0.60% | ~830 |
+| Economy of Scarce | 0.60% | ~830 |
 | Jackpot! | 0.50% | ~691 |
 | The Free Encyclopedia | 0.40% | ~553 |
 | Thank You Tom Nook | 0.40% | ~553 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.30% | ~415 |
 | All or Nothing! | 0.30% | ~415 |
 | Marvels from the World Over | 0.30% | ~415 |
-| Bane of Legends | 0.20% | ~276 |
-| Ultimate Collector | 0.20% | ~276 |
-| Oligarch Monarch | 0.20% | ~276 |
-| Unleashed Potential | 0.20% | ~276 |
-| Merchant Extraordinaire | 0.20% | ~276 |
-| Cash Only Please | 0.20% | ~276 |
+| Bane of Legends | 0.20% | ~277 |
+| Ultimate Collector | 0.20% | ~277 |
+| Oligarch Monarch | 0.20% | ~277 |
+| Unleashed Potential | 0.20% | ~277 |
+| Merchant Extraordinaire | 0.20% | ~277 |
+| Cash Only Please | 0.20% | ~277 |
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,249 (Ranked 77)  
+Progressed: 138,251 (Ranked 77)  
 Completed: 173 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 173 (0.13%) (Ranked 249)
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
-| 2023-10-28 | 138,249 | 173 |
+| 2023-10-28 | 138,251 | 173 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
-Sum: 27,457 (Ranked 51)  
+Sum: 27,461 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -321,9 +321,9 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,032 |
 | This game has Quickly Understood Controls | 4,020 |
 | This game has Diverse Characters | 3,927 |
-| This game is Highly Recommended | 3,767 |
+| This game is Highly Recommended | 3,769 |
 | This game has Easy Combat | 3,715 |
-| This game has Playful Visuals | 3,192 |
+| This game has Playful Visuals | 3,194 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -599,4 +599,4 @@ Diff (max vs sum): 22
 | 2023-10-25 | 3.99 | - | 4,801 | 27,446 |
 | 2023-10-26 | 3.99 | - | 4,801 | 27,451 |
 | 2023-10-27 | 3.99 | - | 4,804 | 27,456 |
-| 2023-10-28 | 3.99 | - | 4,804 | 27,457 |
+| 2023-10-28 | 3.99 | - | 4,804 | 27,461 |

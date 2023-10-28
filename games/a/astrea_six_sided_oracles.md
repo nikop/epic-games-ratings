@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 36.00% | ~23 |
-| Purification Pioneer | 34.00% | ~22 |
+| Meissa's Savior | 37.00% | ~24 |
+| Purification Pioneer | 35.00% | ~23 |
 | Noctuan Champion | 34.00% | ~22 |
-| Endless Tricks | 33.00% | ~21 |
+| Endless Tricks | 32.00% | ~21 |
+| Mechanical Buddy | 32.00% | ~21 |
 | Dicesmithing Time! | 31.00% | ~20 |
-| Mechanical Buddy | 31.00% | ~20 |
-| Sanctuary Guardian | 30.00% | ~19 |
-| Wild's Keeper | 30.00% | ~19 |
-| Apian Champion | 30.00% | ~19 |
-| Eridanian Champion | 30.00% | ~19 |
-| Lacertian Champion | 30.00% | ~19 |
+| Sanctuary Guardian | 31.00% | ~20 |
+| Wild's Keeper | 29.00% | ~19 |
+| Apian Champion | 29.00% | ~19 |
+| Eridanian Champion | 29.00% | ~19 |
+| Lacertian Champion | 29.00% | ~19 |
 | Mind Illuminator | 28.00% | ~18 |
 | Behenian Champion | 25.00% | ~16 |
 | Anomaly Destroyer | 23.00% | ~15 |
 | Stellar Dismantler | 23.00% | ~15 |
 | Loyal Partner | 22.00% | ~14 |
 | Aquarian Champion | 22.00% | ~14 |
-| Heart Gate | 19.00% | ~12 |
-| Shard Spender | 19.00% | ~12 |
-| Star Killer | 19.00% | ~12 |
+| Heart Gate | 18.00% | ~12 |
+| Shard Spender | 18.00% | ~12 |
+| Star Killer | 18.00% | ~12 |
 | Astral Adventurer | 17.00% | ~11 |
 | Astral Seeker | 17.00% | ~11 |
 | The Corruption Goddess | 17.00% | ~11 |
 | The Goddes Avatar | 17.00% | ~11 |
 | Favored by the Cosmos | 14.00% | ~9 |
 | Unbeatable | 14.00% | ~9 |
-| Heavy Purger | 13.00% | ~8 |
+| Heavy Purger | 12.00% | ~8 |
 | Wave Bender | 11.00% | ~7 |
 | Apian Hero | 11.00% | ~7 |
 | Behenian Hero | 11.00% | ~7 |
@@ -103,7 +103,7 @@
 | Unepic Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 432)  
+Progressed: 65 (Ranked 431)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,3 +132,4 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-20 | 62 | 0 |
 | 2023-10-24 | 63 | 0 |
 | 2023-10-25 | 64 | 0 |
+| 2023-10-28 | 65 | 0 |

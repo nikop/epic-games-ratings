@@ -2,9 +2,9 @@
   "ID": "f8bbf6bb94794b1aa2161cd923d11e5e",
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 130,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
@@ -264,9 +264,9 @@
       "ID": "ALL_BOOKS",
       "SetID": "bho0i1h",
       "Name": "Bookworm",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 45,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ALL_CASSETTES",
@@ -304,9 +304,9 @@
       "ID": "CHAPTER_02_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Last Goodbye",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "CHAPTER_03_COMPLETE",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:09:55.2326452+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:08:49.346704+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:35.1772192+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:59:25.9396466+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:09:55.2326624+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:58:04.4348128+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:08:49.346741+00:00"
 }

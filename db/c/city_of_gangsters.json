@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 44,
@@ -712,9 +712,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 349678,
+  "EOS_Progressed": 349682,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1031,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22307,6 +22307,11 @@
       "Time": "2023-10-28T13:05:22.5026288+00:00",
       "NumProgressed": 349678,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T14:04:22.7963588+00:00",
+      "NumProgressed": 349682,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -22334,7 +22339,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41961
+      "UsersEstimate": 41962
     },
     {
       "ID": "ach004",
@@ -22374,7 +22379,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41961
+      "UsersEstimate": 41962
     },
     {
       "ID": "ach009",
@@ -22406,7 +22411,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27974
+      "UsersEstimate": 27975
     },
     {
       "ID": "ach013",
@@ -22446,7 +22451,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45458
+      "UsersEstimate": 45459
     },
     {
       "ID": "ach018",
@@ -22454,7 +22459,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27974
+      "UsersEstimate": 27975
     },
     {
       "ID": "ach019",
@@ -22526,7 +22531,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160852
+      "UsersEstimate": 160854
     },
     {
       "ID": "ach028",
@@ -22654,7 +22659,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24477
+      "UsersEstimate": 24478
     },
     {
       "ID": "ach044",
@@ -22670,7 +22675,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45458
+      "UsersEstimate": 45459
     },
     {
       "ID": "ach046",
@@ -22678,7 +22683,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24477
+      "UsersEstimate": 24478
     },
     {
       "ID": "ach047",
@@ -22846,7 +22851,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 55948
+      "UsersEstimate": 55949
     },
     {
       "ID": "ach069",
@@ -22926,7 +22931,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24477
+      "UsersEstimate": 24478
     },
     {
       "ID": "ach079",
@@ -22957,7 +22962,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 349678,
+      "Progressed": 349682,
       "Completed": 7
     }
   ],
@@ -22965,8 +22970,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-27T15:57:33.2811651+00:00",
-  "LastChanged_Achievements": "2023-10-28T13:05:22.5026282+00:00",
+  "LastChanged_Achievements": "2023-10-28T14:04:22.7963584+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:20.290242+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:59:20.8099763+00:00",
-  "LastUpdate_Achievements": "2023-10-28T13:05:22.5027971+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:57:55.9831453+00:00",
+  "LastUpdate_Achievements": "2023-10-28T14:04:22.7965339+00:00"
 }
