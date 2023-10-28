@@ -3,11 +3,11 @@
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
   "Ranking_Rating": 1017,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16876,
+  "EOS_Progressed": 16877,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
@@ -5918,6 +5918,11 @@
       "Time": "2023-10-28T12:06:22.2556058+00:00",
       "NumProgressed": 16876,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T15:06:48.7670861+00:00",
+      "NumProgressed": 16877,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -5929,7 +5934,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16032
+      "UsersEstimate": 16033
     },
     {
       "ID": "ACH001",
@@ -5937,7 +5942,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14513
+      "UsersEstimate": 14514
     },
     {
       "ID": "ACH0010",
@@ -5961,7 +5966,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8269
+      "UsersEstimate": 8270
     },
     {
       "ID": "ACH0013",
@@ -5969,7 +5974,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "ACH0014",
@@ -6089,7 +6094,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14682
+      "UsersEstimate": 14683
     },
     {
       "ID": "ACH005",
@@ -6105,7 +6110,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6919
+      "UsersEstimate": 6920
     },
     {
       "ID": "ACH007",
@@ -6136,7 +6141,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16876,
+      "Progressed": 16877,
       "Completed": 1
     }
   ],
@@ -6144,8 +6149,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:06:50.0492317+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:06:48.7670854+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:32.1142451+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:00:55.2059088+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:06:50.0492714+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:00:55.5967613+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:06:48.7671456+00:00"
 }

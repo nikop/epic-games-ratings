@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 152,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-10-28T10:09:42.9332862+00:00",
       "NumProgressed": 780,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T15:10:01.1755038+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2410,9 +2415,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 508
     },
     {
       "ID": "_03_FinishAct1",
@@ -2436,7 +2441,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2466,9 +2471,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 234
     },
     {
       "ID": "_10_Completion_30",
@@ -2484,7 +2489,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "_12_Completion_50",
@@ -2548,7 +2553,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2588,7 +2593,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2611,7 +2616,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 26
     }
   ],
@@ -2619,8 +2624,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:09:47.1275767+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:10:01.1755028+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.716562+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:58:20.6959276+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:09:47.1276061+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:58:32.3557+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:10:01.1755606+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.46 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,781 |
-| Confirming Suspicions | 41.00% | ~1,553 |
+| Meeting Resistance | 46.00% | ~1,743 |
+| Confirming Suspicions | 41.00% | ~1,554 |
 | The Kraken Wakes | 37.00% | ~1,402 |
-| It's Starting to Crack | 34.00% | ~1,288 |
+| It's Starting to Crack | 34.00% | ~1,289 |
 | Change the Channel | 31.00% | ~1,175 |
 | Lord of War | 30.00% | ~1,137 |
 | Taking it back | 29.00% | ~1,099 |
 | Resourceful | 27.00% | ~1,023 |
 | Target America | 26.00% | ~985 |
-| The Kraken Sleeps | 25.00% | ~947 |
-| Liberté | 23.00% | ~871 |
-| Organ Grinder | 23.00% | ~871 |
-| As Quiet as a Mouse | 23.00% | ~871 |
+| The Kraken Sleeps | 25.00% | ~948 |
+| Liberté | 23.00% | ~872 |
+| Organ Grinder | 23.00% | ~872 |
+| As Quiet as a Mouse | 23.00% | ~872 |
 | Sharpshooter | 22.00% | ~834 |
 | Explosive Efficiency | 19.00% | ~720 |
 | Gunslinger | 18.00% | ~682 |
@@ -27,22 +27,22 @@ Rating: 4.46 (Ranked 634)
 | Close Quarters | 16.00% | ~606 |
 | Snake in the Grass | 15.00% | ~568 |
 | Brains of the Operation | 15.00% | ~568 |
-| No Stone Unturned | 14.00% | ~530 |
-| Opposing Force | 14.00% | ~530 |
-| Enemy at the Gates | 14.00% | ~530 |
-| Fields of Glory | 14.00% | ~530 |
-| Skirmisher | 14.00% | ~530 |
-| Die Nussknacker Sweet! | 14.00% | ~530 |
+| No Stone Unturned | 14.00% | ~531 |
+| Opposing Force | 14.00% | ~531 |
+| Enemy at the Gates | 14.00% | ~531 |
+| Fields of Glory | 14.00% | ~531 |
+| Skirmisher | 14.00% | ~531 |
+| Die Nussknacker Sweet! | 14.00% | ~531 |
 | Set Europe Ablaze | 13.00% | ~493 |
 | Precision Is Key | 10.00% | ~379 |
 | My Little Friend | 10.00% | ~379 |
 | Rigged to Blow | 9.00% | ~341 |
 | Herr Today, Gone Tomorrow | 7.00% | ~262 |
 | Operation Foxley | 6.00% | ~224 |
-| The Long Game | 5.00% | ~189 |
-| Tinkerer | 5.00% | ~189 |
-| It'll Buff Right Out | 5.00% | ~189 |
-| Don't hold your breath | 5.00% | ~189 |
+| The Long Game | 5.00% | ~190 |
+| Tinkerer | 5.00% | ~190 |
+| It'll Buff Right Out | 5.00% | ~190 |
+| Don't hold your breath | 5.00% | ~190 |
 | Strategist | 4.00% | ~152 |
 | Locomotion Commotion | 4.00% | ~152 |
 | Road Rage | 4.00% | ~152 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,789 (Ranked 187)  
+Progressed: 3,790 (Ranked 187)  
 Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,10 +266,10 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-25 | 3,777 | 11 |
 | 2023-10-26 | 3,780 | 11 |
 | 2023-10-27 | 3,786 | 11 |
-| 2023-10-28 | 3,789 | 11 |
+| 2023-10-28 | 3,790 | 11 |
 ## Awards
-Max (Great for Beginners): 21  (Ranked 529)  
-Sum: 21 (Ranked 530)  
+Max (Great for Beginners): 21  (Ranked 530)  
+Sum: 21 (Ranked 531)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

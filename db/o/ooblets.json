@@ -2,13 +2,13 @@
   "ID": "413361d2d5db4912ac2dfbcf27a38141",
   "Name": "Ooblets",
   "ProductSlug": "ooblets",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 22,
   "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-01T13:00:00+00:00",
     "PcReleaseDate": "2022-09-01T13:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 1446,
   "RatingHistory": [
     {
@@ -1686,6 +1686,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 1879,
       "NumberOfAwardsMax": 1035
+    },
+    {
+      "Time": "2023-10-28T15:01:59.3142835+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1879,
+      "NumberOfAwardsMax": 1035
     }
   ],
   "ReviewsDisabled": false,
@@ -1783,8 +1789,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2023-10-27T15:01:25.9268085+00:00",
+  "LastChanged": "2023-10-28T15:01:59.3142833+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:57.011863+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:02:08.675343+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:05:49.5443483+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:01:59.3142839+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:05:53.8518033+00:00"
 }

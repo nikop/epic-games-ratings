@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7131,
+  "EOS_Progressed": 7132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7855,6 +7855,11 @@
       "Time": "2023-10-28T13:07:53.4018106+00:00",
       "NumProgressed": 7131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T15:07:13.8154602+00:00",
+      "NumProgressed": 7132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7898,7 +7903,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -7906,7 +7911,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "Control_All_Relics",
@@ -7970,7 +7975,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "First_Race_Met",
@@ -7978,7 +7983,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "First_Ship_Designed",
@@ -7986,7 +7991,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "First_Stream_Travel",
@@ -8002,7 +8007,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5491
+      "UsersEstimate": 5492
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8082,7 +8087,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "Play_1000_Hours",
@@ -8170,7 +8175,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8184,9 +8189,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4351
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8354,7 +8359,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4635
+      "UsersEstimate": 4636
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8362,7 +8367,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Win_Conquest",
@@ -8441,15 +8446,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7131,
+      "Progressed": 7132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:07:17.1371667+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:58:14.3826125+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:07:17.1372648+00:00"
+  "LastChanged_Achievements": "2023-10-28T15:07:13.8154593+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
+  "LastUpdate_Ratings": "2023-10-28T14:58:26.5793073+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:07:13.8155873+00:00"
 }

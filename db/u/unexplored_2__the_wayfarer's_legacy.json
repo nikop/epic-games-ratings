@@ -3,12 +3,12 @@
   "Name": "Unexplored 2: The Wayfarer\u0027s Legacy",
   "ProductSlug": "unexplored-2",
   "Ranking_Rating": 755,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -104,6 +104,6 @@
   "FirstSeen": "2022-07-22T20:28:40.1134792+00:00",
   "LastChanged": "2023-05-14T02:02:33.9296324+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:05.9992517+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:00:24.0061303+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:05:46.4955586+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:00:26.5181667+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:05:51.0668897+00:00"
 }

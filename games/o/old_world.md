@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
+| The Clergy | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
@@ -116,13 +117,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~105 |
 | Cimmerian Archer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
-| The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
 | Ready | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
+| Hittite Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
 | Enlightenment | 0.60% | ~90 |
 | Mounted Lancer | 0.60% | ~90 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~75 |
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
-| Hittite Paganism | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |
 | Ishtar Gate in Babylon | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,002 (Ranked 142)  
+Progressed: 15,004 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 297)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,002 | 5 |
+| 2023-10-28 | 15,004 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 268)  
 Sum: 1,854 (Ranked 211)  

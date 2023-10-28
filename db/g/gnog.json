@@ -3,12 +3,12 @@
   "Name": "GNOG",
   "ProductSlug": "gnog",
   "Ranking_Rating": 193,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2018-06-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -89,6 +89,6 @@
   "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
   "LastChanged": "2023-09-10T16:00:37.9016876+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:31.0361667+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:57:43.4132283+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:07:06.6672878+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:58:00.9090321+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:07:04.1536067+00:00"
 }

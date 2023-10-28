@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 850,
+  "EOS_Progressed": 851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -865,6 +865,11 @@
       "Time": "2023-10-28T14:04:00.0630606+00:00",
       "NumProgressed": 850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T15:04:13.3655382+00:00",
+      "NumProgressed": 851,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -893,7 +898,7 @@
       "Name": "Turret Syndrome",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
@@ -925,7 +930,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -949,7 +954,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -965,7 +970,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1019,9 +1024,9 @@
       "ID": "ACHIEVEMENT_HOARDER",
       "SetID": "9991201",
       "Name": "Hoarder",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1116,14 +1121,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 850,
+      "Progressed": 851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:04:00.0630602+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:04:13.3655372+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:01:54.1327463+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:04:00.0630858+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:01:48.2753962+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:04:13.3655805+00:00"
 }

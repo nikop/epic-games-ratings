@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 684,
+  "Ranking_Rating": 683,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -736,10 +736,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2173,
       "NumberOfAwardsMax": 287
+    },
+    {
+      "Time": "2023-10-28T15:00:51.3495382+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2174,
+      "NumberOfAwardsMax": 287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2173,
+  "NumberOfAwards": 2174,
   "NumberOfAwardsMax": 287,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -783,7 +789,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -804,7 +810,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225834,
+  "EOS_Progressed": 225837,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
@@ -21694,6 +21700,11 @@
       "Time": "2023-10-28T14:09:28.5105862+00:00",
       "NumProgressed": 225834,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-28T15:09:44.8534263+00:00",
+      "NumProgressed": 225837,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21705,7 +21716,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42908
+      "UsersEstimate": 42909
     },
     {
       "ID": "ACH_BASE_10",
@@ -21713,7 +21724,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58717
+      "UsersEstimate": 58718
     },
     {
       "ID": "ACH_BASE_11",
@@ -21753,7 +21764,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22583
+      "UsersEstimate": 22584
     },
     {
       "ID": "ACH_BASE_17",
@@ -21976,16 +21987,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225834,
+      "Progressed": 225837,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-25T20:59:12.845387+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:09:28.5105857+00:00",
+  "LastChanged": "2023-10-28T15:00:51.349538+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:09:44.8534256+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:30.0218692+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:00:50.5459372+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:09:28.51071+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:00:51.3495386+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:09:44.8536621+00:00"
 }

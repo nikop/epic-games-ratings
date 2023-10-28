@@ -5,7 +5,7 @@
   "Ranking_Rating": 579,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 181,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 35,
@@ -2755,10 +2755,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2580,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-10-28T15:00:25.0175235+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2582,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2580,
+  "NumberOfAwards": 2582,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2790,7 +2796,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 252
+      "Count": 254
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2835,9 +2841,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28029,
+  "EOS_Progressed": 28037,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16795,6 +16801,11 @@
       "Time": "2023-10-28T14:04:02.7049894+00:00",
       "NumProgressed": 28029,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-28T15:04:15.7516616+00:00",
+      "NumProgressed": 28037,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17076,9 +17087,9 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 561
     },
     {
       "ID": "Skilled",
@@ -17110,7 +17121,7 @@
       "Name": "Stylish",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "Summoner",
@@ -17213,16 +17224,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28029,
+      "Progressed": 28037,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-28T13:01:24.1518759+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:04:02.7049889+00:00",
+  "LastChanged": "2023-10-28T15:00:25.0175232+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:04:15.7516609+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:00:22.0795419+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:04:02.7050937+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:00:25.017524+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:04:15.7518064+00:00"
 }

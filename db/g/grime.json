@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1199,10 +1199,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 323,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-28T15:03:18.2362391+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 323,
+  "NumberOfAwards": 324,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1240,7 +1246,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1261,9 +1267,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155140,
+  "EOS_Progressed": 155157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1522,
+  "EOS_NewPlayers": 1527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13396,6 +13402,11 @@
       "Time": "2023-10-28T14:05:45.6664327+00:00",
       "NumProgressed": 155140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T15:05:50.3520553+00:00",
+      "NumProgressed": 155157,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13471,7 +13482,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13543,7 +13554,7 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -13599,7 +13610,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -13607,7 +13618,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13623,7 +13634,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13765,30 +13776,30 @@
       "ID": "MISC_OVERLOADTRAIT",
       "SetID": "72k7oh",
       "Name": "Intensify",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 309
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154723,
+      "Progressed": 154740,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155140,
+      "Progressed": 155157,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-28T07:02:33.9217705+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:05:45.6664323+00:00",
+  "LastChanged": "2023-10-28T15:03:18.2362389+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:05:50.3520542+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:02:28.0067782+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:05:45.6665201+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:03:18.2362394+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:05:50.3522502+00:00"
 }

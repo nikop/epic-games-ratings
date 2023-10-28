@@ -4,8 +4,8 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5542,
+  "EOS_Progressed": 5558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1613,
+  "EOS_NewPlayers": 1608,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3299,6 +3299,11 @@
       "Time": "2023-10-28T14:08:51.7660021+00:00",
       "NumProgressed": 5542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T15:09:11.1490632+00:00",
+      "NumProgressed": 5558,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -3335,7 +3340,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_LEVEL974",
@@ -3343,7 +3348,7 @@
       "Name": "KITTY",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_MEGLAB",
@@ -3399,15 +3404,15 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -3415,7 +3420,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -3423,7 +3428,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -3431,7 +3436,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -3471,7 +3476,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -3502,14 +3507,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 5542,
+      "Progressed": 5558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:08:51.7660017+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:09:11.1490622+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:52.6577652+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:01:02.8617373+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:08:51.7660321+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:01:02.6101282+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:09:11.1491041+00:00"
 }

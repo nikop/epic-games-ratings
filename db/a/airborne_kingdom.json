@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 307,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7404,
+  "EOS_Progressed": 7405,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -5303,6 +5303,11 @@
       "Time": "2023-10-28T12:06:17.1142556+00:00",
       "NumProgressed": 7404,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-28T15:06:43.8803297+00:00",
+      "NumProgressed": 7405,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5346,15 +5351,15 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "AK_HARP_TUNED",
       "SetID": "dfmb89",
       "Name": "Harp Tuned",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1703
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5466,7 +5471,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5482,7 +5487,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5506,7 +5511,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5529,15 +5534,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7404,
+      "Progressed": 7405,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:06:44.5873602+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T13:57:07.0384991+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:01:48.4382358+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:06:44.5874029+00:00"
+  "LastChanged_Achievements": "2023-10-28T15:06:43.8803291+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T14:57:26.4853848+00:00",
+  "LastUpdate_Ratings": "2023-10-28T15:01:43.1741283+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:06:43.8803936+00:00"
 }

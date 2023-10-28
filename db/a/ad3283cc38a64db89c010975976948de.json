@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "LEVEL_135_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 135 pieces",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_135_004",
@@ -287,9 +287,9 @@
       "ID": "LEVEL_375_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 375 pieces",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_375_004",
@@ -374,8 +374,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:05:21.574108+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:05:28.1098622+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:01:18.1779679+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:05:21.5741295+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:01:15.4595543+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:05:28.1098935+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EndlessTricks",
@@ -848,9 +848,9 @@
       "ID": "StellarDismantler",
       "SetID": "1jeo1g7",
       "Name": "Stellar Dismantler",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "StellarHaste",
@@ -1135,8 +1135,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:06:58.9776193+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:06:56.8607443+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:55.611198+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:02:06.1662365+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:06:58.9777078+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:01:57.0626504+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:06:56.8608675+00:00"
 }

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 70.00% | ~200 |
-| Forced to Kill | 67.00% | ~191 |
-| A Night To Remember | 38.00% | ~108 |
-| Safe...For now? | 32.00% | ~91 |
+| Forced to Kill | 67.00% | ~192 |
+| A Night To Remember | 37.00% | ~106 |
+| Safe...For now? | 32.00% | ~92 |
 | Open Sesame | 27.00% | ~77 |
 | What have I done!? | 16.00% | ~46 |
 | Them and Us | 15.00% | ~43 |
@@ -36,16 +36,16 @@
 | The 5th Element | 1.00% | ~3 |
 | Box Of Ploutus | 0.70% | ~2 |
 | Survival Hero | 0.70% | ~2 |
-| Before The Eclipse | 0.40% | ~1 |
-| Chosen One | 0.40% | ~1 |
-| Die Another Day | 0.40% | ~1 |
-| Dressed to Kill | 0.40% | ~1 |
-| Life Of The Thousand Gods | 0.40% | ~1 |
-| Nightmare Over | 0.40% | ~1 |
-| No Time To Relax | 0.40% | ~1 |
-| Survival Horror | 0.40% | ~1 |
+| Before The Eclipse | 0.30% | ~1 |
+| Chosen One | 0.30% | ~1 |
+| Die Another Day | 0.30% | ~1 |
+| Dressed to Kill | 0.30% | ~1 |
+| Life Of The Thousand Gods | 0.30% | ~1 |
+| Nightmare Over | 0.30% | ~1 |
+| No Time To Relax | 0.30% | ~1 |
+| Survival Horror | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 331)  
+Progressed: 286 (Ranked 331)  
 Completed: 1 (0.35%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.35%) (Ranked 208)
 | 2023-10-25 | 268 | 1 |
 | 2023-10-26 | 271 | 1 |
 | 2023-10-27 | 278 | 1 |
-| 2023-10-28 | 285 | 1 |
+| 2023-10-28 | 286 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

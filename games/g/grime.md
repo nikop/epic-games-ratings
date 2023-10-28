@@ -6,14 +6,14 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,654 |
-| Imprint | 3.00% | ~4,654 |
+| Taste | 3.00% | ~4,655 |
+| Imprint | 3.00% | ~4,655 |
 | The Hunt | 2.00% | ~3,103 |
 | Weeper | 2.00% | ~3,103 |
 | Ravenous | 2.00% | ~3,103 |
-| Harmless | 1.00% | ~1,551 |
-| Silenced Whispers | 1.00% | ~1,551 |
-| Devourer | 1.00% | ~1,551 |
+| Harmless | 1.00% | ~1,552 |
+| Silenced Whispers | 1.00% | ~1,552 |
+| Devourer | 1.00% | ~1,552 |
 | Yank | 0.90% | ~1,396 |
 | Sharpened Vessel | 0.90% | ~1,396 |
 | Scion | 0.80% | ~1,238 |
@@ -43,6 +43,7 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 0.20% | ~309 |
 | Listen | 0.20% | ~309 |
 | Proportions | 0.20% | ~310 |
+| Intensify | 0.20% | ~309 |
 | Spiral Heart | 0.10% | ~155 |
 | Skinmaker | 0.10% | ~155 |
 | Instruments | 0.10% | ~155 |
@@ -51,9 +52,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~155 |
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
-| Intensify | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,140 (Ranked 73)  
+Progressed: 155,157 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,16 +221,16 @@ Completed: 1 (0.00%) (Ranked 329)
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
-| 2023-10-28 | 155,140 | 1 |
+| 2023-10-28 | 155,157 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 424)  
-Sum: 323 (Ranked 349)  
+Sum: 324 (Ranked 349)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 49 |
+| This game has Quickly Understood Controls | 46 |
 | This game has Unique Visuals | 46 |
-| This game has Quickly Understood Controls | 45 |
 | This game has Challenging Combat | 42 |
 | This game is Extremely Fun | 42 |
 | This game has Amazing Storytelling | 37 |
@@ -364,4 +364,4 @@ Diff (max vs sum): 75
 | 2023-10-23 | 4.59 | - | 47 | 313 |
 | 2023-10-25 | 4.59 | - | 48 | 317 |
 | 2023-10-26 | 4.59 | - | 49 | 320 |
-| 2023-10-28 | 4.59 | - | 49 | 323 |
+| 2023-10-28 | 4.59 | - | 49 | 324 |

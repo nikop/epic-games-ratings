@@ -4,10 +4,10 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 120,
   "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 105,
+  "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4377,9 +4377,9 @@
       "Count": 519
     }
   ],
-  "EOS_Progressed": 11125,
+  "EOS_Progressed": 11126,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -17092,6 +17092,11 @@
       "Time": "2023-10-28T14:07:28.6872563+00:00",
       "NumProgressed": 11125,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-28T15:07:24.7148494+00:00",
+      "NumProgressed": 11126,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 15,
@@ -17127,7 +17132,7 @@
       "Name": "Chef Cook",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "Chit_Chatter",
@@ -17143,7 +17148,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "Duty_Bound",
@@ -17167,7 +17172,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "Goofys_Investor",
@@ -17175,7 +17180,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7787
+      "UsersEstimate": 7788
     },
     {
       "ID": "Miner",
@@ -17183,7 +17188,7 @@
       "Name": "Miner",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "Photographer",
@@ -17191,7 +17196,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7676
+      "UsersEstimate": 7677
     },
     {
       "ID": "Renovator",
@@ -17222,7 +17227,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11125,
+      "Progressed": 11126,
       "Completed": 265
     }
   ],
@@ -17230,8 +17235,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-28T02:11:32.4603177+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:07:28.6872559+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:07:24.7148488+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:58:48.9803688+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:07:28.687327+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:58:56.5542097+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:07:24.7149523+00:00"
 }

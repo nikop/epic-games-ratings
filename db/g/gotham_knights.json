@@ -3845,9 +3845,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75127,
+  "EOS_Progressed": 75129,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20475,6 +20475,11 @@
       "Time": "2023-10-28T14:07:08.8146439+00:00",
       "NumProgressed": 75127,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-28T15:07:06.0897015+00:00",
+      "NumProgressed": 75129,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -20534,7 +20539,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17279
+      "UsersEstimate": 17280
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -20670,7 +20675,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -20726,7 +20731,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14274
+      "UsersEstimate": 14275
     },
     {
       "ID": "FREEZE_3",
@@ -20790,7 +20795,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26294
+      "UsersEstimate": 26295
     },
     {
       "ID": "HARLEY_2",
@@ -20806,7 +20811,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15025
+      "UsersEstimate": 15026
     },
     {
       "ID": "HARLEY_4",
@@ -20814,7 +20819,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12020
+      "UsersEstimate": 12021
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -20830,7 +20835,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38315
+      "UsersEstimate": 38316
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -20854,7 +20859,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15025
+      "UsersEstimate": 15026
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -20862,7 +20867,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20284
+      "UsersEstimate": 20285
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -20878,7 +20883,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25543
+      "UsersEstimate": 25544
     },
     {
       "ID": "MYSTERY_02",
@@ -20894,7 +20899,7 @@
       "Name": "Lock and Key",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17279
+      "UsersEstimate": 17280
     },
     {
       "ID": "MYSTERY_04",
@@ -20902,7 +20907,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15025
+      "UsersEstimate": 15026
     },
     {
       "ID": "MYSTERY_05",
@@ -20950,7 +20955,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6761
+      "UsersEstimate": 6762
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -20973,13 +20978,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75127,
+      "Progressed": 75129,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45407,
+      "Progressed": 45409,
       "Completed": 2670
     }
   ],
@@ -20987,8 +20992,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-28T13:00:37.4991691+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:07:08.8146435+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:07:06.0897007+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:37.1553796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:59:29.3978143+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:07:08.8147806+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:59:34.2483253+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:07:06.0898961+00:00"
 }

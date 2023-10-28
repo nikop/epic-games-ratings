@@ -3,8 +3,8 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 823,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 82,
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90495,
+  "EOS_Progressed": 90508,
   "EOS_Completed": 408,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 954,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -21667,6 +21667,11 @@
       "Time": "2023-10-28T14:06:04.7173943+00:00",
       "NumProgressed": 90495,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-10-28T15:06:07.9464833+00:00",
+      "NumProgressed": 90508,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 10,
@@ -21702,7 +21707,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "Drawings04",
@@ -21718,7 +21723,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "DrawingsDLC",
@@ -21726,7 +21731,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "GameCompleted",
@@ -21734,7 +21739,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9050
+      "UsersEstimate": 9051
     },
     {
       "ID": "Level00BowlingStrike",
@@ -21742,7 +21747,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31673
+      "UsersEstimate": 31678
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -21750,22 +21755,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9954
+      "UsersEstimate": 9956
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 90495,
+      "Progressed": 90508,
       "Completed": 408
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:06:04.7173939+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:06:07.9464822+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:06.8590443+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:00:11.3595612+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:06:04.7175059+00:00"
+  "LastUpdate_Ratings": "2023-10-28T15:00:15.6471429+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:06:07.9467377+00:00"
 }

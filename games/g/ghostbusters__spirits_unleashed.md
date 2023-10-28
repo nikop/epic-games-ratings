@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,401 |
+| Stylish | 5.00% | ~1,402 |
 | Advancement | 4.00% | ~1,121 |
 | Meticulously Efficient | 4.00% | ~1,121 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~841 |
@@ -24,6 +24,7 @@ Rating: 4.50 (Ranked 579)
 | Ghostbuster In Training | 2.00% | ~561 |
 | Icing on the Cake | 2.00% | ~561 |
 | Right back at ya | 2.00% | ~561 |
+| Side Hustle | 2.00% | ~561 |
 | Summoner | 2.00% | ~561 |
 | There you are! | 2.00% | ~561 |
 | Whoopsie | 2.00% | ~561 |
@@ -33,7 +34,6 @@ Rating: 4.50 (Ranked 579)
 | Pesky Jerks | 1.00% | ~280 |
 | Rift Destroyer | 1.00% | ~280 |
 | Seasoned | 1.00% | ~280 |
-| Side Hustle | 1.00% | ~280 |
 | Skilled | 1.00% | ~280 |
 | Stunner | 1.00% | ~280 |
 | Terrifying | 1.00% | ~280 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,029 (Ranked 122)  
+Progressed: 28,037 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 28,029 | 65 |
+| 2023-10-28 | 28,037 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
-Sum: 2,580 (Ranked 181)  
+Sum: 2,582 (Ranked 181)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -259,10 +259,10 @@ Diff (max vs sum): 67
 | This game is Great for Quick Sessions | 282 |
 | This game has Diverse Characters | 260 |
 | This game has Amazing Storytelling | 260 |
+| This game is Extremely Fun | 254 |
 | This game is Highly Recommended | 253 |
 | This game is Relaxing | 253 |
 | This game has Competitive Players | 253 |
-| This game is Extremely Fun | 252 |
 | This game has Quickly Understood Controls | 243 |
 | This game has Amazing Characters | 236 |
 | This game has Playful Visuals | 94 |
@@ -464,4 +464,4 @@ Diff (max vs sum): 67
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
 | 2023-10-27 | 4.50 | 288 | 2,572 |
-| 2023-10-28 | 4.50 | 288 | 2,580 |
+| 2023-10-28 | 4.50 | 288 | 2,582 |

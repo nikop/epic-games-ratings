@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Goodbye | 92.00% | ~120 |
-| The Routine | 79.00% | ~103 |
+| The Routine | 80.00% | ~104 |
 | Mother | 78.00% | ~101 |
 | Failure | 75.00% | ~98 |
 | Replace Fuse | 66.00% | ~86 |

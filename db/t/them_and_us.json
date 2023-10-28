@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1231,6 +1231,11 @@
       "Time": "2023-10-28T14:07:14.1415701+00:00",
       "NumProgressed": 285,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T15:07:11.1509674+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1280,7 +1285,7 @@
       "ID": "ETUA_BeforeTheEclipse",
       "SetID": "65jc0ap",
       "Name": "Before The Eclipse",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1296,7 +1301,7 @@
       "ID": "ETUA_ChosenOne",
       "SetID": "65jc0ap",
       "Name": "Chosen One",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1312,7 +1317,7 @@
       "ID": "ETUA_DieAnotherDay",
       "SetID": "65jc0ap",
       "Name": "Die Another Day",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1320,7 +1325,7 @@
       "ID": "ETUA_DressedtoKill",
       "SetID": "65jc0ap",
       "Name": "Dressed to Kill",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1338,7 +1343,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1352,7 +1357,7 @@
       "ID": "ETUA_LifeOfTheThousandGods",
       "SetID": "65jc0ap",
       "Name": "Life Of The Thousand Gods",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1376,7 +1381,7 @@
       "ID": "ETUA_NightmareOver",
       "SetID": "65jc0ap",
       "Name": "Nightmare Over",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1384,7 +1389,7 @@
       "ID": "ETUA_NoTimeForSongs",
       "SetID": "65jc0ap",
       "Name": "No Time To Relax",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -1440,7 +1445,7 @@
       "ID": "ETUA_SUPER",
       "SetID": "65jc0ap",
       "Name": "Survival Horror",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -1450,7 +1455,7 @@
       "Name": "Safe...For now?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ETUA_StayDead",
@@ -1528,9 +1533,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "ETUA_Trapped",
@@ -1561,7 +1566,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 1
     }
   ],
@@ -1569,8 +1574,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:07:14.1415698+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-28T14:02:29.6695362+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:07:14.1416019+00:00"
+  "LastChanged_Achievements": "2023-10-28T15:07:11.1509667+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
+  "LastUpdate_Ratings": "2023-10-28T15:03:19.6908654+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:07:11.1510103+00:00"
 }

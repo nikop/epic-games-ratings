@@ -12,6 +12,8 @@
 | Advanced Armaments | 12.00% | ~3 |
 | Leisis Bless You | 8.00% | ~2 |
 | Overboard | 4.00% | ~1 |
+| Sommelier | 4.00% | ~1 |
+| Bladesmith | 4.00% | ~1 |
 | Smotherly Love | 4.00% | ~1 |
 | Let Me Solo Them | 4.00% | ~1 |
 | Explorer | 4.00% | ~1 |
@@ -29,10 +31,8 @@
 | Shattered Illusions | 0.00% | ~0 |
 | Aura Mastered | 0.00% | ~0 |
 | One Size Fits All | 0.00% | ~0 |
-| Sommelier | 0.00% | ~0 |
 | Pommelsmith | 0.00% | ~0 |
 | The Trinket Tracker | 0.00% | ~0 |
-| Bladesmith | 0.00% | ~0 |
 | Family Heirlooms | 0.00% | ~0 |
 | Missing Melodies | 0.00% | ~0 |
 | A Casualty of Truth | 0.00% | ~0 |

@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 684,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Rating": 683,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3587,6 +3587,11 @@
       "Time": "2023-10-28T14:09:19.5082127+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T15:09:36.8421388+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3614,7 +3619,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3622,7 +3627,7 @@
       "Name": "Attenborough",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "BOOKWORM",
@@ -3678,7 +3683,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "CRUELTY",
@@ -3702,7 +3707,7 @@
       "Name": "Ganglord",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "DEAD_DICK",
@@ -3710,7 +3715,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3758,7 +3763,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "EXPERIENCED",
@@ -3774,7 +3779,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3782,7 +3787,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3806,7 +3811,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "GIANT_KILLER",
@@ -3814,7 +3819,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "GOAL",
@@ -3838,7 +3843,7 @@
       "Name": "Hold The Line",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "IM_THE_LAW",
@@ -3846,7 +3851,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "INFILTRATOR",
@@ -3854,7 +3859,7 @@
       "Name": "Infiltrator",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "LUMBERJACK",
@@ -3902,7 +3907,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "RECYCLER",
@@ -3974,7 +3979,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3982,7 +3987,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "THE_WATCHERS",
@@ -4005,7 +4010,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 0
     }
   ],
@@ -4013,8 +4018,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-28T14:09:19.5082117+00:00",
+  "LastChanged_Achievements": "2023-10-28T15:09:36.842138+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.0007152+00:00",
-  "LastUpdate_Ratings": "2023-10-28T13:58:21.9938602+00:00",
-  "LastUpdate_Achievements": "2023-10-28T14:09:19.5082624+00:00"
+  "LastUpdate_Ratings": "2023-10-28T14:58:33.5309551+00:00",
+  "LastUpdate_Achievements": "2023-10-28T15:09:36.8422437+00:00"
 }
