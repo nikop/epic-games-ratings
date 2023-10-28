@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.67% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.20% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.18% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.43% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -52,7 +52,7 @@
 | 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.41% |
-| 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.14% |
+| 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.12% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.93% |
 | 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.73% |
@@ -87,8 +87,8 @@
 | 85 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.51% |
 | 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.47% |
 | 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.35% |
-| 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.34% |
 | 90 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 91 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
 | 92 | [The Complex](games/t/the_complex.md) | 3.17% |
@@ -164,8 +164,8 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.71% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.73% |
+| 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
@@ -192,12 +192,12 @@
 | 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.48% |
 | 191 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 191 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
+| 193 | [It Takes Two](games/i/it_takes_two.md) | 0.46% |
 | 193 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 193 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 195 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
-| 195 | [Tchia](games/t/tchia.md) | 0.45% |
-| 198 | [It Takes Two](games/i/it_takes_two.md) | 0.44% |
+| 196 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 196 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
+| 196 | [Tchia](games/t/tchia.md) | 0.45% |
 | 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 201 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
@@ -222,7 +222,7 @@
 | 219 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 221 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 222 | [Filament](games/f/filament.md) | 0.26% |
-| 223 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.25% |
+| 222 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.26% |
 | 224 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 225 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 225 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
@@ -253,10 +253,10 @@
 | 248 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
 | 252 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 252 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 252 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
-| 255 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 255 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
-| 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 254 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 254 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 254 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 254 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.11% |
 | 258 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 258 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 258 | [House Flipper](games/h/house_flipper.md) | 0.10% |
