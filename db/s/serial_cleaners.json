@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
@@ -549,6 +549,11 @@
       "Time": "2023-10-28T07:07:39.3597838+00:00",
       "NumProgressed": 257,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-28T11:07:01.1871822+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -606,9 +611,9 @@
       "ID": "CHAPTER4_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Something Rotten",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "CHAPTER5_COMPLETE",
@@ -718,9 +723,9 @@
       "ID": "PERFECT_CLEANED_ONE_MAP",
       "SetID": "2lk004m",
       "Name": "Mr. Hygeni",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -736,7 +741,7 @@
       "Name": "Clean Conscience",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "VIPER_HACKING",
@@ -751,13 +756,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 6
     }
   ],
@@ -765,8 +770,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:07:12.1407207+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:07:01.1871818+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:43.7588854+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:57:20.7492543+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:07:12.1407449+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:57:09.8216011+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:07:01.1871995+00:00"
 }

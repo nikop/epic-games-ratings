@@ -4157,9 +4157,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1140
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4270,8 +4270,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:06:44.0129602+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:06:33.4530807+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:00:42.212716+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:06:44.0129958+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:00:23.7735239+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:06:33.4531052+00:00"
 }

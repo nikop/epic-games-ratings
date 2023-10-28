@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1043,9 +1043,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 8249,
+  "EOS_Progressed": 8250,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5058,6 +5058,11 @@
       "Time": "2023-10-28T09:05:03.144098+00:00",
       "NumProgressed": 8249,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-28T11:05:38.8366018+00:00",
+      "NumProgressed": 8250,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5093,7 +5098,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5197
+      "UsersEstimate": 5198
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5101,7 +5106,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "DwarfChandelier",
@@ -5141,7 +5146,7 @@
       "Name": "The God of Battle",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "GoHome",
@@ -5173,7 +5178,7 @@
       "Name": "The Levitator",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Manners",
@@ -5197,7 +5202,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5205,7 +5210,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "SkeletonKing",
@@ -5221,7 +5226,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "TheLegendBegins",
@@ -5253,22 +5258,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6929
+      "UsersEstimate": 6930
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8249,
+      "Progressed": 8250,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-24T03:03:34.6189422+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:05:49.5142518+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:05:38.8366013+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:14.1215438+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:03:28.2141437+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:05:49.5142963+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:03:17.9361219+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:05:38.836636+00:00"
 }

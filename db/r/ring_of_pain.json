@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3220,7 +3220,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238656,
+  "EOS_Progressed": 238657,
   "EOS_Completed": 286,
   "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 5,
@@ -23005,6 +23005,11 @@
       "Time": "2023-10-28T10:09:54.1612311+00:00",
       "NumProgressed": 238656,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-28T11:09:41.9710057+00:00",
+      "NumProgressed": 238657,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 122,
@@ -23048,7 +23053,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 229110
+      "UsersEstimate": 229111
     },
     {
       "ID": "CURSE1HP",
@@ -23056,7 +23061,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95462
+      "UsersEstimate": 95463
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -23088,7 +23093,7 @@
       "Name": "Challenge Increases",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "DEAL25DAMAGE",
@@ -23136,7 +23141,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174219
+      "UsersEstimate": 174220
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -23184,7 +23189,7 @@
       "Name": "New Game\u002B",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "DIEIN30SEC",
@@ -23200,7 +23205,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138420
+      "UsersEstimate": 138421
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -23208,7 +23213,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78756
+      "UsersEstimate": 78757
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -23416,7 +23421,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 145580
+      "UsersEstimate": 145581
     },
     {
       "ID": "KILL1000",
@@ -23440,7 +23445,7 @@
       "Name": "Clearing The Room",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "KILL20TYPES",
@@ -23448,7 +23453,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95462
+      "UsersEstimate": 95463
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -23504,7 +23509,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 128874
+      "UsersEstimate": 128875
     },
     {
       "ID": "KILLNICEDOG",
@@ -23552,7 +23557,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 85916
+      "UsersEstimate": 85917
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -23648,7 +23653,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 107395
+      "UsersEstimate": 107396
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -23664,7 +23669,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 155126
+      "UsersEstimate": 155127
     },
     {
       "ID": "PETRIFY50",
@@ -23688,7 +23693,7 @@
       "Name": "Spreading Plague",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "POISON30TIMES",
@@ -23696,7 +23701,7 @@
       "Name": "Toxic",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 78756
+      "UsersEstimate": 78757
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -23728,7 +23733,7 @@
       "Name": "Decisions, Decisions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "SHRINETO1",
@@ -23736,7 +23741,7 @@
       "Name": "Fragile Mortality",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "SHUFFLE10TIMES",
@@ -23760,7 +23765,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 212404
+      "UsersEstimate": 212405
     },
     {
       "ID": "SPECIALROOMS10",
@@ -23784,7 +23789,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 102622
+      "UsersEstimate": 102623
     },
     {
       "ID": "STEALTH100",
@@ -23824,7 +23829,7 @@
       "Name": "Defuser",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19093
     },
     {
       "ID": "USESHRINE",
@@ -23840,7 +23845,7 @@
       "Name": "The Long Run",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 35798
+      "UsersEstimate": 35799
     },
     {
       "ID": "WIN0ATTACK",
@@ -23991,22 +23996,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238656,
+      "Progressed": 238657,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 136,
-      "Completed": 136
+      "Progressed": 137,
+      "Completed": 137
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-28T09:02:57.2204418+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:09:54.1612306+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:09:41.9710053+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:42.7378131+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:03:18.244946+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:09:54.161533+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:03:07.6671935+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:09:41.9712422+00:00"
 }

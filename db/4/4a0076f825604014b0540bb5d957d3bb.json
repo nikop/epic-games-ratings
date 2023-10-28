@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
@@ -407,9 +407,9 @@
       "ID": "CgkInO_K3eIdEAIQCw",
       "SetID": "6bj96in",
       "Name": "MASTER CRAFTSMAN",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "CgkInO_K3eIdEAIQDA",
@@ -519,9 +519,9 @@
       "ID": "CgkInO_K3eIdEAIQGQ",
       "SetID": "6bj96in",
       "Name": "BLINDED BY THE LIGHT",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkInO_K3eIdEAIQGg",
@@ -542,8 +542,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:08:52.7460471+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:08:40.8536892+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:17.3602735+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:01:40.4912062+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:08:52.7460674+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:01:22.4835282+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:08:40.8537043+00:00"
 }

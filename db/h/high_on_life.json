@@ -6448,9 +6448,9 @@
       "ID": "ACH_SUITO_SUICIDE",
       "SetID": "cdkbb11",
       "Name": "Series Wrap on Suit-O",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -6567,8 +6567,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:06:43.2495252+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:06:32.7816263+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:57:23.1056271+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:06:43.2495905+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:57:11.8769028+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:06:32.7816872+00:00"
 }

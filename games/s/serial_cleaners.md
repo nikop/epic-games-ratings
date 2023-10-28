@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 34.00% | ~87 |
+| Clean Conscience | 34.00% | ~88 |
 | So it goes | 33.00% | ~85 |
 | A New Broom Sweeps Clean | 17.00% | ~44 |
 | Off to a Good Start | 15.00% | ~39 |
 | Small-time Finder | 15.00% | ~39 |
 | Business as usual | 12.00% | ~31 |
-| Mr. Hygeni | 9.00% | ~23 |
+| Mr. Hygeni | 10.00% | ~26 |
 | Pride and Joy | 8.00% | ~21 |
 | Eyes Yet To Open | 7.00% | ~18 |
 | Hackathon | 6.00% | ~15 |
 | All the Stories | 4.00% | ~10 |
 | Total Recall | 4.00% | ~10 |
-| Something Rotten | 4.00% | ~10 |
 | Witness Protection | 4.00% | ~10 |
 | The Wing and the Thigh | 4.00% | ~10 |
+| Something Rotten | 3.00% | ~8 |
 | Blood Capade | 2.00% | ~5 |
 | The Crush And Smash The Dino Four | 2.00% | ~2 |
 | … Women Inherit The Earth | 2.00% | ~2 |
@@ -29,7 +29,7 @@
 | Cha Cha Real Smooth | 0.40% | ~0 |
 | That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 340)  
+Progressed: 258 (Ranked 340)  
 Completed: 6 (2.33%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 6 (2.33%) (Ranked 115)
 | 2023-10-25 | 251 | 6 |
 | 2023-10-26 | 252 | 6 |
 | 2023-10-27 | 255 | 6 |
-| 2023-10-28 | 257 | 6 |
+| 2023-10-28 | 258 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 570,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.41,
+  "EOS_Completed_Percentage": 1.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1135,6 +1135,11 @@
       "Time": "2023-10-27T22:05:24.3468438+00:00",
       "NumProgressed": 568,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T11:04:44.7493216+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1144,9 +1149,9 @@
       "ID": "CAUSE_AND_EFFECT",
       "SetID": "8eejhlh",
       "Name": "Cause and Effect",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 545
+      "UsersEstimate": 542
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1154,7 +1159,7 @@
       "Name": "Choices Matter",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ENDING_1",
@@ -1178,7 +1183,7 @@
       "Name": "The Ploy",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ENDING_4",
@@ -1202,7 +1207,7 @@
       "Name": "The Bribe",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ENDING_7",
@@ -1218,7 +1223,7 @@
       "Name": "Even Tempered",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 331
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1234,7 +1239,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "GOOD_KARMA",
@@ -1242,7 +1247,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "INTERROGATION",
@@ -1250,7 +1255,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1274,7 +1279,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "SABOTAGE",
@@ -1288,9 +1293,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 234
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1298,14 +1303,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 570,
       "Completed": 8
     }
   ],
@@ -1313,8 +1318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:04:55.480429+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:04:44.7493211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:59:19.659111+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:04:55.4804506+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:59:05.526856+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:04:44.7493365+00:00"
 }

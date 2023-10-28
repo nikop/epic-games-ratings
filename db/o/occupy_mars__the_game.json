@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1683,
+  "EOS_Progressed": 1684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4051,6 +4051,11 @@
       "Time": "2023-10-28T07:06:39.3916888+00:00",
       "NumProgressed": 1683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T11:06:10.2691465+00:00",
+      "NumProgressed": 1684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4094,7 +4099,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -4182,7 +4187,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4236,9 +4241,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 556
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4334,7 +4339,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4398,7 +4403,7 @@
       "Name": "Space Forest",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -4438,14 +4443,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1683,
+      "Progressed": 1684,
       "Completed": 0
     }
   ],
@@ -4453,8 +4458,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:06:20.9028653+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:06:10.269146+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:18.9063385+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:59:35.2411437+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:06:20.9029312+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:59:22.1898904+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:06:10.2691971+00:00"
 }

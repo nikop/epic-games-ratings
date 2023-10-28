@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18707,
+  "EOS_Progressed": 18708,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12377,6 +12377,11 @@
       "Time": "2023-10-28T10:07:36.5946888+00:00",
       "NumProgressed": 18707,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-28T11:07:25.6008753+00:00",
+      "NumProgressed": 18708,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12516,7 +12521,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "0018",
@@ -12675,7 +12680,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18707,
+      "Progressed": 18708,
       "Completed": 4
     }
   ],
@@ -12683,8 +12688,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-27T01:40:48.3215851+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:07:36.5946882+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:07:25.6008749+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:29.8284553+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:00:27.2151416+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:07:36.594794+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:00:12.0710583+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:07:25.6009498+00:00"
 }

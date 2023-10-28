@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 326)
 | Fallout Doesn't Let You Do This | 1.00% | ~244 |
 | Don't Knife The Hand That Feeds | 1.00% | ~244 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
+| Series Wrap on Suit-O | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
-| Series Wrap on Suit-O | 0.90% | ~219 |
 | We Came, We Chainsaw, We Conquered | 0.80% | ~13 |
 | Eatin' Good in the Neighborhood | 0.70% | ~171 |
 | Eye Scream, You Scream | 0.70% | ~171 |

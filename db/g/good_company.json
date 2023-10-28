@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5531,
+  "EOS_Progressed": 5532,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4038,6 +4038,11 @@
       "Time": "2023-10-28T10:06:52.8577882+00:00",
       "NumProgressed": 5531,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T11:06:42.1869275+00:00",
+      "NumProgressed": 5532,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4161,7 +4166,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4433,7 +4438,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ach_frp_many_products2",
@@ -4656,15 +4661,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5531,
+      "Progressed": 5532,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:06:52.8577876+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:06:42.1869271+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:27.5188861+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:57:58.6750399+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:06:52.8578968+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:57:49.690264+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:06:42.1870147+00:00"
 }

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 52.00% | ~11 |
+| Something important | 57.00% | ~12 |
 | Wanderer | 48.00% | ~10 |
 | Finished it | 43.00% | ~9 |
-| A piece of the story | 29.00% | ~6 |
-| Refuse to look | 24.00% | ~5 |
+| A piece of the story | 33.00% | ~7 |
+| Refuse to look | 29.00% | ~6 |
 | Do what you have to | 24.00% | ~5 |
 | It's covered up for a reason | 19.00% | ~4 |
 | Scraps of love | 19.00% | ~4 |
@@ -18,17 +18,17 @@
 | The tragedy unfolds | 19.00% | ~4 |
 | Tough conversation | 19.00% | ~4 |
 | Breaking free | 14.00% | ~3 |
+| A Slice of Life | 14.00% | ~3 |
+| Debut | 14.00% | ~3 |
 | Sign of weakness | 14.00% | ~3 |
+| The art of movement | 14.00% | ~3 |
 | A new way | 10.00% | ~2 |
 | Another perspective | 10.00% | ~2 |
-| A Slice of Life | 10.00% | ~2 |
-| Debut | 10.00% | ~2 |
+| Face your fears | 10.00% | ~2 |
 | Sound Bite | 10.00% | ~2 |
 | Lights! Camera! Action! | 10.00% | ~2 |
-| The art of movement | 10.00% | ~2 |
 | True Reflection | 10.00% | ~2 |
 | We Are Not Alone | 5.00% | ~1 |
-| Face your fears | 5.00% | ~1 |
 | The Perfect Storm | 5.00% | ~1 |
 | Fisherman | 5.00% | ~1 |
 | Whispers long forgotten | 5.00% | ~1 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 504)  
+Progressed: 21 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -32,7 +32,7 @@
 | Team Hunter | 37.00% | ~69 |
 | Reincarnation Cycle Stopper | 35.00% | ~65 |
 | Artful Assister | 34.00% | ~64 |
-| Karakuri Isle | 32.00% | ~60 |
+| Karakuri Isle | 33.00% | ~62 |
 | Left Arm Leverager | 30.00% | ~56 |
 | Canyon of Karakuri | 29.00% | ~54 |
 | Human Believer | 29.00% | ~54 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 359)  
-Completed: 5 (2.67%) (Ranked 104)  
+Completed: 5 (2.67%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

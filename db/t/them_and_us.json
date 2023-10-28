@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1216,6 +1216,11 @@
       "Time": "2023-10-28T01:45:47.9160775+00:00",
       "NumProgressed": 280,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T11:06:25.9611468+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1243,7 +1248,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1323,7 +1328,7 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1435,7 +1440,7 @@
       "Name": "Safe...For now?",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ETUA_StayDead",
@@ -1465,9 +1470,9 @@
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_TheCultists",
@@ -1499,7 +1504,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1515,7 +1520,7 @@
       "Name": "A Night To Remember",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ETUA_Trapped",
@@ -1546,7 +1551,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 1
     }
   ],
@@ -1554,8 +1559,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:06:36.5752241+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:06:25.9611464+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:09.5396378+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:01:51.437039+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:06:36.5752664+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:01:33.4747732+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:06:25.961181+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234471,
+  "EOS_Progressed": 234472,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20422,6 +20422,11 @@
       "Time": "2023-10-28T08:08:11.1643933+00:00",
       "NumProgressed": 234471,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-28T11:07:04.3480298+00:00",
+      "NumProgressed": 234472,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20569,7 +20574,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77375
+      "UsersEstimate": 77376
     },
     {
       "ID": "NOBUNAGA",
@@ -20697,22 +20702,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96133
+      "UsersEstimate": 96134
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234471,
+      "Progressed": 234472,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:07:15.3148816+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:07:04.3480293+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.9815645+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:58:15.4739741+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:07:15.3150338+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:58:06.0743665+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:07:04.3481456+00:00"
 }

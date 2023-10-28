@@ -633,9 +633,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 261617,
+  "EOS_Progressed": 261720,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 19621,
+  "EOS_NewPlayers": 19638,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9428,6 +9428,11 @@
       "Time": "2023-10-28T10:05:09.6167189+00:00",
       "NumProgressed": 261617,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-28T11:04:58.8312704+00:00",
+      "NumProgressed": 261720,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 24,
@@ -9439,7 +9444,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "10",
@@ -9447,7 +9452,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5234
     },
     {
       "ID": "11",
@@ -9479,7 +9484,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7849
+      "UsersEstimate": 7852
     },
     {
       "ID": "15",
@@ -9519,7 +9524,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.4,
       "XP": 85,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "2",
@@ -9527,7 +9532,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "20",
@@ -9535,7 +9540,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5234
     },
     {
       "ID": "21",
@@ -9551,7 +9556,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "23",
@@ -9559,7 +9564,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "24",
@@ -9567,7 +9572,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "3",
@@ -9583,7 +9588,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "5",
@@ -9591,7 +9596,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13081
+      "UsersEstimate": 13086
     },
     {
       "ID": "6",
@@ -9599,7 +9604,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5234
     },
     {
       "ID": "7",
@@ -9630,7 +9635,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 261617,
+      "Progressed": 261720,
       "Completed": 245
     }
   ],
@@ -9638,8 +9643,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-28T04:59:22.1006758+00:00",
-  "LastChanged_Achievements": "2023-10-28T10:05:09.6167178+00:00",
+  "LastChanged_Achievements": "2023-10-28T11:04:58.83127+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.219998+00:00",
-  "LastUpdate_Ratings": "2023-10-28T09:59:35.7160676+00:00",
-  "LastUpdate_Achievements": "2023-10-28T10:05:09.6168044+00:00"
+  "LastUpdate_Ratings": "2023-10-28T10:59:22.6510902+00:00",
+  "LastUpdate_Achievements": "2023-10-28T11:04:58.8313242+00:00"
 }

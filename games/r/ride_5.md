@@ -19,8 +19,8 @@
 | I'm Here Too! | 17.00% | ~306 |
 | Go-Faster Stripes | 16.00% | ~288 |
 | We've Just Begun | 10.00% | ~180 |
-| Stamina Star | 8.00% | ~144 |
 | Is It the Right Size? | 8.00% | ~144 |
+| Stamina Star | 7.00% | ~126 |
 | Make It Your Own! | 5.00% | ~90 |
 | Evangelist | 5.00% | ~90 |
 | I Make the Rules! | 4.00% | ~72 |
@@ -29,10 +29,10 @@
 | La Dolce Vita | 3.00% | ~54 |
 | The Road to Liberty | 3.00% | ~54 |
 | Romantic Races | 3.00% | ~54 |
-| Rounding Off | 3.00% | ~54 |
 | Iconic! | 2.00% | ~36 |
 | Back in Blighty | 2.00% | ~36 |
 | Still Here | 2.00% | ~36 |
+| Rounding Off | 2.00% | ~36 |
 | My Work Here Is Done | 2.00% | ~36 |
 | Overtaking the Master | 2.00% | ~36 |
 | I'll Be the Best! | 1.00% | ~18 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 218)  
+Progressed: 1,801 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,4 +111,4 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 1,720 | 0 |
 | 2023-10-26 | 1,766 | 0 |
 | 2023-10-27 | 1,789 | 0 |
-| 2023-10-28 | 1,800 | 0 |
+| 2023-10-28 | 1,801 | 0 |
