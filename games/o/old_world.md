@@ -9,10 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~600 |
 | Settler | 4.00% | ~600 |
 | Play a Single Player Game | 4.00% | ~600 |
+| Able | 3.00% | ~450 |
 | Architect | 3.00% | ~450 |
 | Intrepid | 3.00% | ~450 |
+| Strong | 3.00% | ~450 |
 | Friendly Family | 3.00% | ~450 |
-| Able | 2.00% | ~300 |
 | Ambitious | 2.00% | ~300 |
 | Brilliant | 2.00% | ~300 |
 | Enlightened | 2.00% | ~300 |
@@ -26,12 +27,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 2.00% | ~300 |
 | Noble | 2.00% | ~300 |
 | Pioneer | 2.00% | ~300 |
-| Strong | 2.00% | ~300 |
 | Warrior | 2.00% | ~300 |
 | Wise | 2.00% | ~300 |
 | Developing Cities | 2.00% | ~300 |
 | Strong Cities | 2.00% | ~300 |
 | Able Difficulty | 2.00% | ~300 |
+| Furious Family | 2.00% | ~300 |
 | Great Ziggurat | 2.00% | ~300 |
 | Hanging Gardens | 2.00% | ~300 |
 | Ishtar Gate | 2.00% | ~300 |
@@ -64,7 +65,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 1.00% | ~150 |
 | Champions | 1.00% | ~150 |
 | Sages | 1.00% | ~150 |
-| Furious Family | 1.00% | ~150 |
 | Acropolis | 1.00% | ~150 |
 | Apadana | 1.00% | ~150 |
 | Colossus | 1.00% | ~150 |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~105 |
 | The Clergy | 0.70% | ~105 |
 | Capable | 0.60% | ~90 |
+| Ready | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
 | Devout | 0.50% | ~75 |
-| Ready | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
 | Cao'an | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,994 (Ranked 142)  
+Progressed: 14,995 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 14,994 | 5 |
+| 2023-10-28 | 14,995 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

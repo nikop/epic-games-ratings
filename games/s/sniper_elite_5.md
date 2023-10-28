@@ -13,7 +13,7 @@ Rating: 4.46 (Ranked 635)
 | Lord of War | 30.00% | ~1,136 |
 | Taking it back | 29.00% | ~1,098 |
 | Resourceful | 27.00% | ~1,022 |
-| Target America | 26.00% | ~985 |
+| Target America | 27.00% | ~1,022 |
 | The Kraken Sleeps | 25.00% | ~947 |
 | Liberté | 23.00% | ~871 |
 | Organ Grinder | 23.00% | ~871 |
@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 635)
 | Explosive Efficiency | 19.00% | ~720 |
 | Gunslinger | 18.00% | ~682 |
 | Just a Flesh Wound | 17.00% | ~644 |
+| Der Geist | 17.00% | ~644 |
 | Climbing the Ladder | 16.00% | ~606 |
-| Der Geist | 16.00% | ~606 |
 | Close Quarters | 16.00% | ~606 |
 | Snake in the Grass | 15.00% | ~568 |
 | Brains of the Operation | 15.00% | ~568 |

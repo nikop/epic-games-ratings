@@ -883,9 +883,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "questCemetery",
@@ -979,9 +979,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "questKillSwampMonster",
@@ -1067,9 +1067,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "questSavePrincessFinal",
@@ -1128,8 +1128,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:07:52.2003456+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:47:40.994668+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:27.1514657+00:00",
-  "LastUpdate_Ratings": "2023-10-28T00:00:52.894098+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:07:52.200435+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:40:05.6187603+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:47:40.9947523+00:00"
 }

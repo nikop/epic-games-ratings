@@ -6,10 +6,10 @@ Rating: 4.50 (Ranked 578)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 5.00% | ~1,397 |
-| Advancement | 4.00% | ~1,117 |
+| Advancement | 4.00% | ~1,118 |
+| Meticulously Efficient | 4.00% | ~1,118 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~838 |
 | Discovery | 3.00% | ~838 |
-| Meticulously Efficient | 3.00% | ~838 |
 | Fully Upgraded | 3.00% | ~838 |
 | Solo Capture | 3.00% | ~838 |
 | Swift Rift Removers | 3.00% | ~838 |
@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 578)
 | Skilled | 1.00% | ~279 |
 | Stunner | 1.00% | ~279 |
 | Terrifying | 1.00% | ~279 |
+| Tobin's Prodigy | 1.00% | ~279 |
 | Welcome to the Crew | 1.00% | ~279 |
-| Collector | 0.90% | ~251 |
-| Escape Artist | 0.90% | ~251 |
-| Tobin's Prodigy | 0.90% | ~251 |
-| Diabolical | 0.80% | ~223 |
-| Reckless | 0.80% | ~223 |
+| Collector | 0.90% | ~252 |
+| Escape Artist | 0.90% | ~252 |
+| Diabolical | 0.80% | ~224 |
+| Reckless | 0.80% | ~224 |
 | Rivalry | 0.70% | ~196 |
 | Fragile Panes | 0.60% | ~168 |
 | Liability | 0.60% | ~168 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,936 (Ranked 122)  
+Progressed: 27,949 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 27,936 | 65 |
+| 2023-10-28 | 27,949 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
 Sum: 2,572 (Ranked 182)  

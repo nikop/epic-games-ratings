@@ -754,10 +754,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 546,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2023-10-28T01:42:14.7068807+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 547,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 546,
+  "NumberOfAwards": 547,
   "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
@@ -851,8 +857,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2023-10-25T23:00:39.6589115+00:00",
+  "LastChanged": "2023-10-28T01:42:14.7068805+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:03.2660266+00:00",
-  "LastUpdate_Ratings": "2023-10-28T00:01:46.7645366+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:03:35.5395752+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:42:14.7068812+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:42:53.5201258+00:00"
 }

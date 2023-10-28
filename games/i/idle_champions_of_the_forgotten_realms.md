@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.40% | ~932 |
 | The Cursed Farmer | 0.40% | ~932 |
 | Foul Play | 0.40% | ~797 |
+| The Ring of Regeneration | 0.30% | ~699 |
 | The Mad Wizard | 0.30% | ~699 |
 | The Jungles of Doomspace | 0.30% | ~598 |
 | The Arena of Blood | 0.30% | ~598 |
@@ -21,11 +22,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
 | Unearthed Evil | 0.20% | ~466 |
-| The Ring of Regeneration | 0.20% | ~466 |
 | The Crumbling Temple | 0.20% | ~466 |
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
+| Resolve Amongst Chaos | 0.20% | ~466 |
 | Into The Fire | 0.20% | ~399 |
 | Dreamscape | 0.20% | ~399 |
 | The Path of Dreams | 0.20% | ~399 |
@@ -358,7 +359,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~233 |
 | Earthquake! | 0.10% | ~199 |
 | Hailstorm! | 0.10% | ~199 |
-| Resolve Amongst Chaos | 0.10% | ~233 |
 | All You Know Is Wrong | 0.10% | ~233 |
 | Shadow Stalkers | 0.10% | ~199 |
 | Avernus Frozen Over | 0.10% | ~199 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,979 (Ranked 61)  
-Completed: 2,389 (1.03%) (Ranked 149)  
+Progressed: 232,986 (Ranked 61)  
+Completed: 2,391 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -726,7 +726,7 @@ Completed: 2,389 (1.03%) (Ranked 149)
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
-| 2023-10-28 | 232,979 | 2,389 |
+| 2023-10-28 | 232,986 | 2,391 |
 ## Awards
 Max (Great for Beginners): 5,456  (Ranked 69)  
 Sum: 32,243 (Ranked 41)  

@@ -6,23 +6,23 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 0.90% | ~13 |
-| Gotta Ca... Must Collect All of Them | 0.70% | ~10 |
-| How Romantic! | 0.70% | ~10 |
-| Cutthroat Competitors | 0.70% | ~10 |
-| Me and My Familiar | 0.60% | ~9 |
-| Passing Shadow | 0.60% | ~9 |
-| This Too Shall Pass | 0.60% | ~9 |
-| Daybreak | 0.50% | ~7 |
+| The Cost of Heroism | 1.00% | ~14 |
+| Gotta Ca... Must Collect All of Them | 0.80% | ~12 |
+| How Romantic! | 0.80% | ~12 |
+| Cutthroat Competitors | 0.80% | ~12 |
+| Me and My Familiar | 0.70% | ~10 |
+| Passing Shadow | 0.70% | ~10 |
+| This Too Shall Pass | 0.70% | ~10 |
+| Daybreak | 0.60% | ~9 |
 | Let Me Get My Chisel | 0.30% | ~4 |
 | Completing the Look | 0.30% | ~4 |
+| Who's Counting? | 0.30% | ~4 |
+| Thematic Divergence | 0.30% | ~4 |
+| Pyrrhic Victory | 0.30% | ~4 |
 | War Endured | 0.30% | ~4 |
 | Echoes Die | 0.30% | ~4 |
 | Core Failure | 0.30% | ~4 |
 | Empty the Caves | 0.20% | ~3 |
-| Who's Counting? | 0.20% | ~3 |
-| Thematic Divergence | 0.20% | ~3 |
-| Pyrrhic Victory | 0.20% | ~3 |
 | A Story of Heroes | 0.20% | ~3 |
 | A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
@@ -30,6 +30,7 @@ Number of Ratings: 45  (23.09.2022)
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |
+| In Soil, In Smoke | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
@@ -47,7 +48,6 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
-| In Soil, In Smoke | 0.00% | ~0 |
 | Another Tale to Tell | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 | No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,442 (Ranked 230)  
+Progressed: 1,443 (Ranked 230)  
 Completed: 6 (0.42%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,6 +209,7 @@ Completed: 6 (0.42%) (Ranked 199)
 | 2023-10-25 | 1,437 | 6 |
 | 2023-10-26 | 1,438 | 6 |
 | 2023-10-27 | 1,442 | 6 |
+| 2023-10-28 | 1,443 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 493)  
 Sum: 28 (Ranked 505)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7742,9 +7742,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 644
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7902,9 +7902,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 1022
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8093,8 +8093,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:06:22.3444702+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:45:40.5633232+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:59:01.3466768+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:06:22.3445882+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:38:13.8956629+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:45:40.563476+00:00"
 }

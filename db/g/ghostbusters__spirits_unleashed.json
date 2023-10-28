@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2811,9 +2811,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 27936,
+  "EOS_Progressed": 27949,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1104,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16701,6 +16701,11 @@
       "Time": "2023-10-28T00:03:41.2422194+00:00",
       "NumProgressed": 27936,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-28T01:42:59.3307232+00:00",
+      "NumProgressed": 27949,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16712,7 +16717,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "Animated",
@@ -16768,7 +16773,7 @@
       "Name": "Collector",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Cultured",
@@ -16792,7 +16797,7 @@
       "Name": "Diabolical",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Discovery",
@@ -16822,9 +16827,9 @@
       "ID": "Efficient",
       "SetID": "819popo",
       "Name": "Meticulously Efficient",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 838
+      "UsersEstimate": 1118
     },
     {
       "ID": "Escape_Artist",
@@ -16832,7 +16837,7 @@
       "Name": "Escape Artist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Fragile_Panes",
@@ -16936,7 +16941,7 @@
       "Name": "Reckless",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Rift_Destroyer",
@@ -17078,9 +17083,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 279
     },
     {
       "ID": "Ultimate_Defense",
@@ -17119,7 +17124,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 27936,
+      "Progressed": 27949,
       "Completed": 65
     }
   ],
@@ -17127,8 +17132,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-27T23:59:47.7165894+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:03:41.2422185+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:42:59.3307214+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:59:47.7165901+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:03:41.2423543+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:39:01.1798754+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:42:59.3308756+00:00"
 }

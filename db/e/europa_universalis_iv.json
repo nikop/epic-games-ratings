@@ -11277,9 +11277,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 440810,
+  "EOS_Progressed": 440846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5301,
+  "EOS_NewPlayers": 5306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32992,6 +32992,11 @@
       "Time": "2023-10-28T00:03:39.9068605+00:00",
       "NumProgressed": 440810,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T01:42:58.1088297+00:00",
+      "NumProgressed": 440846,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33163,7 +33168,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -33395,7 +33400,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -33443,7 +33448,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8816
+      "UsersEstimate": 8817
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -33523,7 +33528,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8816
+      "UsersEstimate": 8817
     },
     {
       "ID": "achievement_colonial_management",
@@ -33659,7 +33664,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -33675,7 +33680,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -33715,7 +33720,7 @@
       "Name": "Electable!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -33835,7 +33840,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8816
+      "UsersEstimate": 8817
     },
     {
       "ID": "achievement_forever_golden",
@@ -33963,7 +33968,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_golden_horn",
@@ -34003,7 +34008,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17634
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34027,7 +34032,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13224
+      "UsersEstimate": 13225
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -34499,7 +34504,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_marshy_march",
@@ -34811,7 +34816,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achievement_prester_john",
@@ -34955,7 +34960,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -35003,7 +35008,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8816
+      "UsersEstimate": 8817
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -35283,7 +35288,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13224
+      "UsersEstimate": 13225
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -35555,7 +35560,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -35667,7 +35672,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17634
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35699,7 +35704,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17632
+      "UsersEstimate": 17634
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -35834,21 +35839,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 440810,
+      "Progressed": 440846,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 440810,
+      "Progressed": 440846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-27T17:57:30.3441456+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:03:39.9068599+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:42:58.108828+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:15.4685562+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:58:00.4826337+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:03:39.908328+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:37:11.2777183+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:42:58.1103013+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5170,
+  "EOS_Progressed": 5172,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -848,6 +848,11 @@
       "Time": "2023-10-26T20:06:31.8743048+00:00",
       "NumProgressed": 5170,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-28T01:45:56.7045085+00:00",
+      "NumProgressed": 5172,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -859,7 +864,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -875,7 +880,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -883,7 +888,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -915,7 +920,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -931,7 +936,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -963,7 +968,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -971,7 +976,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -987,7 +992,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5069
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -995,7 +1000,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1003,7 +1008,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1035,7 +1040,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1067,7 +1072,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1083,7 +1088,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1099,7 +1104,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3207
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1107,7 +1112,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1123,7 +1128,7 @@
       "Name": "Survived The Slaughter",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHIEVE_LVL_15_COMPLETE",
@@ -1131,7 +1136,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1147,7 +1152,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5069
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1155,7 +1160,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1203,7 +1208,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1219,7 +1224,7 @@
       "Name": "That Was Quick",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1235,7 +1240,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1243,22 +1248,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3671
+      "UsersEstimate": 3672
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5170,
+      "Progressed": 5172,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:06:38.1393472+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:45:56.704508+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:59.3866548+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:59:58.7509653+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:06:38.1393942+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:39:11.8533238+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:45:56.7045566+00:00"
 }

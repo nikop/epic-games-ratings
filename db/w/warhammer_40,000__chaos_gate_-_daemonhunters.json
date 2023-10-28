@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3277,
+  "EOS_Progressed": 3278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3710,6 +3710,11 @@
       "Time": "2023-10-25T13:13:01.8501774+00:00",
       "NumProgressed": 3277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T01:48:04.5421582+00:00",
+      "NumProgressed": 3278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3833,7 +3838,7 @@
       "Name": "Fleetmaster",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ForTheMachineGod",
@@ -3887,9 +3892,9 @@
       "ID": "Kills_Auto",
       "SetID": "3jha1np",
       "Name": "Not So Fast...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 229
     },
     {
       "ID": "Kills_Bleed",
@@ -3977,7 +3982,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -4137,7 +4142,7 @@
       "Name": "Junk Banishment",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -4185,7 +4190,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -4264,21 +4269,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3277,
+      "Progressed": 3278,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3277,
+      "Progressed": 3278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:08:56.1790534+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:48:04.5421575+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:56.5129831+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:58:23.6925019+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:08:56.1791514+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:37:34.6181905+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:48:04.5422513+00:00"
 }

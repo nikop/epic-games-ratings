@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7663,10 +7663,10 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 232979,
-  "EOS_Completed": 2389,
-  "EOS_NewPlayers": 584,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 232986,
+  "EOS_Completed": 2391,
+  "EOS_NewPlayers": 582,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -28923,6 +28923,11 @@
       "Time": "2023-10-28T00:05:11.1894024+00:00",
       "NumProgressed": 232979,
       "NumCompleted": 2389
+    },
+    {
+      "Time": "2023-10-28T01:44:29.7915067+00:00",
+      "NumProgressed": 232986,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 528,
@@ -30612,9 +30617,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 699
     },
     {
       "ID": "objective_completed_35",
@@ -31524,9 +31529,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_606",
@@ -33157,21 +33162,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199253,
+      "Progressed": 199260,
       "Completed": 3681
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 232979,
-      "Completed": 2389
+      "Progressed": 232986,
+      "Completed": 2391
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-27T21:57:30.8090358+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:05:11.1894016+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:44:29.7915061+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:57:28.511454+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:05:11.1926544+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:36:40.6649681+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:44:29.7945762+00:00"
 }

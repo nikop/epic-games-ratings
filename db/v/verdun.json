@@ -5,9 +5,9 @@
   "Ranking_Rating": 530,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 276,
-  "Ranking_EOS_Progress": 102,
+  "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1751,9 +1751,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 61834,
+  "EOS_Progressed": 61835,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22646,6 +22646,11 @@
       "Time": "2023-10-28T00:06:14.3653077+00:00",
       "NumProgressed": 61834,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-28T01:45:32.6969531+00:00",
+      "NumProgressed": 61835,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -22945,7 +22950,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 38955
+      "UsersEstimate": 38956
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -23001,7 +23006,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15458
+      "UsersEstimate": 15459
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -23073,7 +23078,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8038
+      "UsersEstimate": 8039
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -23128,15 +23133,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 61834,
+      "Progressed": 61835,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:06:14.365307+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:45:32.6969524+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:28.1860565+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:59:22.8295912+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:06:14.3654863+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:38:35.6940084+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:45:32.6971406+00:00"
 }

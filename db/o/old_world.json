@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 14994,
+  "EOS_Progressed": 14995,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14843,6 +14843,11 @@
       "Time": "2023-10-28T00:06:12.1460112+00:00",
       "NumProgressed": 14994,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-28T01:45:30.762074+00:00",
+      "NumProgressed": 14995,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15180,9 +15185,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -15452,9 +15457,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -15484,9 +15489,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -15772,9 +15777,9 @@
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -17589,21 +17594,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 14994,
+      "Progressed": 14995,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 14994,
+      "Progressed": 14995,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:06:12.1460107+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:45:30.7620726+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:57:39.4633043+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:06:12.1472878+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:36:51.8336477+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:45:30.7634109+00:00"
 }

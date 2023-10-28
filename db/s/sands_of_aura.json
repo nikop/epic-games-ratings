@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -119,6 +119,11 @@
     {
       "Time": "2023-10-27T22:09:03.1038612+00:00",
       "NumProgressed": 17,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T01:47:41.9656099+00:00",
+      "NumProgressed": 19,
       "NumCompleted": 0
     }
   ],
@@ -282,9 +287,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -314,7 +319,7 @@
       "ID": "DECIDE_CREATURES_FATE",
       "SetID": "cm0d613",
       "Name": "Smotherly Love",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -322,7 +327,7 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -330,7 +335,7 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -346,7 +351,7 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -354,7 +359,7 @@
       "ID": "DISCOVER_ONCEMAN_TOWN",
       "SetID": "cm0d613",
       "Name": "The River Styx",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -394,7 +399,7 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -410,7 +415,7 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -442,9 +447,9 @@
       "ID": "HOARD_GLINT",
       "SetID": "cm0d613",
       "Name": "A Sandwyrm\u0027s Hoard",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MAVETH_DEFEAT",
@@ -506,7 +511,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -514,7 +519,7 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -530,15 +535,15 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -562,7 +567,7 @@
       "ID": "USE_FLOWERING_VASCULATURE",
       "SetID": "cm0d613",
       "Name": "Transformative Nature",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -586,7 +591,7 @@
       "ID": "WIN_STARSPIRE_TOURNAMENT",
       "SetID": "cm0d613",
       "Name": "Champion of Starspire",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -595,7 +600,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:07:53.1979712+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:47:41.9656081+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:14.4187395+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:57:22.7843498+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:07:53.1981021+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:36:35.5557705+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:47:41.9656678+00:00"
 }

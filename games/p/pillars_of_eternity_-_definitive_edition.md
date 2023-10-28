@@ -6,8 +6,8 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~899 |
-| Completed Act I | 30.00% | ~329 |
+| Kickstarter Backer | 82.00% | ~898 |
+| Completed Act I | 30.00% | ~328 |
 | 5 Upgrades in Stronghold | 26.00% | ~285 |
 | First 5 Levels of Od Nua | 24.00% | ~263 |
 | Make an Adventurer | 23.00% | ~252 |
@@ -20,9 +20,9 @@ Number of Ratings: 2,847  (23.09.2022)
 | All Upgrades in Stronghold | 14.00% | ~153 |
 | The Heir of Caed Nua | 13.00% | ~142 |
 | Soulbinder | 13.00% | ~142 |
-| Last 5 Levels of Od Nua | 12.00% | ~132 |
-| Bounty Hunter | 11.00% | ~121 |
-| The Giftbearer | 11.00% | ~121 |
+| Last 5 Levels of Od Nua | 12.00% | ~131 |
+| Bounty Hunter | 11.00% | ~120 |
+| The Giftbearer | 11.00% | ~120 |
 | Trappy | 9.00% | ~99 |
 | Herald of the Old Flame | 9.00% | ~99 |
 | Watcher at the Breach | 9.00% | ~99 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,096 (Ranked 242)  
+Progressed: 1,095 (Ranked 242)  
 Completed: 2 (0.18%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 2 (0.18%) (Ranked 240)
 | 2023-10-20 | 1,097 | 2 |
 | 2023-10-23 | 1,096 | 2 |
 | 2023-10-27 | 1,097 | 2 |
+| 2023-10-28 | 1,095 | 2 |
 ## Awards
 Max (Character Customization): 1,930  (Ranked 111)  
 Sum: 4,747 (Ranked 140)  

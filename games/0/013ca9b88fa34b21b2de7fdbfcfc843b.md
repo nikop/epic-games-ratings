@@ -5,29 +5,29 @@ Rating: 4.60 (Ranked 404)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,208 |
-| A Thorny Situation | 70.00% | ~5,064 |
-| ... And Spit Back Out | 60.00% | ~4,340 |
-| Break-Net Speed | 49.00% | ~3,545 |
-| Bramble Breaker | 46.00% | ~3,328 |
-| Miner 49er | 43.00% | ~3,111 |
-| Humble Collector | 42.00% | ~3,038 |
-| Calm Sailing | 36.00% | ~2,604 |
-| Open the Gate! | 33.00% | ~2,387 |
+| Azoria Beckons | 72.00% | ~5,211 |
+| A Thorny Situation | 70.00% | ~5,066 |
+| ... And Spit Back Out | 60.00% | ~4,342 |
+| Break-Net Speed | 48.00% | ~3,474 |
+| Bramble Breaker | 46.00% | ~3,329 |
+| Miner 49er | 43.00% | ~3,112 |
+| Humble Collector | 42.00% | ~3,040 |
+| Calm Sailing | 36.00% | ~2,605 |
+| Open the Gate! | 33.00% | ~2,388 |
 | Mist Walker | 31.00% | ~2,243 |
-| Lumberjack | 26.00% | ~1,881 |
-| Oui, Chef! | 23.00% | ~1,664 |
-| Clear the Air | 18.00% | ~1,302 |
+| Lumberjack | 26.00% | ~1,882 |
+| Oui, Chef! | 23.00% | ~1,665 |
+| Clear the Air | 18.00% | ~1,303 |
 | Botanical Breakthrough | 17.00% | ~1,230 |
-| Search for the Hairy Grell | 13.00% | ~940 |
-| Beach Comber | 13.00% | ~940 |
-| Higher Tax Bracket | 13.00% | ~940 |
+| Search for the Hairy Grell | 13.00% | ~941 |
+| Beach Comber | 13.00% | ~941 |
+| Higher Tax Bracket | 13.00% | ~941 |
 | Flaming Hot Completos | 8.00% | ~579 |
 | Got to Catch Them All | 8.00% | ~579 |
 | Rumble in the Jumble | 8.00% | ~579 |
 | Skilled | 8.00% | ~579 |
-| Fae Farmer | 7.00% | ~506 |
-| Fanatical Farmer | 7.00% | ~506 |
+| Fae Farmer | 7.00% | ~507 |
+| Fanatical Farmer | 7.00% | ~507 |
 | Scattered Scroll Scrounger | 6.00% | ~434 |
 | Azorian Anniversary | 6.00% | ~434 |
 | I Now Pronounce You... | 5.00% | ~362 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 404)
 | Very Skilled | 0.20% | ~14 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,234 (Ranked 166)  
+Progressed: 7,237 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
 | 2023-10-27 | 7,234 | 0 |
+| 2023-10-28 | 7,237 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

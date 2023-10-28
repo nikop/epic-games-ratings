@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -680,9 +680,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-28T00:08:54.9061939+00:00",
+  "LastChanged_Achievements": "2023-10-28T01:48:03.3391614+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-27T23:59:42.5822625+00:00",
-  "LastUpdate_Achievements": "2023-10-28T00:08:54.9062792+00:00"
+  "LastUpdate_Ratings": "2023-10-28T01:38:55.8736418+00:00",
+  "LastUpdate_Achievements": "2023-10-28T01:48:03.3392349+00:00"
 }
