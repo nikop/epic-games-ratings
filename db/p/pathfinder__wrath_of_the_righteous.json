@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3951,10 +3951,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7007,
       "NumberOfAwardsMax": 1730
+    },
+    {
+      "Time": "2023-10-28T23:02:55.2016851+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7008,
+      "NumberOfAwardsMax": 1730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7007,
+  "NumberOfAwards": 7008,
   "NumberOfAwardsMax": 1730,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3992,7 +3998,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 640
+      "Count": 641
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4025,9 +4031,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11885,
+  "EOS_Progressed": 11886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14630,6 +14636,11 @@
       "Time": "2023-10-28T22:04:21.6764521+00:00",
       "NumProgressed": 11885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T23:04:59.2767542+00:00",
+      "NumProgressed": 11886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14641,7 +14652,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2971
+      "UsersEstimate": 2972
     },
     {
       "ID": "02_BurningCity",
@@ -14649,7 +14660,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -15568,21 +15579,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10667,
+      "Progressed": 10668,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11885,
+      "Progressed": 11886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-28T11:02:53.0560002+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:04:21.6764516+00:00",
+  "LastChanged": "2023-10-28T23:02:55.2016849+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:04:59.2767533+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:02:44.6912975+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:04:21.6766263+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:02:55.2016855+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:04:59.2770334+00:00"
 }

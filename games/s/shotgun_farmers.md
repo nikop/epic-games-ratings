@@ -16,7 +16,7 @@
 | Early Survivor | 39.00% | ~107 |
 | Bouncemato | 32.00% | ~88 |
 | 10K | 29.00% | ~94 |
-| Amateur Survivor | 28.00% | ~77 |
+| Amateur Survivor | 29.00% | ~79 |
 | 15K | 27.00% | ~87 |
 | Quick-Draw Pod | 23.00% | ~63 |
 | Drinking Problem | 22.00% | ~71 |

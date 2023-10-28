@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1129,9 +1129,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1281,17 +1281,17 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1336,8 +1336,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:03:52.5303322+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:04:23.5896328+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:59:18.5052643+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:03:52.5303569+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:00:09.9734081+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:04:23.5896604+00:00"
 }

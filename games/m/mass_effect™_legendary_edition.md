@@ -13,15 +13,15 @@
 | Medal of Heroism | 66.00% | ~551 |
 | Honorarium of Corporate Service | 66.00% | ~551 |
 | Council Legion of Merit | 61.00% | ~509 |
-| Medal of Honor | 58.00% | ~484 |
+| Medal of Honor | 59.00% | ~493 |
 | Meritorious Service Medal | 58.00% | ~484 |
 | Medal of Exploration II | 58.00% | ~484 |
 | Turian Ally | 57.00% | ~476 |
 | Charismatic | 57.00% | ~476 |
 | Soldier | 56.00% | ~468 |
+| Medal of Exploration III | 52.00% | ~434 |
 | Asari Ally | 52.00% | ~434 |
 | Principled | 52.00% | ~434 |
-| Medal of Exploration III | 51.00% | ~426 |
 | Soldier Ally | 50.00% | ~418 |
 | Paramour I | 49.00% | ~409 |
 | Colonial Savior | 49.00% | ~409 |
@@ -63,18 +63,18 @@
 | Agent | 32.00% | ~267 |
 | Focused | 31.00% | ~259 |
 | Cat's in the Cradle | 31.00% | ~259 |
+| Doppelganger | 31.00% | ~259 |
 | Treason | 31.00% | ~259 |
 | Digital Exorcist | 31.00% | ~259 |
 | Driven | 31.00% | ~259 |
 | Bringer of War | 31.00% | ~259 |
 | Friend or Foe | 30.00% | ~250 |
-| Doppelganger | 30.00% | ~250 |
 | Suicide Mission | 29.00% | ~242 |
 | Mobilizer | 29.00% | ~242 |
+| Untouchable | 28.00% | ~234 |
 | First Aid Specialist | 28.00% | ~234 |
 | Mission Accomplished | 28.00% | ~234 |
 | Against All Odds | 28.00% | ~234 |
-| Untouchable | 27.00% | ~225 |
 | Giant Killer | 27.00% | ~225 |
 | A House Divided | 27.00% | ~225 |
 | World Shaker | 27.00% | ~225 |
@@ -110,10 +110,10 @@
 | Combined Arms | 13.00% | ~109 |
 | Bruiser | 13.00% | ~109 |
 | Always Prepared | 11.00% | ~92 |
+| Paramour III | 11.00% | ~92 |
 | Overload Specialist | 11.00% | ~92 |
 | Warp Mastery | 11.00% | ~92 |
 | Barrier Mastery | 10.00% | ~84 |
-| Paramour III | 10.00% | ~84 |
 | Sky High | 9.00% | ~75 |
 | Hijacker | 9.00% | ~75 |
 | Lift Mastery | 9.00% | ~75 |

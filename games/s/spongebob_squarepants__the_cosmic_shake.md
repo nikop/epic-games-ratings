@@ -17,11 +17,11 @@
 | ScaredyPants | 71.00% | ~12 |
 | First Mate | 71.00% | ~12 |
 | Boxing Champion | 65.00% | ~11 |
+| King of the Castle | 59.00% | ~10 |
 | Ugh Ugaha! | 59.00% | ~10 |
 | BounceBob | 53.00% | ~9 |
 | Bubble the Trouble | 53.00% | ~9 |
-| King of the Castle | 53.00% | ~9 |
-| SpongeBob JellyPants | 47.00% | ~8 |
+| SpongeBob JellyPants | 53.00% | ~9 |
 | Local Hero | 47.00% | ~8 |
 | Ride Rider | 47.00% | ~8 |
 | Friendly Fire | 35.00% | ~6 |
@@ -29,10 +29,10 @@
 | Sponginator | 35.00% | ~6 |
 | Jaws with Flaws | 29.00% | ~5 |
 | Tentacle Dodger | 29.00% | ~5 |
+| King of Bubbles | 24.00% | ~4 |
 | Jellyfish Hunter | 24.00% | ~4 |
 | Music Enthusiast | 24.00% | ~4 |
 | Spring Cleaning | 24.00% | ~4 |
-| King of Bubbles | 18.00% | ~3 |
 | Knight in shining PJs | 18.00% | ~3 |
 | Deck Scrubber | 18.00% | ~3 |
 | Volley King | 18.00% | ~3 |

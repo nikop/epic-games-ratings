@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16013,
+  "EOS_Progressed": 16014,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12912,6 +12912,11 @@
       "Time": "2023-10-28T22:04:40.644831+00:00",
       "NumProgressed": 16013,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-28T23:05:22.2246566+00:00",
+      "NumProgressed": 16014,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -12923,7 +12928,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "tpote_achievement_10",
@@ -12963,7 +12968,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5284
+      "UsersEstimate": 5285
     },
     {
       "ID": "tpote_achievement_15",
@@ -13003,7 +13008,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "tpote_achievement_2",
@@ -13011,7 +13016,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5284
+      "UsersEstimate": 5285
     },
     {
       "ID": "tpote_achievement_20",
@@ -13051,7 +13056,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "tpote_achievement_25",
@@ -13075,7 +13080,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "tpote_achievement_28",
@@ -13115,7 +13120,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "tpote_achievement_32",
@@ -13187,7 +13192,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "tpote_achievement_40",
@@ -13243,22 +13248,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16013,
+      "Progressed": 16014,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:04:40.6448306+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:05:22.2246561+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:00:30.147166+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:04:40.6449124+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:01:31.8799922+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:05:22.2247607+00:00"
 }

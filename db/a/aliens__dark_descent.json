@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -363,9 +363,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3496,
+  "EOS_Progressed": 3497,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5258,6 +5258,11 @@
       "Time": "2023-10-28T18:09:30.7041314+00:00",
       "NumProgressed": 3496,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-28T23:06:01.6186918+00:00",
+      "NumProgressed": 3497,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5277,7 +5282,7 @@
       "Name": "Flawless Victory",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -5349,7 +5354,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -5365,7 +5370,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5373,7 +5378,7 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -5381,7 +5386,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5389,7 +5394,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5397,7 +5402,7 @@
       "Name": "Heavy Steps",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -5477,7 +5482,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5485,7 +5490,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5493,7 +5498,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5565,7 +5570,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5573,7 +5578,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2832
+      "UsersEstimate": 2833
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5597,7 +5602,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5605,7 +5610,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -5628,7 +5633,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3496,
+      "Progressed": 3497,
       "Completed": 3
     }
   ],
@@ -5636,8 +5641,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-22T19:59:31.4254153+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:05:12.9966407+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:06:01.6186913+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.9783069+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:57:15.2494765+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:05:12.9966964+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:57:35.9299925+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:06:01.6187724+00:00"
 }

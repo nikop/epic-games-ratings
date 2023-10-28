@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 755,
+  "EOS_Progressed": 756,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.44,
   "EosHistory": [
@@ -2840,6 +2840,11 @@
       "Time": "2023-10-28T22:06:15.0423336+00:00",
       "NumProgressed": 755,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T23:07:16.8711704+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2849,9 +2854,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 491
     },
     {
       "ID": "MQ01_2",
@@ -2859,7 +2864,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "MQ02_1",
@@ -2867,7 +2872,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "MQ02_2",
@@ -2883,15 +2888,15 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 423
     },
     {
       "ID": "MQ03_1",
@@ -2923,7 +2928,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MQ03_5",
@@ -2931,7 +2936,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "MQ04_1",
@@ -2939,7 +2944,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "MQ04_2",
@@ -2947,7 +2952,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "MQ04_3",
@@ -2963,7 +2968,7 @@
       "Name": "Open Sesame",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MQ05_2",
@@ -2971,7 +2976,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ05_3",
@@ -2995,7 +3000,7 @@
       "Name": "Brain Food",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "MQ06_2",
@@ -3019,7 +3024,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MQ07_1",
@@ -3043,7 +3048,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "MQ08_2",
@@ -3074,7 +3079,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 755,
+      "Progressed": 756,
       "Completed": 26
     }
   ],
@@ -3082,8 +3087,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:06:15.0423332+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:07:16.8711699+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:00:42.6141983+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:06:15.0423614+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:01:47.1165367+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:07:16.8712143+00:00"
 }

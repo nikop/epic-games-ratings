@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2243,9 +2243,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 125,
-      "UsersEstimate": 484
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_10",
@@ -2283,9 +2283,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_104",
@@ -2451,9 +2451,9 @@
       "ID": "achievement_122",
       "SetID": "d252ncf",
       "Name": "Paramour III",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_123",
@@ -2587,9 +2587,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 434
     },
     {
       "ID": "achievement_24",
@@ -2867,9 +2867,9 @@
       "ID": "achievement_55",
       "SetID": "d252ncf",
       "Name": "Doppelganger",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_56",
@@ -3271,8 +3271,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:05:20.6126485+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:06:11.2699097+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:58:57.7163313+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:05:20.612833+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:59:50.215878+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:06:11.2701865+00:00"
 }

@@ -6,49 +6,49 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~120,720 |
-| Comeback | 82.00% | ~111,226 |
-| Information is Key | 80.00% | ~108,513 |
-| Unlucky | 70.00% | ~94,949 |
-| Anarchist | 68.00% | ~92,236 |
-| Wallhack | 65.00% | ~88,167 |
-| Steady Supply | 60.00% | ~81,385 |
-| Lucky Shot | 53.00% | ~71,890 |
-| Forward Observer | 52.00% | ~70,533 |
-| Ring Ring! | 52.00% | ~70,533 |
-| Bossing Around | 45.00% | ~61,038 |
-| Frostbite | 45.00% | ~61,038 |
-| Night Owl | 44.00% | ~59,682 |
-| Strength in Numbers | 44.00% | ~59,682 |
-| Fog of War | 41.00% | ~55,613 |
-| Rasputin | 39.00% | ~52,900 |
-| Stronghold Denied | 39.00% | ~52,900 |
-| Anyone Else? | 38.00% | ~51,544 |
-| Hydra | 36.00% | ~48,831 |
-| This Belongs to Us Now | 36.00% | ~48,831 |
-| Stronghold | 35.00% | ~47,474 |
-| Leeroy | 33.00% | ~44,762 |
-| Lost Batallion | 33.00% | ~44,762 |
-| This is MY Machine Gun! | 32.00% | ~43,405 |
-| Together As One | 31.00% | ~42,049 |
-| Gavrilo Princip | 27.00% | ~36,623 |
-| Lead Harvest | 25.00% | ~33,910 |
-| Skynet Confirmed | 23.00% | ~31,197 |
-| Kesselschlacht | 22.00% | ~29,841 |
-| Democracy Works! | 20.00% | ~27,128 |
-| Switch, Please! | 19.00% | ~25,772 |
-| Tourist | 18.00% | ~24,415 |
-| At Least This Way I Can Win... | 17.00% | ~23,059 |
-| I've Seen It All | 17.00% | ~23,059 |
-| Oops! | 17.00% | ~23,059 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~21,703 |
-| Butcher | 12.00% | ~16,277 |
-| Before the Leaves Fall | 10.00% | ~13,564 |
-| Close Call | 10.00% | ~13,564 |
-| Pinpoint | 10.00% | ~13,564 |
+| Immovable Object | 89.00% | ~120,728 |
+| Comeback | 82.00% | ~111,232 |
+| Information is Key | 80.00% | ~108,519 |
+| Unlucky | 70.00% | ~94,954 |
+| Anarchist | 68.00% | ~92,241 |
+| Wallhack | 65.00% | ~88,172 |
+| Steady Supply | 60.00% | ~81,389 |
+| Lucky Shot | 53.00% | ~71,894 |
+| Forward Observer | 52.00% | ~70,537 |
+| Ring Ring! | 52.00% | ~70,537 |
+| Bossing Around | 45.00% | ~61,042 |
+| Frostbite | 45.00% | ~61,042 |
+| Night Owl | 44.00% | ~59,686 |
+| Strength in Numbers | 44.00% | ~59,686 |
+| Fog of War | 41.00% | ~55,616 |
+| Rasputin | 39.00% | ~52,903 |
+| Stronghold Denied | 39.00% | ~52,903 |
+| Anyone Else? | 38.00% | ~51,547 |
+| Hydra | 36.00% | ~48,834 |
+| This Belongs to Us Now | 36.00% | ~48,834 |
+| Stronghold | 35.00% | ~47,477 |
+| Leeroy | 33.00% | ~44,764 |
+| Lost Batallion | 33.00% | ~44,764 |
+| This is MY Machine Gun! | 32.00% | ~43,408 |
+| Together As One | 31.00% | ~42,051 |
+| Gavrilo Princip | 27.00% | ~36,625 |
+| Lead Harvest | 25.00% | ~33,912 |
+| Skynet Confirmed | 23.00% | ~31,199 |
+| Kesselschlacht | 22.00% | ~29,843 |
+| Democracy Works! | 20.00% | ~27,130 |
+| Switch, Please! | 19.00% | ~25,773 |
+| Tourist | 18.00% | ~24,417 |
+| At Least This Way I Can Win... | 17.00% | ~23,060 |
+| I've Seen It All | 17.00% | ~23,060 |
+| Oops! | 17.00% | ~23,060 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~21,704 |
+| Butcher | 12.00% | ~16,278 |
+| Before the Leaves Fall | 10.00% | ~13,565 |
+| Close Call | 10.00% | ~13,565 |
+| Pinpoint | 10.00% | ~13,565 |
 | Tannenberg | 9.00% | ~12,208 |
-| For the Emperor | 8.00% | ~10,851 |
-| Hawk Eye | 8.00% | ~10,851 |
+| For the Emperor | 8.00% | ~10,852 |
+| Hawk Eye | 8.00% | ~10,852 |
 | Equality For All | 7.00% | ~9,495 |
 | Hötzendorf | 7.00% | ~9,495 |
 | Crack Shot | 5.00% | ~6,782 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,221 |
 | Road to Berlin | 0.60% | ~814 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,641 (Ranked 78)  
+Progressed: 135,649 (Ranked 78)  
 Completed: 30 (0.02%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 30 (0.02%) (Ranked 301)
 | 2023-10-25 | 135,288 | 30 |
 | 2023-10-26 | 135,399 | 30 |
 | 2023-10-27 | 135,500 | 30 |
-| 2023-10-28 | 135,641 | 30 |
+| 2023-10-28 | 135,649 | 30 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 238)  
 Sum: 3,261 (Ranked 167)  

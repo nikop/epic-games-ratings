@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 888,
+  "EOS_Progressed": 890,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -2519,6 +2519,11 @@
       "Time": "2023-10-28T22:09:01.3079499+00:00",
       "NumProgressed": 888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T23:09:26.3621475+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2553,7 +2558,7 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2603,7 +2608,7 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_19",
@@ -2617,7 +2622,7 @@
       "ID": "achievement_2",
       "SetID": "271ol84",
       "Name": "in a galaxy far, far away....",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -2625,9 +2630,9 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_21",
@@ -2657,7 +2662,7 @@
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -2705,9 +2710,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_30",
@@ -2755,7 +2760,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 810
     },
     {
       "ID": "achievement_36",
@@ -2771,7 +2776,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "achievement_38",
@@ -2803,7 +2808,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_41",
@@ -2835,7 +2840,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_45",
@@ -2849,15 +2854,15 @@
       "ID": "achievement_46",
       "SetID": "cemm4l8",
       "Name": "Patience you must have",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -3034,13 +3039,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 888,
+      "Progressed": 890,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 888,
+      "Progressed": 890,
       "Completed": 1
     }
   ],
@@ -3048,8 +3053,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-28T22:09:01.3079495+00:00",
+  "LastChanged_Achievements": "2023-10-28T23:09:26.3621469+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-28T21:57:51.9766605+00:00",
-  "LastUpdate_Achievements": "2023-10-28T22:09:01.3080134+00:00"
+  "LastUpdate_Ratings": "2023-10-28T22:58:20.1431897+00:00",
+  "LastUpdate_Achievements": "2023-10-28T23:09:26.3622485+00:00"
 }

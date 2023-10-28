@@ -1,33 +1,33 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.27 (Ranked 846)  
+Rating: 4.28 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,678 |
-| MVP | 54.00% | ~1,647 |
-| Big Spender | 53.00% | ~1,616 |
-| Stud Finder | 41.00% | ~1,250 |
-| Dealmaker | 40.00% | ~1,220 |
-| ROTY | 33.00% | ~1,006 |
+| Bragging Rights | 55.00% | ~1,679 |
+| MVP | 54.00% | ~1,648 |
+| Big Spender | 53.00% | ~1,618 |
+| Stud Finder | 41.00% | ~1,251 |
+| Dealmaker | 40.00% | ~1,221 |
+| ROTY | 33.00% | ~1,007 |
 | Roster Reshuffle | 31.00% | ~946 |
 | Future of the Franchise | 19.00% | ~580 |
-| Throwin’ Dots | 17.00% | ~518 |
-| Already in Progress | 17.00% | ~518 |
-| Change of Scenery | 17.00% | ~518 |
+| Throwin’ Dots | 17.00% | ~519 |
+| Already in Progress | 17.00% | ~519 |
+| Change of Scenery | 17.00% | ~519 |
 | Primetime | 16.00% | ~488 |
 | Pro Bowler | 16.00% | ~488 |
-| Unblockable | 9.00% | ~274 |
-| Pocket Ace | 5.00% | ~152 |
-| Lockdown Corner | 5.00% | ~152 |
-| Head-to-Head | 5.00% | ~152 |
-| Gain Train | 1.00% | ~30 |
+| Unblockable | 9.00% | ~275 |
+| Pocket Ace | 5.00% | ~153 |
+| Lockdown Corner | 5.00% | ~153 |
+| Head-to-Head | 5.00% | ~153 |
+| Gain Train | 1.00% | ~31 |
 | Ol' Reliable | 0.80% | ~24 |
 | Lockdown Leader | 0.50% | ~15 |
 | The Fortress | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,050 (Ranked 200)  
+Progressed: 3,052 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 2,968 | 0 |
 | 2023-10-26 | 2,981 | 0 |
 | 2023-10-27 | 3,012 | 0 |
-| 2023-10-28 | 3,050 | 0 |
+| 2023-10-28 | 3,052 | 0 |
 ## Awards
 Max (Diverse Characters): 33  (Ranked 474)  
 Sum: 82 (Ranked 448)  
@@ -204,4 +204,4 @@ Diff (max vs sum): 26
 | 2023-10-19 | 4.28 | 29 | 76 |
 | 2023-10-22 | 4.28 | 30 | 79 |
 | 2023-10-26 | 4.28 | 31 | 80 |
-| 2023-10-28 | 4.27 | 33 | 82 |
+| 2023-10-28 | 4.28 | 33 | 82 |

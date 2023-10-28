@@ -8,6 +8,7 @@ Rating: 3.51 (Ranked 1,026)
 | I Like My Stakes Rare! | 2.00% | ~35 |
 | Catch and Release | 2.00% | ~35 |
 | Home Is Where the Heart Is | 1.00% | ~18 |
+| Enter of Your Own Free Will | 1.00% | ~18 |
 | Blood Will Have Blood | 1.00% | ~18 |
 | Ne Plus Ultra | 1.00% | ~18 |
 | Welcome to the Neighborhood | 1.00% | ~18 |
@@ -18,9 +19,8 @@ Rating: 3.51 (Ranked 1,026)
 | ICU | 1.00% | ~18 |
 | Sucks To Be You | 1.00% | ~18 |
 | Wounded Whispers | 1.00% | ~18 |
-| Enter of Your Own Free Will | 0.90% | ~16 |
+| Heart Attack | 0.90% | ~16 |
 | Skin of Their Teeth | 0.90% | ~16 |
-| Heart Attack | 0.80% | ~14 |
 | Neighborhood Revitalization | 0.70% | ~12 |
 | Radio Silence | 0.70% | ~12 |
 | Bad Wiring | 0.60% | ~11 |

@@ -1,22 +1,22 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 700)  
+Rating: 4.42 (Ranked 699)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,167 |
-| IT MAKES BOOM! | 3.00% | ~7,900 |
-| EXTRA BOOST | 2.00% | ~5,267 |
-| PROTECTED | 2.00% | ~5,267 |
-| PRO | 2.00% | ~5,267 |
-| A TIGER'S FEAR | 1.00% | ~2,633 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,633 |
-| AGGRESSIVE RACER | 1.00% | ~2,633 |
+| ROOKIE | 5.00% | ~13,174 |
+| IT MAKES BOOM! | 3.00% | ~7,905 |
+| EXTRA BOOST | 2.00% | ~5,270 |
+| PROTECTED | 2.00% | ~5,270 |
+| PRO | 2.00% | ~5,270 |
+| A TIGER'S FEAR | 1.00% | ~2,635 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,635 |
+| AGGRESSIVE RACER | 1.00% | ~2,635 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,317 |
 | ACE SPEEDSTER | 0.50% | ~1,317 |
-| DEFEAT OUR CHAMPION | 0.40% | ~1,053 |
-| THE EYE OF THE HUNTER | 0.40% | ~1,053 |
+| DEFEAT OUR CHAMPION | 0.40% | ~1,054 |
+| THE EYE OF THE HUNTER | 0.40% | ~1,054 |
 | TRAINING HARD | 0.30% | ~790 |
 | EXPERIENCED CREW | 0.30% | ~790 |
 | RELEASE THE KRAKEN | 0.30% | ~790 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 700)
 | ACE TRICKSTER | 0.20% | ~527 |
 | FRAMED! | 0.10% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263,342 (Ranked 52)  
+Progressed: 263,489 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,10 +217,10 @@ Completed: 245 (0.09%) (Ranked 264)
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
-| 2023-10-28 | 263,342 | 245 |
+| 2023-10-28 | 263,489 | 245 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 439)  
-Sum: 351 (Ranked 343)  
+Sum: 352 (Ranked 343)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
@@ -228,8 +228,8 @@ Diff (max vs sum): 96
 | This game has Diverse Characters | 40 |
 | This game is Great for Beginners | 40 |
 | This game has Amazing Characters | 31 |
+| This game is Highly Recommended | 28 |
 | This game has Amazing Storytelling | 27 |
-| This game is Highly Recommended | 27 |
 | This game has a Competitive Community | 27 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Competitive Players | 26 |
@@ -266,4 +266,4 @@ Diff (max vs sum): 96
 | 2023-10-25 | 4.42 | 38 | 261 |
 | 2023-10-26 | 4.42 | 43 | 270 |
 | 2023-10-27 | 4.42 | 44 | 347 |
-| 2023-10-28 | 4.42 | 44 | 351 |
+| 2023-10-28 | 4.42 | 44 | 352 |
