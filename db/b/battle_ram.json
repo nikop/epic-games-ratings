@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 414,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1164,6 +1164,11 @@
       "Time": "2023-10-14T21:09:31.922567+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T06:06:01.1025692+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1175,7 +1180,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_10",
@@ -1183,7 +1188,7 @@
       "Name": "Senior warrant officer Baran 3rd class",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_11",
@@ -1263,7 +1268,7 @@
       "Name": "Ram Corporal",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_20",
@@ -1303,7 +1308,7 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_5",
@@ -1350,14 +1355,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:06:41.5893393+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:06:01.1025683+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:16.4289197+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:57:23.2652628+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:06:41.5893776+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:57:21.4188703+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:06:01.1025934+00:00"
 }

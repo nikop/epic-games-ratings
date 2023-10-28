@@ -9,6 +9,7 @@ Rating: 4.59 (Ranked 423)
 | Drug Gifter | 0.60% | ~86 |
 | Bosmang | 0.50% | ~72 |
 | The Pit and the Pirates | 0.40% | ~58 |
+| Martian Music | 0.40% | ~58 |
 | Drone Dodger | 0.40% | ~58 |
 | Call it Even | 0.40% | ~58 |
 | Captain Drummer | 0.40% | ~58 |
@@ -16,7 +17,6 @@ Rating: 4.59 (Ranked 423)
 | Data Archivist | 0.30% | ~43 |
 | Stogie for Fogey | 0.30% | ~43 |
 | Spore Taste | 0.30% | ~43 |
-| Martian Music | 0.30% | ~43 |
 | Heal Thy Medic | 0.30% | ~43 |
 | Khan's Revenge | 0.30% | ~43 |
 | Impossible Objects | 0.30% | ~43 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 423)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,403 (Ranked 143)  
+Progressed: 14,405 (Ranked 143)  
 Completed: 27 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 27 (0.19%) (Ranked 236)
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
-| 2023-10-28 | 14,403 | 27 |
+| 2023-10-28 | 14,405 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 635,
   "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 530,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3788,
+  "EOS_Progressed": 3789,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7506,6 +7506,11 @@
       "Time": "2023-10-28T04:06:44.824759+00:00",
       "NumProgressed": 3788,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-28T06:05:30.2736757+00:00",
+      "NumProgressed": 3789,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7597,7 +7602,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7653,7 +7658,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7669,7 +7674,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7725,7 +7730,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7853,7 +7858,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7907,9 +7912,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 985
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8084,13 +8089,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3739,
+      "Progressed": 3740,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3788,
+      "Progressed": 3789,
       "Completed": 11
     }
   ],
@@ -8098,8 +8103,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:06:05.1908054+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:05:30.2736754+00:00",
   "LastUpdate_AppInfo": "2023-10-21T11:57:15.2603442+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:59:00.7505526+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:06:05.1910303+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:58:36.5562547+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:05:30.2737903+00:00"
 }

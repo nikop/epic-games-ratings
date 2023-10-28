@@ -1,18 +1,18 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 462)  
+Rating: 4.57 (Ranked 463)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,897 |
-| Peak Performance | 54.00% | ~3,826 |
-| You Shall Not Pass | 54.00% | ~3,826 |
-| Avanti Savoia! | 48.00% | ~3,401 |
+| Tutti Eroi! | 55.00% | ~3,898 |
+| Peak Performance | 54.00% | ~3,827 |
+| You Shall Not Pass | 54.00% | ~3,827 |
+| Avanti Savoia! | 48.00% | ~3,402 |
 | Mamma Mia! | 38.00% | ~2,693 |
 | Conrad von Hotzensocks | 36.00% | ~2,551 |
-| Gabriele D'Annunzio | 34.00% | ~2,409 |
+| Gabriele D'Annunzio | 34.00% | ~2,410 |
 | Silver Lining | 30.00% | ~2,126 |
 | Aurelio Baruzzi | 24.00% | ~1,701 |
 | Decimation | 22.00% | ~1,559 |
@@ -20,8 +20,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Italian Job | 22.00% | ~1,559 |
 | Veni Vidi Vici | 22.00% | ~1,559 |
 | Insubordination | 20.00% | ~1,417 |
-| Ragazzi del '99 | 19.00% | ~1,346 |
-| The Lion of the Isonzo | 18.00% | ~1,275 |
+| Ragazzi del '99 | 19.00% | ~1,347 |
+| The Lion of the Isonzo | 18.00% | ~1,276 |
 | Luigi Cadorna | 15.00% | ~1,063 |
 | Dirty Dozen | 14.00% | ~992 |
 | Shaken, Not Stirred | 14.00% | ~992 |
@@ -30,8 +30,8 @@ Number of Ratings: 98  (23.09.2022)
 | Machiavelli | 13.00% | ~921 |
 | Thus With A Kiss | 13.00% | ~921 |
 | The Devil's Paintbrush | 12.00% | ~850 |
-| Dante's Inferno | 11.00% | ~779 |
-| Millenial | 11.00% | ~779 |
+| Dante's Inferno | 11.00% | ~780 |
+| Millenial | 11.00% | ~780 |
 | I Have the High Ground | 10.00% | ~709 |
 | The Show Must Go On | 9.00% | ~638 |
 | Tosca | 9.00% | ~638 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,086 (Ranked 168)  
+Progressed: 7,087 (Ranked 168)  
 Completed: 9 (0.13%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 9 (0.13%) (Ranked 248)
 | 2023-10-25 | 7,080 | 9 |
 | 2023-10-26 | 7,083 | 9 |
 | 2023-10-27 | 7,085 | 9 |
-| 2023-10-28 | 7,086 | 9 |
+| 2023-10-28 | 7,087 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 460)  
 Sum: 271 (Ranked 368)  

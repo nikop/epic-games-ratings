@@ -16,13 +16,13 @@
 | Descent | 59.00% | ~76 |
 | Awakenings | 58.00% | ~75 |
 | Cold Storage | 58.00% | ~75 |
-| Sam | 55.00% | ~71 |
+| Sam | 56.00% | ~72 |
 | Commissioner | 53.00% | ~68 |
 | Leave | 50.00% | ~64 |
 | Churchill | 50.00% | ~64 |
+| Doctor | 49.00% | ~63 |
 | Engineer | 49.00% | ~63 |
 | Soldier | 49.00% | ~63 |
-| Doctor | 48.00% | ~62 |
 | Press Play | 37.00% | ~48 |
 | General | 29.00% | ~37 |
 | Bookworm | 23.00% | ~30 |

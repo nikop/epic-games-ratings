@@ -14,9 +14,9 @@
 | The Way of the Sponge | 91.00% | ~10 |
 | Movie Star | 91.00% | ~10 |
 | Red and Shiny | 91.00% | ~10 |
+| ScaredyPants | 91.00% | ~10 |
 | First Mate | 91.00% | ~10 |
 | Boxing Champion | 82.00% | ~9 |
-| ScaredyPants | 82.00% | ~9 |
 | Ugh Ugaha! | 73.00% | ~8 |
 | BounceBob | 64.00% | ~7 |
 | Bubble the Trouble | 64.00% | ~7 |

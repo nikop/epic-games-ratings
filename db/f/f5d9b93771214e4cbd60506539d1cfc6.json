@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150180,
+  "EOS_Progressed": 150182,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 1061,
+  "EOS_NewPlayers": 1058,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16028,6 +16028,11 @@
       "Time": "2023-10-28T05:06:32.0569482+00:00",
       "NumProgressed": 150180,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-10-28T06:05:52.758544+00:00",
+      "NumProgressed": 150182,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 31,
@@ -16047,7 +16052,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105126
+      "UsersEstimate": 105127
     },
     {
       "ID": "EAwards_10",
@@ -16087,7 +16092,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58570
+      "UsersEstimate": 58571
     },
     {
       "ID": "EAwards_15",
@@ -16135,7 +16140,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42050
+      "UsersEstimate": 42051
     },
     {
       "ID": "EAwards_20",
@@ -16143,7 +16148,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12014
+      "UsersEstimate": 12015
     },
     {
       "ID": "EAwards_21",
@@ -16223,7 +16228,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28534
+      "UsersEstimate": 28535
     },
     {
       "ID": "EAwards_30",
@@ -16255,7 +16260,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37545
+      "UsersEstimate": 37546
     },
     {
       "ID": "EAwards_7",
@@ -16286,7 +16291,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150180,
+      "Progressed": 150182,
       "Completed": 311
     }
   ],
@@ -16294,8 +16299,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:06:32.0569473+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:05:52.7585431+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:01:40.4144663+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:06:32.0571642+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:02:39.3591023+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:05:52.7586523+00:00"
 }

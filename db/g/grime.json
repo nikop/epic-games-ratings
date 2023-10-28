@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1255,9 +1255,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155048,
+  "EOS_Progressed": 155057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13345,6 +13345,11 @@
       "Time": "2023-10-28T05:04:54.4630195+00:00",
       "NumProgressed": 155048,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T06:04:30.8432632+00:00",
+      "NumProgressed": 155057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13420,7 +13425,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13492,7 +13497,7 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -13548,7 +13553,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -13556,7 +13561,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13572,7 +13577,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13612,7 +13617,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -13620,7 +13625,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13723,21 +13728,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154631,
+      "Progressed": 154640,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155048,
+      "Progressed": 155057,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T05:01:31.0293463+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:04:54.4630189+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:04:30.8432621+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:01:31.029347+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:04:54.4631412+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:00:41.0836992+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:04:30.843376+00:00"
 }

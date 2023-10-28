@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -435,9 +435,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3076,
+  "EOS_Progressed": 3077,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -4125,6 +4125,11 @@
       "Time": "2023-10-28T01:45:55.4596109+00:00",
       "NumProgressed": 3076,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-10-28T06:05:42.1816557+00:00",
+      "NumProgressed": 3077,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 14,
@@ -4136,15 +4141,15 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1108
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4200,7 +4205,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4247,7 +4252,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3076,
+      "Progressed": 3077,
       "Completed": 123
     }
   ],
@@ -4255,8 +4260,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:06:19.2307102+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:05:42.1816552+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:00:23.6798448+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:06:19.2307707+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:59:44.350452+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:05:42.1816877+00:00"
 }

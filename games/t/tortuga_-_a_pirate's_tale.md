@@ -5,11 +5,11 @@ Rating: 3.79 (Ranked 1,017)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,029 |
+| Eeligally Ambitious | 95.00% | ~16,030 |
 | No Half Measures | 87.00% | ~14,680 |
-| Personal Matter | 86.00% | ~14,511 |
+| Personal Matter | 86.00% | ~14,512 |
 | But You Have Heard of Me | 72.00% | ~12,149 |
-| Double the Barrels, double the Fun | 55.00% | ~9,280 |
+| Double the Barrels, double the Fun | 55.00% | ~9,281 |
 | Pimp My Glide | 49.00% | ~8,268 |
 | ... And Where Do the Stories Come From? | 41.00% | ~6,918 |
 | House Party! | 35.00% | ~5,906 |
@@ -32,7 +32,7 @@ Rating: 3.79 (Ranked 1,017)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,873 (Ranked 136)  
+Progressed: 16,874 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 1 (0.01%) (Ranked 308)
 | 2023-10-25 | 16,868 | 1 |
 | 2023-10-26 | 16,869 | 1 |
 | 2023-10-27 | 16,872 | 1 |
-| 2023-10-28 | 16,873 | 1 |
+| 2023-10-28 | 16,874 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

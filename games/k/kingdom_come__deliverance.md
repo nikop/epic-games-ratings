@@ -7,30 +7,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~257,996 |
-| Cavalier | 25.00% | ~201,559 |
-| Fatso | 23.00% | ~185,434 |
+| Cavalier | 25.00% | ~201,560 |
+| Fatso | 23.00% | ~185,435 |
 | Awakening | 21.00% | ~169,310 |
-| Ranger | 20.00% | ~161,247 |
-| Scrooge | 20.00% | ~161,247 |
+| Ranger | 20.00% | ~161,248 |
+| Scrooge | 20.00% | ~161,248 |
 | Anorectic | 16.00% | ~128,998 |
-| Bookworm | 15.00% | ~120,935 |
-| Firestarter | 15.00% | ~120,935 |
+| Bookworm | 15.00% | ~120,936 |
+| Firestarter | 15.00% | ~120,936 |
 | Insomniac | 13.00% | ~104,811 |
-| Buddy | 12.00% | ~96,748 |
-| Thief | 12.00% | ~96,748 |
+| Buddy | 12.00% | ~96,749 |
+| Thief | 12.00% | ~96,749 |
 | Sinner | 11.00% | ~88,686 |
 | Traveller | 11.00% | ~88,686 |
 | Convict | 10.00% | ~80,624 |
-| Haggler | 9.00% | ~72,561 |
+| Haggler | 9.00% | ~72,562 |
 | McLovin | 7.00% | ~56,437 |
 | Runt | 7.00% | ~56,437 |
 | Casanova | 6.00% | ~48,374 |
 | Bad Trip | 5.00% | ~40,312 |
 | Monk | 5.00% | ~40,312 |
 | Serial Killer | 5.00% | ~40,312 |
-| Bastard | 4.00% | ~32,249 |
-| Hunter | 4.00% | ~32,249 |
-| Plague Doctor | 4.00% | ~32,249 |
+| Bastard | 4.00% | ~32,250 |
+| Hunter | 4.00% | ~32,250 |
+| Plague Doctor | 4.00% | ~32,250 |
 | Bard | 3.00% | ~24,187 |
 | Conqueror | 3.00% | ~24,187 |
 | Ginger in a Pickle | 3.00% | ~24,187 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~806 |
 | Wingman | 0.10% | ~806 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,236 (Ranked 17)  
+Progressed: 806,239 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 51 (0.01%) (Ranked 308)
 | 2023-10-25 | 806,007 | 51 |
 | 2023-10-26 | 806,109 | 51 |
 | 2023-10-27 | 806,215 | 51 |
-| 2023-10-28 | 806,236 | 51 |
+| 2023-10-28 | 806,239 | 51 |
 ## Awards
 Max (Character Customization): 7,553  (Ranked 50)  
 Sum: 28,097 (Ranked 48)  

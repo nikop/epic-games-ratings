@@ -5,16 +5,16 @@ Rating: 4.42 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,062 |
-| IT MAKES BOOM! | 3.00% | ~7,837 |
-| EXTRA BOOST | 2.00% | ~5,225 |
-| PROTECTED | 2.00% | ~5,225 |
-| PRO | 2.00% | ~5,225 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,612 |
-| AGGRESSIVE RACER | 1.00% | ~2,612 |
-| A TIGER'S FEAR | 0.90% | ~2,351 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,306 |
-| ACE SPEEDSTER | 0.50% | ~1,306 |
+| ROOKIE | 5.00% | ~13,066 |
+| IT MAKES BOOM! | 3.00% | ~7,840 |
+| EXTRA BOOST | 2.00% | ~5,226 |
+| PROTECTED | 2.00% | ~5,226 |
+| PRO | 2.00% | ~5,226 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,613 |
+| AGGRESSIVE RACER | 1.00% | ~2,613 |
+| A TIGER'S FEAR | 0.90% | ~2,352 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,307 |
+| ACE SPEEDSTER | 0.50% | ~1,307 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,045 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,045 |
 | TRAINING HARD | 0.30% | ~784 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 700)
 | FRIENDLY | 0.30% | ~784 |
 | MASTER | 0.30% | ~784 |
 | LEGENDARY HERO | 0.30% | ~784 |
-| PERFECTLY POISED | 0.20% | ~522 |
-| EXPERIENCED CREW | 0.20% | ~522 |
-| ACE TRICKSTER | 0.20% | ~522 |
+| PERFECTLY POISED | 0.20% | ~523 |
+| EXPERIENCED CREW | 0.20% | ~523 |
+| ACE TRICKSTER | 0.20% | ~523 |
 | FRAMED! | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,237 (Ranked 52)  
+Progressed: 261,322 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 245 (0.09%) (Ranked 263)
 | 2023-10-25 | 255,590 | 241 |
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
-| 2023-10-28 | 261,237 | 245 |
+| 2023-10-28 | 261,322 | 245 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 440)  
 Sum: 349 (Ranked 343)  

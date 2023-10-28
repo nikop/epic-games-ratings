@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1695,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6314,6 +6314,11 @@
       "Time": "2023-10-28T02:18:24.0694874+00:00",
       "NumProgressed": 1695,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T06:04:48.1295346+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6445,7 +6450,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6509,7 +6514,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6628,7 +6633,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1695,
+      "Progressed": 1696,
       "Completed": 1
     }
   ],
@@ -6636,8 +6641,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:05:15.1751033+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:04:48.1295342+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-28T05:01:04.8200073+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:05:15.1751742+00:00"
+  "LastUpdate_Ratings": "2023-10-28T06:00:19.7763939+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:04:48.1296018+00:00"
 }

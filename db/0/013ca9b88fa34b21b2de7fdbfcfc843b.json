@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7242,
+  "EOS_Progressed": 7243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5442,6 +5442,11 @@
       "Time": "2023-10-28T05:08:59.0502353+00:00",
       "NumProgressed": 7242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T06:08:43.5716912+00:00",
+      "NumProgressed": 7243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5454,7 +5459,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5462,7 +5467,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5494,7 +5499,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -5558,7 +5563,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5566,7 +5571,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -5606,7 +5611,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4345
+      "UsersEstimate": 4346
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5630,7 +5635,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5638,7 +5643,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -5733,7 +5738,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7242,
+      "Progressed": 7243,
       "Completed": 0
     }
   ],
@@ -5741,8 +5746,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:08:59.0502346+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:08:43.5716906+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:58:58.0329906+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:08:59.0503383+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:58:34.7858261+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:08:43.5717531+00:00"
 }

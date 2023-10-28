@@ -7,8 +7,8 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 13.00% | ~561 |
-| Tax-man I | 12.00% | ~517 |
-| A new beginning | 12.00% | ~517 |
+| Tax-man I | 12.00% | ~518 |
+| A new beginning | 12.00% | ~518 |
 | Friends from the past | 10.00% | ~431 |
 | I like to build stuff... I | 9.00% | ~388 |
 | Builder I | 8.00% | ~345 |
@@ -31,12 +31,12 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~216 |
 | Tax-man III | 5.00% | ~216 |
 | Conflicting parties | 5.00% | ~216 |
-| Bread for the people II | 4.00% | ~172 |
-| Experienced decorator | 4.00% | ~172 |
-| An honorable Governor II | 4.00% | ~172 |
-| Full-time job III | 4.00% | ~172 |
-| Tax-man IV | 4.00% | ~172 |
-| A time consuming game III | 4.00% | ~172 |
+| Bread for the people II | 4.00% | ~173 |
+| Experienced decorator | 4.00% | ~173 |
+| An honorable Governor II | 4.00% | ~173 |
+| Full-time job III | 4.00% | ~173 |
+| Tax-man IV | 4.00% | ~173 |
+| A time consuming game III | 4.00% | ~173 |
 | Another one bites the dust | 3.00% | ~129 |
 | Bread for the people III | 3.00% | ~129 |
 | I like to build stuff... IV | 3.00% | ~129 |
@@ -73,10 +73,10 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere VI | 0.90% | ~39 |
-| Last man standing | 0.80% | ~34 |
-| Builder V | 0.80% | ~34 |
-| Ten-Hut! | 0.80% | ~34 |
-| The wood shortage | 0.80% | ~34 |
+| Last man standing | 0.80% | ~35 |
+| Builder V | 0.80% | ~35 |
+| Ten-Hut! | 0.80% | ~35 |
+| The wood shortage | 0.80% | ~35 |
 | Buried | 0.70% | ~30 |
 | Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,312 (Ranked 184)  
+Progressed: 4,313 (Ranked 184)  
 Completed: 3 (0.07%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 3 (0.07%) (Ranked 274)
 | 2023-10-11 | 4,309 | 3 |
 | 2023-10-14 | 4,311 | 3 |
 | 2023-10-26 | 4,312 | 3 |
+| 2023-10-28 | 4,313 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

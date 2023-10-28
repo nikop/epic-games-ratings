@@ -9,11 +9,11 @@ Rating: 4.20 (Ranked 894)
 | Disposing of the Evidence | 38.00% | ~3,173 |
 | Without a Scratch | 34.00% | ~2,839 |
 | Wreckless Driving | 28.00% | ~2,338 |
-| A Marked Man | 25.00% | ~2,087 |
+| A Marked Man | 25.00% | ~2,088 |
 | Street Sweeper | 18.00% | ~1,503 |
-| Liberty City Minute | 17.00% | ~1,419 |
+| Liberty City Minute | 17.00% | ~1,420 |
 | Offshore Delivery | 14.00% | ~1,169 |
-| Dirty Money | 13.00% | ~1,085 |
+| Dirty Money | 13.00% | ~1,086 |
 | By a Mile | 10.00% | ~835 |
 | Not So Fast | 10.00% | ~835 |
 | Right-hand Man | 10.00% | ~835 |
@@ -25,17 +25,17 @@ Rating: 4.20 (Ranked 894)
 | Splish Splash | 2.00% | ~167 |
 | Playing Doctor | 2.00% | ~167 |
 | Liberty City Secrets | 2.00% | ~167 |
-| Planned Ahead | 1.00% | ~83 |
-| Got This Figured Out | 1.00% | ~83 |
-| Wheels Up | 1.00% | ~83 |
-| Come Out to Play-y-y-y | 1.00% | ~83 |
-| Man Toyz | 1.00% | ~83 |
-| Going Rogue | 1.00% | ~83 |
-| Furious First Responder | 1.00% | ~83 |
+| Planned Ahead | 1.00% | ~84 |
+| Got This Figured Out | 1.00% | ~84 |
+| Wheels Up | 1.00% | ~84 |
+| Come Out to Play-y-y-y | 1.00% | ~84 |
+| Man Toyz | 1.00% | ~84 |
+| Going Rogue | 1.00% | ~84 |
+| Furious First Responder | 1.00% | ~84 |
 | Is That All You've Got? | 0.90% | ~75 |
 | King of Liberty City | 0.70% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,349 (Ranked 159)  
+Progressed: 8,350 (Ranked 159)  
 Completed: 56 (0.67%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 56 (0.67%) (Ranked 168)
 | 2023-10-25 | 8,336 | 56 |
 | 2023-10-26 | 8,344 | 56 |
 | 2023-10-27 | 8,349 | 56 |
+| 2023-10-28 | 8,350 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

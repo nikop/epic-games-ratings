@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -2379,6 +2379,11 @@
       "Time": "2023-10-25T20:06:10.1846413+00:00",
       "NumProgressed": 911,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-28T06:06:10.7743761+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2398,7 +2403,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2582,7 +2587,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MapCompletion1",
@@ -2630,7 +2635,7 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ParryBoss",
@@ -2638,7 +2643,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ParryRepeated1",
@@ -2646,7 +2651,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2670,7 +2675,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "RewindDamage1",
@@ -2678,7 +2683,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "RewindParry",
@@ -2766,7 +2771,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "WarwickDefeated",
@@ -2790,7 +2795,7 @@
       "Name": "Good Neighbor",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2798,7 +2803,7 @@
       "Name": "The Brass Boss",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2813,7 +2818,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 6
     }
   ],
@@ -2821,8 +2826,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-10-28T05:06:53.2754263+00:00",
+  "LastChanged_Achievements": "2023-10-28T06:06:10.7743751+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:57.2319935+00:00",
-  "LastUpdate_Ratings": "2023-10-28T04:59:01.2387488+00:00",
-  "LastUpdate_Achievements": "2023-10-28T05:06:53.2755371+00:00"
+  "LastUpdate_Ratings": "2023-10-28T05:58:36.9308122+00:00",
+  "LastUpdate_Achievements": "2023-10-28T06:06:10.7744405+00:00"
 }

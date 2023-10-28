@@ -5,17 +5,17 @@ Rating: 4.62 (Ranked 361)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 31.00% | ~282 |
+| Time Heals All Wounds | 31.00% | ~283 |
 | The Mysterious Stranger | 25.00% | ~228 |
 | Rail Rat | 25.00% | ~228 |
-| Immaculate Aim | 22.00% | ~200 |
-| The Steel Shadow | 21.00% | ~191 |
-| Make Up For Lost Time | 21.00% | ~191 |
-| Time Flies | 21.00% | ~191 |
-| The Harder They Fall | 21.00% | ~191 |
-| No, Thanks! | 21.00% | ~191 |
-| The Prince in Heels | 21.00% | ~191 |
-| The Brass Boss | 21.00% | ~191 |
+| Immaculate Aim | 22.00% | ~201 |
+| The Steel Shadow | 21.00% | ~192 |
+| Make Up For Lost Time | 21.00% | ~192 |
+| Time Flies | 21.00% | ~192 |
+| The Harder They Fall | 21.00% | ~192 |
+| No, Thanks! | 21.00% | ~192 |
+| The Prince in Heels | 21.00% | ~192 |
+| The Brass Boss | 21.00% | ~192 |
 | Breaking Down Barriers | 20.00% | ~182 |
 | The Wicked Twins | 20.00% | ~182 |
 | Honest Mistake | 20.00% | ~182 |
@@ -33,7 +33,7 @@ Rating: 4.62 (Ranked 361)
 | Cartographer | 15.00% | ~137 |
 | Treasure Trove | 14.00% | ~128 |
 | Whiz Kid | 14.00% | ~128 |
-| Good Neighbor | 13.00% | ~118 |
+| Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~109 |
 | Family Memories | 12.00% | ~109 |
 | Syron for Hope | 11.00% | ~100 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 361)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 911 (Ranked 251)  
+Progressed: 912 (Ranked 251)  
 Completed: 6 (0.66%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 6 (0.66%) (Ranked 169)
 | 2023-10-22 | 909 | 5 |
 | 2023-10-23 | 910 | 5 |
 | 2023-10-25 | 911 | 6 |
+| 2023-10-28 | 912 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
