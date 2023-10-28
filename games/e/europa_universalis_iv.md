@@ -9,19 +9,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 4.00% | ~17,634 |
 | Until death do us apart | 4.00% | ~17,634 |
 | Victorious! | 4.00% | ~17,634 |
-| That's a Grand Navy | 3.00% | ~13,225 |
-| That is mine! | 3.00% | ~13,225 |
+| That's a Grand Navy | 3.00% | ~13,226 |
+| That is mine! | 3.00% | ~13,226 |
 | Brothers in Arms | 2.00% | ~8,817 |
 | Cold War | 2.00% | ~8,817 |
 | For the Glory | 2.00% | ~8,817 |
 | Seriously?! | 2.00% | ~8,817 |
-| Defender of the Faith | 1.00% | ~4,408 |
-| It's all about luck | 1.00% | ~4,408 |
-| It's all about the money | 1.00% | ~4,408 |
-| Respected | 1.00% | ~4,408 |
-| The Princess is in this Castle | 1.00% | ~4,408 |
-| True Catholic | 1.00% | ~4,408 |
-| Truly Divine Ruler | 1.00% | ~4,408 |
+| Defender of the Faith | 1.00% | ~4,409 |
+| It's all about luck | 1.00% | ~4,409 |
+| It's all about the money | 1.00% | ~4,409 |
+| Respected | 1.00% | ~4,409 |
+| The Princess is in this Castle | 1.00% | ~4,409 |
+| True Catholic | 1.00% | ~4,409 |
+| Truly Divine Ruler | 1.00% | ~4,409 |
 | Blockader | 0.90% | ~3,968 |
 | Double the Love | 0.80% | ~3,527 |
 | Royal Authority | 0.80% | ~3,527 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,846 (Ranked 41)  
+Progressed: 440,853 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,10 +552,10 @@ Completed: 1 (0.00%) (Ranked 328)
 | 2023-10-25 | 439,399 | 1 |
 | 2023-10-26 | 440,025 | 1 |
 | 2023-10-27 | 440,786 | 1 |
-| 2023-10-28 | 440,846 | 1 |
+| 2023-10-28 | 440,853 | 1 |
 ## Awards
 Max (Educational): 6,700  (Ranked 55)  
-Sum: 55,068 (Ranked 24)  
+Sum: 55,080 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -566,7 +566,7 @@ Diff (max vs sum): 31
 | This game is Extremely Fun | 6,314 |
 | This game is Relaxing | 6,168 |
 | This game has Competitive Players | 6,013 |
-| This game has Amazing Storytelling | 5,597 |
+| This game has Amazing Storytelling | 5,609 |
 | This game has Amazing Characters | 5,173 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -856,3 +856,4 @@ Diff (max vs sum): 31
 | 2023-10-25 | 4.69 | - | 6,676 | 54,866 |
 | 2023-10-26 | 4.69 | - | 6,687 | 54,973 |
 | 2023-10-27 | 4.69 | - | 6,700 | 55,068 |
+| 2023-10-28 | 4.69 | - | 6,700 | 55,080 |

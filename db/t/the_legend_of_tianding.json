@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BeatBossWang",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:45:05.7559363+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:18:36.4519182+00:00",
   "LastUpdate_AppInfo": "2023-10-21T17:00:04.8378527+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:42:40.256272+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:45:05.7559568+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:16:39.737517+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:18:36.4519356+00:00"
 }

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 878,
+  "EOS_Progressed": 879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3289,6 +3289,11 @@
       "Time": "2023-10-28T01:48:14.1905309+00:00",
       "NumProgressed": 878,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T02:22:12.5668101+00:00",
+      "NumProgressed": 879,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3300,7 +3305,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ActivePause",
@@ -3324,7 +3329,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "BudgetFlight",
@@ -3426,9 +3431,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 97
     },
     {
       "ID": "LargeAirport",
@@ -3452,7 +3457,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LinearNetwork",
@@ -3484,7 +3489,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Millionaire",
@@ -3500,7 +3505,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "NoTimeForModernization",
@@ -3548,7 +3553,7 @@
       "Name": "Race Against Time",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Reaction",
@@ -3635,14 +3640,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 878,
+      "Progressed": 879,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:48:14.1905303+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:22:12.5668093+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:39:40.058381+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:48:14.1905875+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:13:06.2270243+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:22:12.5668631+00:00"
 }

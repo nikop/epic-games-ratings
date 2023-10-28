@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14399,
+  "EOS_Progressed": 14401,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9753,6 +9753,11 @@
       "Time": "2023-10-28T01:42:58.8515666+00:00",
       "NumProgressed": 14399,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-28T02:16:54.2688664+00:00",
+      "NumProgressed": 14401,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9787,9 +9792,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 29
     },
     {
       "ID": "13",
@@ -9939,9 +9944,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "30",
@@ -10044,13 +10049,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14399,
+      "Progressed": 14401,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 353,
+      "Progressed": 355,
       "Completed": 286
     }
   ],
@@ -10058,8 +10063,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:42:58.8515661+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:16:54.2688658+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:36:39.889062+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:42:58.8516751+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:10:47.5364535+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:16:54.2689555+00:00"
 }

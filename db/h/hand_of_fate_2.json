@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663864,
+  "EOS_Progressed": 663866,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19028,6 +19028,11 @@
       "Time": "2023-10-28T01:44:58.4214695+00:00",
       "NumProgressed": 663864,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-28T02:18:30.4685472+00:00",
+      "NumProgressed": 663866,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19039,7 +19044,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477982
+      "UsersEstimate": 477984
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -19047,7 +19052,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385041
+      "UsersEstimate": 385042
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -19103,7 +19108,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66386
+      "UsersEstimate": 66387
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -19111,7 +19116,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46470
+      "UsersEstimate": 46471
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -19135,7 +19140,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66386
+      "UsersEstimate": 66387
     },
     {
       "ID": "Achievement_14_Magician",
@@ -19271,7 +19276,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46470
+      "UsersEstimate": 46471
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -19351,7 +19356,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46470
+      "UsersEstimate": 46471
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -19422,15 +19427,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663864,
+      "Progressed": 663866,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:44:58.4214688+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:18:30.4685464+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:06.60427+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:37:05.0116164+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:44:58.4216106+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:11:08.6828473+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:18:30.4686923+00:00"
 }

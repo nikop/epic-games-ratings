@@ -48,13 +48,13 @@
 | The Quarian | 35.00% | ~288 |
 | The Assassin | 34.00% | ~280 |
 | The Justicar | 34.00% | ~280 |
+| Catharsis | 34.00% | ~280 |
 | Ghost of the Father | 34.00% | ~280 |
 | The Cure | 34.00% | ~280 |
 | The Prodigal | 34.00% | ~280 |
 | A Personal Touch | 33.00% | ~272 |
 | Archivist | 33.00% | ~272 |
 | Battlemaster | 33.00% | ~272 |
-| Catharsis | 33.00% | ~272 |
 | Big Game Hunter | 33.00% | ~272 |
 | Revenge! | 33.00% | ~272 |
 | Heart of Darkness | 33.00% | ~272 |

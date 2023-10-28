@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1693,
+  "EOS_Progressed": 1695,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6309,6 +6309,11 @@
       "Time": "2023-10-28T01:44:50.4586532+00:00",
       "NumProgressed": 1693,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T02:18:24.0694874+00:00",
+      "NumProgressed": 1695,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6336,7 +6341,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6384,7 +6389,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -6400,7 +6405,7 @@
       "Name": "Keeping Busy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_headquarters_15",
@@ -6448,7 +6453,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6456,7 +6461,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6496,7 +6501,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6512,7 +6517,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6526,9 +6531,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 153
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6544,7 +6549,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6560,7 +6565,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6568,7 +6573,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -6576,7 +6581,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6623,7 +6628,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1693,
+      "Progressed": 1695,
       "Completed": 1
     }
   ],
@@ -6631,8 +6636,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:44:50.4586514+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:18:24.0694868+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.8448071+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:40:23.0085393+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:44:50.4587264+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:13:36.2047257+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:18:24.0695545+00:00"
 }

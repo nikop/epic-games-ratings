@@ -209,9 +209,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_BOSS_02",
@@ -313,9 +313,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 45,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -472,8 +472,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:42:51.5394985+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:16:48.671719+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:36:34.909966+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:42:51.53953+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:10:43.9973856+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:16:48.6717549+00:00"
 }

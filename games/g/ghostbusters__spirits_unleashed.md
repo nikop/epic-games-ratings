@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,397 |
+| Stylish | 5.00% | ~1,398 |
 | Advancement | 4.00% | ~1,118 |
 | Meticulously Efficient | 4.00% | ~1,118 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~838 |
-| Discovery | 3.00% | ~838 |
-| Fully Upgraded | 3.00% | ~838 |
-| Solo Capture | 3.00% | ~838 |
-| Swift Rift Removers | 3.00% | ~838 |
-| Teamwork | 3.00% | ~838 |
-| Vaporous Expansion | 3.00% | ~838 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~839 |
+| Discovery | 3.00% | ~839 |
+| Fully Upgraded | 3.00% | ~839 |
+| Solo Capture | 3.00% | ~839 |
+| Swift Rift Removers | 3.00% | ~839 |
+| Teamwork | 3.00% | ~839 |
+| Vaporous Expansion | 3.00% | ~839 |
 | Animated | 2.00% | ~559 |
 | Back Off | 2.00% | ~559 |
 | Clutch Capture | 2.00% | ~559 |
@@ -27,17 +27,17 @@ Rating: 4.50 (Ranked 578)
 | Summoner | 2.00% | ~559 |
 | There you are! | 2.00% | ~559 |
 | Whoopsie | 2.00% | ~559 |
-| We have the best insurance | 1.00% | ~279 |
-| Legions | 1.00% | ~279 |
-| Pesky Jerks | 1.00% | ~279 |
-| Rift Destroyer | 1.00% | ~279 |
-| Seasoned | 1.00% | ~279 |
-| Side Hustle | 1.00% | ~279 |
-| Skilled | 1.00% | ~279 |
-| Stunner | 1.00% | ~279 |
-| Terrifying | 1.00% | ~279 |
-| Tobin's Prodigy | 1.00% | ~279 |
-| Welcome to the Crew | 1.00% | ~279 |
+| We have the best insurance | 1.00% | ~280 |
+| Legions | 1.00% | ~280 |
+| Pesky Jerks | 1.00% | ~280 |
+| Rift Destroyer | 1.00% | ~280 |
+| Seasoned | 1.00% | ~280 |
+| Side Hustle | 1.00% | ~280 |
+| Skilled | 1.00% | ~280 |
+| Stunner | 1.00% | ~280 |
+| Terrifying | 1.00% | ~280 |
+| Tobin's Prodigy | 1.00% | ~280 |
+| Welcome to the Crew | 1.00% | ~280 |
 | Collector | 0.90% | ~252 |
 | Escape Artist | 0.90% | ~252 |
 | Diabolical | 0.80% | ~224 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,949 (Ranked 122)  
+Progressed: 27,953 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 27,949 | 65 |
+| 2023-10-28 | 27,953 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
 Sum: 2,572 (Ranked 182)  

@@ -6791,9 +6791,9 @@
       "Count": 1033
     }
   ],
-  "EOS_Progressed": 825992,
+  "EOS_Progressed": 826009,
   "EOS_Completed": 190,
-  "EOS_NewPlayers": 5646,
+  "EOS_NewPlayers": 5643,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25021,6 +25021,11 @@
       "Time": "2023-10-28T01:45:45.6677192+00:00",
       "NumProgressed": 825992,
       "NumCompleted": 190
+    },
+    {
+      "Time": "2023-10-28T02:19:08.6153977+00:00",
+      "NumProgressed": 826009,
+      "NumCompleted": 190
     }
   ],
   "TotalAchievements": 75,
@@ -25032,7 +25037,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 198238
+      "UsersEstimate": 198242
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -25128,7 +25133,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49560
+      "UsersEstimate": 49561
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -25328,7 +25333,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49560
+      "UsersEstimate": 49561
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -25368,7 +25373,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49560
+      "UsersEstimate": 49561
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -25504,7 +25509,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 49560
+      "UsersEstimate": 49561
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -25631,13 +25636,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 825992,
+      "Progressed": 826009,
       "Completed": 229
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 825992,
+      "Progressed": 826009,
       "Completed": 190
     }
   ],
@@ -25645,8 +25650,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-28T01:40:41.9469474+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:45:45.6677183+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:19:08.615397+00:00",
   "LastUpdate_AppInfo": "2023-10-27T05:57:11.9872334+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:40:41.946948+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:45:45.6679163+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:13:52.4090285+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:19:08.6155874+00:00"
 }

@@ -327,7 +327,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72557,
+  "EOS_Progressed": 72559,
   "EOS_Completed": 379,
   "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
@@ -21272,6 +21272,11 @@
       "Time": "2023-10-28T01:47:47.0457137+00:00",
       "NumProgressed": 72557,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-28T02:21:50.8975108+00:00",
+      "NumProgressed": 72559,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -21299,7 +21304,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49339
+      "UsersEstimate": 49340
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21331,7 +21336,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20316
+      "UsersEstimate": 20317
     },
     {
       "ID": "FOXIN_AROUND",
@@ -21355,7 +21360,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13060
+      "UsersEstimate": 13061
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -21363,7 +21368,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38455
+      "UsersEstimate": 38456
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21474,7 +21479,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72557,
+      "Progressed": 72559,
       "Completed": 379
     }
   ],
@@ -21482,8 +21487,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:47:47.045713+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:21:50.8975102+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:42:28.3897101+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:47:47.0458635+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:16:31.24195+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:21:50.8976498+00:00"
 }

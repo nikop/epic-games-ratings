@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234449,
+  "EOS_Progressed": 234451,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20392,6 +20392,11 @@
       "Time": "2023-10-28T01:46:27.2530127+00:00",
       "NumProgressed": 234449,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-28T02:19:42.5696327+00:00",
+      "NumProgressed": 234451,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20435,7 +20440,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25789
+      "UsersEstimate": 25790
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -20443,7 +20448,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16411
+      "UsersEstimate": 16412
     },
     {
       "ID": "DRAGOON",
@@ -20483,7 +20488,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7033
+      "UsersEstimate": 7034
     },
     {
       "ID": "GT9STRADALE",
@@ -20507,7 +20512,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "HIDDENPOWER",
@@ -20539,7 +20544,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77368
+      "UsersEstimate": 77369
     },
     {
       "ID": "NOBUNAGA",
@@ -20563,7 +20568,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21100
+      "UsersEstimate": 21101
     },
     {
       "ID": "PHOTOFINISH",
@@ -20571,7 +20576,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16411
+      "UsersEstimate": 16412
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -20595,7 +20600,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11722
+      "UsersEstimate": 11723
     },
     {
       "ID": "RESPWND",
@@ -20667,22 +20672,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96124
+      "UsersEstimate": 96125
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234449,
+      "Progressed": 234451,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:46:27.2530111+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:19:42.5696321+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:50.9815645+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:37:15.444365+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:46:27.2531657+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:11:16.2012472+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:19:42.5697756+00:00"
 }

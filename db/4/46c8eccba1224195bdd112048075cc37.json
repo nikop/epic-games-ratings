@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -739,6 +739,11 @@
       "Time": "2023-09-30T00:05:16.7696157+00:00",
       "NumProgressed": 157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T02:18:58.8334177+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -764,9 +769,9 @@
       "ID": "ChangeClass",
       "SetID": "7g1kpc8",
       "Name": "Metamorphosis",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "CollectCurses",
@@ -804,9 +809,9 @@
       "ID": "FirstBlood",
       "SetID": "7g1kpc8",
       "Name": "First Blood",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     },
     {
       "ID": "FirstBoss",
@@ -814,7 +819,7 @@
       "Name": "Scull",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "FirstStep",
@@ -836,9 +841,9 @@
       "ID": "KingBeatleHunter",
       "SetID": "7g1kpc8",
       "Name": "Royal Beetle",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "KingBoss",
@@ -878,7 +883,7 @@
       "Name": "Detective",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SecondBoss",
@@ -909,14 +914,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-10-28T01:45:33.7745625+00:00",
+  "LastChanged_Achievements": "2023-10-28T02:18:58.833417+00:00",
   "LastUpdate_AppInfo": "2023-10-23T16:57:13.9516618+00:00",
-  "LastUpdate_Ratings": "2023-10-28T01:39:31.4220997+00:00",
-  "LastUpdate_Achievements": "2023-10-28T01:45:33.7745808+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:13:00.0695786+00:00",
+  "LastUpdate_Achievements": "2023-10-28T02:18:58.8334344+00:00"
 }
