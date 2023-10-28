@@ -1,21 +1,21 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 963)  
+Rating: 4.06 (Ranked 964)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~225,782 |
-| I know the Rules | 35.00% | ~96,370 |
-| I Found it! | 11.00% | ~30,288 |
-| Contender | 10.00% | ~27,534 |
-| First but not Last | 4.00% | ~11,014 |
-| Ready Steady Score | 3.00% | ~8,260 |
-| Dress Code | 3.00% | ~8,260 |
-| Full Loot Madness | 2.00% | ~5,507 |
-| My Table, my Rules | 1.00% | ~2,753 |
-| Nine Zeroes | 1.00% | ~2,753 |
+| Ball Launched | 82.00% | ~225,810 |
+| I know the Rules | 35.00% | ~96,382 |
+| I Found it! | 11.00% | ~30,292 |
+| Contender | 10.00% | ~27,538 |
+| First but not Last | 4.00% | ~11,015 |
+| Ready Steady Score | 3.00% | ~8,261 |
+| Dress Code | 3.00% | ~8,261 |
+| Full Loot Madness | 2.00% | ~5,508 |
+| My Table, my Rules | 1.00% | ~2,754 |
+| Nine Zeroes | 1.00% | ~2,754 |
 | Shiny Memento | 0.30% | ~826 |
 | Pinball Hoarder | 0.30% | ~826 |
 | Interior Designer | 0.30% | ~826 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275,344 (Ranked 51)  
+Progressed: 275,378 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 274,323 | 0 |
 | 2023-10-26 | 274,627 | 0 |
 | 2023-10-27 | 275,060 | 0 |
-| 2023-10-28 | 275,344 | 0 |
+| 2023-10-28 | 275,378 | 0 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 282)  
 Sum: 1,582 (Ranked 225)  

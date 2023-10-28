@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 6.69,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1545,6 +1545,11 @@
       "Time": "2023-10-28T14:06:07.6263581+00:00",
       "NumProgressed": 329,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-28T18:09:33.385494+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1556,7 +1561,7 @@
       "Name": "I did it",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "END_GOOD",
@@ -1564,7 +1569,7 @@
       "Name": "In this together",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "META_ALL_LINK",
@@ -1572,7 +1577,7 @@
       "Name": "Peace walker",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1588,7 +1593,7 @@
       "Name": "A good beginning",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "META_HALF_LINK",
@@ -1596,7 +1601,7 @@
       "Name": "Half the way",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1676,7 +1681,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1692,7 +1697,7 @@
       "Name": "Champollion",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1755,14 +1760,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:06:24.4596109+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:59:09.7887821+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:11.4042047+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:06:24.4596739+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:09:33.3854928+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:02:31.6930204+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:09:33.3855211+00:00"
 }

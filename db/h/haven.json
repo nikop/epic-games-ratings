@@ -3,11 +3,11 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 140,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1495,
+  "EOS_Progressed": 1496,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1988,6 +1988,11 @@
       "Time": "2023-10-27T20:04:02.2785192+00:00",
       "NumProgressed": 1495,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-28T18:08:21.8384972+00:00",
+      "NumProgressed": 1496,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2047,7 +2052,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "16",
@@ -2063,7 +2068,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "18",
@@ -2087,7 +2092,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "20",
@@ -2238,15 +2243,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1495,
+      "Progressed": 1496,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:05:21.1439454+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:59:43.2230355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:58:43.6782529+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:21.1439768+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:08:21.8384962+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:55.4897356+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:02:00.2112045+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:21.8385309+00:00"
 }

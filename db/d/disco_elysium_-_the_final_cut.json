@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 22,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 128,
@@ -1406,7 +1406,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130185,
+  "EOS_Progressed": 130188,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -20326,6 +20326,11 @@
       "Time": "2023-10-28T17:09:02.2424484+00:00",
       "NumProgressed": 130185,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-28T18:11:57.9767629+00:00",
+      "NumProgressed": 130188,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20337,7 +20342,7 @@
       "Name": "Baddest Brow in Town",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_CAUSE_SHITSTORM",
@@ -20369,7 +20374,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23433
+      "UsersEstimate": 23434
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20393,7 +20398,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31244
+      "UsersEstimate": 31245
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20417,7 +20422,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36452
+      "UsersEstimate": 36453
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20433,7 +20438,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -20481,7 +20486,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14320
+      "UsersEstimate": 14321
     },
     {
       "ID": "ACH_CUNO",
@@ -20497,7 +20502,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13018
+      "UsersEstimate": 13019
     },
     {
       "ID": "ACH_GLUTEN",
@@ -20633,7 +20638,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5207
+      "UsersEstimate": 5208
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -20656,15 +20661,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130185,
+      "Progressed": 130188,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-26T16:59:51.8578507+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:02.2424479+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:44.4237659+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:01:43.5475615+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:02.2426174+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:11:57.9767619+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:05:26.2709936+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:11:57.9769118+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,402 |
+| Stylish | 5.00% | ~1,403 |
 | Advancement | 4.00% | ~1,122 |
 | Meticulously Efficient | 4.00% | ~1,122 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~842 |
@@ -28,19 +28,19 @@ Rating: 4.50 (Ranked 579)
 | Summoner | 2.00% | ~561 |
 | There you are! | 2.00% | ~561 |
 | Whoopsie | 2.00% | ~561 |
-| We have the best insurance | 1.00% | ~280 |
-| Collector | 1.00% | ~280 |
-| Legions | 1.00% | ~280 |
-| Pesky Jerks | 1.00% | ~280 |
-| Rift Destroyer | 1.00% | ~280 |
-| Seasoned | 1.00% | ~280 |
-| Skilled | 1.00% | ~280 |
-| Stunner | 1.00% | ~280 |
-| Terrifying | 1.00% | ~280 |
-| Tobin's Prodigy | 1.00% | ~280 |
-| Welcome to the Crew | 1.00% | ~280 |
-| Escape Artist | 0.90% | ~252 |
-| Reckless | 0.90% | ~252 |
+| We have the best insurance | 1.00% | ~281 |
+| Collector | 1.00% | ~281 |
+| Escape Artist | 1.00% | ~281 |
+| Legions | 1.00% | ~281 |
+| Pesky Jerks | 1.00% | ~281 |
+| Rift Destroyer | 1.00% | ~281 |
+| Seasoned | 1.00% | ~281 |
+| Skilled | 1.00% | ~281 |
+| Stunner | 1.00% | ~281 |
+| Terrifying | 1.00% | ~281 |
+| Tobin's Prodigy | 1.00% | ~281 |
+| Welcome to the Crew | 1.00% | ~281 |
+| Reckless | 0.90% | ~253 |
 | Diabolical | 0.80% | ~224 |
 | Rivalry | 0.70% | ~196 |
 | Fragile Panes | 0.60% | ~168 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,050 (Ranked 123)  
+Progressed: 28,062 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 28,050 | 65 |
+| 2023-10-28 | 28,062 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
 Sum: 2,582 (Ranked 181)  

@@ -5,27 +5,27 @@ Rating: 4.63 (Ranked 342)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 95.00% | ~1,209 |
-| Welcome Aboard | 86.00% | ~1,095 |
-| Lab Rat | 76.00% | ~967 |
-| All Systems Go | 66.00% | ~840 |
-| Brute Force | 66.00% | ~840 |
-| Cannon Fodder | 62.00% | ~789 |
-| Autofire | 59.00% | ~751 |
+| Marksman | 95.00% | ~1,210 |
+| Welcome Aboard | 86.00% | ~1,096 |
+| Lab Rat | 76.00% | ~968 |
+| All Systems Go | 66.00% | ~841 |
+| Brute Force | 66.00% | ~841 |
+| Cannon Fodder | 61.00% | ~777 |
+| Autofire | 59.00% | ~752 |
 | Story Teller | 57.00% | ~726 |
 | True Believer | 57.00% | ~726 |
 | Raise the Stakes | 56.00% | ~713 |
 | Surgeon | 53.00% | ~675 |
 | Exterminator | 53.00% | ~675 |
 | Greenhouse Effect | 53.00% | ~675 |
-| Freeze | 51.00% | ~649 |
+| Freeze | 51.00% | ~650 |
 | Full Arsenal | 46.00% | ~586 |
 | S.O.S. | 46.00% | ~586 |
-| Get Off My Ship! | 44.00% | ~560 |
-| Strange Transmissions | 43.00% | ~547 |
+| Get Off My Ship! | 44.00% | ~561 |
+| Strange Transmissions | 43.00% | ~548 |
 | Live with the Hot Ones | 42.00% | ~535 |
 | Wreckage | 42.00% | ~535 |
-| Keeper of the Faith | 40.00% | ~509 |
+| Keeper of the Faith | 40.00% | ~510 |
 | Betrayed | 38.00% | ~484 |
 | Exodus | 37.00% | ~471 |
 | Legend Teller | 37.00% | ~471 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 342)
 | Untouchable | 2.00% | ~25 |
 | One Gun | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,273 (Ranked 233)  
+Progressed: 1,274 (Ranked 233)  
 Completed: 7 (0.55%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,10 +97,10 @@ Completed: 7 (0.55%) (Ranked 182)
 | 2023-10-25 | 1,215 | 7 |
 | 2023-10-26 | 1,232 | 7 |
 | 2023-10-27 | 1,258 | 7 |
-| 2023-10-28 | 1,273 | 7 |
+| 2023-10-28 | 1,274 | 7 |
 ## Awards
-Max (Great Boss Battles): 107  (Ranked 343)  
-Sum: 107 (Ranked 433)  
+Max (Great Boss Battles): 107  (Ranked 342)  
+Sum: 107 (Ranked 432)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |

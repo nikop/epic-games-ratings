@@ -1,27 +1,27 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.82 (Ranked 1,010)  
+Rating: 3.82 (Ranked 1,011)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,595 |
-| The First Step | 89.00% | ~1,449 |
-| Moonbury Traveller | 65.00% | ~1,058 |
+| Welcome to Moonbury | 98.00% | ~1,596 |
+| The First Step | 89.00% | ~1,450 |
+| Moonbury Traveller | 65.00% | ~1,059 |
 | Rookie Chemist | 63.00% | ~1,026 |
 | Great Doctor | 52.00% | ~847 |
 | Dog Whisperer | 50.00% | ~814 |
 | Friendly | 49.00% | ~798 |
 | The Capitalist | 45.00% | ~733 |
-| K.O.! | 44.00% | ~716 |
-| Intermediate Chemist | 41.00% | ~667 |
+| K.O.! | 44.00% | ~717 |
+| Intermediate Chemist | 41.00% | ~668 |
 | Decorative Mind | 32.00% | ~521 |
 | Lumber Specialist | 32.00% | ~521 |
-| Kind-hearted | 26.00% | ~423 |
-| Catch of the Day | 26.00% | ~423 |
-| Amateur Chef | 23.00% | ~374 |
+| Kind-hearted | 26.00% | ~424 |
+| Catch of the Day | 26.00% | ~424 |
+| Amateur Chef | 23.00% | ~375 |
 | Fishing Guru | 21.00% | ~342 |
-| Spark of Love | 19.00% | ~309 |
+| Spark of Love | 19.00% | ~310 |
 | Community Helper | 18.00% | ~293 |
 | Expert Chemist | 15.00% | ~244 |
 | Stone Specialist | 14.00% | ~228 |
@@ -44,7 +44,7 @@ Rating: 3.82 (Ranked 1,010)
 | Moonbury Navigator | 1.00% | ~16 |
 | Being a donut... | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,628 (Ranked 224)  
+Progressed: 1,629 (Ranked 224)  
 Completed: 10 (0.61%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,11 @@ Completed: 10 (0.61%) (Ranked 174)
 | 2023-10-23 | 1,625 | 10 |
 | 2023-10-24 | 1,626 | 10 |
 | 2023-10-25 | 1,628 | 10 |
+| 2023-10-28 | 1,629 | 10 |
 ## Awards
-Max (Character Customization): 69  (Ranked 398)  
+Max (Character Customization): 69  (Ranked 397)  
 Sum: 69 (Ranked 462)  
-Diff (max vs sum): -64  
+Diff (max vs sum): -65  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 69 |

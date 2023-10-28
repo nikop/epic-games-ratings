@@ -5,21 +5,21 @@ Rating: 4.55 (Ranked 495)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,091 |
+| Trevithick's Legacy | 102.00% | ~19,090 |
 | Before the Downfall | 97.00% | ~18,155 |
-| Money like Water | 95.00% | ~17,781 |
-| Minimalist | 94.00% | ~17,594 |
-| Builder | 86.00% | ~16,097 |
+| Money like Water | 95.00% | ~17,780 |
+| Minimalist | 94.00% | ~17,593 |
+| Builder | 86.00% | ~16,096 |
 | Eraser | 73.00% | ~13,663 |
-| Pocket of Trains | 68.00% | ~12,728 |
-| Inspector | 62.00% | ~11,605 |
-| Going the Distance | 56.00% | ~10,482 |
+| Pocket of Trains | 68.00% | ~12,727 |
+| Inspector | 62.00% | ~11,604 |
+| Going the Distance | 56.00% | ~10,481 |
 | Oil Baron | 44.00% | ~8,235 |
 | Loads-a-Money | 44.00% | ~8,235 |
 | Helper of the People | 41.00% | ~7,674 |
 | Simplification | 35.00% | ~6,551 |
 | Box of Trains | 35.00% | ~6,551 |
-| Let There be Light | 34.00% | ~6,364 |
+| Let There be Light | 34.00% | ~6,363 |
 | Hot Water | 32.00% | ~5,989 |
 | Indecisive | 31.00% | ~5,802 |
 | The scenic route | 29.00% | ~5,428 |
@@ -34,7 +34,7 @@ Rating: 4.55 (Ranked 495)
 | The poor groundwater levels | 8.00% | ~1,497 |
 | Metropolis | 8.00% | ~1,497 |
 | High Flier | 4.00% | ~749 |
-| To infinity, and beyond! | 3.00% | ~562 |
+| To infinity, and beyond! | 3.00% | ~561 |
 | Space industrialization | 2.00% | ~374 |
 | Deertastic | 1.00% | ~187 |
 | High tech | 1.00% | ~187 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 495)
 | Overdeer | 0.60% | ~112 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,717 (Ranked 133)  
+Progressed: 18,716 (Ranked 133)  
 Completed: 32 (0.17%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,9 +233,9 @@ Completed: 32 (0.17%) (Ranked 242)
 | 2023-10-27 | 18,734 | 32 |
 | 2023-10-28 | 18,726 | 32 |
 ## Awards
-Max (Quickly Understood Controls): 92  (Ranked 367)  
+Max (Quickly Understood Controls): 92  (Ranked 366)  
 Sum: 676 (Ranked 295)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 92 |

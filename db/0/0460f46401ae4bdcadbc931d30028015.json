@@ -2,9 +2,9 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 943,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Rating": 944,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 148,
@@ -463,7 +463,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2865,
+  "EOS_Progressed": 2866,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -3518,6 +3518,11 @@
       "Time": "2023-10-28T17:05:50.2659231+00:00",
       "NumProgressed": 2865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T18:08:54.5187052+00:00",
+      "NumProgressed": 2866,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3626,7 +3631,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "achievement_21",
@@ -3697,7 +3702,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2865,
+      "Progressed": 2866,
       "Completed": 0
     }
   ],
@@ -3705,8 +3710,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-26T22:59:05.7023101+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:05:50.2659227+00:00",
+  "LastChanged_Achievements": "2023-10-28T18:08:54.5187041+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:00:55.038241+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:50.2659606+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:04:29.4584128+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:54.5187514+00:00"
 }

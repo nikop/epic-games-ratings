@@ -2,13 +2,13 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 1017,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Rating": 1018,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16878,
+  "EOS_Progressed": 16879,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5928,6 +5928,11 @@
       "Time": "2023-10-28T17:07:03.4363648+00:00",
       "NumProgressed": 16878,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T18:10:17.0014637+00:00",
+      "NumProgressed": 16879,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -5939,7 +5944,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16034
+      "UsersEstimate": 16035
     },
     {
       "ID": "ACH001",
@@ -5947,7 +5952,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "ACH0010",
@@ -5971,7 +5976,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8270
+      "UsersEstimate": 8271
     },
     {
       "ID": "ACH0013",
@@ -6035,7 +6040,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12152
+      "UsersEstimate": 12153
     },
     {
       "ID": "ACH0020",
@@ -6059,7 +6064,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5907
+      "UsersEstimate": 5908
     },
     {
       "ID": "ACH0023",
@@ -6099,7 +6104,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14684
+      "UsersEstimate": 14685
     },
     {
       "ID": "ACH005",
@@ -6107,7 +6112,7 @@
       "Name": "Head First",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "ACH006",
@@ -6146,7 +6151,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16878,
+      "Progressed": 16879,
       "Completed": 1
     }
   ],
@@ -6154,8 +6159,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:07:03.4363643+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:32.1142451+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:01:08.4106495+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:07:03.4364049+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:10:17.0014625+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:37.7522311+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:04:43.6089612+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:10:17.0015555+00:00"
 }

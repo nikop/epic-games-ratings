@@ -2,12 +2,12 @@
   "ID": "be69d6b9214f4bc594c4cb1cd310a553",
   "Name": "Dark Deity",
   "ProductSlug": "dark-deity-0b08d1",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-12-17T17:00:00+00:00",
@@ -404,7 +404,7 @@
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
   "LastChanged": "2023-10-24T13:02:51.2977147+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:59:56.1569161+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:46.1655438+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:53.5746425+00:00"
+  "LastUpdate_AppInfo": "2023-10-28T17:58:43.2685615+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:03:08.4119671+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:56.2290483+00:00"
 }

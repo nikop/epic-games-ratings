@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 329,
@@ -1267,9 +1267,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155187,
+  "EOS_Progressed": 155203,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1513,
+  "EOS_NewPlayers": 1515,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13417,6 +13417,11 @@
       "Time": "2023-10-28T17:06:03.9548376+00:00",
       "NumProgressed": 155187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T18:09:10.1342469+00:00",
+      "NumProgressed": 155203,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13540,7 +13545,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -13572,7 +13577,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -13580,7 +13585,7 @@
       "Name": "Jawstag",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -13604,7 +13609,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -13795,21 +13800,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154770,
+      "Progressed": 154786,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155187,
+      "Progressed": 155203,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T15:03:18.2362389+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:06:03.9548372+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:03:30.12905+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:06:03.9549544+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:09:10.1342453+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:06:16.6999552+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:09:10.134447+00:00"
 }

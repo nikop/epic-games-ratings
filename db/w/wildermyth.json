@@ -3,11 +3,11 @@
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
   "Ranking_Rating": 103,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-10-28T01:48:06.924461+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-28T18:12:36.3707623+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1783,9 +1788,9 @@
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1991,9 +1996,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2168,15 +2173,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:36.0544676+00:00",
+  "LastChanged_Achievements": "2023-10-28T18:12:36.3707612+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:14.4460326+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:03.3837144+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:36.0545263+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:02:21.312842+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:36.3708233+00:00"
 }

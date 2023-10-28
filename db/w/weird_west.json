@@ -3,8 +3,8 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 173,
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1953,
+  "EOS_Progressed": 1954,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-10-28T15:05:22.2193413+00:00",
       "NumProgressed": 1953,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T18:08:39.3625633+00:00",
+      "NumProgressed": 1954,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2531,9 +2536,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2589,7 +2594,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2603,9 +2608,9 @@
       "ID": "ACH_FULL_HOUSE",
       "SetID": "8j30i9k",
       "Name": "Full House",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 723
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2645,7 +2650,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2669,7 +2674,7 @@
       "Name": "Justice Served",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2677,7 +2682,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2773,7 +2778,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2901,15 +2906,15 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
       "SetID": "8j30i9k",
       "Name": "Welcome to the Weird West",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -2933,7 +2938,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -2948,15 +2953,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1953,
+      "Progressed": 1954,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:05:36.6213078+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:05.3510967+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:36.621375+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:08:39.3625547+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:02:24.5649899+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:39.3626655+00:00"
 }

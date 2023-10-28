@@ -6,46 +6,46 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,240 |
-| Leader | 60.00% | ~5,951 |
-| Explorer | 53.00% | ~5,257 |
-| Healer | 52.00% | ~5,157 |
-| Aspiring Inventor | 44.00% | ~4,364 |
-| Adventurer | 42.00% | ~4,166 |
-| Famous Healer | 38.00% | ~3,769 |
-| Local Leader | 35.00% | ~3,471 |
-| Famous Explorer | 34.00% | ~3,372 |
-| New Opportunities | 34.00% | ~3,372 |
-| Energized | 33.00% | ~3,273 |
-| The Long Haul | 33.00% | ~3,273 |
-| Survivor | 32.00% | ~3,174 |
-| The Great Healer | 31.00% | ~3,075 |
-| Legendary Explorer | 28.00% | ~2,777 |
-| Cleaner | 28.00% | ~2,777 |
-| Catastrofan | 28.00% | ~2,777 |
-| Finders, Keepers | 26.00% | ~2,579 |
+| First Step | 73.00% | ~7,243 |
+| Leader | 60.00% | ~5,953 |
+| Explorer | 53.00% | ~5,259 |
+| Healer | 52.00% | ~5,159 |
+| Aspiring Inventor | 44.00% | ~4,366 |
+| Adventurer | 42.00% | ~4,167 |
+| Famous Healer | 38.00% | ~3,770 |
+| Local Leader | 35.00% | ~3,473 |
+| Famous Explorer | 34.00% | ~3,373 |
+| New Opportunities | 34.00% | ~3,373 |
+| Energized | 33.00% | ~3,274 |
+| The Long Haul | 33.00% | ~3,274 |
+| Survivor | 32.00% | ~3,175 |
+| The Great Healer | 31.00% | ~3,076 |
+| Legendary Explorer | 28.00% | ~2,778 |
+| Cleaner | 28.00% | ~2,778 |
+| Catastrofan | 28.00% | ~2,778 |
+| Finders, Keepers | 26.00% | ~2,580 |
 | Top Notch | 25.00% | ~2,480 |
-| Great Leader | 23.00% | ~2,281 |
-| Ice Lakes | 23.00% | ~2,281 |
-| Mentor | 23.00% | ~2,281 |
-| Merchant | 22.00% | ~2,182 |
-| Real Survivor | 22.00% | ~2,182 |
+| Great Leader | 23.00% | ~2,282 |
+| Mentor | 23.00% | ~2,282 |
+| Merchant | 22.00% | ~2,183 |
+| Ice Lakes | 22.00% | ~2,183 |
+| Real Survivor | 22.00% | ~2,183 |
 | Rocket Surgeon | 20.00% | ~1,984 |
-| War Never Changes | 19.00% | ~1,884 |
-| Friendly | 17.00% | ~1,686 |
-| Big Game Hunter | 17.00% | ~1,686 |
-| Around the World | 17.00% | ~1,686 |
-| Spreading Influence | 17.00% | ~1,686 |
+| War Never Changes | 19.00% | ~1,885 |
+| Friendly | 17.00% | ~1,687 |
+| Big Game Hunter | 17.00% | ~1,687 |
+| Around the World | 17.00% | ~1,687 |
+| Spreading Influence | 17.00% | ~1,687 |
 | Bookworm | 15.00% | ~1,488 |
 | Famous Adventurer | 14.00% | ~1,389 |
 | Prepared for Anything | 14.00% | ~1,389 |
-| Big Catastrofan | 13.00% | ~1,289 |
+| Big Catastrofan | 13.00% | ~1,290 |
 | It's a Finnish Thing | 10.00% | ~992 |
 | Sky Burial | 10.00% | ~992 |
 | Trader | 9.00% | ~893 |
-| Bread and Circuses | 8.00% | ~793 |
-| Tailored to fit | 8.00% | ~793 |
-| New Eden | 7.00% | ~694 |
+| Bread and Circuses | 8.00% | ~794 |
+| Tailored to fit | 8.00% | ~794 |
+| New Eden | 7.00% | ~695 |
 | Really Friendly | 6.00% | ~595 |
 | Amped Up | 6.00% | ~595 |
 | Look, no Hands! | 5.00% | ~496 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,918 (Ranked 155)  
+Progressed: 9,922 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,11 +257,11 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 9,860 | 0 |
 | 2023-10-26 | 9,881 | 0 |
 | 2023-10-27 | 9,902 | 0 |
-| 2023-10-28 | 9,918 | 0 |
+| 2023-10-28 | 9,922 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 346)  
-Sum: 716 (Ranked 288)  
-Diff (max vs sum): 58  
+Max (Extremely Fun): 103  (Ranked 345)  
+Sum: 717 (Ranked 288)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
@@ -269,8 +269,8 @@ Diff (max vs sum): 58
 | This game has Amazing Storytelling | 88 |
 | This game is Relaxing | 84 |
 | This game has Quickly Understood Controls | 83 |
+| This game has Diverse Characters | 74 |
 | This game is Highly Recommended | 73 |
-| This game has Diverse Characters | 73 |
 | This game has Amazing Characters | 69 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 47 |
@@ -409,3 +409,4 @@ Diff (max vs sum): 58
 | 2023-10-25 | 4.48 | - | 103 | 714 |
 | 2023-10-26 | 4.48 | - | 103 | 715 |
 | 2023-10-27 | 4.48 | - | 103 | 716 |
+| 2023-10-28 | 4.48 | - | 103 | 717 |

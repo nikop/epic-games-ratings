@@ -17,11 +17,11 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 0.90% | ~1,397 |
 | Sharpened Vessel | 0.90% | ~1,397 |
 | Scion | 0.80% | ~1,238 |
-| Jawcrab | 0.80% | ~1,241 |
-| Jawstag | 0.80% | ~1,241 |
-| Feast | 0.80% | ~1,241 |
+| Jawcrab | 0.80% | ~1,242 |
+| Jawstag | 0.80% | ~1,242 |
+| Feast | 0.80% | ~1,242 |
 | Shapely | 0.70% | ~1,086 |
-| Glare | 0.70% | ~1,083 |
+| Glare | 0.70% | ~1,084 |
 | Watcher | 0.70% | ~1,086 |
 | Predator | 0.60% | ~931 |
 | Assimilation | 0.50% | ~776 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,187 (Ranked 73)  
+Progressed: 155,203 (Ranked 73)  
 Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,11 +221,11 @@ Completed: 1 (0.00%) (Ranked 329)
 | 2023-10-25 | 154,623 | 1 |
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
-| 2023-10-28 | 155,187 | 1 |
+| 2023-10-28 | 155,203 | 1 |
 ## Awards
-Max (Highly Recommended): 49  (Ranked 424)  
+Max (Highly Recommended): 49  (Ranked 423)  
 Sum: 324 (Ranked 349)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 49 |

@@ -3,11 +3,11 @@
   "Name": "The Walking Dead: Season Two",
   "ProductSlug": "walking-dead-season-two",
   "Ranking_Rating": 48,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2013-02-23T15:00:00+00:00",
@@ -158,7 +158,7 @@
   "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
   "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
   "LastChanged": "2023-10-22T18:59:45.3670204+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:24.1625709+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:58:36.5655592+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:16.1165549+00:00"
+  "LastUpdate_AppInfo": "2023-10-28T17:57:49.9056291+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:01:50.5296387+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:16.1945704+00:00"
 }

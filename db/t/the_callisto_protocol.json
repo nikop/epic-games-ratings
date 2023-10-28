@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 905,
-  "Ranking_Popularity": 379,
+  "Ranking_Rating": 906,
+  "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1379,9 +1379,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16321,
+  "EOS_Progressed": 16326,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8399,6 +8399,11 @@
       "Time": "2023-10-28T16:03:20.1902641+00:00",
       "NumProgressed": 16321,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-28T18:07:01.7324969+00:00",
+      "NumProgressed": 16326,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8442,7 +8447,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8522,7 +8527,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "KILL_2HEAD",
@@ -8538,7 +8543,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "KILL_ROBOT",
@@ -8570,7 +8575,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -8602,7 +8607,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "STORY_ESCAPE",
@@ -8706,7 +8711,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -8746,7 +8751,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FINISH_DLC4",
@@ -8762,7 +8767,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -8778,20 +8783,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16321,
+      "Progressed": 16326,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4247,
+      "Progressed": 4252,
       "Completed": 29
     }
   ],
@@ -8799,8 +8804,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-28T11:01:09.1588505+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:04:09.2631908+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:02:06.5216231+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:04:09.2633105+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:07:01.732496+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:05:50.5253535+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:07:01.7326116+00:00"
 }

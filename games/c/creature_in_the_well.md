@@ -1,11 +1,11 @@
 # Creature in the Well
 [Store](https://store.epicgames.com/en-US/p/creature-in-the-well)  
 [View Rawdata](../../db/c/creature_in_the_well.json)  
-Rating: 4.24 (Ranked 868)  
+Rating: 4.24 (Ranked 869)  
 Number of Ratings: 113  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 22  (Ranked 523)  
-Sum: 22 (Ranked 525)  
+Max (Great Boss Battles): 22  (Ranked 522)  
+Sum: 22 (Ranked 524)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

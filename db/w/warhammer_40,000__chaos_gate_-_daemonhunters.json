@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -735,9 +735,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3278,
+  "EOS_Progressed": 3279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3715,6 +3715,11 @@
       "Time": "2023-10-28T01:48:04.5421582+00:00",
       "NumProgressed": 3278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T18:12:33.7742898+00:00",
+      "NumProgressed": 3279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3894,7 +3899,7 @@
       "Name": "Not So Fast...",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Kills_Bleed",
@@ -3918,7 +3923,7 @@
       "Name": "Executioner",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Kills_Exterminator",
@@ -3932,9 +3937,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 131
     },
     {
       "ID": "Kills_Interactable",
@@ -3950,7 +3955,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Kills_Streak",
@@ -4269,21 +4274,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3278,
+      "Progressed": 3279,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3278,
+      "Progressed": 3279,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-24T17:03:05.3976488+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:33.8154058+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:56.5129831+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:03.8945284+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:33.8154886+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:12:33.7742884+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:58:08.8894979+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:02:22.2088884+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:33.7744105+00:00"
 }

@@ -1,11 +1,11 @@
 # Kerbal Space Program 2
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program-2)  
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
-Rating: 4.19 (Ranked 905)  
+Rating: 4.19 (Ranked 906)  
 ## Awards
-Max (Diverse Characters): 26  (Ranked 507)  
+Max (Diverse Characters): 26  (Ranked 506)  
 Sum: 75 (Ranked 456)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |

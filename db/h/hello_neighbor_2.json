@@ -3,12 +3,12 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 627,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -436,10 +436,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3084,
-  "EOS_Completed": 123,
-  "EOS_NewPlayers": 85,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.99,
+  "EOS_Completed": 124,
+  "EOS_NewPlayers": 83,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -4150,6 +4150,11 @@
       "Time": "2023-10-28T17:07:33.2655441+00:00",
       "NumProgressed": 3084,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-10-28T18:10:50.5573963+00:00",
+      "NumProgressed": 3084,
+      "NumCompleted": 124
     }
   ],
   "TotalAchievements": 14,
@@ -4273,15 +4278,15 @@
       "ID": "4kfb9pd",
       "IsBase": true,
       "Progressed": 3084,
-      "Completed": 123
+      "Completed": 124
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:07:33.2655432+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:36.3797138+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:01:17.9508898+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:07:33.2656123+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:10:50.5573949+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:04:56.3356826+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:10:50.5574536+00:00"
 }

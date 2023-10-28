@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 981)  
+Rating: 3.99 (Ranked 982)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,258 (Ranked 77)  
+Progressed: 138,262 (Ranked 77)  
 Completed: 173 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 173 (0.13%) (Ranked 249)
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
-| 2023-10-28 | 138,258 | 173 |
+| 2023-10-28 | 138,262 | 173 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
 Sum: 27,461 (Ranked 51)  

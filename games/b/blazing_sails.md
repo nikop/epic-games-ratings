@@ -1,11 +1,11 @@
 # Blazing Sails
 [Store](https://store.epicgames.com/en-US/p/blazing-sails)  
 [View Rawdata](../../db/b/blazing_sails.json)  
-Rating: 3.84 (Ranked 1,007)  
+Rating: 3.84 (Ranked 1,008)  
 ## Awards
-Max (Quickly Understood Controls): 101  (Ranked 351)  
+Max (Quickly Understood Controls): 101  (Ranked 350)  
 Sum: 565 (Ranked 308)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 101 |

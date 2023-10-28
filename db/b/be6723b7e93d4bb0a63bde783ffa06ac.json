@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach27",
@@ -307,9 +307,9 @@
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach3",
@@ -339,9 +339,9 @@
       "ID": "ach4",
       "SetID": "baneh2j",
       "Name": "Skillful fighter",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach5",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:06:18.4592109+00:00",
+  "LastChanged_Achievements": "2023-10-28T18:09:26.4719511+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:00:32.9437874+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:06:18.4592344+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:04:04.2747362+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:09:26.471977+00:00"
 }

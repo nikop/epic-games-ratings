@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 963)  
+Rating: 4.06 (Ranked 964)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.30% | ~598 |
 | The Arena of Blood | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
+| The Prince of a Thousand Enemies | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Were-verpowered | 0.20% | ~466 |
 | A Persistent Buzzing | 0.20% | ~466 |
@@ -80,7 +81,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fall of Ythryn | 0.10% | ~199 |
 | Icequake | 0.10% | ~199 |
 | A Lesson in Classes | 0.10% | ~199 |
-| The Prince of a Thousand Enemies | 0.10% | ~199 |
 | Uncommon Allies | 0.10% | ~199 |
 | The Birds | 0.10% | ~199 |
 | Where the Magic Happens | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,062 (Ranked 61)  
+Progressed: 233,068 (Ranked 61)  
 Completed: 2,393 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -726,7 +726,7 @@ Completed: 2,393 (1.03%) (Ranked 149)
 | 2023-10-25 | 232,814 | 2,387 |
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
-| 2023-10-28 | 233,062 | 2,393 |
+| 2023-10-28 | 233,068 | 2,393 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,249 (Ranked 41)  

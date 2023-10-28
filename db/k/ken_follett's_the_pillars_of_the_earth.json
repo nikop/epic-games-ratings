@@ -3,12 +3,12 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 558,
-  "Ranking_Popularity": 308,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16008,
+  "EOS_Progressed": 16009,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -12892,6 +12892,11 @@
       "Time": "2023-10-28T16:05:07.1207914+00:00",
       "NumProgressed": 16008,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-28T18:08:50.7705776+00:00",
+      "NumProgressed": 16009,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -12911,7 +12916,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "tpote_achievement_11",
@@ -12967,7 +12972,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "tpote_achievement_18",
@@ -12983,7 +12988,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "tpote_achievement_2",
@@ -13007,7 +13012,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4802
+      "UsersEstimate": 4803
     },
     {
       "ID": "tpote_achievement_22",
@@ -13055,7 +13060,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "tpote_achievement_28",
@@ -13095,7 +13100,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "tpote_achievement_32",
@@ -13167,7 +13172,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "tpote_achievement_40",
@@ -13230,15 +13235,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16008,
+      "Progressed": 16009,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:05:46.8285427+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:36.9972418+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:01:20.4971349+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:46.8286223+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:08:50.7705762+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:05:00.6988716+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:50.7706916+00:00"
 }

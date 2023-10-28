@@ -6,21 +6,21 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,403 |
+| Tattletale | 40.00% | ~6,404 |
 | Man of politics | 34.00% | ~5,443 |
 | Friends of sorts | 33.00% | ~5,283 |
 | Yet another secret | 33.00% | ~5,283 |
 | Let there be darkness | 32.00% | ~5,123 |
-| End of Book One | 30.00% | ~4,802 |
+| End of Book One | 30.00% | ~4,803 |
 | Garden of Eden | 24.00% | ~3,842 |
 | Full house | 24.00% | ~3,842 |
 | Wannabe knight | 23.00% | ~3,682 |
 | Help an old friend | 22.00% | ~3,522 |
 | Two of us | 20.00% | ~3,202 |
-| Negotiation skills | 18.00% | ~2,881 |
-| Workers' union | 18.00% | ~2,881 |
-| End of Book Two | 18.00% | ~2,881 |
-| Everything's in order | 17.00% | ~2,721 |
+| Negotiation skills | 18.00% | ~2,882 |
+| Workers' union | 18.00% | ~2,882 |
+| End of Book Two | 18.00% | ~2,882 |
+| Everything's in order | 17.00% | ~2,722 |
 | Twist of Fate | 14.00% | ~2,241 |
 | Jack was here! | 14.00% | ~2,241 |
 | Exterminator | 13.00% | ~2,081 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,441 |
 | A cry for help | 8.00% | ~1,281 |
 | Silentium est aureum | 7.00% | ~1,121 |
-| Rebel without a cause | 6.00% | ~960 |
+| Rebel without a cause | 6.00% | ~961 |
 | Staring contest champion | 5.00% | ~800 |
 | Lone wolf | 5.00% | ~800 |
 | Vox Populi | 5.00% | ~800 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~480 |
 | Boy of mystery | 2.00% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,008 (Ranked 141)  
+Progressed: 16,009 (Ranked 141)  
 Completed: 114 (0.71%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 114 (0.71%) (Ranked 166)
 | 2023-10-25 | 15,959 | 113 |
 | 2023-10-26 | 15,983 | 114 |
 | 2023-10-27 | 16,000 | 114 |
-| 2023-10-28 | 16,008 | 114 |
+| 2023-10-28 | 16,009 | 114 |
 ## Awards
-Max (Easy Puzzles): 154  (Ranked 308)  
+Max (Easy Puzzles): 154  (Ranked 307)  
 Sum: 197 (Ranked 394)  
-Diff (max vs sum): -86  
+Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 154 |

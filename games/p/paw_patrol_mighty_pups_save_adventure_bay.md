@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 79.00% | ~26 |
-| Grand Re-Opening | 70.00% | ~23 |
-| Summer Day | 70.00% | ~23 |
-| Pup Pup Boogie | 67.00% | ~22 |
-| Mr. Porter | 58.00% | ~19 |
-| Risky Rescue | 55.00% | ~18 |
-| Carlos Is Tangled | 52.00% | ~17 |
-| Mandy Family | 48.00% | ~16 |
-| Clear the Road | 42.00% | ~14 |
-| Break Time | 39.00% | ~13 |
-| Paw patrol member | 39.00% | ~13 |
-| Robot Out of Control | 39.00% | ~13 |
-| Master of the Rope | 36.00% | ~12 |
-| Training Day | 33.00% | ~11 |
-| The Fastest | 33.00% | ~11 |
-| Never Miss | 33.00% | ~11 |
-| In the Air | 27.00% | ~9 |
-| Adventure Bay’s Citizen | 27.00% | ~9 |
+| Mighty Powers | 79.00% | ~27 |
+| Grand Re-Opening | 68.00% | ~23 |
+| Pup Pup Boogie | 68.00% | ~23 |
+| Summer Day | 68.00% | ~23 |
+| Mr. Porter | 56.00% | ~19 |
+| Risky Rescue | 53.00% | ~18 |
+| Carlos Is Tangled | 50.00% | ~17 |
+| Mandy Family | 47.00% | ~16 |
+| Clear the Road | 41.00% | ~14 |
+| Break Time | 38.00% | ~13 |
+| Paw patrol member | 38.00% | ~13 |
+| Robot Out of Control | 38.00% | ~13 |
+| Master of the Rope | 35.00% | ~12 |
+| Training Day | 32.00% | ~11 |
+| The Fastest | 32.00% | ~11 |
+| Never Miss | 32.00% | ~11 |
+| In the Air | 26.00% | ~9 |
+| Don’t Miss Any | 26.00% | ~9 |
+| Adventure Bay’s Citizen | 26.00% | ~9 |
 | Animal Sighting | 24.00% | ~8 |
-| Don’t Miss Any | 24.00% | ~8 |
 | Mountain and Ice | 21.00% | ~7 |
 | You Have Been Everywhere | 18.00% | ~6 |
 | Everything Under Control | 15.00% | ~5 |
@@ -35,7 +35,7 @@
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 479)  
+Progressed: 34 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-05 | 31 | 0 |
 | 2023-10-07 | 32 | 0 |
 | 2023-10-13 | 33 | 0 |
+| 2023-10-28 | 34 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

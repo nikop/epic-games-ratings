@@ -14318,10 +14318,10 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894258,
-  "EOS_Completed": 2723,
-  "EOS_NewPlayers": 1168,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 894270,
+  "EOS_Completed": 2724,
+  "EOS_NewPlayers": 1163,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35998,6 +35998,11 @@
       "Time": "2023-10-28T17:04:38.765804+00:00",
       "NumProgressed": 894258,
       "NumCompleted": 2723
+    },
+    {
+      "Time": "2023-10-28T18:07:34.478612+00:00",
+      "NumProgressed": 894270,
+      "NumCompleted": 2724
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36128,9 +36133,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2683
+      "UsersEstimate": 3577
     },
     {
       "ID": "MaxPain",
@@ -36312,9 +36317,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 3577
+      "UsersEstimate": 4471
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -36529,21 +36534,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894258,
-      "Completed": 2723
+      "Progressed": 894270,
+      "Completed": 2724
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22881,
+      "Progressed": 22893,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T15:56:58.2613033+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:04:38.7658036+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:57:33.1740735+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:04:38.7660875+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:07:34.4786108+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:00:42.0407931+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:07:34.47882+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.48 (Ranked 614)  
 ## Awards
-Max (Great for Quick Sessions): 139  (Ranked 315)  
-Sum: 687 (Ranked 291)  
-Diff (max vs sum): 24  
+Max (Great for Quick Sessions): 139  (Ranked 314)  
+Sum: 688 (Ranked 291)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 139 |
@@ -13,7 +13,7 @@ Diff (max vs sum): 24
 | This game is Highly Recommended | 92 |
 | This game is Extremely Fun | 90 |
 | This game has Amazing Storytelling | 85 |
-| This game has Quickly Understood Controls | 82 |
+| This game has Quickly Understood Controls | 83 |
 | This game has Diverse Characters | 75 |
 | This game has Amazing Characters | 75 |
 | This game has Playful Visuals | 66 |
@@ -183,4 +183,4 @@ Diff (max vs sum): 24
 | 2023-10-23 | 4.48 | 138 | 681 |
 | 2023-10-24 | 4.48 | 139 | 685 |
 | 2023-10-25 | 4.48 | 139 | 686 |
-| 2023-10-28 | 4.48 | 139 | 687 |
+| 2023-10-28 | 4.48 | 139 | 688 |

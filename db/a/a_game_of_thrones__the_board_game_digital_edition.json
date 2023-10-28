@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 887,
-  "Ranking_Popularity": 328,
+  "Ranking_Rating": 888,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1290,9 +1290,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27055,
+  "EOS_Progressed": 27061,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21815,6 +21815,11 @@
       "Time": "2023-10-28T17:09:43.5366828+00:00",
       "NumProgressed": 27055,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-28T18:12:44.9062359+00:00",
+      "NumProgressed": 27061,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 22,
@@ -21842,7 +21847,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "1018",
@@ -21874,7 +21879,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "1022",
@@ -21882,7 +21887,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "1023",
@@ -21898,7 +21903,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "1025",
@@ -21930,7 +21935,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "1029",
@@ -21938,7 +21943,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "1030",
@@ -21946,7 +21951,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "1031",
@@ -21954,7 +21959,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "1032",
@@ -21962,7 +21967,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10822
+      "UsersEstimate": 10824
     },
     {
       "ID": "1033",
@@ -21986,7 +21991,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "1036",
@@ -21994,22 +21999,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27055,
+      "Progressed": 27061,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:43.5366824+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T17:00:09.8695672+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:03:59.9068571+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:43.5368108+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:12:44.9062349+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:06:50.5011736+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:44.9063833+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~1,069 |
-| Voices from the Past | 78.00% | ~981 |
-| Space Traveler | 78.00% | ~981 |
+| Another Life | 85.00% | ~1,070 |
+| Voices from the Past | 78.00% | ~982 |
+| Space Traveler | 78.00% | ~982 |
 | Demigod | 75.00% | ~944 |
-| The Great Destroyer | 74.00% | ~931 |
-| Shields Down | 71.00% | ~893 |
-| Helping Hand | 67.00% | ~843 |
-| Safe Home | 66.00% | ~830 |
-| Paragon | 62.00% | ~780 |
-| Old Days Born Anew | 61.00% | ~767 |
-| Full Arsenal | 56.00% | ~704 |
+| The Great Destroyer | 74.00% | ~932 |
+| Shields Down | 71.00% | ~894 |
+| Helping Hand | 66.00% | ~831 |
+| Safe Home | 66.00% | ~831 |
+| Paragon | 62.00% | ~781 |
+| Old Days Born Anew | 61.00% | ~768 |
+| Full Arsenal | 56.00% | ~705 |
 | Controlled Demolition | 55.00% | ~692 |
-| Payback | 52.00% | ~654 |
-| Huntress | 52.00% | ~654 |
+| Payback | 52.00% | ~655 |
+| Huntress | 52.00% | ~655 |
 | Born to Drift | 51.00% | ~642 |
 | Relentless | 48.00% | ~604 |
-| The Path Forward | 45.00% | ~566 |
+| The Path Forward | 45.00% | ~567 |
 | Disruption | 43.00% | ~541 |
 | Phoenix | 43.00% | ~541 |
 | Cult Slayer | 41.00% | ~516 |
-| Origin | 40.00% | ~503 |
+| Origin | 40.00% | ~504 |
 | It Was An Accident | 39.00% | ~491 |
 | Set in Motion | 38.00% | ~478 |
-| In the Eye of the Storm | 37.00% | ~465 |
-| The Crimson Void | 35.00% | ~440 |
+| In the Eye of the Storm | 37.00% | ~466 |
+| The Crimson Void | 35.00% | ~441 |
 | The Nameless Dread | 34.00% | ~428 |
 | Time to Spear | 31.00% | ~390 |
-| Mastery of Weapons | 30.00% | ~377 |
-| Disciple | 30.00% | ~377 |
-| Ghosts | 26.00% | ~327 |
+| Mastery of Weapons | 30.00% | ~378 |
+| Disciple | 30.00% | ~378 |
 | Two Birds | 26.00% | ~327 |
-| Uneasy Alliance | 25.00% | ~314 |
-| Mastery of Combat | 23.00% | ~289 |
+| Uneasy Alliance | 25.00% | ~315 |
+| Ghosts | 25.00% | ~315 |
+| Mastery of Combat | 23.00% | ~290 |
 | Retaliate | 22.00% | ~277 |
 | Mastery of Rites | 21.00% | ~264 |
 | Power Chord | 21.00% | ~264 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~126 |
 | At Least You Tried | 2.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258 (Ranked 235)  
+Progressed: 1,259 (Ranked 235)  
 Completed: 17 (1.35%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 17 (1.35%) (Ranked 138)
 | 2023-10-24 | 1,252 | 17 |
 | 2023-10-26 | 1,253 | 17 |
 | 2023-10-27 | 1,256 | 17 |
-| 2023-10-28 | 1,258 | 17 |
+| 2023-10-28 | 1,259 | 17 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 469)  
 Sum: 34 (Ranked 492)  

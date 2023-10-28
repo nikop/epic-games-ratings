@@ -3,11 +3,11 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5867,9 +5867,9 @@
       "ID": "A48",
       "SetID": "9b7p7eo",
       "Name": "Bull and bear",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 704
     },
     {
       "ID": "A49",
@@ -5932,8 +5932,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-26T15:57:24.51616+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:13.328977+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:50.6050448+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:58:40.5838683+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:13.3290639+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:12:10.9404462+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:53.0495513+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:01:55.9646576+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:10.9405921+00:00"
 }

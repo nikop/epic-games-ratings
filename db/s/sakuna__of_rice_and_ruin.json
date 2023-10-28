@@ -3,11 +3,11 @@
   "Name": "Sakuna: Of Rice and Ruin",
   "ProductSlug": "sakuna-of-rice-and-ruin",
   "Ranking_Rating": 169,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-06-23T17:00:00+00:00",
@@ -136,7 +136,7 @@
   "FirstSeen": "2022-07-22T20:26:20.9236376+00:00",
   "FirstSeenRating": "2022-08-04T03:01:25.5848955+00:00",
   "LastChanged": "2023-06-08T03:12:31.6496319+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:53.5403572+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:02:01.7384677+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:06:03.3598023+00:00"
+  "LastUpdate_AppInfo": "2023-10-28T18:00:02.4782598+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:05:44.5550115+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:09:09.2190177+00:00"
 }

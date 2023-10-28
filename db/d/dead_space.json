@@ -3,12 +3,12 @@
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
   "Ranking_Rating": 342,
-  "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 433,
+  "Ranking_Popularity": 342,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -683,9 +683,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1273,
+  "EOS_Progressed": 1274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -3928,6 +3928,11 @@
       "Time": "2023-10-28T17:04:15.7911854+00:00",
       "NumProgressed": 1273,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T18:07:09.0277222+00:00",
+      "NumProgressed": 1274,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3940,7 +3945,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "achievement_10",
@@ -3948,7 +3953,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_11",
@@ -4028,7 +4033,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "achievement_20",
@@ -4036,7 +4041,7 @@
       "Name": "Autofire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "achievement_21",
@@ -4116,7 +4121,7 @@
       "Name": "All Systems Go",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "achievement_30",
@@ -4132,7 +4137,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "achievement_32",
@@ -4164,7 +4169,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "achievement_36",
@@ -4202,9 +4207,9 @@
       "ID": "achievement_4",
       "SetID": "222fo9l",
       "Name": "Cannon Fodder",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_40",
@@ -4228,7 +4233,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "achievement_43",
@@ -4244,7 +4249,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "achievement_45",
@@ -4300,7 +4305,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "achievement_9",
@@ -4315,7 +4320,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1273,
+      "Progressed": 1274,
       "Completed": 7
     }
   ],
@@ -4323,8 +4328,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:04:15.791185+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:01:43.7986143+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:04:15.7912625+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:07:09.0277211+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:05:26.618101+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:07:09.0278242+00:00"
 }

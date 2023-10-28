@@ -3,11 +3,11 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4186,
+  "EOS_Progressed": 4187,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7174,6 +7174,11 @@
       "Time": "2023-10-28T17:05:49.8391813+00:00",
       "NumProgressed": 4186,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T18:08:54.1922487+00:00",
+      "NumProgressed": 4187,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7463,9 +7468,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 419
     },
     {
       "ID": "Ach037",
@@ -7561,7 +7566,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "Ach049",
@@ -7752,13 +7757,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4186,
+      "Progressed": 4187,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2707,
+      "Progressed": 2708,
       "Completed": 1930
     }
   ],
@@ -7766,8 +7771,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:05:49.8391809+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:59:00.859572+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:05:49.8393029+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:08:54.1922477+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:58:07.0872325+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:02:18.2094544+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:08:54.1924002+00:00"
 }

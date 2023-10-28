@@ -3,11 +3,11 @@
   "Name": "Rebel Cops",
   "ProductSlug": "rebel-cops",
   "Ranking_Rating": 545,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-24T17:00:00+00:00",
@@ -81,6 +81,6 @@
   "FirstSeenRating": "2022-11-01T18:31:34.6726487+00:00",
   "LastChanged": "2023-09-23T20:59:15.1378187+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.8016395+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:03:19.0713194+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:44.6889622+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:06:04.0607456+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:46.3498219+00:00"
 }

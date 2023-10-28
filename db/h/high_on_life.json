@@ -3,8 +3,8 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 326,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 164,
@@ -303,7 +303,7 @@
   "Tags": [],
   "EOS_Progressed": 24378,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6301,9 +6301,9 @@
       "ID": "ACH_GLOBO_STAR",
       "SetID": "cdkbb11",
       "Name": "A Starfish Is Born",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 24
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_GRUNT_EYES",
@@ -6572,8 +6572,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:07:32.7946147+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:07.7323607+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:57:40.4507861+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:07:32.7946923+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:10:50.0426877+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:00:48.6215239+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:10:50.0427647+00:00"
 }

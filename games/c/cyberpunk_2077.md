@@ -20,17 +20,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.50% | ~4,471 |
 | The Hermit | 0.50% | ~4,471 |
 | The Wheel of Fortune | 0.50% | ~4,471 |
+| True Warrior | 0.50% | ~4,471 |
 | Two Heads, One Bullet | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
 | Relic Ruler | 0.50% | ~114 |
 | Bushido and Chill | 0.40% | ~3,577 |
 | Gunslinger | 0.40% | ~3,577 |
+| Christmas Tree Attack | 0.40% | ~3,577 |
 | Breathtaking | 0.40% | ~3,577 |
 | Life of the Road | 0.40% | ~3,577 |
 | The Lovers | 0.40% | ~3,577 |
 | The World | 0.40% | ~3,577 |
 | The Jungle | 0.40% | ~3,577 |
-| True Warrior | 0.40% | ~3,577 |
 | Judy vs Night City | 0.40% | ~3,577 |
 | Spin Doctor | 0.40% | ~92 |
 | To Bad Decisions! | 0.30% | ~2,683 |
@@ -38,7 +39,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.30% | ~2,683 |
 | I Am The Law | 0.30% | ~2,683 |
 | Mean Streets | 0.30% | ~2,683 |
-| Christmas Tree Attack | 0.30% | ~2,683 |
 | Temperance | 0.30% | ~2,683 |
 | The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~69 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,258 (Ranked 15)  
-Completed: 2,723 (0.30%) (Ranked 214)  
+Progressed: 894,270 (Ranked 15)  
+Completed: 2,724 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 2,723 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,258 | 2,723 |
+| 2023-10-28 | 894,270 | 2,724 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 331,348 (Ranked 10)  

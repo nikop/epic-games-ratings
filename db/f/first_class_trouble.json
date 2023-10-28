@@ -3,11 +3,11 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 315,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -1651,10 +1651,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 687,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2023-10-28T18:01:17.1430529+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 688,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 687,
+  "NumberOfAwards": 688,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1662,7 +1668,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1731,8 +1737,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-10-28T03:57:38.0657301+00:00",
+  "LastChanged": "2023-10-28T18:01:17.1430523+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:16.6244908+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:58:04.0968232+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:08:49.108061+00:00"
+  "LastUpdate_Ratings": "2023-10-28T18:01:17.1430532+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:11:42.830861+00:00"
 }

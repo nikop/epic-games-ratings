@@ -6,8 +6,8 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1938,9 +1938,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15007,
+  "EOS_Progressed": 15009,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14888,6 +14888,11 @@
       "Time": "2023-10-28T17:07:11.4065222+00:00",
       "NumProgressed": 15007,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-28T18:10:26.2555721+00:00",
+      "NumProgressed": 15009,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16961,9 +16966,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Mounted Lancer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -17634,21 +17639,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15007,
+      "Progressed": 15009,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15007,
+      "Progressed": 15009,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-23T21:01:03.9405764+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:07:11.4065218+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:36.445611+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:58:11.5323994+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:07:11.4075586+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:10:26.255571+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:01:27.1249015+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:10:26.2569625+00:00"
 }

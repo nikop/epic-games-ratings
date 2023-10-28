@@ -2,12 +2,12 @@
   "ID": "ffcff8b4d613467b8e83ca8d15f78dbc",
   "Name": "Commandos 3 - HD Remaster",
   "ProductSlug": "commandos-3-ba41db",
-  "Ranking_Rating": 976,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Rating": 977,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-30T08:00:00+00:00",
@@ -67,8 +67,8 @@
   "FirstSeenRating": "2023-03-31T05:58:33.6737466+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:22.5200559+00:00",
   "LastChanged": "2023-10-09T09:01:02.0221368+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:09:32.9581986+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:59:52.4519132+00:00",
-  "LastUpdate_Ratings": "2023-10-28T17:00:44.948923+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:09:32.9582021+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:12:32.7909656+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:59:23.93375+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:04:19.1762218+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:12:32.7909706+00:00"
 }

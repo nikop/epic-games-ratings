@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 423,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14420,
+  "EOS_Progressed": 14422,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9808,6 +9808,11 @@
       "Time": "2023-10-28T17:04:29.415836+00:00",
       "NumProgressed": 14420,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-28T18:07:24.1735063+00:00",
+      "NumProgressed": 14422,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9898,9 +9903,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "2",
@@ -9922,9 +9927,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "22",
@@ -10099,13 +10104,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14420,
+      "Progressed": 14422,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 374,
+      "Progressed": 376,
       "Completed": 286
     }
   ],
@@ -10113,8 +10118,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T17:04:29.4158357+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:57:59.5169866+00:00",
-  "LastUpdate_Achievements": "2023-10-28T17:04:29.4159252+00:00"
+  "LastChanged_Achievements": "2023-10-28T18:07:24.1735053+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
+  "LastUpdate_Ratings": "2023-10-28T18:01:10.7844574+00:00",
+  "LastUpdate_Achievements": "2023-10-28T18:07:24.1735952+00:00"
 }

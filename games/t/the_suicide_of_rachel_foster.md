@@ -1,13 +1,13 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 913)  
+Rating: 4.18 (Ranked 914)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| "Nice" to meet you | 76.00% | ~1,189 |
-| Freeze to death | 56.00% | ~876 |
+| "Nice" to meet you | 77.00% | ~1,204 |
+| Freeze to death | 57.00% | ~891 |
 | Is she really dead? | 47.00% | ~735 |
 | Screwdriver | 45.00% | ~704 |
 | Cutepie | 42.00% | ~657 |

@@ -6,9 +6,9 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~898 |
+| Kickstarter Backer | 82.00% | ~897 |
 | Completed Act I | 30.00% | ~328 |
-| 5 Upgrades in Stronghold | 26.00% | ~285 |
+| 5 Upgrades in Stronghold | 26.00% | ~284 |
 | First 5 Levels of Od Nua | 24.00% | ~263 |
 | Make an Adventurer | 23.00% | ~252 |
 | Completed Act II | 16.00% | ~175 |
@@ -23,9 +23,9 @@ Number of Ratings: 2,847  (23.09.2022)
 | Last 5 Levels of Od Nua | 12.00% | ~131 |
 | Bounty Hunter | 11.00% | ~120 |
 | The Giftbearer | 11.00% | ~120 |
-| Trappy | 9.00% | ~99 |
-| Herald of the Old Flame | 9.00% | ~99 |
-| Watcher at the Breach | 9.00% | ~99 |
+| Trappy | 9.00% | ~98 |
+| Herald of the Old Flame | 9.00% | ~98 |
+| Watcher at the Breach | 9.00% | ~98 |
 | Completed Act III | 8.00% | ~88 |
 | Fish Guts and Murder | 8.00% | ~88 |
 | Alchemist | 7.00% | ~77 |
@@ -55,7 +55,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095 (Ranked 242)  
+Progressed: 1,094 (Ranked 243)  
 Completed: 2 (0.18%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
