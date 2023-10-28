@@ -5,8 +5,8 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.49% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.30% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.92% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.27% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.65% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 27.27% |
@@ -87,7 +87,7 @@
 | 85 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.51% |
 | 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.48% |
 | 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.36% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.35% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 90 | [Doodle God](games/d/doodle_god.md) | 3.27% |
 | 91 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.20% |
@@ -137,9 +137,9 @@
 | 134 | [Late Shift](games/l/late_shift.md) | 1.41% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.36% |
-| 137 | [Poosh XL](games/p/poosh_xl.md) | 1.36% |
-| 139 | [Chorus](games/c/chorus.md) | 1.35% |
-| 139 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
+| 138 | [Chorus](games/c/chorus.md) | 1.35% |
+| 138 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
+| 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
 | 141 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 142 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 143 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
@@ -165,7 +165,7 @@
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.71% |
+| 166 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.70% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
@@ -182,8 +182,8 @@
 | 180 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 181 | [Dead Space](games/d/dead_space.md) | 0.56% |
 | 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
-| 181 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.56% |
-| 184 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 183 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 183 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.55% |
 | 185 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 186 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 187 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
@@ -250,10 +250,10 @@
 | 248 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 248 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 248 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
-| 251 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 251 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 251 | [Shop Titans](games/s/shop_titans.md) | 0.12% |
-| 251 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
+| 248 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
+| 252 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 252 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 252 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.12% |
 | 255 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 255 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 255 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
