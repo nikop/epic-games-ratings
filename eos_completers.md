@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.00% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.49% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.27% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.26% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.65% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -128,7 +128,7 @@
 | 126 | [Night Book](games/n/night_book.md) | 1.72% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
 | 128 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.69% |
-| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.62% |
+| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.61% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.60% |
 | 131 | [Five Dates](games/f/five_dates.md) | 1.56% |
 | 132 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -153,8 +153,8 @@
 | 150 | [Sable](games/s/sable.md) | 1.01% |
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.96% |
-| 153 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.96% |
-| 155 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 154 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 154 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.95% |
 | 156 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
 | 157 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
 | 157 | [Hades](games/h/hades.md) | 0.91% |
@@ -164,13 +164,13 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
-| 166 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.70% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.73% |
+| 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 169 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
 | 170 | [Eternights](games/e/eternights.md) | 0.65% |
-| 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.64% |
+| 171 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.63% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 0.62% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
@@ -233,8 +233,8 @@
 | 230 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 230 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
 | 230 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
-| 230 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.21% |
-| 235 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
+| 234 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.20% |
+| 234 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 236 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 236 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
 | 236 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.19% |

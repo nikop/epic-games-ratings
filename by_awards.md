@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 594,956 | 4.48 | 614 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 311,544 | 4.68 | 245 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 249,235 | 4.68 | 245 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 209,001 | 4.18 | 913 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 209,150 | 4.18 | 913 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 191,365 | 4.88 | 16 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,707 | 4.51 | 558 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,498 | 4.69 | 226 |
@@ -21,7 +21,7 @@
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,533 | 4.26 | 854 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,012 | 4.57 | 462 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,544 | 4.89 | 10 |
-| 22 | [Warframe](games/w/warframe.md) | 17,986 | 4.60 | 404 |
+| 22 | [Warframe](games/w/warframe.md) | 18,014 | 4.60 | 404 |
 | 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 17,442 | 4.74 | 152 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 17,075 | 4.21 | 887 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,701 | 4.76 | 120 |
@@ -44,7 +44,7 @@
 | 42 | [Control](games/c/control.md) | 8,631 | 4.60 | 404 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,495 | 4.89 | 10 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,357 | 4.48 | 614 |
-| 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,093 | 4.57 | 462 |
+| 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,100 | 4.57 | 462 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,983 | 4.85 | 43 |
 | 47 | [Supraland](games/s/supraland.md) | 7,711 | 4.61 | 378 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,699 | 4.70 | 210 |

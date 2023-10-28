@@ -420,7 +420,7 @@
 | 404 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.60 | 0 | 540 |
 | 404 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 499 | 206 |
 | 404 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 522 |
-| 404 | [Warframe](games/w/warframe.md) | 4.60 | 17,986 | 22 |
+| 404 | [Warframe](games/w/warframe.md) | 4.60 | 18,014 | 22 |
 | 404 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 519 | 203 |
 | 423 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 540 |
 | 423 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 441 | 213 |
@@ -468,7 +468,7 @@
 | 462 | [Hob](games/h/hob.md) | 4.57 | 0 | 540 |
 | 462 | [IXION](games/i/ixion.md) | 4.57 | 0 | 540 |
 | 462 | [Minit](games/m/minit.md) | 4.57 | 0 | 540 |
-| 462 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,093 | 45 |
+| 462 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 8,100 | 45 |
 | 462 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,331 | 93 |
 | 462 | [Risen](games/r/risen.md) | 4.57 | 0 | 540 |
 | 462 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 540 |
@@ -915,7 +915,7 @@
 | 913 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 540 |
 | 913 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 540 |
 | 913 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,870 | 98 |
-| 913 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 209,001 | 5 |
+| 913 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 209,150 | 5 |
 | 913 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 359 |
 | 913 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 540 |
 | 919 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 363 |
@@ -1017,8 +1017,8 @@
 | 1,015 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 88 | 370 |
 | 1,016 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 0 | 540 |
 | 1,017 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,074 | 143 |
-| 1,017 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.79 | 0 | 540 |
 | 1,017 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 0 | 540 |
+| 1,019 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 3.75 | 0 | 540 |
 | 1,020 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.74 | 0 | 540 |
 | 1,021 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 540 |
 | 1,022 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 540 |
