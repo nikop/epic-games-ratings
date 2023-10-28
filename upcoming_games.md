@@ -162,7 +162,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 207,801 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 207,899 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -333,6 +333,7 @@
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | - |  | - | - |
 | [KIBORG](games/d/d53159b0a47c43d08a92968a6fd9cd78.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
+| [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2099-01-01 | - |  | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | - |  | - | - |
