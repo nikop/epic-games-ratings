@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72590,
+  "EOS_Progressed": 72591,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -21317,6 +21317,11 @@
       "Time": "2023-10-28T11:08:37.1181902+00:00",
       "NumProgressed": 72590,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-28T12:08:15.0989244+00:00",
+      "NumProgressed": 72591,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -21344,7 +21349,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49361
+      "UsersEstimate": 49362
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21360,7 +21365,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18873
+      "UsersEstimate": 18874
     },
     {
       "ID": "ERADICATE",
@@ -21496,7 +21501,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10888
+      "UsersEstimate": 10889
     },
     {
       "ID": "WEIGHTLESS",
@@ -21512,14 +21517,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11614
+      "UsersEstimate": 11615
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72590,
+      "Progressed": 72591,
       "Completed": 379
     }
   ],
@@ -21527,8 +21532,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:08:37.1181898+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:08:15.0989238+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:57.7811895+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:02:58.2826131+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:08:37.1183009+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:02:53.2245869+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:08:15.09903+00:00"
 }

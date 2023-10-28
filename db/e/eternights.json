@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1235,17 +1235,17 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1306,8 +1306,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:04:00.949507+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:04:05.1514554+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:11.7764576+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:59:19.4413791+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:04:00.9495273+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:59:34.026145+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:04:05.151474+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 500,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -114,6 +114,11 @@
       "Time": "2023-10-28T10:05:32.2989806+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T12:05:34.7929362+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -172,33 +177,33 @@
       "ID": "ach15",
       "SetID": "baneh2j",
       "Name": "Princess in another castle",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach16",
       "SetID": "baneh2j",
       "Name": "Grahaaa!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach17",
       "SetID": "baneh2j",
       "Name": "Get the cake",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach18",
       "SetID": "baneh2j",
       "Name": "Escape from Kotaushenko",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach19",
@@ -228,7 +233,7 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -244,17 +249,17 @@
       "ID": "ach23",
       "SetID": "baneh2j",
       "Name": "Hero Savior",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach25",
@@ -276,23 +281,23 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -300,7 +305,7 @@
       "ID": "ach3",
       "SetID": "baneh2j",
       "Name": "Trandy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -324,7 +329,7 @@
       "ID": "ach4",
       "SetID": "baneh2j",
       "Name": "Skillful fighter",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -340,7 +345,7 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 55,
+      "Percentage": 52,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -373,14 +378,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:05:21.8981053+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:05:34.7929356+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:59:44.1940254+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:05:21.8981243+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:00:05.1729449+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:05:34.7929528+00:00"
 }

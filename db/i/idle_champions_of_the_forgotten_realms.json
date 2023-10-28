@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7669,9 +7669,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233019,
+  "EOS_Progressed": 233024,
   "EOS_Completed": 2392,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -28984,6 +28984,11 @@
       "Time": "2023-10-28T11:05:12.9326583+00:00",
       "NumProgressed": 233019,
       "NumCompleted": 2392
+    },
+    {
+      "Time": "2023-10-28T12:05:25.3682656+00:00",
+      "NumProgressed": 233024,
+      "NumCompleted": 2392
     }
   ],
   "TotalAchievements": 528,
@@ -31177,9 +31182,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_546",
@@ -33218,21 +33223,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199293,
+      "Progressed": 199298,
       "Completed": 3686
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233019,
+      "Progressed": 233024,
       "Completed": 2392
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-28T07:57:33.0279022+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:05:12.9326577+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:05:25.3682652+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:08.7889132+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:57:29.2307516+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:05:12.9352126+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:57:31.083675+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:05:25.3708367+00:00"
 }

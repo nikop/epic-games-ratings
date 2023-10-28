@@ -6,16 +6,16 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,374 |
-| Incurious | 17.00% | ~111,798 |
-| Climate Change | 16.00% | ~105,222 |
-| Stroller | 15.00% | ~98,645 |
-| Advanced Hiker | 13.00% | ~85,493 |
-| Toy Train | 13.00% | ~85,493 |
-| Hiker | 12.00% | ~78,916 |
-| Mojave Courier | 6.00% | ~39,458 |
+| Advanced Stroller | 18.00% | ~118,376 |
+| Incurious | 17.00% | ~111,800 |
+| Climate Change | 16.00% | ~105,223 |
+| Stroller | 15.00% | ~98,647 |
+| Advanced Hiker | 13.00% | ~85,494 |
+| Toy Train | 13.00% | ~85,494 |
+| Hiker | 12.00% | ~78,917 |
+| Mojave Courier | 6.00% | ~39,459 |
 | Saved by Nausicaä | 5.00% | ~32,882 |
-| Advanced Voyager | 4.00% | ~26,305 |
+| Advanced Voyager | 4.00% | ~26,306 |
 | Voyager | 3.00% | ~19,729 |
 | Expert Stroller | 3.00% | ~19,729 |
 | Orient Express | 3.00% | ~19,729 |
@@ -24,8 +24,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Hiker | 2.00% | ~13,153 |
 | Lost | 2.00% | ~13,153 |
 | Rocketman | 0.80% | ~5,261 |
-| Expert Voyager | 0.70% | ~4,603 |
-| Shopaholic | 0.70% | ~4,603 |
+| Expert Voyager | 0.70% | ~4,604 |
+| Shopaholic | 0.70% | ~4,604 |
 | Nanuk | 0.60% | ~3,946 |
 | Dynamite Fishing | 0.60% | ~3,946 |
 | Scrooge | 0.50% | ~3,288 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~658 |
 | 20 Miles under the Sea | 0.10% | ~658 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,635 (Ranked 27)  
-Completed: 12 (0.00%) (Ranked 328)  
+Progressed: 657,645 (Ranked 27)  
+Completed: 12 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,7 +250,7 @@ Completed: 12 (0.00%) (Ranked 328)
 | 2023-10-25 | 657,076 | 12 |
 | 2023-10-26 | 657,283 | 12 |
 | 2023-10-27 | 657,528 | 12 |
-| 2023-10-28 | 657,635 | 12 |
+| 2023-10-28 | 657,645 | 12 |
 ## Awards
 Max (Great for Beginners): 200  (Ranked 281)  
 Sum: 1,587 (Ranked 223)  

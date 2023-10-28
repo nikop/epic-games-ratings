@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,855 |
-| Keeping it classy | 28.00% | ~851 |
+| You're free now! | 61.00% | ~1,856 |
+| Keeping it classy | 28.00% | ~852 |
 | Welcome to the family | 22.00% | ~669 |
 | The finer things in life | 20.00% | ~608 |
 | Backpacker | 14.00% | ~426 |
@@ -23,13 +23,13 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 7.00% | ~213 |
 | That pinch! | 7.00% | ~213 |
 | Tight lipslides | 7.00% | ~213 |
-| Commence the Hijinx! | 6.00% | ~182 |
-| Fulfilled the dream | 6.00% | ~182 |
-| G'Day Mate! | 6.00% | ~182 |
-| NAHELL! | 6.00% | ~182 |
-| Purple passion | 6.00% | ~182 |
-| Squad goals | 6.00% | ~182 |
-| Sup widdit big dog! | 6.00% | ~182 |
+| Commence the Hijinx! | 6.00% | ~183 |
+| Fulfilled the dream | 6.00% | ~183 |
+| G'Day Mate! | 6.00% | ~183 |
+| NAHELL! | 6.00% | ~183 |
+| Purple passion | 6.00% | ~183 |
+| Squad goals | 6.00% | ~183 |
+| Sup widdit big dog! | 6.00% | ~183 |
 | DIY Boss | 5.00% | ~152 |
 | Globetrotter | 5.00% | ~152 |
 | Laid back | 5.00% | ~152 |
@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,041 (Ranked 200)  
-Completed: 1 (0.03%) (Ranked 296)  
+Progressed: 3,042 (Ranked 200)  
+Completed: 1 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,25 +233,25 @@ Completed: 1 (0.03%) (Ranked 296)
 | 2023-10-24 | 3,036 | 1 |
 | 2023-10-25 | 3,038 | 1 |
 | 2023-10-27 | 3,039 | 1 |
-| 2023-10-28 | 3,041 | 1 |
+| 2023-10-28 | 3,042 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 408)  
-Sum: 532 (Ranked 312)  
-Diff (max vs sum): 96  
+Sum: 536 (Ranked 311)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 56 |
 | This game is Great for Quick Sessions | 52 |
 | This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 49 |
+| This game has Diverse Characters | 48 |
 | This game has a Creative Community | 45 |
 | This game is Extremely Fun | 45 |
 | This game has Amazing Storytelling | 45 |
-| This game has Diverse Characters | 45 |
 | This game is Relaxing | 43 |
 | This game has Quickly Understood Controls | 38 |
 | This game is Educational | 36 |
-| This game has Challenging Combat | 29 |
+| This game has Challenging Combat | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -415,3 +415,4 @@ Diff (max vs sum): 96
 | 2023-10-22 | 4.70 | - | 56 | 530 |
 | 2023-10-23 | 4.70 | - | 56 | 531 |
 | 2023-10-26 | 4.70 | - | 56 | 532 |
+| 2023-10-28 | 4.70 | - | 56 | 536 |

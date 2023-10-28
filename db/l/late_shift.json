@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 570,
+  "EOS_Progressed": 571,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -1140,6 +1140,11 @@
       "Time": "2023-10-28T11:04:44.7493216+00:00",
       "NumProgressed": 570,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T12:04:54.0022508+00:00",
+      "NumProgressed": 571,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1175,7 +1180,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ENDING_3",
@@ -1199,7 +1204,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ENDING_6",
@@ -1215,15 +1220,15 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "EVEN_TEMPERED",
       "SetID": "8eejhlh",
       "Name": "Even Tempered",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 325
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1239,7 +1244,7 @@
       "Name": "Fair Share",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "GOOD_KARMA",
@@ -1263,7 +1268,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1287,7 +1292,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SHILL_BIDDER",
@@ -1310,7 +1315,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 570,
+      "Progressed": 571,
       "Completed": 8
     }
   ],
@@ -1318,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:04:44.7493211+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:04:54.0022503+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:13.2801445+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:59:05.526856+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:04:44.7493365+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:59:20.1788631+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:04:54.002266+00:00"
 }

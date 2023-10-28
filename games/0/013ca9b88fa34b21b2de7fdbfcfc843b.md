@@ -8,7 +8,7 @@ Rating: 4.60 (Ranked 403)
 | Azoria Beckons | 72.00% | ~5,220 |
 | A Thorny Situation | 70.00% | ~5,075 |
 | ... And Spit Back Out | 60.00% | ~4,350 |
-| Break-Net Speed | 48.00% | ~3,480 |
+| Break-Net Speed | 49.00% | ~3,552 |
 | Bramble Breaker | 46.00% | ~3,335 |
 | Miner 49er | 43.00% | ~3,118 |
 | Humble Collector | 42.00% | ~3,045 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 403)
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,250 (Ranked 166)  
-Completed: 0 (0.00%) (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4025,9 +4025,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11852,
+  "EOS_Progressed": 11855,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14575,6 +14575,11 @@
       "Time": "2023-10-28T10:04:40.814249+00:00",
       "NumProgressed": 11852,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T12:04:38.7854736+00:00",
+      "NumProgressed": 11855,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14586,7 +14591,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "02_BurningCity",
@@ -14722,7 +14727,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "19_EqualToAroden",
@@ -14786,7 +14791,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "28_GreatUpstart",
@@ -14954,7 +14959,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "49_Flame",
@@ -15513,21 +15518,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10634,
+      "Progressed": 10637,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11852,
+      "Progressed": 11855,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-28T11:02:53.0560002+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:04:30.7850734+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:04:38.7854731+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:02:53.0560006+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:04:30.7852523+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:02:17.1435652+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:04:38.7856494+00:00"
 }

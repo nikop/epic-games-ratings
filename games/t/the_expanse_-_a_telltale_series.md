@@ -6,9 +6,10 @@ Rating: 4.59 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 1.00% | ~144 |
-| Drug Gifter | 0.60% | ~86 |
+| Drug Gifter | 0.70% | ~101 |
 | Bosmang | 0.50% | ~72 |
 | The Pit and the Pirates | 0.40% | ~58 |
+| Spore Taste | 0.40% | ~58 |
 | Martian Music | 0.40% | ~58 |
 | Drone Dodger | 0.40% | ~58 |
 | Call it Even | 0.40% | ~58 |
@@ -16,16 +17,15 @@ Rating: 4.59 (Ranked 423)
 | Celebrations are in Order | 0.40% | ~58 |
 | Data Archivist | 0.30% | ~43 |
 | Stogie for Fogey | 0.30% | ~43 |
-| Spore Taste | 0.30% | ~43 |
+| Thorston Mayer | 0.30% | ~43 |
 | Heal Thy Medic | 0.30% | ~43 |
 | Khan's Revenge | 0.30% | ~43 |
 | Impossible Objects | 0.30% | ~43 |
 | Doctor Approved | 0.20% | ~29 |
-| Thorston Mayer | 0.20% | ~29 |
+| Bottoms up! | 0.20% | ~29 |
 | Miraculous Maya | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |
 | Data Miner | 0.10% | ~14 |
-| Bottoms up! | 0.10% | ~14 |
 | Data Logger | 0.10% | ~14 |
 | Brother's Reaper | 0.10% | ~14 |
 | Scavenger Star | 0.10% | ~14 |
@@ -41,8 +41,8 @@ Rating: 4.59 (Ranked 423)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,411 (Ranked 143)  
-Completed: 27 (0.19%) (Ranked 235)  
+Progressed: 14,413 (Ranked 144)  
+Completed: 27 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 27 (0.19%) (Ranked 235)
 | 2023-10-25 | 14,330 | 27 |
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
-| 2023-10-28 | 14,411 | 27 |
+| 2023-10-28 | 14,413 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

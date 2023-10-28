@@ -19,7 +19,7 @@ Rating: 3.92 (Ranked 999)
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 511 (Ranked 287)  
-Completed: 0 (0.00%) (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

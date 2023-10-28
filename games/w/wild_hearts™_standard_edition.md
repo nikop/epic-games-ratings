@@ -50,7 +50,7 @@
 | Relentless Kemono Hunter | 17.00% | ~32 |
 | Vanquisher of the Volatile | 16.00% | ~30 |
 | Bewitched by Bathing | 14.00% | ~26 |
-| Big Spender | 11.00% | ~21 |
+| Big Spender | 12.00% | ~22 |
 | Tsukumo Whisperer | 7.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 187 (Ranked 359)  

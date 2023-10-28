@@ -3,9 +3,9 @@
   "Name": "Vigil: The Longest Night",
   "ProductSlug": "vigil-the-longest-night",
   "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-31T17:00:00+00:00",
     "PcReleaseDate": "2020-10-14T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.7014003+00:00",
   "LastChanged": "2023-03-31T05:58:47.7014005+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:52.9351903+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:58:48.969172+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:07:32.8925677+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:59:00.8223884+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:08:00.0406809+00:00"
 }

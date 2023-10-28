@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 627,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1747,10 +1747,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 3951,
       "NumberOfAwardsMax": 1353
+    },
+    {
+      "Time": "2023-10-28T12:00:30.9608266+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 3969,
+      "NumberOfAwardsMax": 1353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3951,
+  "NumberOfAwards": 3969,
   "NumberOfAwardsMax": 1353,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1770,13 +1776,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 241
+      "Count": 247
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 297
+      "Count": 304
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1794,7 +1800,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 257
+      "Count": 262
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1829,7 +1835,7 @@
   ],
   "EOS_Progressed": 8107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6440,9 +6446,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-28T08:00:41.1774017+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:06:33.2408493+00:00",
+  "LastChanged": "2023-10-28T12:00:30.9608263+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:06:53.7342996+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:00:07.8319981+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:06:33.2409025+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:00:30.960827+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:06:53.7343534+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 423,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
-  "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Progress": 144,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14411,
+  "EOS_Progressed": 14413,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9788,6 +9788,11 @@
       "Time": "2023-10-28T11:03:37.9005125+00:00",
       "NumProgressed": 14411,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-28T12:03:39.9461753+00:00",
+      "NumProgressed": 14413,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9854,25 +9859,25 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 101
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "19",
@@ -9894,9 +9899,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "21",
@@ -10079,13 +10084,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14411,
+      "Progressed": 14413,
       "Completed": 27
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 365,
+      "Progressed": 367,
       "Completed": 286
     }
   ],
@@ -10093,8 +10098,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:03:37.900512+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:03:39.9461749+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:57:28.1588912+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:03:37.9005797+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:57:30.3511464+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:03:39.9462409+00:00"
 }

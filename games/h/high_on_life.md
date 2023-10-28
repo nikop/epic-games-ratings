@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 326)
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,376 (Ranked 125)  
-Completed: 13 (0.05%) (Ranked 285)  
+Completed: 13 (0.05%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

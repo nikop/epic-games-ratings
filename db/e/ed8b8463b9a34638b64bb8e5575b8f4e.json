@@ -2,9 +2,9 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -254,6 +254,11 @@
       "Time": "2023-10-27T23:08:25.9334209+00:00",
       "NumProgressed": 47,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T12:08:13.3961087+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -264,7 +269,7 @@
       "ID": "check_and_no_mate",
       "SetID": "7i36ba9",
       "Name": "Check and No Mate",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -272,7 +277,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -304,7 +309,7 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -360,7 +365,7 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -376,7 +381,7 @@
       "ID": "taxi_drivers_knowledge",
       "SetID": "7i36ba9",
       "Name": "Taxi Driver\u0027s Knowledge",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -384,7 +389,7 @@
       "ID": "the_doctor",
       "SetID": "7i36ba9",
       "Name": "The Doctor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -400,7 +405,7 @@
       "ID": "the_fall",
       "SetID": "7i36ba9",
       "Name": "The Fall",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -408,7 +413,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 95,
       "UsersEstimate": 16
     },
@@ -416,7 +421,7 @@
       "ID": "the_martyr",
       "SetID": "7i36ba9",
       "Name": "The Martyr",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 95,
       "UsersEstimate": 5
     },
@@ -440,7 +445,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -448,7 +453,7 @@
       "ID": "the_swell_celebration",
       "SetID": "7i36ba9",
       "Name": "The Swell Celebration",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 95,
       "UsersEstimate": 4
     },
@@ -473,14 +478,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:08:35.6054811+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:08:13.396108+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:00:30.8715936+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:08:35.6054983+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:00:59.2145206+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:08:13.3961255+00:00"
 }

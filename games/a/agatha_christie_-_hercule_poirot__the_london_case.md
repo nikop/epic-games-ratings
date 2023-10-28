@@ -13,12 +13,12 @@
 | A curious gathering | 50.00% | ~13 |
 | Little grey cells | 46.00% | ~12 |
 | Impossible is possible | 46.00% | ~12 |
+| The Missing Magdalene | 46.00% | ~12 |
 | Arthur Hastings | 46.00% | ~12 |
-| The Missing Magdalene | 42.00% | ~11 |
 | Everything matters | 38.00% | ~10 |
 | Order and method | 38.00% | ~10 |
-| An expert mediator | 31.00% | ~8 |
-| DI Hardwicke | 31.00% | ~8 |
+| An expert mediator | 35.00% | ~9 |
+| DI Hardwicke | 35.00% | ~9 |
 | Betty Allen | 27.00% | ~7 |
 | The Investigation Begins | 27.00% | ~7 |
 | An odd series of events | 19.00% | ~5 |
@@ -52,7 +52,7 @@
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 490)  
-Completed: 0 (0.00%) (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -8486,7 +8486,7 @@
   ],
   "EOS_Progressed": 121710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 645,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28569,9 +28569,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17039
+      "UsersEstimate": 18256
     },
     {
       "ID": "combat_kill_librarian",
@@ -28881,8 +28881,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-28T06:59:23.1822937+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:04:09.2937122+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:04:14.8731336+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:18.3277019+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:58:59.866371+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:04:09.2938513+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:59:14.076304+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:04:14.8732724+00:00"
 }

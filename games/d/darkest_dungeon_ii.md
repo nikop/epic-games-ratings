@@ -46,8 +46,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Happens | 17.00% | ~20,691 |
 | This Belongs in a Museum | 16.00% | ~19,474 |
 | Handled | 16.00% | ~19,474 |
+| Catch and Decease | 15.00% | ~18,256 |
 | Deprogramming | 14.00% | ~17,039 |
-| Catch and Decease | 14.00% | ~17,039 |
 | Not Today! | 13.00% | ~15,822 |
 | Shrine of Reflection | 12.00% | ~14,605 |
 | When You Want Something Done Right | 11.00% | ~13,388 |
@@ -73,7 +73,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121,710 (Ranked 81)  
-Completed: 1 (0.00%) (Ranked 328)  
+Completed: 1 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

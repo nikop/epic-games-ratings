@@ -12,9 +12,9 @@ Rating: 4.22 (Ranked 881)
 | Resignation | 0.40% | ~7 |
 | Understanding | 0.40% | ~7 |
 | War of the worlds | 0.40% | ~7 |
+| Blues Jam | 0.30% | ~5 |
 | Family First | 0.30% | ~5 |
 | “Here boy…“ | 0.30% | ~5 |
-| Blues Jam | 0.20% | ~3 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,647 (Ranked 223)  

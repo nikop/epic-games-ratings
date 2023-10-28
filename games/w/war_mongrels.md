@@ -20,7 +20,7 @@ Number of Ratings: 34  (23.09.2022)
 | Missing in Action | 37.00% | ~206 |
 | Collectibles of Chapter I | 35.00% | ~195 |
 | King of Knives | 35.00% | ~195 |
-| Consequences | 33.00% | ~184 |
+| Consequences | 34.00% | ~190 |
 | Opportunities | 33.00% | ~184 |
 | The Horror | 31.00% | ~173 |
 | The Difference | 28.00% | ~156 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 558 (Ranked 280)  
-Completed: 0 (0.00%) (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -974,9 +974,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -1021,8 +1021,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:04:19.776404+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:04:26.5822776+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.9146972+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:59:46.9397159+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:04:19.7764188+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:00:08.4460376+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:04:26.5822937+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 210,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 312,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1031,10 +1031,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 532,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-10-28T11:59:35.0868705+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 536,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 532,
+  "NumberOfAwards": 536,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1090,7 +1096,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 45
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1102,7 +1108,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Educational",
@@ -1111,9 +1117,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3041,
+  "EOS_Progressed": 3042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5526,6 +5532,11 @@
       "Time": "2023-10-28T00:08:42.6721205+00:00",
       "NumProgressed": 3041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T12:08:16.4180087+00:00",
+      "NumProgressed": 3042,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5561,7 +5572,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -5617,7 +5628,7 @@
       "Name": "Fulfilled the dream",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GDAY-MATE",
@@ -5625,7 +5636,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -5689,7 +5700,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5737,7 +5748,7 @@
       "Name": "NAHELL!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_PEW-PEW",
@@ -5769,7 +5780,7 @@
       "Name": "Purple passion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_RENAISSANCE-MAN",
@@ -5793,7 +5804,7 @@
       "Name": "Squad goals",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_SUP-WIDDIT-BIG-DOG",
@@ -5801,7 +5812,7 @@
       "Name": "Sup widdit big dog!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_TANK-COMMANDER",
@@ -5913,22 +5924,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3041,
+      "Progressed": 3042,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-10-26T19:58:54.7903025+00:00",
-  "LastChanged_Achievements": "2023-10-28T11:08:38.3423779+00:00",
+  "LastChanged": "2023-10-28T11:59:35.0868703+00:00",
+  "LastChanged_Achievements": "2023-10-28T12:08:16.4180082+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.22373+00:00",
-  "LastUpdate_Ratings": "2023-10-28T10:59:20.0936336+00:00",
-  "LastUpdate_Achievements": "2023-10-28T11:08:38.3424357+00:00"
+  "LastUpdate_Ratings": "2023-10-28T11:59:35.0868709+00:00",
+  "LastUpdate_Achievements": "2023-10-28T12:08:16.4180629+00:00"
 }
