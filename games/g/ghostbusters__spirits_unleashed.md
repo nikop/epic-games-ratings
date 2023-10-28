@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 578)  
+Rating: 4.50 (Ranked 579)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,18 +15,18 @@ Rating: 4.50 (Ranked 578)
 | Swift Rift Removers | 3.00% | ~841 |
 | Teamwork | 3.00% | ~841 |
 | Vaporous Expansion | 3.00% | ~841 |
-| Animated | 2.00% | ~560 |
-| Back Off | 2.00% | ~560 |
-| Clutch Capture | 2.00% | ~560 |
-| Cultured | 2.00% | ~560 |
-| Daily Dose | 2.00% | ~560 |
-| Ectoplasmic Entity | 2.00% | ~560 |
-| Ghostbuster In Training | 2.00% | ~560 |
-| Icing on the Cake | 2.00% | ~560 |
-| Right back at ya | 2.00% | ~560 |
-| Summoner | 2.00% | ~560 |
-| There you are! | 2.00% | ~560 |
-| Whoopsie | 2.00% | ~560 |
+| Animated | 2.00% | ~561 |
+| Back Off | 2.00% | ~561 |
+| Clutch Capture | 2.00% | ~561 |
+| Cultured | 2.00% | ~561 |
+| Daily Dose | 2.00% | ~561 |
+| Ectoplasmic Entity | 2.00% | ~561 |
+| Ghostbuster In Training | 2.00% | ~561 |
+| Icing on the Cake | 2.00% | ~561 |
+| Right back at ya | 2.00% | ~561 |
+| Summoner | 2.00% | ~561 |
+| There you are! | 2.00% | ~561 |
+| Whoopsie | 2.00% | ~561 |
 | We have the best insurance | 1.00% | ~280 |
 | Collector | 1.00% | ~280 |
 | Legions | 1.00% | ~280 |
@@ -40,8 +40,8 @@ Rating: 4.50 (Ranked 578)
 | Tobin's Prodigy | 1.00% | ~280 |
 | Welcome to the Crew | 1.00% | ~280 |
 | Escape Artist | 0.90% | ~252 |
+| Reckless | 0.90% | ~252 |
 | Diabolical | 0.80% | ~224 |
-| Reckless | 0.80% | ~224 |
 | Rivalry | 0.70% | ~196 |
 | Fragile Panes | 0.60% | ~168 |
 | Liability | 0.60% | ~168 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,024 (Ranked 122)  
+Progressed: 28,026 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,17 +248,17 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 28,024 | 65 |
+| 2023-10-28 | 28,026 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
-Sum: 2,579 (Ranked 181)  
+Sum: 2,580 (Ranked 181)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 288 |
 | This game is Great for Quick Sessions | 282 |
+| This game has Diverse Characters | 260 |
 | This game has Amazing Storytelling | 260 |
-| This game has Diverse Characters | 259 |
 | This game is Highly Recommended | 253 |
 | This game is Relaxing | 253 |
 | This game has Competitive Players | 253 |
@@ -464,4 +464,4 @@ Diff (max vs sum): 67
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
 | 2023-10-27 | 4.50 | 288 | 2,572 |
-| 2023-10-28 | 4.50 | 288 | 2,579 |
+| 2023-10-28 | 4.50 | 288 | 2,580 |

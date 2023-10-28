@@ -93,9 +93,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytaleach12",
@@ -141,9 +141,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytaleach6",
@@ -187,8 +187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:09:12.4659193+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:10:43.1630782+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:00:41.1926749+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:09:12.4659284+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:01:52.8376298+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:10:43.1630863+00:00"
 }

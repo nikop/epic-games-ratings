@@ -14312,9 +14312,9 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894205,
+  "EOS_Progressed": 894215,
   "EOS_Completed": 2722,
-  "EOS_NewPlayers": 1186,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35967,6 +35967,11 @@
       "Time": "2023-10-28T12:03:49.5057414+00:00",
       "NumProgressed": 894205,
       "NumCompleted": 2722
+    },
+    {
+      "Time": "2023-10-28T13:05:14.1233989+00:00",
+      "NumProgressed": 894215,
+      "NumCompleted": 2722
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36051,7 +36056,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6260
     },
     {
       "ID": "Gunslinger",
@@ -36483,7 +36488,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "TheTower",
@@ -36498,21 +36503,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894205,
+      "Progressed": 894215,
       "Completed": 2722
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22828,
+      "Progressed": 22838,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T12:02:13.3274067+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:03:49.5057409+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:05:14.1233985+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
   "LastUpdate_Ratings": "2023-10-28T12:02:13.3274073+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:03:49.5058855+00:00"
+  "LastUpdate_Achievements": "2023-10-28T13:05:14.1235396+00:00"
 }

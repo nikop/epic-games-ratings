@@ -7,8 +7,8 @@
 | Clean Conscience | 34.00% | ~88 |
 | So it goes | 33.00% | ~85 |
 | A New Broom Sweeps Clean | 17.00% | ~44 |
+| Small-time Finder | 16.00% | ~41 |
 | Off to a Good Start | 15.00% | ~39 |
-| Small-time Finder | 15.00% | ~39 |
 | Business as usual | 12.00% | ~31 |
 | Mr. Hygeni | 10.00% | ~26 |
 | Pride and Joy | 8.00% | ~21 |

@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 423)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 1.00% | ~144 |
+| Oyedang, Kopengs | 2.00% | ~288 |
 | Drug Gifter | 0.70% | ~101 |
 | Bosmang | 0.50% | ~72 |
 | The Pit and the Pirates | 0.40% | ~58 |

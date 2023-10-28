@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 874,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2479,6 +2479,11 @@
       "Time": "2023-10-28T12:08:59.3385859+00:00",
       "NumProgressed": 873,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T13:10:31.822196+00:00",
+      "NumProgressed": 874,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2633,9 +2638,9 @@
       "ID": "achievement_26",
       "SetID": "271ol84",
       "Name": "Together we can rule the galaxy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_27",
@@ -2715,7 +2720,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "achievement_36",
@@ -2763,7 +2768,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_41",
@@ -2994,13 +2999,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 874,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 873,
+      "Progressed": 874,
       "Completed": 1
     }
   ],
@@ -3008,8 +3013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:08:59.3385854+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:10:31.8221956+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:29.5605268+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:58:00.6060297+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:08:59.3386496+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:59:31.2026347+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:10:31.8222638+00:00"
 }

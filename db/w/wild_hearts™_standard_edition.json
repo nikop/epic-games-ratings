@@ -1224,9 +1224,9 @@
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_5",
@@ -1278,8 +1278,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:03:31.4333489+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:04:57.9773379+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:07.9980076+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:01:53.6932756+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:03:31.4333904+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:03:01.9455722+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:04:57.9773795+00:00"
 }

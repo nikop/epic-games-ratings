@@ -32,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 2.00% | ~300 |
 | Strong Cities | 2.00% | ~300 |
 | Able Difficulty | 2.00% | ~300 |
-| Furious Family | 2.00% | ~300 |
 | Great Ziggurat | 2.00% | ~300 |
 | Hanging Gardens | 2.00% | ~300 |
 | Ishtar Gate | 2.00% | ~300 |
@@ -66,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 1.00% | ~150 |
 | Champions | 1.00% | ~150 |
 | Sages | 1.00% | ~150 |
+| Furious Family | 1.00% | ~150 |
 | Acropolis | 1.00% | ~150 |
 | Apadana | 1.00% | ~150 |
 | Colossus | 1.00% | ~150 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
+| Landowners | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
 | Traders | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~120 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
-| Landowners | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Church of the Holy Sepulchre | 0.70% | ~105 |
 | Pantheon | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,000 (Ranked 142)  
+Progressed: 15,002 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 297)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,000 | 5 |
+| 2023-10-28 | 15,002 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 267)  
 Sum: 1,854 (Ranked 211)  

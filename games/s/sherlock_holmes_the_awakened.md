@@ -12,21 +12,21 @@ Rating: 4.64 (Ranked 326)
 | Fond Memories | 54.00% | ~406 |
 | A Method To His Madness | 53.00% | ~399 |
 | History Check | 52.00% | ~391 |
+| Gaze Into The Abyss | 48.00% | ~361 |
 | The New World | 48.00% | ~361 |
 | Lock, Stock, And Barrel | 47.00% | ~353 |
-| Gaze Into The Abyss | 47.00% | ~353 |
 | Open Sesame | 47.00% | ~353 |
 | Sticky Fingers | 47.00% | ~353 |
 | Knives Out | 47.00% | ~353 |
 | Land, Ho! | 47.00% | ~353 |
-| Back In The Saddle | 45.00% | ~338 |
+| Back In The Saddle | 46.00% | ~346 |
 | No Man Is An Island | 45.00% | ~338 |
 | At Wits' End | 45.00% | ~338 |
 | Fhtagn! | 43.00% | ~323 |
 | Bookworm | 42.00% | ~316 |
 | Up In Flames | 42.00% | ~316 |
 | Going Once... | 39.00% | ~293 |
-| Let Me Be Frank | 36.00% | ~271 |
+| Let Me Be Frank | 37.00% | ~278 |
 | Brain Food | 36.00% | ~271 |
 | No Stone Unturned | 35.00% | ~263 |
 | Read It And Weep | 22.00% | ~165 |

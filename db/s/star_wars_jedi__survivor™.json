@@ -4585,10 +4585,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 4625,
       "NumberOfAwardsMax": 3074
+    },
+    {
+      "Time": "2023-10-28T13:00:24.0194425+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 4632,
+      "NumberOfAwardsMax": 3074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4625,
+  "NumberOfAwards": 4632,
   "NumberOfAwardsMax": 3074,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4620,7 +4626,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 165
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4638,7 +4644,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 155
+      "Count": 157
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4653,9 +4659,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 6184,
+  "EOS_Progressed": 6185,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8858,6 +8864,11 @@
       "Time": "2023-10-28T12:06:20.1833705+00:00",
       "NumProgressed": 6184,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-10-28T13:07:27.6394654+00:00",
+      "NumProgressed": 6185,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -8870,7 +8881,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 6122
+      "UsersEstimate": 6123
     },
     {
       "ID": "achievement_a10",
@@ -8886,7 +8897,7 @@
       "Name": "At the Precipice",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     },
     {
       "ID": "achievement_a12",
@@ -8894,7 +8905,7 @@
       "Name": "Into the Abyss",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "achievement_a13",
@@ -8926,7 +8937,7 @@
       "Name": "You\u0027ve Got A Friend",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "achievement_a17",
@@ -8934,7 +8945,7 @@
       "Name": "Catch!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "achievement_a18",
@@ -8950,7 +8961,7 @@
       "Name": "This Is Canon",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "achievement_a2",
@@ -8958,7 +8969,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "achievement_a20",
@@ -9014,7 +9025,7 @@
       "Name": "Riposte",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "achievement_a27",
@@ -9046,7 +9057,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "achievement_a30",
@@ -9054,7 +9065,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "achievement_a31",
@@ -9062,7 +9073,7 @@
       "Name": "Cleaning Up",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3401
+      "UsersEstimate": 3402
     },
     {
       "ID": "achievement_a32",
@@ -9078,7 +9089,7 @@
       "Name": "Skywalker",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "achievement_a34",
@@ -9102,7 +9113,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 5442
+      "UsersEstimate": 5443
     },
     {
       "ID": "achievement_a37",
@@ -9118,7 +9129,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4638
+      "UsersEstimate": 4639
     },
     {
       "ID": "achievement_a39",
@@ -9222,7 +9233,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4947
+      "UsersEstimate": 4948
     },
     {
       "ID": "achievement_a50",
@@ -9262,7 +9273,7 @@
       "Name": "Among the Masters",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4886
     },
     {
       "ID": "achievement_a7",
@@ -9270,7 +9281,7 @@
       "Name": "For the Path",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "achievement_a8",
@@ -9278,7 +9289,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "achievement_a9",
@@ -9293,16 +9304,16 @@
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 6184,
+      "Progressed": 6185,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2023-10-28T10:58:49.7195504+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:06:20.1833701+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T11:57:13.7007678+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:59:01.7023706+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:06:20.1834305+00:00"
+  "LastChanged": "2023-10-28T13:00:24.0194424+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:07:27.6394649+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T12:58:39.6849006+00:00",
+  "LastUpdate_Ratings": "2023-10-28T13:00:24.0194429+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:07:27.6395273+00:00"
 }

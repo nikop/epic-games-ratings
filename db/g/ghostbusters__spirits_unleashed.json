@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 579,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 122,
@@ -2749,10 +2749,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2579,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-10-28T13:01:24.1518761+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2580,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2579,
+  "NumberOfAwards": 2580,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2796,7 +2802,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2829,9 +2835,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28024,
+  "EOS_Progressed": 28026,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1123,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16779,6 +16785,11 @@
       "Time": "2023-10-28T12:03:40.2634718+00:00",
       "NumProgressed": 28024,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-28T13:05:05.8217053+00:00",
+      "NumProgressed": 28026,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16798,7 +16809,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Back_Off",
@@ -16806,7 +16817,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Best_Insurance",
@@ -16830,7 +16841,7 @@
       "Name": "Clutch Capture",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Collect_Spores",
@@ -16854,7 +16865,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Daily_Dose",
@@ -16862,7 +16873,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Diabolical",
@@ -16894,7 +16905,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Efficient",
@@ -16934,7 +16945,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Ghost_Expert",
@@ -16950,7 +16961,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Legions",
@@ -17012,9 +17023,9 @@
       "ID": "Reckless",
       "SetID": "819popo",
       "Name": "Reckless",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 252
     },
     {
       "ID": "Rift_Destroyer",
@@ -17038,7 +17049,7 @@
       "Name": "Right back at ya",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Rivalry",
@@ -17102,7 +17113,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Surprise",
@@ -17150,7 +17161,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Tobins_Prodigy",
@@ -17190,23 +17201,23 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28024,
+      "Progressed": 28026,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-28T08:59:17.1135578+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:03:40.2634714+00:00",
+  "LastChanged": "2023-10-28T13:01:24.1518759+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:05:05.8217049+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:00:09.0143896+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:03:40.2635695+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:01:24.1518771+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:05:05.8218014+00:00"
 }

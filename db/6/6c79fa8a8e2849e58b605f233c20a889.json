@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2794,
+  "EOS_Progressed": 2795,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -6979,6 +6979,11 @@
       "Time": "2023-10-28T10:09:13.5059712+00:00",
       "NumProgressed": 2794,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T13:10:16.0145223+00:00",
+      "NumProgressed": 2795,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -6998,7 +7003,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "BOT_DESTROYER",
@@ -7014,7 +7019,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "CONQUEROR",
@@ -7022,7 +7027,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7094,7 +7099,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "GUARD_MAKER",
@@ -7165,14 +7170,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2794,
+      "Progressed": 2795,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:08:42.0160146+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:10:16.0145219+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.0297636+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:59:15.8314435+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:08:42.0160578+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:00:36.9446814+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:10:16.0145677+00:00"
 }

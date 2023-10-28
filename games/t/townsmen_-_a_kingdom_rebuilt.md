@@ -17,9 +17,9 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man II | 8.00% | ~345 |
 | A time consuming game I | 8.00% | ~345 |
 | Time for some trade | 8.00% | ~345 |
+| Bread for the people I | 7.00% | ~302 |
 | Completionist I | 7.00% | ~302 |
 | Full-time job I | 7.00% | ~302 |
-| Bread for the people I | 6.00% | ~259 |
 | I like to build stuff... II | 6.00% | ~259 |
 | Full-time job II | 6.00% | ~259 |
 | A time consuming game II | 6.00% | ~259 |

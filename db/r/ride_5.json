@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3792,6 +3792,11 @@
       "Time": "2023-10-28T12:09:17.3371185+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T13:10:47.9239935+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3836,7 +3841,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -3860,7 +3865,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -3876,7 +3881,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -3892,7 +3897,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -3908,7 +3913,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -3980,7 +3985,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4108,7 +4113,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4195,14 +4200,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:09:17.337118+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:10:47.9239931+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:57:12.6050171+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:09:17.3371688+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:58:49.0659273+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:10:47.9240459+00:00"
 }

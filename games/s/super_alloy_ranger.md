@@ -55,7 +55,7 @@
 | Bullets Fear Me | 1.00% | ~1 |
 | Super Alloy Ranger! | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 397)  
+Progressed: 105 (Ranked 398)  
 Completed: 1 (0.95%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |

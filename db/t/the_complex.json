@@ -904,9 +904,9 @@
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 90
     },
     {
       "ID": "falling_for_you",
@@ -993,8 +993,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:03:46.5368195+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:05:11.3362185+00:00",
   "LastUpdate_AppInfo": "2023-10-21T12:59:21.4066435+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:03:11.5439842+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:03:46.536836+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:04:41.3181964+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:05:11.3362319+00:00"
 }

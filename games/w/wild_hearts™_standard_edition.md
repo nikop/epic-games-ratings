@@ -44,9 +44,9 @@
 | Jack of All Trades | 24.00% | ~45 |
 | Quintessence of Form | 23.00% | ~43 |
 | Tender Touch | 22.00% | ~41 |
+| Haven Hunter | 22.00% | ~41 |
 | Volatile Vocation | 21.00% | ~39 |
 | Superlative View | 21.00% | ~39 |
-| Haven Hunter | 21.00% | ~39 |
 | Relentless Kemono Hunter | 17.00% | ~32 |
 | Vanquisher of the Volatile | 16.00% | ~30 |
 | Bewitched by Bathing | 14.00% | ~26 |

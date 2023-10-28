@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7130,
+  "EOS_Progressed": 7131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7850,6 +7850,11 @@
       "Time": "2023-10-28T12:06:48.3462609+00:00",
       "NumProgressed": 7130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T13:07:53.4018106+00:00",
+      "NumProgressed": 7131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7901,7 +7906,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "Control_All_Relics",
@@ -7925,7 +7930,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -7941,7 +7946,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "First_Major_Ally",
@@ -7965,7 +7970,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "First_Race_Met",
@@ -7997,7 +8002,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8181,7 +8186,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4278
+      "UsersEstimate": 4279
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8205,7 +8210,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "Win_As_Altarian",
@@ -8349,7 +8354,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4634
+      "UsersEstimate": 4635
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8436,15 +8441,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7130,
+      "Progressed": 7131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:06:48.3462604+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:07:53.4018101+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:17.9512647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T11:58:03.9409314+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:06:48.3463492+00:00"
+  "LastUpdate_Ratings": "2023-10-28T12:59:33.5917138+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:07:53.4018981+00:00"
 }

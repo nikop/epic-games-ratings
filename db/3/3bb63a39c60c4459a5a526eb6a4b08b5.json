@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3304,6 +3304,11 @@
       "Time": "2023-10-28T10:09:13.393398+00:00",
       "NumProgressed": 881,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T13:10:15.8100139+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3515,7 +3520,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "NoTimeForModernization",
@@ -3650,14 +3655,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-28T12:08:41.776608+00:00",
+  "LastChanged_Achievements": "2023-10-28T13:10:15.8100134+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-28T12:00:52.9028622+00:00",
-  "LastUpdate_Achievements": "2023-10-28T12:08:41.7766486+00:00"
+  "LastUpdate_Ratings": "2023-10-28T13:02:03.2865986+00:00",
+  "LastUpdate_Achievements": "2023-10-28T13:10:15.8100539+00:00"
 }

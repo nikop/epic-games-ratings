@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~91 |
+| Self-Defence | 87.00% | ~92 |
 | Tinkerer | 70.00% | ~74 |
-| Welcome to the Club | 38.00% | ~40 |
+| Welcome to the Club | 39.00% | ~41 |
 | Apprentice | 36.00% | ~38 |
-| A new World ahead | 30.00% | ~32 |
-| Can't touch this | 27.00% | ~28 |
+| A new World ahead | 29.00% | ~31 |
+| Can't touch this | 26.00% | ~28 |
 | Don't Cry Wolf | 24.00% | ~25 |
 | Expert | 18.00% | ~19 |
 | Freezing Cold | 17.00% | ~18 |
@@ -19,10 +19,10 @@
 | The Golden Flash | 12.00% | ~13 |
 | Locked and Loaded | 11.00% | ~12 |
 | Changing the World | 11.00% | ~12 |
-| Witch | 10.00% | ~10 |
-| The A-Team | 10.00% | ~10 |
-| Defeat Tezuth | 9.00% | ~9 |
+| Witch | 9.00% | ~10 |
+| The A-Team | 9.00% | ~10 |
 | Mirror, Mirror on the Wall | 8.00% | ~8 |
+| Defeat Tezuth | 8.00% | ~8 |
 | Defeat Uskol | 8.00% | ~8 |
 | Through Dangers Untold | 8.00% | ~8 |
 | Finally! | 8.00% | ~8 |
@@ -43,15 +43,15 @@
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
 | Knowledge is King | 2.00% | ~2 |
-| Explorer by Heart | 1.00% | ~1 |
-| Wasteland Connoisseur | 1.00% | ~1 |
-| Fashionista | 1.00% | ~1 |
-| Bookworm | 1.00% | ~1 |
-| Trailblazer | 1.00% | ~1 |
+| Explorer by Heart | 0.90% | ~1 |
+| Wasteland Connoisseur | 0.90% | ~1 |
+| Fashionista | 0.90% | ~1 |
+| Bookworm | 0.90% | ~1 |
+| Trailblazer | 0.90% | ~1 |
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 397)  
+Progressed: 106 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,6 +122,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 99 | 0 |
 | 2023-10-26 | 103 | 0 |
 | 2023-10-27 | 105 | 0 |
+| 2023-10-28 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -21,7 +21,9 @@ Rating: 4.57 (Ranked 463)
 | Fence | 40.00% | ~6 |
 | Sidelined | 40.00% | ~6 |
 | Beast slayer | 33.00% | ~5 |
+| Workaholic | 33.00% | ~5 |
 | The fourth triplet | 33.00% | ~5 |
+| Wise man | 27.00% | ~4 |
 | Family man | 27.00% | ~4 |
 | Death of a legend | 27.00% | ~4 |
 | Archaeologist | 27.00% | ~4 |
@@ -31,9 +33,8 @@ Rating: 4.57 (Ranked 463)
 | Pandora's box | 27.00% | ~4 |
 | Ogre friend | 27.00% | ~4 |
 | Hard worker | 27.00% | ~4 |
-| Workaholic | 27.00% | ~4 |
 | Moneybags | 27.00% | ~4 |
-| Wise man | 20.00% | ~3 |
+| Master detective | 27.00% | ~4 |
 | Ghost hunter | 20.00% | ~3 |
 | Showdown | 20.00% | ~3 |
 | Titan Lord | 20.00% | ~3 |
@@ -42,7 +43,6 @@ Rating: 4.57 (Ranked 463)
 | Safecracker | 20.00% | ~3 |
 | Master thief | 20.00% | ~3 |
 | King of the handymen | 20.00% | ~3 |
-| Master detective | 20.00% | ~3 |
 | The traveler | 13.00% | ~2 |
 | King Midas | 13.00% | ~2 |
 | Big game hunter | 7.00% | ~1 |
