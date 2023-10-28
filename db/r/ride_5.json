@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3807,6 +3807,11 @@
       "Time": "2023-10-28T15:10:04.4868563+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T17:10:16.3909732+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4129,9 +4134,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "c7hf6a4",
       "Name": "Rounding Off",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -4210,14 +4215,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:09:33.4730048+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:10:16.3909727+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:57:04.0180153+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:09:33.4730628+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:57:38.611352+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:10:16.3910288+00:00"
 }

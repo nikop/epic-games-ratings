@@ -1,29 +1,29 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 119)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 25.00% | ~2,966 |
-| A Spark | 18.00% | ~2,136 |
-| Burning City | 17.00% | ~2,017 |
-| Defender's Heart | 15.00% | ~1,780 |
-| Mythic Choices | 14.00% | ~1,661 |
+| Devoured by Darkness | 25.00% | ~2,968 |
+| A Spark | 18.00% | ~2,137 |
+| Burning City | 17.00% | ~2,018 |
+| Defender's Heart | 15.00% | ~1,781 |
+| Mythic Choices | 14.00% | ~1,662 |
 | Banner over the Citadel | 13.00% | ~1,543 |
-| Queen's Gratitude | 12.00% | ~1,424 |
-| Fifth Crusade | 8.00% | ~949 |
+| Queen's Gratitude | 12.00% | ~1,425 |
+| Fifth Crusade | 8.00% | ~950 |
 | Embrace of the Abyss | 6.00% | ~712 |
 | Path of the Angel | 6.00% | ~712 |
 | Demonic and Divine | 6.00% | ~712 |
-| Path of the Azata | 5.00% | ~593 |
-| Transformation | 5.00% | ~593 |
-| The Legacy | 5.00% | ~593 |
-| Great Upstart | 5.00% | ~593 |
-| Voice from Your Dreams | 5.00% | ~593 |
-| All Paths Open | 5.00% | ~593 |
-| Next-Door Play | 5.00% | ~593 |
+| Path of the Azata | 5.00% | ~594 |
+| Transformation | 5.00% | ~594 |
+| The Legacy | 5.00% | ~594 |
+| Great Upstart | 5.00% | ~594 |
+| Voice from Your Dreams | 5.00% | ~594 |
+| All Paths Open | 5.00% | ~594 |
+| Next-Door Play | 5.00% | ~594 |
 | Heart of the Fallen Land | 4.00% | ~475 |
 | Divide and Rule | 4.00% | ~475 |
 | Mythic Reinforcements | 4.00% | ~475 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~356 |
 | Core of the Riddle | 3.00% | ~356 |
 | Hey, I Know You! | 3.00% | ~356 |
-| The Lady of the Forest | 3.00% | ~319 |
-| Beware Still Water | 3.00% | ~319 |
+| The Lady of the Forest | 3.00% | ~320 |
+| Beware Still Water | 3.00% | ~320 |
 | Path of the Demon | 2.00% | ~237 |
 | Path of the Aeon | 2.00% | ~237 |
 | Path of the Lich | 2.00% | ~237 |
@@ -48,8 +48,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 1.00% | ~119 |
 | Strategic Victory | 1.00% | ~119 |
 | Abyssal Conspiracy | 1.00% | ~119 |
-| This Wall Won't Fall | 1.00% | ~106 |
-| Not the Last Sarkorian | 1.00% | ~106 |
+| This Wall Won't Fall | 1.00% | ~107 |
+| Not the Last Sarkorian | 1.00% | ~107 |
 | Path of the Dragon | 0.90% | ~107 |
 | End of Eternal Guard | 0.90% | ~107 |
 | Truly Profane Gift | 0.90% | ~107 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,866 (Ranked 149)  
+Progressed: 11,872 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 11,793 | 0 |
 | 2023-10-26 | 11,816 | 0 |
 | 2023-10-27 | 11,841 | 0 |
-| 2023-10-28 | 11,866 | 0 |
+| 2023-10-28 | 11,872 | 0 |
 ## Awards
 Max (Character Customization): 1,730  (Ranked 120)  
 Sum: 7,007 (Ranked 119)  

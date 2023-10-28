@@ -21,9 +21,9 @@
 | An act of courage | 11.00% | ~6 |
 | Lost | 11.00% | ~6 |
 | Jigsaw | 9.00% | ~5 |
+| Peace | 9.00% | ~5 |
 | Art critic | 7.00% | ~4 |
 | Awaiting orders | 7.00% | ~4 |
-| Peace | 7.00% | ~4 |
 | An act of compassion | 5.00% | ~3 |
 | An act of mercy | 5.00% | ~3 |
 | Ad Infinitum | 4.00% | ~2 |

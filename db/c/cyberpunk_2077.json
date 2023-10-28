@@ -14318,9 +14318,9 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894248,
+  "EOS_Progressed": 894258,
   "EOS_Completed": 2723,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -35993,6 +35993,11 @@
       "Time": "2023-10-28T16:03:52.8217978+00:00",
       "NumProgressed": 894248,
       "NumCompleted": 2723
+    },
+    {
+      "Time": "2023-10-28T17:04:38.765804+00:00",
+      "NumProgressed": 894258,
+      "NumCompleted": 2723
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36005,7 +36010,7 @@
       "Name": "City Lights",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "BornToBeWild",
@@ -36029,7 +36034,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "Denied",
@@ -36053,7 +36058,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "Gearhead",
@@ -36181,7 +36186,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "Specialist",
@@ -36205,7 +36210,7 @@
       "Name": "Rough Landing",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "TheDevil",
@@ -36213,7 +36218,7 @@
       "Name": "The Devil",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "TheFool",
@@ -36237,7 +36242,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "TheLovers",
@@ -36253,7 +36258,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "TheSun",
@@ -36261,7 +36266,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "TheWheelOfFortune",
@@ -36301,7 +36306,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "TrueWarrior",
@@ -36341,7 +36346,7 @@
       "Name": "It\u0027s Elementary",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "YouKnowWhoIAm",
@@ -36405,7 +36410,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Kingofcups",
@@ -36443,9 +36448,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 114
     },
     {
       "ID": "UltimateSurvivor",
@@ -36524,21 +36529,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894248,
+      "Progressed": 894258,
       "Completed": 2723
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22871,
+      "Progressed": 22881,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-28T15:56:58.2613033+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:03:52.8217973+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:04:38.7658036+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:56:58.2613041+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:03:52.8219765+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:57:33.1740735+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:04:38.7660875+00:00"
 }

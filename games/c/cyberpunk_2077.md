@@ -9,11 +9,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 2.00% | ~17,885 |
 | Gun Fu | 0.80% | ~7,154 |
 | Ten out of Ten | 0.80% | ~7,154 |
-| Full Body Conversion | 0.60% | ~5,365 |
-| Stanislavski's Method | 0.60% | ~5,365 |
-| Rough Landing | 0.60% | ~5,365 |
-| The High Priestess | 0.60% | ~5,365 |
-| True Soldier | 0.60% | ~5,365 |
+| Full Body Conversion | 0.60% | ~5,366 |
+| Stanislavski's Method | 0.60% | ~5,366 |
+| Rough Landing | 0.60% | ~5,366 |
+| The High Priestess | 0.60% | ~5,366 |
+| True Soldier | 0.60% | ~5,366 |
 | All the President's Men | 0.60% | ~137 |
 | Arachnophobia | 0.60% | ~137 |
 | Right Back At Ya | 0.50% | ~4,471 |
@@ -22,6 +22,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.50% | ~4,471 |
 | Two Heads, One Bullet | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
+| Relic Ruler | 0.50% | ~114 |
 | Bushido and Chill | 0.40% | ~3,577 |
 | Gunslinger | 0.40% | ~3,577 |
 | Breathtaking | 0.40% | ~3,577 |
@@ -31,8 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.40% | ~3,577 |
 | True Warrior | 0.40% | ~3,577 |
 | Judy vs Night City | 0.40% | ~3,577 |
-| Spin Doctor | 0.40% | ~91 |
-| Relic Ruler | 0.40% | ~91 |
+| Spin Doctor | 0.40% | ~92 |
 | To Bad Decisions! | 0.30% | ~2,683 |
 | To Protect and Serve | 0.30% | ~2,683 |
 | Master Crafter | 0.30% | ~2,683 |
@@ -42,12 +42,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.30% | ~2,683 |
 | The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~69 |
-| City Lights | 0.20% | ~1,788 |
-| The Wandering Fool | 0.20% | ~1,788 |
-| The Devil | 0.20% | ~1,788 |
-| The Star | 0.20% | ~1,788 |
-| The Sun | 0.20% | ~1,788 |
-| It's Elementary | 0.20% | ~1,788 |
+| City Lights | 0.20% | ~1,789 |
+| The Wandering Fool | 0.20% | ~1,789 |
+| The Devil | 0.20% | ~1,789 |
+| The Star | 0.20% | ~1,789 |
+| The Sun | 0.20% | ~1,789 |
+| It's Elementary | 0.20% | ~1,789 |
 | Judgement Day | 0.20% | ~46 |
 | King of Pentacles | 0.20% | ~46 |
 | King of Swords | 0.20% | ~46 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,248 (Ranked 15)  
+Progressed: 894,258 (Ranked 15)  
 Completed: 2,723 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,723 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,248 | 2,723 |
+| 2023-10-28 | 894,258 | 2,723 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 331,348 (Ranked 10)  

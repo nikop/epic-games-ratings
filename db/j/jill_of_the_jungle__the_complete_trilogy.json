@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1903,
+  "EOS_Progressed": 1904,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
@@ -6797,6 +6797,11 @@
       "Time": "2023-10-28T10:06:06.4971154+00:00",
       "NumProgressed": 1903,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-10-28T17:06:53.7839814+00:00",
+      "NumProgressed": 1904,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 5,
@@ -6808,7 +6813,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "2",
@@ -6847,7 +6852,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1903,
+      "Progressed": 1904,
       "Completed": 147
     }
   ],
@@ -6855,8 +6860,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:06:21.0301756+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:06:53.783981+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:33.4854091+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:03:14.0524922+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:06:21.0302243+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:04:02.6877163+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:06:53.7840328+00:00"
 }

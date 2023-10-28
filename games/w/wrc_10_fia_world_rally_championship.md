@@ -5,8 +5,8 @@ Rating: 4.49 (Ranked 599)
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
 Max (Realistic Visuals): 38  (Ranked 453)  
-Sum: 294 (Ranked 358)  
-Diff (max vs sum): 95  
+Sum: 294 (Ranked 357)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 38 |

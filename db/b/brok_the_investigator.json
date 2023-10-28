@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -361,8 +361,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:04:35.8830708+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:05:18.210828+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:56.7420319+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:58:34.6055727+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:04:35.8830947+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:59:04.4042939+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:18.2108476+00:00"
 }

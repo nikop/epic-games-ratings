@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -193,10 +193,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14418,
-  "EOS_Completed": 27,
+  "EOS_Progressed": 14420,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 232,
-  "EOS_NewCompleters": 0,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -9803,6 +9803,11 @@
       "Time": "2023-10-28T16:03:42.6183772+00:00",
       "NumProgressed": 14418,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-28T17:04:29.415836+00:00",
+      "NumProgressed": 14420,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9957,9 +9962,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "27",
@@ -10094,13 +10099,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14418,
-      "Completed": 27
+      "Progressed": 14420,
+      "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 372,
+      "Progressed": 374,
       "Completed": 286
     }
   ],
@@ -10108,8 +10113,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:03:42.6183766+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:04:29.4158357+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:13.647641+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:57:22.4131248+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:03:42.6184583+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:57:59.5169866+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:04:29.4159252+00:00"
 }

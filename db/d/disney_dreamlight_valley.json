@@ -2,13 +2,13 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4303,10 +4303,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7787,
       "NumberOfAwardsMax": 1035
+    },
+    {
+      "Time": "2023-10-28T16:59:06.6265583+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7788,
+      "NumberOfAwardsMax": 1035
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7787,
+  "NumberOfAwards": 7788,
   "NumberOfAwardsMax": 1035,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4332,7 +4338,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 815
+      "Count": 816
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4377,9 +4383,9 @@
       "Count": 519
     }
   ],
-  "EOS_Progressed": 11131,
+  "EOS_Progressed": 11132,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -17102,6 +17108,11 @@
       "Time": "2023-10-28T16:07:10.954971+00:00",
       "NumProgressed": 11131,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-28T17:07:39.2701959+00:00",
+      "NumProgressed": 11132,
+      "NumCompleted": 265
     }
   ],
   "TotalAchievements": 15,
@@ -17153,7 +17164,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 5788
+      "UsersEstimate": 5789
     },
     {
       "ID": "Duty_Bound",
@@ -17201,7 +17212,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7680
+      "UsersEstimate": 7681
     },
     {
       "ID": "Renovator",
@@ -17225,23 +17236,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 6901
+      "UsersEstimate": 6902
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11131,
+      "Progressed": 11132,
       "Completed": 265
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-10-28T02:11:32.4603177+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:07:10.9549705+00:00",
+  "LastChanged": "2023-10-28T16:59:06.6265582+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:07:39.2701957+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:42.1557088+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:58:38.0840495+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:07:10.9550479+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:59:06.6265588+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:07:39.2703676+00:00"
 }

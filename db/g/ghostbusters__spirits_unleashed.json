@@ -6,7 +6,7 @@
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
@@ -2841,9 +2841,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28043,
+  "EOS_Progressed": 28050,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1109,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16811,6 +16811,11 @@
       "Time": "2023-10-28T16:03:43.1054379+00:00",
       "NumProgressed": 28043,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-28T17:04:29.8759448+00:00",
+      "NumProgressed": 28050,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16870,7 +16875,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Collector",
@@ -16910,7 +16915,7 @@
       "Name": "Discovery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Dont_Need_These",
@@ -16958,7 +16963,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "GB_In_Training",
@@ -17110,7 +17115,7 @@
       "Name": "Solo Capture",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Stunner",
@@ -17150,7 +17155,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Teamwork",
@@ -17158,7 +17163,7 @@
       "Name": "Teamwork",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Terrifying",
@@ -17206,7 +17211,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "Welcome_Crew",
@@ -17229,7 +17234,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28043,
+      "Progressed": 28050,
       "Completed": 65
     }
   ],
@@ -17237,8 +17242,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-28T15:00:25.0175232+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:03:43.1054374+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T15:57:13.75388+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:00:16.4102499+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:03:43.1055627+00:00"
+  "LastChanged_Achievements": "2023-10-28T17:04:29.8759441+00:00",
+  "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
+  "LastUpdate_Ratings": "2023-10-28T17:00:36.5547929+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:04:29.8760783+00:00"
 }

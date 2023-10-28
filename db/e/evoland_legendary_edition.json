@@ -4,11 +4,11 @@
   "ProductSlug": "evoland-legendary-edition-5753ec",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
     "PcReleaseDate": "2019-02-07T08:00:00+00:00",
@@ -135,7 +135,7 @@
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
   "LastChanged": "2023-10-21T23:02:19.5593056+00:00",
-  "LastUpdate_AppInfo": "2023-10-21T15:57:14.8021257+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:03:12.0435276+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:03:47.1810334+00:00"
+  "LastUpdate_AppInfo": "2023-10-28T16:57:30.3120134+00:00",
+  "LastUpdate_Ratings": "2023-10-28T17:04:00.7710759+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:04:33.5580402+00:00"
 }

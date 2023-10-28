@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -366,7 +366,7 @@
   ],
   "EOS_Progressed": 1953,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2835,9 +2835,9 @@
       "ID": "ACH_THATS_ALL_FOLKS",
       "SetID": "8j30i9k",
       "Name": "That\u2019s All, Folks",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2955,8 +2955,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:04:56.247223+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:05:36.6213078+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:46.6540044+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:58:36.1276767+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:04:56.2472758+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:59:05.3510967+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:36.621375+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
-  "Ranking_Rating": 120,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
     "PcReleaseDate": "2016-01-19T16:00:00+00:00",
@@ -5085,10 +5085,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9157,
       "NumberOfAwardsMax": 3369
+    },
+    {
+      "Time": "2023-10-28T16:59:54.2488212+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9159,
+      "NumberOfAwardsMax": 3369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9157,
+  "NumberOfAwards": 9159,
   "NumberOfAwardsMax": 3369,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5102,7 +5108,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 632
+      "Count": 633
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5144,7 +5150,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 675
+      "Count": 676
     },
     {
       "Text": "This game has a Creative Community",
@@ -5170,8 +5176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2023-10-27T03:58:34.7107895+00:00",
+  "LastChanged": "2023-10-28T16:59:54.2488211+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:24.6154035+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:59:30.2066064+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:09:15.2834769+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:59:54.2488217+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:09:59.8980427+00:00"
 }

@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
+| Ishtar Gate in Babylon | 0.50% | ~75 |
 | Devout | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Clerics | 0.50% | ~75 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Bad Heir Day | 0.40% | ~60 |
-| Ishtar Gate in Babylon | 0.40% | ~60 |
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,005 (Ranked 142)  
+Progressed: 15,007 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 297)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,005 | 5 |
+| 2023-10-28 | 15,007 | 5 |
 ## Awards
 Max (Relaxing): 224  (Ranked 268)  
 Sum: 1,854 (Ranked 211)  

@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -30,10 +30,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3342,
-  "EOS_Completed": 150,
-  "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.49,
+  "EOS_Completed": 151,
+  "EOS_NewPlayers": 15,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 4.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -5344,6 +5344,11 @@
       "Time": "2023-10-28T11:05:27.330151+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-10-28T17:06:24.0276264+00:00",
+      "NumProgressed": 3342,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 5,
@@ -5385,9 +5390,9 @@
       "ID": "5",
       "SetID": "dm385hd",
       "Name": "Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 134
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
@@ -5395,15 +5400,15 @@
       "ID": "dm385hd",
       "IsBase": true,
       "Progressed": 3342,
-      "Completed": 150
+      "Completed": 151
     }
   ],
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:05:48.2949084+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:06:24.0276259+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:17.3233479+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:56:58.4712373+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:05:48.2949461+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:57:33.4519475+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:06:24.0276711+00:00"
 }

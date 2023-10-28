@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 372,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1353,9 +1353,9 @@
       "ID": "Vanilla_Vorax",
       "SetID": "27kik8p",
       "Name": "Voracity Confronted",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_Wealth",
@@ -1386,8 +1386,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:04:41.6973054+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:05:23.4861978+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:19.7195085+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:02:37.2869753+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:04:41.6974218+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:03:50.2767558+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:23.4862951+00:00"
 }

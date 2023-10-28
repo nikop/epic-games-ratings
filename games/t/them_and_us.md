@@ -8,7 +8,7 @@
 | Forced to Kill | 67.00% | ~193 |
 | A Night To Remember | 37.00% | ~107 |
 | Safe...For now? | 32.00% | ~92 |
-| Open Sesame | 26.00% | ~75 |
+| Open Sesame | 27.00% | ~78 |
 | What have I done!? | 16.00% | ~46 |
 | Them and Us | 15.00% | ~43 |
 | OUTRAGE | 15.00% | ~43 |

@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 28)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 16.00% | ~669 |
-| Start with a bang! | 15.00% | ~628 |
+| Start with a bang! | 16.00% | ~670 |
+| Feeling the beat! | 16.00% | ~670 |
 | You can pet the cat! | 15.00% | ~628 |
 | Who put gears in there? | 14.00% | ~586 |
 | Cream of the Crop | 13.00% | ~544 |
@@ -14,10 +14,10 @@ Rating: 4.86 (Ranked 28)
 | You got this, Peppermint? | 12.00% | ~502 |
 | Perfect Parry | 12.00% | ~502 |
 | Alright, that felt AWESOME! | 11.00% | ~460 |
-| This will cost you big time | 10.00% | ~418 |
-| I play my own way! | 10.00% | ~418 |
-| Z-shielding's got nothing on us! | 10.00% | ~418 |
-| Uh, they were broken when I got here | 10.00% | ~418 |
+| This will cost you big time | 10.00% | ~419 |
+| I play my own way! | 10.00% | ~419 |
+| Z-shielding's got nothing on us! | 10.00% | ~419 |
+| Uh, they were broken when I got here | 10.00% | ~419 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~377 |
 | Kissing the sky! | 9.00% | ~377 |
 | I look cool. But I can look COOLER. | 9.00% | ~377 |
@@ -27,7 +27,7 @@ Rating: 4.86 (Ranked 28)
 | You must like calling me in, Chai | 8.00% | ~335 |
 | Out in a puff of smoke | 8.00% | ~335 |
 | Does that say weakpoint? | 8.00% | ~335 |
-| NOW we got a kickass hideout! | 8.00% | ~216 |
+| NOW we got a kickass hideout! | 8.00% | ~217 |
 | Who's the boss now? | 7.00% | ~293 |
 | Perfecter Parry-er! | 7.00% | ~293 |
 | I have to read these things? | 6.00% | ~251 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,184 (Ranked 185)  
+Progressed: 4,186 (Ranked 186)  
 Completed: 8 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 8 (0.19%) (Ranked 236)
 | 2023-10-25 | 4,169 | 8 |
 | 2023-10-26 | 4,175 | 8 |
 | 2023-10-27 | 4,178 | 8 |
-| 2023-10-28 | 4,184 | 8 |
+| 2023-10-28 | 4,186 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

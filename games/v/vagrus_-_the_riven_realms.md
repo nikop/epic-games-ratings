@@ -50,6 +50,7 @@
 | A Real Battle | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
+| Voracity Confronted | 2.00% | ~3 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -59,7 +60,6 @@
 | Ruiner | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
-| Voracity Confronted | 1.00% | ~2 |
 | General | 0.60% | ~1 |
 | Ever After | 0.60% | ~1 |
 | Conqueror | 0.60% | ~1 |

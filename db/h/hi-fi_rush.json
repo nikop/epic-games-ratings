@@ -5,10 +5,10 @@
   "Ranking_Rating": 28,
   "Ranking_Popularity": 541,
   "Ranking_PopularitySum": 541,
-  "Ranking_EOS_Progress": 185,
+  "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4184,
+  "EOS_Progressed": 4186,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7169,6 +7169,11 @@
       "Time": "2023-10-28T09:04:24.9071274+00:00",
       "NumProgressed": 4184,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T17:05:49.8391813+00:00",
+      "NumProgressed": 4186,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7178,9 +7183,9 @@
       "ID": "Ach001",
       "SetID": "12n4k20",
       "Name": "Start with a bang!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 670
     },
     {
       "ID": "Ach002",
@@ -7196,7 +7201,7 @@
       "Name": "This will cost you big time",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Ach004",
@@ -7308,7 +7313,7 @@
       "Name": "I play my own way!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Ach018",
@@ -7356,7 +7361,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "Ach024",
@@ -7388,7 +7393,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Ach028",
@@ -7436,7 +7441,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Ach034",
@@ -7668,7 +7673,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Ach063",
@@ -7747,13 +7752,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4184,
+      "Progressed": 4186,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2705,
+      "Progressed": 2707,
       "Completed": 1930
     }
   ],
@@ -7761,8 +7766,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:05:10.3758786+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:05:49.8391809+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:58:31.4537597+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:05:10.3759887+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:59:00.859572+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:49.8393029+00:00"
 }

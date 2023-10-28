@@ -4,11 +4,11 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 823,
   "Ranking_Popularity": 434,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-27T15:00:00+00:00",
     "PcReleaseDate": "2020-02-27T15:00:00+00:00",
@@ -721,10 +721,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 298,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-10-28T17:01:44.9820338+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 266,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 298,
+  "NumberOfAwards": 266,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -750,7 +756,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Challenging Combat",
@@ -768,7 +774,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -780,7 +786,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -794,8 +800,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2023-09-10T13:03:29.0422533+00:00",
+  "LastChanged": "2023-10-28T17:01:44.9820336+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.2927785+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:01:29.6498713+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:08:37.2451198+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:01:44.9820346+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:09:25.4614922+00:00"
 }

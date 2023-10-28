@@ -4,8 +4,8 @@
   "ProductSlug": "overdrift-festival-eb501d",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-20T06:00:00+00:00",
     "PcReleaseDate": "2022-12-22T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.1704761+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:01:47.7327592+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:09:06.3288183+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:02:03.0322775+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:09:51.828747+00:00"
 }

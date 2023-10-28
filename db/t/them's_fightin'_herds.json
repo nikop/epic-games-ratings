@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231583,
+  "EOS_Progressed": 231584,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19931,6 +19931,11 @@
       "Time": "2023-10-28T16:05:14.8335142+00:00",
       "NumProgressed": 231583,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-28T17:05:53.6710988+00:00",
+      "NumProgressed": 231584,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20086,7 +20091,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78738
+      "UsersEstimate": 78739
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -20110,7 +20115,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -20165,7 +20170,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231583,
+      "Progressed": 231584,
       "Completed": 5
     }
   ],
@@ -20173,8 +20178,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:05:14.8335137+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:05:53.6710984+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:47.6084361+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:01:28.9780962+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:05:14.8336445+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:01:44.5151126+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:53.6712321+00:00"
 }

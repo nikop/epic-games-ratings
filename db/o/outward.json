@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 495,
   "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3624,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5377,6 +5377,11 @@
       "Time": "2023-10-27T14:07:51.5518941+00:00",
       "NumProgressed": 3623,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-28T17:08:49.9112493+00:00",
+      "NumProgressed": 3624,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5428,7 +5433,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "CrowdPleaser",
@@ -5460,7 +5465,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ForAllAurai_8",
@@ -5492,7 +5497,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "HouseofCards_19",
@@ -5572,7 +5577,7 @@
       "Name": "Ready for Summer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ReadyforWinter_42",
@@ -5580,7 +5585,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5708,7 +5713,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2753
+      "UsersEstimate": 2754
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5723,15 +5728,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3624,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:07:57.6247622+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:08:49.911249+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:10.6172621+00:00",
-  "LastUpdate_Ratings": "2023-10-28T15:57:09.3687526+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:07:57.6248164+00:00"
+  "LastUpdate_Ratings": "2023-10-28T16:57:45.8655382+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:08:49.9113084+00:00"
 }

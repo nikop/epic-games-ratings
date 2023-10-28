@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 860,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-10-28T16:03:40.3840735+00:00",
       "NumProgressed": 858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T17:04:27.3228557+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -919,7 +924,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -951,7 +956,7 @@
       "Name": "Team Builder",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -967,7 +972,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 611
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -975,7 +980,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -983,7 +988,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -999,7 +1004,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1031,7 +1036,7 @@
       "Name": "Hoarder",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1126,14 +1131,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 860,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T16:03:40.384073+00:00",
+  "LastChanged_Achievements": "2023-10-28T17:04:27.3228553+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:01:47.4424055+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:03:40.3841062+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:02:02.762148+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:04:27.3228814+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "skull-and-bones--premium-edition",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-03-09T23:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-21T16:57:41.235117+00:00",
-  "LastUpdate_Ratings": "2023-10-28T16:01:13.3892107+00:00",
-  "LastUpdate_Achievements": "2023-10-28T16:04:55.9510046+00:00"
+  "LastUpdate_Ratings": "2023-10-28T17:01:31.5620624+00:00",
+  "LastUpdate_Achievements": "2023-10-28T17:05:36.304219+00:00"
 }
