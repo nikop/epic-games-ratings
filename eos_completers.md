@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.67% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.17% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 42.15% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.43% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -26,12 +26,12 @@
 | 24 | [Remains](games/r/remains.md) | 13.21% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 26 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
-| 27 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 11.76% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
-| 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
-| 30 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 30 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
-| 30 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 11.11% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
+| 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
+| 29 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 29 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
+| 29 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 11.11% |
+| 29 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 11.11% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
 | 34 | [Anna's Quest](games/a/anna's_quest.md) | 10.71% |
 | 35 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.47% |
@@ -46,9 +46,9 @@
 | 44 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
 | 45 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.11% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.78% |
-| 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
-| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
+| 47 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
+| 48 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 48 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 50 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.59% |
 | 52 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.41% |
@@ -72,12 +72,12 @@
 | 70 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 71 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.67% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 73 | [ZZT!](games/z/zzt!.md) | 4.46% |
+| 73 | [ZZT!](games/z/zzt!.md) | 4.49% |
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
 | 75 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.32% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.33% |
 | 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
-| 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
+| 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -164,7 +164,7 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.76% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.73% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.72% |
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.68% |
 | 168 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
@@ -192,12 +192,12 @@
 | 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.48% |
 | 191 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 191 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.47% |
+| 193 | [It Takes Two](games/i/it_takes_two.md) | 0.46% |
 | 193 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.46% |
 | 193 | [Tails of Iron](games/t/tails_of_iron.md) | 0.46% |
-| 195 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
-| 195 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
-| 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
-| 195 | [Tchia](games/t/tchia.md) | 0.45% |
+| 196 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
+| 196 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
+| 196 | [Tchia](games/t/tchia.md) | 0.45% |
 | 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
 | 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 201 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
