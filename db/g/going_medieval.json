@@ -1361,9 +1361,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6378,
+  "EOS_Progressed": 6379,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11571,6 +11571,11 @@
       "Time": "2023-10-28T17:05:00.2356026+00:00",
       "NumProgressed": 6378,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-28T20:03:49.7838641+00:00",
+      "NumProgressed": 6379,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11614,7 +11619,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -11630,7 +11635,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -11638,7 +11643,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "HUNT_DEER_20",
@@ -11702,7 +11707,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -11742,7 +11747,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4402
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11774,7 +11779,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -11790,7 +11795,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -11798,7 +11803,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11814,7 +11819,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11829,15 +11834,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6378,
+      "Progressed": 6379,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-26T04:58:03.0442071+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:04:29.2588005+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:03:49.7838637+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.7294804+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:58:56.7490605+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:04:29.258963+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:58:31.3023904+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:03:49.7839472+00:00"
 }

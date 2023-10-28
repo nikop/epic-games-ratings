@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,886 |
+| V for Vendetta | 3.00% | ~26,829 |
 | Gun Fu | 0.80% | ~7,154 |
 | Ten out of Ten | 0.80% | ~7,154 |
 | Full Body Conversion | 0.60% | ~5,366 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,281 (Ranked 15)  
-Completed: 2,725 (0.30%) (Ranked 214)  
+Progressed: 894,293 (Ranked 15)  
+Completed: 2,726 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,10 +263,10 @@ Completed: 2,725 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,281 | 2,725 |
+| 2023-10-28 | 894,293 | 2,726 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
-Sum: 331,348 (Ranked 10)  
+Sum: 331,453 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 17,702 |
 | This game is Relaxing | 17,098 |
 | This game has Quickly Understood Controls | 17,026 |
-| This game has a Creative Community | 11,764 |
+| This game has a Creative Community | 11,869 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -566,4 +566,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
-| 2023-10-28 | 4.64 | - | 102,340 | 331,348 |
+| 2023-10-28 | 4.64 | - | 102,340 | 331,453 |

@@ -180,9 +180,9 @@
       "ID": "forest",
       "SetID": "40o2ndb",
       "Name": "Welcome to the whoOoOoOoOotel",
-      "Percentage": 80,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "hotel",
@@ -347,8 +347,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:05:12.9264537+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:04:23.4454846+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.8346005+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:01:23.8622174+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:05:12.926474+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:00:26.583522+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:04:23.4455094+00:00"
 }

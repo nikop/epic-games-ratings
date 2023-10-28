@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,438 |
-| Alt+F4 | 7.00% | ~16,355 |
-| Where's that freaking Dwarf? | 6.00% | ~14,018 |
-| Déjà vu | 5.00% | ~11,682 |
+| Sowwy! | 34.00% | ~79,444 |
+| Alt+F4 | 7.00% | ~16,356 |
+| Where's that freaking Dwarf? | 6.00% | ~14,019 |
+| Déjà vu | 5.00% | ~11,683 |
 | A beer, two curses, three companions | 4.00% | ~9,346 |
 | Sock! SOCK! | 4.00% | ~9,346 |
 | GG EZ | 4.00% | ~9,346 |
 | Speedrun | 4.00% | ~9,346 |
-| DM intervention | 3.00% | ~7,009 |
-| Fireproof Wizardess | 3.00% | ~7,009 |
+| DM intervention | 3.00% | ~7,010 |
+| Fireproof Wizardess | 3.00% | ~7,010 |
 | Livin' in a dwarven paradise | 2.00% | ~4,673 |
 | Shiny and Crôm | 2.00% | ~4,673 |
 | Way of the Wimp | 2.00% | ~4,673 |
@@ -34,18 +34,18 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,673 |
 | Team Building Exercise | 2.00% | ~4,673 |
 | Oh, when I'll be level 10... | 2.00% | ~4,673 |
-| Res Judicata | 1.00% | ~2,336 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,336 |
-| Dwarf Fortress | 1.00% | ~2,336 |
-| %#*!$*! | 1.00% | ~2,336 |
-| Look but don't touch | 1.00% | ~2,336 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,336 |
-| Dead for good | 1.00% | ~2,336 |
-| Lust and Debauchery | 1.00% | ~2,336 |
-| Material Girl | 1.00% | ~2,336 |
+| Res Judicata | 1.00% | ~2,337 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,337 |
+| Dwarf Fortress | 1.00% | ~2,337 |
+| %#*!$*! | 1.00% | ~2,337 |
+| Look but don't touch | 1.00% | ~2,337 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,337 |
+| Dead for good | 1.00% | ~2,337 |
+| Lust and Debauchery | 1.00% | ~2,337 |
+| Material Girl | 1.00% | ~2,337 |
 | Gargantua | 0.90% | ~2,103 |
 | In Navalu's footsteps | 0.80% | ~1,869 |
-| Lëgal Legend | 0.70% | ~1,635 |
+| Lëgal Legend | 0.70% | ~1,636 |
 | We come in peace | 0.60% | ~1,402 |
 | Holistic Adventuring Party | 0.50% | ~1,168 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,168 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,640 (Ranked 60)  
+Progressed: 233,658 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,14 +245,14 @@ Completed: 7 (0.00%) (Ranked 329)
 | 2023-10-25 | 233,101 | 7 |
 | 2023-10-26 | 233,279 | 7 |
 | 2023-10-27 | 233,450 | 7 |
-| 2023-10-28 | 233,640 | 7 |
+| 2023-10-28 | 233,658 | 7 |
 ## Awards
-Max (Character Customization): 224  (Ranked 269)  
-Sum: 443 (Ranked 327)  
-Diff (max vs sum): -58  
+Max (Character Customization): 225  (Ranked 268)  
+Sum: 444 (Ranked 327)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 224 |
+| This game has Inclusive Character Customization | 225 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 31 |
 | This game is Highly Recommended | 29 |
@@ -429,3 +429,4 @@ Diff (max vs sum): -58
 | 2023-10-24 | 4.58 | - | 221 | 438 |
 | 2023-10-26 | 4.58 | - | 224 | 442 |
 | 2023-10-27 | 4.58 | - | 224 | 443 |
+| 2023-10-28 | 4.58 | - | 225 | 444 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67640,
+  "EOS_Progressed": 67644,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13566,6 +13566,11 @@
       "Time": "2023-10-28T19:04:53.8429131+00:00",
       "NumProgressed": 67640,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-28T20:04:08.7057835+00:00",
+      "NumProgressed": 67644,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -13633,7 +13638,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -13681,7 +13686,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_READCLUES",
@@ -13697,7 +13702,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -13736,7 +13741,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67640,
+      "Progressed": 67644,
       "Completed": 16
     }
   ],
@@ -13744,8 +13749,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:04:53.8429119+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:04:08.7057831+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:03:08.8418992+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:04:53.8430932+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:02:41.9041239+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:04:08.7058934+00:00"
 }

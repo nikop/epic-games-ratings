@@ -4,7 +4,7 @@
   "ProductSlug": "chicken-police-paint-it-red",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-05-21T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.3640183+00:00",
   "LastChanged": "2023-03-31T05:57:11.3640184+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.08412+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:00:15.6140314+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:09:16.5045076+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:59:31.1264555+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:08:51.717357+00:00"
 }

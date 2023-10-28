@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 2.00% | ~288 |
-| Drug Gifter | 0.70% | ~101 |
+| Drug Gifter | 0.80% | ~115 |
 | Bosmang | 0.60% | ~87 |
 | The Pit and the Pirates | 0.50% | ~72 |
 | Martian Music | 0.50% | ~72 |

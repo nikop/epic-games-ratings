@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-10-28T19:09:29.0746834+00:00",
       "NumProgressed": 884,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T20:09:01.9527448+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2660,7 +2665,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_27",
@@ -2690,9 +2695,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_30",
@@ -2738,9 +2743,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_36",
@@ -2756,7 +2761,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_38",
@@ -2868,7 +2873,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_50",
@@ -3019,13 +3024,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 1
     }
   ],
@@ -3033,8 +3038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:09:29.0746825+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:09:01.9527444+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:58:09.7224874+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:09:29.0747732+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:57:51.309169+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:09:01.9528329+00:00"
 }

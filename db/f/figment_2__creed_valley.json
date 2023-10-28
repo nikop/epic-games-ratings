@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -324,8 +324,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:09:49.6504547+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:09:18.0434261+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:54.5268321+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:59:33.7577457+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:09:49.6504698+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:59:01.440374+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:09:18.0434412+00:00"
 }

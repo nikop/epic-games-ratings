@@ -11,6 +11,7 @@
 | A Sandwyrm's Hoard | 11.00% | ~3 |
 | Advanced Armaments | 11.00% | ~3 |
 | Leisis Bless You | 7.00% | ~2 |
+| Rain Must Fall | 4.00% | ~1 |
 | Overboard | 4.00% | ~1 |
 | Sommelier | 4.00% | ~1 |
 | Bladesmith | 4.00% | ~1 |
@@ -22,7 +23,6 @@
 | Sovereignty of Irons | 4.00% | ~1 |
 | Transformative Nature | 4.00% | ~1 |
 | Champion of Starspire | 4.00% | ~1 |
-| Rain Must Fall | 0.00% | ~0 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |

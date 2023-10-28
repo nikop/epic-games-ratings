@@ -6,31 +6,31 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,243 |
-| Leader | 61.00% | ~6,052 |
+| First Step | 73.00% | ~7,244 |
+| Leader | 61.00% | ~6,053 |
 | Explorer | 53.00% | ~5,259 |
-| Healer | 52.00% | ~5,159 |
+| Healer | 52.00% | ~5,160 |
 | Aspiring Inventor | 44.00% | ~4,366 |
-| Adventurer | 42.00% | ~4,167 |
-| Famous Healer | 38.00% | ~3,770 |
+| Adventurer | 42.00% | ~4,168 |
+| Famous Healer | 38.00% | ~3,771 |
 | Local Leader | 35.00% | ~3,473 |
-| Famous Explorer | 34.00% | ~3,373 |
-| New Opportunities | 34.00% | ~3,373 |
-| Energized | 33.00% | ~3,274 |
-| The Long Haul | 33.00% | ~3,274 |
+| Famous Explorer | 34.00% | ~3,374 |
+| New Opportunities | 34.00% | ~3,374 |
+| Energized | 33.00% | ~3,275 |
+| The Long Haul | 33.00% | ~3,275 |
 | Survivor | 32.00% | ~3,175 |
 | The Great Healer | 31.00% | ~3,076 |
 | Legendary Explorer | 28.00% | ~2,778 |
 | Cleaner | 28.00% | ~2,778 |
 | Catastrofan | 28.00% | ~2,778 |
 | Finders, Keepers | 26.00% | ~2,580 |
-| Top Notch | 25.00% | ~2,480 |
+| Top Notch | 25.00% | ~2,481 |
 | Great Leader | 23.00% | ~2,282 |
 | Mentor | 23.00% | ~2,282 |
 | Merchant | 22.00% | ~2,183 |
 | Ice Lakes | 22.00% | ~2,183 |
 | Real Survivor | 22.00% | ~2,183 |
-| Rocket Surgeon | 20.00% | ~1,984 |
+| Rocket Surgeon | 20.00% | ~1,985 |
 | War Never Changes | 19.00% | ~1,885 |
 | Friendly | 17.00% | ~1,687 |
 | Big Game Hunter | 17.00% | ~1,687 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,922 (Ranked 155)  
+Progressed: 9,923 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-25 | 9,860 | 0 |
 | 2023-10-26 | 9,881 | 0 |
 | 2023-10-27 | 9,902 | 0 |
-| 2023-10-28 | 9,922 | 0 |
+| 2023-10-28 | 9,923 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 346)  
 Sum: 717 (Ranked 288)  

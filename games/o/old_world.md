@@ -95,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
+| Pantheon | 0.80% | ~120 |
 | Via Recta Souk | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
@@ -104,11 +105,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | The Clergy | 0.80% | ~120 |
+| Capable | 0.70% | ~105 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
 | Hittite Iron | 0.70% | ~105 |
 | Church of the Holy Sepulchre | 0.70% | ~105 |
-| Pantheon | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
 | Military Prestige | 0.70% | ~105 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.70% | ~105 |
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
-| Capable | 0.60% | ~90 |
 | Ready | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
+| Beja Archer | 0.50% | ~75 |
 | Carthage - Ox Hide | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Greater Kmt Unified | 0.40% | ~60 |
 | Kush | 0.40% | ~60 |
-| Beja Archer | 0.40% | ~60 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
 | Old | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,013 (Ranked 142)  
+Progressed: 15,014 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -540,7 +540,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-25 | 14,951 | 5 |
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
-| 2023-10-28 | 15,013 | 5 |
+| 2023-10-28 | 15,014 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,856 (Ranked 211)  

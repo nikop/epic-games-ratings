@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -2830,6 +2830,11 @@
       "Time": "2023-10-28T18:10:47.2833771+00:00",
       "NumProgressed": 753,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-28T20:05:47.2535958+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2841,7 +2846,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "MQ01_2",
@@ -2849,7 +2854,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "MQ02_1",
@@ -2857,7 +2862,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MQ02_2",
@@ -2881,7 +2886,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "MQ03_1",
@@ -2913,7 +2918,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MQ03_5",
@@ -2921,7 +2926,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MQ04_1",
@@ -2953,7 +2958,7 @@
       "Name": "Open Sesame",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MQ05_2",
@@ -2961,7 +2966,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MQ05_3",
@@ -3009,7 +3014,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MQ07_1",
@@ -3041,7 +3046,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MQ08_3",
@@ -3064,7 +3069,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 26
     }
   ],
@@ -3072,8 +3077,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:06:58.8626464+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:05:47.2535954+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:01:03.8244361+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:06:58.8626873+00:00"
+  "LastUpdate_Ratings": "2023-10-28T20:00:10.7400703+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:05:47.2536357+00:00"
 }

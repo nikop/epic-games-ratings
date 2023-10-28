@@ -366,7 +366,7 @@
   ],
   "EOS_Progressed": 1954,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2896,9 +2896,9 @@
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2960,8 +2960,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:05:05.8370617+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:04:17.9411748+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:58:41.3217643+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:05:05.8372245+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:58:18.0205114+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:04:17.9412373+00:00"
 }

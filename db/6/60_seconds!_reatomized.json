@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -209,7 +209,7 @@
   "Tags": [],
   "EOS_Progressed": 5474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6847,9 +6847,9 @@
       "ID": "ACH_PRO_GAMER",
       "SetID": "5nj1ea3",
       "Name": "Pro gamer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_RESCUE",
@@ -6960,8 +6960,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:07:22.133727+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:06:05.3353749+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:07.0845931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:59:49.0972806+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:07:22.1338943+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:59:12.2001141+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:06:05.3354739+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.84,
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -579,12 +579,18 @@
       "Rating": 3.84,
       "NumberOfAwards": 579,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-10-28T19:59:37.5509083+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 606,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579,
+  "NumberOfAwards": 606,
   "NumberOfAwardsMax": 112,
-  "MaxAwardTitle": "Extremely Fun",
+  "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -626,7 +632,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 99
+      "Count": 112
     },
     {
       "Text": "This game is Great for Beginners",
@@ -638,7 +644,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 71
+      "Count": 85
     },
     {
       "Text": "This game has a Competitive Community",
@@ -659,8 +665,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-28T19:00:23.8200823+00:00",
+  "LastChanged": "2023-10-28T19:59:37.5509082+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:29.5059424+00:00",
-  "LastUpdate_Ratings": "2023-10-28T19:00:23.8200833+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:08:52.8588419+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:59:37.5509087+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:08:32.828534+00:00"
 }

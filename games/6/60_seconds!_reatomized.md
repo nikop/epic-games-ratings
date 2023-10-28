@@ -58,9 +58,9 @@ Rating: 4.60 (Ranked 403)
 | Konrad style! | 1.00% | ~55 |
 | Cat Lady | 0.90% | ~49 |
 | Bughunter | 0.80% | ~44 |
+| Pro gamer | 0.70% | ~38 |
 | Naysayer | 0.60% | ~33 |
 | Manhattan Project | 0.60% | ~33 |
-| Pro gamer | 0.60% | ~33 |
 | Fair Exchange | 0.40% | ~22 |
 | Miracle | 0.30% | ~16 |
 | Tora! Tora! Tora! | 0.20% | ~11 |

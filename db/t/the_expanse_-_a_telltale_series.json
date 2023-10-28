@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 14424,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9884,9 +9884,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 115
     },
     {
       "ID": "17",
@@ -10123,8 +10123,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-26T21:02:03.9844854+00:00",
-  "LastChanged_Achievements": "2023-10-28T19:03:58.807579+00:00",
+  "LastChanged_Achievements": "2023-10-28T20:03:25.5107308+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-28T18:57:43.0475851+00:00",
-  "LastUpdate_Achievements": "2023-10-28T19:03:58.8077378+00:00"
+  "LastUpdate_Ratings": "2023-10-28T19:57:28.6443141+00:00",
+  "LastUpdate_Achievements": "2023-10-28T20:03:25.5108144+00:00"
 }
