@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -397,7 +397,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3440,
+  "EOS_Progressed": 3441,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -3547,6 +3547,11 @@
       "Time": "2023-10-28T03:07:33.719941+00:00",
       "NumProgressed": 3440,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T04:08:14.4504536+00:00",
+      "NumProgressed": 3441,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -3599,7 +3604,7 @@
       "Name": "Setting up for Success",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2753
     },
     {
       "ID": "achievement_0007",
@@ -3607,7 +3612,7 @@
       "Name": "Getting on the Step",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "achievement_0008",
@@ -3615,7 +3620,7 @@
       "Name": "On the Top Step",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "achievement_0009",
@@ -3687,7 +3692,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_0018",
@@ -3719,7 +3724,7 @@
       "Name": "Team Orders",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "achievement_0022",
@@ -3759,7 +3764,7 @@
       "Name": "Friendly Competition",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_0027",
@@ -3823,7 +3828,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "achievement_0035",
@@ -3839,7 +3844,7 @@
       "Name": "Ups and Downs",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "achievement_0037",
@@ -3895,7 +3900,7 @@
       "Name": "Familiar Faces",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1755
     },
     {
       "ID": "achievement_0044",
@@ -3950,7 +3955,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3440,
+      "Progressed": 3441,
       "Completed": 0
     }
   ],
@@ -3958,8 +3963,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-25T15:59:44.2858616+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:07:33.7199401+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:08:14.4504531+00:00",
   "LastUpdate_AppInfo": "2023-10-21T13:57:06.4771158+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:00:46.6246822+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:07:33.720054+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:01:18.8312442+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:08:14.4505028+00:00"
 }

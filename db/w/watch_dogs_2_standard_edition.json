@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 403,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 154,
+  "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -6919,10 +6919,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3915,
       "NumberOfAwardsMax": 519
+    },
+    {
+      "Time": "2023-10-28T03:59:26.110253+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3919,
+      "NumberOfAwardsMax": 519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3915,
+  "NumberOfAwards": 3919,
   "NumberOfAwardsMax": 519,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6942,7 +6948,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 479
+      "Count": 483
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6998,8 +7004,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-10-27T18:59:29.1275327+00:00",
+  "LastChanged": "2023-10-28T03:59:26.1102528+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:32.9114269+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:59:02.7331506+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:03:22.40603+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:59:26.1102535+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:03:35.5397069+00:00"
 }

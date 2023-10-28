@@ -14208,10 +14208,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 329958,
       "NumberOfAwardsMax": 102038
+    },
+    {
+      "Time": "2023-10-28T04:02:58.6215881+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 330363,
+      "NumberOfAwardsMax": 102038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329958,
+  "NumberOfAwards": 330363,
   "NumberOfAwardsMax": 102038,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14225,7 +14231,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 72793
+      "Count": 73045
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14255,7 +14261,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 18000
+      "Count": 18153
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14288,10 +14294,10 @@
       "Count": 11764
     }
   ],
-  "EOS_Progressed": 894126,
-  "EOS_Completed": 2721,
+  "EOS_Progressed": 894134,
+  "EOS_Completed": 2722,
   "EOS_NewPlayers": 1188,
-  "EOS_NewCompleters": 31,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -35898,6 +35904,11 @@
       "Time": "2023-10-28T03:03:42.4231439+00:00",
       "NumProgressed": 894126,
       "NumCompleted": 2721
+    },
+    {
+      "Time": "2023-10-28T04:03:57.7917633+00:00",
+      "NumProgressed": 894134,
+      "NumCompleted": 2722
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36348,9 +36359,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 91
     },
     {
       "ID": "UltimateSurvivor",
@@ -36366,7 +36377,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "HydraIsDead",
@@ -36374,7 +36385,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "IHateSpider",
@@ -36382,7 +36393,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "KingOfTheCups",
@@ -36398,7 +36409,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "KingOfTheSwords",
@@ -36406,7 +36417,7 @@
       "Name": "King of Swords",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "KingOfTheWands",
@@ -36422,28 +36433,28 @@
       "Name": "The Tower",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894126,
-      "Completed": 2721
+      "Progressed": 894134,
+      "Completed": 2722
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22749,
+      "Progressed": 22757,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-28T03:01:36.2376569+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:03:42.4231432+00:00",
+  "LastChanged": "2023-10-28T04:02:58.621588+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:03:57.7917629+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:09.6048931+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:01:36.2376579+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:03:42.4234889+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:02:58.6215885+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:03:57.7919072+00:00"
 }

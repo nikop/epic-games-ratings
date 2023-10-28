@@ -13,8 +13,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.60% | ~5,365 |
 | The High Priestess | 0.60% | ~5,365 |
 | True Soldier | 0.60% | ~5,365 |
-| All the President's Men | 0.60% | ~136 |
-| Arachnophobia | 0.60% | ~136 |
+| All the President's Men | 0.60% | ~137 |
+| Arachnophobia | 0.60% | ~137 |
 | Right Back At Ya | 0.50% | ~4,471 |
 | Stanislavski's Method | 0.50% | ~4,471 |
 | The Hermit | 0.50% | ~4,471 |
@@ -32,6 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.40% | ~3,577 |
 | Judy vs Night City | 0.40% | ~3,577 |
 | Spin Doctor | 0.40% | ~91 |
+| Relic Ruler | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | To Protect and Serve | 0.30% | ~2,682 |
 | Master Crafter | 0.30% | ~2,682 |
@@ -40,16 +41,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.30% | ~2,682 |
 | Temperance | 0.30% | ~2,682 |
 | The Fool | 0.30% | ~2,682 |
-| Relic Ruler | 0.30% | ~68 |
 | King of Wands | 0.30% | ~68 |
 | The Wandering Fool | 0.20% | ~1,788 |
 | The Devil | 0.20% | ~1,788 |
 | The Sun | 0.20% | ~1,788 |
 | It's Elementary | 0.20% | ~1,788 |
-| Judgement Day | 0.20% | ~45 |
-| King of Pentacles | 0.20% | ~45 |
-| King of Swords | 0.20% | ~45 |
-| The Tower | 0.20% | ~45 |
+| Judgement Day | 0.20% | ~46 |
+| King of Pentacles | 0.20% | ~46 |
+| King of Swords | 0.20% | ~46 |
+| The Tower | 0.20% | ~46 |
 | City Lights | 0.10% | ~894 |
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,126 (Ranked 15)  
-Completed: 2,721 (0.30%) (Ranked 214)  
+Progressed: 894,134 (Ranked 15)  
+Completed: 2,722 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,19 +263,19 @@ Completed: 2,721 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,126 | 2,721 |
+| 2023-10-28 | 894,134 | 2,722 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 329,958 (Ranked 10)  
+Sum: 330,363 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 102,038 |
-| This game has Great Boss Battles | 72,793 |
+| This game has Great Boss Battles | 73,045 |
 | This game is Great for Beginners | 19,028 |
 | This game has Diverse Characters | 18,872 |
+| This game is Highly Recommended | 18,153 |
 | This game has Amazing Storytelling | 18,043 |
-| This game is Highly Recommended | 18,000 |
 | This game is Extremely Fun | 17,760 |
 | This game has Amazing Characters | 17,702 |
 | This game has Quickly Understood Controls | 17,026 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
-| 2023-10-28 | 4.64 | - | 102,038 | 329,958 |
+| 2023-10-28 | 4.64 | - | 102,038 | 330,363 |

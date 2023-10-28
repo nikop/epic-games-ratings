@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -460,9 +460,9 @@
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:08:31.2899803+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:08:33.0850341+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:00:25.6185137+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:08:31.2900005+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:00:53.6508023+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:08:33.085048+00:00"
 }

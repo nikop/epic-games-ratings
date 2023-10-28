@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4180,
+  "EOS_Progressed": 4181,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7154,6 +7154,11 @@
       "Time": "2023-10-28T00:04:56.3960335+00:00",
       "NumProgressed": 4180,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-28T04:05:11.9060674+00:00",
+      "NumProgressed": 4181,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7173,7 +7178,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Ach003",
@@ -7277,7 +7282,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "Ach016",
@@ -7732,13 +7737,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4180,
+      "Progressed": 4181,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2701,
+      "Progressed": 2702,
       "Completed": 1930
     }
   ],
@@ -7746,8 +7751,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:04:48.2743037+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:05:11.906067+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:40.7904647+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:58:09.7795704+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:04:48.2744396+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:58:29.3758275+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:05:11.9061594+00:00"
 }

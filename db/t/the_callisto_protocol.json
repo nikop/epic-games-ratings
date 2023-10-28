@@ -1311,10 +1311,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 456,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-10-28T04:01:31.0131999+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 456,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1340,7 +1346,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 74
+      "Count": 76
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1361,9 +1367,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 16312,
+  "EOS_Progressed": 16313,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -8346,6 +8352,11 @@
       "Time": "2023-10-28T01:47:31.9549666+00:00",
       "NumProgressed": 16312,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-10-28T04:08:12.3533627+00:00",
+      "NumProgressed": 16313,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 47,
@@ -8381,7 +8392,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "DISARM_ENEMY",
@@ -8421,7 +8432,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -8493,7 +8504,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -8557,7 +8568,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STORY_HABITAT",
@@ -8565,7 +8576,7 @@
       "Name": "Without A Paddle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STORY_HANGAR",
@@ -8581,7 +8592,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -8597,7 +8608,7 @@
       "Name": "Crash Site",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STORY_TOWER",
@@ -8605,7 +8616,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "STORY_TUNNELS",
@@ -8613,7 +8624,7 @@
       "Name": "Power Up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "DISMEMBER_100",
@@ -8732,22 +8743,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16312,
+      "Progressed": 16313,
       "Completed": 77
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4238,
+      "Progressed": 4239,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-10-28T00:01:09.4478755+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:07:32.0470609+00:00",
+  "LastChanged": "2023-10-28T04:01:31.0131997+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:08:12.3533623+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:54.6036471+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:01:00.680935+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:07:32.047143+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:01:31.0132002+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:08:12.3534284+00:00"
 }

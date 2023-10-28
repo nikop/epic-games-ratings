@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,398 |
+| Stylish | 5.00% | ~1,399 |
 | Advancement | 4.00% | ~1,119 |
 | Meticulously Efficient | 4.00% | ~1,119 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~839 |
@@ -15,18 +15,18 @@ Rating: 4.50 (Ranked 578)
 | Swift Rift Removers | 3.00% | ~839 |
 | Teamwork | 3.00% | ~839 |
 | Vaporous Expansion | 3.00% | ~839 |
-| Animated | 2.00% | ~559 |
-| Back Off | 2.00% | ~559 |
-| Clutch Capture | 2.00% | ~559 |
-| Cultured | 2.00% | ~559 |
-| Daily Dose | 2.00% | ~559 |
-| Ectoplasmic Entity | 2.00% | ~559 |
-| Ghostbuster In Training | 2.00% | ~559 |
-| Icing on the Cake | 2.00% | ~559 |
-| Right back at ya | 2.00% | ~559 |
-| Summoner | 2.00% | ~559 |
-| There you are! | 2.00% | ~559 |
-| Whoopsie | 2.00% | ~559 |
+| Animated | 2.00% | ~560 |
+| Back Off | 2.00% | ~560 |
+| Clutch Capture | 2.00% | ~560 |
+| Cultured | 2.00% | ~560 |
+| Daily Dose | 2.00% | ~560 |
+| Ectoplasmic Entity | 2.00% | ~560 |
+| Ghostbuster In Training | 2.00% | ~560 |
+| Icing on the Cake | 2.00% | ~560 |
+| Right back at ya | 2.00% | ~560 |
+| Summoner | 2.00% | ~560 |
+| There you are! | 2.00% | ~560 |
+| Whoopsie | 2.00% | ~560 |
 | We have the best insurance | 1.00% | ~280 |
 | Legions | 1.00% | ~280 |
 | Pesky Jerks | 1.00% | ~280 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,967 (Ranked 122)  
+Progressed: 27,977 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,17 +248,17 @@ Completed: 65 (0.23%) (Ranked 225)
 | 2023-10-25 | 27,664 | 64 |
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
-| 2023-10-28 | 27,967 | 65 |
+| 2023-10-28 | 27,977 | 65 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 248)  
-Sum: 2,572 (Ranked 182)  
-Diff (max vs sum): 66  
+Sum: 2,574 (Ranked 181)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 288 |
 | This game is Great for Quick Sessions | 280 |
+| This game has Amazing Storytelling | 260 |
 | This game has Diverse Characters | 259 |
-| This game has Amazing Storytelling | 258 |
 | This game is Relaxing | 253 |
 | This game has Competitive Players | 253 |
 | This game is Extremely Fun | 252 |
@@ -464,3 +464,4 @@ Diff (max vs sum): 66
 | 2023-10-25 | 4.50 | 281 | 2,541 |
 | 2023-10-26 | 4.50 | 286 | 2,560 |
 | 2023-10-27 | 4.50 | 288 | 2,572 |
+| 2023-10-28 | 4.50 | 288 | 2,574 |

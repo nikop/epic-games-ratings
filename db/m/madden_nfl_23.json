@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -757,7 +757,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3023,
+  "EOS_Progressed": 3025,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -4152,6 +4152,11 @@
       "Time": "2023-10-28T03:06:59.5589323+00:00",
       "NumProgressed": 3023,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T04:07:35.9685861+00:00",
+      "NumProgressed": 3025,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4172,7 +4177,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "achievement_11",
@@ -4180,7 +4185,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "achievement_12",
@@ -4188,7 +4193,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "achievement_13",
@@ -4196,7 +4201,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "achievement_14",
@@ -4204,7 +4209,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "achievement_15",
@@ -4212,7 +4217,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1634
     },
     {
       "ID": "achievement_16",
@@ -4308,7 +4313,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_8",
@@ -4331,7 +4336,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3023,
+      "Progressed": 3025,
       "Completed": 0
     }
   ],
@@ -4339,8 +4344,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-26T23:59:51.3475176+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:06:59.5589312+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:07:35.9685857+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:00.2577433+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:01:16.9431672+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:06:59.5589747+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:01:46.6845757+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:07:35.9686151+00:00"
 }

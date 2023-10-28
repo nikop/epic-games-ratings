@@ -6,31 +6,31 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~23,466 |
-| Exploitative | 4.00% | ~18,773 |
-| High Speed Low Drag | 4.00% | ~18,773 |
-| Point Shooting | 4.00% | ~18,773 |
-| Wet Feet | 4.00% | ~18,773 |
-| Lucky | 3.00% | ~14,080 |
-| Stylin' | 3.00% | ~14,080 |
-| Turf War | 3.00% | ~14,080 |
-| Banged | 2.00% | ~9,386 |
-| Checkpoint Victory | 2.00% | ~9,386 |
-| First Blood | 2.00% | ~9,386 |
-| Flaccid Paralysis | 2.00% | ~9,386 |
-| Push Victory | 2.00% | ~9,386 |
-| Self-destructive | 2.00% | ~9,386 |
-| Blindfire | 1.00% | ~4,693 |
-| Ruthless | 1.00% | ~4,693 |
-| Semper Paratus | 1.00% | ~4,693 |
+| Wallbanger | 5.00% | ~23,468 |
+| Exploitative | 4.00% | ~18,775 |
+| High Speed Low Drag | 4.00% | ~18,775 |
+| Point Shooting | 4.00% | ~18,775 |
+| Wet Feet | 4.00% | ~18,775 |
+| Lucky | 3.00% | ~14,081 |
+| Stylin' | 3.00% | ~14,081 |
+| Turf War | 3.00% | ~14,081 |
+| Banged | 2.00% | ~9,387 |
+| Checkpoint Victory | 2.00% | ~9,387 |
+| First Blood | 2.00% | ~9,387 |
+| Flaccid Paralysis | 2.00% | ~9,387 |
+| Push Victory | 2.00% | ~9,387 |
+| Self-destructive | 2.00% | ~9,387 |
+| Blindfire | 1.00% | ~4,694 |
+| Ruthless | 1.00% | ~4,694 |
+| Semper Paratus | 1.00% | ~4,694 |
 | Carrying | 0.90% | ~4,224 |
 | Efficient | 0.90% | ~4,224 |
 | Mount & Gun | 0.90% | ~4,224 |
 | Personal | 0.90% | ~4,224 |
 | Grounded | 0.80% | ~3,755 |
 | Play to Win | 0.80% | ~3,755 |
-| #1 | 0.70% | ~3,285 |
-| Special Delivery | 0.70% | ~3,285 |
+| #1 | 0.70% | ~3,286 |
+| Special Delivery | 0.70% | ~3,286 |
 | Firefight Victory | 0.60% | ~2,816 |
 | Cinematic | 0.50% | ~2,347 |
 | Thanks Station! | 0.40% | ~1,877 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~469 |
 | Road Hazard | 0.10% | ~469 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,322 (Ranked 40)  
+Progressed: 469,367 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 2 (0.00%) (Ranked 328)
 | 2023-10-25 | 467,220 | 2 |
 | 2023-10-26 | 468,278 | 2 |
 | 2023-10-27 | 469,146 | 2 |
-| 2023-10-28 | 469,322 | 2 |
+| 2023-10-28 | 469,367 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 394  (Ranked 224)  
 Sum: 3,106 (Ranked 171)  

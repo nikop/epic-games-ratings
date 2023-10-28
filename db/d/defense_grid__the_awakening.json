@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1912,9 +1912,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 488612,
+  "EOS_Progressed": 488613,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21947,6 +21947,11 @@
       "Time": "2023-10-28T03:06:09.9922523+00:00",
       "NumProgressed": 488612,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-28T04:06:41.7501513+00:00",
+      "NumProgressed": 488613,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -22006,7 +22011,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 219875
+      "UsersEstimate": 219876
     },
     {
       "ID": "BURNBABYBURN",
@@ -22014,7 +22019,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 288281
+      "UsersEstimate": 288282
     },
     {
       "ID": "CHAS",
@@ -22102,7 +22107,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 327370
+      "UsersEstimate": 327371
     },
     {
       "ID": "EXTERMINATOR",
@@ -22110,7 +22115,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 175900
+      "UsersEstimate": 175901
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -22126,7 +22131,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 361573
+      "UsersEstimate": 361574
     },
     {
       "ID": "FILTHYRICH",
@@ -22150,7 +22155,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 395776
+      "UsersEstimate": 395777
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -22230,7 +22235,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 381117
+      "UsersEstimate": 381118
     },
     {
       "ID": "HEADTRAUMA",
@@ -22238,7 +22243,7 @@
       "Name": "Head Trauma",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 58633
+      "UsersEstimate": 58634
     },
     {
       "ID": "HEYTHATSMINE",
@@ -22246,7 +22251,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 381117
+      "UsersEstimate": 381118
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -22302,7 +22307,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 141697
+      "UsersEstimate": 141698
     },
     {
       "ID": "MAJESTICPONY",
@@ -22486,7 +22491,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 258964
+      "UsersEstimate": 258965
     },
     {
       "ID": "SAVANTGENIUS",
@@ -22590,7 +22595,7 @@
       "Name": "Tower Expert",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19544
+      "UsersEstimate": 19545
     },
     {
       "ID": "TRACEAMOUNTSOFGOLD",
@@ -22653,15 +22658,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 488612,
+      "Progressed": 488613,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-10-27T14:58:33.901525+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:06:09.9922514+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:06:41.7501509+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.2115118+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:58:11.4390933+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:06:09.9925509+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:58:31.4031505+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:06:41.7503244+00:00"
 }

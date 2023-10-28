@@ -4,8 +4,8 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -212,9 +212,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_MEDIUM",
       "SetID": "cfld5bl",
       "Name": "Too many crates",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
@@ -364,17 +364,17 @@
       "ID": "ACH_LEVELCOMPLETION_02_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-3",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_01",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:04:57.3924217+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:05:22.0663728+00:00",
   "LastUpdate_AppInfo": "2023-10-21T15:57:12.8197071+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:58:31.1948169+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:04:57.392468+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:58:53.1207583+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:05:22.0664254+00:00"
 }

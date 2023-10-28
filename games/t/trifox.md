@@ -17,11 +17,11 @@
 | Just a sip | 20.00% | ~20 |
 | Complete Level 2-1 | 18.00% | ~18 |
 | Complete Level 2-2 | 18.00% | ~18 |
+| Complete Level 2-3 | 16.00% | ~16 |
 | Versatile | 16.00% | ~16 |
-| Complete Level 2-3 | 15.00% | ~15 |
+| Defeat the engineer boss | 15.00% | ~15 |
 | Well-off | 14.00% | ~14 |
-| Defeat the engineer boss | 14.00% | ~14 |
-| Too many crates | 13.00% | ~13 |
+| Too many crates | 14.00% | ~14 |
 | Complete Level 3-1 | 13.00% | ~13 |
 | Baby steps | 12.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~11 |

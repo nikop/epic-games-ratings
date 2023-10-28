@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -3796,9 +3796,9 @@
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4171,8 +4171,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-28T03:09:23.5662922+00:00",
+  "LastChanged_Achievements": "2023-10-28T04:09:50.61264+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:54.6810063+00:00",
-  "LastUpdate_Ratings": "2023-10-28T03:02:58.1118679+00:00",
-  "LastUpdate_Achievements": "2023-10-28T03:09:23.5663783+00:00"
+  "LastUpdate_Ratings": "2023-10-28T04:03:10.8334402+00:00",
+  "LastUpdate_Achievements": "2023-10-28T04:09:50.6126947+00:00"
 }

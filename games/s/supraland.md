@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~723,433 |
-| The Blues | 85.00% | ~621,129 |
-| Fast | 66.00% | ~482,288 |
-| Healthbar | 55.00% | ~401,907 |
-| Force Cube | 53.00% | ~387,292 |
-| Double Jump | 48.00% | ~350,755 |
-| Regeneration | 47.00% | ~343,448 |
-| Triple Jump | 43.00% | ~314,218 |
-| Climb the hill | 42.00% | ~306,911 |
-| Through the fire pipe | 39.00% | ~284,989 |
-| MacGuffin | 38.00% | ~277,681 |
-| Just once | 37.00% | ~270,374 |
-| Armor | 30.00% | ~219,222 |
-| True holy spirit | 28.00% | ~204,607 |
-| That's how electronics work obviously | 27.00% | ~197,300 |
-| Force Cube Catapult | 25.00% | ~182,685 |
-| Holy Sword | 23.00% | ~168,070 |
-| Telefrag | 23.00% | ~168,070 |
-| Freed from prison | 21.00% | ~153,455 |
-| Stomp | 21.00% | ~153,455 |
+| Out of bed | 99.00% | ~723,436 |
+| The Blues | 85.00% | ~621,132 |
+| Fast | 66.00% | ~482,290 |
+| Healthbar | 55.00% | ~401,909 |
+| Force Cube | 53.00% | ~387,294 |
+| Double Jump | 48.00% | ~350,757 |
+| Regeneration | 47.00% | ~343,449 |
+| Triple Jump | 43.00% | ~314,219 |
+| Climb the hill | 42.00% | ~306,912 |
+| Through the fire pipe | 39.00% | ~284,990 |
+| MacGuffin | 38.00% | ~277,682 |
+| Just once | 37.00% | ~270,375 |
+| Armor | 30.00% | ~219,223 |
+| True holy spirit | 28.00% | ~204,608 |
+| That's how electronics work obviously | 27.00% | ~197,301 |
+| Force Cube Catapult | 25.00% | ~182,686 |
+| Holy Sword | 23.00% | ~168,071 |
+| Telefrag | 23.00% | ~168,071 |
+| Freed from prison | 21.00% | ~153,456 |
+| Stomp | 21.00% | ~153,456 |
 | Double Health | 19.00% | ~138,841 |
 | Buckle | 17.00% | ~124,226 |
 | Green Keycard | 17.00% | ~124,226 |
-| Rattle Hag | 16.00% | ~116,918 |
+| Rattle Hag | 16.00% | ~116,919 |
 | All Shells | 15.00% | ~109,611 |
 | Beam | 14.00% | ~102,304 |
-| Health Drink | 13.00% | ~94,996 |
-| Helped a star | 13.00% | ~94,996 |
-| 9 | 13.00% | ~94,996 |
-| Purple Cube | 13.00% | ~94,996 |
-| Supraball Noob | 13.00% | ~94,996 |
+| Health Drink | 13.00% | ~94,997 |
+| Helped a star | 13.00% | ~94,997 |
+| 9 | 13.00% | ~94,997 |
+| Purple Cube | 13.00% | ~94,997 |
+| Supraball Noob | 13.00% | ~94,997 |
 | Strong | 12.00% | ~87,689 |
-| Blue King's lair | 11.00% | ~80,381 |
-| Payback | 11.00% | ~80,381 |
-| Got the coins back | 11.00% | ~80,381 |
-| Got the gun back | 11.00% | ~80,381 |
-| Infiltrated | 11.00% | ~80,381 |
-| Robbed | 11.00% | ~80,381 |
+| Blue King's lair | 11.00% | ~80,382 |
+| Payback | 11.00% | ~80,382 |
+| Got the coins back | 11.00% | ~80,382 |
+| Got the gun back | 11.00% | ~80,382 |
+| Infiltrated | 11.00% | ~80,382 |
+| Robbed | 11.00% | ~80,382 |
 | Fire Flies | 10.00% | ~73,074 |
 | Cave Flies | 10.00% | ~73,074 |
 | Gold Scam | 10.00% | ~73,074 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~65,767 |
 | Win! | 9.00% | ~65,767 |
 | The real real teleported man | 8.00% | ~58,459 |
-| Well deserved | 6.00% | ~43,844 |
+| Well deserved | 6.00% | ~43,845 |
 | Super Sword | 4.00% | ~29,230 |
 | Happiness | 3.00% | ~21,922 |
 | All Chests | 2.00% | ~14,615 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~731 |
 | DLC: Top of the world | 0.10% | ~731 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,740 (Ranked 19)  
+Progressed: 730,743 (Ranked 19)  
 Completed: 755 (0.10%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,14 +296,14 @@ Completed: 755 (0.10%) (Ranked 258)
 | 2023-10-25 | 730,493 | 754 |
 | 2023-10-26 | 730,595 | 754 |
 | 2023-10-27 | 730,724 | 755 |
-| 2023-10-28 | 730,740 | 755 |
+| 2023-10-28 | 730,743 | 755 |
 ## Awards
-Max (Challenging Puzzles): 7,711  (Ranked 47)  
-Sum: 10,055 (Ranked 90)  
+Max (Challenging Puzzles): 7,713  (Ranked 47)  
+Sum: 10,057 (Ranked 90)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 7,711 |
+| This game features Challenging Puzzles | 7,713 |
 | This game is Educational | 282 |
 | This game has Amazing Storytelling | 279 |
 | This game has Amazing Characters | 277 |
@@ -492,3 +492,4 @@ Diff (max vs sum): -43
 | 2023-10-25 | 4.61 | - | 7,710 | 10,052 |
 | 2023-10-26 | 4.61 | - | 7,711 | 10,053 |
 | 2023-10-27 | 4.61 | - | 7,711 | 10,055 |
+| 2023-10-28 | 4.61 | - | 7,713 | 10,057 |

@@ -17,15 +17,15 @@ Rating: 4.19 (Ranked 905)
 | In the Pipe, Five by Five | 5.00% | ~816 |
 | Desperate Times | 5.00% | ~816 |
 | Keep Fighting | 5.00% | ~212 |
-| You Need a Gun | 4.00% | ~652 |
-| I Do Belong Here | 4.00% | ~652 |
-| Terminated | 4.00% | ~652 |
-| If the SHU Fits... | 4.00% | ~652 |
-| Without A Paddle | 4.00% | ~652 |
-| What Lies Beneath | 4.00% | ~652 |
-| Crash Site | 4.00% | ~652 |
-| Full Circle | 4.00% | ~652 |
-| Power Up | 4.00% | ~652 |
+| You Need a Gun | 4.00% | ~653 |
+| I Do Belong Here | 4.00% | ~653 |
+| Terminated | 4.00% | ~653 |
+| If the SHU Fits... | 4.00% | ~653 |
+| Without A Paddle | 4.00% | ~653 |
+| What Lies Beneath | 4.00% | ~653 |
+| Crash Site | 4.00% | ~653 |
+| Full Circle | 4.00% | ~653 |
+| Power Up | 4.00% | ~653 |
 | It's Time | 4.00% | ~170 |
 | Giving Back | 3.00% | ~489 |
 | The Commonality | 3.00% | ~489 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,312 (Ranked 139)  
+Progressed: 16,313 (Ranked 139)  
 Completed: 77 (0.47%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,17 +237,17 @@ Completed: 77 (0.47%) (Ranked 191)
 | 2023-10-25 | 16,262 | 77 |
 | 2023-10-26 | 16,290 | 77 |
 | 2023-10-27 | 16,311 | 77 |
-| 2023-10-28 | 16,312 | 77 |
+| 2023-10-28 | 16,313 | 77 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 378)  
-Sum: 456 (Ranked 325)  
+Sum: 458 (Ranked 325)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 79 |
 | This game has Amazing Storytelling | 77 |
+| This game has Amazing Characters | 76 |
 | This game has Quickly Understood Controls | 74 |
-| This game has Amazing Characters | 74 |
 | This game is Extremely Fun | 68 |
 | This game has Challenging Combat | 57 |
 | This game has a Creative Community | 27 |
@@ -399,4 +399,4 @@ Diff (max vs sum): 53
 | 2023-10-24 | 4.19 | 78 | 453 |
 | 2023-10-25 | 4.19 | 78 | 454 |
 | 2023-10-26 | 4.19 | 78 | 455 |
-| 2023-10-28 | 4.19 | 79 | 456 |
+| 2023-10-28 | 4.19 | 79 | 458 |
