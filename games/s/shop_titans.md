@@ -24,6 +24,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 1.00% | ~1,382 |
 | On the Path to Greatness | 1.00% | ~1,382 |
 | Ascended | 1.00% | ~1,382 |
+| Research & Development | 1.00% | ~1,382 |
 | Vanity, Verily | 1.00% | ~1,382 |
 | Bounty Hunters | 1.00% | ~1,382 |
 | Blank Page Syndrome | 1.00% | ~1,382 |
@@ -31,6 +32,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 1.00% | ~1,382 |
 | Where it Hurts | 1.00% | ~1,382 |
 | Efficient Floor Space | 1.00% | ~1,382 |
+| Flawless Fusion | 1.00% | ~1,382 |
 | Gem Expert | 1.00% | ~1,382 |
 | Gild-Gotten Goods | 1.00% | ~1,382 |
 | Helping Hand | 1.00% | ~1,382 |
@@ -39,10 +41,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,382 |
 | Did we pack lunch? | 1.00% | ~1,382 |
 | Arcane Industries | 1.00% | ~1,382 |
-| Research & Development | 0.90% | ~1,244 |
 | Fated Encounters | 0.90% | ~1,244 |
 | Power of Love | 0.90% | ~1,244 |
-| Flawless Fusion | 0.90% | ~1,244 |
 | Royal Ransom | 0.90% | ~1,244 |
 | Magical Harmony | 0.90% | ~1,244 |
 | Tax not Included | 0.80% | ~1,106 |
@@ -78,6 +78,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.70% | ~968 |
 | Scourge of the Seas | 0.70% | ~968 |
 | Attrition Mission | 0.70% | ~968 |
+| Glittering Collection | 0.70% | ~968 |
 | Exotic Commodities | 0.70% | ~968 |
 | King's Blade | 0.70% | ~968 |
 | Top of the World | 0.60% | ~829 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.60% | ~829 |
 | Bountiful Harvest | 0.60% | ~829 |
 | Precision Engineering | 0.60% | ~829 |
-| Glittering Collection | 0.60% | ~829 |
 | Treasure Trove | 0.60% | ~829 |
 | Moment of Respite | 0.60% | ~829 |
 | King's Shadow | 0.60% | ~829 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,232 (Ranked 76)  
+Progressed: 138,233 (Ranked 76)  
 Completed: 173 (0.13%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 173 (0.13%) (Ranked 248)
 | 2023-10-25 | 138,132 | 172 |
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
-| 2023-10-28 | 138,232 | 173 |
+| 2023-10-28 | 138,233 | 173 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
 Sum: 27,457 (Ranked 51)  

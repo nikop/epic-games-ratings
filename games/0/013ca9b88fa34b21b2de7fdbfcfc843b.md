@@ -1,24 +1,24 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 404)  
+Rating: 4.60 (Ranked 403)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,211 |
-| A Thorny Situation | 70.00% | ~5,066 |
-| ... And Spit Back Out | 60.00% | ~4,342 |
-| Break-Net Speed | 48.00% | ~3,474 |
-| Bramble Breaker | 46.00% | ~3,329 |
-| Miner 49er | 43.00% | ~3,112 |
+| Azoria Beckons | 72.00% | ~5,212 |
+| A Thorny Situation | 70.00% | ~5,067 |
+| ... And Spit Back Out | 60.00% | ~4,343 |
+| Break-Net Speed | 48.00% | ~3,475 |
+| Bramble Breaker | 46.00% | ~3,330 |
+| Miner 49er | 43.00% | ~3,113 |
 | Humble Collector | 42.00% | ~3,040 |
-| Calm Sailing | 36.00% | ~2,605 |
-| Open the Gate! | 33.00% | ~2,388 |
-| Mist Walker | 31.00% | ~2,243 |
+| Calm Sailing | 36.00% | ~2,606 |
+| Open the Gate! | 33.00% | ~2,389 |
+| Mist Walker | 31.00% | ~2,244 |
 | Lumberjack | 26.00% | ~1,882 |
 | Oui, Chef! | 23.00% | ~1,665 |
 | Clear the Air | 18.00% | ~1,303 |
-| Botanical Breakthrough | 17.00% | ~1,230 |
+| Botanical Breakthrough | 17.00% | ~1,231 |
 | Search for the Hairy Grell | 13.00% | ~941 |
 | Beach Comber | 13.00% | ~941 |
 | Higher Tax Bracket | 13.00% | ~941 |
@@ -31,7 +31,7 @@ Rating: 4.60 (Ranked 404)
 | Scattered Scroll Scrounger | 6.00% | ~434 |
 | Azorian Anniversary | 6.00% | ~434 |
 | I Now Pronounce You... | 5.00% | ~362 |
-| Chatty Neighbor | 4.00% | ~289 |
+| Chatty Neighbor | 4.00% | ~290 |
 | Right Tool For the Job | 3.00% | ~217 |
 | House Proud | 3.00% | ~217 |
 | Captain of Cozy | 2.00% | ~145 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 404)
 | Very Skilled | 0.20% | ~14 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,237 (Ranked 166)  
+Progressed: 7,239 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 7,168 | 0 |
 | 2023-10-26 | 7,198 | 0 |
 | 2023-10-27 | 7,234 | 0 |
-| 2023-10-28 | 7,237 | 0 |
+| 2023-10-28 | 7,239 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3115,9 +3115,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1204
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3147,8 +3147,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:22:39.7787063+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:09:24.5295907+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:31.9031192+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:12:21.0928542+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:22:39.7787317+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:59:15.5431541+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:09:24.5296391+00:00"
 }

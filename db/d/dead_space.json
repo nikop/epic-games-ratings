@@ -5,7 +5,7 @@
   "Ranking_Rating": 342,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 433,
-  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 78,
@@ -683,9 +683,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3888,6 +3888,11 @@
       "Time": "2023-10-28T02:20:12.2409639+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-28T03:07:35.3374849+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -3900,7 +3905,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "achievement_10",
@@ -3916,7 +3921,7 @@
       "Name": "Betrayed",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_12",
@@ -3972,7 +3977,7 @@
       "Name": "Full Arsenal",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_19",
@@ -3988,7 +3993,7 @@
       "Name": "Lab Rat",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achievement_20",
@@ -4004,15 +4009,15 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_22",
       "SetID": "222fo9l",
       "Name": "A Cut Above",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 428
+      "UsersEstimate": 416
     },
     {
       "ID": "achievement_23",
@@ -4036,7 +4041,7 @@
       "Name": "Full Contact",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_26",
@@ -4052,7 +4057,7 @@
       "Name": "Pack Rat",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_28",
@@ -4068,7 +4073,7 @@
       "Name": "Legend Teller",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "achievement_3",
@@ -4076,7 +4081,7 @@
       "Name": "All Systems Go",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_30",
@@ -4092,7 +4097,7 @@
       "Name": "Marksman",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "achievement_32",
@@ -4100,7 +4105,7 @@
       "Name": "Surgeon",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_33",
@@ -4116,7 +4121,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "achievement_35",
@@ -4124,7 +4129,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "achievement_36",
@@ -4164,7 +4169,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_40",
@@ -4188,15 +4193,15 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 655
     },
     {
       "ID": "achievement_44",
@@ -4242,9 +4247,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 655
     },
     {
       "ID": "achievement_7",
@@ -4252,7 +4257,7 @@
       "Name": "S.O.S.",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_8",
@@ -4260,7 +4265,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_9",
@@ -4275,7 +4280,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 7
     }
   ],
@@ -4283,8 +4288,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:20:12.240963+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:07:35.3374842+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:46.5185249+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:13:23.5403371+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:20:12.2410247+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:00:38.8897218+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:07:35.3375501+00:00"
 }

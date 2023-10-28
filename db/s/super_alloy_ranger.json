@@ -671,9 +671,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Achi_19",
@@ -687,9 +687,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achi_21",
@@ -703,9 +703,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Achi_23",
@@ -743,17 +743,17 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Achi_29",
@@ -767,9 +767,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "Achi_31",
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:22:45.5911312+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:09:31.4704054+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:34.3269082+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:13:01.0213455+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:22:45.5911766+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:00:09.0722412+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:09:31.4704553+00:00"
 }

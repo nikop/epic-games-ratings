@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 55.00% | ~11 |
+| Wanderer | 45.00% | ~9 |
 | Finished it | 40.00% | ~8 |
-| Wanderer | 40.00% | ~8 |
 | A piece of the story | 30.00% | ~6 |
 | Refuse to look | 25.00% | ~5 |
 | Do what you have to | 25.00% | ~5 |

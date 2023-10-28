@@ -22,7 +22,7 @@
 | Bonds of Enmity | 55.00% | ~102 |
 | Helpful Heart | 55.00% | ~102 |
 | Counter Specialist | 52.00% | ~97 |
-| Axer of Auspice | 46.00% | ~86 |
+| Axer of Auspice | 47.00% | ~87 |
 | Fair Means or Foul | 45.00% | ~84 |
 | Single Minded | 44.00% | ~82 |
 | Snare Specialist | 44.00% | ~82 |

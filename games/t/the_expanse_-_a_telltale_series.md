@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 423)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 1.00% | ~144 |
-| Drug Gifter | 0.50% | ~72 |
+| Drug Gifter | 0.60% | ~86 |
 | Bosmang | 0.50% | ~72 |
 | The Pit and the Pirates | 0.40% | ~58 |
 | Drone Dodger | 0.40% | ~58 |

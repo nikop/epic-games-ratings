@@ -4,7 +4,7 @@
   "ProductSlug": "south-park-the-fractured-but-whole",
   "Ranking_Rating": 43,
   "Ranking_Popularity": 308,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 414,
@@ -727,6 +727,6 @@
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
   "LastChanged": "2023-10-17T19:59:44.7759252+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:40.9167046+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:13:13.5332386+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:19:54.1120081+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:00:25.9404602+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:07:12.9961875+00:00"
 }

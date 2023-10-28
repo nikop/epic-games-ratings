@@ -1415,9 +1415,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428678,
+  "EOS_Progressed": 428679,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -13965,6 +13965,11 @@
       "Time": "2023-10-28T01:48:32.1427292+00:00",
       "NumProgressed": 428678,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-10-28T03:09:08.713569+00:00",
+      "NumProgressed": 428679,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 41,
@@ -13984,7 +13989,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167184
+      "UsersEstimate": 167185
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -14024,7 +14029,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111456
+      "UsersEstimate": 111457
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -14032,7 +14037,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128603
+      "UsersEstimate": 128604
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -14096,7 +14101,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111456
+      "UsersEstimate": 111457
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -14120,7 +14125,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30007
+      "UsersEstimate": 30008
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -14144,7 +14149,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407244
+      "UsersEstimate": 407245
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -14160,7 +14165,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308648
+      "UsersEstimate": 308649
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -14184,7 +14189,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111456
+      "UsersEstimate": 111457
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -14192,7 +14197,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342942
+      "UsersEstimate": 342943
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -14200,7 +14205,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 30007
+      "UsersEstimate": 30008
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -14216,7 +14221,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68588
+      "UsersEstimate": 68589
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -14303,15 +14308,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428678,
+      "Progressed": 428679,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-27T07:58:25.1369284+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:22:26.6620773+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:09:08.7135682+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:34.8585866+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:12:03.2859124+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:22:26.6621866+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:58:52.8004364+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:09:08.7137475+00:00"
 }

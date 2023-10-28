@@ -4019,7 +4019,7 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11844,
+  "EOS_Progressed": 11845,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
@@ -14544,6 +14544,11 @@
       "Time": "2023-10-28T01:43:51.6327077+00:00",
       "NumProgressed": 11844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T03:04:25.5995395+00:00",
+      "NumProgressed": 11845,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14563,7 +14568,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14737,9 +14742,9 @@
       "ID": "24_Legacy",
       "SetID": "989of5o",
       "Name": "The Legacy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 592
+      "UsersEstimate": 474
     },
     {
       "ID": "25_MasterfulDispell",
@@ -15482,21 +15487,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10626,
+      "Progressed": 10627,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11844,
+      "Progressed": 11845,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-27T16:02:43.8133419+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:17:37.0664081+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:04:25.5995388+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:15.2280764+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:16:23.9409727+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:17:37.0666356+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:02:51.165504+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:04:25.5997765+00:00"
 }

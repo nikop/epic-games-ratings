@@ -1,29 +1,29 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.29 (Ranked 831)  
+Rating: 4.29 (Ranked 832)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~150,364 |
-| Doubled Pawn | 57.00% | ~122,439 |
-| Check | 55.00% | ~118,143 |
-| Absolute pin | 47.00% | ~100,958 |
-| Promotion | 31.00% | ~66,590 |
-| Checkmate | 30.00% | ~64,442 |
-| O-O | 24.00% | ~51,553 |
-| Spanish Bishop | 21.00% | ~45,109 |
-| Queen Sacrifice | 20.00% | ~42,961 |
-| Stalemate | 18.00% | ~38,665 |
+| Chop Wood | 70.00% | ~150,368 |
+| Doubled Pawn | 57.00% | ~122,442 |
+| Check | 55.00% | ~118,146 |
+| Absolute pin | 47.00% | ~100,961 |
+| Promotion | 31.00% | ~66,591 |
+| Checkmate | 30.00% | ~64,443 |
+| O-O | 24.00% | ~51,555 |
+| Spanish Bishop | 21.00% | ~45,110 |
+| Queen Sacrifice | 20.00% | ~42,962 |
+| Stalemate | 18.00% | ~38,666 |
 | O-O-O | 13.00% | ~27,925 |
 | Octopus | 13.00% | ~27,925 |
 | Stranger Danger | 12.00% | ~25,777 |
-| En Passant | 9.00% | ~19,332 |
-| Double Check | 7.00% | ~15,036 |
-| Piece Collector | 6.00% | ~12,888 |
-| ELO | 5.00% | ~10,740 |
-| Family Fork | 5.00% | ~10,740 |
-| Friendly Fire | 5.00% | ~10,740 |
+| En Passant | 9.00% | ~19,333 |
+| Double Check | 7.00% | ~15,037 |
+| Piece Collector | 6.00% | ~12,889 |
+| ELO | 5.00% | ~10,741 |
+| Family Fork | 5.00% | ~10,741 |
+| Friendly Fire | 5.00% | ~10,741 |
 | Underpromote | 4.00% | ~8,592 |
 | ELO ELO | 3.00% | ~6,444 |
 | Learner | 3.00% | ~6,444 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 831)
 | Tournament Master | 0.10% | ~215 |
 | Tournament Pro | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,805 (Ranked 65)  
+Progressed: 214,811 (Ranked 65)  
 Completed: 2 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 2 (0.00%) (Ranked 328)
 | 2023-10-25 | 214,451 | 2 |
 | 2023-10-26 | 214,618 | 2 |
 | 2023-10-27 | 214,788 | 2 |
-| 2023-10-28 | 214,805 | 2 |
+| 2023-10-28 | 214,811 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

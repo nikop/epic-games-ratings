@@ -1249,9 +1249,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 155023,
+  "EOS_Progressed": 155028,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1530,
+  "EOS_NewPlayers": 1531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13324,6 +13324,11 @@
       "Time": "2023-10-28T02:18:07.5459128+00:00",
       "NumProgressed": 155023,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-28T03:05:02.3137816+00:00",
+      "NumProgressed": 155028,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13383,7 +13388,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13407,7 +13412,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13607,7 +13612,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -13702,21 +13707,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154606,
-      "Completed": 1178
+      "Progressed": 154611,
+      "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155023,
+      "Progressed": 155028,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-26T19:00:19.7299619+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:18:07.545912+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:05:02.3137807+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:58:03.5422796+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:13:58.9382497+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:18:07.5460227+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:01:25.2322291+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:05:02.3139069+00:00"
 }

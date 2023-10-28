@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6745,9 +6745,9 @@
       "Count": 3767
     }
   ],
-  "EOS_Progressed": 138232,
+  "EOS_Progressed": 138233,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26225,6 +26225,11 @@
       "Time": "2023-10-28T01:44:18.0380933+00:00",
       "NumProgressed": 138232,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-10-28T03:04:51.3911922+00:00",
+      "NumProgressed": 138233,
+      "NumCompleted": 173
     }
   ],
   "TotalAchievements": 112,
@@ -26346,9 +26351,9 @@
       "ID": "blueprint02",
       "SetID": "anfd17p",
       "Name": "Research \u0026 Development",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1382
     },
     {
       "ID": "blueprint03",
@@ -26674,9 +26679,9 @@
       "ID": "fuseflawless",
       "SetID": "anfd17p",
       "Name": "Flawless Fusion",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1382
     },
     {
       "ID": "fuselegendary",
@@ -26978,9 +26983,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 968
     },
     {
       "ID": "rareres02",
@@ -27131,15 +27136,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138232,
+      "Progressed": 138233,
       "Completed": 173
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-28T02:11:46.4427886+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:17:58.2113416+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:04:51.3911914+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:59:00.0517648+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:11:46.4427896+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:17:58.2117211+00:00"
+  "LastUpdate_Ratings": "2023-10-28T02:58:30.5614765+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:04:51.3915372+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-10-28T01:42:56.9634891+00:00",
       "NumProgressed": 838,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-28T03:03:32.5552801+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -893,7 +898,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -915,9 +920,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 604
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -933,7 +938,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -981,7 +986,7 @@
       "Name": "Hoarder",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1076,14 +1081,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-28T02:16:52.7746713+00:00",
+  "LastChanged_Achievements": "2023-10-28T03:03:32.5552796+00:00",
   "LastUpdate_AppInfo": "2023-10-21T16:57:52.6770778+00:00",
-  "LastUpdate_Ratings": "2023-10-28T02:13:34.9034018+00:00",
-  "LastUpdate_Achievements": "2023-10-28T02:16:52.7747023+00:00"
+  "LastUpdate_Ratings": "2023-10-28T03:00:54.8528034+00:00",
+  "LastUpdate_Achievements": "2023-10-28T03:03:32.5553718+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 46.00% | ~35,144 |
-| To The Nines | 42.00% | ~32,088 |
-| Optimized | 37.00% | ~28,268 |
-| Performance Review | 36.00% | ~27,504 |
-| Making a Name | 35.00% | ~26,740 |
-| Tune Up | 34.00% | ~25,976 |
-| Landlord | 33.00% | ~25,212 |
-| Wet Work | 32.00% | ~24,448 |
-| The Side Job | 31.00% | ~23,684 |
-| Wrecking Ball | 28.00% | ~21,392 |
-| Food for Thought | 27.00% | ~20,628 |
-| Finders Keepers | 25.00% | ~19,100 |
-| A Young Empire | 25.00% | ~19,100 |
-| Work Ethic | 23.00% | ~17,572 |
-| Picking Fights | 20.00% | ~15,280 |
-| Power Players | 19.00% | ~14,516 |
-| Quality Time | 18.00% | ~13,752 |
-| Showdown | 17.00% | ~12,988 |
-| Et tu? | 17.00% | ~12,988 |
+| First F#@!ing Day | 46.00% | ~35,145 |
+| To The Nines | 42.00% | ~32,089 |
+| Optimized | 37.00% | ~28,269 |
+| Performance Review | 36.00% | ~27,505 |
+| Making a Name | 35.00% | ~26,741 |
+| Tune Up | 34.00% | ~25,977 |
+| Landlord | 33.00% | ~25,213 |
+| Wet Work | 32.00% | ~24,449 |
+| The Side Job | 31.00% | ~23,685 |
+| Wrecking Ball | 28.00% | ~21,393 |
+| Food for Thought | 27.00% | ~20,629 |
+| Finders Keepers | 25.00% | ~19,101 |
+| A Young Empire | 25.00% | ~19,101 |
+| Work Ethic | 23.00% | ~17,573 |
+| Picking Fights | 20.00% | ~15,281 |
+| Power Players | 19.00% | ~14,517 |
+| Quality Time | 18.00% | ~13,753 |
+| Showdown | 17.00% | ~12,989 |
+| Et tu? | 17.00% | ~12,989 |
 | Took It to The Limit | 16.00% | ~12,224 |
 | Kitted Out | 14.00% | ~10,696 |
 | Masters of Santo Ileso | 12.00% | ~9,168 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~153 |
 | Fiesta Time | 0.20% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,401 (Ranked 95)  
+Progressed: 76,403 (Ranked 95)  
 Completed: 51 (0.07%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 51 (0.07%) (Ranked 274)
 | 2023-10-25 | 76,173 | 51 |
 | 2023-10-26 | 76,266 | 51 |
 | 2023-10-27 | 76,386 | 51 |
-| 2023-10-28 | 76,401 | 51 |
+| 2023-10-28 | 76,403 | 51 |
 ## Awards
 Max (Extremely Fun): 1,074  (Ranked 143)  
-Sum: 8,708 (Ranked 97)  
+Sum: 8,709 (Ranked 97)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 46
 | This game is Highly Recommended | 1,011 |
 | This game has Diverse Characters | 1,003 |
 | This game has Amazing Characters | 994 |
-| This game is Relaxing | 986 |
+| This game is Relaxing | 987 |
 | This game has Amazing Storytelling | 975 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 609 |
@@ -479,4 +479,4 @@ Diff (max vs sum): 46
 | 2023-10-25 | 3.79 | - | 1,071 | 8,698 |
 | 2023-10-26 | 3.79 | - | 1,072 | 8,703 |
 | 2023-10-27 | 3.79 | - | 1,072 | 8,706 |
-| 2023-10-28 | 3.79 | - | 1,074 | 8,708 |
+| 2023-10-28 | 3.79 | - | 1,074 | 8,709 |

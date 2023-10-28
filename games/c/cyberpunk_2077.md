@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,882 |
+| V for Vendetta | 2.00% | ~17,883 |
 | Ten out of Ten | 0.80% | ~7,153 |
 | Full Body Conversion | 0.60% | ~5,365 |
 | Gun Fu | 0.60% | ~5,365 |
@@ -20,17 +20,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.50% | ~4,471 |
 | The Wheel of Fortune | 0.50% | ~4,471 |
 | Legend of The Afterlife | 0.50% | ~4,471 |
-| Bushido and Chill | 0.40% | ~3,576 |
-| Gunslinger | 0.40% | ~3,576 |
-| The Quick and the Dead | 0.40% | ~3,576 |
-| Breathtaking | 0.40% | ~3,576 |
-| Life of the Road | 0.40% | ~3,576 |
-| The Lovers | 0.40% | ~3,576 |
-| The World | 0.40% | ~3,576 |
-| The Jungle | 0.40% | ~3,576 |
-| True Warrior | 0.40% | ~3,576 |
-| Two Heads, One Bullet | 0.40% | ~3,576 |
-| Judy vs Night City | 0.40% | ~3,576 |
+| Bushido and Chill | 0.40% | ~3,577 |
+| Gunslinger | 0.40% | ~3,577 |
+| The Quick and the Dead | 0.40% | ~3,577 |
+| Breathtaking | 0.40% | ~3,577 |
+| Life of the Road | 0.40% | ~3,577 |
+| The Lovers | 0.40% | ~3,577 |
+| The World | 0.40% | ~3,577 |
+| The Jungle | 0.40% | ~3,577 |
+| True Warrior | 0.40% | ~3,577 |
+| Two Heads, One Bullet | 0.40% | ~3,577 |
+| Judy vs Night City | 0.40% | ~3,577 |
 | Spin Doctor | 0.40% | ~91 |
 | To Bad Decisions! | 0.30% | ~2,682 |
 | To Protect and Serve | 0.30% | ~2,682 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,120 (Ranked 15)  
+Progressed: 894,126 (Ranked 15)  
 Completed: 2,721 (0.30%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 2,721 (0.30%) (Ranked 214)
 | 2023-10-25 | 893,807 | 2,713 |
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
-| 2023-10-28 | 894,120 | 2,721 |
+| 2023-10-28 | 894,126 | 2,721 |
 ## Awards
 Max (Character Customization): 102,038  (Ranked 9)  
-Sum: 329,802 (Ranked 10)  
+Sum: 329,958 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 18,043 |
 | This game is Highly Recommended | 18,000 |
 | This game is Extremely Fun | 17,760 |
-| This game has Amazing Characters | 17,546 |
+| This game has Amazing Characters | 17,702 |
 | This game has Quickly Understood Controls | 17,026 |
 | This game is Relaxing | 16,932 |
 | This game has a Creative Community | 11,764 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.64 | - | 101,458 | 325,873 |
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
-| 2023-10-28 | 4.64 | - | 102,038 | 329,802 |
+| 2023-10-28 | 4.64 | - | 102,038 | 329,958 |

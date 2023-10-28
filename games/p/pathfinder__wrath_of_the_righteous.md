@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 25.00% | ~2,961 |
 | A Spark | 18.00% | ~2,132 |
-| Burning City | 17.00% | ~2,013 |
+| Burning City | 17.00% | ~2,014 |
 | Defender's Heart | 15.00% | ~1,777 |
 | Mythic Choices | 14.00% | ~1,658 |
 | Banner over the Citadel | 13.00% | ~1,540 |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 6.00% | ~711 |
 | Path of the Azata | 5.00% | ~592 |
 | Transformation | 5.00% | ~592 |
-| The Legacy | 5.00% | ~592 |
 | Great Upstart | 5.00% | ~592 |
 | Voice from Your Dreams | 5.00% | ~592 |
 | All Paths Open | 5.00% | ~592 |
 | Next-Door Play | 5.00% | ~592 |
 | Heart of the Fallen Land | 4.00% | ~474 |
+| The Legacy | 4.00% | ~474 |
 | Divide and Rule | 4.00% | ~474 |
 | Mythic Reinforcements | 4.00% | ~474 |
 | A Flame | 4.00% | ~474 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,844 (Ranked 149)  
+Progressed: 11,845 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 328)
 | 2023-10-25 | 11,793 | 0 |
 | 2023-10-26 | 11,816 | 0 |
 | 2023-10-27 | 11,841 | 0 |
-| 2023-10-28 | 11,844 | 0 |
+| 2023-10-28 | 11,845 | 0 |
 ## Awards
 Max (Character Customization): 1,729  (Ranked 120)  
 Sum: 7,006 (Ranked 119)  

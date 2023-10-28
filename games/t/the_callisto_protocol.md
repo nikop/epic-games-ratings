@@ -8,10 +8,10 @@ Rating: 4.19 (Ranked 905)
 | Get a Grip | 9.00% | ~1,468 |
 | Paper Jams | 8.00% | ~1,305 |
 | Flesh Wound | 7.00% | ~1,142 |
+| Chew 'Em Up | 6.00% | ~979 |
 | Float Like A Butterfly | 6.00% | ~979 |
 | The Outer Way | 6.00% | ~979 |
 | Two Heads Are Better Than One | 5.00% | ~816 |
-| Chew 'Em Up | 5.00% | ~816 |
 | Workplace Hazard | 5.00% | ~816 |
 | Reforged | 5.00% | ~816 |
 | In the Pipe, Five by Five | 5.00% | ~816 |
