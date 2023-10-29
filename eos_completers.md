@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.56% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.05% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.03% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -59,10 +59,10 @@
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 60 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.88% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
-| 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.75% |
+| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.75% |
+| 63 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.56% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.33% |
 | 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -73,10 +73,10 @@
 | 71 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.69% |
 | 72 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.66% |
 | 73 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 74 | [ZZT!](games/z/zzt!.md) | 4.52% |
+| 74 | [ZZT!](games/z/zzt!.md) | 4.51% |
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.34% |
+| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.33% |
 | 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.11% |
 | 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
@@ -86,9 +86,9 @@
 | 84 | [The Bunker](games/t/the_bunker.md) | 3.70% |
 | 85 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 86 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.45% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.44% |
-| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.39% |
+| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.44% |
+| 88 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.39% |
+| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.38% |
 | 90 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 91 | [Doodle God](games/d/doodle_god.md) | 3.25% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.19% |
@@ -128,7 +128,7 @@
 | 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.77% |
 | 127 | [Night Book](games/n/night_book.md) | 1.71% |
 | 128 | [Somerville](games/s/somerville.md) | 1.70% |
-| 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.69% |
+| 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.68% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.60% |
 | 131 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.58% |
 | 132 | [Five Dates](games/f/five_dates.md) | 1.55% |
@@ -662,6 +662,7 @@
 | 332 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 332 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
 | 332 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 0.00% |
+| 332 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.00% |
 | 332 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 0.00% |
 | 332 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.00% |
 | 332 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 0.00% |
