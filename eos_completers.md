@@ -2,9 +2,9 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.79% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.65% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.55% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.53% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.59% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -138,8 +138,8 @@
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.36% |
 | 138 | [Chorus](games/c/chorus.md) | 1.35% |
-| 138 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.35% |
 | 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
+| 140 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
 | 141 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 142 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 143 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
@@ -164,7 +164,7 @@
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
 | 164 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.73% |
+| 165 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.72% |
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
@@ -241,11 +241,11 @@
 | 239 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 239 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.18% |
 | 241 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 241 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.17% |
 | 241 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 241 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 245 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 245 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 244 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 244 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 244 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.16% |
 | 247 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 248 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 249 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
