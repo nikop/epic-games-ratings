@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Monster of Moonglow | 2.00% | ~8 |
+| The Monster of Moonglow | 3.00% | ~12 |
 | Eternal Tempest | 2.00% | ~8 |
 | The Art of Conversation | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |

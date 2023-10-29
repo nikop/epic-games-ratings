@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,833 |
-| Gun Fu | 1.00% | ~8,944 |
+| V for Vendetta | 3.00% | ~26,834 |
+| Gun Fu | 1.00% | ~8,945 |
 | Ten out of Ten | 0.80% | ~7,156 |
 | Full Body Conversion | 0.70% | ~6,261 |
 | True Soldier | 0.70% | ~6,261 |
-| All the President's Men | 0.70% | ~161 |
-| Arachnophobia | 0.70% | ~161 |
+| All the President's Men | 0.70% | ~162 |
+| Arachnophobia | 0.70% | ~162 |
 | Right Back At Ya | 0.60% | ~5,367 |
 | Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,443 (Ranked 15)  
-Completed: 2,732 (0.31%) (Ranked 211)  
+Progressed: 894,451 (Ranked 15)  
+Completed: 2,733 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,17 +264,17 @@ Completed: 2,732 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,443 | 2,732 |
+| 2023-10-29 | 894,451 | 2,733 |
 ## Awards
-Max (Character Customization): 102,340  (Ranked 9)  
-Sum: 332,992 (Ranked 10)  
+Max (Character Customization): 102,677  (Ranked 9)  
+Sum: 333,523 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 102,340 |
+| This game has Inclusive Character Customization | 102,677 |
 | This game has Great Boss Battles | 73,361 |
 | This game is Great for Beginners | 19,408 |
-| This game has Diverse Characters | 19,049 |
+| This game has Diverse Characters | 19,243 |
 | This game is Highly Recommended | 18,346 |
 | This game has Amazing Storytelling | 18,199 |
 | This game is Extremely Fun | 18,082 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -1
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
-| 2023-10-29 | 4.64 | - | 102,340 | 332,992 |
+| 2023-10-29 | 4.64 | - | 102,677 | 333,523 |

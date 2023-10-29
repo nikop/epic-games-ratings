@@ -4,8 +4,8 @@
   "ProductSlug": "hyper-scape",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:59:41.4884909+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:01:18.6774137+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:06:34.8377009+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:00:41.5706019+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:14.8727445+00:00"
 }

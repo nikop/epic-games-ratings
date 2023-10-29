@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.8,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -224,6 +224,11 @@
       "Time": "2023-10-24T23:08:02.1417476+00:00",
       "NumProgressed": 107,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T16:08:57.2677155+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -283,13 +288,13 @@
       "Name": "Tough Decision",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 76
     },
@@ -305,9 +310,9 @@
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "Headshots_0",
@@ -323,13 +328,13 @@
       "Name": "Veteran Sniper",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -355,13 +360,13 @@
       "Name": "The Neuro-connector",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 68
     },
@@ -379,7 +384,7 @@
       "Name": "Flatline",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "StealthDefeat_1",
@@ -403,7 +408,7 @@
       "Name": "Mind Over Matter",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -411,7 +416,7 @@
       "Name": "Gravity Bender",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -426,7 +431,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 3
     }
   ],
@@ -434,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:08:45.5197467+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:08:57.2677152+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.1775288+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:01.5884386+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:08:45.5197682+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:58.6633473+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:08:57.2677342+00:00"
 }

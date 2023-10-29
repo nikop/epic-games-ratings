@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6369,6 +6369,11 @@
       "Time": "2023-10-29T15:06:00.0794999+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T16:05:45.181947+00:00",
+      "NumProgressed": 1710,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6380,7 +6385,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6404,7 +6409,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6452,7 +6457,7 @@
       "Name": "Silver Achiever",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_headquarters_10",
@@ -6468,7 +6473,7 @@
       "Name": "Moving On Up",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_headquarters_20",
@@ -6524,7 +6529,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -6548,7 +6553,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6556,7 +6561,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6636,7 +6641,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6683,7 +6688,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1710,
       "Completed": 1
     }
   ],
@@ -6691,8 +6696,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:06:00.0794991+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:05:45.1819467+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:02:11.024903+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:06:00.0795703+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:02:42.3410642+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:05:45.1820073+00:00"
 }

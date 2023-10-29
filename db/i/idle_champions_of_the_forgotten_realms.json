@@ -7681,9 +7681,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233151,
+  "EOS_Progressed": 233159,
   "EOS_Completed": 2398,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29136,6 +29136,11 @@
       "Time": "2023-10-29T15:05:56.6175674+00:00",
       "NumProgressed": 233151,
       "NumCompleted": 2398
+    },
+    {
+      "Time": "2023-10-29T16:05:42.6282331+00:00",
+      "NumProgressed": 233159,
+      "NumCompleted": 2398
     }
   ],
   "TotalAchievements": 528,
@@ -29993,9 +29998,9 @@
       "ID": "objective_completed_1198",
       "SetID": "415jc5c",
       "Name": "Get Back In The Castle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1199",
@@ -33370,21 +33375,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199425,
+      "Progressed": 199433,
       "Completed": 3703
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233151,
+      "Progressed": 233159,
       "Completed": 2398
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-29T11:58:02.6436328+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:05:56.6175669+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:05:42.6282329+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:04.8216859+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:05:56.620507+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:58:02.0817399+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:05:42.631128+00:00"
 }

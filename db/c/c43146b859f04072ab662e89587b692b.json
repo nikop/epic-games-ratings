@@ -4,8 +4,8 @@
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
     "PcReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 23,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
@@ -174,8 +174,8 @@
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:22.368523+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:54.9297185+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:16.9155695+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:57:18.5253278+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:22.3685341+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:21.9049011+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:54.929729+00:00"
 }

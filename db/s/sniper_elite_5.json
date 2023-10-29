@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7963,9 +7963,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 949
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8138,8 +8138,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:06:51.8631662+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:29.2818968+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:59:47.0515675+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:06:51.8632861+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:59:29.622408+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:29.2820145+00:00"
 }

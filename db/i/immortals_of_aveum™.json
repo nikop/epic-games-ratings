@@ -5,10 +5,10 @@
   "Ranking_Rating": 987,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
-  "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.96,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -572,6 +572,11 @@
       "Time": "2023-10-29T15:07:07.0618511+00:00",
       "NumProgressed": 104,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T16:06:41.9962497+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -590,7 +595,7 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -646,9 +651,9 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_18",
@@ -662,7 +667,7 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 35
     },
@@ -670,9 +675,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_20",
@@ -726,7 +731,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 15,
       "UsersEstimate": 86
     },
@@ -806,9 +811,9 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_48",
@@ -822,15 +827,15 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 62
     },
@@ -878,7 +883,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -926,9 +931,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_7",
@@ -950,7 +955,7 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 35
     }
@@ -959,7 +964,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 1
     }
   ],
@@ -967,8 +972,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:07.0618506+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:41.9962494+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:26.3990914+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:07.0618966+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:58:18.6535235+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:41.996298+00:00"
 }

@@ -35,7 +35,7 @@
 | Leave me alone | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127 (Ranked 382)  
-Completed: 9 (7.09%) (Ranked 55)  
+Completed: 9 (7.09%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

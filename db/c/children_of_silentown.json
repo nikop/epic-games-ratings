@@ -2,10 +2,10 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -351,6 +351,11 @@
       "Time": "2023-10-26T22:07:24.029139+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T16:08:25.0818459+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -362,7 +367,7 @@
       "Name": "Blue\u0027s drawing",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Cat",
@@ -370,15 +375,15 @@
       "Name": "Cat",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "DogHair",
@@ -386,7 +391,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Doll",
@@ -432,9 +437,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "Friend",
@@ -466,7 +471,7 @@
       "Name": "Mysterious paintings",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HugeSnail",
@@ -482,7 +487,7 @@
       "Name": "Egghead Lucy",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Offroad",
@@ -504,9 +509,9 @@
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "Secret",
@@ -514,15 +519,15 @@
       "Name": "Old kettle",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 170
     },
     {
       "ID": "Toy",
@@ -530,7 +535,7 @@
       "Name": "Broken toy",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Trinket",
@@ -538,7 +543,7 @@
       "Name": "Lucky charm",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Trumpet",
@@ -569,7 +574,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:47.1857283+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:08:25.0818456+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6099095+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:01:37.8236415+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:47.1857501+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:00:56.3943986+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:08:25.0818676+00:00"
 }

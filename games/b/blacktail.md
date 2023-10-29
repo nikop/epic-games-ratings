@@ -33,8 +33,8 @@ Rating: 4.68 (Ranked 245)
 | Entangled | 3.00% | ~22 |
 | Witch's cookbook | 3.00% | ~22 |
 | Bad apple | 2.00% | ~14 |
+| Awards unwarded | 2.00% | ~14 |
 | Loremaster | 1.00% | ~7 |
-| Awards unwarded | 1.00% | ~7 |
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)

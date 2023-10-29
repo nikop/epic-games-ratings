@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_BOSS_02",
@@ -347,9 +347,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 45,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:04:01.8364772+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:04:05.5961401+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:00.8140441+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:04:01.8365134+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:57.9795787+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:04:05.5961762+00:00"
 }

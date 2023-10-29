@@ -14286,18 +14286,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 332992,
       "NumberOfAwardsMax": 102340
+    },
+    {
+      "Time": "2023-10-29T15:57:41.0110509+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 333523,
+      "NumberOfAwardsMax": 102677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332992,
-  "NumberOfAwardsMax": 102340,
+  "NumberOfAwards": 333523,
+  "NumberOfAwardsMax": 102677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 102340
+      "Count": 102677
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14309,7 +14315,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19049
+      "Count": 19243
     },
     {
       "Text": "This game is Relaxing",
@@ -14366,9 +14372,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894443,
-  "EOS_Completed": 2732,
-  "EOS_NewPlayers": 1129,
+  "EOS_Progressed": 894451,
+  "EOS_Completed": 2733,
+  "EOS_NewPlayers": 1130,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36156,6 +36162,11 @@
       "Time": "2023-10-29T15:04:18.0319178+00:00",
       "NumProgressed": 894443,
       "NumCompleted": 2732
+    },
+    {
+      "Time": "2023-10-29T16:04:19.3886173+00:00",
+      "NumProgressed": 894451,
+      "NumCompleted": 2733
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36240,7 +36251,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8944
+      "UsersEstimate": 8945
     },
     {
       "ID": "Gunslinger",
@@ -36496,7 +36507,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26833
+      "UsersEstimate": 26834
     },
     {
       "ID": "YipMan",
@@ -36624,7 +36635,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "HydraIsDead",
@@ -36640,7 +36651,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "KingOfTheCups",
@@ -36687,21 +36698,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894443,
-      "Completed": 2732
+      "Progressed": 894451,
+      "Completed": 2733
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23066,
+      "Progressed": 23074,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T11:57:32.4022796+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:04:18.0319172+00:00",
+  "LastChanged": "2023-10-29T15:57:41.0110508+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:04:19.3886171+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:57:41.7643129+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:04:18.0321081+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:41.0110514+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:04:19.3887995+00:00"
 }

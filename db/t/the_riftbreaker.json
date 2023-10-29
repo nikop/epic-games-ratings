@@ -4,11 +4,11 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 375,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-14T08:00:00+00:00",
     "PcReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -896,10 +896,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 244,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-10-29T15:57:54.9877989+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 244,
+  "NumberOfAwards": 246,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -919,7 +925,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
@@ -957,8 +963,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2023-10-26T10:03:07.8476504+00:00",
+  "LastChanged": "2023-10-29T15:57:54.9877987+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:14.5585208+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:00.0410787+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:04:14.2511477+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:54.9877994+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:04:16.2740945+00:00"
 }

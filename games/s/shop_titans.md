@@ -80,7 +80,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.70% | ~968 |
 | Attrition Mission | 0.70% | ~968 |
 | Glittering Collection | 0.70% | ~968 |
-| Moment of Respite | 0.70% | ~968 |
 | Master Recycler | 0.70% | ~968 |
 | Exotic Commodities | 0.70% | ~968 |
 | King's Blade | 0.70% | ~968 |
@@ -98,6 +97,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.60% | ~830 |
 | Precision Engineering | 0.60% | ~830 |
 | Treasure Trove | 0.60% | ~830 |
+| Moment of Respite | 0.60% | ~830 |
 | King's Shadow | 0.60% | ~830 |
 | Economy of Scarce | 0.60% | ~830 |
 | Jackpot! | 0.50% | ~692 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,302 (Ranked 77)  
+Progressed: 138,308 (Ranked 77)  
 Completed: 174 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 174 (0.13%) (Ranked 249)
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
-| 2023-10-29 | 138,302 | 174 |
+| 2023-10-29 | 138,308 | 174 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
 Sum: 27,464 (Ranked 51)  

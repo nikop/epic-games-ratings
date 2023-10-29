@@ -4,8 +4,8 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-10-28T18:07:04.2161282+00:00",
       "NumProgressed": 242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T16:03:36.6147425+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -1071,7 +1076,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Game Completed",
@@ -1111,7 +1116,7 @@
       "Name": "5 Suicide Guy statues",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Suicide Guy",
@@ -1134,14 +1139,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:03:51.4307878+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:03:36.6147421+00:00",
   "LastUpdate_AppInfo": "2023-10-25T06:57:03.9600763+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:59:26.7385758+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:03:51.430804+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:59:09.7583989+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:03:36.614758+00:00"
 }

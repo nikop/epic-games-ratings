@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 652,
+  "EOS_Progressed": 653,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
@@ -2857,6 +2857,11 @@
       "Time": "2023-10-27T22:07:55.4605426+00:00",
       "NumProgressed": 652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T16:06:55.6578844+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2924,7 +2929,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "Clothes10",
@@ -3026,9 +3031,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "Money10000",
@@ -3044,7 +3049,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Packing20",
@@ -3187,7 +3192,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 0
     }
   ],
@@ -3195,8 +3200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:23.3694653+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:55.6578842+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:54.8056823+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:58:48.5881204+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:23.3695161+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:58:37.3327834+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:55.657931+00:00"
 }

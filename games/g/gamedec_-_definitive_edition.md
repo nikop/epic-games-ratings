@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,150 |
-| Powergamer | 27.00% | ~67,645 |
-| Write that down | 25.00% | ~62,634 |
-| Barely scratched the surface | 25.00% | ~62,634 |
-| Guns, lots of guns | 13.00% | ~32,570 |
-| Collector | 12.00% | ~30,064 |
-| Elementary! | 9.00% | ~22,548 |
-| Griever | 8.00% | ~20,043 |
-| Pumpkin Jack | 8.00% | ~20,043 |
-| Wake up! | 8.00% | ~20,043 |
+| I will finish what you started | 28.00% | ~70,153 |
+| Powergamer | 27.00% | ~67,647 |
+| Write that down | 25.00% | ~62,636 |
+| Barely scratched the surface | 25.00% | ~62,636 |
+| Guns, lots of guns | 13.00% | ~32,571 |
+| Collector | 12.00% | ~30,065 |
+| Elementary! | 9.00% | ~22,549 |
+| Griever | 8.00% | ~20,044 |
+| Pumpkin Jack | 8.00% | ~20,044 |
+| Wake up! | 8.00% | ~20,044 |
 | It's honest work | 7.00% | ~17,538 |
-| Me smart | 6.00% | ~15,032 |
-| Trash compactor | 6.00% | ~15,032 |
+| Me smart | 6.00% | ~15,033 |
+| Trash compactor | 6.00% | ~15,033 |
 | Good listener | 5.00% | ~12,527 |
 | Valedictorian | 5.00% | ~12,527 |
-| BOY! | 4.00% | ~10,021 |
-| Ka-ching! | 4.00% | ~10,021 |
-| So you like to read? | 4.00% | ~10,021 |
+| BOY! | 4.00% | ~10,022 |
+| Ka-ching! | 4.00% | ~10,022 |
+| So you like to read? | 4.00% | ~10,022 |
 | Hoarder | 3.00% | ~7,516 |
 | I like to sniff around | 3.00% | ~7,516 |
 | Mind reader | 3.00% | ~7,516 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~501 |
 | Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,536 (Ranked 55)  
+Progressed: 250,545 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 7 (0.00%) (Ranked 331)
 | 2023-10-26 | 250,263 | 7 |
 | 2023-10-27 | 250,355 | 7 |
 | 2023-10-28 | 250,469 | 7 |
-| 2023-10-29 | 250,536 | 7 |
+| 2023-10-29 | 250,545 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 372)  
 Sum: 86 (Ranked 445)  

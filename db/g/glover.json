@@ -4,8 +4,8 @@
   "ProductSlug": "glover-9e820d",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-18T05:00:00+00:00",
     "PcReleaseDate": "2022-07-18T05:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-04-08T16:57:50.292162+00:00",
   "LastChanged": "2023-04-08T16:57:50.292162+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.9669452+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:59:38.8698363+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:12.2085246+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:59:23.8347235+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:46.169632+00:00"
 }

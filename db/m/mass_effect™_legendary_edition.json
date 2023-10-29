@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2782,9 +2782,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_42",
@@ -2926,9 +2926,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_59",
@@ -3142,9 +3142,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_83",
@@ -3306,8 +3306,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:06:06.1796983+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:05:50.0878074+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:59:47.4367117+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:06:06.1799368+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:59:29.9326119+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:05:50.0880506+00:00"
 }

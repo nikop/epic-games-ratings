@@ -6,22 +6,22 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~799 |
+| Cabin boy | 81.00% | ~800 |
 | My little farm | 64.00% | ~632 |
 | Every beginning is difficult | 63.00% | ~622 |
 | Gofer | 57.00% | ~563 |
 | 3, 2, 1, mine | 55.00% | ~543 |
 | O Captain! My Captain! | 55.00% | ~543 |
-| Seafarer | 52.00% | ~513 |
-| Intangible | 43.00% | ~424 |
-| Greed for gold | 43.00% | ~424 |
+| Seafarer | 52.00% | ~514 |
+| Intangible | 43.00% | ~425 |
+| Greed for gold | 43.00% | ~425 |
 | I'm out of here for a while | 42.00% | ~415 |
 | In a mint condition | 38.00% | ~375 |
-| Licence to Kill | 37.00% | ~365 |
+| Licence to Kill | 37.00% | ~366 |
 | Pirates! | 34.00% | ~336 |
-| Collectionitis | 29.00% | ~286 |
-| Christening | 28.00% | ~276 |
-| Megalomania | 28.00% | ~276 |
+| Collectionitis | 29.00% | ~287 |
+| Christening | 28.00% | ~277 |
+| Megalomania | 28.00% | ~277 |
 | Groundskeeper | 26.00% | ~257 |
 | Wholesale | 22.00% | ~217 |
 | Walk the plank | 21.00% | ~207 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~59 |
 | Buccaneer | 5.00% | ~49 |
 | Flying Dutchman | 5.00% | ~49 |
-| A true pirate! | 4.00% | ~39 |
-| Overpopulation | 4.00% | ~39 |
+| A true pirate! | 4.00% | ~40 |
+| Overpopulation | 4.00% | ~40 |
 | Premier Maître | 3.00% | ~30 |
 | Supreme conqueror | 3.00% | ~30 |
 | Strategist | 2.00% | ~20 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 987 (Ranked 246)  
+Progressed: 988 (Ranked 246)  
 Completed: 1 (0.10%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 1 (0.10%) (Ranked 259)
 | 2023-10-25 | 981 | 1 |
 | 2023-10-26 | 983 | 1 |
 | 2023-10-28 | 986 | 1 |
-| 2023-10-29 | 987 | 1 |
+| 2023-10-29 | 988 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

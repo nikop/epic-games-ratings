@@ -51,11 +51,11 @@
 | The Justicar | 34.00% | ~287 |
 | Catharsis | 34.00% | ~287 |
 | Ghost of the Father | 34.00% | ~287 |
+| The Cure | 34.00% | ~287 |
 | The Prodigal | 34.00% | ~287 |
 | Shopaholic | 34.00% | ~287 |
 | Archivist | 33.00% | ~278 |
 | Battlemaster | 33.00% | ~278 |
-| The Cure | 33.00% | ~278 |
 | Big Game Hunter | 33.00% | ~278 |
 | Revenge! | 33.00% | ~278 |
 | Heart of Darkness | 33.00% | ~278 |
@@ -71,15 +71,15 @@
 | Doppelganger | 30.00% | ~253 |
 | Mission Accomplished | 29.00% | ~244 |
 | Suicide Mission | 29.00% | ~244 |
+| Against All Odds | 29.00% | ~244 |
 | Mobilizer | 29.00% | ~244 |
 | Untouchable | 28.00% | ~236 |
 | First Aid Specialist | 28.00% | ~236 |
-| Against All Odds | 28.00% | ~236 |
 | Giant Killer | 27.00% | ~228 |
 | A House Divided | 27.00% | ~228 |
+| World Shaker | 27.00% | ~228 |
 | Eye of the Hurricane | 26.00% | ~219 |
 | Weapon Specialist | 26.00% | ~219 |
-| World Shaker | 26.00% | ~219 |
 | Liberator | 26.00% | ~219 |
 | Tunnel Rat | 25.00% | ~211 |
 | Pathfinder | 24.00% | ~202 |

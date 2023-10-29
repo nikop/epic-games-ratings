@@ -435,9 +435,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3096,
+  "EOS_Progressed": 3097,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
@@ -4195,6 +4195,11 @@
       "Time": "2023-10-29T15:07:04.192589+00:00",
       "NumProgressed": 3096,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-10-29T16:06:39.5674164+00:00",
+      "NumProgressed": 3097,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -4220,9 +4225,9 @@
       "ID": "ACH_CAT_LOVER",
       "SetID": "4kfb9pd",
       "Name": "Cat Person",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 805
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_CLIMBER",
@@ -4244,9 +4249,9 @@
       "ID": "ACH_EASY_AS_PIE",
       "SetID": "4kfb9pd",
       "Name": "Easy As Pie",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -4310,14 +4315,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3096,
+      "Progressed": 3097,
       "Completed": 125
     }
   ],
@@ -4325,8 +4330,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:04.1925882+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:39.5674159+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:01:24.1388182+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:04.192623+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:00:47.0243163+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:39.5674952+00:00"
 }

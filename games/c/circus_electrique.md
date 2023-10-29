@@ -7,18 +7,18 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 47.00% | ~222 |
-| Grand Opening | 42.00% | ~198 |
-| Circus Electrique Proudly Presents... | 42.00% | ~198 |
-| Path of Learning | 42.00% | ~198 |
-| Built in a Day | 35.00% | ~165 |
+| Grand Opening | 42.00% | ~199 |
+| Circus Electrique Proudly Presents... | 42.00% | ~199 |
+| Path of Learning | 41.00% | ~194 |
+| Built in a Day | 34.00% | ~161 |
 | More Brain Than Brawn | 30.00% | ~142 |
 | Perfect Illusion | 25.00% | ~118 |
 | Hundred Percent First | 25.00% | ~118 |
 | Dirty Dozen | 21.00% | ~99 |
 | Lion Tamer | 19.00% | ~90 |
 | Fan Service | 19.00% | ~90 |
-| King of District 1 | 17.00% | ~80 |
 | Amazing! | 17.00% | ~80 |
+| King of District 1 | 16.00% | ~76 |
 | Lucky Day | 15.00% | ~71 |
 | Bar Brawler | 15.00% | ~71 |
 | Flawless Presentation | 15.00% | ~71 |
@@ -26,15 +26,15 @@ Number of Ratings: 22  (23.09.2022)
 | King of District 2 | 13.00% | ~61 |
 | Time Travel! | 12.00% | ~57 |
 | Marketing Manager | 11.00% | ~52 |
-| Circus Versus Circus | 9.00% | ~42 |
-| King of District 3 | 9.00% | ~42 |
+| Circus Versus Circus | 9.00% | ~43 |
+| King of District 3 | 9.00% | ~43 |
 | Club Member | 7.00% | ~33 |
 | Hundred Percent Second | 7.00% | ~33 |
 | Spirits High | 7.00% | ~33 |
 | Mobile Infantry | 7.00% | ~33 |
 | Club Champion | 6.00% | ~28 |
-| King of District 4 | 6.00% | ~28 |
 | Around the Clock | 5.00% | ~24 |
+| King of District 4 | 5.00% | ~24 |
 | City Savior | 4.00% | ~19 |
 | King of District 5 | 4.00% | ~19 |
 | Accomplished Veteran | 3.00% | ~14 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472 (Ranked 292)  
+Progressed: 473 (Ranked 292)  
 Completed: 1 (0.21%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 1 (0.21%) (Ranked 230)
 | 2023-10-01 | 470 | 1 |
 | 2023-10-14 | 471 | 1 |
 | 2023-10-18 | 472 | 1 |
+| 2023-10-29 | 473 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

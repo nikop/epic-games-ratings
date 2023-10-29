@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.63,
+  "EOS_Completed_Percentage": 6.61,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1560,6 +1560,11 @@
       "Time": "2023-10-29T13:07:44.7686935+00:00",
       "NumProgressed": 332,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-29T16:05:44.5599405+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1739,7 +1744,7 @@
       "Name": "The great escape",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_N3",
@@ -1747,7 +1752,7 @@
       "Name": "A new dawn",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "PROGRESS_N4",
@@ -1770,14 +1775,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:05:59.3419133+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:05:44.5599402+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:59:14.4264417+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:05:59.3419443+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:59:01.598722+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:05:44.5599679+00:00"
 }

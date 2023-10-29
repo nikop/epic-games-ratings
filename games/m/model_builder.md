@@ -76,7 +76,7 @@ Rating: 4.12 (Ranked 945)
 | The Model Builder | 0.00% | ~0 |
 | Powerup! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 654)  
+Progressed: 1 (Ranked 655)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |

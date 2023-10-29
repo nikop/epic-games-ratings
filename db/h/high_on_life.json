@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24383,
+  "EOS_Progressed": 24385,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6216,6 +6216,11 @@
       "Time": "2023-10-29T06:07:38.1938963+00:00",
       "NumProgressed": 24383,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-29T16:06:39.7956842+00:00",
+      "NumProgressed": 24385,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6289,9 +6294,9 @@
       "ID": "ACH_GET_KNIFEY",
       "SetID": "cdkbb11",
       "Name": "Bring A Knife to a Gun Fight",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -6578,13 +6583,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24383,
+      "Progressed": 24385,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1676,
+      "Progressed": 1678,
       "Completed": 1375
     }
   ],
@@ -6592,8 +6597,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-29T15:07:04.4292285+00:00",
+  "LastChanged_Achievements": "2023-10-29T16:06:39.795684+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:57:47.5705254+00:00",
-  "LastUpdate_Achievements": "2023-10-29T15:07:04.429304+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:57:45.0247831+00:00",
+  "LastUpdate_Achievements": "2023-10-29T16:06:39.7957566+00:00"
 }
