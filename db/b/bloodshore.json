@@ -3,9 +3,9 @@
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -360,6 +360,11 @@
       "Time": "2023-10-29T09:08:51.2447313+00:00",
       "NumProgressed": 200,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T22:04:05.2949867+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -369,9 +374,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "comedy_killer",
@@ -393,9 +398,9 @@
       "ID": "deathlooper",
       "SetID": "84ad177",
       "Name": "Deathlooper",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "good_job_nerd",
@@ -409,9 +414,9 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "lootaphilia",
@@ -433,9 +438,9 @@
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "mission_complete",
@@ -449,17 +454,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 105
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "thats_my_boy",
@@ -481,32 +486,32 @@
       "ID": "tried_to_warn_you",
       "SetID": "84ad177",
       "Name": "We tried to warn you!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "used_to_think_i_was_indecisive",
       "SetID": "84ad177",
       "Name": "I used to think I was indecisive...",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 5
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:03:50.7572873+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:04:05.2949861+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.7460257+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:03:33.3604572+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:03:50.7573079+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:03:45.9954497+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:04:05.2950078+00:00"
 }

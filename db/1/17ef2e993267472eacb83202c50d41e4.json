@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7561,
+  "EOS_Progressed": 7562,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5292,6 +5292,11 @@
       "Time": "2023-10-29T21:10:16.2331126+00:00",
       "NumProgressed": 7561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T22:10:35.9518741+00:00",
+      "NumProgressed": 7562,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5672,7 +5677,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "MaxTowersKilled6",
@@ -5736,7 +5741,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "PlayerKills100",
@@ -5895,7 +5900,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7561,
+      "Progressed": 7562,
       "Completed": 1
     }
   ],
@@ -5903,8 +5908,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:10:16.2331121+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:10:35.9518735+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:02:52.6297957+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:10:16.2332263+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:03:21.039148+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:10:35.9520061+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8199,7 +8199,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806485,
+  "EOS_Progressed": 806487,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 0,
@@ -29739,6 +29739,11 @@
       "Time": "2023-10-29T21:05:35.0329363+00:00",
       "NumProgressed": 806485,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-29T22:06:07.7844047+00:00",
+      "NumProgressed": 806487,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -29830,7 +29835,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258075
+      "UsersEstimate": 258076
     },
     {
       "ID": "Bookworm",
@@ -29862,7 +29867,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201621
+      "UsersEstimate": 201622
     },
     {
       "ID": "Chivalrous",
@@ -29910,7 +29915,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80648
+      "UsersEstimate": 80649
     },
     {
       "ID": "DavidHorak",
@@ -30286,7 +30291,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88713
+      "UsersEstimate": 88714
     },
     {
       "ID": "Sniper",
@@ -30358,7 +30363,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88713
+      "UsersEstimate": 88714
     },
     {
       "ID": "TrialAndError",
@@ -30405,15 +30410,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806485,
+      "Progressed": 806487,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-29T18:57:28.6735885+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:05:35.0329357+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:06:07.7844041+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:14.6949247+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:58:00.9312402+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:05:35.0333484+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:58:01.5749108+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:06:07.7846471+00:00"
 }

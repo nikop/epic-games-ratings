@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "collect_items_mother",
       "SetID": "f2im8d",
       "Name": "Something to think about",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect_most_of_memories",
@@ -459,9 +459,9 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "preferred_parent",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:08:06.800565+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:08:40.1579142+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:03:38.022376+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:08:06.8006514+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:03:54.6620717+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:08:40.157962+00:00"
 }

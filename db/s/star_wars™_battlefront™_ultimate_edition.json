@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-10-29T21:09:52.5407378+00:00",
       "NumProgressed": 915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T22:10:08.735361+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2775,9 +2780,9 @@
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_30",
@@ -2823,9 +2828,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 834
     },
     {
       "ID": "achievement_36",
@@ -2841,7 +2846,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "achievement_38",
@@ -2953,7 +2958,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_50",
@@ -3104,13 +3109,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 1
     }
   ],
@@ -3118,8 +3123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:09:52.5407372+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:10:08.7353604+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:58:53.9966156+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:09:52.5408255+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:59:00.8171389+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:10:08.7354877+00:00"
 }

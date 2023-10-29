@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 405,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -4937,10 +4937,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 28602,
       "NumberOfAwardsMax": 13901
+    },
+    {
+      "Time": "2023-10-29T21:58:55.3920177+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28604,
+      "NumberOfAwardsMax": 13901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28602,
+  "NumberOfAwards": 28604,
   "NumberOfAwardsMax": 13901,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4996,7 +5002,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1469
+      "Count": 1471
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5029,8 +5035,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-10-29T18:58:05.8440606+00:00",
+  "LastChanged": "2023-10-29T21:58:55.3920174+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:42.5819254+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:58:50.9348758+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:07:14.6073709+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:58:55.3920181+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:07:39.9633031+00:00"
 }

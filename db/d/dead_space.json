@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -683,7 +683,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1326,
+  "EOS_Progressed": 1327,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
@@ -4058,6 +4058,11 @@
       "Time": "2023-10-29T20:03:47.07116+00:00",
       "NumProgressed": 1326,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-29T22:04:47.8831865+00:00",
+      "NumProgressed": 1327,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4070,15 +4075,15 @@
       "Name": "Welcome Aboard",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "achievement_10",
       "SetID": "222fo9l",
       "Name": "Keeper of the Faith",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_11",
@@ -4110,7 +4115,7 @@
       "Name": "Whole Again",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_15",
@@ -4158,7 +4163,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "achievement_20",
@@ -4166,7 +4171,7 @@
       "Name": "Autofire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "achievement_21",
@@ -4246,7 +4251,7 @@
       "Name": "All Systems Go",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "achievement_30",
@@ -4262,7 +4267,7 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "achievement_32",
@@ -4294,7 +4299,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "achievement_36",
@@ -4358,7 +4363,7 @@
       "Name": "Brute Force",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "achievement_43",
@@ -4374,7 +4379,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_45",
@@ -4390,7 +4395,7 @@
       "Name": "Marked",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_47",
@@ -4430,7 +4435,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_9",
@@ -4445,7 +4450,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 7
     }
   ],
@@ -4453,8 +4458,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:04:26.2767918+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:04:47.883186+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:02:29.0518165+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:04:26.2768686+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:02:54.4048037+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:04:47.8832574+00:00"
 }

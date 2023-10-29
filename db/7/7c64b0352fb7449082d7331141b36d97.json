@@ -4,8 +4,8 @@
   "ProductSlug": "commandos-origins-ec78ba",
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-26T14:57:36.4865255+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:58:19.4502414+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:09:36.954642+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:58:21.7322129+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:09:50.195445+00:00"
 }

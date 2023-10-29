@@ -6,34 +6,34 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~229,223 |
-| Uncharted Territory | 89.00% | ~212,509 |
-| Getting A Glimpse | 73.00% | ~174,305 |
-| A Quick Escape | 65.00% | ~155,203 |
+| First Steps | 96.00% | ~229,224 |
+| Uncharted Territory | 89.00% | ~212,510 |
+| Getting A Glimpse | 73.00% | ~174,306 |
+| A Quick Escape | 65.00% | ~155,204 |
 | Explorer | 62.00% | ~148,040 |
 | An Offering | 62.00% | ~148,040 |
-| Defeat The Dark | 61.00% | ~145,652 |
-| Colorful Corpse | 58.00% | ~138,489 |
-| That Was Quick | 57.00% | ~136,101 |
-| A Donation | 57.00% | ~136,101 |
-| Goodbye, Frog Friend | 54.00% | ~128,938 |
-| Heavy Hitter | 53.00% | ~126,550 |
+| Defeat The Dark | 61.00% | ~145,653 |
+| Colorful Corpse | 58.00% | ~138,490 |
+| That Was Quick | 57.00% | ~136,102 |
+| A Donation | 57.00% | ~136,102 |
+| Goodbye, Frog Friend | 54.00% | ~128,939 |
+| Heavy Hitter | 53.00% | ~126,551 |
 | Heartless | 46.00% | ~109,836 |
 | Spine Breaker | 46.00% | ~109,836 |
-| Deflection | 45.00% | ~107,448 |
+| Deflection | 45.00% | ~107,449 |
 | Sneaky | 43.00% | ~102,673 |
-| Ambitious Intent | 42.00% | ~100,285 |
-| Delving Deeper | 42.00% | ~100,285 |
-| C-C-Combo | 42.00% | ~100,285 |
+| Ambitious Intent | 42.00% | ~100,286 |
+| Delving Deeper | 42.00% | ~100,286 |
+| C-C-Combo | 42.00% | ~100,286 |
 | Nothing To Lose | 40.00% | ~95,510 |
 | The Bestiary | 40.00% | ~95,510 |
 | What's Yours Is Mine | 39.00% | ~93,122 |
-| R.I.P | 37.00% | ~88,346 |
+| R.I.P | 37.00% | ~88,347 |
 | Shootout | 36.00% | ~85,959 |
 | I Am Overburdened | 35.00% | ~83,571 |
-| Cold Hearted | 34.00% | ~81,183 |
-| Dig Your Own Grave | 33.00% | ~78,795 |
-| Toxic | 33.00% | ~78,795 |
+| Cold Hearted | 34.00% | ~81,184 |
+| Dig Your Own Grave | 33.00% | ~78,796 |
+| Toxic | 33.00% | ~78,796 |
 | Who To Trust? | 32.00% | ~76,408 |
 | Flesh Wound | 30.00% | ~71,632 |
 | Walk It Off | 28.00% | ~66,857 |
@@ -62,8 +62,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 12.00% | ~28,653 |
 | Antivenom | 12.00% | ~28,653 |
 | Thank You, Friend | 11.00% | ~26,265 |
-| Barbecue | 10.00% | ~23,877 |
-| Snake Sneak | 10.00% | ~23,877 |
+| Barbecue | 10.00% | ~23,878 |
+| Snake Sneak | 10.00% | ~23,878 |
 | Precious | 9.00% | ~21,490 |
 | Challenge Increases | 8.00% | ~19,102 |
 | New Game+ | 8.00% | ~19,102 |
@@ -102,13 +102,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 3.00% | ~7,163 |
 | Illuminate, Annihilate | 3.00% | ~7,163 |
 | Masochist | 3.00% | ~7,163 |
-| Poor Choices | 2.00% | ~4,775 |
-| Not What I Meant | 2.00% | ~4,775 |
-| A Rock And A Hard Place | 2.00% | ~4,775 |
-| Sprinter | 2.00% | ~4,775 |
-| The Tickler | 2.00% | ~4,775 |
-| Minimalist | 2.00% | ~4,775 |
-| Quick To Pick | 2.00% | ~4,775 |
+| Poor Choices | 2.00% | ~4,776 |
+| Not What I Meant | 2.00% | ~4,776 |
+| A Rock And A Hard Place | 2.00% | ~4,776 |
+| Sprinter | 2.00% | ~4,776 |
+| The Tickler | 2.00% | ~4,776 |
+| Minimalist | 2.00% | ~4,776 |
+| Quick To Pick | 2.00% | ~4,776 |
 | Hanging On | 1.00% | ~2,388 |
 | For Science | 1.00% | ~2,388 |
 | Master of Strategy | 1.00% | ~2,388 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,194 |
 | Near Death Experience | 0.30% | ~716 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,774 (Ranked 58)  
+Progressed: 238,775 (Ranked 58)  
 Completed: 286 (0.12%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,17 +321,17 @@ Completed: 286 (0.12%) (Ranked 254)
 | 2023-10-26 | 238,583 | 285 |
 | 2023-10-27 | 238,639 | 285 |
 | 2023-10-28 | 238,700 | 286 |
-| 2023-10-29 | 238,774 | 286 |
+| 2023-10-29 | 238,775 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,499  (Ranked 128)  
-Sum: 11,634 (Ranked 83)  
+Sum: 11,635 (Ranked 83)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |
 | This game has Quickly Understood Controls | 1,499 |
 | This game is Relaxing | 1,433 |
-| This game has Challenging Combat | 1,431 |
+| This game has Challenging Combat | 1,432 |
 | This game is Extremely Fun | 1,408 |
 | This game is Highly Recommended | 1,374 |
 | This game has Amazing Storytelling | 1,317 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 45
 | 2023-10-26 | 4.58 | - | 1,498 | 11,627 |
 | 2023-10-27 | 4.58 | - | 1,498 | 11,632 |
 | 2023-10-28 | 4.58 | - | 1,499 | 11,634 |
+| 2023-10-29 | 4.58 | - | 1,499 | 11,635 |

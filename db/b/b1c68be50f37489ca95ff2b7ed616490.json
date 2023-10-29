@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -134,6 +134,11 @@
       "Time": "2023-10-29T15:07:47.4291408+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T22:04:09.1884997+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -144,9 +149,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "10",
@@ -232,7 +237,7 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -256,7 +261,7 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -296,7 +301,7 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -304,7 +309,7 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -312,7 +317,7 @@
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -320,7 +325,7 @@
       "ID": "5",
       "SetID": "6bgoh8g",
       "Name": "The power of observation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -344,7 +349,7 @@
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -361,14 +366,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:03:53.9297439+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:04:09.188499+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:18.4814176+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:03:40.3592036+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:03:53.9297741+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:03:57.2560901+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:04:09.1885395+00:00"
 }

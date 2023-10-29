@@ -6,14 +6,14 @@ Rating: 3.55 (Ranked 1,025)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Be Seeing You | 22.00% | ~16,953 |
-| Master, Commander | 21.00% | ~16,182 |
+| Master, Commander | 21.00% | ~16,183 |
 | Hard Worker | 20.00% | ~15,412 |
-| Mechanic | 19.00% | ~14,641 |
+| Mechanic | 19.00% | ~14,642 |
 | Adios, Friendo | 18.00% | ~13,871 |
 | Bottom's Up | 18.00% | ~13,871 |
-| Nice Try | 16.00% | ~12,329 |
+| Nice Try | 16.00% | ~12,330 |
 | Right On Target | 13.00% | ~10,018 |
-| Piano Man | 11.00% | ~8,476 |
+| Piano Man | 11.00% | ~8,477 |
 | Lazy Bones | 9.00% | ~6,935 |
 | Vinyl Vibes | 8.00% | ~6,165 |
 | Nothing Left to Say | 7.00% | ~5,394 |
@@ -31,7 +31,7 @@ Rating: 3.55 (Ranked 1,025)
 | Audiophile | 2.00% | ~1,541 |
 | Tape Head | 2.00% | ~1,541 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,059 (Ranked 95)  
+Progressed: 77,061 (Ranked 95)  
 Completed: 810 (1.05%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 810 (1.05%) (Ranked 148)
 | 2023-10-26 | 76,766 | 807 |
 | 2023-10-27 | 76,858 | 807 |
 | 2023-10-28 | 76,967 | 808 |
-| 2023-10-29 | 77,059 | 810 |
+| 2023-10-29 | 77,061 | 810 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

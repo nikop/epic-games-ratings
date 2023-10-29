@@ -4,8 +4,8 @@
   "ProductSlug": "nova-roma-80e0f1",
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-23T11:57:16.3449381+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:01:27.6285888+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:07:05.2584621+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:01:44.2268988+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:07:29.5753523+00:00"
 }

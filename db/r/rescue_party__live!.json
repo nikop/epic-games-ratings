@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -476,9 +476,9 @@
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_SPEEDY",
@@ -501,8 +501,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:04:17.0674019+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:04:36.6845661+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:41.2804323+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:01:07.8123909+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:04:17.0674174+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:01:23.0407761+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:04:36.6845811+00:00"
 }

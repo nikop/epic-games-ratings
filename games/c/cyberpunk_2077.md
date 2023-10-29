@@ -9,9 +9,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 3.00% | ~26,835 |
 | Gun Fu | 1.00% | ~8,945 |
 | Ten out of Ten | 0.80% | ~7,156 |
-| Full Body Conversion | 0.70% | ~6,261 |
-| The High Priestess | 0.70% | ~6,261 |
-| True Soldier | 0.70% | ~6,261 |
+| Full Body Conversion | 0.70% | ~6,262 |
+| The High Priestess | 0.70% | ~6,262 |
+| True Soldier | 0.70% | ~6,262 |
 | Relic Ruler | 0.70% | ~162 |
 | All the President's Men | 0.70% | ~162 |
 | Arachnophobia | 0.70% | ~162 |
@@ -21,11 +21,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.60% | ~5,367 |
 | The Wheel of Fortune | 0.60% | ~5,367 |
 | Legend of The Afterlife | 0.60% | ~5,367 |
-| The Quick and the Dead | 0.50% | ~4,472 |
-| Life of the Road | 0.50% | ~4,472 |
-| The Lovers | 0.50% | ~4,472 |
-| True Warrior | 0.50% | ~4,472 |
-| Two Heads, One Bullet | 0.50% | ~4,472 |
+| The Quick and the Dead | 0.50% | ~4,473 |
+| Life of the Road | 0.50% | ~4,473 |
+| The Lovers | 0.50% | ~4,473 |
+| True Warrior | 0.50% | ~4,473 |
+| Two Heads, One Bullet | 0.50% | ~4,473 |
 | Spin Doctor | 0.50% | ~116 |
 | Bushido and Chill | 0.40% | ~3,578 |
 | Gunslinger | 0.40% | ~3,578 |
@@ -36,12 +36,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.40% | ~3,578 |
 | The Jungle | 0.40% | ~3,578 |
 | Judy vs Night City | 0.40% | ~3,578 |
-| To Bad Decisions! | 0.30% | ~2,683 |
-| To Protect and Serve | 0.30% | ~2,683 |
-| The Wandering Fool | 0.30% | ~2,683 |
-| Mean Streets | 0.30% | ~2,683 |
-| Temperance | 0.30% | ~2,683 |
-| The Fool | 0.30% | ~2,683 |
+| To Bad Decisions! | 0.30% | ~2,684 |
+| To Protect and Serve | 0.30% | ~2,684 |
+| The Wandering Fool | 0.30% | ~2,684 |
+| Mean Streets | 0.30% | ~2,684 |
+| Temperance | 0.30% | ~2,684 |
+| The Fool | 0.30% | ~2,684 |
 | King of Wands | 0.30% | ~69 |
 | City Lights | 0.20% | ~1,789 |
 | Must Be Rats | 0.20% | ~1,789 |
@@ -54,12 +54,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.20% | ~46 |
 | King of Swords | 0.20% | ~46 |
 | The Tower | 0.20% | ~46 |
-| Autojock | 0.10% | ~894 |
-| Frequent Flyer | 0.10% | ~894 |
-| Little Tokyo | 0.10% | ~894 |
-| The Wasteland | 0.10% | ~894 |
-| Daemon In The Shell | 0.10% | ~894 |
-| Greetings from Pacifica! | 0.10% | ~894 |
+| Autojock | 0.10% | ~895 |
+| Frequent Flyer | 0.10% | ~895 |
+| Little Tokyo | 0.10% | ~895 |
+| The Wasteland | 0.10% | ~895 |
+| Daemon In The Shell | 0.10% | ~895 |
+| Greetings from Pacifica! | 0.10% | ~895 |
 | King of Cups | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,496 (Ranked 15)  
+Progressed: 894,506 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 2,733 (0.31%) (Ranked 212)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,496 | 2,733 |
+| 2023-10-29 | 894,506 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
-Sum: 333,638 (Ranked 10)  
+Sum: 333,788 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -275,8 +275,8 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 73,361 |
 | This game is Great for Beginners | 19,408 |
 | This game has Diverse Characters | 19,243 |
+| This game has Amazing Storytelling | 18,349 |
 | This game is Highly Recommended | 18,346 |
-| This game has Amazing Storytelling | 18,199 |
 | This game is Extremely Fun | 18,082 |
 | This game has Amazing Characters | 17,872 |
 | This game is Relaxing | 17,282 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -1
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
-| 2023-10-29 | 4.64 | - | 102,677 | 333,638 |
+| 2023-10-29 | 4.64 | - | 102,677 | 333,788 |

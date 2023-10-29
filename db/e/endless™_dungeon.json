@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 908,
+  "EOS_Progressed": 909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-10-29T21:04:36.7363012+00:00",
       "NumProgressed": 908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T22:05:00.0018468+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1113,7 +1118,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1256,14 +1261,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 908,
+      "Progressed": 909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:04:36.7363006+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:05:00.0018461+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:02:42.527418+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:04:36.7363347+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:03:11.1313649+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:05:00.0018922+00:00"
 }

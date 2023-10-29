@@ -7,7 +7,7 @@
 | ASAP | 97.00% | ~219 |
 | Medal of honor | 38.00% | ~86 |
 | Life matters | 38.00% | ~86 |
-| Safety first | 33.00% | ~75 |
+| Safety first | 34.00% | ~77 |
 | Professional team! | 25.00% | ~56 |
 | Resource manager | 14.00% | ~32 |
 | Dawn of Victory | 13.00% | ~29 |

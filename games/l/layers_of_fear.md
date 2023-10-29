@@ -15,9 +15,9 @@
 | Scraps of love | 25.00% | ~7 |
 | Sign of weakness | 25.00% | ~7 |
 | First steps | 18.00% | ~5 |
+| Playtime | 18.00% | ~5 |
 | Tough conversation | 18.00% | ~5 |
 | Breaking free | 14.00% | ~4 |
-| Playtime | 14.00% | ~4 |
 | The tragedy unfolds | 14.00% | ~4 |
 | Face your fears | 11.00% | ~3 |
 | A Slice of Life | 11.00% | ~3 |
@@ -30,11 +30,11 @@
 | Fisherman | 7.00% | ~2 |
 | True Reflection | 7.00% | ~2 |
 | Whispers long forgotten | 7.00% | ~2 |
+| Something to think about | 4.00% | ~1 |
 | We Are Not Alone | 4.00% | ~1 |
 | The Perfect Storm | 4.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
-| Something to think about | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
 | Body of Work | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |

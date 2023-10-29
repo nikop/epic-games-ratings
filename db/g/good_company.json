@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5535,
+  "EOS_Progressed": 5536,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4058,6 +4058,11 @@
       "Time": "2023-10-29T19:06:27.6522883+00:00",
       "NumProgressed": 5535,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T22:08:38.4899334+00:00",
+      "NumProgressed": 5536,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4157,7 +4162,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_campaign_progress3",
@@ -4181,7 +4186,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4317,7 +4322,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_campaign_special5",
@@ -4493,7 +4498,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -4676,15 +4681,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5535,
+      "Progressed": 5536,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-10-29T21:08:05.40321+00:00",
+  "LastChanged_Achievements": "2023-10-29T22:08:38.4899329+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:39.3994423+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:58:46.5069609+00:00",
-  "LastUpdate_Achievements": "2023-10-29T21:08:05.4033241+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:58:51.1852048+00:00",
+  "LastUpdate_Achievements": "2023-10-29T22:08:38.4900508+00:00"
 }
