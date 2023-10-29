@@ -637,6 +637,7 @@
 | [Sphere Guider](../games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 16 | 1,000 |
 | [SYNCED](../games/s/synced.md) | 16 | 1,000 |
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |
+| [The Hidden Room](../games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 16 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |
