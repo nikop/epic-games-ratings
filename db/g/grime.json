@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 64,
@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155338,
+  "EOS_Progressed": 155343,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1449,
+  "EOS_NewPlayers": 1446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13508,6 +13508,11 @@
       "Time": "2023-10-29T10:06:07.2644893+00:00",
       "NumProgressed": 155338,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T11:05:35.4890715+00:00",
+      "NumProgressed": 155343,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13773,9 +13778,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1553
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -13886,21 +13891,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154921,
+      "Progressed": 154926,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155338,
+      "Progressed": 155343,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:06:07.264489+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:05:35.4890711+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:57:38.2460918+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:06:07.2646058+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:57:31.3981378+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:05:35.4892049+00:00"
 }

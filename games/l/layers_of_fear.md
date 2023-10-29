@@ -9,9 +9,9 @@
 | Do what you have to | 41.00% | ~11 |
 | A piece of the story | 41.00% | ~11 |
 | Finished it | 33.00% | ~9 |
+| The artist’s impression | 30.00% | ~8 |
 | Refuse to look | 26.00% | ~7 |
 | Scraps of love | 26.00% | ~7 |
-| The artist’s impression | 26.00% | ~7 |
 | Sign of weakness | 26.00% | ~7 |
 | It's covered up for a reason | 22.00% | ~6 |
 | First steps | 15.00% | ~4 |
@@ -28,10 +28,10 @@
 | Sound Bite | 7.00% | ~2 |
 | Lights! Camera! Action! | 7.00% | ~2 |
 | True Reflection | 7.00% | ~2 |
+| Whispers long forgotten | 7.00% | ~2 |
 | We Are Not Alone | 4.00% | ~1 |
 | The Perfect Storm | 4.00% | ~1 |
 | Fisherman | 4.00% | ~1 |
-| Whispers long forgotten | 4.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
 | Something to think about | 0.00% | ~0 |

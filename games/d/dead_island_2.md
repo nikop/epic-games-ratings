@@ -5,27 +5,27 @@ Rating: 4.54 (Ranked 518)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,362 |
-| Welcome To Hell-A | 5.00% | ~35,362 |
-| Git Gutte! | 4.00% | ~28,289 |
-| Break A Leg | 4.00% | ~28,289 |
-| Coup de Grâce | 4.00% | ~28,289 |
-| Hazardous Materials | 4.00% | ~28,289 |
-| Friends Like These | 4.00% | ~28,289 |
-| Apex Predator | 4.00% | ~28,289 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,289 |
-| Dr. Reed, I Presume? | 3.00% | ~21,217 |
-| Bookworm | 3.00% | ~21,217 |
-| But Doctor, I am Butcho | 3.00% | ~21,217 |
-| Slayer Squad | 3.00% | ~21,217 |
-| Can't Handle the Truth | 3.00% | ~21,217 |
-| Like Riding a Bike | 3.00% | ~21,217 |
-| Zombologist | 3.00% | ~21,217 |
-| A Patton Emerges | 3.00% | ~21,217 |
-| I Am the Resurrection | 3.00% | ~21,217 |
-| Stacking the Deck | 3.00% | ~21,217 |
-| Our True Nature | 3.00% | ~21,217 |
-| This is My Weapon | 3.00% | ~21,217 |
+| Hotel California | 5.00% | ~35,364 |
+| Welcome To Hell-A | 5.00% | ~35,364 |
+| Git Gutte! | 4.00% | ~28,291 |
+| Break A Leg | 4.00% | ~28,291 |
+| Coup de Grâce | 4.00% | ~28,291 |
+| Hazardous Materials | 4.00% | ~28,291 |
+| Friends Like These | 4.00% | ~28,291 |
+| Apex Predator | 4.00% | ~28,291 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,291 |
+| Dr. Reed, I Presume? | 3.00% | ~21,218 |
+| Bookworm | 3.00% | ~21,218 |
+| But Doctor, I am Butcho | 3.00% | ~21,218 |
+| Slayer Squad | 3.00% | ~21,218 |
+| Can't Handle the Truth | 3.00% | ~21,218 |
+| Like Riding a Bike | 3.00% | ~21,218 |
+| Zombologist | 3.00% | ~21,218 |
+| A Patton Emerges | 3.00% | ~21,218 |
+| I Am the Resurrection | 3.00% | ~21,218 |
+| Stacking the Deck | 3.00% | ~21,218 |
+| Our True Nature | 3.00% | ~21,218 |
+| This is My Weapon | 3.00% | ~21,218 |
 | Making Your Mark | 2.00% | ~14,145 |
 | Anger Management | 2.00% | ~14,145 |
 | Perks of the Job | 2.00% | ~14,145 |
@@ -34,24 +34,24 @@ Rating: 4.54 (Ranked 518)
 | Humanity Distilled | 2.00% | ~14,145 |
 | Down with the Sickness | 2.00% | ~14,145 |
 | Max Headroom | 2.00% | ~14,145 |
-| Smorgasbord | 1.00% | ~7,072 |
-| Internet Famous | 1.00% | ~7,072 |
-| Jumbo Keyring | 1.00% | ~7,072 |
-| Go, Bobcats! | 1.00% | ~7,072 |
-| Rising Star | 1.00% | ~7,072 |
+| Smorgasbord | 1.00% | ~7,073 |
+| Internet Famous | 1.00% | ~7,073 |
+| Jumbo Keyring | 1.00% | ~7,073 |
+| Go, Bobcats! | 1.00% | ~7,073 |
+| Rising Star | 1.00% | ~7,073 |
 | Not Even My Final Form | 0.90% | ~6,365 |
 | Make it So | 0.80% | ~5,658 |
 | On Safari | 0.80% | ~5,658 |
 | Variety is the Spice of Death | 0.80% | ~5,658 |
-| LA Influential | 0.60% | ~4,243 |
-| Gore Horse | 0.60% | ~4,243 |
-| Sharpest Tool in the Box | 0.60% | ~4,243 |
+| LA Influential | 0.60% | ~4,244 |
+| Gore Horse | 0.60% | ~4,244 |
+| Sharpest Tool in the Box | 0.60% | ~4,244 |
 | Sole Survivor | 0.50% | ~3,536 |
 | Survival Skills | 0.40% | ~2,829 |
-| Donk! | 0.20% | ~1,414 |
+| Donk! | 0.20% | ~1,415 |
 | Bucket List | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,231 (Ranked 22)  
+Progressed: 707,272 (Ranked 22)  
 Completed: 2,276 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,14 +243,14 @@ Completed: 2,276 (0.32%) (Ranked 210)
 | 2023-10-26 | 704,831 | 2,269 |
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
-| 2023-10-29 | 707,231 | 2,276 |
+| 2023-10-29 | 707,272 | 2,276 |
 ## Awards
-Max (Great Boss Battles): 6,701  (Ranked 56)  
-Sum: 10,098 (Ranked 90)  
-Diff (max vs sum): -34  
+Max (Great Boss Battles): 6,730  (Ranked 55)  
+Sum: 10,127 (Ranked 90)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,701 |
+| This game has Great Boss Battles | 6,730 |
 | This game is Great for Beginners | 491 |
 | This game has Diverse Characters | 478 |
 | This game has Quickly Understood Controls | 445 |
@@ -453,4 +453,4 @@ Diff (max vs sum): -34
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
 | 2023-10-27 | 4.54 | 6,671 | 10,038 |
 | 2023-10-28 | 4.54 | 6,701 | 10,088 |
-| 2023-10-29 | 4.54 | 6,701 | 10,098 |
+| 2023-10-29 | 4.54 | 6,730 | 10,127 |

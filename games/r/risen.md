@@ -16,7 +16,7 @@ Rating: 4.57 (Ranked 463)
 | The merciful one | 56.00% | ~10 |
 | Field hand | 56.00% | ~10 |
 | Ladies' man | 56.00% | ~10 |
-| Ferocious wild boars | 44.00% | ~8 |
+| Ferocious wild boars | 50.00% | ~9 |
 | Beast slayer | 33.00% | ~6 |
 | Idiot | 33.00% | ~6 |
 | Fence | 33.00% | ~6 |

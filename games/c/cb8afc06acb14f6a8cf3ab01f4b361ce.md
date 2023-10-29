@@ -1,25 +1,25 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.19 (Ranked 906)  
+Rating: 4.19 (Ranked 905)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~111,861 |
-| May the Torchbearer light our way | 36.00% | ~105,974 |
-| A powerful aura was here | 23.00% | ~67,705 |
-| Let's raise the stakes!! | 10.00% | ~29,437 |
-| Rumors are true | 6.00% | ~17,662 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,662 |
-| Pride is a sin, young Knight | 5.00% | ~14,719 |
-| Bring it on! | 5.00% | ~14,719 |
-| We'll be careful | 4.00% | ~11,775 |
-| Back to your senses | 3.00% | ~8,831 |
-| They won't last long | 3.00% | ~8,831 |
-| They tricked me | 2.00% | ~5,887 |
-| We need to talk | 2.00% | ~5,887 |
-| I feel drawn to it | 2.00% | ~5,887 |
-| I took a risk | 2.00% | ~5,887 |
+| The touch of Chaos | 38.00% | ~111,882 |
+| May the Torchbearer light our way | 36.00% | ~105,993 |
+| A powerful aura was here | 23.00% | ~67,718 |
+| Let's raise the stakes!! | 10.00% | ~29,443 |
+| Rumors are true | 6.00% | ~17,666 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,666 |
+| Pride is a sin, young Knight | 5.00% | ~14,721 |
+| Bring it on! | 5.00% | ~14,721 |
+| We'll be careful | 4.00% | ~11,777 |
+| Back to your senses | 3.00% | ~8,833 |
+| They won't last long | 3.00% | ~8,833 |
+| They tricked me | 2.00% | ~5,889 |
+| We need to talk | 2.00% | ~5,889 |
+| I feel drawn to it | 2.00% | ~5,889 |
+| I took a risk | 2.00% | ~5,889 |
 | Here to stay | 1.00% | ~2,944 |
 | Counting on you | 1.00% | ~2,944 |
 | This is the end | 1.00% | ~2,944 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 906)
 | We strike as one | 0.10% | ~294 |
 | Chaos be damned! | 0.10% | ~294 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,371 (Ranked 49)  
+Progressed: 294,426 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.00%) (Ranked 331)
 | 2023-10-26 | 291,225 | 1 |
 | 2023-10-27 | 292,389 | 1 |
 | 2023-10-28 | 293,813 | 1 |
-| 2023-10-29 | 294,371 | 1 |
+| 2023-10-29 | 294,426 | 1 |
 ## Awards
 Max (Great Boss Battles): 46  (Ranked 432)  
 Sum: 46 (Ranked 479)  

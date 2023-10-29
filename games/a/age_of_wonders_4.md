@@ -6,16 +6,16 @@ Rating: 4.60 (Ranked 404)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 9.00% | ~472 |
-| Realm Estate | 7.00% | ~367 |
-| A Wonderful Discovery | 7.00% | ~367 |
-| Walls Cannot Stop Us | 7.00% | ~367 |
-| Bone Peddler | 7.00% | ~367 |
-| From Friends to Family | 7.00% | ~367 |
-| Stronger Together | 7.00% | ~367 |
-| Magical Synergy | 7.00% | ~367 |
-| Seat of Power | 7.00% | ~367 |
-| Intimidation Tactics | 7.00% | ~367 |
-| Tipping the Scales | 7.00% | ~367 |
+| Realm Estate | 7.00% | ~368 |
+| A Wonderful Discovery | 7.00% | ~368 |
+| Walls Cannot Stop Us | 7.00% | ~368 |
+| Bone Peddler | 7.00% | ~368 |
+| From Friends to Family | 7.00% | ~368 |
+| Stronger Together | 7.00% | ~368 |
+| Magical Synergy | 7.00% | ~368 |
+| Seat of Power | 7.00% | ~368 |
+| Intimidation Tactics | 7.00% | ~368 |
+| Tipping the Scales | 7.00% | ~368 |
 | There Can Only Be One! | 6.00% | ~315 |
 | Full Ascension | 6.00% | ~315 |
 | My Final Form | 6.00% | ~315 |
@@ -32,13 +32,13 @@ Rating: 4.60 (Ranked 404)
 | Arch Mage | 4.00% | ~210 |
 | Enchanted Archipelago | 4.00% | ~210 |
 | Preparation Is Everything | 4.00% | ~210 |
-| God Emperor | 3.00% | ~157 |
-| Lord of Chaos | 3.00% | ~157 |
-| The Creator | 3.00% | ~157 |
-| The Goddess of Nature | 3.00% | ~157 |
-| Eternal Lord | 3.00% | ~157 |
-| Crimson Caldera | 3.00% | ~157 |
-| The Eternal Court | 3.00% | ~157 |
+| God Emperor | 3.00% | ~158 |
+| Lord of Chaos | 3.00% | ~158 |
+| The Creator | 3.00% | ~158 |
+| The Goddess of Nature | 3.00% | ~158 |
+| Eternal Lord | 3.00% | ~158 |
+| Crimson Caldera | 3.00% | ~158 |
+| The Eternal Court | 3.00% | ~158 |
 | I've Got Everything I Need Right Here | 2.00% | ~105 |
 | The Magic That Empowers Me! | 2.00% | ~105 |
 | Jack of All Tomes | 2.00% | ~105 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 404)
 | Draconic Connoisseur | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,249 (Ranked 180)  
+Progressed: 5,250 (Ranked 180)  
 Completed: 6 (0.11%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 6 (0.11%) (Ranked 255)
 | 2023-10-26 | 5,242 | 6 |
 | 2023-10-27 | 5,245 | 6 |
 | 2023-10-28 | 5,249 | 6 |
+| 2023-10-29 | 5,250 | 6 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 499)  
 Sum: 27 (Ranked 509)  

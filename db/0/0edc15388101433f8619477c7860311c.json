@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -338,17 +338,17 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 65,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "WaitingForSalvation",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:09:24.0073906+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:09:03.3636202+00:00",
   "LastUpdate_AppInfo": "2023-10-23T07:57:12.2998016+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:59:37.0678936+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:09:24.0074077+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:59:15.3495365+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:09:03.3636356+00:00"
 }

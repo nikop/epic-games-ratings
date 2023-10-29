@@ -12,7 +12,7 @@ Number of Ratings: 74  (23.09.2022)
 | Seekers Found | 41.00% | ~3,037 |
 | Settling the Skies | 41.00% | ~3,037 |
 | Wind Powered | 40.00% | ~2,963 |
-| It Takes a Village | 34.00% | ~2,518 |
+| It Takes a Village | 34.00% | ~2,519 |
 | On the Town | 28.00% | ~2,074 |
 | Daylight Found | 26.00% | ~1,926 |
 | Irons Scorched | 25.00% | ~1,852 |
@@ -21,9 +21,9 @@ Number of Ratings: 74  (23.09.2022)
 | Pyre Ignited | 23.00% | ~1,704 |
 | Travelers Returned | 23.00% | ~1,704 |
 | Hopes Hoisted | 22.00% | ~1,630 |
-| Knowledge Shared | 20.00% | ~1,481 |
-| Relic Finder | 20.00% | ~1,481 |
-| Worthy of the Title | 19.00% | ~1,407 |
+| Knowledge Shared | 20.00% | ~1,482 |
+| Relic Finder | 20.00% | ~1,482 |
+| Worthy of the Title | 19.00% | ~1,408 |
 | A Peaceful Respite | 14.00% | ~1,037 |
 | A Learned Scholar | 13.00% | ~963 |
 | Prophecy Fulfilled | 13.00% | ~963 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~148 |
 | A True Challenge | 2.00% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,407 (Ranked 166)  
+Progressed: 7,408 (Ranked 166)  
 Completed: 55 (0.74%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 55 (0.74%) (Ranked 165)
 | 2023-10-26 | 7,398 | 55 |
 | 2023-10-27 | 7,401 | 55 |
 | 2023-10-28 | 7,406 | 55 |
-| 2023-10-29 | 7,407 | 55 |
+| 2023-10-29 | 7,408 | 55 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

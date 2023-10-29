@@ -71,10 +71,10 @@
 | Doppelganger | 30.00% | ~253 |
 | Suicide Mission | 29.00% | ~244 |
 | Mobilizer | 29.00% | ~244 |
+| Untouchable | 28.00% | ~236 |
 | First Aid Specialist | 28.00% | ~236 |
 | Mission Accomplished | 28.00% | ~236 |
 | Against All Odds | 28.00% | ~236 |
-| Untouchable | 27.00% | ~227 |
 | Giant Killer | 27.00% | ~227 |
 | A House Divided | 27.00% | ~227 |
 | Eye of the Hurricane | 26.00% | ~219 |
@@ -82,8 +82,8 @@
 | World Shaker | 26.00% | ~219 |
 | Tunnel Rat | 25.00% | ~210 |
 | Liberator | 25.00% | ~210 |
+| Savior | 24.00% | ~202 |
 | Pathfinder | 24.00% | ~202 |
-| Savior | 23.00% | ~194 |
 | Arbiter | 23.00% | ~194 |
 | Lost and Found | 23.00% | ~194 |
 | Paramour II | 22.00% | ~185 |

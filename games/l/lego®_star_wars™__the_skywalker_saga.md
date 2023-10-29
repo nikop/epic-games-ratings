@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,341 |
-| ''I don't like you either!'' | 79.00% | ~40,999 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,342 |
+| ''I don't like you either!'' | 79.00% | ~41,000 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,367 |
 | ''Impressive, most impressive'' | 71.00% | ~36,848 |
 | The Phantom Menace | 59.00% | ~30,620 |
 | ''Aggressive Negotiations'' | 59.00% | ~30,620 |
 | ''I can fly anything'' | 57.00% | ~29,582 |
 | ''And who gave you permission...?'' | 54.00% | ~28,025 |
-| A New Hope | 48.00% | ~24,911 |
-| Attack of the Clones | 47.00% | ~24,392 |
-| Revenge of the Sith | 40.00% | ~20,759 |
-| The Empire Strikes Back | 38.00% | ~19,721 |
-| ''A fine addition to my collection'' | 37.00% | ~19,202 |
-| Return of the Jedi | 32.00% | ~16,607 |
-| The Force Awakens | 27.00% | ~14,012 |
+| A New Hope | 48.00% | ~24,912 |
+| Attack of the Clones | 47.00% | ~24,393 |
+| Revenge of the Sith | 40.00% | ~20,760 |
+| The Empire Strikes Back | 38.00% | ~19,722 |
+| ''A fine addition to my collection'' | 37.00% | ~19,203 |
+| Return of the Jedi | 32.00% | ~16,608 |
+| The Force Awakens | 27.00% | ~14,013 |
 | The Last Jedi | 23.00% | ~11,937 |
 | The Rise of Skywalker | 20.00% | ~10,380 |
 | ''It's true... all of it'' | 19.00% | ~9,861 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~519 |
 | ''I've never seen a real one!'' | 1.00% | ~519 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,898 (Ranked 106)  
+Progressed: 51,899 (Ranked 106)  
 Completed: 244 (0.47%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 244 (0.47%) (Ranked 192)
 | 2023-10-26 | 51,886 | 244 |
 | 2023-10-27 | 51,891 | 244 |
 | 2023-10-28 | 51,897 | 244 |
-| 2023-10-29 | 51,898 | 244 |
+| 2023-10-29 | 51,899 | 244 |
 ## Awards
 Max (Great Boss Battles): 2,434  (Ranked 104)  
 Sum: 6,676 (Ranked 122)  

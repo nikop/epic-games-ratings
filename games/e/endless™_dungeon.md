@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 70.00% | ~626 |
-| Getting the Hang of It | 43.00% | ~384 |
-| Hoarder | 31.00% | ~277 |
-| Pest Control | 27.00% | ~241 |
-| Blobmeister | 26.00% | ~232 |
-| Exhaustive Explorer | 26.00% | ~232 |
+| Leap Before You Look | 70.00% | ~628 |
+| Getting the Hang of It | 42.00% | ~377 |
+| Hoarder | 31.00% | ~278 |
+| Pest Control | 27.00% | ~242 |
+| Blobmeister | 26.00% | ~233 |
+| Exhaustive Explorer | 26.00% | ~233 |
 | How Low Can We Go? | 23.00% | ~206 |
 | Team Builder | 18.00% | ~161 |
-| Long Live Rock | 15.00% | ~134 |
-| Aggressive Antivirus | 14.00% | ~125 |
-| Effective Efficiency | 13.00% | ~116 |
-| Endlessly Effective | 11.00% | ~98 |
-| Unblurred Lines | 10.00% | ~89 |
-| Obsessively Thorough | 10.00% | ~89 |
+| Aggressive Antivirus | 14.00% | ~126 |
+| Long Live Rock | 14.00% | ~126 |
+| Effective Efficiency | 12.00% | ~108 |
+| Unblurred Lines | 10.00% | ~90 |
+| Obsessively Thorough | 10.00% | ~90 |
+| Endlessly Effective | 10.00% | ~90 |
 | What's Behind Every Door? | 5.00% | ~45 |
 | No Stone Unturned | 3.00% | ~27 |
 | Turret Syndrome | 1.00% | ~9 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894 (Ranked 253)  
+Progressed: 897 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,4 +49,4 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 805 | 0 |
 | 2023-10-27 | 837 | 0 |
 | 2023-10-28 | 875 | 0 |
-| 2023-10-29 | 894 | 0 |
+| 2023-10-29 | 897 | 0 |

@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7299,
+  "EOS_Progressed": 7301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5547,6 +5547,11 @@
       "Time": "2023-10-29T08:08:59.0003766+00:00",
       "NumProgressed": 7299,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T11:09:08.1706298+00:00",
+      "NumProgressed": 7301,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5559,7 +5564,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5255
+      "UsersEstimate": 5257
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5567,7 +5572,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5111
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5711,7 +5716,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4381
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5838,7 +5843,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7299,
+      "Progressed": 7301,
       "Completed": 0
     }
   ],
@@ -5846,8 +5851,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:09:29.5995417+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:09:08.1706293+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:00:05.5624313+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:09:29.599646+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:59:40.2374733+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:09:08.1706956+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8355,
+  "EOS_Progressed": 8356,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10311,6 +10311,11 @@
       "Time": "2023-10-29T09:04:37.6226445+00:00",
       "NumProgressed": 8355,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-10-29T11:03:55.733039+00:00",
+      "NumProgressed": 8356,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10394,7 +10399,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "ACH11",
@@ -10426,7 +10431,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACH15",
@@ -10553,7 +10558,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8355,
+      "Progressed": 8356,
       "Completed": 56
     }
   ],
@@ -10561,8 +10566,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:04:10.3207317+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:03:55.7330384+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:01:02.1710867+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:04:10.3208184+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:00:29.6902715+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:03:55.7331353+00:00"
 }

@@ -12,10 +12,10 @@
 | Puzzle Prodigy | 22.00% | ~19 |
 | A Box of Tricks | 20.00% | ~17 |
 | Finger-Lickin' Bad | 18.00% | ~15 |
+| Backstory Buff | 16.00% | ~14 |
 | Bathroom Brawler | 16.00% | ~14 |
 | Codebreaker | 16.00% | ~14 |
 | Set Sail | 16.00% | ~14 |
-| Backstory Buff | 15.00% | ~13 |
 | Breathless End | 15.00% | ~13 |
 | Flying High | 15.00% | ~13 |
 | Key Keeper's Curse | 5.00% | ~4 |

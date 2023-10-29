@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,342 |
-| Worth it | 63.00% | ~39,046 |
-| Eagle Eye | 55.00% | ~34,087 |
-| Corpseman I | 40.00% | ~24,791 |
-| Blast fishing | 37.00% | ~22,931 |
-| Not alone | 32.00% | ~19,833 |
-| Headhunter I | 26.00% | ~16,114 |
-| Manual Labour I | 25.00% | ~15,494 |
-| Developers, Developers, Developers | 24.00% | ~14,874 |
-| Basic Training | 24.00% | ~14,874 |
+| Setting an example | 78.00% | ~48,344 |
+| Worth it | 63.00% | ~39,047 |
+| Eagle Eye | 55.00% | ~34,089 |
+| Corpseman I | 40.00% | ~24,792 |
+| Blast fishing | 37.00% | ~22,933 |
+| Not alone | 32.00% | ~19,834 |
+| Headhunter I | 26.00% | ~16,115 |
+| Manual Labour I | 25.00% | ~15,495 |
+| Developers, Developers, Developers | 24.00% | ~14,875 |
+| Basic Training | 24.00% | ~14,875 |
 | Furchtlos und Treu | 13.00% | ~8,057 |
-| Gott Mit Uns | 12.00% | ~7,437 |
+| Gott Mit Uns | 12.00% | ~7,438 |
 | This We'll Defend! | 9.00% | ~5,578 |
 | Anker wirf! | 9.00% | ~5,578 |
 | Providentiea Memor | 9.00% | ~5,578 |
 | For King and Country | 9.00% | ~5,578 |
 | Battle hardened | 8.00% | ~4,958 |
-| Semper Fidelis! | 7.00% | ~4,338 |
-| Honneur et Patrie | 7.00% | ~4,338 |
+| Semper Fidelis! | 7.00% | ~4,339 |
+| Honneur et Patrie | 7.00% | ~4,339 |
 | In Treue Fest | 5.00% | ~3,099 |
 | Voor De Koning | 5.00% | ~3,099 |
 | Extreme Headhunter | 5.00% | ~3,099 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,977 (Ranked 103)  
+Progressed: 61,980 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 4 (0.01%) (Ranked 310)
 | 2023-10-26 | 61,750 | 4 |
 | 2023-10-27 | 61,831 | 4 |
 | 2023-10-28 | 61,945 | 4 |
-| 2023-10-29 | 61,977 | 4 |
+| 2023-10-29 | 61,980 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 345)  
 Sum: 901 (Ranked 265)  

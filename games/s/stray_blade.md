@@ -23,10 +23,10 @@
 | Witch | 9.00% | ~10 |
 | Defeat Tezuth | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
+| Craftsmen | 7.00% | ~8 |
 | Defeat Uskol | 7.00% | ~8 |
 | Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
-| Craftsmen | 6.00% | ~6 |
 | A Deceiving Gift | 6.00% | ~6 |
 | Defeat Ingla | 5.00% | ~5 |
 | Bringing guns to a sword fight | 5.00% | ~5 |

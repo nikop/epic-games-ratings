@@ -11,11 +11,11 @@
 | Slam-KABAM | 19.00% | ~5 |
 | Repair the Mind Validation Machine | 19.00% | ~5 |
 | Fight like an idiot | 15.00% | ~4 |
+| Dance like an idiot | 15.00% | ~4 |
 | Elementary, My Dear Dusty | 15.00% | ~4 |
 | Heavy Thoughts | 12.00% | ~3 |
-| Dance like an idiot | 12.00% | ~3 |
+| I'm Back at the Surface now | 12.00% | ~3 |
 | Flee like an idiot | 12.00% | ~3 |
-| I'm Back at the Surface now | 8.00% | ~2 |
 | GOAAAAAAAAAL! | 4.00% | ~1 |
 | Come full circle | 4.00% | ~1 |
 | Patient Listener | 0.00% | ~0 |

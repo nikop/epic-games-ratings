@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-10-29T00:04:40.7548558+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T11:05:49.1075024+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -149,7 +154,7 @@
       "ID": "ach1",
       "SetID": "baneh2j",
       "Name": "Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -181,7 +186,7 @@
       "ID": "ach13",
       "SetID": "baneh2j",
       "Name": "You cannot hide from me",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -197,7 +202,7 @@
       "ID": "ach15",
       "SetID": "baneh2j",
       "Name": "Princess in another castle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -205,7 +210,7 @@
       "ID": "ach16",
       "SetID": "baneh2j",
       "Name": "Grahaaa!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "ach17",
       "SetID": "baneh2j",
       "Name": "Get the cake",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -221,7 +226,7 @@
       "ID": "ach18",
       "SetID": "baneh2j",
       "Name": "Escape from Kotaushenko",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "ID": "ach22",
       "SetID": "baneh2j",
       "Name": "Expert of History",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -269,7 +274,7 @@
       "ID": "ach23",
       "SetID": "baneh2j",
       "Name": "Hero Savior",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -277,7 +282,7 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -303,21 +308,21 @@
       "Name": "Preparation",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
       "UsersEstimate": 9
     },
@@ -325,7 +330,7 @@
       "ID": "ach3",
       "SetID": "baneh2j",
       "Name": "Trandy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -357,7 +362,7 @@
       "ID": "ach5",
       "SetID": "baneh2j",
       "Name": "Size doesn\u0027t matter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -365,9 +370,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ach7",
@@ -398,14 +403,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:06:23.1264849+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:05:49.1075019+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:01:03.8959169+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:06:23.1265086+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:00:30.711828+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:05:49.1075272+00:00"
 }

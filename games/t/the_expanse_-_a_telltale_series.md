@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 404)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 2.00% | ~289 |
-| Drug Gifter | 0.80% | ~115 |
+| Drug Gifter | 0.90% | ~130 |
 | Bosmang | 0.80% | ~115 |
 | The Pit and the Pirates | 0.70% | ~101 |
 | Martian Music | 0.60% | ~87 |
@@ -14,16 +14,16 @@ Rating: 4.60 (Ranked 404)
 | Call it Even | 0.60% | ~87 |
 | Captain Drummer | 0.60% | ~87 |
 | Celebrations are in Order | 0.60% | ~87 |
+| Impossible Objects | 0.60% | ~87 |
 | Data Archivist | 0.50% | ~72 |
 | Stogie for Fogey | 0.50% | ~72 |
 | Spore Taste | 0.50% | ~72 |
 | Heal Thy Medic | 0.50% | ~72 |
 | Khan's Revenge | 0.50% | ~72 |
-| Impossible Objects | 0.50% | ~72 |
 | Doctor Approved | 0.30% | ~43 |
+| Bottoms up! | 0.30% | ~43 |
 | Thorston Mayer | 0.30% | ~43 |
 | Miraculous Maya | 0.30% | ~43 |
-| Bottoms up! | 0.20% | ~29 |
 | Data Logger | 0.20% | ~29 |
 | Data Master | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~14 |

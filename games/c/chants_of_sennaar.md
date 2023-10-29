@@ -8,7 +8,7 @@
 | Welcome to the Tower | 18.00% | ~60 |
 | The great escape | 17.00% | ~56 |
 | The Preacher's fate | 15.00% | ~50 |
-| A new dawn | 14.00% | ~46 |
+| A new dawn | 15.00% | ~50 |
 | I did it | 13.00% | ~43 |
 | Cable guy | 13.00% | ~43 |
 | True G3M4R | 13.00% | ~43 |

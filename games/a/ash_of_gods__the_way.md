@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | First success | 133.00% | ~8 |
 | Suicide squad | 83.00% | ~5 |
+| First blood | 67.00% | ~4 |
 | Train hard, fight easy | 50.00% | ~3 |
 | Royal blessing | 50.00% | ~3 |
 | Under cover | 50.00% | ~3 |
-| First blood | 50.00% | ~3 |
 | Surpass the teacher | 33.00% | ~2 |
 | By own strength | 33.00% | ~2 |
 | A hidden snake | 33.00% | ~2 |

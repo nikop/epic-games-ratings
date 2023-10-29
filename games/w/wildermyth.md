@@ -8,9 +8,9 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~14 |
 | The Cost of Heroism | 1.00% | ~14 |
+| Me and My Familiar | 0.90% | ~13 |
 | How Romantic! | 0.90% | ~13 |
 | Cutthroat Competitors | 0.90% | ~13 |
-| Me and My Familiar | 0.80% | ~12 |
 | Passing Shadow | 0.80% | ~12 |
 | This Too Shall Pass | 0.80% | ~12 |
 | Daybreak | 0.80% | ~12 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 | Lochias's Hunger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,445 (Ranked 230)  
-Completed: 6 (0.42%) (Ranked 199)  
+Progressed: 1,446 (Ranked 230)  
+Completed: 6 (0.41%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,6 +210,7 @@ Completed: 6 (0.42%) (Ranked 199)
 | 2023-10-26 | 1,438 | 6 |
 | 2023-10-27 | 1,442 | 6 |
 | 2023-10-28 | 1,445 | 6 |
+| 2023-10-29 | 1,446 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 494)  
 Sum: 28 (Ranked 506)  

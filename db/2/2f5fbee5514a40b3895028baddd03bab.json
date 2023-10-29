@@ -4,7 +4,7 @@
   "ProductSlug": "outplayed",
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.3267889+00:00",
   "LastChanged": "2023-03-31T05:57:42.326789+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:21.0467888+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:59:08.1823233+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:04:07.1143837+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:58:46.7171258+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:03:53.0561859+00:00"
 }

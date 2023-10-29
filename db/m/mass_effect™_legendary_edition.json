@@ -2313,9 +2313,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_104",
@@ -2409,9 +2409,9 @@
       "ID": "achievement_114",
       "SetID": "d252ncf",
       "Name": "Savior",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_115",
@@ -3301,8 +3301,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:06:38.5140819+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:06:02.3645181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:00:09.9068398+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:06:38.5145192+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:59:43.5138625+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:06:02.3647793+00:00"
 }

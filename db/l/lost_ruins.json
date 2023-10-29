@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1058,9 +1058,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "Hardboiled",
@@ -1090,9 +1090,9 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "Inquisitor",
@@ -1307,8 +1307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-29T10:10:08.4758503+00:00",
+  "LastChanged_Achievements": "2023-10-29T11:09:42.0893514+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:04.3503541+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:00:42.6039135+00:00",
-  "LastUpdate_Achievements": "2023-10-29T10:10:08.4759156+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:00:11.6351038+00:00",
+  "LastUpdate_Achievements": "2023-10-29T11:09:42.0893928+00:00"
 }

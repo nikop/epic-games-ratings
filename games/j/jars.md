@@ -9,7 +9,7 @@
 | It fits. IT FITS! | 76.00% | ~64 |
 | The child of the night | 73.00% | ~61 |
 | Uncle will be happy | 70.00% | ~59 |
-| I have an army! | 63.00% | ~53 |
+| I have an army! | 64.00% | ~54 |
 | Sticky fingers | 43.00% | ~36 |
 | A horrible thing will happen... | 38.00% | ~32 |
 | Vampires | 30.00% | ~25 |
