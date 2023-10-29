@@ -15,8 +15,8 @@
 | Freezing Cold | 17.00% | ~18 |
 | Searing Heat | 15.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~15 |
+| The Golden Flash | 13.00% | ~14 |
 | The Power of the Mountains | 13.00% | ~14 |
-| The Golden Flash | 12.00% | ~13 |
 | Locked and Loaded | 11.00% | ~12 |
 | Changing the World | 11.00% | ~12 |
 | The A-Team | 10.00% | ~11 |
@@ -34,10 +34,10 @@
 | But what of the Acreans? | 5.00% | ~5 |
 | Unveiling the Truth | 5.00% | ~5 |
 | Wayseeker | 4.00% | ~4 |
+| Pathfinder | 4.00% | ~4 |
 | The End | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
-| Pathfinder | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
 | Style over Stats | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |

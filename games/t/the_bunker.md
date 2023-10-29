@@ -6,23 +6,23 @@
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~122 |
 | The Routine | 81.00% | ~109 |
-| Mother | 78.00% | ~105 |
-| Failure | 76.00% | ~102 |
-| Replace Fuse | 65.00% | ~87 |
-| Alarm | 63.00% | ~84 |
+| Mother | 79.00% | ~106 |
+| Failure | 77.00% | ~103 |
+| Replace Fuse | 66.00% | ~88 |
+| Alarm | 64.00% | ~86 |
 | Air Filtration | 60.00% | ~80 |
 | Broken | 59.00% | ~79 |
 | Radiation | 57.00% | ~76 |
 | Descent | 57.00% | ~76 |
+| Sam | 57.00% | ~76 |
 | Awakenings | 56.00% | ~75 |
 | Cold Storage | 56.00% | ~75 |
-| Sam | 56.00% | ~75 |
-| Commissioner | 52.00% | ~70 |
+| Commissioner | 53.00% | ~71 |
+| Doctor | 50.00% | ~67 |
 | Churchill | 49.00% | ~66 |
-| Doctor | 49.00% | ~66 |
+| Soldier | 49.00% | ~66 |
 | Leave | 48.00% | ~64 |
-| Soldier | 48.00% | ~64 |
-| Engineer | 47.00% | ~63 |
+| Engineer | 48.00% | ~64 |
 | Press Play | 36.00% | ~48 |
 | General | 28.00% | ~38 |
 | Bookworm | 24.00% | ~32 |

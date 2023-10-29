@@ -3,11 +3,11 @@
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 869,
-  "Ranking_Popularity": 179,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -6193,11 +6193,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 5228,
       "NumberOfAwardsMax": 714
+    },
+    {
+      "Time": "2023-10-29T11:58:37.8719326+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 5237,
+      "NumberOfAwardsMax": 718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5228,
-  "NumberOfAwardsMax": 714,
+  "NumberOfAwards": 5237,
+  "NumberOfAwardsMax": 718,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6216,13 +6222,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 648
+      "Count": 652
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 714
+      "Count": 718
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6258,7 +6264,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game is Relaxing",
@@ -6291,8 +6297,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-10-29T10:58:33.3976586+00:00",
+  "LastChanged": "2023-10-29T11:58:37.8719324+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:48.1779077+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:58:33.3976592+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:08:46.5308039+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:58:37.8719331+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:08:56.909187+00:00"
 }

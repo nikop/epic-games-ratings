@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 83.00% | ~80 |
-| Accessory Unlocked | 82.00% | ~79 |
-| Butter Fingers | 76.00% | ~73 |
-| Character Unlocked | 75.00% | ~72 |
-| Homer | 75.00% | ~72 |
-| Have a good trip! | 72.00% | ~69 |
-| Kickball Unlocked | 70.00% | ~67 |
-| Settle Down | 70.00% | ~67 |
-| Stay Hydrated | 64.00% | ~61 |
-| First Win | 63.00% | ~60 |
-| True Story! | 44.00% | ~42 |
-| Bedroom Secret Spot | 40.00% | ~38 |
-| Kick It | 32.00% | ~31 |
+| Hat Unlocked | 84.00% | ~81 |
+| Accessory Unlocked | 82.00% | ~80 |
+| Butter Fingers | 76.00% | ~74 |
+| Character Unlocked | 75.00% | ~73 |
+| Homer | 75.00% | ~73 |
+| Have a good trip! | 72.00% | ~70 |
+| Kickball Unlocked | 70.00% | ~68 |
+| Settle Down | 70.00% | ~68 |
+| Stay Hydrated | 64.00% | ~62 |
+| First Win | 63.00% | ~61 |
+| True Story! | 43.00% | ~42 |
+| Bedroom Secret Spot | 40.00% | ~39 |
+| Kick It | 33.00% | ~32 |
+| At least everyone still had fun | 31.00% | ~30 |
 | Classroom Secret Spot | 30.00% | ~29 |
-| At least everyone still had fun | 30.00% | ~29 |
-| Spooky | 27.00% | ~26 |
-| Grand Slam! | 26.00% | ~25 |
+| Spooky | 28.00% | ~27 |
+| Grand Slam! | 27.00% | ~26 |
+| Bathroom Secret Spot | 24.00% | ~23 |
 | Angry Dad | 24.00% | ~23 |
 | Save some water for the fishies | 23.00% | ~22 |
-| Bathroom Secret Spot | 23.00% | ~22 |
 | Living Room Secret Spot | 22.00% | ~21 |
 | Have Mercy | 22.00% | ~21 |
 | Angry Mom | 20.00% | ~19 |
 | Hi Hungry, I'm Dad | 19.00% | ~18 |
-| Just how we drew it up | 13.00% | ~12 |
+| Just how we drew it up | 12.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |
 | Kitchen Secret Spot | 6.00% | ~6 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 407)  
+Progressed: 97 (Ranked 407)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-09-25 | 94 | 0 |
 | 2023-09-28 | 95 | 0 |
 | 2023-10-07 | 96 | 0 |
+| 2023-10-29 | 97 | 0 |

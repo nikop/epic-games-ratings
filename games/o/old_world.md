@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~120 |
 | Via Recta Souk | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
+| Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
-| Military Prestige | 0.70% | ~105 |
 | Dualism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Veneration | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,018 (Ranked 142)  
+Progressed: 15,019 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,018 | 5 |
+| 2023-10-29 | 15,019 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

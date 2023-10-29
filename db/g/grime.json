@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155343,
+  "EOS_Progressed": 155348,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1446,
+  "EOS_NewPlayers": 1439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13513,6 +13513,11 @@
       "Time": "2023-10-29T11:05:35.4890715+00:00",
       "NumProgressed": 155343,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T12:05:58.1227043+00:00",
+      "NumProgressed": 155348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13636,7 +13641,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -13706,9 +13711,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1243
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -13891,21 +13896,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154926,
+      "Progressed": 154931,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155343,
+      "Progressed": 155348,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:05:35.4890711+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:05:58.1227037+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:57:31.3981378+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:05:35.4892049+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:57:21.1513751+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:05:58.1228294+00:00"
 }

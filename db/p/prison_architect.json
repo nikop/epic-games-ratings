@@ -6283,12 +6283,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 4692,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-10-29T11:57:35.2506087+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4695,
+      "NumberOfAwardsMax": 546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4692,
-  "NumberOfAwardsMax": 544,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 4695,
+  "NumberOfAwardsMax": 546,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
@@ -6306,7 +6312,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 543
+      "Count": 546
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6357,9 +6363,9 @@
       "Count": 444
     }
   ],
-  "EOS_Progressed": 188499,
+  "EOS_Progressed": 188516,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2415,
+  "EOS_NewPlayers": 2413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28112,6 +28118,11 @@
       "Time": "2023-10-29T11:09:00.2323308+00:00",
       "NumProgressed": 188499,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-29T12:09:13.3853875+00:00",
+      "NumProgressed": 188516,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -28131,7 +28142,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Achievement_10",
@@ -28155,7 +28166,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30160
+      "UsersEstimate": 30163
     },
     {
       "ID": "Achievement_13",
@@ -28163,7 +28174,7 @@
       "Name": "It\u0027s Not What You Know...",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Achievement_14",
@@ -28171,7 +28182,7 @@
       "Name": "... It\u0027s What You Can Prove",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Achievement_15",
@@ -28203,7 +28214,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 47125
+      "UsersEstimate": 47129
     },
     {
       "ID": "Achievement_5",
@@ -28219,7 +28230,7 @@
       "Name": "Confined",
       "Percentage": 0.3,
       "XP": 120,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "Achievement_7",
@@ -28235,7 +28246,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16965
+      "UsersEstimate": 16966
     },
     {
       "ID": "Achievement_9",
@@ -28243,22 +28254,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9425
+      "UsersEstimate": 9426
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 188499,
+      "Progressed": 188516,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-10-28T20:57:09.5764177+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:09:00.2323302+00:00",
+  "LastChanged": "2023-10-29T11:57:35.2506085+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:09:13.3853864+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:12.0759193+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:57:42.1015171+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:09:00.232495+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:57:35.2506091+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:09:13.3855957+00:00"
 }

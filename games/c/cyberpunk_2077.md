@@ -24,6 +24,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,472 |
 | Two Heads, One Bullet | 0.50% | ~4,472 |
 | Legend of The Afterlife | 0.50% | ~4,472 |
+| Spin Doctor | 0.50% | ~115 |
 | Bushido and Chill | 0.40% | ~3,578 |
 | Gunslinger | 0.40% | ~3,578 |
 | Master Crafter | 0.40% | ~3,578 |
@@ -35,7 +36,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.40% | ~3,578 |
 | The Jungle | 0.40% | ~3,578 |
 | Judy vs Night City | 0.40% | ~3,578 |
-| Spin Doctor | 0.40% | ~92 |
 | To Bad Decisions! | 0.30% | ~2,683 |
 | To Protect and Serve | 0.30% | ~2,683 |
 | The Wandering Fool | 0.30% | ~2,683 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,393 (Ranked 15)  
+Progressed: 894,405 (Ranked 15)  
 Completed: 2,731 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 2,731 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,393 | 2,731 |
+| 2023-10-29 | 894,405 | 2,731 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
-Sum: 332,827 (Ranked 10)  
+Sum: 332,992 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 19,049 |
 | This game is Highly Recommended | 18,346 |
 | This game has Amazing Storytelling | 18,199 |
-| This game is Extremely Fun | 17,917 |
+| This game is Extremely Fun | 18,082 |
 | This game has Amazing Characters | 17,872 |
 | This game is Relaxing | 17,282 |
 | This game has Quickly Understood Controls | 17,184 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -1
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
-| 2023-10-29 | 4.64 | - | 102,340 | 332,827 |
+| 2023-10-29 | 4.64 | - | 102,340 | 332,992 |

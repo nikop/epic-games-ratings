@@ -1170,9 +1170,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -1298,9 +1298,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1314,9 +1314,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1361,8 +1361,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:04:28.4819636+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:04:39.4473148+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:00:04.7492323+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:04:28.481994+00:00"
+  "LastUpdate_Ratings": "2023-10-29T12:00:17.8482871+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:04:39.4473453+00:00"
 }

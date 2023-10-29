@@ -1322,9 +1322,9 @@
       "ID": "PROTECTOR",
       "SetID": "8eejhlh",
       "Name": "Protector",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "SABOTAGE",
@@ -1363,8 +1363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:05:12.5175765+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:05:30.9641392+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:59:47.8065407+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:05:12.5175997+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:59:59.890094+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:05:30.9641624+00:00"
 }

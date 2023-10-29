@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2859,9 +2859,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28181,
+  "EOS_Progressed": 28184,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1111,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16924,6 +16924,11 @@
       "Time": "2023-10-29T11:04:06.038828+00:00",
       "NumProgressed": 28181,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-29T12:04:12.9355167+00:00",
+      "NumProgressed": 28184,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16975,7 +16980,7 @@
       "Name": "Clutch Capture",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Collect_Spores",
@@ -16983,7 +16988,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Collector",
@@ -17023,7 +17028,7 @@
       "Name": "Discovery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Dont_Need_These",
@@ -17071,7 +17076,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "GB_In_Training",
@@ -17223,7 +17228,7 @@
       "Name": "Solo Capture",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Stunner",
@@ -17263,7 +17268,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Teamwork",
@@ -17271,7 +17276,7 @@
       "Name": "Teamwork",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Terrifying",
@@ -17319,7 +17324,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "Welcome_Crew",
@@ -17342,7 +17347,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28181,
+      "Progressed": 28184,
       "Completed": 65
     }
   ],
@@ -17350,8 +17355,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-29T04:00:00.863125+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:04:06.0388273+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:04:12.9355161+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:00:34.439727+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:04:06.0389781+00:00"
+  "LastUpdate_Ratings": "2023-10-29T12:00:52.5353563+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:04:12.9357068+00:00"
 }

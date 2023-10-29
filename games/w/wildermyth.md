@@ -24,9 +24,9 @@ Number of Ratings: 45  (23.09.2022)
 | Echoes Die | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |
 | Empty the Caves | 0.20% | ~3 |
+| Bonebreakers | 0.20% | ~3 |
 | A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
-| Bonebreakers | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
 | Chain Reaction | 0.10% | ~1 |

@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,266 |
-| Overkill | 34.00% | ~5,745 |
-| Vaccine Incoming | 33.00% | ~5,576 |
-| A normal day in Gloomhaven | 33.00% | ~5,576 |
-| Spread the plague | 30.00% | ~5,069 |
-| Get over here! | 24.00% | ~4,056 |
-| Just when I thought I was out... | 19.00% | ~3,211 |
-| Precious! | 17.00% | ~2,873 |
-| Mine... All Mine... | 17.00% | ~2,873 |
-| Light of my life | 15.00% | ~2,535 |
-| Anatomy Lesson | 15.00% | ~2,535 |
-| Grizzled veteran | 14.00% | ~2,366 |
-| You activated my trap card! | 13.00% | ~2,197 |
-| Obstacle race | 13.00% | ~2,197 |
-| Augmented rat | 12.00% | ~2,028 |
-| Doom and gloom | 11.00% | ~1,859 |
-| Who's the Boss? | 9.00% | ~1,521 |
-| Dungeon Veteran | 8.00% | ~1,352 |
-| Pack leader | 8.00% | ~1,352 |
-| Pain is your friend | 8.00% | ~1,352 |
-| Black death | 8.00% | ~1,352 |
-| Play it again, Sam | 8.00% | ~1,352 |
+| I'm not dead yet | 43.00% | ~7,270 |
+| Overkill | 34.00% | ~5,748 |
+| Vaccine Incoming | 33.00% | ~5,579 |
+| A normal day in Gloomhaven | 33.00% | ~5,579 |
+| Spread the plague | 30.00% | ~5,072 |
+| Get over here! | 24.00% | ~4,058 |
+| Just when I thought I was out... | 19.00% | ~3,212 |
+| Precious! | 17.00% | ~2,874 |
+| Mine... All Mine... | 17.00% | ~2,874 |
+| Light of my life | 15.00% | ~2,536 |
+| Anatomy Lesson | 15.00% | ~2,536 |
+| Grizzled veteran | 14.00% | ~2,367 |
+| You activated my trap card! | 13.00% | ~2,198 |
+| Obstacle race | 13.00% | ~2,198 |
+| Augmented rat | 12.00% | ~2,029 |
+| Doom and gloom | 11.00% | ~1,860 |
+| Who's the Boss? | 9.00% | ~1,522 |
+| Dungeon Veteran | 8.00% | ~1,353 |
+| Pack leader | 8.00% | ~1,353 |
+| Pain is your friend | 8.00% | ~1,353 |
+| Black death | 8.00% | ~1,353 |
+| Play it again, Sam | 8.00% | ~1,353 |
 | Quad damage | 6.00% | ~1,014 |
 | Power Up! | 5.00% | ~845 |
 | The Pro from Dover | 5.00% | ~845 |
@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | New Blood | 0.90% | ~152 |
 | Betray this | 0.80% | ~135 |
 | Spoiler police! | 0.80% | ~135 |
-| The Pacifist | 0.50% | ~84 |
-| Born Support | 0.50% | ~84 |
+| The Pacifist | 0.50% | ~85 |
+| Born Support | 0.50% | ~85 |
 | A tough job | 0.40% | ~68 |
 | The evil that men do | 0.30% | ~51 |
 | MacReady Steady.. Go! | 0.30% | ~51 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,898 (Ranked 136)  
+Progressed: 16,907 (Ranked 136)  
 Completed: 1 (0.01%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.01%) (Ranked 310)
 | 2023-10-26 | 16,260 | 1 |
 | 2023-10-27 | 16,501 | 1 |
 | 2023-10-28 | 16,804 | 1 |
-| 2023-10-29 | 16,898 | 1 |
+| 2023-10-29 | 16,907 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,321 (Ranked 98)  

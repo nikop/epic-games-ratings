@@ -22,13 +22,13 @@ Rating: 4.57 (Ranked 463)
 | Fence | 33.00% | ~6 |
 | Sidelined | 33.00% | ~6 |
 | Wise man | 28.00% | ~5 |
+| Archaeologist | 28.00% | ~5 |
 | Ogre friend | 28.00% | ~5 |
 | Hard worker | 28.00% | ~5 |
 | Workaholic | 28.00% | ~5 |
 | The fourth triplet | 28.00% | ~5 |
 | Family man | 22.00% | ~4 |
 | Death of a legend | 22.00% | ~4 |
-| Archaeologist | 22.00% | ~4 |
 | Little hero | 22.00% | ~4 |
 | Freedom fighter | 22.00% | ~4 |
 | Defender | 22.00% | ~4 |

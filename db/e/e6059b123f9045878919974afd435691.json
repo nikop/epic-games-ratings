@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2469,6 +2469,11 @@
       "Time": "2023-10-29T06:08:27.3679958+00:00",
       "NumProgressed": 980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T12:08:28.5308157+00:00",
+      "NumProgressed": 981,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2518,9 +2523,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 392
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2528,7 +2533,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2600,7 +2605,7 @@
       "Name": "Burnt Smell",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2710,9 +2715,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 98
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2752,7 +2757,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2760,7 +2765,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2776,7 +2781,7 @@
       "Name": "Decakill!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2832,7 +2837,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2920,7 +2925,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -3007,14 +3012,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 981,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:07:41.7108209+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:08:28.530815+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:57:52.8270883+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:07:41.7109088+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:57:51.5501527+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:08:28.5309064+00:00"
 }

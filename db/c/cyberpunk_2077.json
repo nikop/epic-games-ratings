@@ -14280,10 +14280,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 332827,
       "NumberOfAwardsMax": 102340
+    },
+    {
+      "Time": "2023-10-29T11:57:32.4022797+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 332992,
+      "NumberOfAwardsMax": 102340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332827,
+  "NumberOfAwards": 332992,
   "NumberOfAwardsMax": 102340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14351,7 +14357,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 17917
+      "Count": 18082
     },
     {
       "Text": "This game has a Creative Community",
@@ -14360,9 +14366,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894393,
+  "EOS_Progressed": 894405,
   "EOS_Completed": 2731,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36130,6 +36136,11 @@
       "Time": "2023-10-29T11:04:14.9545858+00:00",
       "NumProgressed": 894393,
       "NumCompleted": 2731
+    },
+    {
+      "Time": "2023-10-29T12:04:23.6881294+00:00",
+      "NumProgressed": 894405,
+      "NumCompleted": 2731
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36540,9 +36551,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 92
+      "UsersEstimate": 115
     },
     {
       "ID": "Kingofcups",
@@ -36661,21 +36672,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894393,
+      "Progressed": 894405,
       "Completed": 2731
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23016,
+      "Progressed": 23028,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T07:57:20.4472852+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:04:14.9545854+00:00",
+  "LastChanged": "2023-10-29T11:57:32.4022796+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:04:23.6881287+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:57:40.0682744+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:04:14.9547953+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:57:32.4022802+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:04:23.6883488+00:00"
 }

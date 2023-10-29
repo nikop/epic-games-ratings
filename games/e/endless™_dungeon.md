@@ -12,8 +12,8 @@
 | Exhaustive Explorer | 26.00% | ~233 |
 | How Low Can We Go? | 23.00% | ~206 |
 | Team Builder | 18.00% | ~161 |
+| Long Live Rock | 15.00% | ~135 |
 | Aggressive Antivirus | 14.00% | ~126 |
-| Long Live Rock | 14.00% | ~126 |
 | Effective Efficiency | 12.00% | ~108 |
 | Unblurred Lines | 10.00% | ~90 |
 | Obsessively Thorough | 10.00% | ~90 |

@@ -1862,9 +1862,9 @@
       "ID": "achievement_kill1000Morthagi",
       "SetID": "95dc8p",
       "Name": "Bonebreakers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_kill1000Thrixl",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:08:56.0030457+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:09:08.5791651+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:14.4460326+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:59:01.571071+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:08:56.0031102+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:59:07.8717286+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:09:08.5792266+00:00"
 }

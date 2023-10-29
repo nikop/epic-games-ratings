@@ -35,8 +35,8 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.70% | ~43 |
 | Fish upon a Star | 0.70% | ~39 |
 | Lake Me up Before You Go Go | 0.60% | ~37 |
+| Cache and Carry | 0.50% | ~28 |
 | Trollsporet Tale Teller | 0.40% | ~22 |
-| Cache and Carry | 0.40% | ~22 |
 | Buckaroo | 0.30% | ~18 |
 | Lost and Flounder | 0.10% | ~6 |
 | Norway Jose | 0.10% | ~6 |

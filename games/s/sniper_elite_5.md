@@ -5,16 +5,16 @@ Rating: 4.46 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,783 |
+| Meeting Resistance | 47.00% | ~1,784 |
 | Confirming Suspicions | 41.00% | ~1,556 |
 | The Kraken Wakes | 37.00% | ~1,404 |
 | It's Starting to Crack | 34.00% | ~1,290 |
 | Change the Channel | 31.00% | ~1,176 |
 | Lord of War | 30.00% | ~1,138 |
-| Taking it back | 29.00% | ~1,100 |
-| Resourceful | 27.00% | ~1,024 |
-| Target America | 27.00% | ~1,024 |
-| The Kraken Sleeps | 25.00% | ~948 |
+| Taking it back | 29.00% | ~1,101 |
+| Resourceful | 27.00% | ~1,025 |
+| Target America | 27.00% | ~1,025 |
+| The Kraken Sleeps | 25.00% | ~949 |
 | Liberté | 23.00% | ~873 |
 | Organ Grinder | 23.00% | ~873 |
 | As Quiet as a Mouse | 23.00% | ~873 |
@@ -34,9 +34,9 @@ Rating: 4.46 (Ranked 634)
 | Skirmisher | 14.00% | ~531 |
 | Die Nussknacker Sweet! | 14.00% | ~531 |
 | Set Europe Ablaze | 13.00% | ~493 |
-| Precision Is Key | 10.00% | ~379 |
-| My Little Friend | 10.00% | ~379 |
-| Rigged to Blow | 9.00% | ~341 |
+| Precision Is Key | 10.00% | ~380 |
+| My Little Friend | 10.00% | ~380 |
+| Rigged to Blow | 9.00% | ~342 |
 | Herr Today, Gone Tomorrow | 7.00% | ~262 |
 | Operation Foxley | 6.00% | ~225 |
 | The Long Game | 5.00% | ~190 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,794 (Ranked 187)  
+Progressed: 3,795 (Ranked 187)  
 Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-26 | 3,780 | 11 |
 | 2023-10-27 | 3,786 | 11 |
 | 2023-10-28 | 3,790 | 11 |
-| 2023-10-29 | 3,794 | 11 |
+| 2023-10-29 | 3,795 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 530)  
 Sum: 21 (Ranked 531)  

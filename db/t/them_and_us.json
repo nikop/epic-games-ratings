@@ -1255,9 +1255,9 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -1359,9 +1359,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1415,9 +1415,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ETUA_PTD",
@@ -1584,8 +1584,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:06:54.1970737+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:07:31.3520031+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:57:33.85121+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:06:54.1971154+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:57:24.1218827+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:07:31.3520541+00:00"
 }

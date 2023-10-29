@@ -18,8 +18,8 @@
 | Expert Conjuror | 60.00% | ~116 |
 | Distance Devourer | 57.00% | ~110 |
 | Master of the Skies | 55.00% | ~106 |
+| Flawless Crystal | 55.00% | ~106 |
 | Helpful Heart | 55.00% | ~106 |
-| Flawless Crystal | 54.00% | ~104 |
 | Bonds of Enmity | 54.00% | ~104 |
 | Counter Specialist | 52.00% | ~100 |
 | Axer of Auspice | 47.00% | ~91 |
@@ -33,7 +33,7 @@
 | Reincarnation Cycle Stopper | 36.00% | ~69 |
 | Artful Assister | 34.00% | ~66 |
 | Karakuri Isle | 33.00% | ~64 |
-| Left Arm Leverager | 30.00% | ~58 |
+| Left Arm Leverager | 31.00% | ~60 |
 | Human Believer | 29.00% | ~56 |
 | Unrivaled in Arms | 29.00% | ~56 |
 | Canyon of Karakuri | 28.00% | ~54 |

@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7147,
+  "EOS_Progressed": 7148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7910,6 +7910,11 @@
       "Time": "2023-10-29T11:06:56.4220561+00:00",
       "NumProgressed": 7147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T12:07:35.5465064+00:00",
+      "NumProgressed": 7148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8033,7 +8038,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "First_Ship_Designed",
@@ -8057,7 +8062,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5503
+      "UsersEstimate": 5504
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8225,7 +8230,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8496,15 +8501,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7147,
+      "Progressed": 7148,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:06:56.4220556+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:07:35.5465055+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:58:32.299454+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:06:56.4221843+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:58:36.6270428+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:07:35.5466235+00:00"
 }

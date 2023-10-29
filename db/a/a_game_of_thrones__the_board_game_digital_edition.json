@@ -6,7 +6,7 @@
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 124,
-  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -1290,9 +1290,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27119,
+  "EOS_Progressed": 27127,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21900,6 +21900,11 @@
       "Time": "2023-10-29T11:09:02.7664105+00:00",
       "NumProgressed": 27119,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-29T12:09:16.2661206+00:00",
+      "NumProgressed": 27127,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 22,
@@ -21919,7 +21924,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "1017",
@@ -21927,7 +21932,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "1018",
@@ -21943,7 +21948,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "1020",
@@ -21959,7 +21964,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "1022",
@@ -21967,7 +21972,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "1023",
@@ -21991,7 +21996,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "1026",
@@ -21999,7 +22004,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "1027",
@@ -22015,7 +22020,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4883
     },
     {
       "ID": "1029",
@@ -22031,7 +22036,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "1031",
@@ -22039,7 +22044,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3797
+      "UsersEstimate": 3798
     },
     {
       "ID": "1032",
@@ -22047,7 +22052,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10851
     },
     {
       "ID": "1033",
@@ -22063,7 +22068,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "1035",
@@ -22071,7 +22076,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3527
     },
     {
       "ID": "1036",
@@ -22086,15 +22091,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27119,
+      "Progressed": 27127,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:09:02.7664097+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:09:16.2661199+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:03:22.0050718+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:09:02.7665685+00:00"
+  "LastUpdate_Ratings": "2023-10-29T12:03:19.112291+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:09:16.2662601+00:00"
 }

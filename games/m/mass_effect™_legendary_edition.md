@@ -122,13 +122,13 @@
 | Singularity Mastery | 7.00% | ~59 |
 | Incineration Specialist | 6.00% | ~51 |
 | Shield Breaker | 5.00% | ~42 |
+| Insanity II | 4.00% | ~34 |
 | Tactician | 4.00% | ~34 |
 | Warp Specialist | 4.00% | ~34 |
-| Insanity II | 3.00% | ~25 |
 | Stasis Mastery | 2.00% | ~17 |
 | Gunsmith | 2.00% | ~17 |
+| Insanity III | 2.00% | ~17 |
 | AI Hacking Specialist | 2.00% | ~17 |
-| Insanity III | 1.00% | ~8 |
 | Neural Shock Specialist | 1.00% | ~8 |
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)

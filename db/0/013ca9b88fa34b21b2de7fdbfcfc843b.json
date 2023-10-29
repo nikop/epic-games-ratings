@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -157,9 +157,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7301,
+  "EOS_Progressed": 7302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5552,6 +5552,11 @@
       "Time": "2023-10-29T11:09:08.1706298+00:00",
       "NumProgressed": 7301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T12:09:22.8736791+00:00",
+      "NumProgressed": 7302,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5580,7 +5585,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -5588,7 +5593,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5652,7 +5657,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -5660,7 +5665,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -5668,7 +5673,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3504
+      "UsersEstimate": 3505
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5700,7 +5705,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3066
+      "UsersEstimate": 3067
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5724,7 +5729,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -5740,7 +5745,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5843,7 +5848,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7301,
+      "Progressed": 7302,
       "Completed": 0
     }
   ],
@@ -5851,8 +5856,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-25T13:58:14.2961001+00:00",
-  "LastChanged_Achievements": "2023-10-29T11:09:08.1706293+00:00",
+  "LastChanged_Achievements": "2023-10-29T12:09:22.8736785+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-29T10:59:40.2374733+00:00",
-  "LastUpdate_Achievements": "2023-10-29T11:09:08.1706956+00:00"
+  "LastUpdate_Ratings": "2023-10-29T11:59:51.2072439+00:00",
+  "LastUpdate_Achievements": "2023-10-29T12:09:22.8737819+00:00"
 }
