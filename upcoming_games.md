@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Sensorium Galaxy](games/3/32dfe2fe49964b24ab76ea559bfeea40.md) | 2023-10-29 | - |  | - | - |
 | [Painter Simulator](games/d/d046aae609604a98868576cbcbc30d59.md) | 2023-10-30 | - |  | - | - |
 | [Warpath: Ace Shooter](games/5/5cc2d6d24d354c50a07d723feaa5e6dc.md) | 2023-10-30 | - |  | - | - |
 | [Mahjong Magic Journey 2](games/5/5b26dab0cfb9499c8fb5887250f9c295.md) | 2023-10-30 | - |  | - | - |
@@ -54,6 +55,7 @@
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2023-11-30 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 2023-11-30 | 9 (1,000 XP) | 0 | - | - |
+| [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-11-30 | - |  | - | - |
 | [Tennis Elbow Manager 2](games/4/489af9bcd6534007a4ce5c36c810f6cb.md) | 2023-11-30 | - |  | - | - |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | - |  | - | - |
 | [The Sophisticated Art of Friendship](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2023-11-30 | - |  | - | - |
@@ -163,7 +165,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 210,110 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 210,206 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -358,6 +360,7 @@
 | [Max Beyond](games/0/0eab9a9677e141ac8c2551fc0d05fe11.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
+| [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2099-01-01 | 52 (1,000 XP) | 1 | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |
