@@ -1,23 +1,23 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.28 (Ranked 840)  
+Rating: 4.28 (Ranked 839)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bragging Rights | 55.00% | ~1,686 |
-| MVP | 54.00% | ~1,655 |
-| Big Spender | 53.00% | ~1,624 |
+| MVP | 54.00% | ~1,656 |
+| Big Spender | 53.00% | ~1,625 |
 | Stud Finder | 41.00% | ~1,257 |
 | Dealmaker | 40.00% | ~1,226 |
-| ROTY | 33.00% | ~1,011 |
+| ROTY | 33.00% | ~1,012 |
 | Roster Reshuffle | 31.00% | ~950 |
-| Future of the Franchise | 19.00% | ~582 |
+| Future of the Franchise | 19.00% | ~583 |
 | Throwin’ Dots | 17.00% | ~521 |
 | Already in Progress | 17.00% | ~521 |
 | Change of Scenery | 17.00% | ~521 |
-| Primetime | 16.00% | ~490 |
-| Pro Bowler | 16.00% | ~490 |
+| Primetime | 16.00% | ~491 |
+| Pro Bowler | 16.00% | ~491 |
 | Unblockable | 9.00% | ~276 |
 | Pocket Ace | 5.00% | ~153 |
 | Lockdown Corner | 5.00% | ~153 |
@@ -27,8 +27,8 @@ Rating: 4.28 (Ranked 840)
 | Lockdown Leader | 0.50% | ~15 |
 | The Fortress | 0.40% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,065 (Ranked 201)  
-Completed: 0 (0.00%) (Ranked 331)  
+Progressed: 3,066 (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,14 +71,14 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 2,981 | 0 |
 | 2023-10-27 | 3,012 | 0 |
 | 2023-10-28 | 3,052 | 0 |
-| 2023-10-29 | 3,065 | 0 |
+| 2023-10-29 | 3,066 | 0 |
 ## Awards
-Max (Diverse Characters): 33  (Ranked 474)  
-Sum: 82 (Ranked 448)  
-Diff (max vs sum): 26  
+Max (Diverse Characters): 35  (Ranked 464)  
+Sum: 84 (Ranked 447)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 33 |
+| This game has Diverse Characters | 35 |
 | This game has a Competitive Community | 27 |
 | This game is Highly Recommended | 22 |
 ## Ratings History
@@ -206,3 +206,4 @@ Diff (max vs sum): 26
 | 2023-10-22 | 4.28 | 30 | 79 |
 | 2023-10-26 | 4.28 | 31 | 80 |
 | 2023-10-28 | 4.28 | 33 | 82 |
+| 2023-10-29 | 4.28 | 35 | 84 |

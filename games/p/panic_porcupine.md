@@ -19,7 +19,7 @@
 | Snowy Shortcut | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 600)  
-Completed: 0 (0.00%) (Ranked 331)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

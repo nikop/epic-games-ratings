@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~736 |
 | Mass production | 35.00% | ~628 |
 | Aircraft entrepreneur | 33.00% | ~592 |
+| The future is now, old man | 32.00% | ~574 |
 | Crowd in a train | 31.00% | ~556 |
-| The future is now, old man | 31.00% | ~556 |
 | Not in my backyard | 30.00% | ~538 |
 | The king of the sea | 29.00% | ~521 |
 | City | 28.00% | ~503 |
@@ -69,7 +69,7 @@ Number of Ratings: 180  (23.09.2022)
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,795 (Ranked 219)  
-Completed: 1 (0.06%) (Ranked 280)  
+Completed: 1 (0.06%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

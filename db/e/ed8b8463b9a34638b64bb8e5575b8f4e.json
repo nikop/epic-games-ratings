@@ -3,7 +3,7 @@
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -423,9 +423,9 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 95,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "the_martyr",
@@ -471,9 +471,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "who_is_d",
@@ -494,8 +494,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:08:36.543189+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:07:50.1400326+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:01:19.6788005+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:08:36.543208+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:00:43.1227237+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:07:50.1400715+00:00"
 }

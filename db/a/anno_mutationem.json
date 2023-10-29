@@ -6,9 +6,9 @@
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -662,9 +662,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 183
     },
     {
       "ID": "In the smacker...I think",
@@ -863,8 +863,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:04.070419+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:39.8890591+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:12.9598658+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:46.0852989+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:04.0704495+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:23.7621314+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:39.8891066+00:00"
 }

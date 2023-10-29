@@ -2,8 +2,8 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-10-29T14:07:05.5910031+00:00",
       "NumProgressed": 225,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T19:06:15.8723086+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1049,9 +1054,9 @@
       "ID": "ACH_ANTIDOTE",
       "SetID": "511e31d",
       "Name": "Antidote",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1067,7 +1072,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1115,7 +1120,7 @@
       "Name": "Eva\u0027s diary",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EVILDOCUMENTS",
@@ -1123,7 +1128,7 @@
       "Name": "Horror book",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FORCE",
@@ -1131,7 +1136,7 @@
       "Name": "Brute force",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1147,7 +1152,7 @@
       "Name": "Let\u0027s play a game\u2026",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_KITCHEN",
@@ -1163,15 +1168,15 @@
       "Name": "A dark past",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_MUSICRADIO",
       "SetID": "511e31d",
       "Name": "Soundtrack",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1203,7 +1208,7 @@
       "Name": "Nimble fingers",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1227,7 +1232,7 @@
       "Name": "Room 104",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_ROOM203",
@@ -1235,7 +1240,7 @@
       "Name": "Pick the right door",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ROOM303",
@@ -1275,21 +1280,21 @@
       "Name": "Now or never",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     }
   ],
   "AchievementSets": [
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:40.4862379+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:06:15.8723075+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.0797978+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:57:26.0825475+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:40.4862684+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:04.4755087+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:06:15.8723342+00:00"
 }

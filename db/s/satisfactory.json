@@ -6,9 +6,9 @@
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 709,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -12575,10 +12575,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 100470,
       "NumberOfAwardsMax": 12288
+    },
+    {
+      "Time": "2023-10-29T18:59:31.6719265+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 100502,
+      "NumberOfAwardsMax": 12288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 100470,
+  "NumberOfAwards": 100502,
   "NumberOfAwardsMax": 12288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12628,7 +12634,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 10019
+      "Count": 10036
     },
     {
       "Text": "This game has a Creative Community",
@@ -12646,7 +12652,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7866
+      "Count": 7881
     }
   ],
   "EOS_Progressed": 0,
@@ -12668,9 +12674,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2023-10-29T15:00:06.0306316+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:05:35.504886+00:00",
+  "LastChanged": "2023-10-29T18:59:31.6719264+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:12.2290787+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:54.9113489+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:59.1510842+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:05:35.5048886+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:59:31.6719271+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:12.2290823+00:00"
 }

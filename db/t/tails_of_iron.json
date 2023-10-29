@@ -6,9 +6,9 @@
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 194,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 1975,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -2976,9 +2976,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1462
     },
     {
       "ID": "Collect20Gold",
@@ -3231,8 +3231,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:03:55.348034+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:03:14.7733004+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.3911639+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:57:56.3000188+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:03:55.348074+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:27.6046268+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:03:14.7733341+00:00"
 }

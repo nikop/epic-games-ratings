@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 404)  
+Rating: 4.60 (Ranked 405)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 404)
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,250 (Ranked 180)  
-Completed: 6 (0.11%) (Ranked 255)  
+Completed: 6 (0.11%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

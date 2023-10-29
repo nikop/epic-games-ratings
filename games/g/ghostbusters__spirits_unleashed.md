@@ -5,17 +5,18 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,412 |
-| Advancement | 4.00% | ~1,129 |
-| Meticulously Efficient | 4.00% | ~1,129 |
-| Clutch Capture | 3.00% | ~847 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~847 |
-| Discovery | 3.00% | ~847 |
-| Fully Upgraded | 3.00% | ~847 |
-| Solo Capture | 3.00% | ~847 |
-| Swift Rift Removers | 3.00% | ~847 |
-| Teamwork | 3.00% | ~847 |
-| Vaporous Expansion | 3.00% | ~847 |
+| Stylish | 5.00% | ~1,413 |
+| Advancement | 4.00% | ~1,131 |
+| Meticulously Efficient | 4.00% | ~1,131 |
+| Clutch Capture | 3.00% | ~848 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~848 |
+| Discovery | 3.00% | ~848 |
+| Fully Upgraded | 3.00% | ~848 |
+| Solo Capture | 3.00% | ~848 |
+| Swift Rift Removers | 3.00% | ~848 |
+| Teamwork | 3.00% | ~848 |
+| Vaporous Expansion | 3.00% | ~848 |
+| Whoopsie | 3.00% | ~848 |
 | Animated | 2.00% | ~565 |
 | Back Off | 2.00% | ~565 |
 | Cultured | 2.00% | ~565 |
@@ -29,27 +30,26 @@ Rating: 4.50 (Ranked 578)
 | Summoner | 2.00% | ~565 |
 | There you are! | 2.00% | ~565 |
 | Welcome to the Crew | 2.00% | ~565 |
-| Whoopsie | 2.00% | ~565 |
-| We have the best insurance | 1.00% | ~282 |
-| Collector | 1.00% | ~282 |
-| Escape Artist | 1.00% | ~282 |
-| Legions | 1.00% | ~282 |
-| Rift Destroyer | 1.00% | ~282 |
-| Seasoned | 1.00% | ~282 |
-| Skilled | 1.00% | ~282 |
-| Stunner | 1.00% | ~282 |
-| Terrifying | 1.00% | ~282 |
-| Tobin's Prodigy | 1.00% | ~282 |
+| We have the best insurance | 1.00% | ~283 |
+| Collector | 1.00% | ~283 |
+| Escape Artist | 1.00% | ~283 |
+| Legions | 1.00% | ~283 |
+| Rift Destroyer | 1.00% | ~283 |
+| Seasoned | 1.00% | ~283 |
+| Skilled | 1.00% | ~283 |
+| Stunner | 1.00% | ~283 |
+| Terrifying | 1.00% | ~283 |
+| Tobin's Prodigy | 1.00% | ~283 |
 | Diabolical | 0.90% | ~254 |
 | Reckless | 0.90% | ~254 |
 | Rivalry | 0.80% | ~226 |
 | Surprise! | 0.70% | ~198 |
-| Fragile Panes | 0.60% | ~169 |
-| Liability | 0.60% | ~169 |
+| Fragile Panes | 0.60% | ~170 |
+| Liability | 0.60% | ~170 |
 | Therapeutic | 0.40% | ~113 |
 | Master Collector | 0.30% | ~85 |
 | Rift Seeker | 0.30% | ~85 |
-| Ghost Expert | 0.20% | ~56 |
+| Ghost Expert | 0.20% | ~57 |
 | Catostrophic Destroyer | 0.10% | ~28 |
 | I don't need these | 0.10% | ~28 |
 | Line em' up | 0.10% | ~28 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,235 (Ranked 123)  
-Completed: 65 (0.23%) (Ranked 226)  
+Progressed: 28,266 (Ranked 123)  
+Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
-| 2023-10-29 | 28,235 | 65 |
+| 2023-10-29 | 28,266 | 65 |
 ## Awards
 Max (Great for Beginners): 293  (Ranked 245)  
 Sum: 2,594 (Ranked 181)  

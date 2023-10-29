@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.27 (Ranked 847)  
+Rating: 4.27 (Ranked 846)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 426 (Ranked 303)  
-Completed: 1 (0.23%) (Ranked 226)  
+Completed: 1 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

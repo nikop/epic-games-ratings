@@ -12,8 +12,8 @@ Rating: 4.56 (Ranked 478)
 | The things they print nowadays | 40.00% | ~271 |
 | Big Spender | 39.00% | ~264 |
 | That's gotta hurt | 37.00% | ~251 |
+| I think it's broke | 27.00% | ~183 |
 | The Ann Flores Combo Experience | 27.00% | ~183 |
-| I think it's broke | 26.00% | ~176 |
 | Club Star | 25.00% | ~170 |
 | Omnipotence | 21.00% | ~142 |
 | The Warlord | 21.00% | ~142 |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 478)
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 678 (Ranked 269)  
-Completed: 0 (0.00%) (Ranked 331)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

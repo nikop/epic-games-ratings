@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 405,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14451,
+  "EOS_Progressed": 14453,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9889,6 +9889,11 @@
       "Time": "2023-10-29T18:04:14.788879+00:00",
       "NumProgressed": 14451,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-29T19:03:33.8405588+00:00",
+      "NumProgressed": 14453,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10035,9 +10040,9 @@
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "26",
@@ -10180,13 +10185,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14451,
+      "Progressed": 14453,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 405,
+      "Progressed": 407,
       "Completed": 286
     }
   ],
@@ -10194,8 +10199,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:04:14.7888785+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:03:33.8405582+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:09.9251091+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:04:14.7889686+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:43.5694771+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:03:33.8406927+00:00"
 }

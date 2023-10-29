@@ -17,10 +17,10 @@
 | Boulder Clash | 13.00% | ~487 |
 | Held Back by the Roots | 12.00% | ~450 |
 | Well Supplied | 10.00% | ~375 |
+| Damage Control | 8.00% | ~300 |
 | Sniped | 7.00% | ~262 |
 | Leave Them no Cake | 7.00% | ~262 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~262 |
-| Damage Control | 7.00% | ~262 |
 | Master of the Brawl | 7.00% | ~262 |
 | Your Biggest Fans | 6.00% | ~225 |
 | A Secret Recipe | 6.00% | ~225 |
@@ -39,7 +39,7 @@
 | All Geared Up | 0.90% | ~34 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,746 (Ranked 188)  
-Completed: 11 (0.29%) (Ranked 219)  
+Completed: 11 (0.29%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~827 |
-| Off to a good start | 68.00% | ~618 |
-| Do... or do not. There is no try | 51.00% | ~464 |
-| A good blaster at your side | 34.00% | ~309 |
+| New Recruit | 91.00% | ~829 |
+| Off to a good start | 68.00% | ~619 |
+| Do... or do not. There is no try | 51.00% | ~465 |
+| A good blaster at your side | 34.00% | ~310 |
 | Scrap collector | 20.00% | ~182 |
 | I suggest a new strategy | 20.00% | ~182 |
 | Great shot, kid! | 18.00% | ~164 |
 | All right, I'll give it a try | 17.00% | ~155 |
-| Together we can rule the galaxy | 16.00% | ~145 |
-| Shoot first | 16.00% | ~145 |
-| The power of the Force | 15.00% | ~136 |
-| Collector | 14.00% | ~127 |
+| Shoot first | 16.00% | ~146 |
+| The power of the Force | 15.00% | ~137 |
+| Together we can rule the galaxy | 15.00% | ~137 |
+| Collector | 14.00% | ~128 |
 | Survivor | 11.00% | ~100 |
 | Tell Jabba that I've got his money | 10.00% | ~91 |
 | Never tell me the odds! | 10.00% | ~91 |
@@ -28,8 +28,8 @@
 | Support the troops | 7.00% | ~64 |
 | Distinguished | 6.00% | ~55 |
 | A tremor in the Force | 6.00% | ~55 |
-| Not bad for a little furball | 5.00% | ~45 |
-| Patience you must have | 5.00% | ~45 |
+| Not bad for a little furball | 5.00% | ~46 |
+| Patience you must have | 5.00% | ~46 |
 | I've been waiting for you | 4.00% | ~36 |
 | When 900 years old you reach... | 4.00% | ~36 |
 | On the ball | 4.00% | ~36 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 252)  
-Completed: 1 (0.11%) (Ranked 255)  
+Progressed: 911 (Ranked 252)  
+Completed: 1 (0.11%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,7 +111,7 @@ Completed: 1 (0.11%) (Ranked 255)
 | 2023-10-26 | 857 | 1 |
 | 2023-10-27 | 869 | 1 |
 | 2023-10-28 | 890 | 1 |
-| 2023-10-29 | 909 | 1 |
+| 2023-10-29 | 911 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 381,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-10-29T18:08:39.526666+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T19:07:53.0587079+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -438,7 +443,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -452,9 +457,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "TIME_JINX",
@@ -476,9 +481,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -525,14 +530,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:08:39.5266654+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:07:53.0587072+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:01:22.0382386+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:08:39.5266816+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:00:44.4885114+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:07:53.0587421+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -289,10 +289,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2023-10-29T19:02:37.0920344+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 115,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
+  "NumberOfAwards": 115,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -312,7 +318,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -327,11 +333,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72747,
-  "EOS_Completed": 381,
-  "EOS_NewPlayers": 670,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Progressed": 72752,
+  "EOS_Completed": 382,
+  "EOS_NewPlayers": 672,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:11.74292+00:00",
@@ -21472,6 +21478,11 @@
       "Time": "2023-10-29T18:08:37.159538+00:00",
       "NumProgressed": 72747,
       "NumCompleted": 381
+    },
+    {
+      "Time": "2023-10-29T19:07:50.7206733+00:00",
+      "NumProgressed": 72752,
+      "NumCompleted": 382
     }
   ],
   "TotalAchievements": 24,
@@ -21483,7 +21494,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "AWAKEN",
@@ -21491,7 +21502,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16004
+      "UsersEstimate": 16005
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -21499,7 +21510,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49468
+      "UsersEstimate": 49471
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21507,7 +21518,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16004
+      "UsersEstimate": 16005
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -21515,7 +21526,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 18914
+      "UsersEstimate": 18916
     },
     {
       "ID": "ERADICATE",
@@ -21523,7 +21534,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15277
+      "UsersEstimate": 15278
     },
     {
       "ID": "FETCH",
@@ -21531,7 +21542,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20369
+      "UsersEstimate": 20371
     },
     {
       "ID": "FOXIN_AROUND",
@@ -21539,7 +21550,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21097
+      "UsersEstimate": 21098
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -21555,7 +21566,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13094
+      "UsersEstimate": 13095
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -21563,7 +21574,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38556
+      "UsersEstimate": 38559
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21571,7 +21582,7 @@
       "Name": "KINDRED SPIRITS",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "MATCH_MAKER",
@@ -21595,7 +21606,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "OLD_COMPANION",
@@ -21603,7 +21614,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -21627,7 +21638,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15277
+      "UsersEstimate": 15278
     },
     {
       "ID": "SPIRIT_DASH",
@@ -21635,7 +21646,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "SPIRIT_FORM",
@@ -21643,7 +21654,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12367
+      "UsersEstimate": 12368
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -21651,7 +21662,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10912
+      "UsersEstimate": 10913
     },
     {
       "ID": "WEIGHTLESS",
@@ -21674,16 +21685,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72747,
-      "Completed": 381
+      "Progressed": 72752,
+      "Completed": 382
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
-  "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:08:37.1595369+00:00",
+  "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:07:50.7206725+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:03:17.937736+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:08:37.1596817+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:02:37.0920349+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:07:50.720874+00:00"
 }

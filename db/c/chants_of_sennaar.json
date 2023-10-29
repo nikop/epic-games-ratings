@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1638,9 +1638,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1710,9 +1710,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1781,8 +1781,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:05:47.7979502+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:24.5433954+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:09.2153054+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:05:47.7979797+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:47.1166846+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:24.5434369+00:00"
 }

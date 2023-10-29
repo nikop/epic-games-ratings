@@ -3,9 +3,9 @@
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 438,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -472,9 +472,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_PAIN",
@@ -559,8 +559,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:17.4643592+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:52.7316481+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:18.0534224+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:12.0662248+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:17.4643831+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:50.4730499+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:52.731704+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1350,9 +1350,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9941,
+  "EOS_Progressed": 9942,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15870,6 +15870,11 @@
       "Time": "2023-10-29T17:08:18.662729+00:00",
       "NumProgressed": 9941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T19:07:36.5960876+00:00",
+      "NumProgressed": 9942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15881,7 +15886,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "10",
@@ -15897,7 +15902,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "12",
@@ -15929,7 +15934,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "16",
@@ -15937,7 +15942,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "17",
@@ -15961,7 +15966,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5169
+      "UsersEstimate": 5170
     },
     {
       "ID": "2",
@@ -15969,7 +15974,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "20",
@@ -15993,7 +15998,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7257
+      "UsersEstimate": 7258
     },
     {
       "ID": "23",
@@ -16017,7 +16022,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "26",
@@ -16057,7 +16062,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "30",
@@ -16097,7 +16102,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "35",
@@ -16145,7 +16150,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2783
+      "UsersEstimate": 2784
     },
     {
       "ID": "40",
@@ -16225,7 +16230,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "5",
@@ -16265,7 +16270,7 @@
       "Name": "Amped Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "54",
@@ -16273,7 +16278,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "55",
@@ -16352,15 +16357,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9941,
+      "Progressed": 9942,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-29T10:00:51.4730208+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:07:11.7051711+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:07:36.5960869+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:00:13.7624587+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:07:11.7053158+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:59:49.9716671+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:07:36.5962833+00:00"
 }

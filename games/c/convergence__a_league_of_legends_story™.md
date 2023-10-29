@@ -24,9 +24,9 @@ Rating: 4.62 (Ranked 359)
 | Like Clockwork | 19.00% | ~173 |
 | The Betrayer | 19.00% | ~173 |
 | Golem Chaser | 19.00% | ~173 |
+| Check Your Pulse | 19.00% | ~173 |
 | Right On Time | 18.00% | ~164 |
 | The Loose Cannon | 18.00% | ~164 |
-| Check Your Pulse | 18.00% | ~164 |
 | The Family Fortune | 18.00% | ~164 |
 | Street Style | 17.00% | ~155 |
 | The Man Who Shattered Time | 17.00% | ~155 |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 359)
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 913 (Ranked 251)  
-Completed: 6 (0.66%) (Ranked 168)  
+Completed: 6 (0.66%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

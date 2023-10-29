@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,460 |
-| I'll Be Back | 85.00% | ~4,033 |
+| On My Own Two Feet | 94.00% | ~4,461 |
+| I'll Be Back | 85.00% | ~4,034 |
 | Sorry, I Dropped This | 77.00% | ~3,654 |
 | First Day on the Job | 77.00% | ~3,654 |
 | Butcher's Bill | 55.00% | ~2,610 |
 | P.A.X | 38.00% | ~1,803 |
 | Hey Listen | 37.00% | ~1,756 |
-| OPERATOR | 36.00% | ~1,708 |
+| OPERATOR | 36.00% | ~1,709 |
 | It's Blue Light | 33.00% | ~1,566 |
 | Most Wanted | 27.00% | ~1,281 |
 | Infidel | 24.00% | ~1,139 |
-| Firebug | 21.00% | ~996 |
-| GOLIATH | 21.00% | ~996 |
+| Firebug | 21.00% | ~997 |
+| GOLIATH | 21.00% | ~997 |
 | I Choose You | 18.00% | ~854 |
 | Nothing to Lose | 18.00% | ~854 |
 | Big Sister | 16.00% | ~759 |
 | SENTINEL | 16.00% | ~759 |
 | Gear Up | 15.00% | ~712 |
 | Core Power | 13.00% | ~617 |
-| The Black Cerberus | 12.00% | ~569 |
-| Watchman | 12.00% | ~569 |
+| The Black Cerberus | 12.00% | ~570 |
+| Watchman | 12.00% | ~570 |
 | CREO Killed the Video Star | 11.00% | ~522 |
 | Who's in Charge Here? | 11.00% | ~522 |
 | Shall Not Pass | 11.00% | ~522 |
-| Right Tool for the Job | 10.00% | ~474 |
+| Right Tool for the Job | 10.00% | ~475 |
 | Melting Down | 9.00% | ~427 |
 | Raging Drones | 9.00% | ~427 |
 | Overconfident | 9.00% | ~427 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~33 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,745 (Ranked 182)  
-Completed: 18 (0.38%) (Ranked 203)  
+Progressed: 4,746 (Ranked 182)  
+Completed: 18 (0.38%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,6 +233,7 @@ Completed: 18 (0.38%) (Ranked 203)
 | 2023-10-26 | 4,741 | 18 |
 | 2023-10-27 | 4,743 | 18 |
 | 2023-10-28 | 4,745 | 18 |
+| 2023-10-29 | 4,746 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 488)  
 Sum: 29 (Ranked 502)  

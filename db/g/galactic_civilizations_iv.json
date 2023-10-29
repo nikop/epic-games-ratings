@@ -6,9 +6,9 @@
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7925,6 +7925,11 @@
       "Time": "2023-10-29T18:06:39.0800426+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T19:06:14.364824+00:00",
+      "NumProgressed": 7151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -7992,7 +7997,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -8000,7 +8005,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8016,7 +8021,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "First_Major_Ally",
@@ -8038,9 +8043,9 @@
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5577
+      "UsersEstimate": 5506
     },
     {
       "ID": "First_Race_Met",
@@ -8048,7 +8053,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "First_Ship_Designed",
@@ -8254,9 +8259,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4362
+      "UsersEstimate": 4291
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8464,7 +8469,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "Win_Influence",
@@ -8511,15 +8516,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:39.0800421+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:06:14.3648235+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:35.0180109+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:39.0801598+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:11.2124338+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:06:14.3649476+00:00"
 }

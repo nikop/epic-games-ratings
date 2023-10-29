@@ -27,7 +27,7 @@
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 391)  
-Completed: 1 (0.90%) (Ranked 158)  
+Completed: 1 (0.90%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

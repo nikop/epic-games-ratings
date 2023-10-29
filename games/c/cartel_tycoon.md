@@ -10,8 +10,8 @@ Number of Ratings: 101  (23.09.2022)
 | Take-Off | 80.00% | ~522 |
 | Hokey-Pokey | 71.00% | ~464 |
 | Camellos | 57.00% | ~372 |
+| Bad Trip | 46.00% | ~300 |
 | Didn't Miss A Single One | 45.00% | ~294 |
-| Bad Trip | 45.00% | ~294 |
 | Spread | 41.00% | ~268 |
 | That was base | 40.00% | ~261 |
 | Safe Pair of Hands | 38.00% | ~248 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 653 (Ranked 272)  
-Completed: 2 (0.31%) (Ranked 211)  
+Completed: 2 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

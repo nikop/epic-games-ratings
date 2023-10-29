@@ -6,9 +6,9 @@
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6763,7 +6763,7 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138316,
+  "EOS_Progressed": 138317,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 3,
@@ -26403,6 +26403,11 @@
       "Time": "2023-10-29T18:05:24.1827876+00:00",
       "NumProgressed": 138316,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2023-10-29T19:05:01.4184189+00:00",
+      "NumProgressed": 138317,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 112,
@@ -26428,9 +26433,9 @@
       "ID": "advlevel03",
       "SetID": "anfd17p",
       "Name": "A Notch Above the Rest",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 968
+      "UsersEstimate": 1107
     },
     {
       "ID": "advlevel04",
@@ -26646,7 +26651,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "commonres02",
@@ -26886,7 +26891,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "gold02",
@@ -27230,7 +27235,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "twinenchant01",
@@ -27309,15 +27314,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138316,
+      "Progressed": 138317,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-29T17:59:20.4949029+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:05:24.182787+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:01.4184183+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:20.4949036+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:05:24.1830746+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:59.8066251+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:01.4187077+00:00"
 }

@@ -23,6 +23,7 @@ Rating: 4.57 (Ranked 463)
 | Sidelined | 33.00% | ~6 |
 | Wise man | 28.00% | ~5 |
 | Archaeologist | 28.00% | ~5 |
+| Defender | 28.00% | ~5 |
 | Pandora's box | 28.00% | ~5 |
 | Ogre friend | 28.00% | ~5 |
 | Hard worker | 28.00% | ~5 |
@@ -32,7 +33,6 @@ Rating: 4.57 (Ranked 463)
 | Death of a legend | 22.00% | ~4 |
 | Little hero | 22.00% | ~4 |
 | Freedom fighter | 22.00% | ~4 |
-| Defender | 22.00% | ~4 |
 | Safecracker | 22.00% | ~4 |
 | Moneybags | 22.00% | ~4 |
 | King of the handymen | 22.00% | ~4 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 463)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 331)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

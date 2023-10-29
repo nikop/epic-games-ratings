@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 170)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,541 |
-| Newcomers | 79.00% | ~10,769 |
+| Under a New Sun | 92.00% | ~12,542 |
+| Newcomers | 79.00% | ~10,770 |
 | A Burden of Blood | 74.00% | ~10,088 |
 | Protector's Duty | 71.00% | ~9,679 |
-| In our Wake | 69.00% | ~9,406 |
-| Alchemist | 69.00% | ~9,406 |
-| Leaving all Behind | 66.00% | ~8,997 |
-| Felons | 63.00% | ~8,588 |
+| In our Wake | 69.00% | ~9,407 |
+| Alchemist | 69.00% | ~9,407 |
+| Leaving all Behind | 66.00% | ~8,998 |
+| Felons | 63.00% | ~8,589 |
 | A Sea of Promises | 61.00% | ~8,316 |
 | Tales and Revelations | 58.00% | ~7,907 |
 | Bloodline | 53.00% | ~7,225 |
 | The Cradle of Centuries | 49.00% | ~6,680 |
-| The Life We Deserve | 47.00% | ~6,407 |
-| Night guard | 44.00% | ~5,998 |
+| The Life We Deserve | 47.00% | ~6,408 |
+| Night guard | 44.00% | ~5,999 |
 | Nothing Left | 40.00% | ~5,453 |
-| Healing our Wounds | 38.00% | ~5,180 |
+| Healing our Wounds | 38.00% | ~5,181 |
 | Dying Sun | 34.00% | ~4,635 |
 | Improved crossbow | 27.00% | ~3,681 |
 | King Hugo | 25.00% | ~3,408 |
 | Mercy | 24.00% | ~3,272 |
-| Perfect shot | 23.00% | ~3,135 |
+| Perfect shot | 23.00% | ~3,136 |
 | Effective instruments | 22.00% | ~2,999 |
 | Perfect throw | 22.00% | ~2,999 |
 | Knights! | 21.00% | ~2,863 |
@@ -41,8 +41,8 @@ Rating: 4.73 (Ranked 170)
 | Old protector | 2.00% | ~273 |
 | Malignant | 1.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,632 (Ranked 146)  
-Completed: 50 (0.37%) (Ranked 205)  
+Progressed: 13,633 (Ranked 146)  
+Completed: 50 (0.37%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 50 (0.37%) (Ranked 205)
 | 2023-10-26 | 13,616 | 50 |
 | 2023-10-27 | 13,620 | 50 |
 | 2023-10-28 | 13,627 | 50 |
-| 2023-10-29 | 13,632 | 50 |
+| 2023-10-29 | 13,633 | 50 |
 ## Awards
 Max (Great Boss Battles): 427  (Ranked 219)  
 Sum: 664 (Ranked 299)  

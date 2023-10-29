@@ -31,7 +31,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Senior Estate Agent | 0.60% | ~127 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,212 (Ranked 129)  
-Completed: 21 (0.10%) (Ranked 259)  
+Completed: 21 (0.10%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

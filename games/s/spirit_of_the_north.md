@@ -6,33 +6,33 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~49,468 |
-| INFUSED WITH LIGHT | 53.00% | ~38,556 |
-| FOXIN' AROUND | 29.00% | ~21,097 |
-| FETCH | 28.00% | ~20,369 |
-| BLOOMS OF LIGHT | 26.00% | ~18,914 |
-| AWAKEN | 22.00% | ~16,004 |
-| BEST FRIENDS | 22.00% | ~16,004 |
-| ERADICATE | 21.00% | ~15,277 |
-| SPIRIT BARK | 21.00% | ~15,277 |
-| GARDEN OF LIGHT | 18.00% | ~13,094 |
-| SPIRIT FORM | 17.00% | ~12,367 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~49,471 |
+| INFUSED WITH LIGHT | 53.00% | ~38,559 |
+| FOXIN' AROUND | 29.00% | ~21,098 |
+| FETCH | 28.00% | ~20,371 |
+| BLOOMS OF LIGHT | 26.00% | ~18,916 |
+| AWAKEN | 22.00% | ~16,005 |
+| BEST FRIENDS | 22.00% | ~16,005 |
+| ERADICATE | 21.00% | ~15,278 |
+| SPIRIT BARK | 21.00% | ~15,278 |
+| GARDEN OF LIGHT | 18.00% | ~13,095 |
+| SPIRIT FORM | 17.00% | ~12,368 |
 | WRITTEN IN STONE | 16.00% | ~11,640 |
-| UPROOTING DARKNESS | 15.00% | ~10,912 |
+| UPROOTING DARKNESS | 15.00% | ~10,913 |
 | WEIGHTLESS | 12.00% | ~8,730 |
-| SPIRIT DASH | 11.00% | ~8,002 |
-| OLD COMPANION | 9.00% | ~6,547 |
+| SPIRIT DASH | 11.00% | ~8,003 |
+| OLD COMPANION | 9.00% | ~6,548 |
 | MATCH MAKER | 8.00% | ~5,820 |
 | PLAGUE DOCTOR | 8.00% | ~5,820 |
 | SPIRITED AWAY | 8.00% | ~5,820 |
-| NORTHERN LIGHTS | 7.00% | ~5,092 |
+| NORTHERN LIGHTS | 7.00% | ~5,093 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,910 |
-| ANCIENT HISTORY | 3.00% | ~2,182 |
+| ANCIENT HISTORY | 3.00% | ~2,183 |
 | NONE FORGOTTEN | 2.00% | ~1,455 |
-| KINDRED SPIRITS | 0.60% | ~436 |
+| KINDRED SPIRITS | 0.60% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,747 (Ranked 98)  
-Completed: 381 (0.52%) (Ranked 187)  
+Progressed: 72,752 (Ranked 98)  
+Completed: 382 (0.53%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,16 +223,16 @@ Completed: 381 (0.52%) (Ranked 187)
 | 2023-10-26 | 72,443 | 379 |
 | 2023-10-27 | 72,544 | 379 |
 | 2023-10-28 | 72,664 | 379 |
-| 2023-10-29 | 72,747 | 381 |
+| 2023-10-29 | 72,752 | 382 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 508)  
-Sum: 114 (Ranked 428)  
+Sum: 115 (Ranked 428)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 26 |
+| This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 24 |
-| This game is Relaxing | 24 |
 | This game has Quickly Understood Controls | 20 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -267,3 +267,4 @@ Diff (max vs sum): 80
 | 2023-05-05 | 4.36 | - | 25 | 93 |
 | 2023-06-20 | 4.36 | - | 25 | 113 |
 | 2023-08-09 | 4.36 | - | 26 | 114 |
+| 2023-10-29 | 4.36 | - | 26 | 115 |

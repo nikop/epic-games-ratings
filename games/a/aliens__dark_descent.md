@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.48 (Ranked 614)  
+Rating: 4.48 (Ranked 615)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 4.48 (Ranked 614)
 | Chalk It Up To Experience | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,500 (Ranked 195)  
-Completed: 3 (0.09%) (Ranked 265)  
+Completed: 3 (0.09%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,9 +181,9 @@ Completed: 3 (0.09%) (Ranked 265)
 | 2023-10-28 | 3,497 | 3 |
 | 2023-10-29 | 3,500 | 3 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 474)  
+Max (Great Boss Battles): 33  (Ranked 475)  
 Sum: 33 (Ranked 497)  
-Diff (max vs sum): -23  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 33 |

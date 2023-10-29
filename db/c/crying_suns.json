@@ -4,11 +4,11 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 578,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469922,
+  "EOS_Progressed": 469924,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20746,6 +20746,11 @@
       "Time": "2023-10-29T18:09:30.3805057+00:00",
       "NumProgressed": 469922,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-29T19:09:02.8905902+00:00",
+      "NumProgressed": 469924,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20757,7 +20762,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70488
+      "UsersEstimate": 70489
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -20765,7 +20770,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70488
+      "UsersEstimate": 70489
     },
     {
       "ID": "achievement_first_death",
@@ -20773,7 +20778,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112781
+      "UsersEstimate": 112782
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20789,7 +20794,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70488
+      "UsersEstimate": 70489
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -20845,7 +20850,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310149
+      "UsersEstimate": 310150
     },
     {
       "ID": "achievement_story_landa",
@@ -20877,7 +20882,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117480
+      "UsersEstimate": 117481
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20909,7 +20914,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51691
+      "UsersEstimate": 51692
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -20925,7 +20930,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70488
+      "UsersEstimate": 70489
     },
     {
       "ID": "achievement_story_neon_child",
@@ -20933,7 +20938,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93984
+      "UsersEstimate": 93985
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20941,7 +20946,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159773
+      "UsersEstimate": 159774
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21181,7 +21186,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206766
+      "UsersEstimate": 206767
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21205,7 +21210,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51691
+      "UsersEstimate": 51692
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -21388,21 +21393,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13856,
+      "Progressed": 13858,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469922,
+      "Progressed": 469924,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:09:30.3805044+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:09:02.8905899+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:43.3630211+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:09:30.3810727+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:59:16.8736418+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:09:02.890804+00:00"
 }

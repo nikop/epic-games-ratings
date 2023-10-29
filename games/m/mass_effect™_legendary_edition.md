@@ -64,11 +64,11 @@
 | Driven | 32.00% | ~271 |
 | Focused | 31.00% | ~262 |
 | Cat's in the Cradle | 31.00% | ~262 |
+| Doppelganger | 31.00% | ~262 |
 | Treason | 31.00% | ~262 |
 | Digital Exorcist | 31.00% | ~262 |
 | Bringer of War | 31.00% | ~262 |
 | Friend or Foe | 30.00% | ~254 |
-| Doppelganger | 30.00% | ~254 |
 | Mission Accomplished | 29.00% | ~245 |
 | Suicide Mission | 29.00% | ~245 |
 | Against All Odds | 29.00% | ~245 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 846 (Ranked 256)  
-Completed: 0 (0.00%) (Ranked 331)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

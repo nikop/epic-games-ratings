@@ -6,9 +6,9 @@
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 785,
+  "EOS_Progressed": 786,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.44,
   "EosHistory": [
@@ -2422,6 +2422,11 @@
       "Time": "2023-10-29T18:09:21.5938612+00:00",
       "NumProgressed": 785,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-29T19:08:54.47272+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2442,7 +2447,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "_03_FinishAct1",
@@ -2450,7 +2455,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2458,7 +2463,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "_05_FinishAct2",
@@ -2506,7 +2511,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "_11_Completion_40",
@@ -2560,9 +2565,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 314
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2602,7 +2607,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2610,7 +2615,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2641,7 +2646,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 785,
+      "Progressed": 786,
       "Completed": 27
     }
   ],
@@ -2649,8 +2654,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:09:21.5938601+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:08:54.4727193+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:38.7472147+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:09:21.5938936+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:17.1801743+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:08:54.4727527+00:00"
 }

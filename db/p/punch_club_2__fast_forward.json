@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1428,9 +1428,9 @@
       "ID": "fight_defeat_1",
       "SetID": "69co12a",
       "Name": "First defeat",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 250
     },
     {
       "ID": "fight_win_1",
@@ -1859,8 +1859,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:55.8656479+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:06:30.8705077+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.288171+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:03.4790039+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:55.8657151+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:58:41.65476+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:06:30.8705709+00:00"
 }

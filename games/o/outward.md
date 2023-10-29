@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,755 |
-| Ready for Winter | 65.00% | ~2,356 |
-| Ready for Summer | 53.00% | ~1,921 |
-| Cordon Bleu | 45.00% | ~1,631 |
+| Venture Outward | 76.00% | ~2,756 |
+| Ready for Winter | 65.00% | ~2,357 |
+| Ready for Summer | 53.00% | ~1,922 |
+| Cordon Bleu | 45.00% | ~1,632 |
 | Tapped! | 38.00% | ~1,378 |
-| Eureka | 33.00% | ~1,196 |
-| Scourge Slayer | 26.00% | ~942 |
+| Eureka | 33.00% | ~1,197 |
+| Scourge Slayer | 26.00% | ~943 |
 | Science, Troglodyte! | 24.00% | ~870 |
 | Exceptional Skill | 23.00% | ~834 |
 | Home Sweet Home | 23.00% | ~834 |
@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 16.00% | ~580 |
 | The Power of Faith | 13.00% | ~471 |
 | Strange amalgams | 12.00% | ~435 |
-| The Power of Freedom | 10.00% | ~362 |
+| The Power of Freedom | 10.00% | ~363 |
 | Ace Detective | 8.00% | ~290 |
 | Gift from the Ancestors | 8.00% | ~290 |
 | Magic is a science | 8.00% | ~290 |
@@ -37,20 +37,20 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~145 |
 | Light of Levant | 3.00% | ~109 |
 | This was a mistake... | 3.00% | ~109 |
-| Crowd Pleaser. | 2.00% | ~72 |
-| Perfect Defense | 2.00% | ~72 |
-| Power! To! The People! | 2.00% | ~72 |
-| Your actions define you | 2.00% | ~72 |
+| Crowd Pleaser. | 2.00% | ~73 |
+| Perfect Defense | 2.00% | ~73 |
+| Power! To! The People! | 2.00% | ~73 |
+| Your actions define you | 2.00% | ~73 |
 | The blood is life | 1.00% | ~36 |
 | They'll Tell Stories About This | 1.00% | ~36 |
 | Vanquisher of nightmares | 1.00% | ~36 |
 | Through fire and flame. | 0.70% | ~25 |
-| Legacy of a master hunter | 0.40% | ~14 |
+| Legacy of a master hunter | 0.40% | ~15 |
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 191)  
-Completed: 4 (0.11%) (Ranked 255)  
+Progressed: 3,626 (Ranked 191)  
+Completed: 4 (0.11%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,11 +231,11 @@ Completed: 4 (0.11%) (Ranked 255)
 | 2023-10-26 | 3,620 | 4 |
 | 2023-10-27 | 3,623 | 4 |
 | 2023-10-28 | 3,624 | 4 |
-| 2023-10-29 | 3,625 | 4 |
+| 2023-10-29 | 3,626 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 464)  
-Sum: 244 (Ranked 376)  
-Diff (max vs sum): 88  
+Sum: 244 (Ranked 377)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5721,
+  "EOS_Progressed": 5722,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11968,6 +11968,11 @@
       "Time": "2023-10-29T17:09:26.9248218+00:00",
       "NumProgressed": 5721,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-29T19:08:51.4839434+00:00",
+      "NumProgressed": 5722,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12075,7 +12080,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2575
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12083,7 +12088,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -12139,7 +12144,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4291
+      "UsersEstimate": 4292
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12171,7 +12176,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_MYWAYS",
@@ -12259,7 +12264,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -12283,7 +12288,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -12298,15 +12303,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5721,
+      "Progressed": 5722,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:09:18.5829437+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:08:51.483943+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:01:25.1818009+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:09:18.5830377+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:00:47.1705153+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:08:51.4840949+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 709,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
     "PcReleaseDate": "2017-07-21T09:00:50+00:00",
@@ -7028,10 +7028,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 13436917,
       "NumberOfAwardsMax": 1882107
+    },
+    {
+      "Time": "2023-10-29T18:57:10.4050038+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 13444326,
+      "NumberOfAwardsMax": 1882107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13436917,
+  "NumberOfAwards": 13444326,
   "NumberOfAwardsMax": 1882107,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -7057,13 +7063,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1741671
+      "Count": 1745388
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1650746
+      "Count": 1654438
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7095,8 +7101,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-10-29T00:00:45.0611483+00:00",
+  "LastChanged": "2023-10-29T18:57:10.4050035+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:29.5320542+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:57:30.7547112+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:14.3588868+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:10.4050045+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:49.5607358+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -592,9 +592,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_10",
@@ -840,9 +840,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_50",
@@ -888,9 +888,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_60",
@@ -977,8 +977,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:45.5929348+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:06:21.0399037+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:23.9894085+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:45.5929802+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:59.1484454+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:06:21.039963+00:00"
 }

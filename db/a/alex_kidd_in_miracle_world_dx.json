@@ -3,9 +3,9 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.26,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-10-27T16:05:55.437264+00:00",
       "NumProgressed": 317,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-29T19:05:33.6274077+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -536,9 +541,9 @@
       "ID": "GOOSEKA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "First Commander",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 60
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -546,7 +551,7 @@
       "Name": "Assailants",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -562,7 +567,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -617,7 +622,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 4
     }
   ],
@@ -625,8 +630,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:05:57.4983206+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:33.627407+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.7935188+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:01:26.1226596+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:05:57.4983366+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:00:47.9995508+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:33.6274221+00:00"
 }

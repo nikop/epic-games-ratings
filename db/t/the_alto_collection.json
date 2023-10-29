@@ -3,12 +3,12 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 211,
-  "Ranking_Popularity": 427,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -802,9 +802,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44397,
+  "EOS_Progressed": 44403,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 847,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22452,6 +22452,11 @@
       "Time": "2023-10-29T18:04:42.516537+00:00",
       "NumProgressed": 44397,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T19:04:01.0841654+00:00",
+      "NumProgressed": 44403,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22503,7 +22508,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11987
+      "UsersEstimate": 11989
     },
     {
       "ID": "goals180",
@@ -22583,7 +22588,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7547
+      "UsersEstimate": 7549
     },
     {
       "ID": "novice",
@@ -22671,7 +22676,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11543
+      "UsersEstimate": 11545
     },
     {
       "ID": "sandboarder",
@@ -22774,15 +22779,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44397,
+      "Progressed": 44403,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:04:42.5165349+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:04:01.084165+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:58:08.1580175+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:04:42.5167215+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:41.7788396+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:04:01.0844528+00:00"
 }

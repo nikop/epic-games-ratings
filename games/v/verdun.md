@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,382 |
-| Worth it | 63.00% | ~39,078 |
-| Eagle Eye | 55.00% | ~34,115 |
-| Corpseman I | 40.00% | ~24,811 |
-| Blast fishing | 37.00% | ~22,950 |
-| Not alone | 32.00% | ~19,849 |
-| Headhunter I | 26.00% | ~16,127 |
-| Manual Labour I | 25.00% | ~15,507 |
-| Developers, Developers, Developers | 24.00% | ~14,887 |
-| Basic Training | 24.00% | ~14,887 |
+| Setting an example | 78.00% | ~48,385 |
+| Worth it | 63.00% | ~39,080 |
+| Eagle Eye | 55.00% | ~34,118 |
+| Corpseman I | 40.00% | ~24,813 |
+| Blast fishing | 37.00% | ~22,952 |
+| Not alone | 32.00% | ~19,850 |
+| Headhunter I | 26.00% | ~16,128 |
+| Manual Labour I | 25.00% | ~15,508 |
+| Developers, Developers, Developers | 24.00% | ~14,888 |
+| Basic Training | 24.00% | ~14,888 |
 | Furchtlos und Treu | 13.00% | ~8,064 |
-| Gott Mit Uns | 12.00% | ~7,443 |
+| Gott Mit Uns | 12.00% | ~7,444 |
 | This We'll Defend! | 9.00% | ~5,583 |
 | Anker wirf! | 9.00% | ~5,583 |
 | Providentiea Memor | 9.00% | ~5,583 |
 | For King and Country | 9.00% | ~5,583 |
-| Battle hardened | 8.00% | ~4,962 |
+| Battle hardened | 8.00% | ~4,963 |
 | Semper Fidelis! | 7.00% | ~4,342 |
 | Honneur et Patrie | 7.00% | ~4,342 |
-| In Treue Fest | 5.00% | ~3,101 |
-| Voor De Koning | 5.00% | ~3,101 |
-| Extreme Headhunter | 5.00% | ~3,101 |
+| In Treue Fest | 5.00% | ~3,102 |
+| Voor De Koning | 5.00% | ~3,102 |
+| Extreme Headhunter | 5.00% | ~3,102 |
 | Advance Australia | 4.00% | ~2,481 |
 | We Stand on Guard | 4.00% | ~2,481 |
 | Sidi Brahim | 4.00% | ~2,481 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,028 (Ranked 103)  
-Completed: 4 (0.01%) (Ranked 311)  
+Progressed: 62,032 (Ranked 103)  
+Completed: 4 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 4 (0.01%) (Ranked 311)
 | 2023-10-26 | 61,750 | 4 |
 | 2023-10-27 | 61,831 | 4 |
 | 2023-10-28 | 61,945 | 4 |
-| 2023-10-29 | 62,028 | 4 |
+| 2023-10-29 | 62,032 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 345)  
 Sum: 901 (Ranked 265)  

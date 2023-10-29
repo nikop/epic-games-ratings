@@ -58,7 +58,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,113 (Ranked 135)  
-Completed: 52 (0.30%) (Ranked 215)  
+Completed: 52 (0.30%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

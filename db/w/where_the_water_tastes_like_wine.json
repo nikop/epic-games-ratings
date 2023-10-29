@@ -2,13 +2,13 @@
   "ID": "27d2f156f77b4202b9bc78e40a408b03",
   "Name": "Where The Water Tastes Like Wine",
   "ProductSlug": "where-the-water-tastes-like-wine",
-  "Ranking_Rating": 713,
+  "Ranking_Rating": 712,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 709,
-  "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
     "PcReleaseDate": "2018-02-28T15:00:00+00:00",
@@ -163,6 +163,6 @@
   "FirstSeen": "2022-07-22T20:27:08.2507114+00:00",
   "LastChanged": "2023-08-19T08:02:33.5961965+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:03.2954123+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:59:22.1710002+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:38.4349981+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:59:01.4122711+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:06:13.4517191+00:00"
 }

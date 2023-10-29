@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 63.00% | ~17 |
-| Wanderer | 56.00% | ~15 |
-| Do what you have to | 41.00% | ~11 |
-| A piece of the story | 41.00% | ~11 |
-| Finished it | 33.00% | ~9 |
-| The artist’s impression | 30.00% | ~8 |
-| Refuse to look | 26.00% | ~7 |
-| Scraps of love | 26.00% | ~7 |
-| Sign of weakness | 26.00% | ~7 |
-| It's covered up for a reason | 22.00% | ~6 |
-| First steps | 15.00% | ~4 |
-| Playtime | 15.00% | ~4 |
-| The tragedy unfolds | 15.00% | ~4 |
-| Tough conversation | 15.00% | ~4 |
+| Something important | 61.00% | ~17 |
+| Wanderer | 54.00% | ~15 |
+| Do what you have to | 39.00% | ~11 |
+| A piece of the story | 39.00% | ~11 |
+| Finished it | 36.00% | ~10 |
+| The artist’s impression | 29.00% | ~8 |
+| Refuse to look | 25.00% | ~7 |
+| Scraps of love | 25.00% | ~7 |
+| Sign of weakness | 25.00% | ~7 |
+| It's covered up for a reason | 21.00% | ~6 |
+| First steps | 14.00% | ~4 |
+| Playtime | 14.00% | ~4 |
+| The tragedy unfolds | 14.00% | ~4 |
+| Tough conversation | 14.00% | ~4 |
 | Breaking free | 11.00% | ~3 |
 | Face your fears | 11.00% | ~3 |
 | A Slice of Life | 11.00% | ~3 |
@@ -57,8 +57,8 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 492)  
-Completed: 0 (0.00%) (Ranked 331)  
+Progressed: 28 (Ranked 489)  
+Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,4 +70,4 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-25 | 18 | 0 |
 | 2023-10-27 | 20 | 0 |
 | 2023-10-28 | 25 | 0 |
-| 2023-10-29 | 27 | 0 |
+| 2023-10-29 | 28 | 0 |

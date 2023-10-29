@@ -18,9 +18,9 @@
 | Peace walker | 12.00% | ~40 |
 | A good beginning | 12.00% | ~40 |
 | Half the way | 12.00% | ~40 |
+| Champollion | 12.00% | ~40 |
 | In this together | 11.00% | ~37 |
-| Champollion | 11.00% | ~37 |
-| Feels like springtime | 10.00% | ~33 |
+| Feels like springtime | 11.00% | ~37 |
 | Alchemists Express | 10.00% | ~33 |
 | Open door | 9.00% | ~30 |
 | Free at last | 8.00% | ~27 |

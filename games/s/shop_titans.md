@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,533 |
-| Basic in Bulk | 3.00% | ~4,149 |
-| Tinkle of Coins | 3.00% | ~4,149 |
-| Titan's First Steps | 3.00% | ~4,149 |
+| Basic in Bulk | 3.00% | ~4,150 |
+| Tinkle of Coins | 3.00% | ~4,150 |
+| Titan's First Steps | 3.00% | ~4,150 |
 | One Easy Payment | 2.00% | ~2,766 |
 | Some Assembly Required | 2.00% | ~2,766 |
 | Disintermediation | 2.00% | ~2,766 |
@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.90% | ~1,245 |
 | Royal Ransom | 0.90% | ~1,245 |
 | Magical Harmony | 0.90% | ~1,245 |
+| A Notch Above the Rest | 0.80% | ~1,107 |
 | The King's Caprice | 0.80% | ~1,107 |
 | Big Game Hunting | 0.80% | ~1,107 |
 | For the Hoard! | 0.80% | ~1,107 |
@@ -60,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.80% | ~1,107 |
 | Special Ingredient | 0.80% | ~1,107 |
 | Complete Monopoly | 0.80% | ~1,107 |
-| A Notch Above the Rest | 0.70% | ~968 |
 | Cream of the Crop | 0.70% | ~968 |
 | Proud Paladin | 0.70% | ~968 |
 | Above the Norm | 0.70% | ~968 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,316 (Ranked 77)  
-Completed: 174 (0.13%) (Ranked 249)  
+Progressed: 138,317 (Ranked 77)  
+Completed: 174 (0.13%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,7 +311,7 @@ Completed: 174 (0.13%) (Ranked 249)
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
-| 2023-10-29 | 138,316 | 174 |
+| 2023-10-29 | 138,317 | 174 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
 Sum: 27,465 (Ranked 51)  

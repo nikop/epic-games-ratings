@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -4461,9 +4461,9 @@
       "ID": "campaign13",
       "SetID": "2h56gn1",
       "Name": "Damage Control",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 300
     },
     {
       "ID": "campaign14",
@@ -4654,8 +4654,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:08:29.4308884+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:07:43.4755674+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:10.4675772+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:57:42.9766412+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:08:29.4309414+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:57:18.2663762+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:07:43.4756362+00:00"
 }

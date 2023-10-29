@@ -3,9 +3,9 @@
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 3480,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_Completed": 3481,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3567,
+  "EOS_Progressed": 3568,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.78,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-10-24T18:04:36.4288929+00:00",
       "NumProgressed": 3567,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2023-10-29T19:05:40.480474+00:00",
+      "NumProgressed": 3568,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -585,7 +590,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "10",
@@ -657,7 +662,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "19",
@@ -864,7 +869,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3567,
+      "Progressed": 3568,
       "Completed": -28
     }
   ],
@@ -872,8 +877,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-10-29T18:06:04.6888902+00:00",
+  "LastChanged_Achievements": "2023-10-29T19:05:40.4804733+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.3567565+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:03:09.6634514+00:00",
-  "LastUpdate_Achievements": "2023-10-29T18:06:04.6889198+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:02:29.0907184+00:00",
+  "LastUpdate_Achievements": "2023-10-29T19:05:40.480519+00:00"
 }

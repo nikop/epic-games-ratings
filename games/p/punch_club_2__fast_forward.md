@@ -15,7 +15,7 @@
 | Employee of the week | 79.00% | ~267 |
 | Neurotrainer – power gainer! | 78.00% | ~264 |
 | Your own amateur gym | 75.00% | ~254 |
-| First defeat | 73.00% | ~247 |
+| First defeat | 74.00% | ~250 |
 | Run K, run! | 73.00% | ~247 |
 | Fighting is cool | 70.00% | ~237 |
 | No bullying more | 70.00% | ~237 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 338 (Ranked 314)  
-Completed: 9 (2.66%) (Ranked 104)  
+Completed: 9 (2.66%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
