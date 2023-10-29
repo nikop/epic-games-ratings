@@ -5,9 +5,9 @@ Rating: 4.76 (Ranked 119)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,925 |
-| First Class Student | 14.00% | ~41,930 |
-| Troll with the Punches | 13.00% | ~38,935 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,926 |
+| First Class Student | 14.00% | ~41,931 |
+| Troll with the Punches | 13.00% | ~38,936 |
 | A Keen Sense of Spell | 12.00% | ~35,940 |
 | That's a Keeper | 12.00% | ~35,940 |
 | Grappling with a Graphorn | 11.00% | ~32,945 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 119)
 | Savvy Spender | 1.00% | ~2,995 |
 | Merlin's Beard! | 1.00% | ~2,995 |
 | Demiguise Dread | 1.00% | ~2,995 |
-| Spilled Milk | 0.90% | ~2,695 |
-| The Nature of the Beast | 0.70% | ~2,096 |
-| Collector's Edition | 0.30% | ~898 |
+| Spilled Milk | 0.90% | ~2,696 |
+| The Nature of the Beast | 0.70% | ~2,097 |
+| Collector's Edition | 0.30% | ~899 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,497 (Ranked 48)  
+Progressed: 299,504 (Ranked 48)  
 Completed: 496 (0.17%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 496 (0.17%) (Ranked 241)
 | 2023-10-26 | 299,029 | 495 |
 | 2023-10-27 | 299,185 | 496 |
 | 2023-10-28 | 299,440 | 496 |
-| 2023-10-29 | 299,497 | 496 |
+| 2023-10-29 | 299,504 | 496 |
 ## Awards
 Max (Character Customization): 23,858  (Ranked 17)  
 Sum: 46,886 (Ranked 30)  

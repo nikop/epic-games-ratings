@@ -9705,9 +9705,9 @@
       "Count": 748
     }
   ],
-  "EOS_Progressed": 299497,
+  "EOS_Progressed": 299504,
   "EOS_Completed": 496,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30175,6 +30175,11 @@
       "Time": "2023-10-29T07:09:29.4235131+00:00",
       "NumProgressed": 299497,
       "NumCompleted": 496
+    },
+    {
+      "Time": "2023-10-29T08:09:04.2027761+00:00",
+      "NumProgressed": 299504,
+      "NumCompleted": 496
     }
   ],
   "TotalAchievements": 45,
@@ -30186,7 +30191,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44925
+      "UsersEstimate": 44926
     },
     {
       "ID": "PFA_10",
@@ -30298,7 +30303,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "PFA_23",
@@ -30330,7 +30335,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "PFA_27",
@@ -30394,7 +30399,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "PFA_34",
@@ -30514,7 +30519,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41930
+      "UsersEstimate": 41931
     },
     {
       "ID": "PFA_7",
@@ -30522,7 +30527,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38935
+      "UsersEstimate": 38936
     },
     {
       "ID": "PFA_8",
@@ -30545,7 +30550,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299497,
+      "Progressed": 299504,
       "Completed": 496
     }
   ],
@@ -30553,8 +30558,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-29T05:58:17.7088452+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:09:29.4235127+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:09:04.2027756+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:58:21.5403327+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:09:29.4237018+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:58:04.7094179+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:09:04.2028982+00:00"
 }

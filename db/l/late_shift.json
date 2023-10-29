@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 579,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -1175,6 +1175,11 @@
       "Time": "2023-10-28T23:05:14.705842+00:00",
       "NumProgressed": 578,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-29T08:04:34.4826462+00:00",
+      "NumProgressed": 579,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1186,7 +1191,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1234,7 +1239,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ENDING_6",
@@ -1258,7 +1263,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1274,7 +1279,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "GOOD_KARMA",
@@ -1282,7 +1287,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "INTERROGATION",
@@ -1336,16 +1341,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 266
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 579,
       "Completed": 8
     }
   ],
@@ -1353,8 +1358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:05:08.0374223+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:04:34.4826457+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:59:33.4145272+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:05:08.0374454+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:59:14.9440399+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:04:34.4826627+00:00"
 }

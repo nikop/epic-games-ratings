@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-10-28T13:05:46.9763878+00:00",
       "NumProgressed": 187,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T08:04:14.082518+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -861,7 +866,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -893,7 +898,7 @@
       "Name": "Empty Shelves",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CATCH_30_FISH",
@@ -901,7 +906,7 @@
       "Name": "Fisherman",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -915,17 +920,17 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "HOUSEWARMING",
@@ -949,7 +954,7 @@
       "Name": "Picky Eater",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -973,7 +978,7 @@
       "Name": "Weed Warrior",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -981,7 +986,7 @@
       "Name": "Bridge Builder",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -995,39 +1000,39 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 147
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:04:47.481376+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:04:14.0825176+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.9146972+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:00:13.5034805+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:04:47.4813979+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:59:47.9868294+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:04:14.0825337+00:00"
 }

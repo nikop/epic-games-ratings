@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8328,9 +8328,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64109,
+  "EOS_Progressed": 64110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28568,6 +28568,11 @@
       "Time": "2023-10-29T07:09:17.7551017+00:00",
       "NumProgressed": 64109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T08:08:52.8651274+00:00",
+      "NumProgressed": 64110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28587,7 +28592,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "Bannerlord",
@@ -28635,7 +28640,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "Crackshot",
@@ -28651,7 +28656,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "Duelist",
@@ -28747,7 +28752,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10257
+      "UsersEstimate": 10258
     },
     {
       "ID": "I spit on your grave",
@@ -28859,7 +28864,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "Real Estate",
@@ -28986,15 +28991,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64109,
+      "Progressed": 64110,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-29T06:58:06.0097203+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:09:17.7551014+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:08:52.865127+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:58:06.0097213+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:09:17.755264+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:57:46.9487539+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:08:52.8652536+00:00"
 }

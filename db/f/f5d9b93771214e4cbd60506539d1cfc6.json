@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150350,
+  "EOS_Progressed": 150354,
   "EOS_Completed": 311,
-  "EOS_NewPlayers": 1022,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16158,6 +16158,11 @@
       "Time": "2023-10-29T07:06:49.7244043+00:00",
       "NumProgressed": 150350,
       "NumCompleted": 311
+    },
+    {
+      "Time": "2023-10-29T08:06:15.9072043+00:00",
+      "NumProgressed": 150354,
+      "NumCompleted": 311
     }
   ],
   "TotalAchievements": 31,
@@ -16177,7 +16182,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105245
+      "UsersEstimate": 105248
     },
     {
       "ID": "EAwards_10",
@@ -16185,7 +16190,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21049
+      "UsersEstimate": 21050
     },
     {
       "ID": "EAwards_11",
@@ -16217,7 +16222,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58636
+      "UsersEstimate": 58638
     },
     {
       "ID": "EAwards_15",
@@ -16241,7 +16246,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33077
+      "UsersEstimate": 33078
     },
     {
       "ID": "EAwards_18",
@@ -16249,7 +16254,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33077
+      "UsersEstimate": 33078
     },
     {
       "ID": "EAwards_19",
@@ -16265,7 +16270,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42098
+      "UsersEstimate": 42099
     },
     {
       "ID": "EAwards_20",
@@ -16281,7 +16286,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16538
+      "UsersEstimate": 16539
     },
     {
       "ID": "EAwards_22",
@@ -16329,7 +16334,7 @@
       "Name": "El Savior",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "EAwards_28",
@@ -16345,7 +16350,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "EAwards_3",
@@ -16353,7 +16358,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28566
+      "UsersEstimate": 28567
     },
     {
       "ID": "EAwards_30",
@@ -16369,7 +16374,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22552
+      "UsersEstimate": 22553
     },
     {
       "ID": "EAwards_5",
@@ -16377,7 +16382,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16538
+      "UsersEstimate": 16539
     },
     {
       "ID": "EAwards_6",
@@ -16401,7 +16406,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55630
+      "UsersEstimate": 55631
     },
     {
       "ID": "EAwards_9",
@@ -16416,7 +16421,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150350,
+      "Progressed": 150354,
       "Completed": 311
     }
   ],
@@ -16424,8 +16429,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:06:49.7244037+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:06:15.9072038+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:57:33.7529413+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:06:49.7245431+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:57:21.3575129+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:06:15.9072961+00:00"
 }

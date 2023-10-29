@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1412,9 +1412,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130206,
+  "EOS_Progressed": 130207,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20382,6 +20382,11 @@
       "Time": "2023-10-29T07:08:50.2834057+00:00",
       "NumProgressed": 130206,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-29T08:08:25.0163323+00:00",
+      "NumProgressed": 130207,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20449,7 +20454,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31249
+      "UsersEstimate": 31250
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20457,7 +20462,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10416
+      "UsersEstimate": 10417
     },
     {
       "ID": "ACH_COP_DORK",
@@ -20712,15 +20717,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130206,
+      "Progressed": 130207,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:08:50.2834051+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:08:25.0163317+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:01:10.6018979+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:08:50.2835789+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:00:37.1501753+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:08:25.0164455+00:00"
 }

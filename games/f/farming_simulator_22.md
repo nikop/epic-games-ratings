@@ -6,21 +6,21 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,011 |
-| I read Shakespeare and stuff | 64.00% | ~32,436 |
-| Just a sprinkle | 63.00% | ~31,929 |
-| I'm stumped | 61.00% | ~30,915 |
-| Plant get enough | 60.00% | ~30,409 |
-| This is just my weekend vehicle | 58.00% | ~29,395 |
-| It's just the beginning | 58.00% | ~29,395 |
-| Hard work pays off | 53.00% | ~26,861 |
-| It's never too late to farm | 50.00% | ~25,340 |
-| All out of Land | 44.00% | ~22,300 |
-| Field Trip | 44.00% | ~22,300 |
-| I like to switch it up | 40.00% | ~20,272 |
-| Help me to help you | 38.00% | ~19,259 |
+| Own use | 75.00% | ~38,012 |
+| I read Shakespeare and stuff | 64.00% | ~32,437 |
+| Just a sprinkle | 63.00% | ~31,930 |
+| I'm stumped | 61.00% | ~30,917 |
+| Plant get enough | 60.00% | ~30,410 |
+| This is just my weekend vehicle | 58.00% | ~29,396 |
+| It's just the beginning | 58.00% | ~29,396 |
+| Hard work pays off | 53.00% | ~26,862 |
+| It's never too late to farm | 50.00% | ~25,342 |
+| All out of Land | 45.00% | ~22,807 |
+| Field Trip | 44.00% | ~22,301 |
+| I like to switch it up | 40.00% | ~20,273 |
+| Help me to help you | 38.00% | ~19,260 |
 | Ultimutt Pawesomeness | 28.00% | ~14,191 |
-| Van Gogh | 26.00% | ~13,177 |
+| Van Gogh | 26.00% | ~13,178 |
 | You wood not believe it | 22.00% | ~11,150 |
 | Vehicle fleet | 22.00% | ~11,150 |
 | The plot thickens | 16.00% | ~8,109 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~203 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,681 (Ranked 107)  
+Progressed: 50,683 (Ranked 107)  
 Completed: 6 (0.01%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,19 +242,19 @@ Completed: 6 (0.01%) (Ranked 310)
 | 2023-10-26 | 50,540 | 6 |
 | 2023-10-27 | 50,603 | 6 |
 | 2023-10-28 | 50,669 | 6 |
-| 2023-10-29 | 50,681 | 6 |
+| 2023-10-29 | 50,683 | 6 |
 ## Awards
-Max (Great for Beginners): 5,301  (Ranked 70)  
-Sum: 41,776 (Ranked 33)  
+Max (Great for Beginners): 5,315  (Ranked 70)  
+Sum: 41,795 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,301 |
+| This game is Great for Beginners | 5,315 |
 | This game has Diverse Characters | 4,383 |
 | This game is Educational | 4,273 |
 | This game is Relaxing | 4,220 |
 | This game has Quickly Understood Controls | 4,191 |
-| This game is Highly Recommended | 4,149 |
+| This game is Highly Recommended | 4,154 |
 | This game is Extremely Fun | 4,099 |
 | This game has Amazing Storytelling | 3,983 |
 | This game has Amazing Characters | 3,638 |
@@ -549,4 +549,4 @@ Diff (max vs sum): 37
 | 2023-10-26 | 4.68 | - | 5,281 | 41,692 |
 | 2023-10-27 | 4.68 | - | 5,290 | 41,727 |
 | 2023-10-28 | 4.68 | - | 5,301 | 41,764 |
-| 2023-10-29 | 4.68 | - | 5,301 | 41,776 |
+| 2023-10-29 | 4.68 | - | 5,315 | 41,795 |

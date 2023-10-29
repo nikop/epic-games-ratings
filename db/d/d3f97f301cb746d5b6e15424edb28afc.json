@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -799,9 +799,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -903,9 +903,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -951,9 +951,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1159,9 +1159,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1367,9 +1367,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1454,8 +1454,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:05:05.0524996+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:04:31.6728303+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:01:28.3014436+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:05:05.0526084+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:00:55.1948398+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:04:31.6729108+00:00"
 }

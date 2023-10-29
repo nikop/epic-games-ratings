@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Something important | 62.00% | ~16 |
 | Wanderer | 54.00% | ~14 |
+| A piece of the story | 38.00% | ~10 |
 | Do what you have to | 35.00% | ~9 |
 | Finished it | 35.00% | ~9 |
-| A piece of the story | 35.00% | ~9 |
+| The artist’s impression | 27.00% | ~7 |
 | It's covered up for a reason | 23.00% | ~6 |
 | Refuse to look | 23.00% | ~6 |
-| The artist’s impression | 23.00% | ~6 |
-| Scraps of love | 19.00% | ~5 |
+| Scraps of love | 23.00% | ~6 |
 | Sign of weakness | 19.00% | ~5 |
 | First steps | 15.00% | ~4 |
 | Playtime | 15.00% | ~4 |

@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,790 |
-| Having A Field Day | 75.00% | ~4,790 |
+| Get A Room | 75.00% | ~4,791 |
+| Having A Field Day | 75.00% | ~4,791 |
 | Reap What You Sow | 72.00% | ~4,599 |
-| The First Day | 69.00% | ~4,407 |
-| Green Thumb | 67.00% | ~4,279 |
-| Novice Researcher | 67.00% | ~4,279 |
-| Home Cooked Meal | 59.00% | ~3,768 |
+| The First Day | 69.00% | ~4,408 |
+| Green Thumb | 67.00% | ~4,280 |
+| Novice Researcher | 67.00% | ~4,280 |
+| Home Cooked Meal | 59.00% | ~3,769 |
 | Onward | 57.00% | ~3,641 |
 | The First Week | 55.00% | ~3,513 |
-| Beam Me Up | 52.00% | ~3,321 |
-| Studious Researcher | 52.00% | ~3,321 |
-| Putting Food on the Table | 51.00% | ~3,257 |
-| Adept Researcher | 45.00% | ~2,874 |
+| Beam Me Up | 52.00% | ~3,322 |
+| Studious Researcher | 52.00% | ~3,322 |
+| Putting Food on the Table | 51.00% | ~3,258 |
+| Adept Researcher | 45.00% | ~2,875 |
 | Retribution | 42.00% | ~2,683 |
 | Feast or Famine | 42.00% | ~2,683 |
 | ...And Don’t Come Back! | 42.00% | ~2,683 |
 | Fit For A King | 32.00% | ~2,044 |
 | Heating Up | 31.00% | ~1,980 |
 | Luminary Researcher | 31.00% | ~1,980 |
-| Winter Is Coming | 28.00% | ~1,788 |
+| Winter Is Coming | 28.00% | ~1,789 |
 | Winter Is Here | 24.00% | ~1,533 |
 | Disassembled | 22.00% | ~1,405 |
 | Oh Deer! | 22.00% | ~1,405 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~128 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,387 (Ranked 173)  
+Progressed: 6,388 (Ranked 173)  
 Completed: 14 (0.22%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 14 (0.22%) (Ranked 229)
 | 2023-10-26 | 6,360 | 14 |
 | 2023-10-27 | 6,370 | 14 |
 | 2023-10-28 | 6,381 | 14 |
-| 2023-10-29 | 6,387 | 14 |
+| 2023-10-29 | 6,388 | 14 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 327)  
 Sum: 999 (Ranked 252)  

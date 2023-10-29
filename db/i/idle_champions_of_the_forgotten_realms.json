@@ -7669,9 +7669,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233106,
+  "EOS_Progressed": 233108,
   "EOS_Completed": 2396,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29084,6 +29084,11 @@
       "Time": "2023-10-29T07:05:39.6619254+00:00",
       "NumProgressed": 233106,
       "NumCompleted": 2396
+    },
+    {
+      "Time": "2023-10-29T08:05:06.0964854+00:00",
+      "NumProgressed": 233108,
+      "NumCompleted": 2396
     }
   ],
   "TotalAchievements": 528,
@@ -29965,9 +29970,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1204",
@@ -31653,9 +31658,9 @@
       "ID": "objective_completed_600",
       "SetID": "cc37lbc",
       "Name": "Elturel Has Fallen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_601",
@@ -33318,21 +33323,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199380,
-      "Completed": 3696
+      "Progressed": 199382,
+      "Completed": 3697
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233106,
+      "Progressed": 233108,
       "Completed": 2396
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-28T07:57:33.0279022+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:05:39.6619249+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:05:06.096485+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:57:59.1451751+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:05:39.6649043+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:57:42.9903492+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:05:06.0989968+00:00"
 }

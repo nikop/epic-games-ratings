@@ -14,8 +14,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Trained | 23.00% | ~14,745 |
 | The king is pleased | 19.00% | ~12,181 |
 | King Solomon | 17.00% | ~10,899 |
-| Apple of my eye | 16.00% | ~10,257 |
-| I can do it | 16.00% | ~10,257 |
+| Apple of my eye | 16.00% | ~10,258 |
+| I can do it | 16.00% | ~10,258 |
 | God of the Arena | 13.00% | ~8,334 |
 | This Is Our Land | 13.00% | ~8,334 |
 | Against all odds | 12.00% | ~7,693 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 9.00% | ~5,770 |
 | Know your enemy | 7.00% | ~4,488 |
 | Mastery | 7.00% | ~4,488 |
-| Crowdfunded | 5.00% | ~3,205 |
-| Crush your enemies | 5.00% | ~3,205 |
-| My way | 5.00% | ~3,205 |
+| Crowdfunded | 5.00% | ~3,206 |
+| Crush your enemies | 5.00% | ~3,206 |
+| My way | 5.00% | ~3,206 |
 | Veni vidi vici | 4.00% | ~2,564 |
 | Freedom! | 3.00% | ~1,923 |
 | Long live the Empire! | 3.00% | ~1,923 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,109 (Ranked 102)  
+Progressed: 64,110 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 63,985 | 0 |
 | 2023-10-27 | 64,025 | 0 |
 | 2023-10-28 | 64,094 | 0 |
-| 2023-10-29 | 64,109 | 0 |
+| 2023-10-29 | 64,110 | 0 |
 ## Awards
 Max (Character Customization): 7,296  (Ranked 52)  
 Sum: 15,044 (Ranked 66)  

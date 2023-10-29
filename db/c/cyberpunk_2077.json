@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14274,10 +14274,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 332446,
       "NumberOfAwardsMax": 102340
+    },
+    {
+      "Time": "2023-10-29T07:57:20.4472856+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 332827,
+      "NumberOfAwardsMax": 102340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332446,
+  "NumberOfAwards": 332827,
   "NumberOfAwardsMax": 102340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14303,7 +14309,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 17098
+      "Count": 17282
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14327,7 +14333,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 19211
+      "Count": 19408
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14354,10 +14360,10 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894366,
-  "EOS_Completed": 2728,
-  "EOS_NewPlayers": 1149,
-  "EOS_NewCompleters": 33,
+  "EOS_Progressed": 894373,
+  "EOS_Completed": 2729,
+  "EOS_NewPlayers": 1146,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36104,6 +36110,11 @@
       "Time": "2023-10-29T07:04:20.0497964+00:00",
       "NumProgressed": 894366,
       "NumCompleted": 2728
+    },
+    {
+      "Time": "2023-10-29T08:03:47.1552245+00:00",
+      "NumProgressed": 894373,
+      "NumCompleted": 2729
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36554,9 +36565,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 138
     },
     {
       "ID": "UltimateSurvivor",
@@ -36635,21 +36646,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894366,
-      "Completed": 2728
+      "Progressed": 894373,
+      "Completed": 2729
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22989,
+      "Progressed": 22996,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T04:57:21.960901+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:04:20.0497959+00:00",
+  "LastChanged": "2023-10-29T07:57:20.4472852+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:03:47.1552239+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:57:32.8659463+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:04:20.049996+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:57:20.4472863+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:03:47.1553656+00:00"
 }

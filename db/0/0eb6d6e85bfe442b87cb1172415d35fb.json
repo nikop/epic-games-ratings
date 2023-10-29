@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -242,9 +242,9 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AvianVeterinarian",
@@ -426,9 +426,9 @@
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TakingOff",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-29T07:04:08.4378492+00:00",
+  "LastChanged_Achievements": "2023-10-29T08:03:35.6039217+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:26.9590759+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:01:13.1254906+00:00",
-  "LastUpdate_Achievements": "2023-10-29T07:04:08.4378823+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:00:39.8166111+00:00",
+  "LastUpdate_Achievements": "2023-10-29T08:03:35.6039394+00:00"
 }
