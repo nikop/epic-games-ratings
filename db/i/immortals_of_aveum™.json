@@ -5,10 +5,10 @@
   "Ranking_Rating": 987,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 104,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.97,
+  "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -567,6 +567,11 @@
       "Time": "2023-10-29T04:06:35.0199233+00:00",
       "NumProgressed": 103,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T15:07:07.0618511+00:00",
+      "NumProgressed": 104,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -577,7 +582,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 94
     },
@@ -625,7 +630,7 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -633,7 +638,7 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -657,15 +662,15 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 92
     },
@@ -723,7 +728,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_36",
@@ -755,7 +760,7 @@
       "Name": "No More Names",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_41",
@@ -811,7 +816,7 @@
       "Name": "Enlisted",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_49",
@@ -819,7 +824,7 @@
       "Name": "Soldier",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_5",
@@ -923,13 +928,13 @@
       "Name": "Good Boy",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -937,7 +942,7 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -954,7 +959,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 104,
       "Completed": 1
     }
   ],
@@ -962,8 +967,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:07:11.7511727+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:07:07.0618506+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:58:17.2102993+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:07:11.7512251+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:58:26.3990914+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:07:07.0618966+00:00"
 }

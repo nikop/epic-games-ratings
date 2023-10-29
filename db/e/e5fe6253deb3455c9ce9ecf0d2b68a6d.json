@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -979,9 +979,9 @@
       "ID": "Collector",
       "SetID": "cjfnji1",
       "Name": "Collector",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Dangerous_dose",
@@ -1067,9 +1067,9 @@
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "USSR",
@@ -1098,8 +1098,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:07:35.5757904+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:07:30.9269523+00:00",
   "LastUpdate_AppInfo": "2023-10-23T22:57:15.4124222+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:00:55.4550064+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:07:35.5758112+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:00:59.3048988+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:07:30.9269695+00:00"
 }

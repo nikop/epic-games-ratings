@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8248,18 +8248,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 15044,
       "NumberOfAwardsMax": 7296
+    },
+    {
+      "Time": "2023-10-29T14:58:12.4291486+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15049,
+      "NumberOfAwardsMax": 7301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15044,
-  "NumberOfAwardsMax": 7296,
+  "NumberOfAwards": 15049,
+  "NumberOfAwardsMax": 7301,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7296
+      "Count": 7301
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8328,7 +8334,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64125,
+  "EOS_Progressed": 64126,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
@@ -28603,6 +28609,11 @@
       "Time": "2023-10-29T14:08:56.6041284+00:00",
       "NumProgressed": 64125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T15:08:41.5656826+00:00",
+      "NumProgressed": 64126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28694,7 +28705,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "Dynasty",
@@ -28702,7 +28713,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "Entrepreneur",
@@ -28790,7 +28801,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "Jack of All Trades",
@@ -28838,7 +28849,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21161
+      "UsersEstimate": 21162
     },
     {
       "ID": "Lawbringer",
@@ -28910,7 +28921,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "Roadkill",
@@ -28958,7 +28969,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     },
     {
       "ID": "The king is pleased",
@@ -29014,22 +29025,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6412
+      "UsersEstimate": 6413
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64125,
+      "Progressed": 64126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-29T06:58:06.0097203+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:08:56.604128+00:00",
+  "LastChanged": "2023-10-29T14:58:12.4291484+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:08:41.5656818+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:58:04.4301931+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:08:56.604346+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:58:12.429149+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:08:41.5658511+00:00"
 }

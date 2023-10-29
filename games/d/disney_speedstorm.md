@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.42 (Ranked 700)  
+Rating: 4.42 (Ranked 701)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,245 |
-| IT MAKES BOOM! | 3.00% | ~7,947 |
-| EXTRA BOOST | 2.00% | ~5,298 |
-| PROTECTED | 2.00% | ~5,298 |
-| PRO | 2.00% | ~5,298 |
-| A TIGER'S FEAR | 1.00% | ~2,649 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,649 |
-| AGGRESSIVE RACER | 1.00% | ~2,649 |
+| ROOKIE | 5.00% | ~13,252 |
+| IT MAKES BOOM! | 3.00% | ~7,951 |
+| EXTRA BOOST | 2.00% | ~5,301 |
+| PROTECTED | 2.00% | ~5,301 |
+| PRO | 2.00% | ~5,301 |
+| A TIGER'S FEAR | 1.00% | ~2,650 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,650 |
+| AGGRESSIVE RACER | 1.00% | ~2,650 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,325 |
 | ACE SPEEDSTER | 0.50% | ~1,325 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,060 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 700)
 | ACE TRICKSTER | 0.20% | ~530 |
 | FRAMED! | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,903 (Ranked 52)  
+Progressed: 265,046 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,17 +218,17 @@ Completed: 245 (0.09%) (Ranked 264)
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
-| 2023-10-29 | 264,903 | 245 |
+| 2023-10-29 | 265,046 | 245 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 439)  
-Sum: 357 (Ranked 342)  
-Diff (max vs sum): 97  
+Max (Great for Quick Sessions): 44  (Ranked 440)  
+Sum: 359 (Ranked 342)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |
 | This game has Diverse Characters | 43 |
 | This game is Great for Beginners | 40 |
-| This game has Amazing Characters | 31 |
+| This game has Amazing Characters | 33 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game has Quickly Understood Controls | 27 |
@@ -268,4 +268,4 @@ Diff (max vs sum): 97
 | 2023-10-26 | 4.42 | 43 | 270 |
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
-| 2023-10-29 | 4.42 | 44 | 357 |
+| 2023-10-29 | 4.42 | 44 | 359 |

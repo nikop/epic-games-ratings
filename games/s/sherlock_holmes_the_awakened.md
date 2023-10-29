@@ -6,12 +6,12 @@ Rating: 4.64 (Ranked 327)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 66.00% | ~504 |
-| To Hell In A Handcart | 65.00% | ~497 |
+| To Hell In A Handcart | 66.00% | ~504 |
 | High Profile | 59.00% | ~451 |
 | Whispers In The Dark | 56.00% | ~428 |
 | Fond Memories | 54.00% | ~413 |
+| History Check | 52.00% | ~397 |
 | A Method To His Madness | 52.00% | ~397 |
-| History Check | 51.00% | ~390 |
 | The New World | 49.00% | ~374 |
 | Gaze Into The Abyss | 47.00% | ~359 |
 | Open Sesame | 47.00% | ~359 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 327)
 | Reawakened | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 764 (Ranked 262)  
-Completed: 26 (3.40%) (Ranked 87)  
+Completed: 26 (3.40%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

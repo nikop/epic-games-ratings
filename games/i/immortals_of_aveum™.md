@@ -5,28 +5,28 @@ Rating: 3.98 (Ranked 987)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~94 |
-| Battlefields Have Memories | 89.00% | ~92 |
-| Enlisted | 88.00% | ~91 |
-| Maybe Engage a Little | 83.00% | ~85 |
-| No More Names | 68.00% | ~70 |
+| Unforeseen | 90.00% | ~94 |
+| Battlefields Have Memories | 88.00% | ~92 |
+| Enlisted | 88.00% | ~92 |
+| Maybe Engage a Little | 83.00% | ~86 |
+| No More Names | 68.00% | ~71 |
 | Initiate | 60.00% | ~62 |
 | Thrada-Kul | 56.00% | ~58 |
-| Gravity-Challenged Rocks | 47.00% | ~48 |
-| All the Major Food Groups | 40.00% | ~41 |
-| Soldier | 38.00% | ~39 |
+| Gravity-Challenged Rocks | 46.00% | ~48 |
+| All the Major Food Groups | 39.00% | ~41 |
+| Soldier | 38.00% | ~40 |
+| Socialite | 34.00% | ~35 |
 | Beggars Would Ride | 34.00% | ~35 |
 | Control is an Illusion | 33.00% | ~34 |
-| Socialite | 33.00% | ~34 |
 | The Means to Save It | 26.00% | ~27 |
 | Resilience to Sin | 22.00% | ~23 |
 | A Familiar Nest | 21.00% | ~22 |
 | Periapt Alizarin | 21.00% | ~22 |
 | Armsman | 20.00% | ~21 |
 | Geas Aristeya | 19.00% | ~20 |
-| A Perfect Cycle | 16.00% | ~16 |
-| Recruit | 16.00% | ~16 |
-| Good Boy | 13.00% | ~13 |
+| A Perfect Cycle | 15.00% | ~16 |
+| Recruit | 15.00% | ~16 |
+| Good Boy | 13.00% | ~14 |
 | Lights Army | 11.00% | ~11 |
 | Periapt Viridian | 11.00% | ~11 |
 | Periapt Cerulean | 10.00% | ~10 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 987)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 403)  
-Completed: 1 (0.97%) (Ranked 152)  
+Progressed: 104 (Ranked 400)  
+Completed: 1 (0.96%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,7 +90,7 @@ Completed: 1 (0.97%) (Ranked 152)
 | 2023-10-26 | 97 | 1 |
 | 2023-10-27 | 99 | 1 |
 | 2023-10-28 | 101 | 1 |
-| 2023-10-29 | 103 | 1 |
+| 2023-10-29 | 104 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

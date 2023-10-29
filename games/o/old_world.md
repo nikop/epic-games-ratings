@@ -116,7 +116,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
 | One True Faith | 0.70% | ~105 |
+| Industrial Progress | 0.70% | ~105 |
 | Dualism | 0.70% | ~105 |
+| Enlightenment | 0.70% | ~105 |
 | Veneration | 0.70% | ~105 |
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
@@ -126,8 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
 | Hittite Paganism | 0.60% | ~90 |
-| Industrial Progress | 0.60% | ~90 |
-| Enlightenment | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |

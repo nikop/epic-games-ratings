@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~541,207 |
-| Every story has a beginning | 36.00% | ~243,543 |
-| The first of many | 31.00% | ~209,718 |
-| Positive word of mouth | 18.00% | ~121,772 |
-| Lawn in the U.S.A. | 15.00% | ~101,476 |
-| Blade Runner | 9.00% | ~60,886 |
+| The dream begins | 80.00% | ~541,214 |
+| Every story has a beginning | 36.00% | ~243,546 |
+| The first of many | 31.00% | ~209,721 |
+| Positive word of mouth | 18.00% | ~121,773 |
+| Lawn in the U.S.A. | 15.00% | ~101,478 |
+| Blade Runner | 9.00% | ~60,887 |
 | Credible | 7.00% | ~47,356 |
 | Teamwork makes the dream work | 6.00% | ~40,591 |
-| Where there's muck there's brass | 4.00% | ~27,060 |
-| Bigger and better | 4.00% | ~27,060 |
-| Aggressive expansion | 4.00% | ~27,060 |
-| Size isn't everything | 3.00% | ~20,295 |
-| Close shave | 3.00% | ~20,295 |
-| Established | 3.00% | ~20,295 |
+| Where there's muck there's brass | 4.00% | ~27,061 |
+| Bigger and better | 4.00% | ~27,061 |
+| Aggressive expansion | 4.00% | ~27,061 |
+| Size isn't everything | 3.00% | ~20,296 |
+| Close shave | 3.00% | ~20,296 |
+| Established | 3.00% | ~20,296 |
 | Fighting on all fronts | 2.00% | ~13,530 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,530 |
 | Every good deed… | 2.00% | ~13,530 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~677 |
 | Mo mowers, mo problems | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,509 (Ranked 24)  
+Progressed: 676,518 (Ranked 24)  
 Completed: 17 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 17 (0.00%) (Ranked 331)
 | 2023-10-26 | 675,742 | 17 |
 | 2023-10-27 | 675,991 | 17 |
 | 2023-10-28 | 676,318 | 17 |
-| 2023-10-29 | 676,509 | 17 |
+| 2023-10-29 | 676,518 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 292)  
 Sum: 982 (Ranked 256)  

@@ -1,29 +1,29 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 684)  
+Rating: 4.43 (Ranked 685)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,420 |
-| Ranidaphobia | 77.00% | ~1,189 |
+| First Blood | 92.00% | ~1,421 |
+| Ranidaphobia | 77.00% | ~1,190 |
 | Aspiring Editor | 74.00% | ~1,143 |
-| Gun for Hire | 69.00% | ~1,065 |
+| Gun for Hire | 69.00% | ~1,066 |
 | I am the law! | 63.00% | ~973 |
-| Lumberjack | 53.00% | ~818 |
-| Croaked | 48.00% | ~741 |
-| Limp Richard | 48.00% | ~741 |
+| Lumberjack | 52.00% | ~803 |
+| Croaked | 48.00% | ~742 |
+| Limp Richard | 48.00% | ~742 |
 | Exorcist | 47.00% | ~726 |
 | From Darkness to Light | 47.00% | ~726 |
-| Editor Adept | 46.00% | ~710 |
+| Editor Adept | 46.00% | ~711 |
 | Giant Killer | 45.00% | ~695 |
 | Sensei | 43.00% | ~664 |
 | Firestarter | 41.00% | ~633 |
 | The meaning of Kain | 41.00% | ~633 |
 | Technophobe | 40.00% | ~618 |
-| Recycler | 39.00% | ~602 |
-| Are you not entertained? | 35.00% | ~540 |
-| Jarhead | 35.00% | ~540 |
+| Recycler | 39.00% | ~603 |
+| Are you not entertained? | 35.00% | ~541 |
+| Jarhead | 35.00% | ~541 |
 | Ganglord | 34.00% | ~525 |
 | Infiltrator | 34.00% | ~525 |
 | Experienced | 32.00% | ~494 |
@@ -32,7 +32,7 @@ Rating: 4.43 (Ranked 684)
 | Endgame | 27.00% | ~417 |
 | Savior | 27.00% | ~417 |
 | There Can Be Only One! | 25.00% | ~386 |
-| Silent but Violent | 24.00% | ~371 |
+| Silent but Violent | 23.00% | ~355 |
 | Chain Killer | 22.00% | ~340 |
 | The Watchers | 22.00% | ~340 |
 | Commando | 16.00% | ~247 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 684)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,544 (Ranked 227)  
+Progressed: 1,545 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 1,514 | 0 |
 | 2023-10-27 | 1,522 | 0 |
 | 2023-10-28 | 1,535 | 0 |
-| 2023-10-29 | 1,544 | 0 |
+| 2023-10-29 | 1,545 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

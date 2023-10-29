@@ -33,6 +33,7 @@ Rating: 4.57 (Ranked 463)
 | Freedom fighter | 22.00% | ~4 |
 | Defender | 22.00% | ~4 |
 | Pandora's box | 22.00% | ~4 |
+| Safecracker | 22.00% | ~4 |
 | Moneybags | 22.00% | ~4 |
 | King of the handymen | 22.00% | ~4 |
 | Master detective | 22.00% | ~4 |
@@ -41,7 +42,6 @@ Rating: 4.57 (Ranked 463)
 | Titan Lord | 17.00% | ~3 |
 | Terror of the hens | 17.00% | ~3 |
 | Peacekeeper | 17.00% | ~3 |
-| Safecracker | 17.00% | ~3 |
 | Master thief | 17.00% | ~3 |
 | The traveler | 11.00% | ~2 |
 | King Midas | 11.00% | ~2 |

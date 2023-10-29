@@ -19,13 +19,13 @@ Rating: 4.19 (Ranked 905)
 | In the Pipe, Five by Five | 5.00% | ~817 |
 | Desperate Times | 5.00% | ~817 |
 | Keep Fighting | 5.00% | ~213 |
-| You Need a Gun | 4.00% | ~653 |
-| I Do Belong Here | 4.00% | ~653 |
-| Terminated | 4.00% | ~653 |
-| What Lies Beneath | 4.00% | ~653 |
-| Crash Site | 4.00% | ~653 |
-| Full Circle | 4.00% | ~653 |
-| Power Up | 4.00% | ~653 |
+| You Need a Gun | 4.00% | ~654 |
+| I Do Belong Here | 4.00% | ~654 |
+| Terminated | 4.00% | ~654 |
+| What Lies Beneath | 4.00% | ~654 |
+| Crash Site | 4.00% | ~654 |
+| Full Circle | 4.00% | ~654 |
+| Power Up | 4.00% | ~654 |
 | It's Time | 4.00% | ~171 |
 | Giving Back | 3.00% | ~490 |
 | The Commonality | 3.00% | ~490 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,337 (Ranked 140)  
+Progressed: 16,338 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 78 (0.48%) (Ranked 191)
 | 2023-10-26 | 16,290 | 77 |
 | 2023-10-27 | 16,311 | 77 |
 | 2023-10-28 | 16,332 | 78 |
-| 2023-10-29 | 16,337 | 78 |
+| 2023-10-29 | 16,338 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 378)  
 Sum: 462 (Ranked 325)  

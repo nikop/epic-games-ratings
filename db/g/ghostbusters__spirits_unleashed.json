@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 579,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2779,10 +2779,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2591,
       "NumberOfAwardsMax": 293
+    },
+    {
+      "Time": "2023-10-29T15:00:37.8030422+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2594,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2591,
+  "NumberOfAwards": 2594,
   "NumberOfAwardsMax": 293,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2832,7 +2838,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 260
+      "Count": 263
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2859,9 +2865,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28187,
+  "EOS_Progressed": 28194,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16939,6 +16945,11 @@
       "Time": "2023-10-29T14:03:54.8163495+00:00",
       "NumProgressed": 28187,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-29T15:04:09.4647587+00:00",
+      "NumProgressed": 28194,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16950,7 +16961,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "Animated",
@@ -17062,7 +17073,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "Escape_Artist",
@@ -17206,7 +17217,7 @@
       "Name": "Rivalry",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Seasoned",
@@ -17254,7 +17265,7 @@
       "Name": "Stylish",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Summoner",
@@ -17357,16 +17368,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28187,
+      "Progressed": 28194,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-29T04:00:00.863125+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:03:54.816349+00:00",
+  "LastChanged": "2023-10-29T15:00:37.8030415+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:04:09.4647582+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:00:37.4234408+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:03:54.8165509+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:00:37.8030426+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:04:09.464895+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 82.00% | ~28 |
-| A Small Thirsty Thing | 15.00% | ~5 |
+| A Small Thirsty Thing | 18.00% | ~6 |
 | Spirit Within | 12.00% | ~4 |
 | Dousing a Venerable Flame | 9.00% | ~3 |
 | A Sandwyrm's Hoard | 9.00% | ~3 |

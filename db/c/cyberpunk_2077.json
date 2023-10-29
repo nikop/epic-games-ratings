@@ -14366,9 +14366,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894430,
+  "EOS_Progressed": 894443,
   "EOS_Completed": 2732,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1129,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36151,6 +36151,11 @@
       "Time": "2023-10-29T14:04:03.6905855+00:00",
       "NumProgressed": 894430,
       "NumCompleted": 2732
+    },
+    {
+      "Time": "2023-10-29T15:04:18.0319178+00:00",
+      "NumProgressed": 894443,
+      "NumCompleted": 2732
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36347,7 +36352,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7155
+      "UsersEstimate": 7156
     },
     {
       "ID": "Temperance",
@@ -36682,21 +36687,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894430,
+      "Progressed": 894443,
       "Completed": 2732
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23053,
+      "Progressed": 23066,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-29T11:57:32.4022796+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:04:03.6905786+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:04:18.0319172+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:57:35.1810154+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:04:03.6908273+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:57:41.7643129+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:04:18.0321081+00:00"
 }

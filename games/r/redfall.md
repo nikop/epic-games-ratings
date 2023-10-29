@@ -24,9 +24,9 @@ Rating: 3.51 (Ranked 1,026)
 | Neighborhood Revitalization | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.60% | ~11 |
+| Sic Transit Umbra | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |
-| Sic Transit Umbra | 0.50% | ~9 |
 | Good Morning | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Harvest’s End | 0.50% | ~9 |

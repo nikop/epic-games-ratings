@@ -6,20 +6,20 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,502 |
-| Alt+F4 | 7.00% | ~16,368 |
-| Where's that freaking Dwarf? | 6.00% | ~14,030 |
-| Déjà vu | 5.00% | ~11,691 |
-| A beer, two curses, three companions | 4.00% | ~9,353 |
-| Sock! SOCK! | 4.00% | ~9,353 |
-| GG EZ | 4.00% | ~9,353 |
-| Speedrun | 4.00% | ~9,353 |
+| Sowwy! | 34.00% | ~79,507 |
+| Alt+F4 | 7.00% | ~16,369 |
+| Where's that freaking Dwarf? | 6.00% | ~14,031 |
+| Déjà vu | 5.00% | ~11,692 |
+| A beer, two curses, three companions | 4.00% | ~9,354 |
+| Sock! SOCK! | 4.00% | ~9,354 |
+| GG EZ | 4.00% | ~9,354 |
+| Speedrun | 4.00% | ~9,354 |
+| Way of the Wimp | 3.00% | ~7,015 |
 | The plot thickens... At the tavern | 3.00% | ~7,015 |
 | DM intervention | 3.00% | ~7,015 |
 | Fireproof Wizardess | 3.00% | ~7,015 |
 | Livin' in a dwarven paradise | 2.00% | ~4,677 |
 | Shiny and Crôm | 2.00% | ~4,677 |
-| Way of the Wimp | 2.00% | ~4,677 |
 | The demons' feast | 2.00% | ~4,677 |
 | The Great Library | 2.00% | ~4,677 |
 | Torture and Sensibility | 2.00% | ~4,677 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 1.00% | ~2,338 |
 | Lust and Debauchery | 1.00% | ~2,338 |
 | Material Girl | 1.00% | ~2,338 |
-| Gargantua | 0.90% | ~2,104 |
+| Gargantua | 0.90% | ~2,105 |
 | In Navalu's footsteps | 0.80% | ~1,871 |
 | Lëgal Legend | 0.70% | ~1,637 |
 | We come in peace | 0.60% | ~1,403 |
@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | Law and Order | 0.50% | ~1,169 |
 | Scholar of the Lands of Fangh | 0.40% | ~935 |
 | It's been a hard day's night | 0.40% | ~935 |
-| Friendly fire | 0.30% | ~701 |
-| I'd rather... Just... Sing! | 0.30% | ~701 |
-| The number of the counting shalt be 7 | 0.30% | ~701 |
-| Inception | 0.30% | ~701 |
+| Friendly fire | 0.30% | ~702 |
+| I'd rather... Just... Sing! | 0.30% | ~702 |
+| The number of the counting shalt be 7 | 0.30% | ~702 |
+| Inception | 0.30% | ~702 |
 | Free customer service | 0.20% | ~468 |
 | Kudos from your DM | 0.20% | ~468 |
 | 100% satisfaction guarantee | 0.20% | ~468 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,829 (Ranked 60)  
+Progressed: 233,845 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 7 (0.00%) (Ranked 331)
 | 2023-10-26 | 233,279 | 7 |
 | 2023-10-27 | 233,450 | 7 |
 | 2023-10-28 | 233,691 | 7 |
-| 2023-10-29 | 233,829 | 7 |
+| 2023-10-29 | 233,845 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 268)  
 Sum: 446 (Ranked 327)  

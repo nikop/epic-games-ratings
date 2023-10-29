@@ -26,7 +26,7 @@
 | Irene Court-Smyth | 23.00% | ~6 |
 | The Apartment | 23.00% | ~6 |
 | A rude awakening | 19.00% | ~5 |
-| Nathaniel Dryden | 15.00% | ~4 |
+| Nathaniel Dryden | 19.00% | ~5 |
 | Well-acquainted | 12.00% | ~3 |
 | Truth from within | 12.00% | ~3 |
 | Anastasia Babanin | 12.00% | ~3 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 494)  
+Progressed: 26 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |

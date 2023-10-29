@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 3476,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 3478,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -591,7 +591,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18702,
+  "EOS_Progressed": 18701,
   "EOS_Completed": 32,
   "EOS_NewPlayers": -89,
   "EOS_NewCompleters": 0,
@@ -8706,6 +8706,11 @@
       "Time": "2023-10-29T14:03:32.2493171+00:00",
       "NumProgressed": 18702,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-10-29T15:03:47.3378631+00:00",
+      "NumProgressed": 18701,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -8725,7 +8730,7 @@
       "Name": "Helper of the People",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7667
     },
     {
       "ID": "ach.030.deertastic",
@@ -8749,7 +8754,7 @@
       "Name": "Builder",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 16084
+      "UsersEstimate": 16083
     },
     {
       "ID": "ach.060.goingdistance",
@@ -8781,7 +8786,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4675
     },
     {
       "ID": "ach.100.indecisive",
@@ -8789,7 +8794,7 @@
       "Name": "Indecisive",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5798
+      "UsersEstimate": 5797
     },
     {
       "ID": "ach.110.multiverse",
@@ -8805,7 +8810,7 @@
       "Name": "Simplification",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6545
     },
     {
       "ID": "ach.130.minimalist",
@@ -8813,7 +8818,7 @@
       "Name": "Minimalist",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 17580
+      "UsersEstimate": 17579
     },
     {
       "ID": "ach.140.legacy",
@@ -8821,7 +8826,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 102,
       "XP": 60,
-      "UsersEstimate": 19076
+      "UsersEstimate": 19075
     },
     {
       "ID": "ach.150.pocket",
@@ -8837,7 +8842,7 @@
       "Name": "Box of Trains",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6545
     },
     {
       "ID": "ach.170.room",
@@ -8861,7 +8866,7 @@
       "Name": "The scenic route",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5423
     },
     {
       "ID": "ach.200.light",
@@ -8869,7 +8874,7 @@
       "Name": "Let There be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6358
     },
     {
       "ID": "ach.210.baron",
@@ -8877,7 +8882,7 @@
       "Name": "Oil Baron",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8228
     },
     {
       "ID": "ach.220.hot",
@@ -8885,7 +8890,7 @@
       "Name": "Hot Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5984
     },
     {
       "ID": "ach.230.infinity",
@@ -8901,7 +8906,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8228
     },
     {
       "ID": "ach.250.downfall",
@@ -8909,7 +8914,7 @@
       "Name": "Before the Downfall",
       "Percentage": 97,
       "XP": 60,
-      "UsersEstimate": 18141
+      "UsersEstimate": 18140
     },
     {
       "ID": "ach.260.investor",
@@ -8965,7 +8970,7 @@
       "Name": "Industrialist",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4863
+      "UsersEstimate": 4862
     },
     {
       "ID": "ach.330.water",
@@ -8973,7 +8978,7 @@
       "Name": "Money like Water",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 17767
+      "UsersEstimate": 17766
     },
     {
       "ID": "ach.340.steel",
@@ -9012,7 +9017,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18702,
+      "Progressed": 18701,
       "Completed": 32
     }
   ],
@@ -9020,8 +9025,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:03:32.2493165+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:03:47.3378626+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:10.9481725+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:57:34.2973635+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:03:32.2494368+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:57:40.1889414+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:03:47.3379471+00:00"
 }

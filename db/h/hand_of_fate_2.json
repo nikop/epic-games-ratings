@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663927,
+  "EOS_Progressed": 663928,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19178,6 +19178,11 @@
       "Time": "2023-10-29T14:06:13.8101141+00:00",
       "NumProgressed": 663927,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-29T15:06:09.1336349+00:00",
+      "NumProgressed": 663928,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19189,7 +19194,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478027
+      "UsersEstimate": 478028
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -19469,7 +19474,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59753
+      "UsersEstimate": 59754
     },
     {
       "ID": "Achievement_37_Champion",
@@ -19572,15 +19577,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663927,
+      "Progressed": 663928,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:06:13.8101137+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:06:09.1336339+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:58:26.6419914+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:06:13.8103316+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:58:36.9287944+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:06:09.1337899+00:00"
 }

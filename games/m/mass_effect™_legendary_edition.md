@@ -69,11 +69,11 @@
 | Bringer of War | 31.00% | ~261 |
 | Friend or Foe | 30.00% | ~253 |
 | Doppelganger | 30.00% | ~253 |
+| Mission Accomplished | 29.00% | ~244 |
+| Suicide Mission | 29.00% | ~244 |
 | Mobilizer | 29.00% | ~244 |
 | Untouchable | 28.00% | ~236 |
 | First Aid Specialist | 28.00% | ~236 |
-| Mission Accomplished | 28.00% | ~236 |
-| Suicide Mission | 28.00% | ~236 |
 | Against All Odds | 28.00% | ~236 |
 | Giant Killer | 27.00% | ~228 |
 | A House Divided | 27.00% | ~228 |
@@ -83,8 +83,8 @@
 | Liberator | 26.00% | ~219 |
 | Tunnel Rat | 25.00% | ~211 |
 | Pathfinder | 24.00% | ~202 |
+| Arbiter | 24.00% | ~202 |
 | Savior | 23.00% | ~194 |
-| Arbiter | 23.00% | ~194 |
 | Lost and Found | 23.00% | ~194 |
 | Paramour II | 22.00% | ~185 |
 | Party Crasher | 22.00% | ~185 |

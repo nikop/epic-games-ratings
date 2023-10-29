@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1191,9 +1191,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1319,9 +1319,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1343,9 +1343,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1366,8 +1366,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:04:17.0737028+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:04:31.6826281+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:00:08.209663+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:04:17.0737349+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:00:09.7230867+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:04:31.6826575+00:00"
 }

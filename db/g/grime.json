@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155380,
+  "EOS_Progressed": 155389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1430,
+  "EOS_NewPlayers": 1421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13528,6 +13528,11 @@
       "Time": "2023-10-29T14:05:43.5664167+00:00",
       "NumProgressed": 155380,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T15:05:38.6916151+00:00",
+      "NumProgressed": 155389,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13603,7 +13608,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13715,7 +13720,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -13755,7 +13760,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13803,7 +13808,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13906,21 +13911,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154963,
+      "Progressed": 154972,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155380,
+      "Progressed": 155389,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:05:43.5664162+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:05:38.6916146+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:57:24.4283485+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:05:43.5665843+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:57:29.2583092+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:05:38.691729+00:00"
 }

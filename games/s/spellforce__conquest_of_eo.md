@@ -19,6 +19,7 @@
 | Home Sweet Home | 60.00% | ~3 |
 | The Circle | 60.00% | ~3 |
 | Sevenkeeps Seat of Kings | 60.00% | ~3 |
+| Friend of Gillyshire | 60.00% | ~3 |
 | Friend of Sevenkeeps | 60.00% | ~3 |
 | Get out of here! | 60.00% | ~3 |
 | Alchemist's Apprentice | 40.00% | ~2 |
@@ -32,7 +33,6 @@
 | Breaking the circle | 40.00% | ~2 |
 | A Master of Magic | 40.00% | ~2 |
 | Balanced | 40.00% | ~2 |
-| Friend of Gillyshire | 40.00% | ~2 |
 | Friend of Connach | 40.00% | ~2 |
 | Bad JuJu | 40.00% | ~2 |
 | Necromancer's Apprentice | 20.00% | ~1 |

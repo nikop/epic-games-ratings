@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:06:04.0853462+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:05:59.3419133+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:59:13.531036+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:06:04.0853917+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:59:14.4264417+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:05:59.3419443+00:00"
 }

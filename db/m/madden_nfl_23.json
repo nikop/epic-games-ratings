@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -769,7 +769,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3061,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -4264,6 +4264,11 @@
       "Time": "2023-10-29T12:08:17.0469364+00:00",
       "NumProgressed": 3061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T15:07:34.8427317+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4308,7 +4313,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "achievement_14",
@@ -4316,7 +4321,7 @@
       "Name": "Dealmaker",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "achievement_15",
@@ -4364,7 +4369,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_20",
@@ -4388,7 +4393,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_4",
@@ -4404,7 +4409,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_6",
@@ -4412,7 +4417,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_7",
@@ -4443,7 +4448,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 0
     }
   ],
@@ -4451,8 +4456,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-28T23:02:39.1539263+00:00",
-  "LastChanged_Achievements": "2023-10-29T14:07:39.6735559+00:00",
+  "LastChanged_Achievements": "2023-10-29T15:07:34.8427312+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-10-29T14:02:44.007164+00:00",
-  "LastUpdate_Achievements": "2023-10-29T14:07:39.6736381+00:00"
+  "LastUpdate_Ratings": "2023-10-29T15:02:21.9158902+00:00",
+  "LastUpdate_Achievements": "2023-10-29T15:07:34.8427707+00:00"
 }
